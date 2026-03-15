@@ -1,0 +1,11 @@
+corpus:
+  raw_output: data/raw/papers.jsonl
+  manifest_output: docs/corpus_manifest.csv
+
+sources:
+  pmc:
+    enabled: true
+    from_date: "2025-01-01"
+    max_papers: 3000
+    require_pdf: false
+    skip_empty_abstract: true
