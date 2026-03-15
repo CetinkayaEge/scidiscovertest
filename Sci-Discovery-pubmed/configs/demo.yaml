@@ -17,10 +17,12 @@ retrieval:
   model_name: sentence-transformers/all-MiniLM-L6-v2
   top_k: 5
 
+
 sources:
   pmc:
     enabled: true
     from_date: "2025-01-01"
+    until_date: "2025-12-31"
     max_papers: 3000
     require_pdf: false
     skip_empty_abstract: true

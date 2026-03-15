@@ -154,53 +154,59 @@ def parse_oa_response(xml_text: str) -> Tuple[List[OARecord], Optional[str]]:
     return records, resumption_token
 
 
+from datetime import datetime, timedelta
+
+
 def list_oa_records(
     from_date: str,
     until_date: Optional[str],
     max_records: int,
     require_pdf: bool = False,
 ) -> List[OARecord]:
-    """
-    Enumerate OA records from PMC OA Web Service.
-    """
-    params: Dict[str, str] = {"from": from_date}
+
+    start = datetime.strptime(from_date, "%Y-%m-%d")
+
     if until_date:
-        params["until"] = until_date
-    if require_pdf:
-        params["format"] = "pdf"
+        end = datetime.strptime(until_date, "%Y-%m-%d")
+    else:
+        end = datetime.today()
 
     all_records: List[OARecord] = []
     seen: set[str] = set()
-    next_token: Optional[str] = None
 
-    while len(all_records) < max_records:
-        if next_token:
-            req_params = {"resumptionToken": next_token}
-        else:
-            req_params = params
+    current = start
 
-        # DEBUG
-        print(f"DEBUG Request → {req_params}", file=sys.stderr)
+    while current < end and len(all_records) < max_records:
 
-        resp = safe_request(OA_BASE, params=req_params)
-        batch, next_token = parse_oa_response(resp.text)
+        next_month = (current.replace(day=28) + timedelta(days=4)).replace(day=1)
 
-        # DEBUG
-        print(f"DEBUG Received → {len(batch)} records | next_token={next_token}", file=sys.stderr)
+        params: Dict[str, str] = {
+            "from": current.strftime("%Y-%m-%d"),
+            "until": next_month.strftime("%Y-%m-%d"),
+        }
 
-        if not batch:
-            break
+        if require_pdf:
+            params["format"] = "pdf"
+
+        print(f"\nDEBUG Month Request → {params}", file=sys.stderr)
+
+        resp = safe_request(OA_BASE, params=params)
+        batch, _ = parse_oa_response(resp.text)
+
+        print(f"DEBUG Received → {len(batch)} records", file=sys.stderr)
 
         for rec in batch:
+
             if rec.pmcid in seen:
                 continue
+
             seen.add(rec.pmcid)
             all_records.append(rec)
+
             if len(all_records) >= max_records:
                 break
 
-        if not next_token:
-            break
+        current = next_month
 
     return all_records[:max_records]
 
