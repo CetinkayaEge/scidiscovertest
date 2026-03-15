@@ -179,8 +179,14 @@ def list_oa_records(
         else:
             req_params = params
 
+        # DEBUG
+        print(f"DEBUG Request → {req_params}", file=sys.stderr)
+
         resp = safe_request(OA_BASE, params=req_params)
         batch, next_token = parse_oa_response(resp.text)
+
+        # DEBUG
+        print(f"DEBUG Received → {len(batch)} records | next_token={next_token}", file=sys.stderr)
 
         if not batch:
             break
