@@ -1,0 +1,44 @@
+corpus:
+  raw_output: data/raw/papers.jsonl
+  manifest_output: docs/corpus_manifest.csv
+
+chunking:
+  input_path: data/raw/papers.jsonl
+  output_path: data/processed/chunks.jsonl
+  chunk_size: 200
+  overlap: 40
+
+retrieval:
+  chunks_input: data/processed/chunks.jsonl
+  papers_input: data/raw/papers.jsonl
+  embeddings_output: embeddings/chunks.npy
+  index_output: index/faiss.index
+  chunk_ids_output: index/chunk_ids.txt
+  meta_output: index/index.meta.json
+  traces_output: logs/retrieval_traces.jsonl
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  top_k: 5
+
+
+sources:
+  pmc:
+    enabled: true
+    from_date: "2025-01-01"
+    until_date: "2025-12-31"
+    max_papers: 3000
+    require_pdf: false
+    skip_empty_abstract: true
+
+  openalex:
+    enabled: true
+    queries:
+      - "sustainability"
+      - "healthcare"
+      - "renewable energy"
+      - "climate change"
+      - "public health"
+      - "environmental science"
+    from_year: 2023
+    max_papers: 3000
+    is_oa: true
+    has_abstract: true
