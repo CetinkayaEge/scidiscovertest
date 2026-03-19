@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+
+# Environment
+.env
+
+# Generated data (large)
+data/raw/papers.jsonl
+data/processed/chunks.jsonl
+
+# Embeddings and index (large binary)
+embeddings/chunks.npy
+index/faiss.index
+
+# Runtime logs and outputs
+logs/
+outputs/
+
+
+
+#macos bs
+.DS_Store
