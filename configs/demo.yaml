@@ -1,3 +1,7 @@
+llm:
+  model: gemini-3-flash-preview
+  max_tokens: 16000
+
 corpus:
   raw_output: data/raw/papers.jsonl
   manifest_output: docs/corpus_manifest.csv

@@ -4,4 +4,6 @@ numpy
 faiss-cpu
 sentence-transformers
 python-dotenv
+anthropic
+google-genai
 

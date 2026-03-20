@@ -66,6 +66,45 @@ python -m scidiscover.retrieval.demo_query \
     --query "machine learning in healthcare" --top-k 5
 ```
 
+## LLM Configuration
+
+The pipeline supports two LLM providers. Set the relevant API key in your `.env`.
+### API Keys
+
+
+# .env
+ANTHROPIC_API_KEY=sk-ant-...
+GOOGLE_API_KEY=AIza...
+
+
+
+
+Available models:
+
+| Model | Provider | Required key |
+|---|---|---|
+| `claude-opus-4-6` | Anthropic | `ANTHROPIC_API_KEY` |
+| `claude-sonnet-4-6` | Anthropic | `ANTHROPIC_API_KEY` |
+| `claude-haiku-4-5` | Anthropic | `ANTHROPIC_API_KEY` |
+| `gemini-3-pro-preview` | Google | `GOOGLE_API_KEY` |
+| `gemini-3-flash-preview` | Google | `GOOGLE_API_KEY` |
+
+### Using `call_llm` directly in code
+
+```python
+from utils.llm_client import call_llm
+
+result = call_llm(
+    system="You are a scientific assistant.",
+    user="Summarize the key findings of this paper...",
+    model="gemini-3-flash-preview",  # or any model from the table above
+    max_tokens=16000,                # optional, defaults to 16000
+)
+print(result)
+```
+
+Routing is automatic: models prefixed `claude-` go to Anthropic, `gemini-` go to Google.
+
 ## Configuration
 
 All pipeline parameters are in `configs/demo.yaml`:
