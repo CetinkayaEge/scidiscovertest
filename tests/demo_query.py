@@ -56,11 +56,11 @@ def main():
         text = r["text"].strip()
 
         if r["section"] == "TITLE":
-            print(f"\n🧾 Title:\n{text}")
+            print(f"\n Title:\n{text}")
         elif r["section"] == "ABSTRACT":
-            print(f"\n📄 Abstract:\n{text[:300]}...")
+            print(f"\n Abstract:\n{text[:300]}...")
         else:
-            print(f"\n📌 Content:\n{text[:300]}...")
+            print(f"\n Content:\n{text[:300]}...")
 
     print("=" * 80)
     # ---- SUMMARIZER (AGENT) ----
