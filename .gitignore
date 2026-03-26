@@ -1,13 +1,7 @@
-# Python
+embeddings/
+index/
+logs/
+outputs/
 __pycache__/
 *.pyc
-*.pyo
-*.egg-info/
-venv/
-.venv/
-
-# Environment
 .env
-
-# OS
-.DS_Store
