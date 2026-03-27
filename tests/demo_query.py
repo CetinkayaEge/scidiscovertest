@@ -1,5 +1,8 @@
 import argparse
 import yaml
+from dotenv import load_dotenv
+
+load_dotenv()
 
 from scidiscover.agents.retriever import Retriever
 from scidiscover.agents.retriever_agent import RetrieverAgent
@@ -71,7 +74,7 @@ def main():
     for item in summaries:
         print("=" * 80)
         print(f"Paper: {item['paper_id']}")
-        print(item["summary"])
+        print(item["summary_text"])
         citations = [e["chunk_id"] for e in item["evidence"]]
         print("Citations:", citations)
         print()
