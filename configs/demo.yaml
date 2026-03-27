@@ -23,6 +23,16 @@ retrieval:
   model_name: sentence-transformers/all-MiniLM-L6-v2
   top_k: 5
 
+summarizer:
+  prompt_path: prompts/summarizer.txt
+  traces_output: logs/summarizer_traces.jsonl
+  output_path: outputs/paper_summaries.json
+
+synthesizer:
+  prompt_path: prompts/synthesizer.txt
+  traces_output: logs/synthesizer_traces.jsonl
+  output_path: outputs/synthesis_result.json
+
 
 sources:
   pmc:
