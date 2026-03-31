@@ -38,7 +38,6 @@ def _call_anthropic(system: str, user: str, model: str, max_tokens: int) -> str:
     response = client.messages.create(
         model=model,
         max_tokens=max_tokens,
-        thinking={"type": "adaptive"},
         system=system,
         messages=[{"role": "user", "content": user}],
     )

@@ -1,9 +1,13 @@
 import argparse
 import yaml
+from dotenv import load_dotenv
+
+load_dotenv()
 
 from scidiscover.agents.retriever import Retriever
 from scidiscover.agents.retriever_agent import RetrieverAgent
 from scidiscover.agents.summarizer import SummarizerAgent
+from scidiscover.agents.synthesizer import SynthesizerAgent
 
 
 def load_config(path):
@@ -33,8 +37,14 @@ def main():
     # ---- INIT AGENTS ----
     retriever_agent = RetrieverAgent(retriever)
     summarizer_agent = SummarizerAgent(
-        prompt_path="prompts/summarizer.txt",
-        traces_output="logs/summarizer_traces.jsonl",
+        prompt_path=config["summarizer"]["prompt_path"],
+        traces_output=config["summarizer"]["traces_output"],
+        output_path=config["summarizer"]["output_path"],
+    )
+    synthesizer_agent = SynthesizerAgent(
+        prompt_path=config["synthesizer"]["prompt_path"],
+        traces_output=config["synthesizer"]["traces_output"],
+        output_path=config["synthesizer"]["output_path"],
     )
 
     # ---- RETRIEVE (AGENT) ----
@@ -71,10 +81,33 @@ def main():
     for item in summaries:
         print("=" * 80)
         print(f"Paper: {item['paper_id']}")
-        print(item["summary"])
+        print(item["summary_text"])
         citations = [e["chunk_id"] for e in item["evidence"]]
         print("Citations:", citations)
         print()
+
+    # ---- SYNTHESIZER (AGENT) ----
+    print("\n\n===== SYNTHESIS =====\n")
+
+    synthesis = synthesizer_agent.run({
+        "query": args.query,
+        "paper_summaries": summaries,
+    })
+
+    print("Draft Answer:")
+    print(synthesis["draft_answer"])
+    print()
+    print("Key Claims:")
+    for i, kc in enumerate(synthesis["key_claims"], start=1):
+        print(f"  {i}. {kc['claim']}")
+        print(f"     Citations: {kc['citation_ids']}")
+    print()
+    print("Limitations & Uncertainty:")
+    for lim in synthesis["limitations_and_uncertainty"]:
+        print(f"  - {lim}")
+    print()
+    print(f"Evidence chunks used: {len(synthesis['evidence'])}")
+    print("=" * 80)
 
 
 if __name__ == "__main__":

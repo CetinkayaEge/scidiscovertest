@@ -1,8 +1,10 @@
 import json
 from collections import defaultdict
+from datetime import datetime, timezone
 from pathlib import Path
 
 from utils.llm_client import call_llm
+from utils.schemas import validate_summary_pack
 
 
 class SummarizerAgent:
@@ -24,18 +26,13 @@ class SummarizerAgent:
             grouped[ch["paper_id"]].append(ch)
         return dict(grouped)
 
-    # 🔥 TITLE'ları filtrele (ÇOK ÖNEMLİ)
     def select_best_chunks(self, chunks):
-        # önce ABSTRACT olanları al
+        # Prefer ABSTRACT chunks; fall back to whatever is available
         abstracts = [c for c in chunks if c["section"] == "ABSTRACT"]
-
         if abstracts:
             return abstracts[:3]
-
-        # yoksa diğerlerini kullan
         return chunks[:3]
 
-    # 🔥 daha temiz context
     def build_context(self, chunks):
         parts = []
         for ch in chunks:
@@ -54,15 +51,20 @@ class SummarizerAgent:
             context=context
         )
 
-        response = call_llm(
-            system=prompt,
-            user="",
-            model="gemini-3-flash-preview"
-        )
+        try:
+            response = call_llm(
+                system=prompt,
+                user="",
+                model="gemini-3-flash-preview"
+            )
+        except Exception as e:
+            response = f"[LLM ERROR: {e}]"
 
         return {
             "paper_id": paper_id,
-            "summary": response,
+            "summary_text": response,
+            "url": selected_chunks[0].get("url", "") if selected_chunks else "",
+            "doi": selected_chunks[0].get("doi", "") if selected_chunks else "",
             "evidence": [
                 {
                     "chunk_id": ch["chunk_id"],
@@ -76,9 +78,19 @@ class SummarizerAgent:
 
     def log_trace(self, query, results):
         trace = {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
             "query": query,
             "num_papers": len(results),
-            "papers": results,
+            "papers": [
+                {
+                    "paper_id": r["paper_id"],
+                    "summary_text": r["summary_text"],
+                    "url": r.get("url", ""),
+                    "doi": r.get("doi", ""),
+                    "evidence": r.get("evidence", []),
+                }
+                for r in results
+            ],
         }
 
         Path(self.traces_output).parent.mkdir(parents=True, exist_ok=True)
@@ -95,6 +107,9 @@ class SummarizerAgent:
         query = evidence_pack["query"]
         chunks = evidence_pack["chunks"]
 
+        if not chunks:
+            return []
+
         grouped = self.group_by_paper(chunks)
 
         results = []
@@ -103,6 +118,7 @@ class SummarizerAgent:
             summary = self.summarize_single_paper(query, paper_id, chs)
             results.append(summary)
 
+        validate_summary_pack(results)
         self.log_trace(query, results)
         self.save_output(results)
 
