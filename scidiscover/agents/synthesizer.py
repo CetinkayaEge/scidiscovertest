@@ -100,11 +100,7 @@ class SynthesizerAgent:
         )
 
         try:
-            response = call_llm(
-                system=prompt,
-                user="",
-                model="gemini-3-flash-preview",
-            )
+            response = call_llm(system=prompt, user="")
         except Exception as e:
             return {
                 "draft_answer": f"[LLM ERROR: {e}]",

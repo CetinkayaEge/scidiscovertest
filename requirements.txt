@@ -6,4 +6,5 @@ sentence-transformers
 python-dotenv
 anthropic
 google-genai
+openai
 

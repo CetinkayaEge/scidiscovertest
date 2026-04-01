@@ -1,12 +1,23 @@
-"""Multi-provider LLM client (Anthropic + Google Gemini)."""
+"""Multi-provider LLM client """
 
 import os
 import anthropic
+import openai
 from google import genai
 from google.genai import types as genai_types
 
 _anthropic_client: anthropic.Anthropic | None = None
 _gemini_client: genai.Client | None = None
+_local_client: openai.OpenAI | None = None
+
+_model: str | None = None
+_max_tokens: int | None = None
+
+
+def configure_llm(model: str, max_tokens: int) -> None:
+    global _model, _max_tokens
+    _model = model
+    _max_tokens = max_tokens
 
 
 def _get_anthropic_client() -> anthropic.Anthropic:
@@ -31,6 +42,34 @@ def _get_gemini_client() -> genai.Client:
             )
         _gemini_client = genai.Client(api_key=api_key)
     return _gemini_client
+
+
+def _get_local_client() -> openai.OpenAI:
+    global _local_client
+    if _local_client is None:
+        base_url = os.environ.get("LOCAL_MODEL_URL")
+        api_key = os.environ.get("LOCAL_MODEL_API_KEY", "not-needed")
+        if not base_url:
+            raise EnvironmentError(
+                "LOCAL_MODEL_URL is not set. Add your Cloudflare tunnel URL to your .env file."
+            )
+        _local_client = openai.OpenAI(base_url=base_url, api_key=api_key)
+    return _local_client
+
+
+def _call_local(system: str, user: str, model: str, max_tokens: int) -> str:
+    client = _get_local_client()
+    # Strip the 'local-' prefix to get the actual model name
+    actual_model = model[len("local-"):]
+    response = client.chat.completions.create(
+        model=actual_model,
+        max_tokens=max_tokens,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+    )
+    return response.choices[0].message.content or ""
 
 
 def _call_anthropic(system: str, user: str, model: str, max_tokens: int) -> str:
@@ -60,24 +99,27 @@ def _call_gemini(system: str, user: str, model: str, max_tokens: int) -> str:
     return response.text
 
 
-def call_llm(
-    system: str,
-    user: str,
-    model: str,
-    max_tokens: int = 16000,
-) -> str:
-    """Call the appropriate LLM provider based on the model name.
+def call_llm(system: str, user: str) -> str:
+    """Call the appropriate LLM provider based on the configured model.
 
     Model routing:
       - 'claude-*'  → Anthropic (requires ANTHROPIC_API_KEY)
       - 'gemini-*'  → Google Gemini (requires GOOGLE_API_KEY)
+      - 'local-*'   → Local model via Cloudflare tunnel (requires LOCAL_MODEL_URL)
+
+    Must call configure_llm() before using this function.
     """
-    if model.startswith("claude-"):
-        return _call_anthropic(system, user, model, max_tokens)
-    elif model.startswith("gemini-"):
-        return _call_gemini(system, user, model, max_tokens)
+    if _model is None or _max_tokens is None:
+        raise RuntimeError("call_llm used before configure_llm() was called.")
+
+    if _model.startswith("claude-"):
+        return _call_anthropic(system, user, _model, _max_tokens)
+    elif _model.startswith("gemini-"):
+        return _call_gemini(system, user, _model, _max_tokens)
+    elif _model.startswith("local-"):
+        return _call_local(system, user, _model, _max_tokens)
     else:
         raise ValueError(
-            f"Unknown model '{model}'. "
-            "Model must start with 'claude-' or 'gemini-'."
+            f"Unknown model '{_model}'. "
+            "Model must start with 'claude-', 'gemini-', or 'local-'."
         )

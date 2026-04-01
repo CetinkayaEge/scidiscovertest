@@ -1,6 +1,6 @@
 llm:
-  model: gemini-3-flash-preview
-  max_tokens: 16000
+  model: local-Qwen/Qwen2.5-3B-Instruct
+  max_tokens: 2048
 
 corpus:
   raw_output: data/raw/papers.jsonl

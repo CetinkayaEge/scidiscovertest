@@ -8,6 +8,7 @@ from scidiscover.agents.retriever import Retriever
 from scidiscover.agents.retriever_agent import RetrieverAgent
 from scidiscover.agents.summarizer import SummarizerAgent
 from scidiscover.agents.synthesizer import SynthesizerAgent
+from utils.llm_client import configure_llm
 
 
 def load_config(path):
@@ -35,6 +36,7 @@ def main():
     )
 
     # ---- INIT AGENTS ----
+    configure_llm(config["llm"]["model"], config["llm"]["max_tokens"])
     retriever_agent = RetrieverAgent(retriever)
     summarizer_agent = SummarizerAgent(
         prompt_path=config["summarizer"]["prompt_path"],

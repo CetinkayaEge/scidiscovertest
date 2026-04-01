@@ -52,11 +52,7 @@ class SummarizerAgent:
         )
 
         try:
-            response = call_llm(
-                system=prompt,
-                user="",
-                model="gemini-3-flash-preview"
-            )
+            response = call_llm(system=prompt, user="")
         except Exception as e:
             response = f"[LLM ERROR: {e}]"
 

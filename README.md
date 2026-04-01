@@ -68,42 +68,52 @@ python -m scidiscover.retrieval.demo_query \
 
 ## LLM Configuration
 
-The pipeline supports two LLM providers. Set the relevant API key in your `.env`.
+The pipeline supports three LLM providers. Set the relevant keys in your `.env`.
+
 ### API Keys
 
-
+```bash
 # .env
 ANTHROPIC_API_KEY=sk-ant-...
 GOOGLE_API_KEY=AIza...
 
+# Local model served via Cloudflare tunnel (e.g. from Google Colab)
+LOCAL_MODEL_URL=https://<your-tunnel>.trycloudflare.com/v1
+LOCAL_MODEL_API_KEY=<your-key>
 
 
 
-Available models:
+### Available models
 
-| Model | Provider | Required key |
-|---|---|---|
-| `claude-opus-4-6` | Anthropic | `ANTHROPIC_API_KEY` |
-| `claude-sonnet-4-6` | Anthropic | `ANTHROPIC_API_KEY` |
-| `claude-haiku-4-5` | Anthropic | `ANTHROPIC_API_KEY` |
-| `gemini-3-pro-preview` | Google | `GOOGLE_API_KEY` |
-| `gemini-3-flash-preview` | Google | `GOOGLE_API_KEY` |
+| Prefix | Example model | Provider | Required env var |
+|---|---|---|---|
+| `claude-*` | `claude-sonnet-4-6` | Anthropic | `ANTHROPIC_API_KEY` |
+| `gemini-*` | `gemini-3-flash-preview` | Google | `GOOGLE_API_KEY` |
+| `local-*` | `local-Qwen/Qwen2.5-3B-Instruct` | Local via Cloudflare | `LOCAL_MODEL_URL` |
+
+Routing is automatic based on the model name prefix. Set the active model and token limit in `configs/demo.yaml`:
+
+```yaml
+llm:
+  model: local-Qwen/Qwen2.5-3B-Instruct  # or claude-*, gemini-*
+  max_tokens: 2048
+```
 
 ### Using `call_llm` directly in code
 
+`call_llm` reads the model and max_tokens from the module-level config set by `configure_llm`. Call `configure_llm` once at startup before any `call_llm` calls.
+
 ```python
-from utils.llm_client import call_llm
+from utils.llm_client import configure_llm, call_llm
+
+configure_llm(model="local-Qwen/Qwen2.5-3B-Instruct", max_tokens=2048)
 
 result = call_llm(
     system="You are a scientific assistant.",
     user="Summarize the key findings of this paper...",
-    model="gemini-3-flash-preview",  # or any model from the table above
-    max_tokens=16000,                # optional, defaults to 16000
 )
 print(result)
 ```
-
-Routing is automatic: models prefixed `claude-` go to Anthropic, `gemini-` go to Google.
 
 ## Configuration
 
