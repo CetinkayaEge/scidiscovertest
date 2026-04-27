@@ -9,6 +9,7 @@ from scidiscover.agents.retriever_agent import RetrieverAgent
 from scidiscover.agents.summarizer import SummarizerAgent
 from scidiscover.agents.synthesizer import SynthesizerAgent
 from scidiscover.agents.reranker import RerankerAgent
+from scidiscover.agents.verifier import VerifierAgent
 from utils.llm_client import configure_llm
 
 
@@ -48,6 +49,12 @@ def main():
         prompt_path=config["synthesizer"]["prompt_path"],
         traces_output=config["synthesizer"]["traces_output"],
         output_path=config["synthesizer"]["output_path"],
+    )
+    verifier_agent = VerifierAgent(
+        prompt_path=config["verifier"]["prompt_path"],
+        traces_output=config["verifier"]["traces_output"],
+        verification_output=config["verifier"]["verification_output"],
+        answers_output=config["verifier"]["answers_output"],
     )
 
     # ---- RETRIEVE (AGENT) ----
@@ -123,6 +130,28 @@ def main():
         print(f"  - {lim}")
     print()
     print(f"Evidence chunks used: {len(synthesis['evidence'])}")
+    print("=" * 80)
+
+    # ---- VERIFIER (AGENT) ----
+    print("\n\n===== VERIFICATION =====\n")
+
+    verified = verifier_agent.run({
+        "synthesis": synthesis,
+        "evidence_pack": evidence_pack,
+    })
+
+    print("Final Answer:")
+    print(verified["final_answer"])
+    print()
+    print("Verified Claims:")
+    for i, kc in enumerate(verified["key_claims"], start=1):
+        print(f"  {i}. [{kc['status']}] {kc['claim']}")
+        print(f"     Notes: {kc['notes']}")
+        print(f"     Citations: {kc['citation_ids']}")
+    print()
+    vs = verified["verification_summary"]
+    print(f"Citation Coverage: {vs['citation_coverage']:.2f}  |  Support Rate: {vs['support_rate']:.2f}")
+    print(f"SUPPORTED={vs['supported']}  UNSUPPORTED={vs['unsupported']}  CONFLICT={vs['conflict']}  UNKNOWN={vs['unknown']}")
     print("=" * 80)
 
 

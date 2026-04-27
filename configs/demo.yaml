@@ -1,6 +1,6 @@
 llm:
-  model: local-Qwen/Qwen2.5-3B-Instruct
-  max_tokens: 2048
+  model: gemini-2.5-flash
+  max_tokens: 4096
 
 corpus:
   raw_output: data/raw/papers.jsonl
@@ -26,7 +26,7 @@ retrieval:
 reranker:
   enabled: true
   model_name: cross-encoder/ms-marco-MiniLM-L-6-v2
-  top_k: 5
+  top_k: 10
 
 summarizer:
   prompt_path: prompts/summarizer.txt
@@ -37,6 +37,12 @@ synthesizer:
   prompt_path: prompts/synthesizer.txt
   traces_output: logs/synthesizer_traces.jsonl
   output_path: outputs/synthesis_result.json
+
+verifier:
+  prompt_path: prompts/verifier.txt
+  traces_output: logs/verifier_traces.jsonl
+  verification_output: outputs/verification.jsonl
+  answers_output: outputs/answers.jsonl
 
 
 sources:
