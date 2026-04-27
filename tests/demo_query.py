@@ -8,6 +8,7 @@ from scidiscover.agents.retriever import Retriever
 from scidiscover.agents.retriever_agent import RetrieverAgent
 from scidiscover.agents.summarizer import SummarizerAgent
 from scidiscover.agents.synthesizer import SynthesizerAgent
+from scidiscover.agents.reranker import RerankerAgent
 from utils.llm_client import configure_llm
 
 
@@ -52,6 +53,19 @@ def main():
     # ---- RETRIEVE (AGENT) ----
     top_k = args.top_k or config["retrieval"]["top_k"]
     evidence_pack = retriever_agent.run(args.query, k=top_k)
+
+    # ---- INIT RERANKER (optional) ----
+    reranker_cfg = config.get("reranker", {})
+    reranker_agent = None
+    if reranker_cfg.get("enabled", False):
+        reranker_agent = RerankerAgent(
+            model_name=reranker_cfg["model_name"],
+            top_k=reranker_cfg.get("top_k", top_k),
+        )
+
+    # ---- RERANK (optional) ----
+    if reranker_agent is not None:
+        evidence_pack = reranker_agent.run(evidence_pack)
 
     # ---- DEBUG: RAW RETRIEVAL OUTPUT ----
     print("\n===== RAW RETRIEVAL RESULTS =====\n")

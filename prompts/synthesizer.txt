@@ -8,6 +8,8 @@ Rules:
 - Do NOT introduce any knowledge beyond what is stated in the paper summaries.
 - Do NOT hallucinate or fabricate any facts, statistics, or claims.
 - Every claim MUST cite its source using EXACTLY the format: [paper_id:chunk_id]
+- chunk_ids use DOUBLE pipes (||) as separators, e.g. some_paper_id||ABSTRACT||000
+- Copy chunk_ids EXACTLY as they appear in the "Evidence chunks:" lines below. Do NOT rewrite or simplify them.
 - Do NOT modify paper IDs or chunk IDs.
 - If evidence is insufficient to answer the query, return EXACTLY:
   ABSTAIN: Insufficient evidence to synthesize an answer.

@@ -21,6 +21,11 @@ retrieval:
   meta_output: index/index.meta.json
   traces_output: logs/retrieval_traces.jsonl
   model_name: sentence-transformers/all-MiniLM-L6-v2
+  top_k: 20
+
+reranker:
+  enabled: true
+  model_name: cross-encoder/ms-marco-MiniLM-L-6-v2
   top_k: 5
 
 summarizer:
