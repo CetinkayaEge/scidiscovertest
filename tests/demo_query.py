@@ -74,6 +74,7 @@ def main():
     if reranker_agent is not None:
         evidence_pack = reranker_agent.run(evidence_pack)
 
+
     # ---- DEBUG: RAW RETRIEVAL OUTPUT ----
     print("\n===== RAW RETRIEVAL RESULTS =====\n")
 

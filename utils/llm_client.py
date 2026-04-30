@@ -110,6 +110,7 @@ def _call_gemini(system: str, user: str, model: str, max_tokens: int) -> str:
         config=genai_types.GenerateContentConfig(
             system_instruction=system,
             max_output_tokens=max_tokens,
+            response_mime_type="application/json",
         ),
     )
     candidate = response.candidates[0] if response.candidates else None
