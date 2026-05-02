@@ -125,7 +125,7 @@ class VerifierAgent:
         summary = self._compute_summary(verified_claims)
 
         # Step 7 — Decide final_answer
-        if summary["citation_coverage"] >= 0.8:
+        if summary["citation_coverage"] >= 0.8 and summary["support_rate"] >= 0.5:
             final_answer = draft_answer
         else:
             final_answer = _ABSTAIN_MSG
@@ -167,7 +167,7 @@ class VerifierAgent:
         )
 
         try:
-            response = call_llm(system=prompt, user="")
+            response = call_llm(system=prompt, user="", json_mode=True)
         except Exception as e:
             return {
                 idx: {"status": "UNKNOWN", "notes": f"LLM error: {e}"}

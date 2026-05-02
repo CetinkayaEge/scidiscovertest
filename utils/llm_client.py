@@ -1,6 +1,7 @@
 """Multi-provider LLM client """
 
 import os
+import re
 import warnings
 import anthropic
 import openai
@@ -107,17 +108,19 @@ def _call_anthropic(system: str, user: str, model: str, max_tokens: int) -> str:
     return ""
 
 
-def _call_gemini(system: str, user: str, model: str, max_tokens: int) -> str:
+def _call_gemini(system: str, user: str, model: str, max_tokens: int, json_mode: bool) -> str:
     client = _get_gemini_client()
     contents = user if user.strip() else "Generate the response as instructed."
+    config_kwargs = dict(
+        system_instruction=system,
+        max_output_tokens=max_tokens,
+    )
+    if json_mode:
+        config_kwargs["response_mime_type"] = "application/json"
     response = client.models.generate_content(
         model=model,
         contents=contents,
-        config=genai_types.GenerateContentConfig(
-            system_instruction=system,
-            max_output_tokens=max_tokens,
-            response_mime_type="application/json",
-        ),
+        config=genai_types.GenerateContentConfig(**config_kwargs),
     )
     candidate = response.candidates[0] if response.candidates else None
     if candidate and str(candidate.finish_reason) in ("FinishReason.MAX_TOKENS", "MAX_TOKENS", "2"):
@@ -130,8 +133,22 @@ def _call_gemini(system: str, user: str, model: str, max_tokens: int) -> str:
     return response.text
 
 
-def call_llm(system: str, user: str) -> str:
+def _strip_thinking(text: str) -> str:
+    """Remove chain-of-thought blocks emitted by thinking models (e.g. gemini-2.5-flash)."""
+    stripped = re.sub(r'^.*?</think>\s*', '', text, flags=re.DOTALL)
+    return stripped if stripped.strip() else text
+
+
+def call_llm(system: str, user: str, json_mode: bool = False) -> str:
     """Call the appropriate LLM provider based on the configured model.
+
+    Args:
+        system: System prompt.
+        user: User message.
+        json_mode: When True, instructs the provider to return valid JSON.
+                   Set True for Synthesizer and Verifier; False for Summarizer.
+                   Only affects Gemini (response_mime_type). Has no effect on
+                   Anthropic or local models (they follow prompt instructions).
 
     Model routing:
       - 'claude-*'  → Anthropic (requires ANTHROPIC_API_KEY)
@@ -144,13 +161,14 @@ def call_llm(system: str, user: str) -> str:
         raise RuntimeError("call_llm used before configure_llm() was called.")
 
     if _model.startswith("claude-"):
-        return _call_anthropic(system, user, _model, _max_tokens)
+        raw = _call_anthropic(system, user, _model, _max_tokens)
     elif _model.startswith("gemini-"):
-        return _call_gemini(system, user, _model, _max_tokens)
+        raw = _call_gemini(system, user, _model, _max_tokens, json_mode)
     elif _model.startswith("local-"):
-        return _call_local(system, user, _model, _max_tokens)
+        raw = _call_local(system, user, _model, _max_tokens)
     else:
         raise ValueError(
             f"Unknown model '{_model}'. "
             "Model must start with 'claude-', 'gemini-', or 'local-'."
         )
+    return _strip_thinking(raw)

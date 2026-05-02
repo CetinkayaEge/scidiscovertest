@@ -51,7 +51,7 @@ class SynthesizerAgent:
             return None
 
     def extract_cited_ids(self, key_claims):
-        """Collect all cited paper_id:chunk_id pairs from key_claims."""
+        """Collect all cited chunk_ids from key_claims citation_ids lists."""
         cited = set()
         for claim in key_claims:
             for cid in claim.get("citation_ids", []):
@@ -59,17 +59,23 @@ class SynthesizerAgent:
         return cited
 
     def build_evidence_list(self, paper_summaries, cited_ids):
-        """Build the evidence lookup table from input data for cited chunks."""
-        # Index all chunks from input paper_summaries
+        """Build the evidence lookup table in Python from summarizer output.
+
+        Citations are chunk_ids (format: paper_id||SECTION||offset).
+        paper_id is always the first ||-separated segment of chunk_id.
+        Chunks not found in the lookup (LLM hallucinations) are skipped.
+        """
+        # Build lookup keyed by chunk_id — this is the sole citation key
         chunk_lookup = {}
         for ps in paper_summaries:
             for ev in ps.get("evidence", []):
-                key = f"{ev['paper_id']}:{ev['chunk_id']}"
-                chunk_lookup[key] = {
-                    "paper_id": ev["paper_id"],
-                    "chunk_id": ev["chunk_id"],
+                chunk_id = ev["chunk_id"]
+                chunk_lookup[chunk_id] = {
+                    "paper_id": chunk_id.split("||")[0],
+                    "chunk_id": chunk_id,
                     "score": ev.get("score", 0.0),
                     "section": ev.get("section", ""),
+                    "text_preview": ev.get("text_preview", ""),
                     "url": ps.get("url", ""),
                 }
 
@@ -77,16 +83,9 @@ class SynthesizerAgent:
         for cid in cited_ids:
             if cid in chunk_lookup:
                 evidence.append(chunk_lookup[cid])
-            else:
-                # Citation referenced by LLM but not in our input data
-                parts = cid.split(":", 1)
-                evidence.append({
-                    "paper_id": parts[0] if len(parts) > 0 else cid,
-                    "chunk_id": parts[1] if len(parts) > 1 else cid,
-                    "score": 0.0,
-                    "section": "",
-                    "url": "",
-                })
+            # If not found, the LLM cited something outside our retrieval set.
+            # Skip it — the Verifier will mark those claims UNKNOWN via its
+            # own chunk_lookup built from the original evidence_pack.
 
         return evidence
 
@@ -100,7 +99,7 @@ class SynthesizerAgent:
         )
 
         try:
-            response = call_llm(system=prompt, user="")
+            response = call_llm(system=prompt, user="", json_mode=True)
         except Exception as e:
             return {
                 "draft_answer": f"[LLM ERROR: {e}]",

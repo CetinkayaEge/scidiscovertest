@@ -2,6 +2,8 @@ import argparse
 import os
 import subprocess
 import sys
+from datetime import datetime, timezone
+from pathlib import Path
 
 import yaml
 from dotenv import load_dotenv
@@ -25,6 +27,12 @@ def main():
     args = parser.parse_args()
 
     config = load_config(args.config)
+
+    snapshot_path = Path("logs/config_snapshot.yaml")
+    snapshot_path.parent.mkdir(parents=True, exist_ok=True)
+    snapshot = {"_timestamp": datetime.now(timezone.utc).isoformat(), **config}
+    with open(snapshot_path, "w", encoding="utf-8") as f:
+        yaml.dump(snapshot, f, allow_unicode=True, sort_keys=False)
 
     pmc = config["sources"]["pmc"]
     openalex = config["sources"].get("openalex", {})

@@ -52,7 +52,7 @@ class SummarizerAgent:
         )
 
         try:
-            response = call_llm(system=prompt, user="")
+            response = call_llm(system=prompt, user="", json_mode=False)
         except Exception as e:
             response = f"[LLM ERROR: {e}]"
 
@@ -67,6 +67,7 @@ class SummarizerAgent:
                     "paper_id": ch["paper_id"],
                     "section": ch["section"],
                     "score": ch["score"],
+                    "text_preview": ch["text"][:300],
                 }
                 for ch in selected_chunks
             ]

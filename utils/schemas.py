@@ -17,7 +17,7 @@ def validate_summary_pack(pack: list) -> None:
 
 REQUIRED_SYNTHESIS_FIELDS = {"query", "draft_answer", "key_claims", "evidence", "limitations_and_uncertainty"}
 REQUIRED_CLAIM_FIELDS = {"claim", "citation_ids"}
-REQUIRED_SYNTH_EVIDENCE_FIELDS = {"paper_id", "chunk_id", "score", "section", "url"}
+REQUIRED_SYNTH_EVIDENCE_FIELDS = {"paper_id", "chunk_id", "score", "section", "url", "text_preview"}
 
 
 def validate_synthesis_pack(pack: dict) -> None:
