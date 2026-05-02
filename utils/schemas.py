@@ -43,3 +43,24 @@ def validate_synthesis_pack(pack: dict) -> None:
 
     if not isinstance(pack["limitations_and_uncertainty"], list):
         raise ValueError("limitations_and_uncertainty must be a list")
+
+
+REQUIRED_VERIFICATION_FIELDS = {
+    "query", "final_answer", "key_claims", "evidence",
+    "limitations_and_uncertainty", "verification_summary",
+}
+REQUIRED_VERIFIED_CLAIM_FIELDS = {"claim", "citation_ids", "status", "notes"}
+
+
+def validate_verification_pack(pack: dict) -> None:
+    missing = REQUIRED_VERIFICATION_FIELDS - pack.keys()
+    if missing:
+        raise ValueError(f"Verification pack missing fields: {missing}")
+
+    if not isinstance(pack["key_claims"], list):
+        raise ValueError("key_claims must be a list")
+
+    for i, claim in enumerate(pack["key_claims"]):
+        missing_c = REQUIRED_VERIFIED_CLAIM_FIELDS - claim.keys()
+        if missing_c:
+            raise ValueError(f"Verified claim {i} missing fields: {missing_c}")

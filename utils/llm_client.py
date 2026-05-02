@@ -1,6 +1,7 @@
 """Multi-provider LLM client """
 
 import os
+import warnings
 import anthropic
 import openai
 from google import genai
@@ -59,7 +60,6 @@ def _get_local_client() -> openai.OpenAI:
 
 def _call_local(system: str, user: str, model: str, max_tokens: int) -> str:
     client = _get_local_client()
-    # Strip the 'local-' prefix to get the actual model name
     actual_model = model[len("local-"):]
     response = client.chat.completions.create(
         model=actual_model,
@@ -69,7 +69,15 @@ def _call_local(system: str, user: str, model: str, max_tokens: int) -> str:
             {"role": "user", "content": user},
         ],
     )
-    return response.choices[0].message.content or ""
+    choice = response.choices[0]
+    if choice.finish_reason == "length":
+        warnings.warn(
+            f"[llm_client] Output truncated at {max_tokens} tokens (finish_reason=length). "
+            "Response may be incomplete JSON. Consider raising max_tokens in configs/demo.yaml.",
+            RuntimeWarning,
+            stacklevel=3,
+        )
+    return choice.message.content or ""
 
 
 def _call_anthropic(system: str, user: str, model: str, max_tokens: int) -> str:
@@ -80,6 +88,13 @@ def _call_anthropic(system: str, user: str, model: str, max_tokens: int) -> str:
         system=system,
         messages=[{"role": "user", "content": user}],
     )
+    if response.stop_reason == "max_tokens":
+        warnings.warn(
+            f"[llm_client] Output truncated at {max_tokens} tokens (stop_reason=max_tokens). "
+            "Response may be incomplete JSON. Consider raising max_tokens in configs/demo.yaml.",
+            RuntimeWarning,
+            stacklevel=3,
+        )
     for block in response.content:
         if block.type == "text":
             return block.text
@@ -88,14 +103,24 @@ def _call_anthropic(system: str, user: str, model: str, max_tokens: int) -> str:
 
 def _call_gemini(system: str, user: str, model: str, max_tokens: int) -> str:
     client = _get_gemini_client()
+    contents = user if user.strip() else "Generate the response as instructed."
     response = client.models.generate_content(
         model=model,
-        contents=user,
+        contents=contents,
         config=genai_types.GenerateContentConfig(
             system_instruction=system,
             max_output_tokens=max_tokens,
+            response_mime_type="application/json",
         ),
     )
+    candidate = response.candidates[0] if response.candidates else None
+    if candidate and str(candidate.finish_reason) in ("FinishReason.MAX_TOKENS", "MAX_TOKENS", "2"):
+        warnings.warn(
+            f"[llm_client] Output truncated at {max_tokens} tokens (finish_reason=MAX_TOKENS). "
+            "Response may be incomplete JSON. Consider raising max_tokens in configs/demo.yaml.",
+            RuntimeWarning,
+            stacklevel=3,
+        )
     return response.text
 
 
