@@ -1,6 +1,7 @@
 """Multi-provider LLM client """
 
 import os
+import re
 import warnings
 import anthropic
 import openai
@@ -48,11 +49,17 @@ def _get_gemini_client() -> genai.Client:
 def _get_local_client() -> openai.OpenAI:
     global _local_client
     if _local_client is None:
-        base_url = os.environ.get("LOCAL_MODEL_URL")
-        api_key = os.environ.get("LOCAL_MODEL_API_KEY", "not-needed")
+        # Accept standard OpenAI env var names; fall back to legacy LOCAL_MODEL_* names.
+        base_url = os.environ.get("OPENAI_BASE_URL") or os.environ.get("LOCAL_MODEL_URL")
+        api_key = (
+            os.environ.get("OPENAI_API_KEY")
+            or os.environ.get("LOCAL_MODEL_API_KEY")
+            or "not-needed"
+        )
         if not base_url:
             raise EnvironmentError(
-                "LOCAL_MODEL_URL is not set. Add your Cloudflare tunnel URL to your .env file."
+                "OPENAI_BASE_URL is not set. "
+                "Add it to your .env file (e.g. http://<HPC_NODE_IP>:8000/v1)."
             )
         _local_client = openai.OpenAI(base_url=base_url, api_key=api_key)
     return _local_client
@@ -126,6 +133,12 @@ def _call_gemini(system: str, user: str, model: str, max_tokens: int, json_mode:
     return response.text
 
 
+def _strip_thinking(text: str) -> str:
+    """Remove chain-of-thought blocks emitted by thinking models (e.g. gemini-2.5-flash)."""
+    stripped = re.sub(r'^.*?</think>\s*', '', text, flags=re.DOTALL)
+    return stripped if stripped.strip() else text
+
+
 def call_llm(system: str, user: str, json_mode: bool = False) -> str:
     """Call the appropriate LLM provider based on the configured model.
 
@@ -140,7 +153,7 @@ def call_llm(system: str, user: str, json_mode: bool = False) -> str:
     Model routing:
       - 'claude-*'  → Anthropic (requires ANTHROPIC_API_KEY)
       - 'gemini-*'  → Google Gemini (requires GOOGLE_API_KEY)
-      - 'local-*'   → Local model via Cloudflare tunnel (requires LOCAL_MODEL_URL)
+      - 'local-*'   → Local OpenAI-compatible server (requires OPENAI_BASE_URL; OPENAI_API_KEY optional)
 
     Must call configure_llm() before using this function.
     """
@@ -148,13 +161,14 @@ def call_llm(system: str, user: str, json_mode: bool = False) -> str:
         raise RuntimeError("call_llm used before configure_llm() was called.")
 
     if _model.startswith("claude-"):
-        return _call_anthropic(system, user, _model, _max_tokens)
+        raw = _call_anthropic(system, user, _model, _max_tokens)
     elif _model.startswith("gemini-"):
-        return _call_gemini(system, user, _model, _max_tokens, json_mode)
+        raw = _call_gemini(system, user, _model, _max_tokens, json_mode)
     elif _model.startswith("local-"):
-        return _call_local(system, user, _model, _max_tokens)
+        raw = _call_local(system, user, _model, _max_tokens)
     else:
         raise ValueError(
             f"Unknown model '{_model}'. "
             "Model must start with 'claude-', 'gemini-', or 'local-'."
         )
+    return _strip_thinking(raw)
