@@ -7,20 +7,20 @@ Rules:
 - Use ONLY the information provided in the paper summaries below.
 - Do NOT introduce any knowledge beyond what is stated in the paper summaries.
 - Do NOT hallucinate or fabricate any facts, statistics, or claims.
-- Every claim MUST cite its source using EXACTLY the format: [paper_id:chunk_id]
-- chunk_ids use DOUBLE pipes (||) as separators, e.g. some_paper_id||ABSTRACT||000
-- Copy chunk_ids EXACTLY as they appear in the "Evidence chunks:" lines below. Do NOT rewrite or simplify them.
-- Do NOT modify paper IDs or chunk IDs.
+- Every claim MUST cite its source using EXACTLY this format: [chunk_id]
+  where chunk_id is the FULL string shown in the "Evidence chunks:" line of each paper below.
+  Example: [pmc_PMC10002645||ABSTRACT||000]
+- chunk_ids use DOUBLE pipes (||) as separators. Copy them EXACTLY as shown. Do NOT shorten or modify them.
 - If evidence is insufficient to answer the query, return EXACTLY:
   ABSTAIN: Insufficient evidence to synthesize an answer.
 
 Output format (return valid JSON only, no markdown fences):
 {{
-  "draft_answer": "<5-12 sentence coherent paragraph synthesizing findings across papers. Every factual claim must include at least one citation in [paper_id:chunk_id] format.>",
+  "draft_answer": "<5-12 sentence coherent paragraph synthesizing findings across papers. Every factual claim must include at least one citation in [chunk_id] format.>",
   "key_claims": [
     {{
-      "claim": "<one clear factual statement with [paper_id:chunk_id] citation(s)>",
-      "citation_ids": ["<paper_id:chunk_id>", "..."]
+      "claim": "<one clear factual statement with [chunk_id] citation(s) inline>",
+      "citation_ids": ["<full_chunk_id>", "..."]
     }}
   ],
   "limitations_and_uncertainty": [
@@ -30,8 +30,8 @@ Output format (return valid JSON only, no markdown fences):
 }}
 
 Requirements for each field:
-- draft_answer: 5-12 sentences. Must reference findings from multiple papers where possible. Every factual statement must have at least one citation.
-- key_claims: 3-7 claims. Each claim is a single factual statement extracted from the synthesis. citation_ids must list the exact [paper_id:chunk_id] strings that support it.
+- draft_answer: 5-12 sentences. Must reference findings from multiple papers where possible. Every factual statement must have at least one [chunk_id] citation.
+- key_claims: 3-7 claims. Each claim is a single factual statement. citation_ids must contain the exact full chunk_id strings (no brackets, no modifications) copied from the "Evidence chunks:" lines.
 - limitations_and_uncertainty: At least 2 items. Note gaps in evidence, conflicting findings, small sample sizes, geographic limitations, or areas needing further research.
 
 Query:

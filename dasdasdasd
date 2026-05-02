@@ -1,0 +1,13 @@
+* [33m1d47118[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcagan_2[m[33m, [m[1;31morigin/ege[m[33m)[m ragas test
+* [33mf82ed28[m verifier agent test
+* [33mb316120[m reranker eklendi
+* [33m84aa1a2[m[33m ([m[1;31morigin/main[m[33m)[m configured llm call to be comptible with local model.
+*   [33mf00d3b6[m Merge pull request #1 from CetinkayaEge/cagan_2
+[32m|[m[33m\[m  
+[32m|[m * [33m8293553[m[33m ([m[1;31morigin/cagan_2[m[33m)[m Initial version of the Synthesizer Agent implemented.
+[32m|[m * [33mf385a6e[m Finalized Summarizer Agent. Added output format schema, llm call fail mechanisms etc. Ready for Synthesizer Agent implementation.
+[32m|[m[32m/[m  
+* [33madb17f5[m[33m ([m[1;32mmain[m[33m)[m Fix demo_query and remove old promts folder
+* [33m0861f82[m Add RetrieverAgent and SummarizerAgent with prompts and clean gitignore
+* [33md3a40b3[m[33m ([m[1;31morigin/cagan[m[33m, [m[1;32mmaster[m[33m)[m Added LLM API integration for Anthropic and Google Gemini
+* [33m3c834d8[m completed retriever agent

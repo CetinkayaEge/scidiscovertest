@@ -4,11 +4,17 @@ Task:
 For each claim below, assess whether the cited evidence chunks actually support the claim.
 Return SUPPORTED, UNSUPPORTED, CONFLICT, or UNKNOWN for each claim with a brief note.
 
+Citation format note:
+Each claim cites chunks using the format [chunk_id] where chunk_id looks like:
+  pmc_PMC10002645||ABSTRACT||000
+  https://openalex.org/W4391150997||ABSTRACT||001
+The cited chunk texts are shown under each claim below.
+
 Rules:
 - SUPPORTED: at least one cited chunk clearly supports the claim.
 - UNSUPPORTED: claim has no citations, or cited chunks do not mention the claim's subject.
 - CONFLICT: multiple cited chunks present contradictory information about the claim.
-- UNKNOWN: citation ID not found in the evidence set.
+- UNKNOWN: citation ID not found in the evidence set (chunk text shown as "[Chunk not found in evidence set]").
 - Do NOT introduce outside knowledge. Judge solely on the provided chunk texts.
 - If the entire evidence set is empty, all claims are UNSUPPORTED and final_answer must be the abstain string.
 - Every claim in verified_claims must appear exactly once, in the same order as the input.

@@ -7,8 +7,11 @@ Rules:
 - Use ONLY the provided evidence.
 - Do NOT hallucinate or add external knowledge.
 - Every statement MUST be supported by evidence.
-- Include citations EXACTLY in this format: [paper_id:chunk_id]
-- Do NOT modify chunk IDs.
+- Include citations EXACTLY in this format: [chunk_id]
+  where chunk_id is the full string shown in square brackets before each evidence chunk.
+  Example: [pmc_PMC10002645||ABSTRACT||000]
+- Do NOT shorten, modify, or paraphrase chunk IDs in any way.
+- Copy chunk IDs EXACTLY as they appear in the Evidence section below.
 - Return ONLY 2-3 bullet points.
 - Each bullet point MUST contain at least one citation.
 - If evidence is insufficient, return: "Insufficient evidence."
