@@ -290,9 +290,31 @@ def main():
 
     n = len(results)
 
-    def _avg(key):
-        vals = [r[key] for r in results if r.get(key) is not None]
+    def _avg(key, subset=None):
+        rows = subset if subset is not None else results
+        vals = [r[key] for r in rows if r.get(key) is not None]
         return round(sum(vals) / len(vals), 4) if vals else None
+
+    def _domain_summary(subset):
+        m = len(subset)
+        if m == 0:
+            return {}
+        return {
+            "n_queries": m,
+            "avg_citation_coverage": _avg("citation_coverage", subset),
+            "avg_support_rate": _avg("support_rate", subset),
+            "abstention_rate": round(sum(1 for r in subset if r.get("abstained")) / m, 4),
+            "avg_recall_at_k": _avg("recall_at_k", subset),
+            "avg_hallucination_rate": _avg("hallucination_rate", subset),
+            "avg_latency_s": _avg("latency_s", subset),
+        }
+
+    # Group results by domain
+    from collections import defaultdict
+    domain_groups: dict = defaultdict(list)
+    for r in results:
+        domain_groups[r.get("domain") or "unknown"].append(r)
+    by_domain = {d: _domain_summary(rows) for d, rows in sorted(domain_groups.items())}
 
     ragas_scores = {}
     if not args.skip_ragas:
@@ -315,6 +337,7 @@ def main():
         "avg_hallucination_rate": _avg("hallucination_rate"),
         "n_labeled_queries": len(labels_lookup),
         **ragas_scores,
+        "by_domain": by_domain,
         "per_query": results,
     }
 
@@ -335,6 +358,15 @@ def main():
         print(f"  RAGAS Context Recall     {ragas_scores.get('ragas_context_recall')}")
         print(f"  RAGAS Faithfulness       {ragas_scores.get('ragas_faithfulness')}")
         print(f"  RAGAS Answer Relevancy   {ragas_scores.get('ragas_answer_relevancy')}")
+    if by_domain:
+        print(f"\n  By Domain:")
+        for domain, stats in by_domain.items():
+            print(f"    [{domain}] n={stats['n_queries']}  "
+                  f"cov={stats['avg_citation_coverage']}  "
+                  f"sup={stats['avg_support_rate']}  "
+                  f"abstain={stats['abstention_rate']}  "
+                  f"rec@k={stats['avg_recall_at_k']}  "
+                  f"hal={stats['avg_hallucination_rate']}")
     print(f"{'='*60}")
     print(f"Full report → {results_output}")
 

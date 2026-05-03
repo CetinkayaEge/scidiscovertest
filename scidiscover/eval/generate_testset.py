@@ -8,10 +8,78 @@ Usage:
 import argparse
 import json
 import os
+import re
 from pathlib import Path
 
 import yaml
 from dotenv import load_dotenv
+
+
+# ---------------------------------------------------------------------------
+# Label helpers (mirrors eval/build_labels.py)
+# ---------------------------------------------------------------------------
+
+def _strip_hop_tags(text: str) -> str:
+    return re.sub(r"^<\d+-hop>\s*", "", text.strip())
+
+
+def _build_chunk_index(chunks_path: str) -> dict:
+    index = {}
+    with open(chunks_path, "r", encoding="utf-8") as f:
+        for line in f:
+            chunk = json.loads(line)
+            text = chunk.get("text", "").strip()
+            if not text:
+                continue
+            key = " ".join(text[:120].split())
+            index[key] = chunk["paper_id"]
+    return index
+
+
+def _find_paper_ids(reference_contexts: list, chunk_index: dict) -> list:
+    found = []
+    for ctx in reference_contexts:
+        ctx_clean = _strip_hop_tags(ctx)
+        ctx_key = " ".join(ctx_clean[:120].split())
+        paper_id = chunk_index.get(ctx_key)
+        if paper_id is None:
+            for prefix_len in (80, 60, 40):
+                short_key = " ".join(ctx_clean[:prefix_len].split())
+                if not short_key:
+                    continue
+                for chunk_key, pid in chunk_index.items():
+                    if chunk_key.startswith(short_key):
+                        paper_id = pid
+                        break
+                if paper_id:
+                    break
+        if paper_id and paper_id not in found:
+            found.append(paper_id)
+    return found
+
+
+def build_labels(queries: list, chunks_path: str, labels_path: str) -> None:
+    """Write labels.jsonl from a list of query dicts that contain reference_contexts."""
+    print(f"Building labels from {chunks_path} ...")
+    chunk_index = _build_chunk_index(chunks_path)
+    print(f"  {len(chunk_index):,} chunks indexed")
+
+    Path(labels_path).parent.mkdir(parents=True, exist_ok=True)
+    matched = unmatched = 0
+    with open(labels_path, "w", encoding="utf-8") as out:
+        for q in queries:
+            ref_contexts = q.get("reference_contexts", [])
+            if isinstance(ref_contexts, str):
+                ref_contexts = [ref_contexts]
+            paper_ids = _find_paper_ids(ref_contexts, chunk_index)
+            out.write(json.dumps({"query_id": q["query_id"], "expected_paper_ids": paper_ids},
+                                 ensure_ascii=False) + "\n")
+            if paper_ids:
+                matched += 1
+            else:
+                unmatched += 1
+
+    print(f"  Labels written: {matched} matched, {unmatched} unmatched → {labels_path}")
 
 load_dotenv()
 
@@ -116,6 +184,7 @@ def main():
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
 
     written = 0
+    all_records = []
     with open(output_path, "w", encoding="utf-8") as f:
         for i, row in df.iterrows():
             query_text = row.get("user_input", row.get("question", ""))
@@ -133,9 +202,14 @@ def main():
                 "domain": domain,
             }
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
+            all_records.append(record)
             written += 1
 
     print(f"Written {written} queries to {output_path}")
+
+    labels_path = eval_cfg.get("labels_path", "eval/labels.jsonl")
+    chunks_path = config["retrieval"]["chunks_input"]
+    build_labels(all_records, chunks_path, labels_path)
 
 
 if __name__ == "__main__":

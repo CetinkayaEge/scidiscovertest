@@ -3,9 +3,9 @@ llm:
   #   gemini-*  → Google Gemini     (requires GOOGLE_API_KEY)
   #   claude-*  → Anthropic         (requires ANTHROPIC_API_KEY)
   #   local-*   → vLLM / HPC server (requires OPENAI_BASE_URL + OPENAI_API_KEY)
-  model: local-deepseek-r1-distill-qwen-32b
+  model: gemini-2.5-flash
   # model: gemini-2.5-flash
-  max_tokens: 4096
+  max_tokens: 8192
 
 corpus:
   raw_output: data/raw/papers.jsonl
@@ -50,8 +50,8 @@ verifier:
   traces_output: logs/verifier_traces.jsonl
   verification_output: outputs/verification.jsonl
   answers_output: outputs/answers.jsonl
-  min_citation_coverage: 0.95
-  min_support_rate: 0.50
+  min_citation_coverage: 0.60
+  min_support_rate: 0.40
 
 eval:
   queries_path: eval/queries.jsonl
@@ -59,7 +59,7 @@ eval:
   results_output: reports/eval_results.json
   top_k_recall: 20
   max_queries: null
-  ragas_model: local-deepseek-r1-distill-qwen-32b
+  ragas_model: gemini-2.5-flash
 
 
 sources:

@@ -122,7 +122,7 @@ class SynthesizerAgent:
             }
 
         parsed = self.parse_llm_response(response)
-        if parsed is None:
+        if not isinstance(parsed, dict):
             return {
                 "draft_answer": f"[PARSE ERROR] Raw response:\n{response}",
                 "key_claims": [],
