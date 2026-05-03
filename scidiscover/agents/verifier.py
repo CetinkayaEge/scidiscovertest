@@ -272,9 +272,10 @@ class VerifierAgent:
         conflict = sum(1 for c in verified_claims if c["status"] == "CONFLICT")
         unknown = sum(1 for c in verified_claims if c["status"] == "UNKNOWN")
 
+        decided = supported + unsupported + conflict
         return {
             "citation_coverage": with_citations / total,
-            "support_rate": supported / total,
+            "support_rate": supported / decided if decided > 0 else 0.0,
             "total_claims": total,
             "supported": supported,
             "unsupported": unsupported,
