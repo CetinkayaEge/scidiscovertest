@@ -19,6 +19,8 @@ class VerifierAgent:
         traces_output: str = "logs/verifier_traces.jsonl",
         verification_output: str = "outputs/verification.jsonl",
         answers_output: str = "outputs/answers.jsonl",
+        min_citation_coverage: float = 0.95,
+        min_support_rate: float = 0.50,
     ) -> None:
         with open(prompt_path, "r", encoding="utf-8") as f:
             self.prompt_template = f.read()
@@ -26,6 +28,8 @@ class VerifierAgent:
         self.traces_output = traces_output
         self.verification_output = verification_output
         self.answers_output = answers_output
+        self.min_citation_coverage = min_citation_coverage
+        self.min_support_rate = min_support_rate
 
     # ------------------------------------------------------------------
     # Public entry point
@@ -125,7 +129,8 @@ class VerifierAgent:
         summary = self._compute_summary(verified_claims)
 
         # Step 7 — Decide final_answer
-        if summary["citation_coverage"] >= 0.8 and summary["support_rate"] >= 0.5:
+        if (summary["citation_coverage"] >= self.min_citation_coverage
+                and summary["support_rate"] >= self.min_support_rate):
             final_answer = draft_answer
         else:
             final_answer = _ABSTAIN_MSG

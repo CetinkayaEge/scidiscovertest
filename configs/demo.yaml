@@ -32,6 +32,7 @@ reranker:
   enabled: true
   model_name: cross-encoder/ms-marco-MiniLM-L-6-v2
   top_k: 10
+  min_score: 0.0
 
 
 summarizer:
@@ -49,6 +50,8 @@ verifier:
   traces_output: logs/verifier_traces.jsonl
   verification_output: outputs/verification.jsonl
   answers_output: outputs/answers.jsonl
+  min_citation_coverage: 0.95
+  min_support_rate: 0.50
 
 eval:
   queries_path: eval/queries.jsonl

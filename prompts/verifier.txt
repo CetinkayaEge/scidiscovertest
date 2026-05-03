@@ -11,11 +11,12 @@ Each claim cites chunks using the format [chunk_id] where chunk_id looks like:
 The cited chunk texts are shown under each claim below.
 
 Rules:
-- SUPPORTED: at least one cited chunk clearly supports the claim.
-- UNSUPPORTED: claim has no citations, or cited chunks do not mention the claim's subject.
+- SUPPORTED: at least one cited chunk clearly supports the claim using only the text shown.
+- UNSUPPORTED: claim has no citations, or cited chunks contain text that does NOT match or support the claim.
 - CONFLICT: multiple cited chunks present contradictory information about the claim.
-- UNKNOWN: citation ID not found in the evidence set (chunk text shown as "[Chunk not found in evidence set]").
-- Do NOT introduce outside knowledge. Judge solely on the provided chunk texts.
+- UNKNOWN: the chunk text shows "[Chunk not found in evidence set]" — this means the citation ID does not exist in the retrieved corpus. You MUST return UNKNOWN for these. Do NOT use your own knowledge to evaluate these.
+- CRITICAL: if ANY cited chunk shows "[Chunk not found in evidence set]", that citation is invalid. Mark UNKNOWN immediately — never SUPPORTED.
+- Do NOT use any knowledge beyond the chunk texts shown below. If the chunk text is absent or not found, you cannot support the claim.
 - If the entire evidence set is empty, all claims are UNSUPPORTED and final_answer must be the abstain string.
 - Every claim in verified_claims must appear exactly once, in the same order as the input.
 

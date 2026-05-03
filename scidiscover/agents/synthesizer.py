@@ -8,6 +8,12 @@ from utils.llm_client import call_llm
 from utils.schemas import validate_synthesis_pack
 
 
+def _is_bad_summary(text: str) -> bool:
+    """Return True for summaries that should be excluded from synthesis."""
+    t = text.strip().lower()
+    return t.startswith("insufficient evidence") or t.startswith("[llm error")
+
+
 class SynthesizerAgent:
     def __init__(
         self,
@@ -179,10 +185,10 @@ class SynthesizerAgent:
                 "limitations_and_uncertainty": ["No input data available."],
             }
 
-        # Filter out abstained summaries
+        # Filter out abstained/errored summaries
         active_summaries = [
             ps for ps in paper_summaries
-            if ps.get("summary_text", "").strip().lower() != "insufficient evidence."
+            if not _is_bad_summary(ps.get("summary_text", ""))
         ]
 
         if not active_summaries:
