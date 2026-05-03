@@ -52,7 +52,7 @@ def run():
     chunk_size = config["chunking"]["chunk_size"]
     overlap = config["chunking"]["overlap"]
 
-    Path("data/processed").mkdir(parents=True, exist_ok=True)
+    Path(output_file).parent.mkdir(parents=True, exist_ok=True)
 
     total_chunks = 0
 

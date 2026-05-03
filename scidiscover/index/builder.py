@@ -31,7 +31,7 @@ def build_faiss_index(
     index_output: str,
     chunk_ids_output: str,
     model_name: str,
-    meta_output: str = "index/index.meta.json",
+    meta_output: str,
     top_k: int = 5,
     chunk_size: int = 200,
     overlap: int = 40,
