@@ -107,8 +107,12 @@ class SynthesizerAgent:
         try:
             response = call_llm(system=prompt, user="", json_mode=True)
         except Exception as e:
+            try:
+                err_msg = str(e)
+            except Exception:
+                err_msg = type(e).__name__
             return {
-                "draft_answer": f"[LLM ERROR: {e}]",
+                "draft_answer": "[LLM ERROR: " + err_msg + "]",
                 "key_claims": [],
                 "limitations_and_uncertainty": [],
             }

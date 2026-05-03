@@ -54,7 +54,11 @@ class SummarizerAgent:
         try:
             response = call_llm(system=prompt, user="", json_mode=False)
         except Exception as e:
-            response = f"[LLM ERROR: {e}]"
+            try:
+                err_msg = str(e)
+            except Exception:
+                err_msg = type(e).__name__
+            response = "[LLM ERROR: " + err_msg + "]"
 
         return {
             "paper_id": paper_id,
