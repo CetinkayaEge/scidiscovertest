@@ -3,9 +3,9 @@ llm:
   #   gemini-*  → Google Gemini     (requires GOOGLE_API_KEY)
   #   claude-*  → Anthropic         (requires ANTHROPIC_API_KEY)
   #   local-*   → vLLM / HPC server (requires OPENAI_BASE_URL + OPENAI_API_KEY)
+  # model: local-deepseek-r1-distill-qwen-32b
   model: gemini-2.5-flash
-  # model: gemini-2.5-flash
-  max_tokens: 8192
+  max_tokens: 12288
 
 corpus:
   raw_output: data/raw/papers.jsonl

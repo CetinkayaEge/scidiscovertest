@@ -114,11 +114,20 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 # ---------------------------------------------------------------------------
 
 def run_ragas(results: list, ragas_model: str) -> dict:
+    import warnings
     from datasets import Dataset
-    from ragas import evaluate
-    from ragas.metrics import faithfulness, answer_relevancy, context_recall
-    from ragas.llms import LangchainLLMWrapper
-    from ragas.embeddings import GoogleEmbeddings
+    from ragas import evaluate, RunConfig
+
+    # ragas.metrics.collections only supports OpenAI InstructorLLM — use the
+    # legacy ragas.metrics singletons which still work with LangchainLLMWrapper
+    # (Gemini). Suppress the resulting deprecation warnings explicitly.
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", category=DeprecationWarning)
+        from ragas.metrics import faithfulness, answer_relevancy, context_recall
+        from ragas.llms import LangchainLLMWrapper
+        from ragas.embeddings import LangchainEmbeddingsWrapper
+        from langchain_community.embeddings import HuggingFaceEmbeddings
+
     from langchain_google_genai import ChatGoogleGenerativeAI
 
     rows = []
@@ -137,16 +146,26 @@ def run_ragas(results: list, ragas_model: str) -> dict:
         return {}
 
     dataset = Dataset.from_list(rows)
-    llm = LangchainLLMWrapper(ChatGoogleGenerativeAI(model=ragas_model))
-    emb = GoogleEmbeddings(model="gemini-embedding-001")
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", category=DeprecationWarning)
+        llm = LangchainLLMWrapper(ChatGoogleGenerativeAI(model=ragas_model))
+    # Use local sentence-transformers for embeddings — avoids Google embedding
+    # API version issues. The same model is already loaded for retrieval.
+    emb = LangchainEmbeddingsWrapper(
+        HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    )
+    # Reduce concurrency and raise timeout to avoid rate-limit TimeoutErrors.
+    run_config = RunConfig(timeout=180, max_retries=3, max_wait=90, max_workers=2)
     score = evaluate(dataset=dataset,
                      metrics=[faithfulness, answer_relevancy, context_recall],
-                     llm=llm, embeddings=emb)
+                     llm=llm, embeddings=emb,
+                     run_config=run_config,
+                     raise_exceptions=False)
     df = score.to_pandas()
     return {
-        "ragas_faithfulness": round(float(df["faithfulness"].mean()), 4),
-        "ragas_answer_relevancy": round(float(df["answer_relevancy"].mean()), 4),
-        "ragas_context_recall": round(float(df["context_recall"].mean()), 4),
+        "ragas_faithfulness": round(float(df["faithfulness"].mean(skipna=True)), 4),
+        "ragas_answer_relevancy": round(float(df["answer_relevancy"].mean(skipna=True)), 4),
+        "ragas_context_recall": round(float(df["context_recall"].mean(skipna=True)), 4),
     }
 
 
