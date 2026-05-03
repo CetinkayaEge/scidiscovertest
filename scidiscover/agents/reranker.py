@@ -32,7 +32,7 @@ class RerankerAgent:
             scored.append(c)
 
         scored.sort(key=lambda c: c["score"], reverse=True)
-        reranked = [c for c in scored[: self.top_k] if c["score"] >= self.min_score]
+        reranked = [c for c in scored if c["score"] >= self.min_score][: self.top_k]
 
         self._log_trace(query, chunks, reranked)
         return {"query": query, "chunks": reranked}
