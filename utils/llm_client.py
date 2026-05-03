@@ -2,6 +2,7 @@
 
 import os
 import re
+import time
 import warnings
 import anthropic
 import openai
@@ -139,7 +140,16 @@ def _strip_thinking(text: str) -> str:
     return stripped if stripped.strip() else text
 
 
-def call_llm(system: str, user: str, json_mode: bool = False) -> str:
+def _is_rate_limit_error(e: Exception) -> bool:
+    msg = str(e).lower()
+    return any(k in msg for k in (
+        "429", "quota", "rate limit", "resource_exhausted", "too many requests",
+        "503", "unavailable", "high demand", "temporarily unavailable",
+    ))
+
+
+def call_llm(system: str, user: str, json_mode: bool = False,
+             max_retries: int = 4) -> str:
     """Call the appropriate LLM provider based on the configured model.
 
     Args:
@@ -149,6 +159,7 @@ def call_llm(system: str, user: str, json_mode: bool = False) -> str:
                    Set True for Synthesizer and Verifier; False for Summarizer.
                    Only affects Gemini (response_mime_type). Has no effect on
                    Anthropic or local models (they follow prompt instructions).
+        max_retries: Number of retries on rate-limit errors (default 4).
 
     Model routing:
       - 'claude-*'  → Anthropic (requires ANTHROPIC_API_KEY)
@@ -160,15 +171,29 @@ def call_llm(system: str, user: str, json_mode: bool = False) -> str:
     if _model is None or _max_tokens is None:
         raise RuntimeError("call_llm used before configure_llm() was called.")
 
-    if _model.startswith("claude-"):
-        raw = _call_anthropic(system, user, _model, _max_tokens)
-    elif _model.startswith("gemini-"):
-        raw = _call_gemini(system, user, _model, _max_tokens, json_mode)
-    elif _model.startswith("local-"):
-        raw = _call_local(system, user, _model, _max_tokens)
-    else:
-        raise ValueError(
-            f"Unknown model '{_model}'. "
-            "Model must start with 'claude-', 'gemini-', or 'local-'."
-        )
-    return _strip_thinking(raw)
+    for attempt in range(max_retries + 1):
+        try:
+            if _model.startswith("claude-"):
+                raw = _call_anthropic(system, user, _model, _max_tokens)
+            elif _model.startswith("gemini-"):
+                raw = _call_gemini(system, user, _model, _max_tokens, json_mode)
+            elif _model.startswith("local-"):
+                raw = _call_local(system, user, _model, _max_tokens)
+            else:
+                raise ValueError(
+                    f"Unknown model '{_model}'. "
+                    "Model must start with 'claude-', 'gemini-', or 'local-'."
+                )
+            return _strip_thinking(raw)
+        except Exception as e:
+            if _is_rate_limit_error(e) and attempt < max_retries:
+                wait = 15 * (attempt + 1)   # 15s → 30s → 45s → 60s
+                warnings.warn(
+                    f"[llm_client] Rate limit hit (attempt {attempt + 1}/{max_retries}). "
+                    f"Retrying in {wait}s...",
+                    RuntimeWarning,
+                    stacklevel=2,
+                )
+                time.sleep(wait)
+            else:
+                raise

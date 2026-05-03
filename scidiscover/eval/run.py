@@ -5,6 +5,20 @@ Usage:
     PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml
     PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml --skip-ragas
     PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml --max-queries 5
+    PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml --skip-verifier --output reports/eval_no_verifier_hpc.json
+
+Ablation study run commands:
+    # 1. Full pipeline — HPC/deepseek (reranker.enabled: true in config)
+    python -m scidiscover.eval.run --config configs/demo.yaml --output reports/eval_full_hpc.json
+
+    # 2. Full pipeline — Gemini (change llm.model to gemini-2.5-flash in config)
+    python -m scidiscover.eval.run --config configs/demo.yaml --output reports/eval_full_gemini.json
+
+    # 3. No verifier — HPC/deepseek (reranker.enabled: true)
+    python -m scidiscover.eval.run --config configs/demo.yaml --skip-verifier --output reports/eval_no_verifier_hpc.json
+
+    # 4. No verifier, no reranker — HPC/deepseek (set reranker.enabled: false in config)
+    python -m scidiscover.eval.run --config configs/demo.yaml --skip-verifier --output reports/eval_no_verifier_no_reranker_hpc.json
 """
 
 import argparse
@@ -51,8 +65,16 @@ def compute_hallucination_rate(summaries: list, evidence_pack: dict) -> float:
 # Pipeline runner
 # ---------------------------------------------------------------------------
 
+def _citation_coverage_from_claims(key_claims: list) -> float:
+    """Compute citation coverage directly from synthesis key_claims (no verifier)."""
+    if not key_claims:
+        return 0.0
+    cited = sum(1 for c in key_claims if c.get("citation_ids"))
+    return round(cited / len(key_claims), 4)
+
+
 def run_pipeline(query_record: dict, agents: dict, top_k: int,
-                 labels_lookup: dict) -> dict:
+                 labels_lookup: dict, skip_verifier: bool = False) -> dict:
     query = query_record["query"]
     qid = query_record.get("query_id", "")
 
@@ -70,13 +92,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         "paper_summaries": summaries,
     })
 
-    verified = agents["verifier_agent"].run({
-        "synthesis": synthesis,
-        "evidence_pack": evidence_pack,
-    })
-
     latency_s = time.time() - t0
-    vs = verified["verification_summary"]
 
     # Recall@k — uses labels if available for this query
     expected = labels_lookup.get(qid, {}).get("expected_paper_ids", [])
@@ -87,6 +103,39 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 
     # Store retrieved texts for RAGAS
     retrieved_contexts = [ch["text"] for ch in evidence_pack["chunks"]]
+
+    if skip_verifier:
+        draft = synthesis.get("draft_answer", "")
+        key_claims = synthesis.get("key_claims", [])
+        abstained = not draft or draft.startswith("ABSTAIN") or draft.startswith("[")
+        final_answer = _ABSTAIN_MSG if abstained else draft
+        citation_coverage = _citation_coverage_from_claims(key_claims)
+        return {
+            "query_id": qid,
+            "query": query,
+            "reference": query_record.get("reference", ""),
+            "retrieved_contexts": retrieved_contexts,
+            "final_answer": final_answer,
+            "abstained": abstained,
+            "citation_coverage": citation_coverage,
+            "support_rate": None,       # verifier not run
+            "n_claims": len(key_claims),
+            "n_supported": None,
+            "n_unsupported": None,
+            "n_conflict": None,
+            "n_unknown": None,
+            "recall_at_k": recall_at_k,
+            "hallucination_rate": hallucination_rate,
+            "latency_s": round(latency_s, 2),
+            "domain": query_record.get("domain", ""),
+        }
+
+    # Full pipeline — run verifier
+    verified = agents["verifier_agent"].run({
+        "synthesis": synthesis,
+        "evidence_pack": evidence_pack,
+    })
+    vs = verified["verification_summary"]
 
     return {
         "query_id": qid,
@@ -114,11 +163,20 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 # ---------------------------------------------------------------------------
 
 def run_ragas(results: list, ragas_model: str) -> dict:
+    import warnings
     from datasets import Dataset
-    from ragas import evaluate
-    from ragas.metrics import faithfulness, answer_relevancy, context_recall
-    from ragas.llms import LangchainLLMWrapper
-    from ragas.embeddings import GoogleEmbeddings
+    from ragas import evaluate, RunConfig
+
+    # ragas.metrics.collections only supports OpenAI InstructorLLM — use the
+    # legacy ragas.metrics singletons which still work with LangchainLLMWrapper
+    # (Gemini). Suppress the resulting deprecation warnings explicitly.
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", category=DeprecationWarning)
+        from ragas.metrics import faithfulness, answer_relevancy, context_recall
+        from ragas.llms import LangchainLLMWrapper
+        from ragas.embeddings import LangchainEmbeddingsWrapper
+        from langchain_community.embeddings import HuggingFaceEmbeddings
+
     from langchain_google_genai import ChatGoogleGenerativeAI
 
     rows = []
@@ -137,16 +195,26 @@ def run_ragas(results: list, ragas_model: str) -> dict:
         return {}
 
     dataset = Dataset.from_list(rows)
-    llm = LangchainLLMWrapper(ChatGoogleGenerativeAI(model=ragas_model))
-    emb = GoogleEmbeddings(model="gemini-embedding-001")
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", category=DeprecationWarning)
+        llm = LangchainLLMWrapper(ChatGoogleGenerativeAI(model=ragas_model))
+    # Use local sentence-transformers for embeddings — avoids Google embedding
+    # API version issues. The same model is already loaded for retrieval.
+    emb = LangchainEmbeddingsWrapper(
+        HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    )
+    # Reduce concurrency and raise timeout to avoid rate-limit TimeoutErrors.
+    run_config = RunConfig(timeout=180, max_retries=3, max_wait=90, max_workers=2)
     score = evaluate(dataset=dataset,
                      metrics=[faithfulness, answer_relevancy, context_recall],
-                     llm=llm, embeddings=emb)
+                     llm=llm, embeddings=emb,
+                     run_config=run_config,
+                     raise_exceptions=False)
     df = score.to_pandas()
     return {
-        "ragas_faithfulness": round(float(df["faithfulness"].mean()), 4),
-        "ragas_answer_relevancy": round(float(df["answer_relevancy"].mean()), 4),
-        "ragas_context_recall": round(float(df["context_recall"].mean()), 4),
+        "ragas_faithfulness": round(float(df["faithfulness"].mean(skipna=True)), 4),
+        "ragas_answer_relevancy": round(float(df["answer_relevancy"].mean(skipna=True)), 4),
+        "ragas_context_recall": round(float(df["context_recall"].mean(skipna=True)), 4),
     }
 
 
@@ -158,6 +226,10 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True)
     parser.add_argument("--skip-ragas", action="store_true")
+    parser.add_argument("--skip-verifier", action="store_true",
+                        help="Ablation: skip VerifierAgent, use synthesis output directly")
+    parser.add_argument("--output", default=None,
+                        help="Override output path (default: eval.results_output in config)")
     parser.add_argument("--max-queries", type=int, default=None)
     args = parser.parse_args()
 
@@ -167,10 +239,15 @@ def main():
     eval_cfg = config["eval"]
     queries_path = eval_cfg["queries_path"]
     labels_path = eval_cfg.get("labels_path", "eval/labels.jsonl")
-    results_output = eval_cfg["results_output"]
+    results_output = args.output or eval_cfg["results_output"]
     top_k = eval_cfg.get("top_k_recall", 20)
     max_queries = args.max_queries or eval_cfg.get("max_queries")
     ragas_model = eval_cfg.get("ragas_model", "gemini-2.5-flash")
+
+    # Derive a human-readable mode tag for the report
+    reranker_on = config.get("reranker", {}).get("enabled", False)
+    llm_model = config["llm"]["model"]
+    mode_tag = f"{'no_verifier' if args.skip_verifier else 'full'}_{'no_reranker' if not reranker_on else 'reranker'}_{llm_model.split('-')[0]}"
 
     # Agents must be imported before utils.llm_client on Windows to avoid
     # a silent crash caused by google.genai and sentence_transformers both
@@ -255,7 +332,8 @@ def main():
     for i, q in enumerate(queries, 1):
         print(f"  [{i}/{len(queries)}] {q.get('query_id', '')} — {q['query'][:70]}...")
         try:
-            row = run_pipeline(q, agents, top_k, labels_lookup)
+            row = run_pipeline(q, agents, top_k, labels_lookup,
+                               skip_verifier=args.skip_verifier)
             rec = row["recall_at_k"]
             hal = row["hallucination_rate"]
             print(f"    cov={row['citation_coverage']:.2f}  "
@@ -290,9 +368,31 @@ def main():
 
     n = len(results)
 
-    def _avg(key):
-        vals = [r[key] for r in results if r.get(key) is not None]
+    def _avg(key, subset=None):
+        rows = subset if subset is not None else results
+        vals = [r[key] for r in rows if r.get(key) is not None]
         return round(sum(vals) / len(vals), 4) if vals else None
+
+    def _domain_summary(subset):
+        m = len(subset)
+        if m == 0:
+            return {}
+        return {
+            "n_queries": m,
+            "avg_citation_coverage": _avg("citation_coverage", subset),
+            "avg_support_rate": _avg("support_rate", subset),
+            "abstention_rate": round(sum(1 for r in subset if r.get("abstained")) / m, 4),
+            "avg_recall_at_k": _avg("recall_at_k", subset),
+            "avg_hallucination_rate": _avg("hallucination_rate", subset),
+            "avg_latency_s": _avg("latency_s", subset),
+        }
+
+    # Group results by domain
+    from collections import defaultdict
+    domain_groups: dict = defaultdict(list)
+    for r in results:
+        domain_groups[r.get("domain") or "unknown"].append(r)
+    by_domain = {d: _domain_summary(rows) for d, rows in sorted(domain_groups.items())}
 
     ragas_scores = {}
     if not args.skip_ragas:
@@ -306,6 +406,7 @@ def main():
             print(f"  RAGAS evaluation failed: {e}")
 
     report = {
+        "mode": mode_tag,
         "n_queries": n,
         "avg_citation_coverage": _avg("citation_coverage"),
         "avg_support_rate": _avg("support_rate"),
@@ -315,6 +416,7 @@ def main():
         "avg_hallucination_rate": _avg("hallucination_rate"),
         "n_labeled_queries": len(labels_lookup),
         **ragas_scores,
+        "by_domain": by_domain,
         "per_query": results,
     }
 
@@ -323,7 +425,7 @@ def main():
         json.dump(report, f, ensure_ascii=False, indent=2)
 
     print(f"\n{'='*60}")
-    print(f"Eval Results  ({n} queries)")
+    print(f"Eval Results  ({n} queries)  mode={mode_tag}")
     print(f"{'='*60}")
     print(f"  Citation Coverage        {report['avg_citation_coverage']}")
     print(f"  Support Rate             {report['avg_support_rate']}")
@@ -335,6 +437,15 @@ def main():
         print(f"  RAGAS Context Recall     {ragas_scores.get('ragas_context_recall')}")
         print(f"  RAGAS Faithfulness       {ragas_scores.get('ragas_faithfulness')}")
         print(f"  RAGAS Answer Relevancy   {ragas_scores.get('ragas_answer_relevancy')}")
+    if by_domain:
+        print(f"\n  By Domain:")
+        for domain, stats in by_domain.items():
+            print(f"    [{domain}] n={stats['n_queries']}  "
+                  f"cov={stats['avg_citation_coverage']}  "
+                  f"sup={stats['avg_support_rate']}  "
+                  f"abstain={stats['abstention_rate']}  "
+                  f"rec@k={stats['avg_recall_at_k']}  "
+                  f"hal={stats['avg_hallucination_rate']}")
     print(f"{'='*60}")
     print(f"Full report → {results_output}")
 

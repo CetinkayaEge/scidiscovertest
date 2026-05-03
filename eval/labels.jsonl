@@ -1,0 +1,35 @@
+{"query_id": "q001", "expected_paper_ids": ["pmc_PMC10029050"]}
+{"query_id": "q002", "expected_paper_ids": ["pmc_PMC10029061"]}
+{"query_id": "q003", "expected_paper_ids": ["pmc_PMC10029061"]}
+{"query_id": "q004", "expected_paper_ids": ["pmc_PMC10055067"]}
+{"query_id": "q005", "expected_paper_ids": ["pmc_PMC10055067"]}
+{"query_id": "q006", "expected_paper_ids": ["pmc_PMC10055636"]}
+{"query_id": "q007", "expected_paper_ids": ["pmc_PMC10081206"]}
+{"query_id": "q008", "expected_paper_ids": ["pmc_PMC10081334"]}
+{"query_id": "q009", "expected_paper_ids": ["pmc_PMC10081437"]}
+{"query_id": "q010", "expected_paper_ids": ["pmc_PMC10084986"]}
+{"query_id": "q011", "expected_paper_ids": ["pmc_PMC10262060", "pmc_PMC10274795"]}
+{"query_id": "q012", "expected_paper_ids": ["pmc_PMC11047479", "pmc_PMC10274795", "pmc_PMC10081417"]}
+{"query_id": "q013", "expected_paper_ids": ["pmc_PMC10055067", "pmc_PMC10187307"]}
+{"query_id": "q014", "expected_paper_ids": ["pmc_PMC10274795", "pmc_PMC10055067"]}
+{"query_id": "q015", "expected_paper_ids": ["pmc_PMC10262060", "pmc_PMC10274795", "pmc_PMC10274757"]}
+{"query_id": "q016", "expected_paper_ids": ["pmc_PMC10081206", "pmc_PMC10274795"]}
+{"query_id": "q017", "expected_paper_ids": ["pmc_PMC10081417", "pmc_PMC10055067", "pmc_PMC10081206"]}
+{"query_id": "q018", "expected_paper_ids": ["pmc_PMC10953812"]}
+{"query_id": "q019", "expected_paper_ids": ["pmc_PMC10052590"]}
+{"query_id": "q020", "expected_paper_ids": ["pmc_PMC10197604"]}
+{"query_id": "q021", "expected_paper_ids": ["pmc_PMC10262060"]}
+{"query_id": "q022", "expected_paper_ids": ["pmc_PMC10312559"]}
+{"query_id": "q023", "expected_paper_ids": ["pmc_PMC10241200"]}
+{"query_id": "q024", "expected_paper_ids": ["pmc_PMC11052244"]}
+{"query_id": "q025", "expected_paper_ids": ["pmc_PMC10274757"]}
+{"query_id": "q026", "expected_paper_ids": ["pmc_PMC10851882"]}
+{"query_id": "q027", "expected_paper_ids": ["pmc_PMC10698493"]}
+{"query_id": "q028", "expected_paper_ids": ["pmc_PMC7443063"]}
+{"query_id": "q029", "expected_paper_ids": ["https://openalex.org/W4405400348"]}
+{"query_id": "q030", "expected_paper_ids": ["https://openalex.org/W4392703798"]}
+{"query_id": "q031", "expected_paper_ids": ["pmc_PMC2753613"]}
+{"query_id": "q032", "expected_paper_ids": ["pmc_PMC7464264"]}
+{"query_id": "q033", "expected_paper_ids": ["pmc_PMC10168315"]}
+{"query_id": "q034", "expected_paper_ids": ["pmc_PMC10002826", "pmc_PMC10055067"]}
+{"query_id": "q035", "expected_paper_ids": []}

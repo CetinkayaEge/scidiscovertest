@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(@\\(Get-ChildItem \"c:\\\\Users\\\\cagan\\\\Desktop\\\\scidiscovertest-main\\\\datav2\"\\).Count; @\\(Get-ChildItem \"c:\\\\Users\\\\cagan\\\\Desktop\\\\scidiscovertest-main\\\\data\"\\).Count)"
+    ]
+  }
+}

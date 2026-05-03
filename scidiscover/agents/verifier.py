@@ -180,7 +180,7 @@ class VerifierAgent:
             }
 
         parsed = self._parse_llm_response(response)
-        if parsed is None:
+        if not isinstance(parsed, dict):
             return {
                 idx: {"status": "UNKNOWN", "notes": "LLM parse error."}
                 for idx, _ in llm_claims
