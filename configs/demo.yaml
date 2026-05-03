@@ -13,17 +13,17 @@ corpus:
 
 chunking:
   input_path: data/raw/papers.jsonl
-  output_path: data/processed/chunks.jsonl
+  output_path: datav2/processed/chunks.jsonl
   chunk_size: 200
   overlap: 40
 
 retrieval:
-  chunks_input: data/processed/chunks.jsonl
-  papers_input: data/raw/papers.jsonl
-  embeddings_output: embeddings/chunks.npy
-  index_output: index/faiss.index
-  chunk_ids_output: index/chunk_ids.txt
-  meta_output: index/index.meta.json
+  chunks_input: datav2/processed/chunks.jsonl
+  papers_input: datav2/raw/papers.jsonl
+  embeddings_output: embeddingsv2/chunks.npy
+  index_output: indexv2/faiss.index
+  chunk_ids_output: indexv2/chunk_ids.txt
+  meta_output: indexv2/index.meta.json
   traces_output: logs/retrieval_traces.jsonl
   model_name: sentence-transformers/all-MiniLM-L6-v2
   top_k: 20
@@ -32,6 +32,7 @@ reranker:
   enabled: true
   model_name: cross-encoder/ms-marco-MiniLM-L-6-v2
   top_k: 10
+  min_score: 0.0
 
 
 summarizer:
@@ -49,6 +50,8 @@ verifier:
   traces_output: logs/verifier_traces.jsonl
   verification_output: outputs/verification.jsonl
   answers_output: outputs/answers.jsonl
+  min_citation_coverage: 0.95
+  min_support_rate: 0.50
 
 eval:
   queries_path: eval/queries.jsonl

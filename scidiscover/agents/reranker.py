@@ -8,11 +8,12 @@ from sentence_transformers import CrossEncoder
 
 
 class RerankerAgent:
-    def __init__(self, model_name: str, top_k: int,
+    def __init__(self, model_name: str, top_k: int, min_score: float = 0.0,
                  traces_output: str = "logs/reranker_traces.jsonl") -> None:
         self.model = CrossEncoder(model_name)
         self.model_name = model_name
         self.top_k = top_k
+        self.min_score = min_score
         self.traces_output = traces_output
 
     def run(self, evidence_pack: dict) -> dict:
@@ -31,7 +32,7 @@ class RerankerAgent:
             scored.append(c)
 
         scored.sort(key=lambda c: c["score"], reverse=True)
-        reranked = scored[: self.top_k]
+        reranked = [c for c in scored[: self.top_k] if c["score"] >= self.min_score]
 
         self._log_trace(query, chunks, reranked)
         return {"query": query, "chunks": reranked}

@@ -50,11 +50,14 @@ def main():
         traces_output=config["synthesizer"]["traces_output"],
         output_path=config["synthesizer"]["output_path"],
     )
+    verifier_cfg = config["verifier"]
     verifier_agent = VerifierAgent(
-        prompt_path=config["verifier"]["prompt_path"],
-        traces_output=config["verifier"]["traces_output"],
-        verification_output=config["verifier"]["verification_output"],
-        answers_output=config["verifier"]["answers_output"],
+        prompt_path=verifier_cfg["prompt_path"],
+        traces_output=verifier_cfg["traces_output"],
+        verification_output=verifier_cfg["verification_output"],
+        answers_output=verifier_cfg["answers_output"],
+        min_citation_coverage=verifier_cfg.get("min_citation_coverage", 0.95),
+        min_support_rate=verifier_cfg.get("min_support_rate", 0.50),
     )
 
     # ---- RETRIEVE (AGENT) ----
@@ -68,6 +71,7 @@ def main():
         reranker_agent = RerankerAgent(
             model_name=reranker_cfg["model_name"],
             top_k=reranker_cfg.get("top_k", top_k),
+            min_score=reranker_cfg.get("min_score", 0.0),
         )
 
     # ---- RERANK (optional) ----
