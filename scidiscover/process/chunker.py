@@ -62,9 +62,12 @@ def run():
 
             paper_id = paper["paper_id"]
 
+            title = paper.get("title", "").strip()
+            abstract = paper.get("abstract", "").strip()
+            combined_abstract = f"{title} | {abstract}" if title and abstract else title or abstract
+
             sections = {
-                "TITLE": paper.get("title", ""),
-                "ABSTRACT": paper.get("abstract", ""),
+                "ABSTRACT": combined_abstract,
                 "BODY_UNK": paper.get("full_text", paper.get("body", "")),
             }
 
