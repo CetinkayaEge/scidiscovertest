@@ -283,6 +283,7 @@ def main():
             prompt_path=config["summarizer"]["prompt_path"],
             traces_output=config["summarizer"]["traces_output"],
             output_path=config["summarizer"]["output_path"],
+            max_workers=config["summarizer"].get("max_workers", 4),
         ),
         "synthesizer_agent": SynthesizerAgent(
             prompt_path=config["synthesizer"]["prompt_path"],

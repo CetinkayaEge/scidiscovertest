@@ -188,11 +188,10 @@ def call_llm(system: str, user: str, json_mode: bool = False,
         except Exception as e:
             if _is_rate_limit_error(e) and attempt < max_retries:
                 wait = 15 * (attempt + 1)   # 15s → 30s → 45s → 60s
-                warnings.warn(
+                print(
                     f"[llm_client] Rate limit hit (attempt {attempt + 1}/{max_retries}). "
-                    f"Retrying in {wait}s...",
-                    RuntimeWarning,
-                    stacklevel=2,
+                    f"Retrying in {wait}s...\n  error type: {type(e).__name__}\n  detail: {e}",
+                    flush=True,
                 )
                 time.sleep(wait)
             else:
