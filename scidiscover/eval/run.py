@@ -107,7 +107,12 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
     if skip_verifier:
         draft = synthesis.get("draft_answer", "")
         key_claims = synthesis.get("key_claims", [])
-        abstained = not draft or draft.startswith("ABSTAIN") or draft.startswith("[")
+        abstained = (
+            not draft
+            or draft.startswith("ABSTAIN")
+            or draft.startswith("[")
+            or "paper summaries" in draft.lower()   # synthesizer early-return fallback
+        )
         final_answer = _ABSTAIN_MSG if abstained else draft
         citation_coverage = _citation_coverage_from_claims(key_claims)
         return {
@@ -278,6 +283,7 @@ def main():
             prompt_path=config["summarizer"]["prompt_path"],
             traces_output=config["summarizer"]["traces_output"],
             output_path=config["summarizer"]["output_path"],
+            max_workers=config["summarizer"].get("max_workers", 4),
         ),
         "synthesizer_agent": SynthesizerAgent(
             prompt_path=config["synthesizer"]["prompt_path"],
@@ -336,10 +342,11 @@ def main():
                                skip_verifier=args.skip_verifier)
             rec = row["recall_at_k"]
             hal = row["hallucination_rate"]
+            sup = row["support_rate"]
             print(f"    cov={row['citation_coverage']:.2f}  "
-                  f"support={row['support_rate']:.2f}  "
+                  f"support={f'{sup:.2f}' if sup is not None else 'N/A'}  "
                   f"rec@k={rec if rec is not None else 'N/A'}  "
-                  f"hal={hal:.2f}  "
+                  f"hal={f'{hal:.2f}' if hal is not None else 'N/A'}  "
                   f"abstain={row['abstained']}  "
                   f"{row['latency_s']}s")
         except Exception as e:

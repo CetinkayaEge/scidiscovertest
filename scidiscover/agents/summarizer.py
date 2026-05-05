@@ -1,5 +1,6 @@
 import json
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -13,12 +14,14 @@ class SummarizerAgent:
         prompt_path: str,
         traces_output: str = "logs/summarizer_traces.jsonl",
         output_path: str = "outputs/paper_summaries.json",
+        max_workers: int = 4,
     ):
         with open(prompt_path, "r", encoding="utf-8") as f:
             self.prompt_template = f.read()
 
         self.traces_output = traces_output
         self.output_path = output_path
+        self.max_workers = max_workers
 
     def group_by_paper(self, chunks):
         grouped = defaultdict(list)
@@ -54,7 +57,11 @@ class SummarizerAgent:
         try:
             response = call_llm(system=prompt, user="", json_mode=False)
         except Exception as e:
-            response = f"[LLM ERROR: {e}]"
+            try:
+                err_msg = str(e)
+            except Exception:
+                err_msg = type(e).__name__
+            response = "[LLM ERROR: " + err_msg + "]"
 
         return {
             "paper_id": paper_id,
@@ -111,9 +118,13 @@ class SummarizerAgent:
 
         results = []
 
-        for paper_id, chs in grouped.items():
-            summary = self.summarize_single_paper(query, paper_id, chs)
-            results.append(summary)
+        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
+            futures = {
+                executor.submit(self.summarize_single_paper, query, paper_id, chs): paper_id
+                for paper_id, chs in grouped.items()
+            }
+            for future in as_completed(futures):
+                results.append(future.result())
 
         validate_summary_pack(results)
         self.log_trace(query, results)

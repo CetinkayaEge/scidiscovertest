@@ -174,8 +174,12 @@ class VerifierAgent:
         try:
             response = call_llm(system=prompt, user="", json_mode=True)
         except Exception as e:
+            try:
+                err_msg = str(e)
+            except Exception:
+                err_msg = type(e).__name__
             return {
-                idx: {"status": "UNKNOWN", "notes": f"LLM error: {e}"}
+                idx: {"status": "UNKNOWN", "notes": "LLM error: " + err_msg}
                 for idx, _ in llm_claims
             }
 
