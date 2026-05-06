@@ -42,7 +42,7 @@ summarizer:
   # max_workers: 4   → local vLLM (HPC): safe up to 8-16
   #               3   → Gemini API: keeps calls under 10 RPM
   #               1   → sequential (disable parallelism)
-  max_workers: 4
+  max_workers: 1
 
 synthesizer:
   prompt_path: prompts/synthesizer.txt
@@ -58,8 +58,8 @@ verifier:
   min_support_rate: 0.40
 
 eval:
-  queries_path: eval/queries.jsonl
-  labels_path: eval/labels.jsonl
+  queries_path: data/eval/queries.jsonl
+  labels_path: data/eval/labels.jsonl
   results_output: reports/eval_results.json
   top_k_recall: 20
   max_queries: null

@@ -1,5 +1,5 @@
 """
-Run evaluation pipeline over eval/queries.jsonl and report metrics.
+Run evaluation pipeline over data/eval/queries.jsonl and report metrics.
 
 Usage:
     PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml
@@ -76,7 +76,7 @@ def _citation_coverage_from_claims(key_claims: list) -> float:
 def run_pipeline(query_record: dict, agents: dict, top_k: int,
                  labels_lookup: dict, skip_verifier: bool = False) -> dict:
     query = query_record["query"]
-    qid = query_record.get("query_id", "")
+    qid = query_record.get("query_id") or query_record.get("id", "")
 
     t0 = time.time()
 
@@ -94,8 +94,9 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 
     latency_s = time.time() - t0
 
-    # Recall@k — uses labels if available for this query
-    expected = labels_lookup.get(qid, {}).get("expected_paper_ids", [])
+    # Recall@k — labels file takes priority, fallback to expected_paper_ids in query record
+    expected = (labels_lookup.get(qid, {}).get("expected_paper_ids")
+                or query_record.get("expected_paper_ids", []))
     recall_at_k = compute_recall_at_k(evidence_pack, expected)
 
     # Summarizer hallucination rate
@@ -118,7 +119,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         return {
             "query_id": qid,
             "query": query,
-            "reference": query_record.get("reference", ""),
+            "reference": query_record.get("ground_truth", query_record.get("reference", "")),
             "retrieved_contexts": retrieved_contexts,
             "final_answer": final_answer,
             "abstained": abstained,
@@ -145,7 +146,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
     return {
         "query_id": qid,
         "query": query,
-        "reference": query_record.get("reference", ""),
+        "reference": query_record.get("ground_truth", query_record.get("reference", "")),
         "retrieved_contexts": retrieved_contexts,
         "final_answer": verified["final_answer"],
         "abstained": verified["final_answer"] == _ABSTAIN_MSG,
@@ -171,17 +172,10 @@ def run_ragas(results: list, ragas_model: str) -> dict:
     import warnings
     from datasets import Dataset
     from ragas import evaluate, RunConfig
-
-    # ragas.metrics.collections only supports OpenAI InstructorLLM — use the
-    # legacy ragas.metrics singletons which still work with LangchainLLMWrapper
-    # (Gemini). Suppress the resulting deprecation warnings explicitly.
-    with warnings.catch_warnings():
-        warnings.filterwarnings("ignore", category=DeprecationWarning)
-        from ragas.metrics import faithfulness, answer_relevancy, context_recall
-        from ragas.llms import LangchainLLMWrapper
-        from ragas.embeddings import LangchainEmbeddingsWrapper
-        from langchain_community.embeddings import HuggingFaceEmbeddings
-
+    from ragas.metrics import faithfulness, answer_relevancy, context_recall
+    from ragas.llms import LangchainLLMWrapper
+    from ragas.embeddings import LangchainEmbeddingsWrapper
+    from langchain_huggingface import HuggingFaceEmbeddings
     from langchain_google_genai import ChatGoogleGenerativeAI
 
     rows = []
@@ -200,15 +194,19 @@ def run_ragas(results: list, ragas_model: str) -> dict:
         return {}
 
     dataset = Dataset.from_list(rows)
+
     with warnings.catch_warnings():
-        warnings.filterwarnings("ignore", category=DeprecationWarning)
+        warnings.filterwarnings("ignore")
         llm = LangchainLLMWrapper(ChatGoogleGenerativeAI(model=ragas_model))
-    # Use local sentence-transformers for embeddings — avoids Google embedding
-    # API version issues. The same model is already loaded for retrieval.
-    emb = LangchainEmbeddingsWrapper(
-        HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    )
-    # Reduce concurrency and raise timeout to avoid rate-limit TimeoutErrors.
+        emb = LangchainEmbeddingsWrapper(
+            HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        )
+        # Explicitly inject LLM/embeddings into singletons to ensure they are used
+        faithfulness.llm = llm
+        context_recall.llm = llm
+        answer_relevancy.llm = llm
+        answer_relevancy.embeddings = emb
+
     run_config = RunConfig(timeout=180, max_retries=3, max_wait=90, max_workers=2)
     score = evaluate(dataset=dataset,
                      metrics=[faithfulness, answer_relevancy, context_recall],
@@ -243,7 +241,7 @@ def main():
 
     eval_cfg = config["eval"]
     queries_path = eval_cfg["queries_path"]
-    labels_path = eval_cfg.get("labels_path", "eval/labels.jsonl")
+    labels_path = eval_cfg.get("labels_path", "data/eval/labels.jsonl")
     results_output = args.output or eval_cfg["results_output"]
     top_k = eval_cfg.get("top_k_recall", 20)
     max_queries = args.max_queries or eval_cfg.get("max_queries")
@@ -354,7 +352,7 @@ def main():
             row = {
                 "query_id": q.get("query_id", ""),
                 "query": q["query"],
-                "reference": q.get("reference", ""),
+                "reference": q.get("ground_truth", q.get("reference", "")),
                 "retrieved_contexts": [],
                 "final_answer": "",
                 "abstained": True,
