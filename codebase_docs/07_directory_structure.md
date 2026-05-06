@@ -26,7 +26,7 @@ scidiscovertest/
 │   │   └── openalex_ingest.py      OpenAlex Works API ingestion
 │   │
 │   ├── process/
-│   │   └── chunker.py              Token-window chunker (produces datav2 chunks)
+│   │   └── chunker.py              Token-window chunker (title prepended to abstract)
 │   │
 │   ├── index/
 │   │   └── builder.py              FAISS index builder (embed + index chunks)
@@ -47,33 +47,19 @@ scidiscovertest/
 │   ├── llm_client.py               Multi-provider LLM router (Anthropic/Gemini/local)
 │   └── schemas.py                  Data validation schemas
 │
-├── data/                           *** V1 data (inactive, kept for reference) ***
+├── data/
 │   ├── raw/
-│   │   └── papers.jsonl            Raw ingested papers (~12 MB, 5,788 papers)
+│   │   └── papers.jsonl            Raw ingested papers — written by PMC and OpenAlex ingestors
 │   └── processed/
-│       └── chunks.jsonl            V1 chunks (15,294 — title as separate TITLE chunks)
+│       └── chunks.jsonl            Chunked papers (title prepended to abstract with | separator)
 │
-├── datav2/                         *** V2 data (ACTIVE) ***
-│   ├── raw/
-│   │   └── (empty — papers.jsonl was deleted after chunking to save space)
-│   └── processed/
-│       └── chunks.jsonl            V2 chunks (9,506 — title prepended to abstract)
+├── embeddings/
+│   └── chunks.npy                  float32 embedding matrix, shape (num_chunks, 384)
 │
-├── embeddings/                     V1 embeddings (inactive)
-│   └── chunks.npy                  float32 array (15,294 × 384)
-│
-├── embeddingsv2/                   V2 embeddings (ACTIVE)
-│   └── chunks.npy                  float32 array (9,506 × 384)
-│
-├── index/                          V1 FAISS index (inactive)
-│   ├── faiss.index                 FAISS FlatIP index (15,294 chunks)
-│   ├── chunk_ids.txt               15,294 chunk IDs
-│   └── index.meta.json             {model, dim:384, num_chunks:15294, k:5}
-│
-├── indexv2/                        V2 FAISS index (ACTIVE)
-│   ├── faiss.index                 FAISS FlatIP index (9,506 chunks)
-│   ├── chunk_ids.txt               9,506 chunk IDs
-│   └── index.meta.json             {model, dim:384, num_chunks:9506, k:20}
+├── index/
+│   ├── faiss.index                 FAISS FlatIP binary index
+│   ├── chunk_ids.txt               One chunk ID per line, order matches index rows
+│   └── index.meta.json             Model name, dim, chunk count, chunk policy
 │
 ├── docs/
 │   └── corpus_manifest.csv         Paper provenance (paper_id, source, doi, date, license)
@@ -113,9 +99,9 @@ scidiscovertest/
 
 ---
 
-## Notes on Data Directories
+## Notes on Data Flow
 
-- `data/` and `datav2/` both exist. Only `datav2/` is used by the active pipeline.
-- `datav2/raw/papers.jsonl` was deleted (as shown in git history). The canonical raw papers file is `data/raw/papers.jsonl`.
-- `index/` and `embeddings/` (V1) exist on disk but are not referenced in `configs/demo.yaml`.
-- All of the above directories are mandatory — the pipeline expects them to exist.
+- Ingestion writes to `data/raw/papers.jsonl`.
+- The chunker reads from `data/raw/papers.jsonl` and writes to `data/processed/chunks.jsonl`.
+- The retriever reads paper URLs and DOIs from `data/raw/papers.jsonl` — no copy step needed.
+- All directories listed above are mandatory — the pipeline expects them to exist even when empty.

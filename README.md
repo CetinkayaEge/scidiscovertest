@@ -1,184 +1,159 @@
-# SciDiscover-LLM
+# SciDiscover
 
-Multi-agent scientific discovery system with evidence-grounded reasoning over open-access research corpora in sustainability and healthcare.
+Multi-agent scientific discovery system with evidence-grounded reasoning over open-access research corpora in **sustainability** and **healthcare**.
 
 ## Setup
 
 ```bash
 # 1. Clone and enter project
 git clone <repo-url>
-cd Sci-Discovery-pubmed
+cd scidiscovertest
 
 # 2. Create virtual environment
-python3 -m venv venv
-source venv/bin/activate   # Linux/macOS
-# venv\Scripts\activate    # Windows
+python3 -m venv .venv
+source .venv/bin/activate   # Linux/macOS
+# .venv\Scripts\activate    # Windows
 
 # 3. Install dependencies
 pip install -r requirements.txt
 ```
 
-## Run the Pipeline
+## Environment Variables
 
-Run the full end-to-end pipeline (Steps 1-3) with a single command:
-
-```bash
-python -m scidiscover.run_demo --config configs/demo.yaml
-```
-
-### Skip individual steps
+Create a `.env` file in the project root with the relevant API key(s):
 
 ```bash
-# Skip ingestion (use existing papers.jsonl)
-python -m scidiscover.run_demo --config configs/demo.yaml --skip-ingestion
+ANTHROPIC_API_KEY=sk-ant-...   # for claude-* models
+GOOGLE_API_KEY=AIza...         # for gemini-* models
 
-# Skip chunking
-python -m scidiscover.run_demo --config configs/demo.yaml --skip-chunking
-
-# Skip index building
-python -m scidiscover.run_demo --config configs/demo.yaml --skip-index
-```
-
-### Run individual modules
-
-```bash
-# Step 1a: PMC ingestion only
-python -m scidiscover.ingestion.pmc_ingest \
-    --from-date 2025-01-01 --until-date 2025-12-31 \
-    --max-papers 3000 --skip-empty-abstract \
-    --raw-output data/raw/papers.jsonl \
-    --manifest-output docs/corpus_manifest.csv
-
-# Step 1b: OpenAlex ingestion (appends to existing papers.jsonl)
-python -m scidiscover.ingestion.openalex_ingest \
-    --queries "machine learning" "deep learning" \
-    --from-year 2023 --max-papers 500 \
-    --email your@email.com \
-    --raw-output data/raw/papers.jsonl \
-    --manifest-output docs/corpus_manifest.csv
-
-# Step 2: Chunking
-python -m scidiscover.chunking.chunker
-
-# Step 3: Query after index is built
-python -m scidiscover.retrieval.demo_query \
-    --config configs/demo.yaml \
-    --query "machine learning in healthcare" --top-k 5
+# Local model served via OpenAI-compatible server (e.g. vLLM)
+OPENAI_BASE_URL=https://<your-endpoint>/v1
+OPENAI_API_KEY=<your-key>
 ```
 
 ## LLM Configuration
 
-The pipeline supports three LLM providers. Set the relevant keys in your `.env`.
-
-### API Keys
-
-```bash
-# .env
-ANTHROPIC_API_KEY=sk-ant-...
-GOOGLE_API_KEY=AIza...
-
-# Local model served via Cloudflare tunnel (e.g. from Google Colab)
-LOCAL_MODEL_URL=https://<your-tunnel>.trycloudflare.com/v1
-LOCAL_MODEL_API_KEY=<your-key>
-
-
-
-### Available models
-
-| Prefix | Example model | Provider | Required env var |
-|---|---|---|---|
-| `claude-*` | `claude-sonnet-4-6` | Anthropic | `ANTHROPIC_API_KEY` |
-| `gemini-*` | `gemini-3-flash-preview` | Google | `GOOGLE_API_KEY` |
-| `local-*` | `local-Qwen/Qwen2.5-3B-Instruct` | Local via Cloudflare | `LOCAL_MODEL_URL` |
-
-Routing is automatic based on the model name prefix. Set the active model and token limit in `configs/demo.yaml`:
+Set the active model in `configs/demo.yaml`:
 
 ```yaml
 llm:
-  model: local-Qwen/Qwen2.5-3B-Instruct  # or claude-*, gemini-*
-  max_tokens: 2048
+  model: gemini-2.5-flash   # or claude-*, local-*
+  max_tokens: 4096
 ```
 
-### Using `call_llm` directly in code
+| Prefix | Provider | Required env var |
+|--------|----------|-----------------|
+| `claude-*` | Anthropic | `ANTHROPIC_API_KEY` |
+| `gemini-*` | Google Gemini | `GOOGLE_API_KEY` |
+| `local-*` | OpenAI-compatible local server | `OPENAI_BASE_URL` + `OPENAI_API_KEY` |
 
-`call_llm` reads the model and max_tokens from the module-level config set by `configure_llm`. Call `configure_llm` once at startup before any `call_llm` calls.
+## Run the Pipeline
 
-```python
-from utils.llm_client import configure_llm, call_llm
+```bash
+# Full pipeline: ingest → chunk → embed → index
+.venv/bin/python -m scidiscover.run_demo --config configs/demo.yaml
 
-configure_llm(model="local-Qwen/Qwen2.5-3B-Instruct", max_tokens=2048)
-
-result = call_llm(
-    system="You are a scientific assistant.",
-    user="Summarize the key findings of this paper...",
-)
-print(result)
+# Skip steps already completed
+.venv/bin/python -m scidiscover.run_demo --config configs/demo.yaml --skip-ingestion
+.venv/bin/python -m scidiscover.run_demo --config configs/demo.yaml --skip-ingestion --skip-chunking
 ```
+
+### Run individual steps
+
+```bash
+# PMC ingestion only
+.venv/bin/python -m scidiscover.ingest.pmc_ingest \
+    --from-date 2023-01-01 --until-date 2025-12-31 \
+    --max-papers 8000 --skip-empty-abstract \
+    --raw-output data/raw/papers.jsonl \
+    --manifest-output docs/corpus_manifest.csv
+
+# OpenAlex ingestion (appends to existing papers.jsonl)
+.venv/bin/python -m scidiscover.ingest.openalex_ingest \
+    --queries "sustainability" "healthcare" "climate change" \
+    --from-year 2020 --max-papers 15000 \
+    --email your@email.com \
+    --raw-output data/raw/papers.jsonl \
+    --manifest-output docs/corpus_manifest.csv \
+    --is-oa --has-abstract
+
+# Chunking only
+.venv/bin/python -m scidiscover.process.chunker --config configs/demo.yaml
+```
+
+## Launch the UI
+
+```bash
+streamlit run app.py
+```
+
+## Pipeline Overview
+
+| Step | Module | Input | Output |
+|------|--------|-------|--------|
+| Ingest | `scidiscover.ingest.pmc_ingest` / `openalex_ingest` | PMC + OpenAlex APIs | `data/raw/papers.jsonl`, `docs/corpus_manifest.csv` |
+| Chunk | `scidiscover.process.chunker` | `data/raw/papers.jsonl` | `data/processed/chunks.jsonl` |
+| Index | `scidiscover.index.builder` | `data/processed/chunks.jsonl` | `embeddings/chunks.npy`, `index/faiss.index`, `index/chunk_ids.txt`, `index/index.meta.json` |
+
+## Corpus
+
+Papers are collected from two open-access sources, restricted to the **sustainability** and **healthcare** domains:
+
+- **PMC Open Access** — 2023–2025, up to 8,000 papers via NCBI OA API + OAI-PMH
+- **OpenAlex** — 2021+, up to 15,000 papers across 16 topic queries
+
+Current corpus: **~21,967 papers**, **37,415 chunks**.
+
+> All OpenAlex queries must remain within the sustainability or healthcare domains. Do not add queries from unrelated fields.
 
 ## Configuration
 
-All pipeline parameters are in `configs/demo.yaml`:
+All pipeline parameters live in `configs/demo.yaml`. Key sections:
 
 | Section | Key parameters |
-|---|---|
-| `corpus` | Output paths for papers.jsonl and manifest |
-| `chunking` | chunk_size (200), overlap (40) |
-| `retrieval` | Model name, top_k, output paths |
-| `sources.pmc` | Date range, max_papers, filters |
-| `sources.openalex` | Queries, from_year, max_papers, email |
-
-## Pipeline Steps
-
-| Step | Module | Input | Output |
-|---|---|---|---|
-| 1 | `scidiscover.ingestion` | API queries | `data/raw/papers.jsonl`, `docs/corpus_manifest.csv` |
-| 2 | `scidiscover.chunking` | papers.jsonl | `data/processed/chunks.jsonl` |
-| 3 | `scidiscover.retrieval` | chunks.jsonl | `embeddings/chunks.npy`, `index/faiss.index`, `index/chunk_ids.txt`, `index/index.meta.json` |
-
-## Data Sources
-
-The pipeline ingests from two open-access sources (configurable in demo.yaml):
-
-- **PMC Open Access** — healthcare papers via NCBI OA API + OAI-PMH metadata
-- **OpenAlex** — broad scholarly metadata via OpenAlex Works API
+|---------|---------------|
+| `llm` | `model`, `max_tokens` |
+| `corpus` | Output paths for `papers.jsonl` and manifest |
+| `chunking` | `chunk_size` (200 tokens), `overlap` (40 tokens) |
+| `retrieval` | Embedding model, `top_k`, output paths |
+| `sources.pmc` | `from_date`, `until_date`, `max_papers` |
+| `sources.openalex` | `queries`, `from_year`, `max_papers` |
 
 ## Output Schemas
 
-**papers.jsonl** — one JSON object per line:
+**`data/raw/papers.jsonl`** — one JSON object per line:
 ```
 paper_id, title, abstract, year, authors, venue, doi, url, source, retrieved_date, license_note
 ```
 
-**chunks.jsonl** — one JSON object per line:
+**`data/processed/chunks.jsonl`** — one JSON object per line:
 ```
 chunk_id, paper_id, section, text, token_len
 ```
-Chunk IDs use `||` separator: `paper_id||section||offset`
+Chunk text format: `title | abstract text`. Chunk ID format: `paper_id||SECTION||offset`.
 
-**corpus_manifest.csv**:
+**`docs/corpus_manifest.csv`**:
 ```
 paper_id, source, url/doi, retrieved_date, license_note
 ```
 
 ## Verification
 
-After running the pipeline, check:
+```bash
+wc -l data/raw/papers.jsonl          # total papers
+wc -l data/processed/chunks.jsonl    # total chunks
+cat index/index.meta.json            # index stats
+wc -l docs/corpus_manifest.csv       # manifest rows (includes header)
+```
+
+## Evaluation
+
+Generate a fresh eval testset from the current corpus, then run evaluation:
 
 ```bash
-# Papers ingested
-wc -l data/raw/papers.jsonl
+# Generate queries + labels from current chunks
+.venv/bin/python -m scidiscover.eval.generate_testset --config configs/demo.yaml --n-queries 30
 
-# Chunks created
-wc -l data/processed/chunks.jsonl
-
-# Index metadata
-cat index/index.meta.json
-
-# Manifest
-head docs/corpus_manifest.csv
-
-# Run a test query
-python -m scidiscover.retrieval.demo_query \
-    --config configs/demo.yaml \
-    --query "climate change impact" --top-k 3
+# Run evaluation (RAGAS + custom metrics)
+.venv/bin/python -m scidiscover.eval.run --config configs/demo.yaml
 ```

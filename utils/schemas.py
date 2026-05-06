@@ -49,7 +49,7 @@ REQUIRED_VERIFICATION_FIELDS = {
     "query", "final_answer", "key_claims", "evidence",
     "limitations_and_uncertainty", "verification_summary",
 }
-REQUIRED_VERIFIED_CLAIM_FIELDS = {"claim", "citation_ids", "status", "notes"}
+REQUIRED_VERIFIED_CLAIM_FIELDS = {"claim", "citation_ids", "status", "confidence", "notes"}
 
 
 def validate_verification_pack(pack: dict) -> None:

@@ -84,6 +84,7 @@ class VerifierAgent:
                     "claim": claim["claim"],
                     "citation_ids": [],
                     "status": "UNSUPPORTED",
+                    "confidence": 1.0,
                     "notes": "No citations provided.",
                 })
             else:
@@ -107,6 +108,7 @@ class VerifierAgent:
                     "claim": p["claim"],
                     "citation_ids": p["citation_ids"],
                     "status": p["status"],
+                    "confidence": p["confidence"],
                     "notes": p["notes"],
                 })
             elif idx in llm_verified:
@@ -115,6 +117,7 @@ class VerifierAgent:
                     "claim": original_claim["claim"],
                     "citation_ids": original_claim.get("citation_ids", []),
                     "status": v["status"],
+                    "confidence": v["confidence"],
                     "notes": v["notes"],
                 })
             else:
@@ -122,6 +125,7 @@ class VerifierAgent:
                     "claim": original_claim["claim"],
                     "citation_ids": original_claim.get("citation_ids", []),
                     "status": "UNKNOWN",
+                    "confidence": 0.0,
                     "notes": "Verification did not return a result for this claim.",
                 })
 
@@ -179,14 +183,14 @@ class VerifierAgent:
             except Exception:
                 err_msg = type(e).__name__
             return {
-                idx: {"status": "UNKNOWN", "notes": "LLM error: " + err_msg}
+                idx: {"status": "UNKNOWN", "confidence": 0.0, "notes": "LLM error: " + err_msg}
                 for idx, _ in llm_claims
             }
 
         parsed = self._parse_llm_response(response)
         if not isinstance(parsed, dict):
             return {
-                idx: {"status": "UNKNOWN", "notes": "LLM parse error."}
+                idx: {"status": "UNKNOWN", "confidence": 0.0, "notes": "LLM parse error."}
                 for idx, _ in llm_claims
             }
 
@@ -200,13 +204,20 @@ class VerifierAgent:
                 status = vc.get("status", "UNKNOWN").upper()
                 if status not in {"SUPPORTED", "UNSUPPORTED", "CONFLICT", "UNKNOWN"}:
                     status = "UNKNOWN"
+                raw_conf = vc.get("confidence", 0.5)
+                try:
+                    confidence = max(0.0, min(1.0, float(raw_conf)))
+                except (TypeError, ValueError):
+                    confidence = 0.5
                 result[original_idx] = {
                     "status": status,
+                    "confidence": confidence,
                     "notes": vc.get("notes", ""),
                 }
             else:
                 result[original_idx] = {
                     "status": "UNKNOWN",
+                    "confidence": 0.0,
                     "notes": "LLM did not return a result for this claim.",
                 }
 
@@ -263,6 +274,7 @@ class VerifierAgent:
             return {
                 "citation_coverage": 0.0,
                 "support_rate": 0.0,
+                "avg_confidence": 0.0,
                 "total_claims": 0,
                 "supported": 0,
                 "unsupported": 0,
@@ -276,10 +288,14 @@ class VerifierAgent:
         conflict = sum(1 for c in verified_claims if c["status"] == "CONFLICT")
         unknown = sum(1 for c in verified_claims if c["status"] == "UNKNOWN")
 
+        confidences = [c.get("confidence", 0.0) for c in verified_claims]
+        avg_confidence = sum(confidences) / total
+
         decided = supported + unsupported + conflict
         return {
             "citation_coverage": with_citations / total,
             "support_rate": supported / decided if decided > 0 else 0.0,
+            "avg_confidence": round(avg_confidence, 4),
             "total_claims": total,
             "supported": supported,
             "unsupported": unsupported,
@@ -299,6 +315,7 @@ class VerifierAgent:
                 "claim": c["claim"],
                 "citation_ids": c.get("citation_ids", []),
                 "status": "UNSUPPORTED",
+                "confidence": 1.0,
                 "notes": "No evidence was retrieved.",
             }
             for c in key_claims
@@ -328,6 +345,7 @@ class VerifierAgent:
                     "claim_id": i,
                     "claim": vc["claim"],
                     "status": vc["status"],
+                    "confidence": vc.get("confidence", 0.0),
                     "cited_chunks": vc.get("citation_ids", []),
                     "notes": vc.get("notes", ""),
                 }
@@ -354,7 +372,7 @@ class VerifierAgent:
             "verification_summary": result["verification_summary"],
             "final_answer_preview": result["final_answer"][:200],
             "claims": [
-                {"claim_id": i, "status": vc["status"], "notes": vc["notes"]}
+                {"claim_id": i, "status": vc["status"], "confidence": vc.get("confidence", 0.0), "notes": vc["notes"]}
                 for i, vc in enumerate(result["key_claims"])
             ],
         }

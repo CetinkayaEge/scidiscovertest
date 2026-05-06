@@ -32,7 +32,7 @@ corpus:
 ```yaml
 chunking:
   input_path: data/raw/papers.jsonl          # Source papers
-  output_path: datav2/processed/chunks.jsonl # Chunked output (v2 format)
+  output_path: data/processed/chunks.jsonl   # Chunked output
   chunk_size: 200                             # Tokens per chunk (whitespace-tokenized)
   overlap: 40                                 # Overlapping tokens between consecutive chunks
 ```
@@ -43,15 +43,17 @@ chunking:
 
 ```yaml
 retrieval:
-  chunks_input: datav2/processed/chunks.jsonl     # Chunks to embed and index
+  chunks_input: data/processed/chunks.jsonl       # Chunks to embed and index
   papers_input: data/raw/papers.jsonl             # Used to look up url/doi at retrieval time
-  embeddings_output: embeddingsv2/chunks.npy      # Saved embedding matrix (float32)
-  index_output: indexv2/faiss.index               # FAISS FlatIP binary index
-  chunk_ids_output: indexv2/chunk_ids.txt         # Maps index row → chunk_id
-  meta_output: indexv2/index.meta.json            # Model name, dims, chunk count
+  embeddings_output: embeddings/chunks.npy        # Saved embedding matrix (float32)
+  index_output: index/faiss.index                 # FAISS FlatIP binary index
+  chunk_ids_output: index/chunk_ids.txt           # Maps index row → chunk_id
+  meta_output: index/index.meta.json              # Model name, dims, chunk count
   model_name: sentence-transformers/all-MiniLM-L6-v2  # Embedding model
   top_k: 20                                       # Chunks returned per query
 ```
+
+**Note:** Both ingestion and retrieval use `data/raw/papers.jsonl` — no copy step needed.
 
 ---
 
@@ -113,9 +115,9 @@ If either threshold is not met, the pipeline returns "Insufficient evidence…" 
 sources:
   pmc:
     enabled: true
-    from_date: "2025-01-01"          # ISO date, start of PMC OA date range
+    from_date: "2023-01-01"          # ISO date, start of PMC OA date range
     until_date: "2025-12-31"         # ISO date, end of PMC OA date range
-    max_papers: 3000                 # Hard cap on papers fetched from PMC
+    max_papers: 8000                 # Hard cap on papers fetched from PMC
     skip_empty_abstract: true        # Discard papers with no abstract
 ```
 
@@ -123,18 +125,34 @@ sources:
 
 ## Sources: OpenAlex
 
+> **Domain constraint:** queries must belong to either the **sustainability** or **healthcare** domain only. Do not add queries outside these two domains.
+
+> **Year filter note:** The API filter is `publication_year > from_year` (strict inequality). `from_year: 2020` returns papers from 2021 onward.
+
+> **Cap behavior:** `max_papers` is a shared counter across all queries. If it is reached on an early query, remaining queries never run. Always set it high enough to let all queries contribute.
+
 ```yaml
   openalex:
     enabled: true
     queries:                         # Each query runs cursor-paginated separately
-      - sustainability
-      - healthcare
-      - renewable energy
-      - climate change
-      - public health
-      - environmental science
-    from_year: 2023                  # Minimum publication year filter
-    max_papers: 3000                 # Hard cap across all queries combined
+      - "sustainability"
+      - "healthcare"
+      - "renewable energy"
+      - "climate change"
+      - "public health"
+      - "environmental science"
+      - "circular economy"
+      - "carbon emissions"
+      - "sustainable agriculture"
+      - "biodiversity conservation"
+      - "mental health"
+      - "infectious disease"
+      - "chronic disease"
+      - "digital health"
+      - "global health equity"
+      - "cancer research"
+    from_year: 2020                  # Papers from 2021+ (strict >)
+    max_papers: 15000                # Hard cap across all queries combined
     is_oa: true                      # Open-access only
     has_abstract: true               # Must have abstract
 ```
@@ -161,4 +179,4 @@ eval:
 | Wider PMC date range | `sources.pmc.from_date` / `until_date` | configs/demo.yaml |
 | More OpenAlex papers | `sources.openalex.max_papers` | configs/demo.yaml |
 | Earlier OpenAlex papers | `sources.openalex.from_year` | configs/demo.yaml |
-| More OpenAlex topics | Add entries to `sources.openalex.queries` | configs/demo.yaml |
+| More OpenAlex topics | Add entries to `sources.openalex.queries` (sustainability/healthcare only) | configs/demo.yaml |

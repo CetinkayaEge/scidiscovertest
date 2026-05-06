@@ -1,6 +1,7 @@
 """Multi-provider LLM client """
 
 import os
+import random
 import re
 import time
 import warnings
@@ -149,7 +150,7 @@ def _is_rate_limit_error(e: Exception) -> bool:
 
 
 def call_llm(system: str, user: str, json_mode: bool = False,
-             max_retries: int = 4) -> str:
+             max_retries: int = 6) -> str:
     """Call the appropriate LLM provider based on the configured model.
 
     Args:
@@ -159,7 +160,7 @@ def call_llm(system: str, user: str, json_mode: bool = False,
                    Set True for Synthesizer and Verifier; False for Summarizer.
                    Only affects Gemini (response_mime_type). Has no effect on
                    Anthropic or local models (they follow prompt instructions).
-        max_retries: Number of retries on rate-limit errors (default 4).
+        max_retries: Number of retries on rate-limit errors (default 6).
 
     Model routing:
       - 'claude-*'  → Anthropic (requires ANTHROPIC_API_KEY)
@@ -187,10 +188,10 @@ def call_llm(system: str, user: str, json_mode: bool = False,
             return _strip_thinking(raw)
         except Exception as e:
             if _is_rate_limit_error(e) and attempt < max_retries:
-                wait = 15 * (attempt + 1)   # 15s → 30s → 45s → 60s
+                wait = min(10 * (2 ** attempt), 120) + random.uniform(0, 5)
                 print(
                     f"[llm_client] Rate limit hit (attempt {attempt + 1}/{max_retries}). "
-                    f"Retrying in {wait}s...\n  error type: {type(e).__name__}\n  detail: {e}",
+                    f"Retrying in {wait:.1f}s...\n  error type: {type(e).__name__}\n  detail: {e}",
                     flush=True,
                 )
                 time.sleep(wait)
