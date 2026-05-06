@@ -187,17 +187,19 @@ def _render_synthesis(synthesis: dict):
 
 def _render_verification(verified: dict):
     vs = verified.get("verification_summary", {})
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3, col4, col5 = st.columns(5)
     col1.metric("Citation coverage", f"{vs.get('citation_coverage', 0):.0%}")
     col2.metric("Support rate", f"{vs.get('support_rate', 0):.0%}")
-    col3.metric("Total claims", vs.get("total_claims", 0))
-    col4.metric("Supported", vs.get("supported", 0))
+    col3.metric("Avg confidence", f"{vs.get('avg_confidence', 0):.2f}")
+    col4.metric("Total claims", vs.get("total_claims", 0))
+    col5.metric("Supported", vs.get("supported", 0))
 
     for c in verified.get("key_claims", []):
         status = c.get("status", "UNKNOWN")
+        confidence = c.get("confidence", 0.0)
         icon = CLAIM_STATUS_COLORS.get(status, "⚪")
         with st.expander(f"{icon} {c['claim'][:100]}", expanded=False):
-            st.markdown(f"**Status:** {status}")
+            st.markdown(f"**Status:** {status} &nbsp;|&nbsp; **Confidence:** {confidence:.2f}")
             if c.get("notes"):
                 st.markdown(f"**Notes:** {c['notes']}")
             cids = c.get("citation_ids", [])

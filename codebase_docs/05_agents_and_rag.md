@@ -200,10 +200,24 @@ Cited chunks:
 
 **LLM output per claim:**
 ```json
-{"status": "SUPPORTED", "notes": "..."}
+{"status": "SUPPORTED", "confidence": 0.92, "notes": "..."}
 ```
 
 Valid statuses: `SUPPORTED`, `UNSUPPORTED`, `CONFLICT`, `UNKNOWN`
+
+**Confidence score (0.0 – 1.0):**
+
+The LLM assigns a confidence float to each status decision:
+
+| Range | Meaning |
+|-------|---------|
+| 0.9 – 1.0 | Direct, unambiguous textual evidence |
+| 0.6 – 0.8 | Claim is plausible from context but not explicitly stated |
+| 0.3 – 0.5 | Weak, indirect, or partial match |
+| 0.0 – 0.2 | Highly ambiguous or contradictory signals |
+
+Rule-based pre-screened claims (no citations → UNSUPPORTED) get `confidence: 1.0`.
+LLM error / parse failure / no-return cases get `confidence: 0.0`.
 
 **Abstention logic:**
 ```
@@ -216,12 +230,26 @@ else:
     return "Insufficient evidence in retrieved corpus to answer reliably."
 ```
 
+**`verification_summary` fields:**
+```json
+{
+  "citation_coverage": 0.80,
+  "support_rate": 0.75,
+  "avg_confidence": 0.83,
+  "total_claims": 5,
+  "supported": 3,
+  "unsupported": 1,
+  "conflict": 0,
+  "unknown": 1
+}
+```
+
 **Citation normalization:** Normalizes single-pipe `|` to double-pipe `||` in chunk IDs (compensates for occasional LLM output format errors).
 
 **Outputs:**
-- `outputs/verification.jsonl`
+- `outputs/verification.jsonl` — includes `confidence` field per claim
 - `outputs/answers.jsonl`
-- `logs/verifier_traces.jsonl`
+- `logs/verifier_traces.jsonl` — includes `confidence` per claim in trace
 
 **Configuration (demo.yaml):**
 ```yaml

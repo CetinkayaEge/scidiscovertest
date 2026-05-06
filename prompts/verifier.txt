@@ -20,6 +20,13 @@ Rules:
 - If the entire evidence set is empty, all claims are UNSUPPORTED and final_answer must be the abstain string.
 - Every claim in verified_claims must appear exactly once, in the same order as the input.
 
+Confidence score:
+Assign a confidence float between 0.0 and 1.0 that reflects how certain you are of the status decision:
+- 0.9–1.0: direct, unambiguous textual evidence for the decision
+- 0.6–0.8: claim is plausible from context but not explicitly stated
+- 0.3–0.5: weak, indirect, or partial match
+- 0.0–0.2: highly ambiguous or contradictory signals, status is a best guess
+
 Output format (return valid JSON only, no markdown fences):
 {{
   "verified_claims": [
@@ -27,6 +34,7 @@ Output format (return valid JSON only, no markdown fences):
       "claim_id": "<integer index, 0-based>",
       "claim": "<original claim text>",
       "status": "<SUPPORTED|UNSUPPORTED|CONFLICT|UNKNOWN>",
+      "confidence": <float 0.0-1.0>,
       "notes": "<one sentence explanation>"
     }}
   ],
