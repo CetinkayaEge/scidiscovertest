@@ -149,7 +149,7 @@ Synthesizes all paper summaries into a single coherent answer. Runs in **JSON mo
 
    ---
 
-   Paper: openalex_W123456
+   Paper: https://openalex.org/W123456
    ...
    ```
 3. Call LLM in JSON mode: `system=prompts/synthesizer.txt`, `user=<context>`

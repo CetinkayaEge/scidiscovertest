@@ -47,24 +47,22 @@ build_faiss_index(
 
 ---
 
-## Index Files (V2)
+## Index Files
 
-All active index files are under `indexv2/` and `embeddingsv2/`.
+| File | Contents |
+|------|----------|
+| `embeddings/chunks.npy` | float32 array, shape (num_chunks, 384) |
+| `index/faiss.index` | FAISS FlatIP binary index |
+| `index/chunk_ids.txt` | chunk IDs, one per line, order matches index rows |
+| `index/index.meta.json` | model name, dimensions, chunk count, config |
 
-| File | Size | Contents |
-|------|------|----------|
-| `embeddingsv2/chunks.npy` | ~16 MB | float32 array, shape (10219, 384) |
-| `indexv2/faiss.index` | ~16 MB | FAISS FlatIP binary index |
-| `indexv2/chunk_ids.txt` | ~390 KB | 10,219 chunk IDs, one per line |
-| `indexv2/index.meta.json` | 199 B | Model name, dimensions, config |
-
-### index.meta.json (V2)
+### index.meta.json
 
 ```json
 {
   "model_name": "sentence-transformers/all-MiniLM-L6-v2",
   "dim": 384,
-  "num_chunks": 10219,
+  "num_chunks": <current_count>,
   "index_type": "FlatIP",
   "k": 20,
   "chunk_policy": {
@@ -76,25 +74,13 @@ All active index files are under `indexv2/` and `embeddingsv2/`.
 
 ---
 
-## V1 vs V2 Index Comparison
-
-| Property | V1 (`index/`) | V2 (`indexv2/`) |
-|----------|--------------|----------------|
-| Chunks indexed | 15,294 | 10,219 |
-| Index file size | ~22 MB | ~16 MB |
-| Embeddings size | ~22 MB | ~16 MB |
-| top_k stored in meta | 5 | 20 |
-| Active | No | Yes |
-
----
-
 ## Embedding Model
 
 **Model:** `sentence-transformers/all-MiniLM-L6-v2`
 
 - Dimensions: 384
 - Architecture: 6-layer MiniLM fine-tuned for sentence similarity
-- Speed: Fast; suitable for embedding thousands of chunks on CPU
+- Speed: Fast; suitable for embedding tens of thousands of chunks on CPU
 - Similarity metric: Cosine (via L2-normalized inner product)
 
 The same model is used both at index-build time (to encode chunks) and at query time (to encode the user query). This is critical — query and chunk vectors must come from the same model to be comparable.
@@ -105,15 +91,17 @@ The same model is used both at index-build time (to encode chunks) and at query 
 
 ```yaml
 retrieval:
-  chunks_input: datav2/processed/chunks.jsonl
+  chunks_input: data/processed/chunks.jsonl
   papers_input: data/raw/papers.jsonl
-  embeddings_output: embeddingsv2/chunks.npy
-  index_output: indexv2/faiss.index
-  chunk_ids_output: indexv2/chunk_ids.txt
-  meta_output: indexv2/index.meta.json
+  embeddings_output: embeddings/chunks.npy
+  index_output: index/faiss.index
+  chunk_ids_output: index/chunk_ids.txt
+  meta_output: index/index.meta.json
   model_name: sentence-transformers/all-MiniLM-L6-v2
   top_k: 20
 ```
+
+**Note:** Both `papers_input` and the ingestion output point to `data/raw/papers.jsonl` — no copy step is needed. The retriever reads URLs and DOIs directly from the same file the ingestors write.
 
 ---
 
@@ -132,4 +120,4 @@ python -m scidiscover.run_demo --config configs/demo.yaml --skip-ingestion
 python -m scidiscover.run_demo --config configs/demo.yaml --skip-ingestion --skip-chunking
 ```
 
-Index build time scales linearly with the number of chunks. For the current 10,219 chunks it is fast (under a minute on CPU). At 50,000+ chunks it may take a few minutes.
+Index build time scales linearly with the number of chunks. For every ~10,000 chunks it takes under a minute on CPU.

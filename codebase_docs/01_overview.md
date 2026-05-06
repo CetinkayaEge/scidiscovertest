@@ -4,7 +4,7 @@
 
 SciDiscover is a multi-agent scientific discovery system. Given a research query, it retrieves relevant open-access papers, summarizes each one, synthesizes a coherent evidence-grounded answer, and optionally verifies every claim against the source chunks. All outputs include traceable citations back to specific text chunks.
 
-The corpus currently holds ~5,788 papers from two sources: PubMed Central (PMC) and OpenAlex.
+The corpus collects papers from two sources — PubMed Central (PMC) and OpenAlex — restricted to the **sustainability** and **healthcare** domains.
 
 ---
 
@@ -21,7 +21,7 @@ The corpus currently holds ~5,788 papers from two sources: PubMed Central (PMC) 
 │                      chunker.py                                  │
 │                             │                                    │
 │                             ▼                                    │
-│                   datav2/processed/chunks.jsonl                  │
+│                   data/processed/chunks.jsonl                    │
 │                             │                                    │
 │                             ▼                                    │
 │                       builder.py                                 │
@@ -29,7 +29,7 @@ The corpus currently holds ~5,788 papers from two sources: PubMed Central (PMC) 
 │                             │                                    │
 │              ┌──────────────┼───────────────┐                   │
 │              ▼              ▼               ▼                   │
-│    embeddingsv2/    indexv2/faiss.index  indexv2/chunk_ids.txt  │
+│    embeddings/      index/faiss.index   index/chunk_ids.txt     │
 │    chunks.npy                                                    │
 └──────────────────────────────────────────────────────────────────┘
 
@@ -87,20 +87,13 @@ streamlit run app.py
 
 ---
 
-## Corpus Scale (current)
+## Corpus Scale
 
 | Metric | Value |
 |--------|-------|
-| Total papers | ~5,788 |
-| PMC papers | ~3,000 |
-| OpenAlex papers | ~2,788 |
-| Total chunks (v2) | 10,219 |
-| Total chunks (v1) | 15,294 |
+| Target papers (PMC) | up to 8,000 (2023–2025) |
+| Target papers (OpenAlex) | up to 15,000 (2021+, 16 queries) |
 | Embedding dimensions | 384 |
 | Embedding model | `sentence-transformers/all-MiniLM-L6-v2` |
 
----
-
-## Active Data Version
-
-The project runs on **datav2** throughout the online pipeline. All config paths in `configs/demo.yaml` point to `datav2/`, `embeddingsv2/`, and `indexv2/`. See [03_processing_pipeline.md](03_processing_pipeline.md) for the difference between v1 and v2.
+See `docs/corpus_manifest.csv` for the exact current paper count after each ingestion run.
