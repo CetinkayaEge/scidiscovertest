@@ -27,11 +27,16 @@ import time
 from pathlib import Path
 
 from dotenv import load_dotenv
-from langchain_google_genai import ChatGoogleGenerativeAI
+import argparse as _argparse
 
 load_dotenv()
 
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.3)
+from utils.eval_llm import make_eval_llm as _make_eval_llm
+
+_eval_model = _argparse.ArgumentParser(add_help=False)
+_eval_model.add_argument("--eval-model", default="gemini-2.5-flash")
+_known, _ = _eval_model.parse_known_args()
+llm = _make_eval_llm(_known.eval_model, temperature=0.3)
 
 # ---------------------------------------------------------------------------
 # Domain classification

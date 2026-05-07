@@ -40,18 +40,13 @@ scidiscovertest/
 │   │   └── verifier.py             VerifierAgent (claim verification, optional)
 │   │
 │   └── eval/
-│       ├── run.py                  RAGAS evaluation runner
-│       └── generate_testset.py     Test dataset generation
+│       └── run.py                  Evaluation runner (custom metrics + RAGAS scoring)
 │
 ├── utils/
-│   ├── llm_client.py               Multi-provider LLM router (Anthropic/Gemini/local)
+│   ├── llm_client.py               Multi-provider LLM router for pipeline (Anthropic/Gemini/local)
+│   ├── eval_llm.py                 LLM factory for evaluation (OpenRouter or Gemini via LangChain)
 │   └── schemas.py                  Data validation schemas
 │
-├── data/
-│   ├── raw/
-│   │   └── papers.jsonl            Raw ingested papers — written by PMC and OpenAlex ingestors
-│   └── processed/
-│       └── chunks.jsonl            Chunked papers (title prepended to abstract with | separator)
 │
 ├── embeddings/
 │   └── chunks.npy                  float32 embedding matrix, shape (num_chunks, 384)
@@ -87,12 +82,22 @@ scidiscovertest/
 │   ├── verification.jsonl
 │   └── answers.jsonl
 │
-├── eval/                           Evaluation data
-│   ├── queries.jsonl
-│   └── labels.jsonl
+├── eval/                           RAGAS-based evaluation test set
+│   ├── generate_ragas_testset.py   RAGAS TestsetGenerator + unanswerable + out-of-domain queries
+│   ├── build_labels.py             Matches reference_contexts → expected_paper_ids + chunk_ids
+│   ├── queries.jsonl               Generated queries (query_id, query, reference, reference_contexts,
+│   │                               domain, difficulty, query_type, expected_paper_ids, expected_chunk_ids)
+│   └── labels.jsonl                Retrieval ground truth (query_id, expected_paper_ids, expected_chunk_ids)
+│
+├── data/
+│   ├── raw/
+│   │   └── papers.jsonl            Raw ingested papers
+│   └── processed/
+│       └── chunks.jsonl            Chunked papers
 │
 ├── reports/                        Evaluation results
-│   └── eval_results.json
+│   ├── eval_results.json           Latest run output
+│   └── eval_*.json                 Named ablation runs (full_gemini, no_verifier_hpc, etc.)
 │
 └── tests/                          Test suite
 ```

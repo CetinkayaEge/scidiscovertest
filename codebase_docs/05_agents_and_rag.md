@@ -86,10 +86,10 @@ Uses a `CrossEncoder` model to re-score query-chunk pairs. Cross-encoders are sl
 **Configuration (demo.yaml):**
 ```yaml
 reranker:
-  enabled: false
+  enabled: true
   model_name: cross-encoder/ms-marco-MiniLM-L-6-v2
   top_k: 10
-  min_score: -10.0
+  min_score: -.inf
 ```
 
 ---
@@ -114,7 +114,7 @@ Summarizes each paper independently using only the chunks retrieved for it. Resu
 4. Call LLM: `system=prompts/summarizer.txt`, `user=<context>`
 5. Every statement in the output must be cited as `[chunk_id]`
 
-**Parallelization:** `ThreadPoolExecutor` with `max_workers` (default: 4). Safe for Gemini API's ~10 RPM rate limit with 3–4 workers.
+**Parallelization:** `ThreadPoolExecutor` with `max_workers` (default: 1 for local vLLM, raise to 4–8 if the server can handle parallel requests; 3 for Gemini's ~10 RPM rate limit).
 
 **Error handling:** If LLM call fails, returns `[LLM ERROR: {message}]` marker. Downstream agents filter these out.
 
@@ -128,7 +128,7 @@ summarizer:
   prompt_path: prompts/summarizer.txt
   traces_output: logs/summarizer_traces.jsonl
   output_path: outputs/paper_summaries.json
-  max_workers: 4
+  max_workers: 1
 ```
 
 ---
@@ -293,9 +293,11 @@ call_llm(system: str, user: str, json_mode: bool = False, max_retries: int = 4) 
 
 ```yaml
 llm:
-  model: gemini-2.5-flash
+  model: local-qwen2.5-72b-instruct-gptq
   max_tokens: 4096
 ```
+
+**Note:** `max_tokens` is the completion length cap, not the total context. The local vLLM server has a total context window of 8192 tokens, so prompt + `max_tokens` must stay under 8192. With `max_tokens: 4096` you have 4096 tokens for the prompt — plenty for our prompts.
 
 ---
 
@@ -306,6 +308,89 @@ llm:
 | Summarizer | `prompts/summarizer.txt` | Every statement cited as `[chunk_id]`, 2–3 bullet points |
 | Synthesizer | `prompts/synthesizer.txt` | JSON output, every claim has `citation_ids` array |
 | Verifier | `prompts/verifier.txt` | JSON output, no outside knowledge, `[Chunk not found]` → UNKNOWN |
+
+---
+
+## Evaluation
+
+Driven by `scidiscover/eval/run.py`, using a RAGAS-generated test set in `eval/`.
+
+### Test Set Composition (`eval/queries.jsonl`)
+
+| Query type | Difficulty | Generator | Purpose |
+|---|---|---|---|
+| `ragas_single_hop` | easy | RAGAS `SingleHopSpecificQuerySynthesizer` | Single-chunk factual question |
+| `ragas_multi_hop` | medium / hard | RAGAS `MultiHopSpecificQuerySynthesizer` + `MultiHopAbstractQuerySynthesizer` | Cross-chunk reasoning |
+| `unanswerable` | unanswerable | LLM (asks for details not in abstract) | Should abstain |
+| `out_of_domain` | easy / medium / hard | Hardcoded (5 queries) | Should abstain |
+
+`expected_paper_ids` and `expected_chunk_ids` are populated during generation by matching RAGAS's `reference_contexts` against the chunk index.
+
+### Generating the RAGAS Test Set
+
+```bash
+# Step 1 — generate queries (reads ragas_model from configs/demo.yaml)
+PYTHONPATH=. python eval/generate_ragas_testset.py \
+    --n-chunks 300 --testset-size 70 --unanswerable 10
+
+# Override eval model
+PYTHONPATH=. python eval/generate_ragas_testset.py \
+    --n-chunks 300 --testset-size 70 --unanswerable 10 \
+    --eval-model openai/gpt-4o-mini
+
+# Step 2 — build labels.jsonl
+PYTHONPATH=. python eval/build_labels.py
+```
+
+`--eval-model` accepts any OpenRouter model ID (`provider/model-name`) or `gemini-*`. Provider is auto-detected by `utils/eval_llm.py`. JSON mode is enforced for both providers (`response_format` / `response_mime_type`).
+
+`eval/build_labels.py` resolves `reference_contexts` text → `expected_paper_ids` + `expected_chunk_ids` using two indexes: one with the title prefix (new format) and one with it stripped (legacy format). Unanswerable / out-of-domain queries get empty expected ID lists automatically.
+
+### Knowledge Graph Build (RAGAS testset generation)
+
+When `generate_ragas_testset.py` runs, RAGAS applies these transforms in order to build a knowledge graph for query synthesis:
+
+1. **`SummaryExtractor`** — summarize each chunk
+2. **`CustomNodeFilter`** — score 1–5 for question potential, drop low scores (patched to skip on intermittent failures)
+3. **`EmbeddingExtractor`** — embed chunks with MiniLM
+4. **`ThemesExtractor`** + **`NERExtractor`** — extract topics and entities
+5. **`CosineSimilarityBuilder`** + **`OverlapScoreBuilder`** — link related chunks
+6. **Persona generation** — create researcher personas
+7. **Scenario generation** — propose query scenarios from graph traversal
+8. **Sample synthesis** — turn scenarios into final query/reference pairs
+
+### Running Evaluation
+
+```bash
+# Quick test (5 queries, skip RAGAS scoring)
+PYTHONPATH=. python -m scidiscover.eval.run \
+    --config configs/demo.yaml --max-queries 5 --skip-ragas
+
+# Full run
+PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml
+
+# Ablation — no verifier
+PYTHONPATH=. python -m scidiscover.eval.run \
+    --config configs/demo.yaml --skip-verifier \
+    --output reports/eval_no_verifier.json
+```
+
+### Metrics
+
+| Metric | Source | What it measures |
+|---|---|---|
+| Recall@k | Custom | Fraction of expected papers found in top-k retrieved chunks |
+| Hallucination rate | Custom | Fraction of `[chunk_id]` citations in summaries not in the retrieved set |
+| Citation coverage | Custom | Fraction of key claims with at least one citation |
+| Support rate | Verifier | Fraction of claims marked SUPPORTED |
+| Abstention rate | Custom | Fraction of queries that returned "Insufficient evidence" |
+| RAGAS faithfulness | RAGAS + `eval.ragas_model` | Answer grounded in retrieved contexts |
+| RAGAS answer relevancy | RAGAS + `eval.ragas_model` | Answer relevant to the question |
+| RAGAS context recall | RAGAS + `eval.ragas_model` | Retrieved contexts cover the ground truth |
+
+**RAGAS model:** set via `eval.ragas_model` in `configs/demo.yaml`. OpenRouter models (e.g. `openai/gpt-5.4-mini`, `openai/gpt-4o-mini`) and Gemini models (e.g. `gemini-2.5-flash`) are supported. Note: OpenRouter does not support `n>1` for chat completions ([known limitation](https://github.com/OpenRouterTeam/openrouter-runner/issues/99)) — RAGAS will emit "LLM returned 1 generations instead of requested 3" warnings but scores remain valid. Use a Gemini model directly for `n=3` stability.
+
+Results written to `reports/eval_results.json` with per-query detail and per-domain breakdown.
 
 ---
 

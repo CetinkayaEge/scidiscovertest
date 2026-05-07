@@ -34,7 +34,7 @@ st.caption("Multi-agent scientific literature synthesis")
 # ---------------------------------------------------------------------------
 
 MODEL_OPTIONS = {
-    "DeepSeek-R1 32B (Local HPC)": "local-deepseek-r1-distill-qwen-32b",
+    "Local": "local-qwen2.5-72b-instruct-gptq",
     "Gemini 2.5 Flash": "gemini-2.5-flash",
 }
 

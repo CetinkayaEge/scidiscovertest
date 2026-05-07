@@ -1,35 +1,84 @@
-{"query_id": "q001", "expected_paper_ids": []}
-{"query_id": "q002", "expected_paper_ids": []}
-{"query_id": "q003", "expected_paper_ids": []}
-{"query_id": "q004", "expected_paper_ids": []}
-{"query_id": "q005", "expected_paper_ids": []}
-{"query_id": "q006", "expected_paper_ids": []}
-{"query_id": "q007", "expected_paper_ids": []}
-{"query_id": "q008", "expected_paper_ids": []}
-{"query_id": "q009", "expected_paper_ids": []}
-{"query_id": "q010", "expected_paper_ids": []}
-{"query_id": "q011", "expected_paper_ids": []}
-{"query_id": "q012", "expected_paper_ids": []}
-{"query_id": "q013", "expected_paper_ids": []}
-{"query_id": "q014", "expected_paper_ids": []}
-{"query_id": "q015", "expected_paper_ids": []}
-{"query_id": "q016", "expected_paper_ids": []}
-{"query_id": "q017", "expected_paper_ids": []}
-{"query_id": "q018", "expected_paper_ids": []}
-{"query_id": "q019", "expected_paper_ids": []}
-{"query_id": "q020", "expected_paper_ids": []}
-{"query_id": "q021", "expected_paper_ids": []}
-{"query_id": "q022", "expected_paper_ids": []}
-{"query_id": "q023", "expected_paper_ids": []}
-{"query_id": "q024", "expected_paper_ids": []}
-{"query_id": "q025", "expected_paper_ids": []}
-{"query_id": "q026", "expected_paper_ids": []}
-{"query_id": "q027", "expected_paper_ids": []}
-{"query_id": "q028", "expected_paper_ids": []}
-{"query_id": "q029", "expected_paper_ids": []}
-{"query_id": "q030", "expected_paper_ids": ["https://openalex.org/W4392703798"]}
-{"query_id": "q031", "expected_paper_ids": []}
-{"query_id": "q032", "expected_paper_ids": []}
-{"query_id": "q033", "expected_paper_ids": []}
-{"query_id": "q034", "expected_paper_ids": []}
-{"query_id": "q035", "expected_paper_ids": []}
+{"query_id": "q001", "expected_paper_ids": ["https://openalex.org/W4281620845"], "expected_chunk_ids": ["https://openalex.org/W4281620845||ABSTRACT||000"]}
+{"query_id": "q002", "expected_paper_ids": ["pmc_PMC3164634"], "expected_chunk_ids": ["pmc_PMC3164634||ABSTRACT||001"]}
+{"query_id": "q003", "expected_paper_ids": ["https://openalex.org/W4313508734"], "expected_chunk_ids": ["https://openalex.org/W4313508734||ABSTRACT||001"]}
+{"query_id": "q004", "expected_paper_ids": ["https://openalex.org/W4400778971"], "expected_chunk_ids": ["https://openalex.org/W4400778971||ABSTRACT||000"]}
+{"query_id": "q005", "expected_paper_ids": ["https://openalex.org/W3205987731"], "expected_chunk_ids": ["https://openalex.org/W3205987731||ABSTRACT||001"]}
+{"query_id": "q006", "expected_paper_ids": ["pmc_PMC9663388"], "expected_chunk_ids": ["pmc_PMC9663388||ABSTRACT||000"]}
+{"query_id": "q007", "expected_paper_ids": ["https://openalex.org/W4200600140"], "expected_chunk_ids": ["https://openalex.org/W4200600140||ABSTRACT||000"]}
+{"query_id": "q008", "expected_paper_ids": ["https://openalex.org/W3194620278"], "expected_chunk_ids": ["https://openalex.org/W3194620278||ABSTRACT||001"]}
+{"query_id": "q009", "expected_paper_ids": ["https://openalex.org/W3135800278"], "expected_chunk_ids": ["https://openalex.org/W3135800278||ABSTRACT||000"]}
+{"query_id": "q010", "expected_paper_ids": ["https://openalex.org/W4313828924"], "expected_chunk_ids": ["https://openalex.org/W4313828924||ABSTRACT||000"]}
+{"query_id": "q011", "expected_paper_ids": ["https://openalex.org/W4281251447"], "expected_chunk_ids": ["https://openalex.org/W4281251447||ABSTRACT||000"]}
+{"query_id": "q012", "expected_paper_ids": ["pmc_PMC4170598"], "expected_chunk_ids": ["pmc_PMC4170598||ABSTRACT||000"]}
+{"query_id": "q013", "expected_paper_ids": ["pmc_PMC10140818"], "expected_chunk_ids": ["pmc_PMC10140818||ABSTRACT||000"]}
+{"query_id": "q014", "expected_paper_ids": ["https://openalex.org/W4390432598"], "expected_chunk_ids": ["https://openalex.org/W4390432598||ABSTRACT||000"]}
+{"query_id": "q015", "expected_paper_ids": ["https://openalex.org/W4281491874"], "expected_chunk_ids": ["https://openalex.org/W4281491874||ABSTRACT||000"]}
+{"query_id": "q016", "expected_paper_ids": ["https://openalex.org/W4388912921"], "expected_chunk_ids": ["https://openalex.org/W4388912921||ABSTRACT||001"]}
+{"query_id": "q017", "expected_paper_ids": ["pmc_PMC10229702"], "expected_chunk_ids": ["pmc_PMC10229702||ABSTRACT||001"]}
+{"query_id": "q018", "expected_paper_ids": ["https://openalex.org/W4407802080"], "expected_chunk_ids": ["https://openalex.org/W4407802080||ABSTRACT||000"]}
+{"query_id": "q019", "expected_paper_ids": ["pmc_PMC4164248"], "expected_chunk_ids": ["pmc_PMC4164248||ABSTRACT||001"]}
+{"query_id": "q020", "expected_paper_ids": ["https://openalex.org/W4282929872"], "expected_chunk_ids": ["https://openalex.org/W4282929872||ABSTRACT||000"]}
+{"query_id": "q021", "expected_paper_ids": ["pmc_PMC9805781"], "expected_chunk_ids": ["pmc_PMC9805781||ABSTRACT||000"]}
+{"query_id": "q022", "expected_paper_ids": ["pmc_PMC9064850"], "expected_chunk_ids": ["pmc_PMC9064850||ABSTRACT||000"]}
+{"query_id": "q023", "expected_paper_ids": ["https://openalex.org/W4381591906"], "expected_chunk_ids": ["https://openalex.org/W4381591906||ABSTRACT||000"]}
+{"query_id": "q024", "expected_paper_ids": ["https://openalex.org/W4320719832"], "expected_chunk_ids": ["https://openalex.org/W4320719832||ABSTRACT||000"]}
+{"query_id": "q025", "expected_paper_ids": ["https://openalex.org/W4280522772"], "expected_chunk_ids": ["https://openalex.org/W4280522772||ABSTRACT||000"]}
+{"query_id": "q026", "expected_paper_ids": ["https://openalex.org/W4324143026", "https://openalex.org/W4386805143", "https://openalex.org/W4323925755"], "expected_chunk_ids": ["https://openalex.org/W4324143026||ABSTRACT||000", "https://openalex.org/W4386805143||ABSTRACT||000", "https://openalex.org/W4323925755||ABSTRACT||000"]}
+{"query_id": "q027", "expected_paper_ids": ["https://openalex.org/W4220986058", "https://openalex.org/W4315708900", "https://openalex.org/W4388794845"], "expected_chunk_ids": ["https://openalex.org/W4220986058||ABSTRACT||000", "https://openalex.org/W4315708900||ABSTRACT||001", "https://openalex.org/W4388794845||ABSTRACT||000"]}
+{"query_id": "q028", "expected_paper_ids": ["https://openalex.org/W4317423299", "https://openalex.org/W3131045123", "https://openalex.org/W4316038051"], "expected_chunk_ids": ["https://openalex.org/W4317423299||ABSTRACT||000", "https://openalex.org/W3131045123||ABSTRACT||000", "https://openalex.org/W4316038051||ABSTRACT||001"]}
+{"query_id": "q029", "expected_paper_ids": ["https://openalex.org/W4324143026", "https://openalex.org/W4323925755", "https://openalex.org/W4364357056"], "expected_chunk_ids": ["https://openalex.org/W4324143026||ABSTRACT||000", "https://openalex.org/W4323925755||ABSTRACT||000", "https://openalex.org/W4364357056||ABSTRACT||000"]}
+{"query_id": "q030", "expected_paper_ids": ["https://openalex.org/W4321507223", "https://openalex.org/W4310036329", "https://openalex.org/W3120903819"], "expected_chunk_ids": ["https://openalex.org/W4321507223||ABSTRACT||000", "https://openalex.org/W4310036329||ABSTRACT||000", "https://openalex.org/W3120903819||ABSTRACT||000"]}
+{"query_id": "q031", "expected_paper_ids": ["https://openalex.org/W3166839458", "https://openalex.org/W4399600744", "https://openalex.org/W4409540874"], "expected_chunk_ids": ["https://openalex.org/W3166839458||ABSTRACT||001", "https://openalex.org/W4399600744||ABSTRACT||000", "https://openalex.org/W4409540874||ABSTRACT||001"]}
+{"query_id": "q032", "expected_paper_ids": ["https://openalex.org/W3174144713", "https://openalex.org/W4383567484", "https://openalex.org/W3123364762"], "expected_chunk_ids": ["https://openalex.org/W3174144713||ABSTRACT||000", "https://openalex.org/W4383567484||ABSTRACT||000", "https://openalex.org/W3123364762||ABSTRACT||000"]}
+{"query_id": "q033", "expected_paper_ids": ["https://openalex.org/W4315646741", "https://openalex.org/W4381591906"], "expected_chunk_ids": ["https://openalex.org/W4315646741||ABSTRACT||022", "https://openalex.org/W4381591906||ABSTRACT||000"]}
+{"query_id": "q034", "expected_paper_ids": ["https://openalex.org/W4320729134", "https://openalex.org/W4409506585", "https://openalex.org/W4205386374"], "expected_chunk_ids": ["https://openalex.org/W4320729134||ABSTRACT||000", "https://openalex.org/W4409506585||ABSTRACT||000", "https://openalex.org/W4205386374||ABSTRACT||000"]}
+{"query_id": "q035", "expected_paper_ids": ["https://openalex.org/W4200252599", "https://openalex.org/W4280522772"], "expected_chunk_ids": ["https://openalex.org/W4200252599||ABSTRACT||000", "https://openalex.org/W4280522772||ABSTRACT||000"]}
+{"query_id": "q036", "expected_paper_ids": ["https://openalex.org/W4200252599", "https://openalex.org/W4220852241"], "expected_chunk_ids": ["https://openalex.org/W4200252599||ABSTRACT||000", "https://openalex.org/W4220852241||ABSTRACT||000"]}
+{"query_id": "q037", "expected_paper_ids": ["https://openalex.org/W4383567484", "https://openalex.org/W3123364762"], "expected_chunk_ids": ["https://openalex.org/W4383567484||ABSTRACT||000", "https://openalex.org/W3123364762||ABSTRACT||000"]}
+{"query_id": "q038", "expected_paper_ids": ["https://openalex.org/W3174144713", "https://openalex.org/W4220852241", "https://openalex.org/W3173657961"], "expected_chunk_ids": ["https://openalex.org/W3174144713||ABSTRACT||000", "https://openalex.org/W4220852241||ABSTRACT||000", "https://openalex.org/W3173657961||ABSTRACT||000"]}
+{"query_id": "q039", "expected_paper_ids": ["https://openalex.org/W4408599276", "https://openalex.org/W4411995213"], "expected_chunk_ids": ["https://openalex.org/W4408599276||ABSTRACT||000", "https://openalex.org/W4411995213||ABSTRACT||000"]}
+{"query_id": "q040", "expected_paper_ids": ["https://openalex.org/W4408599276", "https://openalex.org/W4313828924", "https://openalex.org/W4403214671"], "expected_chunk_ids": ["https://openalex.org/W4408599276||ABSTRACT||000", "https://openalex.org/W4313828924||ABSTRACT||000", "https://openalex.org/W4403214671||ABSTRACT||001"]}
+{"query_id": "q041", "expected_paper_ids": ["pmc_PMC5386762", "pmc_PMC10063445"], "expected_chunk_ids": ["pmc_PMC5386762||ABSTRACT||000", "pmc_PMC10063445||ABSTRACT||000"]}
+{"query_id": "q042", "expected_paper_ids": ["https://openalex.org/W4205386374", "https://openalex.org/W4400130122", "https://openalex.org/W4308113945"], "expected_chunk_ids": ["https://openalex.org/W4205386374||ABSTRACT||000", "https://openalex.org/W4400130122||ABSTRACT||000", "https://openalex.org/W4308113945||ABSTRACT||000"]}
+{"query_id": "q043", "expected_paper_ids": ["https://openalex.org/W4315708900", "https://openalex.org/W4280576525", "https://openalex.org/W3126489268"], "expected_chunk_ids": ["https://openalex.org/W4315708900||ABSTRACT||001", "https://openalex.org/W4280576525||ABSTRACT||000", "https://openalex.org/W3126489268||ABSTRACT||000"]}
+{"query_id": "q044", "expected_paper_ids": ["https://openalex.org/W4413155087", "https://openalex.org/W4376621816"], "expected_chunk_ids": ["https://openalex.org/W4413155087||ABSTRACT||000", "https://openalex.org/W4376621816||ABSTRACT||000"]}
+{"query_id": "q045", "expected_paper_ids": ["https://openalex.org/W4280576525", "https://openalex.org/W4388794845", "https://openalex.org/W3126489268"], "expected_chunk_ids": ["https://openalex.org/W4280576525||ABSTRACT||000", "https://openalex.org/W4388794845||ABSTRACT||000", "https://openalex.org/W3126489268||ABSTRACT||000"]}
+{"query_id": "q046", "expected_paper_ids": ["https://openalex.org/W4285797265"], "expected_chunk_ids": ["https://openalex.org/W4285797265||ABSTRACT||000"]}
+{"query_id": "q047", "expected_paper_ids": ["https://openalex.org/W4280503421", "https://openalex.org/W4281251447"], "expected_chunk_ids": ["https://openalex.org/W4280503421||ABSTRACT||000", "https://openalex.org/W4281251447||ABSTRACT||000"]}
+{"query_id": "q048", "expected_paper_ids": ["https://openalex.org/W4280522772"], "expected_chunk_ids": ["https://openalex.org/W4280522772||ABSTRACT||000"]}
+{"query_id": "q049", "expected_paper_ids": ["https://openalex.org/W4313181844", "https://openalex.org/W4304172606"], "expected_chunk_ids": ["https://openalex.org/W4313181844||ABSTRACT||000", "https://openalex.org/W4304172606||ABSTRACT||000"]}
+{"query_id": "q050", "expected_paper_ids": ["https://openalex.org/W4381591906"], "expected_chunk_ids": ["https://openalex.org/W4381591906||ABSTRACT||000"]}
+{"query_id": "q051", "expected_paper_ids": ["pmc_PMC10065101"], "expected_chunk_ids": ["pmc_PMC10065101||ABSTRACT||001"]}
+{"query_id": "q052", "expected_paper_ids": ["https://openalex.org/W4323925755"], "expected_chunk_ids": ["https://openalex.org/W4323925755||ABSTRACT||000"]}
+{"query_id": "q053", "expected_paper_ids": ["https://openalex.org/W4220986058"], "expected_chunk_ids": ["https://openalex.org/W4220986058||ABSTRACT||000"]}
+{"query_id": "q054", "expected_paper_ids": ["https://openalex.org/W4385875829"], "expected_chunk_ids": ["https://openalex.org/W4385875829||ABSTRACT||000"]}
+{"query_id": "q055", "expected_paper_ids": ["pmc_PMC5387312", "https://openalex.org/W4393902225"], "expected_chunk_ids": ["pmc_PMC5387312||ABSTRACT||000", "https://openalex.org/W4393902225||ABSTRACT||000"]}
+{"query_id": "q056", "expected_paper_ids": ["https://openalex.org/W4385875829"], "expected_chunk_ids": ["https://openalex.org/W4385875829||ABSTRACT||000"]}
+{"query_id": "q057", "expected_paper_ids": ["https://openalex.org/W4391131066", "https://openalex.org/W4327860571"], "expected_chunk_ids": ["https://openalex.org/W4391131066||ABSTRACT||001", "https://openalex.org/W4327860571||ABSTRACT||000"]}
+{"query_id": "q058", "expected_paper_ids": ["https://openalex.org/W4391131066"], "expected_chunk_ids": ["https://openalex.org/W4391131066||ABSTRACT||001"]}
+{"query_id": "q059", "expected_paper_ids": ["https://openalex.org/W4322500966"], "expected_chunk_ids": ["https://openalex.org/W4322500966||ABSTRACT||000"]}
+{"query_id": "q060", "expected_paper_ids": ["https://openalex.org/W10420025", "https://openalex.org/W4308695771"], "expected_chunk_ids": ["https://openalex.org/W10420025||ABSTRACT||000", "https://openalex.org/W4308695771||ABSTRACT||001"]}
+{"query_id": "q061", "expected_paper_ids": ["https://openalex.org/W3166839458", "https://openalex.org/W4308113945"], "expected_chunk_ids": ["https://openalex.org/W3166839458||ABSTRACT||001", "https://openalex.org/W4308113945||ABSTRACT||000"]}
+{"query_id": "q062", "expected_paper_ids": ["https://openalex.org/W4324149138"], "expected_chunk_ids": ["https://openalex.org/W4324149138||ABSTRACT||000"]}
+{"query_id": "q063", "expected_paper_ids": ["pmc_PMC10311348"], "expected_chunk_ids": ["pmc_PMC10311348||ABSTRACT||000"]}
+{"query_id": "q064", "expected_paper_ids": ["https://openalex.org/W4200364028", "https://openalex.org/W4387873299"], "expected_chunk_ids": ["https://openalex.org/W4200364028||ABSTRACT||000", "https://openalex.org/W4387873299||ABSTRACT||000"]}
+{"query_id": "q065", "expected_paper_ids": ["https://openalex.org/W4321507223"], "expected_chunk_ids": ["https://openalex.org/W4321507223||ABSTRACT||000"]}
+{"query_id": "q066", "expected_paper_ids": ["https://openalex.org/W4384698381"], "expected_chunk_ids": ["https://openalex.org/W4384698381||ABSTRACT||000"]}
+{"query_id": "q067", "expected_paper_ids": ["https://openalex.org/W3204722255"], "expected_chunk_ids": ["https://openalex.org/W3204722255||ABSTRACT||000"]}
+{"query_id": "q068", "expected_paper_ids": ["https://openalex.org/W4385633441"], "expected_chunk_ids": ["https://openalex.org/W4385633441||ABSTRACT||000"]}
+{"query_id": "q069", "expected_paper_ids": ["https://openalex.org/W4396495518"], "expected_chunk_ids": ["https://openalex.org/W4396495518||ABSTRACT||000"]}
+{"query_id": "q070", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q071", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q072", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q073", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q074", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q075", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q076", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q077", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q078", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q079", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q080", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q081", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q082", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q083", "expected_paper_ids": [], "expected_chunk_ids": []}
+{"query_id": "q084", "expected_paper_ids": [], "expected_chunk_ids": []}

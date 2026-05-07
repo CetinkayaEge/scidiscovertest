@@ -176,7 +176,7 @@ def run_ragas(results: list, ragas_model: str) -> dict:
     from ragas.llms import LangchainLLMWrapper
     from ragas.embeddings import LangchainEmbeddingsWrapper
     from langchain_huggingface import HuggingFaceEmbeddings
-    from langchain_google_genai import ChatGoogleGenerativeAI
+    from utils.eval_llm import make_eval_llm
 
     rows = []
     for r in results:
@@ -197,7 +197,7 @@ def run_ragas(results: list, ragas_model: str) -> dict:
 
     with warnings.catch_warnings():
         warnings.filterwarnings("ignore")
-        llm = LangchainLLMWrapper(ChatGoogleGenerativeAI(model=ragas_model))
+        llm = LangchainLLMWrapper(make_eval_llm(ragas_model))
         emb = LangchainEmbeddingsWrapper(
             HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
         )
