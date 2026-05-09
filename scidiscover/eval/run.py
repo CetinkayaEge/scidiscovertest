@@ -48,17 +48,52 @@ def compute_recall_at_k(evidence_pack: dict, expected_chunk_ids: list) -> float 
     return round(hits / len(expected_chunk_ids), 4)
 
 
-def compute_hallucination_rate(summaries: list, evidence_pack: dict) -> float:
-    """Fraction of [chunk_id] citations in summaries that are NOT in the retrieved evidence set."""
-    valid_ids = {ch["chunk_id"] for ch in evidence_pack["chunks"]}
+def compute_summarizer_hallucination_rate(summaries: list, evidence_pack: dict) -> float | None:
+    """
+    Fraction of [chunk_id] citations in summarizer output that do NOT belong to
+    that paper's own retrieved chunks.
+
+    Catches two failure modes:
+      - Completely fabricated chunk IDs (not in evidence_pack at all)
+      - Cross-paper citations (chunk from paper Y cited in paper X's summary)
+
+    Returns None when no citations were produced, to distinguish from a clean
+    run where citations were present and all were valid.
+    """
+    # Per-paper chunk sets so cross-paper citations are flagged
+    paper_chunks: dict = {}
+    for ch in evidence_pack["chunks"]:
+        paper_chunks.setdefault(ch["paper_id"], set()).add(ch["chunk_id"])
+
     pattern = re.compile(r'\[([^\]]+\|\|[^\]]+)\]')
     total = hallucinated = 0
     for ps in summaries:
+        own_ids = paper_chunks.get(ps.get("paper_id", ""), set())
         for cid in pattern.findall(ps.get("summary_text", "")):
+            total += 1
+            if cid not in own_ids:
+                hallucinated += 1
+
+    return round(hallucinated / total, 4) if total > 0 else None
+
+
+def compute_synthesizer_hallucination_rate(synthesis: dict, evidence_pack: dict) -> float | None:
+    """
+    Fraction of citation_ids in synthesizer key_claims that do NOT exist in the
+    retrieved evidence set.
+
+    Catches synthesizer-level hallucinations that bypass the summarizer metric.
+    Returns None when no citations were produced.
+    """
+    valid_ids = {ch["chunk_id"] for ch in evidence_pack["chunks"]}
+    total = hallucinated = 0
+    for claim in synthesis.get("key_claims", []):
+        for cid in claim.get("citation_ids", []):
             total += 1
             if cid not in valid_ids:
                 hallucinated += 1
-    return round(hallucinated / total, 4) if total > 0 else 0.0
+
+    return round(hallucinated / total, 4) if total > 0 else None
 
 
 # ---------------------------------------------------------------------------
@@ -94,8 +129,9 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 
     recall_at_k = compute_recall_at_k(evidence_pack, query_record.get("expected_chunk_ids", []))
 
-    # Summarizer hallucination rate
-    hallucination_rate = compute_hallucination_rate(summaries, evidence_pack)
+    # Hallucination rates (both None when model produced no citations)
+    summarizer_hal = compute_summarizer_hallucination_rate(summaries, evidence_pack)
+    synthesizer_hal = compute_synthesizer_hallucination_rate(synthesis, evidence_pack)
 
     # Store retrieved texts for RAGAS
     retrieved_contexts = [ch["text"] for ch in evidence_pack["chunks"]]
@@ -127,7 +163,8 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
             "n_conflict": None,
             "n_unknown": None,
             "recall_at_k": recall_at_k,
-            "hallucination_rate": hallucination_rate,
+            "summarizer_hallucination_rate": summarizer_hal,
+            "synthesizer_hallucination_rate": synthesizer_hal,
             "latency_s": round(latency_s, 2),
             "domain": query_record.get("domain", ""),
             "query_type": query_record.get("query_type", ""),
@@ -156,7 +193,8 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         "n_conflict": vs["conflict"],
         "n_unknown": vs["unknown"],
         "recall_at_k": recall_at_k,
-        "hallucination_rate": hallucination_rate,
+        "summarizer_hallucination_rate": summarizer_hal,
+        "synthesizer_hallucination_rate": synthesizer_hal,
         "latency_s": round(latency_s, 2),
         "domain": query_record.get("domain", ""),
         "query_type": query_record.get("query_type", ""),
@@ -344,14 +382,15 @@ def main():
                 "final_answer": "",
                 "abstained": True,
                 "citation_coverage": 0.0,
-                "support_rate": 0.0,
+                "support_rate": None,
                 "n_claims": 0,
-                "n_supported": 0,
-                "n_unsupported": 0,
-                "n_conflict": 0,
-                "n_unknown": 0,
+                "n_supported": None,
+                "n_unsupported": None,
+                "n_conflict": None,
+                "n_unknown": None,
                 "recall_at_k": None,
-                "hallucination_rate": None,
+                "summarizer_hallucination_rate": None,
+                "synthesizer_hallucination_rate": None,
                 "latency_s": 0.0,
                 "domain": q.get("domain", ""),
                 "query_type": q.get("query_type", ""),
@@ -376,7 +415,8 @@ def main():
             "avg_support_rate": _avg("support_rate", subset),
             "abstention_rate": round(sum(1 for r in subset if r.get("abstained")) / m, 4),
             "avg_recall_at_k": _avg("recall_at_k", subset),
-            "avg_hallucination_rate": _avg("hallucination_rate", subset),
+            "avg_summarizer_hallucination_rate": _avg("summarizer_hallucination_rate", subset),
+            "avg_synthesizer_hallucination_rate": _avg("synthesizer_hallucination_rate", subset),
             "avg_latency_s": _avg("latency_s", subset),
         }
 
@@ -424,7 +464,8 @@ def main():
         "correct_abstention_rate": _abstention_rate(expect_abstain_results),
         "avg_recall_at_k": _avg("recall_at_k"),
         "recall_at_k_by_query_type": recall_by_query_type,
-        "avg_hallucination_rate": _avg("hallucination_rate"),
+        "avg_summarizer_hallucination_rate": _avg("summarizer_hallucination_rate"),
+        "avg_synthesizer_hallucination_rate": _avg("synthesizer_hallucination_rate"),
         **ragas_scores,
         "by_domain": by_domain,
         "per_query": results,
@@ -444,7 +485,8 @@ def main():
     print(f"  Avg Recall@k             {report['avg_recall_at_k']}")
     for qt, val in report["recall_at_k_by_query_type"].items():
         print(f"    [{qt}] {val}")
-    print(f"  Avg Hallucination Rate   {report['avg_hallucination_rate']}")
+    print(f"  Summarizer Hal. Rate     {report['avg_summarizer_hallucination_rate']}")
+    print(f"  Synthesizer Hal. Rate    {report['avg_synthesizer_hallucination_rate']}")
     print(f"  Avg Latency              {report['avg_latency_s']}s")
     if ragas_scores:
         print(f"  RAGAS Context Recall     {ragas_scores.get('ragas_context_recall')}")
@@ -458,7 +500,8 @@ def main():
                   f"sup={stats['avg_support_rate']}  "
                   f"abstain={stats['abstention_rate']}  "
                   f"rec@k={stats['avg_recall_at_k']}  "
-                  f"hal={stats['avg_hallucination_rate']}")
+                  f"hal_sum={stats['avg_summarizer_hallucination_rate']}  "
+                  f"hal_syn={stats['avg_synthesizer_hallucination_rate']}")
     print(f"{'='*60}")
     print(f"Full report → {results_output}")
 
