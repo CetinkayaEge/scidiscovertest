@@ -39,13 +39,13 @@ _ABSTAIN_MSG = "Insufficient evidence in retrieved corpus to answer reliably."
 # Metric helpers
 # ---------------------------------------------------------------------------
 
-def compute_recall_at_k(evidence_pack: dict, expected_paper_ids: list) -> float | None:
-    """Fraction of expected paper_ids found in the retrieved chunks."""
-    if not expected_paper_ids:
+def compute_recall_at_k(evidence_pack: dict, expected_chunk_ids: list) -> float | None:
+    """Fraction of expected chunk_ids found in the retrieved chunks."""
+    if not expected_chunk_ids:
         return None
-    retrieved = {ch["paper_id"] for ch in evidence_pack["chunks"]}
-    hits = sum(1 for pid in expected_paper_ids if pid in retrieved)
-    return round(hits / len(expected_paper_ids), 4)
+    retrieved = {ch["chunk_id"] for ch in evidence_pack["chunks"]}
+    hits = sum(1 for cid in expected_chunk_ids if cid in retrieved)
+    return round(hits / len(expected_chunk_ids), 4)
 
 
 def compute_hallucination_rate(summaries: list, evidence_pack: dict) -> float:
@@ -94,9 +94,9 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 
     latency_s = time.time() - t0
 
-    # Recall@k — labels file takes priority, fallback to expected_paper_ids in query record
-    expected = (labels_lookup.get(qid, {}).get("expected_paper_ids")
-                or query_record.get("expected_paper_ids", []))
+    # Recall@k — labels file takes priority, fallback to expected_chunk_ids in query record
+    expected = (labels_lookup.get(qid, {}).get("expected_chunk_ids")
+                or query_record.get("expected_chunk_ids", []))
     recall_at_k = compute_recall_at_k(evidence_pack, expected)
 
     # Summarizer hallucination rate
