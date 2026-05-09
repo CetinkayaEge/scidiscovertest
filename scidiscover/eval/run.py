@@ -74,7 +74,7 @@ def _citation_coverage_from_claims(key_claims: list) -> float:
 
 
 def run_pipeline(query_record: dict, agents: dict, top_k: int,
-                 labels_lookup: dict, skip_verifier: bool = False) -> dict:
+                 skip_verifier: bool = False) -> dict:
     query = query_record["query"]
     qid = query_record.get("query_id") or query_record.get("id", "")
 
