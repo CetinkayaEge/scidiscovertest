@@ -268,6 +268,8 @@ def main():
     parser.add_argument("--skip-ragas", action="store_true")
     parser.add_argument("--skip-verifier", action="store_true",
                         help="Ablation: skip VerifierAgent, use synthesis output directly")
+    parser.add_argument("--skip-reranker", action="store_true",
+                        help="Ablation: skip RerankerAgent regardless of config")
     parser.add_argument("--output", default=None,
                         help="Override output path (default: eval.results_output in config)")
     parser.add_argument("--max-queries", type=int, default=None)
@@ -284,7 +286,7 @@ def main():
     ragas_model = eval_cfg.get("ragas_model", "gemini-2.5-flash")
 
     # Derive a human-readable mode tag for the report
-    reranker_on = config.get("reranker", {}).get("enabled", False)
+    reranker_on = config.get("reranker", {}).get("enabled", False) and not args.skip_reranker
     llm_model = config["llm"]["model"]
     mode_tag = f"{'no_verifier' if args.skip_verifier else 'full'}_{'no_reranker' if not reranker_on else 'reranker'}_{llm_model.split('-')[0]}"
 
@@ -335,7 +337,7 @@ def main():
     }
 
     reranker_cfg = config.get("reranker", {})
-    if reranker_cfg.get("enabled", False):
+    if reranker_cfg.get("enabled", False) and not args.skip_reranker:
         agents["reranker_agent"] = RerankerAgent(
             model_name=reranker_cfg["model_name"],
             top_k=reranker_cfg.get("top_k", top_k),
