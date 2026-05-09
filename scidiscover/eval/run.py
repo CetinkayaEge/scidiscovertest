@@ -364,12 +364,14 @@ def main():
             row = run_pipeline(q, agents, top_k,
                                skip_verifier=args.skip_verifier)
             rec = row["recall_at_k"]
-            hal = row["hallucination_rate"]
+            hal_sum = row["summarizer_hallucination_rate"]
+            hal_syn = row["synthesizer_hallucination_rate"]
             sup = row["support_rate"]
             print(f"    cov={row['citation_coverage']:.2f}  "
                   f"support={f'{sup:.2f}' if sup is not None else 'N/A'}  "
                   f"rec@k={rec if rec is not None else 'N/A'}  "
-                  f"hal={f'{hal:.2f}' if hal is not None else 'N/A'}  "
+                  f"hal_sum={f'{hal_sum:.2f}' if hal_sum is not None else 'N/A'}  "
+                  f"hal_syn={f'{hal_syn:.2f}' if hal_syn is not None else 'N/A'}  "
                   f"abstain={row['abstained']}  "
                   f"{row['latency_s']}s")
         except Exception as e:
