@@ -92,8 +92,6 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         "paper_summaries": summaries,
     })
 
-    latency_s = time.time() - t0
-
     recall_at_k = compute_recall_at_k(evidence_pack, query_record.get("expected_chunk_ids", []))
 
     # Summarizer hallucination rate
@@ -113,6 +111,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         )
         final_answer = _ABSTAIN_MSG if abstained else draft
         citation_coverage = _citation_coverage_from_claims(key_claims)
+        latency_s = time.time() - t0
         return {
             "query_id": qid,
             "query": query,
@@ -139,6 +138,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         "synthesis": synthesis,
         "evidence_pack": evidence_pack,
     })
+    latency_s = time.time() - t0
     vs = verified["verification_summary"]
 
     return {
