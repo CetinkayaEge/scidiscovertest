@@ -134,6 +134,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
             "hallucination_rate": hallucination_rate,
             "latency_s": round(latency_s, 2),
             "domain": query_record.get("domain", ""),
+            "query_type": query_record.get("query_type", ""),
         }
 
     # Full pipeline — run verifier
@@ -161,6 +162,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         "hallucination_rate": hallucination_rate,
         "latency_s": round(latency_s, 2),
         "domain": query_record.get("domain", ""),
+        "query_type": query_record.get("query_type", ""),
     }
 
 
@@ -367,6 +369,7 @@ def main():
                 "hallucination_rate": None,
                 "latency_s": 0.0,
                 "domain": q.get("domain", ""),
+                "query_type": q.get("query_type", ""),
                 "error": str(e),
             }
         results.append(row)
@@ -392,12 +395,28 @@ def main():
             "avg_latency_s": _avg("latency_s", subset),
         }
 
+    _EXPECTED_ABSTAIN = {"unanswerable", "out_of_domain"}
+    answerable_results     = [r for r in results if r.get("query_type") not in _EXPECTED_ABSTAIN]
+    expect_abstain_results = [r for r in results if r.get("query_type") in _EXPECTED_ABSTAIN]
+
+    def _abstention_rate(subset):
+        return round(sum(1 for r in subset if r.get("abstained")) / len(subset), 4) if subset else None
+
     # Group results by domain
     from collections import defaultdict
     domain_groups: dict = defaultdict(list)
     for r in results:
         domain_groups[r.get("domain") or "unknown"].append(r)
     by_domain = {d: _domain_summary(rows) for d, rows in sorted(domain_groups.items())}
+
+    # Recall@k split by query type
+    qtype_groups: dict = defaultdict(list)
+    for r in results:
+        qtype_groups[r.get("query_type") or "unknown"].append(r)
+    recall_by_query_type = {
+        qt: _avg("recall_at_k", rows)
+        for qt, rows in sorted(qtype_groups.items())
+    }
 
     ragas_scores = {}
     if not args.skip_ragas:
@@ -416,8 +435,10 @@ def main():
         "avg_citation_coverage": _avg("citation_coverage"),
         "avg_support_rate": _avg("support_rate"),
         "avg_latency_s": _avg("latency_s"),
-        "abstention_rate": round(sum(1 for r in results if r.get("abstained")) / n, 4) if n else 0.0,
+        "abstention_rate_answerable": _abstention_rate(answerable_results),
+        "correct_abstention_rate": _abstention_rate(expect_abstain_results),
         "avg_recall_at_k": _avg("recall_at_k"),
+        "recall_at_k_by_query_type": recall_by_query_type,
         "avg_hallucination_rate": _avg("hallucination_rate"),
         "n_labeled_queries": len(labels_lookup),
         **ragas_scores,
@@ -434,8 +455,11 @@ def main():
     print(f"{'='*60}")
     print(f"  Citation Coverage        {report['avg_citation_coverage']}")
     print(f"  Support Rate             {report['avg_support_rate']}")
-    print(f"  Abstention Rate          {report['abstention_rate']}")
+    print(f"  Abstention Rate (answerable)  {report['abstention_rate_answerable']}")
+    print(f"  Correct Abstention Rate       {report['correct_abstention_rate']}")
     print(f"  Avg Recall@k             {report['avg_recall_at_k']}")
+    for qt, val in report["recall_at_k_by_query_type"].items():
+        print(f"    [{qt}] {val}")
     print(f"  Avg Hallucination Rate   {report['avg_hallucination_rate']}")
     print(f"  Avg Latency              {report['avg_latency_s']}s")
     if ragas_scores:

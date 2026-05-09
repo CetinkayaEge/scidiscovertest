@@ -39,10 +39,10 @@ summarizer:
   prompt_path: prompts/summarizer.txt
   traces_output: logs/summarizer_traces.jsonl
   output_path: outputs/paper_summaries.json
-  # max_workers: 4   → local vLLM (HPC): safe up to 8-16
+  # max_workers: 5   → local vLLM (HPC): safe up to 8-16
   #               3   → Gemini API: keeps calls under 10 RPM
   #               1   → sequential (disable parallelism)
-  max_workers: 1
+  max_workers: 5
 
 synthesizer:
   prompt_path: prompts/synthesizer.txt
