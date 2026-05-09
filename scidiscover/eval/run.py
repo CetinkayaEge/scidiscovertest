@@ -94,10 +94,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
 
     latency_s = time.time() - t0
 
-    # Recall@k — labels file takes priority, fallback to expected_chunk_ids in query record
-    expected = (labels_lookup.get(qid, {}).get("expected_chunk_ids")
-                or query_record.get("expected_chunk_ids", []))
-    recall_at_k = compute_recall_at_k(evidence_pack, expected)
+    recall_at_k = compute_recall_at_k(evidence_pack, query_record.get("expected_chunk_ids", []))
 
     # Summarizer hallucination rate
     hallucination_rate = compute_hallucination_rate(summaries, evidence_pack)
@@ -243,7 +240,6 @@ def main():
 
     eval_cfg = config["eval"]
     queries_path = eval_cfg["queries_path"]
-    labels_path = eval_cfg.get("labels_path", "data/eval/labels.jsonl")
     results_output = args.output or eval_cfg["results_output"]
     top_k = eval_cfg.get("top_k_recall", 20)
     max_queries = args.max_queries or eval_cfg.get("max_queries")
@@ -321,24 +317,13 @@ def main():
     if max_queries:
         queries = queries[:max_queries]
 
-    # Load labels for Recall@k (optional)
-    labels_lookup: dict = {}
-    if Path(labels_path).exists():
-        with open(labels_path, "r", encoding="utf-8") as f:
-            for line in f:
-                entry = json.loads(line)
-                labels_lookup[entry["query_id"]] = entry
-        print(f"Loaded {len(labels_lookup)} labeled queries for Recall@k.")
-    else:
-        print(f"No labels file found at {labels_path} — Recall@k will be None.")
-
     print(f"Running eval on {len(queries)} queries (top_k={top_k})...")
 
     results = []
     for i, q in enumerate(queries, 1):
         print(f"  [{i}/{len(queries)}] {q.get('query_id', '')} — {q['query'][:70]}...")
         try:
-            row = run_pipeline(q, agents, top_k, labels_lookup,
+            row = run_pipeline(q, agents, top_k,
                                skip_verifier=args.skip_verifier)
             rec = row["recall_at_k"]
             hal = row["hallucination_rate"]
@@ -440,7 +425,6 @@ def main():
         "avg_recall_at_k": _avg("recall_at_k"),
         "recall_at_k_by_query_type": recall_by_query_type,
         "avg_hallucination_rate": _avg("hallucination_rate"),
-        "n_labeled_queries": len(labels_lookup),
         **ragas_scores,
         "by_domain": by_domain,
         "per_query": results,
