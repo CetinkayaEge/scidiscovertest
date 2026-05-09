@@ -7,5 +7,3 @@ __pycache__/
 .env
 .venv
 .claude
-reports/Progress_Report_III.docx
-generate_report3.py
