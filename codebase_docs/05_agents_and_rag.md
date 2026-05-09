@@ -338,13 +338,11 @@ PYTHONPATH=. python eval/generate_ragas_testset.py \
     --n-chunks 300 --testset-size 70 --unanswerable 10 \
     --eval-model openai/gpt-4o-mini
 
-# Step 2 — build labels.jsonl
-PYTHONPATH=. python eval/build_labels.py
 ```
 
 `--eval-model` accepts any OpenRouter model ID (`provider/model-name`) or `gemini-*`. Provider is auto-detected by `utils/eval_llm.py`. JSON mode is enforced for both providers (`response_format` / `response_mime_type`).
 
-`eval/build_labels.py` resolves `reference_contexts` text → `expected_paper_ids` + `expected_chunk_ids` using two indexes: one with the title prefix (new format) and one with it stripped (legacy format). Unanswerable / out-of-domain queries get empty expected ID lists automatically.
+`expected_chunk_ids` are resolved and written directly into `queries.jsonl` during generation by matching RAGAS `reference_contexts` against the sampled chunk index. No separate `build_labels.py` step is needed.
 
 ### Knowledge Graph Build (RAGAS testset generation)
 
@@ -379,11 +377,14 @@ PYTHONPATH=. python -m scidiscover.eval.run \
 
 | Metric | Source | What it measures |
 |---|---|---|
-| Recall@k | Custom | Fraction of expected papers found in top-k retrieved chunks |
-| Hallucination rate | Custom | Fraction of `[chunk_id]` citations in summaries not in the retrieved set |
-| Citation coverage | Custom | Fraction of key claims with at least one citation |
-| Support rate | Verifier | Fraction of claims marked SUPPORTED |
-| Abstention rate | Custom | Fraction of queries that returned "Insufficient evidence" |
+| `recall_at_k` | Custom | Fraction of expected **chunk IDs** found in top-k retrieved chunks (chunk-level, not paper-level) |
+| `recall_at_k_by_query_type` | Custom | Same recall split by `ragas_single_hop` / `ragas_multi_hop` / `unanswerable` / `out_of_domain` |
+| `hallucination_rate` | Custom | Fraction of `[chunk_id]` citations in summaries not in the retrieved set |
+| `citation_coverage` | Custom | Fraction of key claims with at least one citation |
+| `support_rate` | Verifier | Fraction of claims marked SUPPORTED (excludes UNKNOWN from denominator) |
+| `abstention_rate_answerable` | Custom | Fraction of answerable queries (`ragas_*`) that returned "Insufficient evidence" — lower is better |
+| `correct_abstention_rate` | Custom | Fraction of `unanswerable` / `out_of_domain` queries that correctly abstained — higher is better |
+| `avg_latency_s` | Custom | Full end-to-end wall-clock time including verifier |
 | RAGAS faithfulness | RAGAS + `eval.ragas_model` | Answer grounded in retrieved contexts |
 | RAGAS answer relevancy | RAGAS + `eval.ragas_model` | Answer relevant to the question |
 | RAGAS context recall | RAGAS + `eval.ragas_model` | Retrieved contexts cover the ground truth |

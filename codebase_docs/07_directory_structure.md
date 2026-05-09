@@ -84,10 +84,8 @@ scidiscovertest/
 │
 ├── eval/                           RAGAS-based evaluation test set
 │   ├── generate_ragas_testset.py   RAGAS TestsetGenerator + unanswerable + out-of-domain queries
-│   ├── build_labels.py             Matches reference_contexts → expected_paper_ids + chunk_ids
-│   ├── queries.jsonl               Generated queries (query_id, query, reference, reference_contexts,
-│   │                               domain, difficulty, query_type, expected_paper_ids, expected_chunk_ids)
-│   └── labels.jsonl                Retrieval ground truth (query_id, expected_paper_ids, expected_chunk_ids)
+│   └── queries.jsonl               Generated queries (query_id, query, reference, reference_contexts,
+│                                   domain, difficulty, query_type, expected_paper_ids, expected_chunk_ids)
 │
 ├── data/
 │   ├── raw/
