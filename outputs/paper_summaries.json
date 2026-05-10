@@ -1,0 +1,144 @@
+[
+  {
+    "paper_id": "pmc_PMC5298726",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5298726/",
+    "doi": "10.3390/s17010153",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC5298726||ABSTRACT||001",
+        "paper_id": "pmc_PMC5298726",
+        "section": "ABSTRACT",
+        "score": 0.3230108320713043,
+        "text_preview": "of faults. Four fault relationships are obtained. Results show that one symptom-to-one fault, two symptoms-to-two faults, and two symptoms-to-one fault relationships can be rapidly diagnosed with high precision, while one symptom-to-two faults patterns perform not so well, but are still worth resear"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9974492",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974492/",
+    "doi": "10.1073/pnas.2211115120",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9974492||ABSTRACT||001",
+        "paper_id": "pmc_PMC9974492",
+        "section": "ABSTRACT",
+        "score": 0.33121469616889954,
+        "text_preview": "by multiplication operators and probability densities by density operators (quantum states). In the algebraic approach, the forecast step of data assimilation is represented by a quantum operation induced by the Koopman operator of the dynamical system. Moreover, the analysis step is described by a "
+      },
+      {
+        "chunk_id": "pmc_PMC9974492||ABSTRACT||000",
+        "paper_id": "pmc_PMC9974492",
+        "section": "ABSTRACT",
+        "score": 0.30194753408432007,
+        "text_preview": "Data assimilation in operator algebras | Significance Data assimilation is an essential component of numerical models for forecasting and uncertainty quantification of dynamical systems given incomplete knowledge of the state and governing equations. Here, we develop theory and computational methods"
+      }
+    ]
+  },
+  {
+    "paper_id": "https://openalex.org/W3211268145",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://doi.org/10.1080/00207543.2021.1987551",
+    "doi": "https://doi.org/10.1080/00207543.2021.1987551",
+    "evidence": [
+      {
+        "chunk_id": "https://openalex.org/W3211268145||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W3211268145",
+        "section": "ABSTRACT",
+        "score": 0.3057940900325775,
+        "text_preview": "have been created and answered, to convince them why they should migrate from traditional QI methods to ZDM. The migration to ZDM has already started, to support this statement numerous facts from the literature have been presented. Finally, several directions were identified, demonstrating that the"
+      }
+    ]
+  },
+  {
+    "paper_id": "https://openalex.org/W4386714689",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://doi.org/10.3390/pr11092730",
+    "doi": "https://doi.org/10.3390/pr11092730",
+    "evidence": [
+      {
+        "chunk_id": "https://openalex.org/W4386714689||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W4386714689",
+        "section": "ABSTRACT",
+        "score": 0.27642515301704407,
+        "text_preview": "HVs. The findings underscore that the root causes of HV failures encompass extreme environments, material defects, fuel cell damage, delivery system impairment, and storage system deterioration. Furthermore, critical driving factors for effective safety intervention revolve around cultivating a safe"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC10229568",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229568/",
+    "doi": "10.1038/s41377-023-01180-9",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC10229568||ABSTRACT||000",
+        "paper_id": "pmc_PMC10229568",
+        "section": "ABSTRACT",
+        "score": 0.2654610574245453,
+        "text_preview": "Photonic elementary cellular automata for simulation of complex phenomena | Cellular automata are a class of computational models based on simple rules and algorithms that can simulate a wide range of complex phenomena. However, when using conventional computers, these ‘simple’ rules are only encaps"
+      }
+    ]
+  },
+  {
+    "paper_id": "https://openalex.org/W4387127592",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://doi.org/10.1021/acs.jctc.3c00419",
+    "doi": "https://doi.org/10.1021/acs.jctc.3c00419",
+    "evidence": [
+      {
+        "chunk_id": "https://openalex.org/W4387127592||ABSTRACT||000",
+        "paper_id": "https://openalex.org/W4387127592",
+        "section": "ABSTRACT",
+        "score": 0.2755366563796997,
+        "text_preview": "A Perspective on Sustainable Computational Chemistry Software Development and Integration | The power of quantum chemistry to predict the ground and excited state properties of complex chemical systems has driven the development of computational quantum chemistry software, integrating advances in th"
+      }
+    ]
+  },
+  {
+    "paper_id": "https://openalex.org/W4405304828",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://doi.org/10.1109/access.2024.3516500",
+    "doi": "https://doi.org/10.1109/access.2024.3516500",
+    "evidence": [
+      {
+        "chunk_id": "https://openalex.org/W4405304828||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W4405304828",
+        "section": "ABSTRACT",
+        "score": 0.2590090334415436,
+        "text_preview": "analysis and semantic context captures broad trends, contributing both methodologically and substantively at the intersection of AI and sustainability. Despite these advancements, the study underscores ethical concerns, including data privacy, security, and algorithmic biases. Interdisciplinary coll"
+      }
+    ]
+  },
+  {
+    "paper_id": "https://openalex.org/W4213073193",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://doi.org/10.3389/fenrg.2022.816714",
+    "doi": "https://doi.org/10.3389/fenrg.2022.816714",
+    "evidence": [
+      {
+        "chunk_id": "https://openalex.org/W4213073193||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W4213073193",
+        "section": "ABSTRACT",
+        "score": 0.26525193452835083,
+        "text_preview": "even an expanding trend in this period. We also make a comparison between the original NSDI and our modified NSDI and find that the modified NSDI not only retains the merits but also makes up for the shortcomings of the original one in acceptability, reliability, and continuity."
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9803682",
+    "summary_text": "Insufficient evidence. The provided abstract does not discuss the main principles of quantum error correction in fault-tolerant quantum computing.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803682/",
+    "doi": "10.1038/s41598-022-27239-y",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9803682||ABSTRACT||000",
+        "paper_id": "pmc_PMC9803682",
+        "section": "ABSTRACT",
+        "score": 0.276372492313385,
+        "text_preview": "Experimental demonstration of classical analogous time-dependent superposition of states | One of the quantum theory concepts on which quantum information processing stands is superposition. Here we provide experimental evidence for the existence of classical analogues to the coherent superposition "
+      }
+    ]
+  }
+]
