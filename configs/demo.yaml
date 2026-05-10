@@ -67,6 +67,11 @@ eval:
                                  # Gemini:     gemini-2.5-flash
 
 
+baselines:
+  single_agent:
+    prompt_path: prompts/single_agent_baseline.txt
+    traces_output: logs/single_agent_baseline_traces.jsonl
+
 sources:
   pmc:
     enabled: true

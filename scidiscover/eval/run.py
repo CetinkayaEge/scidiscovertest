@@ -120,6 +120,36 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
     if "reranker_agent" in agents:
         evidence_pack = agents["reranker_agent"].run(evidence_pack)
 
+    # Single-agent baseline: one LLM call replaces the full multi-agent chain
+    if "single_agent" in agents:
+        recall_at_k = compute_recall_at_k(evidence_pack, query_record.get("expected_chunk_ids", []))
+        retrieved_contexts = [ch["text"] for ch in evidence_pack["chunks"]]
+        result = agents["single_agent"].run(evidence_pack)
+        latency_s = time.time() - t0
+        return {
+            "query_id": qid,
+            "query": query,
+            "reference": query_record.get("ground_truth", query_record.get("reference", "")),
+            "retrieved_contexts": retrieved_contexts,
+            "final_answer": result["final_answer"],
+            "abstained": result["abstained"],
+            "citation_coverage": _citation_coverage_from_claims(result["key_claims"]),
+            "support_rate": None,
+            "n_claims": len(result["key_claims"]),
+            "n_supported": None,
+            "n_unsupported": None,
+            "n_conflict": None,
+            "n_unknown": None,
+            "recall_at_k": recall_at_k,
+            "summarizer_hallucination_rate": None,
+            "synthesizer_hallucination_rate": compute_synthesizer_hallucination_rate(
+                {"key_claims": result["key_claims"]}, evidence_pack
+            ),
+            "latency_s": round(latency_s, 2),
+            "domain": query_record.get("domain", ""),
+            "query_type": query_record.get("query_type", ""),
+        }
+
     summaries = agents["summarizer_agent"].run(evidence_pack)
 
     synthesis = agents["synthesizer_agent"].run({
@@ -273,6 +303,9 @@ def main():
     parser.add_argument("--output", default=None,
                         help="Override output path (default: eval.results_output in config)")
     parser.add_argument("--max-queries", type=int, default=None)
+    parser.add_argument("--baseline", choices=["single_agent"], default=None,
+                        help="Run the single-agent baseline: one LLM call over all retrieved chunks, "
+                             "replacing the full Summarizer + Synthesizer + Verifier chain")
     args = parser.parse_args()
 
     with open(args.config, "r", encoding="utf-8") as f:
@@ -288,17 +321,25 @@ def main():
     # Derive a human-readable mode tag for the report
     reranker_on = config.get("reranker", {}).get("enabled", False) and not args.skip_reranker
     llm_model = config["llm"]["model"]
-    mode_tag = f"{'no_verifier' if args.skip_verifier else 'full'}_{'no_reranker' if not reranker_on else 'reranker'}_{llm_model.split('-')[0]}"
+    if args.baseline:
+        reranker_str = "reranker" if reranker_on else "no_reranker"
+        mode_tag = f"baseline_{args.baseline}_{reranker_str}_{llm_model.split('-')[0]}"
+    else:
+        mode_tag = f"{'no_verifier' if args.skip_verifier else 'full'}_{'no_reranker' if not reranker_on else 'reranker'}_{llm_model.split('-')[0]}"
 
     # Agents must be imported before utils.llm_client on Windows to avoid
     # a silent crash caused by google.genai and sentence_transformers both
     # trying to register the google namespace package in the same process.
     from scidiscover.agents.retriever import Retriever
     from scidiscover.agents.retriever_agent import RetrieverAgent
-    from scidiscover.agents.summarizer import SummarizerAgent
-    from scidiscover.agents.synthesizer import SynthesizerAgent
     from scidiscover.agents.reranker import RerankerAgent
-    from scidiscover.agents.verifier import VerifierAgent
+
+    if not args.baseline:
+        from scidiscover.agents.summarizer import SummarizerAgent
+        from scidiscover.agents.synthesizer import SynthesizerAgent
+        from scidiscover.agents.verifier import VerifierAgent
+    else:
+        from scidiscover.agents.single_agent_baseline import SingleAgentBaseline
 
     from utils.llm_client import configure_llm
     configure_llm(config["llm"]["model"], config["llm"]["max_tokens"])
@@ -312,29 +353,35 @@ def main():
         papers_input=config["retrieval"]["papers_input"],
     )
 
-    verifier_cfg = config["verifier"]
-    agents = {
-        "retriever_agent": RetrieverAgent(retriever),
-        "summarizer_agent": SummarizerAgent(
+    agents = {"retriever_agent": RetrieverAgent(retriever)}
+
+    if not args.baseline:
+        verifier_cfg = config["verifier"]
+        agents["summarizer_agent"] = SummarizerAgent(
             prompt_path=config["summarizer"]["prompt_path"],
             traces_output=config["summarizer"]["traces_output"],
             output_path=config["summarizer"]["output_path"],
             max_workers=config["summarizer"].get("max_workers", 4),
-        ),
-        "synthesizer_agent": SynthesizerAgent(
+        )
+        agents["synthesizer_agent"] = SynthesizerAgent(
             prompt_path=config["synthesizer"]["prompt_path"],
             traces_output=config["synthesizer"]["traces_output"],
             output_path=config["synthesizer"]["output_path"],
-        ),
-        "verifier_agent": VerifierAgent(
+        )
+        agents["verifier_agent"] = VerifierAgent(
             prompt_path=verifier_cfg["prompt_path"],
             traces_output=verifier_cfg["traces_output"],
             verification_output=verifier_cfg["verification_output"],
             answers_output=verifier_cfg["answers_output"],
             min_citation_coverage=verifier_cfg.get("min_citation_coverage", 0.95),
             min_support_rate=verifier_cfg.get("min_support_rate", 0.50),
-        ),
-    }
+        )
+    else:  # single_agent
+        baseline_cfg = config.get("baselines", {}).get("single_agent", {})
+        agents["single_agent"] = SingleAgentBaseline(
+            prompt_path=baseline_cfg.get("prompt_path", "prompts/single_agent_baseline.txt"),
+            traces_output=baseline_cfg.get("traces_output", "logs/single_agent_baseline_traces.jsonl"),
+        )
 
     reranker_cfg = config.get("reranker", {})
     if reranker_cfg.get("enabled", False) and not args.skip_reranker:
