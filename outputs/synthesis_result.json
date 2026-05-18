@@ -1,10 +1,75 @@
 {
-  "query": "What are the main principles of quantum error correction in fault-tolerant quantum computing?",
-  "draft_answer": "ABSTAIN: Insufficient evidence to synthesize an answer.",
-  "key_claims": [],
-  "evidence": [],
+  "query": "How are coronary artery calcifications associated with complications?",
+  "draft_answer": "Across the included studies, coronary artery calcification appears to be associated with worse clinical outcomes, but the strength and type of outcome vary by setting [pmc_PMC5383538||ABSTRACT||000] [pmc_PMC9806039||ABSTRACT||000] [pmc_PMC10229702||ABSTRACT||001]. In a review, CAC was associated with future ASCVD risk independent of conventional risk factors and improved risk prediction when added to a global model such as the Framingham risk score [pmc_PMC5383538||ABSTRACT||000]. In symptomatic patients referred for cardiac CT, higher CAC scores were associated with all-cause mortality risk, although MESA percentile measures did not outperform absolute CAC for prediction [pmc_PMC9806039||ABSTRACT||000]. In level-1 trauma patients, coronary artery calcification visible on routine CT was independently associated with in-hospital complications, and left main coronary calcification in particular was associated with any complication [pmc_PMC10229702||ABSTRACT||001]. The number of calcified coronary arteries also trended toward association with complications and was significantly associated with adverse discharge condition, while pulmonary emphysema and aortic calcifications were not associated with complications in that study [pmc_PMC10229702||ABSTRACT||001]. By contrast, two papers provided no direct evidence linking coronary artery calcification to complications in their study populations, and one specifically stated that the evidence was insufficient to connect CAC with recurrent hospitalization or post-revascularization prognosis [pmc_PMC10140970||ABSTRACT||000] [pmc_PMC9806495||ABSTRACT||000]. Another study of heavily calcified coronary lesions reported favorable short-term procedural outcomes with no primary safety events at 30 days, suggesting that severe calcification does not necessarily imply immediate procedural complications in that context [pmc_PMC10140256||ABSTRACT||001]. Overall, the evidence supports an association between CAC and adverse outcomes, but the complications studied differ substantially across papers and the findings are not uniform across clinical contexts [pmc_PMC5383538||ABSTRACT||000] [pmc_PMC9806039||ABSTRACT||000] [pmc_PMC10229702||ABSTRACT||001].",
+  "key_claims": [
+    {
+      "claim": "CAC is associated with future ASCVD risk independent of conventional risk factors and improves risk prediction when added to a global model [pmc_PMC5383538||ABSTRACT||000].",
+      "citation_ids": [
+        "pmc_PMC5383538||ABSTRACT||000"
+      ]
+    },
+    {
+      "claim": "Higher CAC scores were associated with all-cause mortality risk in symptomatic patients referred for cardiac CT, although percentile-based measures did not improve prediction over absolute CAC [pmc_PMC9806039||ABSTRACT||000].",
+      "citation_ids": [
+        "pmc_PMC9806039||ABSTRACT||000"
+      ]
+    },
+    {
+      "claim": "In level-1 trauma patients, coronary artery calcification on routine CT was independently associated with in-hospital complications, especially left main coronary calcification [pmc_PMC10229702||ABSTRACT||001].",
+      "citation_ids": [
+        "pmc_PMC10229702||ABSTRACT||001"
+      ]
+    },
+    {
+      "claim": "The number of calcified coronary arteries was associated with adverse discharge condition in the trauma study and showed a trend toward association with complications [pmc_PMC10229702||ABSTRACT||001].",
+      "citation_ids": [
+        "pmc_PMC10229702||ABSTRACT||001"
+      ]
+    },
+    {
+      "claim": "A study of heavily calcified coronary lesions reported no primary safety events during 30 days of follow-up despite substantial calcification burden [pmc_PMC10140256||ABSTRACT||001].",
+      "citation_ids": [
+        "pmc_PMC10140256||ABSTRACT||001"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "paper_id": "pmc_PMC10140256",
+      "chunk_id": "pmc_PMC10140256||ABSTRACT||001",
+      "score": -2.5435791015625,
+      "section": "ABSTRACT",
+      "text_preview": "lesions were heavily calcified with a mean length of 32 mm and a calcium arc of 320 degrees. Invasive imaging was applied in all but one patient and 36 vessels. Superficial sanding was observed in almost all vessels (90%) and fracturing of deeper medial calcium in more than half of the vessels (63%)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10140256/"
+    },
+    {
+      "paper_id": "pmc_PMC9806039",
+      "chunk_id": "pmc_PMC9806039||ABSTRACT||000",
+      "score": -1.201696515083313,
+      "section": "ABSTRACT",
+      "text_preview": "Coronary calcification measures predict mortality in symptomatic women and men | Objective To assess the prognostic value of absolute and sex-specific, age-specific and race/ethnicity-specific (Multi-Ethnic Study of Atherosclerosis, MESA) percentiles of coronary artery calcification in symptomatic w",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806039/"
+    },
+    {
+      "paper_id": "pmc_PMC10229702",
+      "chunk_id": "pmc_PMC10229702||ABSTRACT||001",
+      "score": 5.097099304199219,
+      "section": "ABSTRACT",
+      "text_preview": "were analyzed for visible abnormalities: pulmonary emphysema, coronary artery calcifications, and abdominal aorta calcification severity. Drug-treated complications were scored. The discharge condition was measured on the Glasgow Outcome Scale. Results In total, 433 patients (median age 50 years, 67",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229702/"
+    },
+    {
+      "paper_id": "pmc_PMC5383538",
+      "chunk_id": "pmc_PMC5383538||ABSTRACT||000",
+      "score": -1.0036553144454956,
+      "section": "ABSTRACT",
+      "text_preview": "Coronary Artery Calcium and Carotid Artery Intima Media Thickness and Plaque: Clinical Use in Need of Clarification | Atherosclerosis begins in early life and has a long latent period prior to onset of clinical disease. Measures of subclinical atherosclerosis, therefore, may have important implicati",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5383538/"
+    }
+  ],
   "limitations_and_uncertainty": [
-    "None of the provided paper summaries discuss quantum error correction or fault-tolerant quantum computing directly.",
-    "The available evidence covers unrelated topics such as quantum chemistry, superposition analogies, data assimilation, sensor error, and SDG-related challenges, so it cannot support a synthesis of the requested principles."
+    "The papers examine different outcomes—ASCVD risk, mortality, trauma complications, recurrent hospitalization, and procedural safety—so the evidence is not directly comparable across settings [pmc_PMC5383538||ABSTRACT||000] [pmc_PMC9806039||ABSTRACT||000] [pmc_PMC10229702||ABSTRACT||001] [pmc_PMC10140970||ABSTRACT||000].",
+    "Some summaries explicitly state that evidence is insufficient or does not mention CAC, limiting how broadly the association with complications can be generalized [pmc_PMC10140970||ABSTRACT||000] [pmc_PMC9806495||ABSTRACT||000] [pmc_PMC8758654||ABSTRACT||000].",
+    "At least one study suggests severe calcification may not lead to short-term procedural safety events, indicating that CAC does not uniformly predict immediate complications in all clinical contexts [pmc_PMC10140256||ABSTRACT||001]."
   ]
 }

@@ -1,143 +1,135 @@
 [
   {
-    "paper_id": "pmc_PMC9888723",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9888723/",
-    "doi": "10.1371/journal.pone.0270536",
+    "paper_id": "pmc_PMC10140970",
+    "summary_text": "- The provided evidence does not mention coronary artery calcifications or describe any association with complications; it only reports factors linked to recurrent hospitalization after acute coronary syndrome, such as lower ejection fraction, acute pulmonary edema, and valvular heart disease [pmc_PMC10140970||ABSTRACT||000].\n- More than half of the studied patients had recurrent hospitalization in the first year after the first ACS episode, but the evidence does not connect this outcome specifically to coronary artery calcifications [pmc_PMC10140970||ABSTRACT||000].\n- Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10140970/",
+    "doi": "10.3390/life13040950",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9888723||ABSTRACT||001",
-        "paper_id": "pmc_PMC9888723",
+        "chunk_id": "pmc_PMC10140970||ABSTRACT||000",
+        "paper_id": "pmc_PMC10140970",
         "section": "ABSTRACT",
-        "score": -7.877096176147461,
-        "text_preview": "fault control. The simulation and experiment results demonstrate that the IMM algorithm based on low delay anti-interference can effectively reduce the influence of complex working conditions, improve the anti-interference ability of SRM power converter fault diagnosis, and identify fault informatio"
+        "score": -5.251372814178467,
+        "text_preview": "Predictors of Readmission after the First Acute Coronary Syndrome and the Risk of Recurrent Cardiovascular Events—Seven Years of Patient Follow-Up | Recurrent hospitalization after acute coronary syndromes (ACS) is common. Identifying risk factors associated with subsequent cardiovascular events and"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9890482",
-    "summary_text": "- The provided evidence does not discuss quantum error correction or fault-tolerant quantum computing; it instead focuses on predicting vertical ionization potentials and electron affinities using CC2 and ADC(2) models and their spin-component scaled variants [pmc_PMC9890482||ABSTRACT||000].\n- The paper’s main result in the evidence is that spin-scaled approximate methods, especially the scaled opposite-spin ADC(2) variant, can achieve EOM-CCSD-level accuracy at much lower computational cost [pmc_PMC9890482||ABSTRACT||000].\n- Because no evidence about quantum error correction principles is included, the query cannot be answered from the provided chunks alone [pmc_PMC9890482||ABSTRACT||000].",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890482/",
-    "doi": "10.1021/acs.jctc.2c00624",
+    "paper_id": "pmc_PMC5383538",
+    "summary_text": "- Coronary artery calcium (CAC) is associated with future risk of atherosclerotic cardiovascular disease (ASCVD), independent of conventional risk factors [pmc_PMC5383538||ABSTRACT||000].\n- CAC also improves risk prediction when added to a global risk prediction model such as the Framingham risk score [pmc_PMC5383538||ABSTRACT||000].\n- The review notes that similar CAC levels across regions and ethnic groups may correspond to significantly different absolute ASCVD risk, and that no clinical trial has shown that CAC screening improves clinical outcomes or healthcare costs [pmc_PMC5383538||ABSTRACT||000].",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5383538/",
+    "doi": "10.5551/jat.RV16005",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9890482||ABSTRACT||000",
-        "paper_id": "pmc_PMC9890482",
+        "chunk_id": "pmc_PMC5383538||ABSTRACT||000",
+        "paper_id": "pmc_PMC5383538",
         "section": "ABSTRACT",
-        "score": -9.595864295959473,
-        "text_preview": "Accurate Prediction of Vertical Ionization Potentials and Electron Affinities from Spin-Component Scaled CC2 and ADC(2) Models | The CC2 and ADC(2) wave function models and their spin-component scaled modifications are adopted for predicting vertical ionization potentials (VIPs) and electron affinit"
+        "score": -1.0036553144454956,
+        "text_preview": "Coronary Artery Calcium and Carotid Artery Intima Media Thickness and Plaque: Clinical Use in Need of Clarification | Atherosclerosis begins in early life and has a long latent period prior to onset of clinical disease. Measures of subclinical atherosclerosis, therefore, may have important implicati"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9803682",
-    "summary_text": "- The provided evidence does not discuss quantum error correction or fault-tolerant quantum computing directly; it focuses on superposition as a quantum-information concept and on a classical analogue that can realize superposition-like behavior without decoherence and wave function collapse [pmc_PMC9803682||ABSTRACT||000].\n\n- It states that coherent states can be represented as components of a state vector spanning a two-dimensional Hilbert space, and that time can parametrize the system’s traversal of that space [pmc_PMC9803682||ABSTRACT||000].\n\n- The paper also reports an experimental realization of a reversible Hadamard gate that takes a pure base state into a superposition [pmc_PMC9803682||ABSTRACT||000].",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803682/",
-    "doi": "10.1038/s41598-022-27239-y",
+    "paper_id": "pmc_PMC10229702",
+    "summary_text": "- Coronary artery calcification visible on routine CT imaging was independently associated with in-hospital complications in level-1 trauma patients; specifically, left main coronary artery calcification was associated with any complication (OR 3.9, 95% CI 1.7–8.9). [pmc_PMC10229702||ABSTRACT||001]\n\n- The number of calcified coronary arteries showed a trend toward association with complications and was significantly associated with an adverse discharge condition. [pmc_PMC10229702||ABSTRACT||001]\n\n- In this study, most complications were pneumonia or delirium, while pulmonary emphysema and aortic calcifications were not associated with complications. [pmc_PMC10229702||ABSTRACT||001]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229702/",
+    "doi": "10.1007/s00068-022-02168-7",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9803682||ABSTRACT||000",
-        "paper_id": "pmc_PMC9803682",
+        "chunk_id": "pmc_PMC10229702||ABSTRACT||001",
+        "paper_id": "pmc_PMC10229702",
         "section": "ABSTRACT",
-        "score": -8.456001281738281,
-        "text_preview": "Experimental demonstration of classical analogous time-dependent superposition of states | One of the quantum theory concepts on which quantum information processing stands is superposition. Here we provide experimental evidence for the existence of classical analogues to the coherent superposition "
+        "score": 5.097099304199219,
+        "text_preview": "were analyzed for visible abnormalities: pulmonary emphysema, coronary artery calcifications, and abdominal aorta calcification severity. Drug-treated complications were scored. The discharge condition was measured on the Glasgow Outcome Scale. Results In total, 433 patients (median age 50 years, 67"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9974492",
-    "summary_text": "- The provided evidence is about **data assimilation in operator algebras**, where observables are represented by multiplication operators and probability densities by density operators, and the forecast step is modeled by a quantum operation induced by the Koopman operator [pmc_PMC9974492||ABSTRACT||000].  \n- The framework also describes the analysis step as a **quantum effect** that generalizes the Bayesian observational update rule, with finite-dimensional projections yielding computational schemes that are automatically positivity-preserving and amenable to data-driven approximation using kernel methods [pmc_PMC9974492||ABSTRACT||001].  \n- This evidence does **not** discuss the main principles of **quantum error correction in fault-tolerant quantum computing**, so the question cannot be answered from the provided chunks [pmc_PMC9974492||ABSTRACT||000] [pmc_PMC9974492||ABSTRACT||001].",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974492/",
-    "doi": "10.1073/pnas.2211115120",
+    "paper_id": "pmc_PMC9806039",
+    "summary_text": "- In symptomatic women and men referred for cardiac CT, coronary artery calcification (measured by coronary artery calcium score, CACS) was evaluated as a prognostic marker, and higher calcification measures were used to predict mortality. [pmc_PMC9806039||ABSTRACT||000]\n- Over a median follow-up of 4.4 years, 116 patients died; the study found that MESA percentiles did not perform better than absolute CACS for predicting all-cause mortality in either women or men. [pmc_PMC9806039||ABSTRACT||000]\n- Thus, coronary artery calcifications were associated with mortality risk, but sex-specific/age-specific/race-specific percentile measures did not improve prediction beyond absolute calcium score. [pmc_PMC9806039||ABSTRACT||000]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806039/",
+    "doi": "10.1136/openhrt-2022-002005",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9974492||ABSTRACT||001",
-        "paper_id": "pmc_PMC9974492",
+        "chunk_id": "pmc_PMC9806039||ABSTRACT||000",
+        "paper_id": "pmc_PMC9806039",
         "section": "ABSTRACT",
-        "score": -5.829342842102051,
-        "text_preview": "by multiplication operators and probability densities by density operators (quantum states). In the algebraic approach, the forecast step of data assimilation is represented by a quantum operation induced by the Koopman operator of the dynamical system. Moreover, the analysis step is described by a "
+        "score": -1.201696515083313,
+        "text_preview": "Coronary calcification measures predict mortality in symptomatic women and men | Objective To assess the prognostic value of absolute and sex-specific, age-specific and race/ethnicity-specific (Multi-Ethnic Study of Atherosclerosis, MESA) percentiles of coronary artery calcification in symptomatic w"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC10140256",
+    "summary_text": "- In this registry of heavily calcified coronary lesions, the calcification burden was substantial, with a mean lesion length of 32 mm and a calcium arc of 320 degrees; invasive imaging showed superficial sanding in 90% of vessels and fracturing of deeper medial calcium in 63% [pmc_PMC10140256||ABSTRACT||000] [pmc_PMC10140256||ABSTRACT||001]\n- Despite the heavy calcification, outcomes were generally favorable: device success was 66%, procedural success was 94%, and the mean stent symmetry index was 0.84, suggesting good circular stent expansion [pmc_PMC10140256||ABSTRACT||001]\n- No primary safety events occurred during 30 days of follow-up, indicating no observed short-term complications in this initial experience with orbital atherectomy for heavily calcified coronary lesions [pmc_PMC10140256||ABSTRACT||001]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10140256/",
+    "doi": "10.1007/s12471-022-01742-3",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC10140256||ABSTRACT||001",
+        "paper_id": "pmc_PMC10140256",
+        "section": "ABSTRACT",
+        "score": -2.5435791015625,
+        "text_preview": "lesions were heavily calcified with a mean length of 32 mm and a calcium arc of 320 degrees. Invasive imaging was applied in all but one patient and 36 vessels. Superficial sanding was observed in almost all vessels (90%) and fracturing of deeper medial calcium in more than half of the vessels (63%)"
       },
       {
-        "chunk_id": "pmc_PMC9974492||ABSTRACT||000",
-        "paper_id": "pmc_PMC9974492",
+        "chunk_id": "pmc_PMC10140256||ABSTRACT||000",
+        "paper_id": "pmc_PMC10140256",
         "section": "ABSTRACT",
-        "score": -8.978553771972656,
-        "text_preview": "Data assimilation in operator algebras | Significance Data assimilation is an essential component of numerical models for forecasting and uncertainty quantification of dynamical systems given incomplete knowledge of the state and governing equations. Here, we develop theory and computational methods"
+        "score": -7.690845489501953,
+        "text_preview": "Initial experience with orbital atherectomy in a tertiary centre in the Netherlands | Background In January 2021, the Diamondback 360 orbital atherectomy (OA) system received CE mark approval and became available in Europe. The first procedure in Europe was performed at the Thoraxcenter, Erasmus Med"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC10141235",
+    "paper_id": "pmc_PMC10141707",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10141235/",
-    "doi": "10.3390/s23083865",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10141707/",
+    "doi": "10.3390/jcm12082833",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC10141235||ABSTRACT||001",
-        "paper_id": "pmc_PMC10141235",
+        "chunk_id": "pmc_PMC10141707||ABSTRACT||000",
+        "paper_id": "pmc_PMC10141707",
         "section": "ABSTRACT",
-        "score": -10.156312942504883,
-        "text_preview": "agent, and designed state feedback and adaptive state feedback control scheme to make tracking error predefined-time passive and then showed that in the absence of external input, tracking error reduces to zero in predefined-time. Furthermore, we extended this concept for a nonlinear multi-agent sys"
+        "score": -6.541658401489258,
+        "text_preview": "Revascularization and Medical Therapy for Chronic Coronary Syndromes: Lessons Learnt from Recent Trials, a Literature Review | Stable coronary artery disease (CAD) has recently been replaced by a new entity described as chronic coronary syndrome (CCS). This new entity has been developed based on a b"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W3201631622",
-    "summary_text": "- Insufficient evidence.",
-    "url": "https://doi.org/10.1371/journal.pcbi.1009324",
-    "doi": "https://doi.org/10.1371/journal.pcbi.1009324",
+    "paper_id": "pmc_PMC9806495",
+    "summary_text": "- The provided evidence does not mention coronary artery calcifications specifically; it focuses on predictors of poor prognosis after incomplete revascularization in multivessel coronary artery disease, including female sex, age, biochemical factors, hyperglycemia, total occlusion, and severe tortuosity on coronary angiography. [pmc_PMC9806495||ABSTRACT||000]\n- The complication/outcome discussed is poor prognosis after incomplete revascularization, with major adverse cardiovascular events (MACEs) used as the predicted endpoint in the model. [pmc_PMC9806495||ABSTRACT||001]\n- Because coronary artery calcifications are not described in the evidence, there is insufficient evidence to state how they are associated with complications. [pmc_PMC9806495||ABSTRACT||000]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806495/",
+    "doi": "10.1177/10760296221139258",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W3201631622||ABSTRACT||000",
-        "paper_id": "https://openalex.org/W3201631622",
+        "chunk_id": "pmc_PMC9806495||ABSTRACT||000",
+        "paper_id": "pmc_PMC9806495",
         "section": "ABSTRACT",
-        "score": -10.25753402709961,
-        "text_preview": "Ten simple rules to make your computing more environmentally sustainable | We live in a world ruled by data, where a problem doesn't exist until it has been measured. There is still very"
+        "score": -7.084644794464111,
+        "text_preview": "Establishment of a Predictive Model for Poor Prognosis of Incomplete Revascularization in Patients with Coronary Heart Disease and Multivessel Disease | Objective To establish a predictive model for poor prognosis after incomplete revascularization (ICR) in patients with multivessel coronary artery "
+      },
+      {
+        "chunk_id": "pmc_PMC9806495||ABSTRACT||001",
+        "paper_id": "pmc_PMC9806495",
+        "section": "ABSTRACT",
+        "score": -7.410543918609619,
+        "text_preview": "acid, low-density lipoprotein, hyperglycemia, total occlusion, and severe tortuosity lesion on coronary angiography. The C-statistic of the training and validation sets were 0.628 and 0.745, respectively. The statistical value of the Hosmer–Lemeshow test for the calibration curve of the training and"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W4387127592",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://doi.org/10.1021/acs.jctc.3c00419",
-    "doi": "https://doi.org/10.1021/acs.jctc.3c00419",
+    "paper_id": "pmc_PMC8758654",
+    "summary_text": "- The provided evidence does not mention coronary artery calcifications or their association with complications; it only discusses coronary blood flow abnormalities in different forms of heart failure. [pmc_PMC8758654||ABSTRACT||000]\n- In ischemic heart failure, reduced coronary blood flow is described as causal to cardiac contractile dysfunction and related complications such as stunned and hibernating myocardium, coronary microembolization, myocardial infarction, and post-infarct remodeling. [pmc_PMC8758654||ABSTRACT||000]\n- In non-ischemic heart failure, alterations in coronary blood flow are said to result from and contribute to cardiac contractile dysfunction, while in heart failure with preserved ejection fraction the causal contribution of coronary microvascular dysfunction is unclear. [pmc_PMC8758654||ABSTRACT||000]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8758654/",
+    "doi": "10.1007/s00395-022-00909-8",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W4387127592||ABSTRACT||000",
-        "paper_id": "https://openalex.org/W4387127592",
+        "chunk_id": "pmc_PMC8758654||ABSTRACT||000",
+        "paper_id": "pmc_PMC8758654",
         "section": "ABSTRACT",
-        "score": -8.734545707702637,
-        "text_preview": "A Perspective on Sustainable Computational Chemistry Software Development and Integration | The power of quantum chemistry to predict the ground and excited state properties of complex chemical systems has driven the development of computational quantum chemistry software, integrating advances in th"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC10056700",
-    "summary_text": "- The provided evidence does not discuss quantum error correction, fault tolerance, or related principles; it describes a “ZXY system” reporting position with little random error and notes limitations from signal averaging [pmc_PMC10056700||ABSTRACT||001].\n- Because the evidence is unrelated to the query, there is insufficient evidence to summarize the main principles of quantum error correction in fault-tolerant quantum computing. [pmc_PMC10056700||ABSTRACT||001]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10056700/",
-    "doi": "10.3390/s23063179",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC10056700||ABSTRACT||001",
-        "paper_id": "pmc_PMC10056700",
-        "section": "ABSTRACT",
-        "score": -10.23824691772461,
-        "text_preview": "nearby transponders. Filtering the data delayed the time resolution. Consequently, accelerations were dampened and delayed, causing an error of 1 m for sudden changes in position. Moreover, fluctuations of the foot speed of a running person were not accurately reproduced, but rather, averaged over t"
-      }
-    ]
-  },
-  {
-    "paper_id": "https://openalex.org/W4213437886",
-    "summary_text": "- The provided evidence does not discuss quantum error correction or fault-tolerant quantum computing; it instead mentions positive effects, arising challenges, and recommendations for action, as well as issues like data gaps, data biases, energy consumption, ethics, privacy, ownership, and security in relation to the 17 SDGs. [https://openalex.org/W4213437886||ABSTRACT||001]\n- Because the evidence is unrelated to the question, it is not possible to extract the main principles of quantum error correction from the provided text. [https://openalex.org/W4213437886||ABSTRACT||001]",
-    "url": "https://doi.org/10.3390/su14052497",
-    "doi": "https://doi.org/10.3390/su14052497",
-    "evidence": [
-      {
-        "chunk_id": "https://openalex.org/W4213437886||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W4213437886",
-        "section": "ABSTRACT",
-        "score": -10.22797679901123,
-        "text_preview": "resulting positive effects, (3) arising challenges, and (4) recommendations for action to overcome these challenges. Despite positive effects and versatile applications, problems such as data gaps, data biases, high energy consumption of computational resources, ethical concerns, privacy, ownership,"
+        "score": -7.282351016998291,
+        "text_preview": "Coronary blood flow in heart failure: cause, consequence and bystander | Heart failure is a clinical syndrome where cardiac output is not sufficient to sustain adequate perfusion and normal bodily functions, initially during exercise and in more severe forms also at rest. The two most frequent forms"
       }
     ]
   }
