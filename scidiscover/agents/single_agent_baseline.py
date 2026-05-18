@@ -12,7 +12,10 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+from pydantic import ValidationError
+
 from utils.llm_client import call_llm
+from utils.models import SingleAgentLLMOutput
 
 _ABSTAIN_MSG = "Insufficient evidence in retrieved corpus to answer reliably."
 
@@ -33,14 +36,23 @@ class SingleAgentBaseline:
             parts.append(f"[{ch['chunk_id']}]\n{ch['text'].strip()}")
         return "\n\n".join(parts)
 
-    def _parse_response(self, response: str) -> dict | None:
+    def _parse_response(self, response: str) -> SingleAgentLLMOutput | None:
+        """Parse and validate the LLM's JSON response using Pydantic.
+
+        Strips markdown fences if present, then validates with SingleAgentLLMOutput.
+        Returns None on any parse or validation failure.
+
+        Compared to the previous json.loads approach this also validates that
+        key_claims is actually a list and that citation_ids are lists, and
+        silently drops any extra top-level keys the LLM adds.
+        """
         cleaned = response.strip()
         if cleaned.startswith("```"):
             cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
             cleaned = re.sub(r"\s*```$", "", cleaned)
         try:
-            return json.loads(cleaned)
-        except json.JSONDecodeError:
+            return SingleAgentLLMOutput.model_validate_json(cleaned)
+        except ValidationError:
             return None
 
     def run(self, evidence_pack: dict) -> dict:
@@ -98,7 +110,7 @@ class SingleAgentBaseline:
             }
 
         parsed = self._parse_response(response)
-        if not isinstance(parsed, dict):
+        if parsed is None:
             self._log_trace(query, True, [])
             return {
                 "query": query,
@@ -108,9 +120,11 @@ class SingleAgentBaseline:
                 "abstained": True,
             }
 
-        final_answer = parsed.get("final_answer", "")
-        key_claims = parsed.get("key_claims", [])
-        limitations = parsed.get("limitations_and_uncertainty", [])
+        # Convert Pydantic models back to plain dicts so the rest of the
+        # eval pipeline continues to work with the existing dict-based interface.
+        final_answer = parsed.final_answer
+        key_claims = [c.model_dump() for c in parsed.key_claims]
+        limitations = parsed.limitations_and_uncertainty
 
         abstained = (
             not final_answer

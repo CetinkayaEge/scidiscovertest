@@ -1,7 +1,10 @@
 import json
 from pathlib import Path
 
+from pydantic import ValidationError
+
 from utils.llm_client import call_llm
+from utils.models import QueryDecomposerOutput
 
 
 class QueryDecomposerAgent:
@@ -28,9 +31,16 @@ class QueryDecomposerAgent:
             max_sub_queries=self.max_sub_queries,
         )
         response = call_llm(system=prompt, user="", json_mode=True)
-        data = json.loads(response)
-        sub_queries = data.get("sub_queries", [query])
-        if not sub_queries:
+
+        # Pydantic handles both JSON decode errors and missing/wrong-typed
+        # fields in one step.  Previously json.loads() was called without a
+        # try/except, meaning a non-JSON response would crash the pipeline.
+        # Now we fall back to the original query if anything goes wrong.
+        try:
+            data = QueryDecomposerOutput.model_validate_json(response)
+            sub_queries = data.sub_queries or [query]
+        except ValidationError:
             sub_queries = [query]
+
         self.log_trace(query, sub_queries)
         return sub_queries

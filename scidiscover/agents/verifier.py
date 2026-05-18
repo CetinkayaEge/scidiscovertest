@@ -6,7 +6,10 @@ import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
+from pydantic import ValidationError
+
 from utils.llm_client import call_llm
+from utils.models import VerifierLLMOutput
 from utils.schemas import validate_verification_pack
 
 _ABSTAIN_MSG = "Insufficient evidence in retrieved corpus to answer reliably."
@@ -188,31 +191,24 @@ class VerifierAgent:
             }
 
         parsed = self._parse_llm_response(response)
-        if not isinstance(parsed, dict):
+        if parsed is None:
             return {
                 idx: {"status": "UNKNOWN", "confidence": 0.0, "notes": "LLM parse error."}
                 for idx, _ in llm_claims
             }
 
-        # Map LLM output back to original claim indices
+        # Map Pydantic-validated LLM output back to original claim indices.
+        # vc.status is already normalised to a valid literal by VerifierLLMClaim.
+        # vc.confidence is already clamped to [0.0, 1.0] by VerifierLLMClaim.
+        # No manual string normalisation or float clamping needed here.
         result: dict[int, dict] = {}
-        verified_list = parsed.get("verified_claims", [])
-
         for position, (original_idx, _) in enumerate(llm_claims):
-            if position < len(verified_list):
-                vc = verified_list[position]
-                status = vc.get("status", "UNKNOWN").upper()
-                if status not in {"SUPPORTED", "UNSUPPORTED", "CONFLICT", "UNKNOWN"}:
-                    status = "UNKNOWN"
-                raw_conf = vc.get("confidence", 0.5)
-                try:
-                    confidence = max(0.0, min(1.0, float(raw_conf)))
-                except (TypeError, ValueError):
-                    confidence = 0.5
+            if position < len(parsed.verified_claims):
+                vc = parsed.verified_claims[position]
                 result[original_idx] = {
-                    "status": status,
-                    "confidence": confidence,
-                    "notes": vc.get("notes", ""),
+                    "status": vc.status,
+                    "confidence": vc.confidence,
+                    "notes": vc.notes,
                 }
             else:
                 result[original_idx] = {
@@ -253,18 +249,27 @@ class VerifierAgent:
     @staticmethod
     def _normalize_id(cid: str) -> str:
         """Fix single-pipe separators → double-pipe (LLM output bug mitigation)."""
-        # Replace single | that are not already part of ||
         return re.sub(r'(?<!\|)\|(?!\|)', '||', cid)
 
     @staticmethod
-    def _parse_llm_response(response: str) -> dict | None:
+    def _parse_llm_response(response: str) -> VerifierLLMOutput | None:
+        """Parse and validate the LLM's JSON response using Pydantic.
+
+        Returns a VerifierLLMOutput on success, or None on any failure.
+
+        Compared to the old json.loads approach this also:
+          • normalises any invalid status string to "UNKNOWN" automatically
+          • clamps confidence values outside [0, 1] instead of crashing
+          • silently ignores claim_id and any other extra fields
+          • provides a single ValidationError rather than scattered manual checks
+        """
         cleaned = response.strip()
         if cleaned.startswith("```"):
             cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
             cleaned = re.sub(r"\s*```$", "", cleaned)
         try:
-            return json.loads(cleaned)
-        except json.JSONDecodeError:
+            return VerifierLLMOutput.model_validate_json(cleaned)
+        except ValidationError:
             return None
 
     @staticmethod

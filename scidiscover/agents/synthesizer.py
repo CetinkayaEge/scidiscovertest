@@ -3,8 +3,10 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+from pydantic import ValidationError
 
 from utils.llm_client import call_llm
+from utils.models import SynthesizerLLMOutput
 from utils.schemas import validate_synthesis_pack
 
 
@@ -43,17 +45,31 @@ class SynthesizerAgent:
             )
         return "\n\n---\n\n".join(parts)
 
-    def parse_llm_response(self, response):
-        """Parse the LLM JSON response into a dict. Returns None on failure."""
-        cleaned = response.strip()
-        # Strip markdown code fences if present
+    def _strip_fences(self, text: str) -> str:
+        """Remove markdown code fences that some LLMs wrap around JSON."""
+        cleaned = text.strip()
         if cleaned.startswith("```"):
             cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
             cleaned = re.sub(r"\s*```$", "", cleaned)
+        return cleaned
 
+    def parse_llm_response(self, response: str) -> SynthesizerLLMOutput | None:
+        """Parse and validate the LLM's JSON response using Pydantic.
+
+        Returns a SynthesizerLLMOutput on success, or None on any failure.
+        Pydantic's model_validate_json() handles both JSON decode errors and
+        schema mismatches, so we only need a single try/except here.
+
+        Compared to the old json.loads approach, this also:
+          • enforces that key_claims and citation_ids are lists (not null/str)
+          • silently drops unexpected top-level keys (extra="ignore")
+          • provides structured error detail when it fails
+        """
         try:
-            return json.loads(cleaned)
-        except json.JSONDecodeError:
+            return SynthesizerLLMOutput.model_validate_json(
+                self._strip_fences(response)
+            )
+        except ValidationError:
             return None
 
     def extract_cited_ids(self, key_claims):
@@ -71,7 +87,6 @@ class SynthesizerAgent:
         paper_id is always the first ||-separated segment of chunk_id.
         Chunks not found in the lookup (LLM hallucinations) are skipped.
         """
-        # Build lookup keyed by chunk_id — this is the sole citation key
         chunk_lookup = {}
         for ps in paper_summaries:
             for ev in ps.get("evidence", []):
@@ -117,7 +132,7 @@ class SynthesizerAgent:
                 "limitations_and_uncertainty": [],
             }
 
-        # Check for abstention
+        # Check for abstention before attempting JSON parse
         if response.strip().startswith("ABSTAIN:"):
             return {
                 "draft_answer": response.strip(),
@@ -126,17 +141,19 @@ class SynthesizerAgent:
             }
 
         parsed = self.parse_llm_response(response)
-        if not isinstance(parsed, dict):
+        if parsed is None:
             return {
                 "draft_answer": f"[PARSE ERROR] Raw response:\n{response}",
                 "key_claims": [],
                 "limitations_and_uncertainty": [],
             }
 
+        # Convert Pydantic models back to plain dicts so the rest of the
+        # pipeline continues to work with the existing dict-based interface.
         return {
-            "draft_answer": parsed.get("draft_answer", ""),
-            "key_claims": parsed.get("key_claims", []),
-            "limitations_and_uncertainty": parsed.get("limitations_and_uncertainty", []),
+            "draft_answer": parsed.draft_answer,
+            "key_claims": [c.model_dump() for c in parsed.key_claims],
+            "limitations_and_uncertainty": parsed.limitations_and_uncertainty,
         }
 
     def log_trace(self, query, result):
