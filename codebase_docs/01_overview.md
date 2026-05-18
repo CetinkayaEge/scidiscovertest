@@ -34,18 +34,24 @@ The corpus collects papers from two sources — PubMed Central (PMC) and OpenAle
 └──────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
-│  ONLINE PIPELINE  (app.py / Streamlit)                           │
+│  ONLINE PIPELINE  (app.py / Streamlit, scidiscover/eval/run.py)  │
 │                                                                  │
 │  User Query                                                      │
 │       │                                                          │
+│       ▼ (optional, mutually exclusive)                           │
+│  QueryDecomposerAgent ─► sub-queries (retrieve each, merge)     │
+│  HyDEAgent            ─► hypothetical abstract (used for embed) │
+│       │                                                          │
 │       ▼                                                          │
-│  RetrieverAgent  ──── FAISS search ──► top-k chunks (k=20)      │
+│  RetrieverAgent  ──── FAISS search ──► top-k chunks             │
 │       │                                                          │
 │       ▼ (optional)                                               │
 │  RerankerAgent   ──── CrossEncoder ──► reranked top-k chunks     │
 │       │                                                          │
 │       ▼                                                          │
 │  SummarizerAgent ──── LLM (parallel, 4 workers) ──► summaries   │
+│       │   │                                                      │
+│       │   └─► (alt: SingleAgentBaseline replaces Sum+Syn+Ver)   │
 │       │                                                          │
 │       ▼                                                          │
 │  SynthesizerAgent ─── LLM (JSON mode) ──► draft answer + claims │
@@ -54,7 +60,7 @@ The corpus collects papers from two sources — PubMed Central (PMC) and OpenAle
 │  VerifierAgent   ──── LLM (JSON mode) ──► verified claims        │
 │       │                                                          │
 │       ▼                                                          │
-│  Final Answer → Streamlit UI                                     │
+│  Final Answer → Streamlit UI / reports/eval_*.json              │
 └──────────────────────────────────────────────────────────────────┘
 ```
 

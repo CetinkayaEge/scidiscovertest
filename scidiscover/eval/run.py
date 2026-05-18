@@ -109,13 +109,29 @@ def _citation_coverage_from_claims(key_claims: list) -> float:
 
 
 def run_pipeline(query_record: dict, agents: dict, top_k: int,
-                 skip_verifier: bool = False) -> dict:
+                 skip_verifier: bool = False, retrieval_k: int | None = None) -> dict:
     query = query_record["query"]
     qid = query_record.get("query_id") or query_record.get("id", "")
+    rk = retrieval_k if retrieval_k is not None else top_k
 
     t0 = time.time()
 
-    evidence_pack = agents["retriever_agent"].run(query, k=top_k)
+    if "query_decomposer" in agents:
+        sub_queries = agents["query_decomposer"].run(query)
+        merged: dict = {}
+        for sq in sub_queries:
+            ep = agents["retriever_agent"].run(sq, k=rk)
+            for ch in ep["chunks"]:
+                cid = ch["chunk_id"]
+                if cid not in merged or ch["score"] > merged[cid]["score"]:
+                    merged[cid] = ch
+        evidence_pack = {"query": query, "chunks": list(merged.values())}
+    elif "hyde_agent" in agents:
+        hypothetical = agents["hyde_agent"].run(query)
+        evidence_pack = agents["retriever_agent"].run(hypothetical, k=rk)
+        evidence_pack["query"] = query
+    else:
+        evidence_pack = agents["retriever_agent"].run(query, k=rk)
 
     if "reranker_agent" in agents:
         evidence_pack = agents["reranker_agent"].run(evidence_pack)
@@ -306,6 +322,12 @@ def main():
     parser.add_argument("--baseline", choices=["single_agent"], default=None,
                         help="Run the single-agent baseline: one LLM call over all retrieved chunks, "
                              "replacing the full Summarizer + Synthesizer + Verifier chain")
+    parser.add_argument("--query-transformer", choices=["none", "decompose", "hyde"], default=None,
+                        help="Override query_transformer.strategy from config")
+    parser.add_argument("--retrieval-k", type=int, default=None,
+                        help="Override retriever pool size (default: eval.top_k_recall). "
+                             "Use a larger value than top_k_recall when reranker is enabled "
+                             "so the reranker has a wider pool to filter from.")
     args = parser.parse_args()
 
     with open(args.config, "r", encoding="utf-8") as f:
@@ -321,11 +343,22 @@ def main():
     # Derive a human-readable mode tag for the report
     reranker_on = config.get("reranker", {}).get("enabled", False) and not args.skip_reranker
     llm_model = config["llm"]["model"]
+    qt_strategy_for_tag = args.query_transformer or config.get("query_transformer", {}).get("strategy", "none")
+    rk_tag = f"rk{args.retrieval_k}" if args.retrieval_k else ""
     if args.baseline:
         reranker_str = "reranker" if reranker_on else "no_reranker"
         mode_tag = f"baseline_{args.baseline}_{reranker_str}_{llm_model.split('-')[0]}"
+        if rk_tag:
+            mode_tag += f"_{rk_tag}"
     else:
-        mode_tag = f"{'no_verifier' if args.skip_verifier else 'full'}_{'no_reranker' if not reranker_on else 'reranker'}_{llm_model.split('-')[0]}"
+        mode_tag = (
+            f"{'no_verifier' if args.skip_verifier else 'full'}"
+            f"_{'no_reranker' if not reranker_on else 'reranker'}"
+            f"_{qt_strategy_for_tag}"
+            f"_{llm_model.split('-')[0]}"
+        )
+        if rk_tag:
+            mode_tag += f"_{rk_tag}"
 
     # Agents must be imported before utils.llm_client on Windows to avoid
     # a silent crash caused by google.genai and sentence_transformers both
@@ -333,6 +366,8 @@ def main():
     from scidiscover.agents.retriever import Retriever
     from scidiscover.agents.retriever_agent import RetrieverAgent
     from scidiscover.agents.reranker import RerankerAgent
+    from scidiscover.agents.query_decomposer import QueryDecomposerAgent
+    from scidiscover.agents.hyde_agent import HyDEAgent
 
     if not args.baseline:
         from scidiscover.agents.summarizer import SummarizerAgent
@@ -383,6 +418,22 @@ def main():
             traces_output=baseline_cfg.get("traces_output", "logs/single_agent_baseline_traces.jsonl"),
         )
 
+    qt_cfg = config.get("query_transformer", {})
+    qt_strategy = args.query_transformer or qt_cfg.get("strategy", "none")
+    if qt_strategy == "decompose":
+        decomp_cfg = qt_cfg.get("decomposer", {})
+        agents["query_decomposer"] = QueryDecomposerAgent(
+            prompt_path=decomp_cfg.get("prompt_path", "prompts/query_decomposer.txt"),
+            max_sub_queries=decomp_cfg.get("max_sub_queries", 3),
+            traces_output=decomp_cfg.get("traces_output", "logs/query_decomposer_traces.jsonl"),
+        )
+    elif qt_strategy == "hyde":
+        hyde_cfg = qt_cfg.get("hyde", {})
+        agents["hyde_agent"] = HyDEAgent(
+            prompt_path=hyde_cfg.get("prompt_path", "prompts/hyde.txt"),
+            traces_output=hyde_cfg.get("traces_output", "logs/hyde_traces.jsonl"),
+        )
+
     reranker_cfg = config.get("reranker", {})
     if reranker_cfg.get("enabled", False) and not args.skip_reranker:
         agents["reranker_agent"] = RerankerAgent(
@@ -411,7 +462,8 @@ def main():
         print(f"  [{i}/{len(queries)}] {q.get('query_id', '')} — {q['query'][:70]}...")
         try:
             row = run_pipeline(q, agents, top_k,
-                               skip_verifier=args.skip_verifier)
+                               skip_verifier=args.skip_verifier,
+                               retrieval_k=args.retrieval_k)
             rec = row["recall_at_k"]
             hal_sum = row["summarizer_hallucination_rate"]
             hal_syn = row["synthesizer_hallucination_rate"]

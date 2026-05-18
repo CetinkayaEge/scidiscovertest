@@ -8,14 +8,15 @@ Full annotated walkthrough of every section in `configs/demo.yaml`.
 
 ```yaml
 llm:
-  model: local-qwen2.5-72b-instruct-gptq   # Active provider+model. Prefix determines provider:
-                                            #   claude-*  → Anthropic
-                                            #   gemini-*  → Google Gemini
-                                            #   local-*   → OpenAI-compatible local server
+  model: openrouter-openai/gpt-5.4-mini    # Active provider+model. Prefix determines provider:
+                                            #   claude-*       → Anthropic
+                                            #   gemini-*       → Google Gemini
+                                            #   openrouter-*   → OpenRouter (OpenAI-compatible)
+                                            #   local-*        → OpenAI-compatible local server
   max_tokens: 4096                          # Max output tokens per LLM call
 ```
 
-The `local-` prefix strips everything up to and including `local-` before sending the model name to the OpenAI-compatible endpoint. The served model ID (`qwen2.5-72b-instruct-gptq`) must match what the vLLM server reports at `/v1/models`.
+The provider prefix is stripped before the model name is sent to the relevant API. For `openrouter-openai/gpt-5.4-mini` the model ID `openai/gpt-5.4-mini` is sent to `https://openrouter.ai/api/v1`. For `local-qwen2.5-72b-instruct-gptq` the model ID `qwen2.5-72b-instruct-gptq` is sent to `OPENAI_BASE_URL` and must match what the vLLM server reports at `/v1/models`.
 
 **Important:** `max_tokens` is the *completion* cap, not the total context. The vLLM server's total context window is 8192 tokens, so `prompt_tokens + max_tokens ≤ 8192`. With `max_tokens: 4096` you have 4096 tokens for the prompt. Setting `max_tokens` close to or above 8192 will cause `BadRequestError: maximum context length exceeded` errors.
 
@@ -75,6 +76,34 @@ reranker:
 ```
 
 `min_score: -.inf` disables score-based filtering entirely — only `top_k` limits the output. Setting a positive threshold (e.g. `0.0`) can cause all chunks to be dropped on low-relevance queries.
+
+**Note on `eval.top_k_recall` vs `retrieval.top_k`:** The eval pipeline (`scidiscover/eval/run.py`) uses `eval.top_k_recall` as the retriever k — `retrieval.top_k` is read only by `scidiscover/run_demo.py` and `tests/demo_query.py`. For a meaningful reranker ablation in eval, pass `--retrieval-k 30` (wider pool) so the reranker has chunks to filter from before reducing to `reranker.top_k`.
+
+---
+
+## Query Transformer (Optional)
+
+Pre-retrieval query transformations. Mutually exclusive — pick one strategy.
+
+```yaml
+query_transformer:
+  strategy: none           # none | decompose | hyde
+  decomposer:
+    prompt_path: prompts/query_decomposer.txt
+    traces_output: logs/query_decomposer_traces.jsonl
+    max_sub_queries: 3
+  hyde:
+    prompt_path: prompts/hyde.txt
+    traces_output: logs/hyde_traces.jsonl
+```
+
+| Strategy | Behavior |
+|----------|----------|
+| `none` | Raw query goes directly to retriever (default) |
+| `decompose` | LLM splits query into ≤`max_sub_queries` sub-queries; each retrieves top-k chunks; results merged by `chunk_id` keeping highest score |
+| `hyde` | LLM writes a hypothetical scientific abstract for the query; that abstract is embedded for retrieval; original query is restored on the resulting evidence pack so downstream agents see it |
+
+CLI override: `--query-transformer {none,decompose,hyde}`.
 
 ---
 

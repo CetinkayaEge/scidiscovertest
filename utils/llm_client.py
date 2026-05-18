@@ -13,6 +13,7 @@ from google.genai import types as genai_types
 _anthropic_client: anthropic.Anthropic | None = None
 _gemini_client: genai.Client | None = None
 _local_client: openai.OpenAI | None = None
+_openrouter_client: openai.OpenAI | None = None
 
 _model: str | None = None
 _max_tokens: int | None = None
@@ -48,6 +49,21 @@ def _get_gemini_client() -> genai.Client:
     return _gemini_client
 
 
+def _get_openrouter_client() -> openai.OpenAI:
+    global _openrouter_client
+    if _openrouter_client is None:
+        api_key = os.environ.get("OPENROUTER_API_KEY")
+        if not api_key:
+            raise EnvironmentError(
+                "OPENROUTER_API_KEY is not set. Add it to your .env file."
+            )
+        _openrouter_client = openai.OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=api_key,
+        )
+    return _openrouter_client
+
+
 def _get_local_client() -> openai.OpenAI:
     global _local_client
     if _local_client is None:
@@ -65,6 +81,31 @@ def _get_local_client() -> openai.OpenAI:
             )
         _local_client = openai.OpenAI(base_url=base_url, api_key=api_key)
     return _local_client
+
+
+def _call_openrouter(system: str, user: str, model: str, max_tokens: int, json_mode: bool) -> str:
+    client = _get_openrouter_client()
+    actual_model = model[len("openrouter-"):]
+    kwargs: dict = dict(
+        model=actual_model,
+        max_tokens=max_tokens,
+        messages=[
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+    )
+    if json_mode:
+        kwargs["response_format"] = {"type": "json_object"}
+    response = client.chat.completions.create(**kwargs)
+    choice = response.choices[0]
+    if choice.finish_reason == "length":
+        warnings.warn(
+            f"[llm_client] Output truncated at {max_tokens} tokens (finish_reason=length). "
+            "Response may be incomplete JSON. Consider raising max_tokens in configs/demo.yaml.",
+            RuntimeWarning,
+            stacklevel=3,
+        )
+    return choice.message.content or ""
 
 
 def _call_local(system: str, user: str, model: str, max_tokens: int) -> str:
@@ -178,12 +219,14 @@ def call_llm(system: str, user: str, json_mode: bool = False,
                 raw = _call_anthropic(system, user, _model, _max_tokens)
             elif _model.startswith("gemini-"):
                 raw = _call_gemini(system, user, _model, _max_tokens, json_mode)
+            elif _model.startswith("openrouter-"):
+                raw = _call_openrouter(system, user, _model, _max_tokens, json_mode)
             elif _model.startswith("local-"):
                 raw = _call_local(system, user, _model, _max_tokens)
             else:
                 raise ValueError(
                     f"Unknown model '{_model}'. "
-                    "Model must start with 'claude-', 'gemini-', or 'local-'."
+                    "Model must start with 'claude-', 'gemini-', 'openrouter-', or 'local-'."
                 )
             return _strip_thinking(raw)
         except Exception as e:

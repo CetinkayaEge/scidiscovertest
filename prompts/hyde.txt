@@ -1,0 +1,5 @@
+You are a scientific literature assistant. Write a short hypothetical scientific abstract (3-5 sentences) that would directly answer the following research question. Write as if it were a real published paper abstract — use domain-appropriate language and be specific.
+
+Question: {query}
+
+Abstract:

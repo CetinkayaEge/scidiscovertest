@@ -2,19 +2,25 @@
 
 ## Agent Pipeline Overview
 
-Five agents run in sequence for each query. Reranker and Verifier are optional and toggled via config or the UI sidebar.
+Up to seven agents can run for each query. Query transformers, Reranker, and Verifier are optional and toggled via config or the UI sidebar. The single-agent baseline replaces the Summarizer + Synthesizer + Verifier chain with a single LLM call.
 
 ```
 User Query
     │
+    ▼ (optional, choose one)
+QueryDecomposerAgent ─► sub-queries (retrieve each, merge by chunk_id)
+HyDEAgent            ─► hypothetical abstract (used as retrieval string)
+    │
     ▼
-RetrieverAgent   ──► top-k chunks from FAISS (k=20 by default)
+RetrieverAgent   ──► top-k chunks from FAISS
     │
     ▼ (optional)
 RerankerAgent    ──► CrossEncoder reranked subset
     │
     ▼
 SummarizerAgent  ──► per-paper summaries with chunk citations (parallel)
+    │   │
+    │   └─► (alternate: SingleAgentBaseline replaces Summarizer + Synthesizer + Verifier with one LLM call)
     │
     ▼
 SynthesizerAgent ──► draft answer + key claims with citation IDs (JSON)
@@ -24,6 +30,39 @@ VerifierAgent    ──► verified claims, final answer or abstention (JSON)
     │
     ▼
 Streamlit UI / outputs/answers.jsonl
+```
+
+---
+
+## 0. Query Transformer Agents (Optional)
+
+Two pre-retrieval transformations are available. They are mutually exclusive — set `query_transformer.strategy` in `configs/demo.yaml` to `none` (default), `decompose`, or `hyde`. Override at the CLI with `--query-transformer {none,decompose,hyde}`.
+
+### QueryDecomposerAgent
+
+**File:** `scidiscover/agents/query_decomposer.py`
+**Prompt:** `prompts/query_decomposer.txt`
+
+Breaks a complex query into ≤`max_sub_queries` (default 3) simpler sub-queries via JSON-mode LLM call. The pipeline calls `RetrieverAgent.run()` for each sub-query and merges results by `chunk_id`, keeping the highest score per chunk. Original query is preserved in the resulting `evidence_pack` so downstream agents see it.
+
+### HyDEAgent (Hypothetical Document Embeddings)
+
+**File:** `scidiscover/agents/hyde_agent.py`
+**Prompt:** `prompts/hyde.txt`
+
+LLM generates a short hypothetical scientific abstract that *would* answer the query. The retriever embeds and searches with that hypothetical abstract instead of the raw query. The original query is restored on the resulting `evidence_pack` for the Summarizer/Synthesizer.
+
+**Configuration (demo.yaml):**
+```yaml
+query_transformer:
+  strategy: none   # none | decompose | hyde
+  decomposer:
+    prompt_path: prompts/query_decomposer.txt
+    traces_output: logs/query_decomposer_traces.jsonl
+    max_sub_queries: 3
+  hyde:
+    prompt_path: prompts/hyde.txt
+    traces_output: logs/hyde_traces.jsonl
 ```
 
 ---
@@ -283,7 +322,10 @@ call_llm(system: str, user: str, json_mode: bool = False, max_retries: int = 4) 
 |--------|----------|---------|-----------|
 | `claude-*` | Anthropic | `ANTHROPIC_API_KEY` | Via prompt instruction |
 | `gemini-*` | Google Gemini | `GOOGLE_API_KEY` | `response_mime_type="application/json"` |
-| `local-*` | OpenAI-compatible | `OPENAI_BASE_URL` | Via prompt instruction |
+| `openrouter-*` | OpenRouter (OpenAI-compatible) | `OPENROUTER_API_KEY` | `response_format={"type":"json_object"}` |
+| `local-*` | OpenAI-compatible local server | `OPENAI_BASE_URL` (+ optional `OPENAI_API_KEY`) | Via prompt instruction |
+
+**OpenRouter format:** the prefix `openrouter-` is stripped, and the rest is passed as the model ID (e.g. `openrouter-openai/gpt-5.4-mini` → `openai/gpt-5.4-mini` against `https://openrouter.ai/api/v1`).
 
 - **Rate limit handling:** Exponential backoff (15 s, 30 s, 45 s, 60 s) on 429 / quota errors
 - **Thinking blocks:** Strips `<thinking>...</thinking>` blocks from Gemini responses automatically
@@ -293,9 +335,14 @@ call_llm(system: str, user: str, json_mode: bool = False, max_retries: int = 4) 
 
 ```yaml
 llm:
-  model: local-qwen2.5-72b-instruct-gptq
+  model: openrouter-openai/gpt-5.4-mini
   max_tokens: 4096
 ```
+
+Other tested values for `llm.model`:
+- `gemini-2.5-flash`
+- `local-qwen2.5-72b-instruct-gptq`
+- Any OpenRouter model: `openrouter-anthropic/claude-3.5-sonnet`, `openrouter-openai/gpt-4o-mini`, etc.
 
 **Note:** `max_tokens` is the completion length cap, not the total context. The local vLLM server has a total context window of 8192 tokens, so prompt + `max_tokens` must stay under 8192. With `max_tokens: 4096` you have 4096 tokens for the prompt — plenty for our prompts.
 
@@ -305,8 +352,11 @@ llm:
 
 | Agent | Prompt File | Key Rules |
 |-------|-------------|-----------|
+| QueryDecomposer | `prompts/query_decomposer.txt` | JSON output `{"sub_queries": [...]}`, ≤`max_sub_queries` items |
+| HyDE | `prompts/hyde.txt` | Plain-text 3–5 sentence hypothetical scientific abstract |
 | Summarizer | `prompts/summarizer.txt` | Every statement cited as `[chunk_id]`, 2–3 bullet points |
 | Synthesizer | `prompts/synthesizer.txt` | JSON output, every claim has `citation_ids` array |
+| SingleAgentBaseline | `prompts/single_agent_baseline.txt` | Replaces Summarizer + Synthesizer + Verifier with one LLM call |
 | Verifier | `prompts/verifier.txt` | JSON output, no outside knowledge, `[Chunk not found]` → UNKNOWN |
 
 ---
@@ -371,7 +421,50 @@ PYTHONPATH=. python -m scidiscover.eval.run --config configs/demo.yaml
 PYTHONPATH=. python -m scidiscover.eval.run \
     --config configs/demo.yaml --skip-verifier \
     --output reports/eval_no_verifier.json
+
+# Override query transformer strategy from CLI
+PYTHONPATH=. python -m scidiscover.eval.run \
+    --config configs/demo.yaml --query-transformer hyde \
+    --output reports/eval_hyde.json
+
+# Decouple retrieval pool size from recall@k (for reranker ablation)
+PYTHONPATH=. python -m scidiscover.eval.run \
+    --config configs/demo.yaml --retrieval-k 30 \
+    --output reports/eval_pool30.json
+
+# Single-agent baseline
+PYTHONPATH=. python -m scidiscover.eval.run \
+    --config configs/demo.yaml --baseline single_agent \
+    --output reports/eval_single_agent.json
 ```
+
+### Ablation Scripts (in `scripts/`)
+
+Drive multiple eval runs and print a side-by-side comparison table:
+
+```bash
+# Compare none vs hyde vs decompose
+PYTHONPATH=. python scripts/run_transformer_eval.py --config configs/demo.yaml
+
+# Compare reranker on vs off (matched output size)
+PYTHONPATH=. python scripts/run_reranker_eval.py --config configs/demo.yaml
+
+# Common flags supported by both: --max-queries N, --skip-ragas, --skip-verifier
+```
+
+### CLI Flags Reference
+
+| Flag | Purpose |
+|------|---------|
+| `--config` | Path to `configs/demo.yaml` (required) |
+| `--max-queries N` | Cap query count for quick tests |
+| `--output PATH` | Override output report path |
+| `--skip-ragas` | Skip RAGAS scoring (saves ~15min) |
+| `--skip-verifier` | Run pipeline without VerifierAgent |
+| `--skip-reranker` | Disable RerankerAgent regardless of config |
+| `--query-transformer {none,decompose,hyde}` | Override `query_transformer.strategy` |
+| `--retrieval-k N` | Override retriever pool size (default: `eval.top_k_recall`). Use a larger value than `top_k_recall` when reranker is enabled so it has a wider pool to filter from |
+| `--baseline single_agent` | Replace Summarizer + Synthesizer + Verifier with one LLM call |
 
 ### Metrics
 
@@ -399,11 +492,17 @@ Results written to `reports/eval_results.json` with per-query detail and per-dom
 
 | File | Written by | Format |
 |------|-----------|--------|
+| `logs/query_decomposer_traces.jsonl` | QueryDecomposerAgent | JSONL |
+| `logs/hyde_traces.jsonl` | HyDEAgent | JSONL |
 | `logs/retrieval_traces.jsonl` | RetrieverAgent | JSONL |
+| `logs/reranker_traces.jsonl` | RerankerAgent | JSONL |
 | `logs/summarizer_traces.jsonl` | SummarizerAgent | JSONL |
 | `logs/synthesizer_traces.jsonl` | SynthesizerAgent | JSONL |
 | `logs/verifier_traces.jsonl` | VerifierAgent | JSONL |
+| `logs/single_agent_baseline_traces.jsonl` | SingleAgentBaseline | JSONL |
 | `outputs/paper_summaries.json` | SummarizerAgent | JSON |
 | `outputs/synthesis_result.json` | SynthesizerAgent | JSON |
 | `outputs/verification.jsonl` | VerifierAgent | JSONL |
 | `outputs/answers.jsonl` | VerifierAgent | JSONL |
+
+**Note on shared output paths:** all strategies write to the same shared `logs/` and `outputs/` paths by default. Running multiple ablations sequentially overwrites earlier traces. Only the final eval reports (`reports/eval_*.json`) are uniquely named per condition.

@@ -13,8 +13,11 @@ scidiscovertest/
 │   └── demo.yaml                   Main pipeline configuration (single source of truth)
 │
 ├── prompts/
+│   ├── query_decomposer.txt        System prompt for QueryDecomposerAgent
+│   ├── hyde.txt                    System prompt for HyDEAgent
 │   ├── summarizer.txt              System prompt for SummarizerAgent
 │   ├── synthesizer.txt             System prompt for SynthesizerAgent
+│   ├── single_agent_baseline.txt   System prompt for SingleAgentBaseline
 │   └── verifier.txt                System prompt for VerifierAgent
 │
 ├── scidiscover/                    Main Python package
@@ -32,11 +35,14 @@ scidiscovertest/
 │   │   └── builder.py              FAISS index builder (embed + index chunks)
 │   │
 │   ├── agents/
+│   │   ├── query_decomposer.py     QueryDecomposerAgent (pre-retrieval, optional)
+│   │   ├── hyde_agent.py           HyDEAgent (pre-retrieval, optional)
 │   │   ├── retriever.py            Core FAISS retrieval (Retriever class)
 │   │   ├── retriever_agent.py      RetrieverAgent wrapper
 │   │   ├── reranker.py             RerankerAgent (CrossEncoder, optional)
 │   │   ├── summarizer.py           SummarizerAgent (parallel LLM calls)
 │   │   ├── synthesizer.py          SynthesizerAgent (JSON-mode LLM)
+│   │   ├── single_agent_baseline.py SingleAgentBaseline (replaces Sum+Syn+Ver chain)
 │   │   └── verifier.py             VerifierAgent (claim verification, optional)
 │   │
 │   └── eval/
@@ -71,10 +77,14 @@ scidiscovertest/
 │
 ├── logs/                           Runtime traces (created on first pipeline run)
 │   ├── config_snapshot.yaml        Copy of demo.yaml at run time
+│   ├── query_decomposer_traces.jsonl
+│   ├── hyde_traces.jsonl
 │   ├── retrieval_traces.jsonl
+│   ├── reranker_traces.jsonl
 │   ├── summarizer_traces.jsonl
 │   ├── synthesizer_traces.jsonl
-│   └── verifier_traces.jsonl
+│   ├── verifier_traces.jsonl
+│   └── single_agent_baseline_traces.jsonl
 │
 ├── outputs/                        Query result artifacts
 │   ├── paper_summaries.json
@@ -86,6 +96,10 @@ scidiscovertest/
 │   ├── generate_ragas_testset.py   RAGAS TestsetGenerator + unanswerable + out-of-domain queries
 │   └── queries.jsonl               Generated queries (query_id, query, reference, reference_contexts,
 │                                   domain, difficulty, query_type, expected_paper_ids, expected_chunk_ids)
+│
+├── scripts/                        Multi-run ablation drivers
+│   ├── run_transformer_eval.py     Compare none vs hyde vs decompose strategies
+│   └── run_reranker_eval.py        Compare reranker on vs off (matched output size)
 │
 ├── data/
 │   ├── raw/

@@ -1,22 +1,52 @@
 [
   {
-    "paper_id": "pmc_PMC5298726",
+    "paper_id": "pmc_PMC9888723",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5298726/",
-    "doi": "10.3390/s17010153",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9888723/",
+    "doi": "10.1371/journal.pone.0270536",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC5298726||ABSTRACT||001",
-        "paper_id": "pmc_PMC5298726",
+        "chunk_id": "pmc_PMC9888723||ABSTRACT||001",
+        "paper_id": "pmc_PMC9888723",
         "section": "ABSTRACT",
-        "score": 0.3230108320713043,
-        "text_preview": "of faults. Four fault relationships are obtained. Results show that one symptom-to-one fault, two symptoms-to-two faults, and two symptoms-to-one fault relationships can be rapidly diagnosed with high precision, while one symptom-to-two faults patterns perform not so well, but are still worth resear"
+        "score": -7.877096176147461,
+        "text_preview": "fault control. The simulation and experiment results demonstrate that the IMM algorithm based on low delay anti-interference can effectively reduce the influence of complex working conditions, improve the anti-interference ability of SRM power converter fault diagnosis, and identify fault informatio"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9890482",
+    "summary_text": "- The provided evidence does not discuss quantum error correction or fault-tolerant quantum computing; it instead focuses on predicting vertical ionization potentials and electron affinities using CC2 and ADC(2) models and their spin-component scaled variants [pmc_PMC9890482||ABSTRACT||000].\n- The paper’s main result in the evidence is that spin-scaled approximate methods, especially the scaled opposite-spin ADC(2) variant, can achieve EOM-CCSD-level accuracy at much lower computational cost [pmc_PMC9890482||ABSTRACT||000].\n- Because no evidence about quantum error correction principles is included, the query cannot be answered from the provided chunks alone [pmc_PMC9890482||ABSTRACT||000].",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890482/",
+    "doi": "10.1021/acs.jctc.2c00624",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9890482||ABSTRACT||000",
+        "paper_id": "pmc_PMC9890482",
+        "section": "ABSTRACT",
+        "score": -9.595864295959473,
+        "text_preview": "Accurate Prediction of Vertical Ionization Potentials and Electron Affinities from Spin-Component Scaled CC2 and ADC(2) Models | The CC2 and ADC(2) wave function models and their spin-component scaled modifications are adopted for predicting vertical ionization potentials (VIPs) and electron affinit"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9803682",
+    "summary_text": "- The provided evidence does not discuss quantum error correction or fault-tolerant quantum computing directly; it focuses on superposition as a quantum-information concept and on a classical analogue that can realize superposition-like behavior without decoherence and wave function collapse [pmc_PMC9803682||ABSTRACT||000].\n\n- It states that coherent states can be represented as components of a state vector spanning a two-dimensional Hilbert space, and that time can parametrize the system’s traversal of that space [pmc_PMC9803682||ABSTRACT||000].\n\n- The paper also reports an experimental realization of a reversible Hadamard gate that takes a pure base state into a superposition [pmc_PMC9803682||ABSTRACT||000].",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803682/",
+    "doi": "10.1038/s41598-022-27239-y",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9803682||ABSTRACT||000",
+        "paper_id": "pmc_PMC9803682",
+        "section": "ABSTRACT",
+        "score": -8.456001281738281,
+        "text_preview": "Experimental demonstration of classical analogous time-dependent superposition of states | One of the quantum theory concepts on which quantum information processing stands is superposition. Here we provide experimental evidence for the existence of classical analogues to the coherent superposition "
       }
     ]
   },
   {
     "paper_id": "pmc_PMC9974492",
-    "summary_text": "Insufficient evidence.",
+    "summary_text": "- The provided evidence is about **data assimilation in operator algebras**, where observables are represented by multiplication operators and probability densities by density operators, and the forecast step is modeled by a quantum operation induced by the Koopman operator [pmc_PMC9974492||ABSTRACT||000].  \n- The framework also describes the analysis step as a **quantum effect** that generalizes the Bayesian observational update rule, with finite-dimensional projections yielding computational schemes that are automatically positivity-preserving and amenable to data-driven approximation using kernel methods [pmc_PMC9974492||ABSTRACT||001].  \n- This evidence does **not** discuss the main principles of **quantum error correction in fault-tolerant quantum computing**, so the question cannot be answered from the provided chunks [pmc_PMC9974492||ABSTRACT||000] [pmc_PMC9974492||ABSTRACT||001].",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9974492/",
     "doi": "10.1073/pnas.2211115120",
     "evidence": [
@@ -24,60 +54,45 @@
         "chunk_id": "pmc_PMC9974492||ABSTRACT||001",
         "paper_id": "pmc_PMC9974492",
         "section": "ABSTRACT",
-        "score": 0.33121469616889954,
+        "score": -5.829342842102051,
         "text_preview": "by multiplication operators and probability densities by density operators (quantum states). In the algebraic approach, the forecast step of data assimilation is represented by a quantum operation induced by the Koopman operator of the dynamical system. Moreover, the analysis step is described by a "
       },
       {
         "chunk_id": "pmc_PMC9974492||ABSTRACT||000",
         "paper_id": "pmc_PMC9974492",
         "section": "ABSTRACT",
-        "score": 0.30194753408432007,
+        "score": -8.978553771972656,
         "text_preview": "Data assimilation in operator algebras | Significance Data assimilation is an essential component of numerical models for forecasting and uncertainty quantification of dynamical systems given incomplete knowledge of the state and governing equations. Here, we develop theory and computational methods"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W3211268145",
+    "paper_id": "pmc_PMC10141235",
     "summary_text": "Insufficient evidence.",
-    "url": "https://doi.org/10.1080/00207543.2021.1987551",
-    "doi": "https://doi.org/10.1080/00207543.2021.1987551",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10141235/",
+    "doi": "10.3390/s23083865",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W3211268145||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W3211268145",
+        "chunk_id": "pmc_PMC10141235||ABSTRACT||001",
+        "paper_id": "pmc_PMC10141235",
         "section": "ABSTRACT",
-        "score": 0.3057940900325775,
-        "text_preview": "have been created and answered, to convince them why they should migrate from traditional QI methods to ZDM. The migration to ZDM has already started, to support this statement numerous facts from the literature have been presented. Finally, several directions were identified, demonstrating that the"
+        "score": -10.156312942504883,
+        "text_preview": "agent, and designed state feedback and adaptive state feedback control scheme to make tracking error predefined-time passive and then showed that in the absence of external input, tracking error reduces to zero in predefined-time. Furthermore, we extended this concept for a nonlinear multi-agent sys"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W4386714689",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://doi.org/10.3390/pr11092730",
-    "doi": "https://doi.org/10.3390/pr11092730",
+    "paper_id": "https://openalex.org/W3201631622",
+    "summary_text": "- Insufficient evidence.",
+    "url": "https://doi.org/10.1371/journal.pcbi.1009324",
+    "doi": "https://doi.org/10.1371/journal.pcbi.1009324",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W4386714689||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W4386714689",
+        "chunk_id": "https://openalex.org/W3201631622||ABSTRACT||000",
+        "paper_id": "https://openalex.org/W3201631622",
         "section": "ABSTRACT",
-        "score": 0.27642515301704407,
-        "text_preview": "HVs. The findings underscore that the root causes of HV failures encompass extreme environments, material defects, fuel cell damage, delivery system impairment, and storage system deterioration. Furthermore, critical driving factors for effective safety intervention revolve around cultivating a safe"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC10229568",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229568/",
-    "doi": "10.1038/s41377-023-01180-9",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC10229568||ABSTRACT||000",
-        "paper_id": "pmc_PMC10229568",
-        "section": "ABSTRACT",
-        "score": 0.2654610574245453,
-        "text_preview": "Photonic elementary cellular automata for simulation of complex phenomena | Cellular automata are a class of computational models based on simple rules and algorithms that can simulate a wide range of complex phenomena. However, when using conventional computers, these ‘simple’ rules are only encaps"
+        "score": -10.25753402709961,
+        "text_preview": "Ten simple rules to make your computing more environmentally sustainable | We live in a world ruled by data, where a problem doesn't exist until it has been measured. There is still very"
       }
     ]
   },
@@ -91,53 +106,38 @@
         "chunk_id": "https://openalex.org/W4387127592||ABSTRACT||000",
         "paper_id": "https://openalex.org/W4387127592",
         "section": "ABSTRACT",
-        "score": 0.2755366563796997,
+        "score": -8.734545707702637,
         "text_preview": "A Perspective on Sustainable Computational Chemistry Software Development and Integration | The power of quantum chemistry to predict the ground and excited state properties of complex chemical systems has driven the development of computational quantum chemistry software, integrating advances in th"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W4405304828",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://doi.org/10.1109/access.2024.3516500",
-    "doi": "https://doi.org/10.1109/access.2024.3516500",
+    "paper_id": "pmc_PMC10056700",
+    "summary_text": "- The provided evidence does not discuss quantum error correction, fault tolerance, or related principles; it describes a “ZXY system” reporting position with little random error and notes limitations from signal averaging [pmc_PMC10056700||ABSTRACT||001].\n- Because the evidence is unrelated to the query, there is insufficient evidence to summarize the main principles of quantum error correction in fault-tolerant quantum computing. [pmc_PMC10056700||ABSTRACT||001]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10056700/",
+    "doi": "10.3390/s23063179",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W4405304828||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W4405304828",
+        "chunk_id": "pmc_PMC10056700||ABSTRACT||001",
+        "paper_id": "pmc_PMC10056700",
         "section": "ABSTRACT",
-        "score": 0.2590090334415436,
-        "text_preview": "analysis and semantic context captures broad trends, contributing both methodologically and substantively at the intersection of AI and sustainability. Despite these advancements, the study underscores ethical concerns, including data privacy, security, and algorithmic biases. Interdisciplinary coll"
+        "score": -10.23824691772461,
+        "text_preview": "nearby transponders. Filtering the data delayed the time resolution. Consequently, accelerations were dampened and delayed, causing an error of 1 m for sudden changes in position. Moreover, fluctuations of the foot speed of a running person were not accurately reproduced, but rather, averaged over t"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W4213073193",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://doi.org/10.3389/fenrg.2022.816714",
-    "doi": "https://doi.org/10.3389/fenrg.2022.816714",
+    "paper_id": "https://openalex.org/W4213437886",
+    "summary_text": "- The provided evidence does not discuss quantum error correction or fault-tolerant quantum computing; it instead mentions positive effects, arising challenges, and recommendations for action, as well as issues like data gaps, data biases, energy consumption, ethics, privacy, ownership, and security in relation to the 17 SDGs. [https://openalex.org/W4213437886||ABSTRACT||001]\n- Because the evidence is unrelated to the question, it is not possible to extract the main principles of quantum error correction from the provided text. [https://openalex.org/W4213437886||ABSTRACT||001]",
+    "url": "https://doi.org/10.3390/su14052497",
+    "doi": "https://doi.org/10.3390/su14052497",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W4213073193||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W4213073193",
+        "chunk_id": "https://openalex.org/W4213437886||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W4213437886",
         "section": "ABSTRACT",
-        "score": 0.26525193452835083,
-        "text_preview": "even an expanding trend in this period. We also make a comparison between the original NSDI and our modified NSDI and find that the modified NSDI not only retains the merits but also makes up for the shortcomings of the original one in acceptability, reliability, and continuity."
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC9803682",
-    "summary_text": "Insufficient evidence. The provided abstract does not discuss the main principles of quantum error correction in fault-tolerant quantum computing.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803682/",
-    "doi": "10.1038/s41598-022-27239-y",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC9803682||ABSTRACT||000",
-        "paper_id": "pmc_PMC9803682",
-        "section": "ABSTRACT",
-        "score": 0.276372492313385,
-        "text_preview": "Experimental demonstration of classical analogous time-dependent superposition of states | One of the quantum theory concepts on which quantum information processing stands is superposition. Here we provide experimental evidence for the existence of classical analogues to the coherent superposition "
+        "score": -10.22797679901123,
+        "text_preview": "resulting positive effects, (3) arising challenges, and (4) recommendations for action to overcome these challenges. Despite positive effects and versatile applications, problems such as data gaps, data biases, high energy consumption of computational resources, ethical concerns, privacy, ownership,"
       }
     ]
   }

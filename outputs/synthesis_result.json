@@ -1,42 +1,10 @@
 {
-  "query": "What thematic analysis procedure and inter-coder reliability metrics were used to analyze the interviews, focus groups, and observations?",
-  "draft_answer": "Thematic analysis was employed to analyze the responses from open-ended questions, which were coded deductively and grouped into sub-themes and themes related to the theory of uncertainty management [pmc_PMC9890239||ABSTRACT||001] [pmc_PMC9890239||ABSTRACT||002]. However, the specific inter-coder reliability metrics used to ensure the consistency and accuracy of the coding process were not reported in the provided evidence [pmc_PMC9890239||ABSTRACT||001] [pmc_PMC9890239||ABSTRACT||002]. This lack of information on inter-coder reliability metrics indicates a potential gap in the methodological transparency of the study.",
-  "key_claims": [
-    {
-      "claim": "Thematic analysis was used to analyze responses from open-ended questions, which were coded deductively and grouped into sub-themes and themes related to the theory of uncertainty management [pmc_PMC9890239||ABSTRACT||001] [pmc_PMC9890239||ABSTRACT||002].",
-      "citation_ids": [
-        "pmc_PMC9890239||ABSTRACT||001",
-        "pmc_PMC9890239||ABSTRACT||002"
-      ]
-    },
-    {
-      "claim": "The specific inter-coder reliability metrics used were not reported in the provided evidence [pmc_PMC9890239||ABSTRACT||001] [pmc_PMC9890239||ABSTRACT||002].",
-      "citation_ids": [
-        "pmc_PMC9890239||ABSTRACT||001",
-        "pmc_PMC9890239||ABSTRACT||002"
-      ]
-    }
-  ],
-  "evidence": [
-    {
-      "paper_id": "pmc_PMC9890239",
-      "chunk_id": "pmc_PMC9890239||ABSTRACT||002",
-      "score": 0.5347350835800171,
-      "section": "ABSTRACT",
-      "text_preview": "codes. Deductive coding grouped sub-themes across questions into themes related to the theory of uncertainty management. Descriptive statistics and repeated measures analysis of variance were used on the quantitative data. MAIN RESULTS AND THE ROLE OF CHANCE In total, 382 staff consented to the surv",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890239/"
-    },
-    {
-      "paper_id": "pmc_PMC9890239",
-      "chunk_id": "pmc_PMC9890239||ABSTRACT||001",
-      "score": 0.44042590260505676,
-      "section": "ABSTRACT",
-      "text_preview": "January–23 May 2021) was distributed to fertility staff across the UK, Latin America, and Africa. PARTICIPANTS/MATERIALS, SETTING, METHODS Eligibility criteria were being a healthcare worker at a fertility clinic that had re-opened since its COVID-19-related closure, 18 years of age or older and abi",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890239/"
-    }
-  ],
+  "query": "What are the main principles of quantum error correction in fault-tolerant quantum computing?",
+  "draft_answer": "ABSTAIN: Insufficient evidence to synthesize an answer.",
+  "key_claims": [],
+  "evidence": [],
   "limitations_and_uncertainty": [
-    "The specific inter-coder reliability metrics were not provided, which limits the assessment of the consistency and accuracy of the coding process.",
-    "The provided evidence does not mention the specific methods used for analyzing focus groups and observations, which may affect the comprehensiveness of the analysis."
+    "None of the provided paper summaries discuss quantum error correction or fault-tolerant quantum computing directly.",
+    "The available evidence covers unrelated topics such as quantum chemistry, superposition analogies, data assimilation, sensor error, and SDG-related challenges, so it cannot support a synthesis of the requested principles."
   ]
 }

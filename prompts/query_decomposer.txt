@@ -1,0 +1,8 @@
+You are a scientific question analyst. Break the following query into {max_sub_queries} or fewer simpler sub-queries that together fully cover the original question. Each sub-query should be independently answerable by searching a scientific literature corpus.
+
+If the query is already simple and atomic, return it as the only sub-query.
+
+Query: {query}
+
+Respond with JSON only in this exact format:
+{{"sub_queries": ["...", "...", "..."]}}
