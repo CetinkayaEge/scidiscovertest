@@ -22,9 +22,15 @@ class SynthesizerAgent:
         prompt_path: str,
         traces_output: str = "logs/synthesizer_traces.jsonl",
         output_path: str = "outputs/synthesis_result.json",
+        critique_prompt_path: str | None = None,
     ):
         with open(prompt_path, "r", encoding="utf-8") as f:
             self.prompt_template = f.read()
+
+        self.critique_prompt_template: str | None = None
+        if critique_prompt_path:
+            with open(critique_prompt_path, "r", encoding="utf-8") as f:
+                self.critique_prompt_template = f.read()
 
         self.traces_output = traces_output
         self.output_path = output_path
@@ -153,6 +159,79 @@ class SynthesizerAgent:
         return {
             "draft_answer": parsed.draft_answer,
             "key_claims": [c.model_dump() for c in parsed.key_claims],
+            "limitations_and_uncertainty": parsed.limitations_and_uncertainty,
+        }
+
+    def revise(self, summary_pack: dict, failing_claims: list[dict], previous_draft: str) -> dict:
+        """Critique-guided revision. Called by CritiqueLoopAgent when support_rate is low.
+
+        Uses critique_prompt_template if available; falls back to a plain re-run otherwise.
+        Returns the same shape as synthesize() / run().
+        """
+        if not self.critique_prompt_template:
+            return self.run(summary_pack)
+
+        query = summary_pack["query"]
+        paper_summaries = summary_pack.get("paper_summaries", [])
+        active_summaries = [
+            ps for ps in paper_summaries
+            if not _is_bad_summary(ps.get("summary_text", ""))
+        ] or paper_summaries
+
+        summaries_context = self.build_summaries_context(active_summaries)
+
+        failing_claims_text = "\n".join(
+            f"  Claim {i + 1}: \"{c['claim']}\"\n"
+            f"    Status: {c['status']} | Notes: {c.get('notes', '')}"
+            for i, c in enumerate(failing_claims)
+        )
+
+        prompt = self.critique_prompt_template.format(
+            query=query,
+            previous_draft=previous_draft,
+            failing_claims=failing_claims_text,
+            summaries_context=summaries_context,
+        )
+
+        try:
+            response = call_llm(system=prompt, user="", json_mode=True)
+        except Exception as e:
+            return {
+                "query": query,
+                "draft_answer": previous_draft,
+                "key_claims": [],
+                "evidence": [],
+                "limitations_and_uncertainty": ["LLM revision error: " + str(e)],
+            }
+
+        if response.strip().startswith("ABSTAIN:"):
+            return {
+                "query": query,
+                "draft_answer": response.strip(),
+                "key_claims": [],
+                "evidence": [],
+                "limitations_and_uncertainty": ["Insufficient evidence after critique-guided revision."],
+            }
+
+        parsed = self.parse_llm_response(response)
+        if parsed is None:
+            return {
+                "query": query,
+                "draft_answer": previous_draft,
+                "key_claims": [],
+                "evidence": [],
+                "limitations_and_uncertainty": ["Revision parse error; keeping previous draft."],
+            }
+
+        revised_claims = [c.model_dump() for c in parsed.key_claims]
+        cited_ids = self.extract_cited_ids(revised_claims)
+        evidence = self.build_evidence_list(paper_summaries, cited_ids)
+
+        return {
+            "query": query,
+            "draft_answer": parsed.draft_answer,
+            "key_claims": revised_claims,
+            "evidence": evidence,
             "limitations_and_uncertainty": parsed.limitations_and_uncertainty,
         }
 

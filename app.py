@@ -61,6 +61,9 @@ with st.sidebar:
                       value=20, step=5)
     use_reranker = st.toggle("Reranker", value=False)
     use_verifier = st.toggle("Verifier", value=False)
+    use_critique_loop = st.toggle("Critique loop", value=False,
+                                  disabled=not use_verifier,
+                                  help="Iteratively refines low-support answers (requires Verifier).")
     max_workers = st.slider("Summariser workers", min_value=1, max_value=16,
                             value=4, step=1,
                             help="1 = sequential. Use 3 for Gemini (rate limits), 8+ for local vLLM.")
@@ -83,13 +86,14 @@ def _load_base_config():
 # ---------------------------------------------------------------------------
 
 @st.cache_resource(show_spinner=False)
-def _build_agents(model: str, max_tok: int, reranker_on: bool, workers: int = 4):
+def _build_agents(model: str, max_tok: int, reranker_on: bool, workers: int = 4, critique_on: bool = False):
     from scidiscover.agents.retriever import Retriever
     from scidiscover.agents.retriever_agent import RetrieverAgent
     from scidiscover.agents.summarizer import SummarizerAgent
     from scidiscover.agents.synthesizer import SynthesizerAgent
     from scidiscover.agents.reranker import RerankerAgent
     from scidiscover.agents.verifier import VerifierAgent
+    from scidiscover.agents.critique_loop import CritiqueLoopAgent
     from utils.llm_client import configure_llm
 
     cfg = copy.deepcopy(_load_base_config())
@@ -120,6 +124,7 @@ def _build_agents(model: str, max_tok: int, reranker_on: bool, workers: int = 4)
             prompt_path=cfg["synthesizer"]["prompt_path"],
             traces_output=cfg["synthesizer"]["traces_output"],
             output_path=cfg["synthesizer"]["output_path"],
+            critique_prompt_path=cfg.get("critique_loop", {}).get("critique_prompt_path"),
         ),
         "verifier_agent": VerifierAgent(
             prompt_path=cfg["verifier"]["prompt_path"],
@@ -130,6 +135,15 @@ def _build_agents(model: str, max_tok: int, reranker_on: bool, workers: int = 4)
             min_support_rate=cfg["verifier"].get("min_support_rate", 0.40),
         ),
     }
+
+    if critique_on:
+        cl_cfg = cfg.get("critique_loop", {})
+        agents["critique_loop_agent"] = CritiqueLoopAgent(
+            synthesizer=agents["synthesizer_agent"],
+            verifier=agents["verifier_agent"],
+            max_iterations=cl_cfg.get("max_iterations", 2),
+            traces_output=cl_cfg.get("traces_output", "logs/critique_loop_traces.jsonl"),
+        )
 
     if reranker_on:
         rcfg = cfg["reranker"]
@@ -230,7 +244,8 @@ if run_clicked and query.strip():
     t0 = time.time()
 
     try:
-        agents = _build_agents(model_id, max_tokens, use_reranker, max_workers)
+        agents = _build_agents(model_id, max_tokens, use_reranker, max_workers,
+                              critique_on=use_verifier and use_critique_loop)
     except Exception as e:
         st.error(f"Failed to initialise agents: {e}")
         st.stop()
@@ -264,47 +279,67 @@ if run_clicked and query.strip():
                       state="complete")
     _render_summaries(summaries)
 
-    # Stage 4 — Synthesis
-    with st.status("Synthesising answer…", expanded=True) as status:
-        synthesis = agents["synthesizer_agent"].run({
-            "query": query,
-            "paper_summaries": summaries,
-        })
-        n_claims = len(synthesis.get("key_claims", []))
-        st.markdown(f"Generated draft answer with **{n_claims} key claims**")
-        status.update(label=f"Synthesised — {n_claims} claims", state="complete")
-    _render_synthesis(synthesis)
+    # Stage 4 — Synthesis (skipped when critique loop handles it internally)
+    summary_pack = {"query": query, "paper_summaries": summaries}
 
-    # Stage 5 — Verification (optional)
-    if use_verifier:
-        with st.status("Verifying claims…", expanded=True) as status:
-            verified = agents["verifier_agent"].run({
-                "synthesis": synthesis,
-                "evidence_pack": evidence_pack,
-            })
+    if use_verifier and use_critique_loop and "critique_loop_agent" in agents:
+        with st.status("Synthesising + critique loop…", expanded=True) as status:
+            loop_result = agents["critique_loop_agent"].run(summary_pack, evidence_pack)
+            synthesis = loop_result["synthesis"]
+            verified = loop_result["verified"]
+            n_iters = loop_result["n_iterations"]
             vs = verified.get("verification_summary", {})
             st.markdown(
+                f"Ran **{n_iters}** critique iteration(s) · "
                 f"Support rate **{vs.get('support_rate', 0):.0%}** · "
                 f"Citation coverage **{vs.get('citation_coverage', 0):.0%}**"
             )
             status.update(label=(
-                f"Verified — support {vs.get('support_rate', 0):.0%} · "
-                f"coverage {vs.get('citation_coverage', 0):.0%}"
+                f"Critique loop done — {n_iters} iter · "
+                f"support {vs.get('support_rate', 0):.0%}"
             ), state="complete")
+        _render_synthesis(synthesis)
         _render_verification(verified)
-
         draft = verified["final_answer"]
         abstained = draft == _ABSTAIN_MSG
+
     else:
-        draft = synthesis.get("draft_answer", "")
-        abstained = (
-            not draft
-            or draft.startswith("ABSTAIN")
-            or draft.startswith("[")
-            or "paper summaries" in draft.lower()
-        )
-        if abstained:
-            draft = _ABSTAIN_MSG
+        with st.status("Synthesising answer…", expanded=True) as status:
+            synthesis = agents["synthesizer_agent"].run(summary_pack)
+            n_claims = len(synthesis.get("key_claims", []))
+            st.markdown(f"Generated draft answer with **{n_claims} key claims**")
+            status.update(label=f"Synthesised — {n_claims} claims", state="complete")
+        _render_synthesis(synthesis)
+
+        # Stage 5 — Verification (optional, no critique loop)
+        if use_verifier:
+            with st.status("Verifying claims…", expanded=True) as status:
+                verified = agents["verifier_agent"].run({
+                    "synthesis": synthesis,
+                    "evidence_pack": evidence_pack,
+                })
+                vs = verified.get("verification_summary", {})
+                st.markdown(
+                    f"Support rate **{vs.get('support_rate', 0):.0%}** · "
+                    f"Citation coverage **{vs.get('citation_coverage', 0):.0%}**"
+                )
+                status.update(label=(
+                    f"Verified — support {vs.get('support_rate', 0):.0%} · "
+                    f"coverage {vs.get('citation_coverage', 0):.0%}"
+                ), state="complete")
+            _render_verification(verified)
+            draft = verified["final_answer"]
+            abstained = draft == _ABSTAIN_MSG
+        else:
+            draft = synthesis.get("draft_answer", "")
+            abstained = (
+                not draft
+                or draft.startswith("ABSTAIN")
+                or draft.startswith("[")
+                or "paper summaries" in draft.lower()
+            )
+            if abstained:
+                draft = _ABSTAIN_MSG
 
     st.divider()
     _render_final_answer(draft, abstained)
@@ -312,4 +347,5 @@ if run_clicked and query.strip():
     latency = round(time.time() - t0, 1)
     st.caption(f"Completed in {latency}s · model: {model_id} · "
                f"reranker: {'on' if use_reranker else 'off'} · "
-               f"verifier: {'on' if use_verifier else 'off'}")
+               f"verifier: {'on' if use_verifier else 'off'} · "
+               f"critique loop: {'on' if use_verifier and use_critique_loop else 'off'}")

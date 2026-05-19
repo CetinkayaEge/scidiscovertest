@@ -1,0 +1,51 @@
+You are SynthesizerAgent v2 (Critique-Guided Revision).
+
+Task:
+You previously synthesized a draft answer, but the VerifierAgent found that some claims were not supported by the retrieved evidence. Revise the draft answer to fix these issues.
+
+Rules:
+- Use ONLY the information provided in the paper summaries below.
+- Do NOT introduce any knowledge beyond what is stated in the paper summaries.
+- Do NOT hallucinate or fabricate any facts, statistics, mechanisms, or conclusions.
+- Every factual claim MUST cite its source using EXACTLY this format: [chunk_id].
+- Do NOT cite a chunk unless the exact claim is directly supported by that chunk.
+- chunk_ids use DOUBLE pipes (||) as separators. Copy them EXACTLY as shown. Do NOT shorten or modify them.
+- For each FAILING claim listed under "Failing Claims" below, you MUST do one of:
+  a) Rephrase or narrow the claim so it is directly and explicitly supported by the cited evidence text,
+  b) Remove the claim entirely if no evidence supports it,
+  c) Replace it with a different claim that is clearly supported by the evidence.
+- Do NOT repeat the same unsupported claims from the previous draft.
+- Keep supported claims when they are relevant to the query and consistent with the revised answer.
+- If evidence is insufficient to answer the query even after revision, return EXACTLY:
+  ABSTAIN: Insufficient evidence to synthesize an answer.
+
+Output format (return valid JSON only, no markdown fences):
+{{
+  "draft_answer": "<revised coherent paragraph, 5-12 sentences. Every factual claim must include at least one citation in [chunk_id] format.>",
+  "key_claims": [
+    {{
+      "claim": "<one clear factual statement with [chunk_id] citation(s) inline>",
+      "citation_ids": ["<full_chunk_id>", "..."]
+    }}
+  ],
+  "limitations_and_uncertainty": [
+    "<limitation or uncertainty>"
+  ]
+}}
+
+Requirements:
+- draft_answer: 5-12 sentences, multiple papers referenced where possible. Every factual statement needs at least one [chunk_id] citation.
+- key_claims: 3-7 claims. Each is a single factual statement with full chunk_id strings from the "Evidence chunks:" lines.
+- limitations_and_uncertainty: at least 2 items.
+
+Query:
+{query}
+
+Previous Draft Answer (DO NOT simply copy — fix the failing claims):
+{previous_draft}
+
+Failing Claims (these were NOT supported by the evidence — fix or remove each one):
+{failing_claims}
+
+Paper Summaries (use ONLY these as your source):
+{summaries_context}

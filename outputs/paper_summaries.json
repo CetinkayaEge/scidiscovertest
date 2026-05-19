@@ -1,135 +1,143 @@
 [
   {
-    "paper_id": "pmc_PMC10140970",
-    "summary_text": "- The provided evidence does not mention coronary artery calcifications or describe any association with complications; it only reports factors linked to recurrent hospitalization after acute coronary syndrome, such as lower ejection fraction, acute pulmonary edema, and valvular heart disease [pmc_PMC10140970||ABSTRACT||000].\n- More than half of the studied patients had recurrent hospitalization in the first year after the first ACS episode, but the evidence does not connect this outcome specifically to coronary artery calcifications [pmc_PMC10140970||ABSTRACT||000].\n- Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10140970/",
-    "doi": "10.3390/life13040950",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC10140970||ABSTRACT||000",
-        "paper_id": "pmc_PMC10140970",
-        "section": "ABSTRACT",
-        "score": -5.251372814178467,
-        "text_preview": "Predictors of Readmission after the First Acute Coronary Syndrome and the Risk of Recurrent Cardiovascular Events—Seven Years of Patient Follow-Up | Recurrent hospitalization after acute coronary syndromes (ACS) is common. Identifying risk factors associated with subsequent cardiovascular events and"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC5383538",
-    "summary_text": "- Coronary artery calcium (CAC) is associated with future risk of atherosclerotic cardiovascular disease (ASCVD), independent of conventional risk factors [pmc_PMC5383538||ABSTRACT||000].\n- CAC also improves risk prediction when added to a global risk prediction model such as the Framingham risk score [pmc_PMC5383538||ABSTRACT||000].\n- The review notes that similar CAC levels across regions and ethnic groups may correspond to significantly different absolute ASCVD risk, and that no clinical trial has shown that CAC screening improves clinical outcomes or healthcare costs [pmc_PMC5383538||ABSTRACT||000].",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5383538/",
-    "doi": "10.5551/jat.RV16005",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC5383538||ABSTRACT||000",
-        "paper_id": "pmc_PMC5383538",
-        "section": "ABSTRACT",
-        "score": -1.0036553144454956,
-        "text_preview": "Coronary Artery Calcium and Carotid Artery Intima Media Thickness and Plaque: Clinical Use in Need of Clarification | Atherosclerosis begins in early life and has a long latent period prior to onset of clinical disease. Measures of subclinical atherosclerosis, therefore, may have important implicati"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC10229702",
-    "summary_text": "- Coronary artery calcification visible on routine CT imaging was independently associated with in-hospital complications in level-1 trauma patients; specifically, left main coronary artery calcification was associated with any complication (OR 3.9, 95% CI 1.7–8.9). [pmc_PMC10229702||ABSTRACT||001]\n\n- The number of calcified coronary arteries showed a trend toward association with complications and was significantly associated with an adverse discharge condition. [pmc_PMC10229702||ABSTRACT||001]\n\n- In this study, most complications were pneumonia or delirium, while pulmonary emphysema and aortic calcifications were not associated with complications. [pmc_PMC10229702||ABSTRACT||001]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229702/",
-    "doi": "10.1007/s00068-022-02168-7",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC10229702||ABSTRACT||001",
-        "paper_id": "pmc_PMC10229702",
-        "section": "ABSTRACT",
-        "score": 5.097099304199219,
-        "text_preview": "were analyzed for visible abnormalities: pulmonary emphysema, coronary artery calcifications, and abdominal aorta calcification severity. Drug-treated complications were scored. The discharge condition was measured on the Glasgow Outcome Scale. Results In total, 433 patients (median age 50 years, 67"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC9806039",
-    "summary_text": "- In symptomatic women and men referred for cardiac CT, coronary artery calcification (measured by coronary artery calcium score, CACS) was evaluated as a prognostic marker, and higher calcification measures were used to predict mortality. [pmc_PMC9806039||ABSTRACT||000]\n- Over a median follow-up of 4.4 years, 116 patients died; the study found that MESA percentiles did not perform better than absolute CACS for predicting all-cause mortality in either women or men. [pmc_PMC9806039||ABSTRACT||000]\n- Thus, coronary artery calcifications were associated with mortality risk, but sex-specific/age-specific/race-specific percentile measures did not improve prediction beyond absolute calcium score. [pmc_PMC9806039||ABSTRACT||000]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806039/",
-    "doi": "10.1136/openhrt-2022-002005",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC9806039||ABSTRACT||000",
-        "paper_id": "pmc_PMC9806039",
-        "section": "ABSTRACT",
-        "score": -1.201696515083313,
-        "text_preview": "Coronary calcification measures predict mortality in symptomatic women and men | Objective To assess the prognostic value of absolute and sex-specific, age-specific and race/ethnicity-specific (Multi-Ethnic Study of Atherosclerosis, MESA) percentiles of coronary artery calcification in symptomatic w"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC10140256",
-    "summary_text": "- In this registry of heavily calcified coronary lesions, the calcification burden was substantial, with a mean lesion length of 32 mm and a calcium arc of 320 degrees; invasive imaging showed superficial sanding in 90% of vessels and fracturing of deeper medial calcium in 63% [pmc_PMC10140256||ABSTRACT||000] [pmc_PMC10140256||ABSTRACT||001]\n- Despite the heavy calcification, outcomes were generally favorable: device success was 66%, procedural success was 94%, and the mean stent symmetry index was 0.84, suggesting good circular stent expansion [pmc_PMC10140256||ABSTRACT||001]\n- No primary safety events occurred during 30 days of follow-up, indicating no observed short-term complications in this initial experience with orbital atherectomy for heavily calcified coronary lesions [pmc_PMC10140256||ABSTRACT||001]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10140256/",
-    "doi": "10.1007/s12471-022-01742-3",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC10140256||ABSTRACT||001",
-        "paper_id": "pmc_PMC10140256",
-        "section": "ABSTRACT",
-        "score": -2.5435791015625,
-        "text_preview": "lesions were heavily calcified with a mean length of 32 mm and a calcium arc of 320 degrees. Invasive imaging was applied in all but one patient and 36 vessels. Superficial sanding was observed in almost all vessels (90%) and fracturing of deeper medial calcium in more than half of the vessels (63%)"
-      },
-      {
-        "chunk_id": "pmc_PMC10140256||ABSTRACT||000",
-        "paper_id": "pmc_PMC10140256",
-        "section": "ABSTRACT",
-        "score": -7.690845489501953,
-        "text_preview": "Initial experience with orbital atherectomy in a tertiary centre in the Netherlands | Background In January 2021, the Diamondback 360 orbital atherectomy (OA) system received CE mark approval and became available in Europe. The first procedure in Europe was performed at the Thoraxcenter, Erasmus Med"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC10141707",
+    "paper_id": "pmc_PMC9890031",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10141707/",
-    "doi": "10.3390/jcm12082833",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890031/",
+    "doi": "10.3324/haematol.2022.280755",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC10141707||ABSTRACT||000",
-        "paper_id": "pmc_PMC10141707",
+        "chunk_id": "pmc_PMC9890031||ABSTRACT||001",
+        "paper_id": "pmc_PMC9890031",
         "section": "ABSTRACT",
-        "score": -6.541658401489258,
-        "text_preview": "Revascularization and Medical Therapy for Chronic Coronary Syndromes: Lessons Learnt from Recent Trials, a Literature Review | Stable coronary artery disease (CAD) has recently been replaced by a new entity described as chronic coronary syndrome (CCS). This new entity has been developed based on a b"
+        "score": -5.776765823364258,
+        "text_preview": "association of C-reactive protein >5 mg/L and sVEGF >500 pg/mL was strongly associated with vascular involvement (odds ratio=5.54 [95% confidence interval: 2.39-13.62], P <0.001), and independently associated with cardiac involvement (odds ratio=3.18 [95% confidence interval: 1.34-7.83], P =0.010) a"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9806495",
-    "summary_text": "- The provided evidence does not mention coronary artery calcifications specifically; it focuses on predictors of poor prognosis after incomplete revascularization in multivessel coronary artery disease, including female sex, age, biochemical factors, hyperglycemia, total occlusion, and severe tortuosity on coronary angiography. [pmc_PMC9806495||ABSTRACT||000]\n- The complication/outcome discussed is poor prognosis after incomplete revascularization, with major adverse cardiovascular events (MACEs) used as the predicted endpoint in the model. [pmc_PMC9806495||ABSTRACT||001]\n- Because coronary artery calcifications are not described in the evidence, there is insufficient evidence to state how they are associated with complications. [pmc_PMC9806495||ABSTRACT||000]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806495/",
-    "doi": "10.1177/10760296221139258",
+    "paper_id": "pmc_PMC9968601",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968601/",
+    "doi": "10.1111/1759-7714.14783",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9806495||ABSTRACT||000",
-        "paper_id": "pmc_PMC9806495",
+        "chunk_id": "pmc_PMC9968601||ABSTRACT||001",
+        "paper_id": "pmc_PMC9968601",
         "section": "ABSTRACT",
-        "score": -7.084644794464111,
-        "text_preview": "Establishment of a Predictive Model for Poor Prognosis of Incomplete Revascularization in Patients with Coronary Heart Disease and Multivessel Disease | Objective To establish a predictive model for poor prognosis after incomplete revascularization (ICR) in patients with multivessel coronary artery "
+        "score": -4.55860710144043,
+        "text_preview": "data of included studies were demonstrated that chemotherapy plus EGFR‐TKIs had a benefit in ORR compared to antiangiogenic agents plus EGFR‐TKIs in patients with EGFR mutated NSCLC (RR = 1.1, 95% CI: 1.0–1.2). However, there were no significant differences in PFS, OS and DCR between in the two grou"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC8318739",
+    "summary_text": "- The provided evidence does not mention KAI1, VEGF, or their combined detection in HCC diagnosis; it only states that MRI T1WI and T2WI showed high accuracy for diagnosing HCC and HCH, respectively. [pmc_PMC8318739||ABSTRACT||001]\n- The evidence also reports that FAO performed well in segmentation and reconstruction of MRI images for liver tissue, but it does not connect this to KAI1/VEGF-based diagnosis of HCC. [pmc_PMC8318739||ABSTRACT||001]\n\n",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8318739/",
+    "doi": "10.1155/2021/3970529",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC8318739||ABSTRACT||001",
+        "paper_id": "pmc_PMC8318739",
+        "section": "ABSTRACT",
+        "score": -5.860013484954834,
+        "text_preview": "(T2WI) was 97.84% (group E) and 89.71% (group C), respectively. In short, FAO showed an excellent performance in segmentation and reconstruction of MRI images for liver tissue, and T1WI and T2WI of MRI images showed high accuracy in diagnosing the HCC and HCH, respectively."
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC4164248",
+    "summary_text": "- In HCC patients, serum KAI1 was downregulated and VEGF was upregulated, and each had diagnostic value on its own; the area under the receiver operating characteristic curve was 0.907 for KAI1 and 0.779 for VEGF. [pmc_PMC4164248||ABSTRACT||000]\n\n- Combined detection of KAI1 and VEGF improved diagnostic performance compared with KAI1 alone: sensitivity increased from 86.96% to 91.86%, accuracy from 83.06% to 84.68%, and negative predictive value reached 78.79%. [pmc_PMC4164248||ABSTRACT||001]\n\n- The paper concludes that combined detection of KAI1 and VEGF may greatly improve the efficiency of HCC diagnosis and form a reliable panel of diagnostic markers. [pmc_PMC4164248||ABSTRACT||001]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4164248/",
+    "doi": "10.5009/gnl13331",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC4164248||ABSTRACT||001",
+        "paper_id": "pmc_PMC4164248",
+        "section": "ABSTRACT",
+        "score": 6.6591997146606445,
+        "text_preview": "thrombus. In addition to the factors that were correlated with KAI1 expression, VEGF expression was also closely related to the α-fetoprotein level of the patients. The area under the receiver operating characteristic curve for the diagnosis of HCC was 0.907 for KAI1 and 0.779 for VEGF. The sensitiv"
       },
       {
-        "chunk_id": "pmc_PMC9806495||ABSTRACT||001",
-        "paper_id": "pmc_PMC9806495",
+        "chunk_id": "pmc_PMC4164248||ABSTRACT||000",
+        "paper_id": "pmc_PMC4164248",
         "section": "ABSTRACT",
-        "score": -7.410543918609619,
-        "text_preview": "acid, low-density lipoprotein, hyperglycemia, total occlusion, and severe tortuosity lesion on coronary angiography. The C-statistic of the training and validation sets were 0.628 and 0.745, respectively. The statistical value of the Hosmer–Lemeshow test for the calibration curve of the training and"
+        "score": 2.09810733795166,
+        "text_preview": "Expression Characteristics of KAI1 and Vascular Endothelial Growth Factor and Their Diagnostic Value for Hepatocellular Carcinoma | Background/Aims We tried to investigate the expression characteristics of KAI1, a suppressor of wide-spectrum tumor metastasis, and vascular endothelial growth factor ("
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC8758654",
-    "summary_text": "- The provided evidence does not mention coronary artery calcifications or their association with complications; it only discusses coronary blood flow abnormalities in different forms of heart failure. [pmc_PMC8758654||ABSTRACT||000]\n- In ischemic heart failure, reduced coronary blood flow is described as causal to cardiac contractile dysfunction and related complications such as stunned and hibernating myocardium, coronary microembolization, myocardial infarction, and post-infarct remodeling. [pmc_PMC8758654||ABSTRACT||000]\n- In non-ischemic heart failure, alterations in coronary blood flow are said to result from and contribute to cardiac contractile dysfunction, while in heart failure with preserved ejection fraction the causal contribution of coronary microvascular dysfunction is unclear. [pmc_PMC8758654||ABSTRACT||000]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8758654/",
-    "doi": "10.1007/s00395-022-00909-8",
+    "paper_id": "pmc_PMC5385820",
+    "summary_text": "- Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5385820/",
+    "doi": "10.1038/srep06269",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC8758654||ABSTRACT||000",
-        "paper_id": "pmc_PMC8758654",
+        "chunk_id": "pmc_PMC5385820||ABSTRACT||001",
+        "paper_id": "pmc_PMC5385820",
         "section": "ABSTRACT",
-        "score": -7.282351016998291,
-        "text_preview": "Coronary blood flow in heart failure: cause, consequence and bystander | Heart failure is a clinical syndrome where cardiac output is not sufficient to sustain adequate perfusion and normal bodily functions, initially during exercise and in more severe forms also at rest. The two most frequent forms"
+        "score": -9.394537925720215,
+        "text_preview": "0.517–0.800), 0.935 (95%CI: 0.888–0.963), 10.307 (95%CI: 6.167–17.227), 0.348 (95%CI: 0.226–0.537), and 29.582 (95%CI: 4.582–60.012), respectively. The AUC was 0.93 (95% CI: 0.90–0.95). The meta-analysis suggests that detection of EGFR mutation by cfDNA is of adequate diagnostic accuracy and cfDNA a"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9975296",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9975296/",
+    "doi": "10.1016/j.neo.2023.100888",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9975296||ABSTRACT||001",
+        "paper_id": "pmc_PMC9975296",
+        "section": "ABSTRACT",
+        "score": -9.994807243347168,
+        "text_preview": "had shorter progression-free survival (PFS) than those who were L858R- or 19-Del-positive but ARID2-negative (median: 2.3 vs. 12.0 vs. 8.0 months, P = 0.038). Furthermore, mutational profiles, such as top frequently mutated genes and mutational signatures of patients with various EGFR subtype mutati"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9806080",
+    "summary_text": "- The provided evidence does not mention KAI1 or VEGF, so it does not support any conclusion about how their combined detection improves HCC diagnosis. [pmc_PMC9806080||ABSTRACT||000]\n- The abstract instead discusses a pediatric HNF1B-deficient case of hepatocellular carcinoma with unique syncytial giant-cell histopathology and a possible link between HNF1B deficiency and HCC progression. [pmc_PMC9806080||ABSTRACT||000]\n- Because no evidence on diagnostic markers KAI1 and VEGF is given, the answer is insufficient from this paper. [pmc_PMC9806080||ABSTRACT||000]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806080/",
+    "doi": "10.1136/bmjgast-2022-001013",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9806080||ABSTRACT||000",
+        "paper_id": "pmc_PMC9806080",
+        "section": "ABSTRACT",
+        "score": -6.358153343200684,
+        "text_preview": "New case of syncytial giant-cell variant of hepatocellular carcinoma in a pediatric patient with HNF1B deficiency: does it fit with the syndrome? | Background Hepatocyte nuclear factor 1B (HNF1B ) is a member of the homeodomain-containing family of transcription factors located on 17q12. HNF1B defic"
+      }
+    ]
+  },
+  {
+    "paper_id": "https://openalex.org/W3178660840",
+    "summary_text": "- The provided evidence does not mention KAI1, VEGF, or hepatocellular carcinoma (HCC) diagnosis, so it cannot support an answer about combined detection of KAI1 and VEGF improving HCC diagnosis. [https://openalex.org/W3178660840||ABSTRACT||001]\n- The only available information says that extracellular vesicle modifications may be linked to long-term liver disease progression in patients with chronic hepatitis C virus infection after direct-acting antiviral cure, and that these modifications could potentially serve as biomarkers or treatment targets. [https://openalex.org/W3178660840||ABSTRACT||001]\n- Therefore, based on the provided evidence alone, there is insufficient evidence to explain how combined KAI1 and VEGF detection improves HCC diagnosis. [https://openalex.org/W3178660840||ABSTRACT||001]",
+    "url": "https://doi.org/10.1016/j.jhep.2021.07.003",
+    "doi": "https://doi.org/10.1016/j.jhep.2021.07.003",
+    "evidence": [
+      {
+        "chunk_id": "https://openalex.org/W3178660840||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W3178660840",
+        "section": "ABSTRACT",
+        "score": -6.984283447265625,
+        "text_preview": "patients with HCV despite DAA-mediated SVR. LAY SUMMARY: Direct-acting antivirals lead to virological cure in the majority of patients with chronic hepatitis C virus infection. However, the risk of liver disease progression or complications in patients with fibrosis and cirrhosis remains in some pat"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC9805748",
+    "summary_text": "- The provided evidence does not mention KAI1 or VEGF, so it does not support any conclusion about how their combined detection improves the diagnosis of HCC. [pmc_PMC9805748||ABSTRACT||001]\n- The only reported combined biomarker finding is that SULF2 together with GPC3 and SDC1 enhanced discrimination of the worst prognosis in advanced HCC, which is different from the asked KAI1/VEGF combination. [pmc_PMC9805748||ABSTRACT||001]",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9805748/",
+    "doi": "10.2147/JHC.S382226",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC9805748||ABSTRACT||001",
+        "paper_id": "pmc_PMC9805748",
+        "section": "ABSTRACT",
+        "score": -3.8432788848876953,
+        "text_preview": "with advanced HCC compared with the other groups. In patients with advanced HCC, high serum levels of SULF2 were associated with less favorable overall survival. Combination of SULF2 with Glypican 3 (GPC3) and Syndecan 1 (SDC1) serum levels enhanced the ability to discriminate worst prognostic in ad"
       }
     ]
   }

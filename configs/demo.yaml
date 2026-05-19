@@ -60,6 +60,12 @@ synthesizer:
   traces_output: logs/synthesizer_traces.jsonl
   output_path: outputs/synthesis_result.json
 
+critique_loop:
+  enabled: false           # set to true to activate Verifier→Synthesizer refinement
+  max_iterations: 2
+  critique_prompt_path: prompts/synthesizer_critique.txt
+  traces_output: logs/critique_loop_traces.jsonl
+
 verifier:
   prompt_path: prompts/verifier.txt
   traces_output: logs/verifier_traces.jsonl
