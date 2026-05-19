@@ -92,6 +92,30 @@ sources:
     require_pdf: false
     skip_empty_abstract: true
 
+  wos:
+    enabled: false          # set to true once WOS_API_KEY is configured
+    from_year: 2020
+    to_year: 2024
+    max_papers: 5000
+    db: WOS
+    queries:
+      - "sustainability"
+      - "healthcare"
+      - "renewable energy"
+      - "climate change"
+      - "public health"
+      - "environmental science"
+      - "circular economy"
+      - "carbon emissions"
+      - "sustainable agriculture"
+      - "biodiversity conservation"
+      - "mental health"
+      - "infectious disease"
+      - "chronic disease"
+      - "digital health"
+      - "global health equity"
+      - "cancer research"
+
   openalex:
     enabled: true
     queries:

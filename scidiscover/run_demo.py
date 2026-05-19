@@ -2,7 +2,7 @@ import argparse
 import os
 import subprocess
 import sys
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 import yaml
@@ -36,6 +36,7 @@ def main():
 
     pmc = config["sources"]["pmc"]
     openalex = config["sources"].get("openalex", {})
+    wos = config["sources"].get("wos", {})
 
     if not args.skip_ingestion:
         print("STEP 1: Running ingestion pipeline...\n")
@@ -98,6 +99,31 @@ def main():
             subprocess.run(cmd, check=True)
         else:
             print("OpenAlex source disabled")
+
+        if wos.get("enabled"):
+            cmd = [
+                sys.executable,
+                "-m",
+                "scidiscover.ingest.wos_ingest",
+                "--queries",
+            ] + wos["queries"] + [
+                "--from-year",
+                str(wos["from_year"]),
+                "--to-year",
+                str(wos.get("to_year", date.today().year)),
+                "--max-papers",
+                str(wos["max_papers"]),
+                "--db",
+                wos.get("db", "WOS"),
+                "--raw-output",
+                config["corpus"]["raw_output"],
+                "--manifest-output",
+                config["corpus"]["manifest_output"],
+            ]
+            print("  [WoS] Starting Web of Science ingestion...")
+            subprocess.run(cmd, check=True)
+        else:
+            print("WoS source disabled")
 
     if not args.skip_chunking:
         print("\nSTEP 2: Running chunking pipeline...\n")
