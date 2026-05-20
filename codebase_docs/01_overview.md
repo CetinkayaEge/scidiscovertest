@@ -4,7 +4,7 @@
 
 SciDiscover is a multi-agent scientific discovery system. Given a research query, it retrieves relevant open-access papers, summarizes each one, synthesizes a coherent evidence-grounded answer, and optionally verifies every claim against the source chunks. All outputs include traceable citations back to specific text chunks.
 
-The corpus collects papers from two sources — PubMed Central (PMC) and OpenAlex — restricted to the **sustainability** and **healthcare** domains.
+The corpus collects papers from up to three sources — PubMed Central (PMC), OpenAlex, and Web of Science (WOS) — restricted to the **sustainability** and **healthcare** domains.
 
 ---
 
@@ -16,7 +16,8 @@ The corpus collects papers from two sources — PubMed Central (PMC) and OpenAle
 │                                                                  │
 │  PMC OA API ──────┐                                              │
 │                   ├──► data/raw/papers.jsonl                     │
-│  OpenAlex API ────┘         │                                    │
+│  OpenAlex API ────┤         │                                    │
+│  WOS API ─────────┘         │                                    │
 │                             ▼                                    │
 │                      chunker.py                                  │
 │                             │                                    │
@@ -56,8 +57,11 @@ The corpus collects papers from two sources — PubMed Central (PMC) and OpenAle
 │       ▼                                                          │
 │  SynthesizerAgent ─── LLM (JSON mode) ──► draft answer + claims │
 │       │                                                          │
-│       ▼ (optional)                                               │
+│       ▼ (optional, mutually exclusive with critique loop)        │
 │  VerifierAgent   ──── LLM (JSON mode) ──► verified claims        │
+│       │                                                          │
+│       ▼ (optional, replaces standalone Verifier)                 │
+│  CritiqueLoopAgent ─► iterative Synthesizer→Verifier refinement │
 │       │                                                          │
 │       ▼                                                          │
 │  Final Answer → Streamlit UI / reports/eval_*.json              │
@@ -74,6 +78,7 @@ The corpus collects papers from two sources — PubMed Central (PMC) and OpenAle
 | `app.py` | Streamlit web UI for running queries |
 | `scidiscover/ingest/pmc_ingest.py` | Standalone PMC ingestion |
 | `scidiscover/ingest/openalex_ingest.py` | Standalone OpenAlex ingestion |
+| `scidiscover/ingest/wos_ingest.py` | Standalone Web of Science ingestion (requires `WOS_API_KEY`) |
 | `scidiscover/process/chunker.py` | Standalone chunking |
 | `scidiscover/index/builder.py` | Standalone FAISS index build |
 
@@ -99,6 +104,7 @@ streamlit run app.py
 |--------|-------|
 | Target papers (PMC) | up to 8,000 (2023–2025) |
 | Target papers (OpenAlex) | up to 15,000 (2021+, 16 queries) |
+| Target papers (WOS) | up to 5,000 (2020–2024, 16 queries; requires API key) |
 | Embedding dimensions | 384 |
 | Embedding model | `sentence-transformers/all-MiniLM-L6-v2` |
 

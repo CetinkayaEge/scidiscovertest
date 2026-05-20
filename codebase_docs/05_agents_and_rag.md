@@ -2,7 +2,7 @@
 
 ## Agent Pipeline Overview
 
-Up to seven agents can run for each query. Query transformers, Reranker, and Verifier are optional and toggled via config or the UI sidebar. The single-agent baseline replaces the Summarizer + Synthesizer + Verifier chain with a single LLM call.
+Up to eight agents can run for each query. Query transformers, Reranker, Verifier, and CritiqueLoopAgent are optional and toggled via config or the UI sidebar. The single-agent baseline replaces the Summarizer + Synthesizer + Verifier chain with a single LLM call.
 
 ```
 User Query
@@ -25,8 +25,9 @@ SummarizerAgent  ──► per-paper summaries with chunk citations (parallel)
     ▼
 SynthesizerAgent ──► draft answer + key claims with citation IDs (JSON)
     │
-    ▼ (optional)
-VerifierAgent    ──► verified claims, final answer or abstention (JSON)
+    ├─► (optional) VerifierAgent ──► verified claims, final answer or abstention
+    │
+    └─► (optional) CritiqueLoopAgent ──► iterative Synthesizer→Verifier refinement
     │
     ▼
 Streamlit UI / outputs/answers.jsonl
@@ -176,7 +177,7 @@ summarizer:
 
 **File:** `scidiscover/agents/synthesizer.py`
 
-Synthesizes all paper summaries into a single coherent answer. Runs in **JSON mode** — the LLM must return structured JSON.
+Synthesizes all paper summaries into a single coherent answer. Runs in **JSON mode** — the LLM must return structured JSON validated by `SynthesizerLLMOutput` (Pydantic).
 
 **Process:**
 1. Filter out abstained/errored summaries (those starting with `"Insufficient evidence"` or `"[LLM ERROR"`)
@@ -192,7 +193,7 @@ Synthesizes all paper summaries into a single coherent answer. Runs in **JSON mo
    ...
    ```
 3. Call LLM in JSON mode: `system=prompts/synthesizer.txt`, `user=<context>`
-4. Parse JSON response (strips markdown fences if present as fallback)
+4. Parse and validate JSON response via `SynthesizerLLMOutput.model_validate_json()` (strips markdown fences as fallback)
 
 **Expected LLM output schema:**
 ```json
@@ -204,13 +205,21 @@ Synthesizes all paper summaries into a single coherent answer. Runs in **JSON mo
       "citation_ids": ["pmc_PMC10002645||ABSTRACT||000"]
     }
   ],
-  "limitations_and_uncertainty": "..."
+  "limitations_and_uncertainty": ["..."]
 }
 ```
 
 **Abstention:** If LLM response starts with `"ABSTAIN:"`, the agent returns empty claims and no draft answer.
 
 **Citation tracking:** Looks up each `citation_id` in the evidence from Summarizer to build the final `evidence` list. If LLM hallucinates a chunk_id not in the corpus, it is caught downstream by Verifier.
+
+**`revise()` method (used by CritiqueLoopAgent):**
+
+```python
+def revise(self, summary_pack, failing_claims, previous_draft) -> dict
+```
+
+Uses the `critique_prompt_path` prompt (`prompts/synthesizer_critique.txt`). Receives a list of failing claims (those not supported by the verifier) and the previous draft, and produces a revised synthesis that fixes or removes the unsupported claims. Returns the same schema as `run()`. Only available when `critique_prompt_path` is provided at init.
 
 **Outputs:**
 - `outputs/synthesis_result.json`
@@ -222,7 +231,7 @@ Synthesizes all paper summaries into a single coherent answer. Runs in **JSON mo
 
 **File:** `scidiscover/agents/verifier.py`
 
-Verifies each key claim against the actual chunk text it cites. Runs in **JSON mode**.
+Verifies each key claim against the actual chunk text it cites. Runs in **JSON mode**. LLM output is parsed and validated by `VerifierLLMOutput` (Pydantic).
 
 **Pre-screening (rule-based, before LLM call):**
 - Claims with zero citations → immediately marked `UNSUPPORTED`
@@ -285,6 +294,14 @@ else:
 
 **Citation normalization:** Normalizes single-pipe `|` to double-pipe `||` in chunk IDs (compensates for occasional LLM output format errors).
 
+**`_compute_verification()` internal method:**
+
+```python
+def _compute_verification(self, synthesis: dict, evidence_pack: dict) -> dict
+```
+
+Pure verification logic with no disk I/O. Called by both `run()` (with disk writes) and `CritiqueLoopAgent` (without disk writes, for mid-loop checks). Returns the full verification dict including `needs_revision` and `failing_claims` fields used by the critique loop.
+
 **Outputs:**
 - `outputs/verification.jsonl` — includes `confidence` field per claim
 - `outputs/answers.jsonl`
@@ -295,11 +312,87 @@ else:
 verifier:
   prompt_path: prompts/verifier.txt
   traces_output: logs/verifier_traces.jsonl
-  output_path: outputs/verification.jsonl
+  verification_output: outputs/verification.jsonl
   answers_output: outputs/answers.jsonl
   min_citation_coverage: 0.60
   min_support_rate: 0.40
 ```
+
+**Note:** The config key is `verification_output` (not `output_path`).
+
+---
+
+## 6. CritiqueLoopAgent (Optional)
+
+**File:** `scidiscover/agents/critique_loop.py`
+
+Wraps `SynthesizerAgent` and `VerifierAgent` in an iterative refinement loop. When the verifier finds that support rate falls below threshold, it feeds the failing claims back to the synthesizer as a critique and re-synthesizes. Controlled by `critique_loop.enabled` in `configs/demo.yaml`.
+
+**Process:**
+1. Call `synthesizer.run()` to get initial synthesis
+2. Call `verifier._compute_verification()` (no disk I/O) to check support rate
+3. If `needs_revision` is False or max iterations reached → stop early
+4. Otherwise, call `synthesizer.revise(failing_claims=..., previous_draft=...)` using the critique prompt
+5. If revised draft is invalid (ABSTAIN / error) → revert to previous synthesis
+6. Repeat from step 2 up to `max_iterations` times
+7. Call `verifier.run()` (with disk I/O) on the final synthesis
+
+**`run()` API:**
+```python
+def run(self, summary_pack: dict, evidence_pack: dict) -> dict
+```
+
+Returns:
+```json
+{
+  "synthesis":    { /* final SynthesizerAgent output */ },
+  "verified":     { /* final VerifierAgent output */ },
+  "n_iterations": 1
+}
+```
+
+**Configuration (demo.yaml):**
+```yaml
+critique_loop:
+  enabled: false           # set to true to activate
+  max_iterations: 2
+  critique_prompt_path: prompts/synthesizer_critique.txt
+  traces_output: logs/critique_loop_traces.jsonl
+```
+
+**Trace output:** `logs/critique_loop_traces.jsonl` — logs per-iteration support_rate, citation_coverage, claim counts, and the final answer preview.
+
+---
+
+## Pydantic Validation Models
+
+**File:** `utils/models.py`
+
+All agent-boundary data is validated by Pydantic models. There are two categories:
+
+**Validation models** (strict — raise `ValidationError` on bad data):
+
+| Model | Used at |
+|-------|---------|
+| `EvidenceChunk` | Retriever / RerankerAgent output |
+| `PaperSummary` | SummarizerAgent output |
+| `SynthesisPack` | SynthesizerAgent output |
+| `VerificationPack` | VerifierAgent output |
+
+**LLM output models** (permissive — unknown fields ignored, missing optionals default gracefully):
+
+| Model | Used by |
+|-------|---------|
+| `SynthesizerLLMOutput` | SynthesizerAgent JSON parse |
+| `VerifierLLMOutput` | VerifierAgent JSON parse |
+| `QueryDecomposerOutput` | QueryDecomposerAgent JSON parse |
+| `SingleAgentLLMOutput` | SingleAgentBaseline JSON parse |
+
+LLM output models also normalise common LLM mistakes: wrong status strings, out-of-range confidence scores (clamped to `[0.0, 1.0]`), and `null` citation lists (coerced to `[]`).
+
+**File:** `utils/schemas.py`
+
+Thin wrapper around the Pydantic models. Exports `validate_evidence_pack`, `validate_summary_pack`, `validate_synthesis_pack`, `validate_verification_pack` — each accepts the original dict/list format and raises `ValueError` on failure. Existing call sites remain unchanged.
 
 ---
 
@@ -356,6 +449,7 @@ Other tested values for `llm.model`:
 | HyDE | `prompts/hyde.txt` | Plain-text 3–5 sentence hypothetical scientific abstract |
 | Summarizer | `prompts/summarizer.txt` | Every statement cited as `[chunk_id]`, 2–3 bullet points |
 | Synthesizer | `prompts/synthesizer.txt` | JSON output, every claim has `citation_ids` array |
+| Synthesizer (revise) | `prompts/synthesizer_critique.txt` | Same JSON schema; must fix or remove each failing claim listed in prompt |
 | SingleAgentBaseline | `prompts/single_agent_baseline.txt` | Replaces Summarizer + Synthesizer + Verifier with one LLM call |
 | Verifier | `prompts/verifier.txt` | JSON output, no outside knowledge, `[Chunk not found]` → UNKNOWN |
 
@@ -499,6 +593,7 @@ Results written to `reports/eval_results.json` with per-query detail and per-dom
 | `logs/summarizer_traces.jsonl` | SummarizerAgent | JSONL |
 | `logs/synthesizer_traces.jsonl` | SynthesizerAgent | JSONL |
 | `logs/verifier_traces.jsonl` | VerifierAgent | JSONL |
+| `logs/critique_loop_traces.jsonl` | CritiqueLoopAgent | JSONL |
 | `logs/single_agent_baseline_traces.jsonl` | SingleAgentBaseline | JSONL |
 | `outputs/paper_summaries.json` | SummarizerAgent | JSON |
 | `outputs/synthesis_result.json` | SynthesizerAgent | JSON |
