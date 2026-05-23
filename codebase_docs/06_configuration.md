@@ -141,13 +141,63 @@ synthesizer:
 verifier:
   prompt_path: prompts/verifier.txt
   traces_output: logs/verifier_traces.jsonl
-  output_path: outputs/verification.jsonl
+  verification_output: outputs/verification.jsonl   # note: key is verification_output, not output_path
   answers_output: outputs/answers.jsonl
   min_citation_coverage: 0.60    # Fraction of claims that must have ≥1 citation
   min_support_rate: 0.40         # Fraction of cited claims that must be SUPPORTED
 ```
 
 If either threshold is not met, the pipeline returns "Insufficient evidence…" instead of the draft answer.
+
+---
+
+## Critique Loop (Optional)
+
+Activates the `CritiqueLoopAgent` which wraps `SynthesizerAgent` + `VerifierAgent` in an iterative refinement loop. Mutually exclusive with running a standalone verifier pass — when the loop is enabled, it owns the final verification.
+
+```yaml
+critique_loop:
+  enabled: false           # set to true to activate Verifier→Synthesizer refinement
+  max_iterations: 2        # maximum number of revise→verify cycles
+  critique_prompt_path: prompts/synthesizer_critique.txt
+  traces_output: logs/critique_loop_traces.jsonl
+```
+
+| Key | Effect |
+|-----|--------|
+| `enabled` | `false` = standalone Verifier; `true` = CritiqueLoopAgent handles synthesis + verification |
+| `max_iterations` | Caps refinement cycles. Each iteration calls the LLM twice (revise + verify). |
+| `critique_prompt_path` | Prompt used by `synthesizer.revise()` — must list failing claims in the template |
+
+---
+
+---
+
+## Sources: WOS (Web of Science)
+
+> **Requires:** `WOS_API_KEY` environment variable (Clarivate Developer Portal). Leave `enabled: false` unless the key is set.
+
+> **Domain constraint:** same as OpenAlex — queries must belong to `sustainability` or `healthcare` only.
+
+```yaml
+sources:
+  wos:
+    enabled: false          # set to true once WOS_API_KEY is configured
+    from_year: 2020
+    to_year: 2024
+    max_papers: 5000
+    db: WOS                 # Clarivate database code (WOS = Web of Science Core Collection)
+    queries:                # Same query list as OpenAlex
+      - "sustainability"
+      - "healthcare"
+      # ... (16 queries total)
+```
+
+| Key | Notes |
+|-----|-------|
+| `from_year` / `to_year` | Inclusive year range; query is `PY=(from_year-to_year)` |
+| `max_papers` | Shared cap across all queries (same behavior as OpenAlex) |
+| `db` | Clarivate database code; `WOS` = Web of Science Core Collection |
 
 ---
 
@@ -236,3 +286,6 @@ eval:
 | More OpenAlex papers | `sources.openalex.max_papers` | configs/demo.yaml |
 | Earlier OpenAlex papers | `sources.openalex.from_year` | configs/demo.yaml |
 | More OpenAlex topics | Add entries to `sources.openalex.queries` (sustainability/healthcare only) | configs/demo.yaml |
+| Enable WOS corpus | `sources.wos.enabled: true` + set `WOS_API_KEY` | configs/demo.yaml / .env |
+| More WOS papers | `sources.wos.max_papers` | configs/demo.yaml |
+| Wider WOS date range | `sources.wos.from_year` / `to_year` | configs/demo.yaml |

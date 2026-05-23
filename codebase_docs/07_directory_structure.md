@@ -16,7 +16,8 @@ scidiscovertest/
 │   ├── query_decomposer.txt        System prompt for QueryDecomposerAgent
 │   ├── hyde.txt                    System prompt for HyDEAgent
 │   ├── summarizer.txt              System prompt for SummarizerAgent
-│   ├── synthesizer.txt             System prompt for SynthesizerAgent
+│   ├── synthesizer.txt             System prompt for SynthesizerAgent (initial synthesis)
+│   ├── synthesizer_critique.txt    System prompt for SynthesizerAgent.revise() (critique loop)
 │   ├── single_agent_baseline.txt   System prompt for SingleAgentBaseline
 │   └── verifier.txt                System prompt for VerifierAgent
 │
@@ -26,7 +27,8 @@ scidiscovertest/
 │   │
 │   ├── ingest/
 │   │   ├── pmc_ingest.py           PMC OA + OAI-PMH ingestion
-│   │   └── openalex_ingest.py      OpenAlex Works API ingestion
+│   │   ├── openalex_ingest.py      OpenAlex Works API ingestion
+│   │   └── wos_ingest.py           Web of Science Starter API ingestion (requires WOS_API_KEY)
 │   │
 │   ├── process/
 │   │   └── chunker.py              Token-window chunker (title prepended to abstract)
@@ -41,7 +43,8 @@ scidiscovertest/
 │   │   ├── retriever_agent.py      RetrieverAgent wrapper
 │   │   ├── reranker.py             RerankerAgent (CrossEncoder, optional)
 │   │   ├── summarizer.py           SummarizerAgent (parallel LLM calls)
-│   │   ├── synthesizer.py          SynthesizerAgent (JSON-mode LLM)
+│   │   ├── synthesizer.py          SynthesizerAgent (JSON-mode LLM) + revise() for critique loop
+│   │   ├── critique_loop.py        CritiqueLoopAgent (iterative Synthesizer→Verifier refinement)
 │   │   ├── single_agent_baseline.py SingleAgentBaseline (replaces Sum+Syn+Ver chain)
 │   │   └── verifier.py             VerifierAgent (claim verification, optional)
 │   │
@@ -51,7 +54,8 @@ scidiscovertest/
 ├── utils/
 │   ├── llm_client.py               Multi-provider LLM router for pipeline (Anthropic/Gemini/local)
 │   ├── eval_llm.py                 LLM factory for evaluation (OpenRouter or Gemini via LangChain)
-│   └── schemas.py                  Data validation schemas
+│   ├── models.py                   Pydantic models for agent-boundary validation and LLM output parsing
+│   └── schemas.py                  Thin wrapper around utils/models.py for backward-compatible validation calls
 │
 │
 ├── embeddings/
@@ -84,6 +88,7 @@ scidiscovertest/
 │   ├── summarizer_traces.jsonl
 │   ├── synthesizer_traces.jsonl
 │   ├── verifier_traces.jsonl
+│   ├── critique_loop_traces.jsonl
 │   └── single_agent_baseline_traces.jsonl
 │
 ├── outputs/                        Query result artifacts

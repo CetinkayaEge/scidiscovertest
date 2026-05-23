@@ -1,6 +1,6 @@
 # Data Collection Pipeline
 
-Papers are collected from two sources: PMC (PubMed Central) and OpenAlex. Both ingestors write to the same JSONL file and the same corpus manifest CSV.
+Papers are collected from up to three sources: PMC (PubMed Central), OpenAlex, and Web of Science (WOS). All ingestors write to the same JSONL file and the same corpus manifest CSV.
 
 **Output files:**
 - `data/raw/papers.jsonl` — all ingested papers
@@ -125,9 +125,81 @@ sources:
 
 ---
 
-## 3. Shared Paper Schema
+## 3. Web of Science (WOS) Ingestor
 
-Both ingestors output papers in the same JSONL format:
+**File:** `scidiscover/ingest/wos_ingest.py`
+
+**Requires:** `WOS_API_KEY` environment variable (Clarivate Developer Portal). Set `sources.wos.enabled: true` in `configs/demo.yaml` to activate.
+
+### API Used
+
+| API | URL |
+|-----|-----|
+| WOS Starter API | `https://api.clarivate.com/apis/wos-starter/v1/documents` |
+
+### Key Functions
+
+```python
+fetch_papers(queries, from_year, to_year, max_papers, api_key, db="WOS") -> List[Dict]
+```
+- Page-based pagination, 50 results per page (Starter API maximum)
+- Runs each query in `queries` list separately, deduplicates by DOI across all queries
+- `max_papers` is a **shared cap across all queries** — same behavior as OpenAlex
+- Query is constructed as: `TS=({query}) AND PY=({from_year}-{to_year})`
+- Politeness delay between pages
+
+**`WOSIngestor` class** — config-driven wrapper around `fetch_papers()`.
+
+### Allowed Domains
+
+Same domain constraint as OpenAlex — **only `sustainability` and `healthcare` domains** are permitted.
+
+### Configuration (demo.yaml)
+
+```yaml
+sources:
+  wos:
+    enabled: false          # set to true once WOS_API_KEY is configured
+    from_year: 2020
+    to_year: 2024
+    max_papers: 5000
+    db: WOS
+    queries:
+      - "sustainability"
+      - "healthcare"
+      - "renewable energy"
+      - "climate change"
+      - "public health"
+      - "environmental science"
+      - "circular economy"
+      - "carbon emissions"
+      - "sustainable agriculture"
+      - "biodiversity conservation"
+      - "mental health"
+      - "infectious disease"
+      - "chronic disease"
+      - "digital health"
+      - "global health equity"
+      - "cancer research"
+```
+
+### Standalone CLI
+
+```bash
+python -m scidiscover.ingest.wos_ingest \
+    --queries "sustainability" "healthcare" \
+    --from-year 2020 \
+    --to-year 2024 \
+    --max-papers 500 \
+    --raw-output data/raw/papers.jsonl \
+    --manifest-output docs/corpus_manifest.csv
+```
+
+---
+
+## 4. Shared Paper Schema
+
+All three ingestors output papers in the same JSONL format:
 
 ```json
 {
@@ -148,10 +220,11 @@ Both ingestors output papers in the same JSONL format:
 **Paper ID format:**
 - PMC: `pmc_PMC<numeric_id>` (e.g., `pmc_PMC10002645`)
 - OpenAlex: full URL (e.g., `https://openalex.org/W2742189230`)
+- WOS: `wos_<DOI>` (e.g., `wos_10.1016/j.example.2023.001`)
 
 ---
 
-## 4. Corpus Manifest
+## 5. Corpus Manifest
 
 **File:** `docs/corpus_manifest.csv`
 
@@ -165,17 +238,18 @@ Both ingestors output papers in the same JSONL format:
 | `retrieved_date` | `2026-03-19` |
 | `license_note` | `CC BY-NC-ND` |
 
-The manifest is written/appended by both ingestors during every ingestion run. It serves as a provenance log — it does not store full text. Check `wc -l docs/corpus_manifest.csv` for the current paper count (subtract 1 for the header row).
+The manifest is written/appended by all three ingestors during every ingestion run. It serves as a provenance log — it does not store full text. Check `wc -l docs/corpus_manifest.csv` for the current paper count (subtract 1 for the header row).
 
 ---
 
-## 5. Increasing the Corpus
+## 6. Increasing the Corpus
 
-To collect more papers, the two primary levers are:
+To collect more papers, the primary levers are:
 
-1. **`max_papers`** under `sources.pmc` and `sources.openalex` in `configs/demo.yaml`
-2. **Date ranges** (`from_date` / `until_date` for PMC; `from_year` for OpenAlex)
-3. **OpenAlex queries** — adding more topic strings within the allowed domains increases coverage
+1. **`max_papers`** under `sources.pmc`, `sources.openalex`, and `sources.wos` in `configs/demo.yaml`
+2. **Date ranges** (`from_date` / `until_date` for PMC; `from_year` / `to_year` for WOS and OpenAlex)
+3. **OpenAlex / WOS queries** — adding more topic strings within the allowed domains increases coverage
+4. **Enable WOS** — set `sources.wos.enabled: true` and supply `WOS_API_KEY` to add the Clarivate corpus
 
 After changing these values, re-run the full pipeline:
 

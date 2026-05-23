@@ -52,32 +52,39 @@ class VerifierAgent:
         """
         synthesis = pack["synthesis"]
         evidence_pack = pack["evidence_pack"]
+        run_id = str(uuid.uuid4())[:8]
+        query = synthesis["query"]
 
+        result = self._compute_verification(synthesis, evidence_pack)
+        validate_verification_pack(result)
+
+        self._write_verification_jsonl(run_id, query, result["key_claims"])
+        self._write_answers_jsonl(run_id, result)
+        self._log_trace(run_id, query, result)
+
+        return result
+
+    def _compute_verification(self, synthesis: dict, evidence_pack: dict) -> dict:
+        """Reusable verification logic — no disk I/O. Called by run() and CritiqueLoopAgent."""
         query = synthesis["query"]
         draft_answer = synthesis.get("draft_answer", "")
         key_claims = synthesis.get("key_claims", [])
         evidence = synthesis.get("evidence", [])
         limitations = synthesis.get("limitations_and_uncertainty", [])
 
-        run_id = str(uuid.uuid4())[:8]
-
-        # Step 1 — No-evidence fallback
+        # No-evidence fallback
         if not evidence_pack.get("chunks"):
-            result = self._abstain_result(query, key_claims, evidence, limitations)
-            self._write_verification_jsonl(run_id, query, result["key_claims"])
-            self._write_answers_jsonl(run_id, result)
-            self._log_trace(run_id, query, result)
-            return result
+            return self._abstain_result(query, key_claims, evidence, limitations)
 
-        # Step 2 — Build chunk text lookup (normalise chunk IDs)
+        # Build chunk text lookup (normalise chunk IDs)
         chunk_lookup = {
             self._normalize_id(ch["chunk_id"]): ch["text"]
             for ch in evidence_pack["chunks"]
         }
 
-        # Step 3 — Pre-screen claims with no citations (rule-based)
+        # Pre-screen claims with no citations (rule-based)
         prescreened: list[dict] = []
-        llm_claims: list[tuple[int, dict]] = []  # (original_index, claim)
+        llm_claims: list[tuple[int, dict]] = []
 
         for idx, claim in enumerate(key_claims):
             citation_ids = claim.get("citation_ids", [])
@@ -93,14 +100,14 @@ class VerifierAgent:
             else:
                 llm_claims.append((idx, claim))
 
-        # Step 4 — LLM verification for claims that have citations
+        # LLM verification for claims that have citations
         llm_verified: dict[int, dict] = {}
         if llm_claims:
             llm_verified = self._verify_with_llm(
                 query, draft_answer, llm_claims, chunk_lookup
             )
 
-        # Step 5 — Merge results in original order
+        # Merge results in original order
         verified_claims = []
         prescreened_by_idx = {p["original_idx"]: p for p in prescreened}
 
@@ -132,32 +139,34 @@ class VerifierAgent:
                     "notes": "Verification did not return a result for this claim.",
                 })
 
-        # Step 6 — Compute summary
         summary = self._compute_summary(verified_claims)
+        failing_claims = [
+            c for c in verified_claims
+            if c["status"] in {"UNSUPPORTED", "CONFLICT", "UNKNOWN"}
+        ]
+        needs_revision = (
+            summary["citation_coverage"] < self.min_citation_coverage
+            or summary["support_rate"] < self.min_support_rate
+        )
+        
 
-        # Step 7 — Decide final_answer
         if (summary["citation_coverage"] >= self.min_citation_coverage
                 and summary["support_rate"] >= self.min_support_rate):
             final_answer = draft_answer
         else:
             final_answer = _ABSTAIN_MSG
 
-        result = {
+        return {
             "query": query,
+            "draft_answer": draft_answer,
             "final_answer": final_answer,
             "key_claims": verified_claims,
+            "failing_claims": failing_claims,
+            "needs_revision": needs_revision,
             "evidence": evidence,
             "limitations_and_uncertainty": limitations,
             "verification_summary": summary,
         }
-
-        validate_verification_pack(result)
-
-        self._write_verification_jsonl(run_id, query, verified_claims)
-        self._write_answers_jsonl(run_id, result)
-        self._log_trace(run_id, query, result)
-
-        return result
 
     # ------------------------------------------------------------------
     # LLM verification
@@ -325,13 +334,17 @@ class VerifierAgent:
             }
             for c in key_claims
         ]
+        summary = self._compute_summary(verified_claims)
         return {
             "query": query,
+            "draft_answer": "",
             "final_answer": _ABSTAIN_MSG,
             "key_claims": verified_claims,
+            "failing_claims": verified_claims,  # all claims fail when there's no evidence
+            "needs_revision": False,             # no evidence means loop can't help
             "evidence": evidence,
             "limitations_and_uncertainty": limitations + ["No evidence retrieved; all claims unverified."],
-            "verification_summary": self._compute_summary(verified_claims),
+            "verification_summary": summary,
         }
 
     # ------------------------------------------------------------------

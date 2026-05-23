@@ -60,6 +60,12 @@ synthesizer:
   traces_output: logs/synthesizer_traces.jsonl
   output_path: outputs/synthesis_result.json
 
+critique_loop:
+  enabled: false           # set to true to activate Verifier→Synthesizer refinement
+  max_iterations: 2
+  critique_prompt_path: prompts/synthesizer_critique.txt
+  traces_output: logs/critique_loop_traces.jsonl
+
 verifier:
   prompt_path: prompts/verifier.txt
   traces_output: logs/verifier_traces.jsonl
@@ -91,6 +97,30 @@ sources:
     max_papers: 8000
     require_pdf: false
     skip_empty_abstract: true
+
+  wos:
+    enabled: false          # set to true once WOS_API_KEY is configured
+    from_year: 2020
+    to_year: 2024
+    max_papers: 5000
+    db: WOS
+    queries:
+      - "sustainability"
+      - "healthcare"
+      - "renewable energy"
+      - "climate change"
+      - "public health"
+      - "environmental science"
+      - "circular economy"
+      - "carbon emissions"
+      - "sustainable agriculture"
+      - "biodiversity conservation"
+      - "mental health"
+      - "infectious disease"
+      - "chronic disease"
+      - "digital health"
+      - "global health equity"
+      - "cancer research"
 
   openalex:
     enabled: true

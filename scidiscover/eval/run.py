@@ -167,29 +167,22 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
         }
 
     summaries = agents["summarizer_agent"].run(evidence_pack)
-
-    synthesis = agents["synthesizer_agent"].run({
-        "query": query,
-        "paper_summaries": summaries,
-    })
+    summary_pack = {"query": query, "paper_summaries": summaries}
 
     recall_at_k = compute_recall_at_k(evidence_pack, query_record.get("expected_chunk_ids", []))
-
-    # Hallucination rates (both None when model produced no citations)
     summarizer_hal = compute_summarizer_hallucination_rate(summaries, evidence_pack)
-    synthesizer_hal = compute_synthesizer_hallucination_rate(synthesis, evidence_pack)
-
-    # Store retrieved texts for RAGAS
     retrieved_contexts = [ch["text"] for ch in evidence_pack["chunks"]]
 
     if skip_verifier:
+        synthesis = agents["synthesizer_agent"].run(summary_pack)
+        synthesizer_hal = compute_synthesizer_hallucination_rate(synthesis, evidence_pack)
         draft = synthesis.get("draft_answer", "")
         key_claims = synthesis.get("key_claims", [])
         abstained = (
             not draft
             or draft.startswith("ABSTAIN")
             or draft.startswith("[")
-            or "paper summaries" in draft.lower()   # synthesizer early-return fallback
+            or "paper summaries" in draft.lower()
         )
         final_answer = _ABSTAIN_MSG if abstained else draft
         citation_coverage = _citation_coverage_from_claims(key_claims)
@@ -202,7 +195,7 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
             "final_answer": final_answer,
             "abstained": abstained,
             "citation_coverage": citation_coverage,
-            "support_rate": None,       # verifier not run
+            "support_rate": None,
             "n_claims": len(key_claims),
             "n_supported": None,
             "n_unsupported": None,
@@ -216,11 +209,19 @@ def run_pipeline(query_record: dict, agents: dict, top_k: int,
             "query_type": query_record.get("query_type", ""),
         }
 
-    # Full pipeline — run verifier
-    verified = agents["verifier_agent"].run({
-        "synthesis": synthesis,
-        "evidence_pack": evidence_pack,
-    })
+    # Full pipeline — critique loop or plain verifier
+    if "critique_loop_agent" in agents:
+        loop_result = agents["critique_loop_agent"].run(summary_pack, evidence_pack)
+        synthesis = loop_result["synthesis"]
+        verified = loop_result["verified"]
+    else:
+        synthesis = agents["synthesizer_agent"].run(summary_pack)
+        verified = agents["verifier_agent"].run({
+            "synthesis": synthesis,
+            "evidence_pack": evidence_pack,
+        })
+
+    synthesizer_hal = compute_synthesizer_hallucination_rate(synthesis, evidence_pack)
     latency_s = time.time() - t0
     vs = verified["verification_summary"]
 
@@ -324,6 +325,8 @@ def main():
                              "replacing the full Summarizer + Synthesizer + Verifier chain")
     parser.add_argument("--query-transformer", choices=["none", "decompose", "hyde"], default=None,
                         help="Override query_transformer.strategy from config")
+    parser.add_argument("--critique-loop", action="store_true",
+                        help="Enable Verifier→Synthesizer critique loop for low-support answers")
     parser.add_argument("--retrieval-k", type=int, default=None,
                         help="Override retriever pool size (default: eval.top_k_recall). "
                              "Use a larger value than top_k_recall when reranker is enabled "
@@ -351,11 +354,13 @@ def main():
         if rk_tag:
             mode_tag += f"_{rk_tag}"
     else:
+        critique_tag = "_critique" if args.critique_loop and not args.skip_verifier else ""
         mode_tag = (
             f"{'no_verifier' if args.skip_verifier else 'full'}"
             f"_{'no_reranker' if not reranker_on else 'reranker'}"
             f"_{qt_strategy_for_tag}"
             f"_{llm_model.split('-')[0]}"
+            f"{critique_tag}"
         )
         if rk_tag:
             mode_tag += f"_{rk_tag}"
@@ -373,6 +378,7 @@ def main():
         from scidiscover.agents.summarizer import SummarizerAgent
         from scidiscover.agents.synthesizer import SynthesizerAgent
         from scidiscover.agents.verifier import VerifierAgent
+        from scidiscover.agents.critique_loop import CritiqueLoopAgent
     else:
         from scidiscover.agents.single_agent_baseline import SingleAgentBaseline
 
@@ -402,6 +408,7 @@ def main():
             prompt_path=config["synthesizer"]["prompt_path"],
             traces_output=config["synthesizer"]["traces_output"],
             output_path=config["synthesizer"]["output_path"],
+            critique_prompt_path=config.get("critique_loop", {}).get("critique_prompt_path"),
         )
         agents["verifier_agent"] = VerifierAgent(
             prompt_path=verifier_cfg["prompt_path"],
@@ -411,6 +418,14 @@ def main():
             min_citation_coverage=verifier_cfg.get("min_citation_coverage", 0.95),
             min_support_rate=verifier_cfg.get("min_support_rate", 0.50),
         )
+        if args.critique_loop and not args.skip_verifier:
+            cl_cfg = config.get("critique_loop", {})
+            agents["critique_loop_agent"] = CritiqueLoopAgent(
+                synthesizer=agents["synthesizer_agent"],
+                verifier=agents["verifier_agent"],
+                max_iterations=cl_cfg.get("max_iterations", 2),
+                traces_output=cl_cfg.get("traces_output", "logs/critique_loop_traces.jsonl"),
+            )
     else:  # single_agent
         baseline_cfg = config.get("baselines", {}).get("single_agent", {})
         agents["single_agent"] = SingleAgentBaseline(
