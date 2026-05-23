@@ -3,7 +3,8 @@ llm:
   #   gemini-*  → Google Gemini     (requires GOOGLE_API_KEY)
   #   claude-*  → Anthropic         (requires ANTHROPIC_API_KEY)
   #   local-*   → vLLM / HPC server (requires OPENAI_BASE_URL + OPENAI_API_KEY)
-  model: openrouter-openai/gpt-5.4-mini
+  model: local-qwen2.5-32b-instruct-gptq-int4
+  # model: openrouter-openai/gpt-5.4-mini
   # model: gemini-2.5-flash
   # model: local-qwen2.5-72b-instruct-gptq
   max_tokens: 4096

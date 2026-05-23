@@ -34,7 +34,7 @@ st.caption("Multi-agent scientific literature synthesis")
 # ---------------------------------------------------------------------------
 
 MODEL_OPTIONS = {
-    "Local": "local-qwen2.5-72b-instruct-gptq",
+    "Local": "local-qwen2.5-32b-instruct-gptq-int4",
     "Gemini 2.5 Flash": "gemini-2.5-flash",
 }
 
