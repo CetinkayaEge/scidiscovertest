@@ -1,0 +1,63 @@
+{
+  "run_timestamp": "2026-05-23T20:30:49.423161+00:00",
+  "model": "gpt-4o-mini",
+  "n_queries": 2,
+  "avg_latency_s": 12.045,
+  "avg_n_citations": 1.0,
+  "avg_paper_recall": 1.0,
+  "abstention_rate_answerable": 0.0,
+  "correct_abstention_rate": null,
+  "ragas_faithfulness": 0.8824,
+  "ragas_answer_relevancy": 1.0,
+  "ragas_context_recall": 0.381,
+  "per_query": [
+    {
+      "query_id": "q001",
+      "query": "In hepatocellular carcinoma, what was found about macrophage migration inhibitory factor, and how did its knockdown affect tumor cell behavior and related protein expression?",
+      "reference": "Macrophage migration inhibitory factor (MIF), a proinflammatory and immunoregulatory chemokine, plays important roles in cancer-related biological processes. In hepatocellular carcinoma tissues and cell lines, MIF and cyclin D1 expression levels were significantly upregulated compared with adjacent normal tissues or a normal liver cell line. In HCC specimens, MIF expression positively correlated with cyclin D1 expression, and both MIF and cyclin D1 expression positively correlated with tumor size. MIF knockdown inhibited the proliferation of PLC and HepG2 cells and promoted apoptosis, but small interfering RNA against MIF did not influence the cell cycle in these cells. In an in vivo xenograft model, MIF knockdown reduced the tumor growth rate. In MIF-knockdown cells, Bcl-2, p-caspase-3, BIM, and Bax were upregulated, while cyclin D1, p-Akt, and p-ERK were downregulated. These findings indicate that MIF siRNA reduces proliferation and increases apoptosis in HCC cells.",
+      "answer": "Question: In hepatocellular carcinoma, what was found about macrophage migration inhibitory factor, and how did its knockdown affect tumor cell behavior and related protein expression?\n\nIn hepatocellular carcinoma (HCC), macrophage migration inhibitory factor (MIF) expression is markedly upregulated compared to normal tissues, suggesting a role in tumor progression. A positive correlation was observed between MIF expression and cyclin D1 levels as well as tumor size, indicating that MIF may contribute to HCC proliferation and growth (huang2014smallinterferingrna chunk 1).\n\nThe utilization of small interfering RNA (siRNA) for MIF knockdown significantly inhibited the proliferation of HCC cell lines, specifically PLC and HepG2, while promoting apoptosis. This reduction in MIF led to decreased expression of growth-related proteins, including cyclin D1, phosphorylated Akt (p-Akt), and phosphorylated extracellular signal-regulated kinases (p-ERK). Conversely, there was an increase in apoptosis-associated proteins such as Bcl-2, phosphorylated caspase-3 (p-caspase-3), Bcl-2 interacting mediator (BIM), and Bax (huang2014smallinterferingrna chunk 1). These findings suggest that targeting MIF could provide a viable therapeutic strategy to impede HCC cell proliferation and enhance apoptosis, reinforcing its potential as a therapeutic target in the treatment of HCC (huang2014smallinterferingrna chunk 1).\n\nReferences\n\n1. (huang2014smallinterferingrna chunk 1): Xiao-hui Huang, Wei-hua Jian, Zhao-feng Wu, Jie Zhao, Hua Wang, Wen Li, and Jin-tang Xia. Small interfering rna (sirna)-mediated knockdown of macrophage migration inhibitory factor (mif) suppressed cyclin d1 expression and hepatocellular carcinoma cell proliferation. Oncotarget, Jun 2014. URL: https://doi.org/10.18632/oncotarget.2141, doi:10.18632/oncotarget.2141.",
+      "abstained": false,
+      "citations": [
+        "huang2014smallinterferingrna"
+      ],
+      "n_citations": 1,
+      "evidence_passages": [
+        {
+          "doc_name": "huang2014smallinterferingrna",
+          "passage": "In hepatocellular carcinoma (HCC), macrophage migration inhibitory factor (MIF) expression was significantly upregulated compared to normal tissues, and MIF positively correlated with cyclin D1 expression and tumor size. The knockdown of MIF through small interfering RNA (siRNA) inhibited the proliferation of HCC cell lines (PLC and HepG2) and promoted apoptosis. In addition, MIF knockdown reduced the expression of growth-related proteins like cyclin D1, p-Akt, and p-ERK, while increasing apoptosis-associated proteins such as Bcl-2, p-caspase-3, BIM, and Bax. This suggests MIF as a potential t",
+          "score": 10.0,
+          "doi": "10.18632/oncotarget.2141"
+        }
+      ],
+      "paper_recall": 1.0,
+      "latency_s": 11.54,
+      "pqa_duration_s": 11.54,
+      "domain": "healthcare",
+      "query_type": "ragas_single_hop"
+    },
+    {
+      "query_id": "q002",
+      "query": "How are coronary artery calcifications associated with complications?",
+      "reference": "Coronary artery calcification, visible on routine CT imaging, is independently associated with in-hospital complications and an adverse discharge condition in level-1 trauma patients. Left main coronary artery calcification was independently associated with the development of any complication (OR 3.9, 95% CI 1.7–8.9). An increasing number of calcified coronary arteries showed a trend toward an association with complications (p = 0.07) and was significantly associated with an adverse discharge condition (p = 0.02).",
+      "answer": "Question: How are coronary artery calcifications associated with complications?\n\nCoronary artery calcifications (CAC) have been identified as a significant factor associated with in-hospital complications in level-1 trauma patients. The study reports an odds ratio of 3.9, indicating that patients with CAC are nearly four times more likely to experience adverse outcomes during hospitalization compared to those without such calcifications (kobes2022cardiovascularparameterson chunk 1). It was observed that the presence of calcifications in the left main coronary artery serves as an independent predictor of these complications, underscoring its clinical relevance in trauma assessments.\n\nMoreover, a correlation was noted between the number of calcified arteries and the incidence of complications, suggesting a cumulative risk factor linked to increasing coronary artery calcification (kobes2022cardiovascularparameterson chunk 1). Patients presenting with a higher burden of calcified arteries not only demonstrated a propensity for complications but were also significantly related to adverse discharge conditions, indicating a trend toward poorer overall outcomes.\n\nIn contrast, calcifications of the pulmonary system and the abdominal aorta did not show such associations, further emphasizing the specific impact of coronary artery calcification in this context (kobes2022cardiovascularparameterson chunk 1). This evidence supports the utility of routine CT imaging in risk stratification for trauma patients, allowing for targeted interventions for those with identified CAC.\n\nReferences\n\n1. (kobes2022cardiovascularparameterson chunk 1): Tim Kobes, Arthur A. R. Sweet, IJsbrand T. Klip, Roderick M. Houwert, Wouter B. Veldhuis, Luke P. H. Leenen, Pim A. de Jong, and Mark C. P. M. van Baal. Cardiovascular parameters on computed tomography are independently associated with in-hospital complications and outcomes in level-1 trauma patients. European Journal of Trauma and Emergency Surgery, 49:1295-1302, Nov 2022. URL: https://doi.org/10.1007/s00068-022-02168-7, doi:10.1007/s00068-022-02168-7.",
+      "abstained": false,
+      "citations": [
+        "kobes2022cardiovascularparameterson"
+      ],
+      "n_citations": 1,
+      "evidence_passages": [
+        {
+          "doc_name": "kobes2022cardiovascularparameterson",
+          "passage": "The study found that left main coronary artery calcification is independently associated with the development of in-hospital complications in level-1 trauma patients, with an odds ratio of 3.9 suggesting a significant risk. An increasing number of calcified coronary arteries showed a trend toward association with complications and was significantly linked to adverse discharge conditions. In contrast, pulmonary emphysema and abdominal aorta calcifications were not found to be associated with complications. These findings indicate that coronary artery calcifications visible on routine CT imaging",
+          "score": 9.0,
+          "doi": "10.1007/s00068-022-02168-7"
+        }
+      ],
+      "paper_recall": 1.0,
+      "latency_s": 12.55,
+      "pqa_duration_s": 12.55,
+      "domain": "healthcare",
+      "query_type": "ragas_single_hop"
+    }
+  ]
+}

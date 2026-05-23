@@ -157,3 +157,40 @@ Generate a fresh eval testset from the current corpus, then run evaluation:
 # Run evaluation (RAGAS + custom metrics)
 .venv/bin/python -m scidiscover.eval.run --config configs/demo.yaml
 ```
+
+## SOTA Baseline Comparison
+
+We compare SciDiscover against **PaperQA2** (Future House, 2024) — a production-quality,
+agent-based scientific RAG system — using the same corpus and benchmark queries.
+
+See [`paperqa_baseline/`](paperqa_baseline/) for full setup and run instructions.
+
+**Quick start:**
+
+```bash
+# 1. Install PaperQA2
+pip install paper-qa
+
+# 2. Add OPENAI_API_KEY_SOTA=sk-<your-key> to .env
+
+# 3. Dry-run (2 queries, ~1 min)
+PYTHONPATH=. python paperqa_baseline/run_paperqa.py --dry-run
+
+# 4. Full run (40 queries, ~30 min first time)
+PYTHONPATH=. python paperqa_baseline/run_paperqa.py
+
+# 5. Generate comparison table
+PYTHONPATH=. python paperqa_baseline/compare_results.py
+```
+
+Results are saved to `paperqa_baseline/results/` and a Markdown comparison table is
+written to `paperqa_baseline/results/comparison_table.md`.
+
+| Metric | Compared? |
+|--------|:---------:|
+| Abstention rate (answerable / unanswerable) | ✓ both |
+| Avg citations per query | ✓ both |
+| Avg latency (s) | ✓ both |
+| ROUGE-L vs reference | ✓ both |
+| Citation coverage / support rate / recall@k | SciDiscover only |
+| RAGAS faithfulness / relevancy / recall | SciDiscover only |

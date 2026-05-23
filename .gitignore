@@ -5,3 +5,7 @@ __pycache__/
 .env
 .venv
 .claude
+
+# PaperQA2 baseline — generated at runtime, can be large
+paperqa_baseline/paper_texts/
+paperqa_baseline/pqa_index/
