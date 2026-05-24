@@ -1,0 +1,9 @@
+Title: Technical Sustainability of Cloud-Based Blockchain Integrated with Machine Learning for Supply Chain Management
+Authors: Simon Wong, John-Kun-Woon Yeung, Yui‐yip Lau, Joseph C. H. So
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158270
+Paper ID: https://openalex.org/W3183401773
+
+Abstract:
+Knowing the challenges of keeping and manipulating more and more immutable transaction records in a blockchain network of various supply chain parties and the opportunities of leveraging sophisticated analyses on the big data generated from these records, design of a robust blockchain architecture based on a cloud infrastructure is proposed. This paper presents this technical design with consideration of the technical sustainability in terms of scalability and big data processing and analytics. A case study was used to illustrate how the technical sustainability is achieved by applying the proposed technical design to the real-time detection of the maritime risk management. This case also illustrates how machine learning mechanism helps to reduce maritime risk by guiding a cargo ship to adjust to the planned or safe route from a detour to a danger zone. This paper also discusses the implications for further research direction.

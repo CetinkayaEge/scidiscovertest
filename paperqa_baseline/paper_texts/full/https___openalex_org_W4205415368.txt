@@ -1,0 +1,9 @@
+Title: Protein nanofibrils and their use as building blocks of sustainable materials
+Authors: Christofer Lendel, Niclas Solin
+Year: 2021
+Venue: RSC Advances
+DOI: https://doi.org/10.1039/d1ra06878d
+Paper ID: https://openalex.org/W4205415368
+
+Abstract:
+The development towards a sustainable society requires a radical change of many of the materials we currently use. Besides the replacement of plastics, derived from petrochemical sources, with renewable alternatives, we will also need functional materials for applications in areas ranging from green energy and environmental remediation to smart foods. Proteins could, with their intriguing ability of self-assembly into various forms, play important roles in all these fields. To achieve that, the code for how to assemble hierarchically ordered structures similar to the protein materials found in nature must be cracked. During the last decade it has been demonstrated that amyloid-like protein nanofibrils (PNFs) could be a steppingstone for this task. PNFs are formed by self-assembly in water from a range of proteins, including plant resources and industrial side streams. The nanofibrils display distinct functional features and can be further assembled into larger structures. PNFs thus provide a framework for creating ordered, functional structures from the atomic level up to the macroscale. This review address how industrial scale protein resources could be transformed into PNFs and further assembled into materials with specific mechanical and functional properties. We describe what is required from a protein to form PNFs and how the structural properties at different length scales determine the material properties. We also discuss potential chemical routes to modify the properties of the fibrils and to assemble them into macroscopic structures.

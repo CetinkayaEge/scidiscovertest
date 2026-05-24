@@ -1,0 +1,9 @@
+Title: Detection, Emission Estimation and Risk Prediction of Forest Fires in China Using Satellite Sensors and Simulation Models in the Past Three Decades—An Overview
+Authors: Jia-Hua Zhang, Feng-Mei Yao, Cheng Liu, Li-Min Yang, Vijendra K. Boken
+Year: 2011
+Venue: International Journal of Environmental Research and Public Health
+DOI: 10.3390/ijerph8083156
+Paper ID: pmc_PMC3166733
+
+Abstract:
+Forest fires have major impact on ecosystems and greatly impact the amount of greenhouse gases and aerosols in the atmosphere. This paper presents an overview in the forest fire detection, emission estimation, and fire risk prediction in China using satellite imagery, climate data, and various simulation models over the past three decades. Since the 1980s, remotely-sensed data acquired by many satellites, such as NOAA/AVHRR, FY-series, MODIS, CBERS, and ENVISAT, have been widely utilized for detecting forest fire hot spots and burned areas in China. Some developed algorithms have been utilized for detecting the forest fire hot spots at a sub-pixel level. With respect to modeling the forest burning emission, a remote sensing data-driven Net Primary productivity (NPP) estimation model was developed for estimating forest biomass and fuel. In order to improve the forest fire risk modeling in China, real-time meteorological data, such as surface temperature, relative humidity, wind speed and direction, have been used as the model input for improving prediction of forest fire occurrence and its behavior. Shortwave infrared (SWIR) and near infrared (NIR) channels of satellite sensors have been employed for detecting live fuel moisture content (FMC), and the Normalized Difference Water Index (NDWI) was used for evaluating the forest vegetation condition and its moisture status.

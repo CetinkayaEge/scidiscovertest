@@ -1,0 +1,9 @@
+Title: A survey on hydrogen tanks for sustainable aviation
+Authors: Sergio Bagarello, Dario Campagna, Ivano Benedetti
+Year: 2024
+Venue: Green Energy and Intelligent Transportation
+DOI: https://doi.org/10.1016/j.geits.2024.100224
+Paper ID: https://openalex.org/W4402115148
+
+Abstract:
+The aviation industry is facing challenges related to its environmental impact and thus the pressing need to develop aircraft technologies aligned with the society climate goals. Hydrogen is emerging as a potential clean fuel for aviation, as it offers several advantages in terms of supply potential and weight specific energy. One of the key factors enabling the use of H2 in aviation is the development of reliable and safe storage technologies to be integrated into aircraft design. This work provides an overview of the technologies currently being investigated or developed for the storage of hydrogen within the aircraft, which would enable the use of hydrogen as a sustainable fuel for aviation, with emphasis on tanks material and structural aspects. The requirements dictated by the need of integrating the fuel system within existing or ex-novo aircraft architectures are discussed. Both the storage of gaseous and liquid hydrogen are considered and the main challenges related to the presence of either high internal pressures or cryogenic conditions are explored, in the background of recent literature. The materials employed for the manufacturing of hydrogen tanks are overviewed. The need to improve the storage tanks efficiency is emphasized and issues such as thermal insulation and hydrogen embrittlement are covered as well as the reference to the main structural health monitoring strategies. Recent projects dealing with the development of onboard tanks for aviation are eventually listed and briefly reviewed. Finally, considerations on the tank layout deemed more realistic and achievable in the near future are discussed.

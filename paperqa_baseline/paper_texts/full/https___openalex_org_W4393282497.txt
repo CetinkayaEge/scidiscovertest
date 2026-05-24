@@ -1,0 +1,9 @@
+Title: Machine learning models for prediction and classification of tool wear in sustainable milling of additively manufactured 316 stainless steel
+Authors: Mohd Danish, Munish Kumar Gupta, Sayed Ameenuddin Irfan, Sami Ghazali, Muhammad Faisal Rathore, Grzegorz Królczyk, Ahmad Alsaady
+Year: 2024
+Venue: Results in Engineering
+DOI: https://doi.org/10.1016/j.rineng.2024.102015
+Paper ID: https://openalex.org/W4393282497
+
+Abstract:
+Machine learning (ML) is a subfield of Artificial Intelligence (AI) that uses data, learns the hidden pattern from the data, and makes predictions for future instances with greater accuracy and prediction capabilities, not hallucination (overfitting) with the current data. The application of ML is quite popular in the machining sector because the ML models can be used to predict tool wear, surface roughness and other important machining aspects. With this aim, the present work evaluates the tool wear and class separation by predicting the variation of flank wear (Vb) as a test dataset. A predictive model is proposed for utilizing minimum quantity lubrication (MQL), cryogenic, and MoS2+MQL conditions. Predictions are made using several machine learning (ML) methods, including linear regression, support vector machine, random forest, and multilayer perceptron. The study's findings show that Multi-layer perceptron (MLP) is superior to other methods in classification, with a prediction accuracy of over 95% on average across both training and testing datasets. Even with limited information, the proposed method can help classify situations and recommend the best course of action for machining.

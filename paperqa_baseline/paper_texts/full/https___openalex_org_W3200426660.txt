@@ -1,0 +1,9 @@
+Title: An Integrated Pythagorean fuzzy soft computing approach to environmental management systems for sustainable energy pricing
+Authors: Zhaohan Ding, Serhat Yüksel, Hasan Dınçer
+Year: 2021
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2021.08.181
+Paper ID: https://openalex.org/W3200426660
+
+Abstract:
+This study aims to analyse environmental management systems for sustainable energy price. For this purpose, a new fuzzy multi-criteria decision-making (MCDM) model is generated. First, seven different criteria are defined with supported literature. After that, these factors are weighted by considering decision making trial and evaluation laboratory (DEMATEL) methodology based on 2-tuple hesitant interval-valued Pythagorean fuzzy sets (HIVPFs). Furthermore, different pricing strategies are also ranked by using HIVPF technique for order preference by similarity to ideal solution (TOPSIS) and Vise Kriterijumska Optimizacija I Kompromisno Resenje (VIKOR). Also, a sensitivity analysis is also performed by considering six different conditions. The main contribution of this study is proposing a new mathematical model to solve a significant problem regarding energy prices. It is concluded that the results of both TOPSIS and VIKOR are quite similar. On the other side, it is also understood that the results of six different cases are almost the same. This situation explains that analysis results are reliable and coherent. The findings indicate that safety incidence and waste management are the most crucial factors for the sustainability of the energy price. In addition, skimming is the best pricing strategy for the energy industry. Within this framework, energy companies should firstly offer high prices to the market. After that, the price should be reduced when there is a decrease in the demand.

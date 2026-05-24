@@ -1,0 +1,9 @@
+Title: Robust stability analysis for class of Takagi-Sugeno (T-S) fuzzy with stochastic process for sustainable hypersonic vehicles
+Authors: Muhammad Shamrooz Aslam, Prayag Tiwari, Hari Mohan Pandey, Shahab S. Band
+Year: 2023
+Venue: Information Sciences
+DOI: https://doi.org/10.1016/j.ins.2023.119044
+Paper ID: https://openalex.org/W4375948364
+
+Abstract:
+Recently, the rapid development of Unmanned Aerial Vehicles (UAVs) enables ecological conservation, such as low-carbon and “green” transport, which helps environmental sustainability . In order to address control issues in a given region, UAV charging infrastructure is urgently needed. To better achieve this task, an investigation into the T–S fuzzy modeling for Sustainable Hypersonic Vehicles (SHVs) with Markovian jump parameters and H ∞ attitude control in three channels was conducted. Initially, the reentry dynamics were transformed into a control–oriented affine nonlinear model . Then, the original T–S local modeling method for SHV was projected by primarily referring to Taylor's expansion and fuzzy linearization methodologies. After the estimation of precision and controller complexity was assumed, the fuzzy model for jump nonlinear systems mainly consisted of two levels: a crisp level and a fuzzy level. The former illustrates the jumps, and the latter a fuzzy level that represents the nonlinearities of the system. Then, a systematic method built in a new coupled Lyapunov function for a stochastic fuzzy controller was used to guarantee the closed–loop system for H ∞ gain in the presence of a predefined performance index. Ultimately, numerical simulations were conducted to show how the suggested controller can be successfully applied and functioned in controlling the original attitude dynamics.

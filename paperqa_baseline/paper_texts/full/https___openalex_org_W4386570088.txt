@@ -1,0 +1,9 @@
+Title: Green financing of renewable energy generation: Capturing the role of exogenous moderation for ensuring sustainable development
+Authors: Avik Sinha, Vinit Ghosh, N. Hussain, Duc Khuong Nguyen, Narasingha Das
+Year: 2023
+Venue: Energy Economics
+DOI: https://doi.org/10.1016/j.eneco.2023.107021
+Paper ID: https://openalex.org/W4386570088
+
+Abstract:
+The USA has been facing difficulties in attaining the objectives of Sustainable Development Goal (SDG) 7 (Affordable and Clean Energy). One of the major reasons behind this is the policy lacuna prevailing in terms of financializing the renewable energy generation projects. While the policy documents are suggesting solutions to address this issue, the hidden moderations arising out of the socio-economic and political settings are largely ignored. Moreover, the dependence structure of the green finance and renewable energy generation might follow a tail dependence, because of the extreme market conditions. The need for a policy reorientation involving these two factors has motivated the study. In this study the inter-quantile association between green finance and renewable energy generation are analyzed over January 1985 to December 2020. This study has also introduced a new method “Multivariate Quantile-on-Quantile Regression” (m-QQR). The study outcomes reveal that the impact of green finance on renewable energy generation is susceptible to exogenous moderation, while demonstrating inter-quantile dependence. The policy framework recommended in the study is aimed at helping the USA in attaining the objectives of SDG 7.

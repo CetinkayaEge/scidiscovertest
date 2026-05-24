@@ -1,0 +1,9 @@
+Title: Polysaccharides for sustainable energy storage – A review
+Authors: Werner Schlemmer, Julian Selinger, Mathias Hobisch, Stefan Spirk
+Year: 2021
+Venue: Carbohydrate Polymers
+DOI: https://doi.org/10.1016/j.carbpol.2021.118063
+Paper ID: https://openalex.org/W3153012237
+
+Abstract:
+The increasing amount of electric vehicles on our streets as well as the need to store surplus energy from renewable sources such as wind, solar and tidal parks, has brought small and large scale batteries into the focus of academic and industrial research. While there has been huge progress in performance and cost reduction in the past years, batteries and their components still face several environmental issues including safety, toxicity, recycling and sustainability. In this review, we address these challenges by showcasing the potential of polysaccharide-based compounds and materials used in batteries. This particularly involves their use as electrode binders, separators and gel/solid polymer electrolytes. The review contains a historical section on the different battery technologies, considerations about safety on batteries and requirements of polysaccharide components to be used in different types of battery technologies. The last sections cover opportunities for polysaccharides as well as obstacles that prevent their wider use in battery industry.

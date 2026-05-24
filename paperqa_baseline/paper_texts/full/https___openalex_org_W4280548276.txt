@@ -1,0 +1,9 @@
+Title: Effects of Reinforcement Corrosion and Sustained Load on Mechanical Behavior of Reinforced Concrete Columns
+Authors: Qiang� Li, Dong Zheng, Qi He, Chuanqing Fu, Xianyu Jin
+Year: 2022
+Venue: Materials
+DOI: https://doi.org/10.3390/ma15103590
+Paper ID: https://openalex.org/W4280548276
+
+Abstract:
+The effects of reinforcement corrosion and sustained axial load on mechanical performance of reinforced concrete (RC) columns were investigated in the present study. Three different degrees of reinforcement corrosion were achieved by controlling the durations of accelerated corrosion test (i.e., 16 days, 31 days, and 63 days). Three levels of sustained axial load (i.e., 0%, 30%, and 60% of the ultimate bearing capacity) were concentrically applied on column specimens. The impressing current and the sustained load were applied on column specimens simultaneously, mimicking the degradation of RC columns in real structures. Results indicated that transverse stirrups yielded higher corrosion degree than that of the longitudinal rebar under identical duration of accelerated corrosion test. The application of sustained axial load improved the performance of corroded RC columns in terms of the reinforcement corrosion, the ultimate axial load, as well as the stiffness. Additionally, more longitudinal cracks along the main rebar were exhibited for column specimens subjected to sustained axial load. For both loaded and unloaded column specimens, corrosion of reinforcing steels exacerbated the mechanical deterioration of RC columns, lowering the ultimate load carrying capacity and the axial deformation compared to the uncorroded columns.

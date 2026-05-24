@@ -1,0 +1,9 @@
+Title: Fluorescence-Activated Cell Sorting Analysis of Heterotypic Cell-in-Cell Structures
+Authors: Meifang He, Hongyan Huang, Manna Wang, Ang Chen, Xiangkai Ning, Kaitao Yu, Qihong Li, Wen Li, Li Ma, Zhaolie Chen, Xiaoning Wang, Qiang Sun
+Year: 2015
+Venue: Scientific Reports
+DOI: 10.1038/srep09588
+Paper ID: pmc_PMC5386181
+
+Abstract:
+Cell-in-cell structures (CICs), characterized by the presence of one or more viable cells inside another one, were recently found important player in development, immune homeostasis and tumorigenesis etc. Incompatible with ever-increasing interests on this unique phenomenon, reliable methods available for high throughput quantification and systemic investigation are lacking. Here, we report a flow cytometry-based method for rapid analysis and sorting of heterotypic CICs formed between lymphocytes and tumor cells. In this method, cells were labeled with fluorescent dyes for fluorescence-activated cell sorting (FACS) by flow cytometry, conditions for reducing cell doublets were optimized such that high purity (>95%) of CICs could be achieved. By taking advantage of this method, we analyzed CICs formation between different cell pairs, and found that factors from both internalized effector cells and engulfing target cells affect heterotypic CICs formation. Thus, flow cytometry-based FACS analysis would serve as a high throughput method to promote systemic researches on CICs.

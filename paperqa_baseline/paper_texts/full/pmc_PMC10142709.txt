@@ -1,0 +1,9 @@
+Title: Exploration of Metabolic Biomarkers Linking Red Meat Consumption to Ischemic Heart Disease Mortality in the UK Biobank
+Authors: Bohan Fan, Xin Huang, Jie V. Zhao
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15081865
+Paper ID: pmc_PMC10142709
+
+Abstract:
+Growing evidence suggests that red meat consumption is a risk factor for cardiovascular health, with potential sex disparity. The metabolic mechanisms have not been fully understood. Using the UK Biobank, first we examined the associations of unprocessed red meat and processed meat with ischemic heart disease (IHD) mortality overall and by sex using logistic regression. Then, we examined the overall and sex-specific associations of red meat consumption with metabolites using multivariable regression, as well as the associations of selected metabolites with IHD mortality using logistic regression. We further selected metabolic biomarkers that are linked to both red meat consumption and IHD, with concordant directions. Unprocessed red meat and processed meat consumption was associated with higher IHD mortality overall and in men. Thirteen metabolites were associated with both unprocessed red meat and IHD mortality overall and showed a consistent direction, including triglycerides in different lipoproteins, phospholipids in very small very-low-density lipoprotein (VLDL), docosahexaenoic acid, tyrosine, creatinine, glucose, and glycoprotein acetyls. Ten metabolites related to triglycerides and VLDL were positively associated with both unprocessed red meat consumption and IHD mortality in men, but not in women. Processed meat consumption showed similar results with unprocessed red meat. Triglycerides in lipoproteins, fatty acids, and some nonlipid metabolites may play a role linking meat consumption to IHD. Triglycerides and VLDL-related lipid metabolism may contribute to the sex-specific associations. Sex differences should be considered in dietary recommendations.

@@ -1,0 +1,9 @@
+Title: Application of Machine Learning Techniques in Injection Molding Quality Prediction: Implications on Sustainable Manufacturing Industry
+Authors: Hail Jung, Jinsu Jeon, Dahui Choi, Jung-Ywn Park
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084120
+Paper ID: https://openalex.org/W3144558234
+
+Abstract:
+With sustainable growth highlighted as a key to success in Industry 4.0, manufacturing companies attempt to optimize production efficiency. In this study, we investigated whether machine learning has explanatory power for quality prediction problems in the injection molding industry. One concern in the injection molding industry is how to predict, and what affects, the quality of the molding products. While this is a large concern, prior studies have not yet examined such issues especially using machine learning techniques. The objective of this article, therefore, is to utilize several machine learning algorithms to test and compare their performances in quality prediction. Using several machine learning algorithms such as tree-based algorithms, regression-based algorithms, and autoencoder, we confirmed that machine learning models capture the complex relationship and that autoencoder outperforms comparing accuracy, precision, recall, and F1-score. Feature importance tests also revealed that temperature and time are influential factors that affect the quality. These findings have strong implications for enhancing sustainability in the injection molding industry. Sustainable management in Industry 4.0 requires adapting artificial intelligence techniques. In this manner, this article may be helpful for businesses that are considering the significance of machine learning algorithms in their manufacturing processes.

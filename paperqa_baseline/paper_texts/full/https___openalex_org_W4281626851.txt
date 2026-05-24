@@ -1,0 +1,9 @@
+Title: Artificial intelligence solutions enabling sustainable agriculture: A bibliometric analysis
+Authors: Priya Rani Bhagat, Farheen Naz, Róbert Magda
+Year: 2022
+Venue: PLoS ONE
+DOI: https://doi.org/10.1371/journal.pone.0268989
+Paper ID: https://openalex.org/W4281626851
+
+Abstract:
+There is a dearth of literature that provides a bibliometric analysis concerning the role of Artificial Intelligence (AI) in sustainable agriculture therefore this study attempts to fill this research gap and provides evidence from the studies conducted between 2000-2021 in this field of research. The study is a systematic bibliographic analysis of the 465 previous articles and reviews done between 2000-2021 in relation to the utilization of AI in sustainable methods of agriculture. The results of the study have been visualized and presented using the VOSviewer and Biblioshiny visualizer software. The results obtained post analysis indicate that, the amount of academic works published in the field of AI's role in enabling sustainable agriculture increased significantly from 2018. Therefore, there is conclusive evidence that the growth trajectory shows a significant climb upwards. Geographically analysed, the country collaboration network highlights that most number of studies in the realm of this study originate from China, USA, India, Iran, France. The co-author network analysis results represent that there are multi-disciplinary collaborations and interactions between prominent authors from United States of America, China, United Kingdom and Germany. The final framework provided from this bibliometric study will help future researchers identify the key areas of interest in research of AI and sustainable agriculture and narrow down on the countries where prominent academic work is published to explore co-authorship opportunities.

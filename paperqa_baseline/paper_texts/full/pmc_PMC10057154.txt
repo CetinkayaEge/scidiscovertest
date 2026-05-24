@@ -1,0 +1,9 @@
+Title: Acoustic Source Localization in CFRP Composite Plate Based on Wave Velocity-Direction Function Fitting
+Authors: Yu Zhang, Yu Feng, Xiaobo Rui, Lixin Xu, Lei Qi, Zi Yang, Cong Hu, Peng Liu, Haijiang Zhang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063052
+Paper ID: pmc_PMC10057154
+
+Abstract:
+Composite materials are widely used, but they are often subjected to impacts from foreign objects, causing structural damage. To ensure the safety of use, it is necessary to locate the impact point. This paper investigates impact sensing and localization technology for composite plates and proposes a method of acoustic source localization for CFRP composite plates based on wave velocity-direction function fitting. This method divides the grid of composite plates, constructs the theoretical time difference matrix of the grid points, and compares it with the actual time difference to form an error matching matrix to localize the impact source. In this paper, finite element simulation combined with a lead-break experiment is used to explore the wave velocity-angle function relationship of Lamb waves in composite materials. The simulation experiment is used to verify the feasibility of the localization method, and the lead-break experimental system is built to locate the actual impact source. The results show that the acoustic emission time-difference approximation method can effectively solve the problem of impact source localization in composite structures, and the average localization error is 1.44 cm and the maximum localization error is 3.35 cm in 49 experimental points with good stability and accuracy.

@@ -1,0 +1,9 @@
+Title: A systematic review of empirical studies on green manufacturing: eight propositions and a research framework for digitalized sustainable manufacturing
+Authors: Mélanie Despeisse, Arpita Chari, Clarissa A. González Chávez, Helena Monteiro, Carla Gonçalves Machado, Björn Johansson
+Year: 2022
+Venue: Production & Manufacturing Research
+DOI: https://doi.org/10.1080/21693277.2022.2127428
+Paper ID: https://openalex.org/W4302303968
+
+Abstract:
+Manufacturers are facing increasing pressures to adapt their operations to meet sustainability goals. Research and developments on industrial digitalization (aka Industry 4.0) present new opportunities to create and capture value in ever-more complex and connected industrial systems. However, digitalization does not always align with sustainability, and case studies combining these two topics are still scarce. To address these gaps, we adopted a bottom-up approach to (1) identify existing environmental solutions and their implementation challenges by reviewing 208 empirical studies, and (2) formulate eight propositions to guide further work so that digitalization supports environmental improvements more systematically. Finally, a framework for Digitalized Sustainable Manufacturing consisting of four research themes is proposed, pointing to future research needed to align industrial development with sustainable development goals. The propositions and framework aim to structure and focus future research by targeting specifically the challenges encountered when implementing environmental solutions in manufacturing.

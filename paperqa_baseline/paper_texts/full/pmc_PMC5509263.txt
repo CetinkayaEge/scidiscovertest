@@ -1,0 +1,9 @@
+Title: Fabricating Superior NiAl Bronze Components through Wire Arc Additive Manufacturing
+Authors: Donghong Ding, Zengxi Pan, Stephen van Duin, Huijun Li, Chen Shen
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080652
+Paper ID: pmc_PMC5509263
+
+Abstract:
+Cast nickel aluminum bronze (NAB) alloy is widely used for large engineering components in marine applications due to its excellent mechanical properties and corrosion resistance. Casting porosity, as well as coarse microstructure, however, are accompanied by a decrease in mechanical properties of cast NAB components. Although heat treatment, friction stir processing, and fusion welding were implemented to eliminate porosity, improve mechanical properties, and refine the microstructure of as-cast metal, their applications are limited to either surface modification or component repair. Instead of traditional casting techniques, this study focuses on developing NAB components using recently expanded wire arc additive manufacturing (WAAM). Consumable welding wire is melted and deposited layer-by-layer on substrates producing near-net shaped NAB components. Additively-manufactured NAB components without post-processing are fully dense, and exhibit fine microstructure, as well as comparable mechanical properties, to as-cast NAB alloy. The effects of heat input from the welding process and post-weld-heat-treatment (PWHT) are shown to give uniform NAB alloys with superior mechanical properties revealing potential marine applications of the WAAM technique in NAB production.

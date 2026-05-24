@@ -1,0 +1,9 @@
+Title: A spectral preserved model based on spectral contribution and dependence with detail injection for pansharpening
+Authors: Lei Wu, Xunyan Jiang, Jia Peng, Guangsheng Wu, Xiaozhen Xiong
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33574-5
+Paper ID: pmc_PMC10140272
+
+Abstract:
+Pansharpening integrates the high spectral content of multispectral (MS) images and the fine spatial information of the corresponding panchromatic (PAN) images to produce a high spectral-spatial resolution image. Traditional pansharpening methods compensate for the spatial lack of the MS image using the PAN image details, which easily causes spectral distortion. To achieve spectral fidelity, a spectral preservation model based on spectral contribution and dempendence with detail injection for pansharpening is proposed. In the proposed model, first, an efficacy coefficient (CE) based on the spatial difference between the MS and PAN images is designed to suppress the impact of the detail injection on the spectra. Second, the spectral contribution and dependence (SCD) between the MS bands and pixels are considered to strengthen the internal adaptation of the spectra. Finally, a spectrally preserved model based on CE and SCD is designed to force the fused image fidelity in spectra when the MS image is pansharpened with the details of the PAN image. Experimental results show that the proposed model is effective.

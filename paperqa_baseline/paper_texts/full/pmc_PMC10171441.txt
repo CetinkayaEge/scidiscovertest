@@ -1,0 +1,9 @@
+Title: Systemic analysis of the expression and prognostic significance of USP31 in endometrial cancer
+Authors: Yuzhen Huang, Peng Jiang, Yuting Chen, Jinyu Wang, Rui Yuan
+Year: 2023
+Venue: Biomolecules and Biomedicine
+DOI: 10.17305/bjbms.2022.8440
+Paper ID: pmc_PMC10171441
+
+Abstract:
+Increasing evidence indicates that multiple mechanisms are involved in the metastasis and postoperative recurrence in patients with endometrial cancer (EC). Ubiquitin-specific protease 31 (USP31) has been studied in some human tumors, but its function remains unclear in EC. In this study, we tried to investigate the expression of USP31 in EC and its possible involvement in biological signaling pathways and define its predictive value for the prognosis. Data from The Cancer Genome Atlas (TCGA) and Genotype-Tissue Expression (GTEx) databases confirmed the difference in USP31 expression between EC and normal endometrium. Specimens and clinical data of 259 patients with EC who underwent primary surgery at the First Affiliated Hospital of Chongqing Medical University were collected. The independent predictive value of USP31 for the prognosis of EC patients was determined by univariate and multivariate analyses. Kaplan–Meier analysis and receiver operating characteristic curves were used for confirming the ability of USP31 to predict the prognosis. Functional enrichment analyses were used for finding the hub genes associated with USP31 and to predict the biological signaling pathways that might be involved. Our study confirms that EC patients with low expression of USP31 may have a worse prognosis. Functional annotations suggest that USP31 may participate in the mitogen-activated protein kinase signaling pathway, nuclear factor κB pathway, early 2 factor targets, and inflammatory response. USP31 may act as a promising biomarker for research in EC.

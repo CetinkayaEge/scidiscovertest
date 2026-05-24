@@ -1,0 +1,9 @@
+Title: Flexible sensor concept and an integrated collision sensing for efficient human-robot collaboration using 3D local global sensors
+Authors: Aquib Rashid, Ibrahim Alnaser, Mohamad Bdiwi, Steffen Ihlenfeldt
+Year: 2023
+Venue: Frontiers in Robotics and AI
+DOI: 10.3389/frobt.2023.1028411
+Paper ID: pmc_PMC10117896
+
+Abstract:
+Human-robot collaboration with traditional industrial robots is a cardinal step towards agile manufacturing and re-manufacturing processes. These processes require constant human presence, which results in lower operational efficiency based on current industrial collision avoidance systems. The work proposes a novel local and global sensing framework, which discusses a flexible sensor concept comprising a single 2D or 3D LiDAR while formulating occlusion due to the robot body. Moreover, this work extends the previous local global sensing methodology to incorporate local (co-moving) 3D sensors on the robot body. The local 3D camera faces toward the robot occlusion area, resulted from the robot body in front of a single global 3D LiDAR. Apart from the sensor concept, this work also proposes an efficient method to estimate sensitivity and reactivity of sensing and control sub-systems The proposed methodologies are tested with a heavy-duty industrial robot along with a 3D LiDAR and camera. The integrated local global sensing methods allow high robot speeds resulting in process efficiency while ensuring human safety and sensor flexibility.

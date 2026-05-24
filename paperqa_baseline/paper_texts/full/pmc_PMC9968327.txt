@@ -1,0 +1,9 @@
+Title: Dissociation kinetics of small-molecule inhibitors in Escherichia coli is coupled to physiological state of cells
+Authors: Dai Le, Tatsuya Akiyama, David Weiss, Minsu Kim
+Year: 2023
+Venue: Communications Biology
+DOI: 10.1038/s42003-023-04604-9
+Paper ID: pmc_PMC9968327
+
+Abstract:
+Bioactive small-molecule inhibitors represent a treasure chest for future drugs. In vitro high-throughput screening is a common approach to identify the small-molecule inhibitors that bind tightly to purified targets. Here, we investigate the inhibitor-target binding/unbinding kinetics in E. coli cells using a benzimidazole-derivative DNA inhibitor as a model system. We find that its unbinding rate is not constant but depends on cell growth rate. This dependence is mediated by the cellular activity, forming a feedback loop with the inhibitor’s activity. In accordance with this feedback, we find cell-to-cell heterogeneity in inhibitor-target interaction, leading to co-existence of two distinct subpopulations: actively growing cells that dissociate the inhibitors from the targets and non-growing cells that do not. We find similar heterogeneity for other clinical DNA inhibitors. Our studies reveal a mechanism that couples inhibitor-target kinetics to cell physiology and demonstrate the significant effect of this coupling on drug efficacy. This study investigates how binding/unbinding kinetics of a benzimidazole-derivative DNA inhibitor in E. coli cells depends on cell growth and physiology and demonstrates the effect of this coupling on drug efficacy.

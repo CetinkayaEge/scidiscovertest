@@ -1,0 +1,9 @@
+Title: Improving the intrinsic activity of electrocatalysts for sustainable energy conversion: where are we and where can we go?
+Authors: Nitish Govindarajan, Georg Kastlunger, Hendrik H. Heenen, Karen Chan
+Year: 2021
+Venue: Chemical Science
+DOI: https://doi.org/10.1039/d1sc04775b
+Paper ID: https://openalex.org/W3216060957
+
+Abstract:
+, to synthetic fuels and chemicals. A cornerstone to this strategy is the development of earth abundant electrocatalysts with high intrinsic activity towards the desired products. In this perspective, we discuss the importance and challenges involved in the estimation of intrinsic activity both from the experimental and theoretical front. Through a thorough analysis of published data, we find that only modest improvements in intrinsic activity of electrocatalysts have been achieved in the past two decades which necessitates the need for a paradigm shift in electrocatalyst design. To this end, we highlight opportunities offered by tuning three components of the electrochemical environment: cations, buffering anions and the electrolyte pH. These components can significantly alter catalytic activity as demonstrated using several examples, and bring us a step closer towards complete system level optimization of electrochemical routes to sustainable energy conversion.

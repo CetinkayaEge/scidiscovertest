@@ -1,0 +1,9 @@
+Title: Multiperiod Optimal Allocation of Emergency Resources in Support of Cross-Regional Disaster Sustainable Rescue
+Authors: Yanyan Wang
+Year: 2021
+Venue: International Journal of Disaster Risk Science
+DOI: https://doi.org/10.1007/s13753-021-00347-5
+Paper ID: https://openalex.org/W3159422155
+
+Abstract:
+Abstract Cross-regional allocation is necessary for the rational utilization and optimal allocation of resources. It is also the key to effective and sustainable disaster relief. Existing research, however, generally centers on emergency resource allocation only within territories or regions. This article proposes a multiperiod allocation optimization model for emergency resources based on regional self-rescue and cross-regional collaborative rescue efforts. The model targets the shortest delivery time and lowest allocation costs as its efficiency goals and the maximum coverage rate of resource allocation in the disaster-affected locations as its equity goal. An objective weighting fuzzy algorithm based on two-dimensional Euclidean distance is designed to solve the proposed model. A case study based on the Wenchuan Earthquake of 12 May 2008 was conducted to validate the proposed model. The results indicate that our proposed model allows for optimal, multiperiod cross-regional resource allocation by combining interterritorial and nearby allocation principles. Cross-regional relief makes resource allocation more equitable, minimizes dissatisfaction, and prevents losses. Different decision preferences appear to significantly affect the choice of resource allocation scheme employed, which provides flexibility for decision making in different emergencies.

@@ -1,0 +1,9 @@
+Title: Power Electronics for Modern Sustainable Power Systems: Distributed Generation, Microgrids and Smart Grids—A Review
+Authors: Marcus Evandro Teixeira Souza, L.C. de Freitas
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14063597
+Paper ID: https://openalex.org/W4220928812
+
+Abstract:
+This work presents and discusses the application of power electronics for the integration of several distributed generation sources, as well as those related to it, the microgrids and the smart grids, to the power sector. Trends and challenges are addressed for the area of study and an embracing overview of the main technologies and techniques is presented for future investigation. As there are many power electronics devices available for employment, in each one of these crucial, modern, sustainable electrical systems, it is important for students, researchers and professionals to understand and compare the state of the art of them all, for the right choice in their respective uses. These apparatuses not only allow grid matching, but also provide new functions that enhance these artifacts’ operations, and of the entire power system. Thus, in this paper, the relationship between power electronics and distributed generation is detailed, with the role and classification of each static converter for the improved operation of wind power, photovoltaic systems, fuel cells, small hydro and microturbines exposed. While the first two are more widely covered in the literature, the last three are rarely discussed and differentiated, in terms of their power electronics interfaces. Then, the same is made for microgrids and smart grids, also scarcely approached in other works, with regard to the characteristics of the power converters applied, confirming their superior performances with the use of power electronics. Finally, conclusions are given.

@@ -1,0 +1,9 @@
+Title: The mRNA decapping machinery targets LBD3/ASL9 to mediate apical hook and lateral root development
+Authors: Zhangli Zuo, Milena E Roux, Jonathan R Chevalier, Yasin F Dagdas, Takafumi Yamashino, Søren D Højgaard, Emilie Knight, Lars Østergaard, Eleazar Rodriguez, Morten Petersen
+Year: 2023
+Venue: Life Science Alliance
+DOI: 10.26508/lsa.202302090
+Paper ID: pmc_PMC10310928
+
+Abstract:
+This study identifies LBD3/ASL9 as targets of mRNA decay machinery, and ASL9 contributes to apical hook and lateral root development, possibly through interfering with cytokinin/auxin responses. Multicellular organisms perceive and transduce multiple cues to optimize development. Key transcription factors drive developmental changes, but RNA processing also contributes to tissue development. Here, we report that multiple decapping deficient mutants share developmental defects in apical hook, primary and lateral root growth. More specifically, LATERAL ORGAN BOUNDARIES DOMAIN 3 (LBD3)/ASYMMETRIC LEAVES 2-LIKE 9 (ASL9) transcripts accumulate in decapping deficient plants and can be found in complexes with decapping components. Accumulation of ASL9 inhibits apical hook and lateral root formation. Interestingly, exogenous auxin application restores lateral roots formation in both ASL9 over-expressors and mRNA decay–deficient mutants. Likewise, mutations in the cytokinin transcription factors type-B ARABIDOPSIS RESPONSE REGULATORS (B-ARRs) ARR10 and ARR12 restore the developmental defects caused by over-accumulation of capped ASL9 transcript upon ASL9 overexpression. Most importantly, loss-of-function of asl9 partially restores apical hook and lateral root formation in both dcp5-1 and pat triple decapping deficient mutants. Thus, the mRNA decay machinery directly targets ASL9 transcripts for decay, possibly to interfere with cytokinin/auxin responses, during development.

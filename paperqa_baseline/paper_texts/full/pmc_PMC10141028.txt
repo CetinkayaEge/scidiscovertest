@@ -1,0 +1,9 @@
+Title: pH-Sensitive Liposomes with Embedded 3-(isobutylamino)cholan-24-oic Acid: What Is the Possible Mechanism of Fast Cargo Release?
+Authors: Anna A. Efimova, Anton S. Popov, Alexey V. Kazantsev, Pavel I. Semenyuk, Irina M. Le-Deygen, Nikolay V. Lukashev, Alexander A. Yaroslavov
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13040407
+Paper ID: pmc_PMC10141028
+
+Abstract:
+pH-sensitive liposomes have great potential for biomedical applications, in particular as nanocontainers for the delivery of biologically active compounds to specific areas of the human body. In this article, we discuss the possible mechanism of fast cargo release from a new type of pH-sensitive liposomes with embedded ampholytic molecular switch (AMS, 3-(isobutylamino)cholan-24-oic acid) with carboxylic anionic groups and isobutylamino cationic ones attached to the opposite ends of the steroid core. AMS-containing liposomes demonstrated the rapid release of the encapsulated substance when altering the pH of an outer solution, but the exact mechanism of the switch action has not yet been accurately determined. Here, we report on the details of fast cargo release based on the data obtained using ATR-FTIR spectroscopy as well as atomistic molecular modeling. The findings of this study are relevant to the potential application of AMS-containing pH-sensitive liposomes for drug delivery.

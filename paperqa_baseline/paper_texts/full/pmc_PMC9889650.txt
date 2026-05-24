@@ -1,0 +1,9 @@
+Title: Sensitivity of canine hematological cancers to BH3 mimetics
+Authors: Selvi Jegatheeson, Claire Cannon, Caroline Mansfield, Joanne Devlin, Andrew Roberts
+Year: 2022
+Venue: Journal of Veterinary Internal Medicine
+DOI: 10.1111/jvim.16587
+Paper ID: pmc_PMC9889650
+
+Abstract:
+Abstract Background Inhibition of antiapoptotic B‐cell lymphoma 2 (BCL2) proteins by small molecule Bcl‐2 homology 3 (BH3) mimetics causes rapid induction of apoptosis of human hematological cancers in vitro and in vivo. Objectives Assess in vitro sensitivity of non‐neoplastic lymphocytes and primary hematological cancer cells from dogs to venetoclax (VEN) or the dual BCL2/ B‐cell lymphoma‐extra‐large (BCLxL) inhibitor, navitoclax (NAV), and evaluate the association between BCL2 protein expression and VEN sensitivity. Animals Nine client‐owned dogs without cancer and 18 client‐owned dogs with hematological cancer. Methods Prospective, nonrandomized noncontrolled study. Lymphocytes isolated from peripheral blood, lymph node, or bone marrow from dogs were incubated with BH3 mimetics for 24 hours. Viable cells were counted using flow cytometry and half maximal effective concentration (EC 50 ) was calculated. BCL2 protein from whole cell lysates was assessed via immunoblots. Results Nodal B and T lymphocytes were more sensitive to VEN than circulating lymphocytes ( P = .02). Neoplastic T lymphocytes were sensitive to VEN (mean EC 50 ± SD = 0.023 ± 0.018 μM), whereas most non‐indolent B cell cancers were resistant to killing by VEN (mean EC 50 ± SD = 288 ± 700 μM). Unclassified leukemias showed variable sensitivity to VEN (mean EC 50 ± SD = 0.49 ± 0.66 μM). Detection of BCL2 protein was not associated with VEN sensitivity. Conclusion and Clinical Importance Neoplastic canine T lymphocytes are sensitive to VEN in vitro. Quantification of BCL2 protein alone is insufficient to predict sensitivity to VEN.

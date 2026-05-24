@@ -1,0 +1,9 @@
+Title: Blockchain empowerment in construction supply chains: Enhancing efficiency and sustainability for an infrastructure development
+Authors: Ahsan Waqar, Abdul Mateen Khan, Idris Othman
+Year: 2023
+Venue: Journal of Infrastructure Intelligence and Resilience
+DOI: https://doi.org/10.1016/j.iintel.2023.100065
+Paper ID: https://openalex.org/W4388440458
+
+Abstract:
+The construction sector is now experiencing a significant transformation, primarily motivated by the need to enhance operational efficiency and promote sustainable practices. The emergence of blockchain technology has been seen as a disruptive factor that has the potential to fundamentally transform the field of supply chain management within the construction industry. Nevertheless, the extent to which this technology has revolutionized the sector has yet to be extensively investigated. The primary objective of this study is to address the existing research void by examining the impact of blockchain technology on enhancing the capabilities of building supply chains. This study employs a thorough examination of empirical case studies and a survey conducted among 136 industry professionals to explore the many functions of blockchain technology in augmenting efficiency, transparency, and traceability within building supply chains. The significant constructs were found having impact on blockchain implementation for construction supply chains are, Transparency and Traceability (β = 0.202, ρ = 0.000, t = 42.560), Smart Contracts for Automation (β = 0.232, ρ = 0.000, t = 62.596), Quality Assurance and Compliance (β = 0.230, ρ = 0.000, t = 64.704), Dispute Resolution and Accountability (β = 0.235, ρ = 0.000, t = 79.533), Supplier Management and Verification (β = 0.251, ρ = 0.000, t = 49.404).

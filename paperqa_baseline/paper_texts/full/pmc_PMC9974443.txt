@@ -1,0 +1,9 @@
+Title: Enoyl-CoA hydratase/3-hydroxyacyl CoA dehydrogenase is essential for the production of DHA in zebrafish
+Authors: Gang Yang, Shouxiang Sun, Jiaxin He, Yumei Wang, Tianying Ren, Houxiong He, Jian Gao
+Year: 2023
+Venue: Journal of Lipid Research
+DOI: 10.1016/j.jlr.2022.100326
+Paper ID: pmc_PMC9974443
+
+Abstract:
+Compared with other species, freshwater fish are more capable of synthesizing DHA via same biosynthetic pathways. Freshwater fish have a “Sprecher” pathway to biosynthesize DHA in a peroxisome-dependent manner. Enoyl-CoA hydratase/3-hydroxyacyl CoA dehydrogenase ( Ehhadh ) is involved in the hydration and dehydrogenation reactions of fatty acid β-oxidation in peroxisomes. However, the role of Ehhadh in the synthesis of DHA in freshwater fish remains largely unclear. In this study, the knockout of Ehhadh significantly inhibited DHA synthesis in zebrafish. Liver transcriptome analysis showed that Ehhadh deletion significantly inhibited SREBF and PPAR signaling pathways and decreased the expression of PUFA synthesis-related genes. Our results from the analysis of transgenic zebrafish (Tg: Ehhadh ) showed that Ehhadh overexpression significantly increased the DHA content in the liver and significantly upregulated the expression of genes related to PUFA synthesis. In addition, the DHA content in the liver of Tg: Ehhadh fed with linseed oil was significantly higher than that of wildtype, but the expression of PUFA synthesis-related genes fads2 and elovl2 were significantly lower, indicating that Ehhadh had a direct effect on DHA synthesis. In conclusion, our results showed that Ehhadh was essential for DHA synthesis in the “Sprecher” pathway, and Ehhadh overexpression could promote DHA synthesis. This study provides insight into the role of Ehhadh in freshwater fish. Graphical abstract

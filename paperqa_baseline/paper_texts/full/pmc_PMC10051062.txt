@@ -1,0 +1,9 @@
+Title: Adaptive Bitline Voltage Countermeasure for Neighbor Wordline Interference in 3D NAND Flash Memory-Based Sensors
+Authors: Hanshui Fan, Xuan Tian, Huiting Peng, Yinfeng Shen, Liang Li, Ming Li, Liming Gao
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063212
+Paper ID: pmc_PMC10051062
+
+Abstract:
+Three-dimensional NAND flash memory is widely used in sensor systems as an advanced storage medium that ensures system stability through fast data access. However, in flash memory, as the number of cell bits increases and the process pitch keeps scaling, the data disturbance becomes more serious, especially for neighbor wordline interference (NWI), which leads to a deterioration of data storage reliability. Thus, a physical device model was constructed to investigate the NWI mechanism and evaluate critical device factors for this long-standing and intractable problem. As simulated by TCAD, the change in channel potential under read bias conditions presents good consistency with the actual NWI performance. Using this model, NWI generation can be accurately described through the combination of potential superposition and a local drain-induced barrier lowering (DIBL) effect. This suggests that a higher bitline voltage ( V b l ) transmitted by the channel potential can restore the local DIBL effect, which is ever weakened by NWI. Furthermore, an adaptive V b l countermeasure is proposed for 3D NAND memory arrays, which can significantly minimize the NWI of triple-level cells (TLC) in all state combinations. The device model and the adaptive V b l scheme were successfully verified by TCAD and 3D NAND chip tests. This study introduces a new physical model for NWI-related problems in 3D NAND flash, while providing a feasible and promising voltage scheme as a countermeasure to optimize data reliability.

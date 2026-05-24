@@ -1,0 +1,9 @@
+Title: The Environmental Sustainability of Digital Technologies: Stakeholder Practices and Perspectives
+Authors: Gabrielle Samuel, Federica Lucivero, Lucas Somavilla
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14073791
+Paper ID: https://openalex.org/W4220842325
+
+Abstract:
+Artificial Intelligence and associated digital technologies (DTs) have environmental impacts. These include heavy carbon dioxide emissions linked to the energy consumption required to generate and process large amounts of data; extracting minerals for, and manufacturing of, technological components; and e-waste. These environmental impacts are receiving increasing policy and media attention through discourses of environmental sustainability. At the same time, ‘sustainability’ is a complex and nebulous term with a multiplicity of meanings and practices. This paper explores how experts working with DTs understand and utilise the concept of environmental sustainability in their practices. Our research question was how do stakeholders researching, governing or working on the environmental impacts of DTs, utilise environmental sustainability concepts? We applied a combination of bibliometric analysis and 24 interviews with key stakeholders from the digital technology sector. Findings show that, although stakeholders have broad conceptual understandings of the term sustainability and its relation to the environmental impacts of DTs, in practice, environmental sustainability tends to be associated with technology based and carboncentric approaches. While narrowing conceptual understandings of environmental sustainability was viewed to have a practical purpose, it hid broader sustainability concerns. We urge those in the field not to lose sight of the wider ‘ethos of sustainability’.

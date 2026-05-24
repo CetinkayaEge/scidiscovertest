@@ -1,0 +1,9 @@
+Title: Potential Drug-Related Problems in Pediatric Patients—Describing the Use of a Clinical Decision Support System at Pharmacies in Sweden
+Authors: Sazan Abass Abdulkadir, Björn Wettermark, Tora Hammar
+Year: 2023
+Venue: Pharmacy
+DOI: 10.3390/pharmacy11010035
+Paper ID: pmc_PMC9967379
+
+Abstract:
+The clinical support system Electronic Expert Support (EES) is available at all pharmacies in Sweden to examine electronic prescriptions when dispensing to prevent drug-related problems (DRPs). DRPs are common, and result in patient suffering and substantial costs for society. The aim of this research was to study the use of EES for the pediatric population (ages 0–12 years), by describing what types of alerts are generated for potential DRPs, how they are handled, and how the use of EES has changed over time. Data on the number and categories of EES analyses, alerts, and resolved alerts were provided by the Swedish eHealth Agency. The study shows that the use of EES has increased. The most common type of alert for a potential DRP among pediatric patients was regarding high doses in children (30.3% of all alerts generated). The most common type of alert for a potential DRP that was resolved among pediatrics was therapy duplication (4.6% of the alerts were resolved). The most common reason for closing an alert was dialogue with patient for verification of the treatment (66.3% of all closed alerts). Knowledge of which type of alerts are the most common may contribute to increased prescriber awareness of important potential DRPs.

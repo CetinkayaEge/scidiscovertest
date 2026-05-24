@@ -1,0 +1,9 @@
+Title: Human DNA ligases I and III have stand-alone end-joining capability, but differ in ligation efficiency and specificity
+Authors: Justin R McNally, Amanda M Ames, Suzanne J Admiraal, Patrick J O’Brien
+Year: 2023
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkac1263
+Paper ID: pmc_PMC9881130
+
+Abstract:
+Abstract Double-strand DNA breaks (DSBs) are toxic to cells, and improper repair can cause chromosomal abnormalities that initiate and drive cancer progression. DNA ligases III and IV (LIG3, LIG4) have long been credited for repair of DSBs in mammals, but recent evidence suggests that DNA ligase I (LIG1) has intrinsic end-joining (EJ) activity that can compensate for their loss. To test this model, we employed in vitro biochemical assays to compare EJ by LIG1 and LIG3. The ligases join blunt-end and 3′-overhang-containing DNA substrates with similar catalytic efficiency, but LIG1 joins 5′-overhang-containing DNA substrates ∼20-fold less efficiently than LIG3 under optimal conditions. LIG1-catalyzed EJ is compromised at a physiological concentration of Mg 2+ , but its activity is restored by increased molecular crowding. In contrast to LIG1, LIG3 efficiently catalyzes EJ reactions at a physiological concentration of Mg 2+ with or without molecular crowding. Under all tested conditions, LIG3 has greater affinity than LIG1 for DNA ends. Remarkably, LIG3 can ligate both strands of a DSB during a single binding encounter. The weaker DNA binding affinity of LIG1 causes significant abortive ligation that is sensitive to molecular crowding and DNA terminal structure. These results provide new insights into mechanisms of alternative nonhomologous EJ.

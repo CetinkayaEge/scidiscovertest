@@ -1,0 +1,9 @@
+Title: Toward Sustainable, Colorless, and Transparent Photovoltaics: State of the Art and Perspectives for the Development of Selective Near‐Infrared Dye‐Sensitized Solar Cells
+Authors: Fionnuala Grifoni, Matteo Bonomo, Waad Naim, Nadia Barbero, Thomas Alnasser, Iva Džeba, Marco Giordano, Arshak A. Tsaturyan, Maxence Urbani, Tomás Torres⊗, Claudia Barolo, Frédéric Sauvage
+Year: 2021
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202101598
+Paper ID: https://openalex.org/W3189097853
+
+Abstract:
+Abstract Dye‐sensitized solar cell (DSSC) is one of the promising photovoltaic (PV) technologies for applications requiring high aesthetic features combined with energy production such as building integration PV (BIPV). In this context, DSSCs have the ability to be wavelength selective, thanks to the development of new sensitizers by molecular engineering. The long history of dye research has afforded is technology different colorations for reaching panchromatic light absorption. However, nearly 45% of radiation from sunlight lies in the near‐infrared (NIR) region, where human cones are not sensitive. This review provides the reader with key information on how to selectively exploit this region to develop colorless and transparent PV based on DSSC technology. Besides selective NIR absorbers, the triptych photoanode, counter‐electrode, and redox mediator are together contributing to reach high aesthetic features. Details of all the components, interplay, and an opinion on the technological limitations to reach colorless and transparent NIR‐DSSC are herein discussed in relationship with BIPV applications.

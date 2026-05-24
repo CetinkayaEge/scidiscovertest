@@ -1,0 +1,9 @@
+Title: How Does China’s Economic Policy Uncertainty Affect the Sustainability of Its Net Grain Imports?
+Authors: Yuee Li, Jingdong Li
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126899
+Paper ID: https://openalex.org/W3174212057
+
+Abstract:
+China is a considerable grain importer in the world. However, the sustainability of China’s grain imports has been greatly challenged by its increasing economic policy uncertainty (EPU).This paper constructs the indicators of economic and environmental sustainability of China’s net grain imports and analyzes the impact of its EPU index on these indicators with a Time-Varying Parameter Stochastic Volatility Vector Autoregression (TVP-SV-VAR) model to explore how China’s EPU affects the sustainability of its net grain imports. The main conclusions are as follows.(1) The sustainability of China’s net grain imports fluctuated from 2001 to 2019. (2) China’s EPU has a negative impact on the economic sustainability of its net grain imports. A higher EPU index leads to a lower net import potential ratio and higher trade cost. (3) China’s EPU has a significant negative impact on the environmental sustainability of its net grain imports. It has the greatest negative impact on virtual water imports and smaller impact on virtual land imports and embodied carbon emission. Therefore, China’s EPU affects the sustainability of its net grain imports negatively through its impact on its net grain import potential ratio, trade cost, and virtual land, virtual water, and embodied carbon emissions in net grain imports.

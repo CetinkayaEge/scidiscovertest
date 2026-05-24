@@ -1,0 +1,9 @@
+Title: Deep Learning for Sustainable Agriculture: A Systematic Review on Applications in Lettuce Cultivation
+Authors: Yi-Ming Qin, Yu-Hao Tu, Tao Li, Yao Ni, Rui-Feng Wang, Haihua Wang
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17073190
+Paper ID: https://openalex.org/W4409167968
+
+Abstract:
+Lettuce, a vital economic crop, benefits significantly from intelligent advancements in its production, which are crucial for sustainable agriculture. Deep learning, a core technology in smart agriculture, has revolutionized the lettuce industry through powerful computer vision techniques like convolutional neural networks (CNNs) and YOLO-based models. This review systematically examines deep learning applications in lettuce production, including pest and disease diagnosis, precision spraying, pesticide residue detection, crop condition monitoring, growth stage classification, yield prediction, weed management, and irrigation and fertilization management. Notwithstanding its significant contributions, several critical challenges persist, including constrained model generalizability in dynamic settings, exorbitant computational requirements, and the paucity of meticulously annotated datasets. Addressing these challenges is essential for improving the efficiency, adaptability, and sustainability of deep learning-driven solutions in lettuce production. By enhancing resource efficiency, reducing chemical inputs, and optimizing cultivation practices, deep learning contributes to the broader goal of sustainable agriculture. This review explores research progress, optimization strategies, and future directions to strengthen deep learning’s role in fostering intelligent and sustainable lettuce farming.

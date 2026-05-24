@@ -1,0 +1,9 @@
+Title: The diffuse gamma-ray flux from clusters of galaxies
+Authors: Saqib Hussain, Rafael Alves Batista, Elisabete M. de Gouveia Dal Pino, Klaus Dolag
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38226-w
+Paper ID: pmc_PMC10148864
+
+Abstract:
+The origin of the diffuse gamma-ray background (DGRB), the one that remains after subtracting all individual sources from observed gamma-ray sky, is unknown. The DGRB possibly encompasses contributions from different source populations such as star-forming galaxies, starburst galaxies, active galactic nuclei, gamma-ray bursts, or galaxy clusters. Here, we combine cosmological magnetohydrodynamical simulations of clusters of galaxies with the propagation of cosmic rays (CRs) using Monte Carlo simulations, in the redshift range z ≤ 5.0, and show that the integrated gamma-ray flux from clusters can contribute up to 100% of the DGRB flux observed by Fermi-LAT above 100 GeV, for CRs spectral indices α = 1.5 − 2.5 and energy cutoffs \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${E}_{\max }=1{0}^{16}-1{0}^{17}$$\end{document} E max = 1 0 16 − 1 0 17 eV. The flux is dominated by clusters with masses 10 13 ≲ M / M ⊙ ≲ 10 15 and redshift z ≲ 0.3. Our results also predict the potential observation of high-energy gamma rays from clusters by experiments like the High Altitude Water Cherenkov (HAWC), the Large High Altitude Air Shower Observatory (LHAASO), and potentially the upcoming Cherenkov Telescope Array (CTA). The origin of the diffuse gamma-ray background (DGRB) is unknown. Here, the authors show that the integrated gamma-ray flux from clusters can contribute up to 100% of the DGRB flux observed by Fermi-LAT above 100 GeV.

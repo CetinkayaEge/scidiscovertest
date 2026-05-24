@@ -1,0 +1,9 @@
+Title: Melodic Universals Emerge or Are Sustained Through Cultural Evolution
+Authors: Tessa Verhoef, Andrea Ravignani
+Year: 2021
+Venue: Frontiers in Psychology
+DOI: https://doi.org/10.3389/fpsyg.2021.668300
+Paper ID: https://openalex.org/W3193049304
+
+Abstract:
+To understand why music is structured the way it is, we need an explanation that accounts for both the universality and variability found in musical traditions. Here we test whether statistical universals that have been identified for melodic structures in music can emerge as a result of cultural adaptation to human biases through iterated learning. We use data from an experiment in which artificial whistled systems, where sounds produced with a slide whistle were learned by human participants and transmitted multiple times from person to person. These sets of whistled signals needed to be memorised and recalled and the reproductions of one participant were used as the input set for the next. We tested for the emergence of seven different melodic features, such as discrete pitches, motivic patterns, or phrase repetition, and found some evidence for the presence of most of these statistical universals. We interpret this as promising evidence that, similarly to rhythmic universals, iterated learning experiments can also unearth melodic statistical universals. More, ideally cross-cultural, experiments are nonetheless needed. Simulating the cultural transmission of artificial proto-musical systems can help unravel the origins of universal tendencies in musical structures.

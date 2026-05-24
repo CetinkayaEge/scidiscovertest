@@ -1,0 +1,9 @@
+Title: Machine Learning and Artificial Intelligence in the Food Industry: A Sustainable Approach
+Authors: Rajnish Kler, Ghada Elkady, Kantilal Pitambar Rane, Abha Singh, Md Shamim Hossain, Dheeraj Malhotra, Samrat Ray, Komal Kumar Bhatia
+Year: 2022
+Venue: Journal of Food Quality
+DOI: https://doi.org/10.1155/2022/8521236
+Paper ID: https://openalex.org/W4280534973
+
+Abstract:
+The goal of this research was to look into how artificial intelligence (AI) and machine learning (ML) techniques are being used in food industry and to come up with future research directions based on that. This study investigates the articles available on several scientific platforms that link both AI and supply chain from one side and ML and food industry from the other side, using a systematic literature review methodology. The findings of this research stated that although AI and machine learning technologies are yet in their beginning, the prospective for them to enhance the performance of the food industry (FI) is quite promising. Various investigators created AI and ML-related models that were verified and found to be effective in optimising FI, and so the use of AI and ML in FI networks provides competitive advantages for improvement. Other academics suggest that AI and machine learning are both now adding value, while others believe that they are still underutilised and that their tools and methodologies can harness the overall value of the food business. According to the findings, AI and machine learning have the potential to reduce economic losses, thereby supporting the food industry's efficiency and responsiveness.

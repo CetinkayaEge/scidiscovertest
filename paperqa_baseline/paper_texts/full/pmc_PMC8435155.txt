@@ -1,0 +1,9 @@
+Title: Artificial fairness? Trust in algorithmic police decision-making
+Authors: Zoë Hobson, Julia A. Yesberg, Ben Bradford, Jonathan Jackson
+Year: 2021
+Venue: Journal of Experimental Criminology
+DOI: 10.1007/s11292-021-09484-9
+Paper ID: pmc_PMC8435155
+
+Abstract:
+Objectives Test whether (1) people view a policing decision made by an algorithm as more or less trustworthy than when an officer makes the same decision; (2) people who are presented with a specific instance of algorithmic policing have greater or lesser support for the general use of algorithmic policing in general; and (3) people use trust as a heuristic through which to make sense of an unfamiliar technology like algorithmic policing. Methods An online experiment tested whether different decision-making methods, outcomes and scenario types affect judgements about the appropriateness and fairness of decision-making and the general acceptability of police use of this particular technology. Results People see a decision as less fair and less appropriate when an algorithm decides, compared to when an officer decides. Yet, perceptions of fairness and appropriateness were strong predictors of support for police use of algorithms, and being exposed to a successful use of an algorithm was linked, via trust in the decision made, to greater support for police use of algorithms. Conclusions Making decisions solely based on algorithms might damage trust, and the more police rely solely on algorithmic decision-making, the less trusting people may be in decisions. However, mere exposure to the successful use of algorithms seems to enhance the general acceptability of this technology. Supplementary Information The online version contains supplementary material available at 10.1007/s11292-021-09484-9.

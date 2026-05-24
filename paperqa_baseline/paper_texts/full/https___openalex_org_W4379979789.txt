@@ -1,0 +1,9 @@
+Title: Sustainability and climate resilience metrics and trade-offs in transport infrastructure asset recovery
+Authors: Stergios-Aristoteles Mitoulis, D.V. Bompa, Sotirios Argyroudis
+Year: 2023
+Venue: Transportation Research Part D Transport and Environment
+DOI: https://doi.org/10.1016/j.trd.2023.103800
+Paper ID: https://openalex.org/W4379979789
+
+Abstract:
+Climate change exacerbates natural hazards and continuously challenges the performance of critical infrastructure. Thus, climate resilience and sustainable adaptation of infrastructure are of paramount importance. This paper puts forward a novel framework and metrics for optimising sustainability (Greenhouse Gas emissions - GHG), climate resilience (restoration time), and cost. The framework aims to facilitate decision-making by operators and stakeholders and communicate actionable trade-offs between these principles. It describes approaches for quantifying ex-ante adaptation and ex-post recovery from the lenses of sustainability and resilience using relevant metrics. This paper concludes with an application of the framework on a bridge, where normalised metrics are integrated into one unique index (ISRC), which can be used in the recovery prioritisation for portfolios of similar assets. The optimisation program includes a bridge recovery, while reducing GHG emissions. The impact of climate change on the sustainability and resilience indexes is examined and the results show how the optimum solutions are adversely affected by different climate projections. In all scenarios examined, more sustainable solutions leading to reduced GHG emissions (tCO2e) are the optimum solutions when weighing resilience and cost. Based on the case study analysed in this paper, the low carbon restoration strategy resulted in up to 50% higher ISRC, which can justify investments for low GHG adaptation strategies in transport assets.

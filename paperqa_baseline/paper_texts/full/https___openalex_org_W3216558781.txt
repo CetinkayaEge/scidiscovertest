@@ -1,0 +1,9 @@
+Title: Cyclic tests of a precast restrained rocking system for sustainable and resilient seismic design of bridges
+Authors: Natalia Reggiani Manzo, Michalis F. Vassiliou
+Year: 2021
+Venue: Engineering Structures
+DOI: https://doi.org/10.1016/j.engstruct.2021.113620
+Paper ID: https://openalex.org/W3216558781
+
+Abstract:
+Letting a column uplift and sustain rocking motion has been suggested as a seismic design method for bridges. In an effort to increase the redundancy of a rocking bridge, most researchers use ungrouted restraining tendons passing through the columns. However, it has been argued that these tendons unnecessarily increase the design forces of the superstructure and of the foundation, and that rocking systems should be designed to be unrestrained. In an effort to combine the benefits of both approaches this paper suggests the use of flexible restraining systems comprising a tendon in series with disc springs, essentially forming a seismic isolation method for precast structures. It presents cyclic tests of two 1:5 scale RC columns with ends protected either with steel jackets or with steel discs. The columns are able to sustain drifts of more than 15% (and in some cases 30%) without any significant damage – hence they are resilient. The behavior of the disc springs is well predicted by analytical models. The strength (i.e. uplift force) and post uplift stiffness of the system can be predicted with a reasonable accuracy using a rigid body model. However, the rigid body model does not predict well the pre-uplift behavior. As the tendon is anchored within the column, the design moment of the foundation drastically decreases, therefore costly and material intensive pile foundations could be avoided – hence the design concept contributes to sustainability.

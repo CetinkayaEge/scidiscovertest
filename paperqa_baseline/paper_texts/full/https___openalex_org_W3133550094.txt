@@ -1,0 +1,9 @@
+Title: A Systematic Literature Review of the IT-Based Supply Chain Management System: Towards a Sustainable Supply Chain Management Model
+Authors: Chang‐Tang Chiang, Tun‐Chih Kou, Tian-Lih Koo
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052547
+Paper ID: https://openalex.org/W3133550094
+
+Abstract:
+The concept of sustainability has been highly valued by all aspects of life, while the supply chain plays a critical role in production and logistics. Supply chain management (SCM) is continuously transformed by information technology (IT). The purpose of this study is to review and discuss the effect of information technology-based SCM on sustainability. This paper conducted a systematic literature review by collecting author-anchored keywords from peer-reviewed articles on IT-based supply chain management. A total of 1264 articles and 2575 keywords from eleven supply chain-related journals were analysed with social network analysis. A knowledge map with ten research hot topics was identified. Additionally, a sustainable supply chain management (SSCM) model is developed not only to guide researchers to further understand IT-based SCM topical and structural meanings but also to contribute to enlightening a coherent and rigorous body of theories relevant to academics and supply chain and logistics managers interested in SSCM.

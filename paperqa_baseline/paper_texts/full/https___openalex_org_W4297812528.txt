@@ -1,0 +1,9 @@
+Title: Sustainable Food Waste Management: Synthesizing Engineered Biochar for CO2 Capture
+Authors: Xiangzhou Yuan, Junyao Wang, Shuai Deng, Pavani Dulanja Dissanayake, Shujun Wang, Siming You, Alex C.K. Yip, Shuangjun Li, Yoonah Jeong, Daniel C.W. Tsang, Yong Sik Ok
+Year: 2022
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c03029
+Paper ID: https://openalex.org/W4297812528
+
+Abstract:
+Humanity needs innovative ways to combat the environmental burden caused by food waste, which is one of the critical global issues. We proposed food waste-derived engineered biochar (FWDEB) for CO2 capture from a life cycle perspective. FWDEB samples were prepared by carbonization and chemical activation for CO2 adsorption. FW400-KOH600(2), carbonized at 400 °C and then activated at 600 °C with a KOH/biochar mass ratio of 2, presented the best CO2 adsorption capacities of 4.06 mmol g–1 at 0 °C (1 bar) and 2.54 mmol g–1 at 25 °C (1 bar) among all prepared samples. The CO2 uptake at 25 °C (1 bar) was affected by both micropore volume and surface area limited by narrow micropores less than 8 Å. Basic O- and N-functional groups were generated during the KOH activation, which are beneficial for enhancing the FWDEB-based CO2 adsorption. Moreover, a life cycle assessment was implemented to quantify the potential environmental impacts of FW400-KOH600(2), indicating that negative net global warming potential could be achieved using the FWDEB-based CO2 capture approach. Owing to the environmental benefits, we highlighted its potential as a promising technical route to mitigate climate change and achieve a waste-to-resource strategy.

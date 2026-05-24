@@ -1,0 +1,9 @@
+Title: Glia fuel neurons with locally synthesized ketone bodies to sustain memory under starvation
+Authors: Bryon Silva, Olivier L. Mantha, Johann Schor, Alberto Pascual, Pierre-Yves Plaçais, Alice Pavlowsky, Thomas Préat
+Year: 2022
+Venue: Nature Metabolism
+DOI: https://doi.org/10.1038/s42255-022-00528-6
+Paper ID: https://openalex.org/W4213062594
+
+Abstract:
+During starvation, mammalian brains can adapt their metabolism, switching from glucose to alternative peripheral fuel sources. In the Drosophila starved brain, memory formation is subject to adaptative plasticity, but whether this adaptive plasticity relies on metabolic adaptation remains unclear. Here we show that during starvation, neurons of the fly olfactory memory centre import and use ketone bodies (KBs) as an energy substrate to sustain aversive memory formation. We identify local providers within the brain, the cortex glia, that use their own lipid store to synthesize KBs before exporting them to neurons via monocarboxylate transporters. Finally, we show that the master energy sensor AMP-activated protein kinase regulates both lipid mobilization and KB export in cortex glia. Our data provide a general schema of the metabolic interactions within the brain to support memory when glucose is scarce.

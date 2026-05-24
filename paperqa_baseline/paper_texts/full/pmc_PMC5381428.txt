@@ -1,0 +1,9 @@
+Title: Association between vitamin C intake and lung cancer: a dose-response meta-analysis
+Authors: Jie Luo, Li Shen, Di Zheng
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep06161
+Paper ID: pmc_PMC5381428
+
+Abstract:
+Epidemiological studies evaluating the association between the intake of vitamin C and lung cancer risk have produced inconsistent results. We conducted a meta-analysis to assess the association between them. Pertinent studies were identified by a search of PubMed, Web of Knowledge and Wan Fang Med Online through December of 2013. Random-effect model was used to combine the data for analysis. Publication bias was estimated using Begg's funnel plot and Egger's regression asymmetry test. Eighteen articles reporting 21 studies involving 8938 lung cancer cases were included in this meta-analysis. Pooled results suggested that highest vitamin C intake level versus lowest level was significantly associated with the risk of lung cancer [summary relative risk (RR) = 0.829, 95%CI = 0.734–0.937, I 2 = 57.8%], especially in the United States and in prospective studies. A linear dose-response relationship was found, with the risk of lung cancer decreasing by 7% for every 100 mg/day increase in the intake of vitamin C [summary RR = 0.93, 95%CI = 0.88–0.98]. No publication bias was found. Our analysis suggested that the higher intake of vitamin C might have a protective effect against lung cancer, especially in the United States, although this conclusion needs to be confirmed.

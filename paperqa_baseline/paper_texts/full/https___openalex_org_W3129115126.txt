@@ -1,0 +1,9 @@
+Title: Sustainable Battery Materials for Next‐Generation Electrical Energy Storage
+Authors: Xingwen Yu, Arumugam Manthiram
+Year: 2021
+Venue: Advanced Energy and Sustainability Research
+DOI: https://doi.org/10.1002/aesr.202000102
+Paper ID: https://openalex.org/W3129115126
+
+Abstract:
+While renewable energy sources are deemed as a preponderant component toward building a sustainable society, their utilization depends on the efficiency and sustainability of energy‐storage technologies. The development of battery‐storage technologies with affordable and environmentally benign chemistries/materials is increasingly considered as an indispensable element of the whole concept of sustainable energy technologies. Lithium‐ion batteries are at the forefront among existing rechargeable battery technologies in terms of operational performance. Considering materials cost, abundance of elements, and toxicity of cell components, there are, however, sustainability concerns for lithium‐ion batteries. Herein, a discussion of the existing rechargeable battery technologies from a sustainability perspective is provided. Then, recent research strategies toward enhancing the sustainability of Li + ‐ion technologies are first discussed. After that, emerging novel battery systems, beyond lithium‐ion technology, with sustainable chemistries and materials are highlighted and prospected.

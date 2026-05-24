@@ -1,0 +1,9 @@
+Title: Nexus between carbon emissions, economic growth, renewable energy use, urbanization, industrialization, technological innovation, and forest area towards achieving environmental sustainability in Bangladesh
+Authors: Asif Raihan, Dewan Ahmed Muhtasim, Sadia Farhana, Monirul Islam Pavel, Omar Faruk, Mostafizur Rahman, Abir Mahmood
+Year: 2022
+Venue: Energy and Climate Change
+DOI: https://doi.org/10.1016/j.egycc.2022.100080
+Paper ID: https://openalex.org/W4290038962
+
+Abstract:
+Global climate change, exacerbated by greenhouse gas (GHG) emissions, notably carbon dioxide (CO2) emissions, offers enormous risks to the environment, development, and long-term sustainability. This study looks at how economic growth, renewable energy utilization, urbanization, industrialization, technological innovation, and forest area might help Bangladesh attain environmental sustainability by lowering CO2 emissions. The autoregressive distributed lag (ARDL) bounds testing strategy was used to test time series data from 1990 to 2019, followed by the Dynamic Ordinary Least Squares (DOLS) method. The empirical findings reveal that economic growth, urbanization, and industrialization increase CO2 emissions in Bangladesh while improving renewable energy use, technological innovation, and forest area assistance to achieve environmental sustainability by reducing CO2 emissions. In addition, the pairwise Granger causality test was utilized to capture the causal linkages between the variables. This article provides policy recommendations aimed at a low-carbon economy, promoting renewable energy use, sustainable urbanization, green industrialization, financing technological advancement, and sustainable forest management, to accomplish emission reduction and environmental sustainability in Bangladesh.

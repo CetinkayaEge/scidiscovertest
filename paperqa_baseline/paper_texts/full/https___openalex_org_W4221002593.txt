@@ -1,0 +1,9 @@
+Title: Electrostatic dust removal using adsorbed moisture–assisted charge induction for sustainable operation of solar panels
+Authors: Sreedath Panat, Kripa K. Varanasi
+Year: 2022
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abm0078
+Paper ID: https://openalex.org/W4221002593
+
+Abstract:
+Dust accumulation on solar panels is a major challenge, as it blocks a large portion of sunlight. Solar panels are therefore cleaned regularly using large quantities of pure water. Consumption of water for cleaning, especially in deserts, poses a substantial sustainability challenge. Here, we present a waterless approach for dust removal from solar panels using electrostatic induction. We find that dust particles, despite primarily consisting of insulating silica, can be electrostatically repelled from electrodes due to charge induction assisted by adsorbed moisture. We experimentally determine dust particle charge by conducting Stokes experiments under an electrostatic field. By considering electrostatic, van der Waals, and gravitational forces, we define the threshold electric potential for particle removal. We also demonstrate dust removal over a broad range of relative humidity, making our approach widely applicable. Last, we develop a lab-scale prototype and demonstrate up to 95% recovery of lost power output using our approach.

@@ -1,0 +1,9 @@
+Title: Current microfluidic platforms for reverse engineering of cornea
+Authors: Qinyu Li, Ho Lam Wong, Yan Lam Ip, Wang Yee Chu, Man Shek Li, Chinmoy Saha, Kendrick Co Shih, Yau Kei Chan
+Year: 2023
+Venue: Materials Today Bio
+DOI: 10.1016/j.mtbio.2023.100634
+Paper ID: pmc_PMC10149412
+
+Abstract:
+According to the World Health Organization, corneal blindness constitutes 5.1% of global blindness population. Surgical outcomes have been improved significantly in the treatment of corneal blindness. However, corneal transplantation is limited by global shortage of donor tissue, prompting researchers to explore alternative therapies such as novel ocular pharmaceutics to delay corneal disease progression. Animal models are commonly adopted for investigating pharmacokinetics of ocular drugs. However, this approach is limited by physiological differences in the eye between animals and human, ethical issues and poor bench-to-bedside translatability. Cornea-on-a-chip (CoC) microfluidic platforms have gained great attention as one of the advanced in vitro strategies for constructing physiologically representative corneal models. With significant improvements in tissue engineering technology, CoC integrates corneal cells with microfluidics to recapitulate human corneal microenvironment for the study of corneal pathophysiological changes and evaluation of ocular drugs. Such model, in complement to animal studies, can potentially accelerate translational research, in particular the pre-clinical screening of ophthalmic medication, driving clinical treatment advancement for corneal diseases. This review provides an overview of engineered CoC platforms with respect to their merits, applications, and technical challenges. Emerging directions in CoC technology are also proposed for further investigations, to accentuate preclinical obstacles in corneal research. Graphical abstract Image 1

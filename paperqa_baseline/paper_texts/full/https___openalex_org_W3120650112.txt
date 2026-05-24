@@ -1,0 +1,9 @@
+Title: Social, Economic and Environmental Sustainability of Port Regions: MCDM Approach in Composite Index Creation
+Authors: Jelena Stanković, Ivana Marjanović, Jason Papathanasiou, Saša Drezgić
+Year: 2021
+Venue: Journal of Marine Science and Engineering
+DOI: https://doi.org/10.3390/jmse9010074
+Paper ID: https://openalex.org/W3120650112
+
+Abstract:
+Maritime transport and ports are among the most important linkages between global economies, handling more than 90% of internationally traded goods. Economic importance of maritime transport imposes significant implications on the social and environmental performance of port regions. The paper aims to create composite indices as relevant, scientific-based tools used in comparing and monitoring various aspects of sustainability across 37 sea port regions in seven countries on the European side of the Mediterranean, covering a five-year period from 2014 to 2018. The model encompasses Eurostat and OECD annual NUTS2 level data covering economic, social and environmental dimensions of sustainability. Two important indicators of maritime transport activity, maritime transport of freight and maritime transport of passengers, are included within the group of economic indicators. To create composite indices, the multicriteria decision making (MCDM) framework was used as an integrated approach of entropy in the weighting segment, and the Preference Ranking Organization METHod for Enrichment of Evaluations (PROMETHEE) as an aggregation method. The results highlight GDP per capita and population density as indicators of the greatest relative importance when it comes to port regions sustainability. The ranking results indicate that, despite the fact that Attica is the best ranked region in terms of overall sustainability, the largest number of top rated port regions are in Italy, Spain and France.

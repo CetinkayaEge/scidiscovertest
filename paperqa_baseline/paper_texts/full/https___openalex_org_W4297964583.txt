@@ -1,0 +1,9 @@
+Title: Spatial programming of self-organizing chemical systems using sustained physicochemical gradients from reaction, diffusion and hydrodynamics
+Authors: Anne‐Déborah C. Nguindjel, Pieter de Visser, Mitch Winkens, Peter A. Korevaar
+Year: 2022
+Venue: Physical Chemistry Chemical Physics
+DOI: https://doi.org/10.1039/d2cp02542f
+Paper ID: https://openalex.org/W4297964583
+
+Abstract:
+a homogeneous solution), and (2) sustain the organization, to prevent it from decaying towards thermodynamic equilibrium. We highlight four different concepts that can be used as a design principle to establish such self-organization, using chemical reactions as a driving force to sustain the gradient and, ultimately, program the characteristics of the gradient: (1) reaction-diffusion coupling; (2) reaction-convection; (3) the Marangoni effect and (4) diffusiophoresis. Furthermore, we outline their potential as attractive pathways to translate chemical reactions and molecular/colloidal assembly into organization of patterns in solution, (dynamic) self-assembled architectures and collectively moving swarms at the micro-, meso- and macroscale, exemplified by recent demonstrations in the literature.

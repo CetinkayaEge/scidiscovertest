@@ -1,0 +1,9 @@
+Title: Energy consumption and environmental sustainability: What lessons for posterity?
+Authors: Elvis Dze Achuo, Clovis Wendji Miamo, Tii N. Nchofoung
+Year: 2022
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2022.09.033
+Paper ID: https://openalex.org/W4298151956
+
+Abstract:
+Despite the growing demand for renewable energy due to its environmental friendliness over fossil fuels, several countries continue to rely on fossil fuel consumption. This study examines the effects of renewable and non-renewable energy consumption on environmental sustainability. We employed the fixed-effects regression model with Driscoll–Kraay robust standard errors for a global panel of 173 countries over the 1996–2020 period and several results are revealed. First renewable energy consumption improves environmental quality by decreasing greenhouse gas emissions. The results equally show that non-renewable energy consumption increases greenhouse gas emissions. However, while the environment-friendly effect of renewable energy is higher across developed countries, the environment-degrading effect of non-renewable energy is higher in developing countries. Likewise, while the positive effect of non-renewable energy on environmental pollution is consistent across various geographical regions, the environmental effects of renewable energy are divergent across regions. Finally, we show that natural resource endowments and institutional quality are crucial for environmental sustainability. Consequently, it is imperative for countries to build strong institutions capable of ensuring efficient and sustainable natural resource utilisation, especially renewable energy sources.

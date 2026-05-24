@@ -1,0 +1,9 @@
+Title: Cybersecurity and Sustainable Development
+Authors: Adam Sulich, Małgorzata Rutkowska, Agnieszka Krawczyk-Jezierska, Jarosław Jezierski, Tomasz Zema
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.08.003
+Paper ID: https://openalex.org/W3201784071
+
+Abstract:
+Growing interdependencies between organizations lead them towards the creation of inter-organizational networks where cybersecurity and sustainable development have become one of the most important issues. The Environmental Goods and Services Sector (EGSS) is one of the fastest developing sectors of economy fueled by the growing relationships between network entities based on the ICT usage. In this sector the Green Cybersecurity is an emerging issue because it secures processes related directly and indirectly to the environmental management and protection. In the future the multidimensional development of the EGSS can help European Union to overcome the upcoming crises. At the same time computer technologies and cybersecurity can contribute to the implementation of the concept of sustainable development. The development of environmental technologies along with their cybersecurity is one of the aims of the realization of sustainable production and domestic security concepts among the EU countries. Hence, the aim of this article is a theoretical discussion and research on the relationships between cybersecurity and sustainable development in the inter-organizational networks. Therefore, the article is an attempt to give an answer to the question about the current state of the implementation of cybersecurity in relation to the EGSS part of the economy in different EU countries.

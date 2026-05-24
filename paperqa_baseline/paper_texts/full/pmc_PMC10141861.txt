@@ -1,0 +1,9 @@
+Title: Integrating Visual and Network Data with Deep Learning for Streaming Video Quality Assessment
+Authors: George Margetis, Grigorios Tsagkatakis, Stefania Stamou, Constantine Stephanidis
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083998
+Paper ID: pmc_PMC10141861
+
+Abstract:
+Existing video Quality-of-Experience (QoE) metrics rely on the decoded video for the estimation. In this work, we explore how the overall viewer experience, quantified via the QoE score, can be automatically derived using only information available before and during the transmission of videos, on the server side. To validate the merits of the proposed scheme, we consider a dataset of videos encoded and streamed under different conditions and train a novel deep learning architecture for estimating the QoE of the decoded video. The major novelty of our work is the exploitation and demonstration of cutting-edge deep learning techniques in automatically estimating video QoE scores. Our work significantly extends the existing approach for estimating the QoE in video streaming services by combining visual information and network conditions.

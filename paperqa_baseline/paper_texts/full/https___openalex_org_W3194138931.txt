@@ -1,0 +1,9 @@
+Title: Sustainable and feasible reagent-free electro-Fenton via sequential dual-cathode electrocatalysis
+Authors: Jiabei Wang, Shizhen Li, Qiyue Qin, Chuang Peng
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2108573118
+Paper ID: https://openalex.org/W3194138931
+
+Abstract:
+is produced on an electrodeposited PEDOT on carbon cloth (PEDOT/CC) cathode and subsequently converted to hydroxyl radicals on a stainless-steel-mesh cathode. The dual-cathode system demonstrates efficient decolorization and total organic carbon (TOC) removal toward organic dyes at optimized cathodic potentials of -0.9 V for PEDOT/CC and -0.8 V for the stainless-steel mesh. The sequential dual-cathode process also displays high reusability, no iron leaching, high removal efficiency using air instead of oxygen, and low installation and operation costs. This work demonstrates a preeminent and commercially viable example of pollution control rendered by the "catalysis instead of chemical reagent" philosophy of green chemistry.

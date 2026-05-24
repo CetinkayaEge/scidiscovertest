@@ -1,0 +1,9 @@
+Title: Efficient Semitransparent Organic Solar Cells Enabled by Ag Grid Electrodes and Optical Coupling Layers
+Authors: Ning Zhao, Tao Zhen, Yizhou Wu, Bin Wei, Yingjie Liao, Yuanyuan Liu
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081308
+Paper ID: pmc_PMC10142083
+
+Abstract:
+Semitransparent organic solar cells (ST-OSCs) show great promise for building integrated photovoltaic systems. The balance between power conversion efficiency (PCE) and average visible transmittance (AVT) is a key point of ST-OSCs. We developed a novel semitransparent organic solar cell (ST-OSC) with high PCE and AVT for building integrated renewable energy applications. We used photolithography to fabricate Ag grid bottom electrodes with high figures of merit of 292.46. We also used an optimized active layer of PM6 and Y6, achieving a PCE of 10.65% and an AVT of 22.78% for our ST-OSCs. By adding optical coupling layers of CBP and LiF alternately, we further increased the AVT to 27.61% and the PCE to 10.87%. Importantly, the balance of PCE and AVT can be achieved by the integrated optimization of the active and optical coupling layers, which leads to a significant increase in light utilization efficiency (LUE). These results are of great importance for particle applications of ST-OSCs.

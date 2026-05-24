@@ -1,0 +1,9 @@
+Title: AI-Driven Circular Economy of Enhancing Sustainability and Efficiency in Industrial Operations
+Authors: Bankole I. Oladapo, Mattew A. Olawumi, Francis T. Omigbodun
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su162310358
+Paper ID: https://openalex.org/W4404767001
+
+Abstract:
+This study investigates integrating circular economy principles—such as closed-loop systems and economic decoupling—into industrial sectors, including refining, clean energy, and electric vehicles. The primary objective is to quantify the impact of circular practices on resource efficiency and environmental sustainability. A mixed-methods approach combines qualitative case studies with quantitative modelling using the Brazilian Land-Use Model for Energy Scenarios (BLUES) and Autoregressive Integrated Moving Average (ARIMA). These models project long-term trends in emissions reduction and resource optimization. Significant findings include a 20–25% reduction in waste production and an improvement in recycling efficiency from 50% to 83% over a decade. Predictive models demonstrated high accuracy, with less than a 5% deviation from actual performance metrics, supported by error metrics such as Mean Absolute Percentage Error (MAPE) and Root Mean Square Error (RMSE). Statistical validations confirm the reliability of these forecasts. The study highlights the potential for circular economy practices to reduce reliance on virgin materials and lower carbon emissions while emphasizing the critical role of policy support and technological innovation. This integrated approach offers actionable insights for industries seeking sustainable growth, providing a robust framework for future resource efficiency and environmental management applications.

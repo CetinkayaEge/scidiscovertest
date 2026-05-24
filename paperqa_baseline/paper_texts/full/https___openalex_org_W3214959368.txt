@@ -1,0 +1,9 @@
+Title: Sustainable Smart Cities: Convergence of Artificial Intelligence and Blockchain
+Authors: Ashutosh Sharma, Elizaveta Podoplelova, Gleb Shapovalov, Alexey Tselykh, Alexander Tselykh
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132313076
+Paper ID: https://openalex.org/W3214959368
+
+Abstract:
+Recently, 6G-enabled Internet of Things (IoT) is gaining attention and addressing various challenges of real time application. The artificial intelligence plays a significant role for big data analytics and presents accurate data analysis in real time. However, designing big data analysis through artificial intelligence faces some issues in terms of security, privacy, training data, and centralized architecture. In this article, blockchain-based IoT framework with artificial intelligence is proposed which presents the integration of artificial intelligence and blockchain for IoT applications. The performance of the proposed architecture is evaluated in terms of qualitative and quantitative measurement. For qualitative measurement, how the integration of blockchain and artificial intelligence addresses various issues are described with the description of AI oriented BC and BC oriented AI. The performance evaluation of proposed AI-BC architecture is evaluated and compared with existing techniques in qualitative measurement. The experimental analysis shows that the proposed framework performs better in comparison with the existing state of art techniques.

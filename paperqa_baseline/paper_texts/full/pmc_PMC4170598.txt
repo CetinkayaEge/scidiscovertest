@@ -1,0 +1,9 @@
+Title: Small interfering RNA (siRNA)-mediated knockdown of macrophage migration inhibitory factor (MIF) suppressed cyclin D1 expression and hepatocellular carcinoma cell proliferation
+Authors: Xiao-hui Huang, Wei-hua Jian, Zhao-feng Wu, Jie Zhao, Hua Wang, Wen Li, Jin-tang Xia
+Year: 2014
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.2141
+Paper ID: pmc_PMC4170598
+
+Abstract:
+Macrophage migration inhibitory factor (MIF), a proinflammatory and immunoregulatory chemokine, plays important roles in cancer-related biological processes. However, few studies have focused on the clinical relevance of MIF and cyclin D1 expression in hepatocellular carcinoma cells (HCCs). In this study, MIF and cyclin D1 expression levels in HCC tissues and cell lines were significantly upregulated compared with adjacent normal tissues or a normal liver cell line. In HCC specimens, MIF expression positively correlated with cyclin D1 expression. Additionally, MIF and cyclin D1 expression positively correlated with tumor size. MIF knockdown inhibited the proliferation of PLC and HepG2 cells and promoted apoptosis. However, small interfering RNA (siRNA) against MIF did not influence the cell cycle in these cells. In an in vivo xenograft model, MIF knockdown reduced the tumor growth rate. The expression levels of Bcl-2, p-caspase-3, BIM and Bax were upregulated, while the expression levels of cyclin D1, p-Akt and p-ERK were downregulated in MIF-knockdown cells. These findings indicate that MIF siRNA reduces proliferation and increases apoptosis in HCC cells. MIF knockdown inhibits the expression of growth-related proteins and induces the expression of apoptosis-related proteins, supporting a role for MIF as a novel therapeutic target for HCC.

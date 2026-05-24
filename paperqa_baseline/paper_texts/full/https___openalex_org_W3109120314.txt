@@ -1,0 +1,9 @@
+Title: Sustainable and Reliable Information and Communication Technology for Resilient Smart Cities
+Authors: Nikolay Tcholtchev, Ina Schieferdecker
+Year: 2021
+Venue: Smart Cities
+DOI: https://doi.org/10.3390/smartcities4010009
+Paper ID: https://openalex.org/W3109120314
+
+Abstract:
+Information and Communication Technology (ICT) is at the heart of the smart city approach, which constitutes the next level of cities’ and communities’ development across the globe. Thereby, ICT serves as the gluing component enabling different domains to interact with each other and facilitating the management and processing of vast amounts of data and information towards intelligently steering the cities’ infrastructure and processes, engaging the citizens and facilitating new services and applications in various aspects of urban life—e.g., supply chains, mobility, transportation, energy, citizens’ participation, public safety, interactions between citizens and the public administration, water management, parking and many other cases and domains. Hence, given the fundamental role of ICT in cities in the near future, it is of paramount importance to lay the ground for a sustainable and reliable ICT infrastructure, which can enable a city/community to respond in a resilient way to upcoming challenges, whilst increasing the quality of life for its citizens. A structured way of providing and maintaining an open and resilient ICT backbone for a city/community is constituted by the concept of an Open Urban Platform. Therefore, the current article presents the activities and developments necessary to achieve a resilient, standardized smart city, based on Open Urban Platforms (OUP) and the way these serve as a blueprint for each city/community towards the establishment of a sustainable and resilient ICT backbone.

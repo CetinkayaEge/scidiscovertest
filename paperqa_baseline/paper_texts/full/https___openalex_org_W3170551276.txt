@@ -1,0 +1,9 @@
+Title: Impact of circular design of lithium-ion batteries on supply of lithium for electric cars towards a sustainable mobility and energy transition
+Authors: America Rocio Quinteros-Condoretty, Saeed Rahimpour Golroudbary, Laura Albareda, B. Barbiellini, Ayberk Soyer
+Year: 2021
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2021.05.012
+Paper ID: https://openalex.org/W3170551276
+
+Abstract:
+Transport systems significantly impact our environment, accounting for 29% and 25% of the global energy consumption and greenhouse gas (GHG) emissions, respectively. Therefore, international efforts promote the use of electric vehicles (EVs) to reduce overall GHG emissions with the aim of achieving the energy transition from fossil fuels to renewable energy sources. As a result, the world’s demand for EVs is expected to increase exponentially, leading to increase in using lithium-ion batteries (LIBs). Therefore, the battery is considered the most important component of an EV, and a vital industry with increasing importance for the economy and environment. Based on secondary data, this study aims to underline the most relevant factors for developing a circular design system of LIBs across the value chain of EVs. Due to the dynamic nature of LIBs and EVs market over time and complex interrelationship among processes and stages of their value chain, this study adopts a system dynamics approach. The results of the study reveal the impacts of different factors and their interrelations in the value chain of EVs. The findings of this study would contribute to the decision making and management at different stages in the EVs’ value chain to accelerate a sustainable mobility and energy transition in line with eight relevant sustainable development goals (SDGs).

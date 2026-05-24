@@ -1,0 +1,9 @@
+Title: Robots and Sustainability: Robots as Persuaders to Promote Recycling
+Authors: Shih-Yu Lo, Yueh‐Yi Lai, Jen-Chi Liu, Su‐Ling Yeh
+Year: 2022
+Venue: International Journal of Social Robotics
+DOI: https://doi.org/10.1007/s12369-021-00828-z
+Paper ID: https://openalex.org/W4221057558
+
+Abstract:
+Abstract Humans tend to interact socially with humanoid devices, such as robots. Therefore, a possible application of robotics technology is the promotion of pro-social behavior, namely recycling. To test the effectiveness of this application, an experimental setting in which participants were required to dispose of waste was created. Two types of electronic instructors, a robot and a tablet computer, were located close to the disposal area to provide instructions on appropriate waste disposal. The comparison of the effectiveness of the two types of electronic instructors found that participants exposed to the robot sorted the waste more accurately than participants exposed to the tablet computer. Scores for perceived anthropomorphism and induced empathy were higher for the robot than the tablet computer. We conclude that robots, because of their anthropomorphic features, are more likely to evoke empathy than tablet computers, and thus robots can be more effective in promoting pro-social behavior.

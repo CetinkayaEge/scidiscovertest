@@ -1,0 +1,9 @@
+Title: Tracing the Trends in Sustainability and Social Media Research Using Topic Modeling
+Authors: Jee Hoon Lee, Jacob Wood, Jungsuk Kim
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031269
+Paper ID: https://openalex.org/W3121229853
+
+Abstract:
+New ideas are often born from connecting the dots. What new ideas have emerged among the two highly trending research topics of sustainability and social media? In this study, we present an empirical analysis of 762 published works that included the terms “sustainability” and “social media” in their abstracts. The bibliographic data, including abstracts, were collected from the Scopus database. In order to conduct the analysis, we used the Latent Dirichlet Allocation (LDA), an unsupervised machine learning algorithm to extract the latent topics from the large quantity of research abstracts without any manual adjustment. The 10 main topics identified from our analysis revealed topographical maps of research in the field. By measuring the variation of topic distributions over time, we identified hot topics (research trends that are becoming increasingly popular over time) and cold topics. Sustainable consumer behavior, Sustainable community and Sustainable tourism were identified as being hot topics, while Education for sustainability was identified as the only cold topic. By identifying current trends in social media and sustainability research, our findings lay a platform from which further studies may abound.

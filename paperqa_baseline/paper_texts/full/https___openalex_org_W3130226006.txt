@@ -1,0 +1,9 @@
+Title: Digitalization, Circular Economy and Environmental Sustainability: The Application of Artificial Intelligence in the Efficient Self-Management of Waste
+Authors: Sergio Luis Náñez Alonso, Ricardo Francisco Reier Forradellas, Oriol Pi Morell, Javier Jorge-Vázquez
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042092
+Paper ID: https://openalex.org/W3130226006
+
+Abstract:
+The great advances produced in the field of artificial intelligence and, more specifically, in deep learning allow us to classify images automatically with a great margin of reliability. This research consists of the validation and development of a methodology that allows, through the use of convolutional neural networks and image identification, the automatic recycling of materials such as paper, plastic, glass, and organic material. The validity of the study is based on the development of a methodology capable of implementing a convolutional neural network to validate a reliability in the recycling process that is much higher than simple human interaction would have. The method used to obtain this better precision will be transfer learning through a dataset using the pre-trained networks Visual Geometric Group 16 (VGG16), Visual Geometric Group 19 (VGG19), and ResNet15V2. To implement the model, the Keras framework is used. The results conclude that by using a small set of images, and thanks to the later help of the transfer learning method, it is possible to classify each of the materials with a 90% reliability rate. As a conclusion, a model is obtained with a performance much higher than the performance that would be reached if this type of technique were not used, with the classification of a 100% reusable material such as organic material.

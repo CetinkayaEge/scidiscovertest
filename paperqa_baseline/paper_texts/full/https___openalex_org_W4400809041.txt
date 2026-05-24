@@ -1,0 +1,9 @@
+Title: Reviewing the Roles of AI-Integrated Technologies in Sustainable Supply Chain Management: Research Propositions and a Framework for Future Directions
+Authors: Chen Qu, Eunyoung Kim
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16146186
+Paper ID: https://openalex.org/W4400809041
+
+Abstract:
+In the post-pandemic era, the uncertain global market and rising social-environmental issues drive organizations to adapt their supply chain strategies to more dynamic, flexible models, leveraging advanced technologies like AI, big data analytics, and decision support systems. This review paper aims to examine the current research on AI-integrated technologies in sustainable supply chain management (SSCM) to inform future research directions. We adopted bibliometric and text analysis, targeting 170 articles published between 2004 and 2023 from the Scopus database following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) protocol. We confirm that AI-integrated technologies have demonstrated the capability to enable SSCM across various sectors. We generated ten future research topics using the Latent Dirichlet Allocation (LDA) method and proposed 20 propositions. The results show that AI-integrated technologies in supply chain processes primarily address sustainability, focusing on environmental and economic issues. However, there is still a technological gap in tackling social issues like working conditions and fair dealing. Thus, we proposed a dynamic framework of AI in SSCM to help researchers and practitioners synthesize AI-integrated technologies in SSCM and optimize their supply chain models in future directions.

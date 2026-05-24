@@ -1,0 +1,9 @@
+Title: Energy-Efficient Pathways for Pulsed-Plasma-Activated Sustainable Ammonia Synthesis
+Authors: Xin Zeng, Shuai Zhang, Yadi Liu, Xiucui Hu, Kostya Ostrikov, Tao Shao
+Year: 2023
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c06259
+Paper ID: https://openalex.org/W4315491256
+
+Abstract:
+Sustainable, renewable-energy-powered, and low-carbon-emission alternatives for the energy-intensive and extreme-process-conditions-demanding industrial Haber–Bosch ammonia synthesis are urgently needed to meet global net-zero emission targets. Plasma catalysis enables renewable-electricity-driven ammonia synthesis under mild conditions. To reveal unknown energy-efficient pathways for ammonia synthesis, here, we specify energy loss pathways and maximize the energy efficiency of the ammonia synthesis in atmospheric-pressure and low-temperature pulsed plasmas. The ammonia yield, energy efficiency, and process temperature are obtained under variable process parameters (i.e., the pulse voltage, pulse width, and gap distance) in a nanosecond pulse dielectric barrier discharge reactor. The ways to reduce energy losses for “power-to-chemical (= ammonia)” production including N2 vibrational excitation and relaxation are revealed by combining plasma optical emission spectroscopy with chemical reaction kinetics modeling. Multiparameter process optimization based on the Bayesian neural network model allows us to select the pulse waveforms, voltages, and discharge gaps to achieve high ammonia yields with a high energy efficiency and a low emission footprint.

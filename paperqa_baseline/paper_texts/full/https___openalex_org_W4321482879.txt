@@ -1,0 +1,9 @@
+Title: Life cycle net energy assessment of sustainable H2 production and hydrogenation of chemicals in a coupled photoelectrochemical device
+Authors: Xinyi Zhang, Michael Schwarze, Reinhard Schomäcker, Roel van de Krol, Fatwa F. Abdi
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-36574-1
+Paper ID: https://openalex.org/W4321482879
+
+Abstract:
+Green hydrogen has been identified as a critical enabler in the global transition to sustainable energy and decarbonized society, but it is still not economically competitive compared to fossil-fuel-based hydrogen. To overcome this limitation, we propose to couple photoelectrochemical (PEC) water splitting with the hydrogenation of chemicals. Here, we evaluate the potential of co-producing hydrogen and methyl succinic acid (MSA) by coupling the hydrogenation of itaconic acid (IA) inside a PEC water splitting device. A negative net energy balance is predicted to be achieved when the device generates only hydrogen, but energy breakeven can already be achieved when a small ratio (~2%) of the generated hydrogen is used in situ for IA-to-MSA conversion. Moreover, the simulated coupled device produces MSA with much lower cumulative energy demand than conventional hydrogenation. Overall, the coupled hydrogenation concept offers an attractive approach to increase the viability of PEC water splitting while at the same time decarbonizing valuable chemical production.

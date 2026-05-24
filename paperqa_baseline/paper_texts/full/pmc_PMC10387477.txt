@@ -1,0 +1,9 @@
+Title: Study of the reverse transition in pipe flow
+Authors: Hikaru Yokoo, Mizuki Yamamoto, Takumi Matsumoto, Takahiro Yamada, Takeshi Kanda
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-39585-6
+Paper ID: pmc_PMC10387477
+
+Abstract:
+In the reverse transition in pipe flow, turbulent flow changes to less disturbed laminar flow. The entropy of the flow appears to decrease. This study examined the reverse transition experimentally and theoretically using entropy change and momentum balance models, not in terms of disturbance in the flow. The reverse transition was accomplished by decreasing the Reynolds number. The transitions approximately correlated with local Reynolds numbers. The initial Reynolds number of the transition became larger, and the pressure at low Reynolds numbers was greater than in ordinary pipe flow. These behaviours were caused by turbulent flow in the pipe undergoing a reverse transition. We showed that the entropy did not decrease in the reverse transition by including the entropy due to friction in the development region.

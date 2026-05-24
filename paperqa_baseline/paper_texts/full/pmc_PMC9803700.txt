@@ -1,0 +1,9 @@
+Title: Quantitative evaluation of precautions against the COVID-19 indoor transmission through human coughing
+Authors: Zhenguo Nie, Yunzhi Chen, Meifeng Deng
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-26837-0
+Paper ID: pmc_PMC9803700
+
+Abstract:
+In this work, we focus on the dispersion of COVID-19-laden droplets using the transient computational fluid dynamics (CFD) modeling and simulation of the coughing process of virus carriers in an enclosure room, aiming to set up the basic prototype of popular precautionary strategies, i.e., face mask, upward ventilation, protective screen, or any combination thereof, against the indoor transmission of COVID-19 and other highly contagious diseases in the future. A multi-component Eulerian–Lagrangian CFD particle-tracking model with user-defined functions is utilized under 8 cases to examine the characteristics of droplet dispersion concerning the mass and heat transfer, droplet evaporation, air buoyancy, air convection, air-droplet friction, and turbulent dispersion. The result shows that implementing upward ventilation is the most effective measure, followed by wearing face masks. Protective screens can restrict the movement of the coughing droplets (though it will not reduce viral load). However, applying protective screens arranged with lean can be counterproductive in preventing the spread of COVID-19 when it is inappropriately placed with ventilation. The soundest solution is the combination of the face mask and upward ventilation, which can reduce the indoor infectious concentration by nearly 99.95% compared with the baseline without any precautionary strategies. With the resumption of school and work in the post-epidemic era, this study would provide intelligence-enhancing advice for the masses and rule-makers to curb the pandemic.

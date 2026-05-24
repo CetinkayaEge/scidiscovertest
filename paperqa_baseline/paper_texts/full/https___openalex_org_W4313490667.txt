@@ -1,0 +1,9 @@
+Title: Direct Evidence of the Exfoliation Efficiency and Graphene Dispersibility of Green Solvents toward Sustainable Graphene Production
+Authors: Kai Ling Ng, Barbara M. Maciejewska, Ling Qin, C. Johnston, Jesús Barrio, Maria‐Magdalena Titirici, Iakovos Tzanakis, Dmitry Eskin, Kyriakos Porfyrakis, Jiawei Mi, Nicole Grobert
+Year: 2022
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c03594
+Paper ID: https://openalex.org/W4313490667
+
+Abstract:
+-methyl-2-pyrrolidone (NMP) is recognized as the most efficient method for both the exfoliation and dispersion of graphene. Unfortunately, NMP is neither sustainable nor suitable for up-scaling production due to its adverse impact on the environment. Here, we show the real potential of green solvents by revealing the independent contributions of their exfoliation efficiency and graphene dispersibility to the graphene yield. By experimentally separating these two factors, we demonstrate that the exfoliation efficiency of a given solvent is independent of its dispersibility. Our studies revealed that isopropanol can be used to exfoliate graphite as efficiently as NMP. Our finding is corroborated by the matching ratio between the polar and dispersive energies of graphite and that of the solvent surface tension. This direct evidence of exfoliation efficiency and dispersibility of solvents paves the way to developing a deeper understanding of the real potential of sustainable graphene manufacturing at a large scale.

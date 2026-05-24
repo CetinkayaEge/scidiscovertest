@@ -1,0 +1,9 @@
+Title: Potential for hydrogen production from sustainable biomass with carbon capture and storage
+Authors: Lorenzo Rosa, Marco Mazzotti
+Year: 2022
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2022.112123
+Paper ID: https://openalex.org/W4205890367
+
+Abstract:
+Low-carbon hydrogen is an essential element in the transition to net-zero emissions by 2050. Hydrogen production from biomass is a promising bio-energy with carbon capture and storage (BECCS) scheme that could produce low-carbon hydrogen and generate the carbon dioxide removal (CDR) envisioned to be required to offset hard-to-abate emissions. Here, we design a BECCS supply chain for hydrogen production from biomass with carbon capture and storage and quantify, at high spatial resolution, the technical potential for hydrogen production and CDR in Europe. We consider sustainable biomass feedstocks that have minimal impacts on food security and biodiversity, namely agricultural residues and waste. We find that this BECCS supply chain can produce up to 12.5 Mtons of H2 per year (currently ∼10 Mtons of H2 per year are used in Europe) and remove up to 133 Mtons CO2 per year from the atmosphere (or 3% of European total greenhouse gas emissions). We then perform a geospatial analysis to quantify transportation distances between where biomass feedstocks are located and potential hydrogen users, and find that 20% of hydrogen potential is located within 25 km from hard-to-electrify industries. We conclude that BECCS supply chains for hydrogen production from biomass represent an overlooked near-term opportunity to generate carbon dioxide removal and low-carbon hydrogen.

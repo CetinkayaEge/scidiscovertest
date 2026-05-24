@@ -1,0 +1,9 @@
+Title: The Study of AR-Based Learning for Natural Science Inquiry Activities in Taiwan’s Elementary School from the Perspective of Sustainable Development
+Authors: Jung-Hua Lo, Yu-Fan Lai, Tzu-Lun Hsu
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13116283
+Paper ID: https://openalex.org/W3173014625
+
+Abstract:
+Experiential activities are the most direct form of ecological teaching, so outdoor education is an important way of learning. Through direct observation and life experience, students will learn about the ecological environment, understand the importance of the ecological environment, raise their awareness of environmental protection, and put into practice the protection of the ecological environment. This study involved plant teaching activities that incorporated school plant learning paths into environmental education, so that students could learn about flora, experience nature, and take care of the environment. We created an augmented reality application for use in schools that takes the user on an ecological tour of the plants in the diet of butterflies. The application formed the localized and special mobile learning content in a school. Students were allowed to walk out of the classroom and use their mobile device to engage in autonomous learning, and we then determined their acceptance of the augmented reality application. Through this application we were able to tell whether students were able to adapt to learning with technology combined with traditional teaching methods. This application was tested on a group of elementary school students, who were then interviewed using quantitative and qualitative research methods to understand the users’ feedback.

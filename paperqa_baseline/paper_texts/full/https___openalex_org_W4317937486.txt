@@ -1,0 +1,9 @@
+Title: Hypoxia induced lactate acidosis modulates tumor microenvironment and lipid reprogramming to sustain the cancer cell survival
+Authors: Lakhveer Singh, Lakshmi S. Nair, Dinesh Kumar, Mandeep Kumar Arora, Sakshi Bajaj, Manoj Gadewar, Shashank Shekher Mishra, Santosh Kumar Rath, Amit Kumar Dubey, Gaurav Kaithwas, Manjusha Choudhary, Manjari Singh
+Year: 2023
+Venue: Frontiers in Oncology
+DOI: https://doi.org/10.3389/fonc.2023.1034205
+Paper ID: https://openalex.org/W4317937486
+
+Abstract:
+fatty acid synthesis pathway to initiate angiogenesis and invasiveness, and lactate also plays a crucial role in the suppression of immunity. Furthermore, lactate re-programme the lipid biosynthetic pathway to develop a metabolic symbiosis in normoxic, moderately hypoxic and severely hypoxic cancer cells. For instance: severely hypoxic cancer cells enable to synthesizing poly unsaturated fatty acids (PUFA) in oxygen scarcity secretes excess of lactate in TME. Lactate from TME is taken up by the normoxic cancer cells whereas it is converted back to PUFAs after a sequence of reactions and then liberated in the TME to be utilized in the severely hypoxic cancer cells. Although much is known about the role of lactate in these biological processes, the exact molecular pathways that are involved remain unclear. This review attempts to understand the molecular pathways exploited by lactate to initiate angiogenesis, invasiveness, suppression of immunity and cause re-programming of lipid synthesis. This review will help the researchers to develop proper understanding of lactate associated bimodal regulations of TME.

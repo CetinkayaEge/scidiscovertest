@@ -1,0 +1,9 @@
+Title: Dynamics of a Fractional-Order Delayed Model of COVID-19 with Vaccination Efficacy
+Authors: Fathalla A. Rihan, Udhayakumar Kandasamy, Hebatallah J. Alsakaji, Nicola Sottocornola
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040758
+Paper ID: pmc_PMC10142033
+
+Abstract:
+In this study, we provide a fractional-order mathematical model that considers the effect of vaccination on COVID-19 spread dynamics. The model accounts for the latent period of intervention strategies by incorporating a time delay τ . A basic reproduction number, R 0 , is determined for the model, and prerequisites for endemic equilibrium are discussed. The model’s endemic equilibrium point also exhibits local asymptotic stability (under certain conditions), and a Hopf bifurcation condition is established. Different scenarios of vaccination efficacy are simulated. As a result of the vaccination efforts, the number of deaths and those affected have decreased. COVID-19 may not be effectively controlled by vaccination alone. To control infections, several non-pharmacological interventions are necessary. Based on numerical simulations and fitting to real observations, the theoretical results are proven to be effective.

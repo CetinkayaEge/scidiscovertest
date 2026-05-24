@@ -1,0 +1,9 @@
+Title: Triboelectric Nanogenerators in Sustainable Chemical Sensors
+Authors: Qiliang Zhu, Xia Cao, Ning Wang
+Year: 2022
+Venue: Chemosensors
+DOI: https://doi.org/10.3390/chemosensors10110484
+Paper ID: https://openalex.org/W4309309414
+
+Abstract:
+The rapid development of sensing technology has created an urgent need for chemical sensor systems that can be rationally integrated into efficient, sustainable, and wearable electronic systems. In this case, the triboelectric nanogenerator (TENG) is expected to be a major impetus to such innovation because it can not only power the sensor by scavenging mechanical energies and transforming them into electricity but also act as the chemical sensor itself due to its intrinsic sensitivity towards the chemical reaction that occurs at the triboelectric interface. In this review, recent research achievements of chemical sensors that are based on TENGs are comprehensively reviewed according to the role of TENGs in the system, that is, pure power supplies or self-powered active chemical sensors. Focus is put on discussing the design criteria and practical applications of the TENG-based active sensors in different fields, which is unfolded with a classification that includes biosensors, gas sensors, and ion sensors. The materials selection, working mechanism, and design strategies of TENG-based active chemical sensor systems (CSSs) are also discussed, ending with a concise illustration of the key challenges and possible corresponding solutions. We hope this review will bring inspiration for the creation and development of TENG-based chemical sensors with higher sensitivity, simpler structure, and enhanced reliability.

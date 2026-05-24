@@ -1,0 +1,9 @@
+Title: Small-Town Citizens’ Technology Acceptance of Smart and Sustainable City Development
+Authors: Giovanni Baldi, Antonietta Megaro, Luca Carrubbo
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010325
+Paper ID: https://openalex.org/W4313259363
+
+Abstract:
+Citizens are an essential part of the process of smartification and sustainable development of cities as they must adopt, understand and interact with the enabling technologies of digital transformation of societies, cities, and public administration. Therefore, technology acceptance is crucial to creating smart and citizen-centered cities. This is even more challenging in small towns that suffer from an aging population, desertification, lack of infrastructure, and especially the digital divide. The purpose of this research is to investigate the adoption of an Urban Services Technology (UST) in tourism management within a tourism-oriented small town in Southern Italy. A questionnaire was then constructed according to the 12-variable Urban Service Technology Acceptance Model (USTAM), and 216 responses were obtained from a defined group of 1076 subjects. Analyzing the data with a quantitative approach by conducting Exploratory Factor Analysis (EFA), Confirmatory Factor Analysis (CFA), and Structural Equation Modeling (SEM), the assumptions of the initial model were all rejected and new five factors emerged. The path diagram shows that only the factors Sustainability, Ease and Value have a positive correlation with technology adoption. Future research might investigate the mediating role of socio-demographic variables on technology acceptance by considering geographical and cultural diversity among small towns.

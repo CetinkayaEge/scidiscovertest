@@ -1,0 +1,9 @@
+Title: TWEAK–Fn14–RelB Signaling Cascade Promotes Stem Cell–like Features that Contribute to Post-Chemotherapy Ovarian Cancer Relapse
+Authors: Ryne Holmberg, Mikella Robinson, Samuel F. Gilbert, Omar Lujano-Olazaba, Jennifer A. Waters, Emily Kogan, Candyd Lace R. Velasquez, Denay Stevenson, Luisjesus S. Cruz, Logan J. Alexander, Jacqueline Lara, Emily M. Mu, Jared Rafael Camillo, Benjamin G. Bitler, Tom Huxford, Carrie D. House
+Year: 2023
+Venue: Molecular Cancer Research
+DOI: 10.1158/1541-7786.MCR-22-0486
+Paper ID: pmc_PMC9890141
+
+Abstract:
+Abstract Disease recurrence in high-grade serous ovarian cancer may be due to cancer stem–like cells (CSC) that are resistant to chemotherapy and capable of reestablishing heterogeneous tumors. The alternative NF-κB signaling pathway is implicated in this process; however, the mechanism is unknown. Here we show that TNF-like weak inducer of apoptosis (TWEAK) and its receptor, Fn14, are strong inducers of alternative NF-κB signaling and are enriched in ovarian tumors following chemotherapy treatment. We further show that TWEAK enhances spheroid formation ability, asymmetric division capacity, and expression of SOX2 and epithelial-to-mesenchymal transition genes VIM and ZEB1 in ovarian cancer cells, phenotypes that are enhanced when TWEAK is combined with carboplatin. Moreover, TWEAK in combination with chemotherapy induces expression of the CSC marker CD117 in CD117 − cells. Blocking the TWEAK–Fn14–RelB signaling cascade with a small-molecule inhibitor of Fn14 prolongs survival following carboplatin chemotherapy in a mouse model of ovarian cancer. These data provide new insights into ovarian cancer CSC biology and highlight a signaling axis that should be explored for therapeutic development. Implications: This study identifies a unique mechanism for the induction of ovarian cancer stem cells that may serve as a novel therapeutic target for preventing relapse.

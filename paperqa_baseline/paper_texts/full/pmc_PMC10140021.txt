@@ -1,0 +1,9 @@
+Title: Bloch points in nanostrips
+Authors: Martin Lang, Marijan Beg, Ondrej Hovorka, Hans Fangohr
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33998-z
+Paper ID: pmc_PMC10140021
+
+Abstract:
+Complex magnetic materials hosting topologically non-trivial particle-like objects such as skyrmions are under intensive research and could fundamentally change the way we store and process data. One important class of materials are helimagnetic materials with Dzyaloshinskii-Moriya interaction. Recently, it was demonstrated that thin nanodisks consisting of two layers with opposite chirality can host a single stable Bloch point of two different types at the interface between the layers. Using micromagnetic simulations we show that FeGe nanostrips consisting of two layers with opposite chirality can host multiple coexisting Bloch points in an arbitrary combination of the two different types. We show that the number of Bloch points that can simultaneously coexist depends on the strip geometry and the type of the individual Bloch points. Our simulation results allow us to predict strip geometries suitable for an arbitrary number of Bloch points. We show an example of an 80-Bloch-point configuration verifying the prediction.

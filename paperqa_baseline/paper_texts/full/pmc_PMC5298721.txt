@@ -1,0 +1,9 @@
+Title: Throughput Measurement of a Dual-Band MIMO Rectangular Dielectric Resonator Antenna for LTE Applications
+Authors: Jamal Nasir, Mohd. Haizal Jamaluddin, Aftab Ahmad Khan, Muhammad Ramlee Kamarudin, Chee Yen Leow, Owais Owais
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010148
+Paper ID: pmc_PMC5298721
+
+Abstract:
+An L-shaped dual-band multiple-input multiple-output (MIMO) rectangular dielectric resonator antenna (RDRA) for long term evolution (LTE) applications is proposed. The presented antenna can transmit and receive information independently using fundamental TE 111 and higher order TE 121 modes of the DRA. TE 111 degenerate mode covers LTE band 2 (1.85–1.99 GHz), 3 (1.71–1.88 GHz), and 9 (1.7499–1.7849 GHz) at f r = 1.8 GHz whereas TE 121 covers LTE band 7 (2.5–2.69 GHz) at f r = 2.6 GHz, respectively. An efficient design method has been used to reduce mutual coupling between ports by changing the effective permittivity values of DRA by introducing a cylindrical air-gap at an optimal position in the dielectric resonator. This air-gap along with matching strips at the corners of the dielectric resonator keeps the isolation at a value more than 17 dB at both the bands. The diversity performance has also been evaluated by calculating the envelope correlation coefficient, diversity gain, and mean effective gain of the proposed design. MIMO performance has been evaluated by measuring the throughput of the proposed MIMO antenna. Experimental results successfully validate the presented design methodology in this work.

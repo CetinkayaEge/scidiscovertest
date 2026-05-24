@@ -1,0 +1,9 @@
+Title: Alpha-band EEG suppression as a neural marker of sustained attentional engagement to conditioned threat stimuli
+Authors: Félix Bacigalupo, Steven J. Luck
+Year: 2022
+Venue: Social Cognitive and Affective Neuroscience
+DOI: https://doi.org/10.1093/scan/nsac029
+Paper ID: https://openalex.org/W4224242899
+
+Abstract:
+Attention helps us to be aware of the external world, and this may be especially important when a threat stimulus predicts an aversive outcome. Electroencephalogram (EEG) alpha-band suppression has long been considered as a neural signature of attentional engagement. The present study was designed to test whether attentional engagement, as indexed by alpha-band suppression, is increased in a sustained manner following a conditioned stimulus (CS) that is paired with an aversive (CS+) vs neutral (CS-) outcome. We tested 70 healthy young adults in aversive conditioning and extinction paradigms. One of three colored circles served as the CS+, which was paired in 50% of the trials with a noise burst (unconditioned stimulus, US). The other colored circles (CS-) were never paired with the US. For conditioning, we found greater alpha-band suppression for the CS+ compared to the CS-; this suppression was sustained through the time of the predicted US. This effect was significantly reduced for extinction. These results indicate that conditioned threat stimuli trigger an increase in attentional engagement as subjects monitor the environment for the predicted aversive stimulus. Moreover, this alpha-band suppression effect may be valuable for future studies examining normal or pathological increases in attentional monitoring following threat stimuli.

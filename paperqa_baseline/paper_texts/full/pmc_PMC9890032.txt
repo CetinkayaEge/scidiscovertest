@@ -1,0 +1,9 @@
+Title: Selective inhibition of MCL1 overcomes venetoclax resistance in a murine model of myelodysplastic syndromes
+Authors: Melissa A. Fischer, Yuanbin Song, Maria P. Arrate, Rana Gbyli, Matthew T. Villaume, Brianna N. Smith, Merrida A. Childress, Thomas P. Stricker, Stephanie Halene, Michael R. Savona
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280631
+Paper ID: pmc_PMC9890032
+
+Abstract:
+Treatment for myelodysplastic syndromes (MDS) remains insufficient due to clonal heterogeneity and lack of effective clinical therapies. Dysregulation of apoptosis is observed across MDS subtypes regardless of mutations and represents an attractive therapeutic opportunity. Venetoclax (VEN), a selective inhibitor of anti-apoptotic protein B-cell lymphoma-2 (BCL2), has yielded impressive responses in older patients with acute myeloid leukemia (AML) and high risk MDS. BCL2 family anti-apoptotic proteins BCL-X L and induced myeloid cell leukemia 1 (MCL1) are implicated in leukemia survival, and upregulation of MCL1 is seen in VEN-resistant AML and MDS. We determined in vitro sensitivity of MDS patient samples to selective inhibitors of BCL2, BCL-X L and MCL1. While VEN response positively correlated with MDS with excess blasts, all MDS subtypes responded to MCL1 inhibition. Treatment with combined VEN + MCL1 inhibtion was synergistic in all MDS subtypes without significant injury to normal hematopoiesis and reduced MDS engraftment in MISTRG6 mice, supporting the pursuit of clinical trials with combined BCL2 + MCL1 inhibition in MDS.

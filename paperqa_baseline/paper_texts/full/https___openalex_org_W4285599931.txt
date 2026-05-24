@@ -1,0 +1,9 @@
+Title: Navigating Chinese cities to achieve sustainable development goals by 2030
+Authors: Huijuan Xiao, Zhenci Xu, Jingzheng Ren, Ya Zhou, Ruojue Lin, Sheng Bao, Long Zhang, Shengfang Lu, C.K.M. Lee, Jianguo Liu
+Year: 2022
+Venue: The Innovation
+DOI: https://doi.org/10.1016/j.xinn.2022.100288
+Paper ID: https://openalex.org/W4285599931
+
+Abstract:
+Achieving the 17 United Nations sustainable development goals (SDGs) in China largely depends on the transition of cities toward sustainable development. However, significant knowledge gaps exist in evaluating the SDG index at the city scale and in understanding how to simulate pathways to achieve the 17 SDGs for Chinese cities by 2030. This study aimed to quantify the SDG index of 285 Chinese cities and developed a forecasting model to simulate the performance of each SDG in each city until 2030 using varied scenarios. The results indicated that although the SDG index in Chinese cities increased by 33.97% during 2005-2016, Chinese cities, which continued their past paths, achieved an average of only five SDGs by 2030. To promote the joint achievement of all SDGs, we designed different paths for all SDGs of each of the 285 cities and simulated their SDG index until 2030. Under the scenarios, 216 Chinese cities (75.79%) could achieve 9-13 more SDGs in 2030 and the overall SDG index can improve from 74.57 in 2030 to 97.49 (target score 100) by adopting more intensive path adjustment. We lastly determined a cost-effective path for each SDG of each city to promote joint achievement of all SDGs by 2030. The proposed simulation model and cost-effective path serve as a foundation for other countries to simulate SDG progress and develop pathways for achieving SDGs in the future.

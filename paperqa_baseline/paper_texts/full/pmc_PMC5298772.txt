@@ -1,0 +1,9 @@
+Title: Novel Isoprene Sensor for a Flu Virus Breath Monitor
+Authors: Pelagia-Irene Gouma, Lisheng Wang, Sanford R. Simon, Milutin Stanacevic
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010199
+Paper ID: pmc_PMC5298772
+
+Abstract:
+A common feature of the inflammatory response in patients who have actually contracted influenza is the generation of a number of volatile products of the alveolar and airway epithelium. These products include a number of volatile organic compounds (VOCs) and nitric oxide (NO). These may be used as biomarkers to detect the disease. A portable 3-sensor array microsystem-based tool that can potentially detect flu infection biomarkers is described here. Whether used in connection with in-vitro cell culture studies or as a single exhale breathalyzer, this device may be used to provide a rapid and non-invasive screening method for flu and other virus-based epidemics.

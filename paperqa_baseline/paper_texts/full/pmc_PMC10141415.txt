@@ -1,0 +1,9 @@
+Title: Tailoring Two-Dimensional Matter Using Strong Light–Matter Interactions
+Authors: Ye-Jin Kim, Yangjin Lee, WonJae Choi, Myeongjin Jang, Won-Woo Park, Kwanpyo Kim, Q-Han Park, Oh-Hoon Kwon
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c04467
+Paper ID: pmc_PMC10141415
+
+Abstract:
+The shaping of matter into desired nanometric structures with on-demand functionalities can enhance the miniaturization of devices in nanotechnology. Herein, strong light–matter interaction was used as an optical lithographic tool to tailor two-dimensional (2D) matter into nanoscale architectures. We transformed 2D black phosphorus (BP) into ultrafine, well-defined, beyond-diffraction-limit nanostructures of ten times smaller size and a hundred times smaller spacing than the incident, femtosecond-pulsed light wavelength. Consequently, nanoribbons and nanocubes/cuboids scaling tens of nanometers were formed by the structured ablation along the extremely confined periodic light fields originating from modulation instability, the tailoring process of which was visualized in real time via light-coupled in situ transmission electron microscopy. The current findings on the controllable nanoscale shaping of BP will enable exotic physical phenomena and further advance the optical lithographic techniques for 2D materials.

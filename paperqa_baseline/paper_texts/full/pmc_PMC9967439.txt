@@ -1,0 +1,9 @@
+Title: Unicorns, Rhinoceroses and Chemical Bonds
+Authors: Jordan Gribben, Timothy R. Wilson, Mark E. Eberhart
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28041746
+Paper ID: pmc_PMC9967439
+
+Abstract:
+The nascent field of computationally aided molecular design will be built around the ability to make computation useful to synthetic chemists who draw on their empirically based chemical intuition to synthesize new and useful molecules. This fact poses a dilemma, as much of existing chemical intuition is framed in the language of chemical bonds, which are pictured as possessing physical properties. Unfortunately, it has been posited that calculating these bond properties is impossible because chemical bonds do not exist. For much of the computationalchemistry community, bonds are seen as mythical—the unicorns of the chemical world. Here, we show that this is not the case. Using the same formalism and concepts that illuminated the atoms in molecules, we shine light on the bonds that connect them. The real space analogue of the chemical bond becomes the bond bundle in an extended quantum theory of atoms in molecules (QTAIM). We show that bond bundles possess all the properties typically associated with chemical bonds, including an energy and electron count. In addition, bond bundles are characterized by a number of nontraditional attributes, including, significantly, a boundary. We show, with examples drawn from solid state and molecular chemistry, that the calculated properties of bond bundles are consistent with those that nourish chemical intuition. We go further, however, and show that bond bundles provide new and quantifiable insights into the structure and properties of molecules and materials.

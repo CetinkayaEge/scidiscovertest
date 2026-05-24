@@ -1,0 +1,9 @@
+Title: LACP-SG: Lightweight Authentication Protocol for Smart Grids
+Authors: Muhammad Tanveer, Hisham Alasmary
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042309
+Paper ID: pmc_PMC9968117
+
+Abstract:
+Smart grid (SG) recently acquired considerable attention due to their utilization in sustaining demand response management in power systems. Smart meters (SMs) deployed in SG systems collect and transmit data to the server. Since all communications between SM and the server occur through a public communication channel, the transmitted data are exposed to adversary attacks. Therefore, security and privacy are essential requirements in the SG system for ensuring reliable communication. Additionally, an AuthentiCation (AC) protocol designed for secure communication should be lightweight so it can be applied in a resource-constrained environment. In this article, we devise a lightweight AC protocol for SG named LACP-SG. LACP-SG employs the hash function, “Esch256”, and “authenticated encryption” to accomplish the AC phase. The proposed LACP-SG assures secure data exchange between SM and server by validating the authenticity of SM. For encrypted communication, LACP-SG enables SM and the server to establish a session key (SEK). We use the random oracle model to substantiate the security of the established SEK. Moreover, we ascertain that LACP-SG is guarded against different security vulnerabilities through Scyther-based security validation and informal security analysis. Furthermore, comparing LACP-SG with other related AC protocols demonstrates that LACP-SG is less resource-intensive while rendering better security characteristics.

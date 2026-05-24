@@ -1,0 +1,9 @@
+Title: Distributed Least-Squares Estimation of a Remote Chemical Source via Convex Combination in Wireless Sensor Networks
+Authors: Meng-Li Cao, Qing-Hao Meng, Ming Zeng, Biao Sun, Wei Li, Cheng-Jun Ding
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140711444
+Paper ID: pmc_PMC4168470
+
+Abstract:
+This paper investigates the problem of locating a continuous chemical source using the concentration measurements provided by a wireless sensor network (WSN). Such a problem exists in various applications: eliminating explosives or drugs, detecting the leakage of noxious chemicals, etc. The limited power and bandwidth of WSNs have motivated collaborative in-network processing which is the focus of this paper. We propose a novel distributed least-squares estimation (DLSE) method to solve the chemical source localization (CSL) problem using a WSN. The DLSE method is realized by iteratively conducting convex combination of the locally estimated chemical source locations in a distributed manner. Performance assessments of our method are conducted using both simulations and real experiments. In the experiments, we propose a fitting method to identify both the release rate and the eddy diffusivity. The results show that the proposed DLSE method can overcome the negative interference of local minima and saddle points of the objective function, which would hinder the convergence of local search methods, especially in the case of locating a remote chemical source.

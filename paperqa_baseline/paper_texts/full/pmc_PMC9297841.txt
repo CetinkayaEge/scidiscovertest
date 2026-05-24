@@ -1,0 +1,9 @@
+Title: Type III-A CRISPR systems as a versatile gene knockdown technology
+Authors: Walter T. Woodside, Nikita Vantsev, Ryan J. Catchpole, Sandra C. Garrett, Sara Olson, Brenton R. Graveley, Michael P. Terns
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.079206.122
+Paper ID: pmc_PMC9297841
+
+Abstract:
+CRISPR-Cas systems are functionally diverse prokaryotic antiviral defense systems, which encompass six distinct types (I–VI) that each encode different effector Cas nucleases with distinct nucleic acid cleavage specificities. By harnessing the unique attributes of the various CRISPR-Cas systems, a range of innovative CRISPR-based DNA and RNA targeting tools and technologies have been developed. Here, we exploit the ability of type III-A CRISPR-Cas systems to carry out RNA-guided and sequence-specific target RNA cleavage for establishment of research tools for post-transcriptional control of gene expression. Type III-A systems from three bacterial species ( L. lactis , S. epidermidis , and S. thermophilus ) were each expressed on a single plasmid in E. coli , and the efficiency and specificity of gene knockdown was assessed by northern blot and transcriptomic analysis. We show that engineered type III-A modules can be programmed using tailored CRISPR RNAs to efficiently knock down gene expression of both coding and noncoding RNAs in vivo. Moreover, simultaneous degradation of multiple cellular mRNA transcripts can be directed by utilizing a CRISPR array expressing corresponding gene-targeting crRNAs. Our results demonstrate the utility of distinct type III-A modules to serve as specific and effective gene knockdown platforms in heterologous cells. This transcriptome engineering technology has the potential to be further refined and exploited for key applications including gene discovery and gene pathway analyses in additional prokaryotic and perhaps eukaryotic cells and organisms.

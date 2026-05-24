@@ -1,0 +1,9 @@
+Title: Type I Photoinitiator Based on Sustainable Carbon Dots
+Authors: Ruiping Li, Hongda Guo, Xiongfei Luo, Qunying Wang, Yulian Pang, Shujun Li, Shouxin Liu, Jian Li, Bernd Strehmel, Zhijun Chen
+Year: 2024
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202404454
+Paper ID: https://openalex.org/W4396238468
+
+Abstract:
+Sustainable carbon dots comprising surficial oxime ester groups following homolytic bond cleavage exhibit potential as photoinitiators for traditional free radical photopolymerization. Carbon dots were made following a solvothermal procedure from sustainable furfural available from lignocellulose. Surficial aldehyde moieties reacted with hydroxylamine to the respective oxime while reaction with benzoyl chloride resulted in a biobased Type I photoinitiator comprising sustainable carbon dot (CD-PI). Photoinitiating ability was compared with the traditional photoinitiator (PI) ethyl (2,4,6-trimethyl benzoyl) phenyl phosphinate (TPO-L) by real-time FTIR with UV exposure at 365 nm. Photopolymer composition based on a mixture of urethane dimethacrylate (UDMA) and tripropylene glycol diacrylate (TPGDA) resulted in a similar final conversion of about 70 % using either CD-PI or TPO-L. Nevertheless, it appeared homogeneous in the case of compositions processed with CD-PI, while those made with TPO-L were heterogeneous as shown by two glass transition temperatures. Moreover, the migration rate of CD-PI in the cured samples was lower in comparison with those samples using TPO-L as PI.

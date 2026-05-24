@@ -1,0 +1,9 @@
+Title: In vivo imaging of MmpL transporters reveals distinct subcellular locations for export of mycolic acids and non-essential trehalose polyphleates in the mycobacterial outer membrane
+Authors: Laurie Thouvenel, Jérôme Rech, Christophe Guilhot, Jean-Yves Bouet, Christian Chalut
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-34315-4
+Paper ID: pmc_PMC10148836
+
+Abstract:
+The mycobacterial cell envelope consists of a typical plasma membrane, surrounded by a complex cell wall and a lipid-rich outer membrane. The biogenesis of this multilayer structure is a tightly regulated process requiring the coordinated synthesis and assembly of all its constituents. Mycobacteria grow by polar extension and recent studies showed that cell envelope incorporation of mycolic acids, the major constituent of the cell wall and outer membrane, is coordinated with peptidoglycan biosynthesis at the cell poles. However, there is no information regarding the dynamics of incorporation of other families of outer membrane lipids during cell elongation and division. Here, we establish that the translocation of non-essential trehalose polyphleates (TPP) occurs at different subcellular locations than that of the essential mycolic acids. Using fluorescence microscopy approaches, we investigated the subcellular localization of MmpL3 and MmpL10, respectively involved in the export of mycolic acids and TPP, in growing cells and their colocalization with Wag31, a protein playing a critical role in regulating peptidoglycan biosynthesis in mycobacteria. We found that MmpL3, like Wag31, displays polar localization and preferential accumulation at the old pole whereas MmpL10 is more homogenously distributed in the plasma membrane and slightly accumulates at the new pole. These results led us to propose a model in which insertion of TPP and mycolic acids into the mycomembrane is spatially uncoupled.

@@ -1,0 +1,9 @@
+Title: Physics-guided co-designing flexible thermoelectrics with techno-economic sustainability for low-grade heat harvesting
+Authors: Yi Zhou, Xixi Liu, Baohai Jia, Tianpeng Ding, Dasha Mao, Tiancheng Wang, Ghim Wei Ho, Jiaqing He
+Year: 2023
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.adf5701
+Paper ID: https://openalex.org/W4316015880
+
+Abstract:
+Flexible thermoelectric harvesting of omnipresent spatial thermodynamic energy, though promising in low-grade waste heat recovery (&lt;100°C), is still far from industrialization because of its unequivocal cost-ineffectiveness caused by low thermoelectric efficiency and power-cost coupled device topology. Here, we demonstrate unconventional upcycling of low-grade heat via physics-guided rationalized flexible thermoelectrics, without increasing total heat input or tailoring material properties, into electricity with a power-cost ratio (W/US$) enhancement of 25.3% compared to conventional counterparts. The reduced material usage (44%) contributes to device power-cost “decoupling,” leading to geometry-dependent optimal electrical matching for output maximization. This offers an energy consumption reduction (19.3%), electricity savings (0.24 kWh W −1 ), and CO 2 emission reduction (0.17 kg W −1 ) for large-scale industrial production, fundamentally reshaping the R&amp;D route of flexible thermoelectrics for techno-economic sustainable heat harvesting. Our findings highlight a facile yet cost-effective strategy not only for low-grade heat harvesting but also for electronic co-design in heat management/recovery frontiers.

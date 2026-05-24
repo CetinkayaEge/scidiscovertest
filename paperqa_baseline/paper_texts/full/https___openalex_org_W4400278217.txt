@@ -1,0 +1,9 @@
+Title: Electrochemical Skeletal Indole Editing via Nitrogen Atom Insertion by Sustainable Oxygen Reduction Reaction
+Authors: Bo‐Sheng Zhang, Simon L. Homölle, Tristan Bauch, João C. A. Oliveira, Svenja Warratz, Binbin Yuan, Xue‐Ya Gou, Lutz Ackermann
+Year: 2024
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202407384
+Paper ID: https://openalex.org/W4400278217
+
+Abstract:
+Skeletal molecular editing gained considerable recent momentum and emerged as a uniquely powerful tool for late-stage diversifications. Thus far, superstoichiometric amounts of costly hypervalent iodine(III) reagents were largely required for skeletal indole editing. In contrast, we herein show that electricity enables sustainable nitrogen atom insertion reactions to give bio-relevant quinazoline scaffolds without stoichiometric chemical redox-waste product. The transition metal-free electro-editing was enabled by the oxygen reduction reaction (ORR) and proved robust on scale, while tolerating a variety of valuable functional groups.

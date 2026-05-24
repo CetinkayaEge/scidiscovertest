@@ -1,0 +1,9 @@
+Title: Anxiety Shapes Amygdala-Prefrontal Dynamics During Movie Watching
+Authors: Peter A. Kirk, Avram J. Holmes, Oliver J. Robinson
+Year: 2023
+Venue: Biological Psychiatry Global Open Science
+DOI: 10.1016/j.bpsgos.2022.03.009
+Paper ID: pmc_PMC10382705
+
+Abstract:
+Background A well-characterized amygdala–dorsomedial prefrontal circuit is thought to be crucial for threat vigilance during anxiety. However, engagement of this circuitry within relatively naturalistic paradigms remains unresolved. Methods Using an open functional magnetic resonance imaging dataset (Cambridge Centre for Ageing Neuroscience; n = 630), we sought to investigate whether anxiety correlates with dynamic connectivity between the amygdala and dorsomedial prefrontal cortex during movie watching. Results Using an intersubject representational similarity approach, we saw no effect of anxiety when comparing pairwise similarities of dynamic connectivity across the entire movie. However, preregistered analyses demonstrated a relationship between anxiety, amygdala-prefrontal dynamics, and anxiogenic features of the movie (canonical suspense ratings). Our results indicated that amygdala-prefrontal circuitry was modulated by suspense in low-anxiety individuals but was less sensitive to suspense in high-anxiety individuals. We suggest that this could also be related to slowed habituation or amplified anticipation. Moreover, a measure of threat-relevant attentional bias (accuracy/reaction time to fearful faces) demonstrated an association with connectivity and suspense. Conclusions Overall, this study demonstrated the presence of anxiety-relevant differences in connectivity during movie watching, varying with anxiogenic features of the movie. Mechanistically, exactly how and when these differences arise remains an opportunity for future research.

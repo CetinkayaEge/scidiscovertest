@@ -1,0 +1,9 @@
+Title: Thermal Instability of Choline Chloride-Based Deep Eutectic Solvents and Its Influence on Their Toxicity─Important Limitations of DESs as Sustainable Materials
+Authors: Mateusz Marchel, Hubert Cieśliński, Grzegorz Boczkaj
+Year: 2022
+Venue: Industrial & Engineering Chemistry Research
+DOI: https://doi.org/10.1021/acs.iecr.2c01898
+Paper ID: https://openalex.org/W4287377207
+
+Abstract:
+Deep eutectic solvents (DESs) have become a hot topic in many branches of science due to their remarkable properties. They have been studied in a wide variety of applications. In particular, choline chloride (ChCl)-based DESs are one of the most commonly used representatives of these fluids. Nevertheless, in order to apply DESs in some fields, it is essential to guarantee their stability, reusability, and biocompatibility. In this context, the long-term stability of three ChCl-based DESs formed using glucose, malonic acid, and urea as hydrogen bond donors was investigated. Furthermore, the possible formation of toxic byproducts during long-term heating was evaluated for the first time, and toxicological studies using three bacterial strains (Escherichia coli, Pseudomonas aeruginosa, and Staphylococcus aureus) were performed. ChCl:urea DES revealed a high long-term thermal stability and was also found to be less toxic to the bacteria and thus can be considered as green solvent. ChCl:glucose DES started to decompose as a result of possible caramelization at 100 °C, and decomposition was further promoted at more elevated temperatures. Degradation of this DES did not affect greatly the toxicity toward bacteria, and low antibacterial properties were observed. The applicability of ChCl:malonic DES is not recommended as this DES was shown to be thermally unstable due to esterification and decomposition of malonic acid into acetic acid and carbon dioxide. Moreover, high toxicity of this DES in comparison to other DESs assayed in this study was reported.

@@ -1,0 +1,9 @@
+Title: Sustainable mix design of recycled aggregate concrete using artificial intelligence
+Authors: Emadaldin Mohammadi Golafshani, Taehwan Kim, Ali Behnood, Tuan Ngo, Alireza Kashani
+Year: 2024
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2024.140994
+Paper ID: https://openalex.org/W4391514104
+
+Abstract:
+Recycled aggregate concrete (RAC) enhanced with supplementary cementitious materials (SCMs) presents a sustainable alternative in the construction industry. This study involved a comprehensive analysis of the compressive strength (CS) of RAC with SCM, compiling a dataset of 3519 samples from published literature. A variety of machine learning (ML) techniques were applied to predict the compressive strength (CS) of RAC, including Elastic Net regression, K-Nearest Neighbor, Artificial Neural Network, Support Vector Machine, Decision Tree, Random Forest, eXtreme Gradient Boosting, Light Gradient Boosting, Category Boosting, and stacking methods. Particularly noteworthy was the use of the stacking technique to boost ML model predictive accuracy. The top-performing stacking model demonstrated a 4.2 % improvement in the root mean squared error over the next best model, Category Boosting, during testing. Sensitivity analysis, conducted with both the compiled and Monte Carlo-simulated databases, identified concrete testing age and cement content as critical factors influencing the CS of RAC. This aligns with existing experimental research. Additionally, the multi-objective water cycle algorithm was utilized to optimize CS, CO2 emissions, and cost of RAC, resulting in a sustainable mix design practice. Lastly, a user-friendly graphical interface was developed which allows users to input custom parameters, such as properties of RAC components and optimization algorithm settings, to obtain sustainable RAC mixtures.

@@ -1,0 +1,9 @@
+Title: Effect of Opioid Receptor Activation and Blockage on the Progression and Response to Treatment of Head and Neck Squamous Cell Carcinoma
+Authors: Lirit Levi, Elad Hikri, Aron Popovtzer, Avraham Dayan, Amir Levi, Gideon Bachar, Aviram Mizrachi, Hagit Shoffel-Havakuk
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041277
+Paper ID: pmc_PMC9967316
+
+Abstract:
+Recent studies suggest that opioids have a role in the progression of HNSCC mediated by mu opioid receptors (MOR), however, the effects of their activation or blockage remains unclear. Expression of MOR-1 was explored in seven HNSCC cell lines using Western blotting (WB). XTT cell proliferation and cell migration assays were performed on four selected cell lines (Cal-33, FaDu, HSC-2, and HSC-3), treated with opiate receptor agonist (morphine), antagonist (naloxone), alone and combined with cisplatin. All four selected cell lines display an increased cell proliferation and upregulation of MOR-1 when exposed to morphine. Furthermore, morphine promotes cell migration, while naloxone inhibits it. The effects on cell signaling pathways were analyzed using WB, demonstrating morphine activation of AKT and S6, key proteins in the PI3K/AKT/mTOR axis. A significant synergistic cytotoxic effect between cisplatin and naloxone in all cell lines is observed. In vivo studies of nude mice harboring HSC3 tumor treated with naloxone demonstrate a decrease in tumor volume. The synergistic cytotoxic effect between cisplatin and naloxone is observed in the in vivo studies as well. Our findings suggest that opioids may increase HNSCC cell proliferation via the activation of the PI3K/Akt/mTOR signaling pathway. Moreover, MOR blockage may chemo-sensitize HNSCC to cisplatin.

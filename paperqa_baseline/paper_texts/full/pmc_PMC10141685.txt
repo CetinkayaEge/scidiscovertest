@@ -1,0 +1,9 @@
+Title: Evaluation of a Bioabsorbable Scaffold and Interlocked Nail System for Segmental Bone Defect
+Authors: Morshed Khandaker, Reuben Lane, Shannon Yeakley, Hussein Alizereej, Sadegh Nikfarjam, Abdellah Ait Moussa, Melville B. Vaughan, Amgad M. Haleem
+Year: 2023
+Venue: Journal of Functional Biomaterials
+DOI: 10.3390/jfb14040183
+Paper ID: pmc_PMC10141685
+
+Abstract:
+In the current study, we designed and manufactured a scaffold and fixation system for the reconstruction of long-bone segmental defects in a rabbit tibia model. We used biocompatible and biodegradable materials, polycaprolactone (PCL) and PCL soaked with sodium alginate (PCL-Alg) to manufacture the scaffold, interlocking nail and screws using a phase separation casing method. Degradation and mechanical tests on the PCL and PCL-Alg scaffolds indicated that both were suitable for faster degradation and early weight-bearing capacity. PCL scaffold surface porosity facilitated the infiltration of alginate hydrogel through the scaffold. Cell viability results showed that the number of cells increased on Day 7 and decreased marginally by Day 14. For accurate placement of the scaffold and fixation system, a surgical jig was designed and 3D-printed using biocompatible resin in a stereolithography (SLA) 3D printer, then cured with UV light for increased strength. Our cadaver tests using New Zealand White rabbit confirmed our novel jigs’ potential for accurate placement of the bone scaffold, intramedullary nail and the alignment of the fixation screws in future reconstructive surgeries on rabbit long-bone segmental defects. Additionally, the cadaver tests confirmed that our designed nails and screws were strong enough to carry the surgical insertion force. Therefore, our designed prototype has the potential for further clinical translational study using the rabbit tibia model.

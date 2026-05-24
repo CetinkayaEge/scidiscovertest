@@ -1,0 +1,9 @@
+Title: Sustainable Amination of Bio-Based Alcohols by Hydrogen Borrowing Catalysis
+Authors: Sophie Hameury, Hana Bensalem, Karine De Oliveira Vigier
+Year: 2022
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal12111306
+Paper ID: https://openalex.org/W4307268578
+
+Abstract:
+In this review, we aim to give an overview of the use of the Borrowing Hydrogen (BH) methodology with bio-based alcohols. This methodology only forms water as a by-product, thus providing a sustainable way to amines, which have a large range of applications. This process is of particular interest when related to biomass due to the high abundance of alcohol functions in natural compounds. However, natural compounds often comprise multiple chemical functions that can change the reactivity of the substrate. This comprehensive review, comprising both homogeneous and heterogeneous catalysts, aims at summarizing the recent advancements in biomass amination for every class of substrate, highlighting the key parameters governing their reactivity and the remaining scientific hurdles. Even though most substrates have successfully been converted into the corresponding amines, reaction selectivity and functional group tolerance still need to be improved.

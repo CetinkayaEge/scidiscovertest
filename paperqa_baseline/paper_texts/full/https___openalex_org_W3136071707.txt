@@ -1,0 +1,9 @@
+Title: Micellar Catalysis for Sustainable Hydroformylation
+Authors: Francesca Migliorini, Filippo Dei, Massimo Calamante, Samuele Maramai, Elena Petricci
+Year: 2021
+Venue: ChemCatChem
+DOI: https://doi.org/10.1002/cctc.202100181
+Paper ID: https://openalex.org/W3136071707
+
+Abstract:
+Abstract It is here reported a fully sustainable and generally applicable protocol for the regioselective hydroformylation of terminal alkenes, using cheap commercially available catalysts and ligands, in mild reaction conditions (70 °C, 9 bar, 40 min). The process can take advantages from both micellar catalysis and microwave irradiation to obtain the linear aldehydes as the major or sole regioisomers in good to high yields. The substrate scope is largely explored as well as the application of hydroformylation in tandem with intramolecular hemiacetalization thus demonstrating the compatibility with a broad variety of functional groups. The reaction is efficient even in large scale and the catalyst and micellar water phase can be reused at least 5 times without any impact in reaction yields. The efficiency and sustainability of this protocol is strictly related to the in situ transformation of the aldehyde into the corresponding Bertagnini's salt that precipitates in the reaction mixture avoiding organic solvent mediated purification steps to obtain the final aldehydes as pure compounds.

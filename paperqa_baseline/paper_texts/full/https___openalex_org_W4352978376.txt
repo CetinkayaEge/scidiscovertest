@@ -1,0 +1,9 @@
+Title: Sustainable Smart Waste Management Adoption Challenges in Developing Countries
+Authors: Eline Fidje, Moutaz Haddara, M. Langseth
+Year: 2023
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2023.01.366
+Paper ID: https://openalex.org/W4352978376
+
+Abstract:
+Internet of things (IoT) implementations are gaining increased momentum worldwide. IoT infrastructures may aid in better and more efficient resource management and attain sustainability goals. Thus, with limited resources in developing countries (DCs), IoT solutions have the potential to optimize operations and efficiently manage those resources. One of the challenges facing countries worldwide is the need for more sustainable and smart waste management (WM) solutions. Hence, IoT technologies can significantly improve the overall WM process and its logistics. It is then crucial to identify the challenges of IoT adoptions for WM in DCs, to ensure more successful adoptions. While the IoT literature is booming, very little research has been conducted focusing on WM in DCs specifically. Hence, this research summarizes and provides an overview of the existing literature on the challenges of implementing IoT technologies for WM in DCs. The primary purpose of this review is to present the findings from the reviewed articles, shed light on current research gaps, and offer recommendations for future research. Our main findings suggest that DCs can develop optimization plans for WM processes that may aid them in joining the worldwide efforts to protect public health and reach the sustainable development goals put forward by the UN. Facing the social, environmental, economic, and technical challenges when implementing IoT in WM can further increase the efforts for sustainable development in DCs.

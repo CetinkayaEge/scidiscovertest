@@ -1,0 +1,9 @@
+Title: Application of IoT in Healthcare: Keys to Implementation of the Sustainable Development Goals
+Authors: Ángeles Verdejo Espinosa, José Luis López Ruiz, Francisco Mata, Macarena Espinilla
+Year: 2021
+Venue: Sensors
+DOI: https://doi.org/10.3390/s21072330
+Paper ID: https://openalex.org/W3139644029
+
+Abstract:
+We live in complex times in the health, social, political, and energy spheres, and we must be aware of and implement new trends in intelligent social health systems powered by the Internet of Things (IoT). Sustainable development, energy efficiency, and public health are interrelated parameters that can transform a system or an environment for the benefit of people and the planet. The integration of sensors and smart devices should promote energy efficiency and ensure that sustainable development goals are met. This work is carried out according to a mixed approach, with a literature review and an analysis of the impact of the Sustainable Development Goals on the applications of the Internet of Things and smart systems. In the analysis of results, the following questions are answered about these systems and applications: (a) Are IoT applications key to the improvement of people's health and the environment? (b) Are there research and case studies implemented in cities or territories that demonstrate the effectiveness of IoT applications and their benefits to public health?

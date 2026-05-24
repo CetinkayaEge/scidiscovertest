@@ -1,0 +1,9 @@
+Title: An Artificial MnWO 4 Cathode Electrolyte Interphase Enabling Enhanced Electrochemical Performance of δ-MnO 2 Cathode for Aqueous Zinc Ion Battery
+Authors: Hao Tian, Huanlin Zhang, You Zuo, Lei Ling, Tengfei Meng, Hang Zhang, Xiaohong Sun, Shu Cai
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083228
+Paper ID: pmc_PMC10141966
+
+Abstract:
+The dissolution of active material in aqueous batteries can lead to a rapid deterioration in capacity, and the presence of free water can also accelerate the dissolution and trigger some side reactions that affect the service life of aqueous batteries. In this study, a MnWO 4 cathode electrolyte interphase (CEI) layer is constructed on a δ-MnO 2 cathode by cyclic voltammetry, which is effective in inhibiting the dissolution of Mn and improving the reaction kinetics. As a result, the CEI layer enables the δ-MnO 2 cathode to produce a better cycling performance, with the capacity maintained at 98.2% (vs. activated capacity at 500 cycles) after 2000 cycles at 10 A g −1 . In comparison, the capacity retention rate is merely 33.4% for pristine samples in the same state, indicating that this MnWO 4 CEI layer constructed by using a simple and general electrochemical method can promote the development of MnO 2 cathodes for aqueous zinc ion batteries.

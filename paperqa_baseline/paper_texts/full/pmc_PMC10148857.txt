@@ -1,0 +1,9 @@
+Title: A sensitive high repetition rate arrival time monitor for X-ray free electron lasers
+Authors: Michael Diez, Henning Kirchberg, Andreas Galler, Sebastian Schulz, Mykola Biednov, Christina Bömer, Tae-Kyu Choi, Angel Rodriguez-Fernandez, Wojciech Gawelda, Dmitry Khakhulin, Katharina Kubicek, Frederico Lima, Florian Otte, Peter Zalden, Ryan Coffee, Michael Thorwart, Christian Bressler
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38143-y
+Paper ID: pmc_PMC10148857
+
+Abstract:
+X-ray free-electron laser sources enable time-resolved X-ray studies with unmatched temporal resolution. To fully exploit ultrashort X-ray pulses, timing tools are essential. However, new high repetition rate X-ray facilities present challenges for currently used timing tool schemes. Here we address this issue by demonstrating a sensitive timing tool scheme to enhance experimental time resolution in pump-probe experiments at very high pulse repetition rates. Our method employs a self-referenced detection scheme using a time-sheared chirped optical pulse traversing an X-ray stimulated diamond plate. By formulating an effective medium theory, we confirm subtle refractive index changes, induced by sub-milli-Joule intense X-ray pulses, that are measured in our experiment. The system utilizes a Common-Path-Interferometer to detect X-ray-induced phase shifts of the optical probe pulse transmitted through the diamond sample. Owing to the thermal stability of diamond, our approach is well-suited for MHz pulse repetition rates in superconducting linear accelerator-based free-electron lasers. In time-resolved measurements it is crucial to know the time delay between the exciting and probing light pulses. Here the authors demonstrate a self-referencing common-path interferometer method measuring the arrival time between the X-ray free electron laser and the optical pulse to the target and thus their inherent timing jitter.

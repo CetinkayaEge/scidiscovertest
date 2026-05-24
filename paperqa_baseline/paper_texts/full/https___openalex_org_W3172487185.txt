@@ -1,0 +1,9 @@
+Title: Could Unsustainable Electronics Support Sustainability?
+Authors: Nicolas Moreau, Thibault Pirson, Grégoire Le Brun, Thibault Delhaye, Georgiana Sandu, Antoine Paris, David Bol, Jean‐Pierre Raskin
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126541
+Paper ID: https://openalex.org/W3172487185
+
+Abstract:
+Information and communication technologies are often considered by policymakers, industrial stakeholders and scientists as a key lever in the run towards sustainability, since they should ease energy efficiency and dematerialization. In this opinion article, nurtured by the inputs of a broad panel of experts, we challenge this widely spread view by highlighting the detrimental social and environmental footprints caused by digital technologies. We further take a critical look on the ways innovation is conducted nowadays, i.e., with an almost exclusive focus on performance and few considerations for externalities. This leads us to call for academic teaching programs advocating for a holistic approach, for new business models, and for ambitious political decisions able to drive a paradigm shift in the mainstream agenda of electronics innovation and digital transition that shall significantly contribute to the well-being of everyone, everywhere, without compromising future generations. We conclude that digital technologies cannot support long-term sustainability if their only purpose remains the optimization of the current system.

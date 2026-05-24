@@ -1,0 +1,9 @@
+Title: High-Performance Anti-Retransmission Deception Jamming Utilizing Range Direction Multiple Input and Multiple Output (MIMO) Synthetic Aperture Radar (SAR)
+Authors: Ruijia Wang, Jie Chen, Xing Wang, Bing Sun
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010123
+Paper ID: pmc_PMC5298696
+
+Abstract:
+Retransmission deception jamming seriously degrades the Synthetic Aperture Radar (SAR) detection efficiency and can mislead SAR image interpretation by forming false targets. In order to suppress retransmission deception jamming, this paper proposes a novel multiple input and multiple output (MIMO) SAR structure range direction MIMO SAR, whose multiple channel antennas are vertical to the azimuth. First, based on the multiple channels of range direction MIMO SAR, the orthogonal frequency division multiplexing (OFDM) linear frequency modulation (LFM) signal was adopted as the transmission signal of each channel, which is defined as a sub-band signal. This sub-band signal corresponds to the transmission channel. Then, all of the sub-band signals are modulated with random initial phases and concurrently transmitted. The signal form is more complex and difficult to intercept. Next, the echoes of the sub-band signal are utilized to synthesize a wide band signal after preprocessing. The proposed method will increase the signal to interference ratio and peak amplitude ratio of the signal to resist retransmission deception jamming. Finally, well-focused SAR imagery is obtained using a conventional imaging method where the retransmission deception jamming strength is degraded and defocused. Simulations demonstrated the effectiveness of the proposed method.

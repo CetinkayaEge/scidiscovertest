@@ -1,0 +1,9 @@
+Title: PD-L1 expression in lung adenosquamous carcinomas compared with the more common variants of non-small cell lung cancer
+Authors: Xiaohua Shi, Shafei Wu, Jian Sun, Yuanyuan Liu, Xuan Zeng, Zhiyong Liang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46209
+Paper ID: pmc_PMC5384250
+
+Abstract:
+Lung adenosquamous cell carcinomas (ASCs) is a rare variant of NSCLC with a poorer prognosis and fewer treatment option than the more common variants. PD-L1 expression is reported to be the predictor of clinical response in trials of NSCLC. In our study, PD-L1 expression was evaluated via immunohistochemistry using a specific monoclonal antibody (SP263), and PD-L1 mRNA expression was evaluated via in situ hybridization. This study included 51 ASCs, 133 lung adenocarcinomas, and 83 lung squamous cell carcinomas (SCC). Similar results were obtained for PD-L1 expression measured at the mRNA and protein level ( k coefficient, 0.851, P = 1.000). PD-L1 expression was significantly higher in the squamous versus glandular component of the 36 ASCs in which the components were analyzed separately. The PD-L1 expression rate was similar in the squamous cell component of ASCs and lung SCC (38.89% vs. 28.92%, P = 0.293), so does the adenocarcinoma component of ASCs and lung adenocarcinomas (11.11% vs 13.53%, P = 1.000). PD-L1 expression correlated significantly with lymphovascular invasion (P = 0.016), but not with EGFR, KRAS , and ALK mutations in lung ASCs. Anit-PD-L1 is a promising treatment option in lung ASC cases in which PD-L1 upregulated and EGFR mutations are present.

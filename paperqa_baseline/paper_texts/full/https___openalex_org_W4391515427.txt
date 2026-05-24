@@ -1,0 +1,9 @@
+Title: Techno-economic viability of decentralised solar photovoltaic-based green hydrogen production for sustainable energy transition in Ghana
+Authors: Louis Kwasi Osei, Flavio Odoi-Yorke, Richard Opoku, Bismark Baah, George Yaw Obeng, Lena D. Mensah, F.K. Forson
+Year: 2024
+Venue: Solar Compass
+DOI: https://doi.org/10.1016/j.solcom.2024.100068
+Paper ID: https://openalex.org/W4391515427
+
+Abstract:
+Transition to a sustainable energy supply is essential for addressing the challenges of climate change and achieving a low-carbon future. Green hydrogen produced from solar photovoltaic (PV) systems presents a promising solution in Ghana, where energy demands are increasing rapidly. The levelized cost of hydrogen (LCOH) is considered a critical metric to evaluate hydrogen production techniques, cost competitiveness, and economic viability. This study presents a comprehensive analysis of LCOH from solar PV systems. The study considered a 5 MW green hydrogen production plant in Ghana's capital, Accra, as a proposed system. The results indicate that the LCOH is about $9.49/kg, which is comparable to other findings obtained within the Sub-Saharan Africa region. The study also forecasted that the LCOH for solar PV-based hydrogen produced will decrease to $5-6.5/kg by 2030 and $2-2.5/kg by 2050 or lower, making it competitive with fossil fuel-based hydrogen. The findings of this study highlight the potential of green hydrogen as a sustainable energy solution and its role in driving the country's net-zero emissions agenda in relation to its energy transition targets. The study's outcomes are relevant to policymakers, researchers, investors, and energy stakeholders in making informed decisions regarding deploying decentralised green hydrogen technologies in Ghana and similar contexts worldwide.

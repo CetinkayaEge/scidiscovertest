@@ -1,0 +1,9 @@
+Title: Sustainable Design of Self-Consolidating Green Concrete with Partial Replacements for Cement through Neural-Network and Fuzzy Technique
+Authors: Shaoyong Han, Dongsong Zheng, Bahareh Mehdizadeh, Emad Abouel Nasr, Mayeen Uddin Khandaker, Mohammad Salman, Peyman Mehrabi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15064752
+Paper ID: https://openalex.org/W4323565530
+
+Abstract:
+In order to achieve a sustainable mix design, this paper evaluates self-consolidating green concrete (SCGC) properties by experimental tests and then examines the design parameters with an artificial intelligence technique. In this regard, cement was partially replaced in different contents with granulated blast furnace slag (GBFS) powder, volcanic powder, fly ash, and micro-silica. Moreover, fresh and hardened properties tests were performed on the specimens. Finally, an adaptive neuro-fuzzy inference system (ANFIS) was developed to identify the influencing parameters on the compressive strength of the specimens. For this purpose, seven ANFIS models evaluated the input parameters separately, and in terms of optimization, twenty-one models were assigned to different combinations of inputs. Experimental results were reported and discussed completely, where furnace slag represented the most effect on the hardened properties in binary mixes, and volcanic powder played an effective role in slump retention among other cement replacements. However, the combination of micro-silica and volcanic powder as a ternary mix design successfully achieved the most improvement compared to other mix designs. Furthermore, ANFIS results showed that binder content has the highest governing parameters in terms of the strength of SCGC. Finally, when compared with other additive powders, the combination of micro-silica with volcanic powder provided the most strength, which has also been verified and reported by the test results.

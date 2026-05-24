@@ -1,0 +1,9 @@
+Title: A roadmap to establish a comprehensive platform for sustainable manufacturing of natural products in yeast
+Authors: Gita Naseri
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-37627-1
+Paper ID: https://openalex.org/W4362666148
+
+Abstract:
+Secondary natural products (NPs) are a rich source for drug discovery. However, the low abundance of NPs makes their extraction from nature inefficient, while chemical synthesis is challenging and unsustainable. Saccharomyces cerevisiae and Pichia pastoris are excellent manufacturing systems for the production of NPs. This Perspective discusses a comprehensive platform for sustainable production of NPs in the two yeasts through system-associated optimization at four levels: genetics, temporal controllers, productivity screening, and scalability. Additionally, it is pointed out critical metabolic building blocks in NP bioengineering can be identified through connecting multilevel data of the optimized system using deep learning.

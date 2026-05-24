@@ -1,0 +1,9 @@
+Title: Fiber Optic Temperature Sensor System Using Air-Filled Fabry–Pérot Cavity with Variable Pressure
+Authors: Hasanur R. Chowdhury, Ming Han
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063302
+Paper ID: pmc_PMC10053490
+
+Abstract:
+We report a high-resolution fiber optic temperature sensor system based on an air-filled Fabry–Pérot (FP) cavity, whose spectral fringes shift due to a precise pressure variation in the cavity. The absolute temperature can be deduced from the spectral shift and the pressure variation. For fabrication, a fused-silica tube is spliced with a single-mode fiber at one end and a side-hole fiber at the other to form the FP cavity. The pressure in the cavity can be changed by passing air through the side-hole fiber, causing the spectral shift. We analyzed the effect of sensor wavelength resolution and pressure fluctuation on the temperature measurement resolution. A computer-controlled pressure system and sensor interrogation system were developed with miniaturized instruments for the system operation. Experimental results show that the sensor had a high wavelength resolution (<0.2 pm) with minimal pressure fluctuation (~ 0.015 kPa), resulting in high-resolution ( ± 0.32 ℃ ) temperature measurement. It shows good stability from the thermal cycle testing with the maximum testing temperature reaching 800 ℃ .

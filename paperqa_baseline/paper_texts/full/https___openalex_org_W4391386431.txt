@@ -1,0 +1,9 @@
+Title: Sustainability Evaluation of Hybrid Agriculture-Tractor Powertrains
+Authors: Simone Pascuzzi, Katarzyna Łyp-Wrońska, Katarzyna Gdowska, Francesco Paciolla
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16031184
+Paper ID: https://openalex.org/W4391386431
+
+Abstract:
+Agricultural tractors are highly fuel-consuming and soil/air polluting machines; thus, the introduction of new sustainable technologies, such as hybridization, can be very impactful for the development of electric hybrid agricultural tractors. These vehicles combine the classic internal combustion engine with an electric machine. This paper reports the modeling and simulation, conducted using a simulation software typically used for on-road vehicles, of a two-wheel-drive agricultural tractor in three different configurations: the conventional one, and the series and parallel electric-hybrid powertrains. The simulated task is the trailing of a “big square baler” during the process of straw wrapping and baling. The evaluation and the comparison of the fuel consumption, CO2 emissions and the depth of discharge of the different configurations have been carried out to determine if it is possible to downsize the ICE while maintaining the same performance levels. This study highlights the fact that both the fuel consumption and the CO2 emissions of series and parallel electric-hybrid agricultural tractors are ten times lower and five times lower than those of a traditional tractor, respectively. Furthermore, the presence of an electric machine allows a more precise speed profile tracking. This study points out that the hybridization of agricultural tractor powertrains is one of the most promising approaches for reducing pollutant emissions and fuel consumption.

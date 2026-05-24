@@ -1,0 +1,9 @@
+Title: Impact of coherent core/shell architecture on fast response in InP-based quantum dot photodiodes †
+Authors: Kazuhiro Nemoto, Junpei Watanabe, Hiroyuki Yamada, Hong-Tao Sun, Naoto Shirahata
+Year: 2023
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00734g
+Paper ID: pmc_PMC9890971
+
+Abstract:
+Solution-processed, cadmium-free quantum dot (QD) photodiodes are compatible with printable optoelectronics and are regarded as a potential candidate for wavelength-selective optical sensing. However, a slow response time resulting from low carrier mobility and a poor dissociation of charge carriers in the optically active layer has hampered the development of the QD photodiodes with nontoxic device constituents. Herein, we report the first InP-based photodiode with a multilayer device architecture, working in photovoltaic mode in photodiode circuits. The photodiode showed the fastest response speed with rising and falling times of τ r = 4 ms and τ f = 9 ms at a voltage bias of 0 V at room temperature in ambient air among the Cd-free photodiodes. The single-digit millisecond photo responses were realized by efficient transportation of the photogenerated carriers in the optically active layer resulting from coherent InP/ZnS core/shell QD structure, fast separation of electron and hole pairs at the interface between QD and Al-doped ZnO layers, and optimized conditions for uniform deposition of each thin film. The results suggested the versatility of coherent core/shell QDs as a photosensitive layer, whose structures allow various semiconductor combinations without lattice mismatch considerations, towards fast response, high on/off ratios, and spectrally tunable optical sensing. Solution-processed, cadmium-free quantum dot (QD) photodiodes are compatible with printable optoelectronics and are regarded as a potential candidate for optical sensing with fast speed response and wavelength selectivity.

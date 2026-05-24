@@ -1,0 +1,9 @@
+Title: Blockchain Interoperability: Towards a Sustainable Payment System
+Authors: Debasis Mohanty, Divya Anand, Hani Moaiteq Aljahdali, Santos Gràcia Villar
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14020913
+Paper ID: https://openalex.org/W4205205688
+
+Abstract:
+The highly fragmented blockchain and cryptocurrency ecosystem necessitates interoperability mechanisms as a requirement for blockchain-technology acceptance. The immediate implication of interchain interoperability is automatic swapping between cryptocurrencies. We performed a systematic review of the existing literature on Blockchain interoperability and atomic cross-chain transactions. We investigated different blockchain interoperability approaches, including industrial solutions, categorized them and identified the key mechanisms used, and list several example projects for each category. We focused on the atomic transactions between blockchain, a process also known as atomic swap. Furthermore, we studied recent implementations along with architectural approaches for atomic swap and deduced research issues and challenges in cross-chain interoperability and atomic swap. Atomic swap can instantly transfer tokens and significantly reduce the associated costs without using any centralized authority, and thus facilitates the development of a sustainable payment system for wider financial inclusion.

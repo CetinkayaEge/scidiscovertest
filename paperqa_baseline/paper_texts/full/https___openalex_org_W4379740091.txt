@@ -1,0 +1,9 @@
+Title: Measurements of Nitrile Rubber Absorption of Hydrocarbons: Trends for Sustainable Aviation Fuel Compatibility
+Authors: Conor Faulhaber, Christopher Borland, Randall C. Boehm, Joshua S. Heyne
+Year: 2023
+Venue: Energy & Fuels
+DOI: https://doi.org/10.1021/acs.energyfuels.3c00781
+Paper ID: https://openalex.org/W4379740091
+
+Abstract:
+The commercial aviation sector is seeking to reach net zero CO2 emissions by 2050, with sustainable aviation fuel (SAF) being the most important lever. However, SAF is currently limited by ASTM specifications to a maximum of 50%v blending with conventional jet fuel. One reason for the current blend limit is motivation to maintain o-ring swelling consistent with 100% petroleum fuel. This work explores the relationships between o-ring swelling of SAF blend components, model compounds, and various blends in nitrile rubber compared to conventional fuel swelling. Specifically, optical dilatometry measurements were used to gather swell propensity data for 39 different hydrocarbon dopants at 8%v in an iso-alkane solution, 4 dopants at 7 different concentrations, and 19 different fuels or fuel blends. This study also highlights the advantages of using swell measurements, such as those employed here, as a quality control metric instead of the current 8%v aromatics requirement. Notably, the potential is shown to maintain swelling in the conventional fuel range with fuels composed of less than 8%v aromatics.

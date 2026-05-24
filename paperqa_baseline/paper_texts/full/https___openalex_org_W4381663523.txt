@@ -1,0 +1,9 @@
+Title: Integrating AI in Sustainable Supply Chain Management: A New Paradigm for Enhanced Transparency and Sustainability
+Authors: Subharun Pal
+Year: 2023
+Venue: International Journal for Research in Applied Science and Engineering Technology
+DOI: https://doi.org/10.22214/ijraset.2023.54139
+Paper ID: https://openalex.org/W4381663523
+
+Abstract:
+Abstract: This study explores the role of artificial intelligence (AI) in enhancing sustainable supply chain management (SSCM). As environmental awareness grows, the importance of sustainable, efficient, and socially responsible supply chains is rising, necessitating the integration of AI to meet these goals. AI's potential to bolster supply chain operations' transparency and sustainability is analyzed in detail. Employing a combination of qualitative and quantitative methods, we evaluate the various applications of AI in SSCM. These range from demand forecasting with predictive analytics, to carbon reduction through intelligent automation, real-time tracking for improved transparency, and supplier assessment via machine learning based on sustainability parameters. Our findings suggest AI's effectiveness in enhancing visibility across the supply chain, promoting ethical and sustainable practices, and optimizing resource use to reduce waste. However, the research also acknowledges obstacles to AI adoption, such as high costs, data privacy concerns, and skill gaps, while proposing potential solutions. In conclusion, the study underscores AI's transformative power in creating sustainable supply chains and provides valuable insights for industry practitioners, policy makers, and researchers. It accentuates the urgency of harnessing AI technology amid growing environmental concerns, changing consumer consciousness, and regulatory demands for sustainability in the digital era.

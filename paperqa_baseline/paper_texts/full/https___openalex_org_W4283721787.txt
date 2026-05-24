@@ -1,0 +1,9 @@
+Title: Modelling Complex Relationships Between Sustainable Competitiveness and Digitalization
+Authors: Ivana Petkovski, Aleksandra Fedajev, Jacques Bazen
+Year: 2022
+Venue: Journal of Competitiveness
+DOI: https://doi.org/10.7441/joc.2022.02.05
+Paper ID: https://openalex.org/W4283721787
+
+Abstract:
+Digitalization is the core component of future development in the 4.0 industrial era. It represents a powerful mechanism for enhancing the sustainable competitiveness of economies worldwide. Diverse triggering effects shape future digitalization trends. Thus, the main research goal in this study is to use sustainable competitiveness pillars (such as social, economic, environmental and energy) to evaluate international digitalization development. The proposed empirical model generates comprehensive knowledge of the sustainable competitiveness-digitalization nexus. For that purpose, a nonlinear regression has been applied on gathered annual data that consist of 33 European countries, ranging from 2010 to 2016. The dataset has been deployed using Bernoulli’s binominal distribution to derive training and testing samples and the entire analysis has been adjusted in that context. The empirical findings of artificial neural networks (ANN) suggest strong effects of the economic and energy use indicators on the digitalization progress. Nonlinear regression and ANN model summary report valuable results with a high degree of coefficient of determination (R2&gt;0.9 for all models). Research findings state that the digitalization process is multidimensional and cannot be evaluated as an isolated phenomenon without incorporating other relevant factors that emerge in the environment. Indicators report the consumption of electrical energy in industry and households and GDP per capita to achieve the strongest effect.

@@ -1,0 +1,9 @@
+Title: Application of GIS in Agriculture in Promoting Evidence-Informed Decision Making for Improving Agriculture Sustainability: A Systematic Review
+Authors: Mwehe Mathenge, B.G.J.S. Sonneveld, Jacqueline E. W. Broerse
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14169974
+Paper ID: https://openalex.org/W4291940634
+
+Abstract:
+The objective of this review was to synthesize existing evidence on GIS and RS application in agriculture in enhancing evidence-informed policy and practice for improving agriculture sustainability and identifying obstacles to their application, particularly in low- and middle-income countries. Systematic searches were conducted in the databases SCOPUS, Web of Science, Bielefeld Academic Search Engine, COnnecting REpositories (CORE), and Google Scholar. We identified 2113 articles published between 2010–2021, out of which 40 articles met the inclusion criteria. The results show that GIS technology application in agriculture has gained prominence in the last decade, with 66% of selected papers being published in the last six years. The main GIS application areas identified included: crop yield estimation, soil fertility assessment, cropping patterns monitoring, drought assessment, pest and crop disease detection and management, precision agriculture, and fertilizer and weed management. GIS technology has the potential to enhance agriculture sustainability through integrating the spatial dimension of agriculture into agriculture policies. In addition, GIS potential in promoting evidenced informed decision making is growing. There is, however, a big gap in GIS application in sub-Saharan Africa, with only one paper originating from this region. With the growing threat of climate change to agriculture and food security, there is an increased need for the integration of GIS in policy and decision making in improving agriculture sustainability.

@@ -1,0 +1,9 @@
+Title: A Literature Review of Energy Efficiency and Sustainability in Manufacturing Systems
+Authors: Paolo Renna, Sergio Materi
+Year: 2021
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app11167366
+Paper ID: https://openalex.org/W3188781858
+
+Abstract:
+Climate change mitigation, the goal of reducing CO2 emissions, more stringent regulations and the increment in energy costs have pushed researchers to study energy efficiency and renewable energy sources. Manufacturing systems are large energy consumers and are thus responsible for huge greenhouse gas emissions; for these reasons, many studies have focused on this topic recently. This review aims to summarize the most important papers on energy efficiency and renewable energy sources in manufacturing systems published in the last fifteen years. The works are grouped together, considering the system typology, i.e., manufacturing system subclasses (single machine, flow shop, job shop, etc.) or the assembly line, the developed energy-saving policies and the implementation of the renewable energy sources in the studied contexts. A description of the main approaches used in the analyzed papers was discussed. The conclusion reports the main findings of the review and suggests future directions for the researchers in the integration of renewable energy in the manufacturing systems consumption models.

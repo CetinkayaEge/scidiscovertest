@@ -1,0 +1,9 @@
+Title: Decision Towards Green Careers and Sustainable Development
+Authors: Adam Sulich, Małgorzata Rutkowska, Uma Shankar Singh
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.09.002
+Paper ID: https://openalex.org/W3203331994
+
+Abstract:
+The graduates’ careers are the most spectacular and visible outcome of excellent university education. This is also important for the university performance assessment, when its graduates can easily find job on the labour market. The information about graduates’ matching their qualifications and fields of studies versus undertaken employment, create an important set of data for future students and employers to be analysed. Additionally, there is business environment pressure to transform work places and whole organizations towards more green and sustainable form. Green Jobs (GJ) are the element of the whole economy transformation. This change is based on the green qualifications and green careers which translate theoretical assumptions into business language. Therefore, the choice of future career path is based specified criteria, which were examined by surveys performed among graduates by the career office at Wroclaw University of Technology (WUT) in Poland. The aim of this article was to address the question about most significant criteria of green career paths among graduates of WUT in 2019. The special attention was paid for the GJ understood as green careers. In this article the multi-criteria Bellinger’s method was explained, presented and then used to analyse chosen factors of choice graduates’ career paths and then compared with Gale-Shapley algorithm results in a comparative analysis. The future research can develop a graduate profile willing to be employed in GJ.

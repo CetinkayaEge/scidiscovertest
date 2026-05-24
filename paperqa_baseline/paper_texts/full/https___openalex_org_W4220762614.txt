@@ -1,0 +1,9 @@
+Title: A System Dynamics Model for Dynamic Capability Driven Sustainability Management
+Authors: Fitsum Getachew Bayu, Eshetie Berhan, Frank Ebinger
+Year: 2022
+Venue: Journal of Open Innovation Technology Market and Complexity
+DOI: https://doi.org/10.3390/joitmc8010056
+Paper ID: https://openalex.org/W4220762614
+
+Abstract:
+This study aims to develop a system dynamics (SD) model for sustainability management driven by dynamic capabilities (DC) perspective. DC has been suggested as a vital organization theory for gaining sustainable competitive advantage. In contrast, SD has been used to model the complex system and support the decision-making process. Modeling sustainability management with SD driven from DC has not been previously investigated, particularly in global south industrial firms. This study explored the complex and dynamic relationships of the variables involved. For a simulation experiment, the study utilized a case from a large apparel industrial park in Africa, located in Ethiopia. The simulation revealed that the capability growth trend for sustainability management follows a natural sigmoid function or S curve shape supporting the dynamic hypothesis. In particular, sustainability training efforts, waste management practice, ethical management, supervision, and minimum worker&rsquo;s wage have been found to be influential variables and innovation points for capability growth towards sustainability management. The SD model contributes to the empirical gaps on dynamic models to overcome the challenges of firms in simultaneously managing sustainability dimensions. The study is the first to explore DC-driven sustainability management using SD, particularly from the case of a global south country.

@@ -1,0 +1,9 @@
+Title: A Sustainable Online-to-Offline (O2O) Retailing Strategy for a Supply Chain Management under Controllable Lead Time and Variable Demand
+Authors: Biswajit Sarkar, Bikash Koli Dey, Mitali Sarkar, Ali AlArjani
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041756
+Paper ID: https://openalex.org/W3127664630
+
+Abstract:
+Every industry always tries to provide the best service to its consumers. To provide better service to the consumer and optimize profit, a sustainable online-to-offline retailing strategy is proposed in this current study. Both online and offline systems are considered here, i.e., to provide the best service, the industry sells its products online and offline. Due to the consideration of online and offline systems, the selling price of the products is also different for different modes, and the demand for a particular product is the combined demand of online demand and offline demand, which depend on the selling price of the product. Moreover, the exact lead time and exact backorder are calculated to obtain the system’s exact cost or profit, which directly improves the system’s service. Different investments are incorporated to optimize the total system profit. A distribution-free approach is utilized to solve this model. Numerical examples are provided to prove the applicability of the model in reality. Sensitivity analysis is performed based on critical parameters. Special cases and graphical representations also prove the global optimality of the current study.

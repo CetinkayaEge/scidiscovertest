@@ -1,0 +1,9 @@
+Title: Transient Starch‐Based Nanocomposites for Sustainable Electronics and Multifunctional Sensing
+Authors: Ming Dong, Aaron Soul, Yansong Li, Emiliano Bilotti, Han Zhang, Pietro Cataldi, Dimitrios G. Papageorgiou
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202412138
+Paper ID: https://openalex.org/W4403035554
+
+Abstract:
+Abstract Developing materials for electronics and sensing based on abundant and degradable materials is fundamental for transitioning both fields toward a more sustainable future. In the long run, this approach can unleash these fields from using petroleum‐derived and/or scarce resources, possibly facilitating electronic waste (e‐waste) management at the same time. Starch, one of the most abundant and versatile natural polymers, has shown great potential in the fabrication of degradable/transient devices. In this work, electrically conductive and mechanically robust starch‐Ti 3 C 2 T x MXene nanocomposites are successfully engineered, offering a promising advancement in sustainable electronics. The nanocomposite films exhibit remarkable tunability with varying MXene concentrations (from 0.69 to 2.42 vol%), allowing precise control over their properties. This tunability enables modifications in tensile strength (from 6.4 to 11.2 MPa), electrical conductivity (from 2.31 × 10 − 3 to 3.98 S m −1 ), and gauge factor. Such characteristics make these films ideal for various applications, including body movement monitoring, tactile sensing, handwriting recognition, and electronic smart skin. Unlike their petroleum‐based counterparts, the starch‐based films demonstrate significant biodegradability, breaking down within a month after being buried in soil. This rapid degradation highlights the potential of these transient composites for various electronics applications, offering an environmentally friendly alternative.

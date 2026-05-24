@@ -1,0 +1,9 @@
+Title: The Role of Consumer Autonomy in Developing Sustainable AI: A Conceptual Framework
+Authors: Lena Vatne Bjørlo, Øystein Moen, Mark Pasquine
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042332
+Paper ID: https://openalex.org/W3130132445
+
+Abstract:
+Artificial intelligence (AI)-based decision aids are increasingly employed by businesses to assist consumers’ decision-making. Personalized content based on consumers’ data brings benefits for both consumers and businesses, i.e., with regards to more relevant content. However, this practice simultaneously enables increased possibilities for exerting hidden interference and manipulation on consumers, reducing consumer autonomy. We argue that due to this, consumer autonomy represents a resource at the risk of depletion and requiring protection, due to its fundamental significance for a democratic society. By balancing advantages and disadvantages of increased influence by AI, this paper addresses an important research gap and explores the essential challenges related to the use of AI for consumers’ decision-making and autonomy, grounded in extant literature. We offer a constructive, rather than optimistic or pessimistic, outlook on AI. Hereunder, we present propositions suggesting how these problems may be alleviated, and how consumer autonomy may be protected. These propositions constitute the fundament for a framework regarding the development of sustainable AI, in the context of online decision-making. We argue that notions of transparency, complementarity, and privacy regulation are vital for increasing consumer autonomy and promoting sustainable AI. Lastly, the paper offers a definition of sustainable AI within the contextual boundaries of online decision-making. Altogether, we position this paper as a contribution to the discussion of development towards a more socially sustainable and ethical use of AI.

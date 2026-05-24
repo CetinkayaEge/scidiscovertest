@@ -1,0 +1,9 @@
+Title: Microspheres from light—a sustainable materials platform
+Authors: Laura Delafresnaye, Florian Feist, Jordan P. Hooker, Christopher Barner‐Kowollik
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-32429-3
+Paper ID: https://openalex.org/W4294031509
+
+Abstract:
+Driven by the demand for highly specialized polymeric materials via milder, safer, and sustainable processes, we herein introduce a powerful, purely light driven platform for microsphere synthesis - including facile synthesis by sunlight. Our light-induced step-growth precipitation polymerization produces monodisperse particles (0.4-2.4 μm) at ambient temperature without any initiator, surfactant, additive or heating, constituting an unconventional approach compared to the classically thermally driven synthesis of particles. The microspheres are formed via the Diels-Alder cycloaddition of a photoactive monomer (2-methylisophthaldialdehyde, MIA) and a suitable electron deficient dienophile (bismaleimide). The particles are stable in the dry state as well as in solution and their surface can be further functionalized to produce fluorescent particles or alter their hydrophilicity. The simplicity and versatility of our approach introduces a fresh opportunity for particle synthesis, opening access to a yet unknown material class.

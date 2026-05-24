@@ -1,0 +1,9 @@
+Title: Smart and Sustainable Aquaculture Farms
+Authors: Taher Kassem, Isam Shahrour, Jamal El Khattabi, Ahmad Raslan
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131910685
+Paper ID: https://openalex.org/W3201752895
+
+Abstract:
+This paper presents the design and construction of a smart and sustainable fish farm. The farm is based on the hybrid aquaculture concept that combines the advantages of the recirculation aquaculture system (RAS), the zero-water discharge (ZWD), and smart technology. The system’s smartness consists of using the latest technology, including monitoring and automation, ensuring zero water discharge, good water quality, reduced energy consumption, and high biosecurity. In addition, the system does not use chemicals in the aquaculture process. The paper describes the design of this system, including the hydraulic system, the smart monitoring system, the feeding regime, and the control of the biological parameters. Tests conducted in Tabuk, Saudi Arabia, showed high performance of this system with around 90% survival rate. In addition, observations showed the system’s capacity to maintain the water quality parameters within the optimal water quality ranges, reduce energy consumption, and sustain efficient shrimp waste recycling.

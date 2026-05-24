@@ -1,0 +1,9 @@
+Title: Sustainable Printed Chitosan-Based Humidity Sensor on Flexible Biocompatible Polymer Substrate
+Authors: Johanna Zikulnig, Sabine K. Lengger, Lukas Rauter, Lukas Neumaier, Sandro Carrara, Jürgen Kosel
+Year: 2022
+Venue: IEEE Sensors Letters
+DOI: https://doi.org/10.1109/lsens.2022.3224768
+Paper ID: https://openalex.org/W4313214137
+
+Abstract:
+Humidity is one of the most relevant physical parameters to sense and control for a wide range of commercial and industrial applications. Consequently, there is continuing demand for the development of innovative and sustainable humidity sensor solutions. Here, the development and characterization of fully additively manufactured, highly sensitive, resistive Chitosan-based humidity sensors on flexible thermoplastic polyurethane (TPU) foil, as well as on a glass carrier substrate are presented. The sensors unite aspects of sustainability and high performance in a broad humidity range (20–90%rH). The humidity response follows an exponential curve progression with relative changes in the resistance per %rH of 6.9% and 5.7% for the glass carrier sensor and the TPU sensor, respectively. In absolute values, this means that the Chitosan-based sensors are particularly sensitive in the low humidity range with a vast dynamic range (ten times larger compared to commonly used capacitive humidity sensors). The flexible sensor on the TPU substrate shows great stability even after repeated bending. In addition, the combination of flexible and biocompatible materials (TPU and Chitosan) with additive manufacturing technologies makes the sensor particularly sustainable while having great potential for a plethora of biomedical applications.

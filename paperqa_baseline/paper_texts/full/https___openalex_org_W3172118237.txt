@@ -1,0 +1,9 @@
+Title: A sustainable IoHT based computationally intelligent healthcare monitoring system for lung cancer risk detection
+Authors: Sushruta Mishra, Hiren Kumar Thakkar, Pradeep Kumar Mallick, Prayag Tiwari, Atif Alamri
+Year: 2021
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2021.103079
+Paper ID: https://openalex.org/W3172118237
+
+Abstract:
+A sustainable healthcare focuses on enhancing and restoring public health parameters thereby reducing gloomy impacts on social, economic and environmental elements of a sustainable city. Though it has uplifted public health, yet the rise of chronic diseases is a concern in sustainable cities. In this work, a sustainable lung cancer detection model is developed to integrate the Internet of Health Things (IoHT) and computational intelligence, causing the least harm to the environment. IoHT unit retains connectivity continuously generates data from patients. Heuristic Greedy Best First Search (GBFS) algorithm is used to select most relevant attributes of lung cancer data upon which random forest algorithm is applied to classify and differentiates lung cancer affected patients from normal ones based on detected symptoms. It is observed during the experiment that the GBFS-Random forest model shows a promising outcome. While an optimal accuracy of 98.8 % was generated, simultaneously, the least latency of 1.16 s was noted. Specificity and sensitivity recorded with the proposed model on lung cancer data are 97.5 % and 97.8 %, respectively. The mean accuracy, specificity, sensitivity, and f-score value recorded is 96.96 %, 96.26 %, 96.34 %, and 96.32 %, respectively, over various types of cancer datasets implemented. The developed smart and intelligent model is sustainable. It reduces unnecessary manual overheads, safe, preserves resources and human resources, and assists medical professionals in quick and reliable decision making on lung cancer diagnosis.

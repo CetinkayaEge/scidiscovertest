@@ -1,0 +1,9 @@
+Title: Statistical copolymer metal organic nanotubes †
+Authors: Jacob A. Barrett, Nathan D. Rosenmann, Karthikeyan Gnanasekaran, Xian B. Carroll, Nathan C. Gianneschi, David M. Jenkins
+Year: 2023
+Venue: Chemical Science
+DOI: 10.1039/d2sc06084a
+Paper ID: pmc_PMC9890963
+
+Abstract:
+Metal–organic nanotubes (MONTs) are 1-dimensional crystalline porous materials that are formed from ligands and metals in a manner identical to more typical 3-dimensional metal–organic frameworks (MOFs). MONTs form anisotropically in one dimension making them excellent candidates for linker engineering for control of chemical composition and spacing. A novel series of MONTs was synthesized utilizing a mixture of 1,2,4-ditriazole ligands containing both a fully protonated aryl moiety and its tetrafluorinated analog in ratios of, 0 : 1, 1 : 4, 1 : 1, 4 : 1, and 1 : 0, respectively. All MONTs were characterized by both bulk and nanoscale measurements, including SCXRD, PXRD, ssNMR and TEM, to determine the resulting co-polymer architecture (alternating, block, or statistical) and the ligand ratios in the solid materials. All characterization methods point towards statistical copolymerization of the materials in a manner analogous to 3D MOFs, all of which notably could be achieved without destructive analytical methods. The first multivariate ligand MONTs were prepared and characterized and showed statistical copolymerization.

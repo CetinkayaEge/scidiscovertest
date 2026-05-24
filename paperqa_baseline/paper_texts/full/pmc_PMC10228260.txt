@@ -1,0 +1,9 @@
+Title: Understanding Randomness on a Molecular Level: A Diagnostic Tool
+Authors: Samuel Tobler, Katja Köhler, Tanmay Sinha, Ernst Hafen, Manu Kapur
+Year: 2023
+Venue: CBE Life Sciences Education
+DOI: 10.1187/cbe.22-05-0097
+Paper ID: pmc_PMC10228260
+
+Abstract:
+Undergraduate biology students’ molecular-level understanding of stochastic (also referred to as random or noisy) processes found in biological systems is often limited to those examples discussed in class. Therefore, students frequently display little ability to accurately transfer their knowledge to other contexts. Furthermore, elaborate tools to assess students’ understanding of these stochastic processes are missing, despite the fundamental nature of this concept and the increasing evidence demonstrating its importance in biology. Thus, we developed the Molecular Randomness Concept Inventory (MRCI), an instrument composed of nine multiple-choice questions based on students’ most prevalent misconceptions, to quantify students’ understanding of stochastic processes in biological systems. The MRCI was administered to 67 first-year natural science students in Switzerland. The psychometric properties of the inventory were analyzed using classical test theory and Rasch modeling. Moreover, think-aloud interviews were conducted to ensure response validity. Results indicate that the MRCI yields valid and reliable estimations of students’ conceptual understanding of molecular randomness in the higher educational setting studied. Ultimately, the performance analysis sheds light on the extent and the limitations of students’ understanding of the concept of stochasticity on a molecular level.

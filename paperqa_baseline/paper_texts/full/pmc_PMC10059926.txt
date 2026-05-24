@@ -1,0 +1,9 @@
+Title: Astragalus Saponins, Astragaloside VII and Newly Synthesized Derivatives, Induce Dendritic Cell Maturation and T Cell Activation
+Authors: Nilgun Yakubogullari, Ali Cagir, Erdal Bedir, Duygu Sag
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030495
+Paper ID: pmc_PMC10059926
+
+Abstract:
+Astragaloside VII (AST VII), a triterpenic saponin isolated from Astragalus species, shows promise as a vaccine adjuvant, as it supported a balanced Th1/Th2 immune response in previous in vivo studies. However, the underlying mechanisms of its adjuvant activity have not been defined. Here, we investigated the impact of AST VII and its newly synthesized semi-synthetic analogs on human whole blood cells, as well as on mouse bone marrow-derived dendritic cells (BMDCs). Cells were stimulated with AST VII and its derivatives in the presence or absence of LPS or PMA/ionomycin and the secretion of cytokines and the expression of activation markers were analyzed using ELISA and flow cytometry, respectively. AST VII and its analogs increased the production of IL-1β in PMA/ionomycin-stimulated human whole blood cells. In LPS-treated mouse BMDCs, AST VII increased the production of IL-1β and IL-12, and the expression of MHC II, CD86, and CD80. In mixed leukocyte reaction, AST VII and derivatives increased the expression of the activation marker CD44 on mouse CD4 + and CD8 + T cells. In conclusion, AST VII and its derivatives strengthen pro-inflammatory responses and support dendritic cell maturation and T cell activation in vitro. Our results provide insights into the mechanisms of the adjuvant activities of AST VII and its analogs, which will be instrumental to improve their utility as a vaccine adjuvant.

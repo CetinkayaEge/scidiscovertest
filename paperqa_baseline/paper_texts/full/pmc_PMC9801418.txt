@@ -1,0 +1,9 @@
+Title: Atomic-Scale Mapping and Quantification of Local Ruddlesden–Popper Phase Variations
+Authors: Erin E. Fleck, Matthew R. Barone, Hari P. Nair, Nathaniel J. Schreiber, Natalie M. Dawley, Darrell G. Schlom, Berit H. Goodge, Lena F. Kourkoutis
+Year: 2022
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c03893
+Paper ID: pmc_PMC9801418
+
+Abstract:
+The Ruddlesden–Popper (A n +1 B n O 3 n +1 ) compounds are highly tunable materials whose functional properties can be dramatically impacted by their structural phase n . The negligible differences in formation energies for different n can produce local structural variations arising from small stoichiometric deviations. Here, we present a Python analysis platform to detect, measure, and quantify the presence of different n -phases based on atomic-resolution scanning transmission electron microscopy (STEM) images. We employ image phase analysis to identify horizontal Ruddlesden–Popper faults within the lattice images and quantify the local structure. Our semiautomated technique considers effects of finite projection thickness, limited fields of view, and lateral sampling rates. This method retains real-space distribution of layer variations allowing for spatial mapping of local n -phases to enable quantification of intergrowth occurrence and qualitative description of their distribution suitable for a wide range of layered materials.

@@ -1,0 +1,9 @@
+Title: Improved sustainability of solar panels by improving stability of amorphous silicon solar cells
+Authors: Gautam Ganguly
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-37386-5
+Paper ID: pmc_PMC10310737
+
+Abstract:
+As the world grapples with global warming, it becomes imperative to carefully examine the sustainable energy technology choices. Solar is the fastest growing clean energy source but today it contributes little to the electricity generated, so future installations will dwarf the existing installed base. There is a factor of 2–4 decrease in the energy payback time from the dominant crystalline silicon technology to thin film technologies. Essential criteria like use of abundant materials and simple but mature production technology point to amorphous silicon (a-Si) technology. Here we delve into the primary issue impeding adoption of a-Si technology—the Staebler Wronski Effect (SWE), that generates metastable, light induced defects which reduce the performance of a-Si based solar cells. We demonstrate that a simple change leads to a significant reduction in SWE power loss and define a clear path to elimination of SWE, allowing the technology to be widely adopted.

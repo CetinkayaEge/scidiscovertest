@@ -1,0 +1,9 @@
+Title: Dismantling of Printed Circuit Boards Enabling Electronic Components Sorting and Their Subsequent Treatment Open Improved Elemental Sustainability Opportunities
+Authors: Ange A. Maurice, Khang Ngoc Dinh, Nicolas M. Charpentier, A. Brambilla, Jean‐Christophe P. Gabriel
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131810357
+Paper ID: https://openalex.org/W3201053291
+
+Abstract:
+This critical review focuses on advanced recycling strategies to enable or increase recovery of chemical elements present in waste printed circuit boards (WPCBs). Conventional recycling involves manual removal of high value electronic components (ECs), followed by raw crushing of WPCBs, to recover main elements (by weight or value). All other elements remain unrecovered and end up highly diluted in post-processing wastes or ashes. To retrieve these elements, it is necessary to enrich the waste streams, which requires a change of paradigm in WPCB treatment: the disassembly of WPCBs combined with the sorting of ECs. This allows ECs to be separated by composition and to drastically increase chemical element concentration, thus making their recovery economically viable. In this report, we critically review state-of-the-art processes that dismantle and sort ECs, including some unpublished foresight from our laboratory work, which could be implemented in a recycling plant. We then identify research, business opportunities and associated advanced retrieval methods for those elements that can therefore be recovered, such as refractory metals (Ta, Nb, W, Mo), gallium, or lanthanides, or those, such as the platinum group elements, that can be recovered in a more environmentally friendly way than pyrometallurgy. The recovery methods can be directly tuned and adapted to the corresponding stream.

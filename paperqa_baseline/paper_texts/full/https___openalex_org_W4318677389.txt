@@ -1,0 +1,9 @@
+Title: Life cycle thinking and safe-and-sustainable-by-design approaches for the battery innovation landscape
+Authors: Lya G. Soeteman‐Hernández, Carlos Felipe Blanco, Maarten Koese, Adriënne J.A.M. Sips, C.W. Noorlander, Willie J.G.M. Peijnenburg
+Year: 2023
+Venue: iScience
+DOI: https://doi.org/10.1016/j.isci.2023.106060
+Paper ID: https://openalex.org/W4318677389
+
+Abstract:
+Developments in battery technology are essential for the energy transition and need to follow the framework for safe-and-sustainable-by-design (SSbD) materials, chemicals, products, and processes as set by the EU. SSbD is a broad approach that ensures that chemicals/advanced materials/products/services are produced and used in a way to avoid harm to humans and the environment. Technical and policy-related literature was surveyed for battery technologies and recommendations were provided for a broad SSbD approach that remains firmly grounded in Life Cycle Thinking principles. The approach integrates functional performance and sustainability (safety, social, environmental, and economic) aspects throughout the life cycle of materials, products, and processes, and evaluates how their interactions reflect on SSbD parameters. 22 different types of batteries were analyzed in a life cycle thinking approach for criticality, toxicity/safety, environmental and social impact, circularity, functionality, and cost to ensure battery innovation has a green and sustainable purpose to avoid unintended consequences.

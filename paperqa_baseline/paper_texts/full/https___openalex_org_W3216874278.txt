@@ -1,0 +1,9 @@
+Title: Guiding stars to the field of dreams: Metabolically engineered pathways and microbial platforms for a sustainable lignin-based industry
+Authors: Fabia Weiland, Michael Kohlstedt, Christoph Wittmann
+Year: 2021
+Venue: Metabolic Engineering
+DOI: https://doi.org/10.1016/j.ymben.2021.11.011
+Paper ID: https://openalex.org/W3216874278
+
+Abstract:
+Lignin is an important structural component of terrestrial plants and is readily generated during biomass fractionation in lignocellulose processing facilities. Due to lacking alternatives the majority of technical lignins is industrially simply burned into heat and energy. However, considering its vast abundance and a chemically interesting richness in aromatics, lignin is presently regarded both as the most under-utilized and promising feedstock for value-added applications. Notably, microbes have evolved powerful enzymes and pathways that break down lignin and metabolize its various aromatic components. This natural pathway atlas meanwhile serves as a guiding star for metabolic engineers to breed designed cell factories and efficiently upgrade this global waste stream. The metabolism of aromatic compounds, in combination with success stories from systems metabolic engineering, as reviewed here, promises a sustainable product portfolio from lignin, comprising bulk and specialty chemicals, biomaterials, and fuels.

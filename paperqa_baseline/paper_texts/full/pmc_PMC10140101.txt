@@ -1,0 +1,9 @@
+Title: Anticancer effect of zanubrutinib in HER2-positive breast cancer cell lines
+Authors: Hana Dostálová, Radek Jorda, Eva Řezníčková, Vladimír Kryštof
+Year: 2023
+Venue: Investigational New Drugs
+DOI: 10.1007/s10637-023-01346-7
+Paper ID: pmc_PMC10140101
+
+Abstract:
+Small molecule Bruton’s tyrosine kinase (BTK) inhibitors have been developed for the treatment of various haemato-oncological diseases, and ibrutinib was approved as the first BTK inhibitor for anticancer therapy in 2013. Previous reports proved the receptor kinase human epidermal growth factor receptor 2 (HER2) to be a valid off-target kinase of ibrutinib and potentially other irreversible BTK inhibitors, as it possesses a druggable cysteine residue in the active site of the enzyme. These findings suggest ibrutinib as a candidate drug for repositioning in HER2-positive breast cancer (BCa). This subtype of breast cancer belongs to one of the most common classes of breast tumours, and its prognosis is characterized by a high rate of recurrence and tumour invasiveness. Based on their similar kinase selectivity profiles, we investigated the anticancer effect of zanubrutinib, evobrutinib, tirabrutinib and acalabrutinib in different BCa cell lines and sought to determine whether it is linked with targeting the epidermal growth factor receptor family (ERBB) pathway. We found that zanubrutinib is a potential inhibitor of the HER2 signalling pathway, displaying an antiproliferative effect in HER2-positive BCa cell lines. Zanubrutinib effectively inhibits the phosphorylation of proteins in the ERBB signalling cascade, including the downstream kinases Akt and ERK, which mediate key signals ensuring the survival and proliferation of cancer cells. We thus propose zanubrutinib as another suitable candidate for repurposing in HER2-amplified solid tumours. Supplementary Information The online version contains supplementary material available at 10.1007/s10637-023-01346-7.

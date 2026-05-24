@@ -1,0 +1,9 @@
+Title: Asymmetric impacts of geopolitical risk on stock markets: A comparative analysis of the E7 and G7 equities during the Russian-Ukrainian conflict
+Authors: Ahmed Bossman, Mariya Gubareva
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13626
+Paper ID: pmc_PMC9975241
+
+Abstract:
+In a nonparametric quantile-on-quantile regression model, we analyze the asymmetric financial impact of the Russian-Ukrainian conflict-induced geopolitical risk (GPR) on the top-seven emerging (E7) and developed (G7) stock markets. Our findings indicate that the impact of GPR on stock markets is not only market-specific but also asymmetric. Except for Russia and China, all E7 and G7 stocks respond positively to GPR in normal conditions. Among the E7 (G7) countries, stock markets from Brazil, China, Russia, and Turkey (France, Japan, and the US) are resilient to GPR in bearish stages. The portfolio and policy implications of our findings have been highlighted. Highlights • The Russia-Ukraine geopolitical risk (GPR) effects on major stock markets are analyzed. • The quantile-on-quantile regression is employed to study the E7 and G7 stocks' behavior. • The GPR impacts stock markets in a market-specific and also asymmetric manner. • For E7, Brazilian, Chinese, Russian, and Turkish stocks are hedges in bearish stages. • The G7 stocks resilient to GPR in bear market conditions are France, Japan, and the US.

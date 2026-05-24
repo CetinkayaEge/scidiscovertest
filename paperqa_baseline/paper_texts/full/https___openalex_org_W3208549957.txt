@@ -1,0 +1,9 @@
+Title: Synchronization between peripheral circadian clock and feeding-fasting cycles in microfluidic device sustains oscillatory pattern of transcriptome
+Authors: Onelia Gagliano, Camilla Luni, Yan Li, Silvia Angiolillo, Wei Qin, Francesco Panariello, Davide Cacchiarelli, Joseph S. Takahashi, Nicola Elvassore
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-26294-9
+Paper ID: https://openalex.org/W3208549957
+
+Abstract:
+The circadian system cyclically regulates many physiological and behavioral processes within the day. Desynchronization between physiological and behavioral rhythms increases the risk of developing some, including metabolic, disorders. Here we investigate how the oscillatory nature of metabolic signals, resembling feeding-fasting cycles, sustains the cell-autonomous clock in peripheral tissues. By controlling the timing, period and frequency of glucose and insulin signals via microfluidics, we find a strong effect on Per2::Luc fibroblasts entrainment. We show that the circadian Per2 expression is better sustained via a 24 h period and 12 h:12 h frequency-encoded metabolic stimulation applied for 3 daily cycles, aligned to the cell-autonomous clock, entraining the expression of hundreds of genes mostly belonging to circadian rhythms and cell cycle pathways. On the contrary misaligned feeding-fasting cycles synchronize and amplify the expression of extracellular matrix-associated genes, aligned during the light phase. This study underlines the role of the synchronicity between life-style-associated metabolic signals and peripheral clocks on the circadian entrainment.

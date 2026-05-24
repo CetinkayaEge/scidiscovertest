@@ -1,0 +1,9 @@
+Title: A Scoping Review of Renewable Energy, Sustainability and the Environment
+Authors: Світлана Колосок, Yuriy Bilan, Tetiana Vasylieva, Adam Wojciechowski, Michał Morawski
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14154490
+Paper ID: https://openalex.org/W3183306897
+
+Abstract:
+The article aims to identify the latest trends in research on renewable energy, sustainability and the environment. A total of 92,873 publications from 123 Scopus sources for 2020–2021 are compared using the scoping review method. The results show that the most cited works in this sample are those by authors from the Asian region. The research of these authors focuses on the security, efficiency and reliability of separate elements in energy systems. Besides, the paper considers the problems regarding COVID disease along with the renewable energy sources, perovskite and organic solar panels, nanostructured materials and high energy density. Finally, the paper analyses applications of computer science methods in research on renewable energy, sustainability and the environment. The findings evidently show that recent advancements in computer science methods were not extensively used in the discussed research domain and give a great room for novel strategies of prognosing, simulation and processes optimisation.

@@ -1,0 +1,9 @@
+Title: Lean Manufacturing Tools Applied to Material Flow and Their Impact on Economic Sustainability
+Authors: Jorge Luis García-Alcaráz, José Roberto Díaz Reza, Cuauhtémoc Sánchez-Ramírez, Jorge Limón-Romero, Emilio Jiménez Macías, Carlos Javierre, Manuel Arnoldo Rodríguez Medina
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131910599
+Paper ID: https://openalex.org/W3203139919
+
+Abstract:
+This paper presents a second-order structural equation model that analyzes three lean manufacturing tools associated with material flow, such as 5S, SMED, and continuous flow related to economic sustainability. The variables relate to each other through six hypotheses, tested with 169 responses to a questionnaire applied to the Mexican maquiladora industry, using the partial least squares technique and 95% confidence to estimate direct, the sum of indirect, and total effects. In addition, an analysis with conditional probabilities appears to determine how low and high implementation levels in independent variables affect the dependent variables’ occurrence. Findings indicate that 5S is a lean manufacturing tool with the most increased direct effects on SMED and continuous flow. Additionally, values indicate that SMED is essential to maintain continuous flow in production lines and is vital for economic sustainability due to the time reduction in setup.

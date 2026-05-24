@@ -1,0 +1,9 @@
+Title: Survey of Sustainable Energy Sources for Microgrid Energy Management: A Review
+Authors: Mohammed Amine Hoummadi, Manale Bouderbala, Hala Alami Aroussi, Badre Bossoufi, Najib El Ouanjli, Mohammed Karim
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16073077
+Paper ID: https://openalex.org/W4361295709
+
+Abstract:
+Renewable energy sources are nowadays a viable choice to satisfy the rising energy consumption and promote the advancement of sustainable development. These systems are integrated into microgrids using a variety of technological solutions to ensure customer communication and distributed generation facilities in an optimal way. Energy management in microgrids refers to the information and control system that provides the necessary functionality to guarantee that the generating and distribution systems produce energy at the lowest expenses. This study analyzes the various optimization objectives, constraints, problem-solving techniques, and simulation tools used for connected and freestanding microgrids. It reviews the literature on energy control in microgrids powered by sustainable energy. Energy storage technology is also viewed as an intriguing alternative to managing the intermittent nature of renewable energy because of its advanced techniques, increased energy efficiency, and capacity to perform tasks such as frequency response. The final phase suggests future suggestions, particularly for the model-based prediction of energy storage systems.

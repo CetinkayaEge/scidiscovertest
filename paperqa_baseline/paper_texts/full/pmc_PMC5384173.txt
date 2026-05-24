@@ -1,0 +1,9 @@
+Title: Antioxidant Compound Extraction from Maqui ( Aristotelia chilensis [Mol] Stuntz) Berries: Optimization by Response Surface Methodology
+Authors: Issis Quispe-Fuentes, Antonio Vega-Gálvez, Víctor H. Campos-Requena
+Year: 2017
+Venue: Antioxidants
+DOI: 10.3390/antiox6010010
+Paper ID: pmc_PMC5384173
+
+Abstract:
+The optimum conditions for the antioxidant extraction from maqui berry were determined using a response surface methodology. A three level D-optimal design was used to investigate the effects of three independent variables namely, solvent type (methanol, acetone and ethanol), solvent concentration and extraction time over total antioxidant capacity by using the oxygen radical absorbance capacity (ORAC) method. The D-optimal design considered 42 experiments including 10 central point replicates. A second-order polynomial model showed that more than 89% of the variation is explained with a satisfactory prediction (78%). ORAC values are higher when acetone was used as a solvent at lower concentrations, and the extraction time range studied showed no significant influence on ORAC values. The optimal conditions for antioxidant extraction obtained were 29% of acetone for 159 min under agitation. From the results obtained it can be concluded that the given predictive model describes an antioxidant extraction process from maqui berry.

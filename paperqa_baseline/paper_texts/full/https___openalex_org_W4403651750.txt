@@ -1,0 +1,9 @@
+Title: Artificial Intelligence in Logistics Optimization with Sustainable Criteria: A Review
+Authors: Wenwen Chen, Yangchongyi Men, Noelia Fuster, Celia Osorio, Ángel A. Juan
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16219145
+Paper ID: https://openalex.org/W4403651750
+
+Abstract:
+In recent years, the integration of artificial intelligence (AI) into logistics optimization has gained significant attention, particularly concerning sustainability criteria. This article provides an overview of the diverse AI models and algorithms employed in logistics optimization, with a focus on sustainable practices. The discussion covers several techniques, including generative models, machine learning methods, metaheuristic algorithms, and their synergistic combinations with traditional optimization and simulation methods. By employing AI capabilities, logistics stakeholders can enhance decision-making processes, optimize resource utilization, and minimize environmental impacts. Moreover, this paper identifies and analyzes prominent challenges within sustainable logistics, such as reducing carbon emissions, minimizing waste generation, and optimizing transportation routes while considering ecological factors. Furthermore, the paper explores emerging trends in AI-driven logistics optimization, such as the integration of real-time data analytics, blockchain technology, and autonomous systems, which hold immense potential for enhancing efficiency and sustainability. Finally, the paper outlines future research directions, emphasizing the need for further exploration of hybrid AI approaches, robust optimization frameworks, and scalable solutions that accommodate dynamic and uncertain logistics environments.

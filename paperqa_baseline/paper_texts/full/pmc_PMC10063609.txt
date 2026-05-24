@@ -1,0 +1,9 @@
+Title: Discovery of novel cardiac troponin activators using fluorescence polarization-based high throughput screening assays
+Authors: Priyanka Parijat, Saraswathi Ponnam, Seetharamaiah Attili, Kenneth S. Campbell, Mohammed El-Mezgueldi, Mark Pfuhl, Thomas Kampourakis
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-32476-w
+Paper ID: pmc_PMC10063609
+
+Abstract:
+The large unmet demand for new heart failure therapeutics is widely acknowledged. Over the last decades the contractile myofilaments themselves have emerged as an attractive target for the development of new therapeutics for both systolic and diastolic heart failure. However, the clinical use of myofilament-directed drugs has been limited, and further progress has been hampered by incomplete understanding of myofilament function on the molecular level and screening technologies for small molecules that accurately reproduce this function in vitro. In this study we have designed, validated and characterized new high throughput screening platforms for small molecule effectors targeting the interactions between the troponin C and troponin I subunits of the cardiac troponin complex. Fluorescence polarization-based assays were used to screen commercially available compound libraries, and hits were validated using secondary screens and orthogonal assays. Hit compound-troponin interactions were characterized using isothermal titration calorimetry and NMR spectroscopy. We identified NS5806 as novel calcium sensitizer that stabilizes active troponin. In good agreement, NS5806 greatly increased the calcium sensitivity and maximal isometric force of demembranated human donor myocardium. Our results suggest that sarcomeric protein-directed screening platforms are suitable for the development of compounds that modulate cardiac myofilament function.

@@ -1,0 +1,9 @@
+Title: Back to the future: asymmetrical DπA 2,2′-bipyridine ligands for homoleptic copper( i )-based dyes in dye-sensitised solar cells †
+Authors: Guglielmo Risi, Mike Devereux, Alessandro Prescimone, Catherine E. Housecroft, Edwin C. Constable
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d3ra00437f
+Paper ID: pmc_PMC9890583
+
+Abstract:
+Metal complexes used as sensitisers in dye-sensitised solar cells (DSCs) are conventionally constructed using a push–pull strategy with electron-releasing and electron-withdrawing (anchoring) ligands. In a new paradigm we have designed new DπA ligands incorporating diarylaminophenyl donor substituents and phosphonic acid anchoring groups. These new ligands function as organic dyes. For two separate classes of DπA ligands with 2,2′-bipyridine metal-binding domains, the DSCs containing the copper( i ) complexes [Cu(DπA) 2 ] + perform better than the push–pull analogues [Cu(DD)(AA)] + . Furthermore, we have shown for the first time that the complexes [Cu(DπA) 2 ] + perform better than the organic DπA dye in DSCs. The synthetic studies and the device performances are rationalised with the aid of density functional theory (DFT) and time-dependent DFT (TD-DFT) studies. Two homoleptic copper( i ) complexes with [Cu(DπA) 2 ] + design have been studied as sensitisers in DSCs and are superior to the DπA ligands and related heteroleptic complexes as dyes.

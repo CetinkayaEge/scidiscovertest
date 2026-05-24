@@ -1,0 +1,9 @@
+Title: Review of Alternative Sustainable Fuels for Hybrid Rocket Propulsion
+Authors: Francesco Barato
+Year: 2023
+Venue: Aerospace
+DOI: https://doi.org/10.3390/aerospace10070643
+Paper ID: https://openalex.org/W4384694628
+
+Abstract:
+Hybrid rockets using specific oxidizer–fuel combinations are considered a green alternative to current propulsion systems, as they do not release very toxic or polluting exhausts, but only much less harmful substances such as carbon monoxide/dioxide and soot. However, in a long-term vision where space access and rocket transportation become a daily routine all around the world, the simple use of current green propellants could begin to become insufficient if the rest of the industry already follows much stricter rules, which are expected to tighten significantly in the future, thereby making emissions from rocket flights no more negligible. In this paper, the possible use of alternative sustainable solid fuels for hybrid rockets that are not derived from fossil fuels and are ideally carbon neutral is investigated and discussed based on the available data in the hybrid literature and on the literature related to renewable fuels in general. Even if this topic is apparently far away from the current necessities, as hybrid propulsion is not yet operational, it is paramount to consider a long-term vision and associated research efforts to make sure that the potential hybrid propulsion introduction to the commercial market is more than a simple flash in the pan, but offers a solid opportunity.

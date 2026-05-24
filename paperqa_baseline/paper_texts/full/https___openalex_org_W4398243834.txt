@@ -1,0 +1,9 @@
+Title: Biomolecular condensates sustain pH gradients at equilibrium through charge neutralisation
+Authors: Hannes Ausserwӧger, Rob Scrutton, Charlotte M. Fischer, Tomas Šneideris, Daoyuan Qian, Ella de Csilléry, Ieva Baronaite, Kadi L. Saar, Alan Z. Białek, Marc Oeller, Georg Krainer, Titus M. Franzmann, Sina Wittmann, Juan M. Iglesias‐Artola, Gaetano Invernizzi, Anthony A. Hyman, Simon Alberti, Nikolai Lorenzen, Tuomas P. J. Knowles
+Year: 2024
+Venue: bioRxiv (Cold Spring Harbor Laboratory)
+DOI: https://doi.org/10.1101/2024.05.23.595321
+Paper ID: https://openalex.org/W4398243834
+
+Abstract:
+Abstract Electrochemical gradients are essential to the functioning of cells and form across membranes using active transporters. Here, we show in contrast that condensed biomolecular systems sustain significant pH gradients without any external energy input. By studying individual condensates on the micron scale using a microdroplet platform, we reveal dense phase pH shifts towards conditions of minimal electrostatic repulsion. We demonstrate that by doing so protein condensates can drive substantial alkaline and acidic gradients which are compositionally tuneable and can extend to complex architectures sustaining multiple unique pH conditions simultaneously. Through in silico characterisation of human proteomic condensate networks, we further highlight potential wide ranging electrochemical properties emerging from condensation in nature, while correlating intracellular condensate pH gradients with complex biomolecular composition. Together, the emergent nature of condensation shapes distinct pH microenvironments, thereby creating a unique regulatory mechanism to modulate biochemical activity in living systems.

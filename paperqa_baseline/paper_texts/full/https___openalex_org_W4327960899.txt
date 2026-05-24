@@ -1,0 +1,9 @@
+Title: Sustainable Marketing and the Role of Social Media: An Experimental Study Using Natural Language Processing (NLP)
+Authors: Ganesh Dash, Chetan Sharma, Shamneesh Sharma
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15065443
+Paper ID: https://openalex.org/W4327960899
+
+Abstract:
+Marketing has changed fundamentally in the new millennium. At the same time, sustainable marketing strategies have evolved to meet the challenges of environmental issues. In this study, we examined the trends in sustainable marketing strategies and the role of social media in these. Based on specific keywords per the objective, this study collected 33 published articles from the Scopus database from 1991 to 2022 (2012–2022). The KNIME (Konstanz Information Miner) and VOSviewer tools were deployed to provide detailed classification and prediction of the various trends in sustainable marketing, with a particular focus on the role of social media. The study method applied text mining and latent semantic analysis to predict the latest trends. The top three trends were Green Marketing and Consumer Behavior, Sustainable Social Media Marketing, and Influencer Social Media Marketing Practices. This NLP-based review and the clustering of research directions provide immense value to marketers and policymakers.

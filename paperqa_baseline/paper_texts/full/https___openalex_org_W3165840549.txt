@@ -1,0 +1,9 @@
+Title: Off-Grid Hybrid Electrical Generation Systems in Remote Communities: Trends and Characteristics in Sustainability Solutions
+Authors: William López-Castrillón, Héctor H. Sepúlveda, Cristián Mattar
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13115856
+Paper ID: https://openalex.org/W3165840549
+
+Abstract:
+The objective of this review is to present the characteristics and trends of hybrid renewable energy systems for remote off-grid communities. Traditionally, remote off-grid communities have used diesel oil-based systems to generate electricity. Increased technological options and lower costs have resulted in the adoption of hybrid renewable energy-based systems. The evaluated 168 studies from the period 2002–2019 considered energy developments in Asia, northern Europe, Africa and South America, with the great majority in the northern hemisphere (n = 152, 90.5%). Many of the studied systems were located in tropical (44.1%) and subtropical areas (31.0%). Our review shows that most of the studied approaches combined photovoltaic (PV) and wind energy and that diesel generators are the preferred backup system (61.3%), while batteries are the preferred method of energy storage (80.4%). Communities far from coasts have more options for renewable energy sources, such as biogas. Although half the studies were related to communities with access to marine-based renewable energy resources, their use was only referred to in fifteen studies. In terms of trends, the studies show a mature development of PV and wind-power technology for off-grid hybrid systems independent of the latitude, which is preferred as they are proven and accessible methods. The preferred storage method is batteries, and diesel is the preferred backup system given the low efficiency of PV and the intermittent character of wind power.

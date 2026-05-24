@@ -1,0 +1,9 @@
+Title: The Impact of Quality of Governance, Renewable Energy and Foreign Direct Investment on Sustainable Development in Cee Countries
+Authors: Mihaela Simionescu, Monica Răileanu Szeles, Beáta Gavurová, Urszula Mentel
+Year: 2021
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2021.765927
+Paper ID: https://openalex.org/W3207403810
+
+Abstract:
+Recent debates on the Environmental Kuznets Curve (EKC) in the context of the European Green Deal highlights that pollution could be controlled using channels other than economic development. The role of renewable energy consumption in reducing pollution should be correlated with quality of governance, which could support initiatives for a cleaner environment. This study considers the renewable Kuznets curve for 10 Central and Eastern European countries in the period 2006–2019, using economic indicators (index of economic freedom, foreign direct investment, domestic credit to private sector and labour productivity) as control variables and indicators reflecting the quality of governance (Worldwide Governance Indicators and Google Trend indexes associated to key-word corruption in each language). The research is based on two types of panel data models: panel dynamic OLS model (PDOLS) and panel autoregressive distributed lag models based on pooled mean group (PMG) estimator. The results indicate that government effectiveness reduces pollution in both the short-run and long-run, while control of corruption and rule of law supports environmental protection in the long-run. Google searches for corruption as a proxy for quality of governance indicate that tGHG emissions have immediate and practical implications in nowcasting pollution.

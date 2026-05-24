@@ -1,0 +1,9 @@
+Title: Artificial Intelligence for Sustainable Agriculture: A Comprehensive Review of AI-Driven Technologies in Crop Production
+Authors: Zulfiqar Ali, Asif Muhammad, Neil Lee, Muhammad Waqar, Seung Won Lee
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17052281
+Paper ID: https://openalex.org/W4408218335
+
+Abstract:
+Smart farming leverages Artificial Intelligence (AI) to address modern agricultural sustainability challenges. This study investigates the application of machine learning (ML), deep learning (DL), and time series analysis in agriculture through a systematic literature review following the PRISMA methodology. The review highlights the critical roles of ML and DL techniques in optimizing agricultural processes, such as crop selection, yield prediction, soil compatibility classification, and water management. ML algorithms facilitate tasks like crop selection and soil fertility classification, while DL techniques contribute to forecasting crop production and commodity prices. Additionally, time series analysis is employed for demand forecasting of crops, commodity price prediction, and forecasting crop yield production. The focus of this article is to provide a comprehensive overview of ML and DL techniques within the farming industry. Utilizing crop datasets, ML algorithms are instrumental in classifying soil fertility, crop selection, and various other aspects. DL algorithms, when applied to farming data, enable effective time series analysis and crop selection. By synthesizing the integration of these technologies, this review underscores their potential to enhance decision-making in agriculture and mitigate food scarcity challenges in the future.

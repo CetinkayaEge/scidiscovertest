@@ -1,0 +1,9 @@
+Title: Corrosion Behavior and Strength of Dissimilar Bonding Material between Ti and Mg Alloys Fabricated by Spark Plasma Sintering
+Authors: Patchara Pripanapong, Shota Kariya, Tachai Luangvaranunt, Junko Umeda, Seiichiro Tsutsumi, Makoto Takahashi, Katsuyoshi Kondoh
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080665
+Paper ID: pmc_PMC5509276
+
+Abstract:
+Ti and solution treated Mg alloys such as AZ31B (ST), AZ61 (ST), AZ80 (ST) and AZ91 (ST) were successfully bonded at 475 °C by spark plasma sintering, which is a promising new method in welding field. The formation of Ti 3 Al intermetallic compound was found to be an important factor in controlling the bonding strength and galvanic corrosion resistance of dissimilar materials. The maximum bonding strength and bonding efficiency at 193 MPa and 96% were obtained from Ti/AZ91 (ST), in which a thick and uniform nano-level Ti 3 Al layer was observed. This sample also shows the highest galvanic corrosion resistance with a measured galvanic width and depth of 281 and 19 µm, respectively. The corrosion resistance of the matrix on Mg alloy side was controlled by its Al content. AZ91 (ST) exhibited the highest corrosion resistance considered from its corrode surface after corrosion test in Kroll’s etchant. The effect of Al content in Mg alloy on bonding strength and corrosion behavior of Ti/Mg alloy (ST) dissimilar materials is discussed in this work.

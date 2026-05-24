@@ -1,0 +1,9 @@
+Title: AI-Based Computational Model in Sustainable Transformation of Energy Markets
+Authors: Izabela Rojek, Adam Mroziński, Piotr Kotlarz, Marek Macko, Dariusz Mikołajewski
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16248059
+Paper ID: https://openalex.org/W4389781399
+
+Abstract:
+The ability of artificial intelligence (AI) to process large amounts of data, analyze complex patterns, and make predictions is driving innovation in the energy sector and transformation of energy markets. It helps optimize operations, improve efficiency, reduce costs, and accelerate the transition to cleaner and more sustainable energy sources. AI is playing an increasingly important role in transforming energy markets in various aspects of the industry in different ways, including smart grids and energy management, renewable energy integration, energy forecasting and trading, demand response and load management, energy efficiency and conservation, maintenance and asset management, energy storage optimization, carbon emission reduction, market analytics and risk management, exploration and production, regulatory compliance, and safety. The aim of this article is to discuss our own AI-based computational model in sustainable transformation of energy markets and to lay the foundations for further harmonious development based on a computational (AI/ML-based) models, with particular reference to current limitations and priority directions for further research. Such an approach may encourage new research for the practical application of AI algorithms in critical domains of the energy sector.

@@ -1,0 +1,9 @@
+Title: Developing and Regenerating Cofactors for Sustainable Enzymatic CO2 Conversion
+Authors: Zhibo Zhang, Xiangping Zhang, Xiaoyan Ji
+Year: 2022
+Venue: Processes
+DOI: https://doi.org/10.3390/pr10020230
+Paper ID: https://openalex.org/W4210452297
+
+Abstract:
+Enzymatic CO2 conversion offers a promising strategy for alleviating global warming and promoting renewable energy exploitation, while the high cost of cofactors is a bottleneck for large-scale applications. To address the challenge, cofactor regeneration is usually coupled with the enzymatic reaction. Meanwhile, artificial cofactors have been developed to further improve conversion efficiency and decrease cost. In this review, the methods, such as enzymatic, chemical, electrochemical, and photochemical catalysis, developed for cofactor regeneration, together with those developed artificial cofactors, were summarized and compared to offer a solution for large-scale enzymatic CO2 conversion in a sustainable way.

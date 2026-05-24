@@ -1,0 +1,9 @@
+Title: A Novel Functionalized MoS 2 -Based Coating for Efficient Solar Desalination
+Authors: Qinghong Yu, Qingmiao Wang, Tao Feng, Li Wang, Zhixuan Fan
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083105
+Paper ID: pmc_PMC10141543
+
+Abstract:
+Molybdenum disulfide (MoS 2 ) has emerged as a promising photothermal material for solar desalination. However, its limitation in integrating with organic substances constrains its application because of the lack of functional groups on its surface. Here, this work presents a functionalization approach to introduce three different functional groups (-COOH -OH -NH 2 ) on the surface of MoS 2 by combining them with S vacancies. Subsequently, the functionalized MoS 2 was coated on the polyvinyl alcohol-modified polyurethane sponge to fabricate a MoS 2 -based double-layer evaporator through an organic bonding reaction. Photothermal desalination experiments show that the functionalized material has higher photothermal efficiency. The evaporation rate of the hydroxyl functionalized the MoS 2 evaporator evaporation rate is 1.35 kg m −2 h −1 , and the evaporation efficiency is 83% at one sun. This work provides a new strategy for efficient, green, and large-scale utilization of solar energy by MoS 2 -based evaporators.

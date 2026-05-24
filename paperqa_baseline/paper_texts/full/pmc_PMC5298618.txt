@@ -1,0 +1,9 @@
+Title: DEP-On-Go for Simultaneous Sensing of Multiple Heavy Metals Pollutants in Environmental Samples
+Authors: Madhu Biyani, Radhika Biyani, Tomoko Tsuchihashi, Yuzuru Takamura, Hiromi Ushijima, Eiichi Tamiya, Manish Biyani
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010045
+Paper ID: pmc_PMC5298618
+
+Abstract:
+We describe a simple and affordable “Disposable electrode printed (DEP)-On-Go” sensing platform for the rapid on-site monitoring of trace heavy metal pollutants in environmental samples for early warning by developing a mobile electrochemical device composed of palm-sized potentiostat and disposable unmodified screen-printed electrode chips. We present the analytical performance of our device for the sensitive detection of major heavy metal ions, namely, mercury, cadmium, lead, arsenic, zinc, and copper with detection limits of 1.5, 2.6, 4.0, 5.0, 14.4, and, 15.5 μg·L −1 , respectively. Importantly, the utility of this device is extended to detect multiple heavy metals simultaneously with well-defined voltammograms and similar sensitivity. Finally, “DEP-On-Go” was successfully applied to detect heavy metals in real environmental samples from groundwater, tap water, house dust, soil, and industry-processed rice and noodle foods. We evaluated the efficiency of this system with a linear correlation through inductively coupled plasma mass spectrometry, and the results suggested that this system can be reliable for on-site screening purposes. On-field applications using real samples of groundwater for drinking in the northern parts of India support the easy-to-detect, low-cost (<1 USD), rapid (within 5 min), and reliable detection limit (ppb levels) performance of our device for the on-site detection and monitoring of multiple heavy metals in resource-limited settings.

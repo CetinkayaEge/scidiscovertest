@@ -1,0 +1,9 @@
+Title: Assessment of the Biological Impact of SARS-CoV-2 Genetic Variation Using an Authentic Virus Neutralisation Assay with Convalescent Plasma, Vaccinee Sera, and Standard Reagents
+Authors: Naomi S. Coombes, Kevin R. Bewley, Yann Le Duff, Matthew Hurley, Lauren J. Smith, Thomas M. Weldon, Karen Osman, Steven Pullan, Neil Berry, Bassam Hallis, Sue Charlton, Yper Hall, Simon G. P. Funnell
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030633
+Paper ID: pmc_PMC10056478
+
+Abstract:
+In the summer of 2020, it became clear that the genetic composition of SARS-CoV-2 was changing rapidly. This was highlighted by the rapid emergence of the D614G mutation at that time. In the autumn of 2020, the project entitled “Agility” was initiated with funding from the Coalition for Epidemic Preparedness Innovations (CEPI) to assess new variants of SARS-CoV-2. The project was designed to reach out and intercept swabs containing live variant viruses in order to generate highly characterised master and working stocks, and to assess the biological consequences of the rapid genetic changes using both in vitro and in vivo approaches. Since November 2020, a total of 21 variants have been acquired and tested against either a panel of convalescent sera from early in the pandemic, and/or a panel of plasma from triple-vaccinated participants. A pattern of continuous evolution of SARS-CoV-2 has been revealed. Sequential characterisation of the most globally significant variants available to us, generated in real-time, indicated that the most recent Omicron variants appear to have evolved in a manner that avoids immunological recognition by convalescent plasma from the era of the ancestral virus when analysed in an authentic virus neutralisation assay.

@@ -1,0 +1,9 @@
+Title: Alternative Bio-Based Solvents for Extraction of Fat and Oils: Solubility Prediction, Global Yield, Extraction Kinetics, Chemical Composition and Cost of Manufacturing
+Authors: Anne-Gaëlle Sicaire, Maryline Vian, Frédéric Fine, Florent Joffre, Patrick Carré, Sylvain Tostain, Farid Chemat
+Year: 2015
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms16048430
+Paper ID: pmc_PMC4425090
+
+Abstract:
+The present study was designed to evaluate the performance of alternative bio-based solvents, more especially 2-methyltetrahydrofuran, obtained from crop’s byproducts for the substitution of petroleum solvents such as hexane in the extraction of fat and oils for food (edible oil) and non-food (bio fuel) applications. First a solvent selection as well as an evaluation of the performance was made with Hansen Solubility Parameters and the COnductor-like Screening MOdel for Realistic Solvation (COSMO-RS) simulations. Experiments were performed on rapeseed oil extraction at laboratory and pilot plant scale for the determination of lipid yields, extraction kinetics, diffusion modeling, and complete lipid composition in term of fatty acids and micronutrients (sterols, tocopherols and tocotrienols). Finally, economic and energetic evaluations of the process were conducted to estimate the cost of manufacturing using 2-methyltetrahydrofuran (MeTHF) as alternative solvent compared to hexane as petroleum solvent.

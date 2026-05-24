@@ -1,0 +1,9 @@
+Title: Ranking the Performance of Universities: The Role of Sustainability
+Authors: Christoph Burmann, Fernando García, Francisco Guijarro, Javier Oliver
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132313286
+Paper ID: https://openalex.org/W3216890875
+
+Abstract:
+University rankings assess the performance of universities in various fields and aggregate that performance into a single value. In this way, the aggregate performance of universities can be easily compared. The importance of rankings is evident, as they often guide the policy of Higher Education Institutions. The most prestigious multi-criteria rankings use indicators related to teaching and research. However, many stakeholders are now demanding a greater commitment to sustainable development from universities, and it is therefore necessary to include sustainability criteria in university rankings. The development of multi-criteria rankings is subject to numerous criticisms, including the subjectivity of the decision makers when assigning weights to the criteria. In this paper we propose a methodology based on goal programming that allows objective, transparent and reproducible weighting of the criteria. Moreover, it avoids the problems associated with the existence of correlated criteria. The methodology is applied to a sample of 718 universities, using 11 criteria obtained from two prestigious university rankings covering sustainability, teaching and research. A sensitivity analysis is carried out to assess the robustness of the results obtained. This analysis shows how the weights of the criteria and the universities’ rank change depending on the λ parameter of the goal programming model, which is the only parameter set by the decision maker.

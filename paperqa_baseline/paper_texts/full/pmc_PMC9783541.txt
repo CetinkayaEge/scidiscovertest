@@ -1,0 +1,9 @@
+Title: Three-Dimensional Volumetric Analysis of Frontal Ethmoidal Cells and Evaluation of Influential Factors: A Helical Computed Tomography Study
+Authors: Ana Lúcia Franco Ricardo, Celso Massahiro Ogawa, João Pedro Perez Gomes, Catharina Simioni De Rosa, Sérgio Lúcio Pereira de Castro Lopes, Paulo Henrique Braz-Silva, Kaan Orhan, Andre Luiz Ferreira Costa
+Year: 2022
+Venue: Tomography
+DOI: 10.3390/tomography8060233
+Paper ID: pmc_PMC9783541
+
+Abstract:
+In the present study, we aimed to assess frontal ethmoidal cells by using segmentation 3D software to establish a possible correlation between volume variation and both gender and age, as well as a relationship with Keros classification. Helical computed tomography images were obtained from 71 patients for analysis, in which the agger nasi cell, supra agger cell, supra agger frontal cell, supra bulla frontal cell, supraorbital ethmoidal cell, supra bulla cell, and frontal septal cell were identified and segmented to obtain their volume. Significant differences in volume were found for age and gender regarding agger nasi cells ( p -value = 0.017), supra agger cells ( p -value < 0.001), and frontal septal cells ( p -value = 0.049). In the frontal septal cells, an increase of one year in age reduced the volume by 0.309, on average. According to Keros classification, the mean volumes were 10.07 and 25.64, respectively, for types II and III, both being greater than that of type I. Extracting volumetric data by using segmentation software in agger nasi cells, supra agger cells, and frontal septal cells may be useful for obtaining additional information related to age, in addition to possibly contributing to elucidating the anatomical variations in the region and an identification forensic tool.

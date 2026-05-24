@@ -1,0 +1,9 @@
+Title: Involvement of mTOR signaling in sphingosylphosphorylcholine-induced hypopigmentation effects
+Authors: Hyo-Soon Jeong, Seung Hoon Lee, Hye-Young Yun, Kwang Jin Baek, Nyoun Soo Kwon, Kyoung-Chan Park, Dong-Seok Kim
+Year: 2011
+Venue: Journal of Biomedical Science
+DOI: 10.1186/1423-0127-18-55
+Paper ID: pmc_PMC3166904
+
+Abstract:
+Background Sphingosylphosphorylcholine (SPC) acts as a potent lipid mediator and signaling molecule in various cell types. In the present study, we investigated the effects of SPC on melanogenesis and SPC-modulated signaling pathways related to melanin synthesis. Methods Melanin production was measured in Mel-Ab cells. A luciferase assay was used to detect transcriptional activity of the MITF promoter. Western blot analysis was performed to examine SPC-induced signaling pathways. Results SPC produced significant hypopigmentation effects in a dose-dependent manner. It was found that SPC induced not only activation of Akt but also stimulation of mTOR, a downstream mediator of the Akt signaling pathway. Moreover, SPC decreased the levels of LC3 II, which is known to be regulated by mTOR. Treatment with the mTOR inhibitor rapamycin eliminated decreases in melanin and LC3 II levels by SPC. Furthermore, we found that the Akt inhibitor LY294002 restored SPC-mediated downregulation of LC3 II and inhibited the activation of mTOR by SPC. Conclusions Our data suggest that the mTOR signaling pathway is involved in SPC-modulated melanin synthesis.

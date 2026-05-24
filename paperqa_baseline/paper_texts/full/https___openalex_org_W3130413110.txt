@@ -1,0 +1,9 @@
+Title: Support Vector Machine with K-fold Validation to Improve the Industry’s Sustainability Performance Classification
+Authors: Muhammad Asrol, Petir Papilo, Fergyanto E. Gunawan
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.01.074
+Paper ID: https://openalex.org/W3130413110
+
+Abstract:
+Sustainability performance plays an important role to improve the industry’s competitive advantage. Sustainability performance assessment and application faces high dimensionality, uncertainty, and imprecision data. In this case, a machine learning has an opportunity to be implemented. The objective of this research is to design a machine learning model to assess industry’s sustainability performance using Support Vector Machine (SVM). The SVM model was enriched by the model tuning and k-fold validation to enhance the model performance. Our previous research in bioenergy industry inspired us to develop an accurate model for sustainability performance classification and improved Multi-Dimensional Scaling (MDS) model which were commonly applied. The result showed that in the model training stage, SVM with polynomial model had the highest accuracy to classify sustainability performance. Ten folds validation with cost (4), gamma (0.25) and coef0 (16) as tuning parameter performed 98.32% of accuracy in data testing. This result had proof that SVM with polynomial kernel model was able to classify sustainability performance accurately. This model is potentially substituted previous common models in industry’s sustainability assessment which were not adaptive and less accurate.

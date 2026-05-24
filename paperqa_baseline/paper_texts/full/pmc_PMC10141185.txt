@@ -1,0 +1,9 @@
+Title: Learning Curve of Real-Time Imaging with C-Arm Based Tomography for Peripheral Lung Nodule Biopsy
+Authors: Grant Senyei, Matthew Nobari, Russell Miller, Brody Harrell, George Z. Cheng
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040936
+Paper ID: pmc_PMC10141185
+
+Abstract:
+The number of procedures required to attain proficiency with new bronchoscopic biopsy technologies for peripheral pulmonary lesions (PPLs) is uncertain. A prospective, single-center study evaluated learning curves of two operators performing PPL biopsies using a novel, real-time, intraoperative tomographic imaging system in consecutive procedures in adults with CT-detected PPLs. Operators were considered “proficient” when they asked three or fewer questions of the manufacturer’s clinical representative with no subsequent navigations in which they asked more than three questions. A total of 31 procedures were performed on 31 patients (Operator 1: 18, Operator 2: 13). Proficiency was achieved after an average of 10 procedures (Operator 1: 12, Operator 2: 8). From the learning curve to the post-learning curve period, the number of questions (median [IQR]: 23 [9.5–41.5] versus 0 [0–1], p < 0.001) and radiation dose (median [IQR]: 19.5 mGy/m 2 [1.9–43.5] versus 1.5 mGy/m 2 [0.7–3.3], p = 0.05) decreased significantly; procedure time decreased (median [IQR]: 12 min [7–20] versus 8 min [3–15], p = 0.29); and diagnostic yield increased significantly (13/20 cases [65%] to 11/11 cases [100%]), ( p = 0.03). Based on this unique, clinically relevant method of assessing learning curve, proficiency with the Body Vision system was achieved at approximately the tenth procedure. These findings require validation in larger, diverse populations.

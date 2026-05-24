@@ -1,0 +1,9 @@
+Title: Hierarchical graph learning for protein–protein interaction
+Authors: Ziqi Gao, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang, Jia Li
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36736-1
+Paper ID: pmc_PMC9968329
+
+Abstract:
+Protein-Protein Interactions (PPIs) are fundamental means of functions and signalings in biological systems. The massive growth in demand and cost associated with experimental PPI studies calls for computational tools for automated prediction and understanding of PPIs. Despite recent progress, in silico methods remain inadequate in modeling the natural PPI hierarchy. Here we present a double-viewed hierarchical graph learning model, HIGH-PPI, to predict PPIs and extrapolate the molecular details involved. In this model, we create a hierarchical graph, in which a node in the PPI network (top outside-of-protein view) is a protein graph (bottom inside-of-protein view). In the bottom view, a group of chemically relevant descriptors, instead of the protein sequences, are used to better capture the structure-function relationship of the protein. HIGH-PPI examines both outside-of-protein and inside-of-protein of the human interactome to establish a robust machine understanding of PPIs. This model demonstrates high accuracy and robustness in predicting PPIs. Moreover, HIGH-PPI can interpret the modes of action of PPIs by identifying important binding and catalytic sites precisely. Overall, “HIGH-PPI [ https://github.com/zqgao22/HIGH-PPI ]” is a domain-knowledge-driven and interpretable framework for PPI prediction studies. Despite recent progress, machine learning methods remain inadequate in modeling the natural protein-protein interaction (PPI) hierarchy for PPI prediction. Here, the authors present a double-viewed hierarchical graph learning model, HIGH-PPI, to predict PPIs and extrapolate the molecular details involved.

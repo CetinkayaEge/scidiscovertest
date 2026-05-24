@@ -1,0 +1,9 @@
+Title: Antireflection of optical anisotropic dielectric metasurfaces
+Authors: Yu-Hsuan Liao, Wei-Lun Hsu, Chen-Yi Yu, Chih-Ming Wang
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28619-8
+Paper ID: pmc_PMC9887059
+
+Abstract:
+We propose a hetero-nano-fin structure to further improve the efficiency of Pancharatnam–Berry phase metasurfaces. Two hetero-nano-fin types, MgF 2 /GaN and MgF 2 /Nb 2 O 5 , were investigated. The overall polarization conversion efficiency (PCE) improved from 52.7 to 54% for the MgF 2 /GaN nano-fin compared with the bare GaN nano-fin. The overall PCE of the Nb 2 O 5 nano-fin was 1.7 times higher than that of the GaN nano-fin. The overall PCE improved from 92.4% up to 96% after the application of MgF 2 antireflection. Moreover, the antireflection improves efficiency by an average of 4.3% in wavelengths from 450 to 700 nm. Although the increment of energy seems minimal, antireflection is crucial for a metasurface, not only enhancing efficiency but also reducing background signal of a meta-device.

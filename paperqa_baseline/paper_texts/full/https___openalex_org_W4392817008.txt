@@ -1,0 +1,9 @@
+Title: Impact of Bioethanol Concentration in Gasoline on SI Engine Sustainability
+Authors: Alfredas Rimkus, Saugirdas Pukalskas, Gabrielius Mejeras, Saulius Nagurnas
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16062397
+Paper ID: https://openalex.org/W4392817008
+
+Abstract:
+This study presents an experimental investigation into the impact of blending bioethanol (E100) with conventional gasoline (E0), incrementally increasing biofuel levels up to E10, E50, and E70. The test was carried out in two stages: Stage I assessed the engine’s performance under fixed speeds (n = 2000 rpm and n = 2500 rpm) and fixed throttle positions (15%, 20%, and 25%) to measure changes in engine torque, efficiency, and environmental metrics by varying the concentration of bioethanol in the fuel. Stage II aimed to enrich the initial findings by conducting an additional test, running the engine at a fixed speed (n = 2000 rpm) and braking torque (MB = 80 Nm) and varying the ignition timing. Results indicated slight improvements in engine brake torque and thermal efficiency (up to 1.7%) with bioethanol content increased to 70%, and a notable reduction in incomplete combustion byproducts—carbon monoxide and hydrocarbons emissions (up 15% and 43%). Nitrogen oxide emissions were reduced by up to 23%, but carbon dioxide emissions decreased by a mere 1.1%. In order to increase thermal efficiency by adding higher bioethanol blend concentrations, adjusting the ignition timing to counter the longer ignition delay is necessary; however, higher emissions of nitrogen oxides and hydrocarbons are a major drawback of such a strategy. The results of the research are important in determining the optimal concentration of bioethanol in the mixture with gasoline for the energy and environmental sustainability of a spark ignition engine.

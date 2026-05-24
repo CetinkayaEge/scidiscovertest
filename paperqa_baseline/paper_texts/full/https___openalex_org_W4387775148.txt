@@ -1,0 +1,9 @@
+Title: Electric vehicle (EV) and driving towards sustainability: Comparison between EV, HEV, PHEV, and ICE vehicles to achieve net zero emissions by 2050 from EV
+Authors: Ibham Veza, Muhammad Zacky Asy’ari, Muhammad Idris, Vorathin Epin, I.M. Rizwanul Fattah, Martin Spraggon
+Year: 2023
+Venue: Alexandria Engineering Journal
+DOI: https://doi.org/10.1016/j.aej.2023.10.020
+Paper ID: https://openalex.org/W4387775148
+
+Abstract:
+This study explores the environmental and economic implications of Internal Combustion Engine (ICE) vehicles, Hybrid Electric Vehicles (HEVs), Plug-in Hybrid Electric Vehicles (PHEVs), and Electric Vehicles (EVs). A case study in Indonesia is selected, focusing to achieve net zero emissions by 2050 and improve air quality. The research compares key factors such as emission costs, fueling time costs, maintenance costs, and vehicle selection for a comprehensive understanding of each vehicle type's viability in the automotive landscape. The analysis reveals that EVs exhibit the lowest CO and CO2 emissions of about 20 %, while HEVs and PHEVs demonstrate significant reductions compared to ICE vehicles. However, EVs produce higher NOx and N2O emissions of more than 70 %, indicating a dependence on fossil fuels for electricity generation. Air quality-related emissions, including SOx and PM10, are 90 % and 85 % higher in EVs, emphasizing the need for enhanced emission control technologies and the adoption of renewable energy sources. Despite their higher selling price and emission costs, EVs possess the lowest maintenance costs among the evaluated vehicles at only 0.00419 USD/km. Ultimately, HEVs present the most balanced combination of selling price, emission cost, and maintenance cost, making them an appealing option for the market. This study provides valuable insights for policymakers, automotive manufacturers, and consumers in transitioning towards more sustainable transportation solutions.

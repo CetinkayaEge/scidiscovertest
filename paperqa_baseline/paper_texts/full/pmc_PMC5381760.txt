@@ -1,0 +1,9 @@
+Title: Mapping black panthers: Macroecological modeling of melanism in leopards ( Panthera pardus )
+Authors: Lucas G. da Silva, Kae Kawanishi, Philipp Henschel, Andrew Kittle, Arezoo Sanei, Alexander Reebin, Dale Miquelle, Andrew B. Stein, Anjali Watson, Laurence Bruce Kekule, Ricardo B. Machado, Eduardo Eizirik
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0170378
+Paper ID: pmc_PMC5381760
+
+Abstract:
+The geographic distribution and habitat association of most mammalian polymorphic phenotypes are still poorly known, hampering assessments of their adaptive significance. Even in the case of the black panther, an iconic melanistic variant of the leopard ( Panthera pardus ), no map exists describing its distribution. We constructed a large database of verified records sampled across the species’ range, and used it to map the geographic occurrence of melanism. We then estimated the potential distribution of melanistic and non-melanistic leopards using niche-modeling algorithms. The overall frequency of melanism was ca . 11%, with a significantly non-random spatial distribution. Distinct habitat types presented significantly different frequencies of melanism, which increased in Asian moist forests and approached zero across most open/dry biomes. Niche modeling indicated that the potential distributions of the two phenotypes were distinct, with significant differences in habitat suitability and rejection of niche equivalency between them. We conclude that melanism in leopards is strongly affected by natural selection, likely driven by efficacy of camouflage and/or thermoregulation in different habitats, along with an effect of moisture that goes beyond its influence on vegetation type. Our results support classical hypotheses of adaptive coloration in animals ( e . g . Gloger’s rule), and open up new avenues for in-depth evolutionary analyses of melanism in mammals.

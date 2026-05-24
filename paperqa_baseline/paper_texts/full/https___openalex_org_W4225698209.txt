@@ -1,0 +1,9 @@
+Title: Suppression weakens unwanted memories via a sustained reduction of neural reactivation
+Authors: Ann-Kristin Meyer, Roland G. Benoit
+Year: 2022
+Venue: eLife
+DOI: https://doi.org/10.7554/elife.71309
+Paper ID: https://openalex.org/W4225698209
+
+Abstract:
+Aversive events sometimes turn into intrusive memories. However, prior evidence indicates that such memories can be controlled via a mechanism of retrieval suppression. Here, we test the hypothesis that suppression exerts a sustained influence on memories by deteriorating their neural representations. This deterioration, in turn, would hinder their subsequent reactivation and thus impoverish the vividness with which they can be recalled. In an fMRI study, participants repeatedly suppressed memories of aversive scenes. As predicted, this process rendered the memories less vivid. Using a pattern classifier, we observed that suppression diminished the neural reactivation of scene information both globally across the brain and locally in the parahippocampal cortices. Moreover, the decline in vividness was associated with reduced reinstatement of unique memory representations in right parahippocampal cortex. These results support the hypothesis that suppression weakens memories by causing a sustained reduction in the potential to reactivate their neural representations.

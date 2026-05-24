@@ -1,0 +1,9 @@
+Title: Industry 4.0 Technologies for Manufacturing Sustainability: A Systematic Review and Future Research Directions
+Authors: Anbesh Jamwal, Rajeev Agrawal, Monica Sharma, Antonio Giallanza
+Year: 2021
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app11125725
+Paper ID: https://openalex.org/W3173460341
+
+Abstract:
+Recent developments in manufacturing processes and automation have led to the new industrial revolution termed “Industry 4.0”. Industry 4.0 can be considered as a broad domain which includes: data management, manufacturing competitiveness, production processes and efficiency. The term Industry 4.0 includes a variety of key enabling technologies i.e., cyber physical systems, Internet of Things, artificial intelligence, big data analytics and digital twins which can be considered as the major contributors to automated and digital manufacturing environments. Sustainability can be considered as the core of business strategy which is highlighted in the United Nations (UN) Sustainability 2030 agenda and includes smart manufacturing, energy efficient buildings and low-impact industrialization. Industry 4.0 technologies help to achieve sustainability in business practices. However, very limited studies reported about the extensive reviews on these two research areas. This study uses a systematic literature review approach to find out the current research progress and future research potential of Industry 4.0 technologies to achieve manufacturing sustainability. The role and impact of different Industry 4.0 technologies for manufacturing sustainability is discussed in detail. The findings of this study provide new research scopes and future research directions in different research areas of Industry 4.0 which will be valuable for industry and academia in order to achieve manufacturing sustainability with Industry 4.0 technologies.

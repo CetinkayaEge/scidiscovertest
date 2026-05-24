@@ -1,0 +1,9 @@
+Title: Sustainable Robots 4D Printing
+Authors: Hesam Soleimanzadeh, Bernard Rolfe, Mahdi Bodaghi, Marzieh Jamalabadi, Xiang Zhang, Ali Zolfagharian
+Year: 2023
+Venue: Advanced Sustainable Systems
+DOI: https://doi.org/10.1002/adsu.202300289
+Paper ID: https://openalex.org/W4386370067
+
+Abstract:
+Abstract Nature frequently serves as an inspiration for modern robotics innovations that emphasize secure human–machine interaction. However, the advantages of increased automation and digital technology integration conflict with the global environmental objectives. Accordingly, biodegradable soft robots have been proposed for a range of intelligent applications. Biodegradability provides soft robotics with an extraordinary functional advantage for operations involving intelligent shape transformation in response to external stimuli such as heat, pH, and light. Soft robot fabrication using conventional manufacturing techniques is inflexible, time‐consuming, and labor‐intensive. Recent advances in 3D and 4D printing of soft materials and multi‐materials have become the key to enabling the direct manufacture of soft robotics with complex designs and functions. This review comprises a detailed survey of 3D and 4D printing advances in biodegradable soft sensors and actuators (BSSA), which serve as the most prominent parts of each robotic system. In addition, a concise overview of biodegradable materials for the fabrication of 3D‐printed flexible devices with medical along with industrial applications is provided. A complete summary of current additive manufacturing techniques for BSSA is discussed in depth. Moreover, the concept of biodegradable 4D‐printed soft actuators and sensors and biohybrid soft robots is reviewed.

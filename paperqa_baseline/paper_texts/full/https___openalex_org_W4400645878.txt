@@ -1,0 +1,9 @@
+Title: Emerging Technologies for Sustainable Agriculture: The Power of Humans and the Way Ahead
+Authors: Malamati Louta, Konstantina Banti, Ioanna Karampelia
+Year: 2024
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2024.3428401
+Paper ID: https://openalex.org/W4400645878
+
+Abstract:
+Agriculture plays a critical role in society, providing sustenance, contributing to economic growth, and addressing global hunger and malnutrition challenges. However, the environmental impact of agriculture, including water consumption, greenhouse gas emissions, and soil pollution, poses significant challenges. The advent of agriculture revolution 4.0, characterized by automated and data-driven smart farming, offers opportunities to enhance sustainability and climate resilience. Information and communication technologies (ICT), particularly Next Generation Internet of Things (NG-IoT), coupled with remote sensing, robotics, and artificial intelligence (AI), facilitate data-driven decision-making and optimization of agricultural activities. This paper reviews emerging ICT technologies in agriculture to provide a comprehensive understanding of the challenges and opportunities in achieving sustainable agriculture through these technologies. Furthermore, we emphasize the significance of human-centered systems and explainable AI for achieving sustainability in agriculture, highlighting the essential role of user-centric design and transparent decision-making processes in shaping the future of smart farming. Finally, we present real projects in Greece that utilize many of the aforementioned technologies, showcasing their outstanding performance in the field of smart agriculture and providing future directions towards incorporating human involvement, enhancing reliability, and explainability.

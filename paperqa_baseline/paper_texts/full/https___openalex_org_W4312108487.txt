@@ -1,0 +1,9 @@
+Title: Ammonia-based green corridors for sustainable maritime transportation
+Authors: Hanchu Wang, Pródromos Daoutidis, Qi Zhang
+Year: 2022
+Venue: Digital Chemical Engineering
+DOI: https://doi.org/10.1016/j.dche.2022.100082
+Paper ID: https://openalex.org/W4312108487
+
+Abstract:
+Decarbonizing maritime transportation will require huge investments in new technologies and infrastructure for the production, distribution, and utilization of alternative marine fuels. In this context, the concept of green shipping corridors has been proposed, where a green corridor refers to a major shipping route along which low- and zero-carbon maritime transportation solutions are provided. In this work, we conduct a global analysis of green shipping corridors by designing a network of alternative fuel production sites, transportation links, and bunkering ports that can support a large fraction of the global marine fuel demand. We choose green ammonia to be the alternative fuel as it has received significant attention as a potential carbon- and sulfur-free marine fuel that can be produced entirely from renewable resources. Our study identifies the most suitable locations for producing and bunkering green ammonia, examines the trade-off between ammonia production and transportation costs, and highlights the extent to which local reduction in production cost can lead to a competitive advantage in a future green ammonia market. We also demonstrate the value of our global network optimization, which considers many shipping routes simultaneously, in capturing potential synergies and trade-offs across different routes and regions. This work provides insights that can help inform decisions in establishing future green shipping corridors around the world.

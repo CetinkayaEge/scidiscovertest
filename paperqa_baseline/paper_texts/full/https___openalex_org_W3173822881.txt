@@ -1,0 +1,9 @@
+Title: Data-Driven Artificial Intelligence Applications for Sustainable Precision Agriculture
+Authors: María Teresa Linaza, Jorge Posada, Jürgen Bund, Peter Eisert, Marco Quartulli, Jürgen Döllner, Alain Pagani, Igor G. Olaizola, André Barriguinha, Theocharis Moysiadis, Laurent Lucat
+Year: 2021
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy11061227
+Paper ID: https://openalex.org/W3173822881
+
+Abstract:
+One of the main challenges for the implementation of artificial intelligence (AI) in agriculture includes the low replicability and the corresponding difficulty in systematic data gathering, as no two fields are exactly alike. Therefore, the comparison of several pilot experiments in different fields, weather conditions and farming techniques enhances the collective knowledge. Thus, this work provides a summary of the most recent research activities in the form of research projects implemented and validated by the authors in several European countries, with the objective of presenting the already achieved results, the current investigations and the still open technical challenges. As an overall conclusion, it can be mentioned that even though in their primary stages in some cases, AI technologies improve decision support at farm level, monitoring conditions and optimizing production to allow farmers to apply the optimal number of inputs for each crop, thereby boosting yields and reducing water use and greenhouse gas emissions. Future extensions of this work will include new concepts based on autonomous and intelligent robots for plant and soil sample retrieval, and effective livestock management.

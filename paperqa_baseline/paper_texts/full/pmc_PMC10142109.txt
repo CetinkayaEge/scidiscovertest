@@ -1,0 +1,9 @@
+Title: Taq-Polymerase Stop Assay to Determine Target Selectivity of G4 Ligands in Native Promoter Sequences of MYC , TERT , and KIT Oncogenes
+Authors: Galina V. Chashchina, Liana L. Tevonyan, Artemy D. Beniaminov, Dmitry N. Kaluzhny
+Year: 2023
+Venue: Pharmaceuticals
+DOI: 10.3390/ph16040544
+Paper ID: pmc_PMC10142109
+
+Abstract:
+Computational and high-throughput experimental methods predict thousands of potential quadruplex sequences (PQSs) in the human genome. Often these PQSs contain more than four G-runs, which introduce additional uncertainty into the conformational polymorphism of the G4 DNA. G4-specific ligands, which are currently being actively developed as potential anticancer agents or tools for studying G4 structures in genomes, may preferentially bind to specific G4 structures over the others that can be potentially formed in the extended G-rich genomic region. We propose a simple technique that identifies the sequences that tend to form G4 in the presence of potassium ions or a specific ligand. Thermostable DNA Taq-polymerase stop assay can detect the preferential position of the G4 –ligand binging within a long PQS-rich genomic DNA fragment. This technique was tested for four G4 binders PDS, PhenDC3, Braco-19, and TMPyP4 at three promoter sequences of MYC , KIT , and TERT that contain several PQSs each. We demonstrate that the intensity of polymerase pausing reveals the preferential binding of a ligand to particular G4 structures within the promoter. However, the strength of the polymerase stop at a specific site does not always correlate with the ligand-induced thermodynamic stabilization of the corresponding G4 structure.

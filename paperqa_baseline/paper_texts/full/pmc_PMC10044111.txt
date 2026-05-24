@@ -1,0 +1,9 @@
+Title: Allosteric inhibition of TEM ‐1 β lactamase: Microsecond molecular dynamics simulations provide mechanistic insights
+Authors: Erich Hellemann, Amrita Nallathambi, Jacob D. Durrant
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4622
+Paper ID: pmc_PMC10044111
+
+Abstract:
+Abstract β‐lactam antibiotics target DD‐transpeptidases, enzymes that perform the last step of bacterial cell‐wall synthesis. To block the antimicrobial activity of these antibiotics, bacteria have evolved lactamases that render them inert. Among these, TEM‐1, a class A lactamase, has been extensively studied. In 2004, Horn et al. described a novel allosteric TEM‐1 inhibitor, FTA, that binds distant from the TEM‐1 orthosteric (penicillin‐binding) pocket. TEM‐1 has subsequently become a model for the study of allostery. In the present work, we perform molecular dynamics simulations of FTA‐bound and FTA‐absent TEM‐1, totaling ~3 μS, that provide new insight into TEM‐1 inhibition. In one of the simulations, bound FTA assumed a conformation different than that observed crystallographically. We provide evidence that the alternate pose is physiologically plausible and describe how it impacts our understanding of TEM‐1 allostery.

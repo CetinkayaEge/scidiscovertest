@@ -1,0 +1,9 @@
+Title: Optimized Weight Low-Frequency Search Coil Magnetometer for Ground–Airborne Frequency Domain Electromagnetic Method
+Authors: Fei Teng, Ye Tong, Bofeng Zou
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063337
+Paper ID: pmc_PMC10051888
+
+Abstract:
+The vertical component magnetic field signal in the ground–airborne frequency domain electromagnetic (GAFDEM) method is detected by the air coil sensor, which is parallel to the ground. Unfortunately, the air coil sensor has low sensitivity in the low-frequency band, making it challenging to detect effective low-frequency signals and causing low accuracy and large error for interpreted deep apparent resistivity in actual detection. This work develops an optimized weight magnetic core coil sensor for GAFDEM. The cupped flux concentrator is used in the sensor to reduce the weight of the sensor while maintaining the magnetic gathering capacity of the core coil. The winding of the core coil is optimized to resemble the shape of a rugby ball, taking full advantage of the magnetic gathering capacity at the core center. Laboratory and field experiment results show that the developed optimized weight magnetic core coil sensor for the GAFDEM method is highly sensitive in the low-frequency band. Therefore, the detection results at depth are more accurate compared with those obtained using existing air coil sensors.

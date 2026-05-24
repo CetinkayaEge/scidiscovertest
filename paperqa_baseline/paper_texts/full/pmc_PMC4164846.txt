@@ -1,0 +1,9 @@
+Title: Construction of Monitoring Model and Algorithm Design on Passenger Security during Shipping Based on Improved Bayesian Network
+Authors: Jiali Wang, Qingnian Zhang, Wenfeng Ji
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/158652
+Paper ID: pmc_PMC4164846
+
+Abstract:
+A large number of data is needed by the computation of the objective Bayesian network, but the data is hard to get in actual computation. The calculation method of Bayesian network was improved in this paper, and the fuzzy-precise Bayesian network was obtained. Then, the fuzzy-precise Bayesian network was used to reason Bayesian network model when the data is limited. The security of passengers during shipping is affected by various factors, and it is hard to predict and control. The index system that has the impact on the passenger safety during shipping was established on basis of the multifield coupling theory in this paper. Meanwhile, the fuzzy-precise Bayesian network was applied to monitor the security of passengers in the shipping process. The model was applied to monitor the passenger safety during shipping of a shipping company in Hainan, and the effectiveness of this model was examined. This research work provides guidance for guaranteeing security of passengers during shipping.

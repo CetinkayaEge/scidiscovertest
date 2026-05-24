@@ -1,0 +1,9 @@
+Title: Applied Machine Learning for IIoT and Smart Production—Methods to Improve Production Quality, Safety and Sustainability
+Authors: Attila Frankó, Gergely Hollósi, Dániel Ficzere, Pál Varga
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22239148
+Paper ID: https://openalex.org/W4310044191
+
+Abstract:
+Industrial IoT (IIoT) has revolutionized production by making data available to stakeholders at many levels much faster, with much greater granularity than ever before. When it comes to smart production, the aim of analyzing the collected data is usually to achieve greater efficiency in general, which includes increasing production but decreasing waste and using less energy. Furthermore, the boost in communication provided by IIoT requires special attention to increased levels of safety and security. The growth in machine learning (ML) capabilities in the last few years has affected smart production in many ways. The current paper provides an overview of applying various machine learning techniques for IIoT, smart production, and maintenance, especially in terms of safety, security, asset localization, quality assurance and sustainability aspects. The approach of the paper is to provide a comprehensive overview on the ML methods from an application point of view, hence each domain-namely security and safety, asset localization, quality control, maintenance-has a dedicated chapter, with a concluding table on the typical ML techniques and the related references. The paper summarizes lessons learned, and identifies research gaps and directions for future work.

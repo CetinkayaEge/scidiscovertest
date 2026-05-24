@@ -1,0 +1,9 @@
+Title: Status of cognitive frailty in elderly patients with chronic kidney disease and construction of a risk prediction model: a cross-sectional study
+Authors: Baolin Luo, Zebing Luo, Xiaoyun Zhang, Meiwan Xu, Chujun Shi
+Year: 2022
+Venue: BMJ Open
+DOI: 10.1136/bmjopen-2021-060633
+Paper ID: pmc_PMC9806025
+
+Abstract:
+Objective To investigate the risk factors of cognitive frailty in elderly patients with chronic kidney disease (CKD), and to establish an artificial neural network (ANN) model. Design A cross-sectional design. Setting Two tertiary hospitals in southern China. Participants 425 elderly patients aged ≥60 years with CKD. Methods Data were collected via questionnaire investigation, anthropometric measurements, laboratory tests and electronic medical records. The 425 samples were randomly divided into a training set, test set and validation set at a ratio of 5:3:2. Variables were screened by univariate and multivariate logistic regression analyses, then an ANN model was constructed. The accuracy, specificity, sensitivity, receiver operating characteristic (ROC) curve and area under the ROC curve (AUC) were used to evaluate the predictive power of the model. Results Barthel Index (BI) score, albumin, education level, 15-item Geriatric Depression Scale score and Social Support Rating Scale score were the factors influencing the occurrence of cognitive frailty (p<0.05). Among them, BI score was the most important factor determining cognitive frailty, with an importance index of 0.30. The accuracy, specificity and sensitivity of the ANN model were 86.36%, 88.61% and 80.65%, respectively, and the AUC of the constructed ANN model was 0.913. Conclusion The ANN model constructed in this study has good predictive ability, and can provide a reference tool for clinical nursing staff in the early prediction of cognitive frailty in a high-risk population.

@@ -1,0 +1,9 @@
+Title: Role of sustainable heat sources in transition towards fourth generation district heating – A review
+Authors: A.M. Jodeiri, Mark Goldsworthy, Simone Buffa, Marco Cozzini
+Year: 2022
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2022.112156
+Paper ID: https://openalex.org/W4207034871
+
+Abstract:
+As an integrated part of future sustainable energy systems, district heating has been widely established as a convenient solution to provide energy-efficient space heating and sanitary hot water. In the pathway towards decarbonization of district heating, its 4th generation enables integration of high shares of renewable energy sources and waste heat. This article reviews the challenges confronted by such integration, investigating the technical and non-technical difficulties associated with the exploitation of solar thermal, waste heat, geothermal, and biomass energy sources into district heating systems. The study reveals that although solar thermal district heating is a mature technology, optimization of solar field size, location and collector type is still an active research field. In application of waste heat, distance between heat sources and users is often a barrier. Moreover, low-temperature waste heat and low-enthalpy geothermal sources require application of heat pumps. As regards biomass, its theoretical dispatchability is in practice limited by logistical challenges and low flexibility of biomass boilers, mostly relegating it to cover base load only. Thus, biomass does not appear to be a long-term solution for heating purposes, also considering its competing use to produce biofuels (needed for sectors more difficult to decarbonize). Lastly, application of seasonal storage coupled with heat pumps is expected to play a crucial role in maximizing renewable energy use, but its sizing and integration requires dynamic analysis of heat demand as well as of charging and discharging temperatures.

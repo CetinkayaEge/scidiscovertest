@@ -1,0 +1,9 @@
+Title: Generating Topologically Consistent BIM Models of Utility Tunnels from Point Clouds
+Authors: Lei Yang, Fangshuo Zhang, Fan Yang, Peng Qian, Quankai Wang, Yunjie Wu, Keli Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23146503
+Paper ID: pmc_PMC10384953
+
+Abstract:
+The development and utilization of urban underground space is an important way to solve the “great urban disease”. As one of the most important types of urban underground foundations, utility tunnels have become increasingly popular in municipal construction. The investigation of utility tunnels is a general task and three-dimensional laser scanning technology has played a significant role in surveying and data acquisition. However, three-dimensional laser scanning technology suffers from noise and occlusion in narrow congested utility tunnel spaces, and the acquired point clouds are imperfect; hence, errors and redundancies are introduced in the extracted geometric elements. The topology of reconstructed BIM objects cannot be ensured. Therefore, in this study, a hierarchical segmentation method for point clouds and a topology reconstruction method for building information model (BIM) objects in utility tunnels are proposed. The point cloud is segmented into facades, planes, and pipelines hierarchically. An improved mean-shift algorithm is proposed to extract wall line features and a local symmetry-based medial axis extraction algorithm is proposed to extract pipelines from point clouds. A topology reconstruction method that searches for the neighbor information of wall and pipeline centerlines and establishes collinear, perpendicular, and intersecting situations is used to reconstruct a topologically consistent 3D model of a utility tunnel. An experiment on the Guangzhou’s Nansha District dataset successfully reconstructed 24 BIM wall objects and 12 pipelines within the utility tunnel, verifying the efficiency of the method.

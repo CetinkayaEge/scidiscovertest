@@ -1,0 +1,9 @@
+Title: Mass-Manufacturable 3D Magnetic Force Sensor for Robotic Grasping and Slip Detection
+Authors: Théo Le Signor, Nicolas Dupré, Jeroen Didden, Eugene Lomakin, Gaël Close
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063031
+Paper ID: pmc_PMC10054322
+
+Abstract:
+The manipulation of delicate objects remains a key challenge in the development of industrial robotic grippers. Magnetic force sensing solutions, which provide the required sense of touch, have been demonstrated in previous work. The sensors feature a magnet embedded within a deformable elastomer, which is mounted on top of a magnetometer chip. A key drawback of these sensors lies in the manufacturing process, which relies on the manual assembly of the magnet–elastomer transducer, impacting both the repeatability of measurements across sensors and the potential for a cost-effective solution through mass-manufacturing. In this paper, a magnetic force sensor solution is presented with an optimized manufacturing process that will facilitate mass production. The elastomer–magnet transducer was fabricated using injection molding, and the assembly of the transducer unit, on top of the magnetometer chip, was achieved using semiconductor manufacturing techniques. The sensor enables robust differential 3D force sensing within a compact footprint (5 mm × 4.4 mm × 4.6 mm). The measurement repeatability of these sensors was characterized over multiple samples and 300,000 loading cycles. This paper also showcases how the 3D high-speed sensing capabilities of these sensors can enable slip detection in industrial grippers.

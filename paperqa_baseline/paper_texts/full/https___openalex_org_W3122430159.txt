@@ -1,0 +1,9 @@
+Title: Spatial and Statistical Analysis of Urban Poverty for Sustainable City Development
+Authors: Wojciech Kisiała, Izabela Rącka
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020858
+Paper ID: https://openalex.org/W3122430159
+
+Abstract:
+One of the main pillars of sustainable urban development at the local scale is to control the social aspect of urban equality of socio-economic systems. A number of studies confirm that poverty in urban space is accompanied by negative phenomena, such as high unemployment, social pathologies, increased crime rate, or the high level of the decapitalization of space, including the poor condition of housing and municipal infrastructure. However, there is a gap in defining the relation between urban poverty and city structure to control and preferably minimize social inequalities. The aim of the study was to empirically verify the impact of the location of residential properties in relation to poverty-stricken areas in the city. The research covered the housing market in one Polish city (Kalisz) in the years 2006–2018. By applying GIS technologies, we identified the location of each property in relation to poverty areas. The data was subjected to regression analysis, with the use of the hedonic approach based on exponential models. The analysis of data allowed us to conclude that location in a poorer area does affect the prices of new flats, which is not only a contribution to the development of science, but is also information that could be used by developers or property valuers to establish the prices of flats, as well as city managers to avoid pauperization of urban districts.

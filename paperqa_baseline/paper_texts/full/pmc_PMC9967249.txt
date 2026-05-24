@@ -1,0 +1,9 @@
+Title: Cap-Independent Circular mRNA Translation Efficiency
+Authors: Andrei A. Deviatkin, Ruslan A. Simonov, Kseniya A. Trutneva, Anna A. Maznina, Anastasiia B. Soroka, Anna A. Kogan, Sofya G. Feoktistova, Elena M. Khavina, Olga N. Mityaeva, Pavel Y. Volchkov
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11020238
+Paper ID: pmc_PMC9967249
+
+Abstract:
+Recently, the mRNA platform has become the method of choice in vaccine development to find new ways to fight infectious diseases. However, this approach has shortcomings, namely that mRNA vaccines require special storage conditions, which makes them less accessible. This instability is due to the fact that the five-prime and three-prime ends of the mRNA are a substrate for the ubiquitous exoribonucleases. To address the problem, circular mRNAs have been proposed for transgene delivery as they lack these ends. Notably, circular RNAs do not have a capped five-prime end, which makes it impossible to initiate translation canonically. In this review, we summarize the current knowledge on cap-independent translation initiation methods and discuss which approaches might be most effective in developing vaccines and other biotechnological products based on circular mRNAs.

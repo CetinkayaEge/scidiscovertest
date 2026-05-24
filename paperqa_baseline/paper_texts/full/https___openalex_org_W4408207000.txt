@@ -1,0 +1,9 @@
+Title: Sustainable artificial intelligence in finance: impact of ESG factors
+Authors: Paolo Giudici, Lunshuai Wu
+Year: 2025
+Venue: Frontiers in Artificial Intelligence
+DOI: https://doi.org/10.3389/frai.2025.1566197
+Paper ID: https://openalex.org/W4408207000
+
+Abstract:
+There is a growing concern about the sustainability of artificial intelligence, in terms of Environmental, Social and Governance (ESG) factors. We contribute to the debate measuring the impact of ESG factors on one of the most relevant applications of AI in finance: credit rating. There is not yet conclusive evidence on whether EGS factors impact on credit rating. In this paper, we propose several machine learning models to measure such impact, and a set of metrics that can improve their ability to do so. In this way, machine learning models and, more generally, decisions based on artificial intelligence, can become more sustainable.

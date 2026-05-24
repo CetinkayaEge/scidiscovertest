@@ -1,0 +1,9 @@
+Title: Big data for sustainable agri‐food supply chains: a review and future research perspectives
+Authors: Abderahman Rejeb, Karim Rejeb, Suhaiza Zailani
+Year: 2021
+Venue: Journal of Data Information and Management
+DOI: https://doi.org/10.1007/s42488-021-00045-3
+Paper ID: https://openalex.org/W3151770089
+
+Abstract:
+Abstract Research on agri-food supply chains (AFSCs) has attracted significant attention in recent years due to the challenges associated with sustainably feeding the global population. The purpose of this study is to review the potentials of big data for sustainable AFSCs. One hundred twenty-eight (128) journal articles were selected to identify how big data can contribute to the sustainable development of AFSCs. As part of our focus, a framework was developed based on the conceptualization of AFSCs in the extant literature to analyse big data research in the context of AFSCs and to provide insights into the potentials of the technology for agri-food businesses. The findings of the review indicate that there is a noticeable growth in the number of studies addressing the applications of big data for AFSCs. The potentials of big data for AFSC sustainability were synthesized in a summary framework, highlighting the primary resources and activities that are ready for improvement with big data. These include soil, water, crop and plant management, animal management, waste management and traceability management. The challenges of big data integration in AFSCs, the study’s implications, contributions, and the future research directions are highlighted in detail.

@@ -1,0 +1,9 @@
+Title: Is Financial Innovation Bestowed or a Curse for Economic Sustainably: The Mediating Role of Economic Policy Uncertainty
+Authors: Shuhua Xu, Md. Qamruzzaman, Anass Hamadelneel Adow
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042391
+Paper ID: https://openalex.org/W3129872557
+
+Abstract:
+The study’s motivation is to gauge the impact of financial innovation on economic growth from 2004M1 to 2018M12 in India and Pakistan’s economy with the mediating role of economic policy uncertainty. For instituting the possible association between financial innovations, economic policy uncertainty, and economic growth study considered both symmetric and asymmetric frameworks following autoregressive distributed lagged (ARDL) and nonlinear ARDL (NARDL). Furthermore, asymmetric causal relationships were evaluated by performing non-granger causality tests with asymmetric shocks of financial innovation and economic policy uncertainty (EPU). The results of Fpss, Wpss, and tBDM under symmetry framework established the long-run link between EPU, financial innovation, and economic growth in both countries. The results of standard Wald tests demonstrated the asymmetry effects furring from EPU to economic growth and financial innovation to economic growth both in the long-run and short-run. The asymmetry effects of positive and negative shocks in financial innovation revealed a positive linkage with economic growth and a negative tie between asymmetric shocks in EPU and economic growth in the long-run, but short-run magnitudes negligible. Refers to directional causality estimation, the study revealed evidence supporting the feedback hypothesis between EPU and financial innovation in all sample countries.

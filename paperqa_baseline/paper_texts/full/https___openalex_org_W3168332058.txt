@@ -1,0 +1,9 @@
+Title: Crafting a Sustainable Next Generation Infrastructure: Evaluation of China’s New Infrastructure Construction Policies
+Authors: Jun Wu, Yuanjie Zhang, Zhun Shi
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13116245
+Paper ID: https://openalex.org/W3168332058
+
+Abstract:
+How to boost the economy and achieve more sustainable development with enhanced quality, efficiency, and fairness by leveraging digital technology in the post-COVID-19 era has been an important agenda faced by many countries. As China’s new infrastructure initiative has the potential to open a new pathway for economic resilience, its policy characteristics and orientation have attracted more and more attention by policy makers and researchers. Taking the new infrastructure policies issued by Chinese local governments since 2020 as a data source, this paper, on the one hand, uses text mining and social network analysis to reveal the scope and coverage of the construction of new infrastructure and its orientation. On the other hand, a quantitative evaluation of 12 provincial policies grounded on a revised framework and policy modeling consistency index approach was conducted. The results show that Chinese governments adopt a bottom-up incrementalism planning mode for the policy steering of the construction of new infrastructure. This policy arrangement is a kind of goal-oriented modulation that makes planning more adaptive and participatory to enhance the infrastructure sustainability.

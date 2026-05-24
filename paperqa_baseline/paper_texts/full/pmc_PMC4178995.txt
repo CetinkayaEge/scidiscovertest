@@ -1,0 +1,9 @@
+Title: The Open Service Signal in Space Navigation Data Comparison of the Global Positioning System and the BeiDou Navigation Satellite System
+Authors: Shau-Shiun Jan, An-Lin Tao
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140815182
+Paper ID: pmc_PMC4178995
+
+Abstract:
+More and more Global Navigation Satellite Systems (GNSSs) have been developed and are in operation. Before integrating information on various GNSSs, the differences between the various systems must be studied first. This research focuses on analyzing the navigation data differences between the Chinese BeiDou Navigation Satellite System (BDS) and the United States' Global Positioning System (GPS). In addition to explaining the impact caused by these two different coordinate and time systems, this research uses an actual open service signal in space (SIS) for both GPS and BDS to analyze their current system performance. Five data quality analysis (DQA) mechanisms are proposed in this research to validate both systems' SIS navigation data. These five DQAs evaluate the differences in ephemeris and almanac messages from both systems for stability and accuracy. After all of the DQAs, the different issues related to GPS and BDS satellite information are presented. Finally, based on these DQA results, this research provides suggested resolutions for the combined use of GPS and BDS for navigation and guidance.

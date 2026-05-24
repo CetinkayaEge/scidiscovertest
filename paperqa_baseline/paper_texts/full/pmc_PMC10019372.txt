@@ -1,0 +1,9 @@
+Title: Unlocking the potential of chemically modified peptide nucleic acids for RNA-based therapeutics
+Authors: Sai Pallavi Pradeep, Shipra Malik, Frank J. Slack, Raman Bahal
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079498.122
+Paper ID: pmc_PMC10019372
+
+Abstract:
+RNA therapeutics have emerged as next-generation therapy for the treatment of many diseases. Unlike small molecules, RNA targeted drugs are not limited by the availability of binding pockets on the protein, but rather utilize Watson–Crick (WC) base-pairing rules to recognize the target RNA and modulate gene expression. Antisense oligonucleotides (ASOs) present a powerful therapeutic approach to treat disorders triggered by genetic alterations. ASOs recognize the cognate site on the target RNA to alter gene expression. Nine single-stranded ASOs have been approved for clinical use and several candidates are in late-stage clinical trials for both rare and common diseases. Several chemical modifications, including phosphorothioates, locked nucleic acid, phosphorodiamidate, morpholino, and peptide nucleic acids (PNAs), have been investigated for efficient RNA targeting. PNAs are synthetic DNA mimics where the deoxyribose phosphate backbone is replaced by N-(2-aminoethyl)-glycine units. The neutral pseudopeptide backbone of PNAs contributes to enhanced binding affinity and high biological stability. PNAs hybridize with the complementary site in the target RNA and act by a steric hindrance­–based mechanism. In the last three decades, various PNA designs, chemical modifications, and delivery strategies have been explored to demonstrate their potential as an effective and safe RNA-targeting platform. This review covers the advances in PNA-mediated targeting of coding and noncoding RNAs for a myriad of therapeutic applications.

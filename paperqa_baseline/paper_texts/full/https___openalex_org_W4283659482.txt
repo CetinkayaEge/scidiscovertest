@@ -1,0 +1,9 @@
+Title: A Review on the Adoption of AI, BC, and IoT in Sustainability Research
+Authors: Susie Ruqun WU, Gabriela Shirkey, Ilke Celik, Changliang Shao, Jiquan Chen
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14137851
+Paper ID: https://openalex.org/W4283659482
+
+Abstract:
+The rise of artificial intelligence (AI), blockchain (BC), and the internet of things (IoT) has had significant applications in the advancement of sustainability research. This review examines how these digital transformations drive natural and human systems, as well as which industry sectors have been applying them to advance sustainability. We adopted qualitative research methods, including a bibliometric analysis, in which we screened 960 publications to identify the leading sectors that apply AI/BC/IoT, and a content analysis to identify how each sector uses AI/BC/IoT to advance sustainability. We identified “smart city”, “energy system”, and “supply chain” as key leading sectors. Of these technologies, IoT received the most real-world applications in the “smart city” sector under the dimensions of “smart environment” and “smart mobility” and provided applications resolving energy consumption in the “energy system” sector. AI effectively resolved scheduling, prediction, and monitoring for both the “smart city” and “energy system” sectors. BC remained highly theoretical for “supply chain”, with limited applications. The technological integration of AI and IoT is a research trend for the “smart city” and “energy system” sectors, while BC and IoT is proposed for the “supply chain”. We observed a surge in AI/BC/IoT sustainability research since 2016 and a new research trend—technological integration—since 2020. Collectively, six of the United Nation’s seventeen sustainable development goals (i.e., 6, 7, 9, 11, 12, 13) have been the most widely involved with these technologies.

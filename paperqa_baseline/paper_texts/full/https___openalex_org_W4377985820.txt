@@ -1,0 +1,9 @@
+Title: The ethics of sustainable AI: Why animals (should) matter for a sustainable use of AI
+Authors: Leonie Bossert, Thilo Hagendorff
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2596
+Paper ID: https://openalex.org/W4377985820
+
+Abstract:
+Abstract Technologies equipped with artificial intelligence (AI) influence our everyday lives in a variety of ways. Due to their contribution to greenhouse gas emissions, their high use of energy, but also their impact on fairness issues, these technologies are increasingly discussed in the “sustainable AI” discourse. However, current “sustainable AI” approaches remain anthropocentric. In this article, we argue from the perspective of applied ethics that such anthropocentric outlook falls short. We present a sentientist approach, arguing that the normative foundation of sustainability and sustainable development—that is, theories of intra‐ and intergenerational justice—should include sentient animals. Consequently, theories of sustainable AI must also be non‐anthropocentric. Moreover, we investigate consequences of our approach for applying AI technologies in a sustainable way.

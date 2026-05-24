@@ -1,0 +1,9 @@
+Title: Implications of Virtual Reality on Environmental Sustainability in Manufacturing Industry: A Case Study
+Authors: Xiaoxia Chen, Liang Gong, Anton Berce, Björn Johansson, Mélanie Despeisse
+Year: 2021
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2021.11.078
+Paper ID: https://openalex.org/W3215738760
+
+Abstract:
+Research on Virtual Reality (VR) in manufacturing is rarely driven by environmental sustainability. This paper explores the feasibility of developing VR technologies to reduce environmental impact, drawing from a case study in an automotive company. We developed a VR demo to support the communication for design review between the technology centre in Sweden and the manufacturing site in China, thus reducing travel frequencies. This reduction was verified through user experience and feedback from focus group discussion and questionnaire. The results show a reduction of travel frequencies for design review, therefore contributing to environmental sustainability.

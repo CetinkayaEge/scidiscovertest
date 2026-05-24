@@ -1,0 +1,9 @@
+Title: Probabilistic modeling of sustainable urban drainage systems
+Authors: A. Raimondi, Maria Gloria Di Chiano, Mariana Marchioni, Umberto Sanfilippo, Gianfranco Becciu
+Year: 2022
+Venue: Urban Ecosystems
+DOI: https://doi.org/10.1007/s11252-022-01299-4
+Paper ID: https://openalex.org/W4311347220
+
+Abstract:
+Abstract Sustainable Urban Drainage Systems (SUDS) include strategies and solutions for distributed stormwater management and control. They are strongly encouraged, especially in highly urbanized areas that suffer the combined effect of impervious surfaces and the increase in extreme rainfall events due to urbanization growth and climate change. Their integration into traditional urban drainage systems can mitigate flood risk and pollution of receiving water bodies. The main goal of SUDS is to restore the natural water balance by increasing infiltration and evapotranspiration processes and promoting rainwater harvesting and reuse. This paper proposes an analytical-probabilistic approach for SUDS modeling applicable to different systems. Developed equations allow estimating the runoff and residual storage probability for evaluating the efficiency of the storage volume both in terms of flood control and, depending on SUDS type, in terms of emptying time or water needs supply. The modeling considers the possibility of consecutive chained rainfalls; this feature is relevant for SUDS, often characterized by low outflow rates. Relating characteristic parameters to a probabilistic level (the Average Return Interval, ARI) makes the formulas interesting to be used in the design practice. An application to two case studies confirmed the goodness of the proposed method.

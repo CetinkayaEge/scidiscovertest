@@ -1,0 +1,9 @@
+Title: Aqueous amine enables sustainable monosaccharide, monophenol, and pyridine base coproduction in lignocellulosic biorefineries
+Authors: Li Xu, Meifang Cao, Jiefeng Zhou, Yuxia Pang, Zhixian Li, Dongjie Yang, Shao‐Yuan Leu, Hongming Lou, Xuejun Pan, Xueqing Qiu
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-45073-w
+Paper ID: https://openalex.org/W4391223568
+
+Abstract:
+Thought-out utilization of entire lignocellulose is of great importance to achieving sustainable and cost-effective biorefineries. However, there is a trade-off between efficient carbohydrate utilization and lignin-to-chemical conversion yield. Here, we fractionate corn stover into a carbohydrate fraction with high enzymatic digestibility and reactive lignin with satisfactory catalytic depolymerization activity using a mild high-solid process with aqueous diethylamine (DEA). During the fractionation, in situ amination of lignin achieves extensive delignification, effective lignin stabilization, and dramatically reduced nonproductive adsorption of cellulase on the substrate. Furthermore, by designing a tandem fractionation-hydrogenolysis strategy, the dissolved lignin is depolymerized and aminated simultaneously to co-produce monophenolics and pyridine bases. The process represents the viable scheme of transforming real lignin into pyridine bases in high yield, resulting from the reactions between cleaved lignin side chains and amines. This work opens a promising approach to the efficient valorization of lignocellulose.

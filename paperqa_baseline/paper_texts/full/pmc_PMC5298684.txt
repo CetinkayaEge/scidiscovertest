@@ -1,0 +1,9 @@
+Title: A Non-Invasive Multichannel Hybrid Fiber-Optic Sensor System for Vital Sign Monitoring
+Authors: Marcel Fajkus, Jan Nedoma, Radek Martinek, Vladimir Vasinek, Homer Nazeran, Petr Siska
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010111
+Paper ID: pmc_PMC5298684
+
+Abstract:
+In this article, we briefly describe the design, construction, and functional verification of a hybrid multichannel fiber-optic sensor system for basic vital sign monitoring. This sensor uses a novel non-invasive measurement probe based on the fiber Bragg grating (FBG). The probe is composed of two FBGs encapsulated inside a polydimethylsiloxane polymer (PDMS). The PDMS is non-reactive to human skin and resistant to electromagnetic waves, UV absorption, and radiation. We emphasize the construction of the probe to be specifically used for basic vital sign monitoring such as body temperature, respiratory rate and heart rate. The proposed sensor system can continuously process incoming signals from up to 128 individuals. We first present the overall design of this novel multichannel sensor and then elaborate on how it has the potential to simplify vital sign monitoring and consequently improve the comfort level of patients in long-term health care facilities, hospitals and clinics. The reference ECG signal was acquired with the use of standard gel electrodes fixed to the monitored person’s chest using a real-time monitoring system for ECG signals with virtual instrumentation. The outcomes of these experiments have unambiguously proved the functionality of the sensor system and will be used to inform our future research in this fast developing and emerging field.

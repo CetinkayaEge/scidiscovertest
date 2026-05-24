@@ -1,0 +1,9 @@
+Title: Cobalt(III)-catalyzed asymmetric ring-opening of 7-oxabenzonorbornadienes via indole C–H functionalization
+Authors: Yang Zheng, Wen-Yun Zhang, Qing Gu, Chao Zheng, Shu-Li You
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36723-6
+Paper ID: pmc_PMC9968317
+
+Abstract:
+Asymmetric ring-opening of 7-oxabenzonorbornadienes is achieved via Co-catalyzed indole C–H functionalization. The utilization of chiral Co-catalyst consisting of a binaphthyl-derived trisubstituted cyclopentadienyl ligand resulted in high yields (up to 99%) and excellent enantioselectivity (>99% ee) for the target products with tolerance for diverse functional groups. Opposite diastereoselectivities are obtained with chiral Co-catalyst or Cp*CoI 2 CO. Combined experimental and computational studies suggest β -oxygen elimination being the selectivity-determining step of the reaction. Meanwhile, the reactions of 7-azabenzonorbornadiene could also be executed in a diastereodivergent manner. Asymmetric ring-opening (ARO) reactions, which can help quickly build molecular complexity, have not been extensively shown via β-oxygen elimination. Here, the authors report a cobalt(III)-catalyzed ARO reaction, providing mechanistic insights and the origins of the diastereo- and enantioselectivity.

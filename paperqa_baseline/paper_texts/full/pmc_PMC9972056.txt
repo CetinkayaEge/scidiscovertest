@@ -1,0 +1,9 @@
+Title: Venous thromboembolism in patients with idiopathic pulmonary fibrosis, based on nationwide claim data
+Authors: Jang Ho Lee, Hoon Hee Lee, Hyung Jun Park, Seonok Kim, Ye-Jee Kim, Jae Seung Lee, Ho Cheol Kim
+Year: 2023
+Venue: Therapeutic Advances in Respiratory Disease
+DOI: 10.1177/17534666231155772
+Paper ID: pmc_PMC9972056
+
+Abstract:
+Background: Idiopathic pulmonary fibrosis (IPF) is a known risk factor for venous thromboembolism (VTE). However, it is currently unknown which factors are associated with an increase of VTE in patients with IPF. Objectives: We estimated the incidence of VTE in patients with IPF and identified clinical characteristics related to VTE in patients with IPF. Design and methods: De-identified nationwide health claim data from 2011 to 2019 was collected from the Korean Health Insurance Review and Assessment database. Patients with IPF were selected if they had made at least one claim per year under the J84.1 [ International Classification of Diseases and Related Health Problems , 10th Revision (ICD-10)] and V236 codes of rare intractable diseases. We defined the presence of VTE as at least one claim of pulmonary embolism and deep vein thrombosis ICD-10 codes. Results: The incidence rate per 1000 person-years of VTE was 7.08 (6.44–7.77). Peak incidence rates were noted in the 50–59 years old male and 70–79 years old female groups. Ischemic heart disease, ischemic stroke, and malignancy were associated with VTE in patients with IPF, with an adjusted hazard ratio (aHR) of 1.25 (1.01–1.55), 1.36 (1.04–1.79), and 1.53 (1.17–2.01). The risk for VTE was increased in patients diagnosed with malignancy after IPF diagnosis (aHR = 3.18, 2.47–4.11), especially lung cancer [hazard ratio (HR) = 3.78, 2.90–4.96]. Accompanied VTE was related to more utilization of medical resources. Conclusion: Ischemic heart disease, ischemic stroke, and malignancy, especially lung cancer, were related to higher HR for VTE in IPF.

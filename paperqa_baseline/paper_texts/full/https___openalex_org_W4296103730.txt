@@ -1,0 +1,9 @@
+Title: The Effects of Agricultural Socialized Services on Sustainable Agricultural Practice Adoption among Smallholder Farmers in China
+Authors: Meili Huan, Yajuan Li, Liang Chi, Shaoguo Zhan
+Year: 2022
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy12092198
+Paper ID: https://openalex.org/W4296103730
+
+Abstract:
+In recent years, a growing body of literature has explored the determinants and impacts of sustainable agricultural technologies. However, little is known about the relationship between agricultural socialized services that have reshaped the smallholder agricultural system and promoted scale operation in rural China and environmentally friendly agricultural innovation adoption of the farm. Our study examines the effects of agricultural socialized services on the adoption of sustainable agricultural practices (SAPs). In this study, we capture the number of SAPs adopted, unlike most existing studies that analyze the dichotomous decision of agricultural technology adoption. We apply an endogenous-treatment Poisson regression model to analyze using a national representative farm-level survey data set with 1357 farm households from 132 villages in China. The results show that socialized service use has a significantly positive effect on the number of SAPs adopted. Our results suggest that agricultural socialized services can promote the adoption of sustainable agricultural technologies among smallholders, and thus help transform conventional agriculture into sustainable agriculture.

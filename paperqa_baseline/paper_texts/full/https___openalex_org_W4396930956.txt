@@ -1,0 +1,9 @@
+Title: Forecasting sustainable development goals scores by 2030 using machine learning models
+Authors: Kimia Chenary, Omid Pirian Kalat, Ayyoob Sharifi
+Year: 2024
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.3037
+Paper ID: https://openalex.org/W4396930956
+
+Abstract:
+Abstract The Sustainable Development Goals (SDGs) set by the United Nations are a worldwide appeal to eliminate poverty, preserve the environment, address climate change, and guarantee that everyone experiences peace and prosperity by 2030. These 17 goals cover various global issues concerning health, education, inequality, environmental decline, and climate change. Several investigations have been carried out to track advancements toward these goals. However, there is limited research on forecasting SDG scores. This research aims to forecast SDG scores for global regions by 2030 using ARIMAX and LR (Linear Regression) smoothed by HW (Holt‐Winters') multiplicative technique. To enhance model performance, we used predictors identified from the SDGs that are more likely to be influenced by Artificial Intelligence (AI) in the future. The forecast results for 2030 show that “OECD countries” (80) (with a 2.8% change) and “Eastern Europe and Central Asia” (74) (with a 2.37% change) are expected to achieve the highest SDG scores. “Latin America and the Caribbean” (73) (with a 4.17% change), “East and South Asia” (69) (with a 2.64% change), “Middle East and North Africa” (68) (with a 2.32% change), and “Sub‐Saharan Africa” (56) (with a 7.2% change) will display lower levels of SDG achievement, respectively.

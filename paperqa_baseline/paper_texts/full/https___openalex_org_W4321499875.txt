@@ -1,0 +1,9 @@
+Title: Assessing Lean 4.0 for Industry 4.0 Readiness Using PLS-SEM towards Sustainable Manufacturing Supply Chain
+Authors: Karishma M. Qureshi, Bhavesh G. Mewada, Sumeet Kaur, M.N. Qureshi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15053950
+Paper ID: https://openalex.org/W4321499875
+
+Abstract:
+Lean 4.0 (L4.0) plays a significant role in reducing waste and enhancing productivity for a sustainable manufacturing supply chain in Industry 4.0 (I4.0). L4.0, with its soft and hard practices, may be well integrated into I4.0 to enhance its readiness. Small and medium enterprises (SMEs) are attempting to prepare themselves for I4.0 readiness. Hence, the present research explores L4.0 in terms of its soft and hard practices to understand its holistic relationship with I4.0’s readiness for delivering a sustainable manufacturing supply chain. To reap the maximum benefits, several traditional lean thinking practices and lean management principles should be combined with internet-enabled I4.0 technologies. The result of the present empirical analysis revealed that the soft L4.0 practices of top management leadership (TML), customer focus (CF), and employee training and learning (ETL) influence the hard L4.0 practices of total productive maintenance (TPM), statistical process control (SPC), and advanced manufacturing technologies (AMT) to have a positive significant influence on operational readiness (OR) and technological readiness (TR).

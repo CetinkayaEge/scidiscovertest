@@ -1,0 +1,9 @@
+Title: One‐Step Biocatalytic Synthesis of Sustainable Surfactants by Selective Amide Bond Formation**
+Authors: Max Lubberink, William Finnigan, Christian Schnepel, Christopher Baldwin, Nicholas J. Turner, Sabine L. Flitsch
+Year: 2022
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202205054
+Paper ID: https://openalex.org/W4281251456
+
+Abstract:
+N-alkanoyl-N-methylglucamides (MEGAs) are non-toxic surfactants widely used as commercial ingredients, but more sustainable syntheses towards these compounds are highly desirable. Here, we present a biocatalytic route towards MEGAs and analogues using a truncated carboxylic acid reductase construct tailored for amide bond formation (CARmm-A). CARmm-A is capable of selective amide bond formation without the competing esterification reaction observed in lipase catalysed reactions. A kinase was implemented to regenerate ATP from polyphosphate and by thorough reaction optimisation using design of experiments, the amine concentration needed for amidation was significantly reduced. The wide substrate scope of CARmm-A was exemplified by the synthesis of 24 commercially relevant amides, including selected examples on a preparative scale. This work establishes acyl-phosphate mediated chemistry as a highly selective strategy for biocatalytic amide bond formation in the presence of multiple competing alcohol functionalities.

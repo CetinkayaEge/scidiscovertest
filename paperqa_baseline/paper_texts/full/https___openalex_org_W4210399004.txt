@@ -1,0 +1,9 @@
+Title: A Supervised Machine Learning Classification Framework for Clothing Products’ Sustainability
+Authors: Chloe Satinet, François Fouss
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031334
+Paper ID: https://openalex.org/W4210399004
+
+Abstract:
+These days, many sustainability-minded consumers face a major problem when trying to identify environmentally sustainable products. Indeed, there are a variety of confusing sustainability certifications and few labels capturing the overall environmental impact of products, as the existing procedures for assessing the environmental impact of products throughout their life cycle are time consuming, costly, and require a lot of data and input from domain experts. This paper explores the use of supervised machine learning tools to extrapolate the results of existing life cycle assessment studies (LCAs) and to develop a model—applied to the clothing product category—that could easily and quickly assess the products’ environmental sustainability throughout their life cycle. More precisely, we assemble a dataset of clothing products with their life cycle characteristics and corresponding known total environmental impact and test, on a 5-fold cross-validation basis, nine state-of-the-art supervised machine learning algorithms. Among them, the random forest algorithm has the best performance with an average accuracy of 91% over the five folds. The resulting model provides rapid environmental feedback on a variety of clothing products with the limited data available to online retailers. It could be used to quickly provide interested consumers with product-level sustainability information, or even to develop a unique and all-inclusive environmental label.

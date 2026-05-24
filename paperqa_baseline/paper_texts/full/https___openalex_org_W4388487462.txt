@@ -1,0 +1,9 @@
+Title: Synapse-specific burst coding sustained by local axonal translation
+Authors: Hovy Ho‐Wai Wong, Alanna J. Watt, P. Jesper Sjöström
+Year: 2023
+Venue: Neuron
+DOI: https://doi.org/10.1016/j.neuron.2023.10.011
+Paper ID: https://openalex.org/W4388487462
+
+Abstract:
+Neurotransmission in the brain is unreliable, suggesting that high-frequency spike bursts rather than individual spikes carry the neural code. For instance, cortical pyramidal neurons rely on bursts in memory formation. Protein synthesis is another key factor in long-term synaptic plasticity and learning but is widely considered unnecessary for synaptic transmission. Here, however, we show that burst neurotransmission at synapses between neocortical layer 5 pyramidal cells depends on axonal protein synthesis linked to presynaptic NMDA receptors and mTOR. We localized protein synthesis to axons with laser axotomy and puromycylation live imaging. We whole-cell recorded connected neurons to reveal how translation sustained readily releasable vesicle pool size and replenishment rate. We live imaged axons and found sparsely docked RNA granules, suggesting synapse-specific regulation. In agreement, translation boosted neurotransmission onto excitatory but not inhibitory basket or Martinotti cells. Local axonal mRNA translation is thus a hitherto unappreciated principle for sustaining burst coding at specific synapse types.

@@ -1,0 +1,9 @@
+Title: Inhibitory Effects of Ginsenoside Compound K on Lipopolysaccharide-Stimulated Inflammatory Responses in Macrophages by Regulating Sirtuin 1 and Histone Deacetylase 4
+Authors: Hyunju Kang, Shin Kim, Jin-Young Lee, Bohkyung Kim
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15071626
+Paper ID: pmc_PMC10096759
+
+Abstract:
+Inflammation, an innate immune response mediated by macrophages, has been a hallmark leading to the pathophysiology of diseases. In this study, we examined the inhibitory effects of ginsenoside compound K (CK) on lipopolysaccharide (LPS)-induced inflammation and metabolic alteration in RAW 264.7 macrophages by regulating sirtuin 1 (SIRT1) and histone deacetylase 4 (HDAC4). LPS suppressed SIRT1 while promoting HDAC4 expression, accompanied by increases in cellular reactive oxygen species accumulation and pro-inflammatory gene expression; however, the addition of CK elicited the opposite effects. CK ameliorated the LPS-induced increase in glycolytic genes and abrogated the LPS-altered genes engaged in the NAD+ salvage pathway. LPS decreased basal, maximal, and non-mitochondrial respiration, reducing ATP production and proton leak in macrophages, which were abolished by CK. SIRT1 inhibition augmented Hdac4 expression along with increased LPS-induced inflammatory and glycolytic gene expression, while decreasing genes that regulate mitochondrial biogenesis; however, its activation resulted in the opposite effects. Inhibition of HDAC4 enhanced Sirt1 expression and attenuated the LPS-induced inflammatory gene expression. In conclusion, CK exerted anti-inflammatory and antioxidant properties with the potential to counteract the alterations of energy metabolism, including glycolysis and mitochondrial respiration, through activating SIRT1 and repressing HDAC4 in LPS-stimulated macrophages.

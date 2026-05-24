@@ -1,0 +1,9 @@
+Title: Immunogenicity of a Third Dose of BNT162b2 Vaccine among Lung Transplant Recipients—A Prospective Cohort Study
+Authors: Yael Shostak, Mordechai R. Kramer, Omer Edni, Ahinoam Glusman Bendersky, Noa Shafran, Ilana Bakal, Moshe Heching, Dror Rosengarten, Dorit Shitenberg, Shay M. Amor, Haim Ben Zvi, Barak Pertzov, Hila Cohen, Shahar Rotem, Uri Elia, Theodor Chitlaru, Noam Erez, Yuri Peysakhovich, Yaron D. Barac, Amir Shlomai, Erez Bar-Haim, Osnat Shtraichman
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040799
+Paper ID: pmc_PMC10141618
+
+Abstract:
+Two doses of mRNA SARS-CoV-2 vaccines elicit an attenuated humoral immune response among immunocompromised patients. Our study aimed to assess the immunogenicity of a third dose of the BNT162b2 vaccine among lung transplant recipients (LTRs). We prospectively evaluated the humoral response by measuring anti-spike SARS-CoV-2 and neutralizing antibodies in 139 vaccinated LTRs ~4–6 weeks following the third vaccine dose. The t-cell response was evaluated by IFNγ assay. The primary outcome was the seropositivity rate following the third vaccine dose. Secondary outcomes included: positive neutralizing antibody and cellular immune response rate, adverse events, and COVID-19 infections. Results were compared to a control group of 41 healthcare workers. Among LTRs, 42.4% had a seropositive antibody titer, and 17.2% had a positive t-cell response. Seropositivity was associated with younger age (t = 3.736, p < 0.001), higher GFR (t = 2.355, p = 0.011), and longer duration from transplantation (t = −1.992, p = 0.024). Antibody titer positively correlated with neutralizing antibodies (r = 0.955, p < 0.001). The current study may suggest the enhancement of immunogenicity by using booster doses. Since monoclonal antibodies have limited effectiveness against prevalent sub-variants and LTRs are prone to severe COVID-19 morbidity, vaccination remains crucial for this vulnerable population.

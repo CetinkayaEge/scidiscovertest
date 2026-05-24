@@ -1,0 +1,9 @@
+Title: Value-Based Caching in Information-Centric Wireless Body Area Networks
+Authors: Fadi M. Al-Turjman, Muhammad Imran, Athanasios V. Vasilakos
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010181
+Paper ID: pmc_PMC5298754
+
+Abstract:
+We propose a resilient cache replacement approach based on a Value of sensed Information (VoI) policy. To resolve and fetch content when the origin is not available due to isolated in-network nodes (fragmentation) and harsh operational conditions, we exploit a content caching approach. Our approach depends on four functional parameters in sensory Wireless Body Area Networks (WBANs). These four parameters are: age of data based on periodic request, popularity of on-demand requests, communication interference cost, and the duration for which the sensor node is required to operate in active mode to capture the sensed readings. These parameters are considered together to assign a value to the cached data to retain the most valuable information in the cache for prolonged time periods. The higher the value, the longer the duration for which the data will be retained in the cache. This caching strategy provides significant availability for most valuable and difficult to retrieve data in the WBANs. Extensive simulations are performed to compare the proposed scheme against other significant caching schemes in the literature while varying critical aspects in WBANs (e.g., data popularity, cache size, publisher load, connectivity-degree, and severe probabilities of node failures). These simulation results indicate that the proposed VoI-based approach is a valid tool for the retrieval of cached content in disruptive and challenging scenarios, such as the one experienced in WBANs, since it allows the retrieval of content for a long period even while experiencing severe in-network node failures.

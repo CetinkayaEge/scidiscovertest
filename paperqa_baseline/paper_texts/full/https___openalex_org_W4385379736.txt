@@ -1,0 +1,9 @@
+Title: Spatio-temporal changes in the causal interactions among Sustainable Development Goals in China
+Authors: Min Cao, Min Chen, Junze Zhang, Prajal Pradhan, Huadong Guo, Bojie Fu, Yue Li, Yuying Bai, Lijiao Chang, Yu Chen, Zhongchang Sun, Zhenci Xu, Rui Zhu, Michael E. Meadows, Guonian Lü
+Year: 2023
+Venue: Humanities and Social Sciences Communications
+DOI: https://doi.org/10.1057/s41599-023-01952-z
+Paper ID: https://openalex.org/W4385379736
+
+Abstract:
+Abstract Extensive efforts have been dedicated to deciphering the interactions associated with Sustainable Development Goals (SDGs). However, these developments are hampered by a lack of efficient strategies to avoid beneficial synergies being offset by harmful trade-offs. To fill these gaps, we used causal diagnosis and network analysis methods to construct 1302 directed networks of SDGs for 31 provinces in China from 2000 to 2020. We observed a dramatic offsetting effect of SDG synergies and trade-offs in China from 2000 to 2020, with approximately 27% of trade-off indicator pairs turning into synergies and about 25% of the synergy indicator pairs turning into trade-offs. However, our findings suggested that prioritising the progress of high-frequency indicators in virtuous cycles could multiply the positive systemic effects of the SDGs. Moreover, controlling the transition from passive to active in the trade-off network of SDGs remains a challenge in advancing the SDGs holistically.

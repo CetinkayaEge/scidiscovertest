@@ -1,0 +1,9 @@
+Title: Rapidly Dissolving Microneedles for the Delivery of Steroid-Loaded Nanoparticles Intended for the Treatment of Inflammatory Skin Diseases
+Authors: Hala Dawud, Aiman Abu Ammar
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020526
+Paper ID: pmc_PMC9967926
+
+Abstract:
+Drug delivery through the skin has immense advantages compared to other routes of administration and offers an optimal way to treat inflammatory skin diseases, where corticosteroids are the cornerstone of topical therapy. Still, their therapeutic efficiency is limited due to inadequate skin permeability, potential side effects, and reduced patient compliance. To overcome these drawbacks, we propose a drug delivery system consisting of dexamethasone (DEX)-loaded poly(lactic-co-glycolic acid) (PLGA) nanoparticles (NPs) incorporated in sodium alginate (SA) microneedles (MNs) as a minimally invasive dosage form for controlled drug release. Drug-loaded PLGA NPs were prepared by a nanoprecipitation method with a high encapsulation yield. They exhibited a controlled release pattern over 120 h. A modified vacuum-deposition micromolding method was used to load the obtained DEX-NPs into the tips of dissolving MNs. The NP-MNs showed improved insertion capabilities into the skin-simulant parafilm model and enhanced mechanical strength when tested against different static forces compared to their counterparts (SA-MNs). The results of an MN dissolution study following application to ex vivo chicken skin and agarose gel indicate that the NP-loaded segments of MNs dissolve within 15 s, in which the NPs are released into the skin. Taken together, the incorporation of DEX-NPs into SA-MNs could be a promising approach to bypass the limitations of conventional topical treatment of skin diseases, allowing for self-administration, increased patient compliance, and controlled drug release.

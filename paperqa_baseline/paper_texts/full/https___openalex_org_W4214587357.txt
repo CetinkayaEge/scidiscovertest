@@ -1,0 +1,9 @@
+Title: CRISPR towards a Sustainable Agriculture
+Authors: Francesco Camerlengo, Arianna Frittelli, Riccardo Pagliarello
+Year: 2022
+Venue: Encyclopedia
+DOI: https://doi.org/10.3390/encyclopedia2010036
+Paper ID: https://openalex.org/W4214587357
+
+Abstract:
+Climate change and the need to feed an increasing population undermines food production and safety, representing the reasons behind the development of a new agriculture that is much more sustainable, productive and accessible worldwide. Genome editing and, in particular, clustered regularly interspaced palindromic repeats/CRISPR-associated protein (CRISPR/Cas) tools will play a major role in plant breeding to address these concerns. CRISPR/Cas includes a series of genome editing tools relying on the recognition and cleavage of target DNA/RNA sequences to introduce specific mutations.

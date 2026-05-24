@@ -1,0 +1,9 @@
+Title: Leaf Classification for Sustainable Agriculture and In-Depth Species Analysis
+Authors: Sara Mumtaz, Shabbab Ali Algamdi, Haifa F. Alhasson, Dina Abdulaziz AlHammadi, Ahmad Jalal, Hui Liu
+Year: 2025
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2025.3526888
+Paper ID: https://openalex.org/W4406137756
+
+Abstract:
+Effective leaf classification is crucial for ecological research and agricultural management, though handling diverse leaf shapes and environmental variations can be difficult. This study introduces an innovative approach that combines advanced feature extraction techniques with optimization and classification strategies. We employ Scale Invariant feature transform (SIFT), wavelet transform, and particle gradient motion for feature extraction, followed by bee colony optimization to enhance the process. A Gaussian distribution-based classifier is subsequently utilized, achieving an accuracy of 92%, while a Random forest classifier applied to the Grapevine Leave Dataset resulted in an accuracy of 84.63%. This approach highlights the potential for improved plant identification and disease management, providing a reliable solution for both small and large-scale agricultural applications. The resilience of this framework guarantees adaptability across various datasets, making it a valuable asset for improving crop quality and sustainability.

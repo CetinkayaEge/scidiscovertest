@@ -1,0 +1,9 @@
+Title: Sustained Agricultural Spraying: From Leaf Wettability to Dynamic Droplet Impact Behavior
+Authors: Bo Wang, Jie Wang, Cunlong Yu, Siqi Luo, Jia Peng, Ning Li, Tengda Wang, Lei Jiang, Zhichao Dong, Yilin Wang
+Year: 2023
+Venue: Global Challenges
+DOI: https://doi.org/10.1002/gch2.202300007
+Paper ID: https://openalex.org/W4384822177
+
+Abstract:
+Crop production and quality safety system have the potential to nurture human health and improve environmental sustainability. Providing a growing global population with sufficient and healthy food is an immediate challenge. However, this system largely depends on the spraying of agrochemicals. Crop leaves are covered with different microstructures, exhibiting distinct hydrophilic, hydrophobic, or even superhydrophobic wetting characteristics, thus leading to various deposition difficulties of sprayed droplets. Here, the relationship between wettability and surface microstructure in different crop leaves from biological and interfacial structural perspectives is systematically demonstrated. A relational model is proposed in which complex microstructures lead to stronger leaf hydrophobicity. And adding surfactant with a faster dynamically migrating velocity and reducing droplet size can improve agrochemical precise deposition. These contribute toward highly accurate and efficient targeted applications with fewer agrochemicals use and promote sustainable models of eco-friendly agriculture systems.

@@ -1,0 +1,9 @@
+Title: The Impact of Digital Technologies and Sustainable Practices on Circular Supply Chain Management
+Authors: Sara Romagnoli, Claudia Tarabu', Behzad Maleki Vishkaei, Pietro De Giovanni
+Year: 2023
+Venue: Logistics
+DOI: https://doi.org/10.3390/logistics7010001
+Paper ID: https://openalex.org/W4313585317
+
+Abstract:
+Background: This study investigates how firms can enhance the functionality of their circular supply chains (CSCs) by adopting a portfolio of sustainable practices as well as digital technologies to increase performance. It analyzes the benefits that firms can obtain when investing in specific technologies to boost the impact of technologies and sustainable practices on CSCs, and further increase performance. Methods: We test several hypotheses by using structural equation modeling as well as multi-group analysis to verify whether CSCs can be achieved through sustainable practices and technologies and improve the firms’ performance. Results: The empirical results partially support the research hypotheses. While the main research hypotheses are fully supported, the analysis of single digital technologies reveals that only a few solutions can contribute to both the management and the improvement of the CSC. Conclusions: Our findings demonstrate that the identification of green suppliers and ad hoc environmental regulations, combined with attention to the origin and provenance of raw materials, can promote a CSC. Moreover, transportation management systems (TMS) and the internet of things (IoT) are efficient technologies for managing transportation and product flow in the CSC. Furthermore, machine learning (ML) is effective in making positive green decisions, and 3D printing can extend product life.

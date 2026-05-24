@@ -1,0 +1,9 @@
+Title: Challenges and opportunities in 2D high‐entropy alloy electrocatalysts for sustainable energy conversion
+Authors: Die Lu, Xinyao Fu, Dong Guo, Wei Ma, Shaohui Sun, Gonglei Shao, Zhen Zhou
+Year: 2023
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.168
+Paper ID: https://openalex.org/W4388688297
+
+Abstract:
+Abstract Two‐dimensional (2D) high‐entropy alloys (HEAs) have emerged as promising electrocatalysts due to the benefits of polymetallic coordination and robust electrical conductivity. However, the multiple elements in 2D HEAs pose challenges in achieving a uniform composition and maintaining a 2D limit morphology, complicating their structural characterization. Furthermore, even minor adjustments to the composition can significantly alter the properties of 2D HEAs, underscoring the need for a deeper understanding of their structure–property relationships to advance synthesis and application. Therefore, this review critically examines the intrinsic factors influencing synthesis methods and the practical applications of 2D HEAs in electrocatalysis for sustainable energy conversion. The urgency is emphasized for developing new synthesis techniques, enhancing advanced characterization methods, and gaining profound insights into the functional mechanisms of 2D HEAs.

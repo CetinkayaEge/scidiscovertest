@@ -1,0 +1,9 @@
+Title: Decision-making support system for diagnosis of oncopathologies by histological images
+Authors: Anatoliy Dovbysh, Ihor Shelehov, Anatolii Romaniuk, Roman Moskalenko, Taras Savchenko
+Year: 2023
+Venue: Journal of Pathology Informatics
+DOI: 10.1016/j.jpi.2023.100193
+Paper ID: pmc_PMC9975312
+
+Abstract:
+The aim of the study is to increase the functional efficiency of machine learning decision support system (DSS) for the diagnosis of oncopathology on the basis of tissue morphology. The method of hierarchical information-extreme machine learning of diagnostic DSS is offered. The method is developed within the framework of the functional approach to modeling of natural intelligence cognitive processes at formation and acceptance of classification decisions. This approach, in contrast to neuronal structures, allows diagnostic DSS to adapt to arbitrary conditions of histological imaging and flexibility in retraining the system by expanding the recognition classes alphabet that characterize different structures of tissue morphology. In addition, the decisive rules built within the geometric approach are practically invariant to the multidimensionality of the diagnostic features space. The developed method allows to create information, algorithmic, and software of the automated workplace of the histologist for diagnosing oncopathologies of different genesis. The machine learning method is implemented on the example of diagnosing breast cancer. Highlights • Information-extreme hierarchical machine learning of the oncopathology detection system. • Personalized breast cancer diagnosis system. Automatic detection of oncological classes characteristic of the current image

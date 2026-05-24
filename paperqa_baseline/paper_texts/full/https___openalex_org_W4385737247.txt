@@ -1,0 +1,9 @@
+Title: The All of Us Data and Research Center: Creating a Secure, Scalable, and Sustainable Ecosystem for Biomedical Research
+Authors: Kelsey Mayo, Melissa Basford, Robert J. Carroll, Moira Rose Dillon, Heather Fullen, Jesse Leung, Hiral Master, Shimon Rura, Lina Sulieman, Nan Kennedy, Eric Banks, David L. Bernick, Asmita Gauchan, Lee Lichtenstein, Brandy Mapes, Kayla Marginean, Steve Nyemba, Andrea H. Ramirez, Charissa Rotundo, Keri Wolfe, Weiyi Xia, Romuladus E. Azuine, Robert M. Cronin, Joshua C. Denny, Abel Kho, Chris Lunt, Bradley Malin, Karthik Natarajan, Consuelo H. Wilkins, Hua Xu, George Hripcsak, Dan M. Roden, Anthony Philippakis, David Glazer, Paul A. Harris
+Year: 2023
+Venue: Annual Review of Biomedical Data Science
+DOI: https://doi.org/10.1146/annurev-biodatasci-122120-104825
+Paper ID: https://openalex.org/W4385737247
+
+Abstract:
+data ecosystem. Finally, we share lessons learned to help others navigate important decisions and trade-offs in building a modern biomedical data platform.

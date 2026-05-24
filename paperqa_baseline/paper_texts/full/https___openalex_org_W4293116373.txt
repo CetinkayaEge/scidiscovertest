@@ -1,0 +1,9 @@
+Title: Balancing national economic policy outcomes for sustainable development
+Authors: Mohammed Basheer, Victor Nechifor, Alvaro Calzadilla, Claudia Ringler, David Hulme, Julien Harou
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-32415-9
+Paper ID: https://openalex.org/W4293116373
+
+Abstract:
+The 2030 Sustainable Development Goals (SDGs) aim at jointly improving economic, social, and environmental outcomes for human prosperity and planetary health. However, designing national economic policies that support advancement across multiple Sustainable Development Goals is hindered by the complexities of multi-sector economies and often conflicting policies. To address this, we introduce a national-scale design framework that can enable policymakers to sift through complex, non-linear, multi-sector policy spaces to identify efficient policy portfolios that balance economic, social, and environmental goals. The framework combines economy-wide sustainability simulation and artificial intelligence-driven multiobjective, multi-SDG policy search and machine learning. The framework can support multi-sector, multi-actor policy deliberation to screen efficient policy portfolios. We demonstrate the utility of the framework for a case study of Egypt by identifying policy portfolios that achieve efficient mixes of poverty and inequality reduction, economic growth, and climate change mitigation. The results show that integrated policy strategies can help achieve sustainable development while balancing adverse economic, social, and political impacts of reforms.

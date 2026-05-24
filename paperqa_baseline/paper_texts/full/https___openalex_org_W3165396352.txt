@@ -1,0 +1,9 @@
+Title: A thermoeconomic indicator for the sustainable development with social considerations
+Authors: Umberto Lucia, Debora Fino, Giulia Grisolia
+Year: 2021
+Venue: Environment Development and Sustainability
+DOI: https://doi.org/10.1007/s10668-021-01518-6
+Paper ID: https://openalex.org/W3165396352
+
+Abstract:
+Abstract The United Nations action plan Agenda 21 has represented a milestone toward Sustainable Development. On its 40th Chapter, it is introduced the requirement to dispose of an accurate and continuous collection of information, essential for decision-making. Besides bridging the data gap and improving the information availability, it is highlighted the need to dispose of sustainable development indicators, in order to assess and monitor the performances of countries toward sustainability. In this paper, we develop an improvement of a new indicator, recently introduced linking environmental anthropic footprint and social and industrial targets. Here, we suggest a link with the Income Index, in order to consider also a condition of people well-being. Our results consists in an improvement of the present approaches to sustainability; indeed, we link the socio-economic considerations, quantified by the Income Index and the Human Development Index, to the engineering approach to optimization, introducing the thermodynamic quantity entropy generation, related to irreversibility. In this way, two different new indicators are introduced, the Thermodynamic Income Index and the Thermodynamic Human Development Index, which quantitatively express a new viewpoint, which goes beyond the dichotomy between socio-economic considerations on one hand and engineering and scientific approach to sustainability on the other one. So, the result leads to a unified tool useful for the designing of new policies and interventions for a sustainable development for the next generations.

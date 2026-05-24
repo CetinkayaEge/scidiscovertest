@@ -1,0 +1,9 @@
+Title: Effectiveness of 2‐dimensional shear wave elastography for noninvasive and reliable estimation of right atrial pressure in dogs with induced volume overload
+Authors: Masahiro Tamura, Hiroshi Ohta, Tatsuyuki Osuga, Mitsuyoshi Takiguchi
+Year: 2023
+Venue: Journal of Veterinary Internal Medicine
+DOI: 10.1111/jvim.16705
+Paper ID: pmc_PMC10229340
+
+Abstract:
+Abstract Background Two‐dimensional shear wave elastography (2D‐SWE) provides information on hepatic elastic modulus as shear wave velocity (SWV). Hypothesis/Objectives To assess SWV using 2D‐SWE in dogs with induced volume overload, investigate the relationship between this information and right atrial pressure (RAP) measured by invasive right heart catheterization, and also evaluate the difference in SWV before and after diuretic administration. Animals Six healthy beagles. Methods Prospective experimental study. Right heart catheterization and 2D‐SWE were performed in 6 anesthetized beagles at baseline and after the induction of volume overload. Volume overload was induced by IV hydroxyethyl starch 70/0.5 infusion (100 mL/kg/h). Furosemide (4‐6 mg/kg, IV) was administered, and the SWVs were measured. Results Shear wave velocity showed a significant gradual increase during acute volume overload compared to baseline. SWV was significantly positively correlated with RAP ( P < .0001, ρ = 0.9729). The area under the curve of SWV to predict RAP at >10, >15, and >20 mm Hg was 0.9896 (95% confidence interval [95% CI], 0.9690‐1.000), 0.9907 (95% CI, 0.9701‐1.000), and 0.9722 (95% CI, 0.9280‐1.000), respectively. The SWV after diuretic use decreased significantly. Conclusions and Clinical Importance Two‐dimensional shear wave elastography might be useful for noninvasive and reliable estimation of RAP in dogs with acute volume overload and has potential as a quantitative biomarker for evaluating therapeutic response in dogs with right sided congestive heart failure.

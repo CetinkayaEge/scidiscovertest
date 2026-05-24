@@ -1,0 +1,9 @@
+Title: A Decision-Making Framework for Sustainable Highway Restaurant Site Selection: AHP-TOPSIS Approach based on the Fuzzy Numbers
+Authors: Aditi Biswas, Kamal Hossain Gazi, Prasad Mondal Sankar, Arijit Ghosh
+Year: 2024
+Venue: Spectrum of Operational Research.
+DOI: https://doi.org/10.31181/sor2120256
+Paper ID: https://openalex.org/W4401581591
+
+Abstract:
+This research work indicates the site selection problem for a restaurant beside the highway. It is really challenging as well as demanding work. It mainly depends on the cost of the selected location, transportation, parking facilities, hygienic atmosphere, distance from the city, etc. In this paper, the proposed site selection problem is constructed and solved by using a fuzzy Multi-Criteria Decision Making (MCDM) process. The two methods of MCDM that we use here, namely the Analytic Hierarchy Process (AHP) and the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS), are used to calculate criteria weights and rank the proposed restaurant locations, respectively. Multiple decision makers’ (DMs) opinions are considered for data collection, and Trapezoidal Fuzzy Numbers (TrFNs) are taken as uncertainty tools to deal with uncertainty. Finally, we perform sensitivity and comparative analyses to verify the system's vagueness and flexibility.

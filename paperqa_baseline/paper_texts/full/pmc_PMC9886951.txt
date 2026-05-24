@@ -1,0 +1,9 @@
+Title: Release of nanodiscs from charged nano-droplets in the electrospray ionization revealed by molecular dynamics simulations
+Authors: Beibei Wang, D. Peter Tieleman
+Year: 2023
+Venue: Communications Chemistry
+DOI: 10.1038/s42004-023-00818-4
+Paper ID: pmc_PMC9886951
+
+Abstract:
+Electrospray ionization (ESI) is essential for application of mass spectrometry in biological systems, as it prevents the analyte being split into fragments. However, due to lack of a clear understanding of the mechanism of ESI, the interpretation of mass spectra is often ambiguous. This is a particular challenge for complex biological systems. Here, we focus on systems that include nanodiscs as membrane environment, which are essential for membrane proteins. We performed microsecond atomistic molecular dynamics simulations to study the release of nanodiscs from highly charged nano-droplets into the gas phase, the late stage of ESI. We observed two distinct major scenarios, highlighting the diversity of morphologies of gaseous product ions. Our simulations are in reasonable agreement with experimental results. Our work provides a detailed atomistic view of the ESI process of a heterogeneous system (lipid nanodisc), which may give insights into the interpretation of mass spectra of all lipid-protein systems. Electrospray ionization (ESI) mass spectrometry is invaluable for studying complex biological systems, and although lipid nanodiscs are a powerful tool for the study of membrane proteins, a lack of clear understanding of the ESI mechanism presents a challenge for spectral interpretation and assignments. Here, the authors study the release behavior of lipid nanodiscs from charged nano-droplets in the ESI process using microsecond atomistic molecular dynamics simulations.

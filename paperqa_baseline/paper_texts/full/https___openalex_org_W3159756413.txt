@@ -1,0 +1,9 @@
+Title: Balanced imitation sustains song culture in zebra finches
+Authors: Ofer Tchernichovski, Sophie Eisenberg-Edidin, Erich D. Jarvis
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-22852-3
+Paper ID: https://openalex.org/W3159756413
+
+Abstract:
+Songbirds acquire songs by imitation, as humans do speech. Although imitation should drive convergence within a group and divergence through drift between groups, zebra finch songs sustain high diversity within a colony, but mild variation across colonies. We investigated this phenomenon by analyzing vocal learning statistics in 160 tutor-pupil pairs from a large breeding colony. Song imitation is persistently accurate in some families, but poor in others. This is not attributed to genetic differences, as fostered pupils copied their tutors' songs as accurately or poorly as biological pupils. Rather, pupils of tutors with low song diversity make more improvisations compared to pupils of tutors with high song diversity. We suggest that a frequency dependent balanced imitation prevents extinction of rare song elements and overabundance of common ones, promoting repertoire diversity within groups, while constraining drift across groups, which together prevents the collapse of vocal culture into either complete uniformity or chaos.

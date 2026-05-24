@@ -1,0 +1,9 @@
+Title: Effect of various powder content on the properties of sustainable self-compacting concrete
+Authors: Md. Munir Hayet Khan, Md. Habibur Rahman Sobuz, Md. Montaseer Meraz, Vivian W.Y. Tam, Noor Md. Sadiqul Hasan, Nur Mohammad Nazmus Shaurdho
+Year: 2023
+Venue: Case Studies in Construction Materials
+DOI: https://doi.org/10.1016/j.cscm.2023.e02274
+Paper ID: https://openalex.org/W4382940550
+
+Abstract:
+This research goal is to evaluate the characteristics of glass powder (GP), quartz powder (QP), and limestone powder (LP) as Supplementary Cementitious Materials (SCMs) to replace cement content in terms of fresh and hardened properties of Self-Compacting Concrete (SCC). Moreover, the obtained results were modeled using a soft computing approach. This investigation created ten mixtures incorporating varying percentages of GP, QP, and LP by replacing cement at about 0%, 10%, 20%, and 30%, respectively. The slump flow and J-ring tests were done to observe how SCMs affected the properties in fresh condition. In addition, the mechanical properties and pore structure configuration of the specimens were investigated. It was observed that GP and LP positively affected the fresh properties, increasing the mixes flowability by up to 8%. Moreover, 20% GP was able to enhance the compressive strength by 7% by improving the pore structure of the cement matrix, which was confirmed by the mercury intrusion porosimetry analysis. Finally, the built machine learning models indicated good accord with test outcomes for Artificial Neural Network (R2 = 0.95) and could be applied to calculate the compressive strength of concrete containing GP, QP and LP.

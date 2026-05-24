@@ -1,0 +1,9 @@
+Title: Oxidation inhibits autophagy protein deconjugation from phagosomes to sustain MHC class II restricted antigen presentation
+Authors: Laure‐Anne Ligeon, Maria Pena-Francesch, Liliana Danusia Vanoaica, Nicolás Gonzalo Núñez, Deepti Talwar, Tobias P. Dick, Christian Münz
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-21829-6
+Paper ID: https://openalex.org/W3135714736
+
+Abstract:
+LC3-associated phagocytosis (LAP) contributes to a wide range of cellular processes and notably to immunity. The stabilization of phagosomes by the macroautophagy machinery in human macrophages can maintain antigen presentation on MHC class II molecules. However, the molecular mechanisms involved in the formation and maturation of the resulting LAPosomes are not completely understood. Here, we show that reactive oxygen species (ROS) produced by NADPH oxidase 2 (NOX2) stabilize LAPosomes by inhibiting LC3 deconjugation from the LAPosome cytosolic surface. NOX2 residing in the LAPosome membrane generates ROS to cause oxidative inactivation of the protease ATG4B, which otherwise releases LC3B from LAPosomes. An oxidation-insensitive ATG4B mutant compromises LAP and thereby impedes sustained MHC class II presentation of exogenous Candida albicans antigens. Redox regulation of ATG4B is thereby an important mechanism for maintaining LC3 decoration of LAPosomes to support antigen processing for MHC class II presentation.

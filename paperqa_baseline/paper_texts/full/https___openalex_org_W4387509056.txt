@@ -1,0 +1,9 @@
+Title: How can technology assessment tools support sustainable innovation? A systematic literature review and synthesis
+Authors: Giácomo Parolin, Tim C. McAloone, Daniela C. A. Pigosso
+Year: 2023
+Venue: Technovation
+DOI: https://doi.org/10.1016/j.technovation.2023.102881
+Paper ID: https://openalex.org/W4387509056
+
+Abstract:
+Sustainability considerations are increasingly important for manufacturing companies seeking to develop products that meet the needs of society and the environment. The way technologies are assessed in the early design stages plays a crucial role in the integration of sustainability into innovation activities – a necessary step towards the development of products and processes with better environmental and social consequences. However, existing sustainability assessment tools are difficult to deploy in the highly uncertain and data-scarce front-end of innovation. In order to ascertain the efficacy of technology assessment methods, a systematic literature review was conducted to systematize best practices in technology assessment and establish a set of design propositions to improve early-stage sustainability assessment. Subsequently, recommendations for designing and effectively implementing sustainability assessment tools in technology development were elicited. Several avenues for future research are proposed, including the testing and refinement of the design propositions and how to operationalize early-stage sustainability assessment.

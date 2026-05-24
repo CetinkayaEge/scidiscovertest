@@ -1,0 +1,9 @@
+Title: An index-based sustainability assessment framework for manufacturing organizations
+Authors: Olivia Kaldas, Lamia A. Shihata, Jens Kiefer
+Year: 2021
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2020.05.231
+Paper ID: https://openalex.org/W3131182812
+
+Abstract:
+Sustainable manufacturing has recently gained great attention in the manufacturing industry. However, there is still a lack of a comprehensive framework for enterprise level sustainability assessment of manufacturing companies making sustainability assessment time consuming to be implemented. This paper presents a newly developed framework for sustainability assessment of manufacturing organizations. In this context, a composite sustainability index is introduced, which covers the triple bottom line approach, the total life cycle stages and the 6R principles. The framework consists of five main steps, which are the selection of suitable indicators, data collection, data normalization, the application of the fuzzy analytic hierarchy process to weight the identified indicators and finally the aggregation step to calculate the sustainability index. Apart from pure methodical issues, a concrete application of this newly developed framework is also presented. In this context, the sustainability index is calculated for a manufacturing organization considering the years 2014 to 2018. © 2020 The Authors, Published by Elsevier B.V. Peer review under the responsibility of the scientific committee of CIRP.

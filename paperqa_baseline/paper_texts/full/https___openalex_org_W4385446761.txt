@@ -1,0 +1,9 @@
+Title: Internet of Medical Things Healthcare for Sustainable Smart Cities: Current Status and Future Prospects
+Authors: Priyanka Mishra, Ghanshyam Singh
+Year: 2023
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app13158869
+Paper ID: https://openalex.org/W4385446761
+
+Abstract:
+The concept of smart and connected healthcare has emerged in response to the growing demand for the improvement of healthcare systems and the increasing prevalence of chronic diseases. Looking towards the future, smart healthcare holds great potential to transform the healthcare industry by providing more efficient, personalized, and accessible healthcare services. This paper delves into the concept of intelligent, interconnected, and customized healthcare systems within the Internet of Medical Things (IoMT) framework. It explores the utilization of cutting-edge technologies, including the IoMT, in conjunction with big data, cloud computing, artificial intelligence, and blockchain to provide healthcare services that are not only more efficient but also more convenient and personalized. It draws on existing literature, bibliometric data, and global marketing analysis to gain a deeper understanding of these technologies and their impact on the healthcare system. We have explored several upcoming features of the Healthcare 5.0 paradigm, which represents the next evolution in healthcare systems focusing on a more personalized and patient-centric approach. We introduce a healthcare architecture specifically designed for the IoMT that prioritizes the security considerations associated with devices. Finally, we have focused on addressing open research challenges, particularly those related to fundamental social needs, such as ensuring equitable access to smart and connected healthcare systems.

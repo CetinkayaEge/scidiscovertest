@@ -1,0 +1,9 @@
+Title: From Biogas to Biomethane: An In-Depth Review of Upgrading Technologies That Enhance Sustainability and Reduce Greenhouse Gas Emissions
+Authors: Ahinara Francisco López, Telma Lago Rodríguez, Shoeib Faraji Abdolmaleki, Marta Galera Martı́nez, Pastora M. Bello Bugallo
+Year: 2024
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app14062342
+Paper ID: https://openalex.org/W4392657755
+
+Abstract:
+Renewable energies present an opportunity to enhance energy security, reduce dependence on imports, and lower greenhouse gas emissions. Natural gas, viewed as a transitional fuel from coal to renewables, lacks reliable environmental sustainability and does not contribute to EU energy independence. Recently, biomethane has been gaining attention as an alternative to natural gas. Obtained from purified or “upgraded” biogas, it offers environmental and economic advantages. Several developed technologies, including absorption, adsorption, membrane separation, and cryogenic separation, are commercially available. However, those are energy- and resource-intensive. In this context, this review aims to examine the recent advancements in biogas upgrading, particularly in physical, chemical, and biological pathways. It focuses on CO2 removal and/or conversion to methane, offering an updated overview for future studies. The technologies are classified based on the separation method (by phase addition, by solid agent, by phase creation, and by biological process), and an analysis of each category is conducted. The discussion covers the economic and environmental characteristics, process complexity, and future research prospects in sustainable technologies. This review highlights the potential of biogas upgrading technologies in contributing to sustainable development, increasing energy security, and achieving greenhouse gas reduction goals that are aligned with EU targets.

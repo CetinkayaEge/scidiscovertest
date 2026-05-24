@@ -1,0 +1,9 @@
+Title: Additive manufacturing for sustainability and circular economy: needs, challenges, and opportunities for 3D printing of recycled polymeric waste
+Authors: Ans Al Rashid, Muammer Koç‬
+Year: 2023
+Venue: Materials Today Sustainability
+DOI: https://doi.org/10.1016/j.mtsust.2023.100529
+Paper ID: https://openalex.org/W4386459667
+
+Abstract:
+Polymer-based product usage rapidly increases globally, leading to severe ecological, social, environmental, health, and economic impacts. There has been an international push for solutions to sustainable production, consumption, and end-of-life for plastics to combat these issues. Moreover, additive manufacturing (AM) or 3D printing (3DP) processes provide rapid fabrication of functional parts in lesser time, lower lead times, and lower research and development costs. Due to these reasons, these processes are now being utilized in different industrial sectors, including aerospace, automotive, biomedical, sports, food, electronics, and construction. The circular economy concept integrated with AM processes can deliver a synergic impact and a new life to discarded polymeric parts with distributed recycling and manufacturing. With the development and adoption of the proper techniques, AM can be used widely to reuse polymer wastes to turn them into valuable products. It can lead to much higher levels of reuse at very low cost and for targeted applications. Therefore, in this study, a comprehensive literature review is performed to outline guidelines and a circular economy model for AM of recycled polymers based on the reviewed literature. This study delivers insight into; different commodity polymers and their uses, challenges in polymer recycling, polymer recycling approaches, and a circular economy model for AM of recycled polymers.

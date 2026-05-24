@@ -1,0 +1,9 @@
+Title: InTrack project ˗ Theoretical framework, design, and methods: A study protocol
+Authors: Mabliny Thuany, Thayse Natacha Gomes, Katja Weiss, Volker Scheer, Lee Hill, Ramiro Rolim, Beat Knechtle, Marcos André Moura dos Santos
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283157
+Paper ID: pmc_PMC10062547
+
+Abstract:
+Sports performance is the result of a complex interaction between individual and environmental factors. The purpose of this paper is to explain the methods used in the InTrack Project, a cross-sectional and cross-cultural project developed to investigate the variance in the performance of runners from different countries and to understand whether the differences in the performance can be explained by micro-level (athletes characteristics and proximal environment), meso-level (the distal environment that plays a relevant role on the relationships established at micro-level), and the macro-level (environmental features that shape countries characteristics). The sample will be comprised of runners, of both sexes, from four countries. Data collection will be performed in two steps: i) Individual information and ii) Country-level information. At the individual level, data will be obtained from an online survey. At the country level, characteristics data will be obtained from the secondary data available (demographic, social, and economic variables). Statistical procedures expected to be used include multilevel analysis, latent class analysis, addictive and multiplicative interaction in regression models. This wealth of information is of relevance to fill gaps regarding the existence of variables to connect different levels of information, and to provide scientific support about environmental characteristics important to predict runners’ performance within and between countries.

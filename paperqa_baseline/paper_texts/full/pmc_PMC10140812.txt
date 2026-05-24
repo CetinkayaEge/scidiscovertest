@@ -1,0 +1,9 @@
+Title: Can HRV Predict Prolonged Hospitalization and Favorable or Unfavorable Short-Term Outcome in Patients with Acute Ischemic Stroke?
+Authors: Joanna Aftyka, Jacek Staszewski, Aleksander Dębiec, Aleksandra Pogoda-Wesołowska, Jan Żebrowski
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040856
+Paper ID: pmc_PMC10140812
+
+Abstract:
+The aim of this study was to assess whether the heart rate variability (HRV) could predict a favorable or unfavorable stroke outcome. The endpoint was based on the National Institutes of Health Stroke Scale (NIHSS). The patient’s health condition was assessed upon discharge from the hospital. An unfavorable stroke outcome was defined as death or NIHSS ≥ 9, while NIHSS < 9 meant a favorable stroke outcome. The studied group consisted of 59 patients with acute ischemic stroke AIS (mean age of 65.6 ± 13.2; 58% were females). An original and innovative non-linear measure was used to analyze HRV. It was based on symbolic dynamics consisting of comparing the “length of the longest words” in the night recording of HRV. “The length of the longest word” meant the longest sequence of identical adjacent symbols possible for a patient. An unfavorable stroke outcome occurred in 22 patients, whereas the majority of patients (37) had a favorable stroke outcome. The average hospitalization time of patients with clinical progression was 29 ± 14 days, and with favorable outcomes was 10 ± 3 days. Patients with long words (more than 150 adjacent RR intervals having the same symbol) were hospitalized no longer than 14 days and they had no clinical progression. The patients with a favorable stroke outcome were characterized by longer words. Our pilot study may be the beginning of work on the development of a non-linear, symbolic method as a predictor of prolonged hospitalization and increased risk of clinical progression in patients with AIS.

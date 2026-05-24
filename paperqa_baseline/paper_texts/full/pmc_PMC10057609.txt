@@ -1,0 +1,9 @@
+Title: Surfing the Waves: Differences in Hospitalised COVID-19 Patients across 4 Variant Waves in a Belgian University Hospital
+Authors: Lucie Seyler, Els Van Nedervelde, Diederik De Cock, Claudia Mann, Karen Pien, Sabine D. Allard, Thomas Demuyser
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030618
+Paper ID: pmc_PMC10057609
+
+Abstract:
+The unprecedented COVID-19 pandemic took the form of successive variant waves, spreading across the globe. We wanted to investigate any shift in hospitalised patients’ profiles throughout the pandemic. For this study, we used a registry that collected data automatically from electronic patient health records. We compared clinical data and severity scores, using the National Institute of Health (NIH) severity scores, from all patients admitted for COVID-19 during four SARS-CoV-2 variant waves. Our study concluded that patients hospitalised for COVID-19 showed very different profiles across the four variant waves in Belgium. Patients were younger during the Alpha and Delta waves and frailer during the Omicron period. ‘Critical’ patients according to the NIH criteria formed the largest fraction among the Alpha wave patients (47.7%), while ‘severe’ patients formed the largest fraction among Omicron patients (61.6%). We discussed host factors, vaccination status, and other confounders to put this into perspective. High-quality real-life data remain crucial to inform stakeholders and policymakers that shifts in patients’ clinical profiles have an impact on clinical practice.

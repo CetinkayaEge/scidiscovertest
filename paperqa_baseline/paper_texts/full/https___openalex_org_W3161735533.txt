@@ -1,0 +1,9 @@
+Title: Transient Electronics as Sustainable Systems: From Fundamentals to Applications
+Authors: Reihaneh Jamshidi, Mehrnoosh Taghavimehr, Yuanfen Chen, Nicole N. Hashemi, Reza Montazami
+Year: 2021
+Venue: Advanced Sustainable Systems
+DOI: https://doi.org/10.1002/adsu.202100057
+Paper ID: https://openalex.org/W3161735533
+
+Abstract:
+Abstract The unique attribute of transient technology is that it promotes the potential for the design and implementation of sustainable systems through their capability to fully or partially disintegrate after a predefined period of stable operation. Transient electronics have a wide range of potential applications as biomedical implants, environmental sensors, and hardware‐secured devices. Controlled disintegration of such systems without the need for harsh solvents is a step toward realizing green and sustainable electronics. In this short review, recent progress in the development of transient electronics is studied. First, an overview of the transient materials, both the substrate and electronic component, is described. Second, the mechanisms under which transiency occurs, including aqueous dissolution and thermal degradation, are reported. Third, manufacturing techniques for the fabrication of transient electronics are reviewed. And last, various transient electronic devices and their applications are discussed.

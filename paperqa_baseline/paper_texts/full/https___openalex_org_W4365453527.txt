@@ -1,0 +1,9 @@
+Title: Research on Sustainable Design of Smart Cities Based on the Internet of Things and Ecosystems
+Authors: Chao Gao, Feng Wang, Xiaobing Hu, James Martinez
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15086546
+Paper ID: https://openalex.org/W4365453527
+
+Abstract:
+This paper explores how to improve the sustainability of smart cities from a design perspective, by combining concepts of sustainable design with the Internet of Things and ecosystems. The paper uses a combination of the literature, cases, and model building to develop the research. First, the article analyzes six elements (human, environment, society, economy, and culture) and four dimensions (space, resources, management, and platform) that constitute a sustainable design system for smart cities and constructs a system model based on this analysis; then, the strategy for sustainable design in smart cities is discussed from the perspectives of management and spatial planning by combining CIM and specific cases. The study highlights the importance of prioritizing people and balancing the “people-environment-society-economy-culture” system using technology across the dimensions of management, space, resources, and platform. Moreover, based on the CIM platform, the sustainable design of smart cities can be considered in terms of urban management and spatial planning, enabling people, environment, society, economy, culture, space, resources, and platform to form a smart ecological system and enhance the sustainability of smart cities.

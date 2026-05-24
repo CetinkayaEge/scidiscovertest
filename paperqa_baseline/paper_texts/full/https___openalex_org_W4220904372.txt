@@ -1,0 +1,9 @@
+Title: Sustainable partner selection and order allocation for strategic items: an integrated multi-stage decision-making model
+Authors: Chong Wu, Jing Gao, David Barnes
+Year: 2022
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2022.2025945
+Paper ID: https://openalex.org/W4220904372
+
+Abstract:
+Current environmental issues and government requirements, together with pressure from the market and other stakeholders, emphasise the importance of partner selection in constructing and operating sustainable supply chains. Strategic items, which carry both high supply risk and high importance of purchase, are particularly important in sustainable supply chains. This paper presents an integrated decision-making model, which aims to solve the partner selection and order allocation problem for strategic items in sustainable supply chains. In the proposed model, weightings of different decision-makers are first calculated using Trapezoidal Fuzzy Numbers. Then, Taguchi loss function is used to evaluate the relative importance of potential partners, with the weighting results of criteria by Best-Worst Method. Finally, considering the weights of different potential partners, Particle Swarm Optimisation (PSO) is used to solve the multi-objective programming problem, and Technique of Order Preference Similarity to the Ideal Solution (TOPSIS) is applied to identify the most appropriate Pareto solution for sustainable partner selection and order allocation of strategic items. An illustrative application of the proposed model is undertaken in a leading Chinese LED lighting manufacturer to show its effectiveness and applicability.

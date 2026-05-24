@@ -1,0 +1,9 @@
+Title: Variable rather than extreme slow reaction times distinguish brain states during sustained attention
+Authors: Ayumu Yamashita, David Rothlein, Aaron Kucyi, Eve M. Valera, Laura Germine, Jeremy Wilmer, Joseph DeGutis, Michael Esterman
+Year: 2021
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-021-94161-0
+Paper ID: https://openalex.org/W3184169554
+
+Abstract:
+A common behavioral marker of optimal attention focus is faster responses or reduced response variability. Our previous study found two dominant brain states during sustained attention, and these states differed in their behavioral accuracy and reaction time (RT) variability. However, RT distributions are often positively skewed with a long tail (i.e., reflecting occasional slow responses). Therefore, a larger RT variance could also be explained by this long tail rather than the variance around an assumed normal distribution (i.e., reflecting pervasive response instability based on both faster and slower responses). Resolving this ambiguity is important for better understanding mechanisms of sustained attention. Here, using a large dataset of over 20,000 participants who performed a sustained attention task, we first demonstrated the utility of the exGuassian distribution that can decompose RTs into a strategy factor, a variance factor, and a long tail factor. We then investigated which factor(s) differed between the two brain states using fMRI. Across two independent datasets, results indicate unambiguously that the variance factor differs between the two dominant brain states. These findings indicate that 'suboptimal' is different from 'slow' at the behavior and neural level, and have implications for theoretically and methodologically guiding future sustained attention research.

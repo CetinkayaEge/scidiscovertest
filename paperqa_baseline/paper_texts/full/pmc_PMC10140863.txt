@@ -1,0 +1,9 @@
+Title: Towards a Standardized Antimicrobial Susceptibility Testing Method for Mycoplasma hyorhinis
+Authors: Lisa Käbisch, Anne-Kathrin Schink, Doris Höltig, Joachim Spergser, Corinna Kehrenberg, Stefan Schwarz
+Year: 2023
+Venue: Microorganisms
+DOI: 10.3390/microorganisms11040994
+Paper ID: pmc_PMC10140863
+
+Abstract:
+Conducting antimicrobial susceptibility testing (AST) in a comparable manner requires the availability of a standardized method. Organizations, such as the Clinical and Laboratory Standards Institute (CLSI) or the European Committee on Antimicrobial Susceptibility Testing (EUCAST), provide standardized protocols for a range of fastidious bacteria but not for Mycoplasma hyorhinis . We developed a broth microdilution method for testing M. hyorhinis in a standardized and harmonized way using a modified Friis broth devoid of antimicrobial or otherwise bacterial growth-inhibiting agents. The type strain M. hyorhinis DSM 25591 was chosen to establish the methodology. The antimicrobial agents of interest were doxycycline, enrofloxacin, erythromycin, florfenicol, gentamicin, marbofloxacin, tetracycline, tiamulin, tilmicosin, tulathromycin, and tylosin, tested by using commercial Sensititre TM microtiter plates. In addition, the suitability of the methodology was evaluated via variation of the individual ingredients of the modified Friis broth by either using different batches or choosing other distributors. Despite these alterations, the method provided reliable results. We obtained repeatable minimal inhibitory concentrations for all six tested field isolates and the M. hyorhinis type strain. With this newly proposed method, we aim to provide an improved AST method for diagnostic laboratories and monitoring purposes with better comparability between times and countries. In addition, this new method will allow for an improvement of targeted treatments using antimicrobial agents and thereby reduce the options for resistance development.

@@ -1,0 +1,9 @@
+Title: Relationship between Corporate Sustainability Management and Sustainable Tax Strategies
+Authors: Hee Young, Sung Jong Park
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13137429
+Paper ID: https://openalex.org/W3175078734
+
+Abstract:
+This study analyzed the relationship between the environmental, social, and governance (ESG) assessment results of the Korea Corporate Governance Service, which evaluates the sustainability management levels of Korean companies and the variability in the five-year cash effective tax rates, a proxy for sustainable tax strategies. Corporate sustainability management allows the continuation of businesses that consider environmental protection, social contribution, and ethical management, as well as short-term financial performance. We expect these companies to prioritize sustainable tax strategies that ensure the long-term maintenance of the tax strategy results. Using a sample of firms listed in the Korean securities market during the 2011–2017 period, we adopted a two-way clustered regression model by a firm and year and established a research model with reference to previous studies and tax strategies. We found a significant negative association between excellent ESG ratings and the variability of cash effective tax rates, as well as between the implementation of ESG assessments and the variability of cash effective tax rates. This result indicates that companies with excellent corporate sustainability management strengthen their sustainable tax strategies and that companies become more interested in sustainable tax strategies after implementing ESG assessments. This study sheds light on the relationship between corporate sustainability management and sustainable tax strategies, helping improve our understanding of the impact of corporate sustainability management on sustainable tax strategies.

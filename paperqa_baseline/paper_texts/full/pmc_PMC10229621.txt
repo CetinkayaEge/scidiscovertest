@@ -1,0 +1,9 @@
+Title: Design of bacteriophage T4-based artificial viral vectors for human genome remodeling
+Authors: Jingen Zhu, Himanshu Batra, Neeti Ananthaswamy, Marthandan Mahalingam, Pan Tao, Xiaorong Wu, Wenzheng Guo, Andrei Fokine, Venigalla B. Rao
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38364-1
+Paper ID: pmc_PMC10229621
+
+Abstract:
+Designing artificial viral vectors (AVVs) programmed with biomolecules that can enter human cells and carry out molecular repairs will have broad applications. Here, we describe an assembly-line approach to build AVVs by engineering the well-characterized structural components of bacteriophage T4. Starting with a 120 × 86 nm capsid shell that can accommodate 171-Kbp DNA and thousands of protein copies, various combinations of biomolecules, including DNAs, proteins, RNAs, and ribonucleoproteins, are externally and internally incorporated. The nanoparticles are then coated with cationic lipid to enable efficient entry into human cells. As proof of concept, we assemble a series of AVVs designed to deliver full-length dystrophin gene or perform various molecular operations to remodel human genome, including genome editing, gene recombination, gene replacement, gene expression, and gene silencing. These large capacity, customizable, multiplex, and all-in-one phage-based AVVs represent an additional category of nanomaterial that could potentially transform gene therapies and personalized medicine. Safe delivery of genes is needed for gene therapy. Here the authors build “artificial viral vectors” (AVVs) by engineering the well-characterised structural components of bacteriophage T4: the large capacity, all-in-one, multiplex, programmable, and phage-based AVV nanomaterials have potential for gene therapy.

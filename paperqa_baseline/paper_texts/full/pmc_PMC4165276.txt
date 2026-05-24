@@ -1,0 +1,9 @@
+Title: CD8 + Treg cells suppress CD8 + T cell-responses by IL-10-dependent mechanism during H5N1 influenza virus infection
+Authors: Qiang Zou, Bing Wu, Jia Xue, Xiaoxu Fan, Congcong Feng, Shuang Geng, Ming Wang, Bin Wang
+Year: 2014
+Venue: European Journal of Immunology
+DOI: 10.1002/eji.201343583
+Paper ID: pmc_PMC4165276
+
+Abstract:
+Although Treg-cell-mediated suppression during infection or autoimmunity has been described, functions of Treg cells during highly pathogenic avian influenza virus infection remain poorly characterized. Here we found that in Foxp3-GFP transgenic mice, CD8 + Foxp3 + Treg cells, but not CD4 + Foxp3 + Treg cells, were remarkably induced during H5N1 infection. In addition to expressing CD25, the CD8 + Foxp3 + Treg cells showed a high level of GITR and produced IL-10. In an adoptive transfer model, CD8 + Treg cells suppressed CD8 + T-cell responses and promoted H5N1 virus infection, resulting in enhanced mortality and increased virus load in the lung. Furthermore, in vitro neutralization of IL-10 and studies with IL-10R-deficient mice in vitro and in vivo demonstrated an important role for IL-10 production in the capacity of CD8 + Treg cells to inhibit CD8 + T-cell responses. Our findings identify a previously unrecognized role of CD8 + Treg cells in the negative regulation of CD8 + T-cell responses and suggest that modulation of CD8 + Treg cells may be a therapeutic strategy to control H5N1 viral infection.

@@ -1,0 +1,9 @@
+Title: Green and sustainable metal-organic frameworks (MOFs) in wastewater treatment: A review
+Authors: Hadi Rastin, David Dell’Angelo, Adlane Sayede, Michaël Badawi, Sajjad Habibzadeh
+Year: 2025
+Venue: Environmental Research
+DOI: https://doi.org/10.1016/j.envres.2025.122087
+Paper ID: https://openalex.org/W4411011218
+
+Abstract:
+. Nonetheless, challenges persist in optimizing the photocatalytic efficiency of green MOFs. This review proposes a combination of strategies, such as ligand functionalization, mixed ligand and metal centers, magnetic material addition, immobilizing metal ions, dye sensitization, carbon or metal decoration, and semiconductor coupling, to overcome these obstacles and create high water-stable green MOFs. Emphasizing the importance of sustainable synthesis methods for MOFs, this review highlights their potential in wastewater treatment through photocatalysis. It identifies areas for further research and development to enhance their performance in environmental applications.

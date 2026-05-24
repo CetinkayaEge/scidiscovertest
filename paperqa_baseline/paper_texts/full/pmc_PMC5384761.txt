@@ -1,0 +1,9 @@
+Title: Transcriptomic and physiological analyses of Medicago sativa L. roots in response to lead stress
+Authors: Bo Xu, Yingzhe Wang, Shichao Zhang, Qiang Guo, Yan Jin, Jingjing Chen, Yunhang Gao, Hongxia Ma
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175307
+Paper ID: pmc_PMC5384761
+
+Abstract:
+Lead (Pb) is one of the nonessential and toxic metals that threaten the environment and human health. Medicago sativa L. is a legume with high salt tolerance and high biomass production. It is not only a globally important forage crop but is also an ideal plant for phytoremediation. However, the biological and molecular mechanisms that respond to heavy metals are still not well defined in M . sativa . In this study, de novo and strand-specific RNA-sequencing was performed to identify genes involved in the Pb stress response in M . sativa roots. A total of 415,350 unigenes were obtained from the assembled cDNA libraries, among which 5,416 were identified as significantly differentially expressed genes (DEGs) (false discovery rate < 0.005) between cDNA libraries from control and Pb-treated plants. Gene ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses of the DEGs showed they mainly clustered with terms associated with binding, transport, membranes, and the pathways related to signal and energy metabolism. Moreover, a number of candidate genes included antioxidant enzymes, metal transporters, and transcription factors involved in heavy metal response were upregulated under Pb stress. Quantitative real-time PCR(qRT-PCR) validation of the expression patterns of 10 randomly selected candidate DEGs were consistent with the transcriptome analysis results. Thus, this study offers new information towards the investigation of biological changes and molecular mechanisms related to Pb stress response in plants.

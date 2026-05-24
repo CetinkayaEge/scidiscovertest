@@ -1,0 +1,9 @@
+Title: CBX3 promotes colon cancer cell proliferation by CDK6 kinase-independent function during cell cycle
+Authors: Yao Fan, Haiping Li, Xiaolong Liang, Zheng Xiang
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15253
+Paper ID: pmc_PMC5386735
+
+Abstract:
+Heterochromatin protein 1γ (CBX3) links histone methylation marks to transcriptional silence, DNA repair and RNA splicing, but a role for CBX3 in cancer remains largely unknown. In this study, we show that CBX3 in colon cancer cells promotes the progression of the cell cycle and proliferation in vitro and in vivo . Cell cycle (G1 phase to S phase) related gene CDK6 and p21 were further identified as targets of CBX3. In addition, we found that enhancing CDK6 suppresses cell proliferation by upregulating inhibitor p21 in the absence of CBX3, and this function is independent of the kinase activity of CDK6. Our results demonstrate a key role of CBX3 in colon carcinogenesis via suppressing the expression of CDK6/p21, which may disrupt the role of CDK6 in transcriptionally regulating p21, as part of a negative feedback loop to limit CDK6 excessive activation.

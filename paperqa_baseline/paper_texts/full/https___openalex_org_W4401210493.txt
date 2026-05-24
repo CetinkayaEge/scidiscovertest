@@ -1,0 +1,9 @@
+Title: Assessing Machine Learning Approaches for Photovoltaic Energy Prediction in Sustainable Energy Systems
+Authors: Montaser Abdelsattar, Mohamed A. Ismeil, Mohamed M. A. Azim Zayed, Ahmed Abdelmoety, Ahmed Emad-Eldeen
+Year: 2024
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2024.3437191
+Paper ID: https://openalex.org/W4401210493
+
+Abstract:
+Precise forecasting of solar power output is crucial for integrating renewable energy into power networks, improving efficiency and dependability. This study assesses the efficacy of several Machine Learning (ML) algorithms in predicting solar power generation through a detailed performance comparison. This paper analyzes six algorithms: CatBoost, Gradient Boosting Machines (GBMs), Multilayer Perceptron (MLP) regressor, Support Vector Machines (SVMs), XGBoost, and Random Forest (RF). Using a dataset of 4213 sets of solar power generation data, each model was trained and tested, with performance evaluated based on R-squared (R2) scores for the whole dataset, training set, and test set. Also, this study examined the mean and standard deviation of test set predictions to gauge how consistent each model was. The results showed that RF had the highest overall R2 score of 0.940 and a training set score of 0.971. XGBoost demonstrated exceptional performance on the test set, attaining a high R2 score of 0.822. CatBoost and GBMs exhibited strong performance, albeit with slightly lower R2 values of 0.786 and 0.829, respectively. Although the MLP regressor and SVMs exhibited high training scores, they encountered difficulties in generalizing to unfamiliar data. This paper highlights the effectiveness of combining XGBoost and RF techniques in improving the accuracy of solar power forecasts. The investigation focuses on enhancing the precision and reliability of renewable energy projections through a comprehensive comparison of various contemporary ML techniques.

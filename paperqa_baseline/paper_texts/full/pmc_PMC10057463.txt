@@ -1,0 +1,9 @@
+Title: Rooting and Dating Large SARS-CoV-2 Trees by Modeling Evolutionary Rate as a Function of Time
+Authors: Xuhua Xia
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030684
+Paper ID: pmc_PMC10057463
+
+Abstract:
+Almost all published rooting and dating studies on SARS-CoV-2 assumed that (1) evolutionary rate does not change over time although different lineages can have different evolutionary rates (uncorrelated relaxed clock), and (2) a zoonotic transmission occurred in Wuhan and the culprit was immediately captured, so that only the SARS-CoV-2 genomes obtained in 2019 and the first few months of 2020 (resulting from the first wave of the global expansion from Wuhan) are sufficient for dating the common ancestor. Empirical data contradict the first assumption. The second assumption is not warranted because mounting evidence suggests the presence of early SARS-CoV-2 lineages cocirculating with the Wuhan strains. Large trees with SARS-CoV-2 genomes beyond the first few months are needed to increase the likelihood of finding SARS-CoV-2 lineages that might have originated at the same time as (or even before) those early Wuhan strains. I extended a previously published rapid rooting method to model evolutionary rate as a linear function instead of a constant. This substantially improves the dating of the common ancestor of sampled SARS-CoV-2 genomes. Based on two large trees with 83,688 and 970,777 high-quality and full-length SARS-CoV-2 genomes that contain complete sample collection dates, the common ancestor was dated to 12 June 2019 and 7 July 2019 with the two trees, respectively. The two data sets would give dramatically different or even absurd estimates if the rate was treated as a constant. The large trees were also crucial for overcoming the high rate-heterogeneity among different viral lineages. The improved method was implemented in the software TRAD.

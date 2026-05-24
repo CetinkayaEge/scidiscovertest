@@ -1,0 +1,9 @@
+Title: Evaluating the impact of recycling on polymer of 3D printing for energy and material sustainability
+Authors: Mattew A. Olawumi, Bankole I. Oladapo, Temitope Olumide Olugbade
+Year: 2024
+Venue: Resources Conservation and Recycling
+DOI: https://doi.org/10.1016/j.resconrec.2024.107769
+Paper ID: https://openalex.org/W4399613259
+
+Abstract:
+• Recycled polymers maintain up to 90 % tensile strength after first cycle, reducing material waste. • Energy consumption in recycling processes decreased by 30 %, enhancing environmental sustainability efforts. • Study demonstrates substantial carbon footprint reduction by 25 % through optimized recycling practices. • Incorporation of additives proven to significantly mitigate degradation of mechanical properties over cycles. • Fused Deposition Modeling identified as a viable method for recycling polymer composites effectively. This research explores the sustainability of recycling polymer composites using fused deposition modelling (FDM). The objective was to assess how different recycling cycles affect the mechanical integrity and energy efficiency of recycled polymers. The study employed quantitative assessments of tensile strength, energy consumption, and carbon emissions across multiple recycling cycles. Recycled materials were compared with virgin materials to establish a baseline for degradation and efficiency. Various additives were tested to evaluate their ability to stabilise material properties. Significant findings indicate that recycled polymers retain up to 90 % of their original tensile strength after the first cycle, declining to 80 % after three cycles. Energy usage during the recycling process decreased by 30 %, while the carbon footprint was reduced by 25 %, showcasing notable environmental benefits. The study confirms that FDM recycling of polymer composites can be optimised to achieve substantial sustainability benefits in terms of environmental impact and material preservation.

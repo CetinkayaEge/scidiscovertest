@@ -1,0 +1,9 @@
+Title: A Systematic Review of Blockchain Technology Adoption Barriers and Enablers for Smart and Sustainable Agriculture
+Authors: Gopi Krishna Akella, Santoso Wibowo, Srimannarayana Grandhi, Sameera Mubarak
+Year: 2023
+Venue: Big Data and Cognitive Computing
+DOI: https://doi.org/10.3390/bdcc7020086
+Paper ID: https://openalex.org/W4372341372
+
+Abstract:
+Smart and sustainable agricultural practices are more complex than other industries as the production depends on many pre- and post-harvesting factors which are difficult to predict and control. Previous studies have shown that technologies such as blockchain along with sustainable practices can achieve smart and sustainable agriculture. These studies state that there is a need for a reliable and trustworthy environment among the intermediaries throughout the agrifood supply chain to achieve sustainability. However, there are limited studies on blockchain technology adoption for smart and sustainable agriculture. Therefore, this systematic review uses the PRISMA technique to explore the barriers and enablers of blockchain adoption for smart and sustainable agriculture. Data was collected using exhaustive selection criteria and filters to evaluate the barriers and enablers of blockchain technology for smart and sustainable agriculture. The results provide on the one hand adoption enablers such as stakeholder collaboration, enhance customer trust, and democratization, and, on the other hand, barriers such as lack of global standards, industry level best practices and policies for blockchain adoption in the agrifood sector. The outcome of this review highlights the adoption barriers over enablers of blockchain technology for smart and sustainable agriculture. Furthermore, several recommendations and implications are presented for addressing knowledge gaps for successful implementation.

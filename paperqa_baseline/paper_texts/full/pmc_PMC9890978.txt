@@ -1,0 +1,9 @@
+Title: Improving infra-red polarized imaging efficiency in a bilayer wire-grid polarizer
+Authors: Jiyeon Jeon, Byong Sun Chun, Youryang Seo, Minkyeong Kim, Hakseong Kim, Yeongho Kim, Jong Su Kim, Sang Jun Lee
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00679k
+Paper ID: pmc_PMC9890978
+
+Abstract:
+The optical, plasmonic, and imaging performance of an infra-red polarized system exceeds that of a conventional infra-red detector due to its high resolution and precision. The wire-grid polarizer has large potential for use in an infra-red polarized imaging device owing to its large polarization efficiency. In this study, we theoretically and experimentally investigate a method to improve the polarization efficiency of a wire-grid polarizer. Here, we demonstrated a high-performance wire grid polarizer with a maximum extinction ratio (ER) of 355 using a bilayer structure and dielectric material in the mid-wavelength infra-red (MWIR) region (3000 nm–5000 nm), which is a 4 times higher ER value than that of the monolayer structure. More interestingly, we were able to improve the performance of the bilayer wire-grid polarizer by devising a method to improve the surface roughness using Ar ion milling. The ER for the after-milled sample was 1255, which was markedly larger than that of the before-milled sample. The results of transmittance measurement confirmed that the improvement in the ER was due to the Fabry–Perot (F–P) phenomenon caused by constructive or destructive interference in the bilayer wire-grid structure and the enhancement of the surface smoothness. These results will help design a polarizer structure that will maximize the polarization efficiency and realize a high-performance infrared polarized imaging system. The optical, plasmonic, and imaging performance of an infra-red polarized system exceeds that of a conventional infra-red detector due to its high resolution and precision.

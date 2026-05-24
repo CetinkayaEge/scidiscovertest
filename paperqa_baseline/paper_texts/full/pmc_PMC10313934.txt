@@ -1,0 +1,9 @@
+Title: Targeted deprivation of methionine with engineered Salmonella leads to oncolysis and suppression of metastasis in broad types of animal tumor models
+Authors: Sujin Zhou, Yan Lin, Zhenggang Zhao, Yunhao Lai, Mengmeng Lu, Zishen Shao, Xinyu Mo, Yunping Mu, Zhipeng Liang, Xinxing Wang, Jingming Qu, Hua Shen, Fanghong Li, Allan Z. Zhao
+Year: 2023
+Venue: Cell Reports Medicine
+DOI: 10.1016/j.xcrm.2023.101070
+Paper ID: pmc_PMC10313934
+
+Abstract:
+Summary The strong dependency of almost all malignant tumors on methionine potentially offers a pathway for cancer treatment. We engineer an attenuated strain of Salmonella typhimurium to overexpress an L-methioninase with the aim of specifically depriving tumor tissues of methionine. The engineered microbes target solid tumors and induce a sharp regression in several very divergent animal models of human carcinomas, cause a significant decrease in tumor cell invasion, and essentially eliminate the growth and metastasis of these tumors. RNA sequencing analyses reveal that the engineered Salmonella reduce the expression of a series of genes promoting cell growth, cell migration, and invasion. These findings point to a potential treatment modality for many metastatic solid tumors, which warrants further tests in clinical trials. Graphical abstract Highlights • An attenuated Salmonella strain is engineered to express a methioninase, named SGN1 • The microbe SGN1 can preferentially target and deprive tumor tissues of methionine • SGN1 leads to oncolysis and suppression of metastasis in several types of cancer • SGN1 induces expression changes in those genes regulating growth and metastasis Zhou et al. reveal a technology that uses a genetically engineered microbe to metabolically target methionine dependency, a feature common to the majority of malignancies. The microbe, SGN1, selectively depletes methionine in tumors, leading to oncolysis and suppression of metastasis in several types of tested cancer.

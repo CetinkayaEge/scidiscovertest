@@ -1,0 +1,9 @@
+Title: Unusual enantiomeric D,L- N -acyl homoserine lactones in Pectobacterium atrosepticum and Pseudomonas aeruginosa
+Authors: Umang Dhaubhadel, Abiud E. Portillo, Ondřej Horáček, Yu-Sheng Sung, Daniel W. Armstrong
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283657
+Paper ID: pmc_PMC10065242
+
+Abstract:
+Quorum Sensing allows bacteria to sense their population density via diffusible N -acyl homoserine lactone (N-HL) signaling molecules. Upon reaching a high enough cell density, bacteria will collectively exhibit a phenotype. Until recently, methods used for detection of N-HLs have not considered the chirality of these molecules and it was assumed that only the L-enantiomer was produced by bacteria. The production and effects of D-N-HLs have rarely been studied. In this work, the temporal production of D-N-HLs by the plant pathogen Pectobacterium atrosepticum and the human pathogen Pseudomonas aeruginosa are reported. Both bacteria produced D-N-HLs in significant amounts and in some cases their concentrations were higher than other low abundance L-N-HLs. Previously unreported D-enantiomers of N -3-oxoacyl and N -3-hydroxyacyl homoserine lactones were detected in P . atrosepticum . Interestingly, L-N-HLs produced in the lowest concentrations had relatively higher amounts of their corresponding D-enantiomers. Potential sources of D-N-HLs and their significance are considered.

@@ -1,0 +1,9 @@
+Title: Butterfly Algorithm for Sustainable Lot Size Optimization
+Authors: Zoubida Benmamoun, Widad Fethallah, Mustapha Ahlaqqach, Ikhlef Jebbor, Mouad Benmamoun, Mariam Elkhechafi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151511761
+Paper ID: https://openalex.org/W4385422742
+
+Abstract:
+The challenges faced by classical supply chain management affect efficiency with regard to business. Classical supply chain management is associated with high risks due to a lack of accountability and transparency. The use of optimization algorithms is considered decision-making support to improve the operations and processes in green manufacturing. This paper suggests a solution to the green lot size optimization problem using bio-inspired algorithms, specifically, the butterfly algorithm. For this, our methodology consisted of first collecting the real data, then the data were expressed with a simple function with several constraints to optimize the total costs while reducing the CO2 emission, serving as input for the butterfly algorithm BA model. The BA model was then used to find the optimal lot size that balances cost-effectiveness and sustainability. Through extensive experiments, we compared the results of BA with those of other bio-inspired algorithms, showing that BA consistently outperformed the alternatives. The contribution of this work is to provide an efficient solution to the sustainable lot-size optimization problem, thereby reducing the environmental impact and optimizing the supply chain well. Conclusions: BA has shown that it can achieve the best results compared to other existing optimization methods. It is also a valuable chainsaw tool.

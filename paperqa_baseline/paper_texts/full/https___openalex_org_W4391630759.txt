@@ -1,0 +1,9 @@
+Title: The Role of Artificial Intelligence of Things in Achieving Sustainable Development Goals: State of the Art
+Authors: Γεώργιος Λαμπρόπουλος, Juan Garzón, Sanjay Misra, Kerstin Siakas
+Year: 2024
+Venue: Sensors
+DOI: https://doi.org/10.3390/s24041091
+Paper ID: https://openalex.org/W4391630759
+
+Abstract:
+With the environmental and societal changes, the achievement of sustainable development goals (SDGs) and the realization of sustainability in general is now more important than ever. Through a bibliometric analysis and scientific mapping analysis, this study aims to explore and provide a review regarding the role of artificial intelligence (AI), the Internet of Things (IoT), and artificial intelligence of things (AIoT) in realizing sustainable development and achieving SDGs. AIoT can be defined as the combination of AI with IoT to create more efficient and data-driven interconnected, intelligent, and autonomous IoT systems and infrastructure that use AI methods and algorithms. The analysis involved 9182 documents from Scopus and Web of Science (WoS) from 1989 to 2022. Descriptive statistics of the related documents and the annual scientific production were explored. The most relevant and impactful authors, articles, outlets, affiliations, countries, and keywords were identified. The most popular topics and research directions throughout the years and the advancement of the field and the research focus were also examined. The study examines the results, discusses the main findings, presents open issues, and suggests new research directions. Based on the results of this study, AIoT emerged as an important contributor in ensuring sustainability and in achieving SDGs.

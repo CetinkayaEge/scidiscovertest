@@ -1,0 +1,9 @@
+Title: Sustainable alternative fuel effects on energy consumption of jet engines
+Authors: Randall C. Boehm, Logan C. Scholla, Joshua S. Heyne
+Year: 2021
+Venue: Fuel
+DOI: https://doi.org/10.1016/j.fuel.2021.121378
+Paper ID: https://openalex.org/W3181222438
+
+Abstract:
+High thermal stability enables engine manufacturers to increase the reliance on fuel as a heat sink while reducing the reliance on air, which wastes the energy used to compress it or increases aircraft drag. While the direct impact of waste heat recovery can translate into an energy savings of 0.2% if the maximum fuel temperature limit is increased to 160 °C (from 127 °C), there is a larger impact from a variety of options to improve the thermal efficiency of the engine. In this work, it is predicted that a combined savings of 0.5% or more is possible, 60% of which stems from leveraging the high thermal stability that synthetic fuels can afford. The engine performance and fuel system models that were developed to make these predictions, together with previously developed models to predict fuel properties from composition, have also been used in a series of Monte Carlo simulations to gage the impact of fuel composition variation on engine efficiency. A range of increased efficiency of 0.17% or 0.25% is predicted at high and low power, respectively. This works establishes a methodology to incorporate jet engine efficiency as an objective function in an algorithm designed to optimize sustainable alternative (jet) fuel composition.

@@ -1,0 +1,9 @@
+Title: Circular Recycling Strategies for LFP Batteries: A Review Focusing on Hydrometallurgy Sustainable Processing
+Authors: David Vasconcelos, Jorge Alberto Soares Tenório, Amilton Barbosa Botelho, Denise Crocce Romano Espinosa
+Year: 2023
+Venue: Metals
+DOI: https://doi.org/10.3390/met13030543
+Paper ID: https://openalex.org/W4323663391
+
+Abstract:
+The exponential growth of electric and hybrid vehicles in the last five years forecasts a waste problem when their batteries achieve end-of-life. Li-ion batteries for vehicles have been assembled using materials from natural resources (as Li, Fe, Al, Cu Co, Mn and P). Among them, LiFePO4 cathode materials have demonstrated advantages such as charge–discharge cycles, thermal stability, surface area and raw materials availability (against Ni and Co systems). Due to the performance, LFP batteries stand out in heavy duty fleet, achieving 90% of new energy buses in China. To achieve the circular economy, the recycling of LFP batteries may be carried out by pyrometallurgy (thermal processing), hydrometallurgy (aqueous processing) or both in combination. Comparatively, hydrometallurgical processing is more advantageous due to its low energy consumption and CO2 emissions. In addition, Li may be recovered in a high-pure grade. This work is a literature review of the current alternatives for the recycling of LFP batteries by hydrometallurgy, comparing designed processes in the literature and indicating solutions towards a circular economy. The major recycling steps of hydrometallurgy routes such as pre-treatments, leaching and purification steps will be gathered and discussed in terms of efficiency and environmental impact.

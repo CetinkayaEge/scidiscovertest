@@ -1,0 +1,9 @@
+Title: The impact of pathogenic and artificial mutations on Claudin-5 selectivity from molecular dynamics simulations
+Authors: Alessandro Berselli, Giulio Alberini, Fabio Benfenati, Luca Maragliano
+Year: 2023
+Venue: Computational and Structural Biotechnology Journal
+DOI: 10.1016/j.csbj.2023.04.001
+Paper ID: pmc_PMC10149405
+
+Abstract:
+Tight-junctions (TJs) are multi-protein complexes between adjacent endothelial or epithelial cells. In the blood-brain-barrier (BBB), they seal the paracellular space and the Claudin-5 (Cldn5) protein forms their backbone. Despite the fundamental role in brain homeostasis, little is known on Cldn5-based TJ assemblies. Different structural models were suggested, with Cldn5 protomers generating paracellular pores that restrict the passage of ions and small molecules. Recently, the first Cldn5 pathogenic mutation, G60R, was identified and shown to induce Cl − -selective channels and Na + barriers in BBB TJs, providing an excellent opportunity to validate the structural models. Here, we used molecular dynamics to study the permeation of ions and water through two distinct G60R-Cldn5 paracellular architectures. Only the so-called Pore I reproduces the functional modification observed in experiments, displaying a free energy (FE) minimum for Cl − and a barrier for Na + consistent with anionic selectivity. We also studied the artificial Q57D and Q63D mutations in the constriction region, Q57 being conserved in Cldns except for cation permeable homologs. In both cases, we obtain FE profiles consistent with facilitated passage of cations. Our calculations provide the first in-silico description of a Cldn5 pathogenic mutation, further assessing the TJ Pore I model and yielding new insight on BBB’s paracellular selectivity. Graphical Abstract ga1

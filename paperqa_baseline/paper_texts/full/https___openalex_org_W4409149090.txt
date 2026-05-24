@@ -1,0 +1,9 @@
+Title: Geography for AI sustainability and sustainability for GeoAI
+Authors: Meilin Shi, Krzysztof Janowicz, Judith A. Verstegen, Kitty Currier, Nina Wiedemann, Gengchen Mai, Ivan Majić, Zilong Liu, Rui Zhu
+Year: 2025
+Venue: Cartography and Geographic Information Science
+DOI: https://doi.org/10.1080/15230406.2025.2479796
+Paper ID: https://openalex.org/W4409149090
+
+Abstract:
+Recent years have witnessed a boom in the development of multimodal large-scale generative AI models. These computationally intensive AI models, such as GPT-4, and their associated data centers have undergone increasing scrutiny in terms of their energy consumption and carbon emissions. As awareness of the energy costs and carbon footprints of AI models grows, attention has broadened to include other sustainability-related aspects such as their water consumption, transparency, and further environmental and social implications. In this work, we examine existing tools, frameworks, and evaluation metrics, complementing the ongoing discussions regarding AI’s environmental sustainability with a geographic perspective. This work, on the one hand, contributes to a geographically aware sustainability evaluation of current AI models. On the other hand, it examines the unique characteristics and challenges of GeoAI models, hoping to engage the GeoAI community in the sustainability discussion. Moving forward, we outline future directions on systematic reporting and geographically aware assessment. We then propose potential solutions, such as the adoption of Retrieval-Augmented Generation (RAG) models. Ultimately, we encourage future GeoAI research to acknowledge and address their environmental and social impact, thereby guiding GeoAI toward a more transparent, responsible, and sustainable future.

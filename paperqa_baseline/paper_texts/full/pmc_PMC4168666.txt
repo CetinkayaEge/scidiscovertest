@@ -1,0 +1,9 @@
+Title: Heat-Shock Response Transcriptional Program Enables High-Yield and High-Quality Recombinant Protein Production in Escherichia coli
+Authors: Xin Zhang, Yu Liu, Joseph C. Genereux, Chandler Nolan, Meha Singh, Jeffery W. Kelly
+Year: 2014
+Venue: ACS Chemical Biology
+DOI: 10.1021/cb5004477
+Paper ID: pmc_PMC4168666
+
+Abstract:
+The biosynthesis of soluble, properly folded recombinant proteins in large quantities from Escherichia coli is desirable for academic research and industrial protein production. The basal E. coli protein homeostasis (proteostasis) network capacity is often insufficient to efficiently fold overexpressed proteins. Herein we demonstrate that a transcriptionally reprogrammed E. coli proteostasis network is generally superior for producing soluble, folded, and functional recombinant proteins. Reprogramming is accomplished by overexpressing a negative feedback deficient heat-shock response transcription factor before and during overexpression of the protein-of-interest. The advantage of transcriptional reprogramming versus simply overexpressing select proteostasis network components (e.g., chaperones and co-chaperones, which has been explored previously) is that a large number of proteostasis network components are upregulated at their evolved stoichiometry, thus maintaining the system capabilities of the proteostasis network that are currently incompletely understood. Transcriptional proteostasis network reprogramming mediated by stress-responsive signaling in the absence of stress should also be useful for protein production in other cells.

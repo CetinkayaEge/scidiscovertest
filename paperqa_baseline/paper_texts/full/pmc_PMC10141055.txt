@@ -1,0 +1,9 @@
+Title: Experimental Investigation of Tip Wear of AFM Monocrystalline Silicon Probes
+Authors: Song Huang, Yanling Tian, Tao Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084084
+Paper ID: pmc_PMC10141055
+
+Abstract:
+AFM has a wide range of applications in nanostructure scanning imaging and fabrication. The wear of AFM probes has a significant impact on the accuracy of nanostructure measurement and fabrication, which is particularly significant in the process of nanomachining. Therefore, this paper focuses on the study of the wear state of monocrystalline silicon probes during nanomachination, in order to achieve rapid detection and accurate control of the probe wear state. In this paper, the wear tip radius, the wear volume, and the probe wear rate are used as the evaluation indexes of the probe wear state. The tip radius of the worn probe is detected by the nanoindentation Hertz model characterization method. The influence of single machining parameters, such as scratching distance, normal load, scratching speed, and initial tip radius, on probe wear is explored using the single factor experiment method, and the probe wear process is clearly divided according to the probe wear degree and the machining quality of the groove. Through response surface analysis, the comprehensive effect of various machining parameters on probe wear is determined, and the theoretical models of the probe wear state are established.

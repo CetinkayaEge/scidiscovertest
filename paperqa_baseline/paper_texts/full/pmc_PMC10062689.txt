@@ -1,0 +1,9 @@
+Title: RPA/CRISPR-cas12a as a specific, sensitive and rapid method for diagnosing Ehrlichia canis and Anaplasma platys in dogs in Thailand
+Authors: Suphaporn Paenkaew, Nongluck Jaito, Waranee Pradit, Siriwadee Chomdej, Korakot Nganvongpanit, Puntita Siengdee, Kittisak Buddhachat
+Year: 2023
+Venue: Veterinary Research Communications
+DOI: 10.1007/s11259-023-10114-0
+Paper ID: pmc_PMC10062689
+
+Abstract:
+Rickettsial pathogens including Ehrlichia canis and Anaplasma platys are bacteria that cause parasitic infections in dogs such as canine monocytic ehrlichiosis (CME) and canine cyclic thrombocytopenia (CCT), respectively affecting mortality and morbidity worldwide. An accurate, sensitive, and rapid method to diagnose these agents is essential for effective treatment. In this study, a recombinase polymerase amplification (RPA) coupled with CRISPR-Cas12a methods was established to detect E. canis and A. platys infection in dogs based on the 16S rRNA. The optimal condition for DNA amplification by RPA was 37 °C for 20 min, followed by CRISPR-Cas12a digestion at 37 °C for one hour. A combination of RPA and the cas12a detection method did not react with other pathogens and demonstrated strong sensitivity, detecting as low as 100 copies of both E. canis and A. platys . This simultaneous detection method was significantly more sensitive than conventional PCR. The RPA-assisted cas12a assay provides specific, sensitive, rapid, simple and appropriate detection of rickettsial agents in canine blood at the point-of-care for diagnostics, disease prevention and surveillance. Supplementary Information The online version contains supplementary material available at 10.1007/s11259-023-10114-0.

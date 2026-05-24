@@ -1,0 +1,9 @@
+Title: Designing Sustainable Recovery Network of End‐of‐Life Product during the COVID‐19 Pandemic: A Real and Applied Case Study
+Authors: Sina Abbasi, Maryam Daneshmand-Mehr, Armin Ghane Kanafi
+Year: 2022
+Venue: Discrete Dynamics in Nature and Society
+DOI: https://doi.org/10.1155/2022/6967088
+Paper ID: https://openalex.org/W4304123585
+
+Abstract:
+One of the most important aspects of supply chain management (SCM) is the recovery network (RN), which covers all activities associated with return products (such as collection, recovery, repair, recycling, and waste disposal). Our goal in this paper is to provide a new mathematical model of sustainable end‐of‐life management (SEOLM) during the COVID‐19 pandemic for readers. The suggested recovery network model (RNM) can explain the trade‐offs between economic (minimizing total costs), environmental (minimizing bad environmental impacts), and social (minimizing bad social impacts) aspects during the pandemic and the great lockdown. A new RN can be designed with a sustainable and hygienic design when taking environmental, economic, and social considerations into account. It proposes guidelines for managers and scholars on how to address recovery network design (RND) challenges during the pandemic through a mathematical article with a sustainable approach. The scalarization approach of a multi‐objective mixed‐integer programming (MOMIP) problem in this paper is the weighted sum method. The validation of the presented model and the related Pareto frontier has been illustrated by a case study and numerical example. To perform the optimization process, Lingo software is used.

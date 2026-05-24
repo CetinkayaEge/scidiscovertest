@@ -1,0 +1,9 @@
+Title: Industry 4.0, circular economy and sustainability in the food industry: a literature review
+Authors: Juan Carlos Quiroz-Flores, Renato Jose Aguado-Rodriguez, Edisson Andree Zegarra-Aguinaga, Martin Collao-Díaz, Alberto Flores-Pérez
+Year: 2023
+Venue: International Journal of Industrial Engineering and Operations Management
+DOI: https://doi.org/10.1108/ijieom-12-2022-0071
+Paper ID: https://openalex.org/W4367399787
+
+Abstract:
+Purpose This paper aims to find the best tools to influence the improvement of sustainability in food supply chains (FSCs) by conducting a systematic review of articles. The reader will learn how the different industry 4.0 tools (I4.0T) benefit the FSC and the limitations of each tool. Design/methodology/approach A review of 436 articles published during the period 2019 to 2022 referenced in the Scopus and Web of Science databases was performed. The review was limited to articles published in English and directly related to Industry 4.0, circular economy and sustainability in the food supply chain. Findings The results show different contributions of I4.0, with some being more influential than others in improving sustainability in FSCs; for example, Internet of Things and Blockchain have been shown to contribute more toward transparency, traceability, process optimization and waste reduction. Originality/value The paper's contribution consisted of ranking according to their importance and the I4.0T that affect sustainability in FSCs by classifying the aspects of each tool and the sustainability factors through a categorization by the Analysis Hierarchy Process.

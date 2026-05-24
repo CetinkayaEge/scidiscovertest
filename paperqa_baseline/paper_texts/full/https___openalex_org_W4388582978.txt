@@ -1,0 +1,9 @@
+Title: Radiative Cooling for Energy Sustainability: From Fundamentals to Fabrication Methods Toward Commercialization
+Authors: Sunae So, Jooyeong Yun, Byoungsu Ko, Dasol Lee, Minkyung Kim, Jaebum Noh, C. G. Park, Junkyeong Park, Junsuk Rho
+Year: 2023
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202305067
+Paper ID: https://openalex.org/W4388582978
+
+Abstract:
+Radiative cooling, a technology that lowers the temperature of terrestrial objects by dissipating heat into outer space, presents a promising ecologically-benign solution for sustainable cooling. Recent years witness substantial progress in radiative cooling technologies, bringing them closer to commercialization. This comprehensive review provides a structured overview of radiative cooling technologies, encompassing essential principles, fabrication techniques, and practical applications, with the goal of guiding researchers toward successful commercialization. The review begins by introducing the fundamentals of radiative cooling and the associated design strategies to achieve it. Then, various fabrication methods utilized for the realization of radiative cooling devices are thoroughly discussed. This discussion includes detailed assessments of scalability, fabrication costs, and performance considerations, encompassing both structural designs and fabrication techniques. Building upon these insights, potential fabrication approaches suitable for practical applications and commercialization are proposed. Further, the recent efforts made toward the practical applications of radiative cooling technology, including its visual appearance, switching capability, and compatibility are examined. By encompassing a broad range of topics, from fundamental principles to fabrication and applications, this review aims to bridge the gap between theoretical research and real-world implementation, fostering the advancement and widespread adoption of radiative cooling technology.

@@ -1,0 +1,9 @@
+Title: Mycobacterium RbpA cooperates with the stress-response σ B subunit of RNA polymerase in promoter DNA unwinding
+Authors: Yangbo Hu, Zakia Morichaud, Ayyappasamy Sudalaiyadum Perumal, Françoise Roquet-Baneres, Konstantin Brodolin
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku742
+Paper ID: pmc_PMC4176334
+
+Abstract:
+RbpA, a transcriptional activator that is essential for Mycobacterium tuberculosis replication and survival during antibiotic treatment, binds to RNA polymerase (RNAP) in the absence of promoter DNA. It has been hypothesized that RbpA stimulates housekeeping gene expression by promoting assembly of the σ A subunit with core RNAP. Here, using a purified in vitro transcription system of M. tuberculosis , we show that RbpA functions in a promoter-dependent manner as a companion of RNAP essential for promoter DNA unwinding and formation of the catalytically active open promoter complex (RP o ). Screening for RbpA activity using a full panel of the M. tuberculosis σ subunits demonstrated that RbpA targets σ A and stress-response σ B , but not the alternative σ subunits from the groups 3 and 4. In contrast to σ A , the σ B subunit activity displayed stringent dependency upon RbpA. These results suggest that RbpA-dependent control of RP o formation provides a mechanism for tuning gene expression during the switch between different physiological states, and in the stress response.

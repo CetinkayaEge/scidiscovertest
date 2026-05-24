@@ -1,0 +1,9 @@
+Title: Removal of Organics with Ion-Exchange Resins (IEX) from Reverse Osmosis Concentrate
+Authors: Sukanyah Devaisy, Jaya Kandasamy, Rupak Aryal, Md Abu Hasan Johir, Harsha Ratnaweera, Saravanamuthu Vigneswaran
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13020136
+Paper ID: pmc_PMC9967736
+
+Abstract:
+Reverse osmosis concentrate (ROC) produced as the by-product of the reverse osmosis process consists of a high load of organics (macro and micro) that potentially cause eco-toxicological effects in the environment. Previous studies focused on the removal of such compounds using oxidation, adsorption, and membrane-based treatments. However, these methods were not always efficient and formed toxic by-products. The impact of ion-exchange resin (IEX) (Purolite ® A502PS) was studied in a micro-filtration–IEX hybrid system to remove organics from ROC for varying doses of Purolite ® A502PS (5–20 g/L) at a flux of 36 L/m 2 h. The purolite particles in the membrane reactor reduced membrane fouling, evidenced by the reduction of transmembrane pressure (TMP), by pre-adsorbing the organics, and by mechanically scouring the membrane. The dissolved organic carbon was reduced by 45–60%, out of which 48–81% of the hydrophilics were removed followed by the hydrophobics and low molecular weight compounds (LMWs). This was based on fluorescence excitation-emission matrix and liquid chromatography-organic carbon detection. Negatively charged and hydrophobic organic compounds were preferentially removed by resin. Long-term experiments with different daily replacements of resin are suggested to minimize the resin requirements and energy consumption.

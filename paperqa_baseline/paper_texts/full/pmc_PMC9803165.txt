@@ -1,0 +1,9 @@
+Title: Modeling the ribosome as a bipartite graph
+Authors: Laurie E. Calvet
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279455
+Paper ID: pmc_PMC9803165
+
+Abstract:
+Developing mathematical representations of biological systems that can allow predictions is a challenging and important research goal. It is demonstrated here how the ribosome, the nano-machine responsible for synthesizing all proteins necessary for cellular life, can be represented as a bipartite network. Ten ribosomal structures from Bacteria and six from Eukarya are explored. Ribosomal networks are found to exhibit unique properties despite variations in the nodes and edges of the different graphs. The ribosome is shown to exhibit very large topological redundancies, demonstrating mathematical resiliency. These results can potentially explain how it can function consistently despite changes in composition and connectivity. Furthermore, this representation can be used to analyze ribosome function within the large machinery of network theory, where the degrees of freedom are the possible interactions, and can be used to provide new insights for translation regulation and therapeutics.

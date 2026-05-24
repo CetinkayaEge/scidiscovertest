@@ -1,0 +1,9 @@
+Title: The Process and Mechanism of Preparing Nanoporous Silicon: Helium Ion Implantation
+Authors: Jianguang Wang, Kelin Zhu, Xiaoling Wu, Guoan Cheng, Ruiting Zheng
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081324
+Paper ID: pmc_PMC10141629
+
+Abstract:
+Ion implantation is an effective way to control performance in semiconductor technology. In this paper, the fabrication of 1~5 nm porous silicon by helium ion implantation was systemically studied, and the growth mechanism and regulation mechanism of helium bubbles in monocrystalline silicon at low temperatures were revealed. In this work, 100 keV He ions (1~7.5 × 10 16 ions/cm 2 ) were implanted into monocrystalline silicon at 115 °C~220 °C. There were three distinct stages in the growth of helium bubbles, showing different mechanisms of helium bubble formation. The minimum average diameter of a helium bubble is approximately 2.3 nm, and the maximum number density of the helium bubble is 4.2 × 10 23 m −3 at 175 °C. The porous structure may not be obtained at injection temperatures below 115 °C or injection doses below 2.5 × 10 16 ions/cm 2 . In the process, both the ion implantation temperature and ion implantation dose affect the growth of helium bubbles in monocrystalline silicon. Our findings suggest an effective approach to the fabrication of 1~5 nm nanoporous silicon, challenging the classic view of the relationship between process temperature or dose and pore size of porous silicon, and some new theories are summarized.

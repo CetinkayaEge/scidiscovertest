@@ -1,0 +1,9 @@
+Title: Machine learning-enhanced all-photovoltaic blended systems for energy-efficient sustainable buildings
+Authors: Mohammad Nur‐E‐Alam, Kazi Zehad Mostofa, Boon Kar Yap, Mohammad Khairul Basher, M. A. Islam, Mikhail Vasiliev, Manzoore Elahi M. Soudagar, Narottam Das, Tiong Sieh Kiong
+Year: 2024
+Venue: Sustainable Energy Technologies and Assessments
+DOI: https://doi.org/10.1016/j.seta.2024.103636
+Paper ID: https://openalex.org/W4391065740
+
+Abstract:
+The focus of this work is on the optimization of an all-photovoltaic hybrid power generation systems for energy-efficient and sustainable buildings, aiming for net-zero emissions. This research proposes a hybrid approach combining conventional solar panels with advanced solar window systems and building integrated photovoltaic (BIPV) systems. By analyzing the meteorological data and using the simulation models, we predict energy outputs for different cities such as Kuala Lumpur, Sydney, Toronto, Auckland, Cape Town, Riyadh, and Kuwait City. Although there are long payback times, our simulations demonstrate that the proposed all-PV blended system can meet the energy needs of modern buildings (up to 78%, location dependent) and can be scaled up for entire buildings. The simulated results indicate that Middle Eastern cities are particularly suitable for these hybrid systems, generating approximately 1.2 times more power compared to Toronto, Canada. Additionally, we predict the outcome of the possible incorporation of intelligent and automated systems to boost overall energy efficiency toward achieving a sustainable building environment.

@@ -1,0 +1,9 @@
+Title: IoT Innovations in Sustainable Water and Wastewater Management and Water Quality Monitoring: A Comprehensive Review of Advancements, Implications, and Future Directions
+Authors: Ahmad Alshami, Eslam Ali, Moustafa Elsayed, Abdelrahman E. E. Eltoukhy, Tarek Zayed
+Year: 2024
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2024.3392573
+Paper ID: https://openalex.org/W4395028174
+
+Abstract:
+This comprehensive review explores IoT innovations in water, wastewater management, and water quality monitoring, emphasizing the transformative potential of these technologies. Combining sociometric and systematic review (SR) techniques, the study analyzes scientometric trends and co-occurrence networks linked to review topics. Research primarily centers on these aspects, averaging 15 articles annually since 2017, peaking at 24 in 2021. The SR unveils the widespread use of multiple sensors in monitoring, particularly water level, flow, and pH sensors. Common wireless technologies are emphasized for their role in advancing real-time monitoring. Innovative protocols such as Sigfox and Zigbee enhance sensor-IoT connectivity, improving communication in infrastructure management. Common challenges hindering system efficiency and data flow include sensor accuracy, energy optimization, communication reliability, interdisciplinary collaboration, and sensor coverage. Addressing these gaps is crucial for advancing IoT-driven water systems and enhancing decision-making. This study guides IoT practitioners in integrating automation and sustainability in water and wastewater management.

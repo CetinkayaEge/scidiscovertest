@@ -1,0 +1,9 @@
+Title: Towards Achieving Sustainability in the BRICS Economies: The Role of Renewable Energy Consumption and Economic Risk
+Authors: Opeoluwa Seun Ojekemi, Mehmet Ağa, Cosimo Magazzino
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16145287
+Paper ID: https://openalex.org/W4383911573
+
+Abstract:
+In this study, the focus is on examining the influence of renewable energy consumption, economic risk, and financial risk on the load capacity factor (LF) within the BRICS countries. The analysis covers the time span from 1990 to 2019. The empirical strategy uses the Method of Moments Quantile Regression (MMQR) and long-run estimators (Fixed Effects Ordinary Least Squares, FE-OLS; Dynamic Ordinary Least Squares, DOLS; and Fully Modified Ordinary Least Squares, FMOLS). The findings highlight the presence of a cointegrating relationship. Moreover, fossil fuels and economic growth cause LF to decrease, while economic risk and the use of renewable energy sources increase the deepening of the LF. Furthermore, the results of the MMQR method are confirmed by DOLS, FMOLS, and FE-OLS estimates. Causality results also demonstrate that these factors may forecast ecological quality, indicating that policies for renewable energy consumption, financial risk, renewable energy, and economic growth can all have an impact on the degree of LF. In light of this research, policymakers should strongly encourage expenditures on environmentally friendly technologies and economic and financial stability to increase energy efficiency as well as sustain the widespread adoption and use of energy-saving products.

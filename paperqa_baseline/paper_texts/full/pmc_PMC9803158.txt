@@ -1,0 +1,9 @@
+Title: Non-contact heart rate estimation based on singular spectrum component reconstruction using low-rank matrix and autocorrelation
+Authors: Weibo Wang, Zongkai Wei, Jin Yuan, Yu Fang, Yongkang Zheng
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0275544
+Paper ID: pmc_PMC9803158
+
+Abstract:
+The remote photoplethysmography (rPPG) based on cameras, a technology for extracting pulse wave from videos, has been proved to be an effective heart rate (HR) monitoring method and has great potential in many fields; such as health monitoring. However, the change of facial color intensity caused by cardiovascular activities is weak. Environmental illumination changes and subjects’ facial movements will produce irregular noise in rPPG signals, resulting in distortion of heart rate pulse signals and affecting the accuracy of heart rate measurement. Given the irregular noises such as motion artifacts and illumination changes in rPPG signals, this paper proposed a new method named LA-SSA. It combines low-rank sparse matrix decomposition and autocorrelation function with singular spectrum analysis (SSA). The low-rank sparse matrix decomposition is employed to globally optimize the components of the rPPG signal obtained by SSA, and some irregular noise is removed. Then, the autocorrelation function is used to optimize the global optimization results locally. The periodic components related to the heartbeat signal are selected, and the denoised rPPG signal is obtained by weighted reconstruction with a singular value ratio. The experiment using UBFC-RPPG and PURE database is performed to assess the performance of the method proposed in this paper. The average absolute error was 1.37 bpm, the 95% confidence interval was −7.56 bpm to 6.45 bpm, and the Pearson correlation coefficient was 98%, superior to most existing video-based heart rate extraction methods. Experimental results show that the proposed method can estimate HR effectively.

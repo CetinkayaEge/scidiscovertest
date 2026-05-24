@@ -1,0 +1,9 @@
+Title: A Combination of Acetate, Propionate, and Butyrate Increases Glucose Uptake in C2C12 Myotubes
+Authors: Britt M. J. Otten, Mireille M. J. P. E. Sthijns, Freddy J. Troost
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15040946
+Paper ID: pmc_PMC9967986
+
+Abstract:
+Background: Dietary fibers are subjected to saccharolytic fermentation by the gut microbiota, leading to the production of short chain fatty acids (SCFAs). SCFAs act as signaling molecules to different cells in the human body including skeletal muscle cells. The ability of SCFAs to induce multiple signaling pathways, involving nuclear erythroid 2-related factor 2 (Nrf2), may contribute to the redox balance, and thereby may be involved in glucose homeostasis. The aim of this study is to investigate whether SCFAs increase glucose uptake by upregulating the endogenous antioxidant glutathione (GSH) in C2C12 myotubes. Methods: C2C12 myotubes were exposed to 1, 5, or 20 mM of single (acetate, propionate, or butyrate) or mixtures of SCFAs for 24 h. Cytotoxicity, glucose uptake, and intracellular GSH levels were measured. Results: 20 mM of mixture but not separate SCFAs induced cytotoxicity. Exposure to a mixture of SCFAs at 5 mM increased glucose uptake in myotubes, while 20 mM of propionate, butyrate, and mixtures decreased glucose uptake. Exposure to single SCFAs increased GSH levels in myotubes; however, SCFAs did not prevent the menadione-induced decrease in glucose uptake in myotubes. Conclusions: The effect of SCFAs on modulating glucose uptake in myotubes is not associated with the effect on endogenous GSH levels.

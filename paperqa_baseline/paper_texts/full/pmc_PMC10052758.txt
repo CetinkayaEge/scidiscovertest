@@ -1,0 +1,9 @@
+Title: Measurement Uncertainty in Clinical Validation Studies of Sensors
+Authors: John Mark Ansermino, Guy Albert Dumont, Amy Sarah Ginsburg
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062900
+Paper ID: pmc_PMC10052758
+
+Abstract:
+Accurate clinical sensors and devices are essential to support optimal medical decision-making, and accuracy can be demonstrated through the conduct of clinical validation studies using validated reference sensors and/or devices for comparison. Typically unmeasurable, the true reference value can be substituted with an accepted physiological measurement with an associated uncertainty. We describe a basic model of measurement uncertainty that specifies the factors that may degrade the accuracy of an observed measurement value from a sensor, and we detail validation study design strategies that may be used to quantify and minimize these uncertainties. In addition, we describe a model that extends the observed measurement uncertainty to the resultant clinical decision and the factors that may impact the uncertainty of this decision. Clinical validation studies should be designed to estimate and minimize uncertainty that is unrelated to the sensor accuracy. The contribution of measurement observation uncertainty to clinical decision-making should be minimized but also acknowledged and incorporated into the clinical decision-making process.

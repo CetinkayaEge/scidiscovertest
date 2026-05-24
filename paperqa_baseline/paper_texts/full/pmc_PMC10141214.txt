@@ -1,0 +1,9 @@
+Title: An Ethanol Extract of Perilla frutescens Leaves Suppresses Adrenergic Agonist-Induced Metastatic Ability of Cancer Cells by Inhibiting Src-Mediated EMT
+Authors: Jae-Hoon Jeong, Hyun-Ji Park, Gyoo-Yong Chi, Yung-Hyun Choi, Shin-Hyung Park
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083414
+Paper ID: pmc_PMC10141214
+
+Abstract:
+Previous studies have indicated that the adrenergic receptor signaling pathway plays a fundamental role in chronic stress-induced cancer metastasis. In this study, we investigated whether an ethanol extract of Perilla frutescens leaves (EPF) traditionally used to treat stress-related symptoms by moving Qi could regulate the adrenergic agonist-induced metastatic ability of cancer cells. Our results show that adrenergic agonists including norepinephrine (NE), epinephrine (E), and isoproterenol (ISO) increased migration and invasion of MDA-MB-231 human breast cancer cells and Hep3B human hepatocellular carcinoma cells. However, such increases were completely abrogated by EPF treatment. E/NE induced downregulation of E-cadherin and upregulation of N-cadherin, Snail, and Slug. Such effects were clearly reversed by pretreatment with EPF, suggesting that the antimetastatic activity of EPF could be related to epithelial–mesenchymal transition (EMT) regulation. EPF suppressed E/NE-stimulated Src phosphorylation. Inhibition of Src kinase activity with dasatinib completely suppressed the E/NE-induced EMT process. Transfecting MDA-MB-231 cells with constitutively activated Src (SrcY527F) diminished the antimigration effect of EPF. Taken together, our results demonstrate that EPF can suppress the adrenergic agonist-promoted metastatic ability of cancer cells by inhibiting Src-mediated EMT. This study provides basic evidence supporting the probable use of EPF to prevent metastasis in cancer patients, especially those under chronic stress.

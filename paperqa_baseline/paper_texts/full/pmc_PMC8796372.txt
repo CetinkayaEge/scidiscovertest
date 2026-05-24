@@ -1,0 +1,9 @@
+Title: TDFragMapper: a visualization tool for evaluating experimental parameters in top-down proteomics
+Authors: Jonathan Dhenin, Diogo Borges Lima, Mathieu Dupré, Julia Chamot-Rooke
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab784
+Paper ID: pmc_PMC8796372
+
+Abstract:
+Abstract Motivation We present a new software-tool allowing an easy visualization of fragment ions and thus a rapid evaluation of key experimental parameters on the sequence coverage obtained for the MS/MS (tandem mass spectrometry) analysis of intact proteins. Our tool can process data obtained from various deconvolution and fragment assignment software. Results We demonstrate that TDFragMapper can rapidly highlight the experimental fragmentation parameters that are critical to the characterization of intact proteins of various size using top-down proteomics. Availability and implementation TDFragMapper, a demonstration video and user tutorial are freely available for academic use at https://msbio.pasteur.fr/tdfragmapper ; all data are thus available from the ProteomeXchange consortium (identifier PXD024643). Supplementary information Supplementary data are available at Bioinformatics online.

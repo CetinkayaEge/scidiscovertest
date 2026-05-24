@@ -1,0 +1,9 @@
+Title: Extremely low thermal conductivity and high electrical conductivity of sustainable carbonceramic electrospun nonwoven materials
+Authors: Xiao-Jian Liao, Jakob Denk, Thomas Tran, Nοbuyοshi Miyajima, Lothar Benker, Sabine Rosenfeldt, Stefan Schafföner, Markus Retsch, Andreas Greiner, Günter Motz, Seema Agarwal
+Year: 2023
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.ade6066
+Paper ID: https://openalex.org/W4362469632
+
+Abstract:
+Materials with an extremely low thermal and high electrical conductivity that are easy to process, foldable, and nonflammable are required for sustainable applications, notably in energy converters, miniaturized electronics, and high-temperature fuel cells. Given the inherent correlation between high thermal and high electrical conductivity, innovative design concepts that decouple phonon and electron transport are necessary. We achieved this unique combination of thermal conductivity 19.8 ± 7.8 mW/m/K (cross-plane) and 31.8 ± 11.8 mW/m/K (in-plane); electrical conductivity 4.2 S/cm in-plane in electrospun nonwovens comprising carbon as the matrix and silicon-based ceramics as nano-sized inclusions with a sea-island nanostructure. The carbon phase modulates electronic transport for high electrical conductivity, and the ceramic phase induces phonon scattering for low thermal conductivity by excessive boundary scattering. Our strategy can be used to fabricate the unique nonwoven materials for real-world applications and will inspire the design of materials made from carbon and ceramic.

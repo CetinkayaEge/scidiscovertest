@@ -1,0 +1,9 @@
+Title: Measuring banks' sustainability performances: The BESGI score
+Authors: Federica Ielasi, Marco Bellucci, Mario Biggeri, Lucia Ferrone
+Year: 2023
+Venue: Environmental Impact Assessment Review
+DOI: https://doi.org/10.1016/j.eiar.2023.107216
+Paper ID: https://openalex.org/W4385326049
+
+Abstract:
+Internal and external pressures push the financial system towards an increasingly socially and environmentally responsible orientation. How to measure the overall ESG performance of a bank, considering both direct and indirect impacts? This study proposes a new indicator, the BESGI score (Banks' Environmental, Social, Governance and Indirect Impacts). Compared to other more traditional ESG scores, the model a) is bank-specific, b) is based on public data and then highly replicable, c) it can assess the level of a bank's sustainability both in its internal processes and procedures and in its choices about financing and investing activities, and d) is based on an innovative aggregation methodology, the Multidimensional Synthesis of Indicators, to consider the synergies among dimensions and penalize heterogeneity in the multidimensional bank results. We offer both a theoretical and an empirical contribution. First, the novel scoring model is presented, with indicators validated by practitioners and a theoretical framework rooted in organisational facades and legitimacy, signalling, and institutional theories. Secondly, we apply the BESGI scoring model to significant European banks and analyse its main determinants. Our results show relevant opportunities for banks to improve towards an overall and multi-comprehensive sustainability, especially concerning social measures and a higher focus on indirect impacts.

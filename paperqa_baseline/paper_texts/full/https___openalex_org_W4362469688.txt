@@ -1,0 +1,9 @@
+Title: Progress in Sustainable Polymers from Biological Matter
+Authors: Ian Campbell, Meng-Yen Lin, Hareesh Iyer, Mallory Parker, Jeremy L. Fredricks, Kuotian Liao, Andrew M. Jimenez, Paul Grandgeorge, Eleftheria Roumeli
+Year: 2023
+Venue: Annual Review of Materials Research
+DOI: https://doi.org/10.1146/annurev-matsci-080921-083655
+Paper ID: https://openalex.org/W4362469688
+
+Abstract:
+The increasing consumption of nonrenewable materials urgently calls for the design and fabrication of sustainable alternatives. New generations of materials should be derived from renewable sources, processed using environmentally friendly methods, and designed considering their full life cycle, especially their end-of-life fate. Here, we review recent advances in developing sustainable polymers from biological matter (biomatter), including progress in the extraction and utilization of bioderived monomers and polymers, as well as the emergence of polymers produced directly from unprocessed biomatter (entire cells or tissues). We also discuss applications of sustainable polymers in bioplastics, biocomposites, and cementitious biomaterials, with emphasis on relating their performance to underlying fundamental mechanisms. Finally, we provide a future outlook for sustainable material development, highlighting the need for more accurate and accessible tools for assessing life-cycle impacts and socioeconomic challenges as this field advances.

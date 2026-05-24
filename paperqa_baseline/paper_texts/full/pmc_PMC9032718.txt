@@ -1,0 +1,9 @@
+Title: Eltrombopag as an Allosteric Inhibitor of the METTL3-14 Complex Affecting the m 6 A Methylation of RNA in Acute Myeloid Leukemia Cells
+Authors: Je-Heon Lee, Namjeong Choi, Subin Kim, Mi Sun Jin, Haihong Shen, Yong-Chul Kim
+Year: 2022
+Venue: Pharmaceuticals
+DOI: 10.3390/ph15040440
+Paper ID: pmc_PMC9032718
+
+Abstract:
+N 6 A-methyladenosine (m 6 A) post-transcriptional modification, the most abundant internal RNA modification, is catalyzed by the METTL3-14 methyltransferase complex. Recently, attention has been drawn to the METTL3-14 complex regarding its significant roles in the pathogenesis of acute myeloid leukemia (AML), attracting the potential of novel therapeutic targets for the disease. Herein, we report the identification and characterization of eltrombopag as a selective allosteric inhibitor of the METTL3-14 complex. Eltrombopag exhibited selective inhibitory activity in the most active catalytic form of the METTL3-14 complex by direct binding, and the mechanism of inhibition was confirmed as a noncompetitive inhibition by interacting at a putative allosteric binding site in METTL3, which was predicted by cavity search and molecular docking studies. At a cellular level, eltrombopag displayed anti-proliferative effects in the relevant AML cell line, MOLM-13, in correlation with a reduction in m 6 A levels. Molecular mechanism studies of eltrombopag using m 6 A-seq analysis provided further evidence of its cellular function by determining the hypomethylation of leukemogenic genes in eltrombopag-treated MOLM-13 cells and the overlapping of the pattern with those of METTL3-knockdown MOLM-13 cells. In conclusion, eltrombopag was first disclosed as a functional METTL3-14 allosteric inhibitor in AML cells, which could be utilized for the further development of novel anti-AML therapy.

@@ -1,0 +1,9 @@
+Title: Coordinated Control of Slip Ratio for Wheeled Mobile Robots Climbing Loose Sloped Terrain
+Authors: Zhengcai Li, Yang Wang
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/396382
+Paper ID: pmc_PMC4167808
+
+Abstract:
+A challenging problem faced by wheeled mobile robots (WMRs) such as planetary rovers traversing loose sloped terrain is the inevitable longitudinal slip suffered by the wheels, which often leads to their deviation from the predetermined trajectory, reduced drive efficiency, and possible failures. This study investigates this problem using terramechanics analysis of the wheel-soil interaction. First, a slope-based wheel-soil interaction terramechanics model is built, and an online slip coordinated algorithm is designed based on the goal of optimal drive efficiency. An equation of state is established using the coordinated slip as the desired input and the actual slip as a state variable. To improve the robustness and adaptability of the control system, an adaptive neural network is designed. Analytical results and those of a simulation using Vortex demonstrate the significantly improved mobile performance of the WMR using the proposed control system.

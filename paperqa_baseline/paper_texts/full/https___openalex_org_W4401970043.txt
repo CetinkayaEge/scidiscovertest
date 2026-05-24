@@ -1,0 +1,9 @@
+Title: Artificial intelligence and sustainable development during urbanization: Perspectives on AI R&amp;D innovation, AI infrastructure, and AI market advantage
+Authors: Qiang Wang, Fuyu Zhang, Rongrong Li
+Year: 2024
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.3150
+Paper ID: https://openalex.org/W4401970043
+
+Abstract:
+Abstract This study explores the impact of artificial intelligence (AI) on sustainable development across 51 countries during urbanization. Using panel data, the study examines AI's effects on sustainable development through three dimensions: R&amp;D innovation, infrastructure, and market advantage. The results demonstrate that AI promotes sustainable development, with AI R&amp;D innovation exerting the strongest influence, followed by AI infrastructure, whereas AI market advantage has the smallest impact. Additionally, the study uncovers regional heterogeneity in AI's impacts. In countries with upper middle sustainable development levels (60%–70% quantiles), AI's promoting effect is the strongest. Moreover, urbanization plays a threshold role in the relationship between AI and sustainable development. When urbanization is below the threshold, AI infrastructure and R&amp;D innovation promote sustainable development, whereas AI market advantage inhibit it. Conversely, when urbanization exceeds this threshold, AI infrastructure inhibits sustainable development, the impact of AI R&amp;D innovation becomes insignificant, and AI market advantage begin to promote sustainable development. This study recommends governments should consider the level of urbanization and sustainable development when crafting sustainable development policies utilizing AI.

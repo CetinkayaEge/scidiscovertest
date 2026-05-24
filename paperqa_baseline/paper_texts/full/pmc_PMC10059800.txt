@@ -1,0 +1,9 @@
+Title: Beat-Notes Acquisition of Laser Heterodyne Interference Signal for Space Gravitational Wave Detection
+Authors: Zhenpeng Wang, Tao Yu, Yanlin Sui, Zhi Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063124
+Paper ID: pmc_PMC10059800
+
+Abstract:
+In space gravitational wave detection missions, the laser heterodyne interference signal (LHI signal) has a high-dynamic characteristic due to the Doppler shift. Therefore, the three beat-notes frequencies of the LHI signal are changeable and unknown. This may further lead to the unlocking of the digital phase-locked loop (DPLL). Traditionally, fast Fourier transform (FFT) has been used as a method for frequency estimation. However, the estimation accuracy cannot meet the requirement of space missions because of the limited spectrum resolution. In order to improve the multi-frequency estimation accuracy, a method based on center of gravity (COG) is proposed. The method improves the estimation accuracy by using the amplitude of the peak points and the neighboring points of the discrete spectrum. For different windows that may be used for signal sampling, a general expression for multi-frequency correction of the windowed signal is derived. Meanwhile, a method based on error integration to reduce the acquisition error is proposed, which solves the problem of acquisition accuracy degradation caused by communication codes. The experimental results show that the multi-frequency acquisition method is able to accurately acquire the three beat-notes of the LHI signal and meet the requirement of space missions.

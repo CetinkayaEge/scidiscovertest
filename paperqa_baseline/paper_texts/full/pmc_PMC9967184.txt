@@ -1,0 +1,9 @@
+Title: Left Ventricular Unloading in Patients on Venoarterial Extracorporeal Membrane Oxygenation Therapy in Cardiogenic Shock: Prophylactic Versus Bail-Out Strategy
+Authors: Darko Radakovic, Armin Zittermann, Sebastian V. Rojas, Dragan Opacic, Artyom Razumov, Emir Prashovikj, Henrik Fox, René Schramm, Michiel Morshuis, Volker Rudolph, Jan Gummert, Christian Flottmann, Marcus-André Deutsch
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13020582
+Paper ID: pmc_PMC9967184
+
+Abstract:
+Background: The benefit of prophylactic left ventricular (LV) unloading during venoarterial extracorporeal membrane oxygenation (VA-ECMO) in selected patients at risk of developing LV distension remains unclear. Methods: We enrolled 136 patients treated with Impella pump decompression during VA-ECMO therapy for refractory cardiogenic shock. Patients were stratified by specific indication for LV unloading in the prophylactic vs. bail-out group. The bail-out unloading strategy was utilized to treat LV distension in VA-ECMO afterload-associated complications. The primary endpoint was all-cause 30-day mortality after VA-ECMO implantation. The secondary endpoint was successful myocardial recovery, transition to durable mechanical circulatory support (MCS), or heart transplantation. Results: After propensity score matching, prophylactic unloading was associated with a significantly lower 30-day mortality risk (risk ratio 0.38, 95% confidence interval 0.23–0.62, and p < 0.001) and a higher probability of myocardial recovery (risk ratio 2.9, 95% confidence interval 1.48–4.54, and p = 0.001) compared with the bail-out strategy. Heart transplantation or durable MCS did not differ significantly between groups. Conclusions: Prophylactic unloading compared with the bail-out strategy may improve clinical outcomes in selected patients on VA-ECMO. Nevertheless, randomized trials are needed to validate these results.

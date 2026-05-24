@@ -1,0 +1,9 @@
+Title: The TAZ–miR-224–SMAD4 axis promotes tumorigenesis in osteosarcoma
+Authors: Jianjun Ma, Kangmao Huang, Yan Ma, Menglu Zhou, Shunwu Fan
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2016.468
+Paper ID: pmc_PMC5386375
+
+Abstract:
+Transcriptional co-activator with PDZ-binding motif (TAZ) is a downstream effector of the Hippo signaling pathway that participates in tumorigenesis. The aim of this study was to identify the miRNA counterpart for TAZ and elucidate the mechanism underlying the tumorigenic effect of TAZ. We demonstrated that TAZ is upregulated in osteosarcoma (OS) tissues and cell lines, and that TAZ overexpression can induce cell migration, invasion and proliferation. Moreover, miRNA-224 (miR-224), a TAZ phenocopy that functions downstream of TAZ, was found to be upregulated with TAZ overexpression. Further, a mechanistic study revealed that miR-224 functions by inhibiting the tumor suppressor, SMAD4, to support the proliferation and migration of OS cells. Our findings indicate that targeting TAZ and miR-224 could be a promising approach for the treatment of OS.

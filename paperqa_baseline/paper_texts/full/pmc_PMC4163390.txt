@@ -1,0 +1,9 @@
+Title: Lentivirus Mediated siRNA against GluN2B Subunit of NMDA Receptor Reduces Nociception in a Rat Model of Neuropathic Pain
+Authors: Feixiang Wu, Ruirui Pan, Jiaying Chen, Megumi Sugita, Caiyang Chen, Yong Tao, Weifeng Yu, Yuming Sun
+Year: 2014
+Venue: BioMed Research International
+DOI: 10.1155/2014/871637
+Paper ID: pmc_PMC4163390
+
+Abstract:
+Although neuropathic pain (NP) is still not fully understood by scientists and clinicians alike, studies suggest that N-methyl-D-aspartate (NMDA) receptors play an important role in the induction and maintenance of NP. A promising treatment for NP is through the downregulation of NMDA subunit GluN2B by RNA interference; however, naked siRNA (small interference RNA) is not effective in long-term treatments. In order to concoct a viable prolonged treatment for NP, Lv-siGluN2B (lentivirus carrying siRNA targeting GluN2B subunit) was prepared and the antinociception effects were observed in chronic constriction injury (CCI) rats in the present study. Results showed that Lv-siGluN2B was transduced into spinal cord cells after intrathecal injections and effectively reduced the nociception induced by sciatic nerve ligation while inhibiting the mRNA and protein expression of GluN2B. This antinociception effect lasted approximately 7 weeks. These findings suggest that GluN2B subunit could be a target for NP treatment and Lv-siGluN2B represents a new potential option for long-term treatment of NP.

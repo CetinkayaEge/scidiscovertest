@@ -1,0 +1,9 @@
+Title: Encapsulation of Copper Nanoparticles in Electrospun Nanofibers for Sustainable Removal of Pesticides
+Authors: Ana Isabel Quilez-Molina, Suset Barroso-Solares, Violeta Hurtado-García, José Alejandro Heredia-Guerrero, María Luz Rodriguez-Mendez, Miguel Ángel Rodríguez-Pérez, Javier Pinto
+Year: 2023
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.3c00849
+Paper ID: pmc_PMC10141258
+
+Abstract:
+The excellent catalytic properties of copper nanoparticles (CuNPs) for the degradation of the highly toxic and recalcitrant chlorpyrifos pesticide are widely known. However, CuNPs generally present low stability caused by their high sensitivity to oxidation, which leads to a change of the catalytic response over time. In the current work, the immobilization of CuNPs into a polycaprolactone (PCL) matrix via electrospinning was demonstrated to be a very effective method to retard air and solvent oxidation and to ensure constant catalytic activity in the long term. CuNPs were successfully anchored into PCL electrospun fibers in the form of Cu 2 O at different concentrations (from 1.25 wt % to 5 wt % with respect to the PCL), with no signs of loss by leaching out. The PCL mats loaded with 2.5 wt % Cu (PCL-2.5Cu) almost halved the initial concentration of pesticide (40 mg/L) after 96 h. This process was performed in two unprompted and continuous steps that consisted of adsorption, followed by degradation. Interestingly, the degradation process was independent of the light conditions (i.e., not photocatalytic), expanding the application environments (e.g., groundwaters). Moreover, the PCL-2.5Cu composite presents high reusability, retaining the high elimination capability for at least five cycles and eliminating a total of 100 mg/L of chlorpyrifos, without exhibiting any sign of morphological damages.

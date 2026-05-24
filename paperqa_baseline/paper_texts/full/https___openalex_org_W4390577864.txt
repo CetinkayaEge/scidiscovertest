@@ -1,0 +1,9 @@
+Title: Sustainable and intelligent time-series models for epidemic disease forecasting and analysis
+Authors: Anureet Chhabra, Sunil K. Singh, Akash Sharma, Sudhakar Kumar, Brij B. Gupta, Varsha Arya, Kwok Tai Chui
+Year: 2024
+Venue: Sustainable Technology and Entrepreneurship
+DOI: https://doi.org/10.1016/j.stae.2023.100064
+Paper ID: https://openalex.org/W4390577864
+
+Abstract:
+There is an increasing risk of outbreaks escalating into epidemics, despite huge advances in medical science. Epidemics like COVID-19, Monkeypox, Influenza and HIV have been affecting people and public health infrastructure at an alarming rate around the world. COVID-19 alone has infected more than 500 million people out of which 6 million have died over 100 countries. HIV is also a major global public health issue and has claimed 85.6 million lives till 2023. Forecasting the trends of these epidemics is important in order to efficiently manage national and global health risks by improving early warning systems. Therefore an intelligent framework to forecast epidemic diseases is proposed and a detailed comparative analysis is conducted using different time-series models. This study contributes to (Sustainable Development Goal) SDG-3 by predicting epidemics disease trends precisely using ARIMA, Polynomial Regression, SARIMA, Holt’s, Fb-Prophet time-series models, which can decrease the burden on healthcare systems. Using the best-suited models, the Mean Absolute Percentage Error (MAPE) values for Monkeypox, HIV, COVID-19 and Influenza forecasting were 0.0129, 0.0035, 0.0011, and 0.024 respectively.

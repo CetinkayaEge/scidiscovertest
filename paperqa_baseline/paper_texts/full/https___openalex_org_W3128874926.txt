@@ -1,0 +1,9 @@
+Title: The Role of Technical Efficiency Achieving Sustainable Development: A Dynamic Analysis of Norwegian Dairy Farms
+Authors: Habtamu Alem
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041841
+Paper ID: https://openalex.org/W3128874926
+
+Abstract:
+Growing environmental concerns have prompted governments to make sustainable choices in agricultural resource use. Evaluating the sustainability of agricultural systems is a key issue for the implementation of policies and practices aimed at revealing sustainability. This study aimed to evaluate the performance of Norwegian dairy farms, accounting for marginal effects of environmental (exogenous) variables. We adopted the dynamic parametric approach within the input distance function framework to estimate the performance of Norwegian dairy farms, focusing on the technical efficiency and determinates. For comparison, we also estimated the static parametric model, which was used by previous studies. We used unbalanced farm-level panel data for the period 2000–2018. The result shows a mean technical efficiency score of 0.92 for the dynamic model and 0.87 for the static models. The empirical result shows that the previous studies that focused on the static model reported a biased result on the performance of dairy farms. The dynamic efficiency score suggests that Norwegian dairy farms can reduce the input requirement of producing the average output by 8% if the operation becomes technically efficient. The environmental variables have a different effect on the performance of the farmers; thus, policymakers need to place special focus on these variables for the sustainable development of the dairy sector.

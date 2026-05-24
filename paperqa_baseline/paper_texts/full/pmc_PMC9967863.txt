@@ -1,0 +1,9 @@
+Title: Recent Advances in Localized Immunomodulation Technology: Application of NIR-PIT toward Clinical Control of the Local Immune System
+Authors: Mizuki Yamada, Kohei Matsuoka, Mitsuo Sato, Kazuhide Sato
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020561
+Paper ID: pmc_PMC9967863
+
+Abstract:
+Current immunotherapies aim to modulate the balance among different immune cell populations, thereby controlling immune reactions. However, they often cause immune overactivation or over-suppression, which makes them difficult to control. Thus, it would be ideal to manipulate immune cells at a local site without disturbing homeostasis elsewhere in the body. Recent technological developments have enabled the selective targeting of cells and tissues in the body. Photo-targeted specific cell therapy has recently emerged among these. Near-infrared photoimmunotherapy (NIR-PIT) has surfaced as a new modality for cancer treatment, which combines antibodies and a photoabsorber, IR700DX. NIR-PIT is in testing as an international phase III clinical trial for locoregional recurrent head and neck squamous cell carcinoma (HNSCC) patients (LUZERA-301, NCT03769506 ), with a fast-track designation by the United States Food and Drug Administration (US-FDA). In Japan, NIR-PIT for patients with recurrent head and neck cancer was conditionally approved in 2020. Although NIR-PIT is commonly used for cancer therapy, it could also be exploited to locally eliminate certain immune cells with antibodies for a specific immune cell marker. This strategy can be utilized for anti-allergic therapy. Herein, we discuss the recent technological advances in local immunomodulation technology. We introduce immunomodulation technology with NIR-PIT and demonstrate an example of the knockdown of regulatory T cells (Tregs) to enhance local anti-tumor immune reactions.

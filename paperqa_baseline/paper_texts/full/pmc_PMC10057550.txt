@@ -1,0 +1,9 @@
+Title: Effects of Upper Limb Robot-Assisted Rehabilitation Compared with Conventional Therapy in Patients with Stroke: Preliminary Results on a Daily Task Assessed Using Motion Analysis
+Authors: Marco Germanotta, Laura Cortellini, Sabina Insalaco, Irene Aprile
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063089
+Paper ID: pmc_PMC10057550
+
+Abstract:
+Robotic rehabilitation of the upper limb has demonstrated promising results in terms of the improvement of arm function in post-stroke patients. The current literature suggests that robot-assisted therapy (RAT) is comparable to traditional approaches when clinical scales are used as outcome measures. Instead, the effects of RAT on the capacity to execute a daily life task with the affected upper limb are unknown, as measured using kinematic indices. Through kinematic analysis of a drinking task, we examined the improvement in upper limb performance between patients following a robotic or conventional 30-session rehabilitation intervention. In particular, we analyzed data from nineteen patients with subacute stroke (less than six months following stroke), nine of whom treated with a set of four robotic and sensor-based devices and ten with a traditional approach. According to our findings, the patients increased their movement efficiency and smoothness regardless of the rehabilitative approach. After the treatment (either robotic or conventional), no differences were found in terms of movement accuracy, planning, speed, or spatial posture. This research seems to demonstrate that the two investigated approaches have a comparable impact and may give insight into the design of rehabilitation therapy.

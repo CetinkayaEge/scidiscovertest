@@ -1,0 +1,9 @@
+Title: Analyzing Fiscal Sustainability
+Authors: Huixin Bi, Eric M. Leeper
+Year: 2021
+Venue: Econstor (Econstor)
+DOI: https://doi.org/10.34989/swp-2013-27
+Paper ID: https://openalex.org/W2207072859
+
+Abstract:
+The authors study the implications of fiscal policy behaviour for sovereign risk in a framework that determines a country’s fiscal limit, the point at which, for economic or political reasons, taxes and spending can no longer adjust to stabilize debt. A real business cycle model maps the economic environment - expected fiscal policy, the distribution of exogenous disturbances and private agents’ behaviour - into a distribution for the maximum sustainable debt-to-GDP ratio. Default is possible at any point on this fiscal limit distribution. Calibrations of the model to Greek and Swedish data illustrate how the framework can be used to study actual fiscal reforms undertaken by developed economies facing sovereign risk pressures.

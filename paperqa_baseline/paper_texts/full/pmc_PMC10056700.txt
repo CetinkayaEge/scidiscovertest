@@ -1,0 +1,9 @@
+Title: Examination of the ZXY Arena Tracking System for Association Football Pitches
+Authors: Jon Ingulf Medbø, Einar Ylvisåker
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063179
+Paper ID: pmc_PMC10056700
+
+Abstract:
+Modern analyses of football games require precise recordings of positions and movements. The ZXY arena tracking system reports the position of players wearing a dedicated chip (transponder) at high time resolution. The main issue addressed here is the quality of the system’s output data. Filtering the data to reduce noise may affect the outcome adversely. Therefore, we have examined the precision of the data given, possible influence by sources of noise, the effect of the filtering, and the accuracy of the built-in calculations. The system’s reported positions of the transponders at rest and during different types of movements, including accelerations, were recorded and compared with the true positions, speeds, and accelerations. The reported position has a random error of ≈0.2 m, defining the system’s upper spatial resolution. The error in signals interrupted by a human body was of that magnitude or less. There was no significant influence of nearby transponders. Filtering the data delayed the time resolution. Consequently, accelerations were dampened and delayed, causing an error of 1 m for sudden changes in position. Moreover, fluctuations of the foot speed of a running person were not accurately reproduced, but rather, averaged over time periods >1 s. Results calculated from measured values appeared accurate and were readily reproduced in a spreadsheet output. In conclusion, the ZXY system reports the position with little random error. Its main limitation is caused by averaging of the signals.

@@ -1,0 +1,9 @@
+Title: Examining green-sustainable approaches for recycling of lithium-ion batteries
+Authors: Qi Zhao, Kuan Sun, Xun Wang, Qing Wang, John Wang
+Year: 2023
+Venue: DeCarbon
+DOI: https://doi.org/10.1016/j.decarb.2023.100034
+Paper ID: https://openalex.org/W4389454711
+
+Abstract:
+The ever-rising demand for lithium-ion batteries (LIBs) in the coming two decades has created a substantial market for battery recycling industry. The rejuvenation of spent batteries will not only transform the huge quantity of solid wastes into valuable resources but also promote the sustainable use of natural resources, while mitigating the environmental risks in association with landfills. Despite the significant progress made in the recovery efficiency through various recycling methods, including pyrometallurgy, hydrometallurgy and direct recycling, each of the currently-used methods is not an entirely pollution-free activity. Herein, the concept of “green” approach is proposed to encompass the “3L” criteria, which denotes Less energy consumption, Less greenhouse gas emissions, and Less operational cost. To achieve this great objective, the green potential for various recycling methods is examined in this overview. Additionally, we systematically discuss the optimal approaches for enhancing environmental friendliness while maintaining high recovery efficiency, with particular emphasis on the mild leaching and relithiation processes. Furthermore, in targeting of the main challenges of inadequate scalability, poor battery traceability, and high labor consumption, a multiple closed-loop recycling roadmap that includes regulation, artificial intelligence-assisted pretreatment, targeted recycling and other novel applications, is developed, highlighting the green-sustainable concept for the next-generation battery recycling industry.

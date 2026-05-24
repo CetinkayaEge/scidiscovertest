@@ -1,0 +1,9 @@
+Title: Optimizing sustainable urban mobility: A comprehensive review of electric bus scheduling strategies and future directions
+Authors: Foroogh Behnia, Beth-Anne Schuelke-Leech, Mitra Mirhassani
+Year: 2024
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2024.105497
+Paper ID: https://openalex.org/W4396617990
+
+Abstract:
+Public transportation is in a new era of electrification, with battery-powered electric buses emerging for sustainable urban mobility. However, their operational characteristics, including prolonged charging times and limited travel distances, have introduced complex scheduling challenges that demand innovative solutions. This review paper explores the Electric Bus Scheduling Problem (EBSP), comprehensively analyzing state-of-the-art research in this rapidly evolving field. The literature is categorized based on structural and procedural aspects. In the structural section, the different structures of defining EBSP have been explained. Moreover, mathematical models, their associated constraints, and objective functions are examined. The procedural section reviews various solution methodologies based on the underlying objective functions. The review reveals potential avenues for future research, such as investigating multi-depot and multi-vehicle configurations, incorporating charge scheduling and partial charging, developing robust schedules to account for uncertainty, and applying advanced techniques like machine learning and hyper-heuristics to optimize electric bus transportation efficiency.

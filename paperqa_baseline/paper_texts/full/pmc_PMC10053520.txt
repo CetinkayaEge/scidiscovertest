@@ -1,0 +1,9 @@
+Title: Optoelectronic Pressure Sensor Based on the Bending Loss of Plastic Optical Fibers Embedded in Stretchable Polydimethylsiloxane
+Authors: Alberto Alonso Romero, Koffi Novignon Amouzou, Dipankar Sengupta, Camila Aparecida Zimmermann, Andréane Richard-Denis, Jean-Marc Mac-Thiong, Yvan Petit, Jean-Marc Lina, Bora Ung
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063322
+Paper ID: pmc_PMC10053520
+
+Abstract:
+We report the design and testing of a sensor pad based on optical and flexible materials for the development of pressure monitoring devices. This project aims to create a flexible and low-cost pressure sensor based on a two-dimensional grid of plastic optical fibers embedded in a pad of flexible and stretchable polydimethylsiloxane (PDMS). The opposite ends of each fiber are connected to an LED and a photodiode, respectively, to excite and measure light intensity changes due to the local bending of the pressure points on the PDMS pad. Tests were performed in order to study the sensitivity and repeatability of the designed flexible pressure sensor.

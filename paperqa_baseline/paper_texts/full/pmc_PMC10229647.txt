@@ -1,0 +1,9 @@
+Title: Cracks propagation characteristics of double-hole delay blasting in soft-hard composite rock mass
+Authors: Jianbin Cui, Liangfu Xie, Yongjun Qin, Xuejun Liu, Jianhu Wang, Jiangu Qian
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35748-7
+Paper ID: pmc_PMC10229647
+
+Abstract:
+By researching the distance between blasthole and interface of soft-hard rock strata, as well as the time of delay detonation, blasting effect of the rock mass will be more controllable. Firstly, validity of numerical method was authenticated from three angles: blasting coupled stress field, ratio of crushing zone radius to blasthole radius, and crack network state. Under the condition of soft-hard rock strata, numerical model of double-hole blasting was established by using PFC 2D . Then delay blasting experiments were carried out under different relative positions of blasthole and interface. Ultimately, results were analyzed from three perspectives: crack network, crack quantity and rock fragment. Results show that: (1) When detonated in hard rock, if between interface and blasthole distance is greater than twice crushing zone radius, the closer blasthole is to the interface, the more obvious the “hook” phenomenon between the two blastholes is. With increasing delayed initiation time, “hook” phenomenon will weaken or even disappear. (2) Based on the crack information initiated in hard rock, the law of crack number varying with thickness of hard rock and delay time is obtained. (3) For initiation in hard rock, crack extension range is large, but less fragments are formed. The law is opposite to that initiation in structural plane and soft rock. Fragmentation area increases exponentially with increasing soft rock thickness, and exponential function is obtained.

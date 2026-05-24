@@ -1,0 +1,9 @@
+Title: High purity, self-sustained, pressurized hydrogen production from ammonia in a catalytic membrane reactor
+Authors: Jose L. Cerrillo, Natalia Morlanés, Shekhar R. Kulkarni, Natalia Realpe, Adrián Ramírez, Sai P. Katikaneni, Stephen N. Paglieri, Kun Ho Lee, Aadesh Harale, Bandar Solami, Aqil Jamal, S. Mani Sarathy, Pedro Castaño, Jorge Gascón
+Year: 2021
+Venue: Chemical Engineering Journal
+DOI: https://doi.org/10.1016/j.cej.2021.134310
+Paper ID: https://openalex.org/W4200254749
+
+Abstract:
+The combination of catalytic decomposition of ammonia and in situ separation of hydrogen holds great promise for the use of ammonia as a clean energy carrier. However, finding the optimal catalyst – membrane pair and operation conditions have proved challenging. Here, we demonstrate that cobalt-based catalysts for ammonia decomposition can be efficiently used together with a Pd-Au based membrane to produce high purity hydrogen at elevated pressure. Compared to a conventional packed bed reactor, the membrane reactor offers several operational advantages that result in energetic and economic benefits. The robustness and durability of the combined system has been demonstrated for>1000 h on stream, yielding a very pure hydrogen stream (>99.97 % H2) and recovery (>90 %). When considering the required hydrogen compression for storage/utilization and environmental issues, the combined system offers the additional advantage of production of hydrogen at moderate pressures along with full ammonia conversion. Altogether, our results demonstrate the possibility of deploying high pressure (350 bar) hydrogen generators from ammonia with H2 efficiencies of circa 75% without any external energy input and/or derived CO2 emissions.

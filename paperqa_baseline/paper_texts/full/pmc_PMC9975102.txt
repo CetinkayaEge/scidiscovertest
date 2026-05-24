@@ -1,0 +1,9 @@
+Title: NANO-SBT-PEDF delivery system: A promising approach against ovarian cancer?
+Authors: Pascale Ribaux, Christine Wuillemin, Patrick Petignat, Florence Delie, Marie Cohen
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13676
+Paper ID: pmc_PMC9975102
+
+Abstract:
+Pigment epithelium-derived factor (PEDF) is a secreted glycoprotein involved in various biological processes. Its expression declines during ovarian carcinogenesis where it could decrease macrophages polarization, inhibit angiogenesis and induce apoptosis. Altogether, PEDF represents an ideal anti-cancer agent against ovarian cancer. We previously proposed the non-viral Sleeping Beauty transposon (SBT) system to stably integrate the PEDF transgene into ovarian cancer cells. Here, we report the development of liposomes and lipid nanoparticles for SBT-PEDF gene therapy. We determined that the SBT-PEDF nanolipid delivery system was the best system to increase the expression of PEDF in ovarian cancer spheroids. We also developed an ex vivo model of ovarian tumors which allowed us to show that nanolipoplexe in combination to paclitaxel exhibits synergistic and effective anti-tumor efficacy on ovarian tumors. These findings demonstrate that lipid nanoparticle for SBT-PEDF gene therapy may be a promising therapeutic approach for ovarian cancer.

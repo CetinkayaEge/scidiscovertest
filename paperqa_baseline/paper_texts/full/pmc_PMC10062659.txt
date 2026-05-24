@@ -1,0 +1,9 @@
+Title: Analysis of the impact of expressway construction on soil moisture in road areas
+Authors: Yongyi Li, Zhan Xiao, Zhihao Li, Zexuan Jiao, Xingli Jia
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283225
+Paper ID: pmc_PMC10062659
+
+Abstract:
+To reveal the effect pattern of expressways on regional soil moisture, in this study, using trend analysis and buffer zone analysis methods, the data of VSWI (vegetation supply water index) in central Zhejiang Province from 2005 to 2016 were extracted from landsat7 satellite data using a single window algorithm, and spatial analysis was used to investigate the law of its differentiation. The results show that the multi-year average is 0.01879, between 0.01035–0.02774, showing a gentle decreasing trend, and there are obvious regional variations in space. We found that the impact of the new expressway and interchange on the VSWI in the buffer zone lasted for more than two years, and the VSWI increased in space farther away from the road, and this trend returned to normal at 8 km. Finally, the development patterns of the VSWI in the buffer zone of the newly established expressway and the interchange are approximately the same.

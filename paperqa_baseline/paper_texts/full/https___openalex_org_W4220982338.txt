@@ -1,0 +1,9 @@
+Title: Achieving Financial Sustainability through Revenue Diversification: A Green Pathway for Financial Institutions in Asia
+Authors: Zhikang Xie, Xinglin Liu, Hina Najam, Qinghua Fu, Jawad Abbas, Ubaldo Comite, Laura Mariana Cismaș, Andra Miculescu
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14063512
+Paper ID: https://openalex.org/W4220982338
+
+Abstract:
+Establishing balanced and sustainable development is critical for improving banks’ capability and performance. Financial development has enormous significance in an environment of increasingly contestable international markets, and can be achieved by enhancing banking efficiency and performance. The bank efficiency is estimated through data envelopment analysis (DEA). By applying the quantile regression technique, this research examines the impact of revenue diversification (RD) on the bank efficiency (BE) of seven Asian emerging economies over 2008–2019. In this regard, non-performing loans (NPLs), non-interest income, capitalization, and gross domestic product (GDP) are taken as control variables. The empirical findings indicate that RD, market capitalization, non-interest income, and GDP have a significant positive impact on BE, whereas NPLs have a significant negative relationship with BE. These results have significant strategic implications for managers, regulators, and policymakers, who share a common interest in boosting financial sustainability and performance.

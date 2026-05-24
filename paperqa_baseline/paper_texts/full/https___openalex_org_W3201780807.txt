@@ -1,0 +1,9 @@
+Title: A Novel Hybrid MCDM Model for the Evaluation of Sustainable Last Mile Solutions
+Authors: Mladen Krstić, Snežana Tadić, Milovan Kovač, Violeta Roso, Slobodan Zečević
+Year: 2021
+Venue: Mathematical Problems in Engineering
+DOI: https://doi.org/10.1155/2021/5969788
+Paper ID: https://openalex.org/W3201780807
+
+Abstract:
+Modern social trends are intensively transforming supply chains and the last mile as their most complex and most expensive segment. For the realization of the last mile, various solutions can be defined which combine initiatives, technologies, and concepts of city logistics. The successful implementation of these solutions depends on the characteristics of the city, the goals of stakeholders, and the ability to achieve economic, social, and environmental sustainability. In accordance with that, this paper defines innovative sustainable last mile solutions and evaluates their potential application in the real-life logistics system of the city. As evaluation requires consideration of a large number of criteria, this is a problem of multicriteria decision-making, and for solving it, a novel hybrid model that combines Delphi, FARE (Factor Relationship), and VIKOR (Višekriterijumska Optimizacija i Kompromisno Rešenje) methods in the fuzzy environment has been developed. The applicability of the model is demonstrated in the example of evaluating the last mile solution for the central business district of the City of Belgrade. A combination of microconsolidation centers and autonomous vehicles is obtained as the most favorable solution.

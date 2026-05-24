@@ -1,0 +1,9 @@
+Title: Feasibility Test of a Liquid Film Thickness Sensor on a Flexible Printed Circuit Board Using a Three-Electrode Conductance Method
+Authors: Kyu Byung Lee, Jong Rok Kim, Goon Cherl Park, Hyoung Kyu Cho
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010042
+Paper ID: pmc_PMC5298615
+
+Abstract:
+Liquid film thickness measurements under temperature-varying conditions in a two-phase flow are of great importance to refining our understanding of two-phase flows. In order to overcome the limitations of the conventional electrical means of measuring the thickness of a liquid film, this study proposes a three-electrode conductance method, with the device fabricated on a flexible printed circuit board (FPCB). The three-electrode conductance method offers the advantage of applicability under conditions with varying temperatures in principle, while the FPCB has the advantage of usability on curved surfaces and in relatively high-temperature conditions in comparison with sensors based on a printed circuit board (PCB). Two types of prototype sensors were fabricated on an FPCB and the feasibility of both was confirmed in a calibration test conducted at different temperatures. With the calibrated sensor, liquid film thickness measurements were conducted via a falling liquid film flow experiment, and the working performance was tested.

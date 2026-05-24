@@ -1,0 +1,9 @@
+Title: Inhibition activity of a disulfide-stabilized diabody against basic fibroblast growth factor in lung cancer
+Authors: Yaxiong Cai, Shuange Yao, Jiangchuan Zhong, Jinxia Zhang, Haowu Jiang, Yanrui Deng, Ning Deng
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15556
+Paper ID: pmc_PMC5386754
+
+Abstract:
+The over-expression of basic fibroblast growth factor (bFGF) plays a crucial role in the development, invasion and metastasis of lung cancer. Therefore, neutralizing antibodies against bFGF may inhibit the growth of lung cancer. In this study, a Disulfide-stabilized diabody (ds-Diabody) against bFGF was constructed by site-directed mutation and overlap extension PCR (SOE-PCR) at the position of VH44 and VL100 in the scFv. The ds-Diabody was constructed and expressed in Pichia pastoris . We found that the ds-Diabody against bFGF could efficiently suppress the proliferation, migration and invasion of human lung cancer A549 cells in vitro . Moreover, in A549 cells, the ds-Diabody against bFGF could inhibit bFGF-induced activation of downstream signaling regulators, such as phospho-Akt and phospho-MAPK. In the nude mouse xenograft model of lung cancer, the ds-Diabody against bFGF could significantly inhibit tumor growth and decrease the densities of micro-vessels and lymphatic vessels in tumor tissue. Our data indicate that the ds-Diabody against bFGF could effectively suppress the lung cancer growth through blockade of bFGF signaling pathway and inhibition of tumor angiogenesis, which may make it a potential therapeutic candidate antibody drug for human lung cancer therapy.

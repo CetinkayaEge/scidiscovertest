@@ -1,0 +1,9 @@
+Title: Artificial intelligence and sustainable development goals: Systematic literature review of the construction industry
+Authors: Massimo Regona, Tan Yiğitcanlar, Carol K.H. Hon, Melissa Teo
+Year: 2024
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2024.105499
+Paper ID: https://openalex.org/W4396644540
+
+Abstract:
+While acknowledging the widespread recognition of artificial intelligence's (AI) potential in achieving sustainable development, there remains a notable deficiency and thorough examination of its specific applications, impacts, and challenges, particularly within the construction industry. A comprehensive investigation is critical to explore and understand the multifaceted applications of AI in fostering sustainability across all phases of a construction project. This paper aims to examine how AI can be effectively integrated across the key project phases—i.e., planning, design, construction, and operation and maintenance, through a systematic literature review to map AI applications, their impacts, adoption challenges, and best practices. The findings revealed: (a) Sustainable development goals (SDGs) pertinent to the construction industry—i.e., SDGs 6-9,11-13,15,17; (b) SDGs that show the highest potential to promote sustainability within the construction industry—i.e., SDGs 7,9,11; (c) Within the spectrum of these goals, AI can potentially transform the construction industry and contribute to the sustainability consideration processes in a more efficient and resilient ways; (d) Ethical considerations, data privacy and security concerns must be addressed, along with an urgent need for specialised training and maintenance of these AI systems; (e) Careful AI implementation and management is essential to harness its full potential, while addressing adoption challenges within the construction sector.

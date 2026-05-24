@@ -1,0 +1,9 @@
+Title: Cerebral organoids transplantation repairs infarcted cortex and restores impaired function after stroke
+Authors: Shi-Ying Cao, Di Yang, Zhen-Quan Huang, Yu-Hui Lin, Hai-Yin Wu, Lei Chang, Chun-Xia Luo, Yun Xu, Yan Liu, Dong-Ya Zhu
+Year: 2023
+Venue: NPJ Regenerative Medicine
+DOI: 10.1038/s41536-023-00301-7
+Paper ID: pmc_PMC10229586
+
+Abstract:
+Stroke usually causes prolonged or lifelong disability, owing to the permanent loss of infarcted tissue. Although a variety of stem cell transplantation has been explored to improve neuronal defect behavior by enhancing neuroplasticity, it remains unknown whether the infarcted tissue can be reconstructed. We here cultured human cerebral organoids derived from human pluripotent stem cells (hPSCs) and transplanted them into the junction of the infarct core and the peri-infarct zone of NOD-SCID mice subjected to stroke. Months later, we found that the grafted organoids survived well in the infarcted core, differentiated into target neurons, repaired infarcted tissue, sent axons to distant brain targets, and integrated into the host neural circuit and thereby eliminated sensorimotor defect behaviors of stroke mice, whereas transplantation of dissociated single cells from organoids failed to repair the infarcted tissue. Our study offers a new strategy for reconstructing infarcted tissue via organoids transplantation thereby reversing stroke-induced disability.

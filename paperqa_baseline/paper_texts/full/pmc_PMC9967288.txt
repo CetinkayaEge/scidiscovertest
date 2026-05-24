@@ -1,0 +1,9 @@
+Title: Sugar Molecules Detection via C 2 N Transistor-Based Sensor: First Principles Modeling
+Authors: Asma Wasfi, Sarah Awwad, Mousa Hussein, Falah Awwad
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13040700
+Paper ID: pmc_PMC9967288
+
+Abstract:
+Real-time detection of sugar molecules is critical for preventing and monitoring diabetes and for food quality evaluation. In this article, a field effect transistor (FET) based on two-dimensional nitrogenated holey graphene (C 2 N) was designed, developed, and tested to identify the sugar molecules including xylose, fructose, and glucose. Both density functional theory and non-equilibrium Green’s function (DFT + NEGF) were used to study the designed device. Several electronic characteristics were studied, including work function, density of states, electrical current, and transmission spectrum. The proposed sensor is made of a pair of gold electrodes joint through a channel of C 2 N and a gate was placed underneath the channel. The C 2 N monolayer distinctive characteristics are promising for glucose sensors to detect blood sugar and for sugar molecules sensors to evaluate food quality. The electronic transport characteristics of the sensor resulted in a unique signature for each of the sugar molecules. This proposed work suggests that the developed C 2 N transistor-based sensor could detect sugar molecules with high accuracy.

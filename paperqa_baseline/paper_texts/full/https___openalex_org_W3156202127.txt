@@ -1,0 +1,9 @@
+Title: Success Factors in Sustainable Management of IT Service Projects: Exploratory Factor Analysis
+Authors: Szymon Zaleski, Rafał Michalski
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084457
+Paper ID: https://openalex.org/W3156202127
+
+Abstract:
+Management of successful IT projects in a sustainable manner is influenced by numerous factors. Organizational awareness of the necessity of engaging all project stakeholders is an important issue that helps in meeting project sustainable development goals. While there are many studies on the success factors of IT software projects, there is still little coherent research on the success factors of IT service projects. The purpose of this article is to contribute in filling this gap by attempting to identify success factors of the IT services project involving both traditional and agile approaches and considering sustainable development, specifically in terms of the stakeholders’ role in project management. We conducted questionnaire-based research involving 155 IT service project managers. The results of the study were subjected to exploratory factor analysis. As a result, we presented and thoroughly formally examined the factorial model of success components in the IT service industry. We distinguished four factors: (1) agile techniques and change management, (2) organization and people, (3) stakeholders and risk analysis, and (4) work environment. The results were compared with analogous studies found in the literature. The research showed that both traditional and agile management approaches coexist, meet sustainable development goals, and are significant for the successful management in IT service projects where all stakeholders play an important role.

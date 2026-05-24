@@ -1,0 +1,9 @@
+Title: The breakdown of both strange metal and superconducting states at a pressure-induced quantum critical point in iron-pnictide superconductors
+Authors: Shu Cai, Jinyu Zhao, Ni Ni, Jing Guo, Run Yang, Pengyu Wang, Jinyu Han, Sijin Long, Yazhou Zhou, Qi Wu, Xianggang Qiu, Tao Xiang, Robert J. Cava, Liling Sun
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38763-4
+Paper ID: pmc_PMC10229619
+
+Abstract:
+Here we report the first observation of the concurrent breakdown of the strange metal (SM) normal state and superconductivity at a pressure-induced quantum critical point in Ca 10 (Pt 4 As 8 )((Fe 0.97 Pt 0.03 ) 2 As 2 ) 5 superconductor. We find that, upon suppressing the superconducting state, the power exponent ( α ) changes from 1 to 2, and the slope of the temperature-linear resistivity per FeAs layer ( A □ ) gradually diminishes. At a critical pressure, A □ and superconducting transition temperature ( T c ) go to zero concurrently, where a quantum phase transition from a superconducting state with a SM normal state to a non-superconducting Fermi liquid state occurs. Scaling analysis reveals that the change of A □ with T c obeys the relation of T c ~ ( A □ ) 0.5 , similar to what is seen in other chemically doped unconventional superconductors. These results suggest that there is a simple but powerful organizational principle of connecting the SM normal state with the high- T c superconductivity. The strange metal state, characterized by a linear-in-temperature resistivity, is often seen in the normal state of high-temperature superconductors. Here, the authors report the breakdown of both the strange metal and superconducting states at a pressure-induced quantum critical point in an iron-pnictide superconductor.

@@ -1,0 +1,9 @@
+Title: Do green technological innovation, financial development, economic policy uncertainty, and institutional quality matter for environmental sustainability?
+Authors: Kishwar Ali, Jianguo Du, Derviş Kırıkkaleli, Judit Oláh, Mehmet Altuntaş
+Year: 2023
+Venue: All Earth
+DOI: https://doi.org/10.1080/27669645.2023.2200330
+Paper ID: https://openalex.org/W4366123489
+
+Abstract:
+Environmental sustainability is a pressing global concern that demands urgent attention from policymakers and researchers. The objective of our research is to investigate the influence of economic policy uncertainty (determined by the world uncertainty index) and financial development on carbon emissions, followed by green technological innovation, institutional quality, economic growth, foreign direct investment, energy consumption, and trade in Organization of Economic Co-operation and Development, for the period 2003–2019, to analyse the data, the second-generation econometric techniques are used. We applied the two-stage sequential techniques of the linear panel data model and generalised method of moments approach to tackle the endogeneity problem and report robust findings. The findings of the study revealed that economic policy uncertainty, financial development, economic growth, energy consumption, and trade decrease environmental quality by increasing CO2 emissions, while green technological innovation and institutional quality increase environmental degradation by reducing CO2 emissions. Our evidence-based study provides significant outcomes for green technological innovation and institutional quality conditioning’s role in reducing carbon emissions in OECD economies.

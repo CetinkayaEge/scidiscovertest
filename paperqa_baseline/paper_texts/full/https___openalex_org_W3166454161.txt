@@ -1,0 +1,9 @@
+Title: Use of BIM-FM to Transform Large Conventional Public Buildings into Efficient and Smart Sustainable Buildings
+Authors: Rubén Muñoz Pavón, Marcos García Alberti, Antonio Alfonso Arcos Álvarez, Isabel del Rosario Chiyón Carrasco
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14113127
+Paper ID: https://openalex.org/W3166454161
+
+Abstract:
+New technologies regarding construction, materials and facility management have led to the successful implementation of smart and more sustainable buildings. This is of special interest for the management of large and complex public buildings. However, most of these types of buildings were built in Europe during the previous century, when those technologies were still a matter of research. The appearance of Building Information Modelling (BIM) and the combined use of it with other advances in Facility Management (FM) as well as Internet of Things (IoT), Big Data and others, has opened the door to the possible transformation of such type of buildings into more efficient smart buildings without very large investments. In this study, this was studied thoroughly. In addition, the advantages and possibilities were assessed on a case study performed in the Civil Engineering School at Universidad Politécnica de Madrid built in 1969. The main objective of the paper was to show the details and possibilities to transform the building into a smart and more sustainable building by using BIM-FM techniques and self-designed sensors. The conclusions showed that using a three-dimensional model as the center of the management together with the connection with other applications, databases and facility management tools can transform the building into a Smart Building. In addition, the management of the system can be done from the web, nearing the information to the management staff and to the user. All advances were self-developed in order to satisfy the specific needs of the building.

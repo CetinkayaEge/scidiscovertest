@@ -1,0 +1,9 @@
+Title: Correlation between CD4 T-Cell Counts and Seroconversion among COVID-19 Vaccinated Patients with HIV: A Meta-Analysis
+Authors: Qian Zhou, Yihuang Liu, Furong Zeng, Yu Meng, Hong Liu, Guangtong Deng
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040789
+Paper ID: pmc_PMC10141854
+
+Abstract:
+Objective: To evaluate the potential factors for predicting seroconversion due to the coronavirus disease 2019 (COVID-19) vaccine in people living with HIV (PLWH). Method: We searched the PubMed, Embase and Cochrane databases for eligible studies published from inception to 13th September 2022 on the predictors of serologic response to the COVID-19 vaccine among PLWH. This meta-analysis was registered with PROSPERO (CRD42022359603). Results: A total of 23 studies comprising 4428 PLWH were included in the meta-analysis. Pooled data demonstrated that seroconversion was about 4.6 times in patients with high CD4 T-cell counts (odds ratio (OR) = 4.64, 95% CI 2.63 to 8.19) compared with those with low CD4 T-cell counts. Seroconversion was about 17.5 times in patients receiving mRNA COVID-19 vaccines (OR = 17.48, 95% CI 6.16 to 49.55) compared with those receiving other types of COVID-19 vaccines. There were no differences in seroconversion among patients with different ages, gender, HIV viral load, comorbidities, days after complete vaccination, and mRNA type. Subgroup analyses further validated our findings about the predictive value of CD4 T-cell counts for seroconversion due to COVID-19 vaccines in PLWH (OR range, 2.30 to 9.59). Conclusions: The CD4 T-cell counts were associated with seroconversion in COVID-19 vaccinated PLWH. Precautions should be emphasized in these patients with low CD4 T-cell counts, even after a complete course of vaccination.

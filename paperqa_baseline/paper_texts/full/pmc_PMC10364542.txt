@@ -1,0 +1,9 @@
+Title: Circulating tumour DNA in colorectal cancer management
+Authors: Ryan Cohen, Cameron F Platell, Melanie J McCoy, Katie Meehan, Kathy Fuller
+Year: 2023
+Venue: The British Journal of Surgery
+DOI: 10.1093/bjs/znad126
+Paper ID: pmc_PMC10364542
+
+Abstract:
+Circulating tumour DNA analysis can be performed using two opposing paradigms: tumour-informed and tumour-agnostic approaches. The first requires sequencing data from the primary tumour sample to identify tumour DNA in circulation, whereas the latter occurs without previous primary tumour genetic profiling. Several preanalytical and laboratory considerations need to be taken into account before proceeding with in-house circulating tumour DNA analysis. Detection of circulating tumour DNA after curative resection is associated with a significant risk of recurrence. For those with stage II disease and detectable postoperative circulating tumour DNA, administration of adjuvant chemotherapy results in a reduction in the number of patients receiving chemotherapy while providing non-inferior recurrence-free survival compared with standard histopathological decision-making algorithms. Monitoring circulating tumour DNA during post-treatment surveillance may provide a significantly earlier diagnosis of recurrence.

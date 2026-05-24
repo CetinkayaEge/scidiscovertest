@@ -1,0 +1,9 @@
+Title: Association of the IL-1RN variable number of tandem repeat polymorphism and Helicobacter pylori infection: A meta-analysis
+Authors: Jinhua Zhang, Xudong Sun, Jiemin Wang, Fuhua Zhang, Xiaohua Li, Jian Han
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175052
+Paper ID: pmc_PMC5383105
+
+Abstract:
+The aim of this study was to clarify the association of IL-1RN variable number of tandem repeat (VNTR) polymorphism and H . pylori infection. We performed a meta-analysis of studies retrieved by systematic searches of Pubmed, Embase and the Cochrane Library. Data were analyzed with STATA 13.1 using pooled odds ratios (ORs) with 95% confidence intervals (CIs). A total of 18 studies were included in our meta-analysis, and IL-1RN VNTR was found to be significantly associated with H . pylori infection in the comparisons of 22+2L vs . LL (OR = 1.17, 95% CI = 1.02–1.33) and 2 allele vs . L allele (OR = 1.18, 95% CI = 1.00–1.40). Stratified analyses on study designs and ethnicities were also conducted. IL-1RN VNTR was positively correlated with H . pylori infection in Asian subgroup and Hospital-Based subgroup (i.e., study samples obtained from hospital inpatients). In conclusion, our study demonstrated that IL-1RN VNTR polymorphism might increase the risk of H . pylori infection, especially in Asians.

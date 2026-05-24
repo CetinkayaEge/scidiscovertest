@@ -1,0 +1,9 @@
+Title: A Multianalyzer Machine Learning Model for Marine Heterogeneous Data Schema Mapping
+Authors: Wang Yan, Le Jiajin, Zhang Yun
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/248467
+Paper ID: pmc_PMC4163295
+
+Abstract:
+The main challenges that marine heterogeneous data integration faces are the problem of accurate schema mapping between heterogeneous data sources. In order to improve the schema mapping efficiency and get more accurate learning results, this paper proposes a heterogeneous data schema mapping method basing on multianalyzer machine learning model. The multianalyzer analysis the learning results comprehensively, and a fuzzy comprehensive evaluation system is introduced for output results' evaluation and multi factor quantitative judging. Finally, the data mapping comparison experiment on the East China Sea observing data confirms the effectiveness of the model and shows multianalyzer's obvious improvement of mapping error rate.

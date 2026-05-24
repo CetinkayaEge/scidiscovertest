@@ -1,0 +1,9 @@
+Title: Solar power plants site selection for sustainable ecological development in Nigde, Turkey
+Authors: Orhun Soydan
+Year: 2021
+Venue: SN Applied Sciences
+DOI: https://doi.org/10.1007/s42452-020-04112-z
+Paper ID: https://openalex.org/W3118444965
+
+Abstract:
+Abstract Turkey's population is constantly increasing, and thus, the energy consumption is also increasing. Wind turbines, nuclear power plants, and boron and uranium resources are used for energy needs. Turkey meets its energy needs using these resources. Sun which is a natural and unlimited resource among these resources is one of the most important natural energy resources. The most important issue to consider in order to utilize solar energy in the most efficient way and to obtain advantages is the selection of the suitable place for solar plants. The aim of this study is to select the most suitable location for solar energy plants and provide to build solar power plants in suitable places. Eleven data layers (sunshine duration, solar radiation, slope, aspect, road, water sources, residential areas, earthquake fault line, mine areas, power line and transformers) that were prepared using analytical hierarchy process (AHP) method in GIS were used and analysed. Based on the results of the analysis, the location of the areas where solar energy could be built was selected. As a result of the study, it was determined that in particular the north-east of the Nigde is the most suitable for solar plants. Ulukisla district has the most suitable feature for solar plants among the Nigde districts. 80% of the existing solar plants are located in the detected areas. It has been determined that the other 20% of the solar plant is also in the suitable areas, but their location is not suitable for the most efficiency.

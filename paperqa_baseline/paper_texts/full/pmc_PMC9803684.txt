@@ -1,0 +1,9 @@
+Title: Nanobodies targeting ABCC3 for immunotargeted applications in glioblastoma
+Authors: Eduardo Ruiz-López, Ivana Jovčevska, Ruth González-Gómez, Héctor Tejero, Fátima Al-Shahrour, Serge Muyldermans, Alberto J. Schuhmacher
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27161-3
+Paper ID: pmc_PMC9803684
+
+Abstract:
+The cancer “omics” reveal many clinically relevant alterations that are transforming the molecular characterization of glioblastomas. However, many of these findings are not yet translated into clinical practice due, in part, to the lack of non-invasive biomarkers and the limitations imposed by the blood–brain barrier. Nanobodies, camelid single-domain antibody fragments, emerge as a promising tool for immunotargeted applications for diagnosing and treating glioblastomas. Performing agnostic bioinformatic analysis from glioblastoma patient datasets, we identified ATP Binding Cassette subfamily C member 3 (ABCC3) as a suitable target for immunotargeted applications. The expression of ABCC3 is associated with poor survival and impaired response to temozolomide. Importantly, high expression of ABCC3 is restricted to glioblastoma, with negligible levels in healthy brain tissue, and further correlates with tumor grade and stemness markers. We identified three immunogenic epitopes of ABCC3 which were used to isolate nanobodies from a glioblastoma-specific phage-display nanobody library. Two nanobodies targeting ABCC3 (NbA42 and NbA213) were further characterized and demonstrated in vivo selective recognition of ABCC3 in glioblastoma xenograft mouse models upon systemic administration. We designate NbA42 and NbA213 as new candidates to implement immunotargeted applications guiding a more personalized and precise diagnosis, monitoring, and treatment of glioblastoma patients.

@@ -1,0 +1,9 @@
+Title: Large‐Area Semi‐Transparent Luminescent Solar Concentrators Based on Large Stokes Shift Aggregation‐Induced Fluorinated Emitters Obtained Through a Sustainable Synthetic Approach
+Authors: Francesca Corsini, Andrea Nitti, Elisavet Tatsi, Giuseppe Mattioli, Chiara Botta, Dario Pasini, Gianmarco Griffini
+Year: 2021
+Venue: Advanced Optical Materials
+DOI: https://doi.org/10.1002/adom.202100182
+Paper ID: https://openalex.org/W3168683483
+
+Abstract:
+Abstract In this study, the design, fabrication, and characterization of semi‐transparent large‐area luminescent solar concentrators (LSCs) in thin‐film configuration is reported, incorporating a novel organic luminophore (PFPBNT) emitter based on a π‐conjugated core flanked by two naphthothiophene units obtained through a chemically sustainable synthetic approach. As found experimentally and validated through computational modeling, PFPBNT exhibits aggregation‐induced emission (AIE) behavior, broad absorption in the UV–vis spectrum and significant Stokes shift (≈4632 cm –1 ), thereby making it an excellent candidate as luminophore in thin‐film LSCs based on a poly(methyl methacrylate) (PMMA) matrix, where it is found to show good compatibility, homogeneous distribution, and excellent photostability. After extensive device optimization, PFPBNT/PMMA LSCs with suitable luminophore concentration (12.5 wt%) showed an internal photon efficiency of 17.3% at a geometrical gain of 6.25 under solar‐simulated illumination. The size scalability of these systems was also evaluated by means of ray‐tracing simulations on devices of up to 1 m 2 surface area. This work demonstrates semi‐transparent large‐area thin‐film LSCs incorporating chemically sustainable AIE gen luminophores, thus opening the way to the development of synthetically affordable, efficient, and stable emitters for the photovoltaic field.

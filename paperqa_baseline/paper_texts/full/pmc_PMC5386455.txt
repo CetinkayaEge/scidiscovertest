@@ -1,0 +1,9 @@
+Title: Regulation of glutamate transporter trafficking by Nedd4-2 in a Parkinson's disease model
+Authors: Yunlong Zhang, Xiaoliang He, Xingjun Meng, Xiaojuan Wu, Huichun Tong, Xiuping Zhang, Shaogang Qu
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2016.454
+Paper ID: pmc_PMC5386455
+
+Abstract:
+Glutamate transporters play a key role in glutamate clearance and protect the central nervous system from glutamate excitotoxicity. Dysfunctional glutamate transporters contribute to the pathogenesis of Parkinson's disease (PD); however, the mechanisms that underlie the regulation of glutamate transporters in PD are still not well characterized. Here we report that Nedd4-2 mediates the ubiquitination of glutamate transporters in 1-methyl-4- phenylpyridinium (MPP + )-treated astrocytes and in the midbrain of 1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP)-constructed PD model mice. Nedd4-2-mediated ubiquitination induces abnormal glutamate transporter trafficking between the membrane and cytoplasm and consequently decreases the expression and function of glutamate transporters in the membrane. Conversely, Nedd4-2 knockdown decreases glutamate transporter ubiquitination, promotes glutamate uptake and increases glutamate transporter expression in vitro and in vivo . We report for the first time that Nedd4-2 knockdown ameliorates movement disorders in PD mice and increases tyrosine hydroxylase expression in the midbrain and striatum of PD mice; Nedd4-2 knockdown also attenuates astrogliosis and reactive microgliosis in the MPTP model that may be associated with glutamate excitotoxicity. Furthermore, the SGK/PKC pathway is regulated downstream of Nedd4-2 in MPTP-treated mice. These findings indicate that Nedd4-2 may serve as a potential therapeutic target for the treatment of PD.

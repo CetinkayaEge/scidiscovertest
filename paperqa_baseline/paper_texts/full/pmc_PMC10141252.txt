@@ -1,0 +1,9 @@
+Title: Cold Atmospheric Plasma-Activated Composite Hydrogel for an Enhanced and On-Demand Delivery of Antimicrobials
+Authors: Nishtha Gaur, Bethany L. Patenall, Bhagirath Ghimire, Naing T. Thet, Jordan E. Gardiner, Krystal E. Le Doare, Gordon Ramage, Bryn Short, Rachel A. Heylen, Craig Williams, Robert D. Short, Toby A. Jenkins
+Year: 2023
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.3c01208
+Paper ID: pmc_PMC10141252
+
+Abstract:
+We present the concept of a versatile drug-loaded composite hydrogel that can be activated using an argon-based cold atmospheric plasma (CAP) jet to deliver both a drug and CAP-generated molecules, concomitantly, in a tissue target. To demonstrate this concept, we utilized the antibiotic gentamicin that is encapsulated in sodium polyacrylate (PAA) particles, which are dispersed within a poly(vinyl alcohol) (PVA) hydrogel matrix. The final product is a gentamicin-PAA-PVA composite hydrogel suitable for an on-demand triggered release using CAP. We show that by activating using CAP, we can effectively release gentamicin from the hydrogel and also eradicate the bacteria effectively, both in the planktonic state and within a biofilm. Besides gentamicin, we also successfully demonstrate the applicability of the CAP-activated composite hydrogel loaded with other antimicrobial agents such as cetrimide and silver. This concept of a composite hydrogel is potentially adaptable to a range of therapeutics (such as antimicrobials, anticancer agents, and nanoparticles) and activatable using any dielectric barrier discharge CAP device.

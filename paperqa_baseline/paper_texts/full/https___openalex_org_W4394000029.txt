@@ -1,0 +1,9 @@
+Title: Mapping sustainable supply chain innovation: A comprehensive bibliometric analysis
+Authors: Mohammad J. Aladaileh, Eva Lahuerta-Otero, Khaled Jameel Aladayleh
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e29157
+Paper ID: https://openalex.org/W4394000029
+
+Abstract:
+This comprehensive bibliometric study investigates Sustainable Supply Chain Innovation (SSCI) research, examining its evolution, identifying key contributors, and unveiling emerging trends. Analyzing 1158 English-language SSCI articles using the robust Scopus dataset exposes noteworthy journals, authors, institutions, and global contributions. The findings suggest a consistent increase in research output since 1999, with a notable surge in the past decade. Network analysis and density-based spatial clustering identified six SSCI research clusters: Sustainability and Responsibility in Business, Navigating Innovation and Disruption, Sustainable Business Strategies, Environmental Sustainability and Innovation, Sustainable Food Systems and Environmental Impact, and Sustainable Business Dynamics. These clusters highlight the diverse nature of the evolving Sustainability and Supply Chain Management (SCM) field, contributing to a thorough understanding of the SSCI research landscape and emphasizing interconnections between sustainability and SCM themes, potentially leading to more comprehensive theoretical models. Furthermore, this understanding aids businesses in anticipating emerging trends and implementing optimal practices in SSCI. Moreover, recognizing active institutions and global contributors provides practical insights for fostering strategic collaborations.

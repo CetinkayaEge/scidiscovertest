@@ -1,0 +1,9 @@
+Title: Lipidomics reveals that sustained SREBP-1-dependent lipogenesis is a key mediator of gefitinib-acquired resistance in EGFR-mutant lung cancer
+Authors: Chuncao Xu, Lei Zhang, Daifei Wang, Shiqin Jiang, Di Cao, Zhongxiang Zhao, Min Huang, Jing Jin
+Year: 2021
+Venue: Cell Death Discovery
+DOI: https://doi.org/10.1038/s41420-021-00744-1
+Paper ID: https://openalex.org/W3213878195
+
+Abstract:
+Patients with EGFR mutations in non-small cell lung cancer (NSCLC) have been greatly benefited from gefitinib, however, the therapeutic has failed due to the presence of acquired resistance. In this study, we show that gefitinib significantly induces downregulation of Sterol Regulator Element Binding (SREBP1) in therapy-sensitive cells. However, this was not observed in EGFR mutant NSCLC cells with acquired resistance. Lipidomics analysis showed that gefitinib could differently change the proportion of saturated phospholipids and unsaturated phospholipids in gefitinib-sensitive and acquired-resistant cells. Besides, levels of ROS and MDA were increased upon SREBP1 inhibition and even more upon gefitinib treatment. Importantly, inhibition of SREBP1 sensitizes EGFR-mutant therapy-resistant NSCLC to gefitinib both in vitro and in vivo models. These data suggest that sustained de novo lipogenesis through the maintenance of active SRBEP-1 is a key feature of acquired resistance to gefitinib in EGFR mutant lung cancer. Taken together, targeting SREBP1-induced lipogenesis is a promising approach to overcome acquired resistance to gefitinib in EGFR-mutant lung cancer.

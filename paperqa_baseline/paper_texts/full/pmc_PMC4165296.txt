@@ -1,0 +1,9 @@
+Title: A time series analysis of meteorological factors and hospital outpatient admissions for cardiovascular disease in the Northern district of Guizhou Province, China
+Authors: Y. Jie, H. Houjin, Y. Mengxue, Q. Wei, X. Jie
+Year: 2014
+Venue: Brazilian Journal of Medical and Biological Research
+DOI: 10.1590/1414-431X2014424
+Paper ID: pmc_PMC4165296
+
+Abstract:
+Findings on the effects of weather on health, especially the effects of ambient temperature on overall morbidity, remain inconsistent. We conducted a time series study to examine the acute effects of meteorological factors (mainly air temperature) on daily hospital outpatient admissions for cardiovascular disease (CVD) in Zunyi City, China, from January 1, 2007 to November 30, 2009. We used the generalized additive model with penalized splines to analyze hospital outpatient admissions, climatic parameters, and covariate data. Results show that, in Zunyi, air temperature was associated with hospital outpatient admission for CVD. When air temperature was less than 10°C, hospital outpatient admissions for CVD increased 1.07-fold with each increase of 1°C, and when air temperature was more than 10°C, an increase in air temperature by 1°C was associated with a 0.99-fold decrease in hospital outpatient admissions for CVD over the previous year. Our analyses provided statistically significant evidence that in China meteorological factors have adverse effects on the health of the general population. Further research with consistent methodology is needed to clarify the magnitude of these effects and to show which populations and individuals are vulnerable.

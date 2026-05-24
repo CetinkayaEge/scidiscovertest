@@ -1,0 +1,9 @@
+Title: Orthodenticle homeobox 2 is transported to lysosomes by nuclear budding vesicles
+Authors: Jun Woo Park, Eun Jung Lee, Eunyoung Moon, Hong-Lim Kim, In-Beom Kim, Didier Hodzic, Namsuk Kim, Hee-Seok Kweon, Jin Woo Kim
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36697-5
+Paper ID: pmc_PMC9971051
+
+Abstract:
+Transcription factors (TFs) are transported from the cytoplasm to the nucleus and disappear from the nucleus after they regulate gene expression. Here, we discover an unconventional nuclear export of the TF, orthodenticle homeobox 2 (OTX2), in nuclear budding vesicles, which transport OTX2 to the lysosome. We further find that torsin1a (Tor1a) is responsible for scission of the inner nuclear vesicle, which captures OTX2 using the LINC complex. Consistent with this, in cells expressing an ATPase-inactive Tor1aΔE mutant and the LINC (linker of nucleoskeleton and cytoskeleton) breaker KASH2, OTX2 accumulated and formed aggregates in the nucleus. Consequently, in the mice expressing Tor1aΔE and KASH2, OTX2 could not be secreted from the choroid plexus for transfer to the visual cortex, leading to failed development of parvalbumin neurons and reduced visual acuity. Together, our results suggest that unconventional nuclear egress and secretion of OTX2 are necessary not only to induce functional changes in recipient cells but also to prevent aggregation in donor cells. Many homeodomain transcription factors are secreted and move to neighboring cells. Here, orthodenticle homeobox 2 is shown to be exported from the nucleus in a nuclear membrane, which buds off to then be degraded or secreted.

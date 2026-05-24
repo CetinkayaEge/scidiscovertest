@@ -1,0 +1,9 @@
+Title: Fischer–Tropsch Synthesis as the Key for Decentralized Sustainable Kerosene Production
+Authors: Andreas Meurer, Jürgen Kern
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14071836
+Paper ID: https://openalex.org/W3137020987
+
+Abstract:
+Synthetic fuels play an important role in the defossilization of future aviation transport. To reduce the ecological impact of remote airports due to the long-range transportation of kerosene, decentralized on-site production of synthetic paraffinic kerosene is applicable, preferably as a near-drop-in fuel or, alternatively, as a blend. One possible solution for such a production of synthetic kerosene is the power-to-liquid process. We describe the basic development of a simplified plant layout addressing the specific challenges of decentralized kerosene production that differs from most of the current approaches for infrastructural well-connected regions. The decisive influence of the Fischer–Tropsch synthesis on the power-to-liquid (PtL) process is shown by means of a steady-state reactor model, which was developed in Python and serves as a basis for the further development of a modular environment able to represent entire process chains. The reactor model is based on reaction kinetics according to the current literature. The effects of adjustments of the main operation parameters on the reactor behavior were evaluated, and the impacts on the up- and downstream processes are described. The results prove the governing influence of the Fischer–Tropsch reactor on the PtL process and show its flexibility regarding the desired product fraction output, which makes it an appropriate solution for decentralized kerosene production.

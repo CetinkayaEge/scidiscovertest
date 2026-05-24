@@ -1,0 +1,9 @@
+Title: Modeling Aboveground Biomass in Hulunber Grassland Ecosystem by Using Unmanned Aerial Vehicle Discrete Lidar
+Authors: Dongliang Wang, Xiaoping Xin, Quanqin Shao, Matthew Brolly, Zhiliang Zhu, Jin Chen
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010180
+Paper ID: pmc_PMC5298753
+
+Abstract:
+Accurate canopy structure datasets, including canopy height and fractional cover, are required to monitor aboveground biomass as well as to provide validation data for satellite remote sensing products. In this study, the ability of an unmanned aerial vehicle (UAV) discrete light detection and ranging (lidar) was investigated for modeling both the canopy height and fractional cover in Hulunber grassland ecosystem. The extracted mean canopy height, maximum canopy height, and fractional cover were used to estimate the aboveground biomass. The influences of flight height on lidar estimates were also analyzed. The main findings are: (1) the lidar-derived mean canopy height is the most reasonable predictor of aboveground biomass ( R 2 = 0.340, root-mean-square error (RMSE) = 81.89 g·m −2 , and relative error of 14.1%). The improvement of multiple regressions to the R 2 and RMSE values is unobvious when adding fractional cover in the regression since the correlation between mean canopy height and fractional cover is high; (2) Flight height has a pronounced effect on the derived fractional cover and details of the lidar data, but the effect is insignificant on the derived canopy height when the flight height is within the range (<100 m). These findings are helpful for modeling stable regressions to estimate grassland biomass using lidar returns.

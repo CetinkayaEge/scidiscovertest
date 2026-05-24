@@ -1,0 +1,9 @@
+Title: The Effect of Blockchain Technology on Supply Chain Sustainability Performances
+Authors: Arim Park, Huan Li
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041726
+Paper ID: https://openalex.org/W3128547943
+
+Abstract:
+Improving supply chain sustainability is an essential part of achieving the UN’s sustainable goals. Digitalization, such as blockchain technology, shows the potential to reshape supply chain management. Using distributed ledger technology, the blockchain platform provides a digital system and database to record the transactions along the supply chain. This decentralized database of transactions brings transparency, reliability, traceability, and efficiency to the supply chain management. This paper focuses on such novel blockchain-based supply chain management and its sustainability performances in the areas of environmental protection, social equity, and governance efficiency. Using a systematic literature review and two case studies, we evaluate whether the three sustainability indicators can be improved indirectly along supply chains based on blockchain technology. Our study shows that blockchain technology has the potential to improve supply chain sustainability performance, and we expect blockchain technology to rise in popularity in supply chain management.

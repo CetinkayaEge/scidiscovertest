@@ -1,0 +1,9 @@
+Title: A Framework for Sustainable Manufacturing: Integrating Industry 4.0 Technologies with Industry 5.0 Values
+Authors: Alejandro Manuel Martín-Gómez, Alejandro Agote-Garrido, Juan Ramón Lama-Ruiz
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16041364
+Paper ID: https://openalex.org/W4391576182
+
+Abstract:
+The limitations imposed by resource scarcity and the imperative to mitigate adverse environmental and societal impacts have intensified the urgency of developing more sustainable manufacturing systems. Simultaneously, the rapid development and implementation of new technologies is exacerbating the digital divide among vulnerable workers. Concomitantly, the enabling technologies stemming from Industry 4.0 offer significant potential to enhance the competitiveness of manufacturing systems. However, the impact of these enabling technologies on achieving sustainable manufacturing remains uncertain. This paper embarks on a comprehensive exploration to address this knowledge gap. Initially, it assesses the suitability of each enabling technology within Industry 4.0 across the economic, social, and environmental dimensions of sustainability. Subsequently, the needs of the production process are studied to characterize its sustainable performance. For this, the ASTM E3012-22 standard is introduced. Building upon this foundation, the incorporation of Industry 5.0 is introduced to guide the selection of enabling technologies for sustainability based on its core values, encompassing sustainability, human-centricity, and resilience. The integration of new technologies guided by these values can help bridge the technological divide among vulnerable workers. Finally, a theoretical framework is proposed to enable the design of sustainable manufacturing systems guided by Industry 5.0 values. This framework enables the seamless integration of enabling technologies, machinery, and human expertise throughout the system life cycle.

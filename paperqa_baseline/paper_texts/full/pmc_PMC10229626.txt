@@ -1,0 +1,9 @@
+Title: Layered metals as polarized transparent conductors
+Authors: Carsten Putzke, Chunyu Guo, Vincent Plisson, Martin Kroner, Thibault Chervy, Matteo Simoni, Pim Wevers, Maja D. Bachmann, John R. Cooper, Antony Carrington, Naoki Kikugawa, Jennifer Fowlie, Stefano Gariglio, Andrew P. Mackenzie, Kenneth S. Burch, Ataç Îmamoğlu, Philip J. W. Moll
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38848-0
+Paper ID: pmc_PMC10229626
+
+Abstract:
+The quest to improve transparent conductors balances two key goals: increasing electrical conductivity and increasing optical transparency. To improve both simultaneously is hindered by the physical limitation that good metals with high electrical conductivity have large carrier densities that push the plasma edge into the ultra-violet range. Technological solutions reflect this trade-off, achieving the desired transparencies only by reducing the conductor thickness or carrier density at the expense of a lower conductance. Here we demonstrate that highly anisotropic crystalline conductors offer an alternative solution, avoiding this compromise by separating the directions of conduction and transmission. We demonstrate that slabs of the layered oxides Sr 2 RuO 4 and Tl 2 Ba 2 CuO 6+δ are optically transparent even at macroscopic thicknesses >2 μm for c-axis polarized light. Underlying this observation is the fabrication of out-of-plane slabs by focused ion beam milling. This work provides a glimpse into future technologies, such as highly polarized and addressable optical screens. The quest to improve transparent conductors is a balance between increasing electrical conductivity and optical transparency. Here the authors demonstrate that both can be fulfilled by separating the optical and electrical conductivity directionality.

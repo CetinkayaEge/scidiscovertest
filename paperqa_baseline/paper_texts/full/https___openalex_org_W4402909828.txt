@@ -1,0 +1,9 @@
+Title: A review of AI for optimization of 3D printing of sustainable polymers and composites
+Authors: Malik Hassan, Manjusri Misra, Graham W. Taylor, Amar K. Mohanty
+Year: 2024
+Venue: Composites Part C Open Access
+DOI: https://doi.org/10.1016/j.jcomc.2024.100513
+Paper ID: https://openalex.org/W4402909828
+
+Abstract:
+In recent years, 3D printing has experienced significant growth in the manufacturing sector due to its ability to produce intricate and customized components. The advent of Industry 4.0 further boosted this progress by seamlessly incorporating artificial intelligence (AI) in 3D printing processes. As a result, design precision and production efficiency have significantly improved. Although numerous studies have explored the integration of AI and 3D printing, the literature still lacks a comprehensive overview that emphasizes material selection and formulation, predictive modeling, design optimization, and quality control. To fully understand the impacts of these emerging technologies on advanced manufacturing, a thorough assessment is required. This review aims to examine the intersection of AI and 3D printing to create a technologically advanced and environment-friendly manufacturing environment. It examines factors such as material, process efficiency, and design enhancements to highlight the benefits of combining these technologies. By focusing on predictive modeling, material selection and quality control, this analysis aims to unlock the potential for a sustainable and efficient 3D printing process. This review provided a thorough analysis of the challenges and potential benefits, proving valuable for academics and practitioners alike. It presents solutions that may establish a foundation for sustained growth and outlines a strategy for leveraging 3D printing and AI capabilities in the manufacturing sector.

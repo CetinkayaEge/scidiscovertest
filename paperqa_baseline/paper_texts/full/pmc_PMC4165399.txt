@@ -1,0 +1,9 @@
+Title: Exploration of Potential Roles of a New LOXL2 Splicing Variant Using Network Knowledge in Esophageal Squamous Cell Carcinoma
+Authors: Bing-Li Wu, Guo-Qing Lv, Hai-Ying Zou, Ze-Peng Du, Jian-Yi Wu, Pi-Xian Zhang, Li-Yan Xu, En-Min Li
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/431792
+Paper ID: pmc_PMC4165399
+
+Abstract:
+LOXL2 (lysyl oxidase-like 2), an enzyme that catalyzes oxidative deamination of lysine residue, is upregulated in esophageal squamous cell carcinoma (ESCC). A LOXL2 splice variant LOXL2-e13 and its wild type were overexpressed in ESCC cells followed by microarray analyses. In this study, we explored the potential role and molecular mechanism of LOXL2-e13 based on known protein-protein interactions (PPIs), following microarray analysis of KYSE150 ESCC cells overexpressing a LOXL2 splice variant, denoted by LOXL2-e13, or its wild-type counterpart. The differentially expressed genes (DEGs) of LOXL2-WT and LOXL2-e13 were applied to generate individual PPI subnetworks in which hundreds of DEGs interacted with thousands of other proteins. These two DEG groups were annotated by Functional Annotation Chart analysis in the DAVID bioinformatics database and compared. These results found many specific annotations indicating the potential specific role or mechanism for LOXL2-e13. The DEGs of LOXL2-e13, comparing to its wild type, were prioritized by the Random Walk with Restart algorithm. Several tumor-related genes such as ERO1L, ITGA3, and MAPK8 were found closest to LOXL2-e13. These results provide helpful information for subsequent experimental identification of the specific biological roles and molecular mechanisms of LOXL2-e13. Our study also provides a work flow to identify potential roles of splice variants with large scale data.

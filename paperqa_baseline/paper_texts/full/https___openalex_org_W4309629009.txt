@@ -1,0 +1,9 @@
+Title: Vine copula based dependence modeling in sustainable finance
+Authors: Claudia Czado, Karoline Bax, Özge Şahin, Thomas Nagler, Aleksey Min, Sandra Paterlini
+Year: 2022
+Venue: The Journal of Finance and Data Science
+DOI: https://doi.org/10.1016/j.jfds.2022.11.003
+Paper ID: https://openalex.org/W4309629009
+
+Abstract:
+Climate change and sustainability have become societal focal points in the last decade. Consequently, companies have been increasingly characterized by non-financial information, such as environmental, social, and governance (ESG) scores, based on which companies can be grouped into ESG classes. While many scholars have questioned the relationship between financial performance and risks of assets belonging to different ESG classes, the question about dependence among ESG classes is still open. Here, we focus on understanding the dependence structures of different ESG class indices and the market index through the lens of copula models. After a thorough introduction to vine copula models, we explain how cross-sectional and temporal dependencies can be captured by models based on vine copulas, more specifically, using ARMA-GARCH and stationary vine copula models. Using real-world ESG data over a long period with different economic states, we find that assets with medium ESG scores tend to show weaker dependence to the market, while assets with extremely high or low ESG scores tend to show stronger, non-Gaussian dependence.

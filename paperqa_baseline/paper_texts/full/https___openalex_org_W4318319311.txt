@@ -1,0 +1,9 @@
+Title: Towards sustainable human space exploration—priorities for radiation research to quantify and mitigate radiation risks
+Authors: Anna Fogtman, Sarah Baatout, Bjorn Baselet, Thomas Berger, Christine E. Hellweg, Piers Jiggens, Chiara La Tessa, Livio Narici, P. Nieminen, Laure Sabatier, G. Santin, Uwe Schneider, U. Straube, Kevin Tabury, Walter Tinganelli, Linda Walsh, Marco Durante
+Year: 2023
+Venue: npj Microgravity
+DOI: https://doi.org/10.1038/s41526-023-00262-7
+Paper ID: https://openalex.org/W4318319311
+
+Abstract:
+Human spaceflight is entering a new era of sustainable human space exploration. By 2030 humans will regularly fly to the Moon's orbit, return to the Moon's surface and preparations for crewed Mars missions will intensify. In planning these undertakings, several challenges will need to be addressed in order to ensure the safety of astronauts during their space travels. One of the important challenges to overcome, that could be a major showstopper of the space endeavor, is the exposure to the space radiation environment. There is an urgent need for quantifying, managing and limiting the detrimental health risks and electronics damage induced by space radiation exposure. Such risks raise key priority topics for space research programs. Risk limitation involves obtaining a better understanding of space weather phenomena and the complex radiation environment in spaceflight, as well as developing and applying accurate dosimetric instruments, understanding related short- and long-term health risks, and strategies for effective countermeasures to minimize both exposure to space radiation and the remaining effects post exposure. The ESA/SciSpacE Space Radiation White Paper identifies those topics and underlines priorities for future research and development, to enable safe human and robotic exploration of space beyond Low Earth Orbit.

@@ -1,0 +1,9 @@
+Title: A novel method for testing accuracy of bite registration using intraoral scanners
+Authors: Lydia Kakali, Demetrios J. Halazonetis
+Year: 2023
+Venue: Korean Journal of Orthodontics
+DOI: 10.4041/kjod22.199
+Paper ID: pmc_PMC10387426
+
+Abstract:
+Objective The evidence on the accuracy of bite registration using intraoral scanners is sparse. This study aimed to develop a new method for evaluating bite registration accuracy using intraoral scanners. Methods Two different types of models were used; 10 stone models and 10 with acrylic resin teeth. A triangular frame with cylindrical posts at each apex (one anterior and two posteriors) was digitally designed and manufactured using three-dimensional (3D) printing. Such a structure was fitted in the lingual space of each maxillary and mandibular model so that, in occlusion, the posts would contact their opposing counterparts, enforcing a small interocclusal gap between the two arches. This ensured no tooth interference and full contact between opposing posts. Bite registration accuracy was evaluated by measuring the distance between opposing posts, with small values indicating high-accuracy. Three intraoral scanners were used Medit i500, Primescan, and Trios 4. Viewbox software was used to measure the distance between opposing posts and compute roll and pitch. Results The average maximum error in interocclusal registration exceeded 50 μm. Roll and pitch orientation errors ranged above 0.1 degrees, implying an additional interocclusal error of around 40 μm or more. The models with acrylic teeth exhibited higher errors. Conclusions A method that avoids the need for reference hardware and the imprecision of locating reference points on tooth surfaces, and offers simplicity in the assessment of bite registration with an intraoral scanner, was developed. These results suggest that intraoral scanners may exhibit clinically significant errors in reproducing the interocclusal relationships.

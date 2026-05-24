@@ -1,0 +1,9 @@
+Title: Clustering of firms based on environmental, social, and governance ratings: Evidence from BIST sustainability index
+Authors: Görkem Sarıyer, Dilvin Taşkın
+Year: 2022
+Venue: Borsa Istanbul Review
+DOI: https://doi.org/10.1016/j.bir.2022.10.009
+Paper ID: https://openalex.org/W4307854611
+
+Abstract:
+In this paper, companies listed on the Borsa Istanbul (BIST) Sustainability Index are analyzed by performing a cluster analysis based on their environmental, social, and governance (ESG) scores. The results prove that firms with higher ESG ratings do not necessarily perform well in all ESG aspects. The outcomes of the cluster analysis reveal that firms with higher environmental and social scores are the cluster with the most prominent firms in terms of size but with low profitability. However, the group that scored poorly in environmental and social practices but the highest governance pillar was the highest performing in terms of the return on assets. This paper highlights the significance of forming clusters and linking sustainability practices with performance characteristics.

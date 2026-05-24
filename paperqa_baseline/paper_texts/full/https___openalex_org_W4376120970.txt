@@ -1,0 +1,9 @@
+Title: Towards smart sustainable development through value stream mapping – a systematic literature review
+Authors: Amber Batwara, Vikram Sharma, Mohit Makkar, Antonio Giallanza
+Year: 2023
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2023.e15852
+Paper ID: https://openalex.org/W4376120970
+
+Abstract:
+Value Stream Mapping (VSM) is a standard Lean tool for identifying and reducing waste. It is used to create value and improve the performance of any industry. The value of the VSM has greatly expanded from conventional to smart over time; hence, researchers and practitioners in this sector are paying more emphasis. Comprehensive review research is needed to understand VSM-based smart, sustainable development from a triple-bottom-line perspective. The primary goal of this research is to look at various insights from the historical literature that can help with the adoption of smart, sustainable development through VSM. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) with a fifteen-year time range (2008-2022) is being considered to study various insights and gaps in value stream mapping. Analysis of the significant outcomes presents an eight-point study agenda: year, national context, research method, sector, wastes, VSM type, applied tools, and analysis indicators. The critical finding implies that empirical qualitative research dominates the research sector. Effective VSM implementation requires balancing the three sustainable dimensions of economic, environmental, and social through digitalization. The circular economy should also bolster research on the intersection of sustainability applications and new digital paradigms such as industry revolution 4.0.

@@ -1,0 +1,9 @@
+Title: On the Quantification of Model Uncertainty: A Bayesian Perspective
+Authors: David Kaplan
+Year: 2021
+Venue: Psychometrika
+DOI: 10.1007/s11336-021-09754-5
+Paper ID: pmc_PMC7958145
+
+Abstract:
+Issues of model selection have dominated the theoretical and applied statistical literature for decades. Model selection methods such as ridge regression , the lasso , and the elastic net have replaced ad hoc methods such as stepwise regression as a means of model selection. In the end, however, these methods lead to a single final model that is often taken to be the model considered ahead of time, thus ignoring the uncertainty inherent in the search for a final model. One method that has enjoyed a long history of theoretical developments and substantive applications, and that accounts directly for uncertainty in model selection, is Bayesian model averaging (BMA). BMA addresses the problem of model selection by not selecting a final model, but rather by averaging over a space of possible models that could have generated the data. The purpose of this paper is to provide a detailed and up-to-date review of BMA with a focus on its foundations in Bayesian decision theory and Bayesian predictive modeling. We consider the selection of parameter and model priors as well as methods for evaluating predictions based on BMA. We also consider important assumptions regarding BMA and extensions of model averaging methods to address these assumptions, particularly the method of Bayesian stacking . Simple empirical examples are provided and directions for future research relevant to psychometrics are discussed.

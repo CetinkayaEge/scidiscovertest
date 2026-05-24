@@ -1,0 +1,9 @@
+Title: Are We Talking about Green Skills or Sustainability Competences? A Scoping Review Using Scientometric Analysis of Two Apparently Similar Topics in the Field of Sustainability
+Authors: S. Montanari, Evi Agostini, Denis Francesconi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151914142
+Paper ID: https://openalex.org/W4387020808
+
+Abstract:
+The labor market is facing accelerating changes due to ecological challenges and the related increasing efforts towards sustainable development. Preparing learners for the world of work now requires an understanding of what skills workers will need to adequately address these changes. To deal with this issue, the research community has started to define “sustainability competences” and “green skills” to support educationalists and decision-makers to better manage the impact of sustainability on future jobs. However, in the current literature, the difference between “sustainability competences” and “green skills” is not clear. The aim of this article is to highlight the differences between the two concepts in order to support the dialogue between the various disciplines that address these topics. This paper is a scoping review that provides an outline of the scientometric analyses of publications in the field of sustainability, from the earliest in 1998 up to July 2023. Although the terms are interrelated, using the R package for analysis shows that “green skills” tends to refer more to specific environmental technical skills, while “sustainability competences” are primarily defined as key competences to promote the different dimensions of sustainability, i.e., competences useful for holistic human development

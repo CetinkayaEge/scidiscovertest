@@ -1,0 +1,9 @@
+Title: Microwave-Assisted Incorporation of AgNP into Chitosan–Alginate Hydrogels for Antimicrobial Applications
+Authors: Takuma Oe, Duangkamol Dechojarassri, Sachiro Kakinoki, Hideya Kawasaki, Tetsuya Furuike, Hiroshi Tamura
+Year: 2023
+Venue: Journal of Functional Biomaterials
+DOI: 10.3390/jfb14040199
+Paper ID: pmc_PMC10141964
+
+Abstract:
+Herein, improving the antibacterial activity of a hydrogel system of sodium alginate (SA) and basic chitosan (CS) using sodium hydrogen carbonate by adding AgNPs was investigated. SA-coated AgNPs produced by ascorbic acid or microwave heating were evaluated for their antimicrobial activity. Unlike ascorbic acid, the microwave-assisted method produced uniform and stable SA-AgNPs with an optimal reaction time of 8 min. Transmission electron microscopy (TEM) confirmed the formation of SA-AgNPs with an average particle size of 9 ± 2 nm. Moreover, UV-vis spectroscopy confirmed the optimal conditions for SA-AgNP synthesis (0.5% SA, 50 mM AgNO 3 , and pH 9 at 80 °C). Fourier transform infrared (FTIR) spectroscopy confirmed that the –COO − group of SA electrostatically interacted with either the Ag + or –NH 3 + of CS. Adding glucono-δ-lactone (GDL) to the mixture of SA-AgNPs/CS resulted in a low pH (below the p K a of CS). An SA-AgNPs/CS gel was formed successfully and retained its shape. This hydrogel exhibited 25 ± 2 mm and 21 ± 1 mm inhibition zones against E. coli and B. subtilis and showed low cytotoxicity. Additionally, the SA-AgNP/CS gel showed higher mechanical strength than SA/CS gels, possibly due to the higher crosslink density. In this work, a novel antibacterial hydrogel system was synthesized via 8 min of microwave heating.

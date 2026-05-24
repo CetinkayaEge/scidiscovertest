@@ -1,0 +1,9 @@
+Title: Directed evolution of angiotensin‐converting enzyme 2 peptidase activity profiles for therapeutic applications
+Authors: Pete Heinzelman, Philip A. Romero
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4597
+Paper ID: pmc_PMC10019445
+
+Abstract:
+Abstract Angiotensin‐converting enzyme 2 (ACE2) has been investigated for its ability to beneficially modulate the angiotensin receptor (ATR) therapeutic axis to treat multiple human diseases. Its broad substrate scope and diverse physiological roles, however, limit its potential as a therapeutic agent. In this work, we address this limitation by establishing a yeast display‐based liquid chromatography screen that enabled use of directed evolution to discover ACE2 variants that possess both wild‐type or greater Ang‐II hydrolytic activity and improved specificity toward Ang‐II relative to the off‐target peptide substrate Apelin‐13. To obtain these results, we screened ACE2 active site libraries to reveal three substitution‐tolerant positions (M360, T371, and Y510) that can be mutated to enhance ACE2's activity profile and followed up on these hits with focused double mutant libraries to further improve the enzyme. Relative to wild‐type ACE2, our top variant (T371L/Y510Ile) displayed a sevenfold increase in Ang‐II turnover number ( k cat ), a sixfold diminished catalytic efficiency ( k cat / K m ) on Apelin‐13, and an overall decreased activity on other ACE2 substrates that were not directly assayed in the directed evolution screen. At physiologically relevant substrate concentrations, T371L/Y510Ile hydrolyzes as much or more Ang‐II than wild‐type ACE2 with concomitant Ang‐II:Apelin‐13 specificity improvements reaching 30‐fold. Our efforts have delivered ATR axis‐acting therapeutic candidates with relevance to both established and unexplored ACE2 therapeutic applications and provide a foundation for further ACE2 engineering efforts.

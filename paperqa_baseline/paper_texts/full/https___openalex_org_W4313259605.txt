@@ -1,0 +1,9 @@
+Title: Corporate Sustainable Development, Corporate Environmental Performance and Cost of Debt
+Authors: Sun Haiyan, Guangyang Wang, Junwei Bai, Jianfei Shen, Xinyuan Zheng, Erli Dan, Feiyu Chen, Ludan Zhang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010228
+Paper ID: https://openalex.org/W4313259605
+
+Abstract:
+High environmental performance of enterprises may reduce financing costs, while good environmental performance can promote sustainable development of enterprises. Therefore, this paper examines the impact mechanism of China’s corporate environmental performance on financing costs, and whether corporate sustainable development plays a regulatory role in the research of heavy pollution industries. This study is conducted through the Breusch and Pagan Lagrange multiplier test for random effects and the Hausman test to determine whether to adopt Fixed-effects regression or Random-effects GLS regression as an estimation method to control individual effects and endogenous problems brought by time. By collecting the samples of listed companies in China from 2010 to 2021, the empirical results show that corporate environmental performance is negatively related to financing costs. Sustainable development, as a moderator variable, is negatively related to financing costs and has weakened the inhibition of corporate environmental performance on financing costs. Although the existing literature shows that environmental performance will lead to changes in debt costs, this study has made contributions to the literature by revealing the sustainable development mechanism in the relationship between corporate environmental performance and financing costs and has verified that sustainable development is one of the important factors affecting financing costs.

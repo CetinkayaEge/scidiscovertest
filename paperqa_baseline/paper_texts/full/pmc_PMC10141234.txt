@@ -1,0 +1,9 @@
+Title: Adjusting Heterodimeric Coiled-Coils (K/E Zipper) to Connect Autophagy-Inducing Peptide with Cell-Penetrating Peptide
+Authors: Yoshiyuki Hakata, Kazuma Yamashita, Sonoko Hashimoto, Takashi Ohtsuki, Masaaki Miyazawa, Mizuki Kitamatsu
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041048
+Paper ID: pmc_PMC10141234
+
+Abstract:
+A connection of a functional peptide with a cell-penetrating peptide (CPP) used a heterodimeric coiled-coil as a molecular zipper can improve the intracellular delivery and activity of the functional peptide. However, the chain length of the coiled coil required for functioning as the molecular zipper is unknown at present. To solve the problem, we prepared an autophagy-inducing peptide (AIP) that conjugates with the CPP via heterodimeric coiled-coils consisting of 1 to 4 repeating units (K/E zipper; AIP-Kn and En-CPP), and we investigated the optimum length of the K/E zipper for effective intracellular delivery and autophagy induction. Fluorescence spectroscopy showed that K/E zippers with n = 3 and 4 formed a stable 1:1 hybrid (AIP-K3/E3-CPP and AIP-K4/E4-CPP, respectively). Both AIP-K3 and AIP-K4 were successfully delivered into cells by the corresponding hybrid formation with K3-CPP and K4-CPP, respectively. Interestingly, autophagy was also induced by the K/E zippers with n = 3 and 4, more intensively by the former than by the latter. The peptides and K/E zippers used in this study did not show significant cytotoxicity. These results indicate that the effective induction of autophagy occurs via an exquisite balance of the association and dissociation of the K/E zipper in this system.

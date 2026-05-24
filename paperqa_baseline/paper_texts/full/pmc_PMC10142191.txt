@@ -1,0 +1,9 @@
+Title: Evaluation of GC/MS-Based 13 C-Positional Approaches for TMS Derivatives of Organic and Amino Acids and Application to Plant 13 C-Labeled Experiments
+Authors: Younès Dellero, Olivier Filangi, Alain Bouchereau
+Year: 2023
+Venue: Metabolites
+DOI: 10.3390/metabo13040466
+Paper ID: pmc_PMC10142191
+
+Abstract:
+Analysis of plant metabolite 13 C-enrichments with gas-chromatography mass spectrometry (GC/MS) has gained interest recently. By combining multiple fragments of a trimethylsilyl (TMS) derivative, 13 C-positional enrichments can be calculated. However, this new approach may suffer from analytical biases depending on the fragments selected for calculation leading to significant errors in the final results. The goal of this study was to provide a framework for the validation of 13 C-positional approaches and their application to plants based on some key metabolites (glycine, serine, glutamate, proline, α-alanine and malate). For this purpose, we used tailor-made 13 C-PT standards, harboring known carbon isotopologue distributions and 13 C-positional enrichments, to evaluate the reliability of GC-MS measurements and positional calculations. Overall, we showed that some mass fragments of proline_2TMS, glutamate_3TMS, malate_3TMS and α-alanine_2TMS had important biases for 13 C measurements resulting in significant errors in the computational estimation of 13 C-positional enrichments. Nevertheless, we validated a GC/MS-based 13 C-positional approach for the following atomic positions: (i) C1 and C2 of glycine_3TMS, (ii) C1, C2 and C3 of serine_3TMS, and (iii) C1 of malate_3TMS and glutamate_3TMS. We successfully applied this approach to plant 13 C-labeled experiments for investigating key metabolic fluxes of plant primary metabolism (photorespiration, tricarboxylic acid cycle and phosphoenolpyruvate carboxylase activity).

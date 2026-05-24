@@ -1,0 +1,9 @@
+Title: Sustainability Assessment of Electricity Generation in Niger Using a Weighted Multi-Criteria Decision Approach
+Authors: Ramchandra Bhandari, Benjamin Eduardo Arce, Vittorio Sessa, Rabani Adamou
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13010385
+Paper ID: https://openalex.org/W3119252967
+
+Abstract:
+The majority of Niger’s population faces a widespread lack of access to electricity. Although the country lies in the Sahara belt, exploitation of solar energy is so far minimal. Due to ongoing fossil fuel exploration in the country, this fuel might dominate the future electricity supply. Today, Niger imports the most of its electricity from Nigeria. There is a need to expand electricity generation and supply infrastructures in Niger. When doing so, it is important to choose a proper set of electricity generation resource/technology that fulfils sustainability criteria. Thus, the objective of this work is to analyze a methodology in order to assess different energy technologies for Niger. A multi-criteria decision approach was selected to assess the most accessible energy system for the country. For this purpose, indicators were developed and weighted for ranking electricity generation options. Altogether 40 indicators are selected under six dimensions (availability, risk, technology, economics, environment and social) to assess eight different alternatives, considering the aggregated results and corresponding scores under each dimension. A merit list of technology and resources for electricity generation presented in this work could support the stakeholders in their decision-making for further projects implementation in the country.

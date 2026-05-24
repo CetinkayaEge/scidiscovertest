@@ -1,0 +1,9 @@
+Title: Ultra-Efficient and Cost-Effective Platinum Nanomembrane Electrocatalyst for Sustainable Hydrogen Production
+Authors: Xiang Gao, Shicheng Dai, Yun Teng, Qing Wang, Zhibo Zhang, Ziyin Yang, Minhyuk Park, Hang Wang, Zhe Jia, Yun-Jiang Wang, Yong Yang
+Year: 2024
+Venue: Nano-Micro Letters
+DOI: https://doi.org/10.1007/s40820-024-01324-5
+Paper ID: https://openalex.org/W4391531156
+
+Abstract:
+Hydrogen production through hydrogen evolution reaction (HER) offers a promising solution to combat climate change by replacing fossil fuels with clean energy sources. However, the widespread adoption of efficient electrocatalysts, such as platinum (Pt), has been hindered by their high cost. In this study, we developed an easy-to-implement method to create ultrathin Pt nanomembranes, which catalyze HER at a cost significantly lower than commercial Pt/C and comparable to non-noble metal electrocatalysts. These Pt nanomembranes consist of highly distorted Pt nanocrystals and exhibit a heterogeneous elastic strain field, a characteristic rarely seen in conventional crystals. This unique feature results in significantly higher electrocatalytic efficiency than various forms of Pt electrocatalysts, including Pt/C, Pt foils, and numerous Pt single-atom or single-cluster catalysts. Our research offers a promising approach to develop highly efficient and cost-effective low-dimensional electrocatalysts for sustainable hydrogen production, potentially addressing the challenges posed by the climate crisis.

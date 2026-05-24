@@ -1,0 +1,9 @@
+Title: Sustainability Assessment of Green Ammonia Production To Promote Industrial Decarbonization in Spain
+Authors: Sergi Vinardell, Palina Nicolas, A.M. Sastre, José Luis Cortina, César Valderrama
+Year: 2023
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.3c04694
+Paper ID: https://openalex.org/W4387936930
+
+Abstract:
+This article investigates the economic and environmental implications of implementing green ammonia production plants in Spain. To this end, one business-as-usual scenario for gray ammonia production was compared with three green ammonia scenarios powered with different renewable energy sources (i.e., solar photovoltaic (PV), wind, and a combination of solar PV and wind). The results illustrated that green ammonia scenarios reduced the environmental impacts in global warming, stratospheric ozone depletion, and fossil resource scarcity when compared with conventional gray ammonia scenario. Conversely, green ammonia implementation increased the environmental impacts in the categories of land use, mineral resource scarcity, freshwater eutrophication, and terrestrial acidification. The techno-economic analysis revealed that the conventional gray ammonia scenario featured lower costs than green ammonia scenarios when considering a moderate natural gas cost. However, green ammonia implementation became the most economically favorable option when the natural gas cost and carbon prices increased. Finally, the results showed that developing efficient ammonia-fueled systems is important to make green ammonia a relevant energy vector when considering the entire supply chain (production/transportation). Overall, the results of this research demonstrate that green ammonia could play an important role in future decarbonization scenarios.

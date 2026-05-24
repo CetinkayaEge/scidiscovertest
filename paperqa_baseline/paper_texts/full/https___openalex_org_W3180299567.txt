@@ -1,0 +1,9 @@
+Title: Applications of Blockchain Technology in Sustainable Manufacturing and Supply Chain Management: A Systematic Review
+Authors: Ahmad A. Khanfar, Mohammad Iranmanesh, Morteza Ghobakhloo, Madugoda Gunaratnege Senali, Masood Fathi
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13147870
+Paper ID: https://openalex.org/W3180299567
+
+Abstract:
+Developing sustainable products and processes is essential for the survival of manufacturers in the current competitive market and the industry 4.0 era. The activities of manufacturers and their supply chain partners should be aligned with sustainable development goals. Manufacturers have faced many barriers and challenges in implementing sustainable practices along the entire supply chain due to globalisation, outsourcing, and offshoring. Blockchain technology has the potential to address the challenges of sustainability. This study aims to explain the applications of blockchain technology to sustainable manufacturing. We conducted a systematic literature review and explained the potential contributions of blockchain technology to the economic, environmental, and social performances of manufacturers and their supply chains. The findings of the study extend our understanding of the blockchain applications in sustainable manufacturing and sustainable supply chains. Furthermore, the study explains how blockchain can influence the sustainable performance of manufacturers by creating transparency, traceability, real-time information sharing, and security of the data capabilities.

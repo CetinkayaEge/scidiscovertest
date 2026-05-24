@@ -1,0 +1,9 @@
+Title: Sustainable City Planning: A Data-Driven Approach for Mitigating Urban Heat
+Authors: Andrew MacLachlan, Eloise M. Biggs, G. Roberts, Bryan Boruff
+Year: 2021
+Venue: Frontiers in Built Environment
+DOI: https://doi.org/10.3389/fbuil.2020.519599
+Paper ID: https://openalex.org/W3125932553
+
+Abstract:
+Urban areas are expected to triple by 2030 in order to accommodate 60% of the global population. Anthropogenic landscape modifications expand coverage of impervious surfaces inducing the urban heat island (UHI) effect, a critical twenty first century challenge associated with increased economic expenditure, energy consumption, and adverse health impacts. Yet, omission of UHI measures from global climate models and metropolitan planning methodologies precludes effective sustainable development governance. We present an approach that integrates Earth observation and climate data with three-dimensional urban models to determine optimal tree placement (per square meter) within proposed urban developments to enable more effective localized UHI mitigation. Such data-driven planning decisions will enhance the future sustainability of our cities to align with current global urban development agendas.

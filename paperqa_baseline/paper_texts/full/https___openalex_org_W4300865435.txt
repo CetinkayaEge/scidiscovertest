@@ -1,0 +1,9 @@
+Title: Satellite Data Applications for Sustainable Energy Transitions
+Authors: Morgan R. Edwards, Tracey Holloway, R. Bradley Pierce, Lew Blank, Madison Broddle, Eric T. Choi, B. N. Duncan, Ángel E. Esparza, Giacomo Falchetta, Meredith Fritz, Holly Gibbs, Henry Hundt, Tyler J. Lark, Amy Leibrand, Fei Liu, Becca Madsen, Tanya Maslak, Bhartendu Pandey, Karen C. Seto, Paul W. Stackhouse
+Year: 2022
+Venue: Frontiers in Sustainability
+DOI: https://doi.org/10.3389/frsus.2022.910924
+Paper ID: https://openalex.org/W4300865435
+
+Abstract:
+Transitioning to a sustainable energy system poses a massive challenge to communities, nations, and the global economy in the next decade and beyond. A growing portfolio of satellite data products is available to support this transition. Satellite data complement other information sources to provide a more complete picture of the global energy system, often with continuous spatial coverage over targeted areas or even the entire Earth. We find that satellite data are already being applied to a wide range of energy issues with varying information needs, from planning and operation of renewable energy projects, to tracking changing patterns in energy access and use, to monitoring environmental impacts and verifying the effectiveness of emissions reduction efforts. While satellite data could play a larger role throughout the policy and planning lifecycle, there are technical, social, and structural barriers to their increased use. We conclude with a discussion of opportunities for satellite data applications to energy and recommendations for research to maximize the value of satellite data for sustainable energy transitions.

@@ -1,0 +1,9 @@
+Title: Phosphorylation of Tyrosine 841 Plays a Significant Role in JAK3 Activation
+Authors: Shengjie Sun, Georgialina Rodriguez, Yixin Xie, Wenhan Guo, Alan E. Lopez Hernandez, Jason E. Sanchez, Robert Arthur Kirken, Lin Li
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040981
+Paper ID: pmc_PMC10141632
+
+Abstract:
+Janus Kinase 3 (JAK3) plays a key role in the development, proliferation, and differentiation of various immune cells. It regulates gene expression by phosphorylation of Signal Transducers and Activators of Transcriptions (STATs) via the JAK/STAT pathway. Recently, we found a new JAK3 phosphorylation site, tyrosine 841 (Y841). The results showed that pY841 helps the kinase domain flip around the pseudo kinase domain, which may cause JAK3 conformational changes. It also reduces the size of the cleft between the N-lobe and the C-lobe of the JAK3 kinase domain. However, pY841 was found to enlarge the cleft when ATP/ADP was bound to the kinase. The increase in the cleft size suggested that pY841 enhanced the elasticity of the kinase domain. For unphosphorylated JAK3 (JAK3-Y841), the binding forces between the kinase domain and ATP or ADP were similar. After phosphorylation of Y841, JAK3-pY841 exhibited more salt bridges and hydrogen bonds between ATP and the kinase than between ADP and the kinase. Consequently, the electrostatic binding force between ATP and the kinase was higher than that between ADP and the kinase. The result was that compared to ADP, ATP was more attractive to JAK3 when Y841 was phosphorylated. Therefore, JAK3-pY841 tended to bind ATP rather than ADP. This work provides new insights into the role of phosphorylation in kinase activation and ATP hydrolysis and sheds light on the importance of understanding the molecular mechanisms that regulate the kinase function.

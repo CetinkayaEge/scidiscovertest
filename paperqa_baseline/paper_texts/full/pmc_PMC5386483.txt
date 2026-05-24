@@ -1,0 +1,9 @@
+Title: Luteolin selectively kills STAT3 highly activated gastric cancer cells through enhancing the binding of STAT3 to SHP-1
+Authors: Shiyu Song, Zhonglan Su, Hui Xu, Mengyuan Niu, Xiufang Chen, Haiyan Min, Bin Zhang, Guibo Sun, Sijing Xie, Hongwei Wang, Qian Gao
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.38
+Paper ID: pmc_PMC5386483
+
+Abstract:
+The antitumor effect of luteolin, a plant flavonoid, in gastric cancer (GC) cells has not been fully understood. Here we show that luteolin selectively kills STAT3 overactivated GC cells that are often drug resistant. The treatment of luteolin in these GC cells significantly inhibited STAT3 phosphorylation and reduced the expression of STAT3 targeting gene Mcl-1, Survivin and Bcl-xl. Silencing of SHP-1, a protein tyrosine phosphatase, abolished the inhibitory effect of luteolin on STAT3 and cell apoptosis, suggesting that SHP-1 is crucial in luteolin-mediated cellular function. Moreover, this luteolin effect of STAT3 dephosphorylation by SHP-1 involved in HSP-90, which protected STAT3 phosphorylation by forming HSP-90/STAT3 complex. Thus, luteolin inhibited STAT3 activation through disrupting the binding of HSP-90 to STAT3, which promoted its interaction to SHP-1, resulted in the dephosphorylation of STAT3. The GC cell xenograft mouse model confirmed the effectiveness of luteolin induced inhibition of tumor growth in vivo .

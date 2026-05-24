@@ -1,0 +1,9 @@
+Title: Sustainable 4D printing of magneto-electroactive shape memory polymer composites
+Authors: Mohammadreza Lalegani Dezaki, Mahdi Bodaghi
+Year: 2023
+Venue: The International Journal of Advanced Manufacturing Technology
+DOI: https://doi.org/10.1007/s00170-023-11101-0
+Paper ID: https://openalex.org/W4321435971
+
+Abstract:
+Abstract Typical techniques for creating synthetic morphing structures suffer from a compromise between quick shape change and geometric complexity. A novel approach is proposed for encoding numerous shapes and forms by magneto-electroactive shape memory polymer composite (SMPC) structures and integrating sustainability with 4D printing (4DP) technology. Electrically driven, remote controllability, and quick reaction are the features of these sustainable composite structures. Low-cost 4D-printed SMPC structures can be programmed remotely at high temperatures to achieve multi-stable shapes and can snap repeatedly between all programmed temporary and permanent configurations. This allows for multiple designs in a single structure without wasting material. The strategy is based on a knowledge of SMPC mechanics, magnetic response, and the manufacturing idea underlying fused deposition modelling (FDM). Iron-filled magnetic polylactic acid (MPLA) and carbon black-filled conductive PLA (CPLA) composite materials are investigated in terms of microstructure properties, composite interface, and mechanical properties. Characterisation studies are carried out to identify how to control the structure with a low magnetic field. The shape morphing of magneto-electroactive SMPC structures is studied. FDM is used to 4D print MPLA and CPLA adaptive structures with 1D/2D-to-2D/3D shapeshifting by the magnetic field. The benefits of switchable multi-stable structures are reducing material waste and effort/energy and increasing efficiency in sectors such as packaging. Graphical Abstract

@@ -1,0 +1,9 @@
+Title: Deep Learning Approach to Recyclable Products Classification: Towards Sustainable Waste Management
+Authors: Mohammed Imran Basheer Ahmed, Raghad B. Alotaibi, Rahaf A. Al-Qahtani, Rahaf Alqahtani, Sara S. Al-Hetela, Khawla A. Al-Matar, Noura K. Al-Saqer, Atta Rahman, Linah Saraireh, Mustafa Youldash, Gomathi Krishnasamy
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151411138
+Paper ID: https://openalex.org/W4384698698
+
+Abstract:
+Effective waste management and recycling are essential for sustainable development and environmental conservation. It is a global issue around the globe and emerging in Saudi Arabia. The traditional approach to waste sorting relies on manual labor, which is both time-consuming, inefficient, and prone to errors. Nonetheless, the rapid advancement of computer vision techniques has paved the way for automating garbage classification, resulting in enhanced efficiency, feasibility, and management. In this regard, in this study, a comprehensive investigation of garbage classification using a state-of-the-art computer vision algorithm, such as Convolutional Neural Network (CNN), as well as pre-trained models such as DenseNet169, MobileNetV2, and ResNet50V2 has been presented. As an outcome of the study, the CNN model achieved an accuracy of 88.52%, while the pre-trained models DenseNet169, MobileNetV2, and ResNet50V2, achieved 94.40%, 97.60%, and 98.95% accuracies, respectively. That is considerable in contrast to the state-of-the-art studies in the literature. The proposed study is a potential contribution to automating garbage classification and to facilitating an effective waste management system as well as to a more sustainable and greener future. Consequently, it may alleviate the burden on manual labor, reduce human error, and encourage more effective recycling practices, ultimately promoting a greener and more sustainable future.

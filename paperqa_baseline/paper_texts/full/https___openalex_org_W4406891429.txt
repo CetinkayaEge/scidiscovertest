@@ -1,0 +1,9 @@
+Title: The disparities and development trajectories of nations in achieving the sustainable development goals
+Authors: Fengmei Ma, Heming Wang, Asaf Tzachor, César A. Hidalgo, Heinz Schandl, Yue Zhang, Jingling Zhang, Wei‐Qiang Chen, Yanzhi Zhao, Yong‐Guan Zhu, Bojie Fu
+Year: 2025
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-025-56076-6
+Paper ID: https://openalex.org/W4406891429
+
+Abstract:
+The Sustainable Development Goals (SDGs) provide a comprehensive framework for societal progress and planetary health. However, it remains unclear whether universal patterns exist in how nations pursue these goals and whether key development areas are being overlooked. Here, we apply the product space methodology, widely used in development economics, to construct an 'SDG space of nations'. The SDG space models the relative performance and specialization patterns of 166 countries across 96 SDG indicators from 2000 to 2022. Our SDG space reveals a polarized global landscape, characterized by distinct groups of nations, each specializing in specific development indicators. Furthermore, we find that as countries improve their overall SDG scores, they tend to modify their sustainable development trajectories, pursuing different development objectives. Additionally, we identify orphaned SDG indicators - areas where certain country groups remain under-specialized. These patterns, and the SDG space more broadly, provide a high-resolution tool to understand and evaluate the progress and disparities of countries towards achieving the SDGs.

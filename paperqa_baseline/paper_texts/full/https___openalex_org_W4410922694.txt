@@ -1,0 +1,9 @@
+Title: Food sustainability 4.0: harnessing fourth industrial revolution technologies for sustainable food systems
+Authors: Abdo Hassoun
+Year: 2025
+Venue: Discover Food
+DOI: https://doi.org/10.1007/s44187-025-00461-z
+Paper ID: https://openalex.org/W4410922694
+
+Abstract:
+Abstract The global food system faces complex challenges driven by population growth, environmental degradation, resource scarcity, and climate change, all of which threaten food security, public health, and food sustainability. Industry 4.0 technologies, such as artificial intelligence (AI), smart sensors, big data analytics, the Internet of Things (IoT), robotics, and blockchain, offer transformative solutions by integrating digital, physical, and biological sciences to enhance efficiency, foster innovation, and improve food quality and traceability, ultimately driving sustainability throughout food supply chains. Based on an examination of ten Industry 4.0 technologies, this work introduces the concept of 'Food Sustainability 4.0' exploring how these technologies support sustainable practices across three key dimensions—environmental, social, and economic—with a particular focus on the interdisciplinary synergies between these innovations. Environmentally, the convergence of AI, IoT, and robotics reduces food waste, energy consumption, and carbon emissions. Socially, these technologies create new employment opportunities, promote equitable food systems, and improve public health. Economically, these technological innovations streamline operations, reduce costs, and unlock new market opportunities, strengthening the resilience of the food sector. However, implementing Food Sustainability 4.0 faces challenges such as high costs, infrastructure gaps, data privacy concerns, and regulatory barriers. Addressing these obstacles is essential to fully unlocking its potential for creating sustainable and resilient food systems.

@@ -1,0 +1,9 @@
+Title: Developing an Evaluation Framework for Circular Agriculture: A Pathway to Sustainable Farming
+Authors: Steliana Rodino, Ruxandra Pop, Cristina Maria Sterie, Andreea Daniela Giucă, Eduard Alexandru Dumitru
+Year: 2023
+Venue: Agriculture
+DOI: https://doi.org/10.3390/agriculture13112047
+Paper ID: https://openalex.org/W4388264747
+
+Abstract:
+This article examines how circularity can be measured and evaluated in the agricultural sector. Circularity represents a key approach for promoting sustainability in agriculture and for the efficient management of resources. Through a comprehensive review of the scientific literature and employing rigorous selection methods, we identify the relevant indicators and tools for assessing circularity in the agri-food chain. The initial bibliometric analysis was performed by using a Biblioshiny instrument from R package tool Bibliometrics. Additionally, this article analyzes the methodologies based on the indicators and metrics that can be applied to measure the restorative capacity and effectiveness of the agricultural system. Most current research follows the 3R principles of the circular economy and establishes an evaluation index system based on the regional characteristics. Methods such as the multi-criteria decision analysis, data envelopment analysis, and life cycle assessment are the most used to date. For the micro-level analysis, system dynamics, material flow analysis, and emergy analysis were the most suitable. Our results provide a clear perspective on the current state of the research in the field of measuring circularity in agriculture and lay the groundwork for the future development of effective strategies for implementing the circular economy in this crucial sector.

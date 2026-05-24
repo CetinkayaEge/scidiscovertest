@@ -1,0 +1,9 @@
+Title: Structural insights, biocatalytic characteristics, and application prospects of lignin-modifying enzymes for sustainable biotechnology
+Authors: Anil Kumar Singh, Hafiz M.N. Iqbal, Nunzio Cardullo, Vera Muccilli, Jesús Fernández‐Lucas, Jens Ejbye Schmidt, Teofil Jesionowski, Muhammad Bilal
+Year: 2023
+Venue: International Journal of Biological Macromolecules
+DOI: https://doi.org/10.1016/j.ijbiomac.2023.124968
+Paper ID: https://openalex.org/W4377137059
+
+Abstract:
+Lignin modifying enzymes (LMEs) have gained widespread recognition in depolymerization of lignin polymers by oxidative cleavage. LMEs are a robust class of biocatalysts that include lignin peroxidase (LiP), manganese peroxidase (MnP), versatile peroxidase (VP), laccase (LAC), and dye-decolorizing peroxidase (DyP). Members of the LMEs family act on phenolic, non-phenolic substrates and have been widely researched for valorization of lignin, oxidative cleavage of xenobiotics and phenolics. LMEs implementation in the biotechnological and industrial sectors has sparked significant attention, although its potential future applications remain underexploited. To understand the mechanism of LMEs in sustainable pollution mitigation, several studies have been undertaken to assess the feasibility of LMEs in correlating to diverse pollutants for binding and intermolecular interactions at the molecular level. However, further investigation is required to fully comprehend the underlying mechanism. In this review we presented the key structural and functional features of LMEs, including the computational aspects, as well as the advanced applications in biotechnology and industrial research. Furthermore, concluding remarks and a look ahead, the use of LMEs coupled with computational framework, built upon artificial intelligence (AI) and machine learning (ML), has been emphasized as a recent milestone in environmental research.

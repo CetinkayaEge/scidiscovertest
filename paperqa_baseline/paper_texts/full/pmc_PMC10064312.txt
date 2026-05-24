@@ -1,0 +1,9 @@
+Title: Tuning of Ultra-Thin Gold Films by Photoreduction
+Authors: Daniel Martínez-Cercós, Bruno Paulillo, Jessica Barrantes, Jose Mendoza-Carreño, Agustín Mihi, Todd St. Clair, Prantik Mazumder, Valerio Pruneri
+Year: 2023
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.2c22149
+Paper ID: pmc_PMC10064312
+
+Abstract:
+Ultrathin metal films (UTMFs) are used in a wide range of applications, from transparent electrodes to infrared mirrors and metasurfaces. Due to their small thickness ( < 5 nm), the electrical and optical properties of UTMFs can be changed by external stimuli, for example, by applying an electric field through an ion gel. It is also known that oxidized thin films and nanostructures of Au can be reduced by irradiating with short-wavelength light. Here we show that the resistance, reflectance, and resonant optical response of Au UTMFs is changed significantly by ultraviolet light. More specifically, photoreduction and oxidation processes can be sequentially applied for continuous tuning, with observed modulation ranges for sheet resistance ( R s) and reflectance of more than 40% and 30%, respectively. The proposed method has the potential for achieving reconfigurable UTMF structures and trimming their response to specific working points, e.g., a predetermined resonance wavelength and amplitude. This is also important for large scale deployment of such surfaces as one can compensate material nonuniformity, morphological, and structural dimension errors occurring during fabrication.

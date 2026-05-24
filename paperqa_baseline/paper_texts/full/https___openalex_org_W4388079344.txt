@@ -1,0 +1,9 @@
+Title: How Fish Population Genomics Can Promote Sustainable Fisheries: A Road Map
+Authors: Leif Andersson, Dorte Bekkevold, Florian Berg, Edward D. Farrell, Sabine Felkel, Mafalda S. Ferreira, Angela P. Fuentes‐Pardo, Jake Goodall, Mats E. Pettersson
+Year: 2023
+Venue: Annual Review of Animal Biosciences
+DOI: https://doi.org/10.1146/annurev-animal-021122-102933
+Paper ID: https://openalex.org/W4388079344
+
+Abstract:
+Maintenance of genetic diversity in marine fishes targeted by commercial fishing is a grand challenge for the future. Most of these species are abundant and therefore important for marine ecosystems and food security. Here, we present a road map of how population genomics can promote sustainable fisheries. In these species, the development of reference genomes and whole genome sequencing is key, because genetic differentiation at neutral loci is usually low due to large population sizes and gene flow. First, baseline allele frequencies representing genetically differentiated populations within species must be established. These can then be used to accurately determine the composition of mixed samples, forming the basis for population demographic analysis to inform sustainably set fish quotas. SNP-chip analysis is a cost-effective method for determining baseline allele frequencies and for population identification in mixed samples. Finally, we describe how genetic marker analysis can transform stock identification and management.

@@ -1,0 +1,9 @@
+Title: Blue Seaports: The Smart, Sustainable and Electrified Ports of the Future
+Authors: Daniel Clemente, Tomás Calheiros-Cabral, Paulo Rosa-Santos, Francisco Taveira-Pinto
+Year: 2023
+Venue: Smart Cities
+DOI: https://doi.org/10.3390/smartcities6030074
+Paper ID: https://openalex.org/W4379473081
+
+Abstract:
+Seaports are at the forefront of global trade networks, serving as hubs for maritime logistics and the transportation of goods and people. To meet the requirements of such networks, seaport authorities are investing in advanced technologies to enhance the efficiency and reliability of port infrastructures. This can be achieved through the digitalization and automation of core systems, aimed at optimizing the management and handling of both goods and people. Furthermore, a significant effort is being made towards a green energy transition at seaports, which can be supported through marine renewable sources. This promotes energy-mix diversification and autonomy, whilst reducing the noteworthy environmental footprint of seaport activities. By analyzing these pertinent topics under the scope of a review of container-terminal case studies, and these ports’ respective contexts, this paper seeks to identify pioneering smart seaports in the fields of automation, real-time management, connectivity and accessibility control. To foster the sustainable development of seaports, from an energy perspective, the potential integration with marine renewable-energy systems is considered, as well as their capabilities for meeting, even if only partially, the energy demands of seaports. By combining these fields, we attempt to construct a holistic proposal for a “model port” representing the expected evolution towards the seaports of the future.

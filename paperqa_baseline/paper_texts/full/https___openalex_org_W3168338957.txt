@@ -1,0 +1,9 @@
+Title: A Precondition of Sustainability: Industry 4.0 Readiness
+Authors: Slavko Rakić, Marko Pavlović, Uglješa Marjanović
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126641
+Paper ID: https://openalex.org/W3168338957
+
+Abstract:
+To achieve sustainability and further develop their businesses, manufacturing companies need to find an appropriate response to the frequent changes in customer demands, development of new technologies, and dynamic competition. One of the possible requirements for sustainability is the adoption of the Industry 4.0 paradigm. This paper aims to apply Industry 4.0 general readiness assessment methodology and social network analysis to find out the readiness level of Serbian manufacturing and how digital technologies interplay during the time. The results of this study show that wireless human-machine communication technologies initiated the digital transformation of Serbian manufacturing from non-users to basic readiness level. Secondly, manufacturing companies significantly invested in the Cyber-Physical Production System to increase the level towards high readiness. Finally, manufacturing companies in Serbia should consider investing in capabilities to adapt the Near real-time production control system if aiming to compete with competitors from developed countries. The main contribution of this paper is to show the general readiness level of manufacturing companies for digital transformation in transition economies.

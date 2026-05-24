@@ -1,0 +1,9 @@
+Title: Toward sustainable and green development in Chile: Dynamic influences of carbon emission reduction variables
+Authors: Asif Raihan
+Year: 2023
+Venue: Innovation and Green Development
+DOI: https://doi.org/10.1016/j.igd.2023.100038
+Paper ID: https://openalex.org/W4321376483
+
+Abstract:
+This study investigated the dynamic effects of economic growth, renewable energy consumption, urbanization, industrialization, tourism, agricultural productivity, and forest area on carbon dioxide (CO2) emissions in Chile. Using the dynamic ordinary least squares (DOLS) approach, time series data from 1990 to 2020 were analyzed. A 1% increase in economic growth, urbanization, industrialization, and tourism will increase Chile's CO2 emissions by 0.62%, 0.24%, 0.15%, and 0.1%, respectively. Additionally, a 1% increase in renewable energy consumption, agricultural production, and forest area may lead to CO2 emission reductions of 0.55%, 0.20%, and 0.98%, respectively. The estimated outcomes are insensitive to alternative estimators such as fully modified ordinary least squares (FMOLS) and canonical cointegrating regression (CCR). In order to ensure environmental sustainability through emission reductions, this article recommends policies on low-carbon economies, renewable energy consumption, sustainable urbanization, green industrialization, eco-friendly tourism, climate-smart agriculture, and sustainable forest management.

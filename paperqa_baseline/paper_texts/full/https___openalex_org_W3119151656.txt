@@ -1,0 +1,9 @@
+Title: The Dynamics of Sustainability Risks in the Global Coffee Supply Chain: A Case of Indonesia–UK
+Authors: Mahdi Bashiri, Benny Tjahjono, Jordon Lazell, Jennifer Ferreira, Tomy Perdana
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020589
+Paper ID: https://openalex.org/W3119151656
+
+Abstract:
+Indonesia is one of the leading global coffee producers, and the sustainability of its coffee supply chains is therefore of crucial importance, not only for the coffee sector, but also for the thousands of livelihoods involved. Recognising sustainability risks within supply chains is an important component of understanding logistics. This research investigated the sustainability risks in the Indonesia–UK coffee supply chain by using System Dynamics (SD), a simulation modeling paradigm commonly used to assess complex systems. The model parameters and other components of the dynamic model were extracted through interviews with key stakeholders in the coffee supply chain, supported by evidence from a literature review. The model was then verified and validated in different stages, before being used to investigate five different what-if scenarios to consider changes to parameters in the system. The results of this investigation demonstrate the importance of improving agricultural productivity to support a sustainable coffee supply chain. This research also confirms that by combining the SD model and the multiple criteria decision-making technique, it is possible to achieve a more practical and accurate solution than by the individual tool alone, thus ensuring a better understanding of the whole issues affecting the coffee supply chain.

@@ -1,0 +1,9 @@
+Title: SERCA2a gene transfer improves electrocardiographic performance in aged mdx mice
+Authors: Jin-Hong Shin, Brian Bostick, Yongping Yue, Roger Hajjar, Dongsheng Duan
+Year: 2011
+Venue: Journal of Translational Medicine
+DOI: 10.1186/1479-5876-9-132
+Paper ID: pmc_PMC3162513
+
+Abstract:
+Background Cardiomyocyte calcium overloading has been implicated in the pathogenesis of Duchenne muscular dystrophy (DMD) heart disease. The cardiac isoform of sarcoplasmic reticulum calcium ATPase (SERCA2a) plays a major role in removing cytosolic calcium during heart muscle relaxation. Here, we tested the hypothesis that SERCA2a over-expression may mitigate electrocardiography (ECG) abnormalities in old female mdx mice, a murine model of DMD cardiomyopathy. Methods 1 × 10 12 viral genome particles/mouse of adeno-associated virus serotype-9 (AAV-9) SERCA2a vector was delivered to 12-m-old female mdx mice (N = 5) via a single bolus tail vein injection. AAV transduction and the ECG profile were examined eight months later. Results The vector genome was detected in the hearts of all AAV-injected mdx mice. Immunofluorescence staining and western blot confirmed SERCA2a over-expression in the mdx heart. Untreated mdx mice showed characteristic tachycardia, PR interval reduction and QT interval prolongation. AAV-9 SERCA2a treatment corrected these ECG abnormalities. Conclusions Our results suggest that AAV SERCA2a therapy may hold great promise in treating dystrophin-deficient heart disease.

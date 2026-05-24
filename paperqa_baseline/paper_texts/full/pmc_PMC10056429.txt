@@ -1,0 +1,9 @@
+Title: A Channel Allocation Method Considering the Asymmetry of Available Channels for Centralized Underwater Cognitive Acoustic Networks
+Authors: Changho Yun
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063320
+Paper ID: pmc_PMC10056429
+
+Abstract:
+Due to the unpredictable presence of Non-Cognitive Users (NCUs) in the time and frequency domains, the number of available channels (i.e., channels where no NCUs exist) and corresponding channel indices per Cognitive User (CU) may differ. In this paper, we propose a heuristic channel allocation method referred to as Enhanced Multi-Round Resource Allocation (EMRRA), which employs the asymmetry of available channels in existing MRRA to randomly allocate a CU to a channel in each round. EMRRA is designed to enhance the overall spectral efficiency and fairness of channel allocation. To do this, the available channel with the lowest redundancy is primarily selected upon allocating a channel to a CU. In addition, when there are multiple CUs with the same allocation priority, the CU with the smallest number of available channels is chosen. We execute extensive simulations in order to investigate the effect of the asymmetry of available channels on CUs and compare the performance of EMRRA to that of MRRA. As a result, in addition to the asymmetry of available channels, it is confirmed that most of the channels are simultaneously available to multiple CUs. Furthermore, EMRRA outperforms MRRA in terms of the channel allocation rate, fairness, and drop rate and has a slightly higher collision rate. In particular, EMRRA can remarkably reduce the drop rate compared to MRRA.

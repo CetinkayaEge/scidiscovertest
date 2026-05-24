@@ -1,0 +1,9 @@
+Title: Deploying Resilience Enablers to Mitigate Risks in Sustainable Fashion Supply Chains
+Authors: Chih-Hung Hsu, An-Yuan Chang, Ting-Yi Zhang, Weida Lin, Wan‐Ling Liu
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052943
+Paper ID: https://openalex.org/W3134693021
+
+Abstract:
+The complex structure of supply chains makes them vulnerable to risk, so enhancing their resilience is an important goal. In particular, fashion supply chain research has identified two important issues that need to be addressed: sustainability and risk. However, investigation of these issues is relatively sparse and has primarily been independent with little combinatory research. Therefore, it is crucial to develop a risk mitigation method that can maximize the resilience of sustainable supply chains for fashion companies. The objective of this study is to develop an integrated quality function deployment approach and to mitigate supply chain risk by deploying resilience capabilities and resilience-enhancing features, thus ultimately providing the fashion industry with a useful approach for the development of resilient, sustainable supply chains. Using a fashion company as an example, the practicability of the proposed approach is verified. To strengthen resilience and thus mitigate key risks, it is found that the most urgent tasks are to reallocate the company’s resources, to carry out the real-time monitoring of risk on the spot, to share the risk responsibility, and to establish an incentive system. When these features are strengthened, agility and adaptability can be improved, and finally, the risks of supplier delays, natural disasters, political instability, and problematic supplier materials with the greatest impact can be alleviated. This study provides a new strategy for the fashion industry for the implementation of resilient, sustainable supply chains to mitigate risks.

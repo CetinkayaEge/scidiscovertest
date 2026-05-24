@@ -1,0 +1,9 @@
+Title: Energy Sustainability in Wireless Sensor Networks: An Analytical Survey
+Authors: Emmanouil Andreas Evangelakos, Dionisis Kandris, Dimitris Rountos, George S. Tselikis, Eleftherios Anastasiadis
+Year: 2022
+Venue: Journal of Low Power Electronics and Applications
+DOI: https://doi.org/10.3390/jlpea12040065
+Paper ID: https://openalex.org/W4313287921
+
+Abstract:
+Wireless Sensor Networks (WSNs) are considered to be among the most important scientific domains. Yet, the exploitation of WSNs suffers from the severe energy restrictions of their electronic components. For this reason there are numerous scientific methods that have been proposed aiming to achieve the extension of the lifetime of WSNs, either by energy saving or energy harvesting or through energy transfer. This study aims to analytically examine all of the existing hardware-based and algorithm-based mechanisms of this kind. The operating principles of 48 approaches are studied, their relative advantages and weaknesses are highlighted, open research issues are discussed, and resultant concluding remarks are drawn.

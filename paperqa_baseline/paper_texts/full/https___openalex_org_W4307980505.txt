@@ -1,0 +1,9 @@
+Title: Measuring the sustainable development goals: A poset analysis
+Authors: Tadashi Hirai, Flávio Comim
+Year: 2022
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2022.109605
+Paper ID: https://openalex.org/W4307980505
+
+Abstract:
+Sustainability requires balanced development. The economy, society and the environment all need to be pursued simultaneously. In this context, the issue of incomparabilities among different dimensions of indices is at the heart of the discussion. However, this crucial issue is not fully addressed in the existing literature. Whereas dashboards leave to the readers the difficult task of making sense of a complex array of symbols indicating distinct goal levels and trends, composite indices sidestep the issue altogether. To overcome this state of affairs and provide a structural picture of sustainability, we introduce a poset (i.e. partially ordered set) analysis as a middle ground between the two extreme techniques used in assessing progress towards SDGs. By doing so, it aims to improve the use of SDG indicators. Our study finds that partial ordering offers a more transparent, simpler and more intuitive approach than the alternatives. It not only corrects any imbalance in the joint performance of different dimensions but also accords the environment the highest impact upon the overall SDGs. In this it is unlike the existing composite indices, which accord the economy the highest impact. The poset analysis is thus an appropriate technique for the pursuit of sustainable development.

@@ -1,0 +1,9 @@
+Title: Extracellular N 6 -isopentenyladenosine (i 6 A) addition induces cotranscriptional i 6 A incorporation into ribosomal RNAs
+Authors: Maya Yakita, Takeshi Chujo, Fan-Yan Wei, Mayumi Hirayama, Koji Kato, Nozomu Takahashi, Kenta Naganuma, Masashi Nagata, Kenta Kawahara, Hideki Nakayama, Kazuhito Tomizawa
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.079176.122
+Paper ID: pmc_PMC9202588
+
+Abstract:
+N 6 -isopentenyladenosine (i 6 A), a modified adenosine monomer, is known to induce cell death upon its addition to the culture medium. However, the molecular fate of extracellularly added i 6 A has yet to be identified. Here we show that i 6 A addition to cell culture medium results in i 6 A incorporation into cellular RNA in several cell lines, including the 5-fluorouracil (5-FU)-resistant human oral squamous cell carcinoma cell line FR2-SAS and its parental 5-FU-sensitive cell line SAS. i 6 A was predominantly incorporated into 18S and 28S rRNAs, and i 6 A incorporation into total RNA was mostly suppressed by treating these cell lines with an RNA polymerase I (Pol I) inhibitor. i 6 A was incorporated into RNA even upon inactivation of TRIT1, the only cellular i 6 A-modifying enzyme. These results indicate that upon cellular uptake of i 6 A, it is anabolized to be used for Pol I transcription. Interestingly, at lower i 6 A concentrations, the cytotoxic effect of i 6 A was substantially more pronounced in FR2-SAS cells than in SAS cells. Moreover, in FR2-SAS cells, i 6 A treatment decreased the rate of cellular protein synthesis and increased intracellular protein aggregation, and these effects were more pronounced than in SAS cells. Our work provides insights into the molecular fate of extracellularly applied i 6 A in the context of intracellular nucleic acid anabolism and suggests investigation of i 6 A as a candidate for a chemotherapy agent against 5-FU-resistant cancer cells.

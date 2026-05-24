@@ -1,0 +1,9 @@
+Title: Research and Education Towards Smart and Sustainable World
+Authors: Jukka Riekki, Aarne Mämmelä
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3069902
+Paper ID: https://openalex.org/W3090150731
+
+Abstract:
+We propose a vision for directing research and education in the field of information and communications technology (ICT). Our Smart and Sustainable World vision targets prosperity for the people and the planet through better awareness and control of both human-made and natural environments. The needs of society, individuals, and industries are fulfilled with intelligent systems that sense their environment, make proactive decisions on actions advancing their goals, and perform the actions on the environment. We emphasize artificial intelligence, feedback loops, human acceptance and control, intelligent use of basic resources, performance parameters, mission-oriented interdisciplinary research, and a holistic systems view complementing the conventional analytical reductive view as a research paradigm, especially for complex problems. To serve a broad audience, we explain these concepts and list the essential literature. We suggest planning research and education by specifying, in a step-wise manner, scenarios, performance criteria, system models, research problems, and education content, resulting in common goals and a coherent project portfolio as well as education curricula. Research and education produce feedback to support evolutionary development and encourage creativity in research. Finally, we propose concrete actions for realizing this approach.

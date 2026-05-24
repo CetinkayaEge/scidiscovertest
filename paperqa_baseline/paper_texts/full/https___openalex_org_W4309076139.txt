@@ -1,0 +1,9 @@
+Title: Factors affecting the optimisation and scale-up of lipid accumulation in oleaginous yeasts for sustainable biofuels production
+Authors: Raúl Robles‐Iglesias, Cecilia Naveira‐Pazos, Carla Fernández‐Blanco, María C. Veiga, Christian Kennes
+Year: 2022
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2022.113043
+Paper ID: https://openalex.org/W4309076139
+
+Abstract:
+The recent unprecedented increase in energy demand has led to a growing interest in emerging alternatives such as the production of microbial lipids with high energy density and environmentally-friendly characteristics. Oleaginous yeasts represent a versatile and attractive tool for the accumulation of such lipids, also known as single cell oils (SCOs), used to manufacture biofuels (e.g., biodiesel, aviation fuel) and bioproducts. This review provides an overview of the most common oleaginous species, analysing the viability of typical feedstocks and their effect on lipid accumulation. The best results in terms of lipid content using glucose, glycerol, lignocellulose, or acetic acid as substrates are 81.4, 70, 68.2 and 73.4% (w/w), respectively. Besides, an analysis of the parameters that can affect lipid production is also presented. For instance, the optimum conditions for lipid accumulation are usually a C/N ratio between 100 and 200, pH between 5 and 6 (being more alkaline if acids are used as substrates) and temperature around 30 °C. Besides, genetic modifications generally allow to increase the lipid yield, even by up to 400%. Finally, some cost analysis is provided for scaling-up, with feedstock costs estimated at 50–80%, followed by fermenter costs, and downstream costs estimated at around 13%.

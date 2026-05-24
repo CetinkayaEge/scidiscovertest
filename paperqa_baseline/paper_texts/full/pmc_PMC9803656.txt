@@ -1,0 +1,9 @@
+Title: Modulating mental state recognition by anodal tDCS over the cerebellum
+Authors: Silvia Clausi, Michela Lupo, Giulia Funghi, Alessia Mammone, Maria Leggio
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-26914-4
+Paper ID: pmc_PMC9803656
+
+Abstract:
+Increasing evidence from neuroimaging and clinical studies has demonstrated cerebellar involvement in social cognition components, including the mentalizing process. The aim of this study was to apply transcranial direct current stimulation (tDCS) to modulate cerebellar excitability to investigate the role the cerebellum plays in mental state recognition. Forty-eight healthy subjects were randomly assigned to different groups in which anodal, cathodal, or sham tDCS (2 mA for 20 min) was delivered centering the electrode on the vermis to stimulate the posterior portion of the cerebellum. The ability to attribute mental states to others was tested before and after tDCS using a digital version of the 'Reading the Mind in the Eyes test', which includes visual perceptive and motor stimuli as control conditions. Correct response and reaction times (RTs) were recorded. The results revealed a significant reduction in RTs between the baseline and post-stimulation sessions after cerebellar anodal tDCS only for mental state stimuli (Wilcoxon test p = 0.00055), whereas no significant effect was found in the cathodal or sham conditions or for visual perceptive and motor stimuli. Overall, our study suggests that cerebellar anodal tDCS might selectively improve mental state recognition and constitute an effective strategy to positively modulate the mentalizing process.

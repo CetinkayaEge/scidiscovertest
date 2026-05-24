@@ -1,0 +1,9 @@
+Title: Propagation Modeling and Defending of a Mobile Sensor Worm in Wireless Sensor and Actuator Networks
+Authors: Tian Wang, Qun Wu, Sheng Wen, Yiqiao Cai, Hui Tian, Yonghong Chen, Baowei Wang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010139
+Paper ID: pmc_PMC5298712
+
+Abstract:
+WSANs (Wireless Sensor and Actuator Networks) are derived from traditional wireless sensor networks by introducing mobile actuator elements. Previous studies indicated that mobile actuators can improve network performance in terms of data collection, energy supplementation, etc. However, according to our experimental simulations, the actuator’s mobility also causes the sensor worm to spread faster if an attacker launches worm attacks on an actuator and compromises it successfully. Traditional worm propagation models and defense strategies did not consider the diffusion with a mobile worm carrier. To address this new problem, we first propose a microscopic mathematical model to describe the propagation dynamics of the sensor worm. Then, a two-step local defending strategy (LDS) with a mobile patcher (a mobile element which can distribute patches) is designed to recover the network. In LDS, all recovering operations are only taken in a restricted region to minimize the cost. Extensive experimental results demonstrate that our model estimations are rather accurate and consistent with the actual spreading scenario of the mobile sensor worm. Moreover, on average, the LDS outperforms other algorithms by approximately 50% in terms of the cost.

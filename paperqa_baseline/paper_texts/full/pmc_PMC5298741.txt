@@ -1,0 +1,9 @@
+Title: A Novel IEEE 802.15.4e DSME MAC for Wireless Sensor Networks
+Authors: Prasan Kumar Sahoo, Sudhir Ranjan Pattanaik, Shih-Lin Wu
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010168
+Paper ID: pmc_PMC5298741
+
+Abstract:
+IEEE 802.15.4e standard proposes Deterministic and Synchronous Multichannel Extension (DSME) mode for wireless sensor networks (WSNs) to support industrial, commercial and health care applications. In this paper, a new channel access scheme and beacon scheduling schemes are designed for the IEEE 802.15.4e enabled WSNs in star topology to reduce the network discovery time and energy consumption. In addition, a new dynamic guaranteed retransmission slot allocation scheme is designed for devices with the failure Guaranteed Time Slot (GTS) transmission to reduce the retransmission delay. To evaluate our schemes, analytical models are designed to analyze the performance of WSNs in terms of reliability, delay, throughput and energy consumption. Our schemes are validated with simulation and analytical results and are observed that simulation results well match with the analytical one. The evaluated results of our designed schemes can improve the reliability, throughput, delay, and energy consumptions significantly.

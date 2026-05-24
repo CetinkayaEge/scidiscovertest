@@ -1,0 +1,9 @@
+Title: Vulnerability of Sustainable Islamic Stock Returns to Implied Market Volatilities: An Asymmetric Approach
+Authors: Shafi Madhkar Alsubaie, Khaled H. Mahmoud, Ahmed Bossman, Emmanuel Asafo‐Adjei
+Year: 2022
+Venue: Discrete Dynamics in Nature and Society
+DOI: https://doi.org/10.1155/2022/3804871
+Paper ID: https://openalex.org/W4285798485
+
+Abstract:
+There has been increasing interests in the sustainable way of investing as enjoined by several sustainability initiatives. However, investors require effective portfolio diversification at various market conditions (stress, benign, and boom) and would consider sustainable equities to the extent that they aid in the minimisation of portfolio risks. As a result, a better way investors can mitigate portfolio risk is by forming portfolios with relevant volatility indices as enshrined in extant literature. It becomes necessary to investigate the susceptibility of Islamic stocks in a sustainable way to shocks from volatility indices to enhance effective portfolio decisions. In this regard, we investigate the asymmetric effect of implied volatility indices on sustainable Islamic stocks across different market conditions. Hence, the quantile regression and quantile‐on‐quantile regression techniques are employed. The study discovered an asymmetric influence of volatility on sustainable Islamic stock returns at various quantiles. Furthermore, most volatilities’ asymmetric effects were generally inversely associated to sustainable Islamic stock returns, implying diversification benefits across market outcomes. Also, with the exception of the extreme quantiles, there is a causal effect of volatilities on Islamic stock returns for most quantiles. It seems to reason that ordinary market outcomes, rather than market stress or boom, have a greater impact on causal estimates for our quantile regression model.

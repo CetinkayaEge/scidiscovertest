@@ -1,0 +1,9 @@
+Title: Hybrid Renewable Energy Systems for Sustainable Rural Development: Perspectives and Challenges in Energy Systems Modeling
+Authors: Lauren E. Natividad, Pablo Benalcazar
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16031328
+Paper ID: https://openalex.org/W4318464196
+
+Abstract:
+Hybrid Renewable Energy Systems (HRESs) have proven to be viable solutions for rural electrification. They not only electrify rural locations but also provide environmentally sustainable, secure, and affordable energy if optimized. These systems can best be described as generators of electricity from multiple energy sources that complement each other. Optimized HRESs often generate affordable electricity by minimizing the levelized cost of electricity (LCOE) and carbon emissions. The investigation of social benefit factors within energy poverty is a relatively new discussion in the study of modeling off-grid energy systems. In this perspective article, we examine the importance of computational tools for the energy transition of rural and remote communities. We show that classical and heuristic models possess the capability of optimizing hybrid renewable energy systems considering social parameters including health, education, and income. This is followed by a discussion about the potential changes these computational tools would need to go through to integrate interdisciplinary factors and address societal transformations. The essence of this paper showcases the influx of literature about this topic; additionally, we look beyond the traditional optimization approaches to disclose that new contributions are evolving based on both current and potential needs within society.

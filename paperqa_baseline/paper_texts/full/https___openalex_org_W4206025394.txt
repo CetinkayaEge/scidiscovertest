@@ -1,0 +1,9 @@
+Title: Machine Learning Framework for the Sustainable Maintenance of Building Facilities
+Authors: Valentina Villa, Giulia Bruno, Khurshid Aliev, Paolo Piantanida, Alessandra Corneli, Dario Antonelli
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14020681
+Paper ID: https://openalex.org/W4206025394
+
+Abstract:
+The importance of sustainable building maintenance is growing as part of the Sustainable Building concept. The integration and implementation of new technologies such as the Internet of Things (IoT), smart sensors, and information and communication technology (ICT) into building facilities generate a large amount of data that will be utilized to better manage the sustainable building maintenance and staff. Anomaly prediction models assist facility managers in informing operators to perform scheduled maintenance and visualizing predicted facility anomalies on building information models (BIM). This study proposes a Machine Learning (ML) anomaly prediction model for sustainable building facility maintenance using an IoT sensor network and a BIM model. The suggested framework shows the data management technique of the anomaly prediction model in the 3D building model. The case study demonstrated the framework’s competence to predict anomalies in the heating ventilation air conditioning (HVAC) system. Furthermore, data collected from various simulated conditions of the building facilities was utilized to monitor and forecast anomalies in the 3D model of the fan coil. The faults were then predicted using a classification model, and the results of the models are introduced. Finally, the IoT data from the building facility and the predicted values of the ML models are visualized in the building facility’s BIM model and the real-time monitoring dashboard, respectively.

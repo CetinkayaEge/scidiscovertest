@@ -1,0 +1,9 @@
+Title: Mitochondrial metabolism sustains DNMT3A-R882-mutant clonal haematopoiesis
+Authors: Malgorzata Gozdecka, Monika Dudek, Sean Wen, Muxin Gu, Richard J Stopforth, Justyna Rak, Aristi Damaskou, Guinevere L. Grice, Matthew McLoughlin, Laura Bond, Rachael Wilson, George Giotopoulos, Vijaya Baskar Mahalingam Shanmugiah, Rula Bany Bakar, Eliza Yankova, Jonathan Cooper, Nisha Narayan, Sarah J. Horton, Ryan Asby, Dean C. Pask, Annalisa Mupo, Graham Duddy, Ludovica Marando, Theodoros Georgomanolis, Paul Carter, A. Ramesh, William G. Dunn, Clea Bárcena, Paolo Gallipoli, Kosuke Yusa, Slavé Petrovski, Penny Wright, Pedro M. Quirós, Christian Frezza, James A. Nathan, Arthur Kaser, Siddhartha Kar, Konstantinos Tzelepis, Jonathan Mitchell, Margarete A. Fabre, Brian J.P. Huntly, George S. Vassiliou
+Year: 2025
+Venue: Nature
+DOI: https://doi.org/10.1038/s41586-025-08980-6
+Paper ID: https://openalex.org/W4409501843
+
+Abstract:
+, but not WT, long-term haematopoietic stem cells. The effect of metformin was recapitulated using a primary human DNMT3A-R882 CH sample. Notably, analysis of 412,234 UK Biobank participants showed that individuals taking metformin had a markedly lower prevalence of DNMT3A-R882-mutant CH, after controlling for potential confounders including glycated haemoglobin, diabetes and body mass index. Collectively, our data propose modulation of mitochondrial metabolism as a therapeutic strategy for prevention of DNMT3A-R882-mutant AML.

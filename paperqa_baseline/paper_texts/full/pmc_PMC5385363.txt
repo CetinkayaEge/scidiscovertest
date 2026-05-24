@@ -1,0 +1,9 @@
+Title: MicroRNA-182 Regulates Neurite Outgrowth Involving the PTEN/AKT Pathway
+Authors: Wu M. Wang, Gang Lu, Xian W. Su, Hao Lyu, Wai S. Poon
+Year: 2017
+Venue: Frontiers in Cellular Neuroscience
+DOI: 10.3389/fncel.2017.00096
+Paper ID: pmc_PMC5385363
+
+Abstract:
+MicroRNAs are implicated in neuronal development and maturation. Neuronal maturation, including axon outgrowth and dendrite tree formation, is regulated by complex mechanisms and related to several neurodevelopmental disorders. We demonstrated that one neuron-enriched microRNA, microRNA-182 (miR-182), played a significant role in regulating neuronal axon outgrowth and dendrite tree formation. Overexpression of miR-182 promoted axon outgrowth and complexity of the dendrite tree while also increasing the expression of neurofilament-M and neurofilament-L, which provide structural support for neurite outgrowth. However, a reduction of miR-182 inhibited neurite outgrowth. Furthermore, we showed that miR-182 activated the AKT pathway by increasing AKT phosphorylation on S473 and T308 and inhibiting PTEN activity by increasing phosphorylation on S380. Inhibition of AKT activity with the PI3-K inhibitor LY294002 could downregulate AKT and PTEN phosphorylation and suppress axon outgrowth. In addition, we showed that BCAT2 might be the target of miR-182 that takes part in the regulation of neuronal maturation; blockage of endogenous BCAT2 promotes axon outgrowth and AKT activity. These observations indicate that miR-182 regulates axon outgrowth and dendrite maturation involving activation of the PTEN/AKT pathway.

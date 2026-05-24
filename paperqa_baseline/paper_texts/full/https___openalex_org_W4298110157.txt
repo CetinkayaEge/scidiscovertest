@@ -1,0 +1,9 @@
+Title: Radiative cooling for passive thermal management towards sustainable carbon neutrality
+Authors: Jun Liang, Jiawei Wu, Jun Guo, Huagen Li, Xianjun Zhou, Sheng Liang, Cheng‐Wei Qiu, Guangming Tao
+Year: 2022
+Venue: National Science Review
+DOI: https://doi.org/10.1093/nsr/nwac208
+Paper ID: https://openalex.org/W4298110157
+
+Abstract:
+Photonic structures at the wavelength scale offer innovative energy solutions for a wide range of applications, from high-efficiency photovoltaics to passive cooling, thus reshaping the global energy landscape. Radiative cooling based on structural and material design presents new opportunities for sustainable carbon neutrality as a zero-energy, ecologically friendly cooling strategy. In this review, in addition to introducing the fundamentals of the basic theory of radiative cooling technology, typical radiative cooling materials alongside their cooling effects over recent years are summarized and the current research status of radiative cooling materials is outlined and discussed. Furthermore, technical challenges and potential advancements for radiative cooling are forecast with an outline of future application scenarios and development trends. In the future, radiative cooling is expected to make a significant contribution to global energy saving and emission reduction.

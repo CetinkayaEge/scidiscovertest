@@ -1,0 +1,9 @@
+Title: A Framework for Using Data as an Engineering Tool for Sustainable Cyber-Physical Systems
+Authors: Didem Gürdür Broo, Jennifer Schooling
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3055652
+Paper ID: https://openalex.org/W3128148077
+
+Abstract:
+Smart infrastructure has the potential to revolutionise how infrastructure is delivered, managed and automatically controlled. Data and digital twins offer an opportunity to enable this revolution and secure sustainable future smart infrastructure. In this article, we discuss data as an engineering tool and propose to use data throughout the asset's whole life cycle from identifying the need, planning and designing to construction, operation, integration and maintenance. This requires systems thinking where focus is not limited to the problems but rather constructs a systemic perspective to understand the interrelationships between components and systems. Future infrastructure is connected, intelligent and data-driven. To enable more sustainable decision-making, we should not only consider how to integrate different infrastructure elements but also use data to monitor, learn from and inform decisions. To this end, we present a case study where several assets, such as bridges, railways and transport systems are integrated, and data are curated for the purpose of aiding climate-conscious, sustainable decision-making. An example systems architecture for integration of different digital twins is explained and benefits of this data-driven, systemic perspective are discussed.

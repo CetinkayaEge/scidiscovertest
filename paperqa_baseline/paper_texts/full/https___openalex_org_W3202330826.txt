@@ -1,0 +1,9 @@
+Title: Reputation and punishment sustain cooperation in the optional public goods game
+Authors: Shirsendu Podder, Simone Righi, Francesca Pancotto
+Year: 2021
+Venue: Philosophical Transactions of the Royal Society B Biological Sciences
+DOI: https://doi.org/10.1098/rstb.2020.0293
+Paper ID: https://openalex.org/W3202330826
+
+Abstract:
+Cooperative behaviour has been extensively studied as a choice between cooperation and defection. However, the possibility to not participate is also frequently available. This type of problem can be studied through the optional public goods game. The introduction of the 'Loner' strategy' allows players to withdraw from the game, which leads to a cooperator-defector-loner cycle. While pro-social punishment can help increase cooperation, anti-social punishment-where defectors punish cooperators-causes its downfall in both experimental and theoretical studies. In this paper, we introduce social norms that allow agents to condition their behaviour to the reputation of their peers. We benchmark this with respect both to the standard optional public goods game and to the variant where all types of punishment are allowed. We find that a social norm imposing a more moderate reputational penalty for opting out than for defecting increases cooperation. When, besides reputation, punishment is also possible, the two mechanisms work synergically under all social norms that do not assign to loners a strictly worse reputation than to defectors. Under this latter set-up, the high levels of cooperation are sustained by conditional strategies, which largely reduce the use of pro-social punishment and almost completely eliminate anti-social punishment. This article is part of the theme issue 'The language of cooperation: reputation and honest signalling'.

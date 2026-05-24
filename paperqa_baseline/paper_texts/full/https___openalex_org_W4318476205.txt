@@ -1,0 +1,9 @@
+Title: Occupant Behavior Impact on Building Sustainability Performance: A Literature Review
+Authors: Habtamu Tkubet Ebuy, Hind Bril El Haouzi, Riad Benelmir, Rémi Pannequin
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15032440
+Paper ID: https://openalex.org/W4318476205
+
+Abstract:
+Occupant behavior controls a building’s energy system to adapt the indoor environment, significantly increasing building energy consumption. Occupant behavior, which refers to the occupancy inside a building and their interaction with building systems (windows, blinds, thermostats, lighting and appliances, etc.), has been largely overlooked in building energy performance analysis. These factors make it essential to design sustainable buildings. It is widely acknowledged in the literature that there is an alarming performance gap between the estimated and actual energy consumption in buildings. This paper proposes a systematic literature review on energy-related occupant behaviors and their implications for energy performance. It aims to better understand occupant behavior, existing behavior modeling approaches and their limitations, and key influential parameters on building energy performance. It is based on a survey of ScienceDirect, Web of science and Scopus scientific databases, using their bibliometric analysis tools together with the VOSviewer software. Finally, this study identifies the following significant research gaps for future development: limitations of the generic and robust occupant behavior model; lack of actual data for validation; lack of research on different types of buildings (institutions, university buildings); limitations of considering all factors which influence occupant behavior; missing the detailed realistic situations of occupant behavior; integrating building information modeling (BIM) into building energy modeling.

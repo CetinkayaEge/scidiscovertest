@@ -1,0 +1,9 @@
+Title: Chitosan nanoparticle-mediated co-delivery of shAtg-5 and gefitinib synergistically promoted the efficacy of chemotherapeutics through the modulation of autophagy
+Authors: Yan Zheng, Chang Su, Liang Zhao, Yijie Shi
+Year: 2017
+Venue: Journal of Nanobiotechnology
+DOI: 10.1186/s12951-017-0261-x
+Paper ID: pmc_PMC5387274
+
+Abstract:
+Background Autophagy reportedly plays vital and complex roles in many diseases. During times of starvation or energy deficiency, autophagy will occur at higher levels to provide cells with the nutrients or energy necessary to survive in stressful conditions. Some anti-cancer drugs induce protective autophagy and reduce cell apoptosis. Autophagy can adversely affect apoptosis, and blocking autophagy will increase the sensitivity of cells to apoptosis signals. Methods We designed chitosan nanoparticles (NPs) to promote the co-delivery of gefitinib (an anti-cancer drug) and shRNA-expressing plasmid DNA that targets the Atg-5 gene (shAtg-5) as an autophagy inhibitor to improve anti-cancer effects and autophagy mediation. Results The results showed that when compared to treatment with a single drug, chitosan NPs were able to facilitate the intracellular distribution of NPs, and they improved the transfection efficiency of gene in vitro. The co-delivery of gefitinib and shAtg-5 increased cytotoxicity, induced significant apoptosis through the prohibition of autophagy, and markedly inhibited tumor growth in vivo. Conclusions The co-delivery of gefitinib/shAtg-5 in chitosan NPs produced superior anti-cancer efficacy via the internalization effect of NPs, while blocking autophagy with shAtg-5 enhanced the synergistic antitumor efficacy of gefitinib.

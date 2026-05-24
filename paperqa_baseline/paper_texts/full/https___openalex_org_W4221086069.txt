@@ -1,0 +1,9 @@
+Title: Injectable Thermosensitive Hydrogels for a Sustained Release of Iron Nanochelators
+Authors: Seung Hun Park, Richard S. Kim, Wesley R. Stiles, Minjoo Jo, Lingxue Zeng, Sunghoon Rho, Yoonji Baek, Jonghan Kim, Moon Suk Kim, Homan Kang, Hak Soo Choi
+Year: 2022
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202200872
+Paper ID: https://openalex.org/W4221086069
+
+Abstract:
+Deferoxamine (DFO) is an FDA-approved iron-chelating agent which shows good therapeutic efficacy, however, its short blood half-life presents challenges such as the need for repeated injections or continuous infusions. Considering the lifelong need of chelating agents for iron overload patients, a sustained-release formulation that can reduce the number of chelator administrations is essential. Here, injectable hydrogel formulations prepared by integrating crosslinked hyaluronic acid into Pluronic F127 for an extended release of DFO nanochelators are reported. The subcutaneously injected hydrogel shows a thermosensitive sol-gel transition at physiological body temperature and provides a prolonged release of renal clearable nanochelators over 2 weeks, resulting in a half-life 47-fold longer than that of the nanochelator alone. In addition, no chronic toxicity of the nanochelator-loaded hydrogel is confirmed by biochemical and histological analyses. This injectable hydrogel formulation with DFO nanochelators has the potential to be a promising formulation for the treatment of iron overload disorders.

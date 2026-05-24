@@ -1,0 +1,9 @@
+Title: Iron regulatory protein 1 promotes ferroptosis by sustaining cellular iron homeostasis in melanoma
+Authors: Fengping Yao, Xiaohong Cui, Ying Zhang, Zhuchun Bei, Hongquan Wang, Dongxu Zhao, Hong Wang, Yongfei Yang
+Year: 2021
+Venue: Oncology Letters
+DOI: https://doi.org/10.3892/ol.2021.12918
+Paper ID: https://openalex.org/W3177943381
+
+Abstract:
+Melanoma, the most aggressive skin cancer, is mainly treated with BRAF inhibitors or immunotheareapy. However, most patients who initially responded to BRAF inhibitors or immunotheareapy become resistant following relapse. Ferroptosis is a form of regulated cell death characterized by its dependence on iron ions and the accumulation of lipid reactive oxygen species (ROS). Recent studies have demonstrated that ferroptosis is a good method for tumor treatment, and iron homeostasis is closely associated with ferroptosis. Iron regulatory protein (IRP)1 and 2 play important roles in maintaining iron homeostasis, but their functions in ferroptosis have not been investigated. The present study reported that the expression of IRP1 and IRP2 was increased by the ferroptosis inducers erastin and RSL3 in melanoma cells. Depletion of IRP1 significantly suppressed erastin- and RSL3-induced ferroptosis. IRP2 had a weak effect but could enhance the promoting function of IRP1 on ferroptosis. Further, erastin and RSL3 promoted the transition of aconitase 1 to IRP1, which regulated downstream iron metabolism proteins, including transferrin receptor (TFRC), ferroportin (FPN) and ferritin heavy chain 1 (FTH1). Moreover, overexpression of TFRC and knockdown of FPN and FTH1 significantly promoted erastin- and RSL3-induced ferroptosis in IRP1 knockdown melanoma cells. Collectively, the present findings indicate that IRP1 plays an essential role in erastin- and RSL3-induced ferroptosis by regulating iron homeostasis.

@@ -1,0 +1,9 @@
+Title: Exploring the potential for sustainable accessibility across settlement types. A Swedish case
+Authors: Anders Larsson, Erik Elldér, Evangelos Vafeiadis, Carey Curtis, Albert Steiner
+Year: 2022
+Venue: Transportation Research Part D Transport and Environment
+DOI: https://doi.org/10.1016/j.trd.2022.103297
+Paper ID: https://openalex.org/W4280502146
+
+Abstract:
+The potential for residents of smaller urban and rural areas to benefit from sustainable accessibility is an under-researched area. This paper explores accessibility to important every-day amenities within short travel times and how this differs across geography and mode of travel. The analysis draws on a combination of novel open-source data of the transport system and official Swedish register data of the total population of individuals and workplaces geocoded at a 100-meter resolution. The findings show considerable variation in accessibility to everyday amenities by travel mode for different settlement types. While the car provides good accessibility, short trips by bicycle are a very competitive alternative in urban and suburban areas. Access to every-day amenities by active travel modes is limited outside urban areas. Employing accessibility analysis by settlement type offers a powerful policy support tool for planners charged with developing measures to address sustainable accessibility for small urban and rural areas.

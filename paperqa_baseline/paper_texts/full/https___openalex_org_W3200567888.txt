@@ -1,0 +1,9 @@
+Title: Polymyxin B‐Triggered Assembly of Peptide Hydrogels for Localized and Sustained Release of Combined Antimicrobial Therapy
+Authors: Yejiao Shi, David W. Wareham, Yichen Yuan, Xinru Deng, Álvaro Mata, Helena S. Azevedo
+Year: 2021
+Venue: Advanced Healthcare Materials
+DOI: https://doi.org/10.1002/adhm.202101465
+Paper ID: https://openalex.org/W3200567888
+
+Abstract:
+Repurposing old antibiotics into more effective and safer formulations is an emergent approach to tackle the growing threat of antimicrobial resistance. Herein, a peptide hydrogel is reported for the localized and sustained release of polymyxin B (PMB), a decade-old antibiotic with increasing clinical utility for treating multidrug-resistant Gram-negative bacterial infections. The hydrogel is assembled by additing PMB solution into a rationally designed peptide amphiphile (PA) solution and its mechanical properties can be adjusted through the addition of counterions, envisioning its application in diverse infection scenarios. Sustained release of PMB from the hydrogel over a 5-day period and prolonged antimicrobial activities against Gram-negative bacteria are observed. The localized release of active PMB from the hydrogel is shown to be effective in vivo for treating Pseudomonas aeruginosa infection in the Galleria mellonella burn wound infection model, dramatically reducing the mortality from 93% to 13%. Complementary antimicrobial activity against Gram-positive Staphylococcus aureus and enhanced antimicrobial effect against the Gram-negative Acinetobacter baumannii are observed when an additional antibiotic fusidic acid is incorporated into the hydrogen network. These results demonstrate the potential of the PMB-triggered PA hydrogel as a versatile platform for the localized and sustained delivery of combined antimicrobial therapies.

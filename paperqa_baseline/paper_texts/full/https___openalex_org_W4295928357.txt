@@ -1,0 +1,9 @@
+Title: Bibliometrics and visualization analysis of research in the field of sustainable development of the blue economy (2006–2021)
+Authors: Jinshui Liang, Zengqiang Yin, Jun Yang, Yuan Li, Min Xu, Jiaxing Li, Min Yang, Linhao Niu
+Year: 2022
+Venue: Frontiers in Marine Science
+DOI: https://doi.org/10.3389/fmars.2022.936612
+Paper ID: https://openalex.org/W4295928357
+
+Abstract:
+The blue economy is the sustainable use of ocean resources for economic growth, improved livelihoods, and jobs while preserving the health of the ocean ecosystem. In order to completely address the three dimensions of development, social, economic, and environmental in an integrated manner from 2015 to 2030, and to shift to a sustainable development path, the United Nations has formulated 17 global Sustainable Development Goals (SDGs), of which SDG14 is directly associated with the blue economy, which is also an essential material foundation for achieving other SDGs. In particular, the blue economy with the theme of sustainable and high-quality development of the marine economy will provide the possibility and important material guarantees for the eradication of poverty (SDG1), the eradication of hunger (SDG2), and the reduction of inequalities within and among countries (SDG10). In this study, CiteSpace and VOSviewer were used to visualize and analyze the global blue economy sustainability research field from 2006 to 2021, obtaining institutions, countries, cited authors, cited literature, journals, keywords, and clustered knowledge graphs. The results show that most of the blue economy sustainable development research is independent, with less cooperation among institutions. The research focuses on four research themes: fundamental theory and development direction, ecological and environmental sustainability, marine development methods, and comprehensive benefits and functions; the dynamics of the blue economy sustainable development research field is summarized.

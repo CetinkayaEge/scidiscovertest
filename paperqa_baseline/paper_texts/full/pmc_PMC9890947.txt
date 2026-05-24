@@ -1,0 +1,9 @@
+Title: Zero-strain strategy incorporating TaC with Ta 2 O 5 to enhance its rate capacity for long-term lithium storage †
+Authors: Yinhong Gao, Xu Nan, Bing Sun, Wenli Xu, Qiang Huang, Ye Cong, Yanjun Li, Xuanke Li, Qin Zhang
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00764a
+Paper ID: pmc_PMC9890947
+
+Abstract:
+Ta 2 O 5 holds great potential for lithium storage due to its high theoretical capacity and long-life cycling. However, it still suffers from an unsatisfactory rate capability because of its low conductivity and significant volume expansion during the charging/discharging process. In this study, a zero-strain strategy was developed to composite Ta 2 O 5 with zero-strain TaC as an anode for lithium-ion batteries (LIBs). The zero-strain TaC, featuring negligible lattice expansion, can alleviate the volume variation of Ta 2 O 5 when cycling, thereby enhancing the rate capacity and long-term cycling stability of the whole electrode. Further, the formation of a heterostructure between Ta 2 O 5 and TaC was confirmed, giving rise to an enhancement in the electrical conductivity and structural stability. As expected, this anode displayed a reversible specific capacity of 395.5 mA h g −1 at 0.5 A g −1 after 500 cycles. Even at an ultrahigh current density of 10 A g −1 , the Ta 2 O 5 /TaC anode delivered a high capacity of 144 mA h g −1 and superior durability with a low-capacity decay rate of 0.08% per cycle after 1000 cycles. This zero-strain strategy provides a promising avenue for the rational design of anodes, sequentially contributing to the development of high-rate capacity and long cycling LIBs. A zero-strain strategy has been used to construct Ta 2 O 5 /TaC heterostructure. This anode displayed enhanced kinetics, a high-rate capacity, and a long lifetime due to the synergistic effect between Ta 2 O 5 and zero-strain TaC.

@@ -1,0 +1,9 @@
+Title: Roles of the Crp/Fnr Family Regulator ArcR in the Hemolysis and Biofilm of Staphylococcus aureus
+Authors: Tongtong Fu, Zheng Fan, Yujie Li, Zhoufei Li, Hanqing Zhao, Yanling Feng, Guanhua Xue, Jinghua Cui, Chao Yan, Lin Gan, Junxia Feng, Jing Yuan, Fuping You
+Year: 2023
+Venue: Microorganisms
+DOI: 10.3390/microorganisms11071656
+Paper ID: pmc_PMC10384999
+
+Abstract:
+Staphylococcus aureus is an opportunistic human pathogen that is often involved in severe infections such as pneumonia and sepsis in which bacterial virulence factors play a key role. Infections caused by S. aureus are often difficult to eradicate, particularly when they are associated with biofilm. The physiological roles of the Crp/Fnr family regulator ArcR are elusive in S. aureus . In this study, it was found that the deletion of arcR increased the hemolytic ability and biofilm formation in S. aureus . Differential gene expression analysis by RNA-seq and real-time quantitative reverse transcription PCR showed that genes associated with hemolytic ability ( hla and hlb ) and biofilm formation ( icaA, icaB, icaC and icaD ) were significantly upregulated compared with those in the wild-type strain. The results revealed that ArcR regulated the expression of the hla and ica operon by binding to their promoter regions, respectively. This study provided new insights into the functional importance of ArcR in regulating the virulence and biofilm of S. aureus.

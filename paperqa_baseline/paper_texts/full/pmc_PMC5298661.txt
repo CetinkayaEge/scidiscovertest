@@ -1,0 +1,9 @@
+Title: Enhance the Quality of Crowdsensing for Fine-Grained Urban Environment Monitoring via Data Correlation
+Authors: Xu Kang, Liang Liu, Huadong Ma
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010088
+Paper ID: pmc_PMC5298661
+
+Abstract:
+Monitoring the status of urban environments, which provides fundamental information for a city, yields crucial insights into various fields of urban research. Recently, with the popularity of smartphones and vehicles equipped with onboard sensors, a people-centric scheme, namely “crowdsensing”, for city-scale environment monitoring is emerging. This paper proposes a data correlation based crowdsensing approach for fine-grained urban environment monitoring. To demonstrate urban status, we generate sensing images via crowdsensing network, and then enhance the quality of sensing images via data correlation. Specifically, to achieve a higher quality of sensing images, we not only utilize temporal correlation of mobile sensing nodes but also fuse the sensory data with correlated environment data by introducing a collective tensor decomposition approach. Finally, we conduct a series of numerical simulations and a real dataset based case study. The results validate that our approach outperforms the traditional spatial interpolation-based method.

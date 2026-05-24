@@ -1,0 +1,9 @@
+Title: p38α MAPK regulates proliferation and differentiation of osteoclast progenitors and bone remodeling in an aging-dependent manner
+Authors: Qian Cong, Hao Jia, Ping Li, Shoutao Qiu, James Yeh, Yibin Wang, Zhen-Lin Zhang, Junping Ao, Baojie Li, Huijuan Liu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45964
+Paper ID: pmc_PMC5382695
+
+Abstract:
+Bone mass is determined by the balance between bone formation, carried out by mesenchymal stem cell-derived osteoblasts, and bone resorption, carried out by monocyte-derived osteoclasts. Here we investigated the potential roles of p38 MAPKs, which are activated by growth factors and cytokines including RANKL and BMPs, in osteoclastogenesis and bone resorption by ablating p38α MAPK in LysM+monocytes. p38α deficiency promoted monocyte proliferation but regulated monocyte osteoclastic differentiation in a cell-density dependent manner, with proliferating p38α −/− cultures showing increased differentiation. While young mutant mice showed minor increase in bone mass, 6-month-old mutant mice developed osteoporosis, associated with an increase in osteoclastogenesis and bone resorption and an increase in the pool of monocytes. Moreover, monocyte-specific p38α ablation resulted in a decrease in bone formation and the number of bone marrow mesenchymal stem/stromal cells, likely due to decreased expression of PDGF-AA and BMP2. The expression of PDGF-AA and BMP2 was positively regulated by the p38 MAPK-Creb axis in osteoclasts, with the promoters of PDGF-AA and BMP2 having Creb binding sites. These findings uncovered the molecular mechanisms by which p38α MAPK regulates osteoclastogenesis and coordinates osteoclastogenesis and osteoblastogenesis.

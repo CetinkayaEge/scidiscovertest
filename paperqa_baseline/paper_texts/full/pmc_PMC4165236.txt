@@ -1,0 +1,9 @@
+Title: Agent-patient similarity affects sentence structure in language production: evidence from subject omissions in Mandarin
+Authors: Yaling Hsiao, Yannan Gao, Maryellen C. MacDonald
+Year: 2014
+Venue: Frontiers in Psychology
+DOI: 10.3389/fpsyg.2014.01015
+Paper ID: pmc_PMC4165236
+
+Abstract:
+Interference effects from semantically similar items are well-known in studies of single word production, where the presence of semantically similar distractor words slows picture naming. This article examines the consequences of this interference in sentence production and tests the hypothesis that in situations of high similarity-based interference, producers are more likely to omit one of the interfering elements than when there is low semantic similarity and thus low interference. This work investigated language production in Mandarin, which allows subject noun phrases to be omitted in discourse contexts in which the subject entity has been previously mentioned in the discourse. We hypothesize that Mandarin speakers omit the subject more often when the subject and the object entities are conceptually similar. A corpus analysis of simple transitive sentences found higher rates of subject omission when both the subject and object were animate (potentially yielding similarity-based interference) than when the subject was animate and object was inanimate. A second study manipulated subject-object animacy in a picture description task and replicated this result: participants omitted the animate subject more often when the object was also animate than when it was inanimate. These results suggest that similarity-based interference affects sentence forms, particularly when the agent of the action is mentioned in the sentence. Alternatives and mechanisms for this effect are discussed.

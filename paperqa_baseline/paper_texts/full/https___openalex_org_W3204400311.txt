@@ -1,0 +1,9 @@
+Title: SpaceHort: redesigning plants to support space exploration and on-earth sustainability
+Authors: Jenny C. Mortimer, Matthew Gilliham
+Year: 2021
+Venue: Current Opinion in Biotechnology
+DOI: https://doi.org/10.1016/j.copbio.2021.08.018
+Paper ID: https://openalex.org/W3204400311
+
+Abstract:
+Crewed missions to Mars are planned within the next twenty years. Production of food and materials in situ will eventually be necessary for mission success. This will require the development of crops which can thrive in environments we can sustain in Space. Here, we discuss the challenges we must solve to provide adequate nutrition to support long term Space habitation. Further, we propose that plants are an ideal biomanufacturing platform for producing pharmaceuticals and biomaterials on demand. Designing Space plants requires advances in our ability to engineer plant biology in a predictive manner. Parallel development of suitable tightly controlled growth environments, including extensive monitoring and sensing, will also be a key enabler. Collectively, such research promises to deliver solutions for progressing sustainable closed environment agriculture on Earth.

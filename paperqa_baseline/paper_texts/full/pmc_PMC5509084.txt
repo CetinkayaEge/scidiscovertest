@@ -1,0 +1,9 @@
+Title: Microstructure and Electrical Properties of AZO/Graphene Nanosheets Fabricated by Spark Plasma Sintering
+Authors: Shuang Yang, Fei Chen, Qiang Shen, Enrique J. Lavernia, Lianmeng Zhang
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080638
+Paper ID: pmc_PMC5509084
+
+Abstract:
+In this study we report on the sintering behavior, microstructure and electrical properties of Al-doped ZnO ceramics containing 0–0.2 wt. % graphene sheets (AZO-GNSs) and processed using spark plasma sintering (SPS). Our results show that the addition of <0.25 wt. % GNSs enhances both the relative density and the electrical resistivity of AZO ceramics. In terms of the microstructure, the GNSs are distributed at grain boundaries. In addition, the GNSs are also present between ZnO and secondary phases (e.g., ZnAl 2 O 4 ) and likely contribute to the measured enhancement of Hall mobility (up to 105.1 cm 2 ·V −1 ·s −1 ) in these AZO ceramics. The minimum resistivity of the AZO-GNS composite ceramics is 3.1 × 10 −4 Ω·cm which compares favorably to the value of AZO ceramics which typically have a resistivity of 1.7 × 10 −3 Ω·cm.

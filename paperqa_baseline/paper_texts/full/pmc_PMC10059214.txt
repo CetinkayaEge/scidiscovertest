@@ -1,0 +1,9 @@
+Title: Pixel Intensity Resemblance Measurement and Deep Learning Based Computer Vision Model for Crack Detection and Analysis
+Authors: Nirmala Paramanandham, Kishore Rajendiran, Florence Gnana Poovathy J, Yeshwant Santhanakrishnan Premanand, Sanjeeve Raveenthiran Mallichetty, Pramod Kumar
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062954
+Paper ID: pmc_PMC10059214
+
+Abstract:
+This research article is aimed at improving the efficiency of a computer vision system that uses image processing for detecting cracks. Images are prone to noise when captured using drones or under various lighting conditions. To analyze this, the images were gathered under various conditions. To address the noise issue and to classify the cracks based on the severity level, a novel technique is proposed using a pixel-intensity resemblance measurement (PIRM) rule. Using PIRM, the noisy images and noiseless images were classified. Then, the noise was filtered using a median filter. The cracks were detected using VGG-16, ResNet-50 and InceptionResNet-V2 models. Once the crack was detected, the images were then segregated using a crack risk-analysis algorithm. Based on the severity level of the crack, an alert can be given to the authorized person to take the necessary action to avoid major accidents. The proposed technique achieved a 6% improvement without PIRM and a 10% improvement with the PIRM rule for the VGG-16 model. Similarly, it showed 3 and 10% for ResNet-50, 2 and 3% for Inception ResNet and a 9 and 10% increment for the Xception model. When the images were corrupted from a single noise alone, 95.6% accuracy was achieved using the ResNet-50 model for Gaussian noise, 99.65% accuracy was achieved through Inception ResNet-v2 for Poisson noise, and 99.95% accuracy was achieved by the Xception model for speckle noise.

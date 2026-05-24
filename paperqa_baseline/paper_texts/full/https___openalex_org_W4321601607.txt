@@ -1,0 +1,9 @@
+Title: Wind Energy Conversions, Controls, and Applications: A Review for Sustainable Technologies and Directions
+Authors: M. A. Hannan, Ali Q. Al‐Shetwi, Md. Sazib Mollik, Pin Jern Ker, Musfika Mannan, Muhamad Mansor, Hussein M. K. Al‐Masri, T.M.I. Mahlia
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15053986
+Paper ID: https://openalex.org/W4321601607
+
+Abstract:
+The use of renewable energy techniques is becoming increasingly popular because of rising demand and the threat of negative carbon footprints. Wind power offers a great deal of untapped potential as an alternative source of energy. The rising demand for wind energy typically results in the generation of high-quality output electricity through grid integration. More sophisticated contemporary generators, power converters, energy management, and controllers have been recently developed to integrate wind turbines into the electricity system. However, a comprehensive review of the role of converters in the wind system’s power conversion, control, and application toward sustainable development is not thoroughly investigated. Thus, this paper proposes a comprehensive review of the impact of converters on wind energy conversion with its operation, control, and recent challenges. The converters’ impact on the integration and control of wind turbines was highlighted. Moreover, the conversion and implementation of the control of the wind energy power system have been analyzed in detail. Also, the recently advanced converters applications for wind energy conversion were presented. Finally, recommendations for future converters use in wind energy conversions were highlighted for efficient, stable, and sustainable wind power. This rigorous study will lead academic researchers and industry partners toward the development of optimal wind power technologies with improved efficiency, operation, and costs.

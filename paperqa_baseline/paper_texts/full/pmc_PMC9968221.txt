@@ -1,0 +1,9 @@
+Title: Artificial Intelligence in Cardiovascular CT and MR Imaging
+Authors: Ludovica R. M. Lanzafame, Giuseppe M. Bucolo, Giuseppe Muscogiuri, Sandro Sironi, Michele Gaeta, Giorgio Ascenti, Christian Booz, Thomas J. Vogl, Alfredo Blandino, Silvio Mazziotti, Tommaso D’Angelo
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13020507
+Paper ID: pmc_PMC9968221
+
+Abstract:
+The technological development of Artificial Intelligence (AI) has grown rapidly in recent years. The applications of AI to cardiovascular imaging are various and could improve the radiologists’ workflow, speeding up acquisition and post-processing time, increasing image quality and diagnostic accuracy. Several studies have already proved AI applications in Coronary Computed Tomography Angiography and Cardiac Magnetic Resonance, including automatic evaluation of calcium score, quantification of coronary stenosis and plaque analysis, or the automatic quantification of heart volumes and myocardial tissue characterization. The aim of this review is to summarize the latest advances in the field of AI applied to cardiovascular CT and MR imaging.

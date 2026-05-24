@@ -1,0 +1,9 @@
+Title: Insulin-like growth factor binding protein-3 induces senescence by inhibiting telomerase activity in MCF-7 breast cancer cells
+Authors: Ahreum Kwon, Hyun Wook Chae, Woo Jung Lee, JungHyun Kim, Ye Jin Kim, Jungmin Ahn, Youngman Oh, Ho-Seong Kim
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35291-5
+Paper ID: pmc_PMC10229562
+
+Abstract:
+Insulin-like growth factor binding protein-3 (IGFBP-3) has been known to inhibit cell proliferation and exert tumor-suppressing effects depending on the cell type. In this study, we aimed to show that IGFBP-3 induces cellular senescence via suppression of the telomerase activity, thereby inhibiting MCF-7 breast cancer cell proliferation. We found that the induction of IGFBP-3 in MCF-7 cells enhanced the loss of cell viability. Flow cytometry revealed a higher percentage of non-cycling cells among IGFBP-3-expressing cells than among controls. IGFBP-3 induction also resulted in morphological alterations, such as a flattened cytoplasm and increased granularity, suggesting that IGFBP-3 induces a senescence-like phenotype. The percentage of IGFBP-3 expressing cells with senescence-associated β-galactosidase activity was 3.4 times higher than control cells. Telomeric repeat amplification and real-time PCR showed that IGFBP-3 decreased telomerase activity by reducing the levels of the RNA component (hTR) and catalytic protein component with reverse transcriptase activity (hTERT) of telomerase in a dose-dependent manner. These results suggest that IGFBP-3 is a negative regulator of MCF-7 breast cancer cell growth by inducing senescence through telomerase suppression.

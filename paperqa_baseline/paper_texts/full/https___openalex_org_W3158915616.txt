@@ -1,0 +1,9 @@
+Title: Toward a more sustainable mining future with electrokinetic in situ leaching
+Authors: Evelien Martens, Henning Prommer, Riccardo Sprocati, Jing Sun, Dai Xian, Richard A. Crane, James D. Jamieson, Pablo Ortega-Tong, Massimo Rolle, Andy Fourie
+Year: 2021
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abf9971
+Paper ID: https://openalex.org/W3158915616
+
+Abstract:
+emitters and mine waste is the single largest waste form by mass. We propose a new approach, electrokinetic in situ leaching (EK-ISL), and demonstrate its applicability for a Cu-bearing sulfidic porphyry ore. In laboratory-scale experiments, Cu recovery was rapid (up to 57 weight % after 94 days) despite low ore hydraulic conductivity (permeability = 6.1 mD; porosity = 10.6%). Multiphysics numerical model simulations confirm the feasibility of EK-ISL at the field scale. This new approach to mining is therefore poised to spearhead a new paradigm of metal recovery from currently inaccessible ore bodies with a markedly reduced environmental footprint.

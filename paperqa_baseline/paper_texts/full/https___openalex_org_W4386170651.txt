@@ -1,0 +1,9 @@
+Title: Distributed Ledger Technologies for Food Sustainability indexing
+Authors: Georgios Gkogkos, Patrícia Lourenço, Eleftheria Maria Pechlivani, Luís Encarnação, Konstantinos Votis, Nikolaos Giakoumoglou, José Marques da Silva, Dimitrios Tzovaras
+Year: 2023
+Venue: Smart Agricultural Technology
+DOI: https://doi.org/10.1016/j.atech.2023.100312
+Paper ID: https://openalex.org/W4386170651
+
+Abstract:
+The agro-food industry currently faces increasing environmental, social, and economic challenges, emphasizing the need for an effective assessment of food sustainability. While existing certification schemes serve to evaluate food production systems' sustainability, they are often complex, laborious, and prone to errors and result in a transparency deficit and a lack of trust in the process. This paper introduces a novel solution using Distributed Ledger Technology (DLT) to facilitate certificate generation and verification, with the goal of contributing to the attainment of the European Sustainable Development Goals (SDGs). Leveraging Blockchain technology, the solution creates an unalterable record of food sustainability certificates that can be verified with ease, enhancing efficiency, transparency, and trustworthiness in the certification process. The feasibility of the proposed DLT approach is demonstrated through a proof-of-concept implementation, which shows that the proposed solution can significantly improve the certificate generation and verification process. The resultant framework presents a secure and reliable solution for food sustainability certification, which can benefit various stakeholders in the food industry, such as producers, retailers, and consumers. The proposed DLT solution promises a significant transformation in generating and verifying food sustainability certificates, fostering more sustainable food production systems.

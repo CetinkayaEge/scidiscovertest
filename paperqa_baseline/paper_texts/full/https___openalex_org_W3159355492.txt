@@ -1,0 +1,9 @@
+Title: IDENTIFY AND RANK THE CHALLENGES OF IMPLEMENTING SUSTAINABLE SUPPLY CHAIN BLOCKCHAIN TECHNOLOGY USING THE BAYESIAN BEST WORST METHOD
+Authors: Пэйдэ Лю, Ayad Hendalianpour, Mohammad Hamzehlou, Mohammad Reza Feylizadeh, Jafar Razmi
+Year: 2021
+Venue: Technological and Economic Development of Economy
+DOI: https://doi.org/10.3846/tede.2021.14421
+Paper ID: https://openalex.org/W3159355492
+
+Abstract:
+Globalization initiated the challenges in Supply Chain (SC) such as management and control. In this situation, Blockchain as a digital distributed ledger can guarantee clarity, tractability, and safety. Many case studies proved that we can use Blockchain Technology (BT) to solve global supply chain problems especially in smart contracts with their potential applications. BT is in its early period and it is hard to find supply chains that have successfully implemented this technology to track their sustainable actions. Therefore, it is worth studying about the role of customers, members, domestic, national, and international challenges that could resist implementing Blockchain and may affect SC sustainability. Accordingly, four categories of barriers to the use of BT are introduced which are inter-organizational, intra-organizational, technical, and external barriers. Then with Bayesian Best Worst Method, we ranked the BT barriers and the sub-barriers. The study illustrates the interconnection of these barriers and the priority of each element. The lack of business models and the best practices in implementing Blockchain technology is a challenge and it is important that practitioners acknowledge these barriers in the first steps.

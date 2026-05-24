@@ -1,0 +1,9 @@
+Title: UHF Signal Processing and Pattern Recognition of Partial Discharge in Gas-Insulated Switchgear Using Chromatic Methodology
+Authors: Xiaohua Wang, Xi Li, Mingzhe Rong, Dingli Xie, Dan Ding, Zhixiang Wang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010177
+Paper ID: pmc_PMC5298750
+
+Abstract:
+The ultra-high frequency (UHF) method is widely used in insulation condition assessment. However, UHF signal processing algorithms are complicated and the size of the result is large, which hinders extracting features and recognizing partial discharge (PD) patterns. This article investigated the chromatic methodology that is novel in PD detection. The principle of chromatic methodologies in color science are introduced. The chromatic processing represents UHF signals sparsely. The UHF signals obtained from PD experiments were processed using chromatic methodology and characterized by three parameters in chromatic space ( H , L , and S representing dominant wavelength, signal strength, and saturation, respectively). The features of the UHF signals were studied hierarchically. The results showed that the chromatic parameters were consistent with conventional frequency domain parameters. The global chromatic parameters can be used to distinguish UHF signals acquired by different sensors, and they reveal the propagation properties of the UHF signal in the L-shaped gas-insulated switchgear (GIS). Finally, typical PD defect patterns had been recognized by using novel chromatic parameters in an actual GIS tank and good performance of recognition was achieved.

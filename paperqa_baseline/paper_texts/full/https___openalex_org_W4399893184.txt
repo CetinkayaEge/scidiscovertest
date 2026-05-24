@@ -1,0 +1,9 @@
+Title: Reverse Logistics and Sustainability: A Bibliometric Analysis
+Authors: Katherinne Salas-Navarro, L. García, Karolay Assan-Barrios, Karen Vergara-Bujato, Ronald Zamora-Musa
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16135279
+Paper ID: https://openalex.org/W4399893184
+
+Abstract:
+Currently, reverse logistics and sustainability are recognized as strategies to enhance the performance of supply chain processes and customer service and to reduce environmental impact, which is reflected in the planning of and reduction in costs throughout the production process. This article developed a bibliometric review that considered the growth of reverse logistics and sustainability from the perspective of different organizations, authors, thematic subareas, countries, journals, keywords, and volume of citations and publications. For this, a methodology was developed that consisted of reviewing previous research, obtaining the Scopus data set, applying the analysis with Microsoft Excel 365 and VOSviewer version 1.6.18 to determine the applications and trends of future research, and identifying the global impact in the last six years on organizations. The search equation with the application of filters resulted in 22,625 articles. The Sustainability Switzerland journal provided the most significant number of contributions in terms of publications, and the Journal of Cleaner Production stood out for its number of citations. Tseng, M.L. and Govindan, K. were the most active authors. China, the United States, and the United Kingdom were the most notable countries. Chinese Academy of Sciences and the Ministry of Education of the People’s Republic of China were the most influential institutions. The main findings were the recognition of the potential research lines and industry 4.0 technologies applied in supply chains and the development of sustainable processes with the fusion of reverse logistics, sustainability, and circular economy.

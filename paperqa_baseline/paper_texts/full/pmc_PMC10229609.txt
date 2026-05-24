@@ -1,0 +1,9 @@
+Title: Failure analysis and prediction of roof instability in end face under repeated mining using early warning system
+Authors: Fei Li, Dezhong Kong, Qiang Li, Yuqi Shang, Zhanbo Cheng, Liuquan He
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35685-5
+Paper ID: pmc_PMC10229609
+
+Abstract:
+The overlying strata of the lower coal seam is easy to be collapsed causing the roof caving accident at the end face of the mining working face under repeated mining in close-distance coal seams. In order to predict the roof instability of the end face, the mechanical model of the granular arch structure is established in this study to further analyze its main influencing factors. The results show that the mining height of the working face, the advancing speed, the distance of coal seams, the tip-to-face distance, the strength of the surrounding rock and the support setting the load of the support are the main influencing factors on the roof caving of the end face. Subsequently, the prediction model of roof instability in the end face under repeated mining is constructed through the radial basis function neural network (RBFNN) and the above main influencing factors are regarded as input layer indexes. Meanwhile, the roof subsidence, coal wall deformation and support load are determined as the output layer indexes. The predicted results are closer to the results of sample tests. Finally, the early warning system, including monitoring and early warning, data query, emergency management, user management, and system settings, is designed to monitor roof conditions of the end face and timely warn the roof accidents. The field application proves that the system has good practical value, which is of great significance to intelligent prediction of coal mine stope disaster and prevent the end face roof disaster under repeated mining and. This will promote the safe and efficient construction of coal mine production.

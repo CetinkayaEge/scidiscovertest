@@ -1,0 +1,9 @@
+Title: Biohybrid Magnetically Driven Microrobots for Sustainable Removal of Micro/Nanoplastics from the Aquatic Environment
+Authors: Peng Xia, Mario Urso, Martina Koláčková, Dalibor Húska, Martin Pumera
+Year: 2023
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202307477
+Paper ID: https://openalex.org/W4387542276
+
+Abstract:
+Abstract The proliferation of micro/nanoplastics derived from the fragmentation of plastic waste released in the environment represents an increasingly alarming issue with adverse implications for aquatic ecosystems worldwide. Conventional approaches for mitigating such contamination are inadequate in removing plastic fragments with exceptionally tiny sizes. Therefore, it is highly urgent to develop efficient strategies to address the threats posed by micro/nanoplastics. Here, biohybrid microrobots, integrating the magnetic properties of Fe 3 O 4 nanoparticles, are investigated for the dynamic removal of micro/nanoplastics from various aquatic environments via high‐precision magnetic actuation and reliable electrostatic interactions. After the surface decoration with Fe 3 O 4 nanoparticles, algae cells can achieve precise locomotion and wireless manipulation by regulating an external magnetic field. Taking advantage of this active movement, magnetic algae robots (MARs) display considerable capture and removal efficiencies for micro/nanoplastics in water with extensive application scenarios. The reusability of MARs is also investigated, proving great recyclable performance. The growth and cell viability experiments elucidate that the presence of Fe 3 O 4 nanoparticles may result in hormesis stimulation of algae growth. Such recyclable microrobots with eco‐friendly and low‐cost characteristics offer an attractive strategy for sustainably tackling micro/nanoplastics pollution.

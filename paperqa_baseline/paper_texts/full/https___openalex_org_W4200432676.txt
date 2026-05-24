@@ -1,0 +1,9 @@
+Title: Designing a Resilient and Sustainable Logistics Network under Epidemic Disruptions and Demand Uncertainty
+Authors: Aymen Aloui, Nadia Hamani, Laurent Delahoche
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132414053
+Paper ID: https://openalex.org/W4200432676
+
+Abstract:
+To face the new challenges caused by modern industry, logistics operations managers need to focus more on integrating sustainability goals, adapt to unexpected disruptions and find new strategies and models for logistics management. The COVID-19 pandemic has proven that unforeseen fragilities, negatively affecting the supply chain performance, can arise rapidly, and logistics systems may confront unprecedented vulnerabilities regarding network structure disruption and high demand fluctuations. The existing studies on a resilient logistics network design did not sufficiently consider sustainability aspects. In fact, they mainly addressed the independent planning of decision-making problems with economic objectives. To fill this research gap, this paper concentrates on the design of resilient and sustainable logistics networks under epidemic disruption and demand uncertainty. A two-stage stochastic mixed integer programming model is proposed to integrate key decisions of location–allocation, inventory and routing planning. Moreover, epidemic disruptions and demand uncertainty are incorporated through plausible scenarios using a Monte Carlo simulation. In addition, two resiliency strategies, namely, capacity augmentation and logistics collaboration, are included into the basic model in order to improve the resilience and the sustainability of a logistics chain network. Finally, numerical examples are presented to validate the proposed approach, evaluate the performance of the different design models and provide managerial insights. The obtained results show that the integration of two design strategies improves resilience and sustainability.

@@ -1,0 +1,9 @@
+Title: Sustainable Product-Service Systems Customization: A Case Study Research in the Medical Equipment Sector
+Authors: Nicolas Haber, Mario Fargnoli
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126624
+Paper ID: https://openalex.org/W3168767419
+
+Abstract:
+The paper proposes a Product-Service System (PSS) methodology for customizing solutions to different patterns of use while achieving a better environmental performance than a stand-alone product. The approach is based on combining the Quality Function Deployment for Product-Service Systems (QFDforPSS) and the Screening Life Cycle Modeling (SLCM) tools. QFDforPSS is augmented by the Fuzzy Analytical Hierarchy Process (FAHP) to reduce service-related ambiguities and uncertainties on the one hand and better define the product and service characteristics of the solution on the other. The SLCM evaluates the possible outcomes by determining the environmental impact and comparing it with the manufacturer’s current solution. A case study at a manufacturer of medical diagnostic equipment illustrates the use of the approach depicting the possible benefits that can arise: the PSS solution can be customized to fit customers who intensively use the product and consumers with a more moderate use. This offers flexibility and an optimized life cycle through easier maintenance, upgrades, and end-of-life schemes. Concretely, it shows how the PSS approach can enhance the development of sustainable solutions that can be adapted to varying and future customer needs, such as adjusting current solutions to new requirements, i.e., adapting existing products to COVID-19 detection and different levels of use.

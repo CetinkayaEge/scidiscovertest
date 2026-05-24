@@ -1,0 +1,9 @@
+Title: On Sustainability Aspects of the Synthesis of Five-Membered Cyclic Carbonates
+Authors: Federico Mundo, Sylvain Caillol, Vincent Ladmiral, Michaël A. R. Meier
+Year: 2024
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.4c01274
+Paper ID: https://openalex.org/W4394809229
+
+Abstract:
+The synthesis of cyclic carbonates, substrates gaining growing interest due to their broad spectrum of applications, is analyzed from a Green Chemistry perspective. Extensive research has been carried out on the synthesis of these substances, which are of interest especially for the preparation of so-called non-isocyanate polyurethanes (NIPUs). Often, the renewability of the raw materials, derived for instance from carbon dioxide, diols, urea, or alkyl carbonates, is taken into account, without considering sustainability aspects of their synthesis protocols. In this review, we employ E-factors and discuss basic toxicity information to compare numerous approaches and data reported in the literature for synthesizing the most common cyclic carbonates to provide a useful, although not exhaustive, first sustainability evaluation. This study highlights that to achieve a more sustainable manufacture of cyclic carbonates, the renewability of the starting materials has to be matched with safer chemicals and mild and efficient reaction protocols in order to limit the environmental impact of their synthesis.

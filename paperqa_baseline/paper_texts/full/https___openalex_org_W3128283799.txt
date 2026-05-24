@@ -1,0 +1,9 @@
+Title: Selective recovery of vanadium pentoxide from spent catalysts of sulfuric acid production: Sustainable approach
+Authors: Elena Romanovskaia, Valentin Romanovski, Witold Kwapiński, И. И. Курило
+Year: 2021
+Venue: Hydrometallurgy
+DOI: https://doi.org/10.1016/j.hydromet.2021.105568
+Paper ID: https://openalex.org/W3128283799
+
+Abstract:
+Spent vanadium catalysts of sulfuric acid production (main elemental composition in wt%: 7.5 V, 9.1 K, 10.2 S, 23.2 Si and 1.4 Fe) can be used as a secondary source of vanadium. Extraction of vanadium was studied using two-step leaching (acidic and reductive) of spent vanadium catalysts with further oxidizing of leaching solutions. The factors leaching and hydrolysis temperature, concentration of leaching (H2SO4, Na2SO3) and oxidizing ((NH4)2S2O8) reagents, solid/liquid ratio, mixing parameters, and time of leaching and thermohydrolysis were systematically investigated. The solubility of V2O5 was investigated as a function of temperature, pH of sulfuric acid solutions, and concentration of Na2SO3. The kinetics of V2O5 solubility and reduction were also studied. The vanadium leaching yield after a two-step recovery was 98 wt% after acidic (H2SO4, pH 1.2–1.3) leaching with ultrasonic treatment for 5 min at ambient temperature, followed by reductive leaching in 0.01 Mol/L Na2SO3 solution for 15 min at ambient temperature. The highest vanadium extraction yield from leaching solutions was 98 wt% obtained through oxidizing of leaching solutions by 30 wt%. (NH4)2S2O8 with a molar ratio n(V2O5)/n((NH4)2S2O8) of 5/1 for a reaction time of 5 min at 80–90 °C. the extracted vanadium product was V2O5 with a purity of 85–87 wt%. The technological scheme has been developed to recycle all obtained products and sub-products

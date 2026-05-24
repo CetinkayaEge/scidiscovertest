@@ -1,0 +1,9 @@
+Title: Bicycle Traffic Model for Sustainable Urban Mobility Planning
+Authors: Jacek Oskarbski, Krystian Birr, Karol Żarski
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14185970
+Paper ID: https://openalex.org/W3201107809
+
+Abstract:
+Modelling tools and transport models are required to assess the impact of measures for the effective planning of cycling routes in cities. This paper presents the methodology for developing a four-stage macroscopic model of bicycle traffic for the city of Gdynia, and its use in planning new bicycle routes, considering a modal shift. The model presented in this paper allows for the evaluation of the influence of the characteristics of the cycling infrastructure, along with the development of the cycling network based on the choice of cycling as an alternative to other modes of transport, by taking into account the modal shift. The model takes into account the influence of the longitudinal gradient, link, and surface type of cycling routes on the distribution and demand for bicycle traffic. The results of our research allow us to assess the impact of planned cycling routes on the reduction in the volume of car traffic, which is crucial for reducing energy consumption and negative environmental impacts. Experiences from the application of the model in Gdynia suggest that the model provides a strong basis to support mobility planning and monitoring processes in cities worldwide. Cities should take into account the methods proposed in this paper when planning the development of their transport systems.

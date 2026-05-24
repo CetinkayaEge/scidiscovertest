@@ -1,0 +1,9 @@
+Title: Corrosion Behavior of Nitrided Layer of Ti6Al4V Titanium Alloy by Hollow Cathodic Plasma Source Nitriding
+Authors: Lei Zhang, Minghao Shao, Zhehao Zhang, Xuening Yi, Jiwen Yan, Zelong Zhou, Dazhen Fang, Yongyong He, Yang Li
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16082961
+Paper ID: pmc_PMC10141753
+
+Abstract:
+Ti6Al4V titanium alloys, with high specific strength and good biological compatibility with the human body, are ideal materials for medical surgical implants. However, Ti6Al4V titanium alloys are prone to corrosion in the human environment, which affects the service life of implants and harms human health. In this work, hollow cathode plasm source nitriding (HCPSN) was used to generate nitrided layers on the surfaces of Ti6Al4V titanium alloys to improve their corrosion resistance. Ti6Al4V titanium alloys were nitrided in NH 3 at 510 °C for 0, 1, 2, and 4 h. The microstructure and phase composition of the Ti-N nitriding layer was characterized by high-resolution transmission electron microscopy, atomic force microscopy, scanning electron microscopy, X-ray diffraction, and X-ray photoelectron spectroscopy. This modified layer was identified to be composed of TiN, Ti 2 N, and α-Ti (N) phase. To study the corrosion properties of different phases, the nitriding 4 h samples were mechanically ground and polished to obtain the various surfaces of Ti 2 N and α-Ti (N) phases. The potentiodynamic polarization and electrochemical impedance measurements were conducted in Hank’s solution to characterize the corrosion resistance of Ti-N nitriding layers in the human environment. The relationship between corrosion resistance and the microstructure of the Ti-N nitriding layer was discussed. The new Ti-N nitriding layer that can improve corrosion resistance provides a broader prospect for applying Ti6Al4V titanium alloy in the medical field.

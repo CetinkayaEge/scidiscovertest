@@ -1,0 +1,9 @@
+Title: The Role of Synthetic Microbial Communities (SynCom) in Sustainable Agriculture
+Authors: Ambihai Shayanthan, Patricia Ann C. Ordoñez, Ivan J. Oresnik
+Year: 2022
+Venue: Frontiers in Agronomy
+DOI: https://doi.org/10.3389/fagro.2022.896307
+Paper ID: https://openalex.org/W4283719680
+
+Abstract:
+Modern agriculture faces several challenges due to climate change, limited resources, and land degradation. Plant-associated soil microbes harbor beneficial plant growth-promoting (PGP) traits that can be used to address some of these challenges. These microbes are often formulated as inoculants for many crops. However, inconsistent productivity can be a problem since the performance of individual inoculants/microbes vary with environmental conditions. Over the past decade, the ability to utilize Next Generation Sequencing (NGS) approaches with soil microbes has led to an explosion of information regarding plant associated microbiomes. Although this type of work has been predominantly sequence-based and often descriptive in nature, increasingly it is moving towards microbiome functionality. The synthetic microbial communities (SynCom) approach is an emerging technique that involves co-culturing multiple taxa under well-defined conditions to mimic the structure and function of a microbiome. The SynCom approach hopes to increase microbial community stability through synergistic interactions between its members. This review will focus on plant-soil-microbiome interactions and how they have the potential to improve crop production. Current approaches in the formulation of synthetic microbial communities will be discussed, and its practical application in agriculture will be considered.

@@ -1,0 +1,9 @@
+Title: Development of an RNA–protein crosslinker to capture protein interactions with diverse RNA structures in cells
+Authors: Yan Han, Xuzhen Guo, Tiancai Zhang, Jiangyun Wang, Keqiong Ye
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.078896.121
+Paper ID: pmc_PMC8848928
+
+Abstract:
+Characterization of RNA–protein interaction is fundamental for understanding the metabolism and function of RNA. UV crosslinking has been widely used to map the targets of RNA-binding proteins, but is limited by low efficiency, requirement for zero-distance contact, and biases for single-stranded RNA structure and certain residues of RNA and protein. Here, we report the development of an RNA–protein crosslinker (AMT–NHS) composed of a psoralen derivative and an N -hydroxysuccinimide ester group, which react with RNA bases and primary amines of protein, respectively. We show that AMT–NHS can penetrate into living yeast cells and crosslink Cbf5 to H/ACA snoRNAs with high specificity. The crosslinker induced different crosslinking patterns than UV and targeted both single- and double-stranded regions of RNA. The crosslinker provides a new tool to capture diverse RNA–protein interactions in cells.

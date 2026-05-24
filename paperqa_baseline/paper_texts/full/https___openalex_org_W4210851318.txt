@@ -1,0 +1,9 @@
+Title: A bibliometric analysis of sustainable oil and gas production research using VOSviewer
+Authors: Justine Klaire Tamala, Edcel Iolo Maramag, Kaye Anne Simeon, Jonathan Jared Ignacio
+Year: 2022
+Venue: Cleaner Engineering and Technology
+DOI: https://doi.org/10.1016/j.clet.2022.100437
+Paper ID: https://openalex.org/W4210851318
+
+Abstract:
+The role of the oil and gas industry in society is irrefutably vital as it is the main driver of the global energy system which significantly contributes to economic and social development. However, with the growing international concerns especially on climate change and environmental degradation, O&G production should enhance its positive impacts and mitigate its negative effects through sustainable development. This paper aimed to systematically plot the scientific research outputs on sustainable oil and gas production by using a quantitative review technique called bibliometric analysis. The data was retrieved from the Scopus database and was analyzed using the VOSviewer software. Out of 3,493, only 232 keywords from the 312 articles met the threshold and were analyzed. The results showed that the topics related to the [natural] gas industry gained considerable attention from researchers from 1994 to 2021, featured in 163 articles with 1718 total link strength. Moreover, one of the recently most citable research topics was related to enhanced recovery of heavy crude oil with 130 total citations from 2019 to 2021. Overall, this study could be used by researchers to quantitively examine the trends and future direction of this research topic.

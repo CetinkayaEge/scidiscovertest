@@ -1,0 +1,9 @@
+Title: Self-sustained green neuromorphic interfaces
+Authors: Tianda Fu, Xiaomeng Liu, Shuai Fu, Trevor L. Woodard, Hongyan Gao, Derek R. Lovley, Jun Yao
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-23744-2
+Paper ID: https://openalex.org/W3168828086
+
+Abstract:
+Incorporating neuromorphic electronics in bioelectronic interfaces can provide intelligent responsiveness to environments. However, the signal mismatch between the environmental stimuli and driving amplitude in neuromorphic devices has limited the functional versatility and energy sustainability. Here we demonstrate multifunctional, self-sustained neuromorphic interfaces by achieving signal matching at the biological level. The advances rely on the unique properties of microbially produced protein nanowires, which enable both bio-amplitude (e.g., <100 mV) signal processing and energy harvesting from ambient humidity. Integrating protein nanowire-based sensors, energy devices and memristors of bio-amplitude functions yields flexible, self-powered neuromorphic interfaces that can intelligently interpret biologically relevant stimuli for smart responses. These features, coupled with the fact that protein nanowires are a green biomaterial of potential diverse functionalities, take the interfaces a step closer to biological integration.

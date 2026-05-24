@@ -1,0 +1,9 @@
+Title: Digital Technology Implementation in Battery-Management Systems for Sustainable Energy Storage: Review, Challenges, and Recommendations
+Authors: Gopal Krishna, Rajesh Singh, Anita Gehlot, Shaik Vaseem Akram, Neeraj Priyadarshi, Bhekisipho Twala
+Year: 2022
+Venue: Electronics
+DOI: https://doi.org/10.3390/electronics11172695
+Paper ID: https://openalex.org/W4293664182
+
+Abstract:
+Energy storage systems (ESS) are among the fastest-growing electrical power system due to the changing worldwide geography for electrical distribution and use. Traditionally, methods that are implemented to monitor, detect and optimize battery modules have limitations such as difficulty in balancing charging speed and battery capacity usage. A battery-management system overcomes these traditional challenges and enhances the performance of managing battery modules. The integration of advancements and new technologies enables the provision of real-time monitoring with an inclination towards Industry 4.0. In the previous literature, it has been identified that limited studies have presented their reviews by combining the literature on different digital technologies for battery-management systems. With motivation from the above aspects, the study discussed here aims to provide a review of the significance of digital technologies like wireless sensor networks (WSN), the Internet of Things (IoT), artificial intelligence (AI), cloud computing, edge computing, blockchain, and digital twin and machine learning (ML) in the enhancement of battery-management systems. Finally, this article suggests significant recommendations such as edge computing with AI model-based devices, customized IoT-based devices, hybrid AI models and ML-based computing, digital twins for battery modeling, and blockchain for real-time data sharing.

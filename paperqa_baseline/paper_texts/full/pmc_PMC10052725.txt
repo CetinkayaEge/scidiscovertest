@@ -1,0 +1,9 @@
+Title: Commercial and Custom Quartz Tuning Forks for Quartz Enhanced Photoacoustic Spectroscopy: Stability under Humidity Variation
+Authors: Diba Ayache, Roman Rousseau, Elena Kniazeva, Julien Charensol, Tarek Seoudi, Michael Bahriz, Fares Gouzi, Vincenzo Spagnolo, Aurore Vicet
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063135
+Paper ID: pmc_PMC10052725
+
+Abstract:
+This work investigates the behavior of commercial and custom Quartz tuning forkss (QTF) under humidity variations. The QTFs were placed inside a humidity chamber and the parameters were studied with a setup to record the resonance frequency and quality factor by resonance tracking. The variations of these parameters that led to a 1% theoretical error on the Quartz Enhanced Photoacoustic Spectroscopy (QEPAS) signal were defined. At a controlled level of humidity, the commercial and custom QTFs present similar results. Therefore, commercial QTFs appear to be a very good candidates for QEPAS as they are also affordable and small. When the humidity increases from 30 to 90 %RH, the variations in the custom QTFs’ parameters remain suitable, while commercial QTFs show unpredictable behavior.

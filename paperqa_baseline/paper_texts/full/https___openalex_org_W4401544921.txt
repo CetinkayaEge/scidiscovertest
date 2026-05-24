@@ -1,0 +1,9 @@
+Title: Self-reporting photodynamic nanobody conjugate for precise and sustainable large-volume tumor treatment
+Authors: Yingchao Chen, Tao Xiong, Qiang Peng, Jianjun Du, Wen Sun, Jiangli Fan, Xiaojun Peng
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-51253-5
+Paper ID: https://openalex.org/W4401544921
+
+Abstract:
+Nanobodies (Nbs), the smallest antigen-binding fragments with high stability and affinity derived from the variable domain of naturally occurring heavy-chain-only antibodies in camelids, have been shown as an efficient way to improve the specificity to tumors for photodynamic therapy (PDT). Nonetheless, the rapid clearance of Nbs in vivo restricts the accumulation and retention of the photosensitizer at the tumor site causing insufficient therapeutic outcome, especially in large-volume tumors. Herein, we develop photodynamic conjugates, MNB-Pyra Nbs, through site-specific conjugation between 7D12 Nbs and type I photosensitizer MNB-Pyra (morpholine-modified nile blue structure connected to pyrazolinone) in a 1:2 ratio. The photosensitizers with long-term retention can be released at the tumor site by reactive oxygen species cleavage after illumination, accompanied with fluorescence recovery for self-reporting the occurrence of PDT. Ultimately, a single dose of MNB-Pyra Nbs demonstrate highly effective tumor suppression with high biosafety in the large-volume tumor models after three rounds of PDT. This nanobody conjugate provides a paradigm for the design of precise long-time retention photosensitizers and is expected to promote the development of PDT.

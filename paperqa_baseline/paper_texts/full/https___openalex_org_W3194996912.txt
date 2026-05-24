@@ -1,0 +1,9 @@
+Title: Coordinating socio-economic and environmental dimensions to evaluate regional sustainability —towards an integrative framework
+Authors: Rui Zhong, Fengsong Pei, Kuiqi Yang, Yan Xia, Huaili Wang, Gaoxin Yan
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.108085
+Paper ID: https://openalex.org/W3194996912
+
+Abstract:
+Sustainability is related to the coordination of a complex system that constitutes by society, economy, and environment. In particular, environmental factor is frequently considered irreplaceable among them. This paper proposed a framework for regional sustainability assessment by coupling environmental factor and an improved Human Development Index (HDI). The performance of the framework was then analyzed using the 66 counties in the Yangtze River Delta (YRD) in China as a case study. On this basis, spatio-temporal assessment on the regional sustainability was assessed from the dimensions of society, economy, and environment. Results showed that the proposed framework could capture both socio-economic and environmental dimensions well to reflect the regional sustainability in the YRD. Specifically, it showed that sustainability was continuously improved in the YRD from 2000 to 2015. However, the sustainability revealed large differences among distinct dimensions. For instances, socio-economic sustainability was improved in 78.79% of the counties in the YRD from 2000 to 2015, but their environmental sustainability was declining in the same period. Spatially, the overall sustainability of the YRD showed autocorrelations and diverse aggregation characteristics among counties from 2000 to 2015. It is therefore essential to coordinate environment protection and economic development according to each city’s characteristic to realize sustainable development in future decades.

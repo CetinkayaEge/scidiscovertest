@@ -1,0 +1,9 @@
+Title: Investigation on CMB monopole and dipole using blackbody radiation inversion
+Authors: Somita Dhal, R. K. Paul
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30414-4
+Paper ID: pmc_PMC9971209
+
+Abstract:
+The COBE/FIRAS dataset is used to calculate the Cosmic Microwave Background temperature and the uncertainty using the Blackbody Radiation Inversion (BRI) method. In this research work, the procedure is somewhat comparable to the mixing of weighted blackbodies in the case of the dipole. The temperature and its spreading for the monopole and dipole, respectively, are 2.741 ± 0.018 K and 2.748 ± 0.270 K. This dipole spreading exceeds the spreading predicted by taking relative motion into account (i.e., 3.3 × 10 −3 K). The comparison of the probability distributions for the monopole spectrum, dipole spectrum, and their resultant is also displayed. It is shown that the distribution is symmetrically orientated. We estimated the µ and y-distortions by interpreting the spreading as the distortion and found that they are of the order of 10 −4 and 10 −5 , respectively, for the monopole spectrum and 10 −2 for the dipole spectrum. The paper also highlights the effectiveness of the BRI method and hints at future applications in the thermal nature of the early universe.

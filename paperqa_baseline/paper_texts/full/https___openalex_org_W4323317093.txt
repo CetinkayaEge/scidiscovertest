@@ -1,0 +1,9 @@
+Title: Understanding the Machinability and Energy Consumption of Al-Based Hybrid Composites under Sustainable Conditions
+Authors: Serhat Şap
+Year: 2023
+Venue: Lubricants
+DOI: https://doi.org/10.3390/lubricants11030111
+Paper ID: https://openalex.org/W4323317093
+
+Abstract:
+Tribological properties are directly related to cutting efficiency. To achieve high machinability performances, sustainable coolants (minimum quantity lubricant (MQL), cryogenic etc.) have been used instead of conventional cutting fluids in recent years. This study used MQL and cryogenic-cooling techniques while milling Al-based hybrid composites. The effects of different cutting environments on flank wear, surface roughness, cutting temperature, and energy consumption were analyzed according to the Taguchi method. According to the findings, the best cutting environment for surface roughness, flank wear, and cutting temperature is the cryo-LN2-assisted cooling technique. In terms of energy consumption, MQL was found to be more efficient than cryo-LN2 and dry environments. According to SEM/EDS analysis, BUE formation was observed at the tool edges during milling in dry conditions. It was determined that cutting tool surfaces are smoother in MQL and cryo-LN2 environments. The effect ratios of control factors on response parameters were determined according to Taguchi analysis. As a result, it was concluded that MQL and cryo-LN2 strategies could be evaluated within the scope of sustainable conditions.

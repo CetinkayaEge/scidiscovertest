@@ -1,0 +1,9 @@
+Title: Relationship of cardiovascular disease risk and hearing loss in a clinical population
+Authors: Rachael R. Baiduc, Joshua W. Sun, Caitlin M. Berry, Melinda Anderson, Eric A. Vance
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28599-9
+Paper ID: pmc_PMC9886989
+
+Abstract:
+Hearing loss has been associated with individual cardiovascular disease (CVD) risk factors and, to a lesser extent, CVD risk metrics. However, these relationships are understudied in clinical populations. We conducted a retrospective study of electronic health records to evaluate the relationship between hearing loss and CVD risk burden. Hearing loss was defined as puretone average (PTA 0.5,1,2,4 ) > 20 dB hearing level (HL). Optimal CVD risk was defined as nondiabetic, nonsmoking, systolic blood pressure (SBP) < 120 and diastolic (D)BP < 80 mm Hg, and total cholesterol < 180 mg/dL. Major CVD risk factors were diabetes, smoking, hypertension, and total cholesterol ≥ 240 mg/dL or statin use. We identified 6332 patients (mean age = 62.96 years; 45.5% male); 64.0% had hearing loss. Sex-stratified logistic regression adjusted for age, noise exposure, hearing aid use, and body mass index examined associations between hearing loss and CVD risk. For males, diabetes, hypertension, smoking, and ≥ 2 major CVD risk factors were associated with hearing loss. For females, diabetes, smoking, and ≥ 2 major CVD risk factors were significant risk factors. Compared to those with no CVD risk factors, there is a higher likelihood of hearing loss in patients with ≥ 2 major CVD risk factors. Future research to better understand sex dependence in the hearing loss-hypertension relationship is indicated.

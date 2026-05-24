@@ -1,0 +1,9 @@
+Title: Digital technologies for behavioral change in sustainability domains: a systematic mapping review
+Authors: Oriana Mosca, Andrea Manunza, Sara Manca, Giuliano Vivanet, Ferdinando Fornara
+Year: 2024
+Venue: Frontiers in Psychology
+DOI: https://doi.org/10.3389/fpsyg.2023.1234349
+Paper ID: https://openalex.org/W4390542524
+
+Abstract:
+= 37 studies that met the eligibility criteria were selected. The studies were coded according to different descriptive variables, such as digital technology used for the intervention, type of sustainable behavior promoted, research design, and population for whom the intervention was applied. Results showed the emergence of three main clusters of Digital Technologies (i.e., virtual/immersive/augmented reality, gamification, and power-metering systems) and two main Sustainable Behaviors (SBs) (i.e., energy and water-saving, and pollution reduction). The need for a clearer knowledge of which digital interventions work and the reasons why they work (or do not work) does not emerge from the outcomes of this set of studies. Future studies on digital interventions should better detail intervention design characteristics, alongside the reasons underlying design choices, both behaviourally and technologically. This should increase the likelihood of the successful adoption of digital interventions promoting behavioral changes in a more sustainable direction.

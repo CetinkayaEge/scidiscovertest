@@ -1,0 +1,9 @@
+Title: Exploring the Road toward Environmental Sustainability: Natural Resources, Renewable Energy Consumption, Economic Growth, and Greenhouse Gas Emissions
+Authors: Yugang He, Xiang Li, Panpan Huang, Jingnan Wang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031579
+Paper ID: https://openalex.org/W4210257424
+
+Abstract:
+Despite the fact that China’s economy has grown swiftly since the reform and opening up, the problem of environmental degradation in China has become increasingly significant. Therefore, this paper uses China as an example to examine the dynamic relationship between the highlighted variables (renewable energy consumption, economic growth, oil rent, and natural resources) and greenhouse gas emissions (a proxy for environmental sustainability). Using annual data over the period 1971–2018 and employing the auto-regressive distributed lag bounds approach to perform an empirical analysis, the results suggest that there is a long-run equilibrium relationship between the highlighted variables and greenhouse gas emissions. Specifically, renewable energy consumption and oil rent contribute to environmental sustainability because of their negative effects on greenhouse gas emissions. On the contrary, economic growth and natural resources hinder environmental sustainability due to their positive effects on greenhouse gas emissions. In addition, using the fully modified ordinary least squares approach and dynamic ordinary least squares approach to conduct a robustness test, the results also support the previous findings. To conclude, the findings of this paper may provide some solutions for China’s environmental sustainability.

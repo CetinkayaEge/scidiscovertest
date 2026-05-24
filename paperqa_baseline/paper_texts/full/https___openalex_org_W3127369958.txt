@@ -1,0 +1,9 @@
+Title: Sustainable Supplier Selection in Construction Industry through Hybrid Fuzzy-Based Approaches
+Authors: Seyed Amirali Hoseini, Alireza Fallahpour, Kuan Yew Wong, Amir Mahdiyar, Morteza Saberi, Serdar Durdyev
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031413
+Paper ID: https://openalex.org/W3127369958
+
+Abstract:
+Due to increase in the public and stakeholders’ awareness regarding economic, environmental, and social issues, the construction industry tends to follow the sustainability policies and practices in supply chain management. Hence, one of the most crucial aspects for a construction company in this regard is sustainable supplier selection, and, to this end, an accurate and reliable model is required. In this paper a hybrid fuzzy best-worst method and fuzzy inference system model is developed for sustainable supplier selection. In the first phase of this study, after determining 19 criteria in three main aspects, the final weight of each aspect and criterion is obtained using fuzzy best-worst method approach. In the second phase, the most sustainable supplier is selected by running the weighted fuzzy inference system both in aspect and criterion level, providing more accurate results compared to the use of other available models. Finally, two different tests are employed to validate the results and evaluate the robustness of the proposed model. The novel developed model enables the decision-maker to simulate the decision-making process, reduce the calculations loads, consider a large number of criteria in decision making, and resolve the inherited uncertainties in experts’ responses.

@@ -1,0 +1,9 @@
+Title: Linoleic acid isomerase gene FgLAI12 affects sensitivity to salicylic acid, mycelial growth and virulence of Fusarium graminearum
+Authors: Ya-Zhou Zhang, Zhen-Zhen Wei, Cai-Hong Liu, Qing Chen, Bin-Jie Xu, Zhen-Ru Guo, Yong-Li Cao, Yan Wang, Ya-Nan Han, Chen Chen, Xiang Feng, Yuan-Yuan Qiao, Lu-Juan Zong, Ting Zheng, Mei Deng, Qian-Tao Jiang, Wei Li, You-Liang Zheng, Yu-Ming Wei, Peng-Fei Qi
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46129
+Paper ID: pmc_PMC5384231
+
+Abstract:
+Fusarium graminearum is the major causal agent of fusarium head blight in wheat, a serious disease worldwide. Linoleic acid isomerase (LAI) catalyses the transformation of linoleic acid (LA) to conjugated linoleic acid (CLA), which is beneficial for human health. We characterised a cis -12 LAI gene of F. graminearum (FGSG_02668 ; FgLAI12 ), which was downregulated by salicylic acid (SA), a plant defence hormone. Disruption of FgLAI12 in F. graminearum resulted in decreased accumulation of cis -9, trans -11 CLA, enhanced sensitivity to SA, and increased accumulation of LA and SA in wheat spikes during infection. In addition, mycelial growth, accumulation of deoxynivalenol, and pathogenicity in wheat spikes were reduced. Re-introduction of a functional FgLAI12 gene into Δ FgLAI12 recovered the wild-type phenotype. Fluorescent microscopic analysis showed that FgLAI12 protein was usually expressed in the septa zone of conidia and the vacuole of hyphae, but was expressed in the cell membrane of hyphae in response to exogenous LA, which may be an element of LA metabolism during infection by F. graminearum . The cis -12 LAI enzyme encoded by FgLAI12 is critical for fungal response to SA, mycelial growth and virulence in wheat. The gene FgLAI12 is potentially valuable for biotechnological synthesis of cis -9, trans -11 CLA.

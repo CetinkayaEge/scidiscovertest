@@ -1,0 +1,9 @@
+Title: Sustainable machining: environmental performance analysis of turning
+Authors: Raneesha Fernando, J.R. Gamage, Hirushie Karunathilake
+Year: 2021
+Venue: International Journal of Sustainable Engineering
+DOI: https://doi.org/10.1080/19397038.2021.1995524
+Paper ID: https://openalex.org/W3210210124
+
+Abstract:
+The manufacturing sector accounts for 40% and 25% of global energy and resources consumption respectively. Machining is one of the most power-intense operations in the manufacturing sector making a significant contribution to the environmental footprint. The purpose of this study is to identify the key parameters that contribute towards the environmental impacts of conventional turning. A set of experiments was designed using the Taguchi L9 method. Experiments were performed to analyse the electrical energy consumption, metalworking fluid (MWF) consumption, surface roughness, and material removal rate during turning of AISI P20 with both wet and dry machining. A life cycle assessment (LCA) was conducted to assess the environmental performance of turning. A multi-response optimisation was performed to identify the optimum operating conditions. The results show that turning with wet machining yields better machining and environmental performance compared to dry machining. The LCA results reveal that electrical energy is the highest contributor under most of the impact categories, while the effect of MWF is negligible. The use of workpiece material and cutting insert material contribute significantly to the impacts under aquatic ecosystem and resource depletion damage categories. Further, optimum parameters were proposed considering both machining performance and environmental impact.

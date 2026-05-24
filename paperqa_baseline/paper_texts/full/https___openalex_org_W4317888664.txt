@@ -1,0 +1,9 @@
+Title: Social Media Platforms and User Engagement: A Multi-Platform Study on One-way Firm Sustainability Communication
+Authors: Ashish Kumar Jha, Nishant Kumar Verma
+Year: 2023
+Venue: Information Systems Frontiers
+DOI: https://doi.org/10.1007/s10796-023-10376-8
+Paper ID: https://openalex.org/W4317888664
+
+Abstract:
+Abstract There have been multiple research studies in recent days that have analyzed the growing role of social media in firms’ communication strategy as well as the role of social media in shaping a firm’s reputation. However, most of these studies focus on one of the multiple social media platforms that firms use. In this study, we argue that there are nuances in firms’ social media communication strategies depending on the platforms. Given the rising importance of sustainability, we focus on firms’ sustainability-related communication. We analyze the impact of firms’ one-way sustainability communication over Twitter and Facebook on the respective platforms’ user engagement. The engagement has been computed as likes and shares (likes and retweets) over the firm generated one-way sustainability communication-related posts. Using a panel dataset of a 3-year period for S&amp;P 500 firms having active social media profiles on both platforms, we demonstrate the difference in the firms’ sustainability communication on the two platforms. We also find evidence that users on both platforms have different preferences, such as messaging from firms. Using a differential metric in our analysis helps us counter the firm-level fixed effects. We find evidence suggesting that firms would do well by having different strategies for different platforms. Firms would benefit by focusing on sustainability relevant and bite-sized content on Twitter, but more positive and engaging content on Facebook.

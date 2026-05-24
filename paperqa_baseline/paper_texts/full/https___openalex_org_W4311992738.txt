@@ -1,0 +1,9 @@
+Title: Towards sustainability: The effect of industries on CO2 emissions
+Authors: Morteza Ghasemi, Mohammad Sadra Rajabi, Sina Aghakhani
+Year: 2022
+Venue: Journal of Future Sustainability
+DOI: https://doi.org/10.5267/j.jfs.2022.12.002
+Paper ID: https://openalex.org/W4311992738
+
+Abstract:
+During the last decades, environmental crises through energy consumption and economic growth were noticed as a growing concern among researchers. The industrial sector is the main part of economic growth in each country using conservative energy and emitting carbon dioxide that causes global warming. The Paris agreement and Kyoto protocol were two agreements to prevent governments from emitting CO2 freely. Purpose of this research was to investigate the cement industry, steel industry, and automobile industry products’ effects on CO2 emissions in Iran and to rank them according to their measured effects on CO2 emissions. The methodology used in this study was to estimate equations with CO2 emissions as a dependent variable and cement, steel, and automobile industries’ products with ordinary least squares (OLS) and generalized moment method (GMM) approaches. Stationary, Johansen cointegration, Durbin-Watson, Breusch-Godfrey, Chow breakpoint, and normal residual tests were checked. In-sample forecasting was implemented to check the precision of the estimation and an updated ranking was reported as a final result to consider which industry has affected CO2 emissions more than the others per unit of production cost. In conclusion, the cement industry, steel industry, and automobile industry had the most positive effects on CO2 emissions, respectively. This result is suitable to prioritize the industries for enhancing green technology and optimizing industrial production for a more sustainable economy.

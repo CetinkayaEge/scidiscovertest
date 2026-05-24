@@ -1,0 +1,9 @@
+Title: Cutting Waste Minimization of Rebar for Sustainable Structural Work: A Systematic Literature Review
+Authors: Keehoon Kwon, Doyeong Kim, Sunkuk Kim
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13115929
+Paper ID: https://openalex.org/W3164918474
+
+Abstract:
+Rebar, the core resource of reinforced concrete structures, generates more carbon dioxide per unit weight than any other construction resource. Therefore, reducing rebar cutting wastes greatly contributes to the reduction of greenhouse gas (GHG). Over the past decades, many studies have been conducted to minimize cutting wastes, and various optimization algorithms have been proposed. However, the reality is that about 3 to 5% of cutting wastes are still generated. In this paper, the trends in the research on cutting waste minimization (CWM) of rebar for sustainable work are reviewed in a systematic method with meta-analysis. So far, the literature related to cutting waste minimization or optimization of rebar published has been identified, screened, and selected for eligibility by Preferred Reporting Items for Systematic Reviews and Meta-Analyses, and the final 52 records have been included in quantitative and qualitative syntheses. Review by meta-analysis was conducted on selected literatures, and the results were discussed. The findings identified after reviewing the literature are: (1) many studies have performed optimization for the market length, making it difficult to realize near-zero cutting wastes; (2) to achieve near-zero cutting wastes, rebars must be matched to a specific length by partially adjusting the lap splice position (LSP); (3) CWM is not a one-dimensional problem but an n-dimensional cutting stock problem when considering several rebar combination conditions; and (4) CWM should be dealt with in terms of sustainable value chain management in terms of GHG contributions.

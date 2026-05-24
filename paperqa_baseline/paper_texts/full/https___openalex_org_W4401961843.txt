@@ -1,0 +1,9 @@
+Title: Enhancing Urban Sustainability and Resilience: Employing Digital Twin Technologies for Integrated WEFE Nexus Management to Achieve SDGs
+Authors: Ali Shehadeh, Odey Alshboul, Mai Arar
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16177398
+Paper ID: https://openalex.org/W4401961843
+
+Abstract:
+This research explores the application of digital twin technologies to progress the United Nations’ Sustainable Development Goals (SDGs) within the water-energy-food-environment (WEFE) nexus management in urban refugee areas. The study in Irbid Camp utilizes a detailed 3D Revit model combined with real-time data and community insights processed through advanced machine learning algorithms. An examination of 450 qualitative interviews indicates an 80% knowledge level of water conservation practices among the community but only 35% satisfaction with the current management of resources. Predictive analytics forecast a 25% increase in water scarcity and an 18% surge in energy demand within the next ten years, prompting the deployment of sustainable solutions such as solar energy installations and enhanced rainwater collection systems. By simulating resource allocation and environmental impacts, the digital twin framework helps in planning urban development in line with SDGs 6 (Clean Water and Sanitation), 7 (Affordable and Clean Energy), 11 (Sustainable Cities and Communities), and 12 (Responsible Consumption and Production). This investigation highlights the capacity of digital twin technology to improve resource management, increase community resilience, and support sustainable urban growth, suggesting its wider implementation in comparable environments.

@@ -1,0 +1,9 @@
+Title: Photoluminescent Scaffolds Based on Natural and Synthetic Biodegradable Polymers for Bioimaging and Tissue Engineering
+Authors: Ekaterina M. Trifanova, Gulalek Babayeva, Maria A. Khvorostina, Aleksandra V. Atanova, Maria E. Nikolaeva, Anastasia V. Sochilina, Evgeny V. Khaydukov, Vladimir K. Popov
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040870
+Paper ID: pmc_PMC10141962
+
+Abstract:
+Non-invasive visualization and monitoring of tissue-engineered structures in a living organism is a challenge. One possible solution to this problem is to use upconversion nanoparticles (UCNPs) as photoluminescent nanomarkers in scaffolds. We synthesized and studied scaffolds based on natural (collagen—COL and hyaluronic acid—HA) and synthetic (polylactic-co-glycolic acids—PLGA) polymers loaded with β-NaYF 4 :Yb 3+ , Er 3+ nanocrystals (21 ± 6 nm). Histomorphological analysis of tissue response to subcutaneous implantation of the polymer scaffolds in BALB/c mice was performed. The inflammatory response of the surrounding tissues was found to be weak for scaffolds based on HA and PLGA and moderate for COL scaffolds. An epi-luminescent imaging system with 975 nm laser excitation was used for in vivo visualization and photoluminescent analysis of implanted scaffolds. We demonstrated that the UCNPs’ photoluminescent signal monotonously decreased in all the examined scaffolds, indicating their gradual biodegradation followed by the release of photoluminescent nanoparticles into the surrounding tissues. In general, the data obtained from the photoluminescent analysis correlated satisfactorily with the histomorphological analysis.

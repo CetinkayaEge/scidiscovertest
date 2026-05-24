@@ -1,0 +1,9 @@
+Title: Molecular Bridge Engineering for Tuning Quantum Electronic Transport and Anisotropy in Nanoporous Graphene
+Authors: César Moreno, Xabier Diaz de Cerio, Manuel Vilas-Varela, Maria Tenorio, Ane Sarasola, Mads Brandbyge, Diego Peña, Aran Garcia-Lekue, Aitor Mugarza
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c00173
+Paper ID: pmc_PMC10141406
+
+Abstract:
+Recent advances on surface-assisted synthesis have demonstrated that arrays of nanometer wide graphene nanoribbons can be laterally coupled with atomic precision to give rise to a highly anisotropic nanoporous graphene structure. Electronically, this graphene nanoarchitecture can be conceived as a set of weakly coupled semiconducting 1D nanochannels with electron propagation characterized by substantial interchannel quantum interferences. Here, we report the synthesis of a new nanoporous graphene structure where the interribbon electronic coupling can be controlled by the different degrees of freedom provided by phenylene bridges that couple the conducting channels. This versatility arises from the multiplicity of phenylene cross-coupling configurations, which provides a robust chemical knob, and from the interphenyl twist angle that acts as a fine-tunable knob. The twist angle is significantly altered by the interaction with the substrate, as confirmed by a combined bond-resolved scanning tunneling microscopy (STM) and ab initio analysis, and should accordingly be addressable by other external stimuli. Electron propagation simulations demonstrate the capability of either switching on/off or modulating the interribbon coupling by the corresponding use of the chemical or the conformational knob. Molecular bridges therefore emerge as efficient tools to engineer quantum transport and anisotropy in carbon-based 2D nanoarchitectures.

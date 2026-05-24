@@ -1,0 +1,9 @@
+Title: Breaking of Wavelength-Dependence in Holographic Wavefront Sensors Using Spatial-Spectral Filtering
+Authors: Nikita Stsepuro, Michael Kovalev, Evgenii Zlokazov, Sergey Kudryashov
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042038
+Paper ID: pmc_PMC9967142
+
+Abstract:
+Nowadays, wavefront sensors are widely used to control the shape of the wavefront and detect aberrations of the complex field amplitude in various fields of physics. However, almost all of the existing wavefront sensors work only with quasi-monochromatic radiation. Some of the methods and approaches applied to work with polychromatic radiation impose certain restrictions. However, the contemporary methods of computer and digital holography allow implementing a holographic wavefront sensor that operates with polychromatic radiation. This paper presents a study related to the analysis and evaluation of the error in the operation of holographic wavefront sensors with such radiation.

@@ -1,0 +1,9 @@
+Title: Threshold-Based Random Charging Scheme for Decentralized PEV Charging Operation in a Smart Grid
+Authors: Ojin Kwon, Pilkee Kim, Yong-Jin Yoon
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010039
+Paper ID: pmc_PMC5298612
+
+Abstract:
+Smart grids have been introduced to replace conventional power distribution systems without real time monitoring for accommodating the future market penetration of plug-in electric vehicles (PEVs). When a large number of PEVs require simultaneous battery charging, charging coordination techniques have become one of the most critical factors to optimize the PEV charging performance and the conventional distribution system. In this case, considerable computational complexity of a central controller and exchange of real time information among PEVs may occur. To alleviate these problems, a novel threshold-based random charging (TBRC) operation for a decentralized charging system is proposed. Using PEV charging thresholds and random access rates, the PEVs themselves can participate in the charging requests. As PEVs with a high battery state do not transmit the charging requests to the central controller, the complexity of the central controller decreases due to the reduction of the charging requests. In addition, both the charging threshold and the random access rate are statistically calculated based on the average of supply power of the PEV charging system that do not require a real time update. By using the proposed TBRC with a tolerable PEV charging degradation, a 51% reduction of the PEV charging requests is achieved.

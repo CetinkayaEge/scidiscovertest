@@ -1,0 +1,9 @@
+Title: A Two-Stage Multi-Agent EV Charging Coordination Scheme for Maximizing Grid Performance and Customer Satisfaction
+Authors: Adil Amin, Anzar Mahmood, Ahsan Raza Khan, Kamran Arshad, Khaled Assaleh, Ahmed Zoha
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062925
+Paper ID: pmc_PMC10058533
+
+Abstract:
+Advancements in technology and awareness of energy conservation and environmental protection have increased the adoption rate of electric vehicles (EVs). The rapidly increasing adoption of EVs may affect grid operation adversely. However, the increased integration of EVs, if managed appropriately, can positively impact the performance of the electrical network in terms of power losses, voltage deviations and transformer overloads. This paper presents a two-stage multi-agent-based scheme for the coordinated charging scheduling of EVs. The first stage uses particle swarm optimization (PSO) at the distribution network operator (DNO) level to determine the optimal power allocation among the participating EV aggregator agents to minimize power losses and voltage deviations, whereas the second stage at the EV aggregator agents level employs a genetic algorithm (GA) to align the charging activities to achieve customers’ charging satisfaction in terms of minimum charging cost and waiting time. The proposed method is implemented on the IEEE-33 bus network connected with low-voltage nodes. The coordinated charging plan is executed with the time of use (ToU) and real-time pricing (RTP) schemes, considering EVs’ random arrival and departure with two penetration levels. The simulations show promising results in terms of network performance and overall customer charging satisfaction.

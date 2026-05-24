@@ -1,0 +1,9 @@
+Title: Experimental visualization of the diffusion pathway of sodium ions in the Na 3 [Ti 2 P 2 O 10 F] anode for sodium-ion battery
+Authors: Zhaohui Ma, Yuesheng Wang, Chunwen Sun, J. A. Alonso, M. T. Fernández-Díaz, Liquan Chen
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep07231
+Paper ID: pmc_PMC5384114
+
+Abstract:
+Sodium-ion batteries have attracted considerable interest as an alternative to lithium-ion batteries for electric storage applications because of the low cost and natural abundance of sodium resources. The materials with an open framework are highly desired for Na-ion insertion/extraction. Here we report on the first visualization of the sodium-ion diffusion path in Na 3 [Ti 2 P 2 O 10 F] through high-temperature neutron powder diffraction experiments. The evolution of the Na-ion displacements of Na 3 [Ti 2 P 2 O 10 F] was investigated with high-temperature neutron diffraction (HTND) from room temperature to 600°C; difference Fourier maps were utilized to estimate the Na nuclear-density distribution. Temperature-driven Na displacements indicates that sodium-ion diffusion paths are established within the ab plane. As an anode for sodium-ion batteries, Na 3 [Ti 2 P 2 O 10 F] exhibits a reversible capacity of ~100 mAh g −1 with lower intercalation voltage. It also shows good cycling stability and rate capability, making it promising applications in sodium-ion batteries.

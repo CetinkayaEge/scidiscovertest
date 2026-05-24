@@ -1,0 +1,9 @@
+Title: Lipopolyplex-Mediated Co-Delivery of Doxorubicin and FAK siRNA to Enhance Therapeutic Efficiency of Treating Colorectal Cancer
+Authors: Tilahun Ayane Debele, Chi-Kang Chen, Lu-Yi Yu, Chun-Liang Lo
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020596
+Paper ID: pmc_PMC9968081
+
+Abstract:
+Tumor metastasis is a major concern in cancer therapy. In this context, focal adhesion kinase (FAK) gene overexpression, which mediates cancer cell migration and invasion, has been reported in several human tumors and is considered a potential therapeutic target. However, gene-based treatment has certain limitations, including a lack of stability and low transfection ability. In this study, a biocompatible lipopolyplex was synthesized to overcome the aforementioned limitations. First, polyplexes were prepared using poly(2-Hydroxypropyl methacrylamide- co -methylacrylate- hydrazone -pyridoxal) (P(HPMA- co -MA- hyd -VB6)) copolymers, which bore positive charges at low pH value owing to protonation of pyridoxal groups and facilitated electrostatic interactions with negatively charged FAK siRNA. These polyplexes were then encapsulated into methoxy polyethylene glycol (mPEG)-modified liposomes to form lipopolyplexes. Doxorubicin (DOX) was also loaded into lipopolyplexes for combination therapy with siRNA. Experimental results revealed that lipopolyplexes successfully released DOX at low pH to kill cancer cells and induced siRNA out of endosomes to inhibit the translation of FAK proteins. Furthermore, the efficient accumulation of lipopolyplexes in the tumors led to excellent cancer therapeutic efficacy. Overall, the synthesized lipopolyplex is a suitable nanocarrier for the co-delivery of chemotherapeutic agents and genes to treat cancers.

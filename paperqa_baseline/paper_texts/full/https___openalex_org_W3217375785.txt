@@ -1,0 +1,9 @@
+Title: Plasma bubbles: a route to sustainable chemistry
+Authors: Jungmi Hong, Tianqi Zhang, Renwu Zhou, Rusen Zhou, Kostya Ostikov, Adel Rezaeimotlagh, Patrick J. Cullen
+Year: 2021
+Venue: AAPPS bulletin
+DOI: https://doi.org/10.1007/s43673-021-00027-y
+Paper ID: https://openalex.org/W3217375785
+
+Abstract:
+Abstract Atmospheric plasma discharges are finding increased applications in addressing environmental challenges including water purification, chemical synthesis and biotechnology. An effective means of interfacing the reactivity of plasma gas discharges with liquids is needed to enhance liquid phase chemical reactions. Plasma discharges in bubbles has been considered as an innovative solution for achieving this goal potentially offering electrically driven, sustainable chemistry with low energy consumption and the unique benefit of maintaining a large volume discharge under the liquid surface. Here we provide a concise review on the state-of-art for research on plasma-bubble interactions and a perspective for future research.

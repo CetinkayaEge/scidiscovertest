@@ -1,0 +1,9 @@
+Title: Magnetic liposomes for colorectal cancer cells therapy by high-frequency magnetic field treatment
+Authors: Andri Hardiansyah, Li-Ying Huang, Ming-Chien Yang, Ting-Yu Liu, Sung-Chen Tsai, Chih-Yung Yang, Chih-Yu Kuo, Tzu-Yi Chan, Hui-Ming Zou, Wei-Nan Lian, Chi-Hung Lin
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-497
+Paper ID: pmc_PMC4169134
+
+Abstract:
+In this study, we developed the cancer treatment through the combination of chemotherapy and thermotherapy using doxorubicin-loaded magnetic liposomes. The citric acid-coated magnetic nanoparticles (CAMNP, ca. 10 nm) and doxorubicin were encapsulated into the liposome (HSPC/DSPE/cholesterol = 12.5:1:8.25) by rotary evaporation and ultrasonication process. The resultant magnetic liposomes ( ca. 90 to 130 nm) were subject to characterization including transmission electron microscopy (TEM), dynamic light scattering (DLS), X-ray diffraction (XRD), zeta potential, Fourier transform infrared (FTIR) spectrophotometer, and fluorescence microscope. In vitro cytotoxicity of the drug carrier platform was investigated through 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay using L-929 cells, as the mammalian cell model. In vitro cytotoxicity and hyperthermia (inductive heating) studies were evaluated against colorectal cancer (CT-26 cells) with high-frequency magnetic field (HFMF) exposure. MTT assay revealed that these drug carriers exhibited no cytotoxicity against L-929 cells, suggesting excellent biocompatibility. When the magnetic liposomes with 1 μM doxorubicin was used to treat CT-26 cells in combination with HFMF exposure, approximately 56% cells were killed and found to be more effective than either hyperthermia or chemotherapy treatment individually. Therefore, these results show that the synergistic effects between chemotherapy (drug-controlled release) and hyperthermia increase the capability to kill cancer cells.

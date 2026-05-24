@@ -1,0 +1,9 @@
+Title: Assessment of Mountain Tourism Sustainability Using Integrated Fuzzy MCDM Model
+Authors: Ming Xu, Chunjing Bai, Лей Ши, Adis Puška, Anđelka Štilić, Željko Stević
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151914358
+Paper ID: https://openalex.org/W4387178278
+
+Abstract:
+The sustainable development of mountain tourism is crucial for preserving the delicate ecosystems and resources found in these unique landscapes. This research paper investigates the sustainability of mountain lodges, which serve as essential facilities for delivering mountain tourism services. To assess sustainability, expert decision making involving eight selected experts was employed. A hybrid approach combining the IMF SWARA (IMproved Fuzzy Step-wise Weight Assessment Ratio Analysis) method with Fuzzy Dombi Aggregation Operators was utilized to determine the weights of various sustainability criteria. The IMF SWARA method assigned initial weights based on expert input, which were subsequently adjusted using Fuzzy Dombi Aggregation Operators. The findings highlight the significance of two key criteria as per expert evaluations: the quality of the services offered (C21) and the preservation of natural resources (C15). To rank and evaluate the mountain lodges, the fuzzy CRADIS (Compromise Ranking of Alternatives from Distance to Ideal Solution) method was employed, ultimately identifying Zabrana (ML6) as the top-ranked mountain lodge. The validity of these results was confirmed through result validation and sensitivity analysis. This research contributes by providing insights into the current state of mountain tourism and offering guidelines for enhancing the overall mountain tourism experience through the integration of fuzzy methods.

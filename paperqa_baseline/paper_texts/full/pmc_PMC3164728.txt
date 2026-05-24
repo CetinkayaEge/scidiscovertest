@@ -1,0 +1,9 @@
+Title: PP1A-Mediated Dephosphorylation Positively Regulates YAP2 Activity
+Authors: Pei Wang, Yujie Bai, Bangrong Song, Yadong Wang, Dong Liu, Yongqiang Lai, Xiaolin Bi, Zengqiang Yuan
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024288
+Paper ID: pmc_PMC3164728
+
+Abstract:
+Background The Hippo/MST1 signaling pathway plays an important role in the regulation of cell proliferation and apoptosis. As a major downstream target of the Hippo/MST1 pathway, YAP2 (Yes-associated protein 2) functions as a transcriptional cofactor that has been implicated in many biological processes, including organ size control and cancer development. MST1/Lats kinase inhibits YAP2's nuclear accumulation and transcriptional activity through inducing the phosphorylation at serine 127 and the sequential association with 14-3-3 proteins. However, the dephosphorylation of YAP2 is not fully appreciated. Methodology/Principal Findings In the present study, we demonstrate that PP1A (catalytic subunit of protein phosphatase-1) interacts with and dephosphorylates YAP2 in vitro and in vivo , and PP1A-mediated dephosphorylation induces the nuclear accumulation and transcriptional activation of YAP2. Inhibition of PP1 by okadiac acid (OA) increases the phosphorylation at serine 127 and cytoplasmic translocation of YAP2 proteins, thereby mitigating its transcription activity. PP1A expression enhances YAP2's pro-survival capability and YAP2 knockdown sensitizes ovarian cancer cells to cisplatin treatment. Conclusions/Significance Our findings define a novel molecular mechanism that YAP2 is positively regulated by PP1-mediated dephosphorylation in the cell survival.

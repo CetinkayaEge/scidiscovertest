@@ -1,0 +1,9 @@
+Title: Novel gain-tuning for sliding mode control of second-order mechanical systems: theory and experiments
+Authors: Nguyen Xuan-Mung, Ngoc Phi Nguyen, Dinh Ba Pham, Nhu-Ngoc Dao, Huu Tiep Nguyen, Thanh Ha Le Nhu Ngoc, Mai The Vu, Sung Kyung Hong
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-37562-7
+Paper ID: pmc_PMC10310757
+
+Abstract:
+The sliding mode control is well-known as a useful control technique that can be applied in several real-world applications. However, a straightforward and efficient process of selecting the sliding mode control gains remains a challenging but interesting topic. This paper investigates a novel gain tuning method for the sliding mode control of second-order mechanical systems. Firstly, we obtain relations between the gains and the natural and damping ratio of the closed-loop system. Secondly, the time constant of the system’s actuators and the system response performance criteria, including settling time and delay time, are taken into consideration to determine appropriate ranges of the gains. These gain ranges allow control designers to select the controller gains in a time-saving manner and ensure that the desired system performance is met and the actuators work properly. Finally, the proposed method is applied to the gain tuning process of a sliding mode altitude controller for an actual quadcopter unmanned aerial vehicle. Simulation and experimental results demonstrate the applicability and effectiveness of this method.

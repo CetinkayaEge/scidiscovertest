@@ -1,0 +1,9 @@
+Title: Exact solutions and bounds for network SIR and SEIR models using a rooted-tree approximation
+Authors: Cameron Luke Hall, Bram Alexander Siebert
+Year: 2023
+Venue: Journal of Mathematical Biology
+DOI: 10.1007/s00285-022-01854-9
+Paper ID: pmc_PMC9832100
+
+Abstract:
+In this paper, we develop a new node-based approximate model to describe contagion dynamics on networks. We prove that our approximate model is exact for Markovian SIR (susceptible-infectious-recovered) and SEIR (susceptible-exposed-infectious-recovered) dynamics on tree graphs with a single source of infection, and that the model otherwise gives upper bounds on the probabilities of each node being susceptible. Our analysis of SEIR contagion dynamics is general to SEIR models with arbitrarily many classes of exposed/latent state. In all cases of a tree graph with a single source of infection, our approach yields a system of linear differential equations that exactly describes the evolution of node-state probabilities; we use this to state explicit closed-form solutions for an SIR model on a tree. For more general networks, our approach yields a cooperative system of differential equations that can be used to bound the true solution.

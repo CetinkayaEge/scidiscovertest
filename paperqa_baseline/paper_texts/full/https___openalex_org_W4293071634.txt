@@ -1,0 +1,9 @@
+Title: Integrating circular economy and Industry 4.0 for sustainable supply chain management: a dynamic capability view
+Authors: Haiyan Lu, Guoqing Zhao, Shaofeng Liu
+Year: 2022
+Venue: Production Planning & Control
+DOI: https://doi.org/10.1080/09537287.2022.2063198
+Paper ID: https://openalex.org/W4293071634
+
+Abstract:
+Air pollution may be involved in spreading dengue fever (DF) besides rainfalls and warmer temperatures. While particulate matter (PM), especially those with diameter of 10 μm (PM10) or 2.5 μm or less (PM25), and NO2 increase the risk of coronavirus 2 infection, their roles in triggering DF remain unclear. We explored if air pollution factors predict DF incidence in addition to the classic climate factors. Public databases and DF records of two southern cities in Taiwan were used in regression analyses. Month order, PM10 minimum, PM2.5 minimum, and precipitation days were retained in the enter mode model, and SO2 minimum, O3 maximum, and CO minimum were retained in the stepwise forward mode model in addition to month order, PM10 minimum, PM2.5 minimum, and precipitation days. While PM2.5 minimum showed a negative contribution to the monthly DF incidence, other variables showed the opposite effects. The sustain of month order, PM10 minimum, PM2.5 minimum, and precipitation days in both regression models confirms the role of classic climate factors and illustrates a potential biological role of the air pollutants in the life cycle of mosquito vectors and dengue virus and possibly human immune status. Future DF prevention should concern the contribution of air pollution besides the classic climate factors.

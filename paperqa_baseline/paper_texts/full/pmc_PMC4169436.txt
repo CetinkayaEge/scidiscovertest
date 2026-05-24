@@ -1,0 +1,9 @@
+Title: BioSWR – Semantic Web Services Registry for Bioinformatics
+Authors: Dmitry Repchevsky, Josep Ll. Gelpi
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107889
+Paper ID: pmc_PMC4169436
+
+Abstract:
+Despite of the variety of available Web services registries specially aimed at Life Sciences, their scope is usually restricted to a limited set of well-defined types of services. While dedicated registries are generally tied to a particular format, general-purpose ones are more adherent to standards and usually rely on Web Service Definition Language (WSDL). Although WSDL is quite flexible to support common Web services types, its lack of semantic expressiveness led to various initiatives to describe Web services via ontology languages. Nevertheless, WSDL 2.0 descriptions gained a standard representation based on Web Ontology Language (OWL). BioSWR is a novel Web services registry that provides standard Resource Description Framework (RDF) based Web services descriptions along with the traditional WSDL based ones. The registry provides Web-based interface for Web services registration, querying and annotation, and is also accessible programmatically via Representational State Transfer (REST) API or using a SPARQL Protocol and RDF Query Language. BioSWR server is located at http://inb.bsc.es/BioSWR/and its code is available at https://sourceforge.net/projects/bioswr/under the LGPL license.

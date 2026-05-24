@@ -1,0 +1,9 @@
+Title: FeCo Nanoparticle-Loaded Nutshell-Derived Porous Carbon as Sustainable Catalyst in Al-Air Batteries
+Authors: Afriyanti Sumboja, Bagas Prakoso, Yuanyuan Ma, F. R. Irwan, Jayadi Jaya Hutani, Anggraeni Mulyadewi, Muhammad Adib Abdillah Mahbub, Yun Zong, Zhaolin Liu
+Year: 2021
+Venue: Energy Material Advances
+DOI: https://doi.org/10.34133/2021/7386210
+Paper ID: https://openalex.org/W3129711498
+
+Abstract:
+Developing a high-performance ORR (oxygen reduction reaction) catalyst at low cost has been a challenge for the commercialization of high-energy density and low production cost aluminium-air batteries. Herein, we report a catalyst, prepared by pyrolyzing the shell waste of peanut or pistachio, followed by concurrent nitrogen-doping and FeCo alloy nanoparticle loading. Large surface area (1246.4 m 2 g -1 ) of pistachio shell-derived carbon can be obtained by combining physical and chemical treatments of the biomass. Such a large surface area carbon eases nitrogen doping and provides more nucleation sites for FeCo alloy growth, furnishing the resultant catalyst (FeCo/N-C-Pistachio) with higher content of N, Fe, and Co with a larger electrochemically active surface area as compared to its peanut shell counterpart (FeCo/N-C-Peanut). The FeCo/N-C-Pistachio displays a promising onset potential of 0.93 V vs. RHE and a high saturating current density of 4.49 mA cm -2 , suggesting its high ORR activity. An aluminium-air battery, with FeCo/N-C-Pistachio catalyst on the cathode and coupled with a commercial aluminium 1100 anode, delivers a power density of 99.7 mW cm -2 and a stable discharge voltage at 1.37 V over 5 h of operation. This high-performance, low-cost, and environmentally sustainable electrocatalyst shows potential for large-scale adoption of aluminium-air batteries.

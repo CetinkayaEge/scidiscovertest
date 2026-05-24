@@ -1,0 +1,9 @@
+Title: Challenges to the Implementation of Building Information Modeling (BIM) for Sustainable Construction Projects
+Authors: Ahmed Farouk Kineber, Idris Othman, Ibukun Oluwadara Famakin, Ayodeji Emmanuel Oke, Mohammed Magdy Hamed, Taiwo Matthew Olayemi
+Year: 2023
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app13063426
+Paper ID: https://openalex.org/W4323565464
+
+Abstract:
+Successful concepts are adopted throughout the phases of the building lifecycle to provide maximum comfort and benefits to occupiers without compromising the function of such a project. Although there is limited information on building information modeling (BIM) execution in developing countries, BIM drivers have received significant attention from different researchers, but with a limited investigation into the influence of BIM barriers on such building projects. Our goal with this research is to identify and remove any challenges that may stand in the way of using BIM in developing country construction projects. To this end, a comprehensive literature search uncovered impediments to BIM implementation. To assess the relative importance of the numerous challenges to BIM mentioned in the literature, a survey questionnaire was distributed to a sample of specialists in the construction industry. Exploratory factor analysis (EFA) was used to classify these challenges, and partial least square structural equation modeling (PLS-SEM) was created to bring attention to the most pressing ones in the context of BIM adoption. The results of this research will inform policymakers in underdeveloped nations interested in adopting BIM on the pitfalls they should avoid.

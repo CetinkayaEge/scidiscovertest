@@ -1,0 +1,9 @@
+Title: Sustainable Investment Preferences among Robo-Advisor Clients
+Authors: Ida Ayu Agung Faradynawati, Inga‐Lill Söderberg
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912636
+Paper ID: https://openalex.org/W4304172675
+
+Abstract:
+The increasing role of individual investors in supporting the achievement of sustainable development goals through sustainable investment has gained growing interest from financial authorities and the research community. Digitalization in the financial sector, e.g., robo-advisors, enables lay-investors to make sustainable investments in a simple and convenient way. This study investigates whether investment-related attitudes and demographic profiles are related to robo-advisor clients’ sustainable investment choices. This paper describes an empirical study that uses a logistic regression model to investigate sustainable investment preferences at the individual investor level. Cross-sectional data consisting of 27,771 individual investors in Sweden, Norway, and Finland, who purchased investment products through a robo-advisor application, are used in this study. The results suggest that, concerning investment-related attitudes, robo-advisor clients with low-risk tolerance and a short investment horizon are more likely to choose to become sustainable investors. Furthermore, sustainable investments are preferred by robo-advisor clients who are less wealthy, female, and older.

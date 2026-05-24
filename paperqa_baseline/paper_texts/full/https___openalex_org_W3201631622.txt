@@ -1,0 +1,9 @@
+Title: Ten simple rules to make your computing more environmentally sustainable
+Authors: Loïc Lannelongue, Jason Grealey, Alex Bateman, Michael Inouye
+Year: 2021
+Venue: PLoS Computational Biology
+DOI: https://doi.org/10.1371/journal.pcbi.1009324
+Paper ID: https://openalex.org/W3201631622
+
+Abstract:
+We live in a world ruled by data, where a problem doesn't exist until it has been measured. There is still very

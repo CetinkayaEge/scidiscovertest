@@ -1,0 +1,9 @@
+Title: Development of serum-free and grain-derived-nutrient-free medium using microalga-derived nutrients and mammalian cell-secreted growth factors for sustainable cultured meat production
+Authors: Kumiko Yamanaka, Yuji Haraguchi, Hironobu Takahashi, Ikko Kawashima, Tatsuya Shimizu
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-27629-w
+Paper ID: https://openalex.org/W4315482325
+
+Abstract:
+Considering the amount of global resources and energy consumed, and animal welfare issues associated with traditional meat production, cultured meat production has been proposed as a solution to these problems and is attracting worldwide attention. Cultured meat is produced by culturing/proliferating animal muscle cells in vitro. This process requires significant amounts of culture medium, which accounts to a major portion of the production cost. Furthermore, it is composed of nutrients derived from grains and heterotrophic microorganisms and fetal bovine serum (FBS), which will impact the sustainability of cultured meat in future. Here, we developed a novel medium containing nutrients extracted from microalga and cell-secreted growth factors. First, rat liver epithelial RL34 cells were cultured by adding Chlorella vulgaris extract (CVE) to inorganic salt solution. The supernatant, containing the RL34 cell-secreted growth factors, was used as the conditioned medium (CM). This CM, with CVE added as a nutrient source, was applied to primary bovine myoblast cultures. This serum-free and grain-derived-nutrient-free medium promoted the proliferation of bovine myoblasts, the main cell source for cultured beef. Our findings will allow us to take a major step toward reducing production costs and environmental impacts, leading to an expansion of the cultured meat market.

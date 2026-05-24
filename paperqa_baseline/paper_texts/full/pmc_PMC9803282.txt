@@ -1,0 +1,9 @@
+Title: Warning and active steering rollover prevention control for agricultural wheeled tractor
+Authors: Jie Gao, Chengqiang Yin, Guanhao Yuan
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0280021
+Paper ID: pmc_PMC9803282
+
+Abstract:
+Tractor rollover is regarded as the most fatal incident in agricultural production, but some of which can be avoided by timely anti-rollover warning and active control. There have been a lot of researches on the tractor rollover model building and rollover protective structure designing but few on the anti-rollover control. The purpose of this study is to develop a cheaper and practical anti-rollover control system based on active steering technique and to prove the efficiency of the proposed scheme for the wheeled tractors. A three-degree-of-freedom rollover dynamics model including automatic steering system is established. A control scheme by adjusting the roll angle to keep the stability based on the adaptive sliding mode control is proposed with the estimated lateral velocity according to the feedback correction principle. Front wheel angle tracking controller is designed adopting internal model control (IMC) theory. Simulation results exhibit that the active anti-rollover control can calculate the stability index in real time and can keep it within the stable range by adjusting the front steering wheel angle. It is prospective for the proposed scheme to provide a valuable reference to reduce tractor rollover accidents.

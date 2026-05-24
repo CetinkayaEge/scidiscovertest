@@ -1,0 +1,9 @@
+Title: Hunting Network Anomalies in a Railway Axle Counter System
+Authors: Karel Kuchar, Eva Holasova, Ondrej Pospisil, Henri Ruotsalainen, Radek Fujdiak, Adrian Wagner
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063122
+Paper ID: pmc_PMC10052167
+
+Abstract:
+This paper presents a comprehensive investigation of machine learning-based intrusion detection methods to reveal cyber attacks in railway axle counting networks. In contrast to the state-of-the-art works, our experimental results are validated with testbed-based real-world axle counting components. Furthermore, we aimed to detect targeted attacks on axle counting systems, which have higher impacts than conventional network attacks. We present a comprehensive investigation of machine learning-based intrusion detection methods to reveal cyber attacks in railway axle counting networks. According to our findings, the proposed machine learning-based models were able to categorize six different network states (normal and under attack). The overall accuracy of the initial models was ca. 70–100% for the test data set in laboratory conditions. In operational conditions, the accuracy decreased to under 50%. To increase the accuracy, we introduce a novel input data-preprocessing method with the denoted gamma parameter. This increased the accuracy of the deep neural network model to 69.52% for six labels, 85.11% for five labels, and 92.02% for two labels. The gamma parameter also removed the dependence on the time series, enabled relevant classification of data in the real network, and increased the accuracy of the model in real operations. This parameter is influenced by simulated attacks and, thus, allows the classification of traffic into specified classes.

@@ -1,0 +1,9 @@
+Title: Optimal control of TGF- β to prevent formation of pulmonary fibrosis
+Authors: Fateme Bahram Yazdroudi, Alaeddin Malek
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279449
+Paper ID: pmc_PMC9803315
+
+Abstract:
+In this paper, three optimal control problems are proposed to prevent forming lung fibrosis while control is transforming growth factor- β (TGF- β ) in the myofibroblast diffusion process. Two diffusion equations for fibroblast and myofibroblast are mathematically formulated as the system’s dynamic, while different optimal control model problems are proposed to find the optimal TGF- β . During solving the first optimal control problem with the regulator objection function, it is understood that the control function gets unexpected negative values. Thus, in the second optimal control problem, for the control function, the non-negative constraint is imposed. This problem is solved successfully using the extended canonical Hamiltonian equations with no flux boundary conditions. Pontryagin’s minimum principle is used to solve the related optimal control problems successfully. In the third optimal control problem, the fibroblast equation is added to a dynamic system consisting of the partial differential equation. The two-dimensional diffusion equations for fibroblast and myofibroblast are transferred to a system of ordinary differential equations using the central finite differences explicit method. Three theorems and two propositions are proved using extended Pontryagin’s minimum principle and the extended Hamiltonian equations. Numerical results are given. We believe that this optimal strategy can help practitioners apply some medication to reduce the TGF- β in preventing the formation of pulmonary fibrosis.

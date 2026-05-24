@@ -1,0 +1,9 @@
+Title: A comprehensive review of bioleaching optimization by statistical approaches: recycling mechanisms, factors affecting, challenges, and sustainability
+Authors: Tannaz Naseri, Vahid Beiki, Seyyed Mohammad Mousavi, Sébastien Farnaud
+Year: 2023
+Venue: RSC Advances
+DOI: https://doi.org/10.1039/d3ra03498d
+Paper ID: https://openalex.org/W4385640989
+
+Abstract:
+A serious environmental problem is associated with the accumulation of solid waste on the Earth. Researchers are encouraged to find an efficient and sustainable method to recover highly profitable heavy metals and precious and base metals. Bioleaching is a green method of recovering valuable metals from solid waste. Optimizing the variables and conditions of the bioleaching process is crucial to achieving maximum metal recovery most cost-effectively. The conventional optimization method (one factor at a time) is well-studied. However, it has some drawbacks, such as the necessity of more experiments, the need to spend more time, and the inability to illuminate the synergistic effect of the variables. Optimization studies are increasingly utilizing response surface methodology (RSM) because it provides details about the interaction effects of variables with fewer experiments. This review discusses the application of RSM for bioleaching experiments from other solid wastes. It discusses the Central Composite and Box-Behnken designs as the most commonly used designs for optimizing bioleaching methods. The most influential factors for increasing the heavy metal recovery rate in applying RSM using the bioleaching process are recognized, and some suggestions are made for future research.

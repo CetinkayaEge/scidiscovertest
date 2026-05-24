@@ -1,0 +1,9 @@
+Title: Nanoflowers on Microporous Graphene Electrodes as a Highly Sensitive and Low-Cost As(III) Electrochemical Sensor for Water Quality Monitoring
+Authors: Mahatthanah Kosuvun, Pobporn Danvirutai, Daranee Hormdee, Arnut Chaosakul, Visanu Tanboonchuy, Apirat Siritaratiwat, Sirirat Anutrakulchai, Amod Sharma, Adisorn Tuantranont, Chavis Srichan
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063099
+Paper ID: pmc_PMC10053495
+
+Abstract:
+In this work, we report a low-cost and highly sensitive electrochemical sensor for detecting As(III) in water. The sensor uses a 3D microporous graphene electrode with nanoflowers, which enriches the reactive surface area and thus enhances its sensitivity. The detection range achieved was 1–50 ppb, meeting the US-EPA cutoff criteria of 10 ppb. The sensor works by trapping As(III) ions using the interlayer dipole between Ni and graphene, reducing As(III), and transferring electrons to the nanoflowers. The nanoflowers then exchange charges with the graphene layer, producing a measurable current. Interference by other ions, such as Pb(II) and Cd(II), was found to be negligible. The proposed method has potential for use as a portable field sensor for monitoring water quality to control hazardous As(III) in human life.

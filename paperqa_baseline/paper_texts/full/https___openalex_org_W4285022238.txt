@@ -1,0 +1,9 @@
+Title: SDG-11: Sustainable Cities and Communities
+Authors: Sinan Küfeoğlu
+Year: 2022
+Venue: Sustainable development goals series
+DOI: https://doi.org/10.1007/978-3-031-07127-0_13
+Paper ID: https://openalex.org/W4285022238
+
+Abstract:
+Abstract City governance is vital for sustainable development goals and resource management and allocation as well as urban climate-related initiatives, as it is estimated that more people will reside in the urban areas in further years. As more people migrate to cities, the world steadily becomes more urbanised. The population of the cities accounts for 55% of the total population, and cities generate 85% of global gross domestic product and emit 75% of greenhouse gas emissions. SDG-11, Sustainable Cities and Communities, aims to ensure inclusive, safe, resilient, sustainable urban and human settlements by providing inexpensive transit solutions, decreasing urban sprawl, enhancing urban governance involvement, improving the protection of cultural assets and addressing urban resilience and climate change issues. This chapter presents the business models of 50 companies and use cases that employ emerging technologies and create value in SDG-11. We should highlight that one use case can be related to more than one SDG and it can make use of multiple emerging technologies.

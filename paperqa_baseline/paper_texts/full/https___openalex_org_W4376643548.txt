@@ -1,0 +1,9 @@
+Title: Toward Sustainable All Solid‐State Li–Metal Batteries: Perspectives on Battery Technology and Recycling Processes
+Authors: Xiaoxue Wu, Guanjun Ji, Junxiong Wang, Guangmin Zhou, Zheng Liang
+Year: 2023
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202301540
+Paper ID: https://openalex.org/W4376643548
+
+Abstract:
+Lithium (Li)-based batteries are gradually evolving from the liquid to the solid state in terms of safety and energy density, where all solid-state Li-metal batteries (ASSLMBs) are considered the most promising candidates. This is demonstrated by the Bluecar electric vehicle produced by the Bolloré Group, which is utilized in car-sharing services in several cities worldwide. Despite impressive progress in the development of ASSLMBs, their avenues for recycling them remain underexplored, and combined with the current explosion of spent Li-ion batteries, they should attract widespread interest from academia and industry. Here, the potential challenges of recycling ASSLMBs as compared to Li-ion batteries are analyzed and the current progress and prospects for recycling ASSLMBs are summarized and analyzed. Drawing on the lessons learned from Li-ion battery recycling, it is important to design sustainable recycling technologies before ASSLMBs gain widespread market adoption. A battery-recycling-oriented design is also highlighted for ASSLMBs to promote the recycling rate and maximize profitability. Finally, future research directions, challenges, and prospects are outlined to provide strategies for achieving sustainable development of ASSLMBs.

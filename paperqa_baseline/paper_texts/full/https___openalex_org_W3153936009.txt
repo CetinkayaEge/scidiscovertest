@@ -1,0 +1,9 @@
+Title: Building Information Modeling as an Effective Process for the Sustainable Re-Shaping of the Built Environment
+Authors: Cecilia Mazzoli, Marco Iannantuono, Vieri Giannakopoulos, Anastasia Fotopoulou, Annarita Ferrante, Simone Garagnani
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094658
+Paper ID: https://openalex.org/W3153936009
+
+Abstract:
+This paper focuses on the definition of a method supported by digital processes for a sustainable and user-orientated re-design of the existing building stock. Based on the analysis of the methodological and procedural aspects of the computational approach to architectural design in relation to different performance conditions, the research addresses the adoption of Building Information Modeling (BIM), intended as a powerful method for coordinating the complexity of the multiple, interdisciplinary and conflicting aspects involved in the rehabilitation of buildings. In addition to the advantages in terms of control and management, the BIM process has proven its effectiveness in tackling the issue of sustainability, allowing all actors involved in the research to share information and pro-actively control various outcomes of a building’s performance, such as energy and environmental quality. To show the opportunities and limitations of the digital management in information-based processes, the activities carried out in the framework of the European Horizon 2020 project “Pro-GET-onE—Proactive synergy of inteGrated Efficient Technologies on buildings’ Envelopes” are reported. The research, based on a case study method, which is applied to a student residence in Athens, demonstrates that BIM possesses great potentialities for developing effective and efficient construction and renovation processes toward buildings with high quality standards.

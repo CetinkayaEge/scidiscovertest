@@ -1,0 +1,9 @@
+Title: Influence of pressure on a dysprosocenium single-molecule magnet † ‡
+Authors: Vijay S. Parmar, Andreas M. Thiel, Rizwan Nabi, Gemma K. Gransbury, Marie S. Norre, Peter Evans, Sophie C. Corner, Jonathan M. Skelton, Nicholas F. Chilton, David P. Mills, Jacob Overgaard
+Year: 2023
+Venue: Chemical Communications (Cambridge, England)
+DOI: 10.1039/d2cc06722f
+Paper ID: pmc_PMC9972519
+
+Abstract:
+The effects of external pressure on a high-performing dysprosocenium single-molecule magnet are investigated using a combination of X-ray diffraction, magnetometry and theoretical calculations. The effective energy barrier ( U eff ) decreases from ca. 1300 cm −1 at ambient pressure to ca. 1125 cm −1 at 3 GPa. Our results indicate that compression < 1.2 GPa has a negligible effect on the Orbach process, but magnetic relaxation > 1 GPa increases via Raman relaxation and/or quantum tunnelling of magnetisation. The effects of high-pressure on the structural and magnetic properties of the dysprosocenium cation are analyzed. Combined with periodic calculations, correlations between structural deformations and magnetic relaxation characteristics are obtained.

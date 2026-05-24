@@ -1,0 +1,9 @@
+Title: Reliability Approaches Affecting the Sustainability of Concrete Structures
+Authors: Milan Holický, Miroslav Sýkora
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052627
+Paper ID: https://openalex.org/W3133687103
+
+Abstract:
+The most important reliability approaches affecting sustainability in construction consist of the target reliability levels, verification methods, and construction or intervention procedures. The optimum target reliability levels can be specified based on probabilistic optimisation considering sustainability aspects including building costs, expected economic, social, and environmental consequences of construction, and possible failures. It appears that the derived reliability levels are strongly dependent on sustainability aspects and may be lower for the assessment of existing structures than for the design of new structures. The most efficient verification methods are based on advanced probabilistic approaches, including risk assessment methods considering actual properties of the structure and related failure consequences. It has been shown that sustainability in construction may be significantly affected by the design and assessment methods. The case study demonstrates that advanced reliability approaches commonly save 10–20% of the consumption of structural materials and natural resources.

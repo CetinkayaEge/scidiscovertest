@@ -1,0 +1,9 @@
+Title: Ras2 Is Responsible for the Environmental Responses, Melanin Metabolism, and Virulence of Botrytis cinerea
+Authors: Hua Li, Xuemei Shen, Wenjia Wu, Wanyu Zhang, Yousheng Wang
+Year: 2023
+Venue: Journal of Fungi
+DOI: 10.3390/jof9040432
+Paper ID: pmc_PMC10142356
+
+Abstract:
+Ras proteins are monomeric G proteins that are ubiquitous in fungal cells and play important roles in fungal growth, virulence, and environmental responses. Botrytis cinerea is a phytopathogenic fungus that infects various crops. However, under specific environmental conditions, the overripe grapes infected by B. cinerea can be used to brew valuable noble rot wine. As a Ras protein, the role of Bcras2 in the environmental responses of B. cinerea is poorly understood. In this study, we deleted the Bcras2 gene using homologous recombination and examined its functions. Downstream genes regulated by Bcras2 were explored using RNA sequencing transcriptomics. It was found that Δ Bcras2 deletion mutants showed significantly reduced growth rate, increased sclerotia production, decreased resistance to oxidative stress, and enhanced resistance to cell wall stress. Additionally, Bcras2 deletion promoted the expression of melanin-related genes in sclerotia and decreased the expression of melanin-related genes in conidia. The above results indicate that Bcras2 positively regulates growth, oxidative stress resistance, and conidial melanin-related genes expression, and negatively regulates sclerotia production, cell wall stress resistance and sclerotial melanin-related genes expression. These results revealed previously unknown functions of Bcras2 in environmental responses and melanin metabolism in B. cinerea .

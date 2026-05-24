@@ -1,0 +1,9 @@
+Title: Flexible carbon nanotube/mono-crystalline Si thin-film solar cells
+Authors: Huanhuan Sun, Jinquan Wei, Yi Jia, Xian Cui, Kunlin Wang, Dehai Wu
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-514
+Paper ID: pmc_PMC4174534
+
+Abstract:
+Flexible heterojunction solar cells were fabricated from carbon nanotubes (CNTs) and mono-crystalline Si thin films at room temperature. The Si thin films with thickness less than 50 μm are prepared by chemically etching Si wafer in a KOH solution. The initial efficiency of the thin-film solar cell varies from approximately 3% to 5%. After doping with a few drops of 1 M HNO 3 , the efficiency increases to 6% with a short-circuit current density of 16.8 mA/cm 2 and a fill factor of 71.5%. The performance of the solar cells depends on the surface state and thickness of Si thin films, as well as the interface of CNT/Si. The flexible CNT/Si thin-film solar cells exhibit good stability in bending-recovery cycles.

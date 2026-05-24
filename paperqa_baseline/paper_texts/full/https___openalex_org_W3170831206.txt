@@ -1,0 +1,9 @@
+Title: Sustainable, Decentralized Sanitation and Reuse with Hybrid Nature-Based Systems
+Authors: Andrea G. Capodaglio, Silvia Bolognesi, Daniele Cecconet
+Year: 2021
+Venue: Water
+DOI: https://doi.org/10.3390/w13111583
+Paper ID: https://openalex.org/W3170831206
+
+Abstract:
+Nature (ecosystem) based processes for wastewater treatment include constructed wetlands (CWs), waste stabilization ponds, vegetated drainage ditches, buffer zones, instream or bankside river techniques, and mixotrophic systems, where light and CO2 are utilized, in addition to organic carbon compounds, by algal cultures. Algae-based systems can simultaneously remove organic matter, N, and P and may offer substantial energetic advantages compared to traditional biological treatment systems, require small spatial footprint, and contribute to biofuels production and CO2 emissions mitigation. Bioelectrochemical systems (BES) such as microbial fuel cells (MFCs) present characteristics compatible with the use in isolated realities for water and wastewater treatment with contextual energy recovery and may be combined with other nature-based process technologies to achieve good treatment and energy efficiencies. Despite that their application in real-scale plants has not been assessed yet, the most probable outcome will be the in situ/on site treatment (or pretreatment) of wastes for small “in house” plants not connected to the sewerage network. This paper focuses on the current practices and perspectives of hybrid nature-based systems, such as constructed wetlands and microalgae integrated phytoremediation plants, and their possible integration with microbial electrochemical technologies to increase recovery possibilities from wastes and positively contribute to a green economy approach.

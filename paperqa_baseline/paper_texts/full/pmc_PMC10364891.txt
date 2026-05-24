@@ -1,0 +1,9 @@
+Title: Volume–outcome relationships in open and endovascular repair of abdominal aortic aneurysm: administrative data 2006–2018
+Authors: T Tong, A Aber, J Chilcott, P Thokala, S J Walters, R Maheswaran, S Nawaz, S Thomas, J Michaels
+Year: 2021
+Venue: The British Journal of Surgery
+DOI: 10.1002/bjs.11919
+Paper ID: pmc_PMC10364891
+
+Abstract:
+Abstract Background The aim of this study was to use recent evidence to investigate and update volume–outcome relationships after open surgical repair (OSR) and endovascular repair (EVAR) of abdominal aortic aneurysm in England. Methods Hospital Episode Statistics (HES) data from April 2006 to March 2018 were obtained. The primary outcome was in‐hospital death. Other outcomes included duration of hospital stay, readmissions within 30 days, and critical care requirements. Case‐mix adjustment included age, sex, HES year, deprivation index, weekend admission, mode of admission, type of procedure and co‐morbidities. Results Annual volume of all repairs combined appeared to be an appropriate measure of volume. After case‐mix adjustment, a significant relationship between volume and in‐hospital mortality was seen for OSR ( P < 0·001) but not for EVAR ( P = 0·169 for emergency and P = 0·363 for elective). The effect appeared to extend beyond 60 repairs per year to volumes above 100 repairs per year. There was no significant relationship between volume and duration of hospital stay or 30‐day readmissions. In patients receiving emergency OSR, higher volume was associated with longer stay in critical care. Conclusion Higher annual all‐procedure volumes were associated with significantly lower in‐hospital mortality for OSR, but such a relationship was not significant for EVAR. There was not enough evidence for a volume effect on other outcomes.

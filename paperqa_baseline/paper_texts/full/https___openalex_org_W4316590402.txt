@@ -1,0 +1,9 @@
+Title: Resilient and sustainable supplier selection: an integration of SCOR 4.0 and machine learning approach
+Authors: Md Muzahid Khan, Imranul Bashar, Golam Morshed Minhaj, Absar Ishraq Wasi, Niamat Ullah Ibne Hossain
+Year: 2023
+Venue: Sustainable and Resilient Infrastructure
+DOI: https://doi.org/10.1080/23789689.2023.2165782
+Paper ID: https://openalex.org/W4316590402
+
+Abstract:
+The purpose of this research paper is to implement a machine learning model with the integration of the supply chain occupational reference (SCOR) model to develop an artificial intelligence-based system for resilient and sustainable supplier selection for a pharmaceutical company. Initially, the SCOR 4.0 model with the integration of Best Worst Method (BWM) has been used to develop the framework of customer satisfaction and to identify the critical elements of the suppliers. Later, the gradient boosting machine learning model has been implemented to classify the supplier as well as rank the suppliers from best to worst based on the acceptability score. The result shows that the gradient boosting algorithm performs well as a classifier, where the supplier with the most acceptability score represents the best supplier and the supplier with the least acceptability score represents the worst supplier. This study contributes to our understanding of how and when integrated SCOR and machine learning models can help improve supplier selection.

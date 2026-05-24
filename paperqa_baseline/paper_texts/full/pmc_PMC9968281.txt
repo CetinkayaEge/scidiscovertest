@@ -1,0 +1,9 @@
+Title: Slack-based tunable damping leads to a trade-off between robustness and efficiency in legged locomotion
+Authors: An Mo, Fabio Izzi, Emre Cemal Gönen, Daniel Haeufle, Alexander Badri-Spröwitz
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30318-3
+Paper ID: pmc_PMC9968281
+
+Abstract:
+Animals run robustly in diverse terrain. This locomotion robustness is puzzling because axon conduction velocity is limited to a few tens of meters per second. If reflex loops deliver sensory information with significant delays, one would expect a destabilizing effect on sensorimotor control. Hence, an alternative explanation describes a hierarchical structure of low-level adaptive mechanics and high-level sensorimotor control to help mitigate the effects of transmission delays. Motivated by the concept of an adaptive mechanism triggering an immediate response, we developed a tunable physical damper system. Our mechanism combines a tendon with adjustable slackness connected to a physical damper. The slack damper allows adjustment of damping force, onset timing, effective stroke, and energy dissipation. We characterize the slack damper mechanism mounted to a legged robot controlled in open-loop mode. The robot hops vertically and planarly over varying terrains and perturbations. During forward hopping, slack-based damping improves faster perturbation recovery (up to 170%) at higher energetic cost (27%). The tunable slack mechanism auto-engages the damper during perturbations, leading to a perturbation-trigger damping, improving robustness at a minimum energetic cost. With the results from the slack damper mechanism, we propose a new functional interpretation of animals’ redundant muscle tendons as tunable dampers.

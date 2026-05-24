@@ -1,0 +1,9 @@
+Title: Effect of Computer Assisted Audit Tools on Corporate Sustainability
+Authors: António Samagaio, Tiago Rodrigo Diogo
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14020705
+Paper ID: https://openalex.org/W4206842555
+
+Abstract:
+The literature is fertile in studies that examine the determinants of internal and external auditors’ adoption of computer-assisted audit tools and techniques (CAATs), often ignoring their practical effects on audit quality and organizational performance. This study provides novel evidence on the type of CAATs used by internal auditors, tests the effect of their adoption on corporate sustainability, and explores the moderating effect of organizational characteristics. In this paper, we used data from Portuguese internal auditors collected through a survey, whose research hypotheses were analyzed by the partial least squares–structural equation modeling technique. We found that internal auditors use CAATs moderately in the exercise of their tasks. The results of our study show that there is a strong and positive effect of the use of CAATs by internal auditors on fraud detection in the purchase-to-pay business process, and that the intensity of this relationship is not influenced by the type and size of the entity. This study complements previous research and provides support to practitioners’ decisions that can boost the use of CAATs in internal auditing to make organizations more sustainable.

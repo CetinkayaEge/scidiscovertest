@@ -1,0 +1,9 @@
+Title: Sustainable cooling strategies to reduce tool wear, power consumption and surface roughness during ultrasonic assisted turning of Ti-6Al-4V
+Authors: Jay Airao, Chandrakant K. Nirala, Rachele Bertolini, Grzegorz Królczyk, Navneet Khanna
+Year: 2022
+Venue: Tribology International
+DOI: https://doi.org/10.1016/j.triboint.2022.107494
+Paper ID: https://openalex.org/W4212904924
+
+Abstract:
+Issues related to the machinability of difficult-to-machine materials such as Titanium and Nickel base superalloys are well explicated in the literature. In this regard, a novel study, applying ultrasonic vibration along with MQL and LCO2, is proposed to enhance the machinability of Ti-6Al-4V. In this regard, this article attempts to analyze machinability of Ti-6Al-4V in conventional and Ultrasonic Assisted Turning (UAT) under dry, wet, MQL and LCO2. The experiments are performed on an in-house developed ultrasonic assisted turning setup, keeping all the machining parameters constant. The main tool wear mechanisms observed are diffusion, adhesion, abrasion, and built-up edge formation in both cutting strategies. Moreover, the LCO2 and ultrasonic vibration significantly reduce specific cutting energy without compromising the surface roughness and tool life. Ultimately, the LCO2, along with ultrasonic assisted turning, promotes sustainability in the machining of Ti-6Al-4V.

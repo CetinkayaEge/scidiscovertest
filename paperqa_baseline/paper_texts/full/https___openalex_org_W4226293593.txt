@@ -1,0 +1,9 @@
+Title: Sustainable supply chain finance through digital platforms: a pathway to green entrepreneurship
+Authors: Raziyeh Reza‐Gharehbagh, Sobhan Asian, Ashkan Hafezalkotob, Ahmad Makui
+Year: 2022
+Venue: Annals of Operations Research
+DOI: https://doi.org/10.1007/s10479-022-04623-5
+Paper ID: https://openalex.org/W4226293593
+
+Abstract:
+Abstract This paper studies the green new product development (GNPD) problem of a risk-averse capital constrained supply chain (SC). The SC is managed by an SME entrepreneur, seeking financial support from a multi-sided FinTech platform (MSP) to develop a portfolio of green and non-green products. The MSP offers the SC a combination of equity financing (EF) and debt financing (DF) facilities and must decide on the interest rate of its DF facility. Using a benchmark model, we first characterize the SC’s production and the MSP’s financing decisions under a deregulated scenario. Focusing on an alternative case with government intervention (i.e., hybrid environmental-green entrepreneurship policy), we next develop a three-level game theoretical model and sequentially characterize the decision-making behavior of government, MSP, and SC. The model outcomes are analyzed by considering the policy approach (i.e., economic influence vs. social welfare) and the platform’s risk attitude. The results reveal that, when coupled with an appropriate government intervention policy, a regulated scenario leads to a better outcome, particularly when the MSP is risk-neutral and strikes a right balance between the EF and DF. The win–win situation may not be realized when the MSP is risk-averse and the host government is merely focused on its economic influence. To successfully promote sustainable supply chain finance (SSCF) through digital platforms, policy makers are urged to leverage their legislative power and prioritize green entrepreneurship and social welfare over their financial maximization agenda.

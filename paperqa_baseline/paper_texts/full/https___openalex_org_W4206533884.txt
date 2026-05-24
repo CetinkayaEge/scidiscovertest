@@ -1,0 +1,9 @@
+Title: Sustainable process synthesis, design, and analysis: Challenges and opportunities
+Authors: Mariano Martı́n, Rafiqul Gani, Iqbal M. Mujtaba
+Year: 2022
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2022.01.002
+Paper ID: https://openalex.org/W4206533884
+
+Abstract:
+In this perspective paper, we present challenges and opportunities that the chemical, biochemical and related industries pose to the process system engineering community to help deliver reliable and novel sustainable alternatives. More specifically, we highlight the need for a systems approach where model-based sustainable process synthesis, design, and analysis serve as opportunities to tackle the challenges. Three technology areas (interlinked to each other) that impact the sustainability of earth, namely, chemical processes linked with CO2 capture and utilization, biorefineries and water desalination are selected to highlight our views as well as the need for further development of computer-aided tools to efficiently solve the large and complex mathematical systems the problems represent. Analysis of these problems and their reported solutions indicate that opportunity exists for development of a new class of model-based methods and tools and their integration with the currently available ones to obtain the desired sustainability development goals.

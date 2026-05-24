@@ -1,0 +1,9 @@
+Title: SOLVx therapeutics vaccine – Activate T-cell immunity using broad surveillance epitope strategy against mutant strains SARS-COV2
+Authors: Md Shamsuddin Sultan Khan, John A. Catanzaro
+Year: 2022
+Venue: Biomedicine & Pharmacotherapy
+DOI: 10.1016/j.biopha.2022.113212
+Paper ID: pmc_PMC9149046
+
+Abstract:
+Highly mutable Coronavirus-19 continuously reconstructs its genome and renders prophylactic vaccines ineffective. The objective of the present study was to demonstrate the anti-viral efficacy and safety of the SOLVx therapeutics vaccine. The peptides were designed with Neo7Logix R&D and synthesized with Genescript GLP laboratory with 95 % purity. BALB/C mice were used to develop the HCoV-229E mutant coronavirus model and viral mRNA confirmation in the lung tissue was assessed with qPCR. Mice were euthanized and effects of treatment on various parameters (Viral mRNA in lungs, cytokine levels, PBMC differentiation, hematological and biochemical) were assessed with respective biological samples. Immuno-typing analysis of PBMCs by flowcytometry showed marked increase in T cell subsets, % of B cells and NK cell population in mice treated with SOLVx (Series 1) in a dose dependent manner. Serum immunoglobulin G, and M levels were increased significantly (P < 0.001). In the peptide treatment groups, there was a dose dependent statistically significant decrease in IL-6, IL-10 and TNF-α levels (P < 0.001). IFN-γ was elevated in treatment group significantly (P < 0.001). In conclusion, the qPCR results suggested that the SOLVx vaccine (Series 1) reduced the SARS-COV2 virus infectivity in a dose dependent manner. The humoral, cellular and functional activity of the SOLVx showed that it worked through multi-mechanistic targeting the virus evolution, offering immune response, defense and eradication of the SARS-COV2 virus.

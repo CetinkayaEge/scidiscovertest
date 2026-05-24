@@ -1,0 +1,9 @@
+Title: Green synthesis of hyaluronic acid coated, thiolated chitosan nanoparticles for CD44 targeted delivery and sustained release of Cisplatin in cervical carcinoma
+Authors: Kousain Kousar, Faiza Naseer, Maisa Siddiq Abduh, Salik Javed Kakar, Rabia Gul, Sadia Anjum, Tahir Ahmad
+Year: 2023
+Venue: Frontiers in Pharmacology
+DOI: https://doi.org/10.3389/fphar.2022.1073004
+Paper ID: https://openalex.org/W4315782198
+
+Abstract:
+analysis on cervical cancer cells HeLa and normal cervical epithelial cells HCK1T was done through cell morphology analysis, trypan blue assay (concentration range of 10-80 μg/ml), and MTT cytotoxic assay (concentration range of 10-90 μg/ml). The results showed a higher cytotoxic potential of HA coated, thiolated chitosan encapsulated Cisplatin (HA-ThCs-Cis NP) nanoformulation as compared to pure Cisplatin in HeLa while in HCK1T, pure Cisplatin showed much higher toxicity as compared to HA-ThCs-Cis nanoformulation. These findings suggest that CD44 targeted delivery system can be a useful approach to minimize offtarget toxicities, give sustained release and better cellular uptake in cancer cells.

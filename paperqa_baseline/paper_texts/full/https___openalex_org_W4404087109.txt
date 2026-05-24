@@ -1,0 +1,9 @@
+Title: Energetic and durable all-polymer aqueous battery for sustainable, flexible power
+Authors: Yang Hong, Kangkang Jia, Yueyu Zhang, Ziyuan Li, Junlin Jia, Jing Chen, Qimin Liang, Huarui Sun, Qiang Gao, Dong Zhou, Ruhong Li, Xiaoli Dong, Xiulin Fan, Sisi He
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-53804-2
+Paper ID: https://openalex.org/W4404087109
+
+Abstract:
+All-polymer aqueous batteries, featuring electrodes and electrolytes made entirely from polymers, advance wearable electronics through their processing ease, inherent safety, and sustainability. Challenges persist with the instability of polymer electrode redox products in aqueous environments, which fail to achieve high performance in all-polymer aqueous batteries. Here, we report a polymer-aqueous electrolyte designed to stabilize polymer electrode redox products by modulating the solvation layers and forming a solid-electrolyte interphase. Polyaniline is selected as an example for its dual functionality as a cathode or anode working by p/n doping mechanisms. This approach pioneers the application of polyaniline as an anode and enhances the high-voltage stability of polyaniline cathode in an aqueous electrolyte. The resulting all-polymer aqueous sodium-ion battery with polyaniline as symmetric electrodes exhibits a high capacity of 139 mAh/g, energy density of 153 Wh/kg, and a retention of over 92% after 4800 cycles. Spectroscopic characterizations have elucidated the hydration structure, solid-electrolyte interphase, and dual-ion doping mechanism. Large-scale all-polymer flexible batteries are fabricated with excellent flexibility and recyclability, heralding a paradigmatic approach to sustainable, wearable energy storage.

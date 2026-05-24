@@ -1,0 +1,9 @@
+Title: Structural Loopholes in Sustainability-Linked Bonds
+Authors: Imtiaz Ul Haq, Djénéba Doumbia
+Year: 2022
+Venue: World Bank, Washington, DC eBooks
+DOI: https://doi.org/10.1596/1813-9450-10200
+Paper ID: https://openalex.org/W4312724230
+
+Abstract:
+Sustainability-Linked Bonds—an innovative debt product that incorporates incentivized sustainability targets—are becoming increasingly popular to encourage issuers to improve their sustainability performance. However, existing Sustainability-Linked Bond structures allow issuers to weaken the link between sustainability and financial outcomes, rendering Sustainability-Linked Bonds less effective. This paper examines two potential structural loopholes on this front: late target dates and call options. The results show that Sustainability-Linked Bonds with coupon step-up penalties, which constitute the majority and benefit most from such features, are more likely to have later target dates and call options embedded. Larger penalties are associated with a greater likelihood of late target dates but not call options, which instead tend to be favored primarily by speculative grade issuers. The paper also provides evidence that issuers with high carbon dioxide emissions are more likely to resort to such structural loopholes. These findings suggest that Sustainability-Linked Bonds, despite incentivized targets, may be prone to greenwashing.

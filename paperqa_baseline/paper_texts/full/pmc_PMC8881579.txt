@@ -1,0 +1,9 @@
+Title: Phosphoproteomic profiling of T cell acute lymphoblastic leukemia reveals targetable kinases and combination treatment strategies
+Authors: Valentina Cordo’, Mariska T. Meijer, Rico Hagelaar, Richard R. de Goeij-de Haas, Vera M. Poort, Alex A. Henneman, Sander R. Piersma, Thang V. Pham, Koichi Oshima, Adolfo A. Ferrando, Guido J. R. Zaman, Connie R. Jimenez, Jules P. P. Meijerink
+Year: 2022
+Venue: Nature Communications
+DOI: 10.1038/s41467-022-28682-1
+Paper ID: pmc_PMC8881579
+
+Abstract:
+Protein kinase inhibitors are amongst the most successful cancer treatments, but targetable kinases activated by genomic abnormalities are rare in T cell acute lymphoblastic leukemia. Nevertheless, kinases can be activated in the absence of genetic defects. Thus, phosphoproteomics can provide information on pathway activation and signaling networks that offer opportunities for targeted therapy. Here, we describe a mass spectrometry-based global phosphoproteomic profiling of 11 T cell acute lymphoblastic leukemia cell lines to identify targetable kinases. We report a comprehensive dataset consisting of 21,000 phosphosites on 4,896 phosphoproteins, including 217 kinases. We identify active Src-family kinases signaling as well as active cyclin-dependent kinases. We validate putative targets for therapy ex vivo and identify potential combination treatments, such as the inhibition of the INSR/IGF-1R axis to increase the sensitivity to dasatinib treatment. Ex vivo validation of selected drug combinations using patient-derived xenografts provides a proof-of-concept for phosphoproteomics-guided design of personalized treatments. No targeted therapy has been approved yet for the treatment of T cell acute lymphoblastic leukemia. Here the authors show that unbiased phosphoproteomic profiling can identify targetable kinases and guide the design of personalized combination treatments using kinase inhibitors.

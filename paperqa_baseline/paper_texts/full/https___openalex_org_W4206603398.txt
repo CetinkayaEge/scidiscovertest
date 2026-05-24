@@ -1,0 +1,9 @@
+Title: Sustainable Development Indicators and Their Relationship to GDP: Evidence from Emerging Economies
+Authors: Bahram Adrangi, Lauren Kerr
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14020658
+Paper ID: https://openalex.org/W4206603398
+
+Abstract:
+This paper aims to analyze the metrics the United Nations has set and called the Sustainable Development Goals (SDGs) and their association with the gross domestic product (GDP) in emerging economies. SDGs have been identified to measure healthy development, whereas GDP has historically been used to measure economic health and has been prioritized above many other indicators. This research deploys the feasible generalized least squares (FGLS) and the seemingly unrelated regressions (SUR) on panel data consisting of the five BRIC countries spanning 2000 through 2017 to estimate a regression model that shows the association of SDGs with GDP. The paper concludes that targeting GDP may not lead to achieving overall SDGs.

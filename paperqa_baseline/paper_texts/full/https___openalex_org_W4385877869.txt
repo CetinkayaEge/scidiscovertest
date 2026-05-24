@@ -1,0 +1,9 @@
+Title: Benefits and Barriers of Implementing Building Information Modeling Techniques for Sustainable Practices in the Construction Industry—A Comprehensive Review
+Authors: Shuvo Dip Datta, Bassam A. Tayeh, Ibrahim Y. Hakeem, Yazan Issa Abu Aisheh
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151612466
+Paper ID: https://openalex.org/W4385877869
+
+Abstract:
+The benefits and barriers of implementing building information modeling (BIM) and sustainability have all been the subject of numerous studies that have been performed both separately and in pairs. Despite this, there are presently no studies that include both of these ideas. This paper aims to integrate various technologies, methodologies, and concepts to close this gap specific to the architecture, engineering, and construction (AEC) sectors by outlining how concepts could coexist and support one another. To that goal, a thorough literature study was conducted to determine how recently academics had investigated the synergies between these fields. Results point to synergies, mostly the benefits and barriers of BIM in the sustainable construction sector. After the literature review, 46 identified factors associated with benefits and 21 factors associated with barriers were obtained. Among the factors, “Promoting carbon emission reduction” and “Enhancing material wastage reduction” are the top environmental benefits of implementing BIM in sustainable construction projects. The popular economic benefits were “Improving design efficiency”, “Reducing the overall project costs”, and “Promoting productivity” and the most important social benefit was “Enhancing project safety and health performance”. On the other hand, the lack of experts was the major barrier to BIM implementation in sustainable construction projects. Thus, the findings assist the BIM and sustainability integration’s benefits and barriers for a better and sustainable construction industry.

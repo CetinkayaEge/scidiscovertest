@@ -1,0 +1,9 @@
+Title: Long noncoding RNA HOTAIR promotes metastasis of renal cell carcinoma by up-regulating histone H3K27 demethylase JMJD3
+Authors: Ming Xia, Lv Yao, Qiaoxia Zhang, Feng Wang, Hongbin Mei, Xiaoqiang Guo, Weiren Huang
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15047
+Paper ID: pmc_PMC5386722
+
+Abstract:
+Long Noncoding RNAs (lncRNAs) are a kind of non-protein coding transcripts longer than 200 nucleotides, and play important roles in diverse biological processes, such as embryonic development and apoptosis. Homeobox (HOX) transcript antisense intergenic RNA (HOTAIR) is a negative prognostic factor in a variety of human cancers, such as breast, liver and lung cancers. HOTAIR can promote cancer cell metastasis by reprogramming chromatin organization. In the present study, HOTAIR expression was elevated in tissues of renal cell carcinoma compared to adjacent normal tissues, and positively correlated with metastasis (P<0.05). The cell migration was inhibited in scratch test and transwell assay after HOTAIR knockdown (P<0.05). Further researches revealed that histone demethylase JMJD3 was reduced and its target gene Snai1 expression was down-regulated after HOTAIR suppression (P<0.05). Meanwhile, the level of histone methytransferase EZH2 target gene PCDHB5 was increased (P<0.05). Collectively, these data suggest that HOTAIR is an important promoter in metastasis of renal cell carcinoma and also plays a dual regulatory role in chromatin state by effecting both histone metylation and demethylation at different gene loci.

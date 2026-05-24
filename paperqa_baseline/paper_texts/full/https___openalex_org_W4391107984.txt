@@ -1,0 +1,9 @@
+Title: Self‐Sustained and Coordinated Rhythmic Deformations with SMA for Controller‐Free Locomotion
+Authors: Ziyang Zhou, Suyi Li
+Year: 2024
+Venue: Advanced Intelligent Systems
+DOI: https://doi.org/10.1002/aisy.202300667
+Paper ID: https://openalex.org/W4391107984
+
+Abstract:
+This study presents a modular, electronics‐free, and fully onboard control and actuation approach for shape memory alloy (SMA)‐based soft robots to achieve locomotion tasks. This approach exploits the nonlinear mechanics of compliant curved beams and carefully designed mechanical control circuits to create and synchronize rhythmic deformation cycles, mimicking the central pattern generators prevalent in animal locomotions. More specifically, the study elucidates a new strategy to amplify the actuation performance of the shape memory coil actuator by coupling it to a carefully designed, monostable curve beam with a snap‐through buckling behavior. Such SMA‐curved beam assembly is integrated with an entirely mechanical circuit featuring a slider mechanism. This circuit can automatically cut off and supply current to the SMA according to its deformation status, generating a self‐sustained rhythmic deformation cycle using a simple DC power supply. Finally, this study presents a new strategy to coordinate (synchronize) two rhythmic deformation cycles from two robotic modules to achieve efficient crawling locomotion but still use a single DC power. This work represents a significant step toward fully autonomous, electronics‐free SMA‐based locomotion robots with fully onboard actuation and control.

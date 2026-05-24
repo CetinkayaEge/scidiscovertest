@@ -1,0 +1,9 @@
+Title: Differences in the longitudinal change of behaviours related to dementia in long-term care: a growth mixture modelling approach
+Authors: Annie Robitaille, Linda Garcia, Graciela Muniz Terrera
+Year: 2023
+Venue: BMC Geriatrics
+DOI: 10.1186/s12877-023-03933-y
+Paper ID: pmc_PMC10141941
+
+Abstract:
+Background There is still a need for more information about the different trajectories of responsive behaviours that people living with dementia present in long-term care homes (LTC). Objective. This study identified subgroups of individuals with similar trajectories of responsive behaviours related to dementia in LTC and evaluated the role of demographic variables, depressive symptomatology, social engagement, cognitive functioning, and activities of daily living (ADL) on class membership. Methods Growth mixture models were run using data from the Continuing Care Reporting System. Results Results suggest that change in responsive behaviours is best represented by seven classes of trajectories. The largest class was composed of individuals who presented the lowest frequency of behaviours upon entry in LTC that increased at a slow linear rate. The other classes were composed of individuals who presented different frequencies of behaviours upon entry in LTC and varying rates of change (e.g., individuals who presented a low frequency of behaviours upon entry in LTC that increased at a linear rate followed by a decrease in the later months, individuals who presented a high frequency of responsive behaviours upon entry in LTC and that remained stable). Cognitive functioning, social engagement, depressive symptomatology, and ADL were markers of class membership. Conclusions These findings can help identify individuals at increased risk of presenting a high frequency of responsive behaviours and highlight interventions that could decrease behaviours in LTC.

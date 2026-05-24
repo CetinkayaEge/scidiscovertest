@@ -1,0 +1,9 @@
+Title: Agricultural Robot-Centered Recognition of Early-Developmental Pest Stage Based on Deep Learning: A Case Study on Fall Armyworm ( Spodoptera frugiperda )
+Authors: Hammed Obasekore, Mohamed Fanni, Sabah Mohamed Ahmed, Victor Parque, Bo-Yeong Kang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063147
+Paper ID: pmc_PMC10056802
+
+Abstract:
+Accurately detecting early developmental stages of insect pests (larvae) from off-the-shelf stereo camera sensor data using deep learning holds several benefits for farmers, from simple robot configuration to early neutralization of this less agile but more disastrous stage. Machine vision technology has advanced from bulk spraying to precise dosage to directly rubbing on the infected crops. However, these solutions primarily focus on adult pests and post-infestation stages. This study suggested using a front-pointing red-green-blue (RGB) stereo camera mounted on a robot to identify pest larvae using deep learning. The camera feeds data into our deep-learning algorithms experimented on eight ImageNet pre-trained models. The combination of the insect classifier and the detector replicates the peripheral and foveal line-of-sight vision on our custom pest larvae dataset, respectively. This enables a trade-off between the robot’s smooth operation and localization precision in the pest captured, as it first appeared in the farsighted section. Consequently, the nearsighted part utilizes our faster region-based convolutional neural network-based pest detector to localize precisely. Simulating the employed robot dynamics using CoppeliaSim and MATLAB/SIMULINK with the deep-learning toolbox demonstrated the excellent feasibility of the proposed system. Our deep-learning classifier and detector exhibited 99% and 0.84 accuracy and a mean average precision, respectively.

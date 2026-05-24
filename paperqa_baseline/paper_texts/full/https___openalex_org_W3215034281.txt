@@ -1,0 +1,9 @@
+Title: Selection of Electric Vehicles for the Needs of Sustainable Transport under Conditions of Uncertainty—A Comparative Study on Fuzzy MCDA Methods
+Authors: Paweł Ziemba
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14227786
+Paper ID: https://openalex.org/W3215034281
+
+Abstract:
+All over the world, including Poland, authorities are taking steps to increase consumer interest in electric vehicles and sustainable transport as a way to reduce environmental pollution. For this reason, the electric vehicle market is dynamically and constantly developing, more and more modern vehicles are introduced to it, and purchases are often subsidized by the government. The aim of the article is to analyse the A–C segments of the Polish electric vehicle market and to recommend the most attractive vehicle from the perspective of sustainable transport. The aim of the research was achieved with the use of three multi-criteria decision aid (MCDA) methods, which deal well with the uncertainty and imprecision of data that occur in the case of many different parameters of electric vehicles. In particular, the following methods were used: the fuzzy technique for order of preference by similarity to ideal solution (TOPSIS), the fuzzy simple additive weighting (SAW) method, and the new easy approach to fuzzy preference ranking organization method for enrichment evaluation II (NEAT F-PROMETHEE II). Electric vehicle rankings obtained using each method were compared and verified by stochastic analysis. The conducted analyses and comparisons allowed us to identify the most interesting electric vehicles, which currently appear to be the Volkswagen ID.3 Pro S and Nissan LEAF e+.

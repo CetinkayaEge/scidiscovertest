@@ -1,0 +1,9 @@
+Title: A case report of fatal COVID-19 complicated by rapidly progressive sepsis caused by Klebsiella variicola
+Authors: Rimi Tanii, Sohei Harada, Hiroki Saito, Koh Okamoto, Yohei Doi, Masahiro Suzuki
+Year: 2023
+Venue: BMC Infectious Diseases
+DOI: 10.1186/s12879-023-08128-9
+Paper ID: pmc_PMC10052270
+
+Abstract:
+Background There is a growing interest in Klebsiella variicola as a causative pathogen in humans, though its clinical features and the impact of co-infection or secondary infection with COVID-19 remain unknown. Case presentation A 71-year-old man presented with fever, altered mental status and generalized weakness and was admitted to ICU due to severe COVID-19 pneumonia. He was newly diagnosed with type II diabetes mellitus upon admission. On hospital day 3, his respiratory status deteriorated, requiring invasive mechanical ventilation. On hospital day 10, superimposed bacterial pneumonia was suspected and subsequently, broad-spectrum antibiotics were administered for the associated bloodstream infection. On hospital day 13, despite administration of active antibiotics and appropriate source control, he decompensated and died. The causative organism isolated from blood cultures was initially reported as K. pneumoniae , but it was identified as K. variicola by a genetic analysis. A representative isolate (FUJ01370) had a novel multilocus sequence typing allelic profile ( gapA -infB- mdh - pgi - phoE - rpoB - tonB : 16-24-21-27-52-17-152), to which sequence type 5794 was assigned (GenBank assembly accession: GCA_019042755.1). Conclusions We report a fatal case of respiratory and bloodstream infection due to K. variicola complicating severe COVID-19. Co-infection or secondary infection of K. variicola in COVID-19 is likely under-recognized and can be fulminant as in this case.

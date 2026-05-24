@@ -1,0 +1,9 @@
+Title: Proprioceptive uncertainty promotes the rubber hand illusion
+Authors: Marie Chancel, H. Henrik Ehrsson
+Year: 2023
+Venue: Cortex; a Journal Devoted to the Study of the Nervous System and Behavior
+DOI: 10.1016/j.cortex.2023.04.005
+Paper ID: pmc_PMC10284257
+
+Abstract:
+Body ownership is the multisensory perception of a body as one’s own. Recently, the emergence of body ownership illusions like the visuotactile rubber hand illusion has been described by Bayesian causal inference models in which the observer computes the probability that visual and tactile signals come from a common source. Given the importance of proprioception for the perception of one’s body, proprioceptive information and its relative reliability should impact this inferential process. We used a detection task based on the rubber hand illusion where participants had to report whether the rubber hand felt like their own or not. We manipulated the degree of asynchrony of visual and tactile stimuli delivered to the rubber hand and the real hand under two levels of proprioceptive noise using tendon vibration applied to the lower arm’s antagonist extensor and flexor muscles. As hypothesized, the probability of the emergence of the rubber hand illusion increased with proprioceptive noise. Moreover, this result, well fitted by a Bayesian causal inference model, was best described by a change in the a priori probability of a common cause for vision and touch. These results offer new insights into how proprioceptive uncertainty shapes the multisensory perception of one’s own body.

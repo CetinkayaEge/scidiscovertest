@@ -1,0 +1,9 @@
+Title: An Optical Sensor with Polyaniline-Gold Hybrid Nanostructures for Monitoring pH in Saliva
+Authors: Chongdai Luo, Yangyang Wang, Xuemeng Li, Xueqin Jiang, Panpan Gao, Kang Sun, Jianhua Zhou, Zhiguang Zhang, Qing Jiang
+Year: 2017
+Venue: Nanomaterials
+DOI: 10.3390/nano7030067
+Paper ID: pmc_PMC5388169
+
+Abstract:
+Saliva contains important personal physiological information that is related to some diseases, and it is a valuable source of biochemical information that can be collected rapidly, frequently, and without stress. In this article, we reported a new and simple localized surface plasmon resonance (LSPR) substrate composed of polyaniline (PANI)-gold hybrid nanostructures as an optical sensor for monitoring the pH of saliva samples. The overall appearance and topography of the substrates, the composition, and the wettability of the LSPR surfaces were characterized by optical and scanning electron microscope (SEM) images, infrared spectra, and contact angles measurement, respectively. The PANI-gold hybrid substrate readily responded to the pH. The response time was very short, which was 3.5 s when the pH switched from 2 to 7, and 4.5 s from 7 to 2. The changes of visible-near-infrared (NIR) spectra of this sensor upon varying pH in solution showed that—for the absorption at given wavelengths of 665 nm and 785 nm—the sensitivities were 0.0299 a.u./pH (a.u. = arbitrary unit) with a linear range of pH = 5–8 and 0.0234 a.u./pH with linear range of pH = 2–8, respectively. By using this new sensor, the pH of a real saliva sample was monitored and was consistent with the parallel measurements with a standard laboratory method. The results suggest that this novel LSPR sensor shows great potential in the field of mobile healthcare and home medical devices, and could also be modified by different sensitive materials to detect various molecules or ions in the future.

@@ -1,0 +1,9 @@
+Title: Measuring Progress towards Sustainability in the European Union within the 2030 Agenda Framework
+Authors: Marianela Carrillo
+Year: 2022
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math10122095
+Paper ID: https://openalex.org/W4283025105
+
+Abstract:
+The adoption of the 2030 Agenda and its 17 Sustainable Development Goals (SDGs) revived the challenge to efficiently address economic prosperity, environmental quality and social welfare goals. To fulfill such purposes, policymakers need to measure and monitor the global progress made by countries towards the achievement of the SDGs. Composite indicators have frequently been used for sustainability performance assessment in a range of areas related to Sustainable Development and recently some attempts have been made to analyze trends within the 2030 Agenda framework. The objective of this study is to propose a novel composite indicator approach to assess sustainability performance and evaluate whether progress is being made towards the SDGs. Some distinguishing features of the proposed approach involve the computation of weights for the indicators and the use of geometric average at the overall aggregation stage. The approach is applied to the evaluation of the SDGs in EU27 during the period 2010–2020 using the Eurostat SDG dataset. The results obtained suggest that all 27 Member States have progressed favorably, albeit not to the same extent, and differences between countries seem to be decreasing over the years.

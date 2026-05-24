@@ -1,0 +1,9 @@
+Title: Decoupling Transmission and Transduction for Improved Durability of Highly Stretchable, Soft Strain Sensing: Applications in Human Health Monitoring
+Authors: Ali Kight, Ileana Pirozzi, Xinyi Liang, Doff B. McElhinney, Amy Kyungwon Han, Seraina A. Dual, Mark Cutkosky
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041955
+Paper ID: pmc_PMC9967534
+
+Abstract:
+This work presents a modular approach to the development of strain sensors for large deformations. The proposed method separates the extension and signal transduction mechanisms using a soft, elastomeric transmission and a high-sensitivity microelectromechanical system (MEMS) transducer. By separating the transmission and transduction, they can be optimized independently for application-specific mechanical and electrical performance. This work investigates the potential of this approach for human health monitoring as an implantable cardiac strain sensor for measuring global longitudinal strain (GLS). The durability of the sensor was evaluated by conducting cyclic loading tests over one million cycles, and the results showed negligible drift. To account for hysteresis and frequency-dependent effects, a lumped-parameter model was developed to represent the viscoelastic behavior of the sensor. Multiple model orders were considered and compared using validation and test data sets that mimic physiologically relevant dynamics. Results support the choice of a second-order model, which reduces error by 73% compared to a linear calibration. In addition, we evaluated the suitability of this sensor for the proposed application by demonstrating its ability to operate on compliant, curved surfaces. The effects of friction and boundary conditions are also empirically assessed and discussed.

@@ -1,0 +1,9 @@
+Title: Hepatic GATA4 regulates cholesterol and triglyceride homeostasis in collaboration with LXRs
+Authors: Lara Bideyan, Maykel López Rodríguez, Christina Priest, John P. Kennelly, Yajing Gao, Alessandra Ferrari, Prashant Rajbhandari, An-Chieh Feng, Sergei G. Tevosian, Stephen T. Smale, Peter Tontonoz
+Year: 2022
+Venue: Genes & Development
+DOI: 10.1101/gad.350145.122
+Paper ID: pmc_PMC9851399
+
+Abstract:
+In this study, Bideyan et al. investigated role of GATA4 in adult liver metabolism and, using high-throughput sequencing technologies, identified GATA4 as a transcriptional regulator of metabolism in the liver. Their results show that hepatic GATA4 contributes to the transcriptional control of hepatic and systemic lipid homeostasis. GATA4 is a transcription factor known for its crucial role in the development of many tissues, including the liver; however, its role in adult liver metabolism is unknown. Here, using high-throughput sequencing technologies, we identified GATA4 as a transcriptional regulator of metabolism in the liver. GATA4 expression is elevated in response to refeeding, and its occupancy is increased at enhancers of genes linked to fatty acid and lipoprotein metabolism. Knocking out GATA4 in the adult liver (Gata4LKO) decreased transcriptional activity at GATA4 binding sites, especially during feeding. Gata4LKO mice have reduced plasma HDL cholesterol and increased liver triglyceride levels. The expression of a panel of GATA4 binding genes involved in hepatic cholesterol export and triglyceride hydrolysis was down-regulated in Gata4LKO mice. We further demonstrate that GATA4 collaborates with LXR nuclear receptors in the liver. GATA4 and LXRs share a number of binding sites, and GATA4 was required for the full transcriptional response to LXR activation. Collectively, these results show that hepatic GATA4 contributes to the transcriptional control of hepatic and systemic lipid homeostasis.

@@ -1,0 +1,9 @@
+Title: ASSESSMENT OF SUSTAINABLE WASTEWATER TREATMENT TECHNOLOGIES USING INTERVAL-VALUED INTUITIONISTIC FUZZY DISTANCE MEASURE-BASED MAIRCA METHOD
+Authors: Arunodaya Raj Mishra, Pratibha Rani, Fausto Cavallaro, Adel Fahad Alrasheedi
+Year: 2023
+Venue: Facta Universitatis Series Mechanical Engineering
+DOI: https://doi.org/10.22190/fume230901034m
+Paper ID: https://openalex.org/W4388573915
+
+Abstract:
+Effective wastewater treatment has significant effects on saving water and preventing unnecessary water scarcity. An appropriate wastewater treatment technology (WWTT) brings economic benefits through reuse in different sectors and benefits the society and environment. This study aims to develop a decision-making framework for evaluating the sustainable WWTTs under interval-valued intuitionistic fuzzy set (IVIFS) environment. The proposed MCDM framework is divided into two stages. First, a new Hellinger distance measure is developed to determine the degree of difference between IVIFSs and also discussed its desirable characteristics. Second, an interval-valued intuitionistic fuzzy extension of multi-attribute ideal-real comparative analysis (MAIRCA) model is developed using the proposed Hellinger distance measure-based weighting tool. Further, the proposed model is implemented on an empirical study of sustainable WWTTs evaluation problem. Sensitivity and comparative studies are made. The results indicate that odor impacts, sludge production, maintenance and operation are the most effective sustainable factors and Microbial fuel cell (MFC) technology is the best WWTT followed by natural treatment methods.

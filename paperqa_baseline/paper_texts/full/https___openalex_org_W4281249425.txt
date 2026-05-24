@@ -1,0 +1,9 @@
+Title: On sustainability and digital fabrication with concrete
+Authors: Robert J. Flatt, Timothy Wangler
+Year: 2022
+Venue: Cement and Concrete Research
+DOI: https://doi.org/10.1016/j.cemconres.2022.106837
+Paper ID: https://openalex.org/W4281249425
+
+Abstract:
+Digital fabrication with concrete has been touted as an avenue to more sustainable construction through more material efficient design, but notably has produced materials with higher carbon footprints and a strong likelihood of reduced durability compared to standard construction. In this short article, a relationship to give a sense of the environmental impact of a structure is introduced, and it is emphasized that shape efficiency is the only unique environmental benefit that digital concrete brings. However, efforts should still continue to bring digital concrete more in line with standard concrete, especially through incorporation of large aggregates and better characterizing the durability. Finally, it is shown that while most 3D printed concretes appear to be overdesigned due to processing requirements, the use of aluminum based accelerators in a 2K system can be beneficial in decoupling buildability from structural strength, allowing greater freedom to lower carbon footprints in mix design.

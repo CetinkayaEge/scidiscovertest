@@ -1,0 +1,9 @@
+Title: A Mechanism for Reliable Mobility Management for Internet of Things Using CoAP
+Authors: Seung-Man Chun, Jong-Tae Park
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010136
+Paper ID: pmc_PMC5298709
+
+Abstract:
+Under unreliable constrained wireless networks for Internet of Things (IoT) environments, the loss of the signaling message may frequently occur. Mobile Internet Protocol version 6 (MIPv6) and its variants do not consider this situation. Consequently, as a constrained device moves around different wireless networks, its Internet Protocol (IP) connectivity may be frequently disrupted and power can be drained rapidly. This can result in the loss of important sensing data or a large delay for time-critical IoT services such as healthcare monitoring and disaster management. This paper presents a reliable mobility management mechanism in Internet of Things environments with lossy low-power constrained device and network characteristics. The idea is to use the Internet Engineering Task Force (IETF) Constrained Application Protocol (CoAP) retransmission mechanism to achieve both reliability and simplicity for reliable IoT mobility management. Detailed architecture, algorithms, and message extensions for reliable mobility management are presented. Finally, performance is evaluated using both mathematical analysis and simulation.

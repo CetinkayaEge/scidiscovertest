@@ -1,0 +1,9 @@
+Title: Acceleration of CRISPR/Cas9-Mediated Editing at Multiple Sites in the Saccharomyces cerevisiae Genome
+Authors: Alexey D. Karpukhin, Fanis A. Sabirzyanov, Vsevolod A. Serebrianyi
+Year: 2023
+Venue: Methods and Protocols
+DOI: 10.3390/mps6020039
+Paper ID: pmc_PMC10141985
+
+Abstract:
+The application of the CRISPR/Cas9-based genome editing technique to the yeast Saccharomyces cerevisiae has made it possible to simultaneously modify several sites, particularly to integrate several expression cassettes. The existing methods provide high efficiency for such modifications; however, common protocols include several preparatory steps, namely, the construction of an intermediate Cas9-expressing strain, the assembly of a plasmid bearing several single guide RNA (sgRNA) expression cassettes, and the surrounding integrated DNA fragments with long flanks for recombination with target loci. Since these preparatory steps are time consuming and may not be desirable in some types of experiments, we explored the possibility of multiple integration without these steps. We have demonstrated that it is possible to skip them simultaneously and integrate up to three expression cassettes into separate sites by transforming the recipient strain with the Cas9 expression plasmid, three differently marked sgRNA plasmids, and three donor DNAs flanked with short (70 bp) arms for recombination. This finding increases the flexibility of choosing the optimal experimental design for multiple editing of the genome of S. cerevisiae and can significantly accelerate such experiments.

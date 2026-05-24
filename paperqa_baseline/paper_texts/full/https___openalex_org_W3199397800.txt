@@ -1,0 +1,9 @@
+Title: Artificial intelligence, systemic risks, and sustainability
+Authors: Victor Galaz, Miguel Ángel Centeno, Peter W. Callahan, Amar Causevic, Thayer Patterson, Irina Brass, Seth D. Baum, Darryl Farber, Joern Fischer, David García, Timon McPhearson, Daniel Jiménez, B. R. King, Paul Larcey, Karen Levy
+Year: 2021
+Venue: Technology in Society
+DOI: https://doi.org/10.1016/j.techsoc.2021.101741
+Paper ID: https://openalex.org/W3199397800
+
+Abstract:
+Automated decision making and predictive analytics through artificial intelligence, in combination with rapid progress in technologies such as sensor technology and robotics are likely to change the way individuals, communities, governments and private actors perceive and respond to climate and ecological change. Methods based on various forms of artificial intelligence are already today being applied in a number of research fields related to climate change and environmental monitoring. Investments into applications of these technologies in agriculture, forestry and the extraction of marine resources also seem to be increasing rapidly. Despite a growing interest in, and deployment of AI-technologies in domains critical for sustainability, few have explored possible systemic risks in depth. This article offers a global overview of the progress of such technologies in sectors with high impact potential for sustainability like farming, forestry and the extraction of marine resources. We also identify possible systemic risks in these domains including a) algorithmic bias and allocative harms; b) unequal access and benefits; c) cascading failures and external disruptions, and d) trade-offs between efficiency and resilience. We explore these emerging risks, identify critical questions, and discuss the limitations of current governance mechanisms in addressing AI sustainability risks in these sectors.

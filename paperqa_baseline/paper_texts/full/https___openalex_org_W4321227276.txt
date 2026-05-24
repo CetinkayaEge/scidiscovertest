@@ -1,0 +1,9 @@
+Title: Multi-objective integrated optimization study of prefabricated building projects introducing sustainable levels
+Authors: Junlong Peng, Yue Feng, Qi Zhang, Xiangjun Liu
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-29881-6
+Paper ID: https://openalex.org/W4321227276
+
+Abstract:
+As construction becomes greener, people have higher and higher requirements for engineering project management, which makes it necessary to deeply study the comprehensive optimization of schedule, cost and sustainability level. Adhering to the concept of low carbon and green, the article takes carbon emission factor into the total cost of building construction and improves the traditional cost objective of engineering projects; then quantitatively analyzes the economic, environmental and social impacts of assembled buildings from the perspective of sustainability, and introduces the sustainability objective into the traditional duration-cost problem study, taking the duration of each job in the double code arrow diagram as the independent variable to construct the duration -cost-sustainability level multi-objective optimization model. In order to solve the type effectively, a series of Pareto optimal solutions are obtained using the NSGA-II algorithm, and the efficacy coefficient method is used for program decision making. The results show that the Pareto solution set can provide effective support for the project manager's decision making, and the NSGA-II algorithm is effective in solving the multi-objective optimization model.

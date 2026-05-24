@@ -1,0 +1,9 @@
+Title: Fake news research trends, linkages to generative artificial intelligence and sustainable development goals
+Authors: Raghu Raman, Vinith Kumar Nair, Prema Nedungadi, Adıtya Kumar Sahu, Robin M. Kowalski, Sasangan Ramanathan, Krishnashree Achuthan
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e24727
+Paper ID: https://openalex.org/W4391152315
+
+Abstract:
+In the digital age, where information is a cornerstone for decision-making, social media's not-so-regulated environment has intensified the prevalence of fake news, with significant implications for both individuals and societies. This study employs a bibliometric analysis of a large corpus of 9678 publications spanning 2013-2022 to scrutinize the evolution of fake news research, identifying leading authors, institutions, and nations. Three thematic clusters emerge: Disinformation in social media, COVID-19-induced infodemics, and techno-scientific advancements in auto-detection. This work introduces three novel contributions: 1) a pioneering mapping of fake news research to Sustainable Development Goals (SDGs), indicating its influence on areas like health (SDG 3), peace (SDG 16), and industry (SDG 9); 2) the utilization of Prominence percentile metrics to discern critical and economically prioritized research areas, such as misinformation and object detection in deep learning; and 3) an evaluation of generative AI's role in the propagation and realism of fake news, raising pressing ethical concerns. These contributions collectively provide a comprehensive overview of the current state and future trajectories of fake news research, offering valuable insights for academia, policymakers, and industry.

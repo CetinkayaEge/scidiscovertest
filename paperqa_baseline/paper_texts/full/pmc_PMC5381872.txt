@@ -1,0 +1,9 @@
+Title: Relevance popularity: A term event model based feature selection scheme for text classification
+Authors: Guozhong Feng, Baiguo An, Fengqin Yang, Han Wang, Libiao Zhang
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0174341
+Paper ID: pmc_PMC5381872
+
+Abstract:
+Feature selection is a practical approach for improving the performance of text classification methods by optimizing the feature subsets input to classifiers. In traditional feature selection methods such as information gain and chi-square, the number of documents that contain a particular term (i.e. the document frequency) is often used. However, the frequency of a given term appearing in each document has not been fully investigated, even though it is a promising feature to produce accurate classifications. In this paper, we propose a new feature selection scheme based on a term event Multinomial naive Bayes probabilistic model. According to the model assumptions, the matching score function, which is based on the prediction probability ratio, can be factorized. Finally, we derive a feature selection measurement for each term after replacing inner parameters by their estimators. On a benchmark English text datasets (20 Newsgroups) and a Chinese text dataset (MPH-20), our numerical experiment results obtained from using two widely used text classifiers (naive Bayes and support vector machine) demonstrate that our method outperformed the representative feature selection methods.

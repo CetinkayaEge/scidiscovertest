@@ -1,0 +1,9 @@
+Title: A Comparison of Multi-Label Text Classification Models in Research Articles Labeled With Sustainable Development Goals
+Authors: Roberto Carlos Morales-Hernández, Joaquín Gutiérrez, David Becerra‐Alonso
+Year: 2022
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2022.3223094
+Paper ID: https://openalex.org/W4312729100
+
+Abstract:
+The classification of scientific articles aligned to Sustainable Development Goals is crucial for research institutions and universities when assessing their influence in these areas. Machine learning enables the implementation of massive text data classification tasks. The objective of this study is to apply Natural Language Processing techniques to articles from peer-reviewed journals to facilitate their classification according to the 17 Sustainable Development Goals of the 2030 Agenda. This article compares the performance of multi-label text classification models based on a proposed framework with datasets of different characteristics. Results reveal that a particular combination of a transformation method with a classifier algorithm dominates the performance results.

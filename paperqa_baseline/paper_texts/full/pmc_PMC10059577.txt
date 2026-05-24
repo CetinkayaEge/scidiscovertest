@@ -1,0 +1,9 @@
+Title: Customer Analysis Using Machine Learning-Based Classification Algorithms for Effective Segmentation Using Recency, Frequency, Monetary, and Time
+Authors: Asmat Ullah, Muhammad Ismail Mohmand, Hameed Hussain, Sumaira Johar, Inayat Khan, Shafiq Ahmad, Haitham A. Mahmoud, Shamsul Huda
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063180
+Paper ID: pmc_PMC10059577
+
+Abstract:
+Customer segmentation has been a hot topic for decades, and the competition among businesses makes it more challenging. The recently introduced Recency, Frequency, Monetary, and Time (RFMT) model used an agglomerative algorithm for segmentation and a dendrogram for clustering, which solved the problem. However, there is still room for a single algorithm to analyze the data’s characteristics. The proposed novel approach model RFMT analyzed Pakistan’s largest e-commerce dataset by introducing k-means, Gaussian, and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) beside agglomerative algorithms for segmentation. The cluster is determined through different cluster factor analysis methods, i.e., elbow, dendrogram, silhouette, Calinsky–Harabasz, Davies–Bouldin, and Dunn index. They finally elected a stable and distinctive cluster using the state-of-the-art majority voting (mode version) technique, which resulted in three different clusters. Besides all the segmentation, i.e., product categories, year-wise, fiscal year-wise, and month-wise, the approach also includes the transaction status and seasons-wise segmentation. This segmentation will help the retailer improve customer relationships, implement good strategies, and improve targeted marketing.

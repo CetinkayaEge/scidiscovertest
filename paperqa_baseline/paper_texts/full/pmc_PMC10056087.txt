@@ -1,0 +1,9 @@
+Title: Development and Optimization of a Highly Sensitive Sensor to Quinine-Based Saltiness Enhancement Effect
+Authors: Yifei Jing, Kentaro Watanabe, Tatsukichi Watanabe, Shunsuke Kimura, Kiyoshi Toko
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063178
+Paper ID: pmc_PMC10056087
+
+Abstract:
+The saltiness enhancement effect can be produced by adding specific substances to dietary salt (sodium chloride). This effect has been used in salt-reduced food to help people forge healthy eating habits. Therefore, it is necessary to objectively evaluate the saltiness of food based on this effect. In a previous study, sensor electrodes based on lipid/polymer membrane with Na + ionophore have been proposed to quantify the saltiness enhanced by branched-chain amino acids (BCAAs), citric acid, and tartaric acid. In this study, we developed a new saltiness sensor with the lipid/polymer membrane to quantify the saltiness enhancement effect of quinine by replacing a lipid that caused an unexpected initial drop in the previous study with another new lipid. As a result, the concentrations of lipid and ionophore were optimized to produce an expected response. Logarithmic responses have been found on both NaCl samples and quinine-added NaCl samples. The findings indicate the usage of lipid/polymer membranes on novel taste sensors to evaluate the saltiness enhancement effect accurately.

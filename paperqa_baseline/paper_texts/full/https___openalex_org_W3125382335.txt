@@ -1,0 +1,9 @@
+Title: Energy, Exergy, and Thermo-Economic Analysis of Renewable Energy-Driven Polygeneration Systems for Sustainable Desalination
+Authors: Mohammad Hasan Khoshgoftar Manesh, Viviani C. Onishi
+Year: 2021
+Venue: Processes
+DOI: https://doi.org/10.3390/pr9020210
+Paper ID: https://openalex.org/W3125382335
+
+Abstract:
+Reliable production of freshwater and energy is vital for tackling two of the most critical issues the world is facing today: climate change and sustainable development. In this light, a comprehensive review is performed on the foremost renewable energy-driven polygeneration systems for freshwater production using thermal and membrane desalination. Thus, this review is designed to outline the latest developments on integrated polygeneration and desalination systems based on multi-stage flash (MSF), multi-effect distillation (MED), humidification-dehumidification (HDH), and reverse osmosis (RO) technologies. Special attention is paid to innovative approaches for modelling, design, simulation, and optimization to improve energy, exergy, and thermo-economic performance of decentralized polygeneration plants accounting for electricity, space heating and cooling, domestic hot water, and freshwater production, among others. Different integrated renewable energy-driven polygeneration and desalination systems are investigated, including those assisted by solar, biomass, geothermal, ocean, wind, and hybrid renewable energy sources. In addition, recent literature applying energy, exergy, exergoeconomic, and exergoenvironmental analysis is reviewed to establish a comparison between a range of integrated renewable-driven polygeneration and desalination systems.

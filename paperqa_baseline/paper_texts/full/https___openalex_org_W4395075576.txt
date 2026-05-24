@@ -1,0 +1,9 @@
+Title: Efficient solar-powered PEM electrolysis for sustainable hydrogen production: an integrated approach
+Authors: A. Muthumeenal, Dong Suk Han
+Year: 2024
+Venue: Emergent Materials
+DOI: https://doi.org/10.1007/s42247-024-00697-y
+Paper ID: https://openalex.org/W4395075576
+
+Abstract:
+Abstract The coupling of photovoltaics (PVs) and PEM water electrolyzers (PEMWE) is a promising method for generating hydrogen from a renewable energy source. While direct coupling is feasible, the variability of solar radiation presents challenges in efficient sizing. This study proposes an innovative energy management strategy that ensures a stable hydrogen production rate, even with fluctuating solar irradiation. By integrating battery-assisted hydrogen production, this approach allows for decentralized, grid-independent renewable energy systems, mitigating instability from PV intermittency. The system utilizes electrochemical storage to absorb excess energy during periods of low or very high irradiation, which falls outside the electrolyzer’s optimal power input range. This stored energy then supports the PV system, ensuring the electrolyzer operates near its nominal capacity and optimizing its lifetime. The system achieves an efficiency of 7.78 to 8.81% at low current density region and 6.6% at high current density in converting solar energy into hydrogen.

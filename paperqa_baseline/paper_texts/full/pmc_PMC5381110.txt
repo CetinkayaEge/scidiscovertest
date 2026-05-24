@@ -1,0 +1,9 @@
+Title: Quantitative proteomics by SWATH-MS reveals sophisticated metabolic reprogramming in hepatocellular carcinoma tissues
+Authors: Yanyan Gao, Xinzheng Wang, Zhihong Sang, Zongcheng Li, Feng Liu, Jie Mao, Dan Yan, Yongqiang Zhao, Hongli Wang, Ping Li, Xiaomin Ying, Xuemin Zhang, Kun He, Hongxia Wang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45913
+Paper ID: pmc_PMC5381110
+
+Abstract:
+Hepatocellular carcinoma (HCC) is one of the most common cancers worldwide, and understanding its molecular pathogenesis is pivotal to managing this disease. Sequential window acquisition of all theoretical mass spectra (SWATH-MS) is an optimal proteomic strategy to seek crucial proteins involved in HCC development and progression. In this study, a quantitative proteomic study of tumour and adjacent non-tumour liver tissues was performed using a SWATH-MS strategy. In total, 4,216 proteins were reliably quantified, and 338 were differentially expressed, with 191 proteins up-regulated and 147 down-regulated in HCC tissues compared with adjacent non-tumourous tissues. Functional analysis revealed distinct pathway enrichment of up- and down-regulated proteins. The most significantly down-regulated proteins were involved in metabolic pathways. Notably, our study revealed sophisticated metabolic reprogramming in HCC, including alteration of the pentose phosphate pathway; serine, glycine and sarcosine biosynthesis/metabolism; glycolysis; gluconeogenesis; fatty acid biosynthesis; and fatty acid β-oxidation. Twenty-seven metabolic enzymes, including PCK2, PDH and G6PD, were significantly changed in this study. To our knowledge, this study presents the most complete view of tissue-specific metabolic reprogramming in HCC, identifying hundreds of differentially expressed proteins, which together form a rich resource for novel drug targets or diagnostic biomarker discovery.

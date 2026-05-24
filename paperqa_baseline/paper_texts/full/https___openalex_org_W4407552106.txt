@@ -1,0 +1,9 @@
+Title: Sustainable Production and Consumption in EU Member States: Achieving the 2030 Sustainable Development Goals (SDG 12)
+Authors: Daniela Firoiu, George H. Ionescu, Cristian Mihai Cismaș, Melinda Petronela Costin, Laura Mariana Cismaș, Ștefan Codruț Florian Ciobanu
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17041537
+Paper ID: https://openalex.org/W4407552106
+
+Abstract:
+Sustainable Development Goal 12 (SDG 12) is vital for promoting sustainable development by enhancing resource efficiency, minimizing waste, and fostering sustainable practices across supply chains. This research investigates sustainable production and consumption dynamics in European Union countries, drawing on official data from the EU Statistical Office (Eurostat). It employs the AAA (Holt–Winters) exponential smoothing algorithm to analyze trends in selected sustainability indicators. Despite notable progress, challenges such as regional disparities and economic barriers remain significant. This research provides critical insights into the evolution of responsible consumption and production across EU countries, projecting trends until 2030. The findings emphasize the need for integrated policies, sustainable practices, and collaborative efforts among stakeholders to meet the EU’s sustainability objectives. Achieving these goals is essential for realizing the 2030 sustainability targets and transitioning to a climate-neutral economy by 2050, ensuring long-term ecological and economic resilience.

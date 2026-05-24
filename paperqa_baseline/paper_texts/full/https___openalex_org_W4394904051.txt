@@ -1,0 +1,9 @@
+Title: Sustainability and building information modelling: Integration, research gaps, and future directions
+Authors: Saeed Akbari, Moslem Sheikhkhoshkar, Farzad Pour Rahimian, Hind Bril El Haouzi, Mina Najafi, Saeed Talebi
+Year: 2024
+Venue: Automation in Construction
+DOI: https://doi.org/10.1016/j.autcon.2024.105420
+Paper ID: https://openalex.org/W4394904051
+
+Abstract:
+Scientific contributions to BIM-sustainability integration have gained momentum in recent years due to the influential role of BIM as a well-accepted approach for sustainable construction practices. In this regard, some systematic reviews and informatic analysis papers have addressed this topic. Although these papers have provided useful insights, we go deeper into the body of knowledge through a critical lens. In addition, in this paper, keyword combination is broadened as opposed to other reviews, and critical insight is applied to synergies between BIM and sustainability through gap-spotting. For this purpose, 98 journal articles are selected and grouped into four major categories, namely: (i) BIM-based Life-Cycle Sustainability Assessment (LCSA); (ii) BIM for green buildings; (iii) BIM-aided construction waste management; (iv) state-of-the-art topics. The work's novelty lies in giving a holistic understanding of previously dismissed issues and a critical area review. Finally, the research gaps and future opportunities are discussed and tabulated.

@@ -1,0 +1,9 @@
+Title: Discovery and characterization of novel type I-D CRISPR-guided transposons identified among diverse Tn7-like elements in cyanobacteria
+Authors: Shan-Chi Hsieh, Joseph E Peters
+Year: 2023
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkac1216
+Paper ID: pmc_PMC9881144
+
+Abstract:
+Abstract CRISPR-Cas defense systems have been naturally coopted for guide RNA-directed transposition by Tn7 family bacterial transposons. We find cyanobacterial genomes are rich in Tn7-like elements, including most of the known guide RNA-directed transposons, the type V-K, I-B1, and I-B2 CRISPR-Cas based systems. We discovered and characterized an example of a type I-D CRISPR-Cas system which was naturally coopted for guide RNA-directed transposition. Multiple novel adaptations were found specific to the I-D subtype, including natural inactivation of the Cas10 nuclease. The type I-D CRISPR-Cas transposition system showed flexibility in guide RNA length requirements and could be engineered to function with ribozyme-based self-processing guide RNAs removing the requirement for Cas6 in the heterologous system. The type I-D CRISPR-Cas transposon also has naturally fused transposase proteins that are functional for cut-and-paste transposition. Multiple attributes of the type I-D system offer unique possibilities for future work in gene editing. Our bioinformatic analysis also revealed a broader understanding of the evolution of Tn7-like elements. Extensive swapping of targeting systems was identified among Tn7-like elements in cyanobacteria and multiple examples of convergent evolution, including systems targeting integration into genes required for natural transformation. Graphical Abstract Graphical Abstract Cooption of a type I-D CRISPR-Cas system for RNA-guided transposition was discovered in cyanobacteria and characterized. CRISPR-Cas cooption occurred with loss of Cas10d nuclease activity and spacer acquisition.

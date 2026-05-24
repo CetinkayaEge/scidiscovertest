@@ -1,0 +1,9 @@
+Title: Data-driven agriculture and sustainable farming: friends or foes?
+Authors: Offer Rozenstein, Yafit Cohen, V. Alchanatis, Karl Behrendt, David J. Bonfil, Gil Eshel, Ally R. Harari, W. E. Harris, Iftach Klapp, Yael Laor, Raphael Linker, Tarin Paz‐Kagan, Sven Peets, S. M. Rutter, Yael Salzer, James Lowenberg‐DeBoer
+Year: 2023
+Venue: Precision Agriculture
+DOI: https://doi.org/10.1007/s11119-023-10061-5
+Paper ID: https://openalex.org/W4385838052
+
+Abstract:
+Abstract Sustainability in our food and fiber agriculture systems is inherently knowledge intensive. It is more likely to be achieved by using all the knowledge, technology, and resources available, including data-driven agricultural technology and precision agriculture methods, than by relying entirely on human powers of observation, analysis, and memory following practical experience. Data collected by sensors and digested by artificial intelligence (AI) can help farmers learn about synergies between the domains of natural systems that are key to simultaneously achieve sustainability and food security. In the quest for agricultural sustainability, some high-payoff research areas are suggested to resolve critical legal and technical barriers as well as economic and social constraints. These include: the development of holistic decision-making systems, automated animal intake measurement, low-cost environmental sensors, robot obstacle avoidance, integrating remote sensing with crop and pasture models, extension methods for data-driven agriculture, methods for exploiting naturally occurring Genotype x Environment x Management experiments, innovation in business models for data sharing and data regulation reinforcing trust. Public funding for research is needed in several critical areas identified in this paper to enable sustainable agriculture and innovation.

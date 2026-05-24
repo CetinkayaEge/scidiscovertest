@@ -1,0 +1,9 @@
+Title: Online Learning-Based Hybrid Tracking Method for Unmanned Aerial Vehicles
+Authors: Sohee Son, Injae Lee, Jihun Cha, Haechul Choi
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063270
+Paper ID: pmc_PMC10056294
+
+Abstract:
+Tracking unmanned aerial vehicles (UAVs) in outdoor scenes poses significant challenges due to their dynamic motion, diverse sizes, and changes in appearance. This paper proposes an efficient hybrid tracking method for UAVs, comprising a detector, tracker, and integrator. The integrator combines detection and tracking, and updates the target’s features online while tracking, thereby addressing the aforementioned challenges. The online update mechanism ensures robust tracking by handling object deformation, diverse types of UAVs, and changes in background. We conducted experiments on custom and public UAV datasets to train the deep learning-based detector and evaluate the tracking methods, including the commonly used UAV123 and UAVL datasets, to demonstrate generalizability. The experimental results show the effectiveness and robustness of our proposed method under challenging conditions, such as out-of-view and low-resolution scenarios, and demonstrate its performance in UAV detection tasks.

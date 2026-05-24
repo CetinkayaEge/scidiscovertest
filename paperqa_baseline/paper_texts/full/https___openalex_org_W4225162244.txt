@@ -1,0 +1,9 @@
+Title: Measuring urban sustainability performance through composite indicators for Spanish cities
+Authors: Vanesa G. Lo-Iacono-Ferreira, Ana Garcı́a-Bernabeu, Adolfo Hilario-Caballero, Juan Ignacio Torregrosa-López
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.131982
+Paper ID: https://openalex.org/W4225162244
+
+Abstract:
+The role that cities play in the transition to more sustainable growth is gaining increasing recognition. Measuring progress towards sustainable urban development requires quantifying this multi-dimensional phenomenon with the help of composite indicators. The purpose of this study is to propose an integrated approach to build a sustainable cities’ interval of composite indicators that rely on the Sustainable Development Goals (SDGs) framework. In addition, we propose to overcome the problem of calculating a single number by constructing a strong-weak sustainability performance interval depending on the choice of the compensability level in the aggregation stage of individual indicators. One of the advantages of this interval is that it provides information on both the average performance and the worst value of the set of indicators considered for each SDG. Moreover, it also extends the analysis for the people, planet, prosperity, peace, and partnership dimensions defined by the 2030 Agenda. As an example of application, we constructed these intervals for 50 Spanish cities, which are provincial capitals. This application lets us get a more accurate vision that can serve as a valuable tool for better urban planning design.

@@ -1,0 +1,9 @@
+Title: A Comprehensive Review of Second Life Batteries Toward Sustainable Mechanisms: Potential, Challenges, and Future Prospects
+Authors: Jianwei Li, Shucheng He, Qingqing Yang, Zhongbao Wei, Yang Li, Hongwen He
+Year: 2022
+Venue: IEEE Transactions on Transportation Electrification
+DOI: https://doi.org/10.1109/tte.2022.3220411
+Paper ID: https://openalex.org/W4312655781
+
+Abstract:
+The accelerating market penetration of electric vehicles (EVs) raises important questions for both industry and academia: how to deal with potentially millions of retired batteries (RBs) from EVs, and how to extend the potential value of these batteries after they are retired. It is therefore critical to deepen our understanding of the comprehensive performance of RBs in appropriate applications, such as stationary energy storage with less-demanding on power capacity. The following literature review evaluates the opportunity of the emerging RB market in detail. Meanwhile, various specifically technical issues and solutions for battery reuse are compiled, including aging knee, life predicting, and inconsistency controlling. Furthermore, the risks and benefits of battery reuse are highlighted referring to transportation electrification and entire industrial chain. Also, current policy shortcomings and uncertainties are outlined, and policy recommendations are provided for relevant participants. Six typical application scenarios are selected, and high-value business models for battery reuse are explored from different techno-economic aspects. Insights from this review indicate that as the entire recycling chain is completed, battery reuse will be essential to the future energy market and will play an important role in the future development of low-carbon energy.

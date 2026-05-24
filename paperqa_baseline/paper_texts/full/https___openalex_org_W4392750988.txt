@@ -1,0 +1,9 @@
+Title: Biobased Thermoset Substrate for Flexible and Sustainable Organic Photovoltaics
+Authors: Jingfu Tian, Yang You, Han Zhou, Haojie Li, Lin Hu, Yaozhu Tian, Haibo Xie, Yuanpeng Xie, Xiaotian Hu
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202400547
+Paper ID: https://openalex.org/W4392750988
+
+Abstract:
+Abstract Toward a sustainable development of the flexible electronics industry, the design and facile preparation of sustainable flexible substrates with satisfactory mechanical properties and transparency is still a challenge. Herein, taking structural advantages of biobased eugenol and vanillin, a polymerizable aromatic carbonate monomer with α,ω‐diene functionality (2E), and a robust aromatic acetal monomer with α,ω‐tetraene functionality (4E), are designed and prepared. Then, they are cross‐linked with pentaerythritol tetrakis(2‐mercaptoacetate) (4SH) via thiol‐ene click reaction to generate a series of ternary poly(thioether carbonate acetal) thermosets. It is found that the introduction of 4E allows the production of thiol‐ene thermosets with higher crosslink density, which can balance their mechanical, optical, and surface properties. In addition, the thermoset shows good resistance against various natural environmental conditions and can be decomposed into recyclable small molecules under harsher conditions (3 m NaOH, 80 °C). As a result, the optimal thermoset is well‐suited for the fabrication of flexible organic solar cells (OSCs), yielding a power conversion efficiency of 15.41%, which is superior to polyethylene terephthalate‐based OSC. The results provided significant insights for the design and preparation of sustainable polymer substrates for OSCs, even flexible electronics.

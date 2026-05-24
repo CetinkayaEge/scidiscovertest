@@ -1,0 +1,9 @@
+Title: Microbial Degradation of Lignocellulose for Sustainable Biomass Utilization and Future Research Perspectives
+Authors: Mengke Chen, Qinyu Li, Changjun Liu, Er Meng, Baoguo Zhang
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17094223
+Paper ID: https://openalex.org/W4410162046
+
+Abstract:
+Lignocellulose, as Earth’s most abundant renewable biomass, represents a crucial resource for the production of biofuels and biochemicals, it is of great significance for sustainable development. Microbial degradation offers a promising pathway for transforming lignocellulose into valuable products. This review explores the diversity and classification of lignocellulose-degrading microorganisms, focusing on fungi and bacteria and their respective enzyme systems responsible for breaking down cellulose, hemicellulose, and lignin. Key factors influencing degradation efficiency, including environmental conditions, substrate complexity, and microbial interactions, are thoroughly analyzed. Limitations in microbial degradation are also discussed, notably the need for identifying high-activity strains. Additionally, the review outlines future research directions, emphasizing the application of advanced technologies such as genomics, synthetic biology, and machine learning to optimize microbial degradation processes. These insights aim to enhance lignocellulose utilization efficiency, fostering its broader industrial and agricultural applications.

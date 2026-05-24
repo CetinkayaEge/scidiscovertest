@@ -1,0 +1,9 @@
+Title: Introducing Sustainable Development Topics into Computer Science Education: Design and Evaluation of the Eco JSity Game
+Authors: Jakub Swacha, Rytis Maskeliūnas, Robertas Damaševičius, Audrius Kulikajevas, Tomas Blažauskas, Karolina Muszyńska, Agnieszka Miluniec, Magdalena Kowalska
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084244
+Paper ID: https://openalex.org/W3153830735
+
+Abstract:
+With increasing awareness of the advantages of game-based learning, there is a growing number of studies showing its application to both computer science education and sustainable development education. In this paper, we describe, with the example of the Eco JSity application, how both of these areas can be combined into a single tool. The presented evaluation results showed that despite incorporating the sustainable development topics into both the theme and mechanics of the educational game, both the usefulness and ease-of-use of the application were still assessed positively by students. We also identified three clusters of students depending on their attitude towards combining education on computer science and sustainable development. We concluded that game-based learning provided a capable means of incorporating sustainable development topics into teaching of unrelated technical skills.

@@ -1,0 +1,9 @@
+Title: Poverty Reduction of Sustainable Development Goals in the 21st Century: A Bibliometric Analysis
+Authors: Yanni Yu, Jinghong Huang
+Year: 2021
+Venue: Frontiers in Communication
+DOI: https://doi.org/10.3389/fcomm.2021.754181
+Paper ID: https://openalex.org/W3205358572
+
+Abstract:
+No Poverty is the top priority among 17 Sustainable Development Goals (SDGs). The research perspectives, methods, and subject integration of studies on poverty reduction have been greatly developed with the advance of practice in the 21st century. This paper analyses 2,459 papers on poverty reduction since 2000 using VOSviewer software and R language. Our conclusions show that (1) the 21st century has seen a sharp increase in publications of poverty reduction, especially the period from 2015 to date. (2) The divergence in research quantity and quality between China and Kenya is great. (3) Economic studies focus on inequality and growth, while environmental studies focus on protection and management mechanisms. (4) International cooperation is usually related to geographical location and conducted by developed countries with developing countries together. (5) Research on poverty reduction in different regions has specific sub-themes. Our findings provide an overview of the state of the research and suggest that there is a need to strengthen the integration of disciplines and pay attention to the contribution of marginal disciplines to poverty reduction research in the future.

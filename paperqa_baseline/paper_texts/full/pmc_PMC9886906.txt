@@ -1,0 +1,9 @@
+Title: The influence of oral vocabulary knowledge on individual differences in a computational model of reading
+Authors: Ya-Ning Chang
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28559-3
+Paper ID: pmc_PMC9886906
+
+Abstract:
+Studies have demonstrated systematic individual differences in the degree of semantic reliance (SR) when reading aloud exception words in adult skilled readers. However, the origins of individual differences in reading remain unclear. Using a connectionist model of reading, this study investigated whether oral vocabulary knowledge may affect the degree of SR as a potential source of individual differences in reading. Variety in oral vocabulary knowledge was simulated by training the model to learn the mappings between spoken and meaning word forms with different vocabulary sizes and quantities of exposure to these vocabularies. The model’s SR in the reading aloud task was computed. The result demonstrated that the model with varying amounts of oral exposure and vocabulary sizes had different levels of SR. Critically, SR was able to predict the performance of the model on reading aloud and nonword reading, which assimilated behavioural reading patterns. Further analysis revealed that SR was largely associated with the interaction between oral vocabulary exposure and oral vocabulary size. When the amount of exposure was limited, SR significantly increased with vocabulary sizes but decreased then with vocabulary sizes. Overall, the simulation results provide the first computational evidence of the direct link between oral vocabulary knowledge and the degree of SR as a source of individual differences in reading.

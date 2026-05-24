@@ -1,0 +1,9 @@
+Title: Challenges and Opportunities in Sustainable Serverless Computing
+Authors: Prateek Sharma
+Year: 2023
+Venue: ACM SIGEnergy Energy Informatics Review
+DOI: https://doi.org/10.1145/3630614.3630624
+Paper ID: https://openalex.org/W4388267461
+
+Abstract:
+Serverless computing has rapidly emerged as a popular deployment model. However, its energy and carbon implications are unclear and require exploration. This paper takes a look at the fundamental distinguishing attributes of serverless functions, and shows how some of them make energy-efficiency challenging. The programming model and deployment requirements of serverless functions makes them terribly energy inefficient---consuming more than 15× energy compared to conventional web services. On the bright side, FaaS is still actively expanding, and there is also an opportunity for rethinking FaaS resource management and deployment models, and make carbon efficiency a primary consideration. We present a few such techniques: moving functions to energy-friendly locations in distributed edge clouds; machine learning based modeling and control; and function-level demand response that combines ideas from approximate computing. Together, these represent a possible path forward to making serverless cloud computing sustainable.

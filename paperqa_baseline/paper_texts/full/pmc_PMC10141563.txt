@@ -1,0 +1,9 @@
+Title: Thermoplasmonic Vesicle Fusion Reveals Membrane Phase Segregation of Influenza Spike Proteins
+Authors: Guillermo Moreno-Pescador, Mohammad Reza Arastoo, Victoria Thusgaard Ruhoff, Salvatore Chiantia, Robert Daniels, Poul Martin Bendix
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00371
+Paper ID: pmc_PMC10141563
+
+Abstract:
+Many cellular processes involve the lateral organization of integral and peripheral membrane proteins into nanoscale domains. Despite the biological significance, the mechanisms that facilitate membrane protein clustering into nanoscale lipid domains remain enigmatic. In cells, the analysis of membrane protein phase affinity is complicated by the size and temporal nature of ordered and disordered lipid domains. To overcome these limitations, we developed a method for delivering membrane proteins from transfected cells into phase-separated model membranes that combines optical trapping with thermoplasmonic-mediated membrane fusion and confocal imaging. Using this approach, we observed clear phase partitioning into the liquid disordered phase following the transfer of GFP-tagged influenza hemagglutinin and neuraminidase from transfected cell membranes to giant unilamellar vesicles. The generic platform presented here allows investigation of the phase affinity of any plasma membrane protein which can be labeled or tagged with a fluorescent marker.

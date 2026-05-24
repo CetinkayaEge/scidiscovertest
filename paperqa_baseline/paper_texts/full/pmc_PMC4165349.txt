@@ -1,0 +1,9 @@
+Title: Processing of acoustic and phonological information of lexical tones in Mandarin Chinese revealed by mismatch negativity
+Authors: Keke Yu, Ruiming Wang, Li Li, Ping Li
+Year: 2014
+Venue: Frontiers in Human Neuroscience
+DOI: 10.3389/fnhum.2014.00729
+Paper ID: pmc_PMC4165349
+
+Abstract:
+The accurate perception of lexical tones in tonal languages involves the processing of both acoustic information and phonological information carried by the tonal signal. In this study we evaluated the relative role of the two types of information in native Chinese speaker’s processing of tones at a preattentive stage with event-related potentials (ERPs), particularly the mismatch negativity (MNN). Specifically, we distinguished the acoustic from the phonological information by manipulating phonological category and acoustic interval of the stimulus materials. We found a significant main effect of phonological category for the peak latency of MMN, but a main effect of both phonological category and acoustic interval for the mean amplitude of MMN. The results indicated that the two types of information, acoustic and phonological, play different roles in the processing of Chinese lexical tones: acoustic information only impacts the extent of tonal processing, while phonological information affects both the extent and the time course of tonal processing. Implications of these findings are discussed in light of neurocognitive processes of phonological processing.

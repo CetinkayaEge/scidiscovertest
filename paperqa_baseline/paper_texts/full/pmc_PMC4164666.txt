@@ -1,0 +1,9 @@
+Title: Design of dual-diameter nanoholes for efficient solar-light harvesting
+Authors: Cheng Zhang, Xiaofeng Li, Aixue Shang, Shaolong Wu, Yaohui Zhan, Zhenhai Yang
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-481
+Paper ID: pmc_PMC4164666
+
+Abstract:
+A dual-diameter nanohole (DNH) photovoltaic system is proposed, where a top (bottom) layer with large (small) nanoholes is used to improve the absorption for the short-wavelength (long-wavelength) solar incidence, leading to a broadband light absorption enhancement. Through three-dimensional finite-element simulation, the core device parameters, including the lattice constant, nanohole diameters, and nanohole depths, are engineered in order to realize the best light-matter coupling between nanostructured silicon and solar spectrum. The designed bare DNH system exhibits an outstanding absorption capability with a photocurrent density (under perfect internal quantum process) predicted to be 27.93 mA/cm 2 , which is 17.39%, 26.17%, and over 100% higher than the best single-nanohole (SNH) system, SNH system with an identical Si volume, and equivalent planar configuration, respectively. Considering the fabrication feasibility, a modified DNH system with an anti-reflection coating and back silver reflector is examined by simulating both optical absorption and carrier transport in a coupled way in frequency and three-dimensional spatial domains, achieving a light-conversion efficiency of 13.72%. PACS 85.60.-q; Optoelectronic device; 84.60.Jt; Photovoltaic conversion

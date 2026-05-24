@@ -1,0 +1,9 @@
+Title: Circularity in Europe strengthens the sustainability of the global food system
+Authors: H.H.E. van Zanten, Wolfram Simon, Benjamin van Selm, Jan-David Wacker, Thomas I. Maindl, Anita Frehner, Renske Hijbeek, M.K. van Ittersum, Mario Herrero
+Year: 2023
+Venue: Nature Food
+DOI: https://doi.org/10.1038/s43016-023-00734-9
+Paper ID: https://openalex.org/W4366162532
+
+Abstract:
+Redesigning the European food system on the basis of circularity principles could bring environmental benefits for Europe and the world. Here we deploy a biophysical optimization model to explore the effects of adopting three circularity scenarios in the European Union (EU)27 + UK. We calculate a potential reduction of 71% in agricultural land use and 29% per capita in agricultural greenhouse gas emissions, while producing enough healthy food within a self-sufficient European food system. Under global food shortages, savings in agricultural land could be used to feed an additional 767 million people outside the EU (+149%), while reducing per capita greenhouse gas emissions by 38% but increasing overall emissions by 55% due to the increased population served. Transitioning the EU's food system towards circularity implies sequential changes among all its components and has great potential to safeguard human and planetary health.

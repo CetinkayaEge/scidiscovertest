@@ -1,0 +1,9 @@
+Title: Electrically controlled mRNA delivery using a polypyrrole-graphene oxide hybrid film to promote osteogenic differentiation of human mesenchymal stem cells
+Authors: Huijung Kim, Kübra Solak, Yoojoong Han, Yeon-Woo Cho, Kyeong-Mo Koo, Chang-Dae Kim, Zhengtang Luo, Hyungbin Son, Hyung-Ryong Kim, Ahmet Mavi, Tae-Hyung Kim
+Year: 2022
+Venue: Nano Research
+DOI: 10.1007/s12274-022-4613-y
+Paper ID: pmc_PMC9308036
+
+Abstract:
+Direct messenger ribonucleic acid (mRNA) delivery to target cells or tissues has revolutionized the field of biotechnology. However, the applicability of regenerative medicine is limited by the technical difficulties of various mRNA-loaded nanocarriers. Herein, we report a new conductive hybrid film that could guide osteogenic differentiation of human adipose-derived mesenchymal stem cells (hADMSCs) via electrically controlled mRNA delivery. To find optimal electrical conductivity and mRNA-loading capacity, the polypyrrole-graphene oxide (PPy-GO) hybrid film was electropolymerized on indium tin oxide substrates. We found that the fluorescein sodium salt, a molecule partially mimicking the physical and chemical properties of mRNAs, can be effectively absorbed and released by electrical stimulation (ES). The hADMSCs cultivated on the PPy-GO hybrid film loaded with pre-osteogenic mRNAs showed the highest osteogenic differentiation under electrical stimulation. This platform can load various types of RNAs thus highly promising as a new nucleic acid delivery tool for the development of stem cell-based therapeutics. Electronic Supplementary Material Supplementary material (electrochemical and FT-IR analysis on the film, additional SEM, AFM and C-AFM images of the film, optical and fluorescence images of cells, and the primers used for RT-qPCR analysis) is available in the online version of this article at 10.1007/s12274-022-4613-y.

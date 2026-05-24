@@ -1,0 +1,9 @@
+Title: Selection of sustainable food suppliers using the Pythagorean fuzzy CRITIC-MARCOS method
+Authors: Yi Wang, Weizhong Wang, Zelin Wang, Muhammet Deveci, Sankar Kumar Roy, Seifedine Kadry
+Year: 2024
+Venue: Information Sciences
+DOI: https://doi.org/10.1016/j.ins.2024.120326
+Paper ID: https://openalex.org/W4392077419
+
+Abstract:
+Sustainable food supplier selection (SFSS) can be handled as an uncertain decision-making issue. The Pythagorean fuzzy set (PFS), a type of non-standard fuzzy set, offers an expanded description space for articulating fuzzy and uncertain data. Accordingly, this paper proposes a Pythagorean fuzzy synthetic decision method-based selection framework for solving the SFSS problem within a subjective context. Then, the weighted distance measures for the PFS are introduced to derive the importance degrees of the experts, which can provide a more objective decision result. Then, an information fusion method with a PFS-weighted power average (WPA) operator is introduced to form a group decision matrix competent to accommodate the deviation effect. Next, an extended PF-measurement of alternatives and ranking according to compromise solution (MARCOS) method integrating PF-criteria importance through inter-criteria correlation (CRITIC) is presented to calculate the priority of each supplier, which can capture the inter-correlations between criteria. Finally, a numerical example of SFSS is implemented to show the application of the proposed synthetic decision approach. Subsequently, the sensitivity analysis of distance parameters and comparison analysis among different SFSS approaches were conducted to test the rationality and advantages of the proposed framework for resolving the SFSS problem. The results show that the reported method can provide a practical way to resolve the SFSS problems with uncertain data.

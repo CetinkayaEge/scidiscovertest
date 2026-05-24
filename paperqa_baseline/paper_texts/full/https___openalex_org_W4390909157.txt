@@ -1,0 +1,9 @@
+Title: Aducanumab anti-amyloid immunotherapy induces sustained microglial and immune alterations
+Authors: Mika P. Cadiz, Katelin A. Gibson, Kennedi T. Todd, David Nascari, Nashali Massa, Meredith T. Lilley, Kimberly C. Olney, Md. Mamun Al-Amin, Hong Jiang, David M. Holtzman, John Denis Fryer
+Year: 2024
+Venue: The Journal of Experimental Medicine
+DOI: https://doi.org/10.1084/jem.20231363
+Paper ID: https://openalex.org/W4390909157
+
+Abstract:
+Aducanumab, an anti-amyloid immunotherapy for Alzheimer's disease, efficiently reduces Aβ, though its plaque clearance mechanisms, long-term effects, and effects of discontinuation are not fully understood. We assessed the effect of aducanumab treatment and withdrawal on Aβ, neuritic dystrophy, astrocytes, and microglia in the APP/PS1 amyloid mouse model. We found that reductions in amyloid and neuritic dystrophy during acute treatment were accompanied by microglial and astrocytic activation, and microglial recruitment to plaques and adoption of an aducanumab-specific pro-phagocytic and pro-degradation transcriptomic signature, indicating a role for microglia in aducanumab-mediated Aβ clearance. Reductions in Aβ and dystrophy were sustained 15 but not 30 wk after discontinuation, and reaccumulation of plaques coincided with loss of the microglial aducanumab signature and failure of microglia to reactivate. This suggests that despite the initial benefit from treatment, microglia are unable to respond later to restrain plaque reaccumulation, making further studies on the effect of amyloid-directed immunotherapy withdrawal crucial for assessing long-term safety and efficacy.

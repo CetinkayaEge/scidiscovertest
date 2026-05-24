@@ -1,0 +1,9 @@
+Title: Implementation of a cylindrical distribution function for the analysis of anisotropic molecular dynamics simulations
+Authors: Richard J. Mandle
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279679
+Paper ID: pmc_PMC9803122
+
+Abstract:
+The cylindrical distribution function (CDF) is a convenient anisotropic analogue of the radial distribution function, the difference being the use of cylindrical shells for binning. As such, CDF analysis can be a powerful tool for the analysis of positional correlations within anisotropic systems, such as liquid crystals. Here we describe a lightweight Python tool, cylindr , for the calculation of cylindrical distribution function, which is compatible with the output of a number of popular MD engines. We demonstrate the use of cylindr in computing the CDF of a number of exemplar materials: classical and ferroelectric nematics; lamellar and columnar liquid crystals.

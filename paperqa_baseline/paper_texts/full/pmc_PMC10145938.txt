@@ -1,0 +1,9 @@
+Title: Targeting fibrinogen-like protein 1 enhances immunotherapy in hepatocellular carcinoma
+Authors: Mingen Lin, Jing He, Xinchao Zhang, Xue Sun, Wenjing Dong, Ruonan Zhang, Yanping Xu, Lei Lv
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI164528
+Paper ID: pmc_PMC10145938
+
+Abstract:
+How cancer cells evade the therapeutic effects of immune checkpoint blockade is largely unknown. Here, we report that fibrinogen-like protein 1 (FGL1), a newly identified immune checkpoint ligand, was modified by acetylation at Lys 98 in hepatocellular carcinoma (HCC), which targeted it for proteasomal degradation. Sirtuin 2 (SIRT2) deacetylated and stabilized FGL1, thus promoting immune evasion. Notably, the SIRT2 inhibitor 2-Cyano-3-[5-(2,5-dichlorophenyl)-2-furanyl]-N-5-quinolinyl-2-propenamide (AGK2) enhanced acetylation of FGL1 and reduced FGL1 protein levels in vitro. The combination of AGK2 and programmed death ligand 1 (PD-L1) blockade effectively suppressed tumor growth and improved overall survival of mice. Furthermore, aspirin, an old drug, could directly acetylate FGL1 at Lys 98 and promote its degradation in vitro. Aspirin enhanced the immunotherapeutic efficacy, induced tumor regression, and extended the lifespan of tumor-bearing mice. Furthermore, the SIRT2/FGL1 axis was expressed in HCC specimens. Collectively, these findings unveil an acetylation-mediated regulation of FGL1, identify a potential target for HCC immunotherapy, and provide therapeutic strategies for the clinical treatment of HCC.

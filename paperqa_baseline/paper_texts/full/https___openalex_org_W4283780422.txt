@@ -1,0 +1,9 @@
+Title: The influence of economic factors on the sustainable energy consumption: evidence from China
+Authors: Muhammad Sadiq, Jenho Peter Ou, Khoa Dang Duong, Le Van, Thanh Quang Ngo, Thanh Xuan Bui
+Year: 2022
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2022.2093244
+Paper ID: https://openalex.org/W4283780422
+
+Abstract:
+Recently, sustainable energy consumption has been a significant factor in reducing environmental degradation due to the high economic growth, and this phenomenon demands more attention of scholars and policymakers. Thus, the current literature examines the impact of economic factors such as economic growth, foreign direct investment (FDI), inflation, and population growth on sustainable energy consumption (SEC), particularly in renewable energy consumption (REC) in China. This study used secondary data collection methods extracted from world development indicators (WDI), incorporating stationary tests like Phillips-Perron (PP) and Augmented Dickey-Fuller (ADF) to check the unit root of the constructs. The time-series data involved are from 1981 to 2019. The autoregressive distributed lag (ARDL) model was utilized to examine the association among the variables. The results indicated that economic growth, FDI, inflation, and population growth were positively associated with SEC in China. This study provides the guidelines to the policymakers to develop policies related to the SEC.

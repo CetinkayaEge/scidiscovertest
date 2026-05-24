@@ -1,0 +1,9 @@
+Title: A comprehensive review of pre- and post-treatment approaches to achieve sustainable desalination for different water streams
+Authors: Kristofer Poirier, Mohsen Lotfi, Kapil Garg, Kumar Patchigolla, Edward J. Anthony, Nadimul Haque Faisal, Vinay Mulgundmath, Jai Krishna Sahith Sayani, Prashant Jadhawar, Liam Koh, Tatiana Morosuk, Najah Al Mhanna
+Year: 2023
+Venue: Desalination
+DOI: https://doi.org/10.1016/j.desal.2023.116944
+Paper ID: https://openalex.org/W4386170144
+
+Abstract:
+Desalination is an energy intensive process requiring adequate pre- and post- treatment. The novelty of this paper is that it jointly reviews the technologies for pre-treatment, desalination and post-treatment and bridges the gap between them while comparing the treatment methods needed depending on the type of feed water including seawater, brackish water, municipal and industrial wastewater. Those different streams show wide variability, sometimes containing organics, oil or scaling precursors which require adequate treatment. Nowadays, membrane pre-treatment methods have become promising alternatives to conventional pre-treatment techniques thanks to their flexibility. Hybrid desalination technologies have shown great potential in reducing energy consumption. Moreover, desalination plants produce large quantities of brines which require post-treatment to reduce environmental impacts. Current research on post-treatment is looking into recovering salts, metals and potable water from brines to achieve zero liquid discharge (ZLD). Thermal-based ZLD technologies are capable of extracting those resources while membrane-based ZLD methods are mostly limited to pre-concentration and water recovery due to fouling issues. Several studies have shown that ZLD systems can lower the cost of water and increase profitability if crystals and water are recovered and sold for additional revenue.

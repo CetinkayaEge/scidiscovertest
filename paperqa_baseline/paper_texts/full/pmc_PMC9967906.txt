@@ -1,0 +1,9 @@
+Title: Noncoding RNA Regulation of Hormonal and Metabolic Systems in the Fruit Fly Drosophila
+Authors: Ki-Kei Chan, Ting-Fung Chan, William Bendena, Jerome H. L. Hui
+Year: 2023
+Venue: Metabolites
+DOI: 10.3390/metabo13020152
+Paper ID: pmc_PMC9967906
+
+Abstract:
+The importance of RNAs is commonly recognised thanks to protein-coding RNAs, whereas non-coding RNAs (ncRNAs) were conventionally regarded as ‘junk’. In the last decade, ncRNAs’ significance and roles are becoming noticeable in various biological activities, including those in hormonal and metabolic regulation. Among the ncRNAs: microRNA (miRNA) is a small RNA transcript with ~20 nucleotides in length; long non-coding RNA (lncRNA) is an RNA transcript with >200 nucleotides; and circular RNA (circRNA) is derived from back-splicing of pre-mRNA. These ncRNAs can regulate gene expression levels at epigenetic, transcriptional, and post-transcriptional levels through various mechanisms in insects. A better understanding of these crucial regulators is essential to both basic and applied entomology. In this review, we intend to summarise and discuss the current understanding and knowledge of miRNA, lncRNA, and circRNA in the best-studied insect model, the fruit fly Drosophila .

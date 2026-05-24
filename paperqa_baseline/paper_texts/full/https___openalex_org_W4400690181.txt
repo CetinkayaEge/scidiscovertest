@@ -1,0 +1,9 @@
+Title: Sustainable urban transformations based on integrated microgrid designs
+Authors: Sadeeb Simon Ottenburger, R. A. Cox, Badrul Chowdhury, Dmytro Trybushnyi, Ehmedi Al Omar, Sujay Kaloti, Ulrich Ufer, Witold‐Roger Poganietz, Weijia Liu, Evgenia Deines, Tim Müller, Stella Möhrle, W. Raskob
+Year: 2024
+Venue: Nature Sustainability
+DOI: https://doi.org/10.1038/s41893-024-01395-7
+Paper ID: https://openalex.org/W4400690181
+
+Abstract:
+Abstract The impacts of natural hazards on infrastructure, enhanced by climate change, are increasingly more severe emphasizing the necessity of resilient energy grids. Microgrids, tailored energy systems for specific neighbourhoods and districts, play a pivotal role in sustaining energy supply during main grid outages. These solutions not only mitigate economic losses and well-being disruptions against escalating hazards but also enhance city resilience in alignment with Sustainable Development Goal (SDG) 11. However, disregarding socioeconomic factors in defining microgrid boundaries risks perpetuating inequalities and impeding progress towards other SDG 11 targets, including fair democratic participation. Our approach integrates social and technical indicators to bolster urban microgrid planning. Through a case study in a US county, we illustrate how integrated microgrid planning effectively intertwines urban resilience, well-being and equity while promoting sustainable development. This study underscores the importance of integrated microgrid planning for sustainable and resilient urban transformation amid environmental and societal challenges.

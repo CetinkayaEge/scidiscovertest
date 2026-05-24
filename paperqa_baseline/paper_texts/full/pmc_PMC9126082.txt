@@ -1,0 +1,9 @@
+Title: Sulfotransferase activity contributes to long-term potentiation and long-term memory
+Authors: Biswaranjan Sahoo, Shiv K. Sharma
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053538.121
+Paper ID: pmc_PMC9126082
+
+Abstract:
+A critical role of protein modifications such as phosphorylation and acetylation in synaptic plasticity and memory is well documented. Tyrosine sulfation plays important roles in several biological processes. However, its role in synaptic plasticity and memory is not well understood. Here, we show that sulfation contributes to long-term potentiation (LTP) in the hippocampal slices. In addition, inhibition of sulfation impairs long-term memory in a spatial memory task without affecting acquisition or short-term memory. Furthermore, LTP-inducing stimulus enhances protein tyrosine sulfation. These results suggest an important role for tyrosine sulfation in LTP and memory.

@@ -1,0 +1,9 @@
+Title: Sustainable Wearable Sensors for Plant Monitoring and Precision Agriculture
+Authors: Samiris Côcco Teixeira, Nathalia O. Gomes, Taíla Veloso de Oliveira, Nilda de Fátima Ferreira Soares, Paulo A. Raymundo‐Pereira
+Year: 2025
+Venue: Analytical Chemistry
+DOI: https://doi.org/10.1021/acs.analchem.5c01565
+Paper ID: https://openalex.org/W4411490834
+
+Abstract:
+Wearable sensors are emerging and innovative tools in the realm of agriculture, offering new opportunities for sustainable plant monitoring practices. This perspective explores wearable sensor technology in plant monitoring to promote environmental sustainability and enhance agricultural productivity. Wearable sensors, capable of continuously tracking plant health indicators such as salinity, diseases, metabolites, pH, ions, pathogens, pesticides, parasites, phytohormones, nutrient status, moisture levels, and pest activity, provide real-time information to make precise and timely decisions. Farmers can use the diverse collected data to enhance resource use, reducing waste and the environmental impact of agricultural practices. Here, we highlight the current advancements in wearable sensor technology and explore potential applications in diverse agricultural settings, with the challenges and opportunities to be addressed to fully implement by the farming community. We also emphasize the sustainable and biodegradable substrates/supports relying on eco-friendly polymeric materials for the fabrication of cost-effective, flexible, durable, stable, and easily deployable sensor systems, which can be extensively applied by the agrifood sector. We provide a forward-looking perspective on how wearable sensors can contribute to more sustainable and efficient plant monitoring practices in precision agriculture. Given the disruptive innovation, wearable plant sensors were highlighted as Top 10 Emerging Technologies by World Economic Forum in 2023.

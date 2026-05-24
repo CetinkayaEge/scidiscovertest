@@ -1,0 +1,9 @@
+Title: Niche stiffness sustains cancer stemness via TAZ and NANOG phase separation
+Authors: Xinwei Liu, Yingying Ye, Liling Zhu, Xiaoyun Xiao, Boxuan Zhou, Yuanting Gu, Hang Si, Huixin Liang, Mingzhu Liu, Jiaqian Li, Qiongchao Jiang, Jiang Li, Shubin Yu, Ruiying Ma, Shicheng Su, Jian‐You Liao, Qiyi Zhao
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-35856-y
+Paper ID: https://openalex.org/W4316494557
+
+Abstract:
+Emerging evidence shows that the biomechanical environment is required to support cancer stem cells (CSCs), which play a crucial role in drug resistance. However, how mechanotransduction signals regulate CSCs and its clinical significance has remained unclear. Using clinical-practice ultrasound elastography for patients' lesions and atomic force microscopy for surgical samples, we reveal that increased matrix stiffness is associated with poor responses to neoadjuvant chemotherapy, worse prognosis, and CSC enrichment in patients with breast cancer. Mechanically, TAZ activated by biomechanics enhances CSC properties via phase separation with NANOG. TAZ-NANOG phase separation, which is dependent on acidic residues in the N-terminal activation domain of NANOG, promotes the transcription of SOX2 and OCT4. Therapeutically, targeting NANOG or TAZ reduces CSCs and enhances the chemosensitivity in vivo. Collectively, this study demonstrated that the phase separation of a pluripotency transcription factor links mechanical cues in the niche to the fate of CSCs.

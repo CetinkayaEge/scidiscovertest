@@ -1,0 +1,9 @@
+Title: New Trend in Toxicological Screening Using Volumetric Absorptive Microsampling (VAMS) and High-Resolution Mass Spectrometry (HR/MS) Combination
+Authors: Pascal Houzé, Ilona Borowski, Eugénie Bito, Romain Magny, Athina Morcos, Sebastian Voicu, Bruno Mégarbane, Laurence Labat
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083466
+Paper ID: pmc_PMC10141006
+
+Abstract:
+In toxicology, screenings are routinely performed using chromatographic methods coupled to detection systems such as high-resolution mass spectrometry (HR/MS). The increase in specificity and sensitivity of HRMS is responsible for the development of methods for alternative samples such as Volumetric Adsorptive Micro-Sampling. Whole blood overloaded with 90 drugs was sampled with 20 µL Mitra TM to optimize the pre-analytical step as well as to determine the identification limits of drugs. Elution of chemicals was carried out in a solvent mixture through agitation and sonication. After dissolution, 10 μL was injected into the chromatographic system coupled to the Orbitrap TM HR/MS. Compounds were confirmed against the laboratory library. The clinical feasibility was assessed in fifteen poisoned patients using the simultaneous sampling of plasma, whole blood and Mitra TM . The optimized extraction procedure allowed us to confirm 87 compounds out of the 90 present in the spiked whole blood. Cannabis derivatives were not detected. For 82.2% of the investigated drugs, the identification limits were below 12.5 ng·mL −1 , with the extraction yields ranging from 80.6 to 108.7%. Regarding the patients’ analysis, 98% of the compounds in plasma were detected in Mitra TM compared to whole blood, with a satisfying concordance (R 2 = 0.827). Our novel screening approach opens new insights into different toxicologic fields appropriate for pediatrics, forensics or to perform mass screening.

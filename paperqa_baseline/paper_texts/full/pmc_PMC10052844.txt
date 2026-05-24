@@ -1,0 +1,9 @@
+Title: Control and Measurement Systems Supporting the Production of Haylage in Baler-Wrapper Machines
+Authors: Michał Zawada, Mateusz Nijak, Jarosław Mac, Jan Szczepaniak, Stanisław Legutko, Julia Gościańska-Łowińska, Sebastian Szymczyk, Michał Kaźmierczak, Mikołaj Zwierzyński, Jacek Wojciechowski, Tomasz Szulc, Roman Rogacki
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062992
+Paper ID: pmc_PMC10052844
+
+Abstract:
+Baler-wrappers are machines designed to produce high-quality forage, in accordance with the requirements of sustainable agriculture. Their complicated structure, and significant loads occurring during operation, prompted the creation of systems for controlling the machines’ processes and measuring the most important work parameters, in this work. The compaction control system is based on a signal from the force sensors. It allows for detection differences in the compression of the bale and additionally protects against overload. The method of measuring the swath size, with the use of a 3D camera, was presented. Scanning the surface and travelled distance allows for estimating the volume of the collected material—making it possible to create yield maps (precision farming). It is also used to vary the dosage of ensilage agents, that control the fodder formation process, in relation to the moisture and temperature of the material. The paper also deals with the issue of measuring the weight of the bales—securing the machine against overload and collecting data for planning the bales’ transport. The machine, equipped with the above-mentioned systems, allows for safer and more efficient work, and provides information about the state of the crop in relation to a geographical position, which allows for further inferences.

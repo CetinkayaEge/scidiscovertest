@@ -1,0 +1,9 @@
+Title: Analysing the antecedents to digital platform implementation for resilient and sustainable manufacturing supply chains - An IDEF0 modelling approach
+Authors: Arpita Chari, Johan Stahre, Maja Bärring, Mélanie Despeisse, Dan Li, Martin Friis, Magnus Mörstam, Björn Johansson
+Year: 2023
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2023.139598
+Paper ID: https://openalex.org/W4388130116
+
+Abstract:
+Digital platforms offer opportunities to enhance the resilience of manufacturing supply chains facing complexity, data sharing challenges, external stressors (e.g., resource scarcity, geo-political factors), emerging risks and environmental sustainability. Despite the growing importance of digital platforms for industrial value creation, limited research has focused on their practical application in this context. Furthermore, a comprehensive understanding of the holistic factors crucial for successful implementation is lacking. Through a qualitative empirical research approach involving three case companies in a manufacturing value chain, this study examines the challenges, requirements, and opportunities associated with leveraging digital platforms for resilient supply chains. Additionally, the paper demonstrates the use of a structured modelling technique, IDEF0, to identify interconnected antecedents that support the use of digital platforms in building resilience within manufacturing supply chains. The findings contribute to advancing knowledge in resilience modelling and dynamic capabilities for resilience, along with providing valuable insights for practitioners seeking to harness the potential of digital platforms for improved supply chain resilience.

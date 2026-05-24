@@ -1,0 +1,9 @@
+Title: UAV-Aided Dual-User Wireless Power Transfer: 3D Trajectory Design and Energy Optimization
+Authors: Xiaogang Gou, Zhaojie Sun, Kaiyuan Huang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062994
+Paper ID: pmc_PMC10052942
+
+Abstract:
+Unmanned aerial vehicles (UAVs) have been widely considered to enhance the communication coverage, as well as the wireless power transfer (WPT) of energy-constrained communication networks to prolong their lifetime. However, the trajectory design of a UAV in such a system remains a key problem, especially considering the three-dimensional (3D) feature of the UAV. To address this issue, a UAV-assisted dual-user WPT system was investigated in this paper, where a UAV-mounted energy transmitter (ET) flies in the air to broadcast wireless energy to charge the energy receivers (ERs) on the ground. By optimizing the UAV’s 3D trajectory toward a balanced tradeoff between energy consumption and WPT performance, the energy harvested by all ERs during a given mission period was maximized. The above goal was achieved through the following detailed designs. On the one hand, on the basis of previous research results, there is a one-to-one correspondence between the UAV’s abscissa and height, so only the relationship between the height and time was focused on in this work to obtain the UAV’s optimal 3D trajectory. On the other hand, the idea of calculus was employed to calculate the total harvested energy, leading to the proposed high-efficiency trajectory design. Finally, the simulation results demonstrated that this contribution is capable of enhancing the energy supply by carefully designing the 3D trajectory of the UAV, compared to its conventional counterpart. In general, the above-mentioned contribution could be a promising way for UAV-aided WPT in the future Internet of Things (IoT) and wireless sensor networks (WSNs).

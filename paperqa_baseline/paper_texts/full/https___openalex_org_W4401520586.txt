@@ -1,0 +1,9 @@
+Title: Portfolio optimization for sustainable investments
+Authors: Armin Varmaz, Christian Fieberg, Thorsten Poddig
+Year: 2024
+Venue: Annals of Operations Research
+DOI: https://doi.org/10.1007/s10479-024-06189-w
+Paper ID: https://openalex.org/W4401520586
+
+Abstract:
+Abstract In mean-variance portfolio optimization, multi-index models often accelerate computation, reduce input requirements, facilitate understanding, and allow easy adjustment to changing conditions more effectively than full covariance matrix estimation in many situations. In this paper, we develop a multi-index model-based portfolio optimization approach that takes into account aspects of the environment, social responsibility and corporate governance (ESG). Investments in assets related to ESG have recently grown, attracting interest from both academic research and investment fund practice. Various literature strands in this area address the theoretical and empirical relation among return, risk and ESG. Our portfolio optimization approach is flexible enough to take these literature strands into account and does not require large-scale covariance matrix estimation. An extension of our approach even allows investors to empirically discriminate among the literature strands. A case study demonstrates the application of our portfolio optimization approach.

@@ -1,0 +1,9 @@
+Title: ChatGPT takes on the European Exam in Core Cardiology: an artificial intelligence success story?
+Authors: Ioannis Skalidis, Aurelien Cagnina, Wongsakorn Luangphiphat, Thabo Mahendiran, Olivier Muller, Emmanuel Abbe, Stephane Fournier
+Year: 2023
+Venue: European Heart Journal. Digital Health
+DOI: 10.1093/ehjdh/ztad029
+Paper ID: pmc_PMC10232281
+
+Abstract:
+Abstract Chat Generative Pre-trained Transformer (ChatGPT) is currently a trending topic worldwide triggering extensive debate about its predictive power, its potential uses, and its wider implications. Recent publications have demonstrated that ChatGPT can correctly answer questions from undergraduate exams such as the United States Medical Licensing Examination. We challenged it to answer questions from a more demanding, post-graduate exam—the European Exam in Core Cardiology (EECC), the final exam for the completion of specialty training in Cardiology in many countries. Our results demonstrate that ChatGPT succeeds in the EECC.

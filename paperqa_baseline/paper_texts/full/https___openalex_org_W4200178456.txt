@@ -1,0 +1,9 @@
+Title: A comprehensive review of research works based on evolutionary game theory for sustainable energy development
+Authors: Gang Wang, Yuechao Chao, Yong Min Cao, Tieliu Jiang, Wei Han, Zeshao Chen
+Year: 2021
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2021.11.231
+Paper ID: https://openalex.org/W4200178456
+
+Abstract:
+The evolutionary game theory method has been widely used in the research works about different kinds of energy utilization fields, especially the clean energy utilizations which can facilitate the sustainable energy development. This paper presents a research review of the evolutionary game theory (EGT)-based studies on different energy-related aspects, including the traditional energy utilizations, energy saving and carbon emission reduction, new energy utilizations, new energy vehicles, electric power market, distributed energy systems, micro-grid, smart grid and energy storage. Typical research works based on the evolutionary game theory method and relevant algorithms are introduced and summarized. To promote the sustainable developments of energy utilization technologies as well as the usage of evolutionary game theory method, typical existing problems and several general recommendations about the further EGT-based research works are also proposed. The potential further works based on the evolutionary game theory approach may include the EGT-based studies considering more complex initial conditions and influential factors, verifications of the applicabilities and feasibilities of the evolutionary game theory method based on practical examples, research works with evolutionary game models consisting of more participants, and research and development (R&D) works of new EGT-based or hybrid algorithms.

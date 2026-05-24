@@ -1,0 +1,9 @@
+Title: Smart Farming: Internet of Things (IoT)-Based Sustainable Agriculture
+Authors: D Muthumanickam, C. Poongodi, R. Kumaraperumal, S Pazhanivelan, K P Ragunath
+Year: 2022
+Venue: Agriculture
+DOI: https://doi.org/10.3390/agriculture12101745
+Paper ID: https://openalex.org/W4307117576
+
+Abstract:
+Smart farming is a development that has emphasized information and communication technology used in machinery, equipment, and sensors in network-based hi-tech farm supervision cycles. Innovative technologies, the Internet of Things (IoT), and cloud computing are anticipated to inspire growth and initiate the use of robots and artificial intelligence in farming. Such ground-breaking deviations are unsettling current agriculture approaches, while also presenting a range of challenges. This paper investigates the tools and equipment used in applications of wireless sensors in IoT agriculture, and the anticipated challenges faced when merging technology with conventional farming activities. Furthermore, this technical knowledge is helpful to growers during crop periods from sowing to harvest; and applications in both packing and transport are also investigated.

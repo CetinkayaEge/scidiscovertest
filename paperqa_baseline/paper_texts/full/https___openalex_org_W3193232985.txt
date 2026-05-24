@@ -1,0 +1,9 @@
+Title: Applications of Biocatalysts for Sustainable Oxidation of Phenolic Pollutants: A Review
+Authors: Sanaz Salehi, Kourosh Abdollahi, Reza Panahi, Nejat Rahmanian, Mozaffar Shakeri, Babak Mokhtarani
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158620
+Paper ID: https://openalex.org/W3193232985
+
+Abstract:
+Phenol and its derivatives are hazardous, teratogenic and mutagenic, and have gained significant attention in recent years due to their high toxicity even at low concentrations. Phenolic compounds appear in petroleum refinery wastewater from several sources, such as the neutralized spent caustic waste streams, the tank water drain, the desalter effluent and the production unit. Therefore, effective treatments of such wastewaters are crucial. Conventional techniques used to treat these wastewaters pose several drawbacks, such as incomplete or low efficient removal of phenols. Recently, biocatalysts have attracted much attention for the sustainable and effective removal of toxic chemicals like phenols from wastewaters. The advantages of biocatalytic processes over the conventional treatment methods are their ability to operate over a wide range of operating conditions, low consumption of oxidants, simpler process control, and no delays or shock loading effects associated with the start-up/shutdown of the plant. Among different biocatalysts, oxidoreductases (i.e., tyrosinase, laccase and horseradish peroxidase) are known as green catalysts with massive potentialities to sustainably tackle phenolic contaminants of high concerns. Such enzymes mainly catalyze the o-hydroxylation of a broad spectrum of environmentally related contaminants into their corresponding o-diphenols. This review covers the latest advancement regarding the exploitation of these enzymes for sustainable oxidation of phenolic compounds in wastewater, and suggests a way forward.

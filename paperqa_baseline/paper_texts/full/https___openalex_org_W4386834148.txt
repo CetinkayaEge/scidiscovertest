@@ -1,0 +1,9 @@
+Title: Formation of the Model of Sustainable Economic Development of Renewable Energy
+Authors: Oleksandr Dluhopolskyi, Serhii Kozlovskyi, Yurii Popovskyi, Svitlana Lutkovska, Віра Бутенко, Taras Popovskyi, Hennadii Mazur, Andrii Kozlovskyi
+Year: 2023
+Venue: Economics
+DOI: https://doi.org/10.2478/eoik-2023-0050
+Paper ID: https://openalex.org/W4386834148
+
+Abstract:
+Abstract The article considers the use of sustainable energy as a potentially effective alternative energy source capable of replacing traditional natural fuels. The aim of the research is to develop a complex model of sustainable economic development able to promote introducing and expanding sustainable power engineering as potential alternative energy source, providing sustainable economic development, energy efficiency and reducing damages to the environment. The hypothesis lies in introduction of a model for sustainable economic development due to expansion of renewable energy which will result in economic growth, rise in energy efficacy and reducing hazards to the environment. A comparative analysis of costs and revenues of various types for using energy sources was carried out to estimate the economic efficiency and feasibility of renewable energy. The data analysis toolkit uses MS Power BI software, in which the data model was created. The conducted regression analysis provided valuable nu-merical and practical results on formation of the model of sustainable economic development of renewable power engineering. The research is based on the analysis of the impact “share of energy” on the level of electric energy import and CO 2 emissions. It is recommended to intensify efforts to develop renewable energy as a key direction for sustainable economic development to ensure energy security, reduce negative environmental impact and achieve global sustainable development goals.

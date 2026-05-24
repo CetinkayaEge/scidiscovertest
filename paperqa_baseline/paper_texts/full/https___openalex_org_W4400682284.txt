@@ -1,0 +1,9 @@
+Title: Sustainable AI and the third wave of AI ethics: a structural turn
+Authors: Larissa Bolte, Aimee van Wynsberghe
+Year: 2024
+Venue: AI and Ethics
+DOI: https://doi.org/10.1007/s43681-024-00522-6
+Paper ID: https://openalex.org/W4400682284
+
+Abstract:
+Abstract With the introduction of the concept of Sustainable AI, considerations of the environmental impact of the technology have begun to enter AI ethics discussions. This, Aimee van Wynsberghe suggests, constitutes a new “third wave of AI ethics” which yet needs to be ushered in. In this paper, we ask what is entailed by Sustainable AI that should warrant such special accentuation. Do we find simply run-of-the-mill AI ethics applied to an environmental context? Or does Sustainable AI constitute a true a “game-changer”? We engage in a discussion about what the “waves of AI ethics” ought to mean and the criteria for labelling a wave as such. We argue that the third wave of AI ethics rests on a turn towards a structural approach for uncovering ethical issues on a broader scale, often paired with an analysis of power structures that prevent the uncovering of these issues.

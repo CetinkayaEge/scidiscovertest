@@ -1,0 +1,9 @@
+Title: An All-Fiber Fabry–Pérot Sensor for Emulsion Concentration Measurements
+Authors: Simon Pevec, Janez Kunavar, Vedran Budinski, Matej Njegovec, Denis Donlagic
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041905
+Paper ID: pmc_PMC9967868
+
+Abstract:
+This paper describes a Fabry–Pérot sensor-based measuring system for measuring fluid composition in demanding industrial applications. The design of the sensor is based on a two-parametric sensor, which enables the simultaneous measurement of temperature and refractive index (RI). The system was tested under real industrial conditions, and enables temperature-compensated online measurement of emulsion concentration with a high resolution of 0.03 Brix. The measuring system was equipped with filtering of the emulsion and automatic cleaning of the sensor, which proved to be essential for successful implementation of a fiber optic RI sensor in machining emulsion monitoring applications.

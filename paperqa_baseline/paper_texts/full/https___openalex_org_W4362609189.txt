@@ -1,0 +1,9 @@
+Title: Comprehensive Analysis of Multi-Objective Optimization Algorithms for Sustainable Hybrid Electric Vehicle Charging Systems
+Authors: Nahar F. Alshammari, Mohamed Mahmoud Samy, Shimaa Barakat
+Year: 2023
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math11071741
+Paper ID: https://openalex.org/W4362609189
+
+Abstract:
+This study presents a multi-objective optimization approach for designing hybrid renewable energy systems for electric vehicle (EV) charging stations that considers both economic and reliability factors as well as seasonal variations in energy production and consumption. Four algorithms, MOPSO, NSGA-II, NSGA-III, and MOEA/D, were evaluated in terms of their convergence, diversity, efficiency, and robustness. Unlike previous studies that focused on single-objective optimization or ignored seasonal variations, our approach results in a more comprehensive and sustainable design for EV charging systems. The proposed system includes a 223-kW photovoltaic system, an 80-kW wind turbine, and seven Lithium-Ion battery banks, achieving a total net present cost of USD 564,846, a levelized cost of electricity of 0.2521 USD/kWh, and a loss of power supply probability of 1.21%. NSGA-II outperforms the other algorithms in terms of convergence and diversity, while NSGA-III is the most efficient, and MOEA/D has the highest robustness. The findings contribute to the development of efficient and reliable renewable energy systems for urban areas, emphasizing the importance of considering both economic and reliability factors in the design process. Our study represents a significant advance in the field of hybrid renewable energy systems for EV charging stations.

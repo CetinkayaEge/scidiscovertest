@@ -1,0 +1,9 @@
+Title: A big data approach to assess progress towards Sustainable Development Goals for cities of varying sizes
+Authors: Yu Liu, Bo Huang, Huadong Guo, Jianguo Liu
+Year: 2023
+Venue: Communications Earth & Environment
+DOI: https://doi.org/10.1038/s43247-023-00730-8
+Paper ID: https://openalex.org/W4360977132
+
+Abstract:
+Abstract Cities are the engines for implementing the Sustainable Development Goals (SDGs), which provide a blueprint for achieving global sustainability. However, knowledge gaps exist in quantitatively assessing progress towards SDGs for different-sized cities. There is a shortage of relevant statistical data for many cities, especially small cities, in developing/underdeveloped countries. Here we devise and test a systematic method for assessing SDG progress using open-source big data for 254 Chinese cities and compare the results with those obtained using statistical data. We find that big data is a promising alternative for tracking the overall SDG progress of cities, including those lacking relevant statistical data (83 Chinese cities). Our analysis reveals decreasing SDG Index scores (representing the overall SDG performance) with the decrease in the size of Chinese cities, suggesting the need to improve SDG progress in small and medium cities to achieve more balanced sustainability at the (sub)national level.

@@ -1,0 +1,9 @@
+Title: A Natural Language Processing Model on BERT and YAKE Technique for Keyword Extraction on Sustainability Reports
+Authors: Akriti Gupta, Aman Chadha, Vijaishri Tewari
+Year: 2024
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2024.3352742
+Paper ID: https://openalex.org/W4390805475
+
+Abstract:
+Sustainability has become the greatest aspiration on the planet, as every organization has begun reorienting itself to become one. To accomplish this, organizations must strike a balance between their Environmental, Social, and Governance (ESG) policies. It is essential to examine the organizations that currently exist. For this reason, the study conducts a thematic analysis of the sustainability reports of Forbes’ India’s top companies in 2021 in order to determine their current ESG focus using BERT tokenization and YAKE technique along with MLM and NSP methods of natural language processing (NLP). The experiment results in prediction with 98% accuracy. The study addresses the question, "What must organizations do to embark on the path towards sustainability?".

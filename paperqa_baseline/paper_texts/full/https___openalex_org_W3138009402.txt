@@ -1,0 +1,9 @@
+Title: Toward a Chatbot for Financial Sustainability
+Authors: Sewoong Hwang, Jonghyuk Kim
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13063173
+Paper ID: https://openalex.org/W3138009402
+
+Abstract:
+This study examines technology effectiveness for industry demand in which artificial intelligence (AI) is applied in the financial sector. It summarizes prior studies on chatbot and customer service and investigates theories on acceptance attitudes for innovative technologies. By setting variables, the study examines bank revenue methodologically and assesses the impact of customer service and chatbot on bank revenues through customer age classification. The results indicate that new product-oriented funds or housing subscription savings are more suitable for purchase through customer service than through chatbot. However, services for existing products through chatbot positively affect banks’ net income. When classified by age, purchases by the majority age group in the channel positively affect bank profits. Finally, there is a tendency to process small banking transactions through the chatbot system, which saves transaction and management costs, positively affecting profits. Through empirical analysis, we first examine the effect of an AI-based chatbot system implemented to strengthen financial soundness and suggest policy alternatives. Second, we use banking data to increase the study’s real-life applicability and prove that problems in customer service can be solved through a chatbot system. Finally, we investigate how resistance to technology can be reduced and efficiently accommodated.

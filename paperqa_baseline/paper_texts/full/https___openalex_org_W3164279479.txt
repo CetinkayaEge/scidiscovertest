@@ -1,0 +1,9 @@
+Title: Sustainable Human–Robot Collaboration Based on Human Intention Classification
+Authors: Chiuhsiang Joe Lin, Rio Prasetyo Lukodono
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13115990
+Paper ID: https://openalex.org/W3164279479
+
+Abstract:
+Sustainable manufacturing plays a role in ensuring products’ economic characteristics and reducing energy and resource consumption by improving the well-being of human workers and communities and maintaining safety. Using robots is one way for manufacturers to increase their sustainable manufacturing practices. Nevertheless, there are limitations to directly replacing humans with robots due to work characteristics and practical conditions. Collaboration between robots and humans should accommodate human capabilities while reducing loads and ineffective human motions to prevent human fatigue and maximize overall performance. Moreover, there is a need to establish early and fast communication between humans and machines in human–robot collaboration to know the status of the human in the activity and make immediate adjustments for maximum performance. This study used a deep learning algorithm to classify muscular signals of human motions with accuracy of 88%. It indicates that the signal could be used as information for the robot to determine the human motion’s intention during the initial stage of the entire motion. This approach can increase not only the communication and efficiency of human–robot collaboration but also reduce human fatigue by the early detection of human motion patterns. To enhance human well-being, it is suggested that a human–robot collaboration assembly line adopt similar technologies for a sustainable human–robot collaboration workplace.

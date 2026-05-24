@@ -1,0 +1,9 @@
+Title: Aperiodic TiO 2 Nanotube Photonic Crystal: Full-Visible-Spectrum Solar Light Harvesting in Photovoltaic Devices
+Authors: Min Guo, Keyu Xie, Yu Wang, Limin Zhou, Haitao Huang
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep06442
+Paper ID: pmc_PMC4171702
+
+Abstract:
+Bandgap engineering of a photonic crystal is highly desirable for photon management in photonic sensors and devices. Aperiodic photonic crystals (APCs) can provide unprecedented opportunities for much more versatile photon management, due to increased degrees of freedom in the design and the unique properties brought about by the aperiodic structures as compared to their periodic counterparts. However, many efforts still remain on conceptual approaches, practical achievements in APCs are rarely reported due to the difficulties in fabrication. Here, we report a simple but highly controllable current-pulse anodization process to design and fabricate TiO 2 nanotube APCs. By coupling an APC into the photoanode of a dye-sensitized solar cell, we demonstrate the concept of using APC to achieve nearly full-visible-spectrum light harvesting, as evidenced by both experimental and simulated results. It is anticipated that this work will lead to more fruitful practical applications of APCs in high-efficiency photovoltaics, sensors and optoelectronic devices.

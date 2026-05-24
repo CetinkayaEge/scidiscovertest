@@ -1,0 +1,9 @@
+Title: Towards a sustainable future: Bio-hydrogen production from food waste for clean energy generation
+Authors: Bilal Kazmi, Tooba Sadiq, Syed Ali Ammar Taqvi, Sidra Nasir, Mahwish Mobeen Khan, Salman Raza Naqvi, Hamad AlMohamadi
+Year: 2024
+Venue: Process Safety and Environmental Protection
+DOI: https://doi.org/10.1016/j.psep.2024.01.045
+Paper ID: https://openalex.org/W4391074357
+
+Abstract:
+To address climate change, energy security, and waste management, new sustainable energy sources must be developed. This study uses Aspen Plus software to extract bio-H2 from food waste with the goal of efficiency and environmental sustainability. Anaerobic digestion, optimised to operate at 20–25 °C and keep ammonia at 3%, greatly boosted biogas production. The solvent [Emim][FAP], which is based on imidazolium, had excellent performance in purifying biogas. It achieved a high level of methane purity while consuming a minimal amount of energy, with a solvent flow rate of 13.415 m³ /h. Moreover, the utilization of higher temperatures (600–700 °C) during the bio-H2 generation phase significantly enhanced both the amount and quality of hydrogen produced. Parametric and sensitivity assessments were methodically performed at every stage. This integrated method was practicable and environmentally friendly, according to the economic assessment. H2 generation using steam reforming results in a TCC of 1.92 × 106 USD. The CO2 separation step has higher costs (TCC of 2.15 ×107 USD) due to ionic liquid washing and CO2 liquefaction. Compressor electricity consumption significantly impacts total operating cost (TOC), totaling 4.73 × 108 USD. showing its ability to reduce greenhouse gas emissions, optimize resource utilization, and promote energy sustainability. This study presents a sustainable energy solution that addresses climate and waste challenges.

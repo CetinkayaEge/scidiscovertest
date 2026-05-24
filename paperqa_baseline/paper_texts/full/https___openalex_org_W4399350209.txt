@@ -1,0 +1,9 @@
+Title: Managing intermittency of renewable power in sustainable production of methanol, coupled with direct air capture
+Authors: George J. Fulham, Paula V. Mendoza-Moreno, Ewa Marek
+Year: 2024
+Venue: Energy & Environmental Science
+DOI: https://doi.org/10.1039/d4ee00933a
+Paper ID: https://openalex.org/W4399350209
+
+Abstract:
+This study leverages worldwide wind data, process modelling, and life cycle assessment to reveal the potential of dynamic methanol production for atmospheric CO 2 drawdown, while handling power intermittency and minimising reliance on reserve storage.

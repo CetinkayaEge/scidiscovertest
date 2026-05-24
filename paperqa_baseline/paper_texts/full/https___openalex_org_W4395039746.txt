@@ -1,0 +1,9 @@
+Title: Enhancing sustainability integration in Sustainable Enterprise Resource Planning (S-ERP) system: Application of Transaction Cost Theory and case study analysis
+Authors: Kushal Anjaria
+Year: 2024
+Venue: International Journal of Information Management Data Insights
+DOI: https://doi.org/10.1016/j.jjimei.2024.100243
+Paper ID: https://openalex.org/W4395039746
+
+Abstract:
+Environmental stewardship and sustainability have become critical priorities in the contemporary business environment. Corporations are integrating sustainable practices at the business process level via Sustainable Enterprise Resource Planning (S-ERP). However, a recognised shortfall of S-ERP systems lies in their potential inability to integrate sustainability metrics across all business functions holistically. To navigate this limitation, our study introduces the application of Transaction Cost Theory (TCT). By treating business processes as input-output systems, we apply this theory to quantify sustainability likelihood and overall losses. This novel approach bridges the gap, allowing for the comprehensive integration of sustainability metrics across all processes. The essence of our methodology is to leverage static input data collected by S-ERP regarding environmental impact and to extrapolate this data to provide a broader understanding of potential losses and gains. We've tested and validated this approach through two comprehensive case studies; one is about sustainable product design and development, and the other is about the sustainability evaluation of modular versus conventional construction methods. The results inform the formulation of robust sustainability policies at the business process level for systems akin to S-ERP, paving the way for more sustainable business practices.

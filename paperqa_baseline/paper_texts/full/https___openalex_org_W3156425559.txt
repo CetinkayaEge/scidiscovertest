@@ -1,0 +1,9 @@
+Title: Sustainability in a Risky World
+Authors: John Campbell, Ian Martin
+Year: 2021
+Venue: National Bureau of Economic Research
+DOI: https://doi.org/10.3386/w28899
+Paper ID: https://openalex.org/W3156425559
+
+Abstract:
+How much consumption is "sustainable"? We view sustainability as a requirement that welfare should not be expected to decline over time. We impose this requirement as a constraint on the consumption-savings-investment problem, and study its implications for saving, risky investment, and the social rate of time preference. The constraint does not distort portfolio choice, but it imposes an upper bound on the sustainable rate of time preference and the sustainable consumption-wealth ratio, which we show must lie between the riskless interest rate and the expected return on optimally invested wealth (and if risky wealth evolves according to a geometric Brownian motion, it must lie exactly halfway between the two). For plausible parameter values, the sustainable consumption-wealth ratio is considerably higher than both the riskless interest rate and the consumption-wealth ratio permitted by the Ramsey rule of zero social time preference.

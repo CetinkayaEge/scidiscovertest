@@ -1,0 +1,9 @@
+Title: Richards’s curve induced Banach space valued multivariate neural network approximation
+Authors: George A. Anastassiou, Seda Karateke
+Year: 2022
+Venue: Arabian Journal of Mathematics
+DOI: 10.1007/s40065-022-00414-9
+Paper ID: pmc_PMC9746598
+
+Abstract:
+Here, we present multivariate quantitative approximations of Banach space valued continuous multivariate functions on a box or \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${\mathbb {R}}^{N},$$\end{document} R N , \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$N\in {\mathbb {N}},$$\end{document} N ∈ N , by the multivariate normalized, quasi-interpolation, Kantorovich-type and quadrature-type neural network operators. We examine also the case of approximation by iterated operators of the last four types. These approximations are achieved by establishing multidimensional Jackson type inequalities involving the multivariate modulus of continuity of the engaged function or its high-order Fréchet derivatives. Our multivariate operators are defined using a multidimensional density function induced by the Richards’s curve, which is a generalized logistic function. The approximations are pointwise, uniform and \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$L_{p}.$$\end{document} L p . The related feed-forward neural network is with one hidden layer.

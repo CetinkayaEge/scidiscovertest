@@ -1,0 +1,9 @@
+Title: Techno-economic assessment of a hybrid renewable energy storage system for rural community towards achieving sustainable development goals
+Authors: Safat B. Wali, M. A. Hannan, Pin Jern Ker, M. S. Abd Rahman, S.K. Tiong, Rawshan Ara Begum, T.M.I. Mahlia
+Year: 2023
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2023.101217
+Paper ID: https://openalex.org/W4387239008
+
+Abstract:
+Urbanization and population growth are driving carbon emissions, along with the imperative for renewable energy transition, necessitating researching the impact of hybrid renewable energy storage systems towards achieving sustainable development goals. The article presents a techno-economic assessment of a stand-alone hybrid system in a grid-deficient rural community in a developing country, Bangladesh. The optimal system sizing includes an 8.67 kW of photovoltaic, 7 kWh lithium-ion battery, 6 kW of electrolyzer, 1.8 kW fuel cell, 5 kg of hydrogen tank and 1.67 kW converter, which can achieve a net present cost of $25,099 and levelized cost of energy of $0.34$/kWh. Results show hybrid system supports sustainable development goals by offering clean energy, emphasizing the need for government support, investment, and scaling in rural developing areas.

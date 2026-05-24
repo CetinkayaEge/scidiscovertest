@@ -1,0 +1,9 @@
+Title: The impact of chinese big tech on the traditional financial market: evidence from Ant Group
+Authors: Chen Zhu, Jiaxin Chu
+Year: 2023
+Venue: Electronic Commerce Research
+DOI: 10.1007/s10660-023-09694-5
+Paper ID: pmc_PMC10064613
+
+Abstract:
+Based on the actual situation of Chinese financial market, we logically deduce the risk spillover from Big Tech’s financial business to the traditional financial market. We combined the data of Ant Group to empirically analyze the impact of Chinese Big Tech’s financial business on the profitability of the traditional financial market. The results show that Chinese Big Tech’s financial business has an impact on the traditional financial market, but the degree is different. It has a greater impact on the stock and trust markets, followed by insurance and funds, and less on the banking industry. Secondly, impacts have significant time-varying characteristics and have both immediate and long-term effects. The impulse response in banking, insurance and trust markets fluctuated, while equity and fund markets continued to decline. The short-term volatility of each market is mostly positive, but the medium and long-term volatility is negative. Thirdly, the impacts at each major point are significantly different and heterogeneous. The decline of Ant Group’s ABS issuing scale has a greater impact on the banking and trust markets, while its listing turmoil has a greater impact on the stock and fund markets.

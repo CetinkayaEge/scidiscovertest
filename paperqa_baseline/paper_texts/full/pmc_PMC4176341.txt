@@ -1,0 +1,9 @@
+Title: Multivariate inference of pathway activity in host immunity and response to therapeutics
+Authors: Gautam Goel, Kara L. Conway, Martin Jaeger, Mihai G. Netea, Ramnik J. Xavier
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku722
+Paper ID: pmc_PMC4176341
+
+Abstract:
+Developing a quantitative view of how biological pathways are regulated in response to environmental factors is central for understanding of disease phenotypes. We present a computational framework, named Multivariate Inference of Pathway Activity (MIPA), which quantifies degree of activity induced in a biological pathway by computing five distinct measures from transcriptomic profiles of its member genes. Statistical significance of inferred activity is examined using multiple independent self-contained tests followed by a competitive analysis. The method incorporates a new algorithm to identify a subset of genes that may regulate the extent of activity induced in a pathway. We present an in-depth evaluation of specificity, robustness, and reproducibility of our method. We benchmarked MIPA's false positive rate at less than 1%. Using transcriptomic profiles representing distinct physiological and disease states, we illustrate applicability of our method in (i) identifying gene–gene interactions in autophagy-dependent response to Salmonella infection, (ii) uncovering gene–environment interactions in host response to bacterial and viral pathogens and (iii) identifying driver genes and processes that contribute to wound healing and response to anti-TNFα therapy. We provide relevant experimental validation that corroborates the accuracy and advantage of our method.

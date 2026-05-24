@@ -1,0 +1,9 @@
+Title: Sustainable Ammonia Synthesis from Nitrogen and Water by One‐Step Plasma Catalysis
+Authors: Tianqi Zhang, Renwu Zhou, Renwu Zhou, Shuai Zhang, Rusen Zhou, Rusen Zhou, Jia Ding, Fengwang Li, Jungmi Hong, Liguang Dou, Tao Shao, Anthony B. Murphy, Kostya Ostrikov, Patrick J. Cullen
+Year: 2021
+Venue: Energy & environment materials
+DOI: https://doi.org/10.1002/eem2.12344
+Paper ID: https://openalex.org/W4200030890
+
+Abstract:
+Sustainable ammonia synthesis at ambient conditions that relies on renewable sources of energy and feedstocks is globally sought to replace the Haber–Bosch process. Here, using nitrogen and water as raw materials, a nonthermal plasma catalysis approach is demonstrated as an effective power‐to‐chemicals conversion strategy for ammonia production. By sustaining a highly reactive environment, successful plasma‐catalytic production of NH 3 was achieved from the dissociation of N 2 and H 2 O under mild conditions. Plasma‐induced vibrational excitation is found to decrease the N 2 and H 2 O dissociation barriers, with the presence of matched catalysts in the nonthermal plasma discharge reactor contributing significantly to molecular dissociation on the catalyst surface. Density functional theory calculations for the activation energy barrier for the dissociation suggest that ruthenium catalysts supported on magnesium oxide exhibit superior performance over other catalysts in NH 3 production by lowering the activation energy for the dissociative adsorption of N 2 down to 1.07 eV. The highest production rate, 2.67 mmol g cat . −1 h −1 , was obtained using ruthenium catalyst supported on magnesium oxide. This work highlights the potential of nonthermal plasma catalysis for the activation of renewable sources to serve as a new platform for sustainable ammonia production.

@@ -1,0 +1,9 @@
+Title: Identification of dominating factors affecting vadose zone vulnerability by a simulation method
+Authors: Juan Li, Beidou Xi, Wutian Cai, Yang Yang, Yongfeng Jia, Xiang Li, Yonggao Lv, Ningqing Lv, Huan Huan, Jinjin Yang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45955
+Paper ID: pmc_PMC5384093
+
+Abstract:
+The characteristics of vadose zone vulnerability dominating factors (VDFs) are closely related to the migration and transformation mechanisms of contaminants in the vadose zone, which directly affect the state of the contaminants percolating to the groundwater. This study analyzes the hydrogeological profile of the pore water regions in the vadose zone, and conceptualizes the vadose zone as single lithologic, double lithologic, or multi lithologic. To accurately determine how the location of the pollution source influences the groundwater, we classify the permeabilities (thicknesses) of different media into clay-layer and non-clay-layer permeabilities (thicknesses), and introduce the maximum pollution thickness. Meanwhile, the physicochemical reactions of the contaminants in the vadose zone are represented by the soil adsorption and soil degradability. The VDFs are determined from the factors and parameters in groundwater vulnerability assessment. The VDFs are identified and sequenced in simulations and a sensitivity analysis. When applied to three polluted sites in China, the method improved the weighting of factors in groundwater vulnerability assessment, and increased the reliability of predicting groundwater vulnerability to contaminants.

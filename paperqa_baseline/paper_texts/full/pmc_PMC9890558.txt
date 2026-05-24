@@ -1,0 +1,9 @@
+Title: Computational study of the interaction of the psychoactive amphetamine with 1,2-indanedione and 1,8-diazafluoren-9-one as fingerprinting reagents †
+Authors: Divya Bhikharee, Lydia Rhyman, Ponnadurai Ramasami
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07044h
+Paper ID: pmc_PMC9890558
+
+Abstract:
+In this study, we used computational methods to investigate the interaction of amphetamine (AMP) with 1,2-indanedione (IND) and 1,8-diazafluoren-9-one (DFO) so as to understand whether AMP can be detected in latent fingerprints using either of these reagents. The results show that the binding energies of AMP with IND and DFO were enhanced by the presence of amino acid from −9.29 to −12.35 kcal mol −1 and −7.98 to −10.65 kcal mol −1 , respectively. The physical origins of these interactions could be better understood by symmetry-adapted perturbation theory. The excited state properties of the binding structures with IND demonstrate distinguishable absorption peaks in the UV-vis spectra but zero fluorescence. Furthermore, the UV-vis spectra of the possible reaction products between AMP and the reagents reveal absorption peaks in the visible spectrum. Therefore, we could predict that reaction of AMP with IND would be observable by a reddish colour while with DFO, a colour change to violet is expected. To conclude, the reagents IND and DFO may be used to detect AMP by UV-vis spectroscopy and if their reactions are allowed, the reagents may then act as a potentially rapid, affordable and easy colorimetric test for AMP in latent fingerprints without destruction of the fingerprint sample. Amphetamine in fingerprints is predicted to be detectable using fingerprinting reagents by UV-vis spectroscopy and a visible colour change.

@@ -1,0 +1,9 @@
+Title: Composites Based on Cotton Microfibers Impregnated with Magnetic Liquid for Magneto-Tactile Sensors
+Authors: Ioan Bica, Gabriela-Eugenia Iacobescu
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083222
+Paper ID: pmc_PMC10142589
+
+Abstract:
+In this paper, we report the preparation of two new composite materials based on cotton fibers and magnetic liquid consisting of magnetite nanoparticles and light mineral oil. Using the composites and two simple textolite plates plated with copper foil assembled with self-adhesive tape, electrical devices are manufactured. By using an original experimental setup, we measured the electrical capacitance and the loss tangent in a medium-frequency electric field superimposed on a magnetic field. We found that in the presence of the magnetic field, the electrical capacity and the electrical resistance of the device change significantly with the increase of the magnetic field, then, the electrical device is suitable to be used as a magnetic sensor. Furthermore, the electrical response functions of the sensor, for fixed values of the magnetic flux density, change linearly with the increase in the value of the mechanical deformation stress, which gives it a tactile function. When applying mechanical stresses of fixed values, by increasing the value of the magnetic flux density, the capacitive and resistive functions of the electrical device change significantly. So, by using the external magnetic field, the sensitivity of the magneto-tactile sensor increases, therefore the electrical response of this device can be amplified in the case of low values of mechanical tension. This makes the new composites promising candidates for the fabrication of magneto-tactile sensors.

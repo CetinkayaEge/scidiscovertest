@@ -1,0 +1,9 @@
+Title: A Metro-Based System as Sustainable Alternative for Urban Logistics in the Era of E-Commerce
+Authors: R. Villa, Andrés Monzón de Cáceres
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084479
+Paper ID: https://openalex.org/W3155026913
+
+Abstract:
+Business to consumer e-commerce (B2C) has increased sharply in recent years driven by a growing online population and changes in consumer behavior. In metropolitan areas, the “Amazon effect” (online retailers’ vast selection, fast shipping, free returns, and low prices) has led to an increased use of light goods vehicles. This is affecting the rational functioning of the transport system, including a high degree of fragmentation, low load optimization, and, among other externalities, higher traffic congestion. This paper investigates the potential of a metro system, in a big city like Madrid, to provide delivery services by leveraging its existing carrying capacity and using the metro stations to collect parcels in lockers. It would be a new mixed distribution model for last-mile deliveries associated with e-commerce. To that end, the paper evaluates the cost and impacts of two alternative scenarios for managing the unused space in rolling stock (shared trains) or specific full train services (dedicated trains) on existing lines. The external costs of the proposed scenarios are compared with current e-commerce delivery scenario (parcel delivery by road). The results show that underground transport of parcels could significantly reduce congestion costs, accidents, noise, GHG emissions, and air pollution.

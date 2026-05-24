@@ -1,0 +1,9 @@
+Title: A Deep Learning-Based Course Recommender System for Sustainable Development in Education
+Authors: Qinglong Li, Jaekyeong Kim
+Year: 2021
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app11198993
+Paper ID: https://openalex.org/W3203937511
+
+Abstract:
+Recently, the worldwide COVID-19 pandemic has led to an increasing demand for online education platforms. However, it is challenging to correctly choose course content from among many online education resources due to the differences in users’ knowledge structures. Therefore, a course recommender system has the essential role of improving the learning efficiency of users. At present, many online education platforms have built diverse recommender systems that utilize traditional data mining methods, such as Collaborative Filtering (CF). Despite the development and contributions of many recommender systems based on CF, diverse deep learning models for personalized recommendation are being studied because of problems such as sparsity and scalability. Therefore, to solve traditional recommendation problems, this study proposes a novel deep learning-based course recommender system (DECOR), which elaborately captures high-level user behaviors and course attribute features. The DECOR model can reduce information overload, solve high-dimensional data sparsity problems, and achieve high feature information extraction performance. We perform several experiments utilizing real-world datasets to evaluate the DECOR model’s performance compared with that of traditional recommendation approaches. The experimental results indicate that the DECOR model offers better and more robust recommendation performance than the traditional methods.

@@ -1,0 +1,9 @@
+Title: Modification of TiO 2 nanotubes by graphene–strontium and cobalt molybdate perovskite for efficient hydrogen evolution reaction in acidic medium
+Authors: Mariusz Szkoda, Anna Ilnicka, Malgorzata Skorupska, Marcin Wysokowski, Jerzy P. Lukaszewicz
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27143-5
+Paper ID: pmc_PMC9803638
+
+Abstract:
+Herein, we demonstrate that modification of TiO 2 nanotubes with graphene–strontium and cobalt molybdate perovskite can turn them into active electrocatalysts for hydrogen evolution reaction (HER). For this purpose, a simple method of hydrothermal synthesis of perovskites was developed directly on the TiO 2 nanotubes substrate. Moreover, the obtained hybrids were also decorated with graphene oxide (GO) during one-step hydrothermal synthesis. The obtained materials were characterized by scanning electron microscopy with energy dispersive X-ray analysis, Raman spectroscopy, and X-ray diffraction analysis. Catalytic properties were verified by electrochemical methods (linear voltammetry, chronopotentiometry). The obtained hybrids were characterized by much better catalytic properties towards hydrogen evolution reaction compared to TiO 2 and slightly worse than platinum. The optimized hybrid catalyst (decorated by GO) can drive a cathodic current density of 10 mA cm −2 at an overpotential of 121 mV for HER with a small Tafel slope of 90 mV dec −1 in 0.2 M H 2 SO 4 .

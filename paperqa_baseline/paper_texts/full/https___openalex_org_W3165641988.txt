@@ -1,0 +1,9 @@
+Title: Smart Fishery: A Systematic Review and Research Agenda for Sustainable Fisheries in the Age of AI
+Authors: Sanaz Honarmand Ebrahimi, Marinus Ossewaarde, Ariana Need
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13116037
+Paper ID: https://openalex.org/W3165641988
+
+Abstract:
+Applications of artificial intelligence (AI) technologies for improving the sustainability of the smart fishery have become widespread. While sustainability is often claimed to be the desired outcome of AI applications, there is as yet little evidence on how AI contributes to the sustainable fishery. The purpose of this paper is to perform a systematic review of the literature on the smart fishery and to identify upcoming themes for future research on the sustainable fishery in the Age of AI. The findings of the review reveal that scholarly attention in AI-inspired fishery literature focuses mostly on automation of fishery resources monitoring, mainly detection, identification, and classification. Some papers list marine health and primary production which are vital dimensions for Large Marine Ecosystems to recycle nutrients to sustain anticipated production levels. Very few reviewed articles refer to assessing individual needs, particularly fishers, from AI deployment in fisheries and policy response from governments. We call for future AI for sustainable fishery studies on how fishers perceive AI needs, and how governments possess a tangible strategy or depth of understanding on the regulation of AI concerning smart fishery systems and research on resilience-enhancing policies to promote the value and potentials of the AI-inspired smart fishery in different locations.

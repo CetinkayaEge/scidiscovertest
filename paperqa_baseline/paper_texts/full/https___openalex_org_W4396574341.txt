@@ -1,0 +1,9 @@
+Title: The environmental sustainability of digital content consumption
+Authors: Ioan-Robert Istrate, Víctor Tulus, Robert N. Grass, Laurent Vanbever, Wendelin J. Stark, Gonzalo Guillén‐Gosálbez
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-47621-w
+Paper ID: https://openalex.org/W4396574341
+
+Abstract:
+Abstract Internet access has reached 60% of the global population, with the average user spending over 40% of their waking life on the Internet, yet the environmental implications remain poorly understood. Here, we assess the environmental impacts of digital content consumption in relation to the Earth’s carrying capacity, finding that currently the global average consumption of web surfing, social media, video and music streaming, and video conferencing could account for approximately 40% of the per capita carbon budget consistent with limiting global warming to 1.5 °C, as well as around 55% of the per capita carrying capacity for mineral and metal resources use and over 10% for five other impact categories. Decarbonising electricity would substantially mitigate the climate impacts linked to Internet consumption, while the use of mineral and metal resources would remain of concern. A synergistic combination of rapid decarbonisation and additional measures aimed at reducing the use of fresh raw materials in electronic devices (e.g., lifetime extension) is paramount to prevent the growing Internet demand from exacerbating the pressure on the finite Earth’s carrying capacity.

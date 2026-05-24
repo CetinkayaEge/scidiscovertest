@@ -1,0 +1,9 @@
+Title: SGAEMDA: Predicting miRNA-Disease Associations Based on Stacked Graph Autoencoder
+Authors: Shudong Wang, Boyang Lin, Yuanyuan Zhang, Sibo Qiao, Fuyu Wang, Wenhao Wu, Chuanru Ren
+Year: 2022
+Venue: Cells
+DOI: 10.3390/cells11243984
+Paper ID: pmc_PMC9776508
+
+Abstract:
+MicroRNA (miRNA)-disease association (MDA) prediction is critical for disease prevention, diagnosis, and treatment. Traditional MDA wet experiments, on the other hand, are inefficient and costly.Therefore, we proposed a multi-layer collaborative unsupervised training base model called SGAEMDA (Stacked Graph Autoencoder-Based Prediction of Potential miRNA-Disease Associations). First, from the original miRNA and disease data, we defined two types of initial features: similarity features and association features. Second, stacked graph autoencoder is then used to learn unsupervised low-dimensional representations of meaningful higher-order similarity features, and we concatenate the association features with the learned low-dimensional representations to obtain the final miRNA-disease pair features. Finally, we used a multilayer perceptron (MLP) to predict scores for unknown miRNA-disease associations. SGAEMDA achieved a mean area under the ROC curve of 0.9585 and 0.9516 in 5-fold and 10-fold cross-validation, which is significantly higher than the other baseline methods. Furthermore, case studies have shown that SGAEMDA can accurately predict candidate miRNAs for brain, breast, colon, and kidney neoplasms.

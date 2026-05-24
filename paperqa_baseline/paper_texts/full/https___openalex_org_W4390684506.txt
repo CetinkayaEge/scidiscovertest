@@ -1,0 +1,9 @@
+Title: Broadening the perspective for sustainable artificial intelligence: sustainability criteria and indicators for Artificial Intelligence systems
+Authors: Friederike Rohde, Josephin Wagner, Andreas Meyer, Philipp Reinhard, Marcus Voß, Ulrich Petschow, Anne Mollen
+Year: 2024
+Venue: Current Opinion in Environmental Sustainability
+DOI: https://doi.org/10.1016/j.cosust.2023.101411
+Paper ID: https://openalex.org/W4390684506
+
+Abstract:
+The increased use of Artificial intelligence systems (AI systems) is associated with multifaceted social, environmental, and economic consequences. These include nontransparent decision-making processes, discrimination, increasing inequalities, rising energy consumption and greenhouse gas emissions in AI model development and application, and an increasing concentration of economic power. By considering the multidimensionality of sustainability, this paper takes steps toward substantiating the call for an overarching perspective on ‘sustainable AI.’ It presents the Sustainability Criteria and Indicators for Artificial Intelligence Systems (SCAIS) Framework, an assessment framework that contains a set of 19 sustainability criteria for sustainable AI and 67 indicators that are based on the results of a critical literature review, and expert workshops. Its interdisciplinary approach contributes a unique holistic perspective to facilitate and structure the discourse on sustainable AI. Further, it provides a concrete assessment framework that lays the foundation for developing standards and tools to support the conscious development and application of AI systems.

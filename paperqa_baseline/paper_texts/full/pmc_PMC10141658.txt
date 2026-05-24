@@ -1,0 +1,9 @@
+Title: Fused Filament Fabrication and Computer Numerical Control Milling in Cultural Heritage Conservation
+Authors: Daniela Fico, Daniela Rizzo, Francesco Montagna, Carola Esposito Corcione
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083038
+Paper ID: pmc_PMC10141658
+
+Abstract:
+This paper reports a comparison between the advantages and disadvantages of fused filament fabrication (FFF) and computer numerical control (CNC) milling, when applied to a specific case of conservation of cultural heritage: the reproduction of four missing columns of a 17th-century tabernacle. To make the replica prototypes, European pine wood (the original material) was used for CNC milling, while polyethylene terephthalate glycol (PETG) was used for FFF printing. Neat materials were chemically and structurally characterized (FTIR, XRD, DSC, contact angle measurement, colorimetry, and bending tests) before and after artificial aging, in order to study their durability. The comparison showed that although both materials are subject to a decrease in crystallinity (an increase in amorphous bands in XRD diffractograms) and mechanical performance with aging, these characteristics are less evident in PETG (E = 1.13 ± 0.01 GPa and σ = 60.20 ± 2.11 MPa after aging), which retains water repellent (ca = 95.96 ± 5.56°) and colorimetric (∆E = 2.6) properties. Furthermore, the increase in flexural strain (%) in pine wood, from 3.71 ± 0.03% to 4.11 ± 0.02%, makes it not suitable for purpose. Both techniques were then used to produce the same column, showing that for this specific application CNC milling is quicker than FFF, but, at the same time, it is also much more expensive and produces a huge amount of waste material compared to FFF printing. Based on these results, it was assessed that FFF is more suitable for the replication of the specific column. For this reason, only the 3D-printed PETG column was used for the subsequent conservative restoration.

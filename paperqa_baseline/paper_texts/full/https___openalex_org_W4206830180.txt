@@ -1,0 +1,9 @@
+Title: Sustainable nanofiltration membranes based on biosourced fully recyclable polyesters and green solvents
+Authors: Rifan Hardian, Robin M. Cywar, Eugene Y.‐X. Chen, György Székely
+Year: 2022
+Venue: Journal of Membrane Science Letters
+DOI: https://doi.org/10.1016/j.memlet.2022.100016
+Paper ID: https://openalex.org/W4206830180
+
+Abstract:
+Herein, we report a new class of biosourced nanofiltration membranes based on chemically recyclable aliphatic polyesters (P(4,5-T6GBL)) and the use of green solvents. Given their chemical recyclability and potential biodegradability, these polyester membranes were designed to have a sustainable lifecycle. The effect of membrane thickness and solvent/non-solvent diffusivity on membrane morphology and organic solvent nanofiltration were investigated. Long-term membrane stability was tested in a continuous crow-flow filtration rig over a week, which exhibited stable methanol permeance at 8.6 ± 0.1 L m−2 h−1 bar−1. The rejection profiles of the pharmaceuticals oleuropein (540 g mol−1) and roxithromycin (837 g mol−1) were also found to be stable at 87% and 100%, respectively.

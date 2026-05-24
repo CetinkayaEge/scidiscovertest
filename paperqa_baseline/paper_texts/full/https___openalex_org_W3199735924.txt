@@ -1,0 +1,9 @@
+Title: New insight into the catalytic -dependent and -independent roles of METTL3 in sustaining aberrant translation in chronic myeloid leukemia
+Authors: Zaira Ianniello, Melissa Sorci, Lavinia Ceci Ginistrelli, Alessia Iaiza, Marcella Marchioni, Claudia Tito, Ernestina Capuano, Silvia Masciarelli, Tiziana Ottone, Cristina Attrotto, Manuela Rizzo, Luca Franceschini, Stefano de Pretis, Maria Teresa Voso, Mattia Pelizzola, Francesco Fazi, Alessandro Fatica
+Year: 2021
+Venue: Cell Death and Disease
+DOI: https://doi.org/10.1038/s41419-021-04169-7
+Paper ID: https://openalex.org/W3199735924
+
+Abstract:
+A methyltransferase complex METTL3/METTL14 is upregulated in CML patients and that is required for proliferation of primary CML cells and CML cell lines sensitive and resistant to the TKI imatinib. We demonstrate that depletion of METTL3 strongly impairs global translation efficiency. In particular, our data show that METTL3 is crucial for the expression of genes involved in ribosome biogenesis and translation. Specifically, we found that METTL3 directly regulates the level of PES1 protein identified as an oncogene in several tumors. We propose a model in which nuclear METTL3/METTL14 methyltransferase complex modified nascent transcripts whose translation is enhanced by cytoplasmic localization of METTL3, independently from its catalytic activity. In conclusion, our results point to METTL3 as a novel relevant oncogene in CML and as a promising therapeutic target for TKI resistant CML.

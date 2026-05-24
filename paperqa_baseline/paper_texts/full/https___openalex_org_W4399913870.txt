@@ -1,0 +1,9 @@
+Title: A review of green artificial intelligence: Towards a more sustainable future
+Authors: Verónica Bolón‐Canedo, Laura Morán‐Fernández, Brais Cancela, Amparo Alonso‐Betanzos
+Year: 2024
+Venue: Neurocomputing
+DOI: https://doi.org/10.1016/j.neucom.2024.128096
+Paper ID: https://openalex.org/W4399913870
+
+Abstract:
+Green artificial intelligence (AI) is more environmentally friendly and inclusive than conventional AI, as it not only produces accurate results without increasing the computational cost but also ensures that any researcher with a laptop can perform high-quality research without the need for costly cloud servers. This paper discusses green AI as a pivotal approach to enhancing the environmental sustainability of AI systems. Described are AI solutions for eco-friendly practices in other fields (green-by AI), strategies for designing energy-efficient machine learning (ML) algorithms and models (green-in AI), and tools for accurately measuring and optimizing energy consumption. Also examined are the role of regulations in promoting green AI and future directions for sustainable ML. Underscored is the importance of aligning AI practices with environmental considerations, fostering a more eco-conscious and energy-efficient future for AI systems.

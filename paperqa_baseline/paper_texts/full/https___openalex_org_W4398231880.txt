@@ -1,0 +1,9 @@
+Title: Supply chain network design concerning economy and environmental sustainability: Crisis perspective
+Authors: Sina Abbasi, Solmaz Abbaspour, Mohammad Eskandari Nasab Siahkoohi, Mohammad Yousefi Sorkhi, Peiman Ghasemi
+Year: 2024
+Venue: Results in Engineering
+DOI: https://doi.org/10.1016/j.rineng.2024.102291
+Paper ID: https://openalex.org/W4398231880
+
+Abstract:
+This paper proposes a GSCND that combines environmental, energy, and economic sustainability aspects of the crisis. Global SCs have been disrupted by the epidemic, underlining the need for a GSCND. Environmental and energy sustainability issues are closely linked to SC and economic systems. By examining available energy and total costs, integrated SC models aim to ensure the profitability of investments and the effective use of energy in economic systems. An example quantitatively illustrates the ability of the proposed model to reduce total costs and public energy consumption. The model enables several improvements in reducing the total cost and energy variables during a crisis. The weighted Tchebycheff method is used to optimize mathematical modeling. This network allows maximizing energy consumption while reducing the total economic cost. The special thing about this research paper is that it analyzes the COVID-19 epidemic simultaneously from an energy and financial perspective.

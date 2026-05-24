@@ -1,0 +1,9 @@
+Title: A Study on Coexistence Capability Evaluations of the Enhanced Channel Hopping Mechanism in WBANs
+Authors: Zhongcheng Wei, Yongmei Sun, Yuefeng Ji
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010151
+Paper ID: pmc_PMC5298724
+
+Abstract:
+As an important coexistence technology, channel hopping can reduce the interference among Wireless Body Area Networks (WBANs). However, it simultaneously brings some issues, such as energy waste, long latency and communication interruptions, etc. In this paper, we propose an enhanced channel hopping mechanism that allows multiple WBANs coexisted in the same channel. In order to evaluate the coexistence performance, some critical metrics are designed to reflect the possibility of channel conflict. Furthermore, by taking the queuing and non-queuing behaviors into consideration, we present a set of analysis approaches to evaluate the coexistence capability. On the one hand, we present both service-dependent and service-independent analysis models to estimate the number of coexisting WBANs. On the other hand, based on the uniform distribution assumption and the additive property of Possion-stream, we put forward two approximate methods to compute the number of occupied channels. Extensive simulation results demonstrate that our estimation approaches can provide an effective solution for coexistence capability estimation. Moreover, the enhanced channel hopping mechanism can significantly improve the coexistence capability and support a larger arrival rate of WBANs.

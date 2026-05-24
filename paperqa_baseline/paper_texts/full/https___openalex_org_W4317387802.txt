@@ -1,0 +1,9 @@
+Title: Sustainability, asset redeployability, and board gender diversity
+Authors: Thunyanee Pothisarn, Pattanaporn Chatjuthamard, Pornsit Jiraporn, Suwongrat Papangkorn
+Year: 2023
+Venue: Corporate Social Responsibility and Environmental Management
+DOI: https://doi.org/10.1002/csr.2450
+Paper ID: https://openalex.org/W4317387802
+
+Abstract:
+Abstract In times of crisis, corporate governance, particularly the gender equality aspect, is critically important. Motivated by the phrase “gender equality today for a sustainable tomorrow,” we investigate how board gender diversity affects asset redeployability, which is a key element in the literature on investment irreversibility and a predictor of a firm's liquidity, especially in the face of unforeseen events. Asset redeployability is a crucial feature of sustainability that has received surprisingly little attention in the literature. Based on a novel indicator of asset redeployability developed recently by Kim and Kung, our results suggest that greater board gender diversity leads to greater asset redeployability, implying that female directors value asset redeployability. The findings significantly support the argument that female directors have lower risk tolerance and, as a result, favor asset redeployability, which is less risky due to flexibility of use. Further analyses, such as propensity score matching, an instrumental‐variable analysis, and Oster's approach for assessing coefficient stability, validate the results. Our results suggest that female directors foster sustainability by enhancing asset redeployability.

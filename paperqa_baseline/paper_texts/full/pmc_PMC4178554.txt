@@ -1,0 +1,9 @@
+Title: Toward precision medicine with next-generation EGFR inhibitors in non-small-cell lung cancer
+Authors: Timothy A Yap, Sanjay Popat
+Year: 2014
+Venue: Pharmacogenomics and Personalized Medicine
+DOI: 10.2147/PGPM.S55339
+Paper ID: pmc_PMC4178554
+
+Abstract:
+The use of genomics to discover novel targets and biomarkers has placed the field of oncology at the forefront of precision medicine. First-generation epidermal growth factor receptor (EGFR) inhibitors have transformed the therapeutic landscape of EGFR mutant non-small-cell lung carcinoma through the genetic stratification of tumors from patients with this disease. Somatic EGFR mutations in lung adenocarcinoma are now well established as predictive biomarkers of response and resistance to small-molecule EGFR inhibitors. Despite early patient benefit, primary resistance and subsequent tumor progression to first-generation EGFR inhibitors are seen in 10%–30% of patients with EGFR mutant non-small-cell lung carcinoma. Acquired drug resistance is also inevitable, with patients developing disease progression after only 10–13 months of antitumor therapy. This review details strategies pursued in circumventing T790M-mediated drug resistance to EGFR inhibitors, which is the most common mechanism of acquired resistance, and focuses on the clinical development of second-generation EGFR inhibitors, exemplified by afatinib (BIBW2992). We discuss the rationale, mechanism of action, clinical efficacy, and toxicity profile of afatinib, including the LUX-Lung studies. We also discuss the emergence of third-generation irreversible mutant-selective inhibitors of EGFR and envision the future management of EGFR mutant lung adenocarcinoma.

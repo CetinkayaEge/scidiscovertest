@@ -1,0 +1,9 @@
+Title: Recent advances of SiO x -based anodes for sustainable lithium-ion batteries
+Authors: Mengyu Zhang, Nai‐Wen Liang, Derek Hao, Zuxin Chen, Fan Zhang, Jiang Yin, Yahui Yang, Lishan Yang
+Year: 2023
+Venue: Nano Research Energy
+DOI: https://doi.org/10.26599/nre.2023.9120077
+Paper ID: https://openalex.org/W4375868129
+
+Abstract:
+The world is facing an ever-growing global energy crisis with unprecedented depth and complexity. The sustainable development of high energy density lithium-ion batteries for electric vehicles and portable electric devices has become a feasible way to deal with this problem. Silicon suboxides (SiOx) have been deemed as one of the most promising anode materials because of their ultrahigh theoretical lithium storage capacity, proper working potential, natural abundance, and environmental friendliness. However, the mass utilization of SiOx-based anodes is severely obstructed by their low electrical conductivity and inevitable volume expansion. While lithium silicate and lithium oxide formed in the first lithiation process act as buffer layers to some extent, it is urgent to address the accompanying low initial Coulombic efficiency and unsatisfactory cycling stability. In this review, we summarized recent advances in the synthesis methods of SiOx-based materials. Besides, the benefits and shortcomings of the various methods are briefly concluded. Then, we discussed the effective combination of SiOx with carbon materials and designs of porous structure, which could considerably enhance the electrochemical performance in detail. Furthermore, progresses on the modified strategies, advanced characteristics and industrial applications for SiOx-based anodes are also mentioned. Finally, the remaining challenges encountered and future perspectives on SiOx-based anodes are highlighted.

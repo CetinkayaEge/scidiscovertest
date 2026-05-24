@@ -1,0 +1,9 @@
+Title: A Review of the Factors Influencing Surface Roughness in Machining and Their Impact on Sustainability
+Authors: José V. Abellán‐Nebot, C. Vila, Héctor R. Siller
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16051917
+Paper ID: https://openalex.org/W4392166661
+
+Abstract:
+Understanding surface roughness generation in machining is critical to estimate the final quality of the part, optimize cutting conditions, reduce costs and improve manufacturing sustainability in industry. This work presents a review of the factors that affect surface roughness generation in machining (turning/milling) processes. Up to twenty-five different factors were identified, which were classified as setup factors (cutting tool, machine tool/fixturing and workpiece factors), operational factors (cutting and process parameters) and processing factors, which are related to the resulting cutting processes, such as built-up edge, chatter or tool wear. The importance of understanding these factors to improve machining sustainability is highlighted through three case studies, ranging from a simple change in the cutting insert to a more complex case where a controlled surface roughness leads to the elimination of a grinding stage. A case study illustrating the potential benefit of MQL in the sustainability of the machining process is also reported from the mold manufacturing industry. In all of the cases, the improvement in sustainability in terms of the reduction in kg of CO2 equivalent is notable, especially when grinding operations are reduced or eliminated from the manufacturing process. This paper can be of interest to practitioners in finishing operations at milling and turning operations that want to increase machining sustainability through a deep understanding of surface roughness generation.

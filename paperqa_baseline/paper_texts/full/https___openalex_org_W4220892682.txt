@@ -1,0 +1,9 @@
+Title: Formic Acid Dehydrogenation Using Noble-Metal Nanoheterogeneous Catalysts: Towards Sustainable Hydrogen-Based Energy
+Authors: Abbas Al‐Nayili, Hasan Sh. Majdi, Talib M. Albayati, Noori M. Cata Saady
+Year: 2022
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal12030324
+Paper ID: https://openalex.org/W4220892682
+
+Abstract:
+The need for sustainable energy sources is now more urgent than ever, and hydrogen is significant in the future of energy. However, several obstacles remain in the way of widespread hydrogen use, most of which are related to transport and storage. Dilute formic acid (FA) is recognized asa a safe fuel for low-temperature fuel cells. This review examines FA as a potential hydrogen storage molecule that can be dehydrogenated to yield highly pure hydrogen (H2) and carbon dioxide (CO2) with very little carbon monoxide (CO) gas produced via nanoheterogeneous catalysts. It also present the use of Au and Pd as nanoheterogeneous catalysts for formic acid liquid phase decomposition, focusing on the influence of noble metals in monometallic, bimetallic, and trimetallic compositions on the catalytic dehydrogenation of FA under mild temperatures (20–50 °C). The review shows that FA production from CO2 without a base by direct catalytic carbon dioxide hydrogenation is far more sustainable than existing techniques. Finally, using FA as an energy carrier to selectively release hydrogen for fuel cell power generation appears to be a potential technique.

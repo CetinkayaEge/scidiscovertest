@@ -1,0 +1,9 @@
+Title: Lipid-loaded tumor-associated macrophages sustain tumor growth and invasiveness in prostate cancer
+Authors: Michela Masetti, Roberta Carriero, Federica Portale, Giulia Marelli, Nicolò Morina, Marta Pandini, Marta Iovino, Bianca Partini, Marco Erreni, Andrea Ponzetta, Elena Magrini, Piergiuseppe Colombo, Grazia Maria Elefante, Federico Colombo, Joke M. M. den Haan, Clelia Peano, Javier Cibella, Alberto Termanini, Paolo Kunderfranco, Jolanda Brummelman, Matthew Wai Heng Chung, Massimo Lazzeri, Rodolfo Hurle, Paolo Casale, Enrico Lugli, Ronald A. DePinho, Subhankar Mukhopadhyay, Siamon Gordon, Diletta Di Mitri
+Year: 2021
+Venue: The Journal of Experimental Medicine
+DOI: https://doi.org/10.1084/jem.20210564
+Paper ID: https://openalex.org/W4200370758
+
+Abstract:
+Tumor-associated macrophages (TAMs) are correlated with the progression of prostatic adenocarcinoma (PCa). The mechanistic basis of this correlation and therapeutic strategies to target TAMs in PCa remain poorly defined. Here, single-cell RNA sequencing was used to profile the transcriptional landscape of TAMs in human PCa, leading to identification of a subset of macrophages characterized by dysregulation in transcriptional pathways associated with lipid metabolism. This subset of TAMs correlates positively with PCa progression and shorter disease-free survival and is characterized by an accumulation of lipids that is dependent on Marco. Mechanistically, cancer cell-derived IL-1β enhances Marco expression on macrophages, and reciprocally, cancer cell migration is promoted by CCL6 released by lipid-loaded TAMs. Moreover, administration of a high-fat diet to tumor-bearing mice raises the abundance of lipid-loaded TAMs. Finally, targeting lipid accumulation by Marco blockade hinders tumor growth and invasiveness and improves the efficacy of chemotherapy in models of PCa, pointing to combinatorial strategies that may influence patient outcomes.

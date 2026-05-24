@@ -1,0 +1,9 @@
+Title: Prognostic value of GLUT-1 expression in pancreatic cancer: results from 538 patients
+Authors: Gaowa Sharen, Yaojun Peng, Haidong Cheng, Yang Liu, Yonghong Shi, Jian Zhao
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15035
+Paper ID: pmc_PMC5386719
+
+Abstract:
+Objective Previous studies have suggested a correlation between glucose transporter-1 (GLUT-1) expression and survival outcomes in pancreatic cancer, although the results were inconsistent. We subsequently carried out a meta-analysis, with the aim of comprehensively reevaluating the associations between GLUT-1 expression and overall survival (OS) and other clinical features of pancreatic cancer. Results Eight studies, with a total of 538 cases, were included in the final meta-analysis. The HR and 95% CI for OS were 1.79 and 1.19-2.7, respectively (p=0.005). GLUT-1 overexpression was associated with tumor size (>2 cm vs. ≤2 cm; OR=2.16, 95% CI=1.2-3.9, p=0.01) and lymph node metastasis (yes vs. no; OR=3.29, 95% CI=1.38-7.84, p=0.007). However, there was no significant association between GLUT-1 expression and histological grade, age, sex, TNM stage, or vascular invasion status. There was no evidence of significant publication bias in this meta-analysis. Materials and Methods Relevant databases were searched using predefined searching items until September 2016. The pooled hazard ratios (HR) with 95% confidence interval (CI) for OS and the pooled odds ratio (OR) with 95% CI for clinical factors were calculated. Conclusions High GLUT-1 expression predicted shorter OS in patients with pancreatic cancer. Moreover, GLUT-1 expression was associated with a tumor size of >2 cm and presence of lymph node metastasis.

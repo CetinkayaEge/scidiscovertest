@@ -1,0 +1,9 @@
+Title: ShinyArchR.UiO: user-friendly,integrative and open-source tool for visualization of single-cell ATAC-seq data using ArchR
+Authors: Ankush Sharma, Akshay Akshay, Marie Rogne, Ragnhild Eskeland
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab680
+Paper ID: pmc_PMC8756194
+
+Abstract:
+ABSTRACT Motivation Mapping of chromatin accessibility landscapes in single-cells and the integration with gene expression enables a better understanding of gene regulatory mechanisms defining cell identities and cell-fate determination in development and disease. Generally, raw data generated from single-cell Assay for Transposase-Accessible Chromatin sequencing (scATAC-seq) are deposited in repositories that are generally inaccessible due to lack of in-depth knowledge of computational programming. Results We have developed ShinyArchR.UiO, an R-based shiny app, that facilitates scATAC-seq data accessibility and visualization in a user-friendly, interactive and open-source web interface. ShinyArchR.UiO is an application that can streamline collaborative efforts for interpretation of massive chromatin accessibility datasets and allow for open access data sharing for wider audiences. Availability and implementation https://Github.com/EskelandLab/ShinyArchRUiO and a demo server with a hematopoietic tutorial dataset https://cancell.medisin.uio.no/ShinyArchR.UiO Supplementary information Supplementary data are available at Bioinformatics online.

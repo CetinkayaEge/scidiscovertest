@@ -1,0 +1,9 @@
+Title: Food Security Sustainability: A Synthesis of the Current Concepts and Empirical Approaches for Meeting SDGs
+Authors: Umar Shuaibu Aliyu, Hüseyin Özdeşer, Behiye Çavuşoğlu, Mohammed A. M. Usman
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132111728
+Paper ID: https://openalex.org/W3209543770
+
+Abstract:
+Currently, food security is becoming a fundamental problem in the global macroeconomic dynamics for policymakers and governments in developing countries. Globally, food security offers challenges both from achieving Sustainable Development Goals (SDGs) targets and the welfare perspective of many poor households. As a result, this study is guided by Neo Malthusian and Access theories to investigate Food Security Sustainability: a Synthesis of the Current Concepts and Empirical Approaches for Meeting SDGs in Nigeria using ARDL and ECM techniques. The ARDL revealed that agricultural value-added and GDP positively affect food security for commercial agrarian investments in Nigeria. However, internal displacement, population growth, food inflation, and exchange rate volatility negatively affect sustainable food security in Nigeria. The model’s coefficient of ECMt−1 also shows negative (−0.0130 approximately) and statistically significant (0.0000) at 1%. Thus, the speed of adjustment requires 1.3% annually for the long-run equilibrium convergence to be restored. The study concludes that the SDGs targets for poverty and hunger reduction, mainly for food security sustainability alongside small producers by the year 2030, can be rarely achieved because the convergence to equilibrium is more than nine years. An active value-addition strategy for sustainable food security and the provision of humanitarian interventions are recommended.

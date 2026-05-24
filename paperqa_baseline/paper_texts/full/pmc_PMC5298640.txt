@@ -1,0 +1,9 @@
+Title: Programmable Low-Power Low-Noise Capacitance to Voltage Converter for MEMS Accelerometers
+Authors: Guillermo Royo, Carlos Sánchez-Azqueta, Cecilia Gimeno, Concepción Aldea, Santiago Celma
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010067
+Paper ID: pmc_PMC5298640
+
+Abstract:
+In this work, we present a capacitance-to-voltage converter (CVC) for capacitive accelerometers based on microelectromechanical systems (MEMS). Based on a fully-differential transimpedance amplifier (TIA), it features a 34-dB transimpedance gain control and over one decade programmable bandwidth, from 75 kHz to 1.2 MHz. The TIA is aimed for low-cost low-power capacitive sensor applications. It has been designed in a standard 0.18-μm CMOS technology and its power consumption is only 54 μW. At the maximum transimpedance configuration, the TIA shows an equivalent input noise of 42 fA/ Hz at 50 kHz, which corresponds to 100 μg/ Hz .

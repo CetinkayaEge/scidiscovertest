@@ -1,0 +1,9 @@
+Title: Implementing Sustainability into Virtual Simulation Games in Business Higher Education
+Authors: Aleksandra Gaweł, Sergiusz Strykowski, Konstantinos Madias
+Year: 2022
+Venue: Education Sciences
+DOI: https://doi.org/10.3390/educsci12090599
+Paper ID: https://openalex.org/W4297815949
+
+Abstract:
+The paper aims to determine how sustainability can be implemented into virtual business simulators dedicated to higher education due to the need for raising environmental awareness among students. Climate and natural environmental changes caused by human activities require adjustments in society’s mindsets and activities, especially in the business-related sector, which makes the implementation of sustainability in business higher education of crucial importance. Virtual business simulators are innovative tools in business higher education. Their use, as a part of game-based learning, is attracting increasing interest, as this method allows us to understand interactions between business decisions and their results. In this paper, we present our case study of an IT-based business simulator, which includes aspects of sustainability, and the initial experience of a group of test students participating in the business game. The paper discusses the authors’ own IT solutions and the possibilities of implementing the concept of sustainability into business-oriented higher education. This paper proposed the manner of implementing sustainability, including pseudocodes, into a virtual business simulator. The results show how challenging it is to implement sustainability into game-based business education, as it increases the complexity of interactions among different aspects of running a business, including the goal of making a company more diversified.

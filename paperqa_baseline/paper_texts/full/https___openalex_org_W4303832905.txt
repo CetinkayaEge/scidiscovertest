@@ -1,0 +1,9 @@
+Title: ICT Development, Innovation Diffusion and Sustainable Growth in Sub-Saharan Africa
+Authors: Mugabe Roger, Liu Shulin, Brima Sesay
+Year: 2022
+Venue: SAGE Open
+DOI: https://doi.org/10.1177/21582440221123894
+Paper ID: https://openalex.org/W4303832905
+
+Abstract:
+This study aims to explore the impacts of ICT and innovation on sustainable economic growth and the direction of causal relationships among them in a trivariate framework. The study employed the DOLS and Panel VECM for causality to study the relationships for 33 Sub-Saharan Africa countries categorized based on income between 2000 and 2020. The study uses annual time-series data that were obtained from the World Development Indicators (WDI) database for the empirical analysis. Results from the DOLS show that both ICT development and innovation contribute positively to sustainable growth in all the categories of countries. However, the marginal effects of innovation on sustainable growth are very small compared to ICT development, especially for low-income countries. The VECM result confirms significant causal relationships among the studied variables in the short and long run. Policies should be geared toward channeling resources to enhance ICT skills, access, and usage in the continent. This can be achieved if organizations engaged in the SSA agenda for prosperity, provide the support needed to complement different governments’ efforts in advancing ICT penetration and innovation diffusion in the continent. Also, it is important for income groups to be considered when establishing and implementing such policies.

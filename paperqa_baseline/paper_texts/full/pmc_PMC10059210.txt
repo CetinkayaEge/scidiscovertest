@@ -1,0 +1,9 @@
+Title: Testable Candidate Immune Correlates of Protection for Porcine Reproductive and Respiratory Syndrome Virus Vaccination
+Authors: Andrew R. Kick, Alicyn F. Grete, Elisa Crisci, Glen W. Almond, Tobias Käser
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030594
+Paper ID: pmc_PMC10059210
+
+Abstract:
+Porcine reproductive and respiratory syndrome virus (PRRSV) is an on-going problem for the worldwide pig industry. Commercial and experimental vaccinations often demonstrate reduced pathology and improved growth performance; however, specific immune correlates of protection (CoP) for PRRSV vaccination have not been quantified or even definitively postulated: proposing CoP for evaluation during vaccination and challenge studies will benefit our collective efforts towards achieving protective immunity. Applying the breadth of work on human diseases and CoP to PRRSV research, we advocate four hypotheses for peer review and evaluation as appropriate testable CoP: (i) effective class-switching to systemic IgG and mucosal IgA neutralizing antibodies is required for protective immunity; (ii) vaccination should induce virus-specific peripheral blood CD4 + T-cell proliferation and IFN-γ production with central memory and effector memory phenotypes; cytotoxic T-lymphocytes (CTL) proliferation and IFN-γ production with a CCR7 - phenotype that should migrate to the lung; (iii) nursery, finishing, and adult pigs will have different CoP; (iv) neutralizing antibodies provide protection and are rather strain specific; T cells confer disease prevention/reduction and possess greater heterologous recognition. We believe proposing these four CoP for PRRSV can direct future vaccine design and improve vaccine candidate evaluation.

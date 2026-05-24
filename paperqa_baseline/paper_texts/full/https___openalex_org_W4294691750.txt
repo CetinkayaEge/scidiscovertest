@@ -1,0 +1,9 @@
+Title: Towards IoT-based sustainable digital communities
+Authors: Fangyu Li, Hongyan Yang, Xuejin Gao, Honggui Han
+Year: 2022
+Venue: Intelligent and Converged Networks
+DOI: https://doi.org/10.23919/icn.2022.0015
+Paper ID: https://openalex.org/W4294691750
+
+Abstract:
+Seeking continuous development, a modern community must also be able to adapt to future possible challenges using constrained or limited resources. As a revolutionary communication paradigm, the Internet of Things (IoT) empowers the cutting-edge and emerging applications which enable manifold new intelligent services towards a smart community. The sophisticated ecosystem of a digital community is made feasible by the IoT infrastructure, which also provides community control with access to a wealth of actual data. In addition, IoT platforms empower the ubiquitous computing ability, providing more potentials to the actuators in perception layer in the IoT architecture. With more and more population in the urban areas, sustainability issues have become a key factor to consider in the development of a digital community. We give a modern survey in this study on the most recent developments in IoT for sustainable digital communities. After carefully examining the most recent literature, we specifically highlight the various smart digital community application scenarios, such as smart buildings, energy management, green transportation, trash management, etc. We also look into a number of major issues facing the use of IoT technology in digital communities. Furthermore, we discuss potential future applications and future research areas for IoT, the critical component of sustainable digital communities.

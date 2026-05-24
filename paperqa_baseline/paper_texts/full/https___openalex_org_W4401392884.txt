@@ -1,0 +1,9 @@
+Title: Artificial Internet of Things, Sensor-Based Digital Twin Urban Computing Vision Algorithms, and Blockchain Cloud Networks in Sustainable Smart City Administration
+Authors: Ani Matei, Mădălina Cocoșatu
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16166749
+Paper ID: https://openalex.org/W4401392884
+
+Abstract:
+The aim of this paper is to synthesize and analyze existing evidence on interconnected sensor networks and digital urban governance in data-driven smart sustainable cities. The research topic of this systematic review is whether and to what extent smart city governance can effectively integrate the Internet of Things (IoT), Artificial Intelligence of Things (AIoT), intelligent decision algorithms based on big data technologies, and cloud computing. This is relevant since smart cities place special emphasis on the involvement of citizens in decision-making processes and sustainable urban development. To investigate the work to date, search outcome management and systematic review screening procedures were handled by PRISMA and Shiny app flow design. A quantitative literature review was carried out in June 2024 for published original and review research between 2018 and 2024. For qualitative and quantitative data management and analysis in the research review process, data extraction tools, study screening, reference management software, evidence map visualization, machine learning classifiers, and reference management software were harnessed. Dimensions and VOSviewer were deployed to explore and visualize the bibliometric data.

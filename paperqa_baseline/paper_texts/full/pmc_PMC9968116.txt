@@ -1,0 +1,9 @@
+Title: Biophysical Properties of Bifunctional Phage-Biosensor
+Authors: Vilhelmiina Juusti, Janne Kulpakko, Elizabeth Cudjoe, Ville N. Pimenoff, Pekka Hänninen
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15020299
+Paper ID: pmc_PMC9968116
+
+Abstract:
+Biosensor research is a swiftly growing field for developing rapid and precise analytical devices for biomedical, pharmaceutical, and industrial use and beyond. Herein, we propose a phage-based biosensor method to develop a sensitive and specific system for biomedical detection. Our method is based on in vitro selected phages and their interaction with the targeted analytes as well as on optical properties that change according to the concentration of the model analyte. The green fluorescent protein (GFP) was chosen as our model analyte as it has its own well-known optical properties. Brilliant green was used as a reporter component for the sensor. Its presence enables a color intensity (absorbance) change when the analyte is present in the solution. Furthermore, the reporter dye functioned as a quencher for an additional lanthanide label in our assay. It mediated the specific phage-derived interference in the signal measured with the time-resolved luminescence. Most importantly, our results confirmed that the presented bifunctional phage with its liquid crystal properties enabled the measurement of GFP in a concentration-dependent, quantitative manner with a limit of detection of 0.24 µg/mL. In the future, our novel method to develop phage-based biosensors may provide highly sensitive and specific biosensors for biomedical or otherwise-relevant targets.

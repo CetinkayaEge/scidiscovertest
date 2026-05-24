@@ -1,0 +1,9 @@
+Title: Homeostatic regulation through strengthening of neuronal network-correlated synaptic inputs
+Authors: Samuel J Barnes, Georg B Keller, Tara Keck
+Year: 2022
+Venue: eLife
+DOI: 10.7554/eLife.81958
+Paper ID: pmc_PMC9803349
+
+Abstract:
+Homeostatic regulation is essential for stable neuronal function. Several synaptic mechanisms of homeostatic plasticity have been described, but the functional properties of synapses involved in homeostasis are unknown. We used longitudinal two-photon functional imaging of dendritic spine calcium signals in visual and retrosplenial cortices of awake adult mice to quantify the sensory deprivation-induced changes in the responses of functionally identified spines. We found that spines whose activity selectively correlated with intrinsic network activity underwent tumor necrosis factor alpha (TNF-α)-dependent homeostatic increases in their response amplitudes, but spines identified as responsive to sensory stimulation did not. We observed an increase in the global sensory-evoked responses following sensory deprivation, despite the fact that the identified sensory inputs did not strengthen. Instead, global sensory-evoked responses correlated with the strength of network-correlated inputs. Our results suggest that homeostatic regulation of global responses is mediated through changes to intrinsic network-correlated inputs rather than changes to identified sensory inputs thought to drive sensory processing.

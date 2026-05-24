@@ -1,0 +1,9 @@
+Title: Polymeric Binder Design for Sustainable Lithium-Ion Battery Chemistry
+Authors: Juhee Yoon, Jeonghun Lee, Hyemin Kim, Jihyeon Kim, Hyoung‐Joon Jin
+Year: 2024
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym16020254
+Paper ID: https://openalex.org/W4390913198
+
+Abstract:
+The design of binders plays a pivotal role in achieving enduring high power in lithium-ion batteries (LIBs) and extending their overall lifespan. This review underscores the indispensable characteristics that a binder must possess when utilized in LIBs, considering factors such as electrochemical, thermal, and dispersion stability, compatibility with electrolytes, solubility in solvents, mechanical properties, and conductivity. In the case of anode materials, binders with robust mechanical properties and elasticity are imperative to uphold electrode integrity, particularly in materials subjected to substantial volume changes. For cathode materials, the selection of a binder hinges on the crystal structure of the cathode material. Other vital considerations in binder design encompass cost effectiveness, adhesion, processability, and environmental friendliness. Incorporating low-cost, eco-friendly, and biodegradable polymers can significantly contribute to sustainable battery development. This review serves as an invaluable resource for comprehending the prerequisites of binder design in high-performance LIBs and offers insights into binder selection for diverse electrode materials. The findings and principles articulated in this review can be extrapolated to other advanced battery systems, charting a course for developing next-generation batteries characterized by enhanced performance and sustainability.

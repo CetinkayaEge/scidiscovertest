@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and Internet of Things for Sustainable Farming and Smart Agriculture
+Authors: Ahmad Ali AlZubi, Galyna Kalda
+Year: 2023
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2023.3298215
+Paper ID: https://openalex.org/W4385212690
+
+Abstract:
+Technologies like AI and IoT have been employed in farming for some time now, along with other forms of cutting-edge computer science. There has been a shift in recent years toward thinking about how to put this new technology to use. Agriculture has provided a large portion of humanity’s sustenance for thousands of years, with its most notable contribution being the widespread use of effective agricultural practices for several crop types. The advent of cutting-edge IoT know-how with the ability to monitor agricultural ecosystems and guarantee high-quality production is underway. Smart Sustainable Agriculture continues to face formidable hurdles due to the widespread dispersion of agricultural procedures, such as the deployment and administration of IoT and AI devices, the sharing of data and administration, interoperability, and the analysis and storage of enormous data quantities. This work initially analyses existing Internet-of-Things technologies used in Smart Sustainable Agriculture (SSA) to discover architectural components that might facilitate the development of SSA platforms. This paper examines the state of research and development in SSA, pays attention to the current form of information, and proposes an Internet of Things (IoT) and artificial intelligence (AI) framework as a starting point for SSA.

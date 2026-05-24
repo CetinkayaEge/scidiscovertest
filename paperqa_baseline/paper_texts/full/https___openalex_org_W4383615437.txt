@@ -1,0 +1,9 @@
+Title: Porous microneedle patch with sustained delivery of extracellular vesicles mitigates severe spinal cord injury
+Authors: Ao Fang, Yifan Wang, Naiyu Guan, Yanming Zuo, Lingmin Lin, Binjie Guo, Aisheng Mo, Yile Wu, Xurong Lin, Wanxiong Cai, Xiangfeng Chen, Jingjia Ye, Zeinab Abdelrahman, Xiaodan Li, Hanyu Zheng, Zhonghan Wu, Shuang Jin, Kan Xu, Yan Huang, Xiaosong Gu, Bin Yu, Xuhua Wang
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-39745-2
+Paper ID: https://openalex.org/W4383615437
+
+Abstract:
+The transplantation of mesenchymal stem cells-derived secretome, particularly extracellular vesicles is a promising therapy to suppress spinal cord injury-triggered neuroinflammation. However, efficient delivery of extracellular vesicles to the injured spinal cord, with minimal damage, remains a challenge. Here we present a device for the delivery of extracellular vesicles to treat spinal cord injury. We show that the device incorporating mesenchymal stem cells and porous microneedles enables the delivery of extracellular vesicles. We demonstrate that topical application to the spinal cord lesion beneath the spinal dura, does not damage the lesion. We evaluate the efficacy of our device in a contusive spinal cord injury model and find that it reduces the cavity and scar tissue formation, promotes angiogenesis, and improves survival of nearby tissues and axons. Importantly, the sustained delivery of extracellular vesicles for at least 7 days results in significant functional recovery. Thus, our device provides an efficient and sustained extracellular vesicles delivery platform for spinal cord injury treatment.

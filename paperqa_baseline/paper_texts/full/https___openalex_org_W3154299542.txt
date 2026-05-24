@@ -1,0 +1,9 @@
+Title: An ex ante assessment of value conflicts and social acceptance of sustainable heating systems
+Authors: Tristan de Wildt, Anne R. Boijmans, Émile Chappin, Paulien Herder
+Year: 2021
+Venue: Energy Policy
+DOI: https://doi.org/10.1016/j.enpol.2021.112265
+Paper ID: https://openalex.org/W3154299542
+
+Abstract:
+This paper demonstrates an approach to assess, ex ante, the social acceptance of sustainable heating systems in city districts. More sustainable heating systems are required in city districts to reduce greenhouse gas emissions. However, these systems may lack social acceptance as they often require significant adjustments to homes and may lead to a noticeable loss of in-home thermal comfort. Predicting social acceptance is often difficult due to the long-term planning horizon for energy systems. It is therefore unclear which design requirements and policy guidelines need to be specified ex ante. We suggest an approach to anticipate social acceptance by identifying value conflicts embedded in sustainable heating systems in specific social settings. These value conflicts might cause a lack of social acceptance over time due to value change. We demonstrate this approach using a case of community-driven heating initiative in The Hague, the Netherlands. We identify value conflicts embedded in various sustainable heating systems using an agent-based model. We formulate scenarios of value change to understand the severity of resulting social acceptance issues and discuss suitable heating systems for the city district. The approach can be used to support the decision-making process of policymakers at the local level, even in situations of limited local expertise.

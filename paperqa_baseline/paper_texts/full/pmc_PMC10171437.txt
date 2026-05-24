@@ -1,0 +1,9 @@
+Title: Promotive role of IRF7 in ferroptosis of colonic epithelial cells in ulcerative colitis by the miR-375-3p/SLC11A2 axis
+Authors: Zepeng Chen, Qinglong Gu, Ruichao Chen
+Year: 2023
+Venue: Biomolecules and Biomedicine
+DOI: 10.17305/bjbms.2022.8081
+Paper ID: pmc_PMC10171437
+
+Abstract:
+Ferroptosis is implicated in the progression of ulcerative colitis (UC), and interferon regulatory factor 7 (IRF7) contributes to cell death. This study probed the mechanism of IRF7 in ferroptosis of colonic epithelial cells (ECs) in mice with dextran sodium sulfate (DSS)-induced UC. The UC mouse model and the in vitro ferroptosis model were, respectively, established by DSS feeding and the treatment with FIN56 (a ferroptosis inducer). Results of quantitative real-time polymerase chain reaction and western blotting revealed the upregulation of IRF7 and solute carrier family 11 member 2 (SLC11A2/NRAMP2/DMT1) and the downregulation of microRNA (miR)-375-3p in DSS-treated mice and FIN56-treated ECs. Silencing of IRF7 improved the symptoms of UC in DSS-induced mice and decreased the levels of tumor necrosis factor α, interleukin 6, monocyte chemoattractant protein 1, and interleukin 1β, reactive oxygen species, iron ions, lipid peroxidation, and increased glutathione and glutathione peroxidase 4. Chromatin immunoprecipitation and dual-luciferase assays showed that binding of IRF7 to the miR-375-3p promoter inhibited miR-375-3p expression, and miR-375-3p suppressed SLC11A2 transcription. The rescue experiments revealed that knockdown of miR-375-3p neutralized the role of silencing IRF7 in alleviating ferroptosis of colonic ECs. Overall, IRF7 upregulated SLC11A2 transcription by inhibiting miR-375-3p expression, thereby prompting ferroptosis of colonic ECs and UC progression in DSS-treated mice.

@@ -1,0 +1,9 @@
+Title: Do sustainability disclosure mechanisms reduce market myopia? Evidence from European sustainability companies
+Authors: Cristina del Río, Francisco José López Arceiz, Luis Muga
+Year: 2023
+Venue: International Review of Financial Analysis
+DOI: https://doi.org/10.1016/j.irfa.2023.102600
+Paper ID: https://openalex.org/W4321368392
+
+Abstract:
+Market myopia is a behavioural bias that causes investors to overvalue short-term earnings and undervalue long-term profits. This anomaly should not be compatible with sustainability disclosure mechanisms, the set of tools which firms use for reporting on their sustainable practices, and which contribute towards long-term performance improvements. Our aim is to study whether market myopia, as a symptom of market inefficiency, decreases with the implementation of sustainability disclosure mechanisms. We test for the presence of market myopia in a sample of firms listed on the S&P Europe 350 Index. For this purpose, we propose to use an adaptation of the valuation model for residual income under linear information dynamics developed by Felthan and Ohlson. Using the rating provided by RobecoSAM Sustainability Yearbook, we find market myopia to be less prevalent in companies classified as high sustainability reporters. An association is also found between persistent enforcement of sustainability disclosure mechanisms and a reduction of the market myopia effect.

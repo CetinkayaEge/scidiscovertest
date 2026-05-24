@@ -1,0 +1,9 @@
+Title: Investigation of the Fabrication Suitability, Structural Performance, and Sustainability of Natural Fibers in Coreless Filament Winding
+Authors: Pascal Mindermann, Marta Gil Pérez, Jan Knippers, Götz T. Gresser
+Year: 2022
+Venue: Materials
+DOI: https://doi.org/10.3390/ma15093260
+Paper ID: https://openalex.org/W4225255735
+
+Abstract:
+Coreless filament winding is an emerging fabrication technology in the field of building construction with the potential to significantly decrease construction material consumption, while being fully automatable. Therefore, this technology could offer a solution to the increasing worldwide demand for building floor space in the next decades by optimizing and reducing the material usage. Current research focuses mainly on the design and engineering aspects while using carbon and glass fibers with epoxy resin; however, in order to move towards more sustainable structures, other fiber and resin material systems should also be assessed. This study integrates a selection of potential alternative fibers into the coreless filament winding process by adapting the fabrication equipment and process. A bio-based epoxy resin was introduced and compared to a conventional petroleum-based one. Generic coreless wound components were created for evaluating the fabrication suitability of selected alternative fibers. Four-point bending tests were performed for assessing the structural performance in relation to the sustainability of twelve alternative fibers and two resins. In this study, embodied energy and global warming potential from the literature were used as life-cycle assessment indexes to compare the material systems. Among the investigated fibers, flax showed the highest potential while bio-based resins are advisable at low fiber volume ratios.

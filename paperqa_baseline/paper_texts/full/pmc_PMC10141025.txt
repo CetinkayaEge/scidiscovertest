@@ -1,0 +1,9 @@
+Title: YCl 3 -Substituted CsPbI 3 Perovskite Nanorods for Efficient Red-Light-Emitting Diodes
+Authors: Muhammad Imran Saleem, Amarja Katware, Al Amin, Seo-Hee Jung, Jeong-Hwan Lee
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081366
+Paper ID: pmc_PMC10141025
+
+Abstract:
+Cesium lead iodide (CsPbI 3 ) perovskite nanocrystals (NCs) are a promising material for red-light-emitting diodes (LEDs) due to their excellent color purity and high luminous efficiency. However, small-sized CsPbI 3 colloidal NCs, such as nanocubes, used in LEDs suffer from confinement effects, negatively impacting their photoluminescence quantum yield (PLQY) and overall efficiency. Here, we introduced YCl 3 into the CsPbI 3 perovskite, which formed anisotropic, one-dimensional (1D) nanorods. This was achieved by taking advantage of the difference in bond energies among iodide and chloride ions, which caused YCl 3 to promote the anisotropic growth of CsPbI 3 NCs. The addition of YCl 3 significantly improved the PLQY by passivating nonradiative recombination rates. The resulting YCl 3 -substituted CsPbI 3 nanorods were applied to the emissive layer in LEDs, and we achieved an external quantum efficiency of ~3.16%, which is 1.86-fold higher than the pristine CsPbI 3 NCs (1.69%) based LED. Notably, the ratio of horizontal transition dipole moments (TDMs) in the anisotropic YCl 3 :CsPbI 3 nanorods was found to be 75%, which is higher than the isotropically-oriented TDMs in CsPbI 3 nanocrystals (67%). This increased the TDM ratio and led to higher light outcoupling efficiency in nanorod-based LEDs. Overall, the results suggest that YCl 3 -substituted CsPbI 3 nanorods could be promising for achieving high-performance perovskite LEDs.

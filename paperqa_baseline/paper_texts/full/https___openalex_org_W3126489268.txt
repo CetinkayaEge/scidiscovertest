@@ -1,0 +1,9 @@
+Title: Simulation, Optimization, and Machine Learning in Sustainable Transportation Systems: Models and Applications
+Authors: Rocío de la Torre, Canan G. Corlu, Javier Faulín, Bhakti Stephan Onggo, Ángel A. Juan
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031551
+Paper ID: https://openalex.org/W3126489268
+
+Abstract:
+The need for effective freight and human transportation systems has consistently increased during the last decades, mainly due to factors such as globalization, e-commerce activities, and mobility requirements. Traditionally, transportation systems have been designed with the main goal of reducing their monetary cost while offering a specified quality of service. During the last decade, however, sustainability concepts are also being considered as a critical component of transportation systems, i.e., the environmental and social impact of transportation activities have to be taken into account when managers and policy makers design and operate modern transportation systems, whether these refer to long-distance carriers or to metropolitan areas. This paper reviews the existing work on different scientific methodologies that are being used to promote Sustainable Transportation Systems (STS), including simulation, optimization, machine learning, and fuzzy sets. This paper discusses how each of these methodologies have been employed to design and efficiently operate STS. In addition, the paper also provides a classification of common challenges, best practices, future trends, and open research lines that might be useful for both researchers and practitioners.

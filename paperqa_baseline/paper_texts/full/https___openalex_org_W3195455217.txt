@@ -1,0 +1,9 @@
+Title: Promoting sustainable mode choice for commuting supported by persuasive strategies
+Authors: Domokos Esztergár‐Kiss, Yuliia Shulha, Attila Aba, Tamás Tettamanti
+Year: 2021
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2021.103264
+Paper ID: https://openalex.org/W3195455217
+
+Abstract:
+A personalized route planner is elaborated to support commuting, where soft measures are applied to influence the intentions of individual travel behavior. In order to do that a utility function is created, which consists of four attributes (travel time, travel cost, environmental effect, and health effect) to reflect on user preferences and considers four transport modes (walking, cycling, public transport, and car) as alternatives. The outcome of the utility function is a suggested transport mode based on the attributes, where the travelers may provide a feedback, whether they would really choose the suggested transport mode. During the analysis, statistical methods are used to determine the most substantial factors affecting transport mode choice and trip characteristics. Based on the analysis, travel time is still the most determinant attribute in transport mode choice. Considering the results, the web application suggests in most cases cycling as the best mode choice, and almost half of all users agree to choose the best transport mode, which is suggested by the application. The acceptance rate is much higher in case of public transportation and walking. The applicability of reduction, tunneling, suggestion, personalization, and simulation strategies are demonstrated. The elaborated method supports finding a solution to change travel behavior by understanding the affecting factors of the individual decision-making process, which might help promoting the choice of environmentally friendly transport modes.

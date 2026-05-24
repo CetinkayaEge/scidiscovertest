@@ -1,0 +1,9 @@
+Title: Afferent convergence to a shared population of interneuron AMPA receptors
+Authors: Reagan L. Pennock, Luke T. Coddington, Xiaohui Yan, Linda Overstreet-Wadiche, Jacques I. Wadiche
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38854-2
+Paper ID: pmc_PMC10229553
+
+Abstract:
+Precise alignment of pre- and postsynaptic elements optimizes the activation of glutamate receptors at excitatory synapses. Nonetheless, glutamate that diffuses out of the synaptic cleft can have actions at distant receptors, a mode of transmission called spillover. To uncover the extrasynaptic actions of glutamate, we localized AMPA receptors (AMPARs) mediating spillover transmission between climbing fibers and molecular layer interneurons in the cerebellar cortex. We found that climbing fiber spillover generates calcium transients mediated by Ca 2+ -permeable AMPARs at parallel fiber synapses. Spillover occludes parallel fiber synaptic currents, indicating that separate, independently regulated afferent pathways converge onto a common pool of AMPARs. Together these findings demonstrate a circuit motif wherein glutamate ‘spill-in’ from an unconnected afferent pathway co-opts synaptic receptors, allowing activation of postsynaptic AMPARs even when canonical glutamate release is suppressed. Glutamate that diffuses out of the synaptic cleft can have actions at distant receptors, a mode of transmission called spillover. Here, the authors find in the cerebellar cortex that glutamate spillover from climbing fibers activates synaptic AMPA receptors of molecular layer interneurons, allowing glutamate from an unconnected pathway to co-opt postsynaptic receptors.

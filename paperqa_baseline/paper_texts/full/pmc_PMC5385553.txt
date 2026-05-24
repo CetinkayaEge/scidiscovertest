@@ -1,0 +1,9 @@
+Title: Constructing Ecological Networks Based on Habitat Quality Assessment: A Case Study of Changzhou, China
+Authors: Yu Gao, Lei Ma, Jiaxun Liu, Zhuzhou Zhuang, Qiuhao Huang, Manchun Li
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46073
+Paper ID: pmc_PMC5385553
+
+Abstract:
+Fragmentation and reduced continuity of habitat patches threaten the environment and biodiversity. Recently, ecological networks are increasingly attracting the attention of researchers as they provide fundamental frameworks for environmental protection. This study suggests a set of procedures to construct an ecological network. First, we proposed a method to construct a landscape resistance surface based on the assessment of habitat quality. Second, to analyze the effect of the resistance surface on corridor simulations, we used three methods to construct resistance surfaces: (1) the method proposed in this paper, (2) the entropy coefficient method, and (3) the expert scoring method. Then, we integrated habitat patches and resistance surfaces to identify potential corridors using graph theory. These procedures were tested in Changzhou, China. Comparing the outputs of using different resistance surfaces demonstrated that: (1) different landscape resistance surfaces contribute to how corridors are identified, but only slightly affect the assessment of the importance of habitat patches and potential corridors; (2) the resistance surface, which is constructed based on habitat quality, is more applicable to corridor simulations; and (3) the assessment of the importance of habitat patches is fundamental for ecological network optimization in the conservation of critical habitat patches and corridors.

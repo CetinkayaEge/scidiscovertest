@@ -1,0 +1,9 @@
+Title: Towards Environmental Sustainability in China: Role of Globalization and Hydroelectricity Consumption
+Authors: Rahmi Deniz Özbay, Seyed Alireza Athari, Chafic Saliba, Derviş Kırıkkaleli
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14074182
+Paper ID: https://openalex.org/W4220991826
+
+Abstract:
+Countries encounter conflicting policy options in reaching fast development goals due to high resource use, rapid economic expansion, and environmental degradation. Thus, the present research examined the connection between CO2 emissions and urbanization, globalization, hydroelectricity, and economic expansion in China utilizing data spanning the period between 1985 and 2018. The novel quantile-on-quantile (QQ) and quantile regression (QR) approaches were applied to assess this interconnection. The QQ approach is characterized by its ability to incorporate quantile regression fundamentals and non-parametric estimation research. As a result, the method appears to transform the quantile of one parameter into another. The QQ outcomes revealed that in all quantiles (0.1–0.95), gross domestic product (GDP), urbanization, and globalization trigger CO2 emissions in China, while in each quantile (0.1–0.985), hydroelectricity consumption mitigates CO2 emissions. The QR outcomes also affirmed the outcomes of the QQ regression estimates. Policies are suggested based on these findings.

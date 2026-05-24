@@ -1,0 +1,9 @@
+Title: Sustainable and Resilient Land Use Planning: A Multi-Objective Optimization Approach
+Authors: Tomé Sicuaio, Pengxiang Zhao, Petter Pilesjö, Andrey Shindyapin, Ali Mansourian
+Year: 2024
+Venue: ISPRS International Journal of Geo-Information
+DOI: https://doi.org/10.3390/ijgi13030099
+Paper ID: https://openalex.org/W4392958911
+
+Abstract:
+Land use allocation (LUA) is of prime importance for the development of urban sustainability and resilience. Since the process of planning and managing land use requires balancing different conflicting social, economic, and environmental factors, it has become a complex and significant issue in urban planning worldwide. LUA is usually regarded as a spatial multi-objective optimization (MOO) problem in previous studies. In this paper, we develop an MOO approach for tackling the LUA problem, in which maximum economy, minimum carbon emissions, maximum accessibility, maximum integration, and maximum compactness are formulated as optimal objectives. To solve the MOO problem, an improved non-dominated sorting genetic algorithm III (NSGA-III) is proposed in terms of mutation and crossover operations by preserving the constraints on the sizes for each land use type. The proposed approach was applied to KaMavota district, Maputo City, Mozambique, to generate a proper land use plan. The results showed that the improved NSGA-III yielded better performance than the standard NSGA-III. The optimal solutions produced by the MOO approach provide good trade-offs between the conflicting objectives. This research is beneficial for policymakers and city planners by providing alternative land use allocation plans for urban sustainability and resilience.

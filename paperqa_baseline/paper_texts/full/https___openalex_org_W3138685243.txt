@@ -1,0 +1,9 @@
+Title: Years of good life is a well-being indicator designed to serve research on sustainability
+Authors: Wolfgang Lutz, Erich Striessnig, Anna Dimitrova, Simone Ghislandi, Anastasia Aldelina Lijadi, Claudia Reiter, Sonja Spitzer, Dilek Yıldız
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.1907351118
+Paper ID: https://openalex.org/W3138685243
+
+Abstract:
+Sustainable development (SD) as popularized by the Brundtland Commission and politically enshrined in the Sustainable Development Goals has been the explicit focus of sustainability science. While there is broad agreement that the trend of human well-being (W) over time should serve as a sustainability criterion, the literature so far has mostly addressed this in terms of its determinants rather than focusing on W itself. There is broad agreement that an indicator for W should have multiple constituents, clearly going beyond gross domestic product. Here, we propose a tailor-made indicator to serve precisely this purpose following a set of specified desiderata, including its applicability to flexibly defined subnational populations by gender, place of residence, ethnicity, and other relevant characteristics. The indicator, years of good life (YoGL), reflects the evident fact that in order to be able to enjoy any quality of life, one has to be alive and thus is primarily based on life expectancy. However, since mere survival is not considered good enough, life years are counted conditional on meeting minimum standards in two dimensions: the objective dimension of capable longevity (consisting of being out of absolute poverty and enjoying minimal levels of physical and cognitive health) and the subjective dimension of overall life satisfaction. We illustrate the calculation of this indicator for countries and subpopulations at different stages of development and with different degrees of data availability.

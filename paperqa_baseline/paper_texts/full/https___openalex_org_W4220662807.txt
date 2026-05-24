@@ -1,0 +1,9 @@
+Title: Sustainable Growth Rate and ROE Analysis: An Applied Study on Saudi Banks Using the PRAT Model
+Authors: Farouq Altahtamouni, Ahoud Alfayhani, Amna Qazaq, Arwa Alkhalifah, Hajar Masfer, Ryoof Almutawa, Shikhah Alyousef
+Year: 2022
+Venue: Economies
+DOI: https://doi.org/10.3390/economies10030070
+Paper ID: https://openalex.org/W4220662807
+
+Abstract:
+This study aims at testing the effect of the components of the PRAT model and the basic model developed by Robert Higgins on the rate of sustainable growth by applying them to a sample of Saudi banks during the period of 2010–2019. Regarding the PRAT model, as Higgins explained, it is that detailed model measuring the sustainable growth rate by profit margin (P), retention rate (R), asset turnover (A), and leverage (T). To test the relation between the study variables, multiple regression analyses were conducted using the Pooled Model (PEM), the Fixed Effect Model (FEM), and the Random Effect Model (REM). The results showed that all the variables of the PRAT model affect sustainable growth (profitability margin, retained earnings, asset turnover, and financial leverage). Moreover, the application of the basic model of Higgins shows that the rate of return on equity and retained earnings affect sustainable growth. When drawing a comparison among statistical measurement models and checking the validity of these models, the validity of the fixed effect model for measuring the relation between the variables of the PRAT model and Higgins basic model is seen.

@@ -1,0 +1,9 @@
+Title: MXene-based electrochemical (bio) sensors for sustainable applications: Roadmap for future advanced materials
+Authors: Qing Wang, Ning Han, Zhangfeng Shen, Xue Li, Zhijie Chen, Yue Cao, Weimeng Si, Fagang Wang, Bing‐Jie Ni, Vijay Kumar Thakur
+Year: 2022
+Venue: Nano Materials Science
+DOI: https://doi.org/10.1016/j.nanoms.2022.07.003
+Paper ID: https://openalex.org/W4293162140
+
+Abstract:
+MXenes are emerging transition metal carbides and nitrides-based 2D conductive materials. They have found wide applications in sensors due to their excellent valuable properties. This paper reviews the recent research status of MXene-based electrochemical (bio) sensors for detecting biomarkers, pesticides, and other aspects. The first part of this paper introduced the synthesis strategy and the effect of surface modification on various properties of MXenes. The second part of this paper discussed the application of MXenes as electrode modifiers for detecting pesticides, environmental pollutants, and biomarkers such as glucose, hydrogen peroxide, etc. Hope this review will inspire more efforts toward research on MXene-based sensors to meet the growing requirements.

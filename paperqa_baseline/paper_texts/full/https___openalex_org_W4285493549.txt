@@ -1,0 +1,9 @@
+Title: Structural and Interfacial Characterization of a Sustainable Si/Hard Carbon Composite Anode for Lithium-Ion Batteries
+Authors: Leonardo Sbrascini, Antunes Staffolani, Luca Bottoni, Hamideh Darjazi, Luca Minnetti, Marco Minicucci, Francesco Nobili
+Year: 2022
+Venue: ACS Applied Materials & Interfaces
+DOI: https://doi.org/10.1021/acsami.2c07888
+Paper ID: https://openalex.org/W4285493549
+
+Abstract:
+The effects of a biomass-derived hard carbon matrix and a sustainable cross-linked binder are investigated as electrode components for a silicon-based anode in lithium-ion half-cells, in order to reduce the capacity fade due to volume expansion and shrinkage upon cycling. Ex situ Raman spectroscopy and impedance spectroscopy are used to deeply investigate the structural and interfacial properties of the material within a single cycle and upon cycling. An effective buffering of the volume changes of the composite electrode is evidenced, even at a high Si content up to 30% in the formulation, resulting in the retention of structural and interfacial integrity. As a result, a high capacity performance and a very good rate capability are displayed even at high current densities, with a stable cycling behavior and low polarization effects.

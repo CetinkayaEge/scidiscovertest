@@ -1,0 +1,9 @@
+Title: Analytical hierarchy process for sustainable agriculture: An overview
+Authors: Anuj Kumar, Sangeeta Pant
+Year: 2022
+Venue: MethodsX
+DOI: https://doi.org/10.1016/j.mex.2022.101954
+Paper ID: https://openalex.org/W4312054485
+
+Abstract:
+United nation sustainable development goal two (UNSDG-2) aims to achieve the eradication of hunger along with the assurance of food security for all by 2030. This cannot be achieved without combining all forms of sciences including mathematics and statistics with agriculture practice to make agriculture sustainable. Agriculture has been considered the backbone of the economic systems of developing and developed countries. However, while practicing the activities, various conflicting issues incorporate and make the situation challenging for the agriculture industry in the decision-making process. Multi-criteria decision-making (MCDM) techniques can provide the optimal solution and they have proved to be viable in various complex decision-making problems of the real world like agriculture-related decision-making problems. They can help to find a suitable alternative for a particular complex situation. The analytical hierarchy process (AHP); a globally accepted method; has been a winning arc of the MCDM techniques. This article specifically reviews the application of AHP in various agriculture-related problems, the models used, the data sources used, and the overall precision attained using the different performance criteria of the past few years.

@@ -1,0 +1,9 @@
+Title: A Pythagorean Fuzzy Approach for Sustainable Supplier Selection Using TODIM
+Authors: Prabjot Kaur, Vaishnudebi Dutta, Bijay Lal Pradhan, Subhomoy Haldar, Supriya Chauhan
+Year: 2021
+Venue: Mathematical Problems in Engineering
+DOI: https://doi.org/10.1155/2021/4254894
+Paper ID: https://openalex.org/W3211031664
+
+Abstract:
+Several firms have become increasingly concerned with sustainability in recent decades and are thus implementing environmental and social changes in their businesses and supply networks. This article aims to assess suppliers based on green design, corporate social responsibility, energy consumption, and other sustainability factors that might aid the growth of a company. Characteristics used in this study will help to accomplish economic, environmental, and social responsibility for organizations to reduce global warming and natural resource depletion. We have used the data given in the article of Zolfani et al. by implementing Pythagorean fuzzy TODIM (an acronym in Portuguese for iterative multicriteria decision making) to calculate the rank of suppliers based on the Triple Bottom Line (TBL) sustainability framework. Both TODIM and PF-TODIM are simple to compute, stable, consistent, and accurate, but we have proved by calculations why Pythagorean fuzzy TODIM should be chosen over TODIM in such situations, where decision makers do not have access to a reliable data source. Finally, we performed a sensitivity analysis on both TODIM and PF-TODIM, and the results bolstered the utility of the model.

@@ -1,0 +1,9 @@
+Title: Anion exchange membrane water electrolysis for sustainable large‐scale hydrogen production
+Authors: Sol A Lee, Jaehyun Kim, Ki Chang Kwon, Sun Hwa Park, Ho Won Jang
+Year: 2022
+Venue: Carbon Neutralization
+DOI: https://doi.org/10.1002/cnl2.9
+Paper ID: https://openalex.org/W4285408211
+
+Abstract:
+Abstract The development of sustainable energy technology has received considerable attention to meet the increasing energy demands and realize carbon neutrality. Hydrogen is a promising alternative energy source to replace fossil fuels and mitigate environmental issues. However, most hydrogen is produced by reforming fossil fuels, called gray hydrogen, and the production of gray hydrogen emits a large amount of carbon dioxide. As a sustainable approach, water electrolysis technology has been developed to produce high‐purity hydrogen, called green hydrogen. Among various technologies, water electrolysis equipped with an anion exchange membrane has been regarded as an attractive pathway for large‐scale H 2 production at a low cost. The status of anion exchange membrane water electrolyzers is approaching toward megawatt‐scale H 2 production by companies, which has the potential to become competitive technology for existing water electrolyzers (alkaline electrolyzer, proton exchange membrane electrolyser). This review article represents recent advances in the development of major components (membrane, catalyst, membrane electrode assembly) of anion exchange water electrolyzers. By recognizing the current water electrolysis performance and solving the remaining challenges, anion exchange membrane electrolysis can be a leading technology for green hydrogen production.

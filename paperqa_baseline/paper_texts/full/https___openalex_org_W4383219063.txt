@@ -1,0 +1,9 @@
+Title: Towards Sustainable Farming: A Robust Decision Support System’s Architecture for Agriculture 4.0
+Authors: Eleftheria Maria Pechlivani, Georgios Gkogkos, Nikolaos Giakoumoglou, I. Hadjigeorgiou, Dimitrios Tzovaras
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.1109/dsp58604.2023.10167922
+Paper ID: https://openalex.org/W4383219063
+
+Abstract:
+Agriculture 4.0 is a new era in farming that uses digital technologies to optimize crop yields and increase sustainability by collecting, integrating, and analyzing data from various sources. Decision Support Systems (DSS) are critical in collecting vast amounts of data and transforming it into actionable insights. This paper presents a robust DSS’s architecture that serves as a user-centric cloud-based Farm Management System that utilizes real-time data from various digital and space-based technologies which are interconnected in a systemic approach. The DSS incorporates artificial intelligence (AI) algorithms and a user-friendly interface to collect data from digital tools and remote sensing systems allowing farmers for timely interventions. The DSS is integrated with an advanced blockchain system for data evidence, integrity, and AI model verification and with a cybersecurity platform to prevent cyber-attacks. It provides well-informed proactive measures and automated visualized decision processes for Integrated Pest Management (IPM) and Integrated Nutrient Management (INM). Overall, our DSS represents a promising solution to the challenges posed by Agriculture 4.0, and opens up new opportunities for sustainable farming.

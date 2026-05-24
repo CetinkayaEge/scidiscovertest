@@ -1,0 +1,9 @@
+Title: Long-Range Traffic Monitoring Based on Pulse-Compression Distributed Acoustic Sensing and Advanced Vehicle Tracking and Classification Algorithm
+Authors: Iñigo Corera, Enrique Piñeiro, Javier Navallas, Mikel Sagues, Alayn Loayssa
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063127
+Paper ID: pmc_PMC10059793
+
+Abstract:
+We introduce a novel long-range traffic monitoring system for vehicle detection, tracking, and classification based on fiber-optic distributed acoustic sensing (DAS). High resolution and long range are provided by the use of an optimized setup incorporating pulse compression, which, to our knowledge, is the first time that is applied to a traffic-monitoring DAS system. The raw data acquired with this sensor feeds an automatic vehicle detection and tracking algorithm based on a novel transformed domain that can be regarded as an evolution of the Hough Transform operating with non-binary valued signals. The detection of vehicles is performed by calculating the local maxima in the transformed domain for a given time-distance processing block of the detected signal. Then, an automatic tracking algorithm, which relies on a moving window paradigm, identifies the trajectory of the vehicle. Hence, the output of the tracking stage is a set of trajectories, each of which can be regarded as a vehicle passing event from which a vehicle signature can be extracted. This signature is unique for each vehicle, allowing us to implement a machine-learning algorithm for vehicle classification purposes. The system has been experimentally tested by performing measurements using dark fiber in a telecommunication fiber cable running in a buried conduit along 40 km of a road open to traffic. Excellent results were obtained, with a general classification rate of 97.7% for detecting vehicle passing events and 99.6% and 85.7% for specific car and truck passing events, respectively.

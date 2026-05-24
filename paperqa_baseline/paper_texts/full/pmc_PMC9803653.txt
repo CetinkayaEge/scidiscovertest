@@ -1,0 +1,9 @@
+Title: Smartphone-based holographic measurement of polydisperse suspended particulate matter with various mass concentration ratios
+Authors: Jihwan Kim, Youngdo Kim, Kyler J. Howard, Sang Joon Lee
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27215-6
+Paper ID: pmc_PMC9803653
+
+Abstract:
+Real-time monitoring of suspended particulate matter (PM) has become essential in daily life due to the adverse effects of long-term exposure to PMs on human health and ecosystems. However, conventional techniques for measuring micro-scale particulates commonly require expensive instruments. In this study, a smartphone-based device is developed for real-time monitoring of suspended PMs by integrating a smartphone-based digital holographic microscopy (S-DHM) and deep learning algorithms. The proposed S-DHM-based PM monitoring device is composed of affordable commercial optical components and a smartphone. Overall procedures including digital image processing, deep learning training, and correction process are optimized to minimize the prediction error and computational cost. The proposed device can rapidly measure the mass concentrations of coarse and fine PMs from holographic speckle patterns of suspended polydisperse PMs in water with measurement errors of 22.8 ± 18.1% and 13.5 ± 9.8%, respectively. With further advances in data acquisition and deep learning training, this study would contribute to the development of hand-held devices for monitoring polydisperse non-spherical pollutants suspended in various media.

@@ -1,0 +1,9 @@
+Title: Exploring the Effects of LED-Based Visible Light Communication on Reading and Color Perception in Indoor Environments: An Experimental Study
+Authors: Stefano Caputo, Lorenzo Mucchi, Regina Comparetto, Vittoria D’Antoni, Alessandro Farini, Valentina Orsi, Elisabetta Baldanzi
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062949
+Paper ID: pmc_PMC10057144
+
+Abstract:
+Visible light communications (VLC) is a technology that enables the transmission of digital information with a light source. VLC is nowadays seen as a promising technology for indoor applications, helping WiFi to handle the spectrum crunch. Possible indoor applications range from Internet connection at home/office to multimedia content delivery in a museum. Despite the vast interest of researchers in both theoretical analysis and experimentation on VLC technology, no studies have been carried out on the human perceptions of objects illuminated by VLC-based lamps. It is important to define if a VLC lamp decreases the reading capability or modifies the color perception in order to make VLC a technology appropriate for everyday life use. This paper describes the results of psychophysical tests on humans to define if VLC lamps modify the perception of colors or the reading speed. The results of the reading speed test showed a 0.97 correlation coefficient between tests with and without VLC modulated light, leading us to conclude that there is no difference in the reading speed capability with and without VLC-modulated light. The results of the color perception test showed a Fisher exact test p -value of 0.2351 , showing that the perception of color is not influenced by the presence of the VLC modulated light.

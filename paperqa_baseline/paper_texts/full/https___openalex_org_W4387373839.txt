@@ -1,0 +1,9 @@
+Title: Solar-driven thermochemical conversion of H2O and CO2 into sustainable fuels
+Authors: Linyang Wei, Zhefei Pan, Xinyi Shi, Oladapo Christopher Esan, Guojun Li, Hong Qi, Qixing Wu, Liang An
+Year: 2023
+Venue: iScience
+DOI: https://doi.org/10.1016/j.isci.2023.108127
+Paper ID: https://openalex.org/W4387373839
+
+Abstract:
+as initial feedstock. This review describes the sustainable fuels production system, including a series of physical and chemical processes for converting solar energy into chemical energy in the form of sustainable fuels. Detailed working principles, redox materials, and key devices are reviewed and discussed to provide systematic and in-depth understanding of thermochemical fuels production with the aid of concentrated solar power technology. In addition, limiting factors affecting the solar-to-fuel efficiency are analyzed; meanwhile, the improvement technologies (heat recovery concepts and designs) are summarized. This study therefore sets a pathway for future research works based on the current status and demand for further development of such technologies on a commercial scale.

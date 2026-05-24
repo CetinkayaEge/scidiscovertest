@@ -1,0 +1,9 @@
+Title: Implementation of a mobile application for outpatient care after liver transplantation
+Authors: Michaela Andrä, Milan Sibinovic, Karl Pfeiffer, Daniela Kniepeiss
+Year: 2022
+Venue: Digital Health
+DOI: 10.1177/20552076221145855
+Paper ID: pmc_PMC9806396
+
+Abstract:
+Background In the face of the Covid-19 pandemic and the need for social distancing new therapeutic tools like mobile health applications might gain in importance for outpatient care. Objective of the present study was to assess if and to what extent the implementation of a free available transplant application in a cohort of liver transplant recipients was possible. Methods Patients of the aftercare program at the Department of Transplant Surgery Graz in June 2016 were first asked to complete a survey concerning knowledge about mobile health and their management of everyday life. After using the application for 2 months a second survey evaluated whether the implementation of the application in the daily routine was achievable. Results Among 135 patients, 124 (91.9%) agreed to participate. Seventy-one (57.3%) owned a mobile device with which they could use the application, 42 patients (33.8%) decided to try it out for 2 months. The majority stated that the application supported them for therapy management and surveillance of vital parameters. Successful implementation of the application has been reached in 57.1% of patients after 2 months testing period. Conclusion The technical prerequisites are only partially met and should be improved. Older patients need extensive support and motivation.

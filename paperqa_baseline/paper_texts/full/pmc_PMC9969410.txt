@@ -1,0 +1,9 @@
+Title: From (Tool)Bench to Bedside: The Potential of Necroptosis Inhibitors
+Authors: Christopher R. Gardner, Katherine A. Davies, Ying Zhang, Martin Brzozowski, Peter E. Czabotar, James M. Murphy, Guillaume Lessene
+Year: 2023
+Venue: Journal of Medicinal Chemistry
+DOI: 10.1021/acs.jmedchem.2c01621
+Paper ID: pmc_PMC9969410
+
+Abstract:
+Necroptosis is a regulated caspase-independent form of necrotic cell death that results in an inflammatory phenotype. This process contributes profoundly to the pathophysiology of numerous neurodegenerative, cardiovascular, infectious, malignant, and inflammatory diseases. Receptor-interacting protein kinase 1 (RIPK1), RIPK3, and the mixed lineage kinase domain-like protein (MLKL) pseudokinase have been identified as the key components of necroptosis signaling and are the most promising targets for therapeutic intervention. Here, we review recent developments in the field of small-molecule inhibitors of necroptosis signaling, provide guidelines for their use as chemical probes to study necroptosis, and assess the therapeutic challenges and opportunities of such inhibitors in the treatment of a range of clinical indications.

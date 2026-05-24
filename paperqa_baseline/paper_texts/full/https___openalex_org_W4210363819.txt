@@ -1,0 +1,9 @@
+Title: Last-mile delivery by automated droids. Sustainability assessment on a real-world case study
+Authors: Ada Garus, Borja Alonso, María Alonso Raposo, Monica Grosso, Jette Krause, Andromachi Mourtzouchou, Biagio Ciuffo
+Year: 2022
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2022.103728
+Paper ID: https://openalex.org/W4210363819
+
+Abstract:
+This paper presents the outcomes of the sustainability assessment of a last mile delivery service introduced in a real-world case study. The methodology used integrates multi criteria decision making analysis, sustainability pillars and scenario analysis to best reflect the conflicting needs of stakeholders involved in the last mile delivery system. The case study provides an application of the framework to the delivery system of the Joint Research Centre of the European Commission where six alternative solutions were analysed and compared: i) the existing service using a manually-driven Euro 4 light commercial vehicle (LCV); ii) the same service using a Euro 6 LCV; iii) the same service using an electric LCV (eLCV); iv) a service composed by an automated delivery droid (robot) coupled with a Euro 4 LCV; v) a service with the delivery droid coupled with a depot station; and vi) a service with the delivery droid coupled with the eLCV. The results show that low-capital investment in delivery droids could lead to significant savings on the operational costs, whilst improving the environmental performance of the system. Nevertheless, there are potential social sustainability shortcomings in terms of safety and equity.

@@ -1,0 +1,9 @@
+Title: Deploying digitalisation and artificial intelligence in sustainable development research
+Authors: Walter Leal Filho, Peter Yang, João Henrique Paulino Pires Eustachio, Anabela Marisa Azul, Joshua C. Gellers, Agata Giełczyk, Maria Alzira Pimenta Dinis, Valerija Kozlova
+Year: 2022
+Venue: Environment Development and Sustainability
+DOI: https://doi.org/10.1007/s10668-022-02252-3
+Paper ID: https://openalex.org/W4220688845
+
+Abstract:
+Many industrialised countries have benefited from the advent of twenty-first century technologies, especially automation, that have fundamentally changed manufacturing and industrial production processes. The next step in the evolution of automation is the development of artificial intelligence (AI), i.e. intelligence which is demonstrated by machines and systems, which cannot only perform tasks but also work synergistically with humans and nature. Intelligent systems that can see, analyse situations and respond sensitively to real-time cues, from human gestures and facial expressions to pedestrians crossing a busy street, will reshape transportation, precision agriculture, biodiversity conservation, environmental modelling, public health, construction and manufacturing, as well as initiatives designed to promote prosperity on Earth. This paper explores the connections between AI systems and sustainable development (SD) research. By means of a literature review, world survey, and case studies, ways in which AI can support research on SD and, inter alia, contribute to a more sustainable and equitable world, are identified.

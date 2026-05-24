@@ -1,0 +1,9 @@
+Title: Transforming Growth Factor β1/Smad4 Signaling Affects Osteoclast Differentiation via Regulation of miR-155 Expression
+Authors: Hongying Zhao, Jun Zhang, Haiyu Shao, Jianwen Liu, Mengran Jin, Jinping Chen, Yazeng Huang
+Year: 2017
+Venue: Molecules and Cells
+DOI: 10.14348/molcells.2017.2303
+Paper ID: pmc_PMC5386959
+
+Abstract:
+Transforming growth factor β1 (TGFβ1)/Smad4 signaling plays a pivotal role in maintenance of the dynamic balance between bone formation and resorption. The microRNA miR-155 has been reported to exert a significant role in the differentiation of macrophage and dendritic cells. The goal of this study was to determine whether miR-155 regulates osteoclast differentiation through TGFβ1/Smad4 signaling. Here, we present that TGFβ1 elevated miR-155 levels during osteoclast differentiation through the stimulation of M-CSF and RANKL. Additionally, we found that silencing Smad4 attenuated the upregulation of miR-155 induced by TGFβ1. The results of luciferase reporter experiments and ChIP assays demonstrated that TGFβ1 promoted the binding of Smad4 to the miR-155 promoter at a site located in 454 bp from the transcription start site in vivo , further verifying that miR-155 is a transcriptional target of the TGFβ1/Smad4 pathway. Subsequently, TRAP staining and qRT-PCR analysis revealed that silencing Smad4 impaired the TGFβ1-mediated inhibition on osteoclast differentiation. Finally, we found that miR-155 may target SOCS1 and MITF to suppress osteoclast differentiation. Taken together, we provide the first evidence that TGFβ1/Smad4 signaling affects osteoclast differentiation by regulation of miR-155 expression and the use of miR-155 as a potential therapeutic target for osteoclast-related diseases shows great promise.

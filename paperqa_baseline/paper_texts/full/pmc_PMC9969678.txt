@@ -1,0 +1,9 @@
+Title: Cell therapy for Parkinson’s disease with induced pluripotent stem cells
+Authors: Asuka Morizane
+Year: 2023
+Venue: Inflammation and Regeneration
+DOI: 10.1186/s41232-023-00269-3
+Paper ID: pmc_PMC9969678
+
+Abstract:
+Parkinson’s disease (PD) is the second most common neurodegenerative disease and a prime target of cell therapies. In fact, aborted fetal tissue has been used as donor material for such therapies since the 1980s. These cell therapies, however, suffer from several problems, such as a short supply of donor materials, quality instability of the tissues, and ethical restrictions. The advancement of stem cell technologies has enabled the production of donor cells from pluripotent stem cells with unlimited scale, stable quality, and less ethical problems. Several research groups have established protocols to induce dopamine neural progenitors from pluripotent stem cells in a clinically compatible manner and confirmed efficacy and safety in non-clinical studies. Based on the results from these non-clinical studies, several clinical trials of pluripotent stem cell-based therapies for PD have begun. In the context of immune rejection, there are several modes of stem cell-based therapies: autologous transplantation, allogeneic transplantation without human leukocyte antigen-matching, and allogeneic transplantation with matching. In this mini-review, several practical points of stem cell-based therapies for PD are discussed.

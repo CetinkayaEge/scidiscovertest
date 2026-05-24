@@ -1,0 +1,9 @@
+Title: Measuring sustainable tourism with online platform data
+Authors: F. Hoffmann, Fabian Braesemann, Timm Teubner
+Year: 2022
+Venue: EPJ Data Science
+DOI: https://doi.org/10.1140/epjds/s13688-022-00354-6
+Paper ID: https://openalex.org/W4285727432
+
+Abstract:
+Sustainability in tourism is a topic of global relevance, finding multiple mentions in the United Nations Sustainable Development Goals. The complex task of balancing tourism's economic, environmental, and social effects requires detailed and up-to-date data. This paper investigates whether online platform data can be employed as an alternative data source in sustainable tourism statistics. Using a web-scraped dataset from a large online tourism platform, a sustainability label for accommodations can be predicted reasonably well with machine learning techniques. The algorithmic prediction of accommodations' sustainability using online data can provide a cost-effective and accurate measure that allows to track developments of tourism sustainability across the globe with high spatial and temporal granularity. Supplementary Information: The online version contains supplementary material available at 10.1140/epjds/s13688-022-00354-6.

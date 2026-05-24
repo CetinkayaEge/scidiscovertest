@@ -1,0 +1,9 @@
+Title: Lean Manufacturing in Industry 4.0: A Smart and Sustainable Manufacturing System
+Authors: Benedictus Rahardjo, Fu‐Kwun Wang, Ruey-Huei Yeh, Yuping Chen
+Year: 2023
+Venue: Machines
+DOI: https://doi.org/10.3390/machines11010072
+Paper ID: https://openalex.org/W4317242963
+
+Abstract:
+Background: Exploring the impact of combining Industry 4.0 technologies and Lean Manufacturing tools on organizational performance has been a popular topic in recent years. Design/Methodology/Approach: We propose a novel Smart and Sustainable Manufacturing System (SSMS) to provide management insights related to social impact, economic performance, and environmental impact. Some tools called Dynamic Lean 4.0 tools, such as Sustainable Value Steam Mapping (VSM), Extended Single Minute Exchange of Die (SMED), and Digital Poka-Yoke, are presented as outputs of synergistic relationships that optimize production processes. Originality/Research gap: There are few studies on the application of SSMS. This work presents a case study, aiming to fill this gap. A case study of vacuum degassing equipment fabrication is presented to demonstrate the improvement of utilizing the Define-Measure-Analyze-Improve-Control (DMAIC) method with Digital Poka-Yoke. Key statistical results: The implementation of this project increased the process capability index, Cpk, from 1.278 to 2. Practical Implications: It was concluded that the company successfully implemented a smart and sustainable manufacturing system, and created a safer working environment and new job opportunities, while increasing production yield from 99.44% to 100%, improving worker utilization, and directly saving NT$68,000. Limitations of the investigation: This paper is the use of a single case study. More applications of Dynamic Lean 4.0 tools in SSMS should be explored.

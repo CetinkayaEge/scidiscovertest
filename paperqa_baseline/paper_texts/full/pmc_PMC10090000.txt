@@ -1,0 +1,9 @@
+Title: Exploring the Use of Artificial Intelligence in the Management of Prostate Cancer
+Authors: Timothy N. Chu, Elyssa Y. Wong, Runzhuo Ma, Cherine H. Yang, Istabraq S. Dalieh, Andrew J. Hung
+Year: 2023
+Venue: Current Urology Reports
+DOI: 10.1007/s11934-023-01149-6
+Paper ID: pmc_PMC10090000
+
+Abstract:
+Purpose of Review This review aims to explore the current state of research on the use of artificial intelligence (AI) in the management of prostate cancer. We examine the various applications of AI in prostate cancer, including image analysis, prediction of treatment outcomes, and patient stratification. Additionally, the review will evaluate the current limitations and challenges faced in the implementation of AI in prostate cancer management. Recent Findings Recent literature has focused particularly on the use of AI in radiomics, pathomics, the evaluation of surgical skills, and patient outcomes. Summary AI has the potential to revolutionize the future of prostate cancer management by improving diagnostic accuracy, treatment planning, and patient outcomes. Studies have shown improved accuracy and efficiency of AI models in the detection and treatment of prostate cancer, but further research is needed to understand its full potential as well as limitations.

@@ -1,0 +1,9 @@
+Title: Sensitive Room-Temperature Graphene Photothermoelectric Terahertz Detector Based on Asymmetric Antenna Coupling Structure
+Authors: Liang Hong, Lanxia Wang, Miao Cai, Yifan Yao, Xuguang Guo, Yiming Zhu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063249
+Paper ID: pmc_PMC10058478
+
+Abstract:
+A highly sensitive room-temperature graphene photothermoelectric terahertz detector, with an efficient optical coupling structure of asymmetric logarithmic antenna, was fabricated by planar micro-nano processing technology and two-dimensional material transfer techniques. The designed logarithmic antenna acts as an optical coupling structure to effectively localize the incident terahertz waves at the source end, thus forming a temperature gradient in the device channel and inducing the thermoelectric terahertz response. At zero bias, the device has a high photoresponsivity of 1.54 A/W, a noise equivalent power of 19.8 pW/Hz 1/2 , and a response time of 900 ns at 105 GHz. Through qualitative analysis of the response mechanism of graphene PTE devices, we find that the electrode-induced doping of graphene channel near the metal-graphene contacts play a key role in the terahertz PTE response. This work provides an effective way to realize high sensitivity terahertz detectors at room temperature.

@@ -1,0 +1,9 @@
+Title: Information Systems Research for Smart Sustainable Mobility: A Framework and Call for Action
+Authors: Wolfgang Ketter, Karsten Schroer, Konstantina Valogianni
+Year: 2022
+Venue: Information Systems Research
+DOI: https://doi.org/10.1287/isre.2022.1167
+Paper ID: https://openalex.org/W4296367480
+
+Abstract:
+Transportation is a backbone of modern globalized societies. It also causes approximately one third of all European Union and U.S. greenhouse gas emissions, represents a major health hazard for global populations, and poses significant economic costs. However, rapid innovation in vehicle technology, mobile connectivity, computing hardware, and artificial intelligence (AI)-powered information systems heralds a deep socio-technical transformation of the sector. The emergence of connected, autonomous, shared, and electric (CASE) vehicle technology has created a digital layer that resides on top of the traditional physical mobility system. This article contributes a framework to direct research and practice toward leveraging the opportunities afforded by CASE for a more efficient and less environmentally problematic mobility system. The authors propose seven overarching dimensions of action. These range from designing real-time digital coordination mechanisms for the management of mobility systems to developing AI-powered real-time decision support for mobility resource planning and operations. Per each dimension, concrete angles of attack are suggested which, we hope, will spur structured engagement from both researchers and practitioners in the field.

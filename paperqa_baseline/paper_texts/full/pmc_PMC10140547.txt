@@ -1,0 +1,9 @@
+Title: Myc controls NK cell development, IL-15-driven expansion, and translational machinery
+Authors: Hanif J Khameneh, Nicolas Fonta, Alessandro Zenobi, Charlène Niogret, Pedro Ventura, Concetta Guerra, Ivo Kwee, Andrea Rinaldi, Matteo Pecoraro, Roger Geiger, Andrea Cavalli, Francesco Bertoni, Eric Vivier, Andreas Trumpp, Greta Guarda
+Year: 2023
+Venue: Life Science Alliance
+DOI: 10.26508/lsa.202302069
+Paper ID: pmc_PMC10140547
+
+Abstract:
+Myc ablation in vivo impacts immature NK cells’ ribosomagenesis and development. Accordingly, mice with NK cells lacking Myc exhibit impaired anticancer immunity. MYC is a pleiotropic transcription factor involved in cancer, cell proliferation, and metabolism. Its regulation and function in NK cells, which are innate cytotoxic lymphocytes important to control viral infections and cancer, remain poorly defined. Here, we show that mice deficient for Myc in NK cells presented a severe reduction in these lymphocytes. Myc was required for NK cell development and expansion in response to the key cytokine IL-15, which induced Myc through transcriptional and posttranslational mechanisms. Mechanistically, Myc ablation in vivo largely impacted NK cells’ ribosomagenesis, reducing their translation and expansion capacities. Similar results were obtained by inhibiting MYC in human NK cells. Impairing translation by pharmacological intervention phenocopied the consequences of deleting or blocking MYC in vitro. Notably, mice lacking Myc in NK cells exhibited defective anticancer immunity, which reflected their decreased numbers of mature NK cells exerting suboptimal cytotoxic functions. These results indicate that MYC is a central node in NK cells, connecting IL-15 to translational fitness, expansion, and anticancer immunity. Graphical Abstract

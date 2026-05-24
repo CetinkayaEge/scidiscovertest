@@ -1,0 +1,9 @@
+Title: Lignin-Based Polymer Electrolyte Membranes for Sustainable Aqueous Dye-Sensitized Solar Cells
+Authors: Juan Carlos de Haro, Elisavet Tatsi, Lucia Fagiolari, Matteo Bonomo, Claudia Barolo, Stefano Turri, Federico Bella, Gianmarco Griffini
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.1c01882
+Paper ID: https://openalex.org/W3172247537
+
+Abstract:
+In the quest for sustainable materials for quasi-solid-state (QS) electrolytes in aqueous dye-sensitized solar cells (DSSCs), novel bioderived polymeric membranes were prepared in this work by reaction of preoxidized kraft lignin with poly(ethylene glycol)diglycidylether (PEGDGE). The effect of the PEGDGE/lignin relative proportions on the characteristics of the obtained membranes was thoroughly investigated, and clear structure-property correlations were highlighted. In particular, the glass transition temperature of the materials was found to decrease by increasing the amount of PEGDGE in the formulation, indicating that polyethylene glycol chains act as flexible segments that increase the molecular mobility of the three-dimensional polymeric network. Concurrently, their swelling ability in liquid electrolyte was found to increase with the concentration of PEGDGE, which was also shown to influence the ionic transport efficiency within the membrane. The incorporation of these lignin-based cross-linked systems as QS electrolyte frameworks in aqueous DSSCs allowed the preparation of devices with excellent long-term stability under UV-vis light, which were found to be superior to benchmark QS-DSSCs incorporating state-of-the-art carboxymethylcellulose membranes. This study provides the first demonstration of lignin-based QS electrolytes for stable aqueous DSSCs, establishing a straightforward strategy to exploit the potential of lignin as a functional polymer precursor for the field of sustainable photovoltaic devices.

@@ -1,0 +1,9 @@
+Title: Aurora A kinase inhibition compromises its antitumor efficacy by elevating PD-L1 expression
+Authors: Xiaobo Wang, Jing Huang, Fenglin Liu, Qian Yu, Ruina Wang, Jiaqi Wang, Zewen Zhu, Juan Yu, Jun Hou, Joong Sup Shim, Wei Jiang, Zengxia Li, Yuanyuan Zhang, Yongjun Dang
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI161929
+Paper ID: pmc_PMC10145933
+
+Abstract:
+Aurora A plays a critical role in G 2 /M transition and mitosis, making it an attractive target for cancer treatment. Aurora A inhibitors showed remarkable antitumor effects in preclinical studies, but unsatisfactory outcomes in clinical trials have greatly limited their development. In this study, the Aurora A inhibitor alisertib upregulated programmed death ligand 1 (PD-L1) expression in a panel of tumor cells both in vitro and in vivo. Upregulation of the checkpoint protein PD-L1 reduced antitumor immunity in immune-competent mice, paradoxically inhibiting the antitumor effects of alisertib. Mechanistically, Aurora A directly bound to and phosphorylated cyclic GMP-AMP synthase (cGAS), suppressing PD-L1 expression in tumor cells. Aurora A inhibition by alisertib activated the cGAS/stimulator of IFN genes (STING)/NF-κB pathway and promoted PD-L1 expression. Combining alisertib with anti–PD-L1 antibody improved antitumor immunity and enhanced the antitumor effects of alisertib in immune-competent mice. Our results, which reveal the immunomodulatory functions of Aurora A inhibitors and provide a plausible explanation for the poor clinical outcomes with their use, offer a potential approach to improve the antitumor efficacy of these inhibitors.

@@ -1,0 +1,9 @@
+Title: Design and Experimental Study of a Large Beam Waist Streak Tube in an ICF Experiment
+Authors: Hou-zhi Cai, Xuan Deng, Li-hong Niu, Qin-lao Yang, Jing-jin Zhang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063158
+Paper ID: pmc_PMC10057606
+
+Abstract:
+In order to realize in situ multi-frame framing, this paper designed and developed a large-waist framing converter tube. The size ratio between the waist and the object was about 1.16:1. The subsequent test results showed that the static spatial resolution of the tube could reach 10 lp/mm (@ 72.5%) under the premise of this adjustment, and the transverse magnification could reach 2.9. Once the MCP (Micro Channel Plate) traveling wave gating unit is equipped at the output end, it is expected to promote the further development of in situ multi-frame framing technology.

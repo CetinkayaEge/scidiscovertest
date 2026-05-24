@@ -1,0 +1,9 @@
+Title: Environmental Sustainability Orientation, Reward-Based Crowdfunding, and Venture Capital: The Mediating Role of Crowdfunding Performance for New Technology Ventures
+Authors: Paolo Roma, Maria Vasi, Stefania Testa, Giovanni Perrone
+Year: 2021
+Venue: IEEE Transactions on Engineering Management
+DOI: https://doi.org/10.1109/tem.2021.3080428
+Paper ID: https://openalex.org/W3168929594
+
+Abstract:
+Extant literature has investigated the effects of new ventures’ environmental sustainability orientation (ESO) on the crowdfunding (CF) performance and on the ability to secure venture capital, separately and with mixed results. In this article, we address the study of these relationships simultaneously. Specifically, we examine how the presence of ESO features influences new technology-based ventures’ ability to secure funding in reward-based CF campaigns and how the CF performance mediates the effect of such features on attracting subsequent venture capital. Using a sample of new hardware ventures that have launched a CF campaign on Kickstarter, we document a negative effect of the presence of ESO on CF performance. We also find that, for new hardware ventures using reward-based CF, the presence of ESO has a positive direct effect on the likelihood of receiving subsequent venture capital after CF, as well as a negative indirect effect due to its negative impact on the performance in CF.

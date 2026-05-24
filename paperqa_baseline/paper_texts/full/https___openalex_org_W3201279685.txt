@@ -1,0 +1,9 @@
+Title: Quantitative assessment of agricultural sustainability reveals divergent priorities among nations
+Authors: Xin Zhang, Guolin Yao, Srishti Vishwakarma, Carole Dalin, Adam M. Komarek, David Kanter, Kyle Frankel Davis, Kimberly Pfeifer, Zhao Jing, Tan Zou, Paolo D’Odorico, Christian Folberth, Fernando Galeana Rodriguez, Jessica Fanzo, Lorenzo Rosa, William C. Dennison, Mark Musumba, Amy Heyman, Eric A. Davidson
+Year: 2021
+Venue: One Earth
+DOI: https://doi.org/10.1016/j.oneear.2021.08.015
+Paper ID: https://openalex.org/W3201279685
+
+Abstract:
+Agriculture is fundamental to all three pillars of sustainability, environment, society, and economy. However, the definition of sustainable agriculture and capacities to measure it remain elusive. Independent and transparent measurements of national sustainability are needed to gauge progress, encourage accountability, and inform policy. Here, we developed a Sustainable Agriculture Matrix (SAM) to quantify national performance indicators in agriculture and to investigate the tradeoffs and synergies based on historical data for most countries of the world. The results reveal priority areas for improvement by each country and show that the trade-offs and synergies among indicators often differ. Exceptions to common economic-versus-environmental trade-offs, for example, offer opportunities to learn from countries with synergistic pathways for multiple sustainability indicators. These SAM indicators will improve as data become more available, but this version offers a useful starting point for evaluating progress, identifying priorities for improvement, and informing national policies and actions towards sustainable agriculture.

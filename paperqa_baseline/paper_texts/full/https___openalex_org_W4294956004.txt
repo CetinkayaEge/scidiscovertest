@@ -1,0 +1,9 @@
+Title: Contribution of Maintenance 4.0 in Sustainable Development with an Industrial Case Study
+Authors: Yousra El Kihel, Ali El Kihel, El Mahdi Bouyahrouzi
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141711090
+Paper ID: https://openalex.org/W4294956004
+
+Abstract:
+Digitalization and digitization are topics for researchers and manufacturers. Integrating new technologies facilitates the collection of data from a company in real-time and processing them afterwards. In this context, the design and implementation of Maintenance 4.0 have become popular in the literature. Its objective is to minimize downtime, optimize energy consumption, and increase availability, utilization rate, and useful life of machines while ensuring environmental preservation and safety of personnel. Our contribution consists of setting up a specific digitalization methodology for companies wishing to switch to Maintenance 4.0 in order to contribute to sustainable development. The information obtained will be processed to carry out effective interventions to increase the reliability and availability of equipment. A case study of an industrial company was carried out where we implemented this methodology. As a result, we were able to increase the reliability of the machines, which has an impact on the environment by reducing energy consumption and the quantity of plastic waste. On the economic level, this led to an improvement in the Overall Equipment Effectiveness (OEE) and a reduction in product prices. Thanks to these technologies of digitizing maintenance documents (procedures, machine history, risk prevention) and the quick localization of machine failures, the hard work and risks are reduced.

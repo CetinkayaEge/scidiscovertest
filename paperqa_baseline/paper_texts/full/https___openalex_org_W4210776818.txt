@@ -1,0 +1,9 @@
+Title: Fusion pilot plant performance and the role of a sustained high power density tokamak
+Authors: J. Ménard, B. A. Grierson, T. Brown, Chirag Rana, Yuhu Zhai, F. M. Poli, R. Maingi, W. Guttenfelder, P.B. Snyder
+Year: 2022
+Venue: Nuclear Fusion
+DOI: https://doi.org/10.1088/1741-4326/ac49aa
+Paper ID: https://openalex.org/W4210776818
+
+Abstract:
+Abstract Recent U.S. fusion development strategy reports all recommend that the U.S. should pursue innovative science and technology to enable construction of a fusion pilot plant (FPP) that produces net electricity from fusion at low capital cost. Compact tokamaks have been proposed as a means of potentially reducing the capital cost of a FPP. However, compact steady-state tokamak FPPs face the challenge of integrating a high fraction of self-driven current with high core confinement, plasma pressure, and high divertor parallel heat flux. This integration is sufficiently challenging that a dedicated sustained-high-power-density (SHPD) tokamak facility is proposed by the U.S. community as the optimal way to close this integration gap. Performance projections for the steady-state tokamak FPP regime are presented and a preliminary SHPD device with substantial flexibility in lower aspect ratio ( A = 2–2.5), shaping, and divertor configuration to narrow gaps to an FPP is described.

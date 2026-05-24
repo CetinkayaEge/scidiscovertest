@@ -1,0 +1,9 @@
+Title: Rapid Characterization of Fatty Acids in Oleaginous Microalgae by Near-Infrared Spectroscopy
+Authors: Bin Liu, Jin Liu, Tianpeng Chen, Bo Yang, Yue Jiang, Dong Wei, Feng Chen
+Year: 2015
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms16047045
+Paper ID: pmc_PMC4425003
+
+Abstract:
+The key properties of microalgal biodiesel are largely determined by the composition of its fatty acid methyl esters (FAMEs). The gas chromatography (GC) based techniques for fatty acid analysis involve energy-intensive and time-consuming procedures and thus are less suitable for high-throughput screening applications. In the present study, a novel quantification method for microalgal fatty acids was established based on the near-infrared spectroscopy (NIRS) technique. The lyophilized cells of oleaginous Chlorella containing different contents of lipids were scanned by NIRS and their fatty acid profiles were determined by GC-MS. NIRS models were developed based on the chemometric correlation of the near-infrared spectra with fatty acid profiles in algal biomass. The optimized NIRS models showed excellent performances for predicting the contents of total fatty acids, C16:0, C18:0, C18:1 and C18:3, with the coefficient of determination ( R 2 ) being 0.998, 0.997, 0.989, 0.991 and 0.997, respectively. Taken together, the NIRS method established here bypasses the procedures of cell disruption, oil extraction and transesterification, is rapid, reliable, and of great potential for high-throughput applications, and will facilitate the screening of microalgal mutants and optimization of their growth conditions for biodiesel production.

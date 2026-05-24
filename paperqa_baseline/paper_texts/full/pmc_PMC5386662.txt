@@ -1,0 +1,9 @@
+Title: Tumor volume increases the predictive accuracy of prognosis for gastric cancer: A retrospective cohort study of 3409 patients
+Authors: Zhen Liu, Peng Gao, Shushang Liu, Gaozan Zheng, Jianjun Yang, Li Sun, Liu Hong, Daiming Fan, Hongwei Zhang, Fan Feng
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14859
+Paper ID: pmc_PMC5386662
+
+Abstract:
+Tumor diameter or T stage does not reflect the actual tumor burden and is not able to estimate accurate prognosis of gastric cancer. The current study aimed to evaluate the prognostic value of tumor volume (V) for gastric cancer. A total of 3409 enrolled gastric cancer patients were randomly divided into training set ( n = 1705) and validation set ( n = 1704). Tumor volume was calculated by the formula V = Tumor diameter × (T stage) 2 /2. The survival predictive accuracy and prognostic discriminatory ability between different variables and staging systems were analyzed. Four optimal cutoff points for V were obtained in training set (3.5, 8.6, 25.0, 45.0, all P < 0.001). V stage was significantly associated with tumor location, macroscopic type, differentiation degree, tumor diameter, T stage, N stage, vessel invasion, neural invasion and TNM stage (all P < 0.001). V stage was an independent prognostic factor both in training and validation set. V stage showed better predictive accuracy and prognostic discriminatory ability than tumor diameter and T stage. VNM staging system also have advantages in predictive accuracy and prognostic discriminatory ability than TNM staging system. The VNM multivariable model represent good agreement between the predicted survival and actual survival. In conclusion, tumor volume was significantly associated with clinicopathological features and prognosis of gastric cancer. In comparison with TNM staging system, VNM staging system could improve the predictive accuracy and prognostic discriminatory ability for gastric cancer.

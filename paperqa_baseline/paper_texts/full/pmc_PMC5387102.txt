@@ -1,0 +1,9 @@
+Title: Parsing the Regulatory Network between Small RNAs and Target Genes in Ethylene Pathway in Tomato
+Authors: Yunxiang Wang, Qing Wang, Lipu Gao, Benzhong Zhu, Zheng Ju, Yunbo Luo, Jinhua Zuo
+Year: 2017
+Venue: Frontiers in Plant Science
+DOI: 10.3389/fpls.2017.00527
+Paper ID: pmc_PMC5387102
+
+Abstract:
+Small RNAs are a class of short non-coding endogenous RNAs that play essential roles in many biological processes. Recent studies have reported that microRNAs (miRNAs) are also involved in ethylene signaling in plants. LeERF1 is one of the ethylene response factors (ERFs) in tomato that locates in the downstream of ethylene signal transduction pathway. To elucidate the intricate regulatory roles of small RNAs in ethylene signaling pathway in tomato, the deep sequencing and bioinformatics methods were combined to decipher the small RNAs landscape in wild and sense-/antisense- LeERF1 transgenic tomato fruits. Except for the known miRNAs, 36 putative novel miRNAs, 6 trans-acting short interfering RNAs (ta-siRNAs), and 958 natural antisense small interfering RNAs (nat-siRNAs) were also found in our results, which enriched the tomato small RNAs repository. Among these small RNAs, 9 miRNAs, and 12 nat-siRNAs were differentially expressed between the wild and transgenic tomato fruits significantly. A large amount of target genes of the small RNAs were identified and some of them were involved in ethylene pathway, including AP2 TFs, auxin response factors, F-box proteins, ERF TFs, APETALA2-like protein, and MADS-box TFs. Degradome sequencing further confirmed the targets of miRNAs and six novel targets were also discovered. Furthermore, a regulatory model which reveals the regulation relationships between the small RNAs and their targets involved in ethylene signaling was set up. This work provides basic information for further investigation of the function of small RNAs in ethylene pathway and fruit ripening.

@@ -1,0 +1,9 @@
+Title: Revealing the crystal facet effect on N 2 O formation during the NH 3 -SCR over α-MnO 2 catalysts †
+Authors: Jundong Guo, Fengli Gan, Yifan Zhao, Jinglin He, Bangda Wang, Tao Gao, Xia Jiang, Shenggui Ma
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra06744g
+Paper ID: pmc_PMC9890662
+
+Abstract:
+The detailed atomic-level mechanism of the effect induced by engineering the crystal facet of α-MnO 2 catalysts on N 2 O formation during ammonia-selective catalytic reduction (NH 3 -SCR) was ascertained by combining density functional theory (DFT) calculations and thermodynamics/kinetic analysis. The surface energies of α-MnO 2 with specific (100), (110), and (310) exposed planes were calculated, and the adsorptions of NH 3 , NO, and O 2 on three surfaces were analyzed. The adsorption energies showed that NH 3 and NO molecules could be strongly adsorbed on the surface of the α-MnO 2 catalyst, while the adsorption of O 2 was weak. Moreover, the key steps in the oxidative dehydrogenation of NH 3 and the formation of NH 2 NO as well as dissociation of NH 2 were studied to evaluate the catalytic ability of NH 3 -SCR reaction and N 2 selectivity. The results revealed that the α-MnO 2 catalyst exposed with the (310) plane exhibited the best NH 3 -SCR catalytic performance and highest N 2 selectivity, mainly due to its low energy barriers in NH 3 dehydrogenation and NH 2 NO generation, and difficulty in NH 2 dissociation. This study deepens the comprehension of the facet-engineering of α-MnO 2 on inhibiting N 2 O formation during the NH 3 -SCR, and points out a strategy to improve their catalytic ability and N 2 selectivity for the low-temperature NH 3 -SCR process. High-index facet of α-MnO 2 (310) exhibits the best NH 3 -SCR catalytic performance and highest N 2 selectivity compared to the (100) and (110) facets.

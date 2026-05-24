@@ -1,0 +1,9 @@
+Title: Developing water, energy, and food sustainability performance indicators for agricultural systems
+Authors: Soheila Zarei, Omid Bozorg‐Haddad, Vijay P. Singh, Hugo A. Loáiciga
+Year: 2021
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-021-02147-9
+Paper ID: https://openalex.org/W3214816170
+
+Abstract:
+Water use by the agricultural sector along with inefficient irrigation methods and climate change has led to the depletion and insecurity of water resources and consequent instability of the agricultural system. Defining benchmarks and comparing them is essential for sustainable system management performance. The sustainability performance of an agricultural system depends on various factors related to water, energy, and food. This study selects and ranks sustainability performance indicators (SPIs) of agricultural systems with the analytical hierarchy process (AHP). Expert opinions on agricultural sustainability were obtained from Iran's Regional Water Organization. The factors and variables affecting the management of water resources in agricultural systems in a basin area are evaluated with 17 SPIs (10 indicators of water resources sustainability, 3 energy sustainability indicators, and 4 food sustainability indicators) that measure the sustainability of agricultural systems. The AHP reduced the number of indicators to a small number of effective indicators. Results of pairwise comparison and the subsequent determination of the weight of each indicator show that the indicators of water consumption, groundwater level stability, vulnerability of water resources, and water stress have the largest weights (i.e., importance) for agricultural system sustainability at the basin scale. These selected indicators can be applied to agricultural water systems (AWSs).

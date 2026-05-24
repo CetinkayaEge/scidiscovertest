@@ -1,0 +1,9 @@
+Title: Taming Keteniminium Reactivity by Steering Reaction Pathways: Computational Predictions and Experimental Validations
+Authors: Mark A. Maskeri, Anthony J. Fernandes, Giovanni Di Mauro, Nuno Maulide, K. N. Houk
+Year: 2022
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.2c09146
+Paper ID: pmc_PMC9801433
+
+Abstract:
+Keteniminium ions, the nitrogen analogues of ketenes, exhibit high reactivity toward olefins and π-systems. Previous results from the Maulide group demonstrated an unexpected propensity for an alternative intramolecular Belluš–Claisen-type rearrangement rather than an expected intramolecular (2 + 2) cycloaddition. We have conducted a cooperative density functional theory/experimental investigation of this process, seeking insights into the competition between the observed Claisen-type reaction and the historically expected (2 + 2) cyclization. Our calculations revealed a surprisingly small difference in the free energy barrier between these two intramolecular reactions. Further theoretical and experimental investigations probe the electronics of the substrate, rationalize a competing deallylation side reaction, and demonstrate the proof-of-concept for an enantioselective (2 + 2) variant.

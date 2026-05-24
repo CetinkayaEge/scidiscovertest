@@ -1,0 +1,9 @@
+Title: Blockchain-enabled traceability system for the sustainable seafood industry
+Authors: Ahm Shamsuzzoha, Jarno Marttila, Petri Helo
+Year: 2023
+Venue: Technology Analysis and Strategic Management
+DOI: https://doi.org/10.1080/09537325.2023.2233632
+Paper ID: https://openalex.org/W4384072262
+
+Abstract:
+This study highlights both theoretical as well as practical contributions to improving traceability in supply chain management with special focus on the fish supply chain. As a theoretical contribution, it highlights how blockchain technology can contribute to improving supply chain transparency in various sectors by providing real-time visibility. Concerning practical contributions, this study adopted a case study approach in the Philippines to track and trace the fish supply chain from bait to plate. It deploys a project titled ‘Tracy’, a blockchain-based information technology artifact to support fishermen in the Philippines, who are facing numerous challenges in the seafood industry such as different standards and regulations, requirements for international exports, catch certification, etc. This study specifically contributes to developing a smartphone app through the Tracy project that allows fishermen to view the history of their fish captures and exchanges (such as the name of the fish species, weight, and length of the fish, date of capture, and vessel name). The update of transaction histories, the identity of the fishermen, and the amount of fish that has to be sold are additional updates also made possible by this app. This research study concludes with overall study outcomes and limitations with future research.

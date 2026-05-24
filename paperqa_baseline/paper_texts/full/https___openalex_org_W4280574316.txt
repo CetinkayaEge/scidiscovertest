@@ -1,0 +1,9 @@
+Title: A sustainable single-component “Silk nacre”
+Authors: Zongpu Xu, Mingrui Wu, Weiwei Gao, Hao Bai
+Year: 2022
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abo0946
+Paper ID: https://openalex.org/W4280574316
+
+Abstract:
+Synthetic composite materials constructed by hybridizing multiple components are typically unsustainable due to inadequate recyclability and incomplete degradation. In contrast, biological materials like silk and bamboo assemble pure polymeric components into sophisticated multiscale architectures, achieving both excellent performance and full degradability. Learning from these natural examples of bio-based "single-component" composites will stimulate the development of sustainable materials. Here, we report a single-component "Silk nacre," where nacre's typical "brick-and-mortar" structure has been replicated with silk fibroin only and by a facile procedure combining bidirectional freezing, water vapor annealing, and densification. The biomimetic design endows the Silk nacre with mechanical properties superior to those of homogeneous silk material, as well as to many frequently used polymers. In addition, the Silk nacre shows controllable plasticity and complete biodegradability, representing an alternative substitute to conventional composite materials.

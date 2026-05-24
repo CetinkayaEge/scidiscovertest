@@ -1,0 +1,9 @@
+Title: Transcriptome Analyses of Two Citrus Cultivars ( Shiranuhi and Huangguogan ) in Seedling Etiolation
+Authors: Bo Xiong, Shuang Ye, Xia Qiu, Ling Liao, Guochao Sun, Jinyu Luo, Lin Dai, Yi Rong, Zhihui Wang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46245
+Paper ID: pmc_PMC5384249
+
+Abstract:
+Citrus species are among the most important fruit crops. However, gene regulation and signaling pathways related to etiolation in this crop remain unknown. Using Illumina sequencing technology, modification of global gene expression in two hybrid citrus cultivars— Huangguogan and Shiranuhi , respectively—were investigated. More than 834.16 million clean reads and 125.12 Gb of RNA-seq data were obtained, more than 91.37% reads had a quality score of Q30. 124,952 unigenes were finally generated with a mean length of 1,189 bp. 79.15%, 84.35%, 33.62%, 63.12%, 57.67%, 57.99% and 37.06% of these unigenes had been annotated in NR, NT, KO, SwissProt, PFAM, GO and KOG databases, respectively. Further, we identified 604 differentially expressed genes in multicoloured and etiolated seedlings of Shiranuhi , including 180 up-regulated genes and 424 down-regulated genes. While in Huangguogan , we found 1,035 DEGs, 271 of which were increasing and the others were decreasing. 7 DEGs were commonly up-regulated, and 59 DEGs down-regulated in multicoloured and etiolated seedlings of these two cultivars, suggesting that some genes play fundamental roles in two hybrid citrus seedlings during etiolation. Our study is the first to provide the transcriptome sequence resource for seedlings etiolation of Shiranuhi and Huangguogan .

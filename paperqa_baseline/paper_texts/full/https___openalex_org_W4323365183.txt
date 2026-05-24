@@ -1,0 +1,9 @@
+Title: Sustained-Release Esketamine Based Nanoparticle-Hydrogel Delivery System for Neuropathic Pain Management
+Authors: Hao Zhang, Ping Zhou, Yi Jiang, Liu Li, Fei Ju, Quan Cheng, You Zhou, Yuan Zhou
+Year: 2023
+Venue: International Journal of Nanomedicine
+DOI: https://doi.org/10.2147/ijn.s400798
+Paper ID: https://openalex.org/W4323365183
+
+Abstract:
+Introduction: Esketamine, one of the few non-opioid potent analgesics, has demonstrated efficacy in the treatment of various chronic pain, particularly neuropathic pain. However, its potential clinical applications are confined due to its short half-life and severe side effects including delirium, hallucinations, and other psychiatric symptoms. Here, we reported a nanosized drug delivery system for sustained-release esketamine based on polylactic-co-glycolic acid (PLGA) nanoparticles and hyaluronic acid (HA) hydrogel. Results: In this study, esketamine in the delivery system was continuously released in vitro for at least 21 days, and spinal nerve root administration of the delivery system successfully attenuated (spinal nerve ligation) SNL-induced pain hypersensitivity for at least 14 days. Notably, the excitability of neurons in murine dorsal root ganglion (DRG) was inhibited and the activation of astrocytes in the spinal cord was additionally reduced after administration. Finally, there was no obvious pathophysiological change in the nerves at the administration site after treatment at 14 days. Conclusion: These results indicate that the sustained-release esketamine based on the nanoparticle-hydrogel delivery system can safely produce a lasting analgesic effect on SNL mice, and its mechanism might be related to modulating the activation of astrocytes in the spinal cord and inhibiting the excitability of neurons in DRG.

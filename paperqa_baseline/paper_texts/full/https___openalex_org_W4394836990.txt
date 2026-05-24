@@ -1,0 +1,9 @@
+Title: A Review of Digital Twin Technologies for Enhanced Sustainability in the Construction Industry
+Authors: Zichao Zhang, Zhuangkun Wei, Samuel Court, Lichao Yang, Shuozhi Wang, Arjun Thirunavukarasu, Yifan Zhao
+Year: 2024
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings14041113
+Paper ID: https://openalex.org/W4394836990
+
+Abstract:
+Carbon emissions present a pressing challenge to the traditional construction industry, urging a fundamental shift towards more sustainable practices and materials. Recent advances in sensors, data fusion techniques, and artificial intelligence have enabled integrated digital technologies (e.g., digital twins) as a promising trend to achieve emission reduction and net-zero. While digital twins in the construction sector have shown rapid growth in recent years, most applications focus on the improvement of productivity, safety and management. There is a lack of critical review and discussion of state-of-the-art digital twins to improve sustainability in this sector, particularly in reducing carbon emissions. This paper reviews the existing research where digital twins have been directly used to enhance sustainability throughout the entire life cycle of a building (including design, construction, operation and maintenance, renovation, and demolition). Additionally, we introduce a conceptual framework for this industry, which involves the elements of the entire digital twin implementation process, and discuss the challenges faced during deployment, along with potential research opportunities. A proof-of-concept example is also presented to demonstrate the validity of the proposed conceptual framework and potential of digital twins for enhanced sustainability. This study aims to inspire more forward-thinking research and innovation to fully exploit digital twin technologies and transform the traditional construction industry into a more sustainable sector.

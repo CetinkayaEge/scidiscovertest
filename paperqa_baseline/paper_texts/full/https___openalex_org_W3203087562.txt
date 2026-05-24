@@ -1,0 +1,9 @@
+Title: Sustainable Urban Drainage System (SUDS) modeling supporting decision-making: A systematic quantitative review
+Authors: Pascual Ferrans, María Nariné Torres, J. Temprano, Juan Pablo Rodríguez
+Year: 2021
+Venue: The Science of The Total Environment
+DOI: https://doi.org/10.1016/j.scitotenv.2021.150447
+Paper ID: https://openalex.org/W3203087562
+
+Abstract:
+Decision Support Systems (DSS) for Sustainable Urban Drainage Systems (SUDS) are a valuable aid for SUDS widespread adoption. These tools systematize the decision-making criteria and eliminate the bias inherent to expert judgment, abridging the technical aspect of SUDS for non-technical users and decision-makers. Through the collection and careful assessment of 120 papers on SUDS models and SUDS-DSS, this review shows how these tools are built, selected, and used to assist decision-makers questions. The manuscript classifies the DSS based on the question they assist in answering, the spatial scale used, the software selected, among other aspects. SUDS-DSS aspects that require more attention are identified, including environmental and social considerations, SUDS trains performance and criteria for selection, stochasticity of rainfall, and future scenarios impact. Suggestions for SUDS-DSS are finally offered to better equip decision-makers in facing emerging stormwater challenges in urban centers.

@@ -1,0 +1,9 @@
+Title: Prospects of artificial intelligence in the development of sustainable separation processes
+Authors: Dupeng Liu, Ning Sun
+Year: 2023
+Venue: Frontiers in Sustainability
+DOI: https://doi.org/10.3389/frsus.2023.1210209
+Paper ID: https://openalex.org/W4384933210
+
+Abstract:
+Addressing the urgent need for more energy-efficient separation technologies is paramount in reducing energy consumption and lessening environmental impact as we march toward a carbon-neutral society. The rapid progression of AI and its promising applications in separation science presents new, fascinating possibilities. For instance, AI algorithms can forecast the properties of prospective new materials, speeding up the process of sorbent material innovation. With the ability to analyze vast datasets related to processes, machine learning driven by data can enhance operations to reduce energy wastage and improve error detection. The recent rise of Generative Pretrained Transformer models (GPT) has motivated researchers to construct specialized large-scale language models (LLM) based on a comprehensive scientific corpus of papers, reference materials, and knowledge bases. These models are useful tools for facilitating the rapid selection of suitable separation techniques. In this article, we present an exploration of AI's role in promoting sustainable separation processes, covering a concise history of its implementation, potential advantages, inherent limitations, and a vision for its future growth.

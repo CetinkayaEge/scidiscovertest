@@ -1,0 +1,9 @@
+Title: Smart cities, urban mobility and autonomous vehicles: How different cities needs different sustainable investment strategies
+Authors: Maximilian Alexander Richter, Markus Hagenmaier, Oliver Bandte, Vinit Parida, Joakim Wincent
+Year: 2022
+Venue: Technological Forecasting and Social Change
+DOI: https://doi.org/10.1016/j.techfore.2022.121857
+Paper ID: https://openalex.org/W4292881975
+
+Abstract:
+The Smart city is important for sustainability. Governments engaged in developing urban mobility in the smart city need to invest their limited financial resources wisely to realize sustainability goals. A key area for such sustainability investment is how to implement and invest in emerging technologies for urban mobility solutions. However, current frameworks on how to understand the impact of emerging technologies aligned with long-term sustainability strategies are understudied. This article develops a simulation-based comparison between different cities and autonomous vehicle (AV) adoption scenarios to understand which aspects of cities lead to positive AV implementation outcomes. As urban mobility and cities will become smart, the analysis represents a first attempt to explore the impact of AVs on a large scale across different cities around the world. Archetypes are formed and account for most, if not all, world cities. For three of our archetypes (car-centric giants, prosperous innovation centers, and high-density megacities), promoting AV-shuttle use would deliver the greatest advantage as measured by improvements in the model's KPIs. To develop urban powerhouses, however, micromobility would deliver greater benefits. For highly compact middleweights, a shift from private cars to other non-AV modes of transportation would be the smartest choice.

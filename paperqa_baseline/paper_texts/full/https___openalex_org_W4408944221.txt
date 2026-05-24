@@ -1,0 +1,9 @@
+Title: Sustainable and cost-effective electrode manufacturing for advanced lithium batteries: the roll-to-roll dry coating process
+Authors: Joonhyeok Park, Jiwoon Kim, Jaeik Kim, Minsung Kim, Taeseup Song, Ungyu Paik
+Year: 2025
+Venue: Chemical Science
+DOI: https://doi.org/10.1039/d5sc00059a
+Paper ID: https://openalex.org/W4408944221
+
+Abstract:
+The transition to electric vehicles motivated by global carbon neutrality targets has intensified the demand for lithium-ion batteries (LIBs) with high energy density. While the innovation of cathode/anode active materials has reached a plateau, development of thick electrodes has emerged as a critical breakthrough to achieving high-energy-density LIBs. However, the conventional wet coating process has intrinsic limitations, such as binder migration during the solvent drying process, which becomes increasingly problematic with thick electrodes. To address these challenges, dry coating processes have been actively explored in three main forms: electrostatic spraying, hot pressing with thermoplastic polymers, and roll-to-roll dry coating utilizing the polytetrafluoroethylene binder. This review highlights the roll-to-roll dry coating process, a scalable and industrially viable approach, by introducing its underlying mechanisms, latest developments, and applications in all-solid-state batteries and lithium-sulfur batteries. By combining technical advancements with manufacturing scalability, the roll-to-roll dry coating process demonstrates significant potential to enable next-generation battery systems.

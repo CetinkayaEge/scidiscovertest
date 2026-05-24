@@ -1,0 +1,9 @@
+Title: Network science: Applications for sustainable agroecosystems and food security
+Authors: Fredric M. Windsor, Dolors Armenteras, Ana Paula A. Assis, Julia Astegiano, Pamela Cristina Santana, Luciano Cagnolo, Luísa G. Carvalheiro, Clive Emary, Hugo Fort, Xavier Ignacio González, James J. N. Kitson, Ana Carolina Figueiredo Lacerda, Marcelo Lois, Viviana Márquez Velásquez, Kirsten E. Miller, Marcos Monasterolo, Marina Omacini, Kate P. Maia, Tania P. Palacios, Michael J. O. Pocock, Santiago L. Poggio, Isabela Galarda Varassin, Diego P. Vázquez, Julia Tavella, Débora Cristina Rother, Mariano Devoto, Paulo R. Guimarães, Darren M. Evans
+Year: 2022
+Venue: Perspectives in Ecology and Conservation
+DOI: https://doi.org/10.1016/j.pecon.2022.03.001
+Paper ID: https://openalex.org/W4225162964
+
+Abstract:
+The global challenge of feeding two billion more people by 2050, using more sustainable agricultural practices whilst dealing with uncertainties associated with environmental change, requires a transformation of food systems. We present a new perspective for how advances in network science can provide novel ways to better understand, harness, and restore multiple ecological processes in agricultural environments. We describe: (i) a network-focused framework for managing agro-ecosystems that accounts for the multiple interactions between biodiversity and associated ecosystem services; (ii) guidance for incorporating socio-economic factors into ecological networks; and (iii) the potential to upscale network methods to inform efforts to build resilience, including global food-supply chains. In doing so we aim to facilitate the application of network science as a systems-based way to tackle the challenges of securing an equitable distribution of food.

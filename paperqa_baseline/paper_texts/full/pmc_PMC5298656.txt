@@ -1,0 +1,9 @@
+Title: Satellite Jitter Estimation and Validation Using Parallax Images
+Authors: Jun Pan, Chengbang Che, Ying Zhu, Mi Wang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010083
+Paper ID: pmc_PMC5298656
+
+Abstract:
+Satellite jitter (SJ) is an important error source that affects the geometric accuracy of high resolution satellite imagery. In this paper, the quantitative relationship between the jitter displacement (image displacement caused by SJ) and relative registration error obtained from parallax images is deduced to be theoretical in detail, and the jitter displacement estimation model is built to estimate the jitter displacement. Then, a simulation experiment is carried out to validate the feasibility of using the built jitter displacement estimation model to estimate the jitter displacement. Finally, experiments with real images in DengFeng (China) including multispectral images of Ziyuan-3 (ZY-3) satellite and high resolution (HR) images of Ziyuan1-02C (ZY1-02C) satellite are used to validate the effectiveness of utilizing the built jitter displacement estimation model to do the jitter estimation. High accuracy ground reference data are further used to evaluate the accuracy of the estimation. Experimental results show that the average estimated error for jitter displacement of ZY-3 is 2.96% and 0.11% in amplitude and frequency respectively, and the estimated error for jitter displacement of ZY1-02C is 8.46% and 0.35% in amplitude and frequency, respectively.

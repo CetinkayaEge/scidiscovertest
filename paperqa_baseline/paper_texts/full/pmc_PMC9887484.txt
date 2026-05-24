@@ -1,0 +1,9 @@
+Title: DDT - Drug Discovery Tool: a fast and intuitive graphics user interface for docking and molecular dynamics analysis
+Authors: Simone Aureli, Daniele Di Marino, Stefano Raniolo, Vittorio Limongelli
+Year: 2019
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz543
+Paper ID: pmc_PMC9887484
+
+Abstract:
+Abstract Motivation The ligand/protein binding interaction is typically investigated by docking and molecular dynamics (MD) simulations. In particular, docking-based virtual screening (VS) is used to select the best ligands from database of thousands of compounds, while MD calculations assess the energy stability of the ligand/protein binding complexes. Considering the broad use of these techniques, it is of great demand to have one single software that allows a combined and fast analysis of VS and MD results. With this in mind, we have developed the Drug Discovery Tool (DDT) that is an intuitive graphics user interface able to provide structural data and physico-chemical information on the ligand/protein interaction. Results DDT is designed as a plugin for the Visual Molecular Dynamics (VMD) software and is able to manage a large number of ligand/protein complexes obtained from AutoDock4 (AD4) docking calculations and MD simulations. DDT delivers four main outcomes: i) ligands ranking based on an energy score; ii) ligand ranking based on a ligands’ conformation cluster analysis; iii) identification of the aminoacids forming the most occurrent interactions with the ligands; iv) plot of the ligands’ center-of-mass coordinates in the Cartesian space. The flexibility of the software allows saving the best ligand/protein complexes using a number of user-defined options. Availability and implementation DDT_site_1 (alternative DDT_site_2 ); the DDT tutorial movie is available here . Supplementary information Supplementary data are available at Bioinformatics online.

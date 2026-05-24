@@ -1,0 +1,9 @@
+Title: Sustainability metrics for rapid manufacturing of the sand casting moulds: A multi-criteria decision-making algorithm-based approach
+Authors: Prateek Saxena, Emanuele Pagone, Konstantinos Salonitis, Mark Jolly
+Year: 2021
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2021.127506
+Paper ID: https://openalex.org/W3163787523
+
+Abstract:
+Additive Manufacturing has significantly developed over the years and is widely used in most industrial applications. Rapid Tooling refers to manufacturing the tools (moulds and dies) using Additive Manufacturing techniques. An essential application of Rapid Tooling is the 3D printing of sand moulds for castings. Metal casting is an energy-intensive process; and a lot of research has gone into the sustainability assessment of traditional sand castings. In this work, a robust decision-making approach is developed and implemented for sand mould manufacturing. Sustainability metrics for the mould production are formulated, and the conventional sand moulds are compared against the 3D printed sand moulds. A Multi-Criteria decision-making algorithm is implemented, and the effect of the batch size in the mould manufacturing is also studied. The discussed approach can help decision-makers choose the best mould manufacturing technique for the intended number of moulds to be manufactured.

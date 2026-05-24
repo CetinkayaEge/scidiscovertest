@@ -1,0 +1,9 @@
+Title: A Comprehensive Molecular and Clinical Investigation of Approved Anti-HCV Drugs Repurposing against SARS-CoV-2 Infection: A Glaring Gap between Benchside and Bedside Medicine
+Authors: Sneha Bansode, Pawan Kumar Singh, Meenakshi Tellis, Anita Chugh, Narendra Deshmukh, Mahesh Gupta, Savita Verma, Ashok Giri, Mahesh Kulkarni, Rakesh Joshi, Dhruva Chaudhary
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030515
+Paper ID: pmc_PMC10056950
+
+Abstract:
+The limited availability of effective treatment against SARS-CoV-2 infection is a major challenge in managing COVID-19. This scenario has augmented the need for repurposing anti-virals for COVID-19 mitigation. In this report, the anti-SARS-CoV-2 potential of anti-HCV drugs such as daclatasvir (DCV) or ledipasvir (LDP) in combination with sofosbuvir (SOF) was evaluated. The binding mode and higher affinity of these molecules with RNA-dependent-RNA-polymerase of SARS-CoV-2 were apparent by computational analysis. In vitro anti-SARS-CoV-2 activity depicted that SOF/DCV and SOF/LDP combination has IC 50 of 1.8 and 2.0 µM, respectively, comparable to remdesivir, an approved drug for COVID-19. Furthermore, the clinical trial was conducted in 183 mild COVID-19 patients for 14 days to check the efficacy and safety of SOF/DCV and SOF/LDP compared to standard of care (SOC) in a parallel-group, hybrid, individually randomized, controlled clinical study. The primary outcomes of the study suggested no significant difference in negativity after 3, 7 and 14 days in both treatments. None of the patients displayed any worsening in the disease severity, and no mortality was observed in the study. Although, the post hoc exploratory analysis indicated significant normalization of the pulse rate showed in SOF/DCV and SOF/LDP treatment vs. SOC. The current study highlights the limitations of bench side models in predicting the clinical efficacy of drugs that are planned for repurposing.

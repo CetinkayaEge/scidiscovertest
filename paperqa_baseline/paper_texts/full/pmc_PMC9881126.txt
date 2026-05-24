@@ -1,0 +1,9 @@
+Title: CYCLeR —a novel tool for the full isoform assembly and quantification of circRNAs
+Authors: Stefan R Stefanov, Irmtraud M Meyer
+Year: 2023
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkac1100
+Paper ID: pmc_PMC9881126
+
+Abstract:
+Abstract Splicing is one key mechanism determining the state of any eukaryotic cell. Apart from linear splice variants, circular splice variants (circRNAs) can arise via non-canonical splicing involving a back-splice junction (BSJ). Most existing methods only identify circRNAs via the corresponding BSJ, but do not aim to estimate their full sequence identity or to identify different, alternatively spliced circular isoforms arising from the same BSJ. We here present CYCLeR , the first computational method for identifying the full sequence identity of new and alternatively spliced circRNAs and their abundances while simultaneously co-estimating the abundances of known linear splicing isoforms. We show that CYCLeR significantly outperforms existing methods in terms of F score and quantification of transcripts in simulated data. In a in a comparative study with long-read data, we also show the advantages of CYCLeR compared to existing methods. When analysing Drosophila melanogaster data, CYCLeR uncovers biological patterns of circRNA expression that other methods fail to observe.

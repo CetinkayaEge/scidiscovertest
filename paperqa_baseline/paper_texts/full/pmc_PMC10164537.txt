@@ -1,0 +1,9 @@
+Title: Production of chickens with green fluorescent protein-knockin in the Z chromosome and detection of green fluorescent protein-positive chicks in the embryonic stage
+Authors: Kyung Soo Kang, Seung Pyo Shin, In Su Ha, Si Eun Kim, Ki Hyun Kim, Hyeong Ju Ryu, Tae Sub Park
+Year: 2023
+Venue: Animal Bioscience
+DOI: 10.5713/ab.22.0405
+Paper ID: pmc_PMC10164537
+
+Abstract:
+Objective The clustered regularly interspaced short palindromic repeat (CRISPR)/CRISPR-associated protein 9 (Cas9) system, which is the most efficient and reliable tool for precisely targeted modification of the genome of living cells, has generated considerable excitement for industrial applications as well as scientific research. In this study, we developed a gene-editing and detection system for chick embryo sexing during the embryonic stage. Methods By combining the CRISPR/Cas9 technical platform and germ cell-mediated germline transmission, we not only generated Z chromosome-targeted knockin chickens but also developed a detection system for fluorescence-positive male chicks in the embryonic stage. Results We targeted a green fluorescent protein ( GFP ) transgene into a specific locus on the Z chromosome of chicken primordial germ cells (PGCs), resulting in the production of Z GFP -knockin chickens. By mating Z GFP -knockin females ( Z GFP /W) with wild males (Z/Z) and using a GFP detection system, we could identify chick sex, as the GFP transgene was expressed on the Z chromosome only in male offspring ( Z GFP /Z) even before hatching. Conclusion Our results demonstrate that the CRISPR/Cas9 technical platform with chicken PGCs facilitates the production of specific genome-edited chickens for basic research as well as practical applications.

@@ -1,0 +1,9 @@
+Title: Does digital financial inclusion forecast sustainable economic growth? Evidence from an emerging economy
+Authors: Ima Amaliah, Qaisar Ali, Oktofa Yudah Sudrajad, Sulistya Rusgianto, Harist Nu’man, Tasya Aspiranti
+Year: 2024
+Venue: Journal of Open Innovation Technology Market and Complexity
+DOI: https://doi.org/10.1016/j.joitmc.2024.100262
+Paper ID: https://openalex.org/W4393315174
+
+Abstract:
+The emergence of digital financial inclusion has initiated a debate about whether it is the next frontier of sustainable economic growth, especially for developing economies. This study aims to verify these contentions by examining the impact of digital financial inclusion on sustainable economic growth. Accordingly, we created automated teller machines and debit card holders (Debit) as the proxies of digital financial inclusion and examined their impact on sustainable economic growth through the proxies of gross domestic product (GDP) growth and carbon dioxide (CO2) emissions. The empirical data between 2011 to 2020 was retrieved from Indonesia and was analyzed using the generalized method of movements (GMM) technique. The findings confirm that digital financial inclusion’s proxies (automated teller machines and Debit) have a significant positive (strong) effect on GDP growth and a significant positive (moderate) effect on CO2 emissions. This study may motivate developing countries to accelerate their DFI initiatives to achieve sustainable economic growth.

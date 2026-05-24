@@ -1,0 +1,9 @@
+Title: On sustainable design and manufacturing for the footwear industry – Towards circular manufacturing
+Authors: Chahine Ghimouz, Jean‐Pierre Kenné, Lucas A. Hof
+Year: 2023
+Venue: Materials & Design
+DOI: https://doi.org/10.1016/j.matdes.2023.112224
+Paper ID: https://openalex.org/W4385564895
+
+Abstract:
+The global fashion industry is facing carbon footprint issues, but technological innovations are helping to improve its performance and environmental efficiency in terms of footwear manufacturing. This paper explores how Design for Additive Manufacturing (DfAM), Design for Assembly (DfA), and Design for Disassembly (DfD) strategies, along with Additive Manufacturing's (AM) capability to produce intricate parts, can contribute to the fashion industry's shift towards a Circular Manufacturing model. The focus is on footwear manufacturing and its carbon footprint issues. The proposed additively manufactured shoe design utilizes Polyamide 12 and Thermoplastic polyurethane as feedstock, featuring a glueless mechanical assembly system based on a snapfit. Notably, the upper part of the shoe incorporates a variable lattice structure to ensure flexibility in different areas. Finite Element Analysis (FEA) demonstrates that the snapfit assembly exceeds the industry standard's minimum disassembly force requirement. Additionally, an optimization algorithm for the variable lattice structure results in a 34% mass reduction while maintaining the desired Young's modulus in each shoe zone. This design approach aligns with the footwear industry's sustainability goals, aiming to reduce environmental impact and enhance product durability. The study successfully developed a strategy to implement AM for sustainable shoe fabrication.

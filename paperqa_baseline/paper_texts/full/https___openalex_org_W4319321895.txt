@@ -1,0 +1,9 @@
+Title: Block chain technology for digital financial inclusion in the industry 4.0, towards sustainable development?
+Authors: David Mhlanga
+Year: 2023
+Venue: Frontiers in Blockchain
+DOI: https://doi.org/10.3389/fbloc.2023.1035405
+Paper ID: https://openalex.org/W4319321895
+
+Abstract:
+There is a lot of hope that blockchain technology may be used to standardize money transactions and increase access to banking. It is believed that regulators and industry professionals have looked into the possibility of using blockchain technology to modernize and even replace the infrastructure that currently supports international payments and remittances, such as correspondent banking, in order to ensure that transactions can be verified and recorded using blockchain technology in a distributed ledger. The purpose of this study was to analyze how blockchain technology has helped to include previously underserved populations in the mainstream financial system, and to remark on the best practices and lessons learned from sustainable development. Using a systematic literature review, the study discovered the many ways in which blockchain technology can facilitate digital financial inclusion, including its application in financial transactions, its utility as a tool for increasing financial savings, its use in the provision of credit, and its application in the provision of insurance. According to the findings, even though the global goals do not specifically target financial inclusion, providing access to financial services for the majority of the population is a critical enabler for several of the global goals. Therefore, the study concluded that sustainable development can be ensured on many fronts if the technology behind blockchains can be successfully used to improve financial inclusion. If governments, especially in developing countries, are serious about increasing citizens’ access to financial services, they must prioritize blockchain investment.

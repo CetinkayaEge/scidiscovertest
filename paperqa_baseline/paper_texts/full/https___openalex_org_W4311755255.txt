@@ -1,0 +1,9 @@
+Title: Potential of nanobiosensor in sustainable agriculture: the state-of-art
+Authors: Rittick Mondal, Paulami Dam, Joydeep Chakraborty, Mathew L. Paret, Ahmet Katı, Sevde Altuntaş, Ranit Sarkar, Suvankar Ghorai, Debnirmalya Gangopadhyay, Amit Kumar Mandal, Azamal Husen
+Year: 2022
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2022.e12207
+Paper ID: https://openalex.org/W4311755255
+
+Abstract:
+A rapid surge in world population leads to an increase in worldwide demand for agricultural products. Nanotechnology and its applications in agriculture have appeared as a boon to civilization with enormous potential in transforming conventional farming practices into redefined farming activities. Low-cost portable nanobiosensors are the most effective diagnostic tool for the rapid on-site assessment of plant and soil health including plant biotic and abiotic stress level, nutritional status, presence of hazardous chemicals in soil, etc. to maintain proper farming and crop productivity. Nanobiosensors detect physiological signals and convert them into standardized detectable signals. In order to achieve a reliable sensing analysis, nanoparticles can aid in signal amplification and sensor sensitivity by lowering the detection limit. The high selectivity and sensitivity of nanobiosensors enable early detection and management of targeted abnormalities. This study identifies the types of nanobiosensors according to the target application in agriculture sector.

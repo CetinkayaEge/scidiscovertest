@@ -1,0 +1,9 @@
+Title: Eight Archetypes of Sustainable Development Goal (SDG) Synergies and Trade‐Offs
+Authors: Enayat A. Moallemi, Seyed Hossein Hosseini, S. Eker, Lei Gao, Edoardo Bertone, Katrina Szetey, Brett A. Bryan
+Year: 2022
+Venue: Earth s Future
+DOI: https://doi.org/10.1029/2022ef002873
+Paper ID: https://openalex.org/W4293762937
+
+Abstract:
+Abstract Achieving the Sustainable Development Goals (SDGs) is contingent on managing complex interactions that create synergies and trade‐offs between different goals. It is, therefore, important to improve our understanding of them, their underlying causal drivers, future behaviors, and policy implications. Prominent methods of interaction analysis that focus on modeling or data‐driven statistical correlation are often insufficient for giving an integrated view of interaction drivers and their complexity. These methods are also usually too technically complex and heavily data‐driven to provide decision‐makers with simple practical tools and easily actionable and understandable results. Here, we introduce a flexible and practical systemic approach, termed archetype analysis, that generalizes a number of recurring interaction patterns among the SDGs with unique drivers, behaviors, and policy implications. We review eight interaction archetypes as thinking aids to analyze some of the important synergies and trade‐offs, supported by several empirical examples related to the SDGs (e.g., poverty, food, well‐being, water, energy, housing, climate, and land use) to demonstrate how they can be operationalized in practice. The interaction archetypes are aimed to help researchers and policymakers as a diagnostic tool to identify fundamental mechanisms of barriers or policy resistance to SDG progress, a comparative tool to enhance knowledge transfer between different cases with similar drivers, and a prospective tool to design synergistic policies for sustainable development.

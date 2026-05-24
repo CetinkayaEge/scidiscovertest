@@ -1,0 +1,9 @@
+Title: Natural Piezoelectric Biomaterials: A Biocompatible and Sustainable Building Block for Biomedical Devices
+Authors: Ruoxing Wang, Jiajie Sui, Xudong Wang
+Year: 2022
+Venue: ACS Nano
+DOI: https://doi.org/10.1021/acsnano.2c08164
+Paper ID: https://openalex.org/W4308681347
+
+Abstract:
+The piezoelectric effect has been widely observed in biological systems, and its applications in biomedical field are emerging. Recent advances of wearable and implantable biomedical devices bring promise as well as requirements for the piezoelectric materials building blocks. Owing to their biocompatibility, biosafety, and environmental sustainability, natural piezoelectric biomaterials are known as a promising candidate in this emerging field, with a potential to replace conventional piezoelectric ceramics and synthetic polymers. Herein, we provide a thorough review of recent progresses of research on five major types of piezoelectric biomaterials including amino acids, peptides, proteins, viruses, and polysaccharides. Our discussion focuses on their structure- and phase-related piezoelectric properties and fabrication strategies to achieve desired piezoelectric phases. We compare and analyze their piezoelectric performance and further introduce and comment on the approaches to improve their piezoelectric property. Representative biomedical applications of this group of functional biomaterials including energy harvesting, sensing, and tissue engineering are also discussed. We envision that molecular-level understanding of the piezoelectric effect, piezoelectric response improvement, and large-scale manufacturing are three main challenges as well as research and development opportunities in this promising interdisciplinary field.

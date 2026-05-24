@@ -1,0 +1,9 @@
+Title: Beyond Lithium: Future Battery Technologies for Sustainable Energy Storage
+Authors: Alan K. X. Tan, Shiladitya Paul
+Year: 2024
+Venue: Energies
+DOI: https://doi.org/10.3390/en17225768
+Paper ID: https://openalex.org/W4404496662
+
+Abstract:
+Known for their high energy density, lithium-ion batteries have become ubiquitous in today’s technology landscape. However, they face critical challenges in terms of safety, availability, and sustainability. With the increasing global demand for energy, there is a growing need for alternative, efficient, and sustainable energy storage solutions. This is driving research into non-lithium battery systems. This paper presents a comprehensive literature review on recent advancements in non-lithium battery technologies, specifically sodium-ion, potassium-ion, magnesium-ion, aluminium-ion, zinc-ion, and calcium-ion batteries. By consulting recent peer-reviewed articles and reviews, we examine the key electrochemical properties and underlying chemistry of each battery system. Additionally, we evaluate their safety considerations, environmental sustainability, and recyclability. The reviewed literature highlights the promising potential of non-lithium batteries to address the limitations of lithium-ion batteries, likely to facilitate sustainable and scalable energy storage solutions across diverse applications.

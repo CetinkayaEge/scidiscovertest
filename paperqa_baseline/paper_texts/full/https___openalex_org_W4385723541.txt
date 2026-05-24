@@ -1,0 +1,9 @@
+Title: Sustainability challenges of artificial intelligence and Citizens' regulatory preferences
+Authors: Pascal D. König, Stefan Wurster, Markus Β. Siewert
+Year: 2023
+Venue: Government Information Quarterly
+DOI: https://doi.org/10.1016/j.giq.2023.101863
+Paper ID: https://openalex.org/W4385723541
+
+Abstract:
+Following the idea that citizens' regulatory preferences matter for the acceptance and success of policy measures, this paper investigates citizens' support for the regulation of Artificial Intelligence (AI). The focus lies on the transparency and the ecological sustainability of AI as two key challenges tied to possible long-term impacts on societies. Findings from survey data representative of the German population show overall moderate to strong support for the government regulating AI. Perceived regulatory competence of policymakers is positively associated with citizens' support for soft regulation. Lower trust in tech companies is linked to a lower readiness to rely on soft regulation, but not to more demand for hard regulation. While regulatory preferences barely map on political conflict lines, people's future orientation emerges as a strong correlate of support for both hard and soft regulation. Citizens thus seem to perceive a clear sustainability dimension in the development and governance of AI.

@@ -1,0 +1,9 @@
+Title: Sustainability in the agri-food supply chain: a combined digital twin and simulation approach for farmers
+Authors: Sergio Gallego-García, Diego Gallego-García, Manuel García-García
+Year: 2023
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.12.326
+Paper ID: https://openalex.org/W4315782919
+
+Abstract:
+The paper seeks to provide a research and practical study to strengthen the resilience of smallholders to unexpected crises like COVID-19. Farmers are usually not assisted by the current technological capabilities while uncertainty is greater than ever. In comparison, with existing static assessments, digital twins use cases in the agricultural sector are still in conceptual and prototype levels. In this regard, the paper aims to provide a framework with the potentials for sustainability for farmers derived from five pillars and their modelling on a digital twin model with simulation capabilities. The goal is to develop an approach and a tool that would enhance the capabilities of smallholders to face any disruption by supporting them in all their management and control activities. Thus, the model aims to analyze the effects of risks as well as the policies that can prevent them, act to reduce their impacts, or react against any internal or external risks in three levels: farmer´s organization, supply chain, and the related environment based on the Corporate Social Sustainability. The purpose is to increase the resilience of smallholders through the improvement and optimization of the agro-food supply chain and related environment of any smallholder organization considering all related stakeholders. As a result, the final goal of the model is the development of recommendations for enhancing future capabilities to secure viability in the long-term.

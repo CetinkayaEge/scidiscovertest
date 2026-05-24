@@ -1,0 +1,9 @@
+Title: Lessons for Oral Bioavailability: How Conformationally Flexible Cyclic Peptides Enter and Cross Lipid Membranes
+Authors: Stephanie M. Linker, Christian Schellhaas, Anna S. Kamenik, Mac M. Veldhuizen, Franz Waibl, Hans-Jörg Roth, Marianne Fouché, Stephane Rodde, Sereina Riniker
+Year: 2023
+Venue: Journal of Medicinal Chemistry
+DOI: 10.1021/acs.jmedchem.2c01837
+Paper ID: pmc_PMC9969412
+
+Abstract:
+Cyclic peptides extend the druggable target space due to their size, flexibility, and hydrogen-bonding capacity. However, these properties impact also their passive membrane permeability. As the “journey” through membranes cannot be monitored experimentally, little is known about the underlying process, which hinders rational design. Here, we use molecular simulations to uncover how cyclic peptides permeate a membrane. We show that side chains can act as “molecular anchors”, establishing the first contact with the membrane and enabling insertion. Once inside, the peptides are positioned between headgroups and lipid tails—a unique polar/apolar interface. Only one of two distinct orientations at this interface allows for the formation of the permeable “closed” conformation. In the closed conformation, the peptide crosses to the lower leaflet via another “anchoring” and flipping mechanism. Our findings provide atomistic insights into the permeation process of flexible cyclic peptides and reveal design considerations for each step of the process.

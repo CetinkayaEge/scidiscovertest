@@ -1,0 +1,9 @@
+Title: Correlates of Person-Specific Rates of Change in Sensor-Derived Physical Activity Metrics of Daily Living in the Rush Memory and Aging Project
+Authors: Aron S. Buchman, Tianhao Wang, Shahram Oveisgharan, Andrea R. Zammit, Lei Yu, Peng Li, Kun Hu, Jeffrey M. Hausdorff, Andrew S. P. Lim, David A. Bennett
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084152
+Paper ID: pmc_PMC10142139
+
+Abstract:
+This study characterized person-specific rates of change of total daily physical activity (TDPA) and identified correlates of this change. TDPA metrics were extracted from multiday wrist-sensor recordings from 1083 older adults (average age 81 years; 76% female). Thirty-two covariates were collected at baseline. A series of linear mixed-effect models were used to identify covariates independently associated with the level and annual rate of change of TDPA. Though, person-specific rates of change varied during a mean follow-up of 5 years, 1079 of 1083 showed declining TDPA. The average decline was 16%/year, with a 4% increased rate of decline for every 10 years of age older at baseline. Following variable selection using multivariate modeling with forward and then backward elimination, age, sex, education, and 3 of 27 non-demographic covariates including motor abilities, a fractal metric, and IADL disability remained significantly associated with declining TDPA accounting for 21% of its variance (9% non-demographic and 12% demographics covariates). These results show that declining TDPA occurs in many very old adults. Few covariates remained correlated with this decline and the majority of its variance remained unexplained. Further work is needed to elucidate the biology underlying TDPA and to identify other factors that account for its decline.

@@ -1,0 +1,9 @@
+Title: An algorithmic approach for sustainable and collaborative logistics: A case study in Greece
+Authors: Grigorios D. Konstantakopoulos, Sotiris P. Gayialis, Evripidis P. Kechagias, Georgios Α. Papadopoulos, Ilías P. Tatsiópoulos
+Year: 2021
+Venue: International Journal of Information Management Data Insights
+DOI: https://doi.org/10.1016/j.jjimei.2021.100010
+Paper ID: https://openalex.org/W3137184349
+
+Abstract:
+City logistics have always been significant for companies, since they constitute the last-mile distribution of goods to consumers and retailers. Since the needs of consumers have increased in recent years, the exacerbation of traffic congestion, noise, and pollution in city centers has emerged. Therefore, logistics companies need to implement strategies to maintain their efficiency and accuracy, while simultaneously supporting green logistics. This paper describes a sustainable approach where logistics companies collaborate, by sharing fleet and resources, in the routing and scheduling operations. To estimate the improvements, in terms of pollution and cost reduction, the case where companies operate independently, is compared to the collaborative case. The data exploited in the research, originated from the daily distribution cases, faced by Third-Party Logistics companies in Greece. These daily cases are addressed by a heuristic algorithm, either individually, for studying the way they operate today, or jointly, for determining the collaborative case's advantages.

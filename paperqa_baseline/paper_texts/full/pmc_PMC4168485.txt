@@ -1,0 +1,9 @@
+Title: Land Classification and Change Intensity Analysis in a Coastal Watershed of Southeast China
+Authors: Pei Zhou, Jinliang Huang, Pontius Robert Gilmore, Huasheng Hong
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140711640
+Paper ID: pmc_PMC4168485
+
+Abstract:
+The aim of this study is to improve the understanding of land changes in the Jiulong River watershed, a coastal watershed of Southeast China. We developed a stratified classification methodology for land mapping, which combines linear stretching, an Iterative Self-Organizing Data Analysis (ISODATA) clustering algorithm, and spatial reclassification. The stratified classification for 2002 generated less overall error than an unstratified classification. The stratified classifications were then used to examine temporal differences at 1986, 1996, 2002, 2007 and 2010. Intensity Analysis was applied to analyze land changes at three levels: time interval, category, and transition. Results showed that land use transformation has been accelerating. Woodland's gains and losses were dormant while the gains and losses of Agriculture, Orchard, Built-up and Bare land were active during all time intervals. Water's losses were active and stationary. The transitions from Agriculture, Orchard, and Water to Built-up were systematically targeting and stationary, while the transition from Woodland to Built-up was systematically avoiding and stationary.

@@ -1,0 +1,9 @@
+Title: Differential Susceptibilities to BmNPV Infection of Two Cell Lines Derived from the Same Silkworm Ovarian Tissues
+Authors: Jun Zhang, Xue-Mei Chen, Chun-Dong Zhang, Qian He, Zhan-Qi Dong, Ming-Ya Cao, Xiao-Long Dong, Cai-Xia Pan, Cheng Lu, Min-Hui Pan
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0105986
+Paper ID: pmc_PMC4164443
+
+Abstract:
+We previously established and characterized two insect cell lines (BmN-SWU1 and BmN-SWU2) from Bombyx mori ovaries. Here, we examined their differential susceptibilities to Bombyx mori nucleopolyhedrovirus (BmNPV) despite having originated from the same tissue source. BmN-SWU1 cells were susceptible and supported high titers of BmNPV replication, while BmN-SWU2 cells were resistant to BmNPV infection. Subcellular localization analysis demonstrated that very few BmNPV particles could be imported into BmN-SWU2 cells. However, initiation of BmNPV DNA replication but not amplification was detected in BmN-SWU2 cells after transfection with vA4 prm -VP39-EGFP bacmid DNA. BmNPV transcription assays showed that late and very late but not early viral genes apparently were blocked in BmNSWU2 cells by unknown mechanisms. Further syncytium formation assays demonstrated that the BmNPV envelope fusion protein GP64 could not mediate BmN-SWU2 host cell-cell membrane fusion. Taken together, these results indicate that these two cell lines represent optimal tools for investigating host-virus interactions and insect antiviral mechanisms.

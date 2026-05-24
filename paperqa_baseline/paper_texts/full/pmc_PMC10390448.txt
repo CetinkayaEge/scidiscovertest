@@ -1,0 +1,9 @@
+Title: Improved Diagnostics in Bacterial Neonatal Meningitis Using a Next-Generation Sequencing Platform
+Authors: Alieke van der Hoeven, Martha T. van der Beek, Vincent Bekker, Erin Meijers, Marco J. R. Ivens, Els Wessels, Aloysius C. M. Kroes, Stefan A. Boers
+Year: 2023
+Venue: Infectious Diseases and Therapy
+DOI: 10.1007/s40121-023-00844-8
+Paper ID: pmc_PMC10390448
+
+Abstract:
+Introduction Bacterial meningitis in infants is an infrequent but life-threatening condition. Empiric therapy should begin as soon as meningitis is thought likely. Consequently, the causative microorganisms may not always be detected using culturing techniques, as cerebrospinal fluid (CSF) cultures are influenced by antibiotics. Nucleic acid amplification tests, such as polymerase chain reaction (PCR) (multiplex panels), may overcome this limitation but require a priori knowledge of the likely pathogen present within the sample. With this in mind, we investigated to what extent a culture-free, broad-range 16S rRNA gene next-generation sequencing (NGS) platform (MYcrobiota) could add to the microbiological diagnosis of meningitis. Methods Retrospective cohort study at level III neonatal intensive care unit. Included were all infants with suspected meningitis admitted between 10 November 2017 and 31 December 2020. A comparison was made of the bacterial pathogen detection rate between MYcrobiota and conventional bacterial culture. Results In a 3-year period, 37 CSF samples (diagnostic and follow-up) from 35 infants with proven or possible meningitis were available for MYcrobiota testing. MYcrobiota detected the presence of bacterial pathogens in 11 samples (30%), in contrast with the conventional CSF culture, which detected bacteria in 2 of 36 samples (5.6%). Conclusion Addition of 16S rRNA sequencing to conventional culturing greatly improved the identification of the aetiology of bacterial meningitis compared to culturing of CSF samples alone.

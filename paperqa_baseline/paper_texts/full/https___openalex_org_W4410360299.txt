@@ -1,0 +1,9 @@
+Title: Sustainable Organic Phase Change Materials for Sustainable Energy Efficiency Solutions
+Authors: Antonella Sarcinella, Sandra Cunha, Ingried Aguiar, J. L. Barroso de Aguiar, Mariaenrica Frigione
+Year: 2025
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym17101343
+Paper ID: https://openalex.org/W4410360299
+
+Abstract:
+The growing demand for sustainable energy solutions has intensified research on phase change materials (PCMs) due to their ability to efficiently store and release thermal energy. However, traditional PCMs are often made from petroleum-derived materials or rely on processes that pose environmental concerns. The aim of this work is therefore to explore the development and use of sustainable organic PCMs, in particular those based on bio-based or waste-derived materials. Bio-based PCMs, including fatty acids, natural waxes, and biopolymers, are in fact characterized by renewability and biodegradability. Waste-derived PCMs, such as those from the lost-wax casting industry and industrial by-products, offer an environmentally friendly approach to energy storage by reusing waste materials. This paper aims to analyze the thermal, mechanical, and in-service performance of these sustainable materials, highlighting their advantages and limitations compared to the most widely used commercial PCMs. Furthermore, recent progress in the integration of sustainable PCMs into building materials is illustrated to assess their practical implementation. Challenges and limitations, as well as possible solutions and future research directions, are also discussed.

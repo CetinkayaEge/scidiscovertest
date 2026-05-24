@@ -1,0 +1,9 @@
+Title: Pulmonary computed tomographic manifestations of COVID-19 in vaccinated and non-vaccinated patients
+Authors: Esther Askani, Katharina Mueller-Peltzer, Julian Madrid, Marvin Knoke, Dunja Hasic, Christopher L. Schlett, Fabian Bamberg, Prerana Agarwal
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33942-1
+Paper ID: pmc_PMC10134716
+
+Abstract:
+This study aimed to analyze computed tomographic (CT) imaging features of vaccinated and non-vaccinated COVID-19 patients. The study population of this retrospective single-center cohort study consisted of hospitalized COVID-19 patients who received a chest CT at the study site between July 2021 and February 2022. Qualitative scoring systems (RSNA, CO-RADS, COV-RADS), imaging pattern analysis and semi-quantitative scoring of lung changes were assessed. 105 patients (70,47% male, 62.1 ± 16.79 years, 53.3% fully vaccinated) were included in the data analysis. A significant association between vaccination status and the presence of the crazy-paving pattern was observed in univariate analysis and persisted after step-wise adjustment for possible confounders in multivariate analysis (RR: 2.19, 95% CI: [1.23, 2.62], P = 0.024). Scoring systems for probability assessment of the presence of COVID-19 infection showed a significant correlation with the vaccination status in univariate analysis; however, the associations were attenuated after adjustment for virus variant and stage of infection. Semi-quantitative assessment of lung changes due to COVID-19 infection revealed no association with vaccination status. Non-vaccinated patients showed a two-fold higher probability of the crazy-paving pattern compared to vaccinated patients. COVID-19 variants could have a significant impact on the CT-graphic appearance of COVID-19.

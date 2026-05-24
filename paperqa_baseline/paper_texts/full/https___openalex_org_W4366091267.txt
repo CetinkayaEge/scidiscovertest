@@ -1,0 +1,9 @@
+Title: A Data-Driven Approach for Improving Sustainable Product Development
+Authors: Marcin Relich
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15086736
+Paper ID: https://openalex.org/W4366091267
+
+Abstract:
+A product’s impact on environmental issues in its complete life cycle is significantly determined by decisions taken during product development. Thus, it is of vital importance to integrate a sustainability perspective in methods and tools for product development. The paper aims at the development of a method based on a data-driven approach, which is dedicated to identifying opportunities for improving product sustainability at the design stage. The proposed method consists of two main parts: predictive analytics and simulations. Predictive analytics use parametric models to identify relationships within product sustainability. In turn, simulations are performed using a constraint programming technique, which enables the identification of all possible solutions (if there are any) to a constraint satisfaction problem. These solutions support R&amp;D specialists in finding improvement opportunities for eco-design related to reducing harmful impacts on the environment in the manufacturing, product use, and post-use stages. The results indicate that constraint-satisfaction modeling is a pertinent framework for searching for admissible changes at the design stage to improve sustainable product development within the full scope of socio-ecological sustainability. The applicability of the proposed approach is verified through an illustrative example which refers to reducing the number of defective products and quantity of energy consumption.

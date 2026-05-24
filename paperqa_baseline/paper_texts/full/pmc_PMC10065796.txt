@@ -1,0 +1,9 @@
+Title: Multilayer brain networks can identify the epileptogenic zone and seizure dynamics
+Authors: Hossein Shahabi, Dileep R Nair, Richard M Leahy
+Year: 2023
+Venue: eLife
+DOI: 10.7554/eLife.68531
+Paper ID: pmc_PMC10065796
+
+Abstract:
+Seizure generation, propagation, and termination occur through spatiotemporal brain networks. In this paper, we demonstrate the significance of large-scale brain interactions in high-frequency (80–200Hz) for the identification of the epileptogenic zone (EZ) and seizure evolution. To incorporate the continuity of neural dynamics, here we have modeled brain connectivity constructed from stereoelectroencephalography (SEEG) data during seizures using multilayer networks. After introducing a new measure of brain connectivity for temporal networks, named multilayer eigenvector centrality (mlEVC), we applied a consensus hierarchical clustering on the developed model to identify the EZ as a cluster of nodes with distinctive brain connectivity in the ictal period. Our algorithm could successfully predict electrodes inside the resected volume as EZ for 88% of participants, who all were seizure-free for at least 12 months after surgery. Our findings illustrated significant and unique desynchronization between EZ and the rest of the brain in the early to mid-seizure. We showed that aging and the duration of epilepsy intensify this desynchronization, which can be the outcome of abnormal neuroplasticity. Additionally, we illustrated that seizures evolve with various network topologies, confirming the existence of different epileptogenic networks in each patient. Our findings suggest not only the importance of early intervention in epilepsy but possible factors that correlate with disease severity. Moreover, by analyzing the propagation patterns of different seizures, we demonstrate the necessity of collecting sufficient data for identifying epileptogenic networks.

@@ -1,0 +1,9 @@
+Title: Computer Vision Applications in Intelligent Transportation Systems: A Survey
+Authors: Esma Dilek, Murat Dener
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062938
+Paper ID: pmc_PMC10051529
+
+Abstract:
+As technology continues to develop, computer vision (CV) applications are becoming increasingly widespread in the intelligent transportation systems (ITS) context. These applications are developed to improve the efficiency of transportation systems, increase their level of intelligence, and enhance traffic safety. Advances in CV play an important role in solving problems in the fields of traffic monitoring and control, incident detection and management, road usage pricing, and road condition monitoring, among many others, by providing more effective methods. This survey examines CV applications in the literature, the machine learning and deep learning methods used in ITS applications, the applicability of computer vision applications in ITS contexts, the advantages these technologies offer and the difficulties they present, and future research areas and trends, with the goal of increasing the effectiveness, efficiency, and safety level of ITS. The present review, which brings together research from various sources, aims to show how computer vision techniques can help transportation systems to become smarter by presenting a holistic picture of the literature on different CV applications in the ITS context.

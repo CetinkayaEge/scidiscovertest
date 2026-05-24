@@ -1,0 +1,9 @@
+Title: Fracture Properties of Polystyrene Aggregate Concrete after Exposure to High Temperatures
+Authors: Waiching Tang, Hongzhi Cui, Soheil Tahmasbi
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080630
+Paper ID: pmc_PMC5509076
+
+Abstract:
+This paper mainly reports an experimental investigation on the residual mechanical and fracture properties of polystyrene aggregate concrete (PAC) after exposure to high temperatures up to 800 degrees Celsius. The fracture properties namely, the critical stress intensity factor ( K I C S ), the critical crack tip opening displacement ( CTOD C ) for the Two-Parameter Model, and the fracture energy ( G F ) for the Fictitious Crack Model were examined using the three-point bending notched beam test, according to the RILEM recommendations. The effects of polystyrene aggregate (PA) content and temperature levels on the fracture and mechanical properties of concrete were investigated. The results showed that the mechanical properties of PAC significantly decreased with increase in temperature level and the extent of which depended on the PA content in the mixture. However, at a very high temperature of 800 °C, all samples showed 80 percent reduction in modulus of elasticity compared to room temperature, regardless of the level of PA content. Fracture properties of control concrete (C) and PAC were influenced by temperature in a similar manner. Increasing temperature from 25 °C to 500 °C caused almost 50% reduction of the fracture energy for all samples while 30% increase in fracture energy was occurred when the temperature increased from 500 °C to 800 °C. It was found that adding more PA content in the mixture lead to a more ductile behaviour of concrete.

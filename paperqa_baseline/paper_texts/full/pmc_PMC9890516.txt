@@ -1,0 +1,9 @@
+Title: Effect of Sr and Ti substitutions on optical and photocatalytic properties of Bi 1− x Sr x Fe 1− x Ti x O 3 nanomaterials †
+Authors: Manal Benyoussef, Sébastien Saitzek, Nitul S. Rajput, Mimoun El Marssi, Mustapha Jouiad
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00755j
+Paper ID: pmc_PMC9890516
+
+Abstract:
+The potential use of down-sized BFO- x STO systems ( x ≤ 25%) as highly efficient photoanodes for photocatalytic water splitting is investigated. BFO- x STO is prepared by a solid-state method and subsequently deposited by spray coating. The compounds possess rhombohedral symmetry for x ≤ 15% and phase coexistence for x > 15%, as demonstrated by Raman spectroscopy and transmission electron microscopy. Our findings revealed a drastic grain size decrease with increasing STO content, namely 260 nm for BFO to 50 nm for BFO with 25% STO. Moreover, BFO- x STO, x > 10% exhibited high optical absorption (> 80%) in the full spectrum and interestingly a very promising band alignment with water redox potentials. Moreover, the photochemical measurements revealed a photocurrent density of ∼0.17 μA cm −2 achieved for x = 15% at 0 bias. Using DFT calculations, the substitution effects on the electronic, optical, and photocatalytic performances of the BFO system were investigated and quantified. Surprisingly, a high hydrogen yield (∼191 μmol g −1 ) was achieved by BFO-12.5%STO compared to 1 μmol g −1 and 57 μmol g −1 for BFO and STO, respectively. This result highlights the beneficial effects of both the downsizing and substitution of BFO on the photocatalytic water splitting and hydrogen production performances of Bi 1− x Sr x Fe 1− x Ti x O 3 systems. Effect of downsizing and substitution of BFO on band alignments of Bi 1− x Sr x Fe 1− x Ti x O 3 systems. Good hydrogen production yield of 190 μmol g −1 is obtained for x = 15% of STO.

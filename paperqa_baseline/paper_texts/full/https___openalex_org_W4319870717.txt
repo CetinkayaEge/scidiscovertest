@@ -1,0 +1,9 @@
+Title: The Sustainable Development Goals and Aerospace Engineering: A critical note through Artificial Intelligence
+Authors: Alejandro Sánchez-Roncero, Òscar Garibo‐i‐Orts, J. Alberto Conejero, Hamidreza Eivazi, Fermı́n Mallor, Emelie Rosenberg, Francesco Fuso Nerini, Javier García‐Martínez, Ricardo Vinuesa, Sergio Hoyas
+Year: 2023
+Venue: Results in Engineering
+DOI: https://doi.org/10.1016/j.rineng.2023.100940
+Paper ID: https://openalex.org/W4319870717
+
+Abstract:
+The 2030 Agenda of the United Nations (UN) revolves around the Sustainable Development Goals (SDGs). A critical step towards that objective is identifying whether scientific production aligns with the SDGs' achievement. To assess this, funders and research managers need to manually estimate the impact of their funding agenda on the SDGs, focusing on accuracy, scalability, and objectiveness. With this objective in mind, in this work, we develop ASDG, an easy-to-use Artificial-Intelligence-based model for automatically identifying the potential impact of scientific papers on the UN SDGs. As a demonstrator of ASDG, we analyze the alignment of recent aerospace publications with the SDGs. The Aerospace data set analyzed in this paper consists of approximately 820,000 papers published in English from 2011 to 2020 and indexed in the Scopus database. The most-contributed SDGs are 7 (on clean energy), 9 (on industry), 11 (on sustainable cities), and 13 (on climate action). The establishment of the SDGs by the UN in the middle of the 2010 decade did not significantly affect the data. However, we find clear discrepancies among countries, likely indicative of different priorities. Also, different trends can be seen in the most and least cited papers, with apparent differences in some SDGs. Finally, the number of abstracts the code cannot identify decreases with time, possibly showing the scientific community's awareness of SDG.

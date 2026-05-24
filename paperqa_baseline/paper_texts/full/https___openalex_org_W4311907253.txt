@@ -1,0 +1,9 @@
+Title: Towards carbon neutrality of calcium carbide-based acetylene production with sustainable biomass resources
+Authors: Peng Jiang, Guanhan Zhao, Hao Zhang, Tuo Ji, Liwen Mu, Xiaohua Lü, Jiahua Zhu
+Year: 2022
+Venue: Green Energy & Environment
+DOI: https://doi.org/10.1016/j.gee.2022.12.004
+Paper ID: https://openalex.org/W4311907253
+
+Abstract:
+Acetylene is produced from the reaction between calcium carbide (CaC2) and water, while the production of CaC2 generates significant amount of carbon dioxide not only because it is an energy-intensive process but also the raw material for CaC2 synthesis is from coal. Here, a comprehensive biomass-to-acetylene process was constructed that integrated several units including biomass pyrolysis, oxygen-thermal CaC2 fabrication and calcium looping. For comparison, a coal-to-acetylene process was also established by using coal as feedstock. The carbon efficiency, energy efficiency and environmental impacts of the bio-based calcium carbide acetylene (BCCA) and coal-based calcium carbide acetylene (CCCA) processes were systematically analyzed. Moreover, the environmental impacts were further evaluated by applying thermal integration at system level and energy substitution in CaC2 furnace. Even though the BCCA process showed lower carbon efficiency and energy efficiency than that of the CCCA process, life cycle assessment demonstrated the BCCA (1.873 kgCO2eq kg-prod−1) a lower carbon footprint process which is 0.366 kgCO2eq kg-prod−1 lower compared to the CCCA process. With sustainable energy (biomass power) substitution in CaC2 furnace, an even lower GWP value of 1.377 kgCO2eq kg-prod−1 can be achieved in BCCA process. This work performed a systematic analysis on integrating biomass into industrial acetylene production, and revealed the positive role of biomass as raw material (carbon) and energy supplier.

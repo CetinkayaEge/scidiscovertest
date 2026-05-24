@@ -1,0 +1,9 @@
+Title: Islamic Financial Depth, Financial Intermediation, and Sustainable Economic Growth: ARDL Approach
+Authors: Adil Saleem, Judit Sági, Budi Setiawan
+Year: 2021
+Venue: Economies
+DOI: https://doi.org/10.3390/economies9020049
+Paper ID: https://openalex.org/W3141838458
+
+Abstract:
+The pre-eminence of Islamic finance from the perspective of economic growth has been a long-standing debate. In recent decades, there has been a paradigm shift from interest-based banking to Islamic financial system. This study intends to examine the dynamic interaction of Islamic financial depth (IFD), Islamic financial intermediation (IFI), and asset quality with economic growth in a dual banking system. The paper employs autoregressive distributive lag regression (ARDL), error correction model (ECM) and Granger causality to examine the long and short run linkage by using the quarterly data of Pakistan from 2005 to 2019. The authors run two models to analyze the relative importance of financial depths (Islamic and conventional), financial intermediation (Islamic and conventional), and asset quality of both financial systems. A long-run relationship flowing from finance to growth in both Islamic and conventional finance models has been observed in our study. Furthermore, the findings recommend that strong financial intermediation plays an imperative role in driving economic growth by both financial sectors. The presence of a higher degree of Islamic financial assets in the economy contributes towards economic growth in the short-run. The results show that asset quality possibly plays an important intervening role in the overall finance-growth nexus.

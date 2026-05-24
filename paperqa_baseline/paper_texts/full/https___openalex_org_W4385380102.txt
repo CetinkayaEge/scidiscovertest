@@ -1,0 +1,9 @@
+Title: Towards Supply Chain 5.0: Redesigning Supply Chains as Resilient, Sustainable, and Human-Centric Systems in a Post-pandemic World
+Authors: Alice Villar, Stefanía Paladini, Oliver Buckley
+Year: 2023
+Venue: Operations Research Forum
+DOI: https://doi.org/10.1007/s43069-023-00234-3
+Paper ID: https://openalex.org/W4385380102
+
+Abstract:
+Abstract The purpose was to investigate the impact of the Industry 5.0 paradigm on the supply chain research field. Our study contributes to the conceptualization of supply chain 5.0, a term that has been receiving increased attention as supply chains adapt to the fifth industrial revolution. We conducted a systematic literature network analysis (SLNA) to examine the research landscape of Industry 5.0 supply chains. We used VOSViewer software and Bibliometrix R-package for multiple bibliometric analyses using 682 documents published between 2016 and 2022. We present a comprehensive framework of supply chain 5.0, including its key concepts, technologies, and trends. Additionally, this research offers a future research agenda to inspire and support further development in this field. We utilized three academic databases for bibliometric analyses: Dimension, Scopus and Lens. Additional databases could provide a wider research landscape and better field representation. We demonstrate how Industry 5.0 enables supply chain evaluation and optimization to assist companies in navigating disruptions without compromising competitiveness and profitability and provide a unique contribution to the field of supply chain 5.0 by exploring promising research areas and guiding the transition to this new paradigm for practitioners and scholars.

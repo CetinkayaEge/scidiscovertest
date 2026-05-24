@@ -1,0 +1,9 @@
+Title: Patterns of Gene Expression in Drosophila InsP 3 Receptor Mutant Larvae Reveal a Role for InsP 3 Signaling in Carbohydrate and Energy Metabolism
+Authors: Satish Kumar, Debleena Dey, Gaiti Hasan
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024105
+Paper ID: pmc_PMC3162032
+
+Abstract:
+Background The Inositol 1,4,5-trisphosphate receptor (InsP 3 R) is an InsP 3 gated intracellular Ca 2+ -release channel. Characterization of Drosophila mutants for the InsP 3 R has demonstrated that InsP 3 -mediated Ca 2+ release is required in Drosophila larvae for growth and viability. Methodology/Principal Findings To understand the molecular basis of these growth defects a genome wide microarray analysis has been carried out with larval RNA obtained from a strong InsP 3 R mutant combination in which 1504 independent genes were differentially regulated with a log 2 of fold change of 1 or more and P <0.05. This was followed by similar transcript analyses from InsP 3 R mutants where growth defects were either suppressed by introduction of a dominant suppressor or rescued by ectopic expression of an InsP 3 R transgene in the Drosophila insulin like peptide-2 (Dilp2) producing cells. Conclusions/Significance These studies show that expression of transcripts related to carbohydrate and amine metabolism is altered in InsP 3 receptor mutant larvae. Moreover, from a comparative analysis of genes that are regulated in the suppressed and rescued conditions with the mutant condition, it appears that the organism could use different combinations of pathways to restore a ‘normal’ growth state.

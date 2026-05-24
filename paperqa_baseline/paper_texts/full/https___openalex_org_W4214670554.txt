@@ -1,0 +1,9 @@
+Title: Sustainable Inventory Management in Supply Chains: Trends and Further Research
+Authors: Pablo Becerra, Josefa Mula, Raquel Sanchís
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052613
+Paper ID: https://openalex.org/W4214670554
+
+Abstract:
+This article presents an overview of the models applied to sustainable inventory management in supply chains and a roadmap for new research. It aims to address the lack of understanding of how sustainability is being incorporated into quantitative inventory management models in the supply chain context. The study is based on a classification of the reviewed literature according to the following criteria: supply chain structure, environmental approach, problem type, modeling, and solution approach. As a result, 36 articles were analyzed and classified. The main findings show that studies that incorporate social sustainability into inventory management along supply chains are lacking, while environmental studies are a growing research area. Uncertainty issues also need to be incorporated into sustainable inventory management models. Another important result of this study is the definition of a roadmap with trends and future research guidelines. The identified future research guidelines include incorporating decisions that can help to improve economic, environmental, and social sustainability. Thus, future studies should focus on both following quantitative models that incorporate inventory decisions integrally with transportation and location decisions, and more complex models, and employing new algorithms and heuristics to solve them.

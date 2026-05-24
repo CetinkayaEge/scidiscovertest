@@ -1,0 +1,9 @@
+Title: Multi-attribute sustainability assessment of wastewater treatment technologies using combined fuzzy multi-criteria decision-making techniques
+Authors: Shubham Dutt Attri, Shweta Singh, Atul Dhar, Satvasheel Powar
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.131849
+Paper ID: https://openalex.org/W4224271456
+
+Abstract:
+Water, which is predicted to be one of the most critical resources for the near future, also plays a vital role in society's sustainable development. Wastewater treatment is a critical part of the circular water management system and offers various technological alternatives. Taking appropriate decision for the technology selection is, therefore, essential for a long-term perspective. A complex yet imperative process is the sustainable selection of the wastewater treatment process. This paper presents the use of multi-criteria decision-making (MCDM) in the sustainability assessment of wastewater treatment technologies that may be very relevant to the growing sector with many emerging options. A comparison of six wastewater treatment technologies based on four sustainability parameters using three MCDM techniques, namely FSWARA, FMOORA and FTOPSIS is presented in detail. FSWARA is used for weighting criteria and the other two for technology ranking. The detailed step-by-step comparison study is presented and the results were somewhat predictable for the study, and this confirms the reliability of the methodology. This paper's primary objective is to propose a well-defined increscent practice for making sustainable wastewater treatment decisions among state-of-the-art technologies.

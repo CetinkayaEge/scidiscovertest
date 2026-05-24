@@ -1,0 +1,9 @@
+Title: Edge-cloud cooperation-driven smart and sustainable production for energy-intensive manufacturing industries
+Authors: Shuaiyin Ma, Yuming Huang, Yang Liu, Xianguang Kong, Lei Yin, Gaige Chen
+Year: 2023
+Venue: Applied Energy
+DOI: https://doi.org/10.1016/j.apenergy.2023.120843
+Paper ID: https://openalex.org/W4322754590
+
+Abstract:
+Energy-intensive manufacturing industries are characterised by high pollution and heavy energy consumption, severely challenging the ecological environment. Fortunately, environmental, social, and governance (ESG) can promote energy-intensive manufacturing enterprises to achieve smart and sustainable production. In Industry 4.0, various advanced technologies are used to achieve smart manufacturing, but the sustainability of production is often ignored without considering ESG performance. This study proposes a strategy of edge-cloud cooperation-driven smart and sustainable production to realise data collection, preprocessing, storage and analysis. In detail, kernel principal component analysis (KPCA) is used to decrease the interference of abnormal data in the evaluation results. Subsequently, an improved technique for order preference by similarity to ideal solution (TOPSIS) based on the adversarial interpretative structural model (AISM) is proposed to evaluate the production efficiency of the manufacturing workshop and make the analysis results more intuitive. Then, the architecture and models are verified using real production data from a partner company. Finally, sustainable analysis is discussed from the perspective of energy consumption, economic impact, greenhouse gas emissions and pollution prevention.

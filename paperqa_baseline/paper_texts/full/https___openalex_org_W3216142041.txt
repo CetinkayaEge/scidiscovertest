@@ -1,0 +1,9 @@
+Title: Approaches to Sustainability in Chemical Mechanical Polishing (CMP): A Review
+Authors: Hyunseop Lee, Hyoungjae Kim, Haedo Jeong
+Year: 2021
+Venue: International Journal of Precision Engineering and Manufacturing-Green Technology
+DOI: https://doi.org/10.1007/s40684-021-00406-8
+Paper ID: https://openalex.org/W3216142041
+
+Abstract:
+Chemical mechanical polishing (CMP) is an essential planarization process for semiconductor manufacturing. The application of CMP has been increasing in semiconductor fabrication for highly integrated devices. Recently, environmental burden caused by the CMP process was assessed because of interest in the global environment. In this study, the previously reported impacts of CMP on the environment and studies conducted on developing various methods to reduce environmental burden are reviewed. In addition to analyzing the impacts of CMP, this paper introduces a method for treating CMP wastewater and improving the material removal efficiency through the improvement of CMP consumables. Finally, the authors review research on hybridization of the CMP process and discuss the direction in which CMP technology will progress to improve sustainability in the future.

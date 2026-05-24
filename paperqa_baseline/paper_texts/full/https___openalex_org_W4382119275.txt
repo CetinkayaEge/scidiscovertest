@@ -1,0 +1,9 @@
+Title: Self-Sustaining Ultrawideband Positioning System for Event-Driven Indoor Localization
+Authors: Philipp Mayer, Michele Magno, Luca Benini
+Year: 2023
+Venue: IEEE Internet of Things Journal
+DOI: https://doi.org/10.1109/jiot.2023.3289568
+Paper ID: https://openalex.org/W4382119275
+
+Abstract:
+Smart and unobtrusive mobile sensor nodes that accurately track their own position have the potential to augment data collection with location-based functions. To attain this vision of unobtrusiveness, the sensor nodes must have a compact form factor and operate over long periods without battery recharging or replacement. This article presents a self-sustaining and accurate ultrawideband (UWB)-based indoor location system with conservative infrastructure overhead. An event-driven sensing approach allows for balancing the limited energy harvested in indoor conditions with the power consumption of UWB transceivers. The presented tag-centralized concept, which combines heterogeneous system design with embedded processing, minimizes idle consumption without sacrificing functionality. Despite modest infrastructure requirements, high-localization accuracy is achieved with error-correcting double-sided two-way ranging and embedded optimal multilateration. Experimental results demonstrate the benefits of the proposed system: the node achieves a quiescent current of 47nA and operates at 1.2 $\mu \text{A}$ while performing energy harvesting and motion detection. The energy consumption for position updates, with an accuracy of 40 cm (2-D) in realistic nonline-of-sight conditions, is 10.84mJ. In an asset tracking case study within a 200m2 multiroom office space, the achieved accuracy level allows for identifying 36 different desk and storage locations with an accuracy of over 95%. The system’s long-time self-sustainability has been analyzed over 700 days in multiple indoor lighting situations.

@@ -1,0 +1,9 @@
+Title: Fluid Intelligence Is (Much) More than Working Memory Capacity: An Experimental Analysis
+Authors: Dirk Hagemann, Max Ihmels, Nico Bast, Andreas B. Neubauer, Andrea Schankin, Anna-Lena Schubert
+Year: 2023
+Venue: Journal of Intelligence
+DOI: 10.3390/jintelligence11040070
+Paper ID: pmc_PMC10141465
+
+Abstract:
+Empirical evidence suggests a great positive association between measures of fluid intelligence and working memory capacity, which implied to some researchers that fluid intelligence is little more than working memory. Because this conclusion is mostly based on correlation analysis, a causal relationship between fluid intelligence and working memory has not yet been established. The aim of the present study was therefore to provide an experimental analysis of this relationship. In a first study, 60 participants worked on items of the Advanced Progressive Matrices (APM) while simultaneously engaging in one of four secondary tasks to load specific components of the working memory system. There was a diminishing effect of loading the central executive on the APM performance, which could explain 15% of the variance in the APM score. In a second study, we used the same experimental manipulations but replaced the dependent variable with complex working memory span tasks from three different domains. There was also a diminishing effect of the experimental manipulation on span task performance, which could now explain 40% of the variance. These findings suggest a causal effect of working memory functioning on fluid intelligence test performance, but they also imply that factors other than working memory functioning must contribute to fluid intelligence.

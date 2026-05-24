@@ -1,0 +1,9 @@
+Title: Protective Effects of Let-7a and Let-7b on Oxidized Low-Density Lipoprotein Induced Endothelial Cell Injuries
+Authors: Mei-hua Bao, Yi-wen Zhang, Xiao-ya Lou, Yu Cheng, Hong-hao Zhou
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0106540
+Paper ID: pmc_PMC4172475
+
+Abstract:
+Lectin-like low-density lipoprotein receptor 1 (LOX-1) is a receptor for oxidized low density lipoprotein (oxLDL) in endothelial cells. The activation of LOX-1 by oxLDL stimulates the apoptosis and dysfunction of endothelial cells, and contributes to atherogenesis. However, the regulatory factors for LOX-1 are still unclear. MicroRNAs are small, endogenous, non-coding RNAs that regulate gene expressions at a post-transcriptional level. The let-7 family is the second microRNA been discovered, which plays important roles in cardiovascular diseases. Let-7a and let-7b were predicted to target LOX-1 3′-UTR and be highly expressed in endothelial cells. The present study demonstrated that LOX-1 was a target of let-7a and let-7b. They inhibited the expression of LOX-1 by targeting the positions of 310-316 in LOX-1 3′-UTR. Over-expression of let-7a and let-7b inhibited the oxLDL-induced endothelial cell apoptosis, NO deficiency, ROS over-production, LOX-1 upregulation and endothelial nitric oxide synthase (eNOS) downregulation. Moreover, we found that oxLDL treatment induced p38MAPK phosphorylation, NF-κB nuclear translocation, IκB degradation and PKB dephosphorylation. Let-7a or let-7b over-expression attenuated these alterations significantly. The present study may provide a new insight into the protective properties of let-7a and let-7b in preventing the endothelial dysfunction associated with cardiovascular disease, such as atherosclerosis.

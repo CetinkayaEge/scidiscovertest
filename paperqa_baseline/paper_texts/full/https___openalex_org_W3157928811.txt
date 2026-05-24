@@ -1,0 +1,9 @@
+Title: Inhibition of the Proliferation of Human Lung Fibroblasts by Prostacyclin Receptor Agonists is Linked to a Sustained cAMP Signal in the Nucleus
+Authors: Maxine J. Roberts, Lauren T. May, Alastair C. Keen, Bonan Liu, Terrance Lam, Steven J. Charlton, Elizabeth M. Rosethorne, Michelle L. Halls
+Year: 2021
+Venue: Frontiers in Pharmacology
+DOI: https://doi.org/10.3389/fphar.2021.669227
+Paper ID: https://openalex.org/W3157928811
+
+Abstract:
+-coupled prostacyclin receptor and measuring downstream signalling at a sub-cellular level. MRE-269 and treprostinil caused sustained cAMP signalling in the nucleus and complete inhibition of PDGF-induced nuclear ERK and fibroblast proliferation. In contrast, iloprost caused a transient increase in nuclear cAMP, there was no effect of iloprost on PDGF-induced ERK in the nucleus, and this agonist was much less effective at reversing PDGF-induced proliferation. This suggests that sustained elevation of cAMP in the nucleus is necessary for efficient inhibition of PDGF-induced nuclear ERK and fibroblast proliferation. This is an important first step towards understanding of the signalling events that drive GPCR inhibition of fibrosis.

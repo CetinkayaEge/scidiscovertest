@@ -1,0 +1,9 @@
+Title: Research on Underdetermined DOA Estimation Method with Unknown Number of Sources Based on Improved CNN
+Authors: Fangzheng Zhao, Guoping Hu, Hao Zhou, Shuhan Guo
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063100
+Paper ID: pmc_PMC10058653
+
+Abstract:
+This paper proposes a joint estimation method for source number and DOA based on an improved convolutional neural network for unknown source number and undetermined DOA estimation. By analyzing the signal model, the paper designs a convolutional neural network model based on the existence of a mapping relationship between the covariance matrix and both the source number and DOA estimation. The model, which discards the pooling layer to avoid data loss and introduces the dropout method to improve generalization, takes the signal covariance matrix as input and the two branches of source number estimation and DOA estimation as outputs, and achieves the unfixed number of DOA estimation by filling in invalid values. Simulation experiments and analysis of the results show that the algorithm can effectively achieve the joint estimation of source number and DOA. Under the conditions of high SNR and a large snapshot number, both the proposed algorithm and the traditional algorithm have high estimation accuracy, while under the conditions of low SNR and a small snapshot, the algorithm is better than the traditional algorithm, and under the underdetermined conditions, where the traditional algorithm often fails, the algorithm can still achieve the joint estimation.

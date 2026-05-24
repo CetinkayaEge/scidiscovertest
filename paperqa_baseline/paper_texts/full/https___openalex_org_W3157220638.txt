@@ -1,0 +1,9 @@
+Title: End‐of‐Life Photovoltaic Recycled Silicon: A Sustainable Circular Materials Source for Electronic Industries
+Authors: Md Mokhlesur Rahman, Srikanth Mateti, Irin Sultana, Chunping Hou, Alexey Falin, Pavel Cizek, Alexey M. Glushenkov, Ying Chen
+Year: 2021
+Venue: Advanced Energy and Sustainability Research
+DOI: https://doi.org/10.1002/aesr.202100081
+Paper ID: https://openalex.org/W3157220638
+
+Abstract:
+One cannot claim solar panels to be recyclable, in a circular economy sense, until scientists find a way to harvest and repurpose their most valuable components, and silicon is one of them. The photovoltaic (PV) industry uses high‐quality silicon wafers for the fabrication of solar cells. PV recycled silicon, however, is not suitable for any application without further purification, as it contains various impurities. Herein, an advanced repurpose process of chemical etching combined ball milling is developed and optimized to produce high‐quality nanosilicon recovered from end‐of‐life PV panels and subsequent nanosilicon/graphite hybrid formation for the application in lithium‐ion batteries. The crucial feature of the hybrid's structure is that the obtained PV nanosilicon with various shapes and sizes is dispersed homogeneously and wrapped by graphitic matrix under ball milling, creating a superior electrode architecture. The PV nanosilicon/graphite anode consisting of 5 wt% nanosilicon exhibits promising electrochemical performance with a charge capacity of 426 mAh g −1 after 600 cycles, a capacity retention of 70%, a rate capability of 215 mAh g −1 at 5 C, and an average coulombic efficiency of ≈99.4%. By converting PV recycled silicon to exceptionally high‐value nanosilicon, the value of the recycled material is maximized.

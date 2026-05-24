@@ -1,0 +1,9 @@
+Title: A priori and a posteriori error analysis of the first order hyperbolic equation by using DG method
+Authors: Muhammad Shakhawat Hossain, Chunguang Xiong, Huafei Sun
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0277126
+Paper ID: pmc_PMC10062668
+
+Abstract:
+In this research article, a discontinuous Galerkin method with a weighted parameter θ and a penalty parameter γ is proposed for solving the first order hyperbolic equation. The key aim of this method is to design an error estimation for both a priori and a posteriori error analysis on general finite element meshes. It is also exposed to the reliability and effectiveness of both parameters in the order of convergence of the solutions. For a posteriori error estimation, residual adaptive mesh- refining algorithm is employed. A series of numerical experiments are illustrated that demonstrate the efficiency of the method.

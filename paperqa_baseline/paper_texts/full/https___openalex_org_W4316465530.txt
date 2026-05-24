@@ -1,0 +1,9 @@
+Title: Towards a Safe Hydrogen Economy: An Absolute Climate Sustainability Assessment of Hydrogen Production
+Authors: Kevin Joseph Dillman, Jukka Heinonen
+Year: 2023
+Venue: Climate
+DOI: https://doi.org/10.3390/cli11010025
+Paper ID: https://openalex.org/W4316465530
+
+Abstract:
+Policymakers and global energy models are increasingly looking towards hydrogen as an enabling energy carrier to decarbonize hard-to-abate sectors (projecting growth in hydrogen consumption in the magnitude of hundreds of megatons). Combining scenarios from global energy models and life cycle impacts of different hydrogen production technologies, the results of this work show that the life cycle emissions from proposed configurations of the hydrogen economy would lead to climate overshoot of at least 5.4–8.1× of the defined “safe” space for greenhouse gas emissions by 2050 and the cumulative consumption of 8–12% of the remaining carbon budget. This work suggests a need for a science-based definition of “clean” hydrogen, agnostic of technology and compatible with a “safe” development of the hydrogen economy. Such a definition would deem blue hydrogen environmentally unviable by 2025–2035. The prolific use of green hydrogen is also problematic however, due to the requirement of a significant amount of renewable energy, and the associated embedded energy, land, and material impacts. These results suggest that demand-side solutions should be further considered, as the large-scale transition to hydrogen, which represents a “clean” energy shift, may still not be sufficient to lead humanity into a “safe” space.

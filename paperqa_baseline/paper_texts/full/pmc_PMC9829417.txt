@@ -1,0 +1,9 @@
+Title: Biplot analysis: a study of the change of customer behaviour on e-commerce
+Authors: Rinda Nariswari, Teddy Satrio Prakoso, Naufal Hafiz, Herena Pudjihastuti
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.165
+Paper ID: pmc_PMC9829417
+
+Abstract:
+COVID-19 pandemic affected many aspects in global life, the one of aspect is e-commerce. The COVID-19 pandemic changes the general society into having a more consumptive behavior. This research is conducted to identify whether there is a difference in mean/average sales between the period before the COVID-19 pandemic and during the COVID-19 pandemic. This paper used T-Test Paired Samples to analyze the difference of behavior's customer of some e-commerce in Indonesia. Biplot analysis is also used to give visualization of the behavior's change caused by the COVID-19 pandemic. Six variables are used in this paper and purposive sampling is selected to get a sample size. We use 63 respondents are eligible to fulfill the questionnaire. The T-Test paired samples resulted that there is a difference in mean sales for the service or online products, food and beverages, electronics, and cosmetics and skincare. Those aspects are evidence that COVID-19 pandemic could change the customer behavior in E-Commerce. We also illustrate the change of customer behavior through biplot

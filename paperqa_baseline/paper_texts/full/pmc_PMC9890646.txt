@@ -1,0 +1,9 @@
+Title: Cooperatively enhanced photothermal-chemotherapy via simultaneously downregulating HSPs and promoting DNA alkylation in cancer cells †
+Authors: Yang Zou, Daipeng Huang, Shan He, Xuefang Song, Weijian Liu, Wen Sun, Jianjun Du, Jiangli Fan, Xiaojun Peng
+Year: 2022
+Venue: Chemical Science
+DOI: 10.1039/d2sc06143k
+Paper ID: pmc_PMC9890646
+
+Abstract:
+Photothermal therapy (PTT) has emerged as one of the important strategies for cancer treatment due to its precision and no drug resistance. However, upregulation of heat shock protein (HSP) expression during PTT severely limits its overall therapeutic effect. Accordingly, in this study, we developed a new anticancer strategy based on an l -glutathione (GSH)-activated prodrug (Cy-S-S-Cbl), which consisted of an alkylating reagent (Cbl) covalently linked to a photothermal photosensitizer (Cy7), to achieve cooperatively enhanced photothermal-chemotherapy. In the presence of overexpressed GSH in cancer cells, Cy-S-S-Cbl was converted into Cy-NH 2 to achieve photothermal effect enhancement by the photo-induced electron transfer (PET) effect and release the alkylation reagent. Meanwhile, the photothermal effect of Cy-NH 2 enhanced the DNA alkylation of chemotherapy drugs. Surprisingly, we first found that the therapeutic efficacy of PTT was improved owing to the down-regulation of heat shock protein 70 (HSP70) by chemotherapy. The two treatments had a synergistic promotion effect achieving higher cancer cell killing efficiency. Under 808 nm light irradiation, Cy-S-S-Cbl could effectively realize selective killing of cancer cells and tumor growth inhibition. Therefore, we strongly believe that this efficient cooperative design strategy will provide a new idea to improve the treatment efficiency of prodrugs. Cooperatively enhanced photothermal-chemotherapy via simultaneously downregulating heat shock proteins and promoting DNA alkylation to achieve efficient cancer therapy.

@@ -1,0 +1,9 @@
+Title: Can Neutrophils Prevent Nosocomial Pneumonia after Serious Injury?
+Authors: Kristína Macáková, Elzbieta Kaczmarek, Kiyoshi Itagaki
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087627
+Paper ID: pmc_PMC10141656
+
+Abstract:
+Nosocomial pneumonia is a leading cause of critical illness and mortality among seriously injured trauma patients. However, the link between injury and the development of nosocomial pneumonia is still not well recognized. Our work strongly suggests that mitochondrial damage-associated molecular patterns (mtDAMPs), especially mitochondrial formyl peptides (mtFPs) released by tissue injury, play a significant role in developing nosocomial pneumonia after a serious injury. Polymorphonuclear leukocytes (neutrophils, PMN) migrate toward the injury site by detecting mtFPs through formyl peptide receptor 1 (FPR1) to fight/contain bacterial infection and clean up debris. Activation of FPR1 by mtFPs enables PMN to reach the injury site; however, at the same time it leads to homo- and heterologous desensitization/internalization of chemokine receptors. Thus, PMN are not responsive to secondary infections, including those from bacteria-infected lungs. This may enable a progression of bacterial growth in the lungs and nosocomial pneumonia. We propose that the intratracheal application of exogenously isolated PMN may prevent pneumonia coupled with a serious injury.

@@ -1,0 +1,9 @@
+Title: Loss of transcriptional plasticity but sustained adaptive capacity after adaptation to global change conditions in a marine copepod
+Authors: Reid S. Brennan, James A. deMayo, Hans G. Dam, Michael Finiguerra, Hannes Baumann, Melissa H. Pespeni
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-28742-6
+Paper ID: https://openalex.org/W4220708434
+
+Abstract:
+). We found parallel adaptation to global change conditions in genes related to stress response, gene expression regulation, actin regulation, developmental processes, and energy production. However, reciprocal transplantation showed that adaptation resulted in a loss of transcriptional plasticity, reduced fecundity, and reduced population growth when global change-adapted animals were returned to ambient conditions or reared in low food conditions. However, after three successive transplant generations, global change-adapted animals were able to match the ambient-adaptive transcriptional profile. Concurrent changes in allele frequencies and erosion of nucleotide diversity suggest that this recovery occurred via adaptation back to ancestral conditions. These results demonstrate that while plasticity facilitated initial survival in global change conditions, it eroded after 20 generations as populations adapted, limiting resilience to new stressors and previously benign environments.

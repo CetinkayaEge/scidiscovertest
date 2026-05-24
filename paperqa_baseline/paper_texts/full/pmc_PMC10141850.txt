@@ -1,0 +1,9 @@
+Title: Development, Processing and Aging of Novel Zn-Ag-Cu Based Biodegradable Alloys
+Authors: Alexander Heiss, Venkat Sai Thatikonda, Andreas Richter, Lisa-Yvonn Schmitt, Daesung Park, Ulrich E. Klotz
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083198
+Paper ID: pmc_PMC10141850
+
+Abstract:
+The use of biodegradable materials for implants is a promising strategy to overcome known long-term clinical complications related to permanent implants. Ideally, biodegradable implants support the damaged tissue for a certain period and then degrade, while the physiological function of the surrounding tissue is restored. Although Mg-based alloys nearly ideally lend themselves to biodegradable implants, a few critical shortcomings promoted the development of alternative alloy systems. Due to their reasonably good biocompatibility, moderate corrosion rate without hydrogen evolution and adequate mechanical properties, increasing attention has been paid to Zn alloys. In this work, precipitation-hardening alloys in the system Zn-Ag-Cu were developed relying on thermodynamic calculations. After casting the alloys, their microstructures were refined by thermomechanical treatment. The processing was tracked and directed, respectively, by routine investigations of the microstructure, associated with hardness assessments. Although microstructure refinement increased the hardness, the material proved to be susceptible to aging as the homologous temperature of zinc is at 0.43 T m . Besides mechanical performance and corrosion rate, long-term mechanical stability is another crucial factor that must be taken into consideration to ensure the safety of the implant and thus requires a profound understanding of the aging process.

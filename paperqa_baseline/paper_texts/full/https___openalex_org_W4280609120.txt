@@ -1,0 +1,9 @@
+Title: Sustainable cities and communities assessment using the DARIA-TOPSIS method
+Authors: Jarosław Wątróbski, Aleksandra Bączkiewicz, Ewa Ziemba, Wojciech Sałabun
+Year: 2022
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2022.103926
+Paper ID: https://openalex.org/W4280609120
+
+Abstract:
+Effective evaluation of cities’ and communities’ sustainability is important for sustainable development. From a methodological point of view, Multi-Criteria Decision Analysis (MCDA) methods proved their usability in the sustainability evaluation domain. Nevertheless, the process of building a model in the classical MCDA paradigm is based on a single set of input data. Therefore, it may lead to oversimplification, especially in the domain of sustainability. Moreover, in addition to the current assessment, it is also important to know the dynamics of sustainability change over time. Therefore, this paper proposes an innovative sustainability assessment method that integrates the MCDA approach with the variability of the alternatives’ performance measurement called Data vARIability Assessment Technique for Order of Preference by Similarity to Ideal Solution (the DARIA-TOPSIS method). This method was used to assess sustainable cities and communities in 26 European countries. Time-based analyses conducted using the DARIA-TOPSIS method for aggregated data (countries), individual sustainability dimensions, and alternatives proved our new approach’s usefulness, suitability, and effectiveness in sustainable cities and society domain.

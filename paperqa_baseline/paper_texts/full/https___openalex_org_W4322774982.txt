@@ -1,0 +1,9 @@
+Title: Current Status of Hard Turning in Manufacturing: Aspects of Cooling Strategy and Sustainability
+Authors: Rajashree Mallick, Ramanuj Kumar, Amlana Panda, Ashok Kumar Sahoo
+Year: 2023
+Venue: Lubricants
+DOI: https://doi.org/10.3390/lubricants11030108
+Paper ID: https://openalex.org/W4322774982
+
+Abstract:
+In recent years, hard turning has been found to be a well-known substitute for traditional grinding for acquiring the finish quality of hardened steel without sacrificing productivity. There are many issues that should be carefully understood and dealt with to attain efficacious performance in hard turning. This article discusses modern manufacturing challenges with a focus on analyzing the current state of the art of the hard turning process in terms of ensuring more environmentally friendly manufacturing through the use of greener cooling methods such as dry, wet/flood cooling, the minimum quantity of lubricant (MQL), high-pressure jet cooling, solid lubricant, nanofluids, ionic liquids (ILs), cryogenic cooling, and hybrid cooling. Nanofluids combined with the MQL system were found to be the superior cooling technique in comparison to dry, wet/flood, and MQL. Cryo-machining also provided superior performance by limiting the cutting temperature during hard turning. The performance of hybrid cooling (MQL + cryogenic) seems to have been superior to MQL and cryogenic coolant alone because it combined the benefits of lubrication and cooling from MQL and cryogenic systems, respectively. The addition of ILs to base fluids or nanofluids improves the thermal properties of the mixed fluid, resulting in better surface quality, lower tool wear, and longer tool life. Furthermore, the purpose of this study is to summarize the various LCA software used for analyzing the sustainability of the hard turning process. Overall, this paper can serve as a resource for researchers and manufacturers working in the field of sustainable machining.

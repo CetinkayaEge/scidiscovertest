@@ -1,0 +1,9 @@
+Title: Secreted GRP78 activates EGFR-SRC-STAT3 signaling and confers the resistance to sorafeinib in HCC cells
+Authors: Rui Li, Gu Yanjiao, He Wubin, Wang Yue, Huang Jianhua, Zheng Huachuan, Su Rongjian, Luan Zhidong
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15223
+Paper ID: pmc_PMC5386689
+
+Abstract:
+Acquired resistance is a common phenomenon for HCC patients who undergone sorafenib treatment, however the mechanism by which acquired resistance develops remains elusive. In this study, we found that GRP78 could be detected in the serum samples of HCC patients and the conditional medium of multiple HCC cell lines, suggesting that GRP78 is secreted by HCC cells. Further studies showed that secreted GRP78 facilitated the proliferation and inhibited the apoptosis induced by sorafenib both in HCC cell lines and in tumor xenografts. We further found that secreted GRP78 could interact physically with EGFR, therefore activates EGFR signaling pathway. knockdown of EGFR decreased secreted GRP78 induced phosphorylation of SRC and STAT3. By contrast, overexpression of EGFR further enhanced the phosphorylation of SRC and STAT3 induced by secreted GRP78, suggesting the critical role of EGFR in secreted GRP78 conferred resistance to sorafeinib. Moreover, inhibition of SRC by PP2 antagonized the resistance to sorafenib and inhibited the activation of STAT3 conferred by secreted GRP78. Taken together, our results showed that secreted GRP78 could interact with EGFR, activate EGFR-SRC-STAT3 signaling, conferring the resistance to sorafenib.

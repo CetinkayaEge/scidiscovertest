@@ -1,0 +1,9 @@
+Title: Fermatean Fuzzy CRITIC-COPRAS Method for Evaluating the Challenges to Industry 4.0 Adoption for a Sustainable Digital Transformation
+Authors: Mahyar Kamali Saraji, Dalia Štreimikienė, Grigorios L. Kyriakopoulos
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13179577
+Paper ID: https://openalex.org/W3195893839
+
+Abstract:
+Decision and policymakers are looking at the potential of Industry 4.0 smart technologies to create a green economy as the European Commission aims to deliver the European Green Deal by rethinking policies for clean energy supply. Industry 4.0 will eventually be applied to all aspects of life; however, it is necessary to identify the challenges to the adoption of Industry 4.0 for a sustainable digital transformation. In this vein, the present study aims to identify the challenges to the adoption of Industry 4.0 in fintech companies and to develop a novel Fermatean fuzzy CRITIC-COPRAS method to rank the identified challenges and evaluate the performance of companies concerning the weighted challenges based on three decision experts’ support. The results indicated that “difficulty in coordination and collaboration” is the most significant challenge to the adoption of Industry 4.0 out of the fourteen identified challenges, followed by “resistance to change” and “governmental support.” In addition, the superiority and efficiency of the proposed method were investigated through comparative analyses.

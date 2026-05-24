@@ -1,0 +1,9 @@
+Title: Monitoring Temporal Changes in SARS-CoV-2 Spike Antibody Levels and Variant-Specific Risk for Infection, Dominican Republic, March 2021–August 2022
+Authors: Eric J. Nilles, Michael de St. Aubin, Devan Dumas, William Duke, Marie Caroline Etienne, Gabriela Abdalla, Petr Jarolim, Timothy Oasan, Salome Garnier, Naomi Iihoshi, Beatriz Lopez, Lucia de la Cruz, Yosanly Cornelio Puello, Margaret Baldwin, Kathryn W. Roberts, Farah Peña, Kara Durski, Isaac Miguel Sanchez, Sarah M. Gunter, Alexander R. Kneubehl, Kristy O. Murray, Allison Lino, Sarah Strobel, Amado Alejandro Baez, Colleen L. Lau, Adam Kucharski, Emily Zielinski Gutiérrez, Ronald Skewes-Ramm, Marietta Vasquez, Cecilia Then Paulino
+Year: 2023
+Venue: Emerging Infectious Diseases
+DOI: 10.3201/eid2904.221628
+Paper ID: pmc_PMC10045678
+
+Abstract:
+To assess changes in SARS-CoV-2 spike binding antibody prevalence in the Dominican Republic and implications for immunologic protection against variants of concern, we prospectively enrolled 2,300 patients with undifferentiated febrile illnesses in a study during March 2021–August 2022. We tested serum samples for spike antibodies and tested nasopharyngeal samples for acute SARS-CoV-2 infection using a reverse transcription PCR nucleic acid amplification test. Geometric mean spike antibody titers increased from 6.6 (95% CI 5.1–8.7) binding antibody units (BAU)/mL during March–June 2021 to 1,332 (95% CI 1,055–1,682) BAU/mL during May–August 2022. Multivariable binomial odds ratios for acute infection were 0.55 (95% CI 0.40–0.74), 0.38 (95% CI 0.27–0.55), and 0.27 (95% CI 0.18–0.40) for the second, third, and fourth versus the first anti-spike quartile; findings were similar by viral strain. Combining serologic and virologic screening might enable monitoring of discrete population immunologic markers and their implications for emergent variant transmission.

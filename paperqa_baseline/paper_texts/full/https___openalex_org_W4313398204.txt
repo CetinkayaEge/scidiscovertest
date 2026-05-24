@@ -1,0 +1,9 @@
+Title: Application of Internet of Things (IoT) in Sustainable Supply Chain Management
+Authors: Yasser Khan, Mazliham Bin Mohd Su’ud, Muhammad Mansoor Alam, Syed Fayaz Ahmad, Ahmad Y. A. Bani Ahmad, Nasir Khan
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010694
+Paper ID: https://openalex.org/W4313398204
+
+Abstract:
+The traditional supply chain system included smart objects to enhance intelligence, automation capabilities, and intelligent decision-making. Internet of Things (IoT) technologies are providing unprecedented opportunities to enhance efficiency and reduce the cost of the existing system of the supply chain. This article aims to study the prevailing supply chain system and explore the benefits obtained after smart objects and embedded networks of IoT are implanted. Short-range communication technologies, radio frequency identification (RFID), middleware, and cloud computing are extensively comprehended to conceptualize the smart supply chain management system. Moreover, manufacturers are achieving maximum benefits in terms of safety, cost, intelligent management of inventory, and decision-making. This study also offers concepts of smart carriage, loading/unloading, transportation, warehousing, and packaging for the secure distribution of products. Furthermore, the tracking of customers to convince them to make more purchases and the modification of shops with the assistance of the Internet of Things are thoroughly idealized.

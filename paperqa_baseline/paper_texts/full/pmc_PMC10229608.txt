@@ -1,0 +1,9 @@
+Title: Antigen recognition detains CD8 + T cells at the blood-brain barrier and contributes to its breakdown
+Authors: Sidar Aydin, Javier Pareja, Vivianne M. Schallenberg, Armelle Klopstein, Thomas Gruber, Nicolas Page, Elisa Bouillet, Nicolas Blanchard, Roland Liblau, Jakob Körbelin, Markus Schwaninger, Aaron J. Johnson, Mirjam Schenk, Urban Deutsch, Doron Merkler, Britta Engelhardt
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38703-2
+Paper ID: pmc_PMC10229608
+
+Abstract:
+Blood-brain barrier (BBB) breakdown and immune cell infiltration into the central nervous system (CNS) are early hallmarks of multiple sclerosis (MS). High numbers of CD8 + T cells are found in MS lesions, and antigen (Ag) presentation at the BBB has been proposed to promote CD8 + T cell entry into the CNS. Here, we show that brain endothelial cells process and cross-present Ag, leading to effector CD8 + T cell differentiation. Under physiological flow in vitro, endothelial Ag presentation prevented CD8 + T cell crawling and diapedesis resulting in brain endothelial cell apoptosis and BBB breakdown. Brain endothelial Ag presentation in vivo was limited due to Ag uptake by CNS-resident macrophages but still reduced motility of Ag-specific CD8 + T cells within CNS microvessels. MHC class I-restricted Ag presentation at the BBB during neuroinflammation thus prohibits CD8 + T cell entry into the CNS and triggers CD8 + T cell-mediated focal BBB breakdown. Blood-brain barrier (BBB) breakdown and immune cell infiltration into the central nervous system are early hallmarks of multiple sclerosis. Here, the authors demonstrate that brain endothelial cells cross-present antigen to CD8 + T cells, thereby preventing their migration and initiating BBB breakdown.

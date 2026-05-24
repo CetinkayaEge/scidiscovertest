@@ -1,0 +1,9 @@
+Title: Knockdown of long non-coding RNA HOTAIR increases miR-454-3p by targeting Stat3 and Atg12 to inhibit chondrosarcoma growth
+Authors: Xing Bao, Tingting Ren, Yi Huang, Kunkun Sun, Shidong Wang, Kuisheng Liu, Bingxin Zheng, Wei Guo
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.31
+Paper ID: pmc_PMC5386479
+
+Abstract:
+Current practices for the therapy of chondrosarcoma, including wide-margin surgical resection and chemotherapy, are less than satisfactory. Recently, emerging evidence has demonstrated that long non-coding RNAs (lncRNAs) have an essential role in the initiation and progression of tumors. As a typical lncRNA, HOTAIR is significantly overexpressed in various tumors. However, the function and potential biological mechanisms of HOTAIR in human chondrosarcoma remain unknown. Quantitative RT-PCR demonstrated that HOTAIR expression was upregulated in chondrosarcoma tissues and cell lines. High HOTAIR expression is correlated with tumor stage and poor prognosis. Functional experiments reveal that HOTAIR knockdown leads to growth inhibition of human chondrosarcoma cells in vitro and in vivo . In addition to cycle arrest and apoptosis, knockdown of HOTAIR inhibits autophagy, which favors cell death. Mechanistically, we demonstrated that HOTAIR induced DNA methylation of miR-454-3p by recruiting EZH2 and DNMT1 to the miR-454-3p promoter regions, which markedly silences miR-454-3p expression. Further analysis revealed that STAT3 and ATG12 are targets of miR-454-3p, initiate HOTAIR deficiency-induced apoptosis and reduce autophagy. Collectively, our data reveal the roles and functional mechanisms of HOTAIR in human chondrosarcoma and suggest that HOTAIR may act as a prognostic biomarker and potential therapeutic target for chondrosarcoma.

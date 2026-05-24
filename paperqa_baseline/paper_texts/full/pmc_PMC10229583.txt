@@ -1,0 +1,9 @@
+Title: Advocating for data sharing in human genomics: an interview with Chris Wallace and Guillermo Reales
+Authors: 
+Year: 2023
+Venue: Communications Biology
+DOI: 10.1038/s42003-023-04947-3
+Paper ID: pmc_PMC10229583
+
+Abstract:
+Dr. Chris Wallace is a Wellcome Trust Senior Research Fellow, Director of Research, and Principal Investigator in the Department of Medicine and a Programme Leader in the MRC Biostatistics Unit (BSU) at the University of Cambridge. Dr. Guillermo Reales is a postdoctoral researcher in Dr. Wallace’s group, where he recently co-authored a Comment evaluating the impact of sharing summary statistics on average citation rates of genome-wide association studies (GWASs). In this Q&A, we discussed the inspiration for their recent analysis on GWAS summary statistics, the importance of open data, and potential barriers or paths to data sharing in genomics.

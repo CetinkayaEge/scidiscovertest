@@ -1,0 +1,9 @@
+Title: Design and Application of Thymol Electrochemical Sensor Based on the PtNPs-CPOFs-MWCNTs Composite
+Authors: Na Li, Hongyue Zhang, Min Cui, Jujie Ren, Jingru Huang, Bao Sun, Haiyan Zhao, Cong Zhang
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083398
+Paper ID: pmc_PMC10143875
+
+Abstract:
+In this study, the preparation of covalent polyoxometalate organic frameworks (CPOFs) is introduced using the idea of polyoxometalate and covalent organic frameworks. Firstly, the prepared polyoxometalate was functionalized with an amine group (NH 2 -POM-NH 2 ), and then the CPOFs were prepared by a solvothermal Schiff base reaction with NH 2 -POM-NH 2 and 2,4,6-trihydroxybenzene-1,3,5-tricarbaldehyde (Tp) as monomers. After the incorporation of PtNPs and MWCNTs into the CPOFs material, the PtNPs-CPOFs-MWCNTs nanocomposites, which possess excellent catalytic activity and electrical conductivity, were formed and utilized as new electrode materials for the electrochemical thymol sensors. The obtained PtNPs-CPOFs-MWCNTs composite exhibits excellent activity toward thymol, which is attributable to its large special surface area, good conductivity and the synergistic catalysis of each component. Under optimal experimental conditions, the sensor presented a good electrochemical response to thymol. The sensor shows two good linear relationships between the current and thymol concentration in the range of 2–65 μM (R 2 = 0.996) and 65–810 μM (R 2 = 0.997), with the corresponding sensitivity of 72.7 μA mM −1 and 30.5 μA mM −1 , respectively. Additionally, the limit of detection (LOD) was calculated to be 0.2 μM (S/N = 3). At the same time, the prepared thymol electrochemical sensor revealed superior stability and selectivity. The constructed PtNPs-CPOFs-MWCNT electrochemical sensor is the first example of thymol detection.

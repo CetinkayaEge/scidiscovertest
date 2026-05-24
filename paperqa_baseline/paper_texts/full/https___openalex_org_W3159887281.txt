@@ -1,0 +1,9 @@
+Title: Sustainable setup stream mapping (3SM): a systematic approach to lean sustainable manufacturing
+Authors: Ahmad Ebrahimi, Rouhollah Khakpour, Soroosh Saghiri
+Year: 2021
+Venue: Production Planning & Control
+DOI: https://doi.org/10.1080/09537287.2021.1916637
+Paper ID: https://openalex.org/W3159887281
+
+Abstract:
+This paper recommends a stepwise method, named sustainable-setup-stream-mapping (3SM), to improve manufacturing setup time and its sustainability impacts. The method is developed based on an extensive literature review, in-depth explorative research in discrete manufacturing, and lean manufacturing tools: value stream mapping (VSM) and Single-Minute Exchange of Die (SMED). 3SM uses VSM in a novel way to break down setup operations, and employs SMED techniques to improve them. 3SM also recommends a list of criteria, for environmental, social, and economic pillars of sustainability, to assess the setup impacts against them within the setup workstation and in its relevant processes. This research implements 3SM in a real-life case, where the outcomes prove the practicality of 3SM and its improvements in setup times and sustainability criteria. It shows what/how sustainability criteria are influenced by setup activities/tasks at setup work station and factory-wide levels, and also expands the scope of SMED to sustainability improvement.

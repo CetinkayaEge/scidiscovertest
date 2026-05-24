@@ -1,0 +1,9 @@
+Title: Selection of Natural Fiber for Sustainable Composites Using Hybrid Multi Criteria Decision Making Techniques
+Authors: Aditi Mahajan, V Binaz, Inderdeep Singh, Navneet Arora
+Year: 2021
+Venue: Composites Part C Open Access
+DOI: https://doi.org/10.1016/j.jcomc.2021.100224
+Paper ID: https://openalex.org/W4200125023
+
+Abstract:
+Various factors like depleting non-renewable resources, increasing plastic pollution, awareness of environmental sustainability has resulted in the increased interest in sustainable composites as a potential to replace synthetic composites. As per the concurrent engineering approach, the material selection must be accomplished during the product design phase to meet customer demands in a time-efficient manner. Due to conflicting criteria, the wrong material selection often leads to an untimely failure of products ensuing in huge losses. As selection of materials is a complex process, the MCDM techniques play a significant role in judicious decision making. This study focuses on selection process of a natural fiber for sustainable composites using a hybrid integrated structure consisting of objective weightage methods (Entropy and CRITIC method) for calculating the criteria weights and the TOPSIS, VIKOR, and PROMETHEE II ranking methods. It's difficult to identify a single MCDM approach that is intrinsically beneficial than the rest, and every method has its own advantages and limitations. Hence the six ranking lists obtained are compared using Spearman's rank correlation coefficient. TOPSIS and PROMETHEE II methods with Entropy weighted criteria dominate the other approaches, and Basalt fiber surpassed the other fibers in the ranking list. The basalt reinforcement in composites finds its applications in fields of transportation, automobile and medical equipment. The sensitivity analysis has also been conducted and in all the scenarios basalt fiber has outperformed all other natural fibers under consideration.

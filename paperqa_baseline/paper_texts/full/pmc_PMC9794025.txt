@@ -1,0 +1,9 @@
+Title: CMM —An enhanced platform for interactive validation of metal binding sites
+Authors: Michal Gucwa, Joanna Lenkiewicz, Heping Zheng, Marcin Cymborowski, David R. Cooper, Krzysztof Murzyn, Wladek Minor
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4525
+Paper ID: pmc_PMC9794025
+
+Abstract:
+Abstract Metal ions bound to macromolecules play an integral role in many cellular processes. They can directly participate in catalytic mechanisms or be essential for the structural integrity of proteins and nucleic acids. However, their unique nature in macromolecules can make them difficult to model and refine, and a substantial portion of metal ions in the PDB are misidentified or poorly refined. CheckMyMetal (CMM) is a validation tool that has gained widespread acceptance as an essential tool for researchers working on metal‐macromolecule complexes. CMM can be used during structure determination or to validate metal binding sites in structural models within the PDB. The functionalities of CMM have recently been greatly enhanced and provide researchers with additional information that can guide modeling decisions. The new version of CMM shows metals in the context of electron density maps and allows for on‐the‐fly refinement of metal binding sites. The improvements should increase the reproducibility of biomedical research. The web server is available at https://cmm.minorlab.org .

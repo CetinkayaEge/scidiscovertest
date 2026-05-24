@@ -1,0 +1,9 @@
+Title: Untargeted metabolomic analysis of ischemic injury in human umbilical vein endothelial cells reveals the involvement of arginine metabolism
+Authors: Ruihao Wu, Jiayin Zhong, Lei Song, Min Zhang, Lulu Chen, Li Zhang, Zhaohui Qiu
+Year: 2023
+Venue: Nutrition & Metabolism
+DOI: 10.1186/s12986-023-00737-0
+Paper ID: pmc_PMC10061785
+
+Abstract:
+Objective In this study, differentially expressed metabolites of vascular endothelial cells were examined to further understand the metabolic regulation of ischemic injury by untargeted metabolomics. Method Human umbilical vein endothelial cells (HUVECs) were selected to construct an ischemia model using oxygen–glucose deprivation (OGD) and 0, 3, 6, and 9 h of treatment. After that, cell survival levels were determined by CCK8 detection. Flow cytometry, ROS detection, JC-1 detection, and western blotting were used to measure apoptosis and oxidative stress in cells. Then, combined with UPLC Orbitrap/MS, we verified the impacted metabolism pathways by western blotting and RT‒PCR. Results CCK8 assays showed that the survival of HUVECs was decreased with OGD treatment. Flow cytometry and the expression of cleaved caspase 3 showed that the apoptosis levels of HUVECs increased following OGD treatment. The ROS and JC-1 results further suggested that oxidative stress injury was aggravated. Then, combined with the heatmap, KEGG and IPA, we found that arginine metabolism was differentially altered during different periods of OGD treatment. Furthermore, the expression of four arginine metabolism-related proteins, ASS1, ARG2, ODC1 and SAT1, was found to change during treatment. Conclusion Arginine metabolism pathway-related proteins were significantly altered by OGD treatment, which suggests that they may have a potential role in ischemic injury. Supplementary Information The online version contains supplementary material available at 10.1186/s12986-023-00737-0.

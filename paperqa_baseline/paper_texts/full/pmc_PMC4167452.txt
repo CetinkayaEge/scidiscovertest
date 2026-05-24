@@ -1,0 +1,9 @@
+Title: Fast SAR Image Change Detection Using Bayesian Approach Based Difference Image and Modified Statistical Region Merging
+Authors: Han Zhang, Weiping Ni, Weidong Yan, Hui Bian, Junzheng Wu
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/862875
+Paper ID: pmc_PMC4167452
+
+Abstract:
+A novel fast SAR image change detection method is presented in this paper. Based on a Bayesian approach, the prior information that speckles follow the Nakagami distribution is incorporated into the difference image (DI) generation process. The new DI performs much better than the familiar log ratio (LR) DI as well as the cumulant based Kullback-Leibler divergence (CKLD) DI. The statistical region merging (SRM) approach is first introduced to change detection context. A new clustering procedure with the region variance as the statistical inference variable is exhibited to tailor SAR image change detection purposes, with only two classes in the final map, the unchanged and changed classes. The most prominent advantages of the proposed modified SRM (MSRM) method are the ability to cope with noise corruption and the quick implementation. Experimental results show that the proposed method is superior in both the change detection accuracy and the operation efficiency.

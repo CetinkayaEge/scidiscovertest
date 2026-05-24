@@ -1,0 +1,9 @@
+Title: An Extensive Overview of Islanding Detection Strategies of Active Distributed Generations in Sustainable Microgrids
+Authors: Faisal Mumtaz, Kashif Imran, Abdullah Abusorrah, Syed Basit Ali Bukhari
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15054456
+Paper ID: https://openalex.org/W4323046061
+
+Abstract:
+Active distributed generations (ADGs) are more prevalent near consumer premises. However, the ADG penetration contribute a lot of dynamic changes in power distribution networks which cause different protection and control issues. Islanding is one of the crucial problems related to such ADGs; on the other hand, islanding detection is also a challenging aspect. Therefore, an extensive review of islanding real-time depiction and islanding detection strategies (IDS) is provided in this work. Initially, the focus is on islanding detection concept depiction, islanding detection standardization, benchmark test systems for IDS validation, and software/tools and an analysis of their pros and cons. Then, the detailed classification of IDSs is presented with an emphasis on remote and local methods. Passive, active, and hybrid can be used further to categorize local IDSs. Moreover, the statistical comparative analysis of the IDSs based on the non-detection-zone (NDZ), cost-effectiveness, and false operation are mentioned. The research gap and loopholes in the existing work based on limitations in the existing work are presented. Finally, the paper is concluded with detailed recommendations.

@@ -1,0 +1,9 @@
+Title: Multi-objective optimization modelling of sustainable green supply chain in inventory and production management
+Authors: Abdullah Ali H. Ahmadini, Umar Muhammad Modibbo, Ali Akbar Shaikh, Irfan Ali
+Year: 2021
+Venue: Alexandria Engineering Journal
+DOI: https://doi.org/10.1016/j.aej.2021.03.075
+Paper ID: https://openalex.org/W3165944009
+
+Abstract:
+The ever increasing pressure to conserve the environment from global warming cannot be overemphasized. Emission from the inventory and production process contributes immensely to global warming and hence, the need to device a sustainable green inventory by the operational managers. In this paper, a multi-item multi-objective inventory model with back-ordered quantity incorporating green investment in order to save the environment is proposed. The model is formulated as a multi-objective fractional programming problem with four objectives: maximizing profit ratio to total back-ordered quantity, minimizing the holding cost in the system, minimizing total waste produced by the inventory system per cycle and minimizing the total penalty cost due to green investment. The constraints are included with budget limitation, space restrictions, a constraint on cost of ordering each item, environmental waste disposal restriction, cost of pollution control, electricity consumption cost during production and cost of greenhouse gas emission in the production process. The model effectiveness is illustrated numerically, and the solution obtained to give a useful suggestion to the decision-markers in the manufacturing sectors.

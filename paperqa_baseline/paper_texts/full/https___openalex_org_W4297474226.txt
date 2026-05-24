@@ -1,0 +1,9 @@
+Title: Towards Sustainable Development: How Digitalization, Technological Innovation, and Green Economic Development Interact with Each Other
+Authors: Wei Yang, Qiuxia Chen, Qiuqi Guo, Xiaoting Huang
+Year: 2022
+Venue: International Journal of Environmental Research and Public Health
+DOI: https://doi.org/10.3390/ijerph191912273
+Paper ID: https://openalex.org/W4297474226
+
+Abstract:
+Green technological innovation is one of the endogenous drivers of green economic growth, and digitalization can promote green economic development in the form of industrial empowerment. The interactive relationship and the degree of influence between digitalization, technological innovation, and green economic development is thus an urgent issue to be addressed. Based on the panel data of 30 Chinese provinces from 2011 to 2019, we measured digitalization, technological innovation, and green economic development for the first time using the entropy method and included them in the same analytical framework by constructing a PVAR model to empirically test their interrelationship and degree of influence. Our findings suggest that: (1) There is an inertial development and self-reinforcing mechanism among the three variables. (2) The impact of digitalization on green economic development has a positive promotion effect, while the impact of technological innovation on green economic development is not significant. (3) The impact of green economic development on technological innovation has a positive promotion effect in the short term, but this effect gradually declines and tends to zero in the long term. Finally, based on the findings, several practical suggestions are made.

@@ -1,0 +1,9 @@
+Title: Systematic Review of Technology in Aeroponics: Introducing the Technology Adoption and Integration in Sustainable Agriculture Model
+Authors: Juan Garzón, Juan Garzón, Luis Montes, Jorge Garzón, Jorge Garzón, Γεώργιος Λαμπρόπουλος
+Year: 2023
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy13102517
+Paper ID: https://openalex.org/W4387186091
+
+Abstract:
+Aeroponics is a soilless agricultural technique that grows plants by misting their roots with a nutrient-rich solution. Technology has transformed aeroponics by providing it with benefits such as the control of environmental factors, automated nutrient delivery, and the monitoring of plant health. This paper presents a systematic review of 47 studies to identify the status and tendencies in the usage of technology in aeroponics as well as the main opportunities and challenges. Furthermore, this paper introduces the Technology Adoption and Integration in Sustainable Agriculture (TAISA) model. TAISA is a model that identifies the degree of technology integration in any sustainable agriculture system to determine how technology affects production and quality. The systematic review indicates that the most common technology in aeroponics is sensing technology and Industry 4.0. These technologies have brought multiple benefits such as sustainability and time efficiency. Conversely, the studies highlighted technical complexity and power dependency as the main challenges in technology-assisted aeroponics. Finally, the TAISA model reveals that technology has primarily been employed in creating new processes that are only possible to implement with the help of technology. Therefore, we conclude that technology use has taken root in aeroponics and can be promoted to improve sustainable agriculture.

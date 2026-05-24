@@ -1,0 +1,9 @@
+Title: Elevated prelimbic cortex-to-basolateral amygdala circuit activity mediates comorbid anxiety-like behaviors associated with chronic pain
+Authors: Feng Gao, Jie Huang, Guo-Bin Huang, Qiang-Long You, Shan Yao, Shen-Ting Zhao, Jian Liu, Cui-Hong Wu, Gui-Fu Chen, Shi-Min Liu, Zongyan Yu, Yan-Ling Zhou, Yu-Ping Ning, Shenquan Liu, Bing-Jie Hu, Xiang-Dong Sun
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI166356
+Paper ID: pmc_PMC10145931
+
+Abstract:
+Chronic pain can cause both hyperalgesia and anxiety symptoms. However, how the two components are encoded in the brain remains unclear. The prelimbic cortex (PrL), a critical brain region for both nociceptive and emotional modulations, serves as an ideal medium for comparing how the two components are encoded. We report that PrL neurons projecting to the basolateral amygdala (PrL BLA ) and those projecting to the ventrolateral periaqueductal gray (PrL l/vlPAG ) were segregated and displayed elevated and reduced neuronal activity, respectively, during pain chronicity. Consistently, optogenetic suppression of the PrL-BLA circuit reversed anxiety-like behaviors, whereas activation of the PrL-l/vlPAG circuit attenuated hyperalgesia in mice with chronic pain. Moreover, mechanistic studies indicated that elevated TNF-α/TNFR1 signaling in the PrL caused increased insertion of GluA1 receptors into PrL BLA neurons and contributed to anxiety-like behaviors in mice with chronic pain. Together, these results provide insights into the circuit and molecular mechanisms in the PrL for controlling pain-related hyperalgesia and anxiety-like behaviors.

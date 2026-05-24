@@ -1,0 +1,9 @@
+Title: Sustainable digital economy and trade adjusted carbon emissions: Evidence from China’s provincial data
+Authors: Qiang Ma, Zeeshan Khan, Muhammad Tariq, Hayriye Işık, Husam Rjoub
+Year: 2022
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2022.2028179
+Paper ID: https://openalex.org/W4210899147
+
+Abstract:
+The importance of the digital economy and trade adjusted emissions is of great importance to study, especially in case of China. Since China is the leading exporter of the world and achieving high economic growth consecutively for the last 2-3 decades, this study, unlike past studies, evaluates the importance of digital economy, exports, imports and gross domestic product on trade adjusted carbon emissions for China. This is the only study that incorporates the importance of digital economy on trade adjusted carbon emissions for provincial data of China. This study determines whether the digital economy is a viable source of green economy. Research and development will simply replace a physical resource, flows through energy and transportation networks? This question is answered by using updated data, especially for digital economy. This study uses panel data for the Chinese provinces to investigate the impact of the digital economy in limiting CO2 emissions, taking into account GDP, exports and imports as control variables. Using method of moments quantile regression, we find a negative impact of digital economy and exports on consumption-based carbon emissions. Moreover, we find that GDP, and imports amplify consumption-based carbon emissions.

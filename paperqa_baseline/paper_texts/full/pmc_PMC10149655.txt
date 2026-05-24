@@ -1,0 +1,9 @@
+Title: Clustering of Cardiac Transcriptome Profiles Reveals Unique
+Authors: Job A.J. Verdonschot, Ping Wang, Kasper W.J. Derks, Michiel E. Adriaens, Sophie L.V.M. Stroeks, Michiel T.H.M. Henkens, Anne G. Raafs, Maurits Sikking, Bart de Koning, Arthur van den Wijngaard, Ingrid P.C. Krapels, Miranda Nabben, Han G. Brunner, Stephane R.B. Heymans
+Year: 2023
+Venue: JACC: Basic to Translational Science
+DOI: 10.1016/j.jacbts.2022.10.010
+Paper ID: pmc_PMC10149655
+
+Abstract:
+Visual Abstract Highlights • Unsupervised clustering of the cardiac transcriptome reveals clinically relevant patient subgroups in early- and end-stage DCM cohorts. • A subgroup enriched by patients with a truncating titin variant had a strong cardiac upregulation of the OXPHOS system, dysregulation of the ubiquitin-proteasome pathway, and a shift in cardiac substrate utilization. • The cardiac transcriptome is partially influenced by the genotype and phenotype of the patient but also contains unique information. The addition of the cardiac transcriptome to the genotype and phenotype of the patient increases the possibility for individualized medicine. Summary Dilated cardiomyopathy is a heterogeneous disease characterized by multiple genetic and environmental etiologies. The majority of patients are treated the same despite these differences. The cardiac transcriptome provides information on the patient's pathophysiology, which allows targeted therapy. Using clustering techniques on data from the genotype, phenotype, and cardiac transcriptome of patients with early- and end-stage dilated cardiomyopathy, more homogeneous patient subgroups are identified based on shared underlying pathophysiology. Distinct patient subgroups are identified based on differences in protein quality control, cardiac metabolism, cardiomyocyte function, and inflammatory pathways. The identified pathways have the potential to guide future treatment and individualize patient care.

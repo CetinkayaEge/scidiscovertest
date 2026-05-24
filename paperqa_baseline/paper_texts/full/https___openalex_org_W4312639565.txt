@@ -1,0 +1,9 @@
+Title: Promising Grid-Forming VSC Control Schemes Toward Sustainable Power Systems: Comprehensive Review and Perspectives
+Authors: Karar Mahmoud, Poria Astero, Pasi Peltoniemi, Matti Lehtonen
+Year: 2022
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2022.3228742
+Paper ID: https://openalex.org/W4312639565
+
+Abstract:
+Driven by environmental and economic aspects, the proliferation of renewable energy sources (RES) has been expanded in power systems worldwide. In this regard, the intermittent generation of such RESs (e.g., photovoltaic and wind farms) can cause several operational and stability problems in such low-inertia power systems. To handle these issues, great interest in the literature has been directed to develop feasible grid-forming voltage source converters (VSC) control schemes that have voltage/frequency regulatory functions. Accordingly, an inclusive review is presented in this paper for these promising grid-forming VSC control schemes which will be the backbone of sustainable converter-dominated power systems. Specifically, control structures, smart grid-support functionalities, stability issues, and fault current mitigations are compared considering the existing grid-forming VSC control schemes. Besides, the applications of grid-forming VSC along with their benefits and drawbacks are investigated for both isolated and bulk power systems. The evaluation aspects are also explored for assessing the performance of the existing VSC control schemes in the grid. Finally, the current challenges that face VSC in forthcoming applications and existing gaps are highlighted while corresponding perspectives for future research studies are defined for stable sustainable low-inertia power systems.

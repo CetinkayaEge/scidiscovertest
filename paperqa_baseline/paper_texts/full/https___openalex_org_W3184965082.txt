@@ -1,0 +1,9 @@
+Title: Green Materials and Technologies for Sustainable Organic Transistors
+Authors: Fabrizio Torricelli, Ivano Alessandri, Eleonora Macchia, Irene Vassalini, Marina Maddaloni, Luisa Torsi
+Year: 2021
+Venue: Advanced Materials Technologies
+DOI: https://doi.org/10.1002/admt.202100445
+Paper ID: https://openalex.org/W3184965082
+
+Abstract:
+Abstract Intelligent objects, autonomous factories and humans browsing the real world with artificial technology‐based capabilities is not the movie set of a new saga but what is going to happen with next‐generation electronics and bioelectronics fabricated with emerging materials, technologies, and devices. The emergence of (bio)electronics as a ubiquitous feature of an advanced modern society is posing the challenge of managing an ever‐increasing amount of e‐waste, also making the recovery more and more difficult. Thus, new design approaches are required considering that a possibly small but significant fraction of mass‐scale e‐products is inherently impossible to recover. In this perspective, organic materials and technologies can provide important solutions. This review presents and analyses green materials and technologies underpinning the development of sustainable organic transistors, which promise to become key components for Earth‐safe wide‐spread electronics and bioelectronics.

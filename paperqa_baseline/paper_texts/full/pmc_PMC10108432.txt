@@ -1,0 +1,9 @@
+Title: Conformational ensembles explain NMR spectra of frozen intrinsically disordered proteins
+Authors: Jaka Kragelj, Rania Dumarieh, Yiling Xiao, Kendra K. Frederick
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4628
+Paper ID: pmc_PMC10108432
+
+Abstract:
+Abstract Protein regions which are intrinsically disordered, exist as an ensemble of rapidly interconverting structures. Cooling proteins to cryogenic temperatures for dynamic nuclear polarization (DNP) magic angle spinning (MAS) NMR studies suspends most of the motions, resulting in peaks that are broad but not featureless. To demonstrate that detailed conformational restraints can be retrieved from the peak shapes of frozen proteins alone, we developed and used a simulation framework to assign peak features to conformers in the ensemble. We validated our simulations by comparing them to spectra of α‐synuclein acquired under different experimental conditions. Our assignments of peaks to discrete dihedral angle populations suggest that structural constraints are attainable under cryogenic conditions. The ability to infer ensemble populations from peak shapes has important implications for DNP MAS NMR studies of proteins with regions of disorder in living cells because chemical shifts are the most accessible measured parameter. PDB Code(s): 2N0A .

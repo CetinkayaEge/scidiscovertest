@@ -1,0 +1,9 @@
+Title: A sustainable inventory model for defective items under fuzzy environment
+Authors: Riju Chaudhary, Mandeep Mittal, Mahesh Kumar Jayaswal
+Year: 2023
+Venue: Decision Analytics Journal
+DOI: https://doi.org/10.1016/j.dajour.2023.100207
+Paper ID: https://openalex.org/W4360998583
+
+Abstract:
+Ever since the basic Economic Order Quantity (EOQ) model was introduced, several researchers and academicians extended and/or altered it, to reduce its unrealistic assumptions and make it more suitable and appropriate to the real world. The traditional EOQ Models assume constant demand and perfect quality of all the items received in a lot from the manufacturer and do not help decision-makers build their lot size taking environmental issues into consideration. The article’s main objective is to provide models to support managers in taking decisions that are made in an ecologically responsible manner. The proposed models may be used to optimize inventory operations where varying demand and environmental expenses can be accounted for. The article, thus, hypothesizes a production/inventory situation that considers that the items received by the retailer from the supplier may have a portion of items with subpar quality and that the demand is not always precisely known. Also, understanding the fact that the emission of Carbon is one of the critical factors causing global warming, focus on carbon emission reduction has become a concern for all. The current paper incorporates the cost of carbon emission from warehouse electricity and from fuel used in generators. A numerical example has been presented to support the proposed model. Sensitivity analysis has also been conducted on the effective parameters to know the robustness of the model.

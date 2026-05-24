@@ -1,0 +1,9 @@
+Title: B7-H4 promotes tumor growth and metastatic progression in lung cancer by impacting cell proliferation and survival
+Authors: Xiuqin Zhang, Liming Cai, Guangbo Zhang, Yu Shen, Jianan Huang
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14475
+Paper ID: pmc_PMC5386653
+
+Abstract:
+Aberrant expression of B7-H4 occurs across a broad spectrum of human cancers. The aim of this study was to investigate the key role of B7-H4 during tumorigenesis and metastasis of human lung cancer. Our data showed that the shRNA-mediated disruption of B7-H4 markedly inhibited tumor cell proliferation, invasion and migration, increased cell apoptosis and arrested cell cycle at G0/G1. These changes were accompanied by a marked increase in Bax and caspase-3/caspase-8, but a decrease in Bcl-2, cyclinD1 and activation of AKT. In addition, our shRNA-mediated disruption of B7-H4 led to a marked decrease in tumor growth in the immune-compromised mice. Importantly, B7-H4 was expressed in 53.33% of lung carcinomas from our patient cohort ( n = 90), but not in any of adjacent non-cancerous tissues, according to our IHC analyses. In particular, B7-H4 expression appeared to be associated with lymph node metastasis ( P = 0.008) and TNM stage ( P = 0.012). Taken together, our study demonstrates a strong promoting role of B7-H4 in lung tumor growth, progression and metastasis, and supports its potential as a therapeutic target for the treatment of the disease.

@@ -1,0 +1,9 @@
+Title: Multi-objective optimization of water resources allocation in Han River basin (China) integrating efficiency, equity and sustainability
+Authors: Lele Deng, Shenglian Guo, Jiabo Yin, Yujie Zeng, Kebing Chen
+Year: 2022
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-021-04734-2
+Paper ID: https://openalex.org/W4205549215
+
+Abstract:
+The hydrological cycle, affected by climate change and rapid urbanization in recent decades, has been altered to some extent and further poses great challenges to three key factors of water resources allocation (i.e., efficiency, equity and sustainability). However, previous studies usually focused on one or two aspects without considering their underlying interconnections, which are insufficient for interaction cognition between hydrology and social systems. This study aims at reinforcing water management by considering all factors simultaneously. The efficiency represents the total economic interests of domesticity, industry and agriculture sectors, and the Gini coefficient is introduced to measure the allocation equity. A multi-objective water resources allocation model was developed for efficiency and equity optimization, with sustainability (the river ecological flow) as a constraint. The Non-dominated sorting genetic algorithm II (NSGA-II) was employed to derive the Pareto front of such a water resources allocation system, which enabled decision-makers to make a scientific and practical policy in water resources planning and management. The proposed model was demonstrated in the middle and lower Han River basin, China. The results indicate that the Pareto front can reflect the conflicting relationship of efficiency and equity in water resources allocation, and the best alternative chosen by cost performance method may provide rich information as references in integrated water resources planning and management.

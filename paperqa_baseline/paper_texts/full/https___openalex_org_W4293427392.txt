@@ -1,0 +1,9 @@
+Title: An Imperative Role of Digitalization in Monitoring Cattle Health for Sustainability
+Authors: Devendra Singh, Rajesh Singh, Anita Gehlot, Shaik Vaseem Akram, Neeraj Priyadarshi, Bhekisipho Twala
+Year: 2022
+Venue: Electronics
+DOI: https://doi.org/10.3390/electronics11172702
+Paper ID: https://openalex.org/W4293427392
+
+Abstract:
+In the current context, monitoring cattle health is critical for producing abundant milk to satisfy population growth demand and also for attaining sustainability. Traditional methods associated with cattle health must be strengthened in order to overcome the concern of detecting diseases based on the health condition. This problem has moved attention toward digital technologies such as the Internet of Things (IoT), artificial intelligence (AI), cloud computing, edge/fog computing, big data, blockchain, drones, robotics, and augmented reality (AR)/virtual reality (VR), as these technologies have proved for real-time monitoring, intelligent analytics, secure data distribution, and real-time visual experience. The purpose of this study is to examine and discuss many cattle health disorders, as well as to address the fundamental notion of digital technologies, as well as the significance of these technologies for cattle health. Furthermore, the article addressed the different devices that integrated IoT and AI for cattle health monitoring, in which the previous architecture of cattle health monitoring is presented. Based on the review, the article discusses the challenges and suggests recommendations that can be implemented for the future work

@@ -1,0 +1,9 @@
+Title: Phase change material integration in concrete for thermal energy storage: techniques and applications in sustainable building
+Authors: Segun Jonathan Osibodu, Adekanmi Miracle Adeyinka, Onyedika V. Mbelu
+Year: 2024
+Venue: Sustainable Energy Research
+DOI: https://doi.org/10.1186/s40807-024-00138-8
+Paper ID: https://openalex.org/W4404977056
+
+Abstract:
+Abstract The building sector is a significant contributor to global energy consumption, necessitating the development of innovative materials to improve energy efficiency and sustainability. Phase change material (PCM)-enhanced concrete offers a promising solution by enhancing thermal energy storage (TES) and reducing energy demands for heating and cooling in buildings. However, challenges related to PCM leakage, mechanical strength reduction, and encapsulation durability hinder widespread adoption. This paper critically reviews the various PCM incorporation techniques and evaluates their impact on thermal performance and structural integrity. Our findings revealed that while PCM integration improves thermal efficiency, it reduces mechanical strength, especially at higher PCM content. To address these challenges, recent work emphasizes advancements in encapsulation technologies and thermal property optimization, focusing on mitigating leakage and enhancing durability. Organic PCM types are favored for concrete applications due to their compatibility, though issues with leakage control and strength retention remain unresolved. Hence, the choice of incorporation technique must balance application requirements, allowable mechanical property reductions, and cost constraints. Moreover, the lack of standardized methods to assess long-term PCM-composite durability highlights a need for further development of PCM encapsulation and integration techniques to optimize thermal and structural performance.

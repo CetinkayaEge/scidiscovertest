@@ -1,0 +1,9 @@
+Title: Spherical PEG/SiO 2 promising agents for Lamivudine antiviral drug delivery, a molecular dynamics simulation study
+Authors: Sahar Razzaghi, Mohsen Vafaee, Bahar Kharazian, Mokhtar Nasrollahpour
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30493-3
+Paper ID: pmc_PMC9969043
+
+Abstract:
+Spherical nanocarriers can lead to a bright future to lessen problems of virus infected people. Spherical polyethylene glycol (PEG) and spherical silica (SiO 2 ) are novel attractive nanocarriers as drug delivery agents, especially they are recently noticed to be reliable for antiviral drugs like anti-HIV, anti-covid-19, etc. Lamivudine (3TC) is used as a first line drug for antiviral therapy and the atomic view of 3TC-PEG/SiO 2 complexes enable scientist to help improve treatment of patients with viral diseases. This study investigates the interactions of 3TC with Spherical PEG/SiO 2 , using molecular dynamics simulations. The mechanism of adsorption, the stability of systems and the drug concentration effect are evaluated by analyzing the root mean square deviation, the solvent accessible surface area, the radius of gyration, the number of hydrogen bonds, the radial distribution function, and Van der Waals energy. Analyzed data show that the compression of 3TC is less on PEG and so the stability is higher than SiO 2 ; the position and intensity of the RDF peaks approve this stronger binding of 3TC to PEG as well. Our studies show that PEG and also SiO 2 are suitable for loading high drug concentrations and maintaining their stability; therefore, spherical PEG/SiO 2 can reduce drug dosage efficiently.

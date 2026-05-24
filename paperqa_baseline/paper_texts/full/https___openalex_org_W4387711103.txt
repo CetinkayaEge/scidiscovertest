@@ -1,0 +1,9 @@
+Title: Smart and sustainable: Exploring the future of PHAs biopolymers for 3D printing in tissue engineering
+Authors: Joanna Żur, Magdalena Z. Gładysz, Didi Ubels, Jeroen Siebring, Małgorzata K. Włodarczyk‐Biegun
+Year: 2023
+Venue: Sustainable materials and technologies
+DOI: https://doi.org/10.1016/j.susmat.2023.e00750
+Paper ID: https://openalex.org/W4387711103
+
+Abstract:
+Polyhydroxyalkanoates (PHAs) are biodegradable biopolymers (polyesters), produced by a wide range of bacterial strains. They are gaining increasing interest in different research fields, due to their sustainability and environmental-friendly properties. Additionally, PHAs are also biocompatible, which makes them interesting for tissue engineering and regenerative medicine. At the same time, they are characterized by properties ideal for 3D printing processing, such as high tensile strength, easy processability and thermoplasticity. To date, the techniques employed in PHAs printing mostly include fused deposition modeling (FDM), selective laser sintering (SLS), electrospinning (ES), and melt electrospinning (MES). In this review, we provide a comprehensive summary of the versatile and sustainably sourced bacterial PHAs, also modified by blending with natural and synthetic polymers (e.g., PLA, PGA) or combining them with inorganic fillers (e.g., nanoparticles, glass), used for 3D printing in biomedical applications. We specify focus on the printing conditions and the properties of the obtained scaffolds with a focus on the print resolution and scaffolds mechanical and biological properties. New perspectives in the emerging field of PHAs biofabrication process, characterized by sustainability and efficiency of the scaffold production, are demonstrated. The use of alternative printing techniques, i.e. melt electrowriting (MEW), and producing smart and functional materials degrading on demand under in vitro and in vivo conditions is proposed.

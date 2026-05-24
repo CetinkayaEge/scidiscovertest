@@ -1,0 +1,9 @@
+Title: A Novel Monopulse Technique for Adaptive Phased Array Radar
+Authors: Xinyu Zhang, Yang Li, Xiaopeng Yang, Le Zheng, Teng Long, Christopher J. Baker
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010116
+Paper ID: pmc_PMC5298689
+
+Abstract:
+The monopulse angle measuring technique is widely adopted in radar systems due to its simplicity and speed in accurately acquiring a target’s angle. However, in a spatial adaptive array, beam distortion, due to adaptive beamforming, can result in serious deterioration of monopulse performance. In this paper, a novel constrained monopulse angle measuring algorithm is proposed for spatial adaptive arrays. This algorithm maintains the ability to suppress the unwanted signals without suffering from beam distortion. Compared with conventional adaptive monopulse methods, the proposed algorithm adopts a new form of constraint in forming the difference beam with the merit that it is more robust in most practical situations. At the same time, it also exhibits the simplicity of one-dimension monopulse, helping to make this algorithm even more appealing to use in adaptive planar arrays. The theoretical mean and variance of the proposed monopulse estimator is derived for theoretical analysis. Mathematical simulations are formulated to demonstrate the effectiveness and advantages of the proposed algorithm. Both theoretical analysis and simulation results show that the proposed algorithm can outperform the conventional adaptive monopulse methods in the presence of severe interference near the mainlobe.

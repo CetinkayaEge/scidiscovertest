@@ -1,0 +1,9 @@
+Title: Voltage Control Strategy for Energy Storage System in Sustainable Distribution System Operation
+Authors: Yue Zhang, Anurag K. Srivastava
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14040832
+Paper ID: https://openalex.org/W3126661236
+
+Abstract:
+Due to the increasing penetration of distributed energy resources (DERs) required for the sustainable distribution system, new voltage control strategy is needed by utilities. Traditional voltage control strategy can not support the increasing number of DERs in a coordinated and scalable manner to meet the operational voltage regulation requirement. Supported by the power electronics converter, the energy storage system can provide fast, smooth, and flexible voltage control services. In this paper, an effective and easy to implement sensitivity-based voltage control strategy is developed for the energy storage system. The developed control strategy is validated using an industrial feeder data in Northwest Washington. The proposed strategy can mitigate the voltage unbalance issue, improve the voltage profile, and correct power factors while supporting sustainable distribution system operation.

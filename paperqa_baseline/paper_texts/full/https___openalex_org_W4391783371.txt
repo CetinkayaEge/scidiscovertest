@@ -1,0 +1,9 @@
+Title: A clean and sustainable method for recycling of lithium from spent lithium iron phosphate battery powder by using formic acid and oxygen
+Authors: Tianyu Zhao, Harshit Mahandra, Yeonuk Choi, Weilun Li, Zhifei Zhang, Zhongwei Zhao, Ailiang Chen
+Year: 2024
+Venue: The Science of The Total Environment
+DOI: https://doi.org/10.1016/j.scitotenv.2024.170930
+Paper ID: https://openalex.org/W4391783371
+
+Abstract:
+O system. Results demonstrate that under conditions of 2.5 mol/L formic acid concentration, 0.12 L/min oxygen flow rate, 25 mL/g liquid-to-solid ratio, 70 °C reaction temperature, and 3 h reaction time, lithium leaching efficiency exceeds 99.9 %, with iron leaching efficiency only at 1.7 %. Moreover, we also explored using air instead of oxygen as the oxidant and get the excellent lithium leaching rate (97.81 %) and low iron leaching rate (4.81 %), which shows the outstanding selectivity. Furthermore, the environmentally benign composition of the chemical reagents, comprising only C, H, and O elements, establishes it as a genuinely green and sustainable technology for secondary resource recovery. It can be considered as a highly environmentally friendly, cost-effective, and efficient approach. Nevertheless, in the current context of carbon neutrality and sustainable development, this method undoubtedly holds excellent prospects for industrialization.

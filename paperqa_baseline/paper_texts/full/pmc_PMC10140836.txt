@@ -1,0 +1,9 @@
+Title: Binding Parameters of [ 11 C]MPC-6827, a Microtubule-Imaging PET Radiopharmaceutical in Rodents
+Authors: Avinash H. Bansode, Bhuvanachandra Bhoopal, Krishna Kumar Gollapelli, Naresh Damuka, Ivan Krizan, Mack Miller, Suzanne Craft, Akiva Mintz, Kiran Kumar Solingapuram Sai
+Year: 2023
+Venue: Pharmaceuticals
+DOI: 10.3390/ph16040495
+Paper ID: pmc_PMC10140836
+
+Abstract:
+Impairment and/or destabilization of neuronal microtubules (MTs) resulting from hyper-phosphorylation of the tau proteins is implicated in many pathologies, including Alzheimer’s disease (AD), Parkinson’s disease and other neurological disorders. Increasing scientific evidence indicates that MT-stabilizing agents protect against the deleterious effects of neurodegeneration in treating AD. To quantify these protective benefits, we developed the first brain-penetrant PET radiopharmaceutical, [ 11 C]MPC-6827, for in vivo quantification of MTs in rodent and nonhuman primate models of AD. Mechanistic insights revealed from recently reported studies confirm the radiopharmaceutical’s high selectivity for destabilized MTs. To further translate it to clinical settings, its metabolic stability and pharmacokinetic parameters must be determined. Here, we report in vivo plasma and brain metabolism studies establishing the radiopharmaceutical-binding constants of [ 11 C]MPC-6827. Binding constants were extrapolated from autoradiography experiments; pretreatment with a nonradioactive MPC-6827 decreased the brain uptake >70%. It exhibited ideal binding characteristics (typical of a CNS radiopharmaceutical) including LogP (2.9), K d (15.59 nM), and B max (11.86 fmol/mg). Most important, [ 11 C]MPC-6827 showed high serum and metabolic stability (>95%) in rat plasma and brain samples.

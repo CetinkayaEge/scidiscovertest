@@ -1,0 +1,9 @@
+Title: Green IoT: sustainability environment and technologies
+Authors: Belma Memić, Adisa Hasković Džubur, Elma Avdagić-Golub
+Year: 2022
+Venue: Science Engineering and Technology
+DOI: https://doi.org/10.54327/set2022/v2.i1.25
+Paper ID: https://openalex.org/W4280503421
+
+Abstract:
+The Internet of Things (IoT) connects everyone in the smart world, so the energy consumption of IoT technology is a challenging and attractive research area. The development of technology in the field of IoT has changed the way of life and enriched society with its benefits, but we must not ignore the fact that IoT consumes energy, contributes to toxic pollution, and generates electrical waste. To increase the benefits and reduce the harmfulness of IoT, there are increasing tendencies to move towards green IoT (G-IoT). The G-IoT is considered the future environmentally friendly IoT. Greening ICT technology plays a key role in G-IoT and promises many benefits to society such as efficient production, and reducing the energy used to design and distribute ICT devices and equipment. This paper will present a comprehensive overview of G-IoT technologies and strategies that demonstrate work and efforts to build a green and smart world, contributing to a safe and healthy environment, smart and high quality of life based on enabling technologies, reducing pollution, and reducing energy consumption. ICT technologies that enable G-IoT include Green RFID, Green Wireless Sensor Network (GWSN), Green Cloud Computing (GCC), Green M2M (G-M2M), and Green Data Center (GDC). The paper will also present an analysis of the importance of environmental technology processes in sustainable development, exploring the principles and roles of G-IoT in the progress of society through examining its potential for improving quality of life, environment, economic growth, and green global modernization.

@@ -1,0 +1,9 @@
+Title: Do Green Bonds Play a Role in Achieving Sustainability?
+Authors: Muhammad Alamgir, Ming‐Chang Cheng
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151310177
+Paper ID: https://openalex.org/W4382403076
+
+Abstract:
+Green bonds play a pivotal role in promoting sustainability by channeling financial resources towards environmentally friendly projects, fostering a greener and more resilient future. This research investigates the role of “Green Bonds” in the attainment of Sustainable Development Goals (SDGs), focusing on two specific goals: climate action, represented by per capita carbon emissions (CO2), and clean energy, represented by per capita renewable energy production. Using data from 2007, when the first green bond was issued, up to 2021, we employed a one-step generalized method of moments (GMM) model to explore how green bonds impact global emission reduction and the increase in renewable energy production. The findings demonstrate that green bonds have a significant influence on both emissions and renewable energy production. Specifically, green bonds and renewable energy production have a positive and significant association, while emissions exhibit a negative relationship with green bonds. Our results reported a reduction in carbon emissions up to 0.8 tons, while an increase in renewable energy up to 66 kWh. Upon analyzing the data before and after 2015, we observe that prior to 2015, there was no significant effect of green bonds on emissions and renewable energy production. However, after 2015, green bonds substantially impacted both indicators. Furthermore, our results indicate that countries with higher green bond issuance are more likely to achieve their sustainability goals, particularly in terms of renewable energy production and carbon emission reductions. Conversely, countries with lower green bond issuance are struggling to attain their sustainability objectives in these areas.

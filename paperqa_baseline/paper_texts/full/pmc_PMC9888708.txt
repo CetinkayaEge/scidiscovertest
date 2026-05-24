@@ -1,0 +1,9 @@
+Title: 222 nm far-UVC efficiently introduces nerve damage in Caenorhabditis elegans
+Authors: Kaoru Okamoto Yoshiyama, Norihiko L. Okamoto, Jun Hidema, Atsushi Higashitani
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0281162
+Paper ID: pmc_PMC9888708
+
+Abstract:
+Far-ultraviolet radiation C light (far-UVC; 222 nm wavelength) has received attention as a safer light for killing pathogenic bacteria and viruses, as no or little DNA damage is observed after irradiation in mammalian skin models. Far-UVC does not penetrate deeply into tissues; therefore, it cannot reach the underlying critical basal cells. However, it was unclear whether far-UVC (222-UVC) irradiation could cause more biological damage at shallower depths than the 254 nm UVC irradiation (254-UVC), which penetrates more deeply. This study investigated the biological effects of 222- and 254-UVC on the small and transparent model organism Caenorhabditis elegans . At the same energy level of irradiation, 222-UVC introduced slightly less cyclobutane pyrimidine dimer damage to naked DNA in solution than 254-UVC. The survival of eggs laid during 0–4 h after irradiation showed a marked decrease with 254-UVC but not 222-UVC. In addition, defect of chromosomal condensation was observed in a full-grown oocyte by 254-UVC irradiation. In contrast, 222-UVC had a significant effect on the loss of motility of C . elegans . The sensory nervous system, which includes dopamine CEP and PVD neurons on the body surface, was severely damaged by 222-UVC, but not by the same dose of 254-UVC. Interestingly, increasing 254-UVC irradiation by about 10-fold causes similar damage to CEP neurons. These results suggest that 222-UVC is less penetrating, so energy transfer occurs more effectively in tissues near the surface, causing more severe damage than 254-UVC.

@@ -1,0 +1,9 @@
+Title: Sustainable silicon anodes facilitated via a double‐layer interface engineering: Inner SiOx combined with outer nitrogen and boron co‐doped carbon
+Authors: Jun Zhou, Yao Lu, Lishan Yang, Wenqiang Zhu, Weifang Liu, Yahui Yang, Kaiyu Liu
+Year: 2022
+Venue: Carbon Energy
+DOI: https://doi.org/10.1002/cey2.176
+Paper ID: https://openalex.org/W4210590128
+
+Abstract:
+Abstract Silicon‐based (Si) materials are promising anodes for lithium‐ion batteries (LIBs) because of their ultrahigh theoretical capacity of 4200 mA h g −1 . However, commercial applications of Si anodes have been hindered by their drastic volume variation (∼300%) and low electrical conductivity. Here, to tackle the drawbacks, a hierarchical Si anode with double‐layer coatings of a SiO x inner layer and a nitrogen (N), boron (B) co‐doped carbon (C–NB) outer layer is elaborately designed by copyrolysis of Si–OH structures and a H 3 BO 3 ‐doped polyaniline polymer on the Si surface. Compared with the pristine Si anodes (7 mA h g −1 at 0.5 A g −1 after 340 cycles and 340 mA h g −1 at 5 A g −1 ), the modified Si‐based materials (Si@SiO x @C–NB nanospheres) present superior cycling stability (reversible 1301 mA h g −1 at 0.5 A g −1 after 340 cycles) as well as excellent rate capability (690 mA h g −1 at 5 A g −1 ) when used as anodes in LIBs. The unique double‐layer coating structure, in which the inner amorphous SiO x layer acts as a buffer matrix and the outer defect‐rich carbon enhances the electron diffusion of the whole anode, makes it possible to deliver excellent electrochemical properties. These results indicate that our double‐layer coating strategy is a promising approach not only for the development of sustainable Si anodes but also for the design of multielement‐doped carbon nanomaterials.

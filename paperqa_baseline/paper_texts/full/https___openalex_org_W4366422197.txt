@@ -1,0 +1,9 @@
+Title: Sustainable smart product-service systems: a causal logic framework for impact design
+Authors: Lena Ries, Markus Beckmann, Peter Wehnert
+Year: 2023
+Venue: Journal of Business Economics
+DOI: https://doi.org/10.1007/s11573-023-01154-8
+Paper ID: https://openalex.org/W4366422197
+
+Abstract:
+Abstract Digital technologies can elevate product-service systems (PSS) to smart PSS, which focus on performance rather than ownership and are considered a means for dematerialization. However, transitioning to smart PSS does not guarantee sustainability. To understand the impact of smart PSS holistically, we take a two-pronged approach. First, we use the theory of change to conceptualize the causal link between sustainable smart PSS and their ultimate impact. We develop a three-step causal logic framework consisting of design, causation, and impact. Within this framework, we identify the business model properties of sustainable smart PSS as design characteristics and categorize the eventual impacts based on the triple bottom line. We introduce the term multi-causal pathway to describe the causation processes underlining the possibility of non-linearity and multi-causality. Second, we conduct a systematic literature review to investigate the mechanisms linking design and impact. Based on an analysis of 63 publications, we identify 17 specific mechanisms and group them into four types: information, resource, empowerment, and adverse mechanisms. Visualizing our results, we develop a morphological box as a toolkit for managers to develop their own impact-oriented logic model by identifying and activating the multi-causal pathway that fosters the desired sustainability effects. Moreover, discussing our framework, we develop research propositions and managerial questions for impact design. By linking the theory of change with the business model impact, we contribute toward a conceptual synthesis for understanding the impact of (sustainable) smart PSS.

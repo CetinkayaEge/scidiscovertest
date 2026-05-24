@@ -1,0 +1,9 @@
+Title: Tinengotinib (TT-00420), a Novel Spectrum-Selective Small-Molecule Kinase Inhibitor, Is Highly Active Against Triple-Negative Breast Cancer
+Authors: Peng Peng, Xiaoyan Qiang, Guoyu Li, Lin Li, Shumao Ni, Qi Yu, Laura Sourd, Elisabetta Marangoni, Chao Hu, Dong Wang, Di Wu, Frank Wu
+Year: 2023
+Venue: Molecular Cancer Therapeutics
+DOI: 10.1158/1535-7163.MCT-22-0012
+Paper ID: pmc_PMC9890131
+
+Abstract:
+Abstract Triple-negative breast cancer (TNBC) is a highly heterogeneous cancer lacking actionable targets. Using a phenotypic screen of TNBC cells, we discovered a novel multiple kinase inhibitor tinengotinib (TT-00420) that strongly inhibited Aurora A/B, FGFR1/2/3, VEGFRs, JAK1/2, and CSF1R in biochemical assays. Exposure to tinengotinib specifically inhibited proliferation across all subtypes of TNBC in vitro and in vivo , while leaving luminal breast cancer cells intact. Incubation of HCC1806 with tinengotinib led to dose-dependent downregulation of genes essential for TNBC cell growth and proliferation. Studies revealed that the potential mechanism of action of tinengotinib involved, predominantly, inhibition of Aurora A or B kinase activity, while inhibition of other pathways contributed to suppression of potency and activity. In vitro treatment of TNBC cell lines or in vivo administration in a syngeneic model with tinengotinib resulted in up-regulation of CXCL10 and 11 or diminished tumor-associated macrophage (TAM) infiltration. Tinengotinib represents a novel combinatorial inhibitory mechanism to treat TNBC. The phase I trial of tinengotinib was completed (ClinicalTrials.gov identifier: NCT03654547 ).

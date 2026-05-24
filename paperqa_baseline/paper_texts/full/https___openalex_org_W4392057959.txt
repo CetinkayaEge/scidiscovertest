@@ -1,0 +1,9 @@
+Title: Blood–brain barrier disruption and sustained systemic inflammation in individuals with long COVID-associated cognitive impairment
+Authors: Chris Greene, Ruairi Connolly, Declan Brennan, Aoife Laffan, Eoin O’Keeffe, Lilia Zaporojan, Jeffrey O’Callaghan, Bennett Thomson, Emma Connolly, Ruth Argue, James F. Meaney, Ignacio Martín‐Loeches, Aideen Long, Clíona Ní Cheallaigh, Niall Conlon, Colin P. Doherty, Matthew Campbell
+Year: 2024
+Venue: Nature Neuroscience
+DOI: https://doi.org/10.1038/s41593-024-01576-9
+Paper ID: https://openalex.org/W4392057959
+
+Abstract:
+Vascular disruption has been implicated in coronavirus disease 2019 (COVID-19) pathogenesis and may predispose to the neurological sequelae associated with long COVID, yet it is unclear how blood-brain barrier (BBB) function is affected in these conditions. Here we show that BBB disruption is evident during acute infection and in patients with long COVID with cognitive impairment, commonly referred to as brain fog. Using dynamic contrast-enhanced magnetic resonance imaging, we show BBB disruption in patients with long COVID-associated brain fog. Transcriptomic analysis of peripheral blood mononuclear cells revealed dysregulation of the coagulation system and a dampened adaptive immune response in individuals with brain fog. Accordingly, peripheral blood mononuclear cells showed increased adhesion to human brain endothelial cells in vitro, while exposure of brain endothelial cells to serum from patients with long COVID induced expression of inflammatory markers. Together, our data suggest that sustained systemic inflammation and persistent localized BBB dysfunction is a key feature of long COVID-associated brain fog.

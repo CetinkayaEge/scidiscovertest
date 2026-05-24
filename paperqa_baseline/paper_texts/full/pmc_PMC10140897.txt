@@ -1,0 +1,9 @@
+Title: Engineering and Implementation of Synthetic Molecular Tools in the Basidiomycete Fungus Ustilago maydis
+Authors: Nicole Heucken, Kun Tang, Lisa Hüsemann, Natascha Heßler, Kira Müntjes, Michael Feldbrügge, Vera Göhre, Matias D. Zurbriggen
+Year: 2023
+Venue: Journal of Fungi
+DOI: 10.3390/jof9040480
+Paper ID: pmc_PMC10140897
+
+Abstract:
+The basidiomycete Ustilago maydis is a well-characterized model organism for studying pathogen–host interactions and of great interest for a broad spectrum of biotechnological applications. To facilitate research and enable applications, in this study, three luminescence-based and one enzymatic quantitative reporter were implemented and characterized. Several dual-reporter constructs were generated for ratiometric normalization that can be used as a fast-screening platform for reporter gene expression, applicable to in vitro and in vivo detection. Furthermore, synthetic bidirectional promoters that enable bicisitronic expression for gene expression studies and engineering strategies were constructed and implemented. These noninvasive, quantitative reporters and expression tools will significantly widen the application range of biotechnology in U. maydis and enable the in planta detection of fungal infection.

@@ -1,0 +1,9 @@
+Title: A systematic review on MIVES: A sustainability-oriented multi-criteria decision-making method
+Authors: David Boix‐Cots, Francesc Pardo-Bosch, Ana Blanco, Antonio Aguado, Pablo Pujadas
+Year: 2022
+Venue: Building and Environment
+DOI: https://doi.org/10.1016/j.buildenv.2022.109515
+Paper ID: https://openalex.org/W4292683813
+
+Abstract:
+Sustainability has practically become a mandatory concept to be considered in every decision, and multiple decision-making methods have been adapted to take it into account. Among them, sustainability centred methods are also known as sustainability assessments, which provides sustainability indexes to select and prioritize alternatives. One of these most recent presented techniques is MIVES, a multi attribute utility theory multi-criteria decision-making value function-based method initially developed to introduce environmental and social indicators in civil engineering design decisions and later adapted for general evaluation and prioritization of homogenous and heterogeneous alternatives. Over the last decade, it has been widely studied and applied to specific situations, but a MIVES summary is currently lacking. Therefore, in this paper MIVES literature is reviewed with a deep bibliometric analysis carried out to provide on multiple data about MIVES state-of-the-art. Furthermore, a thematic clusters categorisation is done to reveal the usefulness of MIVES as design and decision-making tool, cataloguing the wide applications of MIVES as sustainability index. Finally, a MIVES characteristics discussion is carried out to help researchers deepen their knowledge towards the method and highlight potential future research pathways.

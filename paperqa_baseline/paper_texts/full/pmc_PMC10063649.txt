@@ -1,0 +1,9 @@
+Title: Refining the time–frequency characteristic of non-stationary signal for improving time–frequency representation under variable speeds
+Authors: Yi Liu, Hang Xiang, Zhansi Jiang, Jiawei Xiang
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-32333-w
+Paper ID: pmc_PMC10063649
+
+Abstract:
+Time–frequency ridge not only exhibits the variable process of non-stationary signal with time changing but also provides the information of signal synchronous or non-synchronous components for subsequent detection research. Consequently, the key is to decrease the error between real and estimated ridge in the time–frequency domain for accurate detection. In this article, an adaptive weighted smooth model is presented as a post-processing tool to refine the time–frequency ridge which is based on the coarse estimated time–frequency ridge using newly emerging time–frequency methods. Firstly, the coarse ridge is estimated by using multi-synchrosqueezing transform for vibration signal under variable speed conditions. Secondly, an adaptive weighted method is applied to enhance the large time–frequency energy value location of the estimated ridge. Then, the reasonable smooth regularization parameter associated with the vibration signal is constructed. Thirdly, the majorization–minimization method is developed for solving the adaptive weighted smooth model. Finally, the refined time–frequency characteristic is obtained by utilizing the stop criterion of the optimization model. Simulation and experimental signals are given to validate the performance of the proposed method by average absolute errors. Compared with other methods, the proposed method has the highest performance in refinement accuracy.

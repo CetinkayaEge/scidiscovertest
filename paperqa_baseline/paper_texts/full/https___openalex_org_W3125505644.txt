@@ -1,0 +1,9 @@
+Title: Sustainable Design and Prototyping Using Digital Fabrication Tools for Education
+Authors: Sohail Ahmed Soomro, Hernán Casakin, Georgi V. Georgiev
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031196
+Paper ID: https://openalex.org/W3125505644
+
+Abstract:
+Prototyping physical artifacts is a fundamental activity for both product development in industrial and engineering design domains and the development of digital fabrication skills. Prototyping is also essential for human-centric problem-solving in design education. Digital fabrication assists in rapid prototype development through computer-aided design and manufacturing tools. Due to the spread of makerspaces like fabrication laboratories (FabLabs) around the world, the use of digital fabrication tools for prototyping in educational institutes is becoming increasingly common. Studies on the social, environmental, and economic sustainability of digital fabrication have been carried out. However, none of them focus on sustainability and prototyping-based digital fabrication tools or design education. To bridge this research gap, a conceptual framework for sustainable prototyping based on a five-stage design thinking model is proposed. The framework, which is based on a comprehensive literature review of social, economic, and environmental sustainability factors of digital fabrication, is applied to evaluate a prototyping process that took place in a FabLab in an education context aimed at enhancing sustainability. Three case studies are used to evaluate the proposed framework. Based on the findings, recommendations are presented for sustainable prototyping using digital fabrication tools.

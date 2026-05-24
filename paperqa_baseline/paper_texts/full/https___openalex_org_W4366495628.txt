@@ -1,0 +1,9 @@
+Title: The role of innovation in environmental-related technologies and institutional quality to drive environmental sustainability
+Authors: Mohsin Shabir, Iftikhar Hussain, Özcan Işık, Kamran Razzaq, Iqra Mehroush
+Year: 2023
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2023.1174827
+Paper ID: https://openalex.org/W4366495628
+
+Abstract:
+In this study, we examine the long-run effect of environmental-related technological innovation, institutional quality, trade openness, energy consumption, and economic growth on CO2 emissions in APEC countries from 2004 to 2018. Firstly, panel unit root tests were used to explore the stationarity of each data series. The panel unit root test findings showed that all data series are stationary at the first difference. Second, the Westerlund panel cointegration test was used to deal with heterogeneity and cross-sectional dependence. Thirdly, the empirical findings from the augmented mean group (AMG) and common correlated effects mean group (CCEMG) estimators indicate that environmental-related technological innovation and institutional quality destructively affect CO2 emissions. In contrast, trade openness, energy consumption, and economic growth positively impact CO2 emissions. While causality analysis refers to the unidirectional causality runs from trade openness, energy consumption to CO2 emission and bidirectional causality relationships are between technological innovation, institutional quality, GDP, CO2 emission. Based on the findings, we proposed that APEC countries should raise investment in environmental-related technological innovation and improve the quality of the institutional environment to achieve sustainable development targets.

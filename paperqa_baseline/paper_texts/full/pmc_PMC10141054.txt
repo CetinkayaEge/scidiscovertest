@@ -1,0 +1,9 @@
+Title: Characterization of Flow Behaviors by a PSO-BP Integrated Model for a Medium Carbon Alloy Steel
+Authors: Guozheng Quan, Yu Zhang, Sheng Lei, Wei Xiong
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16082982
+Paper ID: pmc_PMC10141054
+
+Abstract:
+In order to characterize the flow behaviors of SAE 5137H steel, isothermal compression tests at the temperatures of 1123 K, 1213 K, 1303 K, 1393 K, and 1483 K, and the strain rates of 0.01 s −1 , 0.1 s −1 , 1 s −1 , and 10 s −1 were performed using a Gleeble 3500 thermo-mechanical simulator. The analysis results of true stress-strain curves show that the flow stress decreases with temperature increasing and strain rate decreasing. In order to accurately and efficiently characterize the complex flow behaviors, the intelligent learning method backpropagation–artificial neural network (BP-ANN) was combined with the particle swarm optimization (PSO), namely, the PSO-BP integrated model. Detailed comparisons of the semi-physical model with improved Arrhenius-Type, BP-ANN, and PSO-BP integrated model for the flow behaviors of SAE 5137H steel in terms of generative ability, predictive ability, and modeling efficiency were presented. The comparison results show that the PSO-BP integrated model has the best comprehensive ability, BP-ANN is the second, and semi-physical model with improved Arrhenius-Type is the lowest. It indicates that the PSO-BP integrated model can accurately describe the flow behaviors of SAE 5137H steel.

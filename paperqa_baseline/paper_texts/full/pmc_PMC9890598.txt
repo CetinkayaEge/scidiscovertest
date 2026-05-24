@@ -1,0 +1,9 @@
+Title: Direct fabrication of NbS 2 nanoflakes on carbon fibers by atomic layer deposition for ultrasensitive cardiac troponin I detection †
+Authors: Yazhou Huang, Yunfei Zhang, Junyan Lv, Yinfeng Shao, Dongfang Yang, Yuan Cong
+Year: 2023
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00827k
+Paper ID: pmc_PMC9890598
+
+Abstract:
+The sensitive detection of cardiac troponin I (cTnI) is of great significance for the early diagnosis of acute myocardial infarction (AMI). Herein, in order to fabricate an electrochemical biosensor for ultrasensitive cTnI detection, atomic layer deposition (ALD) was employed to directly deposit NbS 2 nanoflakes (NFs) on carbon fiber paper (CFP). Due to the self-limiting reaction of ALD, NbS 2 NFs were deposited uniformly and accurately on the surface of carbon fibers by controlling the number of ALD cycles, which ensured ultrasensitive detection. Precise regulation of the nanoscale morphology and electrochemical performance of NbS 2 nanoflakes via ALD cycles was observed in depth. Owing to the high surface area and conductivity, an anodic/cathodic current of ∼3.01 mA of NbS 2 NFs/CFP can be obtained. Subsequently, an electrochemical biosensor based on the excellent performance of NbS 2 NFs/CFP was fabricated. The ultrasensitive detection of cTnI in a linear range of 1 fM to 0.1 nM with a detection limit of 0.32 fM was achieved. NbS 2 nanoflakes were constructed by atomic layer deposition on carbon fiber paper. A biosensor based on NbS 2 NFs for acute myocardial infarction (AMI)-related cTnI detection was fabricated.

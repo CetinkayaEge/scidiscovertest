@@ -1,0 +1,9 @@
+Title: PolyRound: polytope rounding for random sampling in metabolic networks
+Authors: Axel Theorell, Johann F Jadebeck, Katharina Nöh, Jörg Stelling
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab552
+Paper ID: pmc_PMC8723145
+
+Abstract:
+Abstract Summary Random flux sampling is a powerful tool for the constraint-based analysis of metabolic networks. The most efficient sampling method relies on a rounding transform of the constraint polytope, but no available rounding implementation can round all relevant models. By removing redundant polytope constraints on the go, PolyRound simplifies the numerical problem and rounds all the 108 models in the BiGG database without parameter tuning, compared to ∼50% for the state-of-the-art implementation. Availability and implementation The implementation is available on gitlab: https://gitlab.com/csb.ethz/PolyRound . Supplementary information Supplementary data are available at Bioinformatics online.

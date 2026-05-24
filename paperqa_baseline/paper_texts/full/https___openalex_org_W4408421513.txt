@@ -1,0 +1,9 @@
+Title: AI-driven transformation in food manufacturing: a pathway to sustainable efficiency and quality assurance
+Authors: Kushagra Agrawal, Polat Goktas, Maike Holtkemper, Christian Beecks, Navneet Kumar
+Year: 2025
+Venue: Frontiers in Nutrition
+DOI: https://doi.org/10.3389/fnut.2025.1553942
+Paper ID: https://openalex.org/W4408421513
+
+Abstract:
+This study aims to explore the transformative role of Artificial Intelligence (AI) in food manufacturing by optimizing production, reducing waste, and enhancing sustainability. This review follows a literature review approach, synthesizing findings from peer-reviewed studies published between 2019 and 2024. A structured methodology was employed, including database searches and inclusion/exclusion criteria to assess AI applications in food manufacturing. By leveraging predictive analytics, real-time monitoring, and computer vision, AI streamlines workflows, minimizes environmental footprints, and ensures product consistency. The study examines AI-driven solutions for waste reduction through data-driven modeling and circular economy practices, aligning the industry with global sustainability goals. Additionally, it identifies key barriers to AI adoption-including infrastructure limitations, ethical concerns, and economic constraints-and proposes strategies for overcoming them. The findings highlight the necessity of cross-sector collaboration among industry stakeholders, policymakers, and technology developers to fully harness AI's potential in building a resilient and sustainable food manufacturing ecosystem.

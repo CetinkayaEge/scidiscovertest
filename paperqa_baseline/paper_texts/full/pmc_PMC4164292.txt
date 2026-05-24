@@ -1,0 +1,9 @@
+Title: Antiangiogenic cancer drug sunitinib exhibits unexpected proangiogenic effects on endothelial cells
+Authors: Kerri-Ann Norton, Zheyi Han, Aleksander S Popel, Niranjan B Pandey
+Year: 2014
+Venue: OncoTargets and therapy
+DOI: 10.2147/OTT.S65055
+Paper ID: pmc_PMC4164292
+
+Abstract:
+Angiogenesis, the formation of new blood vessels, is an essential step for cancer progression, but antiangiogenic therapies have shown limited success. Therefore, a better understanding of the effects of antiangiogenic treatments on endothelial cells is necessary. In this study, we evaluate the changes in cell surface vascular endothelial growth factor receptor (VEGFR) expression on endothelial cells in culture treated with the antiangiogenic tyrosine kinase inhibitor drug sunitinib, using quantitative flow cytometry. We find that proangiogenic VEGFR2 cell surface receptor numbers are increased with sunitinib treatment. This proangiogenic effect might account for the limited effects of sunitinib as a cancer therapy. We also find that this increase is inhibited by brefeldin A, an inhibitor of protein transport from the endoplasmic reticulum to the Golgi apparatus. The complex dynamics of cell surface VEGFRs may be important for successful treatment of cancer with antiangiogenic therapeutics.

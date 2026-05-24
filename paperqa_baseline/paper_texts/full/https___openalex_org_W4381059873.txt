@@ -1,0 +1,9 @@
+Title: The impact of urban digital transformation on resource sustainability: Evidence from a quasi-natural experiment in China
+Authors: Zhengyu Jiang, Xinyi Zhang, Yingzhi Zhao, Chengming Li, Zeyu Wang
+Year: 2023
+Venue: Resources Policy
+DOI: https://doi.org/10.1016/j.resourpol.2023.103784
+Paper ID: https://openalex.org/W4381059873
+
+Abstract:
+Currently, advancing digital economy and resource crisis occur simultaneously in several countries. Whether digital transformation can improve resource sustainability , particularly energy sustainability, is an urgent problem for governments. We used panel data from 230 prefecture-level cities in China from 2006-2019 to assess the impact of urban digital transformation strategies represented by smart cities on urban resource sustainability using the difference-in-difference (DID) model. The results show that urban digital transformation significantly enhances urban resource sustainability, which still holds after passing robustness tests. The mechanism analyses indicate that urban digital transformation can promote resource sustainability through technological innovation, structural transformation, and capital reallocation. Further analysis reveals that implementing urban digital transformation in eastern, non-resource-based cities and cities with unreasonable industrial structures has a more favourable effect on resource sustainability. This paper provides an empirical basis for the urban digital transformation to empower green urban recovery and low-carbon development by promoting sustainable resources. • Urban digital transformation significantly enhances resource sustainability. • Technical innovation, structural transition, and capital allocation are the channel. • The effect is more in eastern, non-resource-based cities. • The effect is more in cities with unreasonable industrial structures.

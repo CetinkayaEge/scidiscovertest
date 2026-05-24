@@ -1,0 +1,9 @@
+Title: A survey on the use of association rules mining techniques in textual social media
+Authors: Jose A. Diaz-Garcia, M. Dolores Ruiz, Maria J. Martin-Bautista
+Year: 2022
+Venue: Artificial Intelligence Review
+DOI: 10.1007/s10462-022-10196-3
+Paper ID: pmc_PMC9096767
+
+Abstract:
+The incursion of social media in our lives has been much accentuated in the last decade. This has led to a multiplication of data mining tools aimed at obtaining knowledge from these data sources. One of the greatest challenges in this area is to be able to obtain this knowledge without the need for training processes, which requires structured information and pre-labelled datasets. This is where unsupervised data mining techniques come in. These techniques can obtain value from these unstructured and unlabelled data, providing very interesting solutions to enhance the decision-making process. In this paper, we first address the problem of social media mining, as well as the need for unsupervised techniques, in particular association rules, for its treatment. We follow with a broad overview of the applications of association rules in the domain of social media mining, specifically, their application to the problems of mining textual entities, such as tweets. We also focus on the strengths and weaknesses of using association rules for solving different tasks in textual social media. Finally, the paper provides a perspective overview of the challenges that association rules must face in the next decade within the field of social media mining.

@@ -1,0 +1,9 @@
+Title: Sustainable Additive Manufacturing: Mechanical Response of Polyethylene Terephthalate Glycol over Multiple Recycling Processes
+Authors: Nectarios Vidakis, Markos Petousis, Lazaros Tzounis, Sotirios Grammatikos, Emmanouil Porfyrakis, Athena Maniadi, Nikolaos Mountakis
+Year: 2021
+Venue: Materials
+DOI: https://doi.org/10.3390/ma14051162
+Paper ID: https://openalex.org/W3135585089
+
+Abstract:
+The continuous demand for thermoplastic polymers in a great variety of applications, combined with an urgent need to minimize the quantity of waste for a balanced energy-from-waste strategy, has led to increasing scientific interest in developing new recycling processes for plastic products. Glycol-modified polyethylene terephthalate (PETG) is known to have some enhanced properties as compared to polyethylene terephthalate (PET) homopolymer; this has recently attracted the interest from the fused filament fabrication (FFF) three-dimensional (3D) printing community. PET has shown a reduced ability for repeated recycling through traditional processes. Herein, we demonstrate the potential for using recycled PETG in consecutive 3D printing manufacturing processes. Distributed recycling additive manufacturing (DRAM)-oriented equipment was chosen in order to test the mechanical and thermal response of PETG material in continuous recycling processes. Tensile, flexure, impact strength, and Vickers micro-hardness tests were carried out for six (6) cycles of recycling. Finally, Raman spectroscopy as well as thermal and morphological analyses via scanning electron microscopy (SEM) fractography were carried out. In general, the results revealed a minor knockdown effect on the mechanical properties as well as the thermal properties of PETG following the process proposed herein, even after six rounds of recycling.

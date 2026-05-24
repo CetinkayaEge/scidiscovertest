@@ -1,0 +1,9 @@
+Title: Systematic literature review on collaborative sustainable transportation: overview, analysis and perspectives
+Authors: Aymen Aloui, Nadia Hamani, Ridha Derrouiche, Laurent Delahoche
+Year: 2021
+Venue: Transportation Research Interdisciplinary Perspectives
+DOI: https://doi.org/10.1016/j.trip.2020.100291
+Paper ID: https://openalex.org/W3118670456
+
+Abstract:
+In the last few years, competitiveness, problems of globalization and concerns about sustainability require new approaches and models for the planning of transport networks. Horizontal logistics cooperation has been considered an emerging and innovative approach in the design and management of sustainable supply chains. This approach is based on the sharing of resources between actors at the same level in different supply chains. This study provides a Systematic Literature Review (SLR) about sustainability and collaboration in the freight transport sector. It aims to analyze the existing literature in order to reveal the studies already conducted and to identify gaps and opportunities for future research. A total of 89 articles have been published between 2010 and 2020 which have been examined. The results show that the integration of these three dimensions of sustainable development in the field of collaborative network optimization, especially the social considerations have been little studied. In addition, the analysis shows that most of the authors have focused their research on transport optimization at the operational level, with few works on the problem of designing and managing the integrated supply chain.

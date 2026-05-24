@@ -1,0 +1,9 @@
+Title: Probing the electronic transport on the reconstructed Au/Ge(001) surface
+Authors: Franciszek Krok, Mark R Kaspers, Alexander M Bernhart, Marek Nikiel, Benedykt R Jany, Paulina Indyka, Mateusz Wojtaszek, Rolf Möller, Christian A Bobisch
+Year: 2014
+Venue: Beilstein Journal of Nanotechnology
+DOI: 10.3762/bjnano.5.159
+Paper ID: pmc_PMC4168858
+
+Abstract:
+By using scanning tunnelling potentiometry we characterized the lateral variation of the electrochemical potential µ ec on the gold-induced Ge(001)-c(8 × 2)-Au surface reconstruction while a lateral current flows through the sample. On the reconstruction and across domain boundaries we find that µ ec shows a constant gradient as a function of the position between the contacts. In addition, nanoscale Au clusters on the surface do not show an electronic coupling to the gold-induced surface reconstruction. In combination with high resolution scanning electron microscopy and transmission electron microscopy, we conclude that an additional transport channel buried about 2 nm underneath the surface represents a major transport channel for electrons.

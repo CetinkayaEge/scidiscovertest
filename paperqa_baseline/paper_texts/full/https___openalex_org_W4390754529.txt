@@ -1,0 +1,9 @@
+Title: Designing sustainable porous graphene-CaTiO3 nanocomposite for environmental remediation
+Authors: D. Krishna Bhat, Harsha Bantawal, P.I. Uma, S. Pavan Kumar, U. Sandhya Shenoy
+Year: 2024
+Venue: Sustainable Chemistry for the Environment
+DOI: https://doi.org/10.1016/j.scenv.2024.100071
+Paper ID: https://openalex.org/W4390754529
+
+Abstract:
+In the pursuit of sustainable energy and environmental solutions, photocatalysis has emerged as a transformative technology, harnessing the power of light to drive chemical transformations. Among the myriad photocatalytic materials, calcium titanate (CaTiO3) stands out as a promising candidate, holding the potential to revolutionize the landscape of photocatalysis. To further improvise the efficiency of CaTiO3 in this work, porous graphene-CaTiO3 nanocomposite was synthesized by a straightforward solvothermal method and its photocatalytic activity was tested for the degradation of methylene blue dye under visible light. The synthesized sample exhibited 98.1% degradation in 40 minutes with excellent cyclic stability. Experimental and computational analysis attributed the enhanced performance to the strong chemical interaction of CaTiO3 cuboids with PG sheets via Ti-O-C bond which led to efficient electron hole separation leading to enhanced lifetime of the charge carriers. This along with reduced band gap and increased surface area made the material a potent photocatalyst for the degradation of dyes in short duration.

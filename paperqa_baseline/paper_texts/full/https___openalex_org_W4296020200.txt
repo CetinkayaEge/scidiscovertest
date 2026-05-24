@@ -1,0 +1,9 @@
+Title: Evaluation of Machine Learning Algorithm on Drinking Water Quality for Better Sustainability
+Authors: Sanaa Kaddoura
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141811478
+Paper ID: https://openalex.org/W4296020200
+
+Abstract:
+Water has become intricately linked to the United Nations’ sixteen sustainable development goals. Access to clean drinking water is crucial for health, a fundamental human right, and a component of successful health protection policies. Clean water is a significant health and development issue on a national, regional, and local level. Investments in water supply and sanitation have been shown to produce a net economic advantage in some areas because they reduce adverse health effects and medical expenses more than they cost to implement. However, numerous pollutants are affecting the quality of drinking water. This study evaluates the efficiency of using machine learning (ML) techniques in order to predict the quality of water. Thus, in this paper, a machine learning classifier model is built to predict the quality of water using a real dataset. First, significant features are selected. In the case of the used dataset, all measured characteristics are chosen. Data are split into training and testing subsets. A set of existing ML algorithms is applied, and the results are compared in terms of precision, recall, F1 score, and ROC curve. The results show that support vector machine and k-nearest neighbor are better according to F1-score and ROC AUC values. However, The LASSO LARS and stochastic gradient descent are better based on recall values.

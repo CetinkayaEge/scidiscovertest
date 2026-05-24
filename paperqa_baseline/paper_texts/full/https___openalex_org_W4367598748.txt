@@ -1,0 +1,9 @@
+Title: Overview of Selective Laser Melting for Industry 5.0: Toward Customizable, Sustainable, and Human-Centric Technologies
+Authors: Ramin Rahmani, J. Karimi, Pedro R. Resende, J.C.C. Abrantes, Sérgio Ivan Lopes
+Year: 2023
+Venue: Machines
+DOI: https://doi.org/10.3390/machines11050522
+Paper ID: https://openalex.org/W4367598748
+
+Abstract:
+Industry 5.0 combines automation/digitalization with human capabilities to create a more intuitive, interactive, and sustainable working environment. Additive manufacturing, widely known as 3D printing, is a key technology used to increase customization and efficiency and reduce waste in manufacturing. Industry 5.0 enables manufacturers to create environmentally sustainable and consumer-centric products. However, there is a lack of studies on the introduction of AM technologies to Industry 5.0. The present study investigates the use of additive manufacturing for the fabrication of metallic parts/assemblies and the correlation between human-centric technologies, additive manufacturing, and environmental sustainability. Effective communication between these components is the key to achieving the goals of Industry 5.0, and the important parameters are shown in this article. The present work is focused on an overview and the impact of the futuristic subdivision of additive manufacturing applied to the fabrication of metallic parts/assemblies, more specifically, the 3D printing of challenging alloys or composites (such as copper alloys and/or composites with hard particles).

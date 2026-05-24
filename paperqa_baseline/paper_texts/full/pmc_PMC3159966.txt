@@ -1,0 +1,9 @@
+Title: Phosphorylation network rewiring by gene duplication
+Authors: Luca Freschi, Mathieu Courcelles, Pierre Thibault, Stephen W Michnick, Christian R Landry
+Year: 2011
+Venue: Molecular Systems Biology
+DOI: 10.1038/msb.2011.43
+Paper ID: pmc_PMC3159966
+
+Abstract:
+In a comprehensive analysis of phosphoregulatory evolution in yeast, the authors observe that phosphorylation sites tend to be lost after gene duplication and protein network turnover reshuffles kinase–substrate relationships over time. Elucidating how complex regulatory networks have assembled during evolution requires a detailed understanding of the evolutionary dynamics that follow gene duplication events, including changes in post-translational modifications. We compared the phosphorylation profiles of paralogous proteins in the budding yeast Saccharomyces cerevisiae to that of a species that diverged from the budding yeast before the duplication of those genes. We found that 100 million years of post-duplication divergence are sufficient for the majority of phosphorylation sites to be lost or gained in one paralog or the other, with a strong bias toward losses. However, some losses may be partly compensated for by the evolution of other phosphosites, as paralogous proteins tend to preserve similar numbers of phosphosites over time. We also found that up to 50% of kinase–substrate relationships may have been rewired during this period. Our results suggest that after gene duplication, proteins tend to subfunctionalize at the level of post-translational regulation and that even when phosphosites are preserved, there is a turnover of the kinases that phosphorylate them.

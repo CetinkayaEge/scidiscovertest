@@ -1,0 +1,9 @@
+Title: Aerosolized Pulmonary Delivery of mRNA Constructs Attenuates Severity of Escherichia coli Pneumonia in the Rat
+Authors: Sean D. McCarthy, Christopher B. Rohde, Matt Angel, Claire H. Masterson, Ronan MacLoughlin, Juan Fandiño, Héctor E. González, Declan Byrnes, John G. Laffey, Daniel O'Toole
+Year: 2023
+Venue: Nucleic Acid Therapeutics
+DOI: 10.1089/nat.2022.0049
+Paper ID: pmc_PMC10066785
+
+Abstract:
+Acute respiratory distress syndrome (ARDS), a rapid onset inflammatory lung disease with no effective specific therapy, typically has pathogenic etiology termed pneumonia. In previous studies nuclear factor-κB (NF-κB) inhibitor α super-repressor (IκBα-SR) and extracellular superoxide dismutase 3 (SOD3) reduced pneumonia severity when prophylactically delivered by viral vector. In this study, mRNA coding for green fluorescent protein, IκBα-SR, or SOD3 was complexed with cationic lipid, passed through a vibrating mesh nebulizer, and delivered to cell culture or directly to rats undergoing Escherichia coli pneumonia. Injury level was then assessed at 48 h. In vitro , expression was observed as early as 4 h in lung epithelial cells. IκBα-SR and wild-type IκBα mRNAs attenuated inflammatory markers, while SOD3 mRNA induced protective and antioxidant effects. In rat E. coli pneumonia, IκBα-SR mRNA reduced arterial carbon dioxide (pCO2) and reduced lung wet/dry ratio. SOD3 mRNA improved static lung compliance and alveolar-arterial oxygen gradient (AaDO2) and decreased bronchoalveolar lavage (BAL) bacteria load. White cell infiltration and inflammatory cytokine concentrations in BAL and serum were reduced by both mRNA treatments compared to scrambled mRNA controls. These findings indicate nebulized mRNA therapeutics are a promising approach to ARDS therapy, with rapid expression of protein and observable amelioration of pneumonia symptoms.

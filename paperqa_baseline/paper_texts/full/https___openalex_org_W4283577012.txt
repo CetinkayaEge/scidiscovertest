@@ -1,0 +1,9 @@
+Title: Reducing Inequalities within and among EU Countries—Assessing the Achievement of the 2030 Agenda for Sustainable Development Targets (SDG 10)
+Authors: Teodor Marian Cojocaru, George H. Ionescu, Daniela Firoiu, Laura Mariana Cismaș, Maria Oţil, Ovidiu Toma
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14137706
+Paper ID: https://openalex.org/W4283577012
+
+Abstract:
+Reducing inequalities within and among countries is one of the main tenets of the sustainable development paradigm and has become an important pillar at the European Union level. By adopting the 2030 Agenda for Sustainable Development, EU countries have committed themselves to meet targets against which progress in reducing inequalities can be measured. Through the present research, we aim to analyze and assess the extent to which EU countries will achieve the specific SDG 10 targets. Based on data published by Eurostat for the period 2010–2020, we forecast the trends of the indicators until the year 2030, using a model based on the AAA (Holt–Winters) version of exponential smoothing (ETS), to assess the degree to which the assumed targets will be reached. For more detailed information, we used dynamic indices to analyze the dynamics of the progress achieved. The results showed that it is difficult to clearly distinguish one or more countries as part of a group of high or low performers in terms of the efforts made and the effects achieved in reducing inequalities. However, we could mention Poland as a good and very good performer on most of the indicators analyzed. As opposite examples, we can mention Bulgaria and Greece, for which more attention and involvement are needed in adopting measures to correct the negative trend forecast.

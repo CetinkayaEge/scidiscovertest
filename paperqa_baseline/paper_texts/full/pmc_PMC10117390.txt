@@ -1,0 +1,9 @@
+Title: Genetically encoded crosslinkers to address protein–protein interactions
+Authors: Yasmin Aydin, Irene Coin
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4637
+Paper ID: pmc_PMC10117390
+
+Abstract:
+Abstract Noncanonical amino acids (ncAAs) for photo‐ and chemical crosslinking are powerful biochemical tools for studying and manipulating interactions between proteins both in vitro and in intact cells. Since the first crosslinking ncAAs were genetically encoded about 20 years ago, the technology has now ripened beyond the proof‐of‐principle demonstrations and is contributing to the study of relevant biological questions in the frame of modern integrative approaches. Here, we provide an overview of available photo‐activatable ncAAs for photo‐crosslinking and electrophilic ncAAs for genetically encoded chemical crosslinking (GECX), with a major focus on the most recent entries such as ncAAs for SuFEx click chemistry and photo‐activatable ncAAs for chemical crosslinking. We present recent examples of the application of genetically encoded crosslinkers to capture protein–protein interactions and identify interaction partners in live cells, to investigate molecular mechanisms of protein function, to stabilize protein complexes for structural studies, to derive structural information about protein complexes from the physiological cell environment, up to perspective applications of GECX‐ncAAs for the development of covalent drugs.

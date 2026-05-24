@@ -1,0 +1,9 @@
+Title: A Novel Fuzzy-Based VIKOR–CRITIC Soft Computing Method for Evaluation of Sustainable Supply Chain Risk Management
+Authors: Fahim ul Amin, Qianli Dong, Katarzyna Grzybowska, Zahid Shahab Ahmed, Borui Yan
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052827
+Paper ID: https://openalex.org/W4220861631
+
+Abstract:
+This article aims to evaluate sustainable supply chain risks using a novel fuzzy VIKOR–CRITIC technique. The research contributions of this study are twofold. First and foremost, this is the first attempt to integrate the fuzzy VIKOR approach with the CRITIC method in order to eradicate the inadequacies of the VIKOR method. Second, this is the first study to look at the sustainable supply chain risk management in Pakistan’s logistics industry. Four logistics companies were chosen for the study, and thirty criteria were established and divided into four categories using acquired data and literature studies. According to the findings, organizational risks are the most important to consider, whereas environmental hazards have the least influence. Supply delays, freight rate/oil price fluctuations, bankruptcy, and natural catastrophe are the four most important criteria in these categories. Limited suppliers, cargo tracking, IT system failure, and international politics are the four least significant criteria in the four risk categories. The findings are useful for the logistics industry operating in CPEC for risk mitigation and sustainable operation. The research may be used as a guideline for risk identification and management by practitioners and decision-makers in Pakistani logistics organizations.

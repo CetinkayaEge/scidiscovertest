@@ -1,0 +1,9 @@
+Title: Integrated Decision Support Systems (IDSS) for Dairy Farming: A Discussion on How to Improve Their Sustained Adoption
+Authors: M. Baldin, Tom Breunig, R.I. Cue, Albert De Vries, Mark Doornink, Jan Drevenak, R.H. Fourdraine, Regi George, Robert Goodling, Randall Greenfield, Matthew W. Jorgensen, Andy Lenkaitis, Douglas J. Reinemann, Amit Saha, Chakra Sankaraiah, Saleh Shahinfar, Cori Siberski, K. M. Wade, Fan Zhang, Liliana Fadul-Pacheco, Steven R. Wangen, Tadeu Éder da Silva, Víctor E. Cabrera
+Year: 2021
+Venue: Animals
+DOI: https://doi.org/10.3390/ani11072025
+Paper ID: https://openalex.org/W3182995954
+
+Abstract:
+Dairy farm decision support systems (DSS) are tools which help dairy farmers to solve complex problems by improving the decision-making processes. In this paper, we are interested in newer generation, integrated DSS (IDSS), which additionally and concurrently: (1) receive continuous data feed from on-farm and off-farm data collection systems and (2) integrate more than one data stream to produce insightful outcomes. The scientific community and the allied dairy community have not been successful in developing, disseminating, and promoting a sustained adoption of IDSS. Thus, this paper identifies barriers to adoption as well as factors that would promote the sustained adoption of IDSS. The main barriers to adoption discussed include perceived lack of a good value proposition, complexities of practical application, and ease of use; and IDSS challenges related to data collection, data standards, data integration, and data shareability. Success in the sustainable adoption of IDSS depends on solving these problems and also addressing intrinsic issues related to the development, maintenance, and functioning of IDSS. There is a need for coordinated action by all the main stakeholders in the dairy sector to realize the potential benefits of IDSS, including all important players in the dairy industry production and distribution chain.

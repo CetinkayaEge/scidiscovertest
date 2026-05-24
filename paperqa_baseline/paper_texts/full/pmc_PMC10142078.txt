@@ -1,0 +1,9 @@
+Title: Effects of Cu Addition on Age Hardening Behavior and Mechanical Properties of High-Strength Al-1.2Mg-1.2Si Alloy
+Authors: Xu Zhang, Lizhen Yan, Zhihui Li, Xiwu Li, Guanjun Gao, Hongwei Yan, Kai Wen, Yongan Zhang, Baiqing Xiong
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083126
+Paper ID: pmc_PMC10142078
+
+Abstract:
+In this study, the effects of Cu addition on artificial age hardening behavior and mechanical properties of Al-1.2Mg-1.2Si-(xCu) alloy was investigated quantitatively and qualitatively by Vickers hardness, tensile test, and transmission electron microscope. The results indicated that Cu addition enhanced the aging response of the alloy at 175 °C. With the increase in Cu content, the time for the alloys to reach peak aging decreased from 12 h to 10 h and 8 h. The tensile strength of the alloy was obviously improved with Cu added in which was 421 MPa of 0Cu alloy, 448 MPa of 0.18Cu alloy, and 459 MPa of 0.37Cu alloy. The results of TEM observation revealed that the addition of 0.37Cu changed the aging precipitation sequence of the alloy, in which the precipitation sequence of 0Cu and 0.18Cu alloy was SSSS→GP zones/pre-β″→β″→β″ + β′, 0.37Cu alloy was SSSS→GP zones/pre-β″→β″ + L→β″ + L + Q′. Moreover, with the addition of Cu, the number density and volume fraction of precipitates of the Al-1.2Mg-1.2Si-(xCu) alloy was evidently increased. The number density was increased from 0.23 × 10 23 /m 3 to 0.73 × 10 23 /m 3 in the initial aging stage and from 1.9 × 10 23 /m 3 to 5.5 × 10 23 /m 3 in the peak aging stage. The volume fraction was increased from 0.27% to 0.59% in the early aging stage and from 4.05% to 5.36% in the peak aging stage. It indicated that Cu addition promoted the precipitation of strengthening precipitates and boosted the mechanical properties of the alloy accordingly.

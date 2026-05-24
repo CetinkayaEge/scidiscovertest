@@ -1,0 +1,9 @@
+Title: Structure bionic topology design method based on biological unit cell
+Authors: Yang Yong, Jiang Xue-tao, Zhu Qi-xin, Lu En-hui, Dong Xin-feng, Li Jing-bin
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13529
+Paper ID: pmc_PMC9975240
+
+Abstract:
+The mechanical structure topology design based on substructure always adopts the traditional substructure design method, which often comes from the experience and is limited by the inherent or stereotyped design thinking. A substructure design method based on biological unit cell (UC) is proposed, which draws inspiration from the biological efficient load-bearing topology structure. Especially, the thought of the formalized problem-solving of extension matter-element is introduced. Through the matter-element definition of UC substructure, the process model for the structure bionic topology design method based on biological UC is formed, which avoids the random or wild mental stimulation of the structure topology design method based on traditional substructure. In particular, in this proposed method, aiming at the problem about how to achieve the integration of high-efficiency load-bearing advantage of different organisms, furthermore, a biological UC hybridization method based on the principle of inventive problem solving theory (TRIZ) is proposed. The typical case is used to illustrate the process of this method in detail. The results from simulations and experiments both show that: the load-bearing capacity of structure design based on biology UC is improved than the initial design; on this basis, the load-bearing capacity of structure design is improved further through UC hybridization. All these show the feasibility and correctness of the proposed method.

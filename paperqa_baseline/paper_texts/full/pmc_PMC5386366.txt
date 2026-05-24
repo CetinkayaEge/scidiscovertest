@@ -1,0 +1,9 @@
+Title: Curcumin represses mouse 3T3-L1 cell adipogenic differentiation via inhibiting miR-17-5p and stimulating the Wnt signalling pathway effector Tcf7l2
+Authors: Lili Tian, Zhuolun Song, Weijuan Shao, William W Du, Lisa R Zhao, Kejing Zeng, Burton B Yang, Tianru Jin
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2016.455
+Paper ID: pmc_PMC5386366
+
+Abstract:
+Understanding mechanisms underlying adipogenic differentiation may lead to the discovery of novel therapeutic targets for obesity. Wnt signalling pathway activation leads to repressed adipogenic differentiation while certain microRNAs may regulate pre-adipocyte proliferation and differentiation. We show here that in mouse white adipose tissue, miR-17-5p level is elevated after high fat diet consumption. miR-17-5p upregulates adipogenic differentiation, as its over-expression increased while its inhibition repressed 3T3-L1 differentiation. The Tcf7l2 gene encodes a key Wnt signalling pathway effector, and its human homologue TCF7L2 is a highly regarded diabetes risk gene. We found that Tcf7l2 is an miR-17-5p target and confirmed the repressive effect of Tcf7l2 on 3T3-L1 adipogenic differentiation. The natural plant polyphenol compound curcumin possesses the body weight lowering effect. We observed that curcumin attenuated miR-17-5p expression and stimulated Tcf7l2 expression in 3T3-L1 cells. These, along with the elevation of miR-17-5p expression in mouse epididymal fat tissue in response to high fat diet consumption, allowed us to suggest that miR-17-5p is among central switches of adipogenic differentiation. It activates adipogenesis via repressing the Wnt signalling pathway effector Tcf7l2, and its own expression is likely nutritionally regulated in health and disease.

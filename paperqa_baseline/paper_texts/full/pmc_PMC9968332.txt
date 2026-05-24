@@ -1,0 +1,9 @@
+Title: Cross-platform normalization enables machine learning model training on microarray and RNA-seq data simultaneously
+Authors: Steven M. Foltz, Casey S. Greene, Jaclyn N. Taroni
+Year: 2023
+Venue: Communications Biology
+DOI: 10.1038/s42003-023-04588-6
+Paper ID: pmc_PMC9968332
+
+Abstract:
+Large compendia of gene expression data have proven valuable for the discovery of novel biological relationships. Historically, most available RNA assays were run on microarray, while RNA-seq is now the platform of choice for many new experiments. The data structure and distributions between the platforms differ, making it challenging to combine them directly. Here we perform supervised and unsupervised machine learning evaluations to assess which existing normalization methods are best suited for combining microarray and RNA-seq data. We find that quantile and Training Distribution Matching normalization allow for supervised and unsupervised model training on microarray and RNA-seq data simultaneously. Nonparanormal normalization and z-scores are also appropriate for some applications, including pathway analysis with Pathway-Level Information Extractor (PLIER). We demonstrate that it is possible to perform effective cross-platform normalization using existing methods to combine microarray and RNA-seq data for machine learning applications. An evaluation of normalization methods shows that it is possible to combine microarray and RNA-seq data for machine learning applications.

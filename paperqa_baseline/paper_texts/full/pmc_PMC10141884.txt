@@ -1,0 +1,9 @@
+Title: Halochromic Textiles for Real-Time Sensing of Hazardous Chemicals and Personal Protection
+Authors: Liliana Leite, Vânia Pais, Cristina Silva, Inês Boticas, João Bessa, Fernando Cunha, Cátia Relvas, Noel Ferreira, Raul Fangueiro
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16082938
+Paper ID: pmc_PMC10141884
+
+Abstract:
+Chemical protective clothing (CPC) has become mandatory when performing various tasks to ensure user protection and prevent chemicals from contacting the skin and causing severe injuries. In addition to protection, there is a need to develop a simple mechanism that can be attached to CPC and be capable of detecting and alerting the user to the presence of harmful chemical agents. In this study, a double-sensor strategy was investigated, using six different pH indicators stamped on cotton and polyester knits to detect acidic and alkaline substances, both liquid and gaseous. Functionalized knits underwent microscopic characterization, air permeability and contact angle evaluation. All samples exhibited hydrophobic behavior (contact angle > 90°) and air permeability values above 2400 L/min/cm 2 /bar, with the best condition demonstrating a contact angle of 123° and an air permeability of 2412.5 L/min/cm 2 /bar when the sensor methyl orange and bromocresol purple (MO:BP) was stamped on polyester. The performed tests proved the functionality of the sensors and showed a visible response of all knits when contacting with different chemicals (acids and bases). Polyester functionalized with MO:BP showed the greatest potential, due to its preeminent color change. Herein, the fiber coating process was optimized, enabling the industrial application of the sensors via a stamping method, an alternative to other time- and resource-consuming techniques.

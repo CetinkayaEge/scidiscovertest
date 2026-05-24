@@ -1,0 +1,9 @@
+Title: Strategic cost and sustainability analyses of injection molding and material extrusion additive manufacturing
+Authors: David O. Kazmer, Amy M. Peterson, Davide Masato, Austin R. Colon, Joshua Krantz
+Year: 2023
+Venue: Polymer Engineering and Science
+DOI: https://doi.org/10.1002/pen.26256
+Paper ID: https://openalex.org/W4319829811
+
+Abstract:
+Abstract Economic and environmental costs are assessed for four different plastics manufacturing processes, including cold and hot runner molding as well as stock and upgraded material extrusion three dimensional (3D) printers. A larger stock 3D printer was found to provide a melting capacity of 14.4 ml/h, while a smaller printer with an upgraded extruder had a melting capacity of 36 ml/h. 3D printing at these maximum melting capacities resulted in specific energy consumption (SEC) of 16.5 and 5.28 kWh/kg, respectively, with the latter value being less than 50% of the lowest values reported in the literature. Even so, analysis of these respective processes found them to be only 2.9% and 3.8% efficient relative to their theoretical minimum energy requirements. By comparison, cold and hot runner molding with an all‐electric machine had SEC of 1.28 and 0.929 kWh/kg, respectively, with efficiencies of 9.9% and 13.6% relative to the theoretical minima. Breakeven analysis considering the cost and carbon footprint of mold tooling found injection molding was preferable at a production quantity of around 70,000 units. Parametric analysis of model inputs indicates that the breakeven quantities are robust with respect to carbon tax incentives but highly dependent on mold costs, labor costs, and part size. Dimensional and mechanical properties of the molded and 3D printed specimens are also characterized and discussed.

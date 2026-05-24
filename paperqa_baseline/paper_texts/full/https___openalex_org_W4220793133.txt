@@ -1,0 +1,9 @@
+Title: Environmentally sustainable development and use of artificial intelligence in health care
+Authors: Cristina Richie
+Year: 2022
+Venue: Bioethics
+DOI: https://doi.org/10.1111/bioe.13018
+Paper ID: https://openalex.org/W4220793133
+
+Abstract:
+Artificial intelligence (AI) can transform health care by delivering medical services to underserved areas, while also filling gaps in health care provider availability. However, AI may also lead to patient harm due to fatal glitches in robotic surgery, bias in diagnosis, or dangerous recommendations. Despite concerns ethicists have identified in the use of AI in health care, the most significant consideration ought not be vulnerabilities in the software, but the environmental impact of AI. Health care emits a significant amount of carbon in many countries. As AI becomes an essential part of health care, ethical reflection must include the potential to negatively impact the environment. As such, this article will first overview the carbon emissions in health care. It will, second, offer five reasons why carbon calculations are insufficient to address sustainability in health care. Third, the article will derive normative concepts from the goals of medicine, the principles of biomedical ethics, and green bioethics-the very locus in which AI in health care sits-to propose health, justice, and resource conservation as criteria for sustainable AI in health care. In the fourth and final part of the article, examples of sustainable and unsustainable development and use of AI in health care will be evaluated through the three-fold lens of health, justice, and resource conservation. With various ethical approaches to AI in health care, the imperative for environmental sustainability must be underscored, lest carbon emissions continue to increase, harming people and planet alike.

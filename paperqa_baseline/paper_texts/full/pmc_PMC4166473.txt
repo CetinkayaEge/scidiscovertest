@@ -1,0 +1,9 @@
+Title: Rapid establishment of a HEK 293 cell line expressing FVIII-BDD using AAV site-specific integration plasmids
+Authors: Xiaomei Liu, Han Ping, Chun Zhang
+Year: 2014
+Venue: BMC Research Notes
+DOI: 10.1186/1756-0500-7-626
+Paper ID: pmc_PMC4166473
+
+Abstract:
+Background Stable human cell lines have gradually become the preferred system for large scale production of recombinant proteins for clinical applications because of their capacity of proper protein post-translational modification and low immunogenicity. However, human cell line development technologies are commonly based on random genome integration of protein expressing genes. It is required to screen large numbers of cell clones to identify stable high producer cell clones and the cell line development process usually takes 6 to 12 months. Adeno-associated virus type 2 (AAV2) Rep protein is known to induce rAAV DNA integration into a specific site (AAVS1) of the human chromosome 19 and integrated transgenes can stably express proteins. We take advantage of this AAV unique feature to develop a rapid protocol to clone a stable recombinant protein expression human cell line. Findings We have constructed two plasmids. One plasmid, pSVAV2, contains the AAV rep gene for the synthesis of integrase; the second plasmid, pTRP5GFPFVIII-BDD, contains B-domain-deleted factor VIII (FVIII-BDD) and GFP gene flanked by AAV ITRs. Human embryonic kidney (HEK) 293 cells were co-transfected with the two plasmids and the cells were screened by green fluorescence to establish the recombinant FVIII-BDD cell line. PCR analysis showed that the FVIII-BDD gene has been integrated into the AAVS1 site of human chromosome 19. The FVIII-BDD protein secreted into the extracellular media exhibited coagulant activity. Conclusion We developed a method of rapid establishment of human HEK 293 cell line expressing recombinant FVIII-BDD protein with AAV site-specific integration plasmids.

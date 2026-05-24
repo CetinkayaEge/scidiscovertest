@@ -1,0 +1,9 @@
+Title: Renewable and Sustainable Energy Reviews: Environmental impact networks of renewable energy power plants
+Authors: Viktor Sebestyén
+Year: 2021
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2021.111626
+Paper ID: https://openalex.org/W3199213971
+
+Abstract:
+The intensification of the use of different renewable energy sources is essential for the fulfillment of the Paris Agreement or for achieving the goals of sustainable development. The environmental impacts of various renewable energy sources have been engaging environmental professionals since their inception. The aim of this work is to collect the most important sizing variables and environmental impacts of hydropower, wind energy, geothermal energy, solar energy and biomass, which have been discussed in the literature. By using the tools of network science, it is possible to jointly manage the environmental impacts and the sizing variables of renewable energy power plants, so the impact mitigation can be performed efficiently already in the design phase. From the sizing variables and the environmental impacts, a multi-layered network is formed, based on which the relationships between the impacts can be explored and more efficient mitigation solutions can be implemented. The results show that the impacts of wind turbines on flying animals are outstanding, hydropower plants can be mostly described by changing the flow conditions, the noise and hydrothermal disturbance of geothermal power plants are outstanding, the visual and soil effects of solar power plants are most significant, while the biomass plants impacts related the harvest are most pronounced. This work helps to understand the environmental impacts of the increased utilization of renewable energy sources better and provides a framework for practitioners to enforce environmental considerations in design processes more easily.

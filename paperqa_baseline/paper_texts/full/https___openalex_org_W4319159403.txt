@@ -1,0 +1,9 @@
+Title: An AI-Based Shortlisting Model for Sustainability of Human Resource Management
+Authors: Erdinç Aydın, Meti̇n Turan
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15032737
+Paper ID: https://openalex.org/W4319159403
+
+Abstract:
+The adoption of artificial intelligence in human resource management may help businesses and create a keen advantage in the market. With the help of artificial intelligence, most human resource duties can be completed efficiently and in a much shorter timeframe. For the sustainability of companies, it is essential to shorten the processes that are time-consuming and possible to automate. Especially in the recruitment process, artificial intelligence can ease short listings and much more. This study focuses on the adoption of artificial intelligence for recruitment and shortlisting as a human resource management operation. It is intended to remove noisy data from the resumes of applicants by using a minimum description length algorithm and to create a learning algorithm based on the support vector machine to choose the better candidates according to company culture and preferences. By creating shortlists for open positions, it is possible to improve the hiring process and cut the cost of the process. To the best of our knowledge, no studies in the research literature that focused on resume shares learning algorithms and performance evaluation results. This paper presents how the feature extraction algorithm fails while feature selection reduces successfully, and how the learning algorithm can create shortlisting.

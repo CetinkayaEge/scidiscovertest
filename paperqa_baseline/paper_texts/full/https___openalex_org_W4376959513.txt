@@ -1,0 +1,9 @@
+Title: Differential cell-cycle control by oscillatory versus sustained Hes1 expression via p21
+Authors: Yuki Maeda, Akihiro Isomura, Taimu Masaki, Ryoichiro Kageyama
+Year: 2023
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2023.112520
+Paper ID: https://openalex.org/W4376959513
+
+Abstract:
+Oscillatory Hes1 expression activates cell proliferation, while high and sustained Hes1 expression induces quiescence, but the mechanism by which Hes1 differentially controls cell proliferation depending on its expression dynamics is unclear. Here, we show that oscillatory Hes1 expression down-regulates the expression of the cyclin-dependent kinase inhibitor p21 (Cdkn1a), which delays cell-cycle progression, and thereby activates the proliferation of mouse neural stem cells (NSCs). By contrast, sustained Hes1 overexpression up-regulates p21 expression and inhibits NSC proliferation, although it initially down-regulates p21 expression. Compared with Hes1 oscillation, sustained Hes1 overexpression represses Dusp7, a phosphatase for phosphorylated Erk (p-Erk), and increases the levels of p-Erk, which can up-regulate p21 expression. These results indicate that p21 expression is directly repressed by oscillatory Hes1 expression, but indirectly up-regulated by sustained Hes1 overexpression, suggesting that depending on its expression dynamics, Hes1 differentially controls NSC proliferation via p21.

@@ -1,0 +1,9 @@
+Title: Blockchain Adoption in Agricultural Supply Chain for Better Sustainability: A Game Theory Perspective
+Authors: Luona Song, Yiqing Luo, Zixi Chang, Chunhua Jin, Nicolás Merveille
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031470
+Paper ID: https://openalex.org/W4210607343
+
+Abstract:
+Within the context of the rise of the Internet of Things, blockchain, and other new technologies, telecommunications operators are committed to applying technologies to promote business transformation and upgrading. The government also actively applies technologies to traditional fields to promote social progress. In agriculture, the agricultural supply chain has a low information level and low degree of digitization. The application of blockchain technology in agriculture offers exceptional advantages because of its decentralization, openness, and transparency. Based on the application of blockchain in an agricultural scenario, an evolutionary game model made up of governments, telecom operators, and agricultural enterprises was established to analyze the model’s equilibrium stability and evolutionary stable strategy. Then, numerical simulation was carried out to study the influence of the initial green level, equipment deployment cost, technology operation cost, and other core factors on the tripartite evolution behaviour. The results show that each factor influences the behaviour of a third party in different ways. Finally, according to the simulation results, this paper puts forward practical suggestions, explores the long-term impact of the application cost and sustainable income of blockchain technology on cooperation, and provides new ideas for the governance of China’s traditional fields from the perspective of new technology application.

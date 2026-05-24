@@ -1,0 +1,9 @@
+Title: Does the Business Environment Improve the Sustainable Development of Enterprises?
+Authors: Zhiyuan Dong, Zenglian Zhang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142013499
+Paper ID: https://openalex.org/W4306857305
+
+Abstract:
+A good business environment is fertile ground for cultivating the high-quality development of enterprises and is an important guarantee for an enterprise to achieve sustainable development. Using A-share listed companies in China from 2010 to 2020 as the research sample, the research objective of this paper is to empirically test the impact of the business environment on the sustainable development of enterprises from the perspective of the high-quality development of enterprise, and it analyzes the impact path from the perspective of enterprise innovation. Using OLS regression, systematic GMM regression, and 2SLS regression for empirical analysis, the results showed that there is a significant positive correlation between the business environment and the sustainable development of enterprises. In other words, the optimization of the business environment is conducive to promoting the sustainable development of enterprises. Enterprise innovation plays a mediating role in the relationship between the business environment and the sustainable development of enterprises. The conclusions of this paper still hold after a series of robustness tests and endogeneity tests. Further analysis showed that, in non-manufacturing listed companies and eastern and western regions of China, the business environment plays a more significant role in the sustainable development of enterprises.

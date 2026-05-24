@@ -1,0 +1,9 @@
+Title: Discriminatively Unsupervised Learning Person Re-Identification via Considering Complicated Images
+Authors: Rong Quan, Biaoyi Xu, Dong Liang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063259
+Paper ID: pmc_PMC10057766
+
+Abstract:
+State-of-the-art purely unsupervised learning person re-ID methods first cluster all the images into multiple clusters and assign each clustered image a pseudo label based on the cluster result. Then, they construct a memory dictionary that stores all the clustered images, and subsequently train the feature extraction network based on this dictionary. All these methods directly discard the unclustered outliers in the clustering process and train the network only based on the clustered images. The unclustered outliers are complicated images containing different clothes and poses, with low resolution, severe occlusion, and so on, which are common in real-world applications. Therefore, models trained only on clustered images will be less robust and unable to handle complicated images. We construct a memory dictionary that considers complicated images consisting of both clustered and unclustered images, and design a corresponding contrastive loss by considering both kinds of images. The experimental results show that our memory dictionary that considers complicated images and contrastive loss can improve the person re-ID performance, which demonstrates the effectiveness of considering unclustered complicated images in unsupervised person re-ID.

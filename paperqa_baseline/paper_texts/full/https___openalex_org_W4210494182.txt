@@ -1,0 +1,9 @@
+Title: Sustainability Assessment of Public Transport, Part II—Applying a Multi-Criteria Assessment Method to Compare Different Bus Technologies
+Authors: Sofia Dahlgren, Jonas Ammenberg
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031273
+Paper ID: https://openalex.org/W4210494182
+
+Abstract:
+Many Swedish regional transport authorities want bus fleets driven on renewable fuels. However, it may be difficult to know what technology, or combination of technologies, to choose. There is a need for improved knowledge and supportive methods for sustainability assessments that can support public procurement processes. In the companion article (Part I), a multi-criteria assessment (MCA) method for assessments of public bus technologies’ sustainability was established, consisting of four key areas and 12 indicators. In this article, the purpose is to apply the method established in part I on different bus technologies by looking at a general Swedish case and assessing buses driven on diesel, Hydrotreated Vegetable Oil (HVO), Fatty Acid Methyl Ester (FAME), ethanol, natural gas, biomethane and electricity. Each technology is assessed on a scale from Very Poor to Very Good according to the indicators: technical maturity, daily operational availability, total cost of ownership, need for investments in infrastructure, cost stability, non-renewable primary energy efficiency, greenhouse gas emission savings, air pollution, noise, local/regional impact on land and aquatic environments, energy security and sociotechnical systems services. The results show the strengths and weaknesses of each technology, which are later discussed. We also critically reflect upon the usefulness and accuracy of the MCA method.

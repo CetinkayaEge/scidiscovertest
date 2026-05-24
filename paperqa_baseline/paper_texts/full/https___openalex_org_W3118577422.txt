@@ -1,0 +1,9 @@
+Title: Modeling the Modal Shift towards a More Sustainable Transport by Stated Preference in Riyadh, Saudi Arabia
+Authors: Zaher Youssef, Habib M. Alshuwaikhat, Imran Reza
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13010337
+Paper ID: https://openalex.org/W3118577422
+
+Abstract:
+The need to gain a comprehensive understanding of road travelers’ choice of mode and their perceptions of using sustainable urban mobility modes have evolved to shape the form of future transport planning and policymaking. To combat the concern of growing traffic congestion in Riyadh City, the government of Saudi Arabia designed and introduced a sustainable public transport project named “Riyadh Metro”. This study explores the potential commuters’ perception towards the Metro services and the factors that limit their propensity to use Metro and understand the tradeoffs that the individuals make when they are faced with a combination of mode characteristics (e.g., travel time, price, walking time). The stated preferences experiment was conducted on a sample from the Riyadh neighborhood by structured interviews. A discrete choice model based on binary logistic regression has been developed. The coefficient of travel attribute: travel time, fuel cost, Metro fare, and walking time was found to be statistically significant with a different effect on mode choice. The elasticity of the coefficient showed that an increase in the fuel price by 10% would increase the metro ridership by 5.3% and reduce car dependency. Decreasing the walking time by 5 min to the metro station will increase the metro ridership by 22%. Furthermore, the study revealed that implementing a 1 SAR/hour parking charge will decrease car dependency by 14%. Increase Metro fare by 10% will decrease Metro ridership by 6.9%. The socioeconomic factors coefficient shows a marginal effect on the choice decision of passengers.

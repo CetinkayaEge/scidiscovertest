@@ -1,0 +1,9 @@
+Title: Energy storage technologies: An integrated survey of developments, global economical/environmental effects, optimal scheduling model, and sustainable adaption policies
+Authors: Mohammad Amir, Radhika G. Deshmukh, Haris M. Khalid, Zafar Said, Ali Raza, S. M. Muyeen, Abdul‐Sattar Nizami, Rajvikram Madurai Elavarasan, R. Saidur, Kamaruzzaman Sopian
+Year: 2023
+Venue: Journal of Energy Storage
+DOI: https://doi.org/10.1016/j.est.2023.108694
+Paper ID: https://openalex.org/W4386006872
+
+Abstract:
+Energy Storage Technology is one of the major components of renewable energy integration and decarbonization of world energy systems. It significantly benefits addressing ancillary power services, power quality stability, and power supply reliability. However, the recent years of the COVID-19 pandemic have given rise to the energy crisis in various industrial and technology sectors. An integrated survey of energy storage technology development, its classification, performance, and safe management is made to resolve these challenges. The development of energy storage technology has been classified into electromechanical, mechanical, electromagnetic, thermodynamics, chemical, and hybrid methods. The current study identifies potential technologies, operational framework, comparison analysis, and practical characteristics. This proposed study also provides useful and practical information to readers, engineers, and practitioners on the global economic effects, global environmental effects, organization resilience, key challenges, and projections of energy storage technologies. An optimal scheduling model is also proposed. Policies for sustainable adaptation are then described. An extensive list of publications to date in the open literature is canvassed to portray various developments in this area.

@@ -1,0 +1,9 @@
+Title: Chlorine-Resistant Epoxide-Based Membranes for Sustainable Water Desalination
+Authors: Rhea Verbeke, Douglas M. Davenport, Timothée Stassin, Samuel Eyley, Marcel Dickmann, Alexander John Cruz, Praveen Dara, Cody L. Ritt, Caroline Bogaerts, Werner Egger, Rob Ameloot, Johan Meersschaut, Wim Thielemans, Guy Koeckelberghs, Menachem Elimelech, Ivo F.J. Vankelecom
+Year: 2021
+Venue: Environmental Science & Technology Letters
+DOI: https://doi.org/10.1021/acs.estlett.1c00515
+Paper ID: https://openalex.org/W3193862467
+
+Abstract:
+The hypersensitivity of state-of-the-art polyamide-based membranes to chlorine is a major source of premature membrane failure and module replacement in water desalination plants. This problem can currently only be solved by implementing pre- and post-treatment processes involving additional chemical use and energy input, thus increasing environmental, capital, and operational costs. Herein, we report a chlorine-, acid-, and base-resistant desalination membrane comprising a cross-linked epoxide-based polymer-selective layer with permanent positive charges. These novel membranes exhibit high mono- and divalent salt rejection (81% NaCl, 87% CaCl2, 89% MgCl2) and a water permeance of ∼2 L m–2 h–1 bar–1, i.e., desalination performance comparable to that of commercially available nanofiltration membranes. Unlike conventional polyamide-based membranes, this new generation of epoxide-based membranes takes advantage of the intrinsic chemical stability of ether bonds while achieving the polymer and charge density needed for desalination. In doing so, the stability of these membranes opens new horizons for sustainable water purification and many other separations in harsh media in a variety of applications (e.g., solvent recovery, gas separations, redox flow batteries).

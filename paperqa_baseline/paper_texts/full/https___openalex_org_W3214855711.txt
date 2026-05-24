@@ -1,0 +1,9 @@
+Title: Developing sustainable, high-performance perovskites in photocatalysis: design strategies and applications
+Authors: Haoxin Mai, Dehong Chen, Yasuhiro Tachibana, Hajime Suzuki, Ryu Abe, Rachel A. Caruso
+Year: 2021
+Venue: Chemical Society Reviews
+DOI: https://doi.org/10.1039/d1cs00684c
+Paper ID: https://openalex.org/W3214855711
+
+Abstract:
+Solar energy is attractive because it is free, renewable, abundant and sustainable. Photocatalysis is one of the feasible routes to utilize solar energy for the degradation of pollutants and the production of fuel. Perovskites and their derivatives have received substantial attention in both photocatalytic wastewater treatment and energy production because of their highly tailorable structural and physicochemical properties. This review illustrates the basic principles of photocatalytic reactions and the application of these principles to the design of robust and sustainable perovskite photocatalysts. It details the structures of the perovskites and the physics and chemistry behind photocatalytic reactions and describes the advantages and limitations of popular strategies for the design of photoactive perovskites. This is followed by examples of how these strategies are applied to enhance the photocatalytic efficiency of oxide, halide and oxyhalide perovskites, with a focus on materials with potential for practical application, that is, not containing scarce or toxic elements. It is expected that this overview of the development of photocatalysts and deeper understanding of photocatalytic principles will accelerate the exploitation of efficient perovskite photocatalysts and bring about effective solutions to the energy and environmental crisis.

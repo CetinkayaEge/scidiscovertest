@@ -1,0 +1,9 @@
+Title: Metallic Germanium (111) Slab Structures
+Authors: Chih Shan Tan
+Year: 2023
+Venue: ACS Omega
+DOI: 10.1021/acsomega.3c03191
+Paper ID: pmc_PMC10286270
+
+Abstract:
+Prior research has indicated that the surface electron conductivity of Ge (111) wafers surpasses that of Ge (100) and Ge (110) wafers. This disparity has been ascribed to the variations in bond length, geometry, and frontier orbital electron energy distribution across different surface planes. The ab initio molecular dynamics (AIMD) simulation is used for the thermal stability of the Ge (111) slabs with different thicknesses and has provided new knowledge of its potential applications. To delve deeper into the properties of Ge (111) surfaces, we executed calculations for one- and two-layer Ge (111) surface slabs. The electrical conductivities of these slabs at room temperature were determined to be 966081.89 and 760157.03 Ω –1 m –1 , respectively, with a unit cell conductivity of 1.96 Ω –1 m –1 . These findings align with actual experimental data. Notably, the electrical conductivity of the single-layer Ge (111) surface exceeded that of intrinsic Ge by 100,000 times, heralding intriguing potential for including Ge surfaces in future device applications.

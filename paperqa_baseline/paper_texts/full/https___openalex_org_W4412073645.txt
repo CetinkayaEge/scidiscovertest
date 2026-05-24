@@ -1,0 +1,9 @@
+Title: Data-driven synthetic microbes for sustainable future
+Authors: Iqra Mariam, Ulrika Rova, Paul Christakopoulos, Λεωνίδας Μάτσακας, Alok Patel
+Year: 2025
+Venue: npj Systems Biology and Applications
+DOI: https://doi.org/10.1038/s41540-025-00556-4
+Paper ID: https://openalex.org/W4412073645
+
+Abstract:
+The escalating global environmental crisis demands transformative biotechnological solutions that are both sustainable and scalable. This perspective advocates Data-Driven Synthetic Microbes (DDSM); engineered microorganisms designed through integrating omics, machine learning, and systems biology to tackle challenges like PFAS degradation, greenhouse gas mitigation, and sustainable biomanufacturing. DDSMs offer a rational framework for developing robust microbial systems, reshaping the future of synthetic biology toward environmental resilience and circular bioeconomy.

@@ -1,0 +1,9 @@
+Title: MP-Lasso chart: a multi-level polar chart for visualizing group Lasso analysis of genomic data
+Authors: Min Song, Minhyuk Lee, Taesung Park, Mira Park
+Year: 2022
+Venue: Genomics & Informatics
+DOI: 10.5808/gi.22075
+Paper ID: pmc_PMC9847381
+
+Abstract:
+Penalized regression has been widely used in genome-wide association studies for joint analyses to find genetic associations. Among penalized regression models, the least absolute shrinkage and selection operator (Lasso) method effectively removes some coefficients from the model by shrinking them to zero. To handle group structures, such as genes and pathways, several modified Lasso penalties have been proposed, including group Lasso and sparse group Lasso. Group Lasso ensures sparsity at the level of pre-defined groups, eliminating unimportant groups. Sparse group Lasso performs group selection as in group Lasso, but also performs individual selection as in Lasso. While these sparse methods are useful in high-dimensional genetic studies, interpreting the results with many groups and coefficients is not straightforward. Lasso's results are often expressed as trace plots of regression coefficients. However, few studies have explored the systematic visualization of group information. In this study, we propose a multi-level polar Lasso (MP-Lasso) chart, which can effectively represent the results from group Lasso and sparse group Lasso analyses. An R package to draw MP-Lasso charts was developed. Through a real-world genetic data application, we demonstrated that our MP-Lasso chart package effectively visualizes the results of Lasso, group Lasso, and sparse group Lasso.

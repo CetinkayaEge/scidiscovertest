@@ -1,0 +1,9 @@
+Title: The role of data imbalance bias in the prediction of protein stability change upon mutation
+Authors: Jianwen Fang
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283727
+Paper ID: pmc_PMC10062539
+
+Abstract:
+There is a controversy over what causes the low robustness of some programs for predicting protein stability change upon mutation. Some researchers suggested that low-quality data and insufficiently informative features are the primary reasons, while others attributed the problem largely to a bias caused by data imbalance as there are more destabilizing mutations than stabilizing ones. In this study, a simple approach was developed to construct a balanced dataset that was then conjugated with a leave-one-protein-out approach to illustrate that the bias may not be the primary reason for poor performance. A balanced dataset with some seemly good conventional n-fold CV results should not be used as a proof that a model for predicting protein stability change upon mutations is robust. Thus, some of the existing algorithms need to be re-examined before any practical applications. Also, more emphasis should be put on obtaining high quality and quantity of data and features in future research.

@@ -1,0 +1,9 @@
+Title: Review of life cycle models for enhancing machine tools sustainability: lessons, trends and future directions
+Authors: Ilesanmi Daniyan, Khumbulani Mpofu, Boitumelo Ramatsetse, Munish Kumar Gupta
+Year: 2021
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2021.e06790
+Paper ID: https://openalex.org/W3155678764
+
+Abstract:
+The life cycle models are critical in the assessment of the performance of a product from the design phase to its end of life (EoL). With the quest for manufacturing sustainability with respect to energy, process, material, and environment friendliness as well as the clamour for circular economy which emphasizes zero tolerance for waste, there is a need for a critical review of the life cycle of machine tool employed for machining operations and product development. The objective of this study is to evaluate the efficient way of managing the machine tools throughout its lifecycle. Several studies have been conducted in analysing the life cycle of the machine tools and different strategies were employed for its design, manufacture, use, maintenance and recovery at the end of life. The common approach to ensure environmental sustainability was established when comparing the literature studied. From the articles reviewed 60% applied life cycle assessment (LCA) methodology to reduce energy consumption and enhance environmental sustainability, while 40% employed other assessment tools. In this study an integrated life cycle and cyber physical machine tool model is proposed.

@@ -1,0 +1,9 @@
+Title: Nonspecific phospholipase C4 hydrolyzes phosphosphingolipids and sustains plant root growth during phosphate deficiency
+Authors: Bao Yang, Maoyin Li, Anne Z. Phillips, Long Li, Usman Ali, Qing Li, Shaoping Lu, Yueyun Hong, Xuemin Wang, Liang Guo
+Year: 2021
+Venue: The Plant Cell
+DOI: https://doi.org/10.1093/plcell/koaa054
+Paper ID: https://openalex.org/W3151767311
+
+Abstract:
+Phosphate is a vital macronutrient for plant growth, and its availability in soil is critical for agricultural sustainability and productivity. A substantial amount of cellular phosphate is used to synthesize phospholipids for cell membranes. Here, we identify a key enzyme, nonspecific phospholipase C4 (NPC4) that is involved in phosphosphingolipid hydrolysis and remodeling in Arabidopsis during phosphate starvation. The level of glycosylinositolphosphorylceramide (GIPC), the most abundant sphingolipid in Arabidopsis thaliana, decreased upon phosphate starvation. NPC4 was highly induced by phosphate deficiency, and NPC4 knockouts in Arabidopsis decreased the loss of GIPC and impeded root growth during phosphate starvation. Enzymatic analysis showed that NPC4 hydrolyzed GIPC and displayed a higher activity toward GIPC as a substrate than toward the common glycerophospholipid phosphatidylcholine. NPC4 was associated with the plasma membrane lipid rafts in which GIPC is highly enriched. These results indicate that NPC4 uses GIPC as a substrate in planta and the NPC4-mediated sphingolipid remodeling plays a positive role in root growth in Arabidopsis response to phosphate deficiency.

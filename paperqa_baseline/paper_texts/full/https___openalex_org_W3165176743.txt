@@ -1,0 +1,9 @@
+Title: Rapid suppression and sustained activation of distinct cortical regions for a delayed sensory-triggered motor response
+Authors: Vahid Esmaeili, Keita Tamura, Samuel P. Muscinelli, Alireza Modirshanechi, Marta Boscaglia, Ashley B. Lee, Anastasiia Oryshchuk, Georgios Foustoukos, Yanqi Liu, Sylvain Crochet, Wulfram Gerstner, Carl C.H. Petersen
+Year: 2021
+Venue: Neuron
+DOI: https://doi.org/10.1016/j.neuron.2021.05.005
+Paper ID: https://openalex.org/W3165176743
+
+Abstract:
+The neuronal mechanisms generating a delayed motor response initiated by a sensory cue remain elusive. Here, we tracked the precise sequence of cortical activity in mice transforming a brief whisker stimulus into delayed licking using wide-field calcium imaging, multiregion high-density electrophysiology, and time-resolved optogenetic manipulation. Rapid activity evoked by whisker deflection acquired two prominent features for task performance: (1) an enhanced excitation of secondary whisker motor cortex, suggesting its important role connecting whisker sensory processing to lick motor planning; and (2) a transient reduction of activity in orofacial sensorimotor cortex, which contributed to suppressing premature licking. Subsequent widespread cortical activity during the delay period largely correlated with anticipatory movements, but when these were accounted for, a focal sustained activity remained in frontal cortex, which was causally essential for licking in the response period. Our results demonstrate key cortical nodes for motor plan generation and timely execution in delayed goal-directed licking.

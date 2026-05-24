@@ -1,0 +1,9 @@
+Title: Use of Microsimulation Traffic Models as Means for Ensuring Public Transport Sustainability and Accessibility
+Authors: Vladislav Křivda, Jan Petrů, David Macha, Jakub Novak
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052709
+Paper ID: https://openalex.org/W3134923835
+
+Abstract:
+This article deals with the issue of a partial problem in the sustainability and availability of public transport using the example of a specific transit node. In every public transport network, it is the transit nodes that can be a threat to the entire transport system in case of a bad design. The article presents a microsimulation traffic model of a transit node, which was created in the PTV VISSIM/VISWALK program. This model was tested by various traffic loads (i.e., normal loads, loads taking into account the extension of the tram network and loads at extraordinary sports or cultural events). As part of the evaluation of the monitored node, the movement of passengers on pedestrian areas, escalators and staircases was analysed. The obtained results demonstrate the importance of monitoring, for example, the Level of Service, average travel times and pedestrian speeds and other parameters, to ensure the functionality of this construction. The use of traffic models can be crucial, as they can be an invaluable aid and a suitable tool in finding the optimal transport solution that respects the requirements for sustainable and accessible public transport.

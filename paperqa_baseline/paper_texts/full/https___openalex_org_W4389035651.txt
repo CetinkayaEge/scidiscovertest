@@ -1,0 +1,9 @@
+Title: Sustainability of Temporary Housing in Post-Disaster Scenarios: A Requirement-Based Design Strategy
+Authors: Giammarco Montalbano, Giovanni Santi
+Year: 2023
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings13122952
+Paper ID: https://openalex.org/W4389035651
+
+Abstract:
+Disasters, whether natural or man-made, pose inevitable global challenges. Events such as COVID-19, earthquakes, extreme climatic conditions, and conflicts underscore the urgent demand for effective temporary housing solutions. These temporary housing units (THUs) serve as an aid in assisting displaced people to rebuild their lives as the recovery process unfolds. However, numerous temporary housing units present environmental, economic, and social issues that hinder their sustainability. This paper investigates the underlying causes of these issues, defines the essential requirements that temporary housing units must meet, and proposes an initial design to fulfill these requirements. The methodology comprises three key phases: case study analysis, requirement identification, and the integration of these requirements into the design process. The main findings highlight that the construction of sustainable temporary housing units necessitates a meticulous consideration of various parameters to achieve a balanced equilibrium between economic, social, and environmental impacts. Possible future research directions are emphasized, including the use of digital tools and BIM models to promote the adoption of circular economy practices and the validation of the design solution through value analysis. Possible improvements in the user’s well-being are also taken into consideration.

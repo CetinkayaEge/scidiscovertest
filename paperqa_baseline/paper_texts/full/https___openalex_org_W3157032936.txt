@@ -1,0 +1,9 @@
+Title: Chemical Recycling of Post-Consumer PLA Waste for Sustainable Production of Ethyl Lactate
+Authors: Pranav Majgaonkar, Ronny Hanich, Frank Malz, Robert Brüll
+Year: 2021
+Venue: Chemical Engineering Journal
+DOI: https://doi.org/10.1016/j.cej.2021.129952
+Paper ID: https://openalex.org/W3157032936
+
+Abstract:
+Though synthetic plastics are indispensable in our everyday life, the uncertainty surrounding the sustainability of fossil reserves has led to the development of a novel class of plastics, referred to as bio-based plastics. Poly(lactic) acid (PLA) is the most frequently used member of this family. However, due to the lack of a holistic recycling strategy, its large scale utilization can turn out to be an acute source of plastic pollution in the future. Unlike other attempts directed towards chemical recycling of PLA which violate the basic principles of green chemistry, the following research establishes an eco-friendly recycling concept aimed at the production of a valuable lactate ester through solvent assisted transesterification of PLA waste. The scope of this research is not only limited to the selection of an appropriate system (solvent, nucleophile and catalyst) but also extends to analysing the selectivity of the solvent towards the PLA fraction in a commingled stream and the effect of the concentration of nucleophile and different PLA substrates on the yield of the lactate ester. It was observed that, irrespective of the source of PLA, a high yield of ethyl lactate (approx. 80%) with complete retention of stereochemistry was obtained for a molar ratio of nucleophile per mole repeat unit of PLA (nnuc:nrpu) equivalent to 3. Thus, this work represents an attempt towards instituting circular bio-economy by overcoming the engineering and environmental challenges associated with PLA-waste management and production of ethyl lactate; while strictly adhering to the principles of green chemistry and sustainable chemical engineering.

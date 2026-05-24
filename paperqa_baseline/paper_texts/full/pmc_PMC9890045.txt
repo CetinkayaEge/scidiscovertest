@@ -1,0 +1,9 @@
+Title: Structural and Functional Neural Alterations in Internet Addiction: A Study Protocol for Systematic Review and Meta-Analysis
+Authors: Jun-Li Liu, Jing-Ting Sun, Hui-Lin Hu, Hao-Yuan Wang, Yun-Xi Kang, Tian-Qi Chen, Zhu-Hong Chen, Yu-Xuan Shang, Yu-Ting Li, Bo Hu, Rui Liu
+Year: 2023
+Venue: Psychiatry Investigation
+DOI: 10.30773/pi.2021.0383
+Paper ID: pmc_PMC9890045
+
+Abstract:
+A growing number of neuroimaging studies have revealed abnormal brain structural and functional alterations in subjects with internet addiction (IA), however, with conflicting conclusions. We plan to conduct a systematic review and meta-analysis on the studies of voxelbased morphometry (VBM) and resting-state functional connectivity (rsFC), to reach a consolidated conclusion and point out the future direction in this field. A comprehensive search of rsFC and VBM studies of IA will be conducted in the PubMed, Cochrane Library, and Web of Science databases to retrieve studies published from the inception dates to August 2021. If the extracted data are feasible, activation likelihood estimation and seed-based d mapping methods will be used to meta-analyze the brain structural and functional changes in IA patients. This study will hopefully reach a consolidated conclusion on the impact of IA on human brain or point out the future direction in this field.

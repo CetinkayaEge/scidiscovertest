@@ -1,0 +1,9 @@
+Title: Validation of 3D Knee Kinematics during Gait on Treadmill with an Instrumented Knee Brace
+Authors: Nicolas Reneaud, Raphaël Zory, Olivier Guérin, Luc Thomas, Serge S. Colson, Pauline Gerus, Frédéric Chorin
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041812
+Paper ID: pmc_PMC9968020
+
+Abstract:
+To test a novel instrumented knee brace intended for use as a rehabilitation system, based on inertial measurement units (IMU) to monitor home-based exercises, the device was compared to the gold standard of motion analysis. The purpose was to validate a new calibration method through functional tasks and assessed the value of adding magnetometers for motion analysis. Thirteen healthy young adults performed a 60-second gait test at a comfortable walking speed on a treadmill. Knee kinematics were captured simultaneously, using the instrumented knee brace and an optoelectronic camera system (OCS). The intraclass correlation coefficient (ICC) showed excellent reliability for the three axes of rotation with and without magnetometers, with values ranging between 0.900 and 0.972. Pearson’s r coefficient showed good to excellent correlation for the three axes, with the root mean square error (RMSE) under 3° with the IMUs and slightly higher with the magnetometers. The instrumented knee brace obtained certain clinical parameters, as did the OCS. The instrumented knee brace seems to be a valid tool to assess ambulatory knee kinematics, with an RMSE of <3°, which is sufficient for clinical interpretations. Indeed, this portable system can obtain certain clinical parameters just as well as the gold standard of motion analysis. However, the addition of magnetometers showed no significant advantage in terms of enhancing accuracy.

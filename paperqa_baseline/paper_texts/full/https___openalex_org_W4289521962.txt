@@ -1,0 +1,9 @@
+Title: Sustained inhibition of NPY/AgRP neuronal activity by FGF1
+Authors: Eun‐Sang Hwang, Jarrad M. Scarlett, Arian F. Baquero, Camdin M. Bennett, Yanbin Dong, Dominic Chau, Jenny M. Brown, Aaron J. Mercer, Thomas H. Meek, Kevin L. Grove, Bao Anh Phan, Gregory J. Morton, Kevin W. Williams, Michael W. Schwartz
+Year: 2022
+Venue: JCI Insight
+DOI: https://doi.org/10.1172/jci.insight.160891
+Paper ID: https://openalex.org/W4289521962
+
+Abstract:
+In rodent models of type 2 diabetes (T2D), central administration of FGF1 normalizes elevated blood glucose levels in a manner that is sustained for weeks or months. Increased activity of NPY/AgRP neurons in the hypothalamic arcuate nucleus (ARC) is implicated in the pathogenesis of hyperglycemia in these animals, and the ARC is a key brain area for the antidiabetic action of FGF1. We therefore sought to determine whether FGF1 inhibits NPY/AgRP neurons and, if so, whether this inhibitory effect is sufficiently durable to offer a feasible explanation for sustained diabetes remission induced by central administration of FGF1. Here, we show that FGF1 inhibited ARC NPY/AgRP neuron activity, both after intracerebroventricular injection in vivo and when applied ex vivo in a slice preparation; we also showed that the underlying mechanism involved increased input from presynaptic GABAergic neurons. Following central administration, the inhibitory effect of FGF1 on NPY/AgRP neurons was also highly durable, lasting for at least 2 weeks. To our knowledge, no precedent for such a prolonged inhibitory effect exists. Future studies are warranted to determine whether NPY/AgRP neuron inhibition contributes to the sustained antidiabetic action elicited by intracerebroventricular FGF1 injection in rodent models of T2D.

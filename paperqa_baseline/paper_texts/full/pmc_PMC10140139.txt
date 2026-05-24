@@ -1,0 +1,9 @@
+Title: Magnetic resonance imaging at 9.4 T: the Maastricht journey
+Authors: Dimo Ivanov, Federico De Martino, Elia Formisano, Francisco J. Fritz, Rainer Goebel, Laurentius Huber, Sriranga Kashyap, Valentin G. Kemper, Denizhan Kurban, Alard Roebroeck, Shubharthi Sengupta, Bettina Sorger, Desmond H. Y. Tse, Kâmil Uludağ, Christopher J. Wiggins, Benedikt A. Poser
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01080-4
+Paper ID: pmc_PMC10140139
+
+Abstract:
+The 9.4 T scanner in Maastricht is a whole-body magnet with head gradients and parallel RF transmit capability. At the time of the design, it was conceptualized to be one of the best fMRI scanners in the world, but it has also been used for anatomical and diffusion imaging. 9.4 T offers increases in sensitivity and contrast, but the technical ultra-high field (UHF) challenges, such as field inhomogeneities and constraints set by RF power deposition, are exacerbated compared to 7 T. This article reviews some of the 9.4 T work done in Maastricht. Functional imaging experiments included blood oxygenation level-dependent (BOLD) and blood-volume weighted (VASO) fMRI using different readouts. BOLD benefits from shorter T 2 * at 9.4 T while VASO from longer T 1 . We show examples of both ex vivo and in vivo anatomical imaging. For many applications, pTx and optimized coils are essential to harness the full potential of 9.4 T. Our experience shows that, while considerable effort was required compared to our 7 T scanner, we could obtain high-quality anatomical and functional data, which illustrates the potential of MR acquisitions at even higher field strengths. The practical challenges of working with a relatively unique system are also discussed.

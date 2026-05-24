@@ -1,0 +1,9 @@
+Title: IADE: An Improved Differential Evolution Algorithm to Preserve Sustainability in a 6G Network
+Authors: Zhou Zhou, Mohammad Shojafar, Jemal Abawajy, Ali Kashif Bashir
+Year: 2021
+Venue: IEEE Transactions on Green Communications and Networking
+DOI: https://doi.org/10.1109/tgcn.2021.3111909
+Paper ID: https://openalex.org/W3201072786
+
+Abstract:
+Differential evolution (DE) algorithm is utilized to find an optimized solution in multidimensional real applications like 5G/6G networked devices and support unlimited connectivity for terrestrial networks due to high efficiency, robustness, and easy achievements. With the development of new emerging networks and the rise of big data, the DE algorithm encounters a series of challenges, such as the slow convergence rate in late iteration, strong parameter dependence, and easiness to fall into local optimum. These issues exponentially increase the energy and power consumption of communications and computing technologies in 5G/6G network like a networked data center. To address this and leverage a practical solution, this paper introduces IADE , an improved adaptive DE algorithm, to solve the problems mentioned earlier. IADE improves the scaling factor, crossover probability, variation, and selection strategy of the DE algorithm. In IADE, the parameters adaptively adjusted with the population’s iterative evolution to meet the parameter’s different requirements values of network steering traffic in each period. Numerous experiments are carried out through the benchmark function to evaluate the performance of IADE, and the results obtained from the experiment illustrate that IADE surpasses the benchmark algorithms in terms of solution accuracy and convergence speed for large tasks around 10%, respectively.

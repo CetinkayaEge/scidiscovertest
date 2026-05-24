@@ -1,0 +1,9 @@
+Title: A Versatile and Sustainable Multicomponent Platform for the Synthesis of Protein Degraders: Proof-of-Concept Application to BRD4-Degrading PROTACs
+Authors: Irene Preet Bhela, Alice Ranza, Federica Carolina Balestrero, M. Teresa Serafini, Silvio Aprile, Rita Maria Concetta Di Martino, Fabrizio Condorelli, Tracey Pirali
+Year: 2022
+Venue: Journal of Medicinal Chemistry
+DOI: https://doi.org/10.1021/acs.jmedchem.2c01218
+Paper ID: https://openalex.org/W4307982813
+
+Abstract:
+The use of small molecules to induce targeted protein degradation is increasingly growing in the drug discovery landscape, and protein degraders have progressed rapidly through the pipelines. Despite the advances made so far, their synthesis still represents a significant burden and new approaches are highly demanded. Herein we report an unprecedented platform that leverages the modular nature of both multicomponent reactions and degraders to enable the preparation of highly decorated PROTACs. As a proof of principle, our platform has been applied to the preparation of potential BRD4-degrading PROTACs, resulting in the discovery of a set of degraders endowed with high degradation efficiency. Compared to the existing methods, our approach offers a versatile and cost-effective means to access libraries of protein degraders and increase the chance of identifying successful candidates.

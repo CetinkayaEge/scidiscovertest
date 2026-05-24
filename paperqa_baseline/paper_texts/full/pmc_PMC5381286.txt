@@ -1,0 +1,9 @@
+Title: Determination of Original Infection Source of H7N9 Avian Influenza by Dynamical Model
+Authors: Juan Zhang, Zhen Jin, Gui-Quan Sun, Xiang-Dong Sun, You-Ming Wang, Baoxu Huang
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep04846
+Paper ID: pmc_PMC5381286
+
+Abstract:
+H7N9, a newly emerging virus in China, travels among poultry and human. Although H7N9 has not aroused massive outbreaks, recurrence in the second half of 2013 makes it essential to control the spread. It is believed that the most effective control measure is to locate the original infection source and cut off the source of infection from human. However, the original infection source and the internal transmission mechanism of the new virus are not totally clear. In order to determine the original infection source of H7N9, we establish a dynamical model with migratory bird, resident bird, domestic poultry and human population, and view migratory bird, resident bird, domestic poultry as original infection source respectively to fit the true dynamics during the 2013 pandemic. By comparing the date fitting results and corresponding Akaike Information Criterion (AIC) values, we conclude that migrant birds are most likely the original infection source. In addition, we obtain the basic reproduction number in poultry and carry out sensitivity analysis of some parameters.

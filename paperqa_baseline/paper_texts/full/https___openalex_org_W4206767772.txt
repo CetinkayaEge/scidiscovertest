@@ -1,0 +1,9 @@
+Title: Consuming to Conserve: A Multilevel Investigation of Sustainable Consumption
+Authors: Lei Chen, Hui Zheng, Vishal Shah
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14010223
+Paper ID: https://openalex.org/W4206767772
+
+Abstract:
+As the world grapples with the ever-worsening specter of climate change, it becomes important for various nations/governments to develop mitigating measures. One of the ways to ebb the march of climate decline is to educate the population in respective countries about sustainable consumption that reduces carbon emissions. While prior research has explored the key factors of sustainable consumption in several industries, such as consumer knowledge and personal norm, it has played relatively little attention to them macro-level variables such as level of post-materialism and innovation. To this end, we study the interplay between individual-level factors and national-level variables using a hierarchical linear model on consumers’ perceived value for sustainable products and subsequent sustainable behavior. We used a dataset from the World Value Survey, which includes over 34 thousand respondents covering 40 different nations. The finding suggests that differences in individual-level sustainable consumption are explained by national-level factors. Post-materialist societies were willing to make financial sacrifices for sustainable consumption. Our findings also emphasize that the national-level factor Green Innovation modifies the relationship between Preserved Value and Sustainable Consumption at the individual-level. The findings not only sharpen our sustainability knowledge from a hierarchical view, but also provide useful guidelines for policymakers to promote sustainable consumption. Our study emphasizes that sustainable behavior is the consequence of the interplay between multilevel factors.

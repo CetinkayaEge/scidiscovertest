@@ -1,0 +1,9 @@
+Title: Identification and Functional Analysis of Two Novel Genes—Geranylgeranyl Pyrophosphate Synthase Gene ( AlGGPPS ) and Isopentenyl Pyrophosphate Isomerase Gene ( AlIDI )—from Aurantiochytrium limacinum Significantly Enhance De Novo β-Carotene Biosynthesis in Escherichia coli
+Authors: Shitao Shi, Yi Chang, Jinhui Yu, Hui Chen, Qiang Wang, Yuping Bi
+Year: 2023
+Venue: Marine Drugs
+DOI: 10.3390/md21040249
+Paper ID: pmc_PMC10141969
+
+Abstract:
+Precursor regulation has been an effective strategy to improve carotenoid production and the availability of novel precursor synthases facilitates engineering improvements. In this work, the putative geranylgeranyl pyrophosphate synthase encoding gene ( AlGGPPS ) and isopentenyl pyrophosphate isomerase encoding gene ( AlIDI ) from Aurantiochytrium limacinum MYA-1381 were isolated. We applied the excavated AlGGPPS and AlIDI to the de novo β-carotene biosynthetic pathway in Escherichia coli for functional identification and engineering application. Results showed that the two novel genes both functioned in the synthesis of β-carotene. Furthermore, AlGGPPS and AlIDI performed better than the original or endogenous one, with 39.7% and 80.9% increases in β-carotene production, respectively. Due to the coordinated expression of the 2 functional genes, β-carotene content of the modified carotenoid-producing E. coli accumulated a 2.99-fold yield of the initial EBIY strain in 12 h, reaching 10.99 mg/L in flask culture. This study helped to broaden current understanding of the carotenoid biosynthetic pathway in Aurantiochytrium and provided novel functional elements for carotenoid engineering improvements.

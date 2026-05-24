@@ -1,0 +1,9 @@
+Title: Does ESG performance indicate corporate economic sustainability? Evidence based on the sustainable growth rate
+Authors: Zihao Lin
+Year: 2024
+Venue: Borsa Istanbul Review
+DOI: https://doi.org/10.1016/j.bir.2024.02.010
+Paper ID: https://openalex.org/W4392133593
+
+Abstract:
+Based on a sample of Chinese listed companies from 2009 to 2021, this study finds that environmental, social, and governance (ESG) performance has a positive impact on having a sustainable growth rate (SGR). Our heterogeneity analysis reveals that ESG performance leads to higher SGR, particularly among firms with lower SGR or non-state-owned enterprises. The mechanism analysis suggests that ESG performance enhances SGR by stimulating patent applications, reducing agency costs, and mitigating corporate risk. Further analysis indicates that the environmental score has a negative influence on SGR, whereas social and governance scores have a positive impact. Ultimately, this research emphasizes that ESG performance can enhance financial performance by driving SGR.

@@ -1,0 +1,9 @@
+Title: Advancements and challenges in microfluidic paper-based analytical devices: design, manufacturing, sustainability, and field applications
+Authors: Prakash Aryal, Charles S. Henry
+Year: 2024
+Venue: Frontiers in Lab on a Chip Technologies
+DOI: https://doi.org/10.3389/frlct.2024.1467423
+Paper ID: https://openalex.org/W4405640383
+
+Abstract:
+Microfluidic paper-based analytical devices (µPADs) have gained significant attention in analytical science and technology due to their numerous advantages over traditional analytical techniques, including cost-effectiveness, miniaturization, and sustainability. µPADs are widely used in point-of-care diagnostics, health monitoring, environmental detection, food safety, forensics, and security. Since the first report in 2007, there have been substantial advancements in their fabrication techniques, detection methods, and applications. Over the years, significant efforts and advancements have been made to improve the cost-effectiveness, manufacturing scalability, user-friendliness, and sustainability of µPADs. In this review, we explore the general trends and advancements in the fabrication, sensing methods, and applications of µPADs, highlighting key improvements and innovations. We also examine the eco-friendliness of µPADs and present real-world success stories from field studies and citizen science initiatives. Additionally, we address the challenges associated with transitioning µPADs from the lab to the field. Finally, we examine the outlook for µPADs and propose strategies to improve their usefulness in various fields.

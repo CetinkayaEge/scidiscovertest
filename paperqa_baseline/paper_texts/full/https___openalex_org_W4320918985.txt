@@ -1,0 +1,9 @@
+Title: Assessing Sustainable Passenger Transportation Systems to Address Climate Change Based on MCDM Methods in an Uncertain Environment
+Authors: Saeid Jafarzadeh Ghoushchi, Mohd Nizam Ab Rahman, Moein Soltanzadeh, Muhammad Zeeshan Rafique, Hernadewita Hernadewita, Fatemeh Yadegar Marangalo, Ahmad Rasdan Ismail
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043558
+Paper ID: https://openalex.org/W4320918985
+
+Abstract:
+Climate change, the emission of greenhouse gases, and air pollution are some of the most important and challenging environmental issues. One of the main sources of such problems is the field of transportation, which leads to the emission of greenhouse gases. An efficient way to deal with such problems is carrying out sustainable transportation to reduce the amount of air pollution in an efficient way. The evaluation of sustainable vehicles can be considered a multi-criteria decision-making (MCDM) method due to the existence of several criteria. In this paper, we aim to provide an approach based on MCDM methods and the spherical fuzzy set (SFS) concept to evaluate and prioritize sustainable vehicles for a transportation system in Tehran, Iran. Therefore, we have developed a new integrated approach based on the stepwise weight assessment ratio analysis (SWARA) and the measurement of alternatives and ranking according to the compromise solution (MARCOS) methods in SFS to assess the sustainable vehicles based on the criteria identified by experts. The evaluation results show that the main criterion of the environment has a high degree of importance compared to other criteria. Moreover, autonomous vehicles are the best and most sustainable vehicles to reduce greenhouse gas emissions. Finally, by comparing the ranking results with other decision-making methods, it was found that the proposed approach has high validity and efficiency.

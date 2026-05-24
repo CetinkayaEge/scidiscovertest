@@ -1,0 +1,9 @@
+Title: The Role of FAIR Data towards Sustainable Agricultural Performance: A Systematic Literature Review
+Authors: Basharat Ali, Peter Dahlhaus
+Year: 2022
+Venue: Agriculture
+DOI: https://doi.org/10.3390/agriculture12020309
+Paper ID: https://openalex.org/W4213149211
+
+Abstract:
+Feeding a growing global population requires improving agricultural production in the face of multidimensional challenges; and digital agriculture is increasingly seen as a strategy for better decision making. Agriculture and agricultural supply chains are increasingly reliant on data, including its access and provision from the farm to the consumer. Far-reaching data provision inevitably needs the adoption of FAIR (Findable, Accessible, Interoperable, and Reusable) that offer data originators and depository custodians with a set of guidelines to safeguard a progressive data availability and reusability. Through a systematic literature review it is apparent that although FAIR data principles can play a key role in achieving sustainable agricultural operational and business performance, there are few published studies on how they have been adopted and used. The investigation examines: (1) how FAIR data assimilate with the sustainability framework; and (2) whether the use of FAIR data by the agriculture industry, has an impact on agricultural performance. The work identifies a social science research gap and suggests a method to guide agriculture practitioners in identifying the specific barriers in making their data FAIR. By troubleshooting the barriers, the value propositions of adopting FAIR data in agriculture can be better understood and addressed.

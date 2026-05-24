@@ -1,0 +1,9 @@
+Title: A Neuro-oncologist’s Perspective on Management of Brain Metastases in Patients with EGFR Mutant Non-small Cell Lung Cancer
+Authors: Tresa McGranahan, Seema Nagpal
+Year: 2017
+Venue: Current Treatment Options in Oncology
+DOI: 10.1007/s11864-017-0466-0
+Paper ID: pmc_PMC5385200
+
+Abstract:
+Opinion statement Management of non-small cell lung cancer (NSCLC) with brain metastasis (BrM) has been revolutionized by identification of molecular subsets that have targetable oncogenes. Historically, survival for NSCLC with symptomatic BrM was weeks to months. Now, many patients are surviving years with limited data to guide treatment decisions. Tumors with activating mutations in epidermal growth factor receptor (EGFRact+) have a higher incidence of BrM, but a longer overall survival. The high response rate of both systemic and BrM EGFRact+ NSCLC to tyrosine kinase inhibitors (TKIs) has led to the rapid incorporation of new therapies but is outpacing evidence-based decisions for BrM in NSCLC. While whole brain radiation therapy (WBRT) was the foundation of management of BrM, extended survival raises concerns for the subacute and late effects radiotherapy. We favor the use of TKIs and delaying the use of WBRT when able. At inevitable disease progression, we consider alternative dosing schedules to increase CNS penetration (such as pulse dosing of erlotinib) or advance to next generation TKI if available. We utilize local control options of surgery or stereotactic radiosurgery (SRS) for symptomatic accessible lesions based on size and edema. At progression despite available TKIs, we use pemetrexed-based platinum doublet chemotherapy or immunotherapy if the tumor has high expression of PDL-1. We reserve the use of WBRT for patients with more than 10 BrM and progression despite TKI and conventional chemotherapy, if performance status is appropriate.

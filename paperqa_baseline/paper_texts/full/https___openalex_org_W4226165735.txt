@@ -1,0 +1,9 @@
+Title: Blockchain technology adoption for sustainable learning
+Authors: Ahmad Mousa Altamimi, Mahmood Ghaleb Al-Bashayreh, Mohammad Aloudat, Dmaithan Almajali
+Year: 2022
+Venue: International Journal of Data and Network Science
+DOI: https://doi.org/10.5267/j.ijdns.2022.1.013
+Paper ID: https://openalex.org/W4226165735
+
+Abstract:
+Sustainable Learning and Education (SLE) is a recent emerging philosophy founded on sustainability principles and in response to the UN announced Sustainable Development Goals (SDGs). Therefore, technologies should be implemented to empower educational institutions to achieve SLE. This study aims to investigate the factors impacting the intentions of using blockchain technology for SLE in Jordanian universities. Accordingly, an extended Technology Acceptance Model (TAM) is proposed where five more factors are integrated. To this end, an extended model was proposed and validated using structural equation modeling based on 407 responses collected using an online survey. The results showed that adopted factors significantly impact blockchain use in SLE. We believe that the study finding would assist decision-makers in building systems for sustainable learning and education for the Jordanian higher educational institutes.

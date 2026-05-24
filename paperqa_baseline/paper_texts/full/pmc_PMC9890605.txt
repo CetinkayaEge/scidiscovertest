@@ -1,0 +1,9 @@
+Title: Pd( ii )-catalyzed β- and γ-C-(sp 3 )–H dienylation with allenyl acetates †
+Authors: Rahul K. Shukla, Akshay M. Nair, Chandra M. R. Volla
+Year: 2022
+Venue: Chemical Science
+DOI: 10.1039/d2sc05188e
+Paper ID: pmc_PMC9890605
+
+Abstract:
+Recent years have seen the emergence of transition metal catalyzed C–H activation as a powerful synthetic tool in organic chemistry. Allenes have fascinated synthetic chemists due to their unique reactivity. While directing group assisted functionalization of C(sp 2 )–H bonds with allenes is well documented in the literature, their coupling with more challenging aliphatic C(sp 3 )–H bonds remains elusive. In this regard, we hereby report a Pd( ii ) catalyzed 8-aminoquinoline directed aliphatic C(sp 3 )–H dienylation protocol using allenyl acetates. A variety of carboxylic acids including fatty acids and amino acids were efficiently functionalized at β and γ-positions to afford diversely functionalized 1,3-dienes. Preliminary mechanistic studies revealed the crucial role of the base in the success of the transformation. The reaction proceeds via regioselective 2,3-migratory insertion of the allene with the alkylpalladium( ii ) species followed by β-acetoxy elimination. A Pd( ii )-catalyzed highly regioselective dienylation of sp 3 C–H bonds has been accomplished engaging allenes for a variety of aliphatic carboxamides including fatty acids and amino acids.

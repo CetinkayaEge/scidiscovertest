@@ -1,0 +1,9 @@
+Title: SL2B aptamer and folic acid dual-targeting DNA nanostructures for synergic biological effect with chemotherapy to combat colorectal cancer
+Authors: Pengchao Sun, Nan Zhang, Yafang Tang, Yanan Yang, Xiao Chu, Yongxing Zhao
+Year: 2017
+Venue: International Journal of Nanomedicine
+DOI: 10.2147/IJN.S132929
+Paper ID: pmc_PMC5388264
+
+Abstract:
+DNA nanostructures prepared by self-assembly possess good stability, high biocompatibility, and low immunogenicity as drug delivery vehicles. In this work, DNA tetrahedron (TD) was constructed and modified with SL2B aptamer (S) and folic acid (F). TD possessed a small diameter (~6 nm) and entered into the nucleus quickly. SL2B aptamer can inhibit cancer cell growth by disturbing vascular endothelial growth factor/Notch signaling pathways. To explore the effect of SL2B number on colorectal cancer inhibition, SL2B multimers (dimer, trimer, and tetramer) were constructed by functionalization of TD with different numbers of SL2B. One SL2B per TD was the most efficient anticancer strategy and showed significantly better anticancer efficacy than SL2B, probably due to the enhanced stability of SL2B by TD. Doxorubicin (DOX) is a potent anticancer agent that can intercalate into DNA double strands. Results showed that TD could facilitate DOX entrance into the nucleus and the intracellular delivery of DOX was further enhanced by functionalization of SL2B and F. DOX-intercalated TD modified with two F and two S (DOX@TD-2F2S) could cause sufficient HT-29 cell inhibition at a much lower DOX concentration. In sum, DOX@TD-2F2S exhibited a synergic anticancer biological effect with chemotherapy and can be a promising strategy for treating colorectal cancer.

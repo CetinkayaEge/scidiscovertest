@@ -1,0 +1,9 @@
+Title: A Token Classification-Based Attention Model for Extracting Multiple Emotion–Cause Pairs in Conversations
+Authors: Soyeop Yoo, Okran Jeong
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062983
+Paper ID: pmc_PMC10053568
+
+Abstract:
+People exchange emotions through conversations with others and provide different answers depending on the reasons for their emotions. During a conversation, it is important to find not only such emotions but also their cause. Emotion–cause pair extraction (ECPE) is a task used to determine emotions and their causes in a single pair within a text, and various studies have been conducted to accomplish ECPE tasks. However, existing studies have limitations in that some models conduct the task in two or more steps, whereas others extract only one emotion–cause pair for a given text. We propose a novel methodology for extracting multiple emotion–cause pairs simultaneously from a given conversation with a single model. Our proposed model is a token-classification-based emotion–cause pair extraction model, which applies the BIO (beginning–inside–outside) tagging scheme to efficiently extract multiple emotion–cause pairs in conversations. The proposed model showed the best performance on the RECCON benchmark dataset in comparative experiments with existing studies and was experimentally verified to efficiently extract multiple emotion–cause pairs in conversations.

@@ -1,0 +1,9 @@
+Title: Differences in the functional brain architecture of sustained attention and working memory in youth and adults
+Authors: Omid Kardan, Andrew J. Stier, Carlos Cardenas‐Iniguez, Kathryn E. Schertz, Julia C. Pruin, Yuting Deng, Taylor A. Chamberlain, W.J. MEREDITH, Xi-Han Zhang, Jillian E. Bowman, Tanvi Lakhtakia, Lucy Tindel, Emily W. Avery, Qi Lin, Kwangsun Yoo, Marvin M. Chun, Marc G. Berman, Monica D. Rosenberg
+Year: 2022
+Venue: PLoS Biology
+DOI: https://doi.org/10.1371/journal.pbio.3001938
+Paper ID: https://openalex.org/W4312066191
+
+Abstract:
+Sustained attention (SA) and working memory (WM) are critical processes, but the brain networks supporting these abilities in development are unknown. We characterized the functional brain architecture of SA and WM in 9- to 11-year-old children and adults. First, we found that adult network predictors of SA generalized to predict individual differences and fluctuations in SA in youth. A WM model predicted WM performance both across and within children-and captured individual differences in later recognition memory-but underperformed in youth relative to adults. We next characterized functional connections differentially related to SA and WM in youth compared to adults. Results revealed 2 network configurations: a dominant architecture predicting performance in both age groups and a secondary architecture, more prominent for WM than SA, predicting performance in each age group differently. Thus, functional connectivity (FC) predicts SA and WM in youth, with networks predicting WM performance differing more between youths and adults than those predicting SA.

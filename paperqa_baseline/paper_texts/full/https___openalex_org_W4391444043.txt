@@ -1,0 +1,9 @@
+Title: Phase separation and domain crystallinity control enable open‐air‐printable highly efficient and sustainable organic photovoltaics
+Authors: Jie Lv, Xiaokang Sun, Hua Tang, Fei Wang, Guangye Zhang, Liangxiang Zhu, Jiaming Huang, Qianguang Yang, Shirong Lu, Gang Li, Frédéric Laquai, Hanlin Hu
+Year: 2024
+Venue: InfoMat
+DOI: https://doi.org/10.1002/inf2.12530
+Paper ID: https://openalex.org/W4391444043
+
+Abstract:
+Abstract Organic solar cells (OSCs) have emerged as a promising solution for sustainable energy production, offering advantages such as a low carbon footprint, short energy payback period, and compatibility with eco‐solvents. However, the use of hazardous solvents continues to dominate the best‐performing OSCs, mainly because of the challenges of controlling phase separation and domain crystallinity in eco‐solvents. In this study, we combined the solvent vapor treatment of CS 2 and thermal annealing to precisely control the phase separation and domain crystallinity in PM6:M‐Cl and PM6:O‐Cl systems processed with the eco‐solvent o‐xylene. This method resulted in a maximum power conversion efficiency (PCE) of 18.4%, which is among the highest values reported for sustainable binary OSCs. Furthermore, the fabrication techniques were transferred from spin coating in a nitrogen environment to blade printing in ambient air, retaining a PCE of 16.0%, showing its potential for high‐throughput and scalable production. In addition, a comparative analysis of OSCs processed with hazardous and green solvents was conducted to reveal the differences in phase aggregation. This work not only underscores the significance of sustainability in OSCs but also lays the groundwork for unlocking the full potential of open‐air‐printable sustainable OSCs for commercialization.

@@ -1,0 +1,9 @@
+Title: Deep learning-based optimization of energy utilization in IoT-enabled smart cities: A pathway to sustainable development
+Authors: Abeer Aljohani
+Year: 2024
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2024.08.075
+Paper ID: https://openalex.org/W4402300529
+
+Abstract:
+As metropolitan populations increase and the demand for environmentally friendly lifestyles increases, the growth of IoT-enabled smart cities promises a viable route for overcoming the complex concerns of energy management, sustainable development, and financial optimization. By presenting a deep learning method to energy management, this research article delves into the quest of sustainability in smart cities. The study describes an innovative framework for optimizing energy utilization in IoT-connected smart cities by leveraging the potential of deep learning algorithms. It uses real-time data from a number of sources, including sensors, devices, as well as smart grids, to allow smart energy saving and efficiency decisions. The proposed approach conforms to dynamic utilization trends and gives precise demand estimates by utilizing deep learning models including neural networks and recurrent neural networks (RNNs). Through detailed simulations and realistic case studies done in several smart cities throughout the world, the research paper proves the effectiveness of the deep learning-based strategy. The findings show significant reductions in energy usage, cost savings, and significant contributions to greenhouse gas emissions elimination, eventually increasing environmental sustainability. Additionally, the framework's versatility and scalability highlight its application in a variety of urban situations. This study article not only tackles current energy management issues, but it also sets the framework for a more environmentally conscious as well as effective urban future.

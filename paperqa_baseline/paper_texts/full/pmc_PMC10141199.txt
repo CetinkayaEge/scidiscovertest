@@ -1,0 +1,9 @@
+Title: Current Status and Future Outlook of Additive Manufacturing Technologies for the Reconstruction of the Trachea
+Authors: Hwa-Yong Lee, Jin Woo Lee
+Year: 2023
+Venue: Journal of Functional Biomaterials
+DOI: 10.3390/jfb14040196
+Paper ID: pmc_PMC10141199
+
+Abstract:
+Tracheal stenosis and defects occur congenitally and in patients who have undergone tracheal intubation and tracheostomy due to long-term intensive care. Such issues may also be observed during tracheal removal during malignant head and neck tumor resection. However, to date, no treatment method has been identified that can simultaneously restore the appearance of the tracheal skeleton while maintaining respiratory function in patients with tracheal defects. Therefore, there is an urgent need to develop a method that can maintain tracheal function while simultaneously reconstructing the skeletal structure of the trachea. Under such circumstances, the advent of additive manufacturing technology that can create customized structures using patient medical image data provides new possibilities for tracheal reconstruction surgery. In this study, the three-dimensional (3D) printing and bioprinting technologies used in tracheal reconstruction are summarized, and various research results related to the reconstruction of mucous membranes, cartilage, blood vessels, and muscle tissue, which are tissues required for tracheal reconstruction, are classified. The prospects for 3D-printed tracheas in clinical studies are also described. This review serves as a guide for the development of artificial tracheas and clinical trials using 3D printing and bioprinting.

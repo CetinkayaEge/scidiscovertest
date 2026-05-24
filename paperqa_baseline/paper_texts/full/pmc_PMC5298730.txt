@@ -1,0 +1,9 @@
+Title: Fabrication of a Miniature Multi-Parameter Sensor Chip for Water Quality Assessment
+Authors: Bo Zhou, Chao Bian, Jianhua Tong, Shanhong Xia
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010157
+Paper ID: pmc_PMC5298730
+
+Abstract:
+Water contamination is a main inducement of human diseases. It is an important step to monitor the water quality in the water distribution system. Due to the features of large size, high cost, and complicated structure of traditional water determination sensors and devices, it is difficult to realize real-time water monitoring on a large scale. In this paper, we present a multi-parameter sensor chip, which is miniature, low-cost, and robust, to detect the pH, conductivity, and temperature of water simultaneously. The sensor chip was fabricated using micro-electro-mechanical system (MEMS) techniques. Iridium oxide film was electrodeposited as the pH-sensing material. The atomic ratio of Ir(III) to Ir(IV) is about 1.38 according to the X-ray photoelectron spectroscopy (XPS) analysis. The pH sensing electrode showed super-Nernstian response (−67.60 mV/pH) and good linearity (R 2 = 0.9997), in the range of pH 2.22 to pH 11.81. KCl-agar and epoxy were used as the electrolyte layer and liquid junction for the solid-state reference electrode, respectively, and its potential stability in deionized water was 56 h. The conductivity cell exhibited a linear determination range from 21.43 μ S / cm to 1.99 mS / cm , and the electrode constant was 1.566 cm −1 . Sensitivity of the temperature sensor was 5.46 Ω / ° C . The results indicate that the developed sensor chip has potential application in water quality measurements.

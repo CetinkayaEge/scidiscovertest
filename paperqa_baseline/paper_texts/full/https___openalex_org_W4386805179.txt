@@ -1,0 +1,9 @@
+Title: Sustainable energy generation from municipal solid waste: A brief overview of existing technologies
+Authors: Luka Traven
+Year: 2023
+Venue: Case Studies in Chemical and Environmental Engineering
+DOI: https://doi.org/10.1016/j.cscee.2023.100491
+Paper ID: https://openalex.org/W4386805179
+
+Abstract:
+The aim of this mini review is to outline the currently existing methods of energy recovery from municipal solid waste (MSW), including incineration, pyrolysis, anaerobic digestion, and landfill gas recovery and utilization providing tentative suggestions for further research. Through a comparative analysis of these technologies, the paper evaluates their feasibility in the context of MSW management and presents current research related to these technologies. Incineration and landfill gas capture and utilization emerge as the most prominent options for energy recovery from municipal solid waste. Incineration effectively reduces waste volume and generates electricity and heat, while gas capture uses methane emissions from the decomposition of landfilled waste to generate energy and reduce environmental impact. Pyrolysis and anaerobic digestion on the other hand have limited use for obtaining energy from MSW due to their complex processes and challenges associated with heterogeneous MSW composition and there are still problems that needs to be addressed before their successful industrial scale applications. In addition, the paper analyses the thermal treatment of waste in the context of the waste management hierarchy. This review underscores the importance of matching technology choices to waste characteristics and highlights the importance of tailored approaches in waste management in general and Waste-to-Energy projects in particular.

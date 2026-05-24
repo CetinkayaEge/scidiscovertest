@@ -1,0 +1,9 @@
+Title: Private-label sustainable supplier selection using a fuzzy entropy-VIKOR-based approach
+Authors: Jun Zhang, Linze Li, Jing Zhang, Liping Chen, Guojiao Chen
+Year: 2021
+Venue: Complex & Intelligent Systems
+DOI: https://doi.org/10.1007/s40747-021-00317-w
+Paper ID: https://openalex.org/W3136663317
+
+Abstract:
+Abstract In recent decades, private labels have been the focus of great development in retail due to their price advantage and consumer-oriented production. With growing customer awareness of safety and health, private-label sustainable supplier selection has become a strategic issue for many retailers. Although there are many studies on supplier selection issues and evaluation methods, studies on the sustainability and consumption sectors are rather limited. Therefore, a novel three-phase MCDM model for private-label supplier selection compliance with sustainability criteria is proposed. First, the Delphi method is used to construct a criteria system based on a detailed literature review. Then, an integrated weight algorithm is suggested, in which objective weights are based on attributes’ entropy measurements, and subjective weights are derived from decision-makers’ preferences. Eventually, during evaluation, a fuzzy set extended in VIKOR is exploited by considering the vagueness of decision makers’ expressions. The results from a case study then show that green packaging and labelling, relationship with manufacturing brand, order flexibility, and product traceability are the most important criteria in retail private-label supplier selection. The flexibility and reliability of the proposed model are also demonstrated in a practical case of supplier evaluation.

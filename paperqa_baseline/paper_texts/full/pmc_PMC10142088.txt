@@ -1,0 +1,9 @@
+Title: Investing in the Prevention of Communicable Disease Outbreaks: Fiscal Health Modelling—The Tool of Choice for Assessing Public Finance Sustainability
+Authors: Simon van der Schans, Marcel H. Schöttler, Jurjen van der Schans, Mark P. Connolly, Maarten J. Postma, Cornelis Boersma
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040823
+Paper ID: pmc_PMC10142088
+
+Abstract:
+National strategies for preparedness for future outbreaks of COVID-19 often include timely preparedness with vaccines. Fiscal health modelling (FHM) has recently been brought forward as an additional analysis by defining the public economic impact from a governmental perspective. As governments are the main decision-makers concerning pandemic preparedness, this study aimed to develop an FHM framework for infectious diseases in the Netherlands. Based on the Dutch COVID-19 outbreak of 2020 and 2021 and publicly available data on tax income and gross domestic product (GDP), the fiscal impact of COVID-19 was assessed using two approaches. Approach I: Prospective modelling of future fiscal impact based on publicly available laboratory-confirmed COVID-19 cases; and Approach II: Retrospective assessment of the extrapolated tax and benefit income and GDP. Approach I estimated the consequences that can be causally linked to the population counts reducing income taxes by EUR 266 million. The total fiscal loss amounted to EUR 164 million over 2 years (excluding pension payments averted). The total losses in terms of tax income (2020 and 2021) and GDP (2020) (Approach II), were estimated at, respectively, EUR 13.58 billion and EUR 96.3 billion. This study analysed different aspects of a communicable disease outbreak and its influence on government public accounts. The choice of the two presented approaches depends on the perspective of the analysis, the time horizon of the analysis and the availability of data.

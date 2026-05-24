@@ -1,0 +1,9 @@
+Title: Big Data and the United Nations Sustainable Development Goals (UN SDGs) at a Glance
+Authors: Hossein Hassani, Xu Huang, Steve MacFeely, Mohammad Reza Entezarian
+Year: 2021
+Venue: Big Data and Cognitive Computing
+DOI: https://doi.org/10.3390/bdcc5030028
+Paper ID: https://openalex.org/W3174248829
+
+Abstract:
+The launch of the United Nations (UN) 17 Sustainable Development Goals (SDGs) in 2015 was a historic event, uniting countries around the world around the shared agenda of sustainable development with a more balanced relationship between human beings and the planet. The SDGs affect or impact almost all aspects of life, as indeed does the technological revolution, empowered by Big Data and their related technologies. It is inevitable that these two significant domains and their integration will play central roles in achieving the 2030 Agenda. This research aims to provide a comprehensive overview of how these domains are currently interacting, by illustrating the impact of Big Data on sustainable development in the context of each of the 17 UN SDGs.

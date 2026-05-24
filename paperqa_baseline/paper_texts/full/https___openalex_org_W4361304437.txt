@@ -1,0 +1,9 @@
+Title: Performance analysis of sustainable technologies for biochar production: A comprehensive review
+Authors: Sahar Safarian
+Year: 2023
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2023.03.111
+Paper ID: https://openalex.org/W4361304437
+
+Abstract:
+Biochar is a valuable product from thermochemical energy conversion technologies. Its yield, and properties vary vastly with the type of feedstock, technology and operating parameters applied, which also affect potential applications. Hence, in this paper various sustainable technologies for biochar production including slow pyrolysis, fast pyrolysis, intermediate pyrolysis, torrefaction, microwave, gasification, flash carbonization, and hydrothermal carbonization are reviewed, with a focus on performance analysis. Specifically, the relationships between biochar production technologies, biochar properties, and the applied feedstocks and operating conditions for each technology are discussed. The effect of critical operating parameters e.g., temperature and heating rate on the yield and quality of the biochar produced via these systems are also studied. This review provides researchers and energy decision makers, important information regarding to the most efficient pathways from feedstocks to biochar products by implementing of sustainable biochar production technologies.

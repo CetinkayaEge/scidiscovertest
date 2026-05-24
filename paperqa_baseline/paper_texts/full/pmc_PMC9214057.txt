@@ -1,0 +1,9 @@
+Title: YPD-30, a prodrug of YPD-29B, is an oral small-molecule inhibitor targeting PD-L1 for the treatment of human cancer
+Authors: Fangfang Lai, Ming Ji, Lei Huang, Yunchen Wang, Nina Xue, Tingting Du, Kai Dong, Xiaoqing Yao, Jing Jin, Zhiqiang Feng, Xiaoguang Chen
+Year: 2022
+Venue: Acta Pharmaceutica Sinica. B
+DOI: 10.1016/j.apsb.2022.02.031
+Paper ID: pmc_PMC9214057
+
+Abstract:
+PD-1 and PD-L1 antibodies have brought about extraordinary clinical benefits for cancer patients, and their indications are expanding incessantly. Currently, most PD-1/PD-L1 agents are administered intravenously, which may be uncomfortable for some cancer patients. Herein, we develop a novel oral-delivered small molecular, YPD-29B, which specifically targets human PD-L1. Our data suggested that YPD-29B could potently and selectively block the interaction between PD-L1 and PD-1, but did not inhibit any other immune checkpoints. Mechanistically, YPD-29B induced human PD-L1 dimerization and internalization, which subsequently activated T lymphocytes and therefore overcomes immunity tolerance in vitro . YDP-29B was modified as the YPD-30 prodrug to improve druggability. Using humanized mice with human PD-1 xenografts of human PD-L1 knock-in mouse MC38 cancer cells, we demonstrated that YPD-30 exhibited significant antitumor activity and was well tolerated in vivo . Taken together, our results indicate that YPD-30 serves as a promising therapeutic candidate for anti-human PD-L1 cancer immunotherapy. Graphical abstract Orally administered prodrug IMMH-010 is transformed into YPD-29B, which can directly bind to PD-L1 protein and induce its dimerization and degradation, thus hindering the binding of PD-1/PD-L1. Image 1

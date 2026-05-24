@@ -1,0 +1,9 @@
+Title: T-BET and EOMES sustain mature human NK cell identity and antitumor function
+Authors: Pamela Wong, Jennifer A. Foltz, Lily Chang, Carly C. Neal, Tony Yao, Celia C. Cubitt, Jennifer Tran, Samantha Kersting-Schadek, Sathvik Palakurty, Natália Jaeger, David A. Russler‐Germain, Nancy D. Marín, Margery Gang, Julia A. Wagner, Alice Y. Zhou, Miriam T. Jacobs, Mark P. Foster, Timothy Schappe, Lynne Marsala, Ethan McClain, Patrick Pence, Michelle Becker‐Hapak, Bryan Fisk, Allegra A. Petti, Obi L. Griffith, Malachi Griffith, Melissa M. Berrien-Elliott, Todd A. Fehniger
+Year: 2023
+Venue: Journal of Clinical Investigation
+DOI: https://doi.org/10.1172/jci162530
+Paper ID: https://openalex.org/W4379509186
+
+Abstract:
+Since the T-box transcription factors (TFs) T-BET and EOMES are necessary for initiation of NK cell development, their ongoing requirement for mature NK cell homeostasis, function, and molecular programming remains unclear. To address this, T-BET and EOMES were deleted in unexpanded primary human NK cells using CRISPR/Cas9. Deleting these TFs compromised in vivo antitumor response of human NK cells. Mechanistically, T-BET and EOMES were required for normal NK cell proliferation and persistence in vivo. NK cells lacking T-BET and EOMES also exhibited defective responses to cytokine stimulation. Single-cell RNA-Seq revealed a specific T-box transcriptional program in human NK cells, which was rapidly lost following T-BET and EOMES deletion. Further, T-BET- and EOMES-deleted CD56bright NK cells acquired an innate lymphoid cell precursor-like (ILCP-like) profile with increased expression of the ILC-3-associated TFs RORC and AHR, revealing a role for T-box TFs in maintaining mature NK cell phenotypes and an unexpected role of suppressing alternative ILC lineages. Our study reveals the critical importance of sustained EOMES and T-BET expression to orchestrate mature NK cell function and identity.

@@ -1,0 +1,9 @@
+Title: Time-Optimal Asymmetric S-Curve Trajectory Planning of Redundant Manipulators under Kinematic Constraints
+Authors: Tianyu Liu, Jingkai Cui, Yanhui Li, Siyuan Gao, Mingchao Zhu, Liheng Chen
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063074
+Paper ID: pmc_PMC10052581
+
+Abstract:
+This paper proposes a novel trajectory planning algorithm to design an end-effector motion profile along a specified path. An optimization model based on the whale optimization algorithm (WOA) is established for time-optimal asymmetrical S-curve velocity scheduling. Trajectories designed by end-effector limits may violate kinematic constraints due to the non-linear relationship between the operation and joint space of redundant manipulators. A constraints conversion approach is proposed to update end-effector limits. The path can be divided into segments at the minimum of the updated limitations. On each path segment, the jerk-limited S-shaped velocity profile is generated within the updated limitations. The proposed method aims to generate end-effector trajectory by kinematic constraints which are imposed on joints, resulting in efficient robot motion performance. The WOA-based asymmetrical S-curve velocity scheduling algorithm can be automatically adjusted for different path lengths and start/end velocities, allowing flexibility in finding the time-optimal solution under complex constraints. Simulations and experiments on a redundant manipulator prove the effect and superiority of the proposed method.

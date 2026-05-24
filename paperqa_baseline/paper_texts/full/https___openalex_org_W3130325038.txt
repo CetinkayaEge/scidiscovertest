@@ -1,0 +1,9 @@
+Title: Analyzing companies' interactions with the Sustainable Development Goals through network analysis: Four corporate sustainability imperatives
+Authors: Jan Anton van Zanten, Rob van Tulder
+Year: 2021
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.2753
+Paper ID: https://openalex.org/W3130325038
+
+Abstract:
+Abstract The alignment between corporate strategies and the Sustainable Development Goals (SDGs) can be an indicator of long‐term sustainability success. But which types of companies are most, and which are least, aligned with the SDGs? This paper scores how 67 economic activities—as a proxy for companies' operations and the goods or services they deliver—interact with 59 SDG targets. It then uses network analysis to define which activities are most and least aligned with the SDG Agenda. The results reveal four types of corporate activities, each having a strategic sustainability imperative: (i) “core activities” predominantly generate positive, while having few negative, impacts on the SDGs, challenging companies to scale their contributions to further align with the SDG Agenda; (ii) “mixed activities” have moderate/high degrees of both negative/positive impacts, posing a decoupling imperative; (iii) “opposed activities” provide few benefits yet cause significant adverse impacts, implying that companies must transform in order to better align with the SDGs; and (iv) “peripheral activities” have immaterial positive and negative impacts, creating an imperative to explore innovative avenues for creating SDG contributions. Detailed network graphs are presented that map companies' interactions with the SDGs and guide the creation of corporate sustainability strategies. Policy implications include the potential for using companies' activities as a lever for adopting a “nexus approach” to the SDGs.

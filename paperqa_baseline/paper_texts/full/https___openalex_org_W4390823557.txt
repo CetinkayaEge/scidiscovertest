@@ -1,0 +1,9 @@
+Title: Leveraging mechanochemistry for sustainable polymer degradation
+Authors: Simay Aydonat, Adrian H. Hergesell, Claire L. Seitzinger, Regina Lennarz, Y. A. Chang, Carsten Sievers, Jan Meisner, Ina Vollmer, Robert Göstl
+Year: 2024
+Venue: Polymer Journal
+DOI: https://doi.org/10.1038/s41428-023-00863-9
+Paper ID: https://openalex.org/W4390823557
+
+Abstract:
+Abstract Over 8 billion tons of plastic have been produced to date, and a 100% reclamation recycling strategy is not foreseeable. This review summarizes how the mechanochemistry of polymers may contribute to a sustainable polymer future by controlling the degradation not only of de novo developed designer polymers but also of plastics in existing waste streams. The historical development of polymer mechanochemistry is presented while highlighting current examples of mechanochemically induced polymer degradation. Additionally, theoretical and computational frameworks are discussed that may lead to the discovery and better understanding of new mechanochemical reactions in the future. This review takes into account technical and engineering perspectives converging the fields of trituration and polymer mechanochemistry with a particular focus on the fate of commodity polymers and potential technologies to monitor mechanochemical reactions while they occur. Therefore, a unique perspective of multiple communities is presented, highlighting the need for future transdisciplinary research to tackle the high-leverage parameters governing an eventually successful mechanochemical degradation approach for a circular economy.

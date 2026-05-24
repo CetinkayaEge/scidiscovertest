@@ -1,0 +1,9 @@
+Title: Approach to the Impact of Digital Technologies on Sustainability Reporting through Structural Equation Modeling and Artificial Neural Networks
+Authors: Anca Mehedinţu, Georgeta Șoavă
+Year: 2023
+Venue: Electronics
+DOI: https://doi.org/10.3390/electronics12092048
+Paper ID: https://openalex.org/W4367310241
+
+Abstract:
+The motivation for study derives from the requirements imposed by the European Union Corporate Sustainability Reporting Directive, which increases the sustainability reporting scope and the need for companies to use emerging digital technologies. The research aim is to evaluate the digital transformation impact of the European Union companies on sustainability reporting expressed through three sustainable performance indicators (economic, social, and ecological) based on a conceptual model. The data were collected from Eurostat for 2011–2021. The study proposes a framework for sustainable performance analysis through linear regression models and structural equations. Additionally, a hierarchy of digitization indicators is created by modeling structural equations, depending on their impact on sustainability performance indicators, which is validated using neural networks. The results indicate that the company’s digital transformation indicators positively influence economic and social performance and lead to an improved environmental protection (a decrease in pollution), proving the established hypotheses’ validity. The proposed model can be the basis for companies to create their dashboards for analyzing and monitoring sustainable performance. This research can be the basis of other studies, having a significant role in establishing economic and environmental strategies to stimulate an increase of companies that carry out sustainability reporting.

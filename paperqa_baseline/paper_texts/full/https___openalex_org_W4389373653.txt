@@ -1,0 +1,9 @@
+Title: The influence of tourism on the road to achieving carbon neutrality and environmental sustainability in Malaysia: The role of renewable energy
+Authors: Asif Raihan
+Year: 2023
+Venue: Sustainability Analytics and Modeling
+DOI: https://doi.org/10.1016/j.samod.2023.100028
+Paper ID: https://openalex.org/W4389373653
+
+Abstract:
+As the effects of climate change on the environment become more apparent, numerous initiatives have been launched to achieve carbon neutrality and environmental sustainability. Travelers may be adding to global warming by engaging in climate-altering practices like flying or staying in hotels. Thus, this study examined the connection between tourism and carbon emissions, considering a few additional unique aspects. The long-run and short-run coefficients were calculated by applying the autoregressive distributed lag (ARDL) method using data spanning 1990-2019. According to projections, tourism in Malaysia makes it more difficult to reach carbon neutrality. Traveler numbers along with fossil fuel energy use, economic growth, financial development, gross fixed capital formation, and population have a positive association with long-term carbon emissions. However, the findings revealed a negative link between renewable energy consumption and carbon emissions. Several methods, including Canonical Cointegration Regression (CCR), Dynamic Ordinary Least Squares (DOLS), and Fully Modified Ordinary Least Squares (FMOLS), were used to independently verify the results. The results of this research have important policy implications for achieving carbon neutrality and promoting sustainable tourism development in Malaysia by boosting renewable energy use.

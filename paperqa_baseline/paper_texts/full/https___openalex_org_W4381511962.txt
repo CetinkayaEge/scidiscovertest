@@ -1,0 +1,9 @@
+Title: Using data science for sustainable development in higher education
+Authors: Walter Leal Filho, João Henrique Paulino Pires Eustachio, Andreea Corina Nita, Maria Alzira Pimenta Dinis, Amanda Lange Sálvia, Debby Cotton, Kamila Frizzo, Laís Viera Trevisan, Thais Dibbern
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2638
+Paper ID: https://openalex.org/W4381511962
+
+Abstract:
+Abstract Despite the abundance of studies focused on how higher education institutions (HEIs) are implementing sustainable development (SD) in their educational programmes, there is a paucity of interdisciplinary studies exploring the role of technology, such as data science, in an SD context. Further research is thus needed to identify how SD is being deployed in higher education (HE), generating positive externalities for society and the environment. This study aims to address this research gap by exploring various ways in which data science may support university efforts towards SD. The methodology relied on a bibliometric analysis to understand and visualise the connections between data science and SD in HE, as well as reporting on selected case studies showing how data science may be deployed for creating SD impact in HE and in the community. The results from the bibliometric analysis unveil five research strands driving this field, and the case studies exemplify them. This study can be considered innovative since it follows previous research on artificial intelligence and SD. Moreover, the combination of bibliometric analysis and case studies provides an overview of trends, which may be useful to researchers and decision‐makers who wish to explore the use of data science for SD in HEIs. Finally, the findings highlight how data science can be used in HEIs, combined with a framework developed to support further research into SD in HE.

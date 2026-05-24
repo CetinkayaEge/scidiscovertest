@@ -1,0 +1,9 @@
+Title: Modeling for strain-softening rocks with lateral damage based on statistical physics
+Authors: Xiaoming Li, Mingwu Wang, Fengqiang Shen, Hongfei Zhang
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283313
+Paper ID: pmc_PMC10062584
+
+Abstract:
+Statistical physics is widely used to study the nonlinear mechanical behaviors of rock. For the limitations of existing statistical damage models and Weibull distribution, a new statistical damage with lateral damage is established. In addition, by introducing the maximum entropy distribution function and the strict constraint on damage variable, a expression of the damage variable matching the proposed model is obtained. Through comparing with the experimental results and the other two statistical damage models, the rationality of the maximum entropy statistical damage model is confirmed. The proposed model can better reflect the strain-softening behavior for rocks and respond to the residual strength, which provides a theoretical reference for practical engineering construction and design.

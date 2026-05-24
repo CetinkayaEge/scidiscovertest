@@ -1,0 +1,9 @@
+Title: Surface Environment and Energy Density Effects on the Detection and Disinfection of Microorganisms Using a Portable Instrument
+Authors: Sungho Shin, Brianna Dowden, Iyll-Joon Doh, Bartek Rajwa, Euiwon Bae, J. Paul Robinson
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042135
+Paper ID: pmc_PMC9968048
+
+Abstract:
+Real-time detection and disinfection of foodborne pathogens are important for preventing foodborne outbreaks and for maintaining a safe environment for consumers. There are numerous methods for the disinfection of hazardous organisms, including heat treatment, chemical reaction, filtration, and irradiation. This report evaluated a portable instrument to validate its simultaneous detection and disinfection capability in typical laboratory situations. In this challenging study, three gram-negative and two gram-positive microorganisms were used. For the detection of contamination, inoculations of various concentrations were dispensed on three different surface types to estimate the performance for minimum-detectable cell concentration. Inoculations higher than 10 3 ~10 4 CFU/mm 2 and 0.15 mm of detectable contaminant size were estimated to generate a sufficient level of fluorescence signal. The evaluation of disinfection efficacy was conducted on three distinct types of surfaces, with the energy density of UVC light (275-nm) ranging from 4.5 to 22.5 mJ/cm 2 and the exposure time varying from 1 to 5 s. The study determined the optimal energy dose for each of the microorganisms species. In addition, surface characteristics may also be an important factor that results in different inactivation efficacy. These results demonstrate that the proposed portable device could serve as an in-field detection and disinfection unit in various environments, and provide a more efficient and user-friendly way of performing disinfection on large surface areas.

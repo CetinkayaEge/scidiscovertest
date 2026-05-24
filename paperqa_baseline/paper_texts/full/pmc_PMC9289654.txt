@@ -1,0 +1,9 @@
+Title: Deep learning-based important weights-only transfer learning approach for COVID-19 CT-scan classification
+Authors: Tejalal Choudhary, Shubham Gujar, Anurag Goswami, Vipul Mishra, Tapas Badal
+Year: 2022
+Venue: Applied Intelligence (Dordrecht, Netherlands)
+DOI: 10.1007/s10489-022-03893-7
+Paper ID: pmc_PMC9289654
+
+Abstract:
+COVID-19 has become a pandemic for the entire world, and it has significantly affected the world economy. The importance of early detection and treatment of the infection cannot be overstated. The traditional diagnosis techniques take more time in detecting the infection. Although, numerous deep learning-based automated solutions have recently been developed in this regard, nevertheless, the limitation of computational and battery power in resource-constrained devices makes it difficult to deploy trained models for real-time inference. In this paper, to detect the presence of COVID-19 in CT-scan images, an important weights-only transfer learning method has been proposed for devices with limited runt-time resources. In the proposed method, the pre-trained models are made point-of-care devices friendly by pruning less important weight parameters of the model. The experiments were performed on two popular VGG16 and ResNet34 models and the empirical results showed that pruned ResNet34 model achieved 95.47% accuracy, 0.9216 sensitivity, 0.9567 F-score, and 0.9942 specificity with 41.96% fewer FLOPs and 20.64% fewer weight parameters on the SARS-CoV-2 CT-scan dataset. The results of our experiments showed that the proposed method significantly reduces the run-time resource requirements of the computationally intensive models and makes them ready to be utilized on the point-of-care devices.

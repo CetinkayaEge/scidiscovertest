@@ -1,0 +1,9 @@
+Title: A Global Assessment of Sustainable Development: Integrating Socioeconomic, Resource and Environmental Dimensions
+Authors: Jie Sun, Hui Jin, Fu-Sheng Tsai, Mihajlo Jakovljević
+Year: 2022
+Venue: Frontiers in Energy Research
+DOI: https://doi.org/10.3389/fenrg.2022.816714
+Paper ID: https://openalex.org/W4213073193
+
+Abstract:
+Sustainable development and its assessment have increasingly played a key background role in government policymaking across the world. Generally, sustainable development is defined as the coordination of economic, environmental, and social development in order to balance intra-generational welfare and maximize inter-generational overall welfare. Therefore, the purpose of our research is to assess national sustainable development from the perspective of integrating economic, environmental, and social dimensions, and then to better monitor the status of sustainable development. We first adopt and modify the National Sustainable Development Index, which has been proposed as a way to amend the Human Development Index, including 12 indicators (weighted by the Entropy Method) in economic, environmental, and social dimensions. After that, we assess the sustainable development status of 179 countries from 2010 to 2016. The result shows that there is no obvious trend of narrowing the gap in sustainable development levels among countries, or even an expanding trend in this period. We also make a comparison between the original NSDI and our modified NSDI and find that the modified NSDI not only retains the merits but also makes up for the shortcomings of the original one in acceptability, reliability, and continuity.

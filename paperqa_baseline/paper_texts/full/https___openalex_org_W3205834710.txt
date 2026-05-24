@@ -1,0 +1,9 @@
+Title: Environmental, Social, Governance Risk and Corporate Sustainable Growth Nexus: Quantile Regression Approach
+Authors: Xiaodong Teng, Yanzhi Wang, Aiguo Wang, Bao‐Guang Chang, Kun‐Shan Wu
+Year: 2021
+Venue: International Journal of Environmental Research and Public Health
+DOI: https://doi.org/10.3390/ijerph182010865
+Paper ID: https://openalex.org/W3205834710
+
+Abstract:
+Despite a huge body of literature revealing that the effect of environmental, social and governance (ESG) scores on a firms' financial performance and value, it lacks the empirical research on the nexus between corporate sustainable growth and ESG risk in the existing research. The paper aims to examine the nexus between ESG risk and corporate sustainable growth. This study utilizes a quantile regression approach to explore how ESG risk affects corporate sustainable growth (proxied by sustainable growth rate, SGR). The ordinary least squares estimation results confirm that ESG significantly negatively affects corporate sustainable growth. The quantile regression results reveal ESG risk has a significant negative effect on corporate sustainable growth in the upper quantiles of SGR, but not in the lower and median quantiles. The results show that the impact of ESG risk on the corporate sustainable growth is asymmetric and affected by the distribution of SGR. Furthermore, the research results identify that the negative relationship between ESG risk and corporate sustainable growth is particularly apparent for firms in environmentally sensitive industries. This study greatly contributes to existing literature, as with this detailed knowledge, managers can make decisions based on these associations and identify the most lucrative course of action.

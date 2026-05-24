@@ -1,0 +1,9 @@
+Title: Employing T-Cell Memory to Effectively Target SARS-CoV-2
+Authors: Zaw Htet Tun, Nang Thinn Thinn Htike, Chaw Kyi-Tha-Thu, Wing-Hin Lee
+Year: 2023
+Venue: Pathogens
+DOI: 10.3390/pathogens12020301
+Paper ID: pmc_PMC9967959
+
+Abstract:
+Well-trained T-cell immunity is needed for early viral containment, especially with the help of an ideal vaccine. Although most severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-infected convalescent cases have recovered with the generation of virus-specific memory T cells, some cases have encountered T-cell abnormalities. The emergence of several mutant strains has even threatened the effectiveness of the T-cell immunity that was established with the first-generation vaccines. Currently, the development of next-generation vaccines involves trying several approaches to educate T-cell memory to trigger a broad and fast response that targets several viral proteins. As the shaping of T-cell immunity in its fast and efficient form becomes important, this review discusses several interesting vaccine approaches to effectively employ T-cell memory for efficient viral containment. In addition, some essential facts and future possible consequences of using current vaccines are also highlighted.

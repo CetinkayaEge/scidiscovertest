@@ -1,0 +1,9 @@
+Title: Towards More Sustainable Aqueous Zinc‐Ion Batteries
+Authors: Jiacai Zhu, Zhiwei Tie, Songshan Bi, Zhiqiang Niu
+Year: 2024
+Venue: Angewandte Chemie
+DOI: https://doi.org/10.1002/ange.202403712
+Paper ID: https://openalex.org/W4393148236
+
+Abstract:
+Abstract Aqueous zinc‐ion batteries (AZIBs) are considered as the promising candidates for large‐scale energy storage because of their high safety, low cost and environmental benignity. The large‐scale applications of AZIBs will inevitably result in a large amount of spent AZIBs, which not only induce the waste of resources, but also pose environmental risks. Therefore, sustainable AZIBs have to be considered to minimize the risk of environmental pollution and maximize the utilization of spent compounds. Herein, this minireview focuses on the sustainability of AZIBs from material design and recycling techniques. The structure and degradation mechanism of AZIBs are discussed to guide the recycling design of the materials. Subsequently, the sustainability of component materials in AZIBs is further analysed to pre‐evaluate their recycling behaviors and mentor the selection of more sustainable component materials, including active materials in cathodes, Zn anodes, and aqueous electrolytes, respectively. According to the features of component materials, corresponding green and economic approaches are further proposed to realize the recycling of active materials in cathodes, Zn anodes and electrolytes, respectively. These advanced technologies endow the recycling of component materials with high efficiency and a closed‐loop control, ensuring that AZIBs will be the promising candidates of sustainable energy storage devices. This review will offer insight into potential future directions in the design of sustainable AZIBs.

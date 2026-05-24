@@ -1,0 +1,9 @@
+Title: Sustainable Supply Chain Management and Multi-Criteria Decision-Making Methods: A Systematic Review
+Authors: Ananna Paul, Nagesh Shukla, Sanjoy Kumar Paul, Andrea Trianni
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13137104
+Paper ID: https://openalex.org/W3175835060
+
+Abstract:
+Multi-criteria decision-making (MCDM) methods are smart tools to deal with numerous criteria in decision-making. These methods have been widely applied in the area of sustainable supply chain management (SSCM) because of their computational capabilities. This paper conducts a systematic literature review on MCDM methods applied in different areas of SSCM. From the literature search, a total of 106 published journal articles have been selected and analyzed. Both individual and integrated MCDM methods applied in SSCM are reviewed and summarized. In addition, contributions, methodological focuses, and findings of the reviewed articles are discussed. It is observed that MCDM methods are widely used for analyzing barriers, challenges, drivers, enablers, criteria, performances, and practices of SSCM. In recent years, studies have focused on integrating more than one MCDM method to highlight methodological contributions in SSCM; however, in the literature, limited research papers integrate multiple MCDM methods in the area of SSCM. Most of the published articles integrate only two MCDM methods, and integration with other methods, such as optimization and simulation techniques, is missing in the literature. This review paper contributes to the literature by analyzing existing research, identifying research gaps, and proposing new future research opportunities in the area of sustainable supply chain management applying MCDM methods.

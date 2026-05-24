@@ -1,0 +1,9 @@
+Title: Industry 4.0 for sustainable supply chain management: Drivers and barriers
+Authors: Martha García Samper, Dilson Goethe Florez, Jenny Romero, Javier Ramírez
+Year: 2022
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.07.094
+Paper ID: https://openalex.org/W4290928415
+
+Abstract:
+Sustainable supply chain management is one of the greatest challenges for the competitive, environmental and social performance of the industry, finding in the technological applications of Industry 4.0 mechanisms that drive its development. This study recognizes the aspects that determine the application of Industry 4.0, for the sustainability of the supply chain at multiple levels. To do so, the study conducts a bibliometric analysis and systematic literature review, based on 249 academic papers, which are thematically analyzed and categorized in terms of barriers, limitations, and benefits, applying the PRISMA systematic research protocol. The results suggest that environmental, economic and social concerns, as well as operational, technological, competitive, environmental and social benefits, together with drivers such as digital infrastructure financing, public and private support structures and the existence of a legal and political framework and government intervention allow the creation and sustained operation of sustainable supply chains. However, inefficient organizational culture and policies, manifested in the lack of awareness of employees and actors in the chain, the low level of transparency, security and cooperation in the use of data, high research and development costs, limited organizational resources, inadequate public policies and lack of financial support are aspects that inhibit their proper implementation.

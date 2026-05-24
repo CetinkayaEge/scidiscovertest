@@ -1,0 +1,9 @@
+Title: Spinal microglia contribute to sustained inflammatory pain via amplifying neuronal activity
+Authors: Nan Gu, Min‐Hee Yi, Madhuvika Murugan, Manling Xie, Sebastian Parusel, Jiyun Peng, Ukpong B. Eyo, Christine Hunt, Hailong Dong, Long‐Jun Wu
+Year: 2022
+Venue: Molecular Brain
+DOI: https://doi.org/10.1186/s13041-022-00970-3
+Paper ID: https://openalex.org/W4307659024
+
+Abstract:
+Microglia are highly dynamic immune cells of the central nervous system (CNS). Microglial processes interact with neuronal elements constantly on the order of minutes. The functional significance of this acute microglia-neuron interaction and its potential role in the context of pain is still largely unknown. Here, we found that spinal microglia increased their process motility and electrophysiological reactivity within an hour after the insult in a mouse model of formalin-induced acute, sustained, inflammatory pain. Using an ablation strategy to specifically deplete resident microglia in the CNS, we demonstrate that microglia participate in formalin-induced acute sustained pain behaviors by amplifying neuronal activity in the spinal dorsal horn. Moreover, we identified that the P2Y12 receptor, which is specifically expressed in microglia in the CNS, was required for microglial function in formalin-induced pain. Taken together, our study provides a novel insight into the contribution of microglia and the P2Y12 receptor in inflammatory pain that could be used for potential therapeutic strategies.

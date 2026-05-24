@@ -1,0 +1,9 @@
+Title: 3D printing in upcycling plastic and biomass waste to sustainable polymer blends and composites: A review
+Authors: Malik Hassan, Amar K. Mohanty, Manjusri Misra
+Year: 2023
+Venue: Materials & Design
+DOI: https://doi.org/10.1016/j.matdes.2023.112558
+Paper ID: https://openalex.org/W4389687853
+
+Abstract:
+Mishandling of waste plastics and biomasses is a major global concern. Every year, around 380 million tons of plastic are produced, with only 9% being recycled, leading to widespread pollution. Similarly, waste biomass generation from agricultural and forestry sectors accounts for 140 billion metric tons, in addition to 2.01 billion tons from municipal solid waste. This review paper addresses the gap regarding the integration of 3D printing, upcycling of recycled plastics, and the utilization of waste biomass in sustainable composites. 3D printed parts from recycled plastic have shown comparable mechanical properties compared to virgin materials, which have been further improved by the addition of waste biomass-derived fillers. The paper acknowledges that different printing parameters have substantial influence on the strength, ductility, crystallinity, and dimensional accuracy of printed parts. Therefore, optimizing these parameters becomes crucial for achieving improved mechanical performance. Moreover, incorporating reinforcing agents, stabilizers, chain extenders, compatibilizers, and surface modifiers in plastic recycling and 3D printing presents an excellent opportunity to enhance mechanical properties, thermal stability, adhesion, and dimensional stability. Additionally, the review identifies research gaps and proposes the integration of machine learning and artificial intelligence for enhanced process control and material development, further expanding the possibilities in this field.

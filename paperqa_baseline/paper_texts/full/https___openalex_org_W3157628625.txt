@@ -1,0 +1,9 @@
+Title: Managing Sustainable Urban Public Transport Systems: An AHP Multicriteria Decision Model
+Authors: Lourdes Rivero Gutiérrez, María A. de Vicente y Oliva, Alberto Romero-Ania
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094614
+Paper ID: https://openalex.org/W3157628625
+
+Abstract:
+The current combination of sustainable social awareness and the improved decision support systems, including multiple criteria decision models for sustainable development, creates the need for more efficient and accurate public policy decisions based on available technology. The continuous growth of urban public road transport in large cities, and therefore the worsening of air quality, along with recent economic crisis derived from the COVID-19 pandemic, is forcing public administrations to analyze the viability of current models, taking into consideration sustainable alternative energies. This study proposes a novel and consistent analytic hierarchy process (AHP) multicriteria decision-making (MCDM) model that combines both economic and environmental criteria, to evaluate public road transportation vehicles according to their alternative engine technologies and combustion characteristics. The proposed model has been applied to evaluate Madrid’s urban public road transport, based on 2020 data published by the Madrid City Council, compiled by authors, and assessed by a panel of 20 experts to identify criteria and factors included in the AHP-MCDM model. The findings illustrate the economic and environmental impact of alternative vehicles, show that the most sustainable alternative is the plug-in electric vehicle in economic and environmental terms, and assist policymakers and firms in future strategic decisions regarding sustainable urban transport policies.

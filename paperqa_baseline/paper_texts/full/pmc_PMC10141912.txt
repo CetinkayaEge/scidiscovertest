@@ -1,0 +1,9 @@
+Title: Advancing methods in big data capture, integration, classification and liberation
+Authors: Eftim Zdravevski, Ivan Miguel Pires
+Year: 2023
+Venue: BMC Research Notes
+DOI: 10.1186/s13104-023-06340-z
+Paper ID: pmc_PMC10141912
+
+Abstract:
+This special issue focuses on the importance of advancing research techniques for managing and analyzing data in today’s data-rich landscape. In this editorial, we set the context and invite contributions for a BMC Collection of articles titled ‘Advancing methods in data capture, integration, classification and liberation’. The collection emphasizes the need for efficient ways to standardize, cleanse, integrate, enrich, and liberate data, highlighting recent advancements in research methods and industrial technologies that facilitate this. We invite researchers to submit their best work to the collection and to showcase the latest advancements and additions to research techniques.

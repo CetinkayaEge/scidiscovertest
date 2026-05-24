@@ -1,0 +1,9 @@
+Title: Ground-source heat pumps (GSHPs): Materials, models, applications, and sustainability
+Authors: Hussein M. Maghrabie, Mahrousa M. Abdeltwab, Mohamed Hamam M. Tawfik
+Year: 2023
+Venue: Energy and Buildings
+DOI: https://doi.org/10.1016/j.enbuild.2023.113560
+Paper ID: https://openalex.org/W4387122282
+
+Abstract:
+Over the last few decades, great deals on ground-source heat pumps (GSHPs) have been broadly addressed. Various systems of GSHP have been employed worldwide for residential and nonresidential buildings due to their attractive advantages of high energy and environmental performance. The present paper aims to review comprehensively the previous investigations concerning the recent technologies of GSHPs. A brief description of GSHPs and their types, such as open and closed loops and vertical and horizontal GSHPs, is presented. The effects of the employed working fluids and the backfill material on the thermal performance of GSHPs are discussed. Various simulation models that describe the boreholes, such as Kelvin’s line-source model, the cylindrical-source model, the finite-length line-source method, Eskilson’s model, etc., are discussed. Simulation models utilized in the boreholes as one- and two-dimensional, or quasi-three-dimensional, are studied. The thermal resistance in the borehole, considering the properties of grouting materials and the configuration of borehole flow channels, is evaluated. In addition, different applications of GSHPs integrated with solar systems, cooling towers, ice storage systems, and air-conditioning systems are presented. Finally, the sustainable developments , challenges, and future work of GSHPs are introduced.

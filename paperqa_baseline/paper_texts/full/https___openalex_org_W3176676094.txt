@@ -1,0 +1,9 @@
+Title: Blockchain technology’s impact on supply chain integration and sustainable supply chain performance: evidence from the automotive industry
+Authors: Sachin Kamble, Angappa Gunasekaran, Nachiappan Subramanian, Abhijeet Ghadge, Amine Belhadi, Mani Venkatesh
+Year: 2021
+Venue: Annals of Operations Research
+DOI: https://doi.org/10.1007/s10479-021-04129-6
+Paper ID: https://openalex.org/W3176676094
+
+Abstract:
+Abstract The study investigates the relationship between the information and communication-enabled supply chain integration (SCI) and sustainable supply chain performance (SSCP). Moreover, to the best of our knowledge, there is no empirical evidence on the impact of blockchain technologies (BT) on the SSCP. Therefore, the primary aim of this study is to assess the relationship between BT and SSCP. More specifically, the study was conducted to examine the direct influence of BT on SCI and SSCP and the interactive effect of BT and SCI on SSCP. Based on the dynamic capability theoretical lens, the present study conceptualizes the use of BT as a specific IT resource to collaborate and reconfigure the ties with the upstream and downstream supply chain members to achieve SSCP. The results of the study support the hypothesis stating that BT positively influences the SSCP. The results recognize the role of SCI as a significant mediating variable between the BT and SSCP. The result indicates the strong influence of SCI with full mediation effect on the relationship between the BT and SSCP.

@@ -1,0 +1,9 @@
+Title: Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration
+Authors: Shashank Kosuri, Carlos H. Borca, Heloise Mugnier, Matthew Tamasi, Roshan Patel, Isabel Perez, Suneel Kumar, Zachary Finkel, Rene S. Schloss, Li Cai, Martin L. Yarmush, Michael A. Webb, Adam J. Gormley
+Year: 2022
+Venue: Advanced Healthcare Materials
+DOI: https://doi.org/10.1002/adhm.202102101
+Paper ID: https://openalex.org/W4210352128
+
+Abstract:
+Among the many molecules that contribute to glial scarring, chondroitin sulfate proteoglycans (CSPGs) are known to be potent inhibitors of neuronal regeneration. Chondroitinase ABC (ChABC), a bacterial lyase, degrades the glycosaminoglycan (GAG) side chains of CSPGs and promotes tissue regeneration. However, ChABC is thermally unstable and loses all activity within a few hours at 37 °C under dilute conditions. To overcome this limitation, the discovery of a diverse set of tailor-made random copolymers that complex and stabilize ChABC at physiological temperature is reported. The copolymer designs, which are based on chain length and composition of the copolymers, are identified using an active machine learning paradigm, which involves iterative copolymer synthesis, testing for ChABC thermostability upon copolymer complexation, Gaussian process regression modeling, and Bayesian optimization. Copolymers are synthesized by automated PET-RAFT and thermostability of ChABC is assessed by retained enzyme activity (REA) after 24 h at 37 °C. Significant improvements in REA in three iterations of active learning are demonstrated while identifying exceptionally high-performing copolymers. Most remarkably, one designed copolymer promotes residual ChABC activity near 30%, even after one week and notably outperforms other common stabilization methods for ChABC. Together, these results highlight a promising pathway toward sustained tissue regeneration.

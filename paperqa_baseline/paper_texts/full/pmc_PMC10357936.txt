@@ -1,0 +1,9 @@
+Title: Development of bright red‐shifted miRFP704nano using structural analysis of miRFPnano proteins
+Authors: Olena S. Oliinyk, Sergei Pletnev, Mikhail Baloban, Vladislav V. Verkhusha
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4709
+Paper ID: pmc_PMC10357936
+
+Abstract:
+Abstract We recently converted the GAF domain of NpR3784 cyanobacteriochrome into near‐infrared (NIR) fluorescent proteins (FPs). Unlike cyanobacterichrome, which incorporates phycocyanobilin tetrapyrrole, engineered NIR FPs bind biliverdin abundant in mammalian cells, thus being the smallest scaffold for it. Here, we determined the crystal structure of the brightest blue‐shifted protein of the series, miRFP670nano3, at 1.8 Å resolution, characterized its chromophore environment and explained the molecular basis of its spectral properties. Using the determined structure, we have rationally designed a red‐shifted NIR FP, termed miRFP704nano, with excitation at 680 nm and emission at 704 nm. miRFP704nano exhibits a small size of 17 kDa, enhanced molecular brightness, photostability and pH‐stability. miRFP704nano performs well in various protein fusions in live mammalian cells and should become a versatile genetically‐encoded NIR probe for multiplexed imaging across spatial scales in different modalities.

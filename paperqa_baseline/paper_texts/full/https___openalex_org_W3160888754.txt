@@ -1,0 +1,9 @@
+Title: Investigating the Linkage between Economic Growth and Environmental Sustainability in India: Do Agriculture and Trade Openness Matter?
+Authors: Ayhan Orhan, Tomiwa Sunday Adebayo, Sema Yılmaz Genç, Derviş Kırıkkaleli
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094753
+Paper ID: https://openalex.org/W3160888754
+
+Abstract:
+This paper assesses the linkage between CO2 emissions and economic growth while taking into account the role of energy consumption, agriculture, and trade openness in India. Using data covering the period between 1965 and 2019, the Bayer and Hanck cointegration and Gradual shift causality tests are applied to assess these economic indicators relationships’. Furthermore, we employed the wavelet coherence test. The advantage of the wavelet coherence test is that it differentiates between short-, medium-, and long-run dynamics over the entire sampling period. To the best of the authors’ understanding, the present paper is the first to apply wavelet analysis to investigate this relationship by incorporating agriculture as a determinant of environmental degradation. The empirical outcomes show that all variables appear to be highly correlated with CO2 emissions with the exemption of trade openness. This is further affirmed by the Gradual shift causality test, which shows that agriculture and energy consumption are crucial determinants of CO2 emissions in India. Accordingly, adequate policy measures are proposed based on these findings.

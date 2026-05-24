@@ -1,0 +1,9 @@
+Title: Uptake of appointment spacing model of care and associated factors among stable adult HIV clients on antiretroviral treatment Northwest Ethiopia
+Authors: Abaynew Assemu Asrade, Nurilign Abebe Moges, Maru Meseret, Kasaye Demeke Alemu, Tilahun Degu Tsega, Pammla Petrucka, Animut Takele Telayneh
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279760
+Paper ID: pmc_PMC9803219
+
+Abstract:
+Introduction Ethiopia launched an Appointment Spacing Model in 2017, which involved a six-month clinical visit and medication refill cycle. This study aimed to assess the uptake of the Appointment Spacing Model of care and associated factors among stable adult HIV clients on ART in Ethiopia. Methods A cross-sectional study was conducted from October 3 to November 30, 2020 among 415 stable adult ART clients. EpiData version 4.2 was used for data entry and SPSS version 25 was used for cleaning and analysis. A multivariable logistic regression model was fitted to identify associated factors, with CI at 95% with AOR being reported to show the strength of association. Results The uptake of the appointment spacing model was 50.1%. Residence [AOR: 2.33 (95% CI: 1.27, 4.26)], monthly income [AOR: 2.65 (95% CI: 1.13, 6.24)], social support [AOR: 2.21 (95% CI: 1.03, 4.71)], duration on ART [AOR: 2.41 (95% CI: 1.48, 3.92)], baseline regimen change [AOR: 2.20 (95% CI: 1.02, 4.78)], viral load [AOR: 2.80 (95% CI: 1.06, 7.35)], and alcohol abstinence [AOR: 2.02 (95% CI: 1.21, 3.37)] were statistically significant. Conclusions The uptake of the ASM was low. Behavioral change communication, engaging income-generating activities, and facility-level service providers’ training may improve the uptake.

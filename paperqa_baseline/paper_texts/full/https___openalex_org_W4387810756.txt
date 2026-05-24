@@ -1,0 +1,9 @@
+Title: Aromatized liposomes for sustained drug delivery
+Authors: Yang Li, Tianjiao Ji, Matthew Torre, Rachelle Shao, Yueqin Zheng, Dali Wang, Xiyu Li, Andong Liu, Wei Zhang, Xiaoran Deng, Ran Yan, Daniel S. Kohane
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-41946-8
+Paper ID: https://openalex.org/W4387810756
+
+Abstract:
+Insufficient drug loading and leakage of payload remain major challenges in designing liposome-based drug delivery systems. These phenomena can limit duration of effect and cause toxicity. Targeting the rate-limiting step in drug release from liposomes, we modify (aromatized) them to have aromatic groups within their lipid bilayers. Aromatized liposomes are designed with synthetic phospholipids with aromatic groups covalently conjugated onto acyl chains. The optimized aromatized liposome increases drug loading and significantly decreases the burst release of a broad range of payloads (small molecules and macromolecules, different degrees of hydrophilicity) and extends their duration of release. Aromatized liposomes encapsulating the anesthetic tetrodotoxin (TTX) achieve markedly prolonged effect and decreased toxicity in an application where liposomes are used clinically: local anesthesia, even though TTX is a hydrophilic small molecule which is typically difficult to encapsulate. Aromatization of lipid bilayers can improve the performance of liposomal drug delivery systems.

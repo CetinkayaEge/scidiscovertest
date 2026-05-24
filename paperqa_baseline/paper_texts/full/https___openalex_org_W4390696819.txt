@@ -1,0 +1,9 @@
+Title: Cobalt-free composite-structured cathodes with lithium-stoichiometry control for sustainable lithium-ion batteries
+Authors: Ke Chen, Pallab Barai, Özgenur Kahvecioğlu, Lijun Wu, Krzysztof Pupek, Mingyuan Ge, Lu Ma, Steven N. Ehrlich, Hui Zhong, Yimei Zhu, Venkat Srinivasan, Jianming Bai, Feng Wang
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-44583-3
+Paper ID: https://openalex.org/W4390696819
+
+Abstract:
+delivers 90% first-cycle Coulombic efficiency, 90% capacity retention, and close-to-zero voltage fade for 100 deep cycles, showing its potential as a Co-free cathode for sustainable Li-ion batteries.

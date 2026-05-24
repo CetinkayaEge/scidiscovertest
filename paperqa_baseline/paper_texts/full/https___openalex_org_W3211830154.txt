@@ -1,0 +1,9 @@
+Title: Recent Progress in the Energy Harvesting Technology—From Self-Powered Sensors to Self-Sustained IoT, and New Applications
+Authors: Long Liu, Xinge Guo, Weixin Liu, Chengkuo Lee
+Year: 2021
+Venue: Nanomaterials
+DOI: https://doi.org/10.3390/nano11112975
+Paper ID: https://openalex.org/W3211830154
+
+Abstract:
+With the fast development of energy harvesting technology, micro-nano or scale-up energy harvesters have been proposed to allow sensors or internet of things (IoT) applications with self-powered or self-sustained capabilities. Facilitation within smart homes, manipulators in industries and monitoring systems in natural settings are all moving toward intellectually adaptable and energy-saving advances by converting distributed energies across diverse situations. The updated developments of major applications powered by improved energy harvesters are highlighted in this review. To begin, we study the evolution of energy harvesting technologies from fundamentals to various materials. Secondly, self-powered sensors and self-sustained IoT applications are discussed regarding current strategies for energy harvesting and sensing. Third, subdivided classifications investigate typical and new applications for smart homes, gas sensing, human monitoring, robotics, transportation, blue energy, aircraft, and aerospace. Lastly, the prospects of smart cities in the 5G era are discussed and summarized, along with research and application directions that have emerged.

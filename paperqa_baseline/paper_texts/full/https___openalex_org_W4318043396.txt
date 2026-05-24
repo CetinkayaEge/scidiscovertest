@@ -1,0 +1,9 @@
+Title: Leveraging Infrastructure BIM for Life-Cycle-Based Sustainable Road Pavement Management
+Authors: Cristina Oreto, Salvatore Antonio Biancardo, Francesco Abbondati, Rosa Veropalumbo
+Year: 2023
+Venue: Materials
+DOI: https://doi.org/10.3390/ma16031047
+Paper ID: https://openalex.org/W4318043396
+
+Abstract:
+The latest developments in the field of road asphalt materials and pavement construction/maintenance technologies, as well as the spread of life-cycle-based sustainability assessment techniques, have posed issues in the continuous and efficient management of data and relative decision-making process for the selection of appropriate road pavement design and maintenance solutions; Infrastructure Building Information Modeling (IBIM) tools may help in facing such challenges due to their data management and analysis capabilities. The present work aims to develop a road pavement life cycle sustainability assessment framework and integrate such a framework into the IBIM of a road pavement project through visual scripting to automatically provide the informatization of an appropriate pavement information model and evaluate sustainability criteria already in the design stage through life cycle assessment and life cycle cost analysis methods. The application of the proposed BIM-based tool to a real case study allowed us (a) to draw considerations about the long-term environmental and economic sustainability of alternative road construction materials and (b) to draft a maintenance plan for a specific road section that represents the best compromise solution among the analyzed ones. The IBIM tool represents a practical and dynamic way to integrate environmental considerations into road pavement design, encouraging the use of digital tools in the road industry and ultimately supporting a pavement maintenance decision-making process oriented toward a circular economy.

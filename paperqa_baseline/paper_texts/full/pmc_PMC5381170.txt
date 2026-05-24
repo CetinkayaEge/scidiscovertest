@@ -1,0 +1,9 @@
+Title: B7-H3 Promotes the Migration and Invasion of Human Bladder Cancer Cells via the PI3K/Akt/STAT3 Signaling Pathway
+Authors: Yuchao Li, Guoning Guo, Jie Song, Zhiping Cai, Jin Yang, Zhiwen Chen, Yun Wang, Yaqin Huang, Qiangguo Gao
+Year: 2017
+Venue: Journal of Cancer
+DOI: 10.7150/jca.17759
+Paper ID: pmc_PMC5381170
+
+Abstract:
+Bladder cancer is one of most common malignant cancer. Although previous studies have found abnormal expression of B7-H3 in human bladder cancer tissues, the exact role and molecular mechanism of B7-H3 in bladder cancer remain unknown. In this study, we first detected the expression of B7-H3 in human bladder cancer samples and cell lines, and analyzed its correlations with clinicopathological pathological parameters. Next, siRNAs or overexpression plasmids of B7-H3 were transfected into T24 or 5637 cells, and cell proliferation, apoptosis, migration and invasion were analyzed via CCK-8, colony formation, flow cytometry and transwell assays, protein expression levels were determined by western blotting. The results presented here showed B7-H3 was upregulated in bladder cancer samples compared with normal tissues, and the expression level was correlated with local invasion status. B7-H3 did not affect cell proliferation and apoptosis, but cell migration and invasion were changed through the regulation of matrix metalloproteinase (MMP) 2/9. Knockdown of B7-H3 resulted in decreased activity of the STAT3 and PI3K/Akt pathways, and the Akt served as an upstream regulator of the STAT3. Our results suggest that the overexpression of B7-H3 promotes the migration and invasion of human bladder cancer cells through the PI3K/Akt/STAT3 signaling pathway.

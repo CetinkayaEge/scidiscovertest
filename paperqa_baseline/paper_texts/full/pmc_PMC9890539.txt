@@ -1,0 +1,9 @@
+Title: Wide-range color-tunable polycyclo-heteraborin multi-resonance emitters containing B–N covalent bonds †
+Authors: Guoyun Meng, Hengyi Dai, Jianping Zhou, Tianyu Huang, Xuan Zeng, Qi Wang, Xiang Wang, Yuewei Zhang, Tianjiao Fan, Dezhi Yang, Dongge Ma, Dongdong Zhang, Lian Duan
+Year: 2022
+Venue: Chemical Science
+DOI: 10.1039/d2sc06343c
+Paper ID: pmc_PMC9890539
+
+Abstract:
+Boron- and nitrogen (BN)-fused polycyclic aromatic frameworks with amine-directed formation of B–N covalent bonds have the potential to form a new family of facile-synthesis multi-resonance luminophores, which, however, still face imperative challenges in diversifying the molecular design to narrow the emission bandwidth and tune the emission colors. Here, we demonstrate a strategic implementation of B–N bond containing polycyclo-heteraborin multi-resonance emitters with wide-range colors from deep-blue to yellow-green (442–552 nm), small full-width at half-maxima of only 19–28 nm and high photoluminescence efficiencies, by stepwise modifying the basic para B–π–B structures with heteroatoms. The corresponding electroluminescent devices show superior maximum external quantum efficiencies with an exceptional low-efficiency roll-off, retaining 21.0%, 23.6% and 22.1% for the sky-blue, green and yellow-green devices at a high luminance of 5000 cd m −2 , respectively. A new set of BN-MR emitters based on the para B–π–B skeleton have been developed and showed impressive EQEs with low efficiency roll-offs and extended operation stability.

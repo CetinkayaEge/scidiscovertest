@@ -1,0 +1,9 @@
+Title: Equipment-process-strategy integration for sustainable machining: a review
+Authors: Lianguo Wang, Wei Cai, Yan He, Tao Peng, Jun Xie, Luoke Hu, Li Li
+Year: 2023
+Venue: Frontiers of Mechanical Engineering
+DOI: https://doi.org/10.1007/s11465-023-0752-4
+Paper ID: https://openalex.org/W4386518548
+
+Abstract:
+Abstract Although the manufacturing industry has improved the quality of processing, optimization and upgrading must be performed to meet the requirements of global sustainable development. Sustainable production is considered to be a favorable strategy for achieving machining upgrades characterized by high quality, high efficiency, energy savings, and emission reduction. Sustainable production has aroused widespread interest, but only a few scholars have studied the sustainability of machining from multiple dimensions. The sustainability of machining must be investigated multidimensionally and accurately. Thus, this study explores the sustainability of machining from the aspects of equipment, process, and strategy. In particular, the equipment, process, and strategy of sustainable machining are systematically analyzed and integrated into a research framework. Then, this study analyzes sustainable machining-oriented machining equipment from the aspects of machine tools, cutting tools, and materials such as cutting fluid. Machining processes are explored as important links of sustainable machining from the aspects of dry cutting, microlubrication, microcutting, low-temperature cutting, and multidirectional cutting. The strategies for sustainable machining are also analyzed from the aspects of energy-saving control, machining simulation, and process optimization of machine tools. Finally, opportunities and challenges, including policies and regulations toward sustainable machining, are discussed. This study is expected to offer prospects for sustainable machining development and strategies for implementing sustainable machining.

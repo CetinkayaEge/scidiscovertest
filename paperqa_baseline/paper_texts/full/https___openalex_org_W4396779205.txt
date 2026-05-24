@@ -1,0 +1,9 @@
+Title: Pervasive structural heterogeneity rewires glioblastoma chromosomes to sustain patient-specific transcriptional programs
+Authors: Ting Xie, Adi Danieli‐Mackay, Mariachiara Buccarelli, Mariano Barbieri, Ioanna Papadionysiou, Quintino Giorgio D’Alessandris, Claudia Robens, Nadine Übelmesser, Omkar Suhas Vinchure, Liverana Lauretti, Giorgio Fotia, Roland F. Schwarz, Xiaotao Wang, Lucia Ricci‐Vitiani, Jay Gopalakrishnan, Roberto Pallini, Argyris Papantonis
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-48053-2
+Paper ID: https://openalex.org/W4396779205
+
+Abstract:
+Glioblastoma multiforme (GBM) encompasses brain malignancies marked by phenotypic and transcriptional heterogeneity thought to render these tumors aggressive, resistant to therapy, and inevitably recurrent. However, little is known about how the spatial organization of GBM genomes underlies this heterogeneity and its effects. Here, we compile a cohort of 28 patient-derived glioblastoma stem cell-like lines (GSCs) known to reflect the properties of their tumor-of-origin; six of these were primary-relapse tumor pairs from the same patient. We generate and analyze 5 kbp-resolution chromosome conformation capture (Hi-C) data from all GSCs to systematically map thousands of standalone and complex structural variants (SVs) and the multitude of neoloops arising as a result. By combining Hi-C, histone modification, and gene expression data with chromatin folding simulations, we explain how the pervasive, uneven, and idiosyncratic occurrence of neoloops sustains tumor-specific transcriptional programs via the formation of new enhancer-promoter contacts. We also show how even moderately recurrent neoloops can relate to patient-specific vulnerabilities. Together, our data provide a resource for dissecting GBM biology and heterogeneity, as well as for informing therapeutic approaches.

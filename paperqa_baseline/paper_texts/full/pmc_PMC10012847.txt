@@ -1,0 +1,9 @@
+Title: Research progress in architecture and application of RRAM with computing-in-memory
+Authors: Chenyu Wang, Ge Shi, Fei Qiao, Rubin Lin, Shien Wu, Zenan Hu
+Year: 2023
+Venue: Nanoscale Advances
+DOI: 10.1039/d3na00025g
+Paper ID: pmc_PMC10012847
+
+Abstract:
+The development of new technologies has led to an explosion of data, while the computation ability of traditional computers is approaching its upper limit. The dominant system architecture is the von Neumann architecture, with the processing and storage units working independently. The data migrate between them via buses, reducing computing speed and increasing energy loss. Research is underway to increase computing power, such as developing new chips and adopting new system architectures. Computing-in-memory (CIM) technology allows data to be computed directly on the memory, changing the current computation-centric architecture and designing a new storage-centric architecture. Resistive random access memory (RRAM) is one of the advanced memories which has appeared in recent years. RRAM can change its resistance with electrical signals at both ends, and the state will be preserved after power-down. It has potential in logic computing, neural networks, brain-like computing, and fused technology of sense-storage-computing. These advanced technologies promise to break the performance bottleneck of traditional architectures and dramatically increase computing power. This paper introduces the basic concepts of computing-in-memory technology and the principle and applications of RRAM and finally gives a conclusion about these new technologies. The development of new technologies has led to an explosion of data, while the computation ability of traditional computers is approaching its upper limit.

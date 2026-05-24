@@ -1,0 +1,9 @@
+Title: Background-Free Near-Infrared Biphoton Emission from Single GaAs Nanowires
+Authors: Grégoire Saerens, Thomas Dursap, Ian Hesner, Ngoc M. H. Duong, Alexander S. Solntsev, Andrea Morandi, Andreas Maeder, Artemios Karvounis, Philippe Regreny, Robert J. Chapman, Alexandre Danescu, Nicolas Chauvin, José Penuelas, Rachel Grange
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00026
+Paper ID: pmc_PMC10141417
+
+Abstract:
+The generation of photon pairs from nanoscale structures with high rates is still a challenge for the integration of quantum devices, as it suffers from parasitic signals from the substrate. In this work, we report type-0 spontaneous parametric down-conversion at 1550 nm from individual bottom-up grown zinc-blende GaAs nanowires with lengths of up to 5 μm and diameters of up to 450 nm. The nanowires were deposited on a transparent ITO substrate, and we measured a background-free coincidence rate of 0.05 Hz in a Hanbury–Brown–Twiss setup. Taking into account transmission losses, the pump fluence, and the nanowire volume, we achieved a biphoton generation of 60 GHz/Wm, which is at least 3 times higher than that of previously reported single nonlinear micro- and nanostructures. We also studied the correlations between the second-harmonic generation and the spontaneous parametric down-conversion intensities with respect to the pump polarization and in different individual nanowires.

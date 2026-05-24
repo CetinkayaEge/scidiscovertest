@@ -1,0 +1,9 @@
+Title: TREM2 sustains macrophage-hepatocyte metabolic coordination in nonalcoholic fatty liver disease and sepsis
+Authors: Jinchao Hou, Jue Zhang, Ping Cui, Yingyue Zhou, Can Liu, Xiaoliang Wu, Yun Ji, Sicong Wang, Baoli Cheng, Hui Ye, Liqi Shu, Kai Zhang, Di Wang, Jielin Xu, Qiang Shu, Marco Colonna, Xiangming Fang
+Year: 2021
+Venue: Journal of Clinical Investigation
+DOI: https://doi.org/10.1172/jci135197
+Paper ID: https://openalex.org/W3130149107
+
+Abstract:
+Sepsis is a leading cause of death in critical illness, and its pathophysiology varies depending on preexisting medical conditions. Here we identified nonalcoholic fatty liver disease (NAFLD) as an independent risk factor for sepsis in a large clinical cohort and showed a link between mortality in NAFLD-associated sepsis and hepatic mitochondrial and energetic metabolism dysfunction. Using in vivo and in vitro models of liver lipid overload, we discovered a metabolic coordination between hepatocyte mitochondria and liver macrophages that express triggering receptor expressed on myeloid cells-2 (TREM2). Trem2-deficient macrophages released exosomes that impaired hepatocytic mitochondrial structure and energy supply because of their high content of miR-106b-5p, which blocks Mitofusin 2 (Mfn2). In a mouse model of NAFLD-associated sepsis, TREM2 deficiency accelerated the initial progression of NAFLD and subsequent susceptibility to sepsis. Conversely, overexpression of TREM2 in liver macrophages improved hepatic energy supply and sepsis outcome. This study demonstrates that NAFLD is a risk factor for sepsis, providing a basis for precision treatment, and identifies hepatocyte-macrophage metabolic coordination and TREM2 as potential targets for future clinical trials.

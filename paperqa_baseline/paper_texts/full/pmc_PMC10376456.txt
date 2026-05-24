@@ -1,0 +1,9 @@
+Title: Autoregressive optimal transport models
+Authors: Changbo Zhu, Hans-Georg Müller
+Year: 2023
+Venue: Journal of the Royal Statistical Society. Series B, Statistical Methodology
+DOI: 10.1093/jrsssb/qkad051
+Paper ID: pmc_PMC10376456
+
+Abstract:
+Abstract Series of univariate distributions indexed by equally spaced time points are ubiquitous in applications and their analysis constitutes one of the challenges of the emerging field of distributional data analysis. To quantify such distributional time series, we propose a class of intrinsic autoregressive models that operate in the space of optimal transport maps. The autoregressive transport models that we introduce here are based on regressing optimal transport maps on each other, where predictors can be transport maps from an overall barycenter to a current distribution or transport maps between past consecutive distributions of the distributional time series. Autoregressive transport models and their associated distributional regression models specify the link between predictor and response transport maps by moving along geodesics in Wasserstein space. These models emerge as natural extensions of the classical autoregressive models in Euclidean space. Unique stationary solutions of autoregressive transport models are shown to exist under a geometric moment contraction condition of Wu & Shao [(2004) Limit theorems for iterated random functions. Journal of Applied Probability 41 , 425–436)], using properties of iterated random functions. We also discuss an extension to a varying coefficient model for first-order autoregressive transport models. In addition to simulations, the proposed models are illustrated with distributional time series of house prices across U.S. counties and annual summer temperature distributions.

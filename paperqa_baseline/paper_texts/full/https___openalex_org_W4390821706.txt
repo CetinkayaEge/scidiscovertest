@@ -1,0 +1,9 @@
+Title: Investigating Factors Influencing Students’ Engagement in Sustainable Online Education
+Authors: Olusiji Adebola Lasekan, Vengalarao Pachava, Margot Teresa Godoy Pena, Siva Krishna Golla, Mariya Samreen Raje
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16020689
+Paper ID: https://openalex.org/W4390821706
+
+Abstract:
+Due to the COVID-19 pandemic, there has been a rapid shift from traditional classroom-based education to sustainable online classrooms. This has brought attention to the importance of comprehending the intricacies of students’ engagement during virtual learning. Drawing upon the concept of community of inquiry in cognitive, social, and teaching presence, a mixed-methods approach involved data collected via a structured questionnaire administered to 452 university students to identify the factors that influence students’ participation during online classes. Through the application of the CHAID (Chi-Squared Automatic Interaction Detection) decision tree algorithm, the quality of course content is identified as a cognitive predictor of students’ engagement. It is worth mentioning that a significant proportion of students, specifically 61.7%, demonstrated a considerable degree of engagement with faculty content due to its high quality. With respect to the role of social presence, possession of a designated private space boost (69.2%) and requiring students to use their webcams are found to be critical for students’ engagement. Lastly, teaching presence as a factor in enhancing students’ engagement is demonstrated by promoting interactive classrooms and providing rapid feedback to students by teachers. The findings demonstrate the importance of teachers’ quality course material, interactive classes, and the benefits of a physical environment free from distractions for optimizing students’ engagement.

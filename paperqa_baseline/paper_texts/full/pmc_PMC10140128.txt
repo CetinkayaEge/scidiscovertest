@@ -1,0 +1,9 @@
+Title: Towards functional spin-echo BOLD line-scanning in humans at 7T
+Authors: Luisa Raimondo, Jurjen Heij, Tomas Knapen, Serge O. Dumoulin, Wietske van der Zwaag, Jeroen C. W. Siero
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-022-01059-7
+Paper ID: pmc_PMC10140128
+
+Abstract:
+Objective Neurons cluster into sub-millimeter spatial structures and neural activity occurs at millisecond resolutions; hence, ultimately, high spatial and high temporal resolutions are required for functional MRI. In this work, we implemented a spin-echo line-scanning (SELINE) sequence to use in high spatial and temporal resolution fMRI. Materials and methods A line is formed by simply rotating the spin-echo refocusing gradient to a plane perpendicular to the excited slice and by removing the phase-encoding gradient. This technique promises a combination of high spatial and temporal resolution (250 μm, 500 ms) and microvascular specificity of functional responses. We compared SELINE data to a corresponding gradient-echo version (GELINE). Results We demonstrate that SELINE showed much-improved line selection (i.e. a sharper line profile) compared to GELINE, albeit at the cost of a significant drop in functional sensitivity. Discussion This low functional sensitivity needs to be addressed before SELINE can be applied for neuroscientific purposes. Supplementary Information The online version contains supplementary material available at 10.1007/s10334-022-01059-7.

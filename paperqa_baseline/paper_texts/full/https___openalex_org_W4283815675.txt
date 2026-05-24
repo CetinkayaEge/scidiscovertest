@@ -1,0 +1,9 @@
+Title: Tourism Sustainability Index: Measuring Tourism Sustainability Based on the ETIS Toolkit, by Exploring Tourist Satisfaction via Sentiment Analysis
+Authors: Damiano De Marchi, Rudy Becarelli, Leonardo Di Sarli
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14138049
+Paper ID: https://openalex.org/W4283815675
+
+Abstract:
+Interest in measuring the sustainability of tourism has been significantly advancing in recent years, together with the need to manage the impact of tourism on territories and hosting communities. This interest was further boosted by the pandemic, with sustainability being identified as one of the central elements in restarting global tourism. The European Tourism Indicator System (ETIS), developed by the European Commission, is a point of reference based on self-assessment, data collection, and analysis by tourist destinations themselves. The application of the ETIS toolkit has faced many challenges, especially at the subnational level, most of which are related to the lack of available and updated data to feed into the model. In this article, we explore the implementation issues, develop a synthetic indicator based on the use of the sentiment analysis technique to frame e-reputation and tourism satisfaction, and combine that analysis with other open data sources. The Tourism Sustainability Index (TSI) can provide a scalable and georeferenced evaluation of tourism sustainability, measured according the ETIS criteria and complementing them. The TSI, its pillars and sub-components are all applicable to any tourism destination. The results show that the TSI can be a consistent and valid tool for tourist destinations to use in analyzing sustainability, monitoring the evolution of sustainability through time periods and subareas, and comparing the findings with those of other benchmarks and/or other competitive areas.

@@ -1,0 +1,9 @@
+Title: High Density Lipoprotein Structural Changes and Drug Response in Lipidomic Profiles following the Long-Term Fenofibrate Therapy in the FIELD Substudy
+Authors: Laxman Yetukuri, Ilkka Huopaniemi, Artturi Koivuniemi, Marianna Maranghi, Anne Hiukka, Heli Nygren, Samuel Kaski, Marja-Riitta Taskinen, Ilpo Vattulainen, Matti Jauhiainen, Matej Orešič
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023589
+Paper ID: pmc_PMC3160907
+
+Abstract:
+In a recent FIELD study the fenofibrate therapy surprisingly failed to achieve significant benefit over placebo in the primary endpoint of coronary heart disease events. Increased levels of atherogenic homocysteine were observed in some patients assigned to fenofibrate therapy but the molecular mechanisms behind this are poorly understood. Herein we investigated HDL lipidomic profiles associated with fenofibrate treatment and the drug-induced Hcy levels in the FIELD substudy. We found that fenofibrate leads to complex HDL compositional changes including increased apoA-II, diminishment of lysophosphatidylcholines and increase of sphingomyelins. Ethanolamine plasmalogens were diminished only in a subgroup of fenofibrate-treated patients with elevated homocysteine levels. Finally we performed molecular dynamics simulations to qualitatively reconstitute HDL particles in silico . We found that increased number of apoA-II excludes neutral lipids from HDL surface and apoA-II is more deeply buried in the lipid matrix than apoA-I. In conclusion, a detailed molecular characterization of HDL may provide surrogates for predictors of drug response and thus help identify the patients who might benefit from fenofibrate treatment.

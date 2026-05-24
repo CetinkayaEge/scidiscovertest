@@ -1,0 +1,9 @@
+Title: Sustainability transitions in coastal shipping: The role of regime segmentation
+Authors: Anna Bergek, Øyvind Bjørgum, Teis Hansen, Jens Hanson, Markus Steén
+Year: 2021
+Venue: Transportation Research Interdisciplinary Perspectives
+DOI: https://doi.org/10.1016/j.trip.2021.100497
+Paper ID: https://openalex.org/W4226056988
+
+Abstract:
+Maritime transport has received little attention in sustainability transitions research. This sector is mature and heterogeneous, which suggests the need for a more nuanced perspective on socio-technical regimes to understand variation in conditions for adoption of novel technologies that may support sustainability transitions. We consider this important in order to develop more efficient policy to decarbonize the shipping sector. We develop a framework that explicitly differentiates task and institutional environment of user regimes, enabling us to identify regime segmentation and its influence on three key transition conditions: technology maturity and fit, system integration and infrastructure, and acceptability and legitimacy. We apply our framework to analyse development and uptake of battery-electric energy storage solutions within three segments (coastal ferry, coastal fishing, and offshore supply) of Norwegian coastal shipping. Our analysis suggests that the transition process unfolds along different pathways in different user segments, pointing to a need for segment-specific policy instruments.

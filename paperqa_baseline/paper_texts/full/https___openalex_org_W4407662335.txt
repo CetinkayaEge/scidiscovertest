@@ -1,0 +1,9 @@
+Title: Low-carbon ammonia production is essential for resilient and sustainable agriculture
+Authors: Stefano Mingolla, Lorenzo Rosa
+Year: 2025
+Venue: Nature Food
+DOI: https://doi.org/10.1038/s43016-025-01125-y
+Paper ID: https://openalex.org/W4407662335
+
+Abstract:
+Ammonia-based synthetic nitrogen fertilizers (N fertilizers) are critical for global food security. However, their production, primarily dependent on fossil fuels, is energy- and carbon-intensive and vulnerable to supply chain disruptions, affecting 1.8 billion people reliant on either imported fertilizers or natural gas. Here we examine the global N-fertilizer supply chain and analyse context-specific trade-offs of low-carbon ammonia production pathways. Carbon capture and storage can reduce overall emissions by up to 70%, but still relies on natural gas. Electrolytic and biochemical processes minimize emissions but are 2-3 times more expensive and require 100-300 times more land and water than the business-as-usual production. Decentralized production has the potential to reduce transportation costs, emissions, reliance on imports and price volatility, increasing agricultural productivity in the global south, but requires policy support. Interdisciplinary approaches are essential to understand these trade-offs and find resilient ways to feed a growing population while minimizing climate impacts.

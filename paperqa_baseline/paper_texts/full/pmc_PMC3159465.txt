@@ -1,0 +1,9 @@
+Title: Widespread expression of piRNA-like molecules in somatic tissues
+Authors: Zheng Yan, Hai Yang Hu, Xi Jiang, Vera Maierhofer, Elena Neb, Liu He, Yuhui Hu, Hao Hu, Na Li, Wei Chen, Philipp Khaitovich
+Year: 2011
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkr298
+Paper ID: pmc_PMC3159465
+
+Abstract:
+Piwi-interacting RNA (piRNA) are small RNA abundant in the germline across animal species. In fruit flies and mice, piRNA have been implicated in maintenance of genomic integrity by transposable elements silencing. Outside of the germline, piRNA have only been found in fruit fly ovarian follicle cells. Previous studies have further reported presence of multiple piRNA-like small RNA (pilRNA) in fly heads and a small number of pilRNA have been reported in mouse tissues and in human NK cells. Here, we analyze high-throughput small RNA sequencing data in more than 130 fruit fly, mouse and rhesus macaque samples. The results show widespread presence of pilRNA, displaying all known characteristics of piRNA in multiple somatic tissues of these three species. In mouse pancreas and macaque epididymis, pilRNA abundance was compatible with piRNA abundance in the germline. Using in situ hybridizations, we further demonstrate pilRNA co-localization with mRNA expression of Piwi-family genes in all macaque tissues. Further, using western blot, we have shown the expression of Miwi protein in mouse pancreas. These findings indicate that piRNA-like molecules might play important roles outside of the germline.

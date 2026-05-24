@@ -1,0 +1,9 @@
+Title: Evaluation of Red Wine Acidification Using an E-Nose System with Venturi Tool Sampling
+Authors: Esmeralda Hernández, José Pelegrí-Sebastiá, Tomás Sogorb, José Chilo
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062878
+Paper ID: pmc_PMC10056685
+
+Abstract:
+The quality of wine is checked both during the production process and upon consumption. Therefore, manual wine-tasting work is still valuable. Due to the nature of wine, many volatile components are released, and it is therefore difficult to determine which elements need to be controlled. Acetic acid is one of the substances found in wine and is a crucial substance for wine quality. Gas sensor systems may be a potential alternative for manual wine tasting. In this work, we have developed a TGS2620 gas sensor module to analyze acetic acid levels in red wine. The gas sensor module was refined according to the Venturi effect along with signal slope analysis, providing promising results. The example included in this paper demonstrates that there is a direct relationship between the slope of the MOS gas sensor response and the acetic acid concentration. This relationship is useful to evaluate the ethanol oxidation in acetic acid in red wine during its production process.

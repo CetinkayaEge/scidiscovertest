@@ -1,0 +1,9 @@
+Title: Electrochemical and Photoelectrochemical Immunosensors for the Detection of Ovarian Cancer Biomarkers
+Authors: Ezinne U. Ekwujuru, Abimbola M. Olatunde, Michael J. Klink, Cornelius C. Ssemakalu, Muntuwenkosi M. Chili, Moses G. Peleyeju
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084106
+Paper ID: pmc_PMC10142013
+
+Abstract:
+Photoelectrochemical (PEC) sensing is an emerging technological innovation for monitoring small substances/molecules in biological or non–biological systems. In particular, there has been a surge of interest in developing PEC devices for determining molecules of clinical significance. This is especially the case for molecules that are markers for serious and deadly medical conditions. The increased interest in PEC sensors to monitor such biomarkers can be attributed to the many apparent advantages of the PEC system, including an enhanced measurable signal, high potential for miniaturization, rapid testing, and low cost, amongst others. The growing number of published research reports on the subject calls for a comprehensive review of the various findings. This article is a review of studies on electrochemical (EC) and PEC sensors for ovarian cancer biomarkers in the last seven years (2016–2022). EC sensors were included because PEC is an improved EC; and a comparison of both systems has, expectedly, been carried out in many studies. Specific attention was given to the different markers of ovarian cancer and the EC/PEC sensing platforms developed for their detection/quantification. Relevant articles were sourced from the following databases: Scopus, PubMed Central, Web of Science, Science Direct, Academic Search Complete, EBSCO, CORE, Directory of open Access Journals (DOAJ), Public Library of Science (PLOS), BioMed Central (BMC), Semantic Scholar, Research Gate, SciELO, Wiley Online Library, Elsevier and SpringerLink.

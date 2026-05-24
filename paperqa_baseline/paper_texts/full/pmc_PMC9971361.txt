@@ -1,0 +1,9 @@
+Title: New evidence on the rural poverty and energy choice relationship
+Authors: Salvatore Di Falco, Gary Lynam
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-29285-6
+Paper ID: pmc_PMC9971361
+
+Abstract:
+We combine a global micro level dataset that includes 17 different rural Sub-Saharan countries with satellite information about precipitation during the growing season to estimate the impact of economic conditions on energy choice. Differently from the existing literature, we aim to causally estimate the impact of household welfare variation on the likelihood of choosing a specific energy source. It is found, consistent with theory, that increases in income do determine an increase in the likelihood of using relatively cleaner and more efficient sources of fuel. We find, however, that this impact is quantitatively very small. Results hold conditional on assets, wealth and a large battery of controls and fixed effects. Policy implications are developed.

@@ -1,0 +1,9 @@
+Title: The Operating Parameters, Structural Composition, and Fuel Sustainability Aspects of PEM Fuel Cells: A Mini Review
+Authors: Muhammad Tawalbeh, Suma Al-Arab, Amani Al–Othman, Rana Muhammad Nauman Javed
+Year: 2022
+Venue: Fuels
+DOI: https://doi.org/10.3390/fuels3030028
+Paper ID: https://openalex.org/W4289704939
+
+Abstract:
+This mini review discusses the sustainability aspects of various fuels for proton exchange membrane fuel cells (PEMFCs). PEMFCs operate by converting the chemical energy in a fuel into electrical energy. The most crucial parameters in the operation process are the temperature, pressure, relative humidity, and air stoichiometry ratio, as presented in this work. The classical structure of a PEMFC consists of a proton exchange membrane, anode electrode, cathode electrode, catalyst layers (CLs), microporous layer (MPLs), gas diffusion layers (GDLs), two bipolar plates (BPs), and gas flow channels (GFCs). The mechanical behavior and the conductivity of the protons are highly dependent on the structure of the MEAs. This review discusses the various fuels and their production paths from sustainable sources. For the fuel production process to be renewable and sustainable, a hydrogen electrolyzer could be powered from solar energy, wind energy, geothermal energy, or hydroelectric energy, to produce hydrogen, which in turn could be fed into the fuel cell. This paper also reviews biomass-based routes for sustainable fuel production.

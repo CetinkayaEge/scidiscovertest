@@ -1,0 +1,9 @@
+Title: Sustainable Logistics 4.0: A Study on Selecting the Best Technology for Internal Material Handling
+Authors: Saverio Ferraro, Alessandra Cantini, Leonardo Leoni, Filippo De Carlo
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097067
+Paper ID: https://openalex.org/W4366829735
+
+Abstract:
+Logistics is a vital activity for the economic growth of an organization as it manages the flow of materials and information within, into, and out of the organization, as well as reverse flow. Like many other industrial processes, logistics has also been impacted by the rise of Industry 4.0 technologies, which has highlighted the significance of Logistics 4.0. However, Logistics 4.0 is mainly focused on economic benefits, while overlooking environmental and social concerns. To address this, a method is proposed that takes into account the three goals of sustainable development when selecting the best technology for internal material handling activities. Firstly, a comprehensive literature review was conducted to examine the application of 4.0 technologies in logistics processes and their impact on economic, environmental, and social sustainability. Secondly, based on the findings of the review, a three-level analytic hierarchy process was proposed to identify the optimal 4.0 technology for internal logistics. To demonstrate the practicality of the proposed method, it was tested on three companies. The results showed that additive manufacturing, exoskeletons, and collaborative robots are the most suitable options for achieving sustainable development goals within Logistics 4.0.

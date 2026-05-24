@@ -1,0 +1,9 @@
+Title: Development and characterization of starch bioplastics as a sustainable alternative for packaging
+Authors: Manoj Kumar Gurunathan, Rajesh Jesudoss Hynes Navasingh, J. David Raja Selvam, Róbert Čep
+Year: 2025
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-025-00221-0
+Paper ID: https://openalex.org/W4409978578
+
+Abstract:
+Due to the growing environmental concerns of petroleum-based plastics, there has been a surge of interest in biodegradable alternatives. In this study, starch-based bioplastic was prepared using biopolymers extracted from corn and potato and the biopolymer was mixed with calcium carbonate (filler) and plasticizers (glycerol-sorbitol) and evaluated. For the fabricated formulation, Taguchi analysis gave an optimal formulation of 9 g corn starch, 9 mL glycerol, and 2.5 g calcium carbonate, having a well-balanced mechanical strength, flexibility, and biodegradability. The results showed a major improvement in tensile strength of 22.5% (6.08 MPa) and a 31.7% increase in Young's modulus (0.103 GPa), compared to the least effective sample. In biodegradation tests, the degradation rate of C1 (66.68%) was the fastest, while C3 had a slower rate (29.08%). Moisture absorption varied considerably, with sample COM3 absorbing 25.92% compared to just 4.35% for P3, while P3 absorbed only 4.35%. Among compounds, the higher and lower percentage for water solubility were for P1 (20.50%) and C3 (49.04%) respectively. These results underscore the potential of starch-based bioplastics for sustainable packaging, offering an environmentally friendly option compared to traditional plastics.

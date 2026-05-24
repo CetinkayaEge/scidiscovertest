@@ -1,0 +1,9 @@
+Title: HNRNPM controls circRNA biogenesis and splicing fidelity to sustain cancer cell fitness
+Authors: Jessica Ho, Federico Di Tullio, Megan Schwarz, Diana Low, Danny Incarnato, Florence Gay, Tommaso Tabaglio, Jingxian Zhang, Heike Wollmann, Leilei Chen, Ömer An, Tim Hon Man Chan, Alexander Hall Hickman, Simin Zheng, Vladimir Roudko, Sujun Chen, Alcida Karz, Musaddeque Ahmed, Housheng Hansen He, Benjamin D. Greenbaum, Salvatore Oliviero, Michela Serresi, Gaetano Gargiulo, Karen M. Mann, Eva Hernando, David J. Mulholland, Ivan Marazzi, Dave Keng Boon Wee, Ernesto Guccione
+Year: 2021
+Venue: eLife
+DOI: https://doi.org/10.7554/elife.59654
+Paper ID: https://openalex.org/W3165851922
+
+Abstract:
+High spliceosome activity is a dependency for cancer cells, making them more vulnerable to perturbation of the splicing machinery compared to normal cells. To identify splicing factors important for prostate cancer (PCa) fitness, we performed pooled shRNA screens in vitro and in vivo. Our screens identified heterogeneous nuclear ribonucleoprotein M (HNRNPM) as a regulator of PCa cell growth. RNA- and eCLIP-sequencing identified HNRNPM binding to transcripts of key homeostatic genes. HNRNPM binding to its targets prevents aberrant exon inclusion and backsplicing events. In both linear and circular mis-spliced transcripts, HNRNPM preferentially binds to GU-rich elements in long flanking proximal introns. Mimicry of HNRNPM-dependent linear-splicing events using splice-switching-antisense-oligonucleotides was sufficient to inhibit PCa cell growth. This suggests that PCa dependence on HNRNPM is likely a result of mis-splicing of key homeostatic coding and non-coding genes. Our results have further been confirmed in other solid tumors. Taken together, our data reveal a role for HNRNPM in supporting cancer cell fitness. Inhibition of HNRNPM activity is therefore a potential therapeutic strategy in suppressing growth of PCa and other solid tumors.

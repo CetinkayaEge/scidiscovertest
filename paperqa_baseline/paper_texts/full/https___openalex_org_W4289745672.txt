@@ -1,0 +1,9 @@
+Title: Self-rechargeable energizers for sustainability
+Authors: JinKiong Ling, Ria Kunwar, Linlin Li, Shengjie Peng, Izan Izwan Misnon, Mohd Hasbi Ab. Rahim, Chun‐Chen Yang, Rajan Jose
+Year: 2022
+Venue: eScience
+DOI: https://doi.org/10.1016/j.esci.2022.07.002
+Paper ID: https://openalex.org/W4289745672
+
+Abstract:
+Electrical energy generation and storage have always been complementary to each other but are often disconnected in practical electrical appliances. Recently, efforts to combine both energy generation and storage into self-powered energizers have demonstrated promising power sources for wearable and implantable electronics. In line with these efforts, achieving self-rechargeability in energy storage from ambient energy is envisioned as a tertiary energy storage (3rd-ES) phenomenon. This review examines a few of the possible 3rd-ES capable of harvesting ambient energy (photo-, thermo-, piezo-, tribo-, and bio-electrochemical energizers), focusing also on the devices' sustainability. The self-rechargeability mechanisms of these devices, which function through modifications of the energizers’ constituents, are analyzed, and designs for wearable electronics are also reviewed. The challenges for self-rechargeable energizers and avenues for further electrochemical performance enhancement are discussed. This article serves as a one-stop source of information on self-rechargeable energizers, which are anticipated to drive the revolution in 3rd-ES technologies.

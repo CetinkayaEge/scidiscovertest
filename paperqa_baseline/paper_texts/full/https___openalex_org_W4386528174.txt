@@ -1,0 +1,9 @@
+Title: Solar cell-based hybrid energy harvesters towards sustainability
+Authors: Tianxiao Xiao, Suo Tu, Suzhe Liang, Renjun Guo, Ting Tian, Peter Müller‐Buschbaum
+Year: 2023
+Venue: Opto-Electronic Science
+DOI: https://doi.org/10.29026/oes.2023.230011
+Paper ID: https://openalex.org/W4386528174
+
+Abstract:
+Energy harvesting plays a crucial role in modern society. In the past years, solar energy, owing to its renewable, green, and infinite attributes, has attracted increasing attention across a broad range of applications from small-scale wearable electronics to large-scale energy powering. However, the utility of solar cells in providing a stable power supply for various electrical appliances in practical applications is restricted by weather conditions. To address this issue, researchers have made many efforts to integrate solar cells with other types of energy harvesters, thus developing hybrid energy harvesters (HEHs), which can harvest energy from the ambient environment via different working mechanisms. In this review, four categories of energy harvesters including solar cells, triboelectric nanogenerators (TENGs), piezoelectric nanogenerators (PENGs), and thermoelectric generators (TEGs) are introduced. In addition, we systematically summarize the recent progress in solar cell-based hybrid energy harvesters (SCHEHs) with a focus on their structure designs and the corresponding applications. Three hybridization designs through unique combinations of TENG, PENG, and TEG with solar cells are elaborated in detail. Finally, the main challenges and perspectives for the future development of SCHEHs are discussed.

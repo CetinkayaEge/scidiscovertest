@@ -1,0 +1,9 @@
+Title: Assessment of Power System Sustainability and Compromises between the Development Goals
+Authors: Diankai Wang, Inna Gryshova, Anush Balian, Mykola O. Kyzym, Tetiana I. Salashenko, Viktoriia Ye. Khaustova, Olexandr Davidyuk
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14042236
+Paper ID: https://openalex.org/W4212898126
+
+Abstract:
+Ensuring the sustainability of the European power system is one of the key priorities in the implementation of the EU’s ambitious plans to become climate-neutral by 2050. The uniqueness of the power systems of the EU member states necessitates their assessment and comparison. The article offers a composite indicator, namely, the power system sustainability index (PSS index), to assess the current level of the development of the power systems via three dimensions (social, economic, and environmental) and eight local indicators: the household electricity consumption per capita; the commercial electricity consumption per GDP; the external dependency of the power system; the energy efficiency of the generation; the capacity utilization factor; the share of organic fossil fuels; the share of renewable energy resources; and the greenhouse gas (GHG) emissions per unit of primary energy source. The “energy mix” is defined as the key impact factor, which has a contradictory effect on the local power system sustainability (LPSS) indicators, which can be represented as a set of regression models. The data of the regression analysis can be used for performing a multiobjective optimization by the local indicators, and they can determine the vectors of change required to ensure the sustainability of the power system. The research results prove that it is possible to minimize the GHG emissions per unit of primary energy source and maximize the energy efficiency of generation, while reducing the capacity utilization and increasing the external dependency of the power system.

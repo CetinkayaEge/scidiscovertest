@@ -1,0 +1,9 @@
+Title: Dry EEG Electrodes
+Authors: M. A. Lopez-Gordo, D. Sanchez-Morillo, F. Pelayo Valle
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140712847
+Paper ID: pmc_PMC4168519
+
+Abstract:
+Electroencephalography (EEG) emerged in the second decade of the 20th century as a technique for recording the neurophysiological response. Since then, there has been little variation in the physical principles that sustain the signal acquisition probes, otherwise called electrodes. Currently, new advances in technology have brought new unexpected fields of applications apart from the clinical, for which new aspects such as usability and gel-free operation are first order priorities. Thanks to new advances in materials and integrated electronic systems technologies, a new generation of dry electrodes has been developed to fulfill the need. In this manuscript, we review current approaches to develop dry EEG electrodes for clinical and other applications, including information about measurement methods and evaluation reports. We conclude that, although a broad and non-homogeneous diversity of approaches has been evaluated without a consensus in procedures and methodology, their performances are not far from those obtained with wet electrodes, which are considered the gold standard, thus enabling the former to be a useful tool in a variety of novel applications.

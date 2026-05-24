@@ -1,0 +1,9 @@
+Title: Lessons learned from a study based on the AHP method for the assessment of sustainability in neighborhoods
+Authors: Vanessa Guillén-Mena, Juan Felipe Quesada Molina, Sebastián Astudillo Cordero, Manuel Lema, Jessica Ortiz-Fernández
+Year: 2023
+Venue: MethodsX
+DOI: https://doi.org/10.1016/j.mex.2023.102440
+Paper ID: https://openalex.org/W4387643001
+
+Abstract:
+The Analytic Hierarchy Process (AHP) is a method that allows complex decisions to be made from impartiality, making it suitable for reaching a consensus among experts seeking to solve a problem. This method has been successfully applied in other investigations, and its use has been extended to several disciplines. This technical paper presents the lessons learned from a study that relied on the AHP method to determine priority aspects for sustainable neighborhoods. The research is developed in three replicable phases. In each of them, aspects that are recommended to be considered are detailed, for example, in the formulation of the hierarchical structure, selection of experts, expert survey design, and information processing for the determination of weights and levels of importance.•The utilization of software to apply the AHP method can help researchers to optimize time and resources.•Social networks proved to be more effective than conventional methods for identifying and contacting experts.•Subjective sustainability issues can be prioritized by expert consensus.

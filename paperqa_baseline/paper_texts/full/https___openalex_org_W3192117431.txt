@@ -1,0 +1,9 @@
+Title: Assessing the sustainability of cloud computing service providers for Industry 4.0: a state-of-the-art analytical approach
+Authors: Majid Azadi, Zohreh Moghaddas, T.C.E. Cheng, Reza Farzipoor Saen
+Year: 2021
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2021.1959666
+Paper ID: https://openalex.org/W3192117431
+
+Abstract:
+While interests in Industry 4.0 technologies such as cloud computing and the Internet of Things (IoT) are growing, an ongoing challenge is to properly evaluate the performance of the providers of such technologies. Methods have been developed and applied to assess the efficiency of cloud service providers (CSPs) for Industry 4.0. However, most existing methods suffer from such shortcomings as subjective weights and computing complexity, rendering it difficult to succinctly differentiate the performance of CSPs in a competitive market. Besides, the literature has not taken into account many different types of data such as ratios, integers, and undesirable factors that can affect the performance of CSPs. Most importantly, most existing studies do not consider the sustainability of CSPs in evaluating their performance. To address the above issues, we present a comprehensive analytical method based on data envelopment analysis (DEA) to gauge the sustainability of CSPs for Industry 4.0. Validating the usefulness of our method using a real-life dataset, we provide not only a viable means with sound academic underpinning but also significant managerial insights for practitioners to assess the sustainability of CSPs for Industry 4.0.

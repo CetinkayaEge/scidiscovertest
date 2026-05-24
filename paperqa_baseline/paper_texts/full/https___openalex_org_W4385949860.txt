@@ -1,0 +1,9 @@
+Title: Examining the Adoption of Sustainable eMobility-Sharing in Smart Communities: Diffusion of Innovation Theory Perspective
+Authors: Bokolo Anthony
+Year: 2023
+Venue: Smart Cities
+DOI: https://doi.org/10.3390/smartcities6040095
+Paper ID: https://openalex.org/W4385949860
+
+Abstract:
+The transport sector is undergoing disruption due to trends such as tightening environmental targets, digitalization, and servitization, contributing to low-carbon mobility and offering citizen-oriented services. As a response, various initiatives, such as electric mobility (eMobility), have emerged that promote sustainable road transport and active mobility in the last few years. However, irrespective of the potential of eMobility, there are still few studies that examine individuals’ intention and adoption of eMobility-sharing services in smart communities. Accordingly, this study aims to develop a model grounded on the Diffusion of Innovation (DoI) theory to investigate the factors that impact individuals’ adoption of eMobility-sharing service and how to improve the adoption of eMobility-sharing service. A mixed-mode methodology was employed; quantitative data from survey questionnaires were used to gather data, and Statistical Package for Social Science (SPSS) was used to analyze the data. Additionally, qualitative data via interview was collected to demonstrate in ArchiMate modeling language how eMobility-sharing services are practically implemented as a use case study within smart communities. Findings from this study offer a model that focuses on eMobility-sharing adoption from the perspective of smart communities. Additionally, the findings offer a better understanding of how such integrated, multimodal systems fit with the sustainable mobility needs of citizens. More importantly, general recommendations to policymakers and practitioners to increase the uptake of shared eMobility are provided.

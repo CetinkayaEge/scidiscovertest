@@ -1,0 +1,9 @@
+Title: Are Voltage Sensors Really Embedded in Muscarinic Receptors?
+Authors: Malka Cohen-Armon
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087538
+Paper ID: pmc_PMC10142193
+
+Abstract:
+Unexpectedly, the affinity of the seven-transmembrane muscarinic acetylcholine receptors for their agonists is modulated by membrane depolarization. Recent reports attribute this characteristic to an embedded charge movement in the muscarinic receptor, acting as a voltage sensor. However, this explanation is inconsistent with the results of experiments measuring acetylcholine binding to muscarinic receptors in brain synaptoneurosomes. According to these results, the gating of the voltage-dependent sodium channel (VDSC) acts as the voltage sensor, generating activation of Go-proteins in response to membrane depolarization, and this modulates the affinity of muscarinic receptors for their cholinergic agonists.

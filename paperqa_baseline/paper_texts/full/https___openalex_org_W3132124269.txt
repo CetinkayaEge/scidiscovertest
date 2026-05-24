@@ -1,0 +1,9 @@
+Title: The Role of Simulation and Serious Games in Teaching Concepts on Circular Economy and Sustainable Energy
+Authors: Rocío de la Torre, Bhakti Stephan Onggo, Canan G. Corlu, María Nogal, Ángel A. Juan
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14041138
+Paper ID: https://openalex.org/W3132124269
+
+Abstract:
+The prevailing need for a more sustainable management of natural resources depends not only on the decisions made by governments and the will of the population, but also on the knowledge of the role of energy in our society and the relevance of preserving natural resources. In this sense, critical work is being done to instill key concepts—such as the circular economy and sustainable energy—in higher education institutions. In this way, it is expected that future professionals and managers will be aware of the importance of energy optimization, and will learn a series of computational methods that can support the decision-making process. In the context of higher education, this paper reviews the main trends and challenges related to the concepts of circular economy and sustainable energy. Besides, we analyze the role of simulation and serious games as a learning tool for the aforementioned concepts. Finally, the paper provides insights and discusses open research opportunities regarding the use of these computational tools to incorporate circular economy concepts in higher education degrees. Our findings show that, while efforts are being made to include these concepts in current programs, there is still much work to be done, especially from the point of view of university management. In addition, the analysis of the teaching methodologies analyzed shows that, although their implementation has been successful in favoring the active learning of students, their use (especially that of serious games) is not yet widespread.

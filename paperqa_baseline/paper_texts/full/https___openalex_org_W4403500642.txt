@@ -1,0 +1,9 @@
+Title: Artificial intelligence and sustainable development in Africa: A comprehensive review
+Authors: Ibomoiye Domor Mienye, Yanxia Sun, Emmanuel Ileberi
+Year: 2024
+Venue: Machine Learning with Applications
+DOI: https://doi.org/10.1016/j.mlwa.2024.100591
+Paper ID: https://openalex.org/W4403500642
+
+Abstract:
+Artificial Intelligence (AI) techniques are transforming various sectors and hold significant potential to advance sustainable development in Africa. However, their effective integration is constrained by region-specific challenges, limiting widespread deployment. This study reviews the current state of sustainable development in Africa, highlighting the role AI can play in driving progress across key sectors, including healthcare, agriculture, education, environmental protection, and infrastructure. The paper outlines the challenges hindering AI adoption and presents strategic approaches to address these obstacles, specifically targeting Africa’s socio-economic and environmental needs. In addition, the study proposes a comprehensive framework for integrating AI into Africa’s sustainable development efforts, offering tailored AI-driven strategies that align with the continent’s unique context. This framework provides a valuable resource for AI researchers, policymakers, and practitioners working towards sustainable development in Africa.

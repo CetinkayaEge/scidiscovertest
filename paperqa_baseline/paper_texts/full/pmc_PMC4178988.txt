@@ -1,0 +1,9 @@
+Title: Laser-Machined Microcavities for Simultaneous Measurement of High-Temperature and High-Pressure
+Authors: Zengling Ran, Shan Liu, Qin Liu, Ya Huang, Haihong Bao, Yanjun Wang, Shucheng Luo, Huiqin Yang, Yunjiang Rao
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140814330
+Paper ID: pmc_PMC4178988
+
+Abstract:
+Laser-machined microcavities for simultaneous measurement of high-temperature and high-pressure are demonstrated. These two cascaded microcavities are an air cavity and a composite cavity including a section of fiber and an air cavity. They are both placed into a pressure chamber inside a furnace to perform simultaneous pressure and high-temperature tests. The thermal and pressure coefficients of the short air cavity are ∼0.0779 nm/°C and ∼1.14 nm/MPa, respectively. The thermal and pressure coefficients of the composite cavity are ∼32.3 nm/°C and ∼24.4 nm/MPa, respectively. The sensor could be used to separate temperature and pressure due to their different thermal and pressure coefficients. The excellent feature of such a sensor head is that it can withstand high temperatures of up to 400 °C and achieve precise measurement of high-pressure under high temperature conditions.

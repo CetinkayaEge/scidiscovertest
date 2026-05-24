@@ -1,0 +1,9 @@
+Title: Predicting Heart Failure in Patients with Atrial Fibrillation: A Report from the Prospective COOL-AF Registry
+Authors: Rungroj Krittayaphong, Ply Chichareon, Chulalak Komoltri, Poom Sairat, Gregory Y. H. Lip
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041265
+Paper ID: pmc_PMC9967148
+
+Abstract:
+Background: This study aimed to determine risk factors and incidence rate and develop a predictive risk model for heart failure for Asian patients with atrial fibrillation (AF). Methods: This is a prospective multicenter registry of patients with non-valvular AF in Thailand conducted between 2014 and 2017. The primary outcome was the occurrence of an HF event. A predictive model was developed using a multivariable Cox-proportional model. The predictive model was assessed using C-index, D-statistics, Calibration plot, Brier test, and survival analysis. Results: There were a total of 3402 patients (average age 67.4 years, 58.2% male) with mean follow-up duration of 25.7 ± 10.6 months. Heart failure occurred in 218 patients during follow-up, representing an incidence rate of 3.03 (2.64–3.46) per 100 person-years. There were ten HF clinical factors in the model. The predictive model developed from these factors had a C-index and D-statistic of 0.756 (95% CI: 0.737–0.775) and 1.503 (95% CI: 1.372–1.634), respectively. The calibration plots showed a good agreement between the predicted and observed model with the calibration slope of 0.838. The internal validation was confirmed using the bootstrap method. The Brier score indicated that the model had a good prediction for HF. Conclusions: We provide a validated clinical HF predictive model for patients with AF, with good prediction and discrimination values.

@@ -1,0 +1,9 @@
+Title: Next generation insect taxonomic classification by comparing different deep learning algorithms
+Authors: Song-Quan Ong, Suhaila Ab. Hamid
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279094
+Paper ID: pmc_PMC9803097
+
+Abstract:
+Insect taxonomy lies at the heart of many aspects of ecology, and identification tasks are challenging due to the enormous inter- and intraspecies variation of insects. Conventional methods used to study insect taxonomy are often tedious, time-consuming, labor intensive, and expensive, and recently, computer vision with deep learning algorithms has offered an alternative way to identify and classify insect images into their taxonomic levels. We designed the classification task according to the taxonomic ranks of insects—order, family, and genus—and compared the generalization of four state-of-the-art deep convolutional neural network (DCNN) architectures. The results show that different taxonomic ranks require different deep learning (DL) algorithms to generate high-performance models, which indicates that the design of an automated systematic classification pipeline requires the integration of different algorithms. The InceptionV3 model has advantages over other models due to its high performance in distinguishing insect order and family, which is having F1-score of 0.75 and 0.79, respectively. Referring to the performance per class, Hemiptera (order), Rhiniidae (family), and Lucilia (genus) had the lowest performance, and we discuss the possible rationale and suggest future works to improve the generalization of a DL model for taxonomic rank classification.

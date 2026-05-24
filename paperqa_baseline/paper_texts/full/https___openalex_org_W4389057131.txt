@@ -1,0 +1,9 @@
+Title: Additive Manufacturing and Characterization of Sustainable Wood Fiber-Reinforced Green Composites
+Authors: Christopher Billings, Ridwan Siddique, Benjamin Sherwood, Joshua C. Hall, Yingtao Liu
+Year: 2023
+Venue: Journal of Composites Science
+DOI: https://doi.org/10.3390/jcs7120489
+Paper ID: https://openalex.org/W4389057131
+
+Abstract:
+Enhancing mechanical properties of environmentally friendly and renewable polymers by the introduction of natural fibers not only paves the way for developing sustainable composites but also enables new opportunities in advanced additive manufacturing (AM). In this paper, wood fibers, as a versatile renewable resource of cellulose, are integrated within bio-based polylactic acid (PLA) polymer for the development and 3D printing of sustainable and recycle green composites using fused deposition modeling (FDM) technology. The 3D-printed composites are comprehensively characterized to understand critical materials properties, including density, porosity, microstructures, tensile modulus, and ultimate strength. Non-contact digital image correlation (DIC) technology is employed to understand local stress and strain concentration during mechanical testing. The validated FDB-based AM process is employed to print honeycombs, woven bowls, and frame bins to demonstrate the manufacturing capability. The performance of 3D-printed honeycombs is tested under compressive loads with DIC to fully evaluate the mechanical performance and failure mechanism of ultra-light honeycomb structures. The research outcomes can be used to guide the design and optimization of AM-processed composite structures in a broad range of engineering applications.

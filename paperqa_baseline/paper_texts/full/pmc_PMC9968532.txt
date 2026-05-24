@@ -1,0 +1,9 @@
+Title: Pattern formation in Faraday instability—experimental validation of theoretical models
+Authors: B. Dinesh, J. Livesay, I. B. Ignatius, R. Narayanan
+Year: 2023
+Venue: Philosophical transactions. Series A, Mathematical, physical, and engineering sciences
+DOI: 10.1098/rsta.2022.0081
+Paper ID: pmc_PMC9968532
+
+Abstract:
+Two types of resonance-derived interfacial instability are reviewed with a focus on recent work detailing the effect of side walls on interfacial mode discretization. The first type of resonance is the mechanical Faraday instability, and the second is electrostatic Faraday instability. Both types of resonance are discussed for the case of single-frequency forcing. In the case of mechanical Faraday instability, inviscid theory can forecast the modal forms that one might expect when viscosity is taken into account. Experiments show very favourable validation with theory for both modal forms and onset conditions. Lowering of gravity is predicted to shift smaller wavelengths or choppier modes to lower frequencies. This is also validated by experiments. Electrostatic resonant instability is shown to lead to a pillaring mode that occurs at low wavenumbers, which is akin to Rayleigh Taylor instability. As in the case of mechanical resonance, experiments show favourable validation with theoretical predictions of patterns. A stark difference between the two forms of resonance is the observation of a gradual rise in the negative detuning instability in the case of mechanical Faraday and a very sharp one in the case of electrostatic resonance. This article is part of the theme issue ‘New trends in pattern formation and nonlinear dynamics of extended systems’.

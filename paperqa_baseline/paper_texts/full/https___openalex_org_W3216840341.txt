@@ -1,0 +1,9 @@
+Title: Cilia locally synthesize proteins to sustain their ultrastructure and functions
+Authors: Kai Hao, Ya‐Wen Chen, Xiumin Yan, Xueliang Zhu
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-27298-1
+Paper ID: https://openalex.org/W3216840341
+
+Abstract:
+Cilia are microtubule-based hair-like organelles propelling locomotion and extracellular liquid flow or sensing environmental stimuli. As cilia are diffusion barrier-gated subcellular compartments, their protein components are thought to come from the cell body through intraflagellar transport or diffusion. Here we show that cilia locally synthesize proteins to maintain their structure and functions. Multicilia of mouse ependymal cells are abundant in ribosomal proteins, translation initiation factors, and RNA, including 18 S rRNA and tubulin mRNA. The cilia actively generate nascent peptides, including those of tubulin. mRNA-binding protein Fmrp localizes in ciliary central lumen and appears to function in mRNA delivery into the cilia. Its depletion by RNAi impairs ciliary local translation and induces multicilia degeneration. Expression of exogenous Fmrp, but not an isoform tethered to mitochondria, rescues the degeneration defects. Therefore, local translation defects in cilia might contribute to the pathology of ciliopathies and other diseases such as Fragile X syndrome.

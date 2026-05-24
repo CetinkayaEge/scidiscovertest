@@ -1,0 +1,9 @@
+Title: Designing sustainable innovations in manufacturing: A systems engineering approach
+Authors: Tim van Erp, Cecilia Haskins, Wayne Visser, Holger Kohl, Niels Gorm Malý Rytter
+Year: 2023
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2023.02.007
+Paper ID: https://openalex.org/W4320180568
+
+Abstract:
+Innovating manufacturing systems can substantially support a sustainable transformation of value creation across the industry towards higher sustainability maturity levels. The research presents a novel systems engineering approach for innovating manufacturing systems with a focus on sustainability. The systems engineering approach aims at supporting manufacturing companies in realizing sustainable innovations. It allows companies to cope with current and future global challenges while maintaining and improving their competitiveness. The concepts of integrated values and global innovation pathways set the research's scope and practical relevance. A narrative literature review of the earlier and later phase of the sustainable-oriented innovation process is presented. The systems engineering approach for creating sustainable manufacturing innovations with a defined macro and micro cycle is introduced. The macro cycle determines the important design phases for the life cycle of the innovation while the micro cycle provides a process for finding sustainable solutions. A case study grounded on a start-up that developed an innovative wind turbine tower system is introduced for verifying, validating, and evaluating the proposed systems engineering approach within the application field of manufacturing large-scale products.

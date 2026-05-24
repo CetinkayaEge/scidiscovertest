@@ -1,0 +1,9 @@
+Title: Is blockchain able to enhance environmental sustainability? A systematic review and research agenda from the perspective of Sustainable Development Goals (SDGs)
+Authors: Adele Parmentola, Antonella Petrillo, Ilaria Tutore, Fabio De Felice
+Year: 2021
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.2882
+Paper ID: https://openalex.org/W3200673721
+
+Abstract:
+Abstract Blockchain is a disruptive technology that is revolutionizing information technology and represents a change of cultural paradigm for the way in which information is shared. Companies are rushing to understand how they can use blockchain distributed ledger technology to innovate processes, products and transactions. In a globalized world where environmental sustainability is a critical success factor, what is the role of the blockchain? By using a systematic review approach and the Preferred Reporting Items for Systematic Review and Meta‐Analyses (PRISMA) protocol, this study attempts to identify whether and how blockchain technology is considered able to affect environmental sustainability. Findings from 195 studies from 2015 to 2020 were analysed after the search protocol was applied. The results indicate that blockchain technology could contribute to environmentally sustainable development goals (SDGs) from different points of view, such as supporting the realization of a sustainable supply chain, improving energy efficiency and promoting the creation of secure and reliable smart cities. Furthermore, the investigation highlights the sectors where to focus research investments, providing a way to reward sustainable behaviour and increasing environmental sustainability. On the other hand, blockchain has no negligible negative effects on the environment that need to be considered before adoption.

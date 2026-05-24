@@ -1,0 +1,9 @@
+Title: Leveraging Digital Twin for Sustainability Assessment of an Educational Building
+Authors: Lavinia Chiara Tagliabue, Fulvio Re Cecconi, Sebastiano Maltese, Stefano Rinaldi, Angelo Luigi Camillo Ciribini, Alessandra Flammini
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020480
+Paper ID: https://openalex.org/W3120084225
+
+Abstract:
+The EU Green Deal, beginning in 2019, promoted a roadmap for operating the transition to a sustainable EU economy by turning climate issues and environmental challenges into opportunities in all policy areas and making the transition fair and inclusive for all. Focusing on the built environment, the voluntary adoption of rating systems for sustainability assessment is growing, with an increasing market value, and is perceived as a social responsibility both by public administration and by private companies. This paper proposes a framework for shifting from a static sustainability assessment to a digital twin (DT)-based and Internet of Things (IoT)-enabled dynamic approach. This new approach allows for a real-time evaluation and control of a wide range of sustainability criteria with a user-centered point of view. A pilot building, namely, the eLUX lab cognitive building in the University of Brescia, was used to test the framework with some sample applications. The educational building accommodates the daily activities of the engineering students by constantly interacting with the sensorized asset monitoring indoor comfort and air quality conditions as well as the energy behavior of the building in order to optimize the trade-off with renewable energy production. The framework is the cornerstone of a methodology exploiting the digital twin approach to support the decision processes related to sustainability through the whole building’s life cycle.

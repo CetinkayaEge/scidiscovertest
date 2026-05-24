@@ -1,0 +1,9 @@
+Title: Electrospun quad-axial nanofibers for controlled and sustained drug delivery
+Authors: Xindan Zhang, Cheng Chi, Junjie Chen, Xiaodi Zhang, Min Gong, Xing Wang, Junhao Yan, Rui Shi, Liqun Zhang, Jiajia Xue
+Year: 2021
+Venue: Materials & Design
+DOI: https://doi.org/10.1016/j.matdes.2021.109732
+Paper ID: https://openalex.org/W3157104603
+
+Abstract:
+It is of great importance and a major challenge to achieve a controlled delivery of specific types of active ingredients for tissue regeneration. Herein, we report a system comprised of electrospun quad-axial nanofibers fabricated by quadriaxial electrospinning, with the material components in the different layers can be well regulated. The quad-axial nanofibers allow the regulation of the type of materials in different layers as well as the manipulation of the location of drug in the nanofibers, representing a promising controlled drug release system. In one typical example, we apply polycaprolactone to construct both the outermost and second innermost layers while gelatin to construct both the second outermost and innermost layers. The nanofibers with a cleared four-layered nanostructure are confirmed by morphological evaluations. Moxifloxacin, a type of antibacterial drug serving as a model of therapeutic payload, is encapsulated in the different layers of the nanofibers, realizing an effective control of the drug delivery. In addition, the efficacy for drug delivery with the use of quad-axial nanofibers is superior to that of core-sheath and blended nanofibers. This quadriaxial electrospinning technique can be widely used for the co-delivery of factor cocktails in a designed sequence, which will show great potential for tissue engineering.

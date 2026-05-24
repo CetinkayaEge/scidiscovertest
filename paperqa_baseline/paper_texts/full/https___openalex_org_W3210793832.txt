@@ -1,0 +1,9 @@
+Title: Sustained enzymatic activity and flow in crowded protein droplets
+Authors: Andrea Testa, Mirco Dindo, Aleksander A. Rebane, Babak Nasouri, Robert W. Style, Ramin Golestanian, Eric R. Dufresne, Paola Laurino
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-26532-0
+Paper ID: https://openalex.org/W3210793832
+
+Abstract:
+Living cells harvest energy from their environments to drive the chemical processes that enable life. We introduce a minimal system that operates at similar protein concentrations, metabolic densities, and length scales as living cells. This approach takes advantage of the tendency of phase-separated protein droplets to strongly partition enzymes, while presenting minimal barriers to transport of small molecules across their interface. By dispersing these microreactors in a reservoir of substrate-loaded buffer, we achieve steady states at metabolic densities that match those of the hungriest microorganisms. We further demonstrate the formation of steady pH gradients, capable of driving microscopic flows. Our approach enables the investigation of the function of diverse enzymes in environments that mimic cytoplasm, and provides a flexible platform for studying the collective behavior of matter driven far from equilibrium.

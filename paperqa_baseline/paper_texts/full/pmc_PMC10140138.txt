@@ -1,0 +1,9 @@
+Title: Multi-feed, loop-dipole combined dielectric resonator antenna arrays for human brain MRI at 7 T
+Authors: Daniel Wenz, Thomas Dardano
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01078-y
+Paper ID: pmc_PMC10140138
+
+Abstract:
+Objective To determine whether a multi-feed, loop-dipole combined approach can be used to improve performance of rectangular dielectric resonator antenna (DRA) arrays human brain for MRI at 7 T. Materials and methods Electromagnetic field simulations in a spherical phantom and human voxel model “Duke” were conducted for different rectangular DRA geometries and dielectric constants ε r . Three types of RF feed were investigated: loop-only, dipole-only and loop-dipole. Additionally, multi-channel array configurations up to 24-channels were simulated. Results The loop-only coupling scheme provided the highest B 1 + and SAR efficiency, while the loop-dipole showed the highest SNR in the center of a spherical phantom for both single- and multi-channel configurations. For Duke, 16-channel arrays outperformed an 8-channel bow-tie array with greater B 1 + efficiency (1.48- to 1.54-fold), SAR efficiency (1.03- to 1.23-fold) and SNR (1.63- to 1.78). The multi-feed, loop-dipole combined approach enabled the number of channels increase to 24 with 3 channels per block. Discussion This work provides novel insights into the rectangular DRA design for high field MRI and shows that the loop-only feed should be used instead of the dipole-only in transmit mode to achieve the highest B 1 + and SAR efficiency, while the loop-dipole should be the best suited in receive mode to obtain the highest SNR in spherical samples of similar size and electrical properties as the human head.

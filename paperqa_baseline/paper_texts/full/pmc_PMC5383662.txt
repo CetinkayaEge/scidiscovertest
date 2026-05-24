@@ -1,0 +1,9 @@
+Title: Arabidopsis ALA1 and ALA2 Mediate RNAi-Based Antiviral Immunity
+Authors: Biyun Zhu, Hua Gao, Gang Xu, Dewei Wu, Susheng Song, Hongshan Jiang, Shuifang Zhu, Tiancong Qi, Daoxin Xie
+Year: 2017
+Venue: Frontiers in Plant Science
+DOI: 10.3389/fpls.2017.00422
+Paper ID: pmc_PMC5383662
+
+Abstract:
+RNA intereferencing (RNAi) pathway regulates antiviral immunity and mediates plant growth and development. Despite considerable research efforts, a few components in RNAi pathway have been revealed, including ARGONAUTEs (AGOs), DICER-LIKEs (DCLs), RNA-dependent RNA polymerase 1 and 6 (RDR1/6), and ALTERED MERISTEM PROGRAM 1 (AMP1). In this study, we performed a forward genetic screening for enhancers of rdr6 via inoculation of CMV2aTΔ2b, a 2b-deficient Cucumber Mosaic Virus that is unable to suppress RNAi-mediated antiviral immunity. We uncover that the membrane-localized flippase Aminophospholipid ATPase 1 (ALA1) cooperates with RDR6 and RDR1 to promote antiviral immunity and regulate fertility in Arabidopsis . Moreover, we find that ALA2, a homolog of ALA1, also participates in antiviral immunity. Our findings suggest that ALA1 and ALA2 act as novel components in the RNAi pathway and function additively with RDR1 and RDR6 to mediate RNAi-based antiviral immunity and plant development.

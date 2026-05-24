@@ -1,0 +1,9 @@
+Title: Requirements engineering for sustainable software systems: a systematic mapping study
+Authors: Peter Bambazek, Iris Groher, Norbert Seyff
+Year: 2023
+Venue: Requirements Engineering
+DOI: https://doi.org/10.1007/s00766-023-00402-1
+Paper ID: https://openalex.org/W4379798506
+
+Abstract:
+Abstract Various approaches toward the development of sustainable software systems have been proposed by the requirements engineering community over the last decade. We conducted a systematic mapping study, analyzed 55 publications, and identified 29 approaches that have been published since the year 2000. We analyzed how the approaches evolved over time and how the publications and authors are influenced by each other. Furthermore, the approaches are analyzed in terms of their supported requirements engineering activities, along with the evidence provided in the publications. Additionally, we also analyzed which sustainability definitions have been used, if an iterative application of the approaches is discussed, and if the approaches also provide a tool-support for practitioners. We noticed an increase of publications on requirements engineering approaches toward sustainability in the last years, whereas a majority discuss sustainability based on the same multi-dimensional concept. Although different case studies have been already conducted, we noticed a lack of an industrial application. Our main findings concern the need of an evaluation on how the proposed requirements engineering approaches can also be applied in agile software development processes. Additionally, we also promote the development of supporting software tools to support practitioners in adapting the proposed approaches.

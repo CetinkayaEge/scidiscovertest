@@ -1,0 +1,9 @@
+Title: InterARTIC: an interactive web application for whole-genome nanopore sequencing analysis of SARS-CoV-2 and other viruses
+Authors: James M Ferguson, Hasindu Gamaarachchi, Thanh Nguyen, Alyne Gollon, Stephanie Tong, Chiara Aquilina-Reid, Rachel Bowen-James, Ira W Deveson
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab846
+Paper ID: pmc_PMC8826086
+
+Abstract:
+Abstract Motivation InterARTIC is an interactive web application for the analysis of viral whole-genome sequencing (WGS) data generated on Oxford Nanopore Technologies (ONT) devices. A graphical interface enables users with no bioinformatics expertise to analyze WGS experiments and reconstruct consensus genome sequences from individual isolates of viruses, such as SARS-CoV-2. InterARTIC is intended to facilitate widespread adoption and standardization of ONT sequencing for viral surveillance and molecular epidemiology. Results We demonstrate the use of InterARTIC for the analysis of ONT viral WGS data from SARS-CoV-2 and Ebola virus, using a laptop computer or the internal computer on an ONT GridION sequencing device. We showcase the intuitive graphical interface, workflow customization capabilities and job-scheduling system that facilitate execution of small- and large-scale WGS projects on any common virus. Availability and implementation InterARTIC is a free, open-source web application implemented in Python that executes best-practice command line workflows from the ARTIC network. The application can be downloaded as a set of pre-compiled binaries that are compatible with all common Linux distributions, Windows with Linux subsystems, MacOSX and ARM systems. All code can be found on GitHub at https://github.com/Psy-Fer/interARTIC/ and documentation can be found at https://github.com/Psy-Fer/interARTIC/ . Supplementary information Supplementary data are available at Bioinformatics online.

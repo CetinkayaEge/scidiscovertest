@@ -1,0 +1,9 @@
+Title: Bystander effect of SARS-CoV-2 spike protein on human monocytic THP-1 cell activation and initiation of prothrombogenic stimulus representing severe COVID-19
+Authors: Tapas Patra, Ranjit Ray
+Year: 2022
+Venue: Journal of Inflammation (London, England)
+DOI: 10.1186/s12950-022-00325-8
+Paper ID: pmc_PMC9801152
+
+Abstract:
+Background Hypercoagulable state and thromboembolic complications are potential life-threatening events in COVID-19 patients. Our previous studies demonstrated that SARS-CoV-2 infection as well as viral spike protein expressed epithelial cells exhibit senescence with the release of inflammatory molecules, including alarmins. Findings We observed extracellular alarmins present in the culture media of SARS-CoV-2 spike expressing cells activate human THP-1 monocytes to secrete pro-inflammatory cytokines to a significant level. The release of THP-1 derived pro-inflammatory cytokine signature correlated with the serum of acute COVID-19 patient, but not in post-COVID-19 state. Our study suggested that the alarmins secreted by spike expressing cells, initiated phagocytosis property of THP-1 cells. The phagocytic monocytes secreted complement component C5a and generated an autocrine signal via C5aR1 receptor. The C5a-C5aR1 signal induced formation of monocyte mediated extracellular trap resulted in the generation of a prothrombogenic stimulus with activating platelets and increased tissue factor activity. We also observed an enhanced C5a level, platelet activating factor, and high tissue factor activity in the serum of acute COVID-19 patients, but not in recovered patients. Conclusion Our present study demonstrated that SARS-CoV-2 spike protein modulates monocyte responses in a paracrine manner for prothrombogenic stimulus by the generation of C5a complement component.

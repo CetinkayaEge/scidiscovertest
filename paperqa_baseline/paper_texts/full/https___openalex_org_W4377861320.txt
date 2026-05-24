@@ -1,0 +1,9 @@
+Title: Multi-criteria decision analysis for the evaluation and screening of sustainable aviation fuel production pathways
+Authors: Jude A. Okolie, Damilola Awotoye, Meshach E. Tabat, Patrick U. Okoye, Emmanuel I. Epelle, Chukwuma C. Ogbaga, Fatih Güleç, Bilainu Oboirien
+Year: 2023
+Venue: iScience
+DOI: https://doi.org/10.1016/j.isci.2023.106944
+Paper ID: https://openalex.org/W4377861320
+
+Abstract:
+The aviation sector, a significant greenhouse gas emitter, must lower its emissions to alleviate the climate change impact. Decarbonization can be achieved by converting low-carbon feedstock to sustainable aviation fuel (SAF). This study reviews SAF production pathways like hydroprocessed esters and fatty acids (HEFA), gasification and Fischer-Tropsch Process (GFT), Alcohol to Jet (ATJ), direct sugar to hydrocarbon (DSHC), and fast pyrolysis (FP). Each pathway's advantages, limitations, cost-effectiveness, and environmental impact are detailed, with reaction pathways, feedstock, and catalyst requirements. A multi-criteria decision framework (MCDS) was used to rank the most promising SAF production pathways. The results show the performance ranking order as HEFA > DSHC > FP > ATJ > GFT, assuming equal weight for all criteria.

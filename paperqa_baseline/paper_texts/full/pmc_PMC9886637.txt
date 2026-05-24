@@ -1,0 +1,9 @@
+Title: Augmented reality through head-mounted display for navigation of baseplate component placement in reverse total shoulder arthroplasty: a cadaveric study
+Authors: Philipp Kriechling, Rafael Loucas, Marios Loucas, Fabio Casari, Philipp Fürnstahl, Karl Wieser
+Year: 2021
+Venue: Archives of Orthopaedic and Trauma Surgery
+DOI: 10.1007/s00402-021-04025-5
+Paper ID: pmc_PMC9886637
+
+Abstract:
+Background To achieve an optimal clinical outcome in reverse total shoulder arthroplasty (RSA), accurate placement of the components is essential. The recently introduced navigation technology of augmented reality (AR) through head-mounted displays (HMD) offers a promising new approach to visualize the anatomy and navigate component positioning in various orthopedic surgeries. We hypothesized that AR through HMD is feasible, reliable, and accurate for guidewire placement in RSA baseplate positioning. Methods Twelve human cadaver shoulders were scanned with computed tomography (CT) and RSA baseplate positioning was 3-D planned using dedicated software. The shoulders were prepared through a deltopectoral approach and an augmented reality hologram was superimposed using the HMD Microsoft HoloLense. The central guidewire was then navigated through the HMD to achieve the planned entry point and trajectory. Postoperatively, the shoulders were CT-scanned a second time and the deviation from the planning was calculated. Results The mean deviation of the entry point was 3.5 mm ± 1.7 mm (95% CI 2.4 mm; 4.6 mm). The mean deviation of the planned trajectory was 3.8° ± 1.7° (95% CI 2.6°; 4.9°). Conclusion Augmented reality seems feasible and reliable for baseplate guidewire positioning in reverse total shoulder arthroplasty. The achieved values were accurate. Supplementary Information The online version contains supplementary material available at 10.1007/s00402-021-04025-5.

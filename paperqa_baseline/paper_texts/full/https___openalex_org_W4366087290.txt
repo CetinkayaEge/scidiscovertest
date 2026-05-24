@@ -1,0 +1,9 @@
+Title: Optimising location, inventory and transportation in a sustainable closed-loop supply chain
+Authors: Pablo Becerra, Josefa Mula, Raquel Sanchís
+Year: 2023
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2023.2197515
+Paper ID: https://openalex.org/W4366087290
+
+Abstract:
+Operations management researchers and practitioners have shown increasing interest in incorporating sustainability into supply chain (SC) design models. This means that sustainability must be considered in all aspects of the SC, including location, inventory and transportation (LIT) decisions. Hence the aim of this article is to propose an optimisation model that incorporates: (i) LIT decisions in an integrated manner; (ii) the three sustainability (3S) aspects, i.e. economic, environmental and social, into each named decisions; and (iii) a closed-loop supply chain (CLSC) structure. The proposed formulation is a multi-objective mixed integer non-linear programming (MO-MINLP) model whose objectives consider minimisation of economic and social costs (economic aspect) and carbon emissions (environmental aspect), and maximisation of the social impact of SC operations (social aspect). A transformation technique is applied to one of the objective functions, which results in an MO-MILP model solved by the lexicographic method. This article focuses on commodity industries where only one finished product is manufactured. Hence the 3S-LIT model is validated with a randomly generated dataset and against a recently published alternative model applied to the copper mining industry.

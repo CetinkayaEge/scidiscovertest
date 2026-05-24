@@ -1,0 +1,9 @@
+Title: Comparing biofuels through the lens of sustainability: A data envelopment analysis approach
+Authors: Richard Cabrera-Jiménez, Josep M. Mateo‐Sanz, Jordi Gavaldà, Laureano Jiménez, Carlos Pozo
+Year: 2021
+Venue: Applied Energy
+DOI: https://doi.org/10.1016/j.apenergy.2021.118201
+Paper ID: https://openalex.org/W3215209387
+
+Abstract:
+Liquid biofuels can facilitate the transition towards a more sustainable transportation sector by curbing carbon emissions while maintaining most of the current vehicle fleet. Today, a myriad of alternatives are available to produce biofuels, where different decisions for the fuel type, blend, conversion process and carbon source will affect the final cost and environmental impact of the product. In this contribution, we analyze the performance of 72 different biofuels routes based on 12 indicators that cover the three sustainability dimensions: economic, environmental and social. The proposed multi-criteria approach combines Data Envelopment Analysis with Life Cycle Assessment to evaluate biofuels from a cradle-to-wheel perspective, that is, considering the production chain spanning from biomass production to the combustion of the biofuel in the engine. Results reveal that there are 35 biofuels routes performing better than the rest, with renewable diesel being a better option than ethanol-based blends or biodiesel, and waste biomass preferred over cellulosic biomass or bio-oils. The selection of the carbon source proofed to be the most important decision, highlighting the need to consider regional aspects related to soil and climate before promoting a certain biofuel. Overall, our results can help to derive effective policies for the adoption of biofuels attaining the best performance at minimum cost and environmental risks.

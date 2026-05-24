@@ -1,0 +1,9 @@
+Title: Transitioning to Sustainability: Dynamic Spillovers Between Sustainability Indices and Chinese Stock Market
+Authors: Hongjun Zeng, Ramzi Benkraiem, Mohammad Zoynul Abedin, Petr Hájek
+Year: 2025
+Venue: European Financial Management
+DOI: https://doi.org/10.1111/eufm.12560
+Paper ID: https://openalex.org/W4410127414
+
+Abstract:
+ABSTRACT This paper investigates the dynamic transition of the Chinese stock market towards a just and sustainable future by examining the tail risk connectedness and frequency‐quantile dependence between a series of sustainability indices and Chinese stock market sectors. Employing the novel TVP‐VAR‐CAViaR connectedness method and the wavelet quantile correlation (WQC) method, we capture the evolving relationship between sustainability factors and market performance. Considering the significant, far‐reaching, and lasting effects of such uncertainties on the financial markets, our analysis provides essential guidance for investors and policymakers alike in navigating decisions and crafting regulations.

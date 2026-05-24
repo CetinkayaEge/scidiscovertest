@@ -1,0 +1,9 @@
+Title: Zero‐waste emission design of sustainable and programmable actuators
+Authors: Linchao Sun, Lixuan Che, Ming Li, William G. Neal, Xu Leng, Yaojia Long, Yifeng Jia, Yunhu Gao, Matteo Palma, Yao Lu
+Year: 2023
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.120
+Paper ID: https://openalex.org/W4323363912
+
+Abstract:
+Abstract Moisture‐responsive actuators are widely used as energy‐harvesting devices due to their excellent ability to spontaneously and continuously convert external energy into kinetic energy. However, it remains a challenge to sustainably synthesize moisture‐driven actuators. Here, we present a sustainable zero‐waste emission methodology to prepare soft actuators using carbon nano‐powders and biodegradable polymers through a water evaporation method. Due to the water solubility and recyclability of the matrixes employed here, the entire synthetic process achieves zero‐waste emission. Our composite films featured strong figures of merit and capabilities with a 250° maximum bending angle under 90% relative humidity. Programmable motions and intelligent bionic applications, including walkers, smart switches, robotic arms, flexible excavators, and hand‐shaped actuators, were further achieved by modulating the geometry of the actuators. This sustainable method for actuators’ fabrication has great potential in large‐scale productions and applications due to its advantages of zero‐waste emission manufacturing, excellent recyclability, inherent adaptive integration, and low cost.

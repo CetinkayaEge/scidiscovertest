@@ -1,0 +1,9 @@
+Title: Anion Exchange Ionomers Enable Sustained Pure-Water Electrolysis Using Platinum-Group-Metal-Free Electrocatalysts
+Authors: Yiwei Zheng, Ariana Serban, Haoyue Zhang, Nanjun Chen, Fang Song, Xile Hu
+Year: 2023
+Venue: ACS Energy Letters
+DOI: https://doi.org/10.1021/acsenergylett.3c01866
+Paper ID: https://openalex.org/W4388408615
+
+Abstract:
+Anion exchange membrane water electrolyzer (AEMWE) is a rising technology that offers potential advantages in cost and scalability over proton exchange membrane water electrolyzer (PEMWE) technology. However, AEMWEs that stably operate in pure water still employ platinum-group-metal (PGM) catalysts, especially at the cathode. Here, by using an appropriate ionomer at both the anode and cathode, as well as a new hydrogen evolution reaction (HER) catalyst, we achieve sustained pure-water AEM water electrolysis using only PGM-free electrocatalysts. Our optimized AEMWE can operate stably for more than 550 h at 1 A/cm2 with a cell voltage of 1.82 V. This performance competes favorably over the state-of-the-art, PGM-containing, AEMWEs. Unexpectedly, we find that the cathode performance is the bottleneck in pure-water AEMWE. The application of a cathode ionomer can lower the cell voltage by up to 1.4 V at 1 A/cm2. Our work reveals the importance of ionomers for pure-water AEMWEs and identifies cathode improvement as a key area for future work.

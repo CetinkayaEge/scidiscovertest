@@ -1,0 +1,9 @@
+Title: Iodine Absorption Cells Purity Testing
+Authors: Jan Hrabina, Massimo Zucco, Charles Philippe, Tuan Minh Pham, Miroslava Holá, Ouali Acef, Josef Lazar, Ondřej Číp
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010102
+Paper ID: pmc_PMC5298675
+
+Abstract:
+This article deals with the evaluation of the chemical purity of iodine-filled absorption cells and the optical frequency references used for the frequency locking of laser standards. We summarize the recent trends and progress in absorption cell technology and we focus on methods for iodine cell purity testing. We compare two independent experimental systems based on the laser-induced fluorescence method, showing an improvement of measurement uncertainty by introducing a compensation system reducing unwanted influences. We show the advantages of this technique, which is relatively simple and does not require extensive hardware equipment. As an alternative to the traditionally used methods we propose an approach of hyperfine transitions’ spectral linewidth measurement. The key characteristic of this method is demonstrated on a set of testing iodine cells. The relationship between laser-induced fluorescence and transition linewidth methods will be presented as well as a summary of the advantages and disadvantages of the proposed technique (in comparison with traditional measurement approaches).

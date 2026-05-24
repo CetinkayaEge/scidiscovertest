@@ -1,0 +1,9 @@
+Title: Designing a food supply chain for enhanced social sustainability in developing countries
+Authors: D. G. Mogale, Abhijeet Ghadge, Naoufel Cheikhrouhou, Manoj Kumar Tiwari
+Year: 2022
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2022.2078746
+Paper ID: https://openalex.org/W4281620241
+
+Abstract:
+The food grain production in India has progressively risen in the past few decades, whereas the storage capacity has remained limited. The policymakers in India are attempting to close this capacity gap while addressing sustainability objectives. However, the quantification and integration of multiple social sustainability factors have remained a challenge. To improve the overall sustainability, the study attempts to develop a mathematical model considering procurement, transportation, inventory, and location-related issues. Several supply chain network factors are integrated and assessed while focussing on the social sustainability dimension. Three cases of India's largest food grain-producing and consuming states are analysed with the help of two Pareto-based algorithms. Multiple relationships between variations in supply, demand, and the capacity of silos with three defined objectives are evaluated. It is observed that, the demand significantly influences the economic and environmental objectives compared with the supply and silo capacity. The capacity of silos has a more significant impact on social objectives than economic and environmental objectives. Results reveal the importance of establishing a sufficient number of modernised silos, which reduces environmental impact and improves social factors such as farmers’ economic condition and welfare, balanced economic development, number of jobs created, and public health level.

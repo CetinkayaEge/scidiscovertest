@@ -1,0 +1,9 @@
+Title: Role for RIP1 in mediating necroptosis in experimental intracerebral hemorrhage model both in vivo and in vitro
+Authors: Haitao Shen, Chenglin Liu, Dongping Zhang, Xiyang Yao, Kai Zhang, Haiying Li, Gang Chen
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.58
+Paper ID: pmc_PMC5386555
+
+Abstract:
+Cell death is a hallmark of second brain injury after intracerebral hemorrhage (ICH); however, the mechanism still has not been fully illustrated. In this study, we explored whether necroptosis, a type of regulated necrosis, has an essential role in brain injury after ICH. We found that inhibiting receptor-interacting protein 1 (RIP1) – a core element of the necroptotic pathway – by a specific chemical inhibitor or genetic knockdown attenuated brain injury in a rat model of ICH. Furthermore, necroptosis of cultured neurons could be induced by conditioned medium from microglia stimulated with oxygen hemoglobin, and this effect could be inhibited by TNF- α inhibitor, indicating that TNF- α secreted from activated microglia is an important factor in inducing necroptosis of neurons. Undoubtedly, overexpression of RIP1 increased conditioned medium-induced necroptosis in vitro , but this effect was partially diminished in mutation of serine kinase phosphorylation site of RIP1, showing that phosphorylation of RIP1 is the essential molecular mechanism of necroptosis, which was activated in the in vitro model of ICH. Collectively, our investigation identified that necroptosis is an important mechanism of cell death in brain injury after ICH, and inhibition of necroptosis may be a potential therapeutic intervention of ICH.

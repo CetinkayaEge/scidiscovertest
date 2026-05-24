@@ -1,0 +1,9 @@
+Title: The Theory of Complexity and Sustainable Urban Development: A Systematic Literature Review
+Authors: Walter Antonio Abujder Ochoa, Alfredo Iarozinski Neto, Paulo Cezar Vitório, Oriana Palma Calabokis, Vladimir Ballesteros Ballesteros
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17010003
+Paper ID: https://openalex.org/W4405760121
+
+Abstract:
+Urbanization is a rapidly accelerating global phenomenon that challenges sustainable development, requiring innovative frameworks for understanding and managing urban complexity. This study explores the application of Complexity Theory in sustainable urban development, framing cities as Complex Adaptive Systems (CAS), where dynamic social, economic, environmental, and technological interactions generate emergent behaviors. A systematic literature review was conducted, analyzing 91 studies retrieved from Scopus that explicitly link Complexity Theory to urban sustainability. Key findings reveal trade-offs, such as balancing economic growth with ecological preservation and social equity, while emphasizing the role of self-organization and adaptive governance in enhancing urban resilience. Concrete examples include the application of fractal analysis in urban planning to predict sprawl and optimize infrastructure and the use of system dynamics models to align smart city initiatives with United Nations Sustainable Development Goals. Wider co-benefits identified include improved public health through integrated green infrastructure and the reinforcement of social cohesion via participatory urban planning. This research concludes that embracing Complexity Theory enables a holistic approach to urban sustainability, fostering adaptable, resilient systems that can better manage uncertainty. This study highlights the need for interdisciplinary collaboration and innovative policy frameworks to navigate the multifaceted challenges of modern urbanization.

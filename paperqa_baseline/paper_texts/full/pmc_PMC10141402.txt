@@ -1,0 +1,9 @@
+Title: Solid-State Lithium Ion Supercapacitor for Voltage Control of Skyrmions
+Authors: Maria Ameziane, Joonatan Huhtasalo, Lukáš Flajšman, Rhodri Mansell, Sebastiaan van Dijken
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c04731
+Paper ID: pmc_PMC10141402
+
+Abstract:
+Ionic control of magnetism gives rise to high magnetoelectric coupling efficiencies at low voltages, which is essential for low-power magnetism-based nonconventional computing technologies. However, for on-chip applications, magnetoionic devices typically suffer from slow kinetics, poor cyclability, impractical liquid architectures, or strong ambient effects. As a route to overcoming these problems, we demonstrate a LiPON-based solid-state ionic supercapacitor with a magnetic Pt/Co 40 Fe 40 B 20 /Pt thin-film electrode which enables voltage control of a magnetic skyrmion state. Skyrmion nucleation and annihilation are caused by Li ion accumulation and depletion at the magnetic interface under an applied voltage. The skyrmion density can be controlled through dc applied voltages or through voltage pulses. The skyrmions are nucleated by single 60 μs voltage pulses, and devices are cycled 750000 times without loss of electrical performance. Our results demonstrate a simple and robust approach to ionic control of magnetism in spin-based devices.

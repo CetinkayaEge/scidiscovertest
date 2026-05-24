@@ -1,0 +1,9 @@
+Title: Heterogeneous resource allocation can change social hierarchy in public goods games
+Authors: Sandro Meloni, Cheng-Yi Xia, Yamir Moreno
+Year: 2017
+Venue: Royal Society Open Science
+DOI: 10.1098/rsos.170092
+Paper ID: pmc_PMC5383863
+
+Abstract:
+Public goods games (PGGs) represent one of the most useful tools to study group interactions. However, even if they could provide an explanation for the emergence and stability of cooperation in modern societies, they are not able to reproduce some key features observed in social and economical interactions. The typical shape of wealth distribution—known as Pareto Law—and the microscopic organization of wealth production are two of them. Here, we introduce a modification to the classical formulation of PGGs that allows for the emergence of both of these features from first principles. Unlike traditional PGGs, where players contribute equally to all the games in which they participate, we allow individuals to redistribute their contribution according to what they earned in previous rounds. Results from numerical simulations show that not only a Pareto distribution for the pay-offs naturally emerges but also that if players do not invest enough in one round they can act as defectors even if they are formally cooperators. Our results not only give an explanation for wealth heterogeneity observed in real data but also point to a conceptual change on cooperation in collective dilemmas.

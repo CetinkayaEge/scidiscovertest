@@ -1,0 +1,9 @@
+Title: Enhanced optomechanically induced transparency via atomic ensemble in optomechanical system
+Authors: Tesfay Gebremariam Tesfahannes
+Year: 2021
+Venue: Quantum Information Processing
+DOI: 10.1007/s11128-021-03049-5
+Paper ID: pmc_PMC7975242
+
+Abstract:
+We investigate the optomechanically induced transparency phenomena assisted through cavity optomechanical system. The system consists of an optical cavity system filled with the two-level atomic ensemble and driven by a weak probe laser as well as a strong coupling fields. Under different driving conditions, the system can exhibit the phenomena of optomechanical induced transparency dip. Specifically, the width of the transparency window increases with an increase in the coupling constant, while decreasing with an increase in atomic decay rate. Furthermore, the induced transparency phenomena are strongly affected by the number of atoms, coupling, and the decay rate. It is found that the larger the number of atoms, the wider the window of induced transparency, and therefore enhance the depth of transparency window. These results may have spectacular applications for slowing and on-chip storage of light pulses by the use of a micro-fabricated optomechanical array.

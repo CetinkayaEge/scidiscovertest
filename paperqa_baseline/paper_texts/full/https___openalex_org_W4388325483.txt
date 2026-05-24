@@ -1,0 +1,9 @@
+Title: Nexus between agriculture and photovoltaics (agrivoltaics, agriphotovoltaics) for sustainable development goal: A review
+Authors: Aritra Ghosh
+Year: 2023
+Venue: Solar Energy
+DOI: https://doi.org/10.1016/j.solener.2023.112146
+Paper ID: https://openalex.org/W4388325483
+
+Abstract:
+The coexistence of agricultural land and solar photovoltaics (PV) can be named Agriphotovoltaics (APV). APV concept was developed two decades ago however its actual implementation is happening nowadays. APV directly solves SDGs 7, and 11 by generating benevolent renewable energy without damaging the land and keep producing food for people. In this work, a comprehensive review of the APV system is documented. Currently available software tools, field experiment results, and PV for APV are described in this work which identified that for forecasting APV, a more robust tool is required. Vertically placed Bifacial PV, transparent, and semitransparent tilted PVs can be suitable for shade-intolerant crops whereas opaque PVs are appropriate for shade-tolerant crops. The knowledge gap between various stakeholders such as solar PV researchers, agricultural researchers, and land users needs to be more rigorous. Economic and policymakers should share dialogue to improve the growth of APV which not only solves SDG 7, and 11 but also meets the target for SDG 5, 8, 9,12, and 15.

@@ -1,0 +1,9 @@
+Title: Geopolitical risk and renewable energy asset prices: Implications for sustainable development
+Authors: Anupam Dutta, Probal Dutta
+Year: 2022
+Venue: Renewable Energy
+DOI: https://doi.org/10.1016/j.renene.2022.07.029
+Paper ID: https://openalex.org/W4284886448
+
+Abstract:
+This study intends to investigate the impact of geopolitical uncertainty, proxied by the geopolitical risk (GPR) index, on the volatility of renewable energy exchange traded funds (ETFs). Employing a two-state Markov regime switching model reveals that an upturn in the GPR index increases (reduces) the likelihood of being in the low (high) volatility regime. This finding could be attributed to the fact that when the geopolitical risk increases, users of crude oil, which is highly sensitive to such risk, tend to consider clean energy as a substitute for traditional energy sources. This causes a growth in the equity prices of new energy firms, further leading to a drop in the levels of volatility. Additionally, the results of generalized autoregressive conditional heteroscedasticity (GARCH) models also confirm that higher GPR implies lower risk for these green assets. The outcomes have implications to policymakers and investors participating in clean energy markets.

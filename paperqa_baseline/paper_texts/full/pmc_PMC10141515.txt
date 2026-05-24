@@ -1,0 +1,9 @@
+Title: Deregulated Metabolic Pathways in Ovarian Cancer: Cause and Consequence
+Authors: Roopak Murali, Vaishnavi Balasubramaniam, Satish Srinivas, Sandhya Sundaram, Ganesh Venkatraman, Sudha Warrier, Arun Dharmarajan, Rajesh Kumar Gandhirajan
+Year: 2023
+Venue: Metabolites
+DOI: 10.3390/metabo13040560
+Paper ID: pmc_PMC10141515
+
+Abstract:
+Ovarian cancers are tumors that originate from the different cells of the ovary and account for almost 4% of all the cancers in women globally. More than 30 types of tumors have been identified based on the cellular origins. Epithelial ovarian cancer (EOC) is the most common and lethal type of ovarian cancer which can be further divided into high-grade serous, low-grade serous, endometrioid, clear cell, and mucinous carcinoma. Ovarian carcinogenesis has been long attributed to endometriosis which is a chronic inflammation of the reproductive tract leading to progressive accumulation of mutations. Due to the advent of multi-omics datasets, the consequences of somatic mutations and their role in altered tumor metabolism has been well elucidated. Several oncogenes and tumor suppressor genes have been implicated in the progression of ovarian cancer. In this review, we highlight the genetic alterations undergone by the key oncogenes and tumor suppressor genes responsible for the development of ovarian cancer. We also summarize the role of these oncogenes and tumor suppressor genes and their association with a deregulated network of fatty acid, glycolysis, tricarboxylic acid and amino acid metabolism in ovarian cancers. Identification of genomic and metabolic circuits will be useful in clinical stratification of patients with complex etiologies and in identifying drug targets for personalized therapies against cancer.

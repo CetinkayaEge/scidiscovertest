@@ -1,0 +1,9 @@
+Title: The Impact of Technological Innovations on Agricultural Productivity and Environmental Sustainability in China
+Authors: Weilun Huang, Xucheng Wang
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16198480
+Paper ID: https://openalex.org/W4402964342
+
+Abstract:
+Agricultural productivity in China is a fundamental driver of food security and economic growth. Yet, the sector faces profound challenges due to environmental degradation and climate change, which threaten sustainable agricultural practices. This research examines the effects of technological innovations on agricultural Total Factor Productivity and environmental sustainability in China from 2012 to 2022. The study seeks to understand how technological advancements, when considered alongside socioeconomic variables, impact agricultural output while balancing ecological integrity. Employing a comprehensive methodological framework, this research integrates fixed-effects, random-effects, and multilevel mixed-effects models to analyze crucial factors including rural education, technological capability, and environmental conservation initiatives. The study further utilizes structural equation modeling to evaluate both the direct and indirect effects of these determinants on productivity. The results demonstrate that technological innovations substantially enhance agricultural productivity, particularly in provinces with higher socioeconomic development. Additionally, sustainable farming practices and tailored policy interventions are identified as vital in addressing regional productivity imbalances. The research concludes by underscoring the necessity for the continued integration of environmental considerations and emerging technologies to ensure the sustainability of agricultural growth in the long term.

@@ -1,0 +1,9 @@
+Title: Time-Series Representation Learning in Topology Prediction for Passive Optical Network of Telecom Operators
+Authors: Haoran Zhao, Yuchen Fang, Yuxiang Zhao, Zheng Tian, Weinan Zhang, Xidong Feng, Li Yu, Wei Li, Hulei Fan, Tiema Mu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063345
+Paper ID: pmc_PMC10056920
+
+Abstract:
+The passive optical network (PON) is widely used in optical fiber communication thanks to its low cost and low resource consumption. However, the passiveness brings about a critical problem that it requires manual work to identify the topology structure, which is costly and prone to bringing noise to the topology logs. In this paper, we provide a base solution firstly introducing neural networks for such problems, and based on that solution we propose a complete methodology (PT-Predictor) for predicting PON topology through representation learning on its optical power data. Specifically, we design useful model ensembles (GCE-Scorer) to extract the features of optical power with noise-tolerant training techniques integrated. We further implement a data-based aggregation algorithm (MaxMeanVoter) and a novel Transformer-based voter (TransVoter) to predict the topology. Compared with previous model-free methods, PT-Predictor is able to improve prediction accuracy by 23.1% in scenarios where data provided by telecom operators is sufficient, and by 14.8% in scenarios where data is temporarily insufficient. Besides, we identify a class of scenarios where PON topology does not follow a strict tree structure, and thus topology prediction cannot be effectively performed by relying on optical power data alone, which will be studied in our future work.

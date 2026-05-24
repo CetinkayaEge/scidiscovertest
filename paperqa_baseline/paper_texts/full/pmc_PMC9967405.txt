@@ -1,0 +1,9 @@
+Title: Safety and Efficacy of Dexmedetomidine for Bronchoscopy: A Systematic Review and Meta-Analysis
+Authors: Qianqian Guo, Qi An, Lin Zhao, Meng Wu, Ye Wang, Zhenggang Guo
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041607
+Paper ID: pmc_PMC9967405
+
+Abstract:
+(1) Background: Anesthetic sedatives are widely used for bronchoscopy, and controversy surrounds the safety and efficacy of dexmedetomidine compared to other sedatives. The aim of this study is to evaluate the safety and efficacy of dexmedetomidine in bronchoscopy through a systematic review. (2) Methods: PubMed, Embase, Google Scholar, and Cochrane Library electronic databases were searched for a randomized controlled study of dexmedetomidine (Group D) or other sedative drugs (Group C) for bronchoscopy. Data extraction, quality assessment, and risk of bias analysis were performed in accordance with the preferred reporting items for systematic review and meta-analysis requirements. Meta-analysis was performed using RevMan 5.2. (3) Results: Nine studies were included, with a total of 765 cases. Compared to Group C, the incidence of hypoxemia (OR = 0.40, 95% CI (0.25, 0.64) p = 0.0001, I 2 = 8%) and tachycardia (OR = 0.44, 95% CI (0.26,0.74), p = 0.002, I 2 = 14%) were lower, but bradycardia (OR = 3.71, 95% CI (1.84, 7.47), p = 0.0002, I 2 = 0%) was higher in Group D; no significant difference was observed in other outcome indicators. (4) Conclusions: Dexmedetomidine reduces the incidence of hypoxemia and tachycardia during bronchoscopy but is more likely to provoke bradycardia.

@@ -1,0 +1,9 @@
+Title: 4D printing of continuous flax-fibre based shape-changing hygromorph biocomposites: Towards sustainable metamaterials
+Authors: Antoine Le Duigou, Thomas Fruleux, Ryosuke Matsuzaki, G. Chabaud, Masahito Ueda, Mickaël Castro
+Year: 2021
+Venue: Materials & Design
+DOI: https://doi.org/10.1016/j.matdes.2021.110158
+Paper ID: https://openalex.org/W3205097809
+
+Abstract:
+4D printing focus on the integration of a targeted morphing function by controlling the properties and the architecture of the materials. The present work evaluates the potential of tailoring 4D printing to Hygromorph BioComposite (HBC), which paves the way for the construction of a new generation of sustainable shape-changing metamaterials with a sequential response. HBCs are made of continuous flax fibres that have been proven to be relevant for actuation and thus 4D printing due to their hygromorphism function. The morphing performance of HBCs can be boosted by selecting an appropriate matrix. The soft Poly Buthylene Succinate (PBS) matrix showed a 92% increase in responsiveness and 500% increase in reactivity compared to the Poly Lactic Acid (PLA)/Flax HBC. 4D printing with Layer Height (LH) control within layers allows for complex actuation potential with a local control of the thickness and stiffness ratio. The Interfilament Distance of the 0° oriented passive layer (IDp) offers the opportunity to achieve non-uniform reactivity and responsiveness for autonomous smart surfaces. Finally, the programming of the spatial distribution of the flax yarn can be combined with heterogeneities. As an illustration, simple compliant mechanism via localized microstructure changes is proposed.

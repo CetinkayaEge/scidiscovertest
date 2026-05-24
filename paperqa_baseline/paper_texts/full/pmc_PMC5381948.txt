@@ -1,0 +1,9 @@
+Title: Soluble membrane receptors, interleukin 6, procalcitonin and C reactive protein as prognostic markers in patients with severe sepsis and septic shock
+Authors: Juan-Jesús Ríos-Toro, Mercedes Márquez-Coello, José-María García-Álvarez, Andrés Martín-Aspas, Ricardo Rivera-Fernández, Ana Sáez de Benito, José-Antonio Girón-González
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175254
+Paper ID: pmc_PMC5381948
+
+Abstract:
+Background The objective of this study was to explore the diagnostic and prognostic value of soluble triggering receptor expressed on myeloid cell 1 (sTREM-1), soluble cluster of differentiation 14 (sCD14), soluble cluster of differentiation 163 (sCD163), interleukin-6 (IL-6), procalcitonin (PCT), and C-reactive protein (CRP) serum levels for patients with severe sepsis and septic shock in an intensive care unit (ICU). Methods Fifty patients admitted at the ICU with the diagnosis of severe sepsis or septic shock were studied. SOFA and APACHE II scores as well as serum biomarkers were measured at days 0, 2 and 5. The influence of these variables on 28-day mortality was analyzed. Twenty healthy individuals served as controls. Results Baseline serum concentrations of sTREM-1, sCD163, IL-6 and PCT correlated with SOFA score. Only sTREM-1 levels correlated with APACHE II score. The 28-day mortality rate for all patients was 42%. The absence of risk factors for infection, presence of septic shock, baseline values of sCD14 and decrease of PCT and IL-6 from baseline to day 5 were variables associated to mortality in the univariate analysis. The unique independent factor associated to mortality in the multivariate analysis was a decrease of PCT higher than 50% from days 0 to 5. Conclusions Serum levels of sTREM-1 are correlated with the severity of sepsis. A 50% decrease of PCT was the unique variable associated with survival in the multivariate analysis.

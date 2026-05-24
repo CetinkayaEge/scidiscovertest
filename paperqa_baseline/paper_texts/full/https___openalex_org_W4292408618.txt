@@ -1,0 +1,9 @@
+Title: Threats of Internet-of-Thing on Environmental Sustainability by E-Waste
+Authors: Batoul Modarress Fathi, Alexander Ansari, Alexander Ansari, Al Ansari, Al Ansari
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141610161
+Paper ID: https://openalex.org/W4292408618
+
+Abstract:
+Human activities are at the heart of interactions between physical and digital spheres enabled by the Internet and the proliferation of Internet-of-Things (IoT) devices destined to be discarded. The rejected devices, called e-waste, contain toxic substances that negatively impact environmental sustainability. There are no studies to examine the impacts of the Internet and IoT on the sheer volume of e-waste, which is the objective of this paper. Based on an extensive literature review, two propositions were advanced, and three secondary datasets were used to test the propositions from 2000 to 2021. The first dataset relates to the world Internet penetration through variables associated with network accessibility. The second dataset is linked to the global proliferation of the IoT through its technological functionality. The third dataset is the worldwide volume of e-waste measured in millions of metric tons. Our findings indicate that the Internet and the IoT play pivotal roles in the e-waste crisis. Network accessibility and technological functionality significantly and positively influence the variability in the volume of e-waste, thus threatening environmental sustainability. Several actionable recommendations encourage developers, politicians, policymakers, and users of electronic devices to pay closer attention to the escalating size of e-waste threatening environmental sustainability.

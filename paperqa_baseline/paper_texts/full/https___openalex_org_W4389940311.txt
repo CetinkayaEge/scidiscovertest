@@ -1,0 +1,9 @@
+Title: Water Microturbines for Sustainable Applications: Optimization Analysis and Experimental Validation
+Authors: Ángel Mariano Rodríguez Pérez, Rodríguez González, Raúl López, José Antonio Hernández Torres, Julio Jose Caparrós-Mancera
+Year: 2023
+Venue: Water Resources Management
+DOI: https://doi.org/10.1007/s11269-023-03706-7
+Paper ID: https://openalex.org/W4389940311
+
+Abstract:
+Abstract The use of microturbines in irrigation applications represents a great opportunity for increasing sustainable energy generation. Irrigation systems have water flow that can be used to generate electricity based on microturbines that are acceptably configure such, that efficiency in crop irrigation is not affected. This research validates this use of microturbines through a system designed specifically for the characterization of microturbine generation technology. This system includes a closed water pumping circuit capable of working under, different water flow settings, as well as flow, pressure, and electricity generation sensors. For this system, the production range of the microturbines and the pressure loss associated with the various proposed configurations are characterized and specifically quantified for the best performance. After design and characterization of a scalable microturbine system, the feasibility and benefits of this application to supporting most relevant crops supplied by localized irrigation are analysed. The experiments demonstrate the greatest benefit with the implementation of 15 series microturbines each at 80 V, alongside non-Citrus fruit, where a favourable balance is achieved for the amortization period in vineyards and citrus fruit. The results validate a profitable and sustainable design for electricity generation, with return on investment rates of up to 53%. Therefore, this research offers real and extensive applications, while being scalable to rural, residential, urban and industrial settings.

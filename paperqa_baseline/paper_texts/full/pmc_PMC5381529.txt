@@ -1,0 +1,9 @@
+Title: Aortic Dissection is Associated with Reduced Polycystin-1 Expression, an Abnormality That Leads to Increased ERK Phosphorylation in Vascular Smooth Muscle Cells
+Authors: J. Feng, S. Ge, L. Zhang, H. Che, C. Liang
+Year: 2016
+Venue: European Journal of Histochemistry : EJH
+DOI: 10.4081/ejh.2016.2711
+Paper ID: pmc_PMC5381529
+
+Abstract:
+The vascular smooth muscle cell (VSMC) phenotypic switch is a key pathophysiological change in various cardiovascular diseases, such as aortic dissection (AD), with a high morbidity. Polycystin-1 (PC1) is significantly downregulated in the VSMCs of AD patients. PC1 is an integral membrane glycoprotein and kinase that regulates different biological processes, including cell proliferation, apoptosis, and cell polarity. However, the role of PC1 in intracellular signaling pathways remains poorly understood. In this study, PC1 downregulation in VSMCs promoted the expression of SM22, ACTA2 and calponin 1 (CNN1) proteins. Furthermore, PC1 downregulation in VSMCs upregulated phospho-MEK, phospho-ERK and myc, but did not change phospho-JNK and phospho-p38. These findings suggest that the MEK/ERK/myc signaling pathway is involved in PC1-mediated human VSMC phenotypic switch. Opposite results were observed when an ERK inhibitor was used in VSMCs downregulated by PC1. When the C-terminal domain of PC1 (PC1 C-tail) was overexpressed in VSMCs, the expression levels of phosphor-ERK, myc, SM22, ACTA2 and CNN1 proteins were downregulated. The group with the overexpressed mutant protein (S4166A) in the PC1 C-tail showed similar results to the group with the downregulated PC1 in VSMCs. These results suggest that the Ser at the 4166 site in PC1 is crucial in the PC1 mediated MEK/ERK/myc signaling pathway, which might be the key pathophysiological cause of AD.

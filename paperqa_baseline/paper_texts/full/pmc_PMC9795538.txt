@@ -1,0 +1,9 @@
+Title: 1D2DSimScore : A novel method for comparing contacts in biomacromolecules and their complexes
+Authors: S. Naeim Moafinejad, Iswarya P. N. Pandaranadar Jeyeram, Farhang Jaryani, Niloofar Shirvanizadeh, Eugene F. Baulin, Janusz M. Bujnicki
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4503
+Paper ID: pmc_PMC9795538
+
+Abstract:
+Abstract The biologically relevant structures of proteins and nucleic acids and their complexes are dynamic. They include a combination of regions ranging from rigid structural segments to structural switches to regions that are almost always disordered, which interact with each other in various ways. Comparing conformational changes and variation in contacts between different conformational states is essential to understand the biological functions of proteins, nucleic acids, and their complexes. Here, we describe a new computational tool, 1D2DSimScore, for comparing contacts and contact interfaces in all kinds of macromolecules and macromolecular complexes, including proteins, nucleic acids, and other molecules. 1D2DSimScore can be used to compare structural features of macromolecular models between alternative structures obtained in a particular experiment or to score various predictions against a defined “ideal” reference structure. Comparisons at the level of contacts are particularly useful for flexible molecules, for which comparisons in 3D that require rigid‐body superpositions are difficult, and in biological systems where the formation of specific inter‐residue contacts is more relevant for the biological function than the maintenance of a specific global 3D structure. Similarity/dissimilarity scores calculated by 1D2DSimScore can be used to complement scores describing 3D structural similarity measures calculated by the existing tools.

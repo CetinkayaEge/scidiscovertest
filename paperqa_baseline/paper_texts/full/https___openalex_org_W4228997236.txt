@@ -1,0 +1,9 @@
+Title: Sliding wear behavior of a sustainable Fe-based coating and its damage mechanisms
+Authors: Satyapal Mahade, Samuel A. Awe, Stefan Björklund, František Lukáč, Radek Mušálek, Shrikant Joshi
+Year: 2022
+Venue: Wear
+DOI: https://doi.org/10.1016/j.wear.2022.204375
+Paper ID: https://openalex.org/W4228997236
+
+Abstract:
+The current industry demand is to identify suitable alternatives to the risk-of-supply prone and/or toxic, WC-Co and electrolytic hard chrome coatings without comprising the desired wear performance. Therefore, compositions based on abundantly available elements (e.g. ‘Fe’) that possess adequate wear resistance are desirable from health, sustainability and economic standpoints. In this work, crystalline Fe-based (Rockit-401) coatings were processed using two different thermal spray routes, i.e. HVOF and HVAF spraying. The influence of deposition route and processing conditions on the microstructure, porosity content, hardness and phase composition was examined. The as-deposited coatings were subjected to mild (5 N) and harsh (15 N) dry sliding wear test conditions by employing alumina ball as the counter surface material, and their wear performance was examined. Mild sliding wear test conditions (5 N) resulted in anomalous wear behavior, where the abrupt drop in CoF at several instances during the test was observed in all the investigated coatings. On the other hand, under harsh wear test conditions (15 N), such an abrupt dip in CoF was not observed. Detailed wear mechanisms of the coatings were revealed under different test conditions (5 N and 15 N). This work sheds light on processing, wear behavior and wear mechanisms of a sustainable and high-performance coating that fulfills non-toxic and sustainability goals in tandem for tribological applications.

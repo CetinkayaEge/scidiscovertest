@@ -1,0 +1,9 @@
+Title: Efficiency and Sustainability: The Role of Digitization in Re-Inhabiting the Existing Building Stock
+Authors: Federico Cinquepalmi, Spartaco Paris, Elisa Pennacchia, Virginia Adele Tiburcio
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16093613
+Paper ID: https://openalex.org/W4366827272
+
+Abstract:
+Cities are complex and constantly evolving systems where changing social needs have always reshaped the built environment. Considering recent evolutionary trends in housing emergencies, amplified by the COVID-19 pandemic, and environmental sustainability goals, a rethinking of the building heritage is fundamental. This article aims to promote the conversion of buildings designed initially for nonresidential uses as a process and project strategy based on energy efficiency and a holistic and integrated vision of the circular economy. The methodological approach is based on two main phases: definition of evaluative parameters for the potential reuse of a building, and integration of the evaluation system in a BIM and GIS environment. The result is a tool for rapid automatic pre-evaluation of the potential conversion of a building into a residential space. Applying the developed methodology allows for a practical approach to the significant issue of sustainable construction, with particular attention to energy improvement and the reduction of environmental impact related to the construction of new buildings. The originality of the contribution lies in the systematization of various digital technologies to provide fundamental support for managing and transforming the varied and widespread unused real estate assets in a state of abandonment and degradation.

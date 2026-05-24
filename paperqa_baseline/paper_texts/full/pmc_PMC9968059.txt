@@ -1,0 +1,9 @@
+Title: 3D-Structured and Blood-Contact-Safe Graphene Materials
+Authors: Beata Kaczmarek-Szczepańska, Marta Michalska-Sionkowska, Pawel Binkowski, Jerzy P. Lukaszewicz, Piotr Kamedulski
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043576
+Paper ID: pmc_PMC9968059
+
+Abstract:
+Graphene is a promising material that may be potentially used in biomedical applications, mainly for drug delivery applications. In our study, we propose an inexpensive 3D graphene preparation method by wet chemical exfoliation. The morphology of the graphene was studied by SEM and HRTEM. Moreover, the volumetric elemental composition (C, N, and H) of the materials was analyzed, and Raman spectra of prepared graphene samples were obtained. X-ray photoelectron spectroscopy, relevant isotherms, and specific surface area were measured. Survey spectra and micropore volume calculations were made. In addition, the antioxidant activity and hemolysis rate in contact with blood were determined. Activity against free radicals of graphene samples before and after thermal modification was tested using the DPPH method. The RSA of the material increased after graphene modification, which suggests that antioxidant properties were improved. All tested graphene samples caused hemolysis in the range of 0.28–0.64%. The results showed that all tested 3D graphene samples might be classified as nonhemolytic.

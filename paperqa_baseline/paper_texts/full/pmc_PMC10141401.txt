@@ -1,0 +1,9 @@
+Title: Assessing CO 2 Capture in Porous Sorbents via Solid-State NMR-Assisted Adsorption Techniques
+Authors: Marina Ilkaeva, Ricardo Vieira, João M. P. Pereira, Mariana Sardo, Ildefonso Marin-Montesinos, Luís Mafra
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c00281
+Paper ID: pmc_PMC10141401
+
+Abstract:
+Adsorption isotherms obtained through volumetric measurements are widely used to estimate the gas adsorption performance of porous materials. Nonetheless, there is always ambiguity regarding the contributions of chemi- and physisorption processes to the overall retained gas volume. In this work, we propose, for the first time, the use of solid-state NMR (ssNMR) to generate isotherms of CO 2 adsorbed onto an amine-modified silica sorbent. This method enables the separation of six individual isotherms for chemi- and physisorbed CO 2 components, a feat only possible using the discrimination power of NMR spectroscopy. The adsorption mechanism for each adsorbed species was ascertained by tracking their adsorption profiles at various pressures. The proposed method was validated against conventional volumetric adsorption measurements. The isotherm curves obtained by the proposed ssNMR-assisted approach enable advanced analysis of the sorbents, revealing the potential of variable-pressure NMR experiments in gas adsorption applications.

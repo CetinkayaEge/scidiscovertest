@@ -1,0 +1,9 @@
+Title: Sustainable Urban Land-Use Optimization Using GIS-Based Multicriteria Decision-Making (GIS-MCDM) Approach
+Authors: Md. Mostafizur Rahman, György Szabó
+Year: 2022
+Venue: ISPRS International Journal of Geo-Information
+DOI: https://doi.org/10.3390/ijgi11050313
+Paper ID: https://openalex.org/W4280641674
+
+Abstract:
+Land-use optimization is an effective technique to produce optimal benefits in urban land-use planning. There are many approaches and methods to optimize land-use allocation. However, the focus on addressing urban sustainability in land-use optimization is very limited. In this study, we presented a GIS-based multicriteria decision-making (GIS-MCDM) approach to optimize the location of a new residential development considering sustainability dimensions (social, economic, and environmental benefits). Rajshahi City in Bangladesh was taken as a case study. Different types of data, including land use, land cover, ecosystem service value, land surface temperature, and carbon storage, were used to define sustainability criteria. Five physical criteria, three sustainability criteria, and two constraints were used to optimize residential land. Fuzzy membership functions were used to standardize the criteria. The ordered weighted averaging (OWA) was used to produce a residential suitability map. Finally, the multiobjective land allocation (MOLA) module of TerrSet v 19.0 was used to generate optimal locations under an alternative decision scenario. The findings suggest that about 9.00% more sustainability benefits can be achieved using our approach. Using our proposed approach, we also generated six alternative decision scenarios. Among the alternative decision strategies, “high risk–no trade-off” proved to be the most optimal decision strategy that generated the highest sustainability benefit in our case.

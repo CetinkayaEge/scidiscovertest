@@ -1,0 +1,9 @@
+Title: High-Precision Registration of Point Clouds Based on Sphere Feature Constraints
+Authors: Junhui Huang, Zhao Wang, Jianmin Gao, Youping Huang, David Peter Towers
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010072
+Paper ID: pmc_PMC5298645
+
+Abstract:
+Point cloud registration is a key process in multi-view 3D measurements. Its precision affects the measurement precision directly. However, in the case of the point clouds with non-overlapping areas or curvature invariant surface, it is difficult to achieve a high precision. A high precision registration method based on sphere feature constraint is presented to overcome the difficulty in the paper. Some known sphere features with constraints are used to construct virtual overlapping areas. The virtual overlapping areas provide more accurate corresponding point pairs and reduce the influence of noise. Then the transformation parameters between the registered point clouds are solved by an optimization method with weight function. In that case, the impact of large noise in point clouds can be reduced and a high precision registration is achieved. Simulation and experiments validate the proposed method.

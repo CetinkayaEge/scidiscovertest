@@ -1,0 +1,9 @@
+Title: Energy System 4.0: Digitalization of the Energy Sector with Inclination towards Sustainability
+Authors: Rajesh Singh, Shaik Vaseem Akram, Anita Gehlot, D. Buddhi, Neeraj Priyadarshi, Bhekisipho Twala
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22176619
+Paper ID: https://openalex.org/W4294168368
+
+Abstract:
+The United Nations' sustainable development goals have emphasized implementing sustainability to ensure environmental security for the future. Affordable energy, clean energy, and innovation in infrastructure are the relevant sustainable development goals that are applied to the energy sector. At present, digital technologies have a significant capability to realize the target of sustainability in energy. With this motivation, the study aims to discuss the significance of different digital technologies such as the Internet of Things (IoT), artificial intelligence (AI), edge computing, blockchain, and big data and their implementation in the different stages of energy such as generation, distribution, transmission, smart grid, and energy trading. The study also discusses the different architecture that has been implemented by previous studies for smart grid computing. Additionally, we addressed IoT-based microgrids, IoT services in electrical equipment, and blockchain-based energy trading. Finally, the article discusses the challenges and recommendations for the effective implementation of digital technologies in the energy sector for meeting sustainability. Big data for energy analytics, digital twins in smart grid modeling, virtual power plants with Metaverse, and green IoT are the major vital recommendations that are discussed in this study for future enhancement.

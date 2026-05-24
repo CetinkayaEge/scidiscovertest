@@ -1,0 +1,9 @@
+Title: StarD7 deficiency hinders cell motility through p-ERK1/2/Cx43 reduction
+Authors: Mariano Cruz Del Puerto, María Laura Rojas, Ana Cristina Racca, Lucille Tihomirova Kourdova, Andrea Lis Miranda, Graciela Panzetta-Dutari, Susana Genti-Raimondi, Jésica Belén Flores-Martín
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279912
+Paper ID: pmc_PMC9803278
+
+Abstract:
+StarD7 belongs to START protein family involved in lipid traffic, metabolism, and signaling events. Its precursor, StarD7.I which is important for mitochondrial homeostasis, is processed to the StarD7.II isoform that lacks the mitochondrial targeting sequence and is mainly released to the cytosol. StarD7 knockdown interferes with cell migration by an unknown mechanism. Here, we demonstrate that StarD7 silencing decreased connexin 43 (Cx43), integrin β1, and p-ERK1/2 expression in the non-tumoral migratory HTR-8/SVneo cells. StarD7-deficient cells exhibited Golgi disruption and reduced competence to reorient the microtubule-organizing center. The migratory capacity of StarD7-silenced cells was reestablished when Cx43 level was resettled, while p-ERK1/2 expression remained low. Importantly, ectopic expression of the StarD7.II isoform not only restored cell migration but also ERK1/2, Cx43, and integrin β1 expression. Thus, StarD7 is implicated in cell migration through an ERK1/2/Cx43 dependent mechanism but independent of the StarD7.I function in the mitochondria.

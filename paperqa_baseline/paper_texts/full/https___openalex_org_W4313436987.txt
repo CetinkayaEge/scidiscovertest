@@ -1,0 +1,9 @@
+Title: Evaluation of Photogrammetry Tools following Progress Detection of Rebar towards Sustainable Construction Processes
+Authors: Abdul Hannan Qureshi, Wesam Salah Alaloul, Syed Jawad Hussain, Arnadi Murtiyoso, Syed Saad, Khalid Mhmoud Alzubi, Syed Ammad, Abdullah O. Baarimah
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010021
+Paper ID: https://openalex.org/W4313436987
+
+Abstract:
+In the attainment of digitization and sustainable solutions under Industry 4.0, effective and economical technology like photogrammetry is gaining popularity in every field among professionals and researchers alike. In the market, various photogrammetry tools are available. These tools employ different techniques and it is hard to identify the best among them. This study is an attempt to develop a methodology for the assessment of photogrammetry tools. Overall, 37 photogrammetry tools were found via literature review and open sources, out of which 12 tools were shortlisted. The evaluation process consisted of three steps, i.e., metadata and visual inspection, comparison with the ground truth model, and comparison with the averaged-merged point cloud model. In addition, a validation test was also performed on the final sorted photogrammetry tools. This study followed a sustainable construction progress monitoring theme for rebar and covered the maximum number of photogrammetry tools for comparison by considering the most authentic evaluation and validation techniques, which make it exclusive.

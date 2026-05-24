@@ -1,0 +1,9 @@
+Title: Environmental sustainability assessment of large-scale hydrogen production using prospective life cycle analysis
+Authors: Till Weidner, Víctor Tulus, Gonzalo Guillén‐Gosálbez
+Year: 2022
+Venue: International Journal of Hydrogen Energy
+DOI: https://doi.org/10.1016/j.ijhydene.2022.11.044
+Paper ID: https://openalex.org/W4311255629
+
+Abstract:
+The need for a rapid transformation to low-carbon economies has rekindled hydrogen as a promising energy carrier. Yet, the full range of environmental consequences of large-scale hydrogen production remains unclear. Here, prospective life cycle analysis is used to compare different options to produce 500 Mt/yr of hydrogen, including scenarios that consider likely changes to future supply chains. The resulting environmental and human health impacts of such production levels are further put into context with the Planetary Boundaries framework, known human health burdens, the impacts of the world economy, and the externality-priced production costs that embody the environmental impact. The results indicate that climate change impacts of projected production levels are 3.3–5.4 times higher than the allocated planetary boundary, with only green hydrogen from wind energy staying below the boundary. Human health impacts and other environmental impacts are less severe in comparison but metal depletion and ecotoxicity impacts of green hydrogen deserve further attention. Priced-in environmental damages increase the cost most strongly for blue hydrogen (from ∼2 to ∼5 USD/kg hydrogen), while such true costs drop most strongly for green hydrogen from solar photovoltaic (from ∼7 to ∼3 USD/kg hydrogen) when applying prospective life cycle analysis. This perspective helps to evaluate potentially unintended consequences and contributes to the debate about blue and green hydrogen.

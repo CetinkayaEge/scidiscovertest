@@ -1,0 +1,9 @@
+Title: Beyond sustainability: Empirical evidence from OECD countries on the connection among natural resources, ESG performances, and economic development
+Authors: Prima Naomi, Iqbal Akbar
+Year: 2021
+Venue: Economics & Sociology
+DOI: https://doi.org/10.14254/2071-789x.2021/14-4/5
+Paper ID: https://openalex.org/W4205295578
+
+Abstract:
+Many have seen a remarkable increase in environmental, social, and governance (ESG) practices in the context of natural resource management. ESG is practically known to help achieve the Sustainable Development Goals (SDG) with more responsible management of natural resources. Yet, limited economic literature exists to illuminate how natural resource management can affect the quality of economic development. This paper attempts to develop and test a theoretical model to understand the interlinkage between natural resource rent, ESG performance, and the quality of economic development at the country level. This study employs a data set of OECD countries during the period of 2000-2017. The path analysis model is used to define the relationship between the measured variables. Our empirical study shows a negative association between ESG performance and natural resource rent; in other words, better human development inhibits corruption and promotes improved ESG performance. This study observes the presence of bidirectional Granger causality between natural resource rent and ESG performance. It is suggested that ESG performance is more likely to be affected by the quality of institutions, rather than by the economy size. Good institutions enable the economy to reach optimum resource allocation.

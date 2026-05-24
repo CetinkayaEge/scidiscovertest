@@ -1,0 +1,9 @@
+Title: Self-Assessment Framework for Corporate Environmental Sustainability in the Era of Digitalization
+Authors: Eduard Eisner, Cadence Hsien, Mark Mennenga, Zi-Yu Khoo, Jasmin Dönmez, Christoph Herrmann, Jonathan Sze Choong Low
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14042293
+Paper ID: https://openalex.org/W4213026069
+
+Abstract:
+The shift towards a climate-neutral economy will affect businesses in the upcoming decades. Companies will need to increase their transformation towards environmentally sustainable businesses in the following years, in which digitalization might be a practical enabler to accelerate this transformation. However, as a starting point, companies require knowledge of their current sustainability performance to manage this transition and need a method that provides the necessary information. The use of self-assessment tools is a widely acknowledged method for such processes. Nevertheless, there is a lack of self-assessment tools that integrate sustainability and digitalization perspectives to overcome different organizational barriers. This paper focuses on how managers can be supported in planning their transformations by interlinking sustainability and digitization. Our objective is to enable the managers of companies to assess their current state in terms of corporate environmental sustainability and to explore their policies, information systems, and actions to support their transformation towards sustainable and digital businesses. A self-assessment tool based on a rapid questionnaire is presented after reviewing and synthesizing different approaches, including maturity modeling, sustainability reporting, and digital assessment tools. The self-assessment tool is improved upon evaluation by industry experts and the framework is tested on a case company.

@@ -1,0 +1,9 @@
+Title: Marine Natural and Nature-Inspired Compounds Targeting Peroxisome Proliferator Activated Receptors (PPARs)
+Authors: Enrico D’Aniello, Pietro Amodeo, Rosa Maria Vitale
+Year: 2023
+Venue: Marine Drugs
+DOI: 10.3390/md21020089
+Paper ID: pmc_PMC9966990
+
+Abstract:
+Peroxisome proliferator-activated receptors α, γ and β/δ (PPARα, PPARγ, and PPARβ/δ) are a family of ligand-activated transcriptional factors belonging to the superfamily of nuclear receptors regulating the expression of genes involved in lipid and carbohydrate metabolism, energy homeostasis, inflammation, and the immune response. For this reason, they represent attractive targets for the treatment of a variety of metabolic diseases and, more recently, for neurodegenerative disorders due to their emerging neuroprotective effects. The degree of activation, from partial to full, along with the selectivity toward the different isoforms, greatly affect the therapeutic efficacy and the safety profile of PPAR agonists. Thus, there is a high interest toward novel scaffolds with proper combinations of activity and selectivity. This review intends to provide an overview of the discovery, optimization, and structure–activity relationship studies on PPAR modulators from marine sources, along with the structural and computational studies that led to their identification and/or elucidation, and rationalization of their mechanisms of action.

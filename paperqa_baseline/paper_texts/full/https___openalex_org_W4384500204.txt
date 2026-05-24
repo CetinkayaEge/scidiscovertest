@@ -1,0 +1,9 @@
+Title: Toward Sustainable Metal‐Iodine Batteries: Materials, Electrochemistry and Design Strategies
+Authors: Haoxiang Yu, Zhen Wang, Runtian Zheng, Lei Yan, Liyuan Zhang, Jie Shu
+Year: 2023
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202308397
+Paper ID: https://openalex.org/W4384500204
+
+Abstract:
+Due to the natural abundance of iodine, cost-effective, and sustainability, metal-iodine batteries are competitive for the next-generation energy storage systems with high energy density, and large power density. However, the inherent properties of iodine such as electronic insulation and shuttle behavior of soluble iodine species affect negatively rate performance, cyclability, and self-discharge behavior of metal-iodine batteries, while the dendrite growth and metal corrosion on the anode side brings potential safety hazards and inferior durability. These problems of metal-iodine system still exist and need to be solved urgently. Herein, we summarize the research progress of metal-iodine batteries in the past decades. Firstly, the classification, design strategy and reaction mechanism of iodine electrode are briefly outlined. Secondly, the current development and protection strategy of conventional metal anodes in metal-iodine batteries are highlighted, and some potential anode materials and their design strategies are proposed. Thirdly, the key electrochemical parameters of state-of-art metal-iodine batteries are compared and analyzed to solve critical issues for realizing next-generation iodine-based energy storage systems. Therefore, the aim of this review is to promote the development of metal-iodine batteries and provide guidelines for their design.

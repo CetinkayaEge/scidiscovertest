@@ -1,0 +1,9 @@
+Title: The TGF ‐β‐induced up‐regulation of NKG 2 DL s requires AKT / GSK ‐3β‐mediated stabilization of SP 1
+Authors: Xiao‐Hui Chen, Lin‐lin Lu, Hong‐Peng Ke, Zong‐Cai Liu, Hai‐Fang Wang, Wei Wei, Yi‐Fei Qi, Hong‐Sheng Wang, Shao‐Hui Cai, Jun Du
+Year: 2017
+Venue: Journal of Cellular and Molecular Medicine
+DOI: 10.1111/jcmm.13025
+Paper ID: pmc_PMC5387140
+
+Abstract:
+Abstract Natural killer ( NK ) cells play an important role in preventing cancer development. NK group 2 member D ( NKG 2D) is an activating receptor expressed in the membrane of NK cells. Tumour cells expressing NKG 2 DL become susceptible to an immune‐dependent rejection mainly mediated by NK cells. The paradoxical roles of transforming growth factor beta ( TGF ‐β) in regulation of NKG 2 DL are presented in many studies, but the mechanism is unclear. In this study, we showed that TGF ‐β up‐regulated the expression of NKG 2 DL s in both PC 3 and HepG2 cells. The up‐regulation of NKG 2 DL s was characterized by increasing the expression of UL 16‐binding proteins ( ULBP s) 1 and 2. TGF ‐β treatment also increased the expression of transcription factor SP 1. Knockdown of SP 1 significantly attenuated TGF ‐β‐induced up‐regulation of NKG 2 DL s in PC 3 and HepG2 cells, suggesting that SP 1 plays a key role in TGF ‐β‐induced up‐regulation of NKG 2 DL s. TGF ‐β treatment rapidly increased SP 1 protein expression while not mRNA level. It might be due to that TGF ‐β can elevate SP 1 stability by activating PI 3K/ AKT signalling pathway, subsequently inhibiting GSK ‐3β activity and decreasing the association between SP 1 and GSK ‐3β. Knockdown of GSK ‐3β further verified our findings. Taken together, these results revealed that AKT / GSK ‐3β‐mediated stabilization of SP 1 is required for TGF ‐β induced up‐regulation of NKG 2 DL s. Our study provided valuable evidence for exploring the tumour immune modulation function of TGF ‐β.

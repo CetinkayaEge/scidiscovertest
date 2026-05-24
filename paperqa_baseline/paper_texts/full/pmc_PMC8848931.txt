@@ -1,0 +1,9 @@
+Title: Splicing efficiency of minor introns in a mouse model of SMA predominantly depends on their branchpoint sequence and can involve the contribution of major spliceosome components
+Authors: Valentin Jacquier, Manon Prévot, Thierry Gostan, Rémy Bordonné, Sofia Benkhelifa-Ziyyat, Martine Barkats, Johann Soret
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.078329.120
+Paper ID: pmc_PMC8848931
+
+Abstract:
+Spinal muscular atrophy (SMA) is a devastating neurodegenerative disease caused by reduced amounts of the ubiquitously expressed Survival of Motor Neuron (SMN) protein. In agreement with its crucial role in the biogenesis of spliceosomal snRNPs, SMN-deficiency is correlated to numerous splicing alterations in patient cells and various tissues of SMA mouse models. Among the snRNPs whose assembly is impacted by SMN-deficiency, those involved in the minor spliceosome are particularly affected. Importantly, splicing of several, but not all U12-dependent introns has been shown to be affected in different SMA models. Here, we have investigated the molecular determinants of this differential splicing in spinal cords from SMA mice. We show that the branchpoint sequence (BPS) is a key element controlling splicing efficiency of minor introns. Unexpectedly, splicing of several minor introns with suboptimal BPS is not affected in SMA mice. Using in vitro splicing experiments and oligonucleotides targeting minor or major snRNAs, we show for the first time that splicing of these introns involves both the minor and major machineries. Our results strongly suggest that splicing of a subset of minor introns is not affected in SMA mice because components of the major spliceosome compensate for the loss of minor splicing activity.

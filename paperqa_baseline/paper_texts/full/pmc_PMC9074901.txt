@@ -1,0 +1,9 @@
+Title: Thermodynamic characterization of naturally occurring RNA pentaloops
+Authors: Md. Sharear Saon, Brent M. Znosko
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.078915.121
+Paper ID: pmc_PMC9074901
+
+Abstract:
+RNA folding is hierarchical; therefore, predicting RNA secondary structure from sequence is an intermediate step in predicting tertiary structure. Secondary structure prediction is based on a nearest neighbor model using free energy minimization. To improve secondary structure prediction, all types of naturally occurring secondary structure motifs need to be thermodynamically characterized. However, not all secondary structure motifs are well characterized. Pentaloops, the second most abundant hairpin size, is one such uncharacterized motif. In fact, the current thermodynamic model used to predict the stability of pentaloops was derived from a small data set of pentaloops and from data for other hairpins of different sizes. Here, the most commonly occurring pentaloops were identified and optically melted. New experimental data for 22 pentaloop sequences were combined with previously published data for nine pentaloop sequences. Using linear regression, a pentaloop-specific model was derived. This new model is simpler and more accurate than the current model. The new experimental data and improved model can be incorporated into software that is used to predict RNA secondary structure from sequence.

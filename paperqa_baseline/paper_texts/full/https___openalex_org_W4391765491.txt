@@ -1,0 +1,9 @@
+Title: Sustainability of Power Electronics and Batteries: A Circular Economy Approach
+Authors: Ariya Sangwongwanich, Daniel‐Ioan Stroe, Chris Mı, Frede Blaabjerg
+Year: 2024
+Venue: IEEE Power Electronics Magazine
+DOI: https://doi.org/10.1109/mpel.2024.3356248
+Paper ID: https://openalex.org/W4391765491
+
+Abstract:
+Power electronics and battery energy storage are the key enabling technologies for high-efficiency energy conversions to realize green transition. With an increasing demand for electrification, renewable energy integration, and energy saving, more and more power electronics and batteries are being utilized. Consequently, their impact on the environment becomes of great concern, as they are responsible for a considerable amount of material usage including critical raw material during production and e-waste generation after the end-of-life. Going forward, the development of power electronics and batteries needs to change from the traditional linear economy “take-make-waste” to a circular economy, where the concept of reuse, remanufacturing, and recycling needs to be considered as part of the product life cycle. In this article, challenges and potential solutions to enhance the sustainability of power electronics and batteries through the concept of circular economy will be addressed both from the design and end-of-life management perspectives. Existing design tools and their application in the power electronic industry will also be discussed as well as future demand.

@@ -1,0 +1,9 @@
+Title: Digitalization in Just-In-Time Approach as a Sustainable Solution for Maritime Logistics in the Baltic Sea Region
+Authors: Olena de Andres Gonzalez, Heikki Koivisto, Jari M. Mustonen, Minna M. Keinänen-Toivola
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031173
+Paper ID: https://openalex.org/W3125559531
+
+Abstract:
+This research provides an overview of the process and results of the development and implementation of the Port Activity Application. The aim of the application is to improve the coordination and information exchange mechanisms between the existing systems of ports and ships during piloting ordering process to ensure their effective interoperability, giving a better understanding of the impact of digitalization on the sustainability of seaports and maritime transport. To implement this concept, a system of step-by-step actions was developed, including determining the current situation, developing a business model and business logic for implementing an appropriate information and communication technology (ICT) solution, analysing the local government structure, analysing intermodal information exchange between stakeholders, developing and testing a new ICT tool. The ports of Rauma, Finland, and Gävle, Sweden, were used as pilot ports. As a result of the study, the main bottlenecks in the process of information exchange in ordering pilotage were identified. An improved business model and business logic, that allows the rational use of resources and reduces CO2 emission and the pressure on the environment, was developed. The testbed was conducted in an environment of real port operations. Currently, the open access source code is available for use for maritime cluster actors.

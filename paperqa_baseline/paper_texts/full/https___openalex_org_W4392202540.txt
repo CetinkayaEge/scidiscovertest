@@ -1,0 +1,9 @@
+Title: Data-driven models and digital twins for sustainable combustion technologies
+Authors: Alessandro Parente, N. Swaminathan
+Year: 2024
+Venue: iScience
+DOI: https://doi.org/10.1016/j.isci.2024.109349
+Paper ID: https://openalex.org/W4392202540
+
+Abstract:
+We highlight the critical role of data in developing sustainable combustion technologies for industries requiring high-density and localized energy sources. Combustion systems are complex and difficult to predict, and high-fidelity simulations are out of reach for practical systems because of computational cost. Data-driven approaches and artificial intelligence offer promising solutions, enabling renewable synthetic fuels to meet decarbonization goals. We discuss open challenges associated with the availability and fidelity of data, physics-based numerical simulations, and machine learning, focusing on developing digital twins capable of mirroring the behavior of industrial combustion systems and continuously updating based on newly available information.

@@ -1,0 +1,9 @@
+Title: Statistical Assessment of Business Intelligence System Adoption Model for Sustainable Textile and Apparel Industry
+Authors: Sumera Ahmad, Suraya Miskon, Rana Alabdan, Iskander Tlili
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3100410
+Paper ID: https://openalex.org/W3183310899
+
+Abstract:
+The textile and apparel industry is one of the biggest competitive industries in the world. Nowadays, industry 4.0 concepts put pressures on textile and apparel companies to integrate advanced technologies. Consequently, Business Intelligence (BI) systems are diffusing rapidly to process large data sets to harness the true value of smart technologies. Regardless of its potentials, most textile and apparel companies are lagging and hesitating to adopt this credible innovation in the presence of a high failure rate (70%-80%) especially in developing countries. To achieve the successful adoption of BI systems, statistical assessment is required to better understand this complex phenomenon. Therefore, a BI system model based on Technology-Organization-Environment (TOE) is developed to evaluate the role of potential determinants pertaining to the users, technology, organization, and environment. Data were collected using a survey with self-administered questionnaires from decision-makers with authoritative designations in the textile and apparel industry, academia, and software companies. Influential relationships among critical determinants were assessed and validated by using Decision-Making Trial and Evaluation Laboratory (DEMATEL) approach. The results of this study would contribute to the success of costly BI system projects and will motivate the industry experts to potentially assign investments for the BI projects in the developing countries to sustain in the competitive markets.

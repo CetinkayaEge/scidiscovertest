@@ -1,0 +1,9 @@
+Title: Security Analysis and Improvements of Authentication and Access Control in the Internet of Things
+Authors: Bruce Ndibanje, Hoon-Jae Lee, Sang-Gon Lee
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140814786
+Paper ID: pmc_PMC4179010
+
+Abstract:
+Internet of Things is a ubiquitous concept where physical objects are connected over the internet and are provided with unique identifiers to enable their self-identification to other devices and the ability to continuously generate data and transmit it over a network. Hence, the security of the network, data and sensor devices is a paramount concern in the IoT network as it grows very fast in terms of exchanged data and interconnected sensor nodes. This paper analyses the authentication and access control method using in the Internet of Things presented by Jing et al (Authentication and Access Control in the Internet of Things. In Proceedings of the 2012 32nd International Conference on Distributed Computing Systems Workshops, Macau, China, 18–21 June 2012, pp. 588–592). According to our analysis, Jing et al. 's protocol is costly in the message exchange and the security assessment is not strong enough for such a protocol. Therefore, we propose improvements to the protocol to fill the discovered weakness gaps. The protocol enhancements facilitate many services to the users such as user anonymity, mutual authentication, and secure session key establishment. Finally, the performance and security analysis show that the improved protocol possesses many advantages against popular attacks, and achieves better efficiency at low communication cost.

@@ -1,0 +1,9 @@
+Title: Designing a Sustainable Material for 3D Printing with Spent Coffee Grounds
+Authors: Michael L. Rivera, S. Sandra Bae, Scott E. Hudson
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.1145/3563657.3595983
+Paper ID: https://openalex.org/W4383683065
+
+Abstract:
+The widespread adoption of 3D printers exacerbates existing environmental challenges as these machines increase energy consumption, waste output, and the use of plastics. Material choice for 3D printing is tightly connected to these challenges, and as such researchers and designers are exploring sustainable alternatives. Building on these efforts, this work explores using spent coffee grounds as a sustainable material for prototyping with 3D printing. This material, in addition to being compostable and recyclable, can be easily made and printed at home. We describe the material in detail, including the process of making it from readily available ingredients, its material characteristics and its printing parameters. We then explore how it can support sustainable prototyping practices as well as HCI applications. In reflecting on our design process, we discuss challenges and opportunities for the HCI community to support sustainable prototyping and personal fabrication. We conclude with a set of design considerations for others to weigh when exploring sustainable materials for 3D printing and prototyping.

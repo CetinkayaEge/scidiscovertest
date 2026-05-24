@@ -1,0 +1,9 @@
+Title: A Model for Understanding the Mediating Association of Transparency between Emerging Technologies and Humanitarian Logistics Sustainability
+Authors: Muhammad Khan, Gohar Saleem Parvaiz, Abbas Ali, Majid Jehangir, Noor Aishah Hassan, Junghan Bae
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14116917
+Paper ID: https://openalex.org/W4281920235
+
+Abstract:
+There has been considerable worldwide attention to the Internet of Things (IoT), blockchain technology (BCT), and artificial intelligence (AI) in all sectors of the economy. Despite still being in the expansion phase, the application of the IoT, BCT, and AI to humanitarian logistics (HL) has drawn a lot of interest due to their significant success in other industries. Commercial and noncommercial organizations are both under growing universal pressure for transparency. Therefore, this study offers a model for understanding the mediating association of transparency between emerging technologies and HL sustainability. The partial least squares structural equation modeling (PLS-SEM) approach was used in conjunction with SmartPLS3. The software was applied to information acquired via questionnaires from 434 disaster relief workers (DRWs) chosen using the snowball sampling approach. The findings suggest that in disaster relief operations (DROs), where corruption and mismanagement in HL have been key concerns for all stakeholders, emerging technologies could be a way forward to achieving system transparency and HL sustainability. The ultimate beneficiaries of transparent and sustainable HL will be all of society, especially the victims of catastrophes. Such victims can receive proper aid on time if the appropriate technology is used in DROs, and early warnings can save many lives. This study adds to the body of knowledge by providing the first empirical evidence assessing the role of emerging technologies in HL transparency and sustainability.

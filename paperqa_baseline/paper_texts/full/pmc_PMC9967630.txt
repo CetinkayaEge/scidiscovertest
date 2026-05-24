@@ -1,0 +1,9 @@
+Title: Recent Advances in Cancer Immunotherapy Delivery Modalities
+Authors: Palaniyandi Muthukutty, Hyun Young Woo, Murali Ragothaman, So Young Yoo
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020504
+Paper ID: pmc_PMC9967630
+
+Abstract:
+Immunotherapy is crucial in fighting cancer and achieving successful remission. Many novel strategies have recently developed, but there are still some obstacles to overcome before we can effectively attack the cancer cells and decimate the cancer environment by inducing a cascade of immune responses. To successfully demonstrate antitumor activity, immune cells must be delivered to cancer cells and exposed to the immune system. Such cutting-edge technology necessitates meticulously designed delivery methods with no loss or superior homing onto cancer environments, as well as high therapeutic efficacy and fewer adverse events. In this paper, we discuss recent advances in cancer immunotherapy delivery techniques, as well as their future prospects.

@@ -1,0 +1,9 @@
+Title: Principal indicators to monitor sustainable development goals
+Authors: Chenyang Shuai, Long Yu, Xi Chen, Bu Zhao, Shen Qu, Ji Zhu, Jianguo Liu, Shelie A. Miller, Ming Xu
+Year: 2021
+Venue: Environmental Research Letters
+DOI: https://doi.org/10.1088/1748-9326/ac3697
+Paper ID: https://openalex.org/W3212567106
+
+Abstract:
+Abstract Hundreds of indicators are available to monitor progress of countries and regions towards the Sustainable Development Goals (SDGs). However, the sheer number of indicators poses unprecedented challenges for data collection and compilation. Here we identify a subset of SDG indicators (principal indicators) that are relatively easy to collect data for and also are representative for all the indicators by considering the complex interrelationship among them. We find 147 principal indicators that can represent at least 90% of the annual variances of 351 SDG indicators in the past (2000–2017) and are expected to do so for the future (2018–2030) with the lowest difficulty of data collection. Our results can guide future investment in building the data infrastructure for SDG monitoring to give priorities to these principal indicators for global comparison.

@@ -1,0 +1,9 @@
+Title: Advances in Sustainable Crop Management: Integrating Precision Agriculture and Proximal Sensing
+Authors: Sabina Laveglia, Giuseppe Altieri, Francesco Genovese, Attilio Matera, Giovanni Carlo Di Renzo
+Year: 2024
+Venue: AgriEngineering
+DOI: https://doi.org/10.3390/agriengineering6030177
+Paper ID: https://openalex.org/W4402241847
+
+Abstract:
+This review explores the transformative potential of precision agriculture and proximal sensing in revolutionizing crop management practices. By delving into the complexities of these cutting-edge technologies, it examines their role in mitigating the adverse impacts of agrochemical usage while bringing crop health monitoring to a high precision level. The review explains how precision agriculture optimizes production while safeguarding environmental integrity, thus offering a viable solution to both ecological and economic challenges arising from excessive agrochemical application. Furthermore, it investigates various proximal sensing techniques, including spectral imaging, thermal imaging, and fluorescence sensors, showcasing their efficacy in detecting and diagnosing crop health indicators such as stress factors, nutrient deficiencies, diseases, and pests. Through an in-depth analysis of relevant studies and successful practical applications, this review highlights that it is essential to bridge the gap between monitoring sensors and real-time decision-making and to improve image processing and data management systems to fully realize their potential in terms of sustainable crop management practices.

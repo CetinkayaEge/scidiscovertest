@@ -1,0 +1,9 @@
+Title: Microflow chemistry and its electrification for sustainable chemical manufacturing
+Authors: Tai-Ying Chen, Yung Wei Hsiao, Montgomery Baker-Fales, Fabio Cameli, Panagiotis Dimitrakellis, Dionisios G. Vlachos
+Year: 2022
+Venue: Chemical Science
+DOI: https://doi.org/10.1039/d2sc01684b
+Paper ID: https://openalex.org/W4290072520
+
+Abstract:
+Sustainability is vital in solving global societal problems. Still, it requires a holistic view by considering renewable energy and carbon sources, recycling waste streams, environmentally friendly resource extraction and handling, and green manufacturing. Flow chemistry at the microscale can enable continuous sustainable manufacturing by opening up new operating windows, precise residence time control, enhanced mixing and transport, improved yield and productivity, and inherent safety. Furthermore, integrating microfluidic systems with alternative energy sources, such as microwaves and plasmas, offers tremendous promise for electrifying and intensifying modular and distributed chemical processing. This review provides an overview of microflow chemistry, electrification, their integration toward sustainable manufacturing, and their application to biomass upgrade (a select number of other processes are also touched upon). Finally, we identify critical areas for future research, such as matching technology to the scale of the application, techno-economic analysis, and life cycle assessment.

@@ -1,0 +1,9 @@
+Title: Water Surface Targets Detection Based on the Fusion of Vision and LiDAR
+Authors: Lin Wang, Yufeng Xiao, Baorui Zhang, Ran Liu, Bin Zhao
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041768
+Paper ID: pmc_PMC9967045
+
+Abstract:
+The use of vision for the recognition of water targets is easily influenced by reflections and ripples, resulting in misidentification. This paper proposed a detection method based on the fusion of 3D point clouds and visual information to detect and locate water surface targets. The point clouds help to reduce the impact of ripples and reflections, and the recognition accuracy is enhanced by visual information. This method consists of three steps: Firstly, the water surface target is detected using the CornerNet-Lite network, and then the candidate target box and camera detection confidence are determined. Secondly, the 3D point cloud is projected onto the two-dimensional pixel plane, and the confidence of LiDAR detection is calculated based on the ratio between the projected area of the point clouds and the pixel area of the bounding box. The target confidence is calculated with the camera detection and LiDAR detection confidence, and the water surface target is determined by combining the detection thresholds. Finally, the bounding box is used to determine the 3D point clouds of the target and estimate its 3D coordinates. The experiment results showed this method reduced the misidentification rate and had 15.5% higher accuracy compared with traditional CornerNet-Lite network. By combining the depth information from LiDAR, the position of the target relative to the detection coordinate system origin could be accurately estimated.

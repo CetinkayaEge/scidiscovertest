@@ -1,0 +1,9 @@
+Title: Solid State NMR a Powerful Technique for Investigating Sustainable/Renewable Cellulose-Based Materials
+Authors: Mustapha El Hariri El Nokab, Mohamed H. Habib, Yasser A. Alassmy, Marwan M. Abduljawad, Khalid M. Al‐shamrani, Khaled O. Sebakhy
+Year: 2022
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym14051049
+Paper ID: https://openalex.org/W4220712723
+
+Abstract:
+Solid state nuclear magnetic resonance (ssNMR) is a powerful and attractive characterization method for obtaining insights into the chemical structure and dynamics of a wide range of materials. Current interest in cellulose-based materials, as sustainable and renewable natural polymer products, requires deep investigation and analysis of the chemical structure, molecular packing, end chain motion, functional modification, and solvent-matrix interactions, which strongly dictate the final product properties and tailor their end applications. In comparison to other spectroscopic techniques, on an atomic level, ssNMR is considered more advanced, especially in the structural analysis of cellulose-based materials; however, due to a dearth in the availability of a broad range of pulse sequences, and time consuming experiments, its capabilities are underestimated. This critical review article presents the comprehensive and up-to-date work done using ssNMR, including the most advanced NMR strategies used to overcome and resolve the structural difficulties present in different types of cellulose-based materials.

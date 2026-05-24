@@ -1,0 +1,9 @@
+Title: Cascading effects of sustained low water on inland shipping
+Authors: Frederik Vinke, Mark van Koningsveld, Cornelis van Dorsser, Fedor Baart, Pieter van Gelder, Tiedo Vellinga
+Year: 2022
+Venue: Climate Risk Management
+DOI: https://doi.org/10.1016/j.crm.2022.100400
+Paper ID: https://openalex.org/W4207049373
+
+Abstract:
+The river Rhine is one of Europe’s busiest waterways and is part of the Rhine-Alpine corridor. In 2018 the river experienced a severe low discharge extreme. This impacted the river’s transport capacity for a period of several months, causing shortages of source materials and fuels in regions far in-land. Historically, prolonged droughts of this magnitude are not uncommon. Concerns have been raised, however, that climate change may further increase their frequency and severity. Additionally the increased proportion of larger vessels in the overall fleet composition has made the supply of cargo via the river Rhine more vulnerable to reduced water depths. A better understanding of the risks and effects of sustained low water levels for Inland Waterway Transport network performance is therefore essential to enable sensible mitigation. An integral model that explicitly links the state of the river to supply chain performance at the scale of corridors, however, appears to be not yet available. This paper suggests a novel method to explicitly include the cascading effects of low discharge events (and mitigating measures) in climate risk assessments of waterborne supply chain performance, at system level. It is shown that its implementation can describe cascading effects and climate risks for fleet management and terminal operation.

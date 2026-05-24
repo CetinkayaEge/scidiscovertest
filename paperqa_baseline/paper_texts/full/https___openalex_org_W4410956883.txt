@@ -1,0 +1,9 @@
+Title: Deep Learning for Sustainable Aquaculture: Opportunities and Challenges
+Authors: Alex Wu, Ke-Lei Li, Zi-Yu Song, Xiuhua Lou, Pingfan Hu, Weijun Yang, Rui-Feng Wang
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17115084
+Paper ID: https://openalex.org/W4410956883
+
+Abstract:
+With the rising global demand for aquatic products, aquaculture has become a cornerstone of food security and sustainability. This review comprehensively analyzes the application of deep learning in sustainable aquaculture, covering key areas such as fish detection and counting, growth prediction and health monitoring, intelligent feeding systems, water quality forecasting, and behavioral and stress analysis. The study discusses the suitability of deep learning architectures, including CNNs, RNNs, GANs, Transformers, and MobileNet, under complex aquatic environments characterized by poor image quality and severe occlusion. It highlights ongoing challenges related to data scarcity, real-time performance, model generalization, and cross-domain adaptability. Looking forward, the paper outlines future research directions including multimodal data fusion, edge computing, lightweight model design, synthetic data generation, and digital twin-based virtual farming platforms. Deep learning is poised to drive aquaculture toward greater intelligence, efficiency, and sustainability.

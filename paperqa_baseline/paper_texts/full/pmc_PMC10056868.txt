@@ -1,0 +1,9 @@
+Title: High-Sensitivity 2D MoS 2 /1D MWCNT Hybrid Dimensional Heterostructure Photodetector
+Authors: Nanxin Fu, Jiazhen Zhang, Yuan He, Xuyang Lv, Shuguang Guo, Xingjun Wang, Bin Zhao, Gang Chen, Lin Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063104
+Paper ID: pmc_PMC10056868
+
+Abstract:
+A photodetector based on a hybrid dimensional heterostructure of laterally aligned multiwall carbon nanotubes (MWCNTs) and multilayered MoS 2 was prepared using the micro-nano fixed-point transfer technique. Thanks to the high mobility of carbon nanotubes and the efficient interband absorption of MoS 2 , broadband detection from visible to near-infrared (520–1060 nm) was achieved. The test results demonstrate that the MWCNT-MoS2 heterostructure-based photodetector device exhibits an exceptional responsivity, detectivity, and external quantum efficiency. Specifically, the device demonstrated a responsivity of 3.67 × 10 3 A/W (λ = 520 nm, V ds = 1 V) and 718 A/W (λ = 1060 nm, V ds = 1 V). Moreover, the detectivity (D*) of the device was found to be 1.2 × 10 10 Jones (λ = 520 nm) and 1.5 × 10 9 Jones (λ = 1060 nm), respectively. The device also demonstrated external quantum efficiency (EQE) values of approximately 8.77 × 10 5 % (λ = 520 nm) and 8.41 × 10 4 % (λ = 1060 nm). This work achieves visible and infrared detection based on mixed-dimensional heterostructures and provides a new option for optoelectronic devices based on low-dimensional materials.

@@ -1,0 +1,9 @@
+Title: Sustainability Research in the Wine Industry: A Bibliometric Approach
+Authors: Johnny Vicente Montalvo‐Falcón, Eduardo Sánchez‐García, Bartolomé Marco‐Lajara, Javier Martínez‐Falcó
+Year: 2023
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy13030871
+Paper ID: https://openalex.org/W4327623597
+
+Abstract:
+Currently, the wine industry has gained great relevance worldwide. At the same time, the sustainability of the business activity has positioned itself as one of the main challenges to be achieved in the coming years. Due to the great impact that agricultural processes can have on the environment, vine and wine production is particularly susceptible to the application of new technologies and processes that improve its sustainability in the medium and long term, while allowing the improvement of product quality. The main objective of this paper is to analyze the academic literature in the field of wine industry sustainability, to determine the main contributions carried out, as well as the most prominent authors, universities, and countries in this field of study. The methodology used is bibliometric analysis, specifically the Bibliometrix® R package, in its version 4.1.1. The results reveal that research in the field of sustainability in the wine industry has increased considerably in the last three years by several leading researchers, mainly from universities located in wine-producing regions. It is concluded that research shows a trend towards collaboration among stakeholders, especially in terms of innovation, which is postulated as the main tool to improve the sustainability of the sector in the coming years.

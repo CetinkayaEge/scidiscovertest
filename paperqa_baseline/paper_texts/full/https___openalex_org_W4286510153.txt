@@ -1,0 +1,9 @@
+Title: Challenges and opportunities of Solar thermal energy towards a sustainable chemical industry
+Authors: Mariano Martı́n
+Year: 2022
+Venue: Computers & Chemical Engineering
+DOI: https://doi.org/10.1016/j.compchemeng.2022.107926
+Paper ID: https://openalex.org/W4286510153
+
+Abstract:
+The most abundant energy on Earth is solar and it is a versatile resource that is to be used to improve the sustainability of the chemical and process industry. Two main pillars support these industries, the raw materials and energy. Energy in the chemical industry is to be provided in the form of utilities such as steam, thermal energy and power. All of them can be provided by transforming solar thermal energy. This work presents the perspectives on the process integration of solar thermal plants and/or solar thermal energy within the chemical industry, describing the state of the art and the technology readiness level of units and facilities as well as the challenges and opportunities that the integration of solar thermal energy in the chemical industry generate for the process system engineering community, aiming at reaching the goals of the agenda 2030.

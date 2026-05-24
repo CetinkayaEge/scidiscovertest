@@ -1,0 +1,9 @@
+Title: Compete or cooperate? Effects of channel relationships on government policies for sustainability
+Authors: Guowei Dou, Tsan‐Ming Choi
+Year: 2023
+Venue: European Journal of Operational Research
+DOI: https://doi.org/10.1016/j.ejor.2023.08.012
+Paper ID: https://openalex.org/W4386056838
+
+Abstract:
+The importance of sustainability has led governments worldwide to impose emission regulations on manufacturers. However, it is largely unknown how channel relationships between manufacturers (i.e., competitive or cooperative) affect government policies, such as the emission tax price. In this paper, we address this pertinent yet underexplored issue by building formal analytical models. In the context of different channel relationships and with the goal of increasing social welfare, we also explore whether providing positive incentives is more effective than imposing taxes. We show that although cooperation leads to better economic performance, competition may be the channel relationship that better improves sustainability and social welfare. We find that government incentives to promote green technology need not be effective in enhancing sustainability. If investment is needed to fund green technology, increasing taxes on greenhouse gas emissions (hereafter “emissions”) can protect the environment only if the product's initial emission intensity is sufficiently high. We also reveal that the total emissions are not necessarily decreased when (i) the consumers are more environmentally aware and (ii) there is a reduction in emission-abatement costs. Finally, we generalize our model to the extended modeling cases with (i) N-manufacturer and (ii) market segments with a proportion of environmentally aware consumers. Our main conclusions remain valid in the extended cases. The practical relevance and real-world implications of these results are discussed.

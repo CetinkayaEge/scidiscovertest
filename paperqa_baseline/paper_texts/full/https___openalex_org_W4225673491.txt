@@ -1,0 +1,9 @@
+Title: Microskeletal stiffness promotes aortic aneurysm by sustaining pathological vascular smooth muscle cell mechanosensation via Piezo1
+Authors: Weiyi Qian, Tarik Hadi, Michele Silvestro, Xiao Ma, Cristobal Rivera, Apratim Bajpai, Rui Li, Zijing Zhang, Hengdong Qu, Rayan Sleiman Tellaoui, Annanina Corsica, Ariadne Zias, Karan Garg, Thomas S. Maldonado, Bhama Ramkhelawon, Weiqiang Chen
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-27874-5
+Paper ID: https://openalex.org/W4225673491
+
+Abstract:
+Mechanical overload of the vascular wall is a pathological hallmark of life-threatening abdominal aortic aneurysms (AAA). However, how this mechanical stress resonates at the unicellular level of vascular smooth muscle cells (VSMC) is undefined. Here we show defective mechano-phenotype signatures of VSMC in AAA measured with ultrasound tweezers-based micromechanical system and single-cell RNA sequencing technique. Theoretical modelling predicts that cytoskeleton alterations fuel cell membrane tension of VSMC, thereby modulating their mechanoallostatic responses which are validated by live micromechanical measurements. Mechanistically, VSMC gradually adopt a mechanically solid-like state by upregulating cytoskeleton crosslinker, α-actinin2, in the presence of AAA-promoting signal, Netrin-1, thereby directly powering the activity of mechanosensory ion channel Piezo1. Inhibition of Piezo1 prevents mice from developing AAA by alleviating pathological vascular remodeling. Our findings demonstrate that deviations of mechanosensation behaviors of VSMC is detrimental for AAA and identifies Piezo1 as a novel culprit of mechanically fatigued aorta in AAA.

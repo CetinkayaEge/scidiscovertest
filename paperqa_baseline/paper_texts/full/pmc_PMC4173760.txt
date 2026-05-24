@@ -1,0 +1,9 @@
+Title: Co-delivery of Doxorubicin and Bmi1 siRNA by Folate Receptor Targeted Liposomes Exhibits Enhanced Anti-Tumor Effects in vitro and in vivo
+Authors: Tan Yang, Bin Li, Shibo Qi, Yong Liu, Yongkang Gai, Peng Ye, Guang Yang, Wendian Zhang, Peng Zhang, Xingxing He, Weijie Li, Zhiping Zhang, Guangya Xiang, Chuanrui Xu
+Year: 2014
+Venue: Theranostics
+DOI: 10.7150/thno.9423
+Paper ID: pmc_PMC4173760
+
+Abstract:
+Bmi1 gene overexpression is found in various human tumors and has been shown as a potential target for gene treatment. However, siRNA-based treatments targeting Bmi1 gene have been restricted to limited delivery, low bioavailability and hence relatively reduced efficacy. To overcome these barriers, we developed a folate receptor targeted co-delivery system folate-doxorubicin/Bmi1 siRNA liposome (FA-DOX/siRNA-L). The FA-DOX/siRNA-L was prepared through electrostatic interaction between folate doxorubicin liposome (FA-DOX-L) and Bmi1 siRNA. In vitro and in vivo studies showed that FA-DOX/siRNA-L inhibited tumor growth by combinatory role of Bmi1 siRNA and doxorubicin (DOX). Co-delivery of Bmi1 siRNA and DOX by FA-DOX/siRNA-L showed significantly higher efficacy than sole delivery of either DOX or Bmi1 siRNA. Real-time PCR and western blot analysis showed that FA-DOX/siRNA-L silenced the expression of Bmi1 gene. In addition, higher accumulation of the siRNA and DOX in tumor cells indicated that folate ligand displayed tumor targeting effect. These results suggest that Bmi1 is an effective therapeutic target for siRNA based cancer treatment that can be further improved by co-delivery of DOX through targeted liposomes.

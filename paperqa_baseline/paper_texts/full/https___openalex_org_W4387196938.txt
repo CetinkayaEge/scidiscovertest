@@ -1,0 +1,9 @@
+Title: AI-Based Sustainable and Intelligent Offloading Framework for IIoT in Collaborative Cloud-Fog Environments
+Authors: Mohit Kumar, Guneet Kaur Walia, Haresh Shingare, Samayveer Singh, Sukhpal Singh Gill
+Year: 2023
+Venue: IEEE Transactions on Consumer Electronics
+DOI: https://doi.org/10.1109/tce.2023.3320673
+Paper ID: https://openalex.org/W4387196938
+
+Abstract:
+The cloud paradigm is one of the most trending areas in today’s era due to its rich profusion of services. However, it fails to serve the latency-sensitive Industrial Internet of Things (IIoT) applications associated with automotives, robotics, oil and gas, smart communications, Industry 5.0, etc. Hence, to strengthen the capabilities of IIoT, fog computing has emerged as a promising solution for latency-aware IIoT tasks. However, the resource-constrained nature of fog nodes puts forth another substantial issue of offloading decisions in resource management. Therefore, we propose an Artificial Intelligence (AI)-enabled intelligent and sustainable framework for an optimized multi-layered integrated cloud fog-based environment where real-time offloading decisions are accomplished as per the demand of IIoT applications and analyzed by a fuzzy based offloading controller. Moreover, an AI based Whale Optimization Algorithm (WOA) has been incorporated into a framework that promises to search for the best possible resources and make accurate decisions to ameliorate various Quality-of-Service (QoS) parameters. The experimental results show an escalation in makespan time up to 37.17%, energy consumption up to 27.32%, and execution cost up to 13.36% in comparison to benchmark offloading and allocation schemes.

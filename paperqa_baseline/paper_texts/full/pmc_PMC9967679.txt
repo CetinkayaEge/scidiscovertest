@@ -1,0 +1,9 @@
+Title: Peripheral Beta-2 Adrenergic Receptors Mediate the Sympathetic Efferent Activation from Central Nervous System to Splenocytes in a Mouse Model of Fibromyalgia
+Authors: Shiori Yamashita, Naoki Dozono, Shota Tobori, Kazuki Nagayasu, Shuji Kaneko, Hisashi Shirakawa, Hiroshi Ueda
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043465
+Paper ID: pmc_PMC9967679
+
+Abstract:
+Abnormalities in the peripheral immune system are involved in the pathophysiology of fibromyalgia, although their contribution to the painful symptoms remains unknown. Our previous study reported the ability of splenocytes to develop pain-like behavior and an association between the central nervous system (CNS) and splenocytes. Since the spleen is directly innervated by sympathetic nerves, this study aimed to examine whether adrenergic receptors are necessary for pain development or maintenance using an acid saline-induced generalized pain (AcGP) model (an experimental model of fibromyalgia) and whether the activation of these receptors is also essential for pain reproduction by the adoptive transfer of AcGP splenocytes. The administration of selective β2-blockers, including one with only peripheral action, prevented the development but did not reverse the maintenance of pain-like behavior in acid saline-treated C57BL/6J mice. Neither a selective α1-blocker nor an anticholinergic drug affects the development of pain-like behavior. Furthermore, β2-blockade in donor AcGP mice eliminated pain reproduction in recipient mice injected with AcGP splenocytes. These results suggest that peripheral β2-adrenergic receptors play an important role in the efferent pathway from the CNS to splenocytes in pain development.

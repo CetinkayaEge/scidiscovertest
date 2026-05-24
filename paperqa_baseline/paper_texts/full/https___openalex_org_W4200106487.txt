@@ -1,0 +1,9 @@
+Title: Smart Technologies for Sustainable Water Management: An Urban Analysis
+Authors: Eirini Aivazidou, G. Banias, Maria Lampridi, Giorgos Vasileiadis, Athanasios Anagnostis, Elpiniki I. Papageorgiou, Dionysis Bochtis
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132413940
+Paper ID: https://openalex.org/W4200106487
+
+Abstract:
+As projections highlight that half of the global population will be living in regions facing severe water scarcity by 2050, sustainable water management policies and practices are more imperative than ever. Following the Sustainable Development Goals for equitable water access and prudent use of natural resources, emerging digital technologies may foster efficient monitoring, control, optimization, and forecasting of freshwater consumption and pollution. Indicatively, the use of sensors, Internet of Things, machine learning, and big data analytics has been catalyzing smart water management. With two-thirds of the global population to be living in urban areas by 2050, this research focuses on the impact of digitization on sustainable urban water management. More specifically, existing scientific literature studies were explored for providing meaningful insights on smart water technologies implemented in urban contexts, emphasizing supply and distribution networks. The review analysis outcomes were classified according to three main pillars identified: (i) level of analysis (i.e., municipal or residential/industrial); (ii) technology used (e.g., sensors, algorithms); and (iii) research scope/focus (e.g., monitoring, optimization), with the use of a systematic approach. Overall, this study is expected to act as a methodological tool and guiding map of the most pertinent state-of-the-art research efforts to integrate digitalization in the field of water stewardship and improve urban sustainability.

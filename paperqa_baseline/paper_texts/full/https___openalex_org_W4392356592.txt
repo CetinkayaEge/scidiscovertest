@@ -1,0 +1,9 @@
+Title: Climate threats to coastal infrastructure and sustainable development outcomes
+Authors: Daniel Adshead, Amelie Paszkowski, Sarah S. Gall, Alison Peard, Mohammed Sarfaraz Gani Adnan, Jasper Verschuur, Jim W. Hall
+Year: 2024
+Venue: Nature Climate Change
+DOI: https://doi.org/10.1038/s41558-024-01950-2
+Paper ID: https://openalex.org/W4392356592
+
+Abstract:
+Abstract Climate hazards pose increasing threats to development outcomes across the world’s coastal regions by impacting infrastructure service delivery. Using a high-resolution dataset of 8.2 million households in Bangladesh’s coastal zone, we assess the extent to which infrastructure service disruptions induced by flood, cyclone and erosion hazards can thwart progress towards the Sustainable Development Goals (SDGs). Results show that climate hazards potentially threaten infrastructure service access to all households, with the poorest being disproportionately threatened in 69% of coastal subdistricts. Targeting adaptation to these climatic threats in one-third (33%) of the most vulnerable areas could help to safeguard 50–85% of achieved progress towards SDG 3, 4, 7, 8 and 13 indicators. These findings illustrate the potential of geospatial climate risk analyses, which incorporate direct household exposure and essential service access. Such high-resolution analyses are becoming feasible even in data-scarce parts of the world, helping decision-makers target and prioritize pro-poor development.

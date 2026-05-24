@@ -1,0 +1,9 @@
+Title: Setting Thresholds to Define Indifferences and Preferences in PROMETHEE for Life Cycle Sustainability Assessment of European Hydrogen Production
+Authors: Christina Wulf, Petra Zapp, Andrea Schreiber, Wilhelm Kuckshinrichs
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13137009
+Paper ID: https://openalex.org/W3174049735
+
+Abstract:
+The Life Cycle Sustainability Assessment (LCSA) is a proven method for sustainability assessment. However, the interpretation phase of an LCSA is challenging because many different single results are obtained. Additionally, performing a Multi-Criteria Decision Analysis (MCDA) is one way—not only for LCSA—to gain clarity about how to interpret the results. One common form of MCDAs are outranking methods. For these type of methods it becomes of utmost importance to clarify when results become preferable. Thus, thresholds are commonly used to prevent decisions based on results that are actually indifferent between the analyzed options. In this paper, a new approach is presented to identify and quantify such thresholds for Preference Ranking Organization METHod for Enrichment Evaluation (PROMETHEE) based on uncertainty of Life Cycle Impact Assessment (LCIA) methods. Common thresholds and this new approach are discussed using a case study on finding a preferred location for sustainable industrial hydrogen production, comparing three locations in European countries. The single LCSA results indicated different preferences for the environmental, economic and social assessment. The application of PROMETHEE helped to find a clear solution. The comparison of the newly-specified thresholds based on LCIA uncertainty with default thresholds provided important insights of how to interpret the LCSA results regarding industrial hydrogen production.

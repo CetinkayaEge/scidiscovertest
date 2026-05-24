@@ -1,0 +1,9 @@
+Title: Transient beta activity and cortico-muscular connectivity during sustained motor behaviour
+Authors: Irene Echeverria-Altuna, Andrew J. Quinn, Nahid Zokaei, Mark W. Woolrich, Anna C. Nobre, Freek van Ede
+Year: 2022
+Venue: Progress in Neurobiology
+DOI: https://doi.org/10.1016/j.pneurobio.2022.102281
+Paper ID: https://openalex.org/W4229445048
+
+Abstract:
+Neural oscillations are thought to play a central role in orchestrating activity states between distant neural populations. For example, during isometric contraction, 13-30 Hz beta activity becomes phase coupled between the motor cortex and the contralateral muscle. This and related observations have led to the proposal that beta activity and connectivity sustain stable cognitive and motor states - or the 'status quo' - in the brain. Recently, however, beta activity at the single-trial level has been shown to be short-lived - though so far this has been reported for regional beta activity in tasks without sustained motor demands. Here, we measured magnetoencephalography (MEG) and electromyography (EMG) in 18 human participants performing a sustained isometric contraction (gripping) task. If cortico-muscular beta connectivity is directly responsible for sustaining a stable motor state, then beta activity within single trials should be (or become) sustained in this context. In contrast, we found that motor beta activity and connectivity with the downstream muscle were transient. Moreover, we found that sustained motor requirements did not prolong beta-event duration in comparison to rest. These findings suggest that neural synchronisation between the brain and the muscle involves short 'bursts' of frequency-specific connectivity, even when task demands - and motor behaviour - are sustained.

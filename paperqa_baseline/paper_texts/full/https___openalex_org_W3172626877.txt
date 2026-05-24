@@ -1,0 +1,9 @@
+Title: Performance Estimation of Sustainable Smart Farming with Blockchain Technology
+Authors: D Sivaganesan
+Year: 2021
+Venue: IRO Journal on Sustainable Wireless Systems
+DOI: https://doi.org/10.36548/jsws.2021.2.004
+Paper ID: https://openalex.org/W3172626877
+
+Abstract:
+Sustainable smart agriculture with increase in signal to interference or signal to noise ratio (SIR/SNR) for selection of best relay is discussed in a wireless blockchain based network. The overall communication throughput (OCT), power splitting relaying (PSR), time switching relaying (TSR) and transmission success rate (TRS) are also derived during the selection of best relay performance with and without interference. The performance of OCT, PSR, TSR and TRS increases with the increase in the number of potential relay nodes as seen in the results of derivation. The accuracy of the theoretical values are validated by numerical simulations.

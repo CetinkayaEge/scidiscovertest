@@ -1,0 +1,9 @@
+Title: Smartvessel: A New Extinguisher Prototype Based on New Materials and IoT Sensors
+Authors: Javier Pisonero, Enrique González-González, Roberto García-Martín, Diego González-Aguilera
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063134
+Paper ID: pmc_PMC10054406
+
+Abstract:
+Smartvessel is an innovative fire extinguisher prototype supported by new materials and IoT technology that seeks to improve the functionality and efficiency of conventional fire extinguishers. Storage containers for gases and liquids are essential for industrial activity as they enable higher energy density. The main contributions of this new prototype are (i) innovation in the use of new materials that provide lighter and more resistant extinguishers, both mechanically and against corrosion in aggressive environments. For this purpose, these characteristics are directly compared in vessels made of steel, aramid fiber and carbon fiber with the filament winding technique. (ii) The integration of sensors that allow its monitoring and provide the possibility of predictive maintenance. The prototype is tested and validated on a ship, where accessibility is complicated and critical. For this purpose, different data transmission parameters are defined, verifying that no data are lost. Finally, a noise study of these measurements is carried out to verify the quality of each data. Acceptable coverage values are achieved with very low read noise, on average less than 1%, and a weight reduction of 30% is obtained.

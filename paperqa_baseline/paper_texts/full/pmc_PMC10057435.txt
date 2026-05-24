@@ -1,0 +1,9 @@
+Title: Sieve Search Centroiding Algorithm for Star Sensors
+Authors: Vivek Chandran Karaparambil, Narayan Suresh Manjarekar, Pravin Madanrao Singru
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063222
+Paper ID: pmc_PMC10057435
+
+Abstract:
+The localization of the center of the star image formed on a sensor array directly affects attitude estimation accuracy. This paper proposes an intuitive self-evolving centroiding algorithm, termed the sieve search algorithm (SSA), which employs the structural properties of the point spread function. This method maps the gray-scale distribution of the star image spot into a matrix. This matrix is further segmented into contiguous sub-matrices, referred to as sieves. Sieves comprise a finite number of pixels. These sieves are evaluated and ranked based on their degree of symmetry and magnitude. Every pixel in the image spot carries the accumulated score of the sieves associated with it, and the centroid is its weighted average. The performance evaluation of this algorithm is carried out using star images of varied brightness, spread radius, noise level, and centroid location. In addition, test cases are designed around particular scenarios, like non-uniform point spread function, stuck-pixel noise, and optical double stars. The proposed algorithm is compared with various long-standing and state-of-the-art centroiding algorithms. The numerical simulation results validated the effectiveness of SSA, which is suitable for small satellites with limited computational resources. The proposed algorithm is found to have precision comparable with that of fitting algorithms. As for computational overhead, the algorithm requires only basic math and simple matrix operations, resulting in a visible decrease in execution time. These attributes make SSA a fair compromise between prevailing gray-scale and fitting algorithms concerning precision, robustness, and processing time.

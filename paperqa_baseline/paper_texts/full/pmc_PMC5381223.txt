@@ -1,0 +1,9 @@
+Title: Genome-wide DNA methylation profiles reveal novel candidate genes associated with meat quality at different age stages in hens
+Authors: Meng Zhang, Feng-Bin Yan, Fang Li, Ke-Ren Jiang, Dong-Hua Li, Rui-Li Han, Zhuan-Jan Li, Rui-Rui Jiang, Xiao-Jun Liu, Xiang-Tao Kang, Gui-Rong Sun
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45564
+Paper ID: pmc_PMC5381223
+
+Abstract:
+Poultry meat quality is associated with breed, age, tissue and other factors. Many previous studies have focused on distinct breeds; however, little is known regarding the epigenetic regulatory mechanisms in different age stages, such as DNA methylation. Here, we compared the global DNA methylation profiles between juvenile (20 weeks old) and later laying-period (55 weeks old) hens and identified candidate genes related to the development and meat quality of breast muscle using whole-genome bisulfite sequencing. The results showed that the later laying-period hens, which had a higher intramuscular fat (IMF) deposition capacity and water holding capacity (WHC) and less tenderness, exhibited higher global DNA methylation levels than the juvenile hens. A total of 2,714 differentially methylated regions were identified in the present study, which corresponded to 378 differentially methylated genes, mainly affecting muscle development, lipid metabolism, and the ageing process. Hypermethylation of the promoters of the genes ABCA1, COL6A1 and GSTT1L and the resulting transcriptional down-regulation in the later laying-period hens may be the reason for the significant difference in the meat quality between the juvenile and later laying-period hens. These findings contribute to a better understanding of epigenetic regulation in the skeletal muscle development and meat quality of chicken.

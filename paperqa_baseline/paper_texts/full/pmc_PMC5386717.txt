@@ -1,0 +1,9 @@
+Title: miR-320a functions as a suppressor for gliomas by targeting SND1 and β-catenin, and predicts the prognosis of patients
+Authors: Huining Li, Lin Yu, Jing Liu, Xiuwu Bian, Cuijuan Shi, Cuiyun Sun, Xuexia Zhou, Yanjun Wen, Dan Hua, Shujun Zhao, Linlin Ren, Tongling An, Wenjun Luo, Qian Wang, Shizhu Yu
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14975
+Paper ID: pmc_PMC5386717
+
+Abstract:
+miR-320a downexpression contributes to tumorigenesis in several human cancers. However, the relevance of miR-320a to prognosis, proliferation and invasion in gliomas remains unclear. In this study, we demonstrated that miR-320a expression was decreased in human glioma tissues and cell lines. Moreover, miR-320a expression was inversely correlated with glioma grades and Ki-67 index, but positively correlated with patients’ survival. Contrarily, SND1 and β-catenin expressions were positively correlated with glioma grades and Ki-67 index, but inversely correlated with miR-320a expression and patients’ survival. Furthermore, two subgroups with distinct prognoses in our glioma patients of different grade, IDH status, age and KPS were identified according to expression of miR-320a, SND1 or β-catenin. Cox regression showed that miR-320a and SND1 were independent predictors and β-catenin was an auxiliary predictor for patients’ survival. miR-320a overexpression suppressed the G1/S phase transition, proliferation, migration and invasion of glioblastoma cells. Mechanistically, we validated SND1 and β-catenin as direct targets of miR-320a, and found that miR-320a overexpression increased SND1-inhibited tumor suppressor p21 WAF1 and decreased Smad2, Smad4, MMP2, MMP7 and cyclinD1, the pivotal downstream effectors of SND1 or β-catenin. Our findings demonstrate the potential values of miR-320a, SND1 and β-catenin as prognostic biomarkers and therapeutic candidates for malignant gliomas.

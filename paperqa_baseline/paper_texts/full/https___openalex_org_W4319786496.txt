@@ -1,0 +1,9 @@
+Title: A Virtual Experience System of Bamboo Weaving for Sustainable Research on Intangible Cultural Heritage Based on VR Technology
+Authors: Lufang Zhang, Yue Wang, Zhichuan Tang, Xia Liu, Moran Zhang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043134
+Paper ID: https://openalex.org/W4319786496
+
+Abstract:
+As an important national cultural treasure, intangible cultural heritage (ICH) faces certain problems in inheritance and sustainability. With the development of digital technology, the increasing research and application of virtual reality technology in ICH have been presented. This paper proposes a virtual experience system for Dongyang bamboo weaving, a traditional form of ICH craftsmanship, to display its historical background, cultural connotation, and technical craftsmanship. The learning module of the system is evaluated through the comparative experiments by 8 subjects. From the experimental data, compared with the computer, the average time for subjects to learn bamboo weaving in the system is shorter. The results of the questionnaire indicate that the learning module arouse their interest in bamboo weaving. The result shows the system is able to create an immersive and interactive scene for the users to understand bamboo weaving culture and learn the skills, which may encourage the sustainable development of bamboo weaving culture from the perspective of diffusion and provide research methods for other studies on traditional craftsmanship of ICH.

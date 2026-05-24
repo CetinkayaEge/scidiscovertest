@@ -1,0 +1,9 @@
+Title: Co-ordinated overexpression of SIRT1 and STAT3 is associated with poor survival outcome in gastric cancer patients
+Authors: Shu Zhang, Shuling Huang, Chao Deng, Yu Cao, Jun Yang, Guangxia Chen, Bin Zhang, Chaoqin Duan, Jiong Shi, Bo Kong, Helmut Friess, Nanyi Zhao, Chen Huang, Xiaoli Huang, Lei Wang, Xiaoping Zou
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14473
+Paper ID: pmc_PMC5386652
+
+Abstract:
+In many gastric cancer patients, the disease is diagnosed in an advanced stage and therefore the mortality levels are high. Because there is a need to identify novel early diagnostic and prognostic biomarkers, we tested whether SIRT1 and STAT3 are good candidates. Towards this, we used patient tissues representing different stages of gastric cancer including gastric pre-cancerous lesions, early gastric cancer, and advanced gastric cancer, and probed SIRT1, STAT3 and phosphorylated STAT3 (pSTAT3) levels using immunohistochemistry. Our results revealed upregulated expression of SIRT1 in all stages of gastric cancer compared with noncancerous gastric mucosa, suggesting that high SIRT1 levels are likely involved in establishing gastric neoplasticity. However, STAT3 and pSTAT3 levels remained low until the gastric mucosa reached the tumor stage. Moreover, co-ordinated high expression of SIRT1 and STAT3 predicted poor overall survival for advanced gastric cancer patients. In addition, through analysis of gastric cancer patients from the TCGA dataset, we identified SIRT2 as an independent prognostic factor in gastric cancer patients. We postulate that SIRT1 and STAT3 are potential early diagnostic and prognostic markers of gastric cancer. Our study also shows that SIRT1 acts a gatekeeper during gastric tumorigenesis.

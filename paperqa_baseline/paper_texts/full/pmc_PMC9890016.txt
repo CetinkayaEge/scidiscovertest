@@ -1,0 +1,9 @@
+Title: The clinical impact of the molecular landscape of acute myeloid leukemia
+Authors: Sabine Kayser, Mark J. Levis
+Year: 2023
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280801
+Paper ID: pmc_PMC9890016
+
+Abstract:
+Research into the underlying pathogenic mechanisms of acute myeloid leukemia (AML) has led to remarkable advances in our understanding of the disease. Mutations now allow us to explore the enormous diversity among cytogenetically defined subsets of AML, particularly the large subset of cytogenetically normal AML. Despite the progress in unraveling the tumor genome, only a small number of recurrent mutations have been incorporated into risk-stratification schemes and have been proven to be clinically relevant, targetable lesions. The current World Health Organization Classification of myeloid neoplasms and leukemia includes eight AML categories defined by recurrent genetic abnormalities as well as three categories defined by gene mutations. We here discuss the utility of molecular markers in AML in prognostication and treatment decision-making. New therapies based on targetable markers include IDH inhibitors (ivosidenib, enasidenib), venetoclax-based therapy, FLT3 inhibitors (midostaurin, gilteritinib, and quizartinib), gemtuzumab ozogamicin, magrolimab and menin inhibitors.

@@ -1,0 +1,9 @@
+Title: Strategic Integration of Artificial Intelligence for Sustainable Businesses: Implications for Data Management and Human User Engagement in the Digital Era
+Authors: Svetozar D. Janković, Dejan M. Curovic
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su152115208
+Paper ID: https://openalex.org/W4387904191
+
+Abstract:
+This research paper delves into the pivotal role of strategic integration of artificial intelligence (AI) concepts across sustainability efforts in for-profit businesses. As organizations are increasingly starting to rely on AI-driven solutions, this study examines the profound implications of AI integration for two critical facets: impact on data management in companies and diversification of human engagement during interactions in the digital ecosystem. The main goal of this research is to analyze the AI adoption index within a sample of 240 medium and large-sized companies (therefore excluding new companies, small startups, and low-scale AI applications). Firstly, the paper scrutinizes how AI technologies enhance data management by enabling efficient data collection, analysis, and utilization. It emphasizes the importance of AI-driven data analytics in improving decision-making processes, resource optimization, and overall operational efficiency for sustainable practices. Secondly, this research explores how AI-driven personalization, omnichannel interactions, and recommendation systems significantly impact user experiences, satisfaction, and loyalty, ultimately contributing to sustainable business growth. Findings show that there are three separate profiles of companies (low, moderate, and high), distinguished by AI adoption index and other important dimensions. Future research should focus on determining preconditions for successful planning of AI adoption index improvement, using a data-driven approach.

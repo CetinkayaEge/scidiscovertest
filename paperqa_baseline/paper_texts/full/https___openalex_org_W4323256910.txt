@@ -1,0 +1,9 @@
+Title: Research trends of sustainability and marketing research, 2010–2020: Topic modeling analysis
+Authors: Yeo Jin Jung, Youngmin Kim
+Year: 2023
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2023.e14208
+Paper ID: https://openalex.org/W4323256910
+
+Abstract:
+In recent decades, rapid growth has been observed in the incorporation of sustainability into marketing. Accordingly, the contrasting relationships between them have been carefully studied to assess the relevance of one idea to the other and vice versa. In response to this change, scholars and practitioners have been tasked with exploring the trends in sustainability and marketing. Therefore, the purpose of this study is to investigate existing literatures on both sustainability and all levels of marketing, determine the research trends and provide implications of applying the trends for future research and practices. This research has investigated only the title, abstract, and keywords of 2147 articles that were published between 2010 and 2020 in SSCI or SCIE indexed journals by applying the topic modeling based on the Latent Dirichlet Allocation (LDA) model. The results show that the research trend has shifted from general sustainable concept to more environmental and industrial technology based on the empirical evidence of 14 latent topics of sustainability and marketing. This article aids in understanding the recent research trend in sustainability and marketing, and the findings will be a valuable resource for future scholars and practitioners. It contributes to both existing and future literatures by providing valuable insights from recent research trend in sustainability and marketing and by providing recommendations for future research avenue. Among other bibliometric review articles, this is the most up-to-date comprehensive and empirical article, providing overview of the research trend.

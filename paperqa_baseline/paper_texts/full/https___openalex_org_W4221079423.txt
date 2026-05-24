@@ -1,0 +1,9 @@
+Title: Meta-heuristics for sustainable supply chain management: a review
+Authors: Sohrab Faramarzi-Oghani, Parisa Dolati Neghabadi, El‐Ghazali Talbi, Reza Tavakkoli‐Moghaddam
+Year: 2022
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2022.2045377
+Paper ID: https://openalex.org/W4221079423
+
+Abstract:
+Due to the complexity and the magnitude of optimisation models that appeared in sustainable supply chain management (SSCM), the use of meta-heuristic algorithms as competent solution approaches is being increased in recent years. Although a massive number of publications exist around SSCM, no extant paper explicitly investigates the role of meta-heuristics in the sustainable (forward) supply chain. To fill this gap, a literature review is provided on meta-heuristic algorithms applied in SSCM by analyzing 160 rigorously selected papers published by the end of 2020. Our statistical analysis ascertains a considerable growth in the number of papers in recent years and reveals the contribution of 50 journals in forming the extant literature. The results also show that in the current literature the use of hybrid meta-heuristics is overtaking pure meta-heuristics, the genetic algorithm (GA) and the non-dominated sorting GA (NSGA-II) are the most-used single- and multi-objective algorithms, the aspects of sustainability are mostly addressed in connection with product distribution and routing of vehicles as pivotal operations in supply chain management, and last but not least, the economic-environmental category of sustainability has been further noticed by the scholars. Finally, a detailed discussion of findings and recommendations for future research are provided.

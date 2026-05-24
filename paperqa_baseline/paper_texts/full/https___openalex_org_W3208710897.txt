@@ -1,0 +1,9 @@
+Title: Sustainability of AI: The Case of Provision of Information to Consumers
+Authors: Iakovina Kindylidi, Tiago Sérgio Cabral
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132112064
+Paper ID: https://openalex.org/W3208710897
+
+Abstract:
+The potential of artificial intelligence (AI) and its manifold applications have fueled the discussion around how AI can be used to facilitate sustainable objectives. However, the technical, ethical, and legal literature on how AI, including its design, training, implementation, and use can be sustainable, is rather limited. At the same time, consumers incrementally pay more attention to sustainability information, whereas businesses are increasingly engaging in greenwashing practices, especially in relation to digital products and services, raising concerns about the efficiency of the existing consumer protection framework in this regard. The objective of this paper is to contribute to the discussion toward sustainable AI from a legal and consumer protection standpoint while focusing on the environmental and societal pillar of sustainability. After analyzing the multidisciplinary literature available on the topic of the environmentally sustainable AI lifecycle, as well as the latest EU policies and initiatives regarding consumer protection and sustainability, we will examine whether the current consumer protection framework is sufficient to promote sharing and substantiation of sustainability information in B2C contracts involving AI products and services. Moreover, we will assess whether AI-related AI initiatives can promote a sustainable AI development. Finally, we will propose a set of recommendations capable of encouraging a sustainable and environmentally-conscious AI lifecycle while enhancing information transparency among stakeholders, aligning the various EU policies and initiatives, and ultimately empowering consumers.

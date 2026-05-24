@@ -1,0 +1,9 @@
+Title: An integrated sustainable biorefinery concept towards achieving zero-waste production
+Authors: Humzaa Imtiaz Ullah, Rofice Dickson, Enrico Mancini, Alina Anamaria Malanca, Manuel Pinelo, Seyed Soheil Mansouri
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2021.130317
+Paper ID: https://openalex.org/W4205151347
+
+Abstract:
+Biodiesel is a cleaner fuel for the transportation sector, to reduce greenhouse gases emission, and support economic development. Despite several advantages, biodiesel processing produces a significant amount of waste, mainly water and glycerol. In this study, using a circular economy approach, an integrated biodiesel biorefinery is designed and analyzed to assess whether it can lead to better economics and a zero-waste scenario. To achieve these goals, one stand-alone and three integrated scenarios were analyzed: (1) stand-alone biodiesel production; biodiesel production integrated with (2) methanol production from CO2; (3) bio-succinic acid production; and (4) methanol and bio-succinic acid production. Each scenario was evaluated based on rigorous profitability, sensitivity and environmental analysis. For each scenario, biodiesel's minimum selling price in USD/kg was 0.30, 0.39, 0.22 and 0.44 respectively. Thereby, making integration (3) and (4) the most and least profitable respectively. By sensitivity analysis, waste cooking oil price and total capital investment were the most sensitive variables. From sustainability perspective, the scenario (3) has a waste production of 0.68 kg/kg-product, in which wastewater is 0.55 kg/kg-product. Finally, to improve sustainability, two improvements were implemented: multi-effect evaporation and wastewater treatment. Through this implementation, the waste production was reduced by 81% to 0.13 kg-waste/kg-product.

@@ -1,0 +1,9 @@
+Title: Mapping with Monocular Camera Sensor under Adversarial Illumination for Intelligent Vehicles
+Authors: Wei Tian, Yongkun Wen, Xinning Chu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063296
+Paper ID: pmc_PMC10058667
+
+Abstract:
+High-precision maps are widely applied in intelligent-driving vehicles for localization and planning tasks. The vision sensor, especially monocular cameras, has become favoured in mapping approaches due to its high flexibility and low cost. However, monocular visual mapping suffers from great performance degradation in adversarial illumination environments such as on low-light roads or in underground spaces. To address this issue, in this paper, we first introduce an unsupervised learning approach to improve keypoint detection and description on monocular camera images. By emphasizing the consistency between feature points in the learning loss, visual features in dim environment can be better extracted. Second, to suppress the scale drift in monocular visual mapping, a robust loop-closure detection scheme is presented, which integrates both feature-point verification and multi-grained image similarity measurements. With experiments on public benchmarks, our keypoint detection approach is proven robust against varied illumination. With scenario tests including both underground and on-road driving, we demonstrate that our approach is able to reduce the scale drift in reconstructing the scene and achieve a mapping accuracy gain of up to 0.14 m in textureless or low-illumination environments.

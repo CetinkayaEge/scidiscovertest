@@ -1,0 +1,9 @@
+Title: Prospective Sustainability Screening of Sodium‐Ion Battery Cathode Materials
+Authors: Manuel Baumann, Marcel Häringer, Marius Schmidt, Luca Schneider, Jens F. Peters, Werner Bauer, Joachim R. Binder, Marcel Weil
+Year: 2022
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202202636
+Paper ID: https://openalex.org/W4304128346
+
+Abstract:
+Abstract Sodium‐ion batteries (SIB) are considered as a promising alternative to overcome existing sustainability challenges related to Lithium‐ion batteries (LIB), such as the use of critical and expensive materials with high environmental impacts. In contrast to established LIBs, SIBs are an emerging technology in an early stage of development where a challenge is to identify the most promising and sustainable cathode active materials (CAM) for further research and potential commercialization. Thus, a comprehensive and flexible CAM screening method is developed, providing a fast and comprehensive overview of potential sustainability hotspots for supporting cathode material selection. 42 different SIB cathodes are screened and benchmarked against eight state‐of‐the‐art LIB‐cathodes. Potential impacts are quantified for the following categories: i) Cost as ten‐year average; ii) Criticality, based on existing raw material criticality indicators, and iii) the life cycle carbon footprint. The results reveal that energy density is one of the most important factors in all three categories, determining the overall material demand. Most SIB CAM shows a very promising performance, obtaining better results than the LIB benchmark. Especially the Prussian Blue derivatives and the manganese‐based layered oxides seem to be interesting candidates under the given prospective screening framework.

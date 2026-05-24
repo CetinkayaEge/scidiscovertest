@@ -1,0 +1,9 @@
+Title: A novel approach of tool condition monitoring in sustainable machining of Ni alloy with transfer learning models
+Authors: Nimel Sworna Ross, Paul T Sheeba, C. Sherin Shibi, Munish Kumar Gupta, Mehmet Erdi Korkmaz, Vishal S. Sharma
+Year: 2023
+Venue: Journal of Intelligent Manufacturing
+DOI: https://doi.org/10.1007/s10845-023-02074-8
+Paper ID: https://openalex.org/W4315784642
+
+Abstract:
+Abstract Cutting tool condition is crucial in metal cutting. In-process tool failures significantly influences the surface roughness, power consumption, and process endurance. Industries are interested in supervisory systems that anticipate the health of the tool. A methodology that utilizes the information to predict problems and to avoid failures must be embraced. In recent years, several machine learning-based predictive modelling strategies for estimating tool wear have been emerged. However, due to intricate tool wear mechanisms, doing so with limited datasets confronts difficulties under varying operating conditions. This article proposes the use of transfer learning technology to detect tool wear, especially flank wear under distinct cutting environments (dry, flood, MQL and cryogenic). In this study, the state of the cutting tool was determined using the pre-trained networks like AlexNet, VGG-16, ResNet, MobileNet, and Inception-V3. The best-performing network was recommended for tool condition monitoring, considering the effects of hyperparameters such as batch size, learning rate, solver, and train-test split ratio. In light of this, the recommended methodology may prove to be highly helpful for classifying and suggesting the suitable cutting conditions, especially under limited data situation. The transfer learning model with Inception-V3 is extremely useful for intelligent machining applications.

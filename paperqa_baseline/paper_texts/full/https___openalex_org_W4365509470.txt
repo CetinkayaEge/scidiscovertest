@@ -1,0 +1,9 @@
+Title: Corporate Sustainability Communication as ‘Fake News’: Firms’ Greenwashing on Twitter
+Authors: Divinus Oppong-Tawiah, Jane Webster
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15086683
+Paper ID: https://openalex.org/W4365509470
+
+Abstract:
+Fake news on social media has engulfed the world of politics in recent years and is now posing the same threat in other areas, such as corporate social responsibility communications. This study examines this phenomenon in the context of firms’ deceptive communications concerning environmental sustainability, usually referred to as greenwashing. We first develop and validate a new method for automatically identifying greenwashing, using linguistic cues in a sample of tweets from a diverse set of firms in two highly polluting industries. We then examine the relationship between greenwashing and financial market performance for the firms in our sample. Prior research has identified these issues as some of the most important gaps in the extant literature. By addressing them, we make several important contributions to corporate sustainability research and practice, as well as introducing notable improvements to automatic greenwashing detection methods.

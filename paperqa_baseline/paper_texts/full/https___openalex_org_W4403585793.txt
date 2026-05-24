@@ -1,0 +1,9 @@
+Title: A Review of Strategies and Technologies for Sustainable Decentralized Wastewater Treatment
+Authors: Chuqiao Sha, Shuting Shen, Junjun Zhang, Chao Zhou, Xiwu Lü, Hong Zhang
+Year: 2024
+Venue: Water
+DOI: https://doi.org/10.3390/w16203003
+Paper ID: https://openalex.org/W4403585793
+
+Abstract:
+The traditional model of centralized wastewater treatment is facing substantial strain due to a confluence of global challenges. Consequently, it is imperative to evaluate the impediments and potential advantages associated with the deployment of decentralized wastewater (DW) treatment technologies and systems. Decentralized wastewater (DW) treatment represents a sustainable approach to managing and purifying wastewater across both urban and rural settings. This literature review provides a detailed examination of current advancements and challenges associated with DW treatment technologies. It specifically addresses their operational efficiency, long-term sustainability, and practical implementation across diverse environments. This review critically analyzes recent studies that highlight innovative methodologies, including the deployment of constructed wetlands, anaerobic digestion processes, and predictive models enhanced by artificial intelligence. A critical focus is placed on the ecological and economic advantages of source separation and resource recovery from wastewater streams. The issue of emerging contaminants, such as microplastics, antibiotics, and steroids, is also discussed, emphasizing the continued need for innovation in treatment technologies. Findings from various life cycle assessments are presented to illustrate the environmental impact and feasibility of decentralized systems relative to centralized alternatives. This comprehensive analysis offers valuable insights into the future trajectories of wastewater treatment research and implementation.

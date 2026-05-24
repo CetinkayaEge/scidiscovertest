@@ -1,0 +1,9 @@
+Title: Quantitative analysis of histone exchange for transcriptionally active chromatin
+Authors: Stephanie D Byrum, Sean D Taverna, Alan J Tackett
+Year: 2011
+Venue: Journal of Clinical Bioinformatics
+DOI: 10.1186/2043-9113-1-17
+Paper ID: pmc_PMC3164610
+
+Abstract:
+Background Genome-wide studies use techniques, like chromatin immunoprecipitation, to purify small chromatin sections so that protein-protein and protein-DNA interactions can be analyzed for their roles in modulating gene transcription. Histone post-translational modifications (PTMs) are key regulators of gene transcription and are therefore prime targets for these types of studies. Chromatin purification protocols vary in the amount of chemical cross-linking used to preserve in vivo interactions. A balanced level of chemical cross-linking is required to preserve the native chromatin state during purification, while still allowing for solubility and interaction with affinity reagents. Findings We previously used an isotopic labeling technique combining affinity purification and mass spectrometry called transient isotopic differentiation of interactions as random or targeted (transient I-DIRT) to identify the amounts of chemical cross-linking required to prevent histone exchange during chromatin purification. New bioinformatic analyses reported here reveal that histones containing transcription activating PTMs exchange more rapidly relative to bulk histones and therefore require a higher level of cross-linking to preserve the in vivo chromatin structure. Conclusions The bioinformatic approach described here is widely applicable to other studies requiring the analysis and purification of cognate histones and their modifications. Histones containing PTMs correlated to active gene transcription exchange more readily than bulk histones; therefore, it is necessary to use more rigorous in vivo chemical cross-linking to stabilize these marks during chromatin purification.

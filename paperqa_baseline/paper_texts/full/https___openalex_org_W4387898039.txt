@@ -1,0 +1,9 @@
+Title: Toward Sustainable Ultrawide Bandgap van der Waals Materials: An ab initio Screening Effort
+Authors: Chuin Wei Tan, Linqiang Xu, Chen Chen Er, Siang‐Piao Chai, Boris Kozinsky, Hui Ying Yang, Shengyuan A. Yang, Jing Lü, Yee Sin Ang
+Year: 2023
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202308679
+Paper ID: https://openalex.org/W4387898039
+
+Abstract:
+Abstract The sustainable development of next‐generation device technology is paramount in the face of climate change and the looming energy crisis. Tremendous effort is made in the discovery and design of nanomaterials that achieve device‐level sustainability, where high performance and low operational energy cost are prioritized. However, many of such materials are composed of elements that are under threat of depletion and pose elevated risks to the environment and human health. The role of materials‐level sustainability in computational screening efforts is overlooked thus far. This work presents a general van der Waals materials screening framework imbued with sustainability‐motivated search criteria. Using ultrawide bandgap (UWBG) materials as a backdrop, 25 sustainable UWBG layered materials comprising only of low‐risks elements result from this screening effort, with several meeting the requirements for dielectric, power electronics, and ultraviolet device applications. These findings constitute a critical first‐step toward reinventing a more sustainable electronics landscape beyond silicon, with the framework established in this work serving as a harbinger of sustainable 2D materials discovery.

@@ -1,0 +1,9 @@
+Title: Recent advances in developing multiscale descriptor approach for the design of oxygen redox electrocatalysts
+Authors: Dantong Zhang, Qi Zhang, Chao Peng, Zhi Long, Guilin Zhuang, Denis Kramer, Sridhar Komarneni, Chunyi Zhi, Dongfeng Xue
+Year: 2023
+Venue: iScience
+DOI: 10.1016/j.isci.2023.106624
+Paper ID: pmc_PMC10149376
+
+Abstract:
+Summary Oxygen redox electrocatalysis is the crucial electrode reaction among new-era energy sources. The prerequisite to rationally design an ideal electrocatalyst is accurately identifying the structure-activity relationship based on the so-called descriptors which link the catalytic performance with structural properties. However, the quick discovery of those descriptors remains challenging. In recent, the high-throughput computing and machine learning methods were identified to present great prospects for accelerating the screening of descriptors. That new research paradigm improves cognition in the way of oxygen evolution reaction/oxygen reduction reaction activity descriptor and reinforces the understanding of intrinsic physical and chemical features in the electrocatalytic process from a multiscale perspective. This review summarizes those new research paradigms for screening multiscale descriptors, especially from atomic scale to cluster mesoscale and bulk macroscale. The development of descriptors from traditional intermediate to eigen feature parameters has been addressed which provides guidance for the intelligent design of new energy materials. Graphical abstract Chemistry; Catalysis; Electrochemistry; Computational chemistry

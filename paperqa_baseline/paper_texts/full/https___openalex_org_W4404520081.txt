@@ -1,0 +1,9 @@
+Title: How perceived sustainability influences consumers’ clothing preferences
+Authors: Ming-zhi Li, Young-Hwa Choe, Chao Gu
+Year: 2024
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-024-80279-4
+Paper ID: https://openalex.org/W4404520081
+
+Abstract:
+In this study, we explored innovative approaches to sustainable fashion design, focusing on the increasingly prominent issue of sustainability in the global fashion industry. By analyzing consumer feedback in online communities, particularly through a systematic study of user comments on clothing products on the JD.com website, this paper reveals consumers' attitudes, expectations, and suggestions regarding sustainable fashion. The findings provide new directions for improvements in sustainable clothing design. We collected data using Python web scraping technology from the Chinese e-commerce platform JD.com and employed the Latent Dirichlet Allocation (LDA) method for text topic modeling. This approach successfully identified three main themes: perceived quality, perceived value, and sensory comfort. Additionally, we employed multivariate analysis of variance to assess consumers' perceptions. Survey data show that consumers demonstrat higher levels of perceived quality, value, purchase intention, and intention to repurchase sustainable clothing compared to traditional apparel. The research findings help apparel companies understand consumer needs regarding sustainability, providing theoretical support for designers and confirming the importance of emphasizing eco-friendly materials and sustainable production in new product development. This research not only provides actionable insights for the fashion industry but also contributes to the ongoing discourse on sustainable design strategies globally.

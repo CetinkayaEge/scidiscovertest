@@ -1,0 +1,9 @@
+Title: China's sustainable development evolution and its driving mechanism
+Authors: Di Wang, Fangyu Ding, Jingying Fu, Dong Jiang
+Year: 2022
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2022.109390
+Paper ID: https://openalex.org/W4295183102
+
+Abstract:
+The sustainable development level, coordinated among three sub-systems in the economy, society, and environment, has changed globally or regionally. The key factors and mechanisms driving these changes remain uncharacterized due to the lack of a systematic method. Here, within the production-living-ecological framework, this study quantified China's sustainable development change at a fine scale and identify the key factors as well as explored its driving mechanism by combining a machine learning approach with multi-dimensional datasets. The results indicate that more than one-fifth of China has experienced sustainability change over two decades, and the dominant types of change divide this nation into four zones. The socioeconomic and the man-made environment rather than nature itself have greatly influenced this change. Road density is the key driver of sustainability change except in east China where arresting environmental deterioration via artificial plantation and mountain closure is the dominant factor for the change to take place. The findings provide a novel insight into understanding sustainable development change and its driving mechanism.

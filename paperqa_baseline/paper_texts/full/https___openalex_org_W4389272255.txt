@@ -1,0 +1,9 @@
+Title: Switchable radiative cooling and solar heating for sustainable thermal management
+Authors: Myung Jin Yoo, Kyung Rok Pyun, Yeongju Jung, Minjae Lee, Jinwoo Lee, Seung Hwan Ko
+Year: 2023
+Venue: Nanophotonics
+DOI: https://doi.org/10.1515/nanoph-2023-0627
+Paper ID: https://openalex.org/W4389272255
+
+Abstract:
+Radiative thermal management technologies that utilize thermal radiation from nano/microstructure for cooling and heating have gained significant attention in sustainable energy research. Passive radiative cooling and solar heating operate continuously, which may lead to additional heating or cooling energy consumption due to undesired cooling or heating during cold nighttime/winters or hot daytime/summers. To overcome the limitation, recent studies have focused on developing radiative thermal management technologies that can toggle radiative cooling on and off or possess switchable dual cooling and heating modes to realize sustainable and efficient thermal management. This review will explore the fundamental concepts of radiative thermal management and its switching mechanisms, utilizing novel systems composed of various materials and nano/microstructures. Additionally, we will delve into the potential future research directions in radiative thermal management technologies.

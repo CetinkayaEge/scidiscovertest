@@ -1,0 +1,9 @@
+Title: MCEENet: Multi-Scale Context Enhancement and Edge-Assisted Network for Few-Shot Semantic Segmentation
+Authors: Hongjie Zhou, Rufei Zhang, Xiaoyu He, Nannan Li, Yong Wang, Sheng Shen
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062922
+Paper ID: pmc_PMC10057607
+
+Abstract:
+Few-shot semantic segmentation has attracted much attention because it requires only a few labeled samples to achieve good segmentation performance. However, existing methods still suffer from insufficient contextual information and unsatisfactory edge segmentation results. To overcome these two issues, this paper proposes a multi-scale context enhancement and edge-assisted network (called MCEENet) for few-shot semantic segmentation. First, rich support and query image features were extracted, respectively, using two weight-shared feature extraction networks, each consisting of a ResNet and a Vision Transformer. Subsequently, a multi-scale context enhancement (MCE) module was proposed to fuse the features of ResNet and Vision Transformer, and further mine the contextual information of the image by using cross-scale feature fusion and multi-scale dilated convolutions. Furthermore, we designed an Edge-Assisted Segmentation (EAS) module, which fuses the shallow ResNet features of the query image and the edge features computed by the Sobel operator to assist in the final segmentation task. We experimented on the PASCAL- 5 i dataset to demonstrate the effectiveness of MCEENet; the results of the 1-shot setting and 5-shot setting on the PASCAL- 5 i dataset are 63.5% and 64.7%, which surpasses the state-of-the-art results by 1.4% and 0.6%, respectively.

@@ -1,0 +1,9 @@
+Title: Digital Twin Technology and Social Sustainability: Implications for the Construction Industry
+Authors: Hossein Omrany, Armin Mehdipour, Daniel Oteng
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16198663
+Paper ID: https://openalex.org/W4403186935
+
+Abstract:
+To date, a plethora of research has been published investigating the value of using Digital Twin (DT) technology in the construction industry. However, the contribution of DT technology to promoting social sustainability in the industry has largely been unexplored. Therefore, the current paper aims to address this gap by exploring the untapped potential of DT technology in advancing social sustainability within the construction industry. To this end, a comprehensive systematic literature review was conducted, which identified 298 relevant studies. These studies were subsequently analysed with respect to their use of DT technology in supporting social sustainability. The findings indicated that the studies contributed to 8 of the 17 UN Sustainable Development Goals (SDGs), with a strong focus on SDG11 (77 publications), followed by SDG3 and SDG9, with 58 and 48 studies, respectively, focusing on promoting health and well-being and fostering resilient infrastructure and innovation. Other contributions were identified for SDG13 (30 studies), SDG7 (27 studies), SDG12 (26 studies), SDG4 (21 studies), and SDG6 (11 studies), covering areas such as climate action, responsible consumption, affordable energy, quality education, and clean water and sanitation. This paper also proposes future research directions for advancing DT technology to further enhance social sustainability in the construction industry. These include (i) enhancing inclusivity and diversity, (ii) workforce safety and well-being, (iii) training and skill development, (iv) policy and regulatory support, and (v) cross-disciplinary collaboration.

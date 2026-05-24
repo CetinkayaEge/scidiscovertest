@@ -1,0 +1,9 @@
+Title: Altered functional connectivity of the ascending reticular activating system in obstructive sleep apnea
+Authors: Jung-Ick Byun, Geon-Ho Jahng, Chang-Woo Ryu, Soonchan Park, Kun Hee Lee, Sung Ok Hong, Ki-Young Jung, Won Chul Shin
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35535-4
+Paper ID: pmc_PMC10229570
+
+Abstract:
+Repeated arousals during sleep in obstructive sleep apnea (OSA) may lead to altered functional connectivity (FC) of the ascending reticular activating system (ARAS). We evaluated resting-state FC between eight ARAS nuclei and 105 cortical/subcortical regions in OSA patients and healthy controls. Fifty patients with moderate to severe OSA and 20 controls underwent overnight polysomnography and resting-state functional magnetic resonance imaging. Seed-to-voxel analysis of ARAS–cortex FC was compared between OSA patients and controls. The ARAS nuclei included the locus coeruleus (LC), laterodorsal tegmental nucleus (LDTg), and ventral tegmental area (VTA). FC values of three ARAS nuclei (the LC, LDTg, and VTA) significantly differed between the groups. FC of the LC with the precuneus, posterior cingulate gyrus, and right lateral occipital cortex (LOC) was stronger in OSA patients than controls. FC between the LDTg and right LOC was stronger in OSA patients than controls, but FC between the VTA and right LOC was weaker. Average LC–cortex FC values positively correlated with the arousal, apnea, and apnea–hypopnea index in OSA patients. Alterations in ARAS–cortex FC were observed in OSA patients. The strength of LC–cortex noradrenergic FC was related to arousal or OSA severity in patients.

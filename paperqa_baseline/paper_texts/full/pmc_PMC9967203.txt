@@ -1,0 +1,9 @@
+Title: Mutation of a Threonine Residue in αD-β4 Loop of Cyt2Aa2 Protein Influences Binding on Fluid Lipid Membranes
+Authors: Chontida Tangsongcharoen, Jose L. Toca-Herrera, Boonhiang Promdonkoy, Sudarat Tharad
+Year: 2023
+Venue: Toxins
+DOI: 10.3390/toxins15020167
+Paper ID: pmc_PMC9967203
+
+Abstract:
+Cyt proteins are insecticidal proteins originally from Bacillus thuringiensis . The lipid binding of the Cyt2Aa2 protein depends on the phase of the lipid bilayer. In this work, the importance of the conserved T144 residue in the αD-β4 loop for lipid binding on fluid lipid membranes was investigated via atomic force microscopy (AFM). Lipid membrane fluidity could be monitored for the following lipid mixture systems: POPC/DPPC, POPC/SM, and DOPC/SM. AFM results revealed that the T144A mutant was unable to bind to pure POPC bilayers. Similar topography between the wildtype and T144A mutant was seen for the POPC/Chol system. Small aggregates of T144A mutant were observed in the POPC and DOPC domains of the lipid mixture systems. In addition, the T144A mutant had no cytotoxic effect against human colon cancer cells. These results suggest that alanine replacement into threonine 144 hinders the binding of Cyt2Aa2 on liquid lipid membranes. These observations provide a possibility to modify the Cyt2Aa2 protein to specific cells via lipid phase selection.

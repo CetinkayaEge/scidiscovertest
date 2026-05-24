@@ -1,0 +1,9 @@
+Title: Genetic diagnosis of Duchenne and Becker muscular dystrophy through mRNA analysis: new splicing events
+Authors: Alba Segarra-Casas, Cristina Domínguez-González, Aurelio Hernández-Laín, Maria Teresa Sanchez-Calvin, Ana Camacho, Eloy Rivas, Andrea Campo-Barasoain, Marcos Madruga, Carlos Ortez, Daniel Natera-de Benito, Andrés Nascimento, Anna Codina, Maria Jose Rodriguez, Pia Gallano, Lidia Gonzalez-Quereda
+Year: 2023
+Venue: Journal of Medical Genetics
+DOI: 10.1136/jmg-2022-108828
+Paper ID: pmc_PMC10313949
+
+Abstract:
+Background Up to 7% of patients with Duchenne muscular dystrophy (DMD) or Becker muscular dystrophy (BMD) remain genetically undiagnosed after routine genetic testing. These patients are thought to carry deep intronic variants, structural variants or splicing alterations not detected through multiplex ligation-dependent probe amplification or exome sequencing. Methods RNA was extracted from seven muscle biopsy samples of patients with genetically undiagnosed DMD/BMD after routine genetic diagnosis. RT-PCR of the DMD gene was performed to detect the presence of alternative transcripts. Droplet digital PCR and whole-genome sequencing were also performed in some patients. Results We identified an alteration in the mRNA level in all the patients. We detected three pseudoexons in DMD caused by deep intronic variants, two of them not previously reported. We also identified a chromosomal rearrangement between Xp21.2 and 8p22. Furthermore, we detected three exon skipping events with unclear pathogenicity. Conclusion These findings indicate that mRNA analysis of the DMD gene is a valuable tool to reach a precise genetic diagnosis in patients with a clinical and anatomopathological suspicion of dystrophinopathy that remain genetically undiagnosed after routine genetic testing.

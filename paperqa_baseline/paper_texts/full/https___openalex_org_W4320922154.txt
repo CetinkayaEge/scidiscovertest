@@ -1,0 +1,9 @@
+Title: Investigating the feasibility of using waste eggshells in cement-based materials for sustainable construction
+Authors: Kaffayatullah Khan, Waqas Ahmad, Muhammad Nasir Amin, Ahmed Farouk Deifalla
+Year: 2023
+Venue: Journal of Materials Research and Technology
+DOI: https://doi.org/10.1016/j.jmrt.2023.02.057
+Paper ID: https://openalex.org/W4320922154
+
+Abstract:
+To investigate the effect of eggshell powder on the water-absorption capacity of cement mortar, this research employed experimental testing followed by machine learning (ML) modeling techniques. On cement mortar specimens, the eggshell powder was partially substituted for cement and sand in concentrations ranging from 0% to 15% with a 2.5% increment, and water absorption tests were conducted. Experimental tests were used to generate the dataset, which was then used to train ML algorithms and construct ML-based prediction models. The integration of eggshell powder lowered the water absorption capacity of cement mortar, as determined by the test findings. The highest reduction in water absorption was seen at 5% eggshell powder as a cement replacement, resulting in up to 41.7% decrease, and 7.5% eggshell powder as a sand replacement, resulting in up to 45.8% decrease in water absorption compared to the control sample. In addition, the constructed ML models exhibited good agreement with the actual results and may be utilized to determine the water absorption of cement mortar incorporating eggshell powder. Nevertheless, based on the R2 value, the disparity between experimental and predicted results, and error analysis, it was determined that the random forest model was more accurate than the decision tree model.

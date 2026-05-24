@@ -1,0 +1,9 @@
+Title: The Humanized Mouse Model: What Added Value Does It Offer for HIV Research?
+Authors: Luca Baroncini, Simon Bredl, Kadzioch P. Nicole, Roberto F. Speck
+Year: 2023
+Venue: Pathogens
+DOI: 10.3390/pathogens12040608
+Paper ID: pmc_PMC10142098
+
+Abstract:
+In the early 2000s, novel humanized mouse models based on the transplantation of human hematopoietic stem and progenitor cells (HSPCs) into immunocompromised mice were introduced (hu mice). The human HSPCs gave rise to a lymphoid system of human origin. The HIV research community has greatly benefitted from these hu mice. Since human immunodeficiency virus (HIV) type 1 infection results in a high-titer disseminated HIV infection, hu mice have been of great value for all types of HIV research from pathogenesis to novel therapies. Since the first description of this new generation of hu mice, great efforts have been expended to improve humanization by creating other immunodeficient mouse models or supplementing mice with human transgenes to improve human engraftment. Many labs have their own customized hu mouse models, making comparisons quite difficult. Here, we discuss the different hu mouse models in the context of specific research questions in order to define which characteristics should be considered when determining which hu mouse model is appropriate for the question posed. We strongly believe that researchers must first define their research question and then determine whether a hu mouse model exists, allowing the research question to be studied.

@@ -1,0 +1,9 @@
+Title: Impact of repeated morning bright white light exposures on attention in a simulated office environment
+Authors: Markus Canazei, Maximilian Dick, Wilfried Pohl, Johannes Weninger, Niclas Hubel, Siegmund Staggl, Elisabeth M. Weiss
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35689-1
+Paper ID: pmc_PMC10229615
+
+Abstract:
+Attention is essential to the work. This study investigated the effects of two different light pulses on a simple attention task. In addition, the effects of subsequent exposure to constant but different illuminance levels on the continuation of the simple attention task and a subsequent complex attention task were examined. A total of 56 subjects were assigned in random order to two white light interventions that were repeated five times during the morning. Each light intervention consisted of a brief light pulse followed by constant light exposure and differed in temporal dimming dynamics and corneal illuminance. Subjective and psychometric parameters were recorded several times during light exposure. Heart rate variability (HRV) was derived from continuous electrocardiograms. Subjects showed improved reaction speed in the simple attention task, accompanied by higher HRV under a brighter light pulse without habituation by repetition. This difference in simple attention performance disappeared when light exposure remained the same after the light pulse. In addition, higher reaction speed and HRV were observed in the complex attention task under constant bright light exposure. Intermittent bright light seems promising to acutely improve attentional performance in office workplaces. Future research is needed to investigate daytime light effects on other work-related cognitive functions.

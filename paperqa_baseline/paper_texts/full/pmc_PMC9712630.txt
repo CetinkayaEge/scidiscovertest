@@ -1,0 +1,9 @@
+Title: Surveying mutation density patterns around specific genomic features
+Authors: Hui Yu, Scott Ness, Chung-I Li, Yongsheng Bai, Peng Mao, Yan Guo
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276770.122
+Paper ID: pmc_PMC9712630
+
+Abstract:
+Mutation density patterns reveal unique biological properties of specific genomic regions and shed light on the mechanisms of carcinogenesis. Although previous studies reported insightful mutation density patterns associated with certain genomic regions such as transcription start sites and DNA replication origins, a tool that can systematically investigate mutational spatial patterns is still lacking. Thus, we developed MutDens, a bioinformatic tool for comprehensive analysis of mutation density patterns around genomic features, namely, genomic positions, in humans and model species. By scanning the bidirectional vicinity regions of given positions, MutDens systematically characterizes the mutation density for single-base substitution mutational classes after adjusting for total mutation burden and local nucleotide proportion. Analysis results using MutDens not only verified the previously reported transcriptional strand bias around transcription start sites and replicative strand bias around DNA replication origins, but also identified novel mutation density patterns around other genomics features, such as enhancers and retrotransposon insertion polymorphism sites. To our knowledge, MutDens is the first tool that systematically calculates, examines, and compares mutation density patterns, thus providing a valuable avenue for investigating the mutational landscapes associated with important genomic features.

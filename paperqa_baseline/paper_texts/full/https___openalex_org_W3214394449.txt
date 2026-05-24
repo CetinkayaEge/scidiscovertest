@@ -1,0 +1,9 @@
+Title: Highly Stable and Nonflammable Hydrated Salt-Paraffin Shape-Memory Gels for Sustainable Building Technology
+Authors: Yunchong Zhang, Feifei Wang, Joost Duvigneau, Yan Wang, Bijia Wang, Xueling Feng, Zhiping Mao, G. Julius Vancsó, Xiaofeng Sui
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.1c04586
+Paper ID: https://openalex.org/W3214394449
+
+Abstract:
+Hydrated salts (salt hydrates) are highly promising low-temperature phase change materials (PCMs) due to their high cohesive energy density and low cost. However, they exhibit phase separation, liquid leakage, and inherent supercooling, which hinder their applications in sustainable building technology. Here, we describe the design of a highly stable emulsion gel system (EmulGels) that exhibits nonflammable and shape-memory characteristics. Oleophilic paraffin and hydrophilic hydrated salts, both of which are excellent PCMs typically existing in separate phases, are combined harmoniously in a gel by a templating water-in-oil Pickering emulsion. Latent heat values of the prepared EmulGels were up to 213.2 J/g (eicosane/disodium hydrogen phosphate dodecahydrate = 1:3). No leakage of eicosane was noticed after heating the EmulGels at 60 °C for 30 min, and the latent heat value remained almost unchanged following 500 thermal cycles. The EmulGel was specifically designed to enable dual-phase crosslinking, which effectively enhanced its shape stability, slowed down loss of water of crystallization in hydrated salts, and decreased the degree of supercooling. Nonflammable characteristic typically found in hydrated salts was also exhibited by the EmulGel, in combination with good mechanical properties. The materials characteristics make EmulGels ideal candidates to serve as building construction interlayers for effective thermal building management.

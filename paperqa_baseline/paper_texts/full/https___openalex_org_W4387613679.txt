@@ -1,0 +1,9 @@
+Title: Insights into the recent advances of agro-industrial waste valorization for sustainable biogas production
+Authors: Vishal Sharma, Diksha Sharma, Mei‐Ling Tsai, Rhessa Grace Guanga Ortizo, Aditya Yadav, Parushi Nargotra, Chiu‐Wen Chen, Peipei Sun, Cheng‐Di Dong
+Year: 2023
+Venue: Bioresource Technology
+DOI: https://doi.org/10.1016/j.biortech.2023.129829
+Paper ID: https://openalex.org/W4387613679
+
+Abstract:
+Recent years have seen a transition to a sustainable circular economy model that uses agro-industrial waste biomass waste to produce energy while reducing trash and greenhouse gas emissions. Biogas production from lignocellulosic biomass (LCB) is an alternative option in the hunt for clean and renewable fuels. Different approaches are employed to transform the LCB to biogas, including pretreatment, anaerobic digestion (AD), and biogas upgradation to biomethane. To maintain process stability and improve AD performance, machine learning (ML) tools are being applied in real-time monitoring, predicting, and optimizing the biogas production process. An environmental life cycle assessment approach for biogas production systems is essential to calculate greenhouse gas emissions. The current review presents a detailed overview of the utilization of agro-waste for sustainable biogas production. Different methods of waste biomass processing and valorization are discussed that contribute towards developing an efficient agro-waste to biogas-based circular economy.

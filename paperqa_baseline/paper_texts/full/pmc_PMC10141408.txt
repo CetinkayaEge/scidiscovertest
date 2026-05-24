@@ -1,0 +1,9 @@
+Title: A Trinuclear Gadolinium Cluster with a Three-Center One-Electron Bond and an S = 11 Ground State
+Authors: K. Randall McClain, Hyunchul Kwon, Khetpakorn Chakarawet, Rizwan Nabi, Jon G. C. Kragskow, Nicholas F. Chilton, R. David Britt, Jeffrey R. Long, Benjamin G. Harvey
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c00182
+Paper ID: pmc_PMC10141408
+
+Abstract:
+The recent discovery of metal–metal bonding and valence delocalization in the dilanthanide complexes (Cp iPr5 ) 2 Ln 2 I 3 (Cp iPr5 = pentaisopropylcyclopentadienyl; Ln = Y, Gd, Tb, Dy) opened up the prospect of harnessing the 4f n 5d z 2 1 electron configurations of non-traditional divalent lanthanide ions to access molecules with novel bonding motifs and magnetism. Here, we report the trinuclear mixed-valence clusters (Cp iPr5 ) 3 Ln 3 H 3 I 2 ( 1-Ln , Ln = Y, Gd), which were synthesized via potassium graphite reduction of the trivalent clusters (Cp iPr5 ) 3 Ln 3 H 3 I 3 . Structural, computational, and spectroscopic analyses support valence delocalization in 1-Ln resulting from a three-center, one-electron σ bond formed from the 4d z 2 and 5d z 2 orbitals on Y and Gd, respectively. Dc magnetic susceptibility data obtained for 1-Gd reveal that valence delocalization engenders strong parallel alignment of the σ-bonding electron and the 4f electrons of each gadolinium center to afford a high-spin ground state of S = 11. Notably, this represents the first clear instance of metal–metal bonding in a molecular trilanthanide complex, and the large spin–spin exchange constant of J = 168(1) cm –1 determined for 1-Gd is only the second largest coupling constant characterized to date for a molecular lanthanide compound.

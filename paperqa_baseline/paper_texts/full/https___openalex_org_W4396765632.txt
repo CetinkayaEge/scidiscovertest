@@ -1,0 +1,9 @@
+Title: Sustainable 3D printing by reversible salting-out effects with aqueous salt solutions
+Authors: Donghwan Ji, Joseph Liu, Jiayu Zhao, Minghao Li, Y W Rho, Hwansoo Shin, Tae Hee Han, Jinhye Bae
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-48121-7
+Paper ID: https://openalex.org/W4396765632
+
+Abstract:
+Achieving a simple yet sustainable printing technique with minimal instruments and energy remains challenging. Here, a facile and sustainable 3D printing technique is developed by utilizing a reversible salting-out effect. The salting-out effect induced by aqueous salt solutions lowers the phase transition temperature of poly(N-isopropylacrylamide) (PNIPAM) solutions to below 10 °C. It enables the spontaneous and instant formation of physical crosslinks within PNIPAM chains at room temperature, thus allowing the PNIPAM solution to solidify upon contact with a salt solution. The PNIPAM solutions are extrudable through needles and can immediately solidify by salt ions, preserving printed structures, without rheological modifiers, chemical crosslinkers, and additional post-processing steps/equipment. The reversible physical crosslinking and de-crosslinking of the polymer through the salting-out effect demonstrate the recyclability of the polymeric ink. This printing approach extends to various PNIPAM-based composite solutions incorporating functional materials or other polymers, which offers great potential for developing water-soluble disposable electronic circuits, carriers for delivering small materials, and smart actuators.

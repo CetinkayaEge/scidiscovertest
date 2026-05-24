@@ -1,0 +1,9 @@
+Title: Osteoprogenitor SFRP1 prevents exhaustion of hematopoietic stem cells via PP2A-PR72/130-mediated regulation of p300
+Authors: Franziska Hettler, Christina Schreck, Sandra Romero Marquez, Thomas Engleitner, Baiba Vilne, Theresa Landspersky, Heike Weidner, Renate Hausinger, Ritu Mishra, Rupert Oellinger, Martina Rauner, Ronald Naumann, Christian Peschel, Florian Bassermann, Roland Rad, Rouzanna Istvanffy, Robert A.J. Oostendorp
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280760
+Paper ID: pmc_PMC9890018
+
+Abstract:
+Remodeling of the bone marrow microenvironment in chronic inflammation and in aging reduces hematopoietic stem cell (HSC) function. To assess the mechanisms of this functional decline of HSC and find strategies to counteract it, we established a model in which the Sfrp1 gene was deleted in Osterix + osteolineage cells (OS1 Δ/Δ mice). HSC from these mice showed severely diminished repopulating activity with associated DNA damage, enriched expression of the reactive oxygen species pathway and reduced single-cell proliferation. Interestingly, not only was the protein level of Catenin beta-1 (β-catenin) elevated, but so was its association with the phosphorylated co-activator p300 in the nucleus. Since these two proteins play a key role in promotion of differentiation and senescence, we inhibited in vivo phosphorylation of p300 through PP2A-PR72/130 by administration of IQ-1 in OS1 Δ/Δ mice. This treatment not only reduced the β-catenin/phospho-p300 association, but also decreased nuclear p300. More importantly, in vivo IQ-1 treatment fully restored HSC repopulating activity of the OS1 Δ/Δ mice. Our findings show that the osteoprogenitor Sfrp1 is essential for maintaining HSC function. Furthermore, pharmacological downregulation of the nuclear β-catenin/phospho-p300 association is a new strategy to restore poor HSC function.

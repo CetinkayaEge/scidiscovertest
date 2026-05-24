@@ -1,0 +1,9 @@
+Title: Closed-form expressions and nonparametric estimation of COVID-19 infection rate ☆
+Authors: Mauro Bisiacco, Gianluigi Pillonetto, Claudio Cobelli
+Year: 2022
+Venue: Automatica
+DOI: 10.1016/j.automatica.2022.110265
+Paper ID: pmc_PMC8976198
+
+Abstract:
+Quantitative assessment of the infection rate of a virus is key to monitor the evolution of an epidemic. However, such variable is not accessible to direct measurement and its estimation requires the solution of a difficult inverse problem. In particular, being the result not only of biological but also of social factors, the transmission dynamics can vary significantly in time. This makes questionable the use of parametric models which could be unable to capture their full complexity. In this paper we exploit compartmental models which include important COVID-19 peculiarities (like the presence of asymptomatic individuals) and allow the infection rate to assume any continuous-time profile. We show that these models are universal , i.e. capable to reproduce exactly any epidemic evolution, and extract from them closed-form expressions of the infection rate time-course. Building upon such expressions, we then design a regularized estimator able to reconstruct COVID-19 transmission dynamics in continuous-time. Using real data collected in Italy, our technique proves to be an useful tool to monitor COVID-19 transmission dynamics and to predict and assess the effect of lockdown restrictions.

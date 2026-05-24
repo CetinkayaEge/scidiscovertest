@@ -1,0 +1,9 @@
+Title: The evolving tale of Pol2 function
+Authors: Matthew Gallitto, Zhiguo Zhang
+Year: 2023
+Venue: Genes & Development
+DOI: 10.1101/gad.350527.123
+Paper ID: pmc_PMC10069447
+
+Abstract:
+In this Outlook, Gallitto et al. discuss a study by Meng et al. in this issue of Genes & Development that shows that mutations at EXO domain rescue the growth defects of pol2-REL . They further discover that EXO-mediated polymerase backtracking impedes forward movement of the enzyme when POPS is defective, revealing a novel interplay between the EXO domain and POPS of Pol2 for efficient DNA synthesis. DNA replication is complex and highly regulated, and DNA replication errors can lead to human diseases such as cancer. DNA polymerase ε (polε) is a key player in DNA replication and contains a large subunit called POLE, which possesses both a DNA polymerase domain and a 3′–5′ exonuclease domain (EXO). Mutations at the EXO domain and other missense mutations on POLE with unknown significance have been detected in a variety of human cancers. Based on cancer genome databases, Meng and colleagues (pp. 74–79) previously identified several missense mutations in POPS (pol2 family-specific catalytic core peripheral subdomain), and mutations at the conserved residues of yeast Pol2 ( pol2-REL) showed reduced DNA synthesis and growth. In this issue of Genes & Development , Meng and colleagues (pp. 74–79) found unexpectedly that mutations at the EXO domain rescue the growth defects of pol2-REL. They further discovered that EXO-mediated polymerase backtracking impedes forward movement of the enzyme when POPS is defective, revealing a novel interplay between the EXO domain and POPS of Pol2 for efficient DNA synthesis. Additional molecular insight into this interplay will likely inform the impact of cancer-associated mutations found in both the EXO domain and POPS on tumorigenesis and uncover future novel therapeutic strategies.

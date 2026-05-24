@@ -1,0 +1,9 @@
+Title: Locomotion-Related Population Cortical Ca 2+ Transients in Freely Behaving Mice
+Authors: Quanchao Zhang, Jiwei Yao, Yu Guang, Shanshan Liang, Jiangheng Guan, Han Qin, Xiang Liao, Wenjun Jin, Jianxiong Zhang, Junxia Pan, Hongbo Jia, Junan Yan, Zhengzhi Feng, Weibing Li, Xiaowei Chen
+Year: 2017
+Venue: Frontiers in Neural Circuits
+DOI: 10.3389/fncir.2017.00024
+Paper ID: pmc_PMC5383702
+
+Abstract:
+Locomotion involves complex neural activity throughout different cortical and subcortical networks. The primary motor cortex (M1) receives a variety of projections from different brain regions and is responsible for executing movements. The primary visual cortex (V1) receives external visual stimuli and plays an important role in guiding locomotion. Understanding how exactly the M1 and the V1 are involved in locomotion requires recording the neural activities in these areas in freely moving animals. Here, we used an optical fiber-based method for the real-time monitoring of neuronal population activities in freely moving mice. We combined the bulk loading of a synthetic Ca 2+ indicator and the optical fiber-based Ca 2+ recordings of neuronal activities. An optical fiber 200 μm in diameter can detect the coherent activity of a subpopulation of neurons. In layer 5 of the M1 and V1, we showed that population Ca 2+ transients reliably occurred preceding the impending locomotion. Interestingly, the M1 Ca 2+ transients started ~100 ms earlier than that in V1. Furthermore, the population Ca 2+ transients were robustly correlated with head movements. Thus, our work provides a simple but efficient approach for monitoring the cortical Ca 2+ activity of a local cluster of neurons during locomotion in freely moving animals.

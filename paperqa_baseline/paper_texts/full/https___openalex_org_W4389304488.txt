@@ -1,0 +1,9 @@
+Title: Addressing Environmental Challenges: The Role of Hydrogen Technologies in a Sustainable Future
+Authors: Alessandra Di Nardo, Marcella Calabrese, Virginia Venezia, Maria Portarapillo, Maria Turco, Almerinda Di Benedetto, Giuseppina Luciani
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16237908
+Paper ID: https://openalex.org/W4389304488
+
+Abstract:
+Energy and environmental issues are of great importance in the present era. The transition to renewable energy sources necessitates technological, political, and behavioral transformations. Hydrogen is a promising solution, and many countries are investing in the hydrogen economy. Global demand for hydrogen is expected to reach 120 million tonnes by 2024. The incorporation of hydrogen for efficient energy transport and storage and its integration into the transport sector are crucial measures. However, to fully develop a hydrogen-based economy, the sustainability and safety of hydrogen in all its applications must be ensured. This work describes and compares different technologies for hydrogen production, storage, and utilization (especially in fuel cell applications), with focus on the research activities under study at SaRAH group of the University of Naples Federico II. More precisely, the focus is on the production of hydrogen from bio-alcohols and its storage in formate solutions produced from renewable sources such as biomass or carbon dioxide. In addition, the use of materials inspired by nature, including biowaste, as feedstock to produce porous electrodes for fuel cell applications is presented. We hope that this review can be useful to stimulate more focused and fruitful research in this area and that it can open new avenues for the development of sustainable hydrogen technologies.

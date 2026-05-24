@@ -1,0 +1,9 @@
+Title: A sustainable medical waste collection and transportation model for pandemics
+Authors: Erfan Babaee Tırkolaee, Nadi Serhan Aydın
+Year: 2021
+Venue: Waste Management & Research The Journal for a Sustainable Circular Economy
+DOI: https://doi.org/10.1177/0734242x211000437
+Paper ID: https://openalex.org/W3137808482
+
+Abstract:
+We are currently experiencing a critical period for the prevention and control of the COVID-19 pandemic. COVID-19 related waste is a threat to global public environmental health. Medical waste management during this pandemic is one of the major issues facing public service organizations such as municipalities, which is of great importance in terms of logistics, environment and social aspects. The discussion of logistics operations is related to the collection, transportation and disposal of waste, which imposes high expenses. Many methods have been applied to develop and improve waste management policies in the literature. Apart from these studies, very few researchers have improved vehicle operations in waste management considering environmental aspects and the possibility of outsourcing. In this paper, by examining the gaps in the field, we try to explain and formulate the sustainable medical waste management problem for pandemics. Finally, by designing several practical examples with different scales, we solve the problem using CPLEX solver, compare different conditions and discuss the practical implications using the sensitivity analysis of demand parameter.

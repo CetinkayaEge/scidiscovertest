@@ -1,0 +1,9 @@
+Title: Customized Hydrogel for Sustained Release of Highly Water-Soluble Drugs
+Authors: Xin Jin, Chengxiong Wei, Chengwei Wu, Wei Zhang
+Year: 2022
+Venue: ACS Omega
+DOI: https://doi.org/10.1021/acsomega.1c06106
+Paper ID: https://openalex.org/W4214562026
+
+Abstract:
+Highly water-soluble drugs, due to the rapid diffusion in water, are difficult to be released sustainably. To address the issue, a hydrogel with a core-shell structure is designed for the release of highly water-soluble drugs. The core is used to load the drug and the shell is devoted to isolating the drug from the release medium, which can decrease the drug concentration gradient and the driving force of drug release. The core-shell structure prolongs the drug release time by extending the drug release pathway. Moreover, the core-shell hydrogel possesses high swelling properties to reside in the stomach. The results demonstrate that the customized hydrogel can prolong the release of the highly water-soluble drug (metformin hydrochloride) for more than 50 h and alleviate the burst release of the drug.

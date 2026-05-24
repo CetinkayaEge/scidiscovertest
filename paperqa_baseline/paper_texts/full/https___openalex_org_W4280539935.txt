@@ -1,0 +1,9 @@
+Title: Sustainable inventory management for a closed-loop supply chain with energy usage, imperfect production, and green investment
+Authors: Wakhid Ahmad Jauhari
+Year: 2022
+Venue: Cleaner Logistics and Supply Chain
+DOI: https://doi.org/10.1016/j.clscn.2022.100055
+Paper ID: https://openalex.org/W4280539935
+
+Abstract:
+In this paper, a mathematical inventory model for a manufacturer-multi retailer system is proposed to optimize the inventory level and investments under a carbon tax policy. The energy consumed by the production and rework and the emissions resulting from supply chain operations are considered and controlled using a production rate adjustment. To comply with the carbon policy, the manufacturer invests in green production technologies to cut down the emissions. The model aims to minimize the joint total cost by simultaneously determining the shipment frequencies, shipment lot, safety factor, production rate, collection rate and the investment. A numerical example and sensitivity analysis are given to show the application of the model and to study the impact of key parameters on model’s behaviour. The results suggest that by allowing the production rate to be adjusted flexibly, the system can easily control the emissions, energy consumption and the number of defects, so that the total cost can be minimized. The green investment is proven to be effective in reducing emissions and increasing returns on used products, thereby improving the environmental performance of the supply chain.

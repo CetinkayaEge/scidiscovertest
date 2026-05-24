@@ -1,0 +1,9 @@
+Title: Sustained super-Eddington accretion in high-redshift quasars
+Authors: Alessandro Lupi, G. Quadri, Marta Volonteri, Monica Colpi, John A. Regan
+Year: 2024
+Venue: Astronomy and Astrophysics
+DOI: https://doi.org/10.1051/0004-6361/202348788
+Paper ID: https://openalex.org/W4395068971
+
+Abstract:
+Observations of z ≳ 6 quasars provide information on the early evolution of the most massive black holes (MBHs) and galaxies. Current observations, able to trace both gas and stellar properties, reveal a population of MBHs that is significantly more massive than expected from the local MBH-stellar mass relation. The population lies on, but mostly above, the relation observed in the nearby Universe. This suggests that these objects grew very rapidly. To explain their presence when the Universe was less than 1 Gyr old and to assess the physical conditions for their rapid growth, we explored whether episodes of accretion above the Eddington limit can occur across cosmic epochs. By employing state-of-the-art high-resolution cosmological zoom-in simulations of a z ∼ 7 quasar, where different accretion regimes are included consistently, together with their associated radiative and kinetic feedback, we show that super-Eddington phases can be sustained for relatively long timescales (tens of millions of years). This allows the MBH to rapidly grow by up to three orders of magnitude, depending on the strength of the kinetic feedback. We also show by means of a semianalytic calculation that the MBH spin remains moderate and does not take on extremely high values during the super-Eddington phases. This results in a lower feedback efficiency, which may allow the rapid growth required to explain over-massive high-redshift MBHs.

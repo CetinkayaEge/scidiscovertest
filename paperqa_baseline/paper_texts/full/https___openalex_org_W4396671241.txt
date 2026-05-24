@@ -1,0 +1,9 @@
+Title: Assessing the current landscape of AI and sustainability literature: identifying key trends, addressing gaps and challenges
+Authors: Shailesh Tripathi, Nadine Bachmann, Manuel Brunner, Ziad Rizk, Herbert Jodlbauer
+Year: 2024
+Venue: Journal Of Big Data
+DOI: https://doi.org/10.1186/s40537-024-00912-x
+Paper ID: https://openalex.org/W4396671241
+
+Abstract:
+Abstract The United Nations’ 17 Sustainable Development Goals stress the importance of global and local efforts to address inequalities and implement sustainability. Addressing complex, interconnected sustainability challenges requires a systematic, interdisciplinary approach, where technology, AI, and data-driven methods offer potential solutions for optimizing resources, integrating different aspects of sustainability, and informed decision-making. Sustainability research surrounds various local, regional, and global challenges, emphasizing the need to identify emerging areas and gaps where AI and data-driven models play a crucial role. The study performs a comprehensive literature survey and scientometric and semantic analyses, categorizes data-driven methods for sustainability problems, and discusses the sustainable use of AI and big data. The outcomes of the analyses highlight the importance of collaborative and inclusive research that bridges regional differences, the interconnection of AI, technology, and sustainability topics, and the major research themes related to sustainability. It further emphasizes the significance of developing hybrid approaches combining AI, data-driven techniques, and expert knowledge for multi-level, multi-dimensional decision-making. Furthermore, the study recognizes the necessity of addressing ethical concerns and ensuring the sustainable use of AI and big data in sustainability research.

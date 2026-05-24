@@ -1,0 +1,9 @@
+Title: Sustainable Recovery of Titanium Alloy: From Waste to Feedstock for Additive Manufacturing
+Authors: Vincenzo Tebaldo, Giovanna Gautier di Confiengo, Donatella Duraccio, Maria Giulia Faga
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16010330
+Paper ID: https://openalex.org/W4390412688
+
+Abstract:
+Titanium and its alloys are widely employed in the aerospace industry, and their use will increase in the future. At present, titanium is mainly produced by the Kroll method, but this is expensive and energy-intensive. Therefore, the research of efficient and sustainable methods for its production has become relevant. The present review provides a description of the titanium recycling methods used to produce mostly aeronautical components by additive manufacturing, offering an overview of the actual state of the art in the field. More specifically, this paper illustrates that ilmenite is the main source of titanium and details different metallurgic processes for producing titanium and titanium alloys. The energy consumption required for each production step is also illustrated. An overview of additive manufacturing techniques is provided, along with an analysis of their relative challenges. The main focus of the review is on the current technologies employed for the recycling of swarf. Literature suggests that the most promising ways are the technologies based on severe plastic deformation, such as equal-channel angular pressing, solid-state field-assisted sintering technology-forge, and the Conform process. The latter is becoming established in the field and can replace the actual production of conventional titanium wire. Titanium-recycled powder for additive manufacturing is mainly produced using gas atomization techniques.

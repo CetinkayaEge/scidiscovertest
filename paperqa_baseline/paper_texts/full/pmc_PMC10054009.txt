@@ -1,0 +1,9 @@
+Title: Evaluation Protocol for Analogue Intelligent Medical Radars: Towards a Systematic Approach Based on Theory and a State of the Art
+Authors: Geoffray Battiston, Rémi Régnier, Olivier Galibert
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063036
+Paper ID: pmc_PMC10054009
+
+Abstract:
+We propose the basis for a systematised approach to the performance evaluation of analogue intelligent medical radars. In the first part, we review the literature on the evaluation of medical radars and compare the provided experimental elements with models from radar theory in order to identify the key physical parameters that will be useful to develop a comprehensive protocol. In the second part, we present our experimental equipment, protocol and metrics to carry out such an evaluation.

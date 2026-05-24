@@ -1,0 +1,9 @@
+Title: Precision Agriculture Digital Technologies for Sustainable Fungal Disease Management of Ornamental Plants
+Authors: Silvia Traversari, Sonia Cacini, Angelica Galieni, B. Nesi, Nicola Nicastro, Catello Pane
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13073707
+Paper ID: https://openalex.org/W3140107690
+
+Abstract:
+Ornamental plant production constitutes an important sector of the horticultural industry worldwide and fungal infections, that dramatically affect the aesthetic quality of plants, can cause serious economic and crop losses. The need to reduce the use of pesticides for controlling fungal outbreaks requires the development of new sustainable strategies for pathogen control. In particular, early and accurate large-scale detection of occurring symptoms is critical to face the ambitious challenge of an effective, energy-saving, and precise disease management. Here, the new trends in digital-based detection and available tools to treat fungal infections are presented in comparison with conventional practices. Recent advances in molecular biology tools, spectroscopic and imaging technologies and fungal risk models based on microclimate trends are examined. The revised spectroscopic and imaging technologies were tested through a case study on rose plants showing important fungal diseases (i.e., spot spectroscopy, hyperspectral, multispectral, and thermal imaging, fluorescence sensors). The final aim was the examination of conventional practices and current e-tools to gain the early detection of plant diseases, the identification of timing and spacing for their proper management, reduction in crop losses through environmentally friendly and sustainable production systems. Moreover, future perspectives for enhancing the integration of all these approaches are discussed.

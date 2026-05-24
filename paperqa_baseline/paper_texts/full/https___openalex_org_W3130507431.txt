@@ -1,0 +1,9 @@
+Title: Closing the sustainable development gap: A global study of goal interactions
+Authors: Kristin Linnerud, Erling Holden, Morten Simonsen
+Year: 2021
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2171
+Paper ID: https://openalex.org/W3130507431
+
+Abstract:
+Abstract Meeting one sustainable development goal on human needs, social justice, or environmental limits can make it harder (or easier) to meet others. The extent to which countries succeed in reconciling these goals is context specific but depends largely on how we organize society and on what policy options and strategies we use. We present a model for sustainable development consisting of six indicators and assign thresholds that define a sustainable development space. The distances between the indicator values and their corresponding thresholds constitute the sustainable development gap. We then apply a cluster analysis technique to group 117 countries into six clusters that face similar challenges in closing this gap. Finally, we use illustrative spider web diagrams to assess the performance of these clusters at two points in time. We show that some countries have clearly been better than others at reconciling these goals, and many have reduced their sustainable development gap over time.

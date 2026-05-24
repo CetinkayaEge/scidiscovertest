@@ -1,0 +1,9 @@
+Title: Toward Sustainable Solid Polymer Electrolytes for Lithium-Ion Batteries
+Authors: João C. Barbosa, Renato Gonçalves, Carlos M. Costa, S. Lanceros‐Méndez
+Year: 2022
+Venue: ACS Omega
+DOI: https://doi.org/10.1021/acsomega.2c01926
+Paper ID: https://openalex.org/W4229039828
+
+Abstract:
+Lithium-ion batteries (LIBs) are the most widely used energy storage system because of their high energy density and power, robustness, and reversibility, but they typically include an electrolyte solution composed of flammable organic solvents, leading to safety risks and reliability concerns for high-energy-density batteries. A step forward in Li-ion technology is the development of solid-state batteries suitable in terms of energy density and safety for the next generation of smart, safe, and high-performance batteries. Solid-state batteries can be developed on the basis of a solid polymer electrolyte (SPE) that may rely on natural polymers in order to replace synthetic ones, thereby taking into account environmental concerns. This work provides a perspective on current state-of-the-art sustainable SPEs for lithium-ion batteries. The recent developments are presented with a focus on natural polymers and their relevant properties in the context of battery applications. In addition, the ionic conductivity values and battery performance of natural polymer-based SPEs are reported, and it is shown that sustainable SPEs can become essential components of a next generation of high-performance solid-state batteries synergistically focused on performance, sustainability, and circular economy considerations.

@@ -1,0 +1,9 @@
+Title: The immunomodulatory molecule TIGIT is expressed by chronic lymphocytic leukemia cells and contributes to anergy
+Authors: Francesca Arruga, Marta Rubin, Despoina Papazoglou, Andrea Iannello, Nikolaos Ioannou, Riccardo Moia, Davide Rossi, Gianluca Gaidano, Marta Coscia, Luca Laurenti, Giovanni D’Arena, John N. Allan, Richard R. Furman, Tiziana Vaisitti, Alan G. Ramsay, Silvia Deaglio
+Year: 2023
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.282177
+Paper ID: pmc_PMC10388274
+
+Abstract:
+T-cell immunoreceptor with Ig and ITIM domains (TIGIT) is an inhibitory checkpoint receptor that negatively regulates T-cell responses. CD226 competes with TIGIT for binding to the CD155 ligand, delivering a positive signal to the T cell. Here we studied the expression of TIGIT and CD226 in a cohort of 115 patients with chronic lymphocytic leukemia (CLL) and report expression of TIGIT and CD226 by leukemic cells. By devising a TIGIT/CD226 ratio, we showed that CLL cells favoring TIGIT over CD226 are typical of a more indolent disease, while those favoring CD226 are characterized by a shorter time to first treatment and shorter progression-free survival after first treatment. TIGIT expression was inversely correlated to the B-cell receptor (BCR) signaling capacity, as determined by studying BTK phosphorylation, cell proliferation and interleukin-10 production. In CLL cells treated with ibrutinib, in which surface IgM and BCR signaling capacity are temporarily increased, TIGIT expression was downmodulated, in line with data indicating transient recovery from anergy. Lastly, cells from patients with Richter syndrome were characterized by high levels of CD226, with low to undetectable TIGIT, in keeping with their high proliferative drive. Together, these data suggest that TIGIT contributes to CLL anergy by down-regulating BCR signaling, identifying novel and actionable molecular circuits regulating anergy and modulating CLL cell functions.

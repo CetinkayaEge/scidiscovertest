@@ -1,0 +1,9 @@
+Title: Preliminary Exploration of Metabolic Mechanisms in Copper-Exposed Sepia esculenta Based on Transcriptome Analysis
+Authors: Zan Li, Lisheng Jiang, Tao Xu, Xiaokai Bao, Weijun Wang, Yanwei Feng, Jianmin Yang, Jingjun Ma
+Year: 2023
+Venue: Metabolites
+DOI: 10.3390/metabo13040471
+Paper ID: pmc_PMC10141105
+
+Abstract:
+As a common and high-concentration heavy metal in the ocean, Cu can induce metal toxicity and significantly affect the metabolic function of marine organisms. Sepia esculenta is an important economic cephalopod found along the east coast of China, the growth, movement, and reproduction of which are all affected by heavy metals. Hitherto, the specific metabolic mechanism of heavy-metal exposure in S. esculenta is still unclear. In this study, we identified 1131 DEGs through transcriptome analysis of larval S. esculenta within 24 h of Cu exposure. GO and KEGG functional enrichment analysis results indicated that Cu exposure may affect purine metabolism, protein digestion and absorption, cholesterol metabolism, and other metabolic processes in S. esculenta larvae. It is worth noting that in this study we explore metabolic mechanism of Cu-exposed S. esculenta larvae through the comprehensive analysis of protein–protein interaction network and KEGG enrichment analysis for the first time and find 20 identified key and hub genes such as CYP7A1, CYP3A11, and ABCA1. Based on their expression, we preliminarily speculate that Cu exposure may inhibit multiple metabolic processes and induce metabolic disorders. Our results lay a foundation for further understanding the metabolic mechanism of S. esculenta against heavy metals and provide theoretical help for S. esculenta artificial breeding.

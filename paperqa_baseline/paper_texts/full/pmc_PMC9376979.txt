@@ -1,0 +1,9 @@
+Title: Quantitative and qualitative features of acute phase-adverse events following SARS-CoV-2 vaccination in a large sample of people with multiple sclerosis
+Authors: E. Tavazzi, G. Della Porta, F.S. Robustelli della Cuna, L. Gervasio, E. Guerra, M.A. Tejada Condemayta, A. Filosa, C. Montomoli, R. Bergamaschi
+Year: 2022
+Venue: Multiple Sclerosis and Related Disorders
+DOI: 10.1016/j.msard.2022.104120
+Paper ID: pmc_PMC9376979
+
+Abstract:
+Introduction Few data are available on adverse events (AE) associated to vaccines in persons with multiple sclerosis (pwMS). Aims to study the incidence of acute phase AE (AP-AE) related to SARS-CoV-2 mRNA vaccines in pwMS compared to a control group, and to analyze the association between AP-AE and disease modifying treatments (DMT). Methods This was a cross-sectional study on 438 PwMS and 481 age- and sex-matched subjects not affected by dysimmune diseases that underwent two doses of SARS-CoV-2 mRNA BNT162b2 vaccine (Pfizer/BioNtech). Results Two hundred and twenty five (51.4%) pwMS complained of ≥1 AP-AE after the first dose, 269 (61.4%) after the second dose. A logistic regression analysis revealed that only pwMS on Fingolimod and Ocrelizumab did not show a higher risk of developing AP-AE. The likelihood to present with ≥1 AP-AE, after correcting for age and sex, was significantly higher in pwMS than controls. Conclusions This study reports qualitative and quantitative features of AP-AE associated with the first and second doses of SARS-CoV-2 vaccine in a large sample of pwMS. The only risk factor identified for developing AP-AE is female gender. AntiCD-20 monoclonal antibodies and S1P inhibitors are associated with a lower risk of AP-AE occurrence.

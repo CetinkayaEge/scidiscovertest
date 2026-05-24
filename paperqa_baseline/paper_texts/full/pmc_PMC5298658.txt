@@ -1,0 +1,9 @@
+Title: Analysis of the Light Propagation Model of the Optical Voltage Sensor for Suppressing Unreciprocal Errors
+Authors: Hui Li, Zhida Fu, Liying Liu, Zhili Lin, Wei Deng, Lishuang Feng
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010085
+Paper ID: pmc_PMC5298658
+
+Abstract:
+An improved temperature-insensitive optical voltage sensor (OVS) with a reciprocal dual-crystal sensing method is proposed. The inducing principle of OVS reciprocity degradation is expounded by taking the different temperature fields of two crystals and the axis-errors of optical components into consideration. The key parameters pertaining to the system reciprocity degeneration in the dual-crystal sensing unit are investigated in order to optimize the optical sensing model based on the Maxwell's electromagnetic theory. The influencing principle of axis-angle errors on the system nonlinearity in the Pockels phase transfer unit is analyzed. Moreover, a novel axis-angle compensation method is proposed to improve the OVS measurement precision according to the simulation results. The experiment results show that the measurement precision of OVS is superior to ±0.2% in the temperature range from −40 °C to +60 °C, which demonstrates the excellent temperature stability of the designed voltage sensing system.

@@ -1,0 +1,9 @@
+Title: The impact of e-commerce on environmental sustainability targets in selected European countries
+Authors: Hao Xie, Shuangshuang Chang, Yunfeng Wang, Anees Afzal
+Year: 2022
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2022.2117718
+Paper ID: https://openalex.org/W4309550491
+
+Abstract:
+E-commerce plays a crucial role in the digital economy. E-commerce can reduce costs and boost economic growth. Therefore, the global rate of E-commerce is increasing very fast, which has implications for the digital economy. This study analyses the impact of e-commerce on environmental sustainability. The empirical analysis employed OLS, 2SLS, GMM, and panel quantile regression methods using panel data of 10 European economies spanning over 2002–2019. Carbon emissions and GHG emissions measure environmental sustainability. The results from OLS, 2SLS and GMM show that e-commerce negatively impacts carbon emissions. The panel quantile regression results also show that e-commerce negatively impacts carbon emissions at the middle and higher quantiles. This study recommends that environmental sustainability programs pay attention to policies encouraging e-commerce.

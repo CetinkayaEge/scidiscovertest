@@ -1,0 +1,9 @@
+Title: Experimental and theoretical studies on the extraction behavior of Cf( iii ) by NTAamide(C8) ligand and the separation of Cf( iii )/Cm( iii ) †
+Authors: Yi-lin Wang, Feng-feng Li, Zhe Xiao, Cong-zhi Wang, Yang Liu, Wei-qun Shi, Hui He
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07660h
+Paper ID: pmc_PMC9890634
+
+Abstract:
+In this work we studied the extraction behaviors of Cf( iii ) by NTAamide ( N , N , N ′, N ′, N ′′, N ′′-hexaocactyl-nitrilotriacetamide, C8) in nitric acid medium. Influencing factors such as contact time, concentration of NTAamide(C8), HNO 3 and NO 3 − as well as temperature were considered. The slope analysis showed that Cf( iii ) should be coordinated in the form of neutral molecules, and the extraction complex should be Cf(NO 3 ) 3 ·2L (L = NTAamide(C8)), which can achieve better extraction effect under the low acidity condition. When the concentration of HNO 3 was 0.1 mol L −1 , the separation factor (SF Cf/Cm ) was 3.34. The extractant has application prospect to differentiate the trivalent Cf( iii ) and Cm( iii ) when the concentration of nitric acid is low. On the other hand, density functional theory (DFT) calculations were conducted to explore the coordination mechanism of NTAamide(C8) ligands with Cf/Cm cations. The NTAamide(C8) complexes of Cf( iii )/Cm( iii ) have similar geometric structures, and An( iii ) is more likely to form a complex with 1 : 2 stoichiometry (metal ion/ligands). In addition, bonding property and thermodynamics analyses showed that NTAamide(C8) ligands had stronger coordination ability with Cf( iii ) over Cm( iii ). Our work provides meaningful information with regard to the in-group separation of An( iii ) in practical systems. We performed basic chemical studies on Cf using NTAamide extractant. The results of experiments and DFT calculations show that NTAamide has a good coordination ability to Cf/Cm and is expected to be applied to Cf/Cm separation.

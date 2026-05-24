@@ -1,0 +1,9 @@
+Title: Towards Sustainability: New Tools for Planning Urban Pedestrian Mobility
+Authors: Daniela Santilli, Mauro D’Apuzzo, Azzurra Evangelisti, Vittorio Nicolosi
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13169371
+Paper ID: https://openalex.org/W3195970227
+
+Abstract:
+Background: Since the beginning of the new millennium, sensitivity towards the environment has been spreading globally. In fact, countries are adopting measures to develop new decision support tools that can evaluate the impact of interventions to promote and encourage sustainable mobility. To reduce the levels of pollution related to road traffic, policies that favor multimodal transport alternatives have been strengthened. This involves the combined use of public transport, cycling and walking paths, as well as sharing services where available. Regardless of the type of transport, the pedestrian component remains relevant in cities, even if the infrastructures are often not adequate to accommodate it and conflicts arise that must be managed. It is, therefore, necessary to assess the exposure to risk in terms of road safety. Methods: To this end, the work proposes a forecasting model to estimate the pedestrian flows that load the network. The methodology employs a hybrid approach that appears to better capture the movements of pedestrians. Results: By comparing the results of the model with the real data collected on the study area, satisfactory estimates were obtained. Conclusions: Therefore, this can be an effective tool to help road managers to evaluate the actions to protect vulnerable users.

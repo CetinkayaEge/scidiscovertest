@@ -1,0 +1,9 @@
+Title: An open database of computed bulk ternary transition metal dichalcogenides
+Authors: Scott E. Muller, Micah P. Prange, Zexi Lu, W. Steven Rosenthal, Jenna A. Bilbrey
+Year: 2023
+Venue: Scientific Data
+DOI: 10.1038/s41597-023-02103-4
+Paper ID: pmc_PMC10229635
+
+Abstract:
+We present a dataset of structural relaxations of bulk ternary transition metal dichalcogenides (TMDs) computed via plane-wave density functional theory (DFT). We examined combinations of up to two chalcogenides with seven transition metals from groups 4–6 in octahedral (1T) or trigonal prismatic (2H) coordination. The full dataset consists of 672 unique stoichiometries, with a total of 50,337 individual configurations generated during structural relaxation. Our motivations for building this dataset are (1) to develop a training set for the generation of machine and deep learning models and (2) to obtain structural minima over a range of stoichiometries to support future electronic analyses. We provide the dataset as individual VASP xml files as well as all configurations encountered during relaxations collated into an ASE database with the corresponding total energy and atomic forces. In this report, we discuss the dataset in more detail and highlight interesting structural and electronic features of the relaxed structures.

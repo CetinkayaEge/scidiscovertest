@@ -1,0 +1,9 @@
+Title: Intraoperative Imaging-Guided Cancer Surgery: From Current Fluorescence Molecular Imaging Methods to Future Multi-Modality Imaging Technology
+Authors: Chongwei Chi, Yang Du, Jinzuo Ye, Deqiang Kou, Jingdan Qiu, Jiandong Wang, Jie Tian, Xiaoyuan Chen
+Year: 2014
+Venue: Theranostics
+DOI: 10.7150/thno.9899
+Paper ID: pmc_PMC4165775
+
+Abstract:
+Cancer is a major threat to human health. Diagnosis and treatment using precision medicine is expected to be an effective method for preventing the initiation and progression of cancer. Although anatomical and functional imaging techniques such as radiography, computed tomography (CT), magnetic resonance imaging (MRI) and positron emission tomography (PET) have played an important role for accurate preoperative diagnostics, for the most part these techniques cannot be applied intraoperatively. Optical molecular imaging is a promising technique that provides a high degree of sensitivity and specificity in tumor margin detection. Furthermore, existing clinical applications have proven that optical molecular imaging is a powerful intraoperative tool for guiding surgeons performing precision procedures, thus enabling radical resection and improved survival rates. However, detection depth limitation exists in optical molecular imaging methods and further breakthroughs from optical to multi-modality intraoperative imaging methods are needed to develop more extensive and comprehensive intraoperative applications. Here, we review the current intraoperative optical molecular imaging technologies, focusing on contrast agents and surgical navigation systems, and then discuss the future prospects of multi-modality imaging technology for intraoperative imaging-guided cancer surgery.

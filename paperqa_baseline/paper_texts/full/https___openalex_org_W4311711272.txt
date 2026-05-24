@@ -1,0 +1,9 @@
+Title: A new rating of sustainability based on the Morningstar Sustainability Rating
+Authors: María Teresa Sorrosal Forradellas, M. Glòria Barberà-Mariné, Laura Fabregat‐Aibar, Xiaoni Li
+Year: 2022
+Venue: European Research on Management and Business Economics
+DOI: https://doi.org/10.1016/j.iedeen.2022.100208
+Paper ID: https://openalex.org/W4311711272
+
+Abstract:
+Nowadays, investors seek beyond the financial performance of their investments, including Environmental, Social, and Governance (ESG) criteria in the decision-making process. To this effect, there are currently suppliers who offer different methodologies to evaluate the ESG factors that companies apply in their businesses. In 2016, Morningstar launched the Morningstar Sustainability Rating for mutual funds, which provides information on how well mutual funds incorporate sustainable assets. This rating is obtained from the Morningstar Portfolio Sustainability Score, the calculation system of which was modified and improved in 2018. However, an important drawback remains to be overcome because the score is only calculated if at least 67% of the portfolio assets have an ESG score and it does not take assets without an ESG score into account. This paper aims to provide a more reliable rating for investors because it proposes the inclusion of all the assets in the fund valuation, regardless of whether they have an ESG score, using fuzzy set theory and specifically triangular fuzzy numbers.

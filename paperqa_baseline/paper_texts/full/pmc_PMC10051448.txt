@@ -1,0 +1,9 @@
+Title: Detection of Flying Metal Bodies Based on Photoelectric Composite Sensing
+Authors: Weitao Gao, Tiehua Ma, Changxin Chen, Chenbin Wang, Na Feng
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062926
+Paper ID: pmc_PMC10051448
+
+Abstract:
+In order to reduce the impact of the environment on the accuracy and sensitivity of detection, and to meet the requirements of concealment from detection and being lightweight, a technology for detecting flying metal objects based on photoelectric composite sensors is proposed. The method first analyzes the target’s characteristics and detection environment, and then compares and analyzes the methods for detecting typical flying metal objects. On the basis of the traditional eddy current model, the photoelectric composite detection model that meets the requirements of detecting flying metal objects was studied and designed. For the problems of the short detection distance and the long response time of the traditional eddy current model, the performance of the eddy current sensor was improved to meet the requirements of detection through optimizing the detection circuit and coil parameter model. Meanwhile, to meet the goal of being lightweight, an infrared detection array model applicable to flying metal bodies was designed, and simulation experiments of composite detection based on the model were conducted. The results show that the flying metal body detection model based on photoelectric composite sensors met the requirements of distance and response time for detecting flying metal bodies and may provide an avenue for exploring the composite detection of flying metal bodies.

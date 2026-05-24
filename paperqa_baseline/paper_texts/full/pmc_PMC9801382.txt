@@ -1,0 +1,9 @@
+Title: Octahedral Molybdenum Iodide Clusters Supported on Graphene for Resistive and Optical Gas Sensing
+Authors: Juan Casanova-Chafer, Rocio Garcia-Aboal, Pedro Atienzar, Marta Feliz, Eduard Llobet
+Year: 2022
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.2c15716
+Paper ID: pmc_PMC9801382
+
+Abstract:
+This paper reports for the first time a gas-sensitive nanohybrid based on octahedral molybdenum iodide clusters supported on graphene flakes (Mo 6 @Graphene). The possibility of integrating this material into two different transducing schemes for gas sensing is proposed since the nanomaterial changes both its electrical resistivity and optical properties when exposed to gases and at room temperature. Particularly, when implemented in a chemoresistive device, the Mo 6 @Graphene hybrid showed an outstanding sensing performance toward NO 2 , revealing a limit of quantification of about 10 ppb and excellent response repeatability (0.9% of relative error). While the Mo 6 @Graphene chemoresistor was almost insensitive to NH 3 , the use of an optical transduction scheme (changes in photoluminescence) provided an outstanding detection of NH 3 even for a low loading of Mo 6 . Nevertheless, the photoluminescence was not affected by the presence of NO 2 . In addition, the hybrid material revealed high stability of its gas sensing properties over time and under ambient moisture. Computational chemistry calculations were performed to better understand these results, and plausible sensing mechanisms were presented accordingly. These results pave the way to develop a new generation of multi-parameter sensors in which electronic and optical interrogation techniques can be implemented simultaneously, advancing toward the realization of highly selective and orthogonal gas sensing.

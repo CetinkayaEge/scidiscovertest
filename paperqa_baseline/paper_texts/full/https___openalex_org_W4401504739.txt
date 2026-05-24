@@ -1,0 +1,9 @@
+Title: Monetary policy impact on sustainability: Analyzing interest rates and corporate carbon emissions
+Authors: Dimitrios Anastasiou, Antonis Ballis, Assil Guizani, Christos Kallandranis, Faten Lakhal
+Year: 2024
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2024.122119
+Paper ID: https://openalex.org/W4401504739
+
+Abstract:
+This study aims to investigate the impact of monetary policy on firms' carbon emissions. The primary focus is on the effect of increasing interest rates on the carbon footprint of companies, both prior to and following the implementation of the Paris Agreement in 2015. The results show that there is a positive relationship between interest rates and carbon emissions indicating that in the face of increasing interest rates, companies are more likely to choose short-term financial stability above long-term sustainability objectives. This positive relationship is less prevalent following the Paris Agreement suggesting that policymakers should continue to strengthen global climate initiatives as a pressure for companies to invest in green activities. Additional evidence suggests that the impact of interest rates on carbon emissions is particularly noticeable in situations characterized by elevated levels of economic and policy uncertainty, weak corporate governance quality, and poor investor protection. These results are robust to endogeneity concerns, alternative measures of interest rates, carbon emission, and alternative samples.

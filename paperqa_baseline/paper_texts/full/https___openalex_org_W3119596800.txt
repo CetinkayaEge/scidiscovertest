@@ -1,0 +1,9 @@
+Title: Around one third of current Arctic Ocean primary production sustained by rivers and coastal erosion
+Authors: Jens Terhaar, Ronny Lauerwald, Pierre Regnier, Nicolas Gruber, Laurent Bopp
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-020-20470-z
+Paper ID: https://openalex.org/W3119596800
+
+Abstract:
+Net primary production (NPP) is the foundation of the oceans' ecosystems and the fisheries they support. In the Arctic Ocean, NPP is controlled by a complex interplay of light and nutrients supplied by upwelling as well as lateral inflows from adjacent oceans and land. But so far, the role of the input from land by rivers and coastal erosion has not been given much attention. Here, by upscaling observations from the six largest rivers and using measured coastal erosion rates, we construct a pan-Arctic, spatio-temporally resolved estimate of the land input of carbon and nutrients to the Arctic Ocean. Using an ocean-biogeochemical model, we estimate that this input fuels 28-51% of the current annual Arctic Ocean NPP. This strong enhancement of NPP is a consequence of efficient recycling of the land-derived nutrients on the vast Arctic shelves. Our results thus suggest that nutrient input from the land is a key process that will affect the future evolution of Arctic Ocean NPP.

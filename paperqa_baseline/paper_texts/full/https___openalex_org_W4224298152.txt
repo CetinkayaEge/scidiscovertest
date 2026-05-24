@@ -1,0 +1,9 @@
+Title: Sustainable closed-loop supply chain with energy efficiency: Lagrangian relaxation, reformulations and heuristics
+Authors: Hamed Soleimani, Prem Chhetri, Amir M. Fathollahi‐Fard, Seyed Mohammad Javad Mirzapour Al-e-Hashem, Shahrooz Shahparvari
+Year: 2022
+Venue: Annals of Operations Research
+DOI: https://doi.org/10.1007/s10479-022-04661-z
+Paper ID: https://openalex.org/W4224298152
+
+Abstract:
+Abstract Research on the development of sustainable supply chain models is highly active nowadays. Merging the concept of supply chain management with sustainable development goals, leads to simultaneous consideration of all economic, environmental and social factors. This paper addresses the design of a sustainable closed-loop supply chain including suppliers, manufacturers, distribution centers, customer zones, and disposal centers considering the consumption of energy. In addition, the distribution centers play the roles of warehouse and collection centers. The problem involves three choices of remanufacturing, recycling, and disposing the returned items. The objectives are including the total profit, energy consumption and the number of created job opportunities. As far as we know, these objectives are rarely considered in a sustainable closed-loop supply chain model. The proposed model also responds to the customer demand and also addresses the real-life constraints for location, allocation and inventory decisions in a closed-loop supply chain framework. Another novelty of this research is to develop a set of efficient Lagrangian relaxation reformulations and fast heuristics for solving a real-world numerical example. The results have revealed that the obtained solution is feasible and the developed solution algorithm is highly efficient for solving supply chain models. Finally, a comprehensive discussion is provided to highlight our findings and managerial insights from our results.

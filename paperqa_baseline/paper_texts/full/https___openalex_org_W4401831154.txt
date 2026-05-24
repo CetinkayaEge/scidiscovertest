@@ -1,0 +1,9 @@
+Title: AI for Sustainable Development: Applications in Natural Resource Management, Agriculture, and Waste Management
+Authors: J. Benton Jones, Edward R. Harris, Yusuf Febriansah, Alfri Adiwijaya, Ihsan Nuril Hikam
+Year: 2024
+Venue: International Transactions on Artificial Intelligence (ITALIC)
+DOI: https://doi.org/10.33050/italic.v2i2.549
+Paper ID: https://openalex.org/W4401831154
+
+Abstract:
+The integration of artificial intelligence (AI) into sustainable development practices holds significant promise for addressing contemporary environmental, economic, and social challenges. This paper explores the application of AI in natural resource management, sustainable agriculture, and waste and energy management. The study employs a mixed-methods approach, combining qualitative analysis of case studies with quantitative data analysis to evaluate the effectiveness of AI technologies. Findings indicate that AI significantly enhances efficiency and effectiveness across various domains, including improved resource monitoring, optimized agricultural practices, and enhanced waste management processes. The results underscore AI's potential in mitigating climate change and promoting biodiversity through advanced predictive models and monitoring systems. This research highlights the critical role of supportive policies and infrastructure in realizing AI's benefits for sustainable development. The study concludes with recommendations for policymakers to foster AI adoption and address challenges such as high initial costs and data privacy concerns.

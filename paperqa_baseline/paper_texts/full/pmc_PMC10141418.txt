@@ -1,0 +1,9 @@
+Title: Passive Recording of Bioelectrical Signals from Non-Excitable Cells by Fluorescent Mirroring
+Authors: Rosalia Moreddu, Alessio Boschi, Marta d’Amora, Aliaksandr Hubarevich, Michele Dipalo, Francesco De Angelis
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c05053
+Paper ID: pmc_PMC10141418
+
+Abstract:
+Bioelectrical variations trigger different cell responses, including migration, mitosis, and mutation. At the tissue level, these actions result in phenomena such as wound healing, proliferation, and pathogenesis. Monitoring these mechanisms dynamically is highly desirable in diagnostics and drug testing. However, existing technologies are invasive: either they require physical access to the intracellular compartments, or they imply direct contact with the cellular medium. Here, we present a novel approach for the passive recording of electrical signals from non-excitable cells adhering to 3D microelectrodes, based on optical mirroring. Preliminary results yielded a fluorescence intensity output increase of the 5,8% in the presence of a HEK-293 cell on the electrode compared to bare microelectrodes. At present, this technology may be employed to evaluate cell–substrate adhesion and monitor cell proliferation. Further refinements could allow extrapolating quantitative data on surface charges and resting potential to investigate the electrical phenomena involved in cell migration and cancer progression.

@@ -1,0 +1,9 @@
+Title: NMDA Receptors in the Lateral Preoptic Hypothalamus Are Essential for Sustaining NREM and REM Sleep
+Authors: Giulia Miracca, Berta Anuncibay‐Soto, Kyoko Tossell, Raquel Yustos, Alexei L. Vyssotski, Nicholas P. Franks, William Wisden
+Year: 2022
+Venue: Journal of Neuroscience
+DOI: https://doi.org/10.1523/jneurosci.0350-21.2022
+Paper ID: https://openalex.org/W4281941124
+
+Abstract:
+Insomnia is a common affliction. Most insomniacs feel that they do not get enough sleep, but in fact, often have good amounts of sleep. Their sleep, however, is fragmented, and sufferers wake up feeling unrefreshed. It is unknown how sleep is maintained once initiated. We find that in mice, NMDA-type glutamate receptors in the hypothalamus are the main drivers of excitation and are required for a range of sleep properties: they are, in fact, needed for both sustained NREM sleep periods, and REM sleep generation. When NMDA receptors are selectively reduced from inhibitory preoptic (PO) neurons, mice have normal total amounts of sleep but high sleep-wake fragmentation, providing a model for studying intractable insomnia.

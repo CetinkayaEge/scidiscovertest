@@ -1,0 +1,9 @@
+Title: Validity and Reliability of Kinvent Plates for Assessing Single Leg Static and Dynamic Balance in the Field
+Authors: Hugo Meras Serrano, Denis Mottet, Kevin Caillaud
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042354
+Paper ID: pmc_PMC9967360
+
+Abstract:
+The objective of this study was to validate PLATES for assessing unipodal balance in the field, for example, to monitor ankle instabilities in athletes or patients. PLATES is a pair of lightweight, connected force platforms that measure only vertical forces. In 14 healthy women, we measured ground reaction forces during Single Leg Balance and Single Leg Landing tests, first under laboratory conditions (with PLATES and with a 6-DOF reference force platform), then during a second test session in the field (with PLATES). We found that for these simple unipodal balance tests, PLATES was reliable in the laboratory and in the field: PLATES gives results comparable with those of a reference force platform with 6-DOF for the key variables in the tests (i.e., Mean Velocity of the Center of Pressure and Time to Stabilization). We conclude that health professionals, physical trainers, and researchers can use PLATES to conduct Single Leg Balance and Single Leg Landing tests in the laboratory and in the field.

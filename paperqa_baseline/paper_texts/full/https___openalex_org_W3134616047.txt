@@ -1,0 +1,9 @@
+Title: Infection sustained by lineage B.1.1.7 of SARS-CoV-2 is characterised by longer persistence and higher viral RNA loads in nasopharyngeal swabs
+Authors: Paolo Calistri, Laura Amato, Ilaria Puglia, Francesca Cito, Alessandra Di Giuseppe, Maria Luisa Danzetta, Daniela Morelli, Marco Di Domenico, M. Caporale, Silvia Scialabba, Ottavio Portanti, Valentina Curini, Fabrizia Perletta, Cesare Cammà, Massimo Ancora, Giovanni Savini, Giacomo Migliorati, Nicola D’Alterio, Alessio Lorusso
+Year: 2021
+Venue: International Journal of Infectious Diseases
+DOI: https://doi.org/10.1016/j.ijid.2021.03.005
+Paper ID: https://openalex.org/W3134616047
+
+Abstract:
+Following the announcement on December 2020 about the emergence of a new variant (VOC 202012/ 01, B.1.1.7 lineage) in the United Kingdom, a targeted surveillance was put in place in the Abruzzo region (Italy), which allowed detection of 313 persons affected by lineage B.1.1.7, up to the 20th of February 2021. We investigated the results of RT-PCR on nasopharyngeal swabs tested from December 2020 to February 2021 to verify any difference on the viral load and persistence between people infected by lineage B.1.1.7 and others. Statistically significant lower values of CT associated with the detection of the N protein encoding gene (CT N) were observed in persons with lineage B.1.1.7 infection (median CT N = 15.8)in comparison to those infected by other lineages (median CT N = 16.9). A significantly longer duration of the persistence of SARS-CoV-2 RNA in nasopharyngeal swabs was observed in persons with lineage B.1.1.7 infection (16 days) in comparison to those infected by other lineages (14 days).

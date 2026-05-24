@@ -1,0 +1,9 @@
+Title: Flexible Fuzzy Goal Programming Approach in Optimal Mix of Power Generation for Socio-Economic Sustainability: A Case Study
+Authors: Mohammad Faisal Khan, Asif Pervez, Umar Muhammad Modibbo, Jahangir Chauhan, Irfan Ali
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158256
+Paper ID: https://openalex.org/W3185748834
+
+Abstract:
+The demand for cost-efficient and clean power energy cannot be overemphasised, especially in a developing nation like India. COVID-19 has adversely affected many nations, power sector inclusive, and resiliency is imperative via flexible and sustainable power generation sources. Renewable energy sources are the primary focus of electricity production in the world. This study examined and assessed the optimal cost system of electricity generation for the socio-economic sustainability of India. A sustainable and flexible electricity generation model is developed using the concept of flexible fuzzy goal programming. This study is carried out with the aim of achieving the government’s intended nationally determined contribution goals of reducing emission levels, increasing the capacity of renewable sources and the must-run status of hydro and nuclear, and technical and financial parameters. The result shows an optimal cost solution and flexibility in how increased electricity demand would be achieved and sustained via shifting to renewable sources such as solar, wind and hydro.

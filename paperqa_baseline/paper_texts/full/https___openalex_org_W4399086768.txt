@@ -1,0 +1,9 @@
+Title: Advancing Livestock Technology: Intelligent Systemization for Enhanced Productivity, Welfare, and Sustainability
+Authors: Petru Alexandru Vlaicu, Mihail Alexandru Gras, Arabela Elena Untea, Nicoleta Aurelia Lefter, Mircea Cãtãlin Rotar
+Year: 2024
+Venue: AgriEngineering
+DOI: https://doi.org/10.3390/agriengineering6020084
+Paper ID: https://openalex.org/W4399086768
+
+Abstract:
+The livestock industry is undergoing significant transformation with the integration of intelligent technologies aimed at enhancing productivity, welfare, and sustainability. This review explores the latest advancements in intelligent systemization (IS), including real-time monitoring, machine learning (ML), and the Internet of Things (IoT), and their impacts on livestock farming. The aim of this study is to provide a comprehensive overview of how these technologies can address industry challenges by improving animal health, optimizing resource use, and promoting sustainable practices. The methods involve an extensive review of the current literature and case studies on intelligent monitoring, data analytics, automation in feeding and climate control, and renewable energy integration. The results indicate that IS enhances livestock well-being through real-time health monitoring and early disease detection, optimizes feeding efficiency, and reduces operational costs through automation. Furthermore, these technologies contribute to environmental sustainability by minimizing waste and reducing the ecological footprint of livestock farming. This study highlights the transformative potential of intelligent technologies in creating a more efficient, humane, and sustainable livestock industry.

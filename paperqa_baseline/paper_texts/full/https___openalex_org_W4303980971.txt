@@ -1,0 +1,9 @@
+Title: Genome Editing for Sustainable Crop Improvement and Mitigation of Biotic and Abiotic Stresses
+Authors: Mohd Fadhli Hamdan, Chou Khai Soong Karlson, Ee Yang Teoh, Su-Ee Lau, Boon Chin Tan
+Year: 2022
+Venue: Plants
+DOI: https://doi.org/10.3390/plants11192625
+Paper ID: https://openalex.org/W4303980971
+
+Abstract:
+Climate change poses a serious threat to global agricultural activity and food production. Plant genome editing technologies have been widely used to develop crop varieties with superior qualities or can tolerate adverse environmental conditions. Unlike conventional breeding techniques (e.g., selective breeding and mutation breeding), modern genome editing tools offer more targeted and specific alterations of the plant genome and could significantly speed up the progress of developing crops with desired traits, such as higher yield and/or stronger resilience to the changing environment. In this review, we discuss the current development and future applications of genome editing technologies in mitigating the impacts of biotic and abiotic stresses on agriculture. We focus specifically on the CRISPR/Cas system, which has been the center of attention in the last few years as a revolutionary genome-editing tool in various species. We also conducted a bibliographic analysis on CRISPR-related papers published from 2012 to 2021 (10 years) to identify trends and potential in the CRISPR/Cas-related plant research. In addition, this review article outlines the current shortcomings and challenges of employing genome editing technologies in agriculture with notes on future prospective. We believe combining conventional and more innovative technologies in agriculture would be the key to optimizing crop improvement beyond the limitations of traditional agricultural practices.

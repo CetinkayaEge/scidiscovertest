@@ -1,0 +1,9 @@
+Title: Aspects of artificial intelligence in future electric vehicle technology for sustainable environmental impact
+Authors: Muhammad Rauf, Laveet Kumar, Saiful A. Zulkifli, Atif Jamil
+Year: 2024
+Venue: Environmental Challenges
+DOI: https://doi.org/10.1016/j.envc.2024.100854
+Paper ID: https://openalex.org/W4391343806
+
+Abstract:
+Global energy trends are experiencing a profound transformation, and the future of transportation will boost sustainable development by controlling energy production and consumption while limiting vehicle emissions. Hence, Electric Vehicles (EVs) can substantially influence energy consumption trends by addressing potential environmental hazards. In the coming decades, Artificial Intelligence (AI) based systems will play a crucial role in future EVs' overall energy management systems. Advanced electric vehicle technology and intelligent modules will lead the automotive powertrain architecture. Numerous barriers, such as government support in certain regions, user compatibility, vehicle limitation, battery technology, and charging infrastructure, limit electric vehicle expansion. Therefore, the current state and emerging trends in this area are a matter of concern for increasing the expansion of electric vehicles. This study presents the existing charging technologies and compatible standards that may assist in its adaptability. It also examines the applications of artificial intelligence in electric vehicle development to render a collectively smarter package for EVs. The current level of development, in accordance with the paper's purpose, is to deduce the adaptability of EVs to certain obstacles. Hence, the categorization of methodologies and standards may be investigated and improved by scholars at a later time.

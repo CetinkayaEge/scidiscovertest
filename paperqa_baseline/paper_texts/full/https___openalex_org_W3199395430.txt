@@ -1,0 +1,9 @@
+Title: Improving the efficiency and sustainability of catalysts for direct arylation polymerization (DArP)
+Authors: Liwei Ye, Barry C. Thompson
+Year: 2021
+Venue: Journal of Polymer Science
+DOI: https://doi.org/10.1002/pol.20210524
+Paper ID: https://openalex.org/W3199395430
+
+Abstract:
+Abstract In the past decade, direct arylation polymerization (DArP) has rapidly developed as a sustainable synthetic protocol for cost‐effective, atom‐economical preparation of conjugated polymers. By circumventing monomer functionalization with toxic transmetallating reagents such as organostannane and organoboron required for Stille‐Migita and Suzuki‐Miyaura polymerization methods, DArP proceeds through a metal‐catalyzed CH activation pathway for the preparation of high‐performance conjugated polymer materials. This review evaluates the development of several classes of efficient catalysts/catalytic systems from small‐molecule studies to polymerizations, including the mechanisms involved in these transformations and how they inspire catalyst and monomer design for defect‐free conjugated polymer synthesis. Recent advances in developing more sustainable first‐row transition metal catalysts for DArP are also highlighted, and the fundamental understanding of these efficient and sustainable catalysts should motivate the pursuit for the next generation of catalytic design to enable more effective and environmentally friendly conjugated polymer synthesis.

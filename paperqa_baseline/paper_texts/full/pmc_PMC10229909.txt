@@ -1,0 +1,9 @@
+Title: Adoption, implementation, definitions, and future of blockchain technology in ophthalmology
+Authors: Bharat Gurnani, Kirandeep Kaur, Arvind Kumar Morya
+Year: 2023
+Venue: Indian Journal of Ophthalmology
+DOI: 10.4103/ijo.IJO_1802_22
+Paper ID: pmc_PMC10229909
+
+Abstract:
+In this era of cutting-edge research and digitalization, artificial intelligence (AI) has rapidly penetrated all subspecialties, including ophthalmology. Managing AI data and analytics is cumbersome, and implementing blockchain technology has made this task less challenging. Blockchain technology is an advanced mechanism with a robust database that allows the unambiguous sharing of widespread information within a business model or network. The data is stored in blocks that are linked together in chains. Since its inception in 2008, blockchain technology has grown over the years, and its novel use in ophthalmology has been less well documented. This section on current ophthalmology discusses the novel use and future of blockchain technology for intraocular lens power calculation and refractive surgery workup, ophthalmic genetics, payment methods, international data documentation, retinal images, global myopia pandemic, virtual pharmacy, and drug compliance and treatment. The authors have also provided valuable insights into various terminologies and definitions used in blockchain technology.

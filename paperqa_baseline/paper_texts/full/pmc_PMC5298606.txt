@@ -1,0 +1,9 @@
+Title: Real-Time Multi-Target Localization from Unmanned Aerial Vehicles
+Authors: Xuan Wang, Jinghong Liu, Qianfei Zhou
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010033
+Paper ID: pmc_PMC5298606
+
+Abstract:
+In order to improve the reconnaissance efficiency of unmanned aerial vehicle (UAV) electro-optical stabilized imaging systems, a real-time multi-target localization scheme based on an UAV electro-optical stabilized imaging system is proposed. First, a target location model is studied. Then, the geodetic coordinates of multi-targets are calculated using the homogeneous coordinate transformation. On the basis of this, two methods which can improve the accuracy of the multi-target localization are proposed: (1) the real-time zoom lens distortion correction method; (2) a recursive least squares (RLS) filtering method based on UAV dead reckoning. The multi-target localization error model is established using Monte Carlo theory. In an actual flight, the UAV flight altitude is 1140 m. The multi-target localization results are within the range of allowable error. After we use a lens distortion correction method in a single image, the circular error probability (CEP) of the multi-target localization is reduced by 7%, and 50 targets can be located at the same time. The RLS algorithm can adaptively estimate the location data based on multiple images. Compared with multi-target localization based on a single image, CEP of the multi-target localization using RLS is reduced by 25%. The proposed method can be implemented on a small circuit board to operate in real time. This research is expected to significantly benefit small UAVs which need multi-target geo-location functions.

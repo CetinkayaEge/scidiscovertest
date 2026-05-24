@@ -1,0 +1,9 @@
+Title: A systematic review of IoT technologies and their constituents for smart and sustainable agriculture applications
+Authors: Vivek Ramakant Pathmudi, Narendra Khatri, Sandeep Kumar, Antar Shaddad H. Abdul-Qawy, Ajay Kumar Vyas
+Year: 2023
+Venue: Scientific African
+DOI: https://doi.org/10.1016/j.sciaf.2023.e01577
+Paper ID: https://openalex.org/W4319066470
+
+Abstract:
+Due to the world's rapid population expansion, the demand for food is anticipated to increase significantly during the coming decade. Traditional farming practices cannot meet the need for the food crop. Conventional farming methods use resources like land, water, herbicides, and fertilisers rather inefficiently. When it comes to making the most effective and sustainable use of resources to increase production, automation in agriculture is garnering a lot of interest. How people and machines operate on farms has been changed by integrating the Internet of Things (IoT) with numerous sensors, controllers, and communication protocols. A comprehensive literature review of the key technologies involved in smart and sustainable agriculture, viz. various sensors, controllers, communication standards, IoT based intelligent machinery, were compared and presented. These sensors were continuously producing a significant quantity of data on the agricultural field. These data were transmitted to the central control unit for analysis to meet the demands for water, fertiliser, pesticides, etc. The architecture and importance of data analytics in agriculture IoT, case studies of current agricultural automation utilising IoT, key challenges and open issues in agriculture IoT technology were discussed. The findings provide support for the selection of IoT technologies for specific applications.

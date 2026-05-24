@@ -1,0 +1,9 @@
+Title: A step towards a sustainable environment in top-10 nuclear energy consumer countries: The role of financial globalization and nuclear energy
+Authors: Mumtaz Ali, Ahmed Samour, Suhaib Ahmed Soomro, Waqar Khalid, Turgut Türsoy
+Year: 2024
+Venue: Nuclear Engineering and Technology
+DOI: https://doi.org/10.1016/j.net.2024.08.011
+Paper ID: https://openalex.org/W4401358624
+
+Abstract:
+Nuclear energy is considered an effective means of enhancing environmental sustainability. Considering this point, this study aims to explore the impact of nuclear energy, financial globalization, technological innovation, and economic growth on ecological sustainability in the top-10 nuclear energy-consuming economies from 1995 to 2020. The load capacity factor is used as a novel proxy for ecological sustainability, explaining how human actions affect ecological sustainability and how nature compensates for human-induced damage. The study employs a novel non-parametric MMQR approach to obtain coefficients across heterogeneous quantiles. The MMQR estimation findings indicate that: (i) nuclear and renewable energy consumption and financial globalization promote environmental sustainability by increasing the LCF; (ii) economic growth degrades ecological sustainability by decreasing the LCF; and (iii) the results from Granger causality suggest a causal link among economic growth, technological innovation, nuclear energy, and LCF. The study recommends that the governments of the top-10 nuclear energy-consuming countries facilitate more investment in green technologies and green energy to achieve environmental sustainability.

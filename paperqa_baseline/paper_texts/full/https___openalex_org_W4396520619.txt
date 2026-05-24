@@ -1,0 +1,9 @@
+Title: Towards sustainable agriculture: Harnessing AI for global food security
+Authors: Dhananjay K. Pandey, Richa Mishra
+Year: 2024
+Venue: Artificial Intelligence in Agriculture
+DOI: https://doi.org/10.1016/j.aiia.2024.04.003
+Paper ID: https://openalex.org/W4396520619
+
+Abstract:
+The issue of food security continues to be a prominent global concern, affecting a significant number of individuals who experience the adverse effects of hunger and malnutrition. The finding of a solution of this intricate issue necessitates the implementation of novel and paradigm-shifting methodologies in agriculture and food sector. In recent times, the domain of artificial intelligence (AI) has emerged as a potent tool capable of instigating a profound influence on the agriculture and food sectors. AI technologies provide significant advantages by optimizing crop cultivation practices, enabling the use of predictive modelling and precision agriculture techniques, and aiding efficient crop monitoring and disease identification. Additionally, AI has the potential to optimize supply chain operations, storage management, transportation systems, and quality assurance processes. It also tackles the problem of food loss and waste through post-harvest loss reduction, predictive analytics, and smart inventory management. This study highlights that how by utilizing the power of AI, we could transform the way we produce, distribute, and manage food, ultimately creating a more secure and sustainable future for all.

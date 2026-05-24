@@ -1,0 +1,9 @@
+Title: Analysis of the Impact of Economic Policy Uncertainty on Environmental Sustainability in Developed and Developing Economies
+Authors: Huafang Huang, Sharafat Ali, Yasir Ahmed Solangi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15075860
+Paper ID: https://openalex.org/W4361218544
+
+Abstract:
+The literature on the impact of policy uncertainty on climate change has grown rapidly in recent years as policymakers and researchers have become increasingly concerned about the potential adverse effects of policy uncertainty on environmental sustainability. This study aims to investigate the impact of economic policy uncertainty (EPU), GDP per capita, renewable energy consumption (REC), and foreign direct investment (FDI) on environmental sustainability from the perspectives of the environmental Kuznets curve (EKC) and pollution halo/haven hypotheses. The research employs panel data analysis techniques, including panel corrected standard errors (PCSE) and generalized least squares (GLS), to analyze the data from a panel of 19 developed and developing countries from 2001 to 2019. The results reveal that EPU, GDP per capita, REC, and FDI significantly impact GHG emissions, contributing to climate change. The results of the study confirm a U-shaped EKC and pollution haven hypothesis in the selected economies. The findings of this study provide valuable insights for policymakers, as they highlight the need to consider the interplay between economic growth, foreign investment, and environmental policy in addressing climate change. The results also suggest that reducing policy uncertainty and promoting sustainable economic growth can mitigate the effects of climate change and ensure environmental sustainability.

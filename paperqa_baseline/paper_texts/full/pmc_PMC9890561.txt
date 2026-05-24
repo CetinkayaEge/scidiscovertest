@@ -1,0 +1,9 @@
+Title: Ultra-thin membrane filter with a uniformly arrayed nanopore structure for nanoscale separation of extracellular vesicles without cake formation †
+Authors: Daesan Kim, Jaehyuk Lee, Boyoung Kim, Yujin Shin, Jinhong Park, Uijoo Kim, Minbaek Lee, Sang Bum Kim, Sunghoon Kim
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00227b
+Paper ID: pmc_PMC9890561
+
+Abstract:
+Extracellular vesicles (EVs) have emerged as vehicles that mediate diverse cell–cell communication. However, in-depth understanding of these vesicles is hampered by a lack of a reliable isolation method to separate different types of EVs with high levels of integrity and purity. Here, we developed a nanoporous and ultra-thin membrane structure (NUTS) that warrants the size-based isolation of EVs without cake formation, minimizing the sample loss during the filtration process. By utilizing the micro-electro-mechanical systems (MEMS) technique, we could also control the pore size in nanoscale. We validated the performance of this membrane to separate EVs according to their size range. We achieved filtration of an extracellular vesicle (EV) enrichment sample using a nanoporous and ultra-thin membrane structure (NUTS). It allows precise control of the pore size of the membrane via MEMS, enabling accurate size-based isolation.

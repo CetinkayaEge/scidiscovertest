@@ -1,0 +1,9 @@
+Title: Radiative cooling for energy sustainability: Materials, systems, and applications
+Authors: Lyu Zhou, Jacob Rada, Yanpei Tian, Yu Han, Zhiping Lai, Matthew F. McCabe, Qiaoqiang Gan
+Year: 2022
+Venue: Physical Review Materials
+DOI: https://doi.org/10.1103/physrevmaterials.6.090201
+Paper ID: https://openalex.org/W4296783799
+
+Abstract:
+Radiative cooling is a passive cooling technique that can send thermal energy into the frigid outer space. Recent research has demonstrated that it is possible to achieve an electricity-free subambient cooling effect during the daytime, which is attracting emerging interest within the field of energy sustainability. Here the authors provide a review of the state-of-art research in this topic. The fundamental principles and the general criteria of radiative cooling are discussed. Additionally, the research progress in developing high performance radiative cooling materials, system design, and applications is also summarized, providing the most up-to-date perspective on this active research area.

@@ -1,0 +1,9 @@
+Title: Time-varying tail risk connectedness among sustainability-related products and fossil energy investments
+Authors: Brian M. Lucey, Boru Ren
+Year: 2023
+Venue: Energy Economics
+DOI: https://doi.org/10.1016/j.eneco.2023.106812
+Paper ID: https://openalex.org/W4384563118
+
+Abstract:
+In this paper, we analyse the dynamic transmission of tail risk across a set of well-established sustainability-related financial indices & equities and energy assets using a novel CAViaR-TVP-VAR connectedness measure on daily data from 14 October 2014 to 31 August 2022. Findings suggest that the total risk connectedness is at medium level and the short-run effect of COVID-19 on the risk transmission was mild. Furthermore, ESG and green equities are persistent net risk transmitters, while green bond, carbon asset, and energy commodities are tail risk takers. The role of renewable energy stocks is inconclusive due to distinct time-varying characteristics. With reference to pairwise relationship, we show that sustainability equities strongly interact with crude oil futures and fossil energy equities. Furthermore, green bond, carbon, natural gas and coal futures weakly associate with the remaining assets in the system. Finally, we find that EPU, OVX, VIX, GPR, and the spread of US Tresuary have asymmetric impact on the spillovers. Altogether, our results offer insightful implications for policymakers and especially for “green” and “brown” products investors in risk diversification from the VaR perspective.

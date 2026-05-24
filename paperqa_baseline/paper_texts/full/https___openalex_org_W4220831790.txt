@@ -1,0 +1,9 @@
+Title: Optimization Model for Sustainable End-of-Life Vehicle Processing and Recycling
+Authors: Shimaa Al-Quradaghi, Qipeng P. Zheng, Alberto Betancourt‐Torcat, Ali Elkamel
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14063551
+Paper ID: https://openalex.org/W4220831790
+
+Abstract:
+The aim of this paper is to provide a mathematical programming model for sustainable end-of-life vehicle processing and recycling. Environmental benefits and resource efficiency are achieved through the incorporation of a processing and recycling network that is based on industrial symbiosis whereby waste materials are converted into positive environmental externalities aimed at decreasing pollution and reducing the need for raw materials. A mixed-integer programming model for optimizing the exchange of material flows in the network is developed and applied on a real case study. The model selects the components that maximize reusable/recyclable material output while minimizing network costs. In addition, GHG emissions are calculated to assess the environmental benefits of the network. The model finds the optimal processing routes while maximizing the yield of the components of interest, maximizing profit, minimizing cost, or minimizing waste depending on which goals are chosen. The results are analyzed to provide insights about the network and the utility of the proposed methodology to improve sustainability of end-of-life vehicle recycling.

@@ -1,0 +1,9 @@
+Title: Ultrafast measurement of laser-induced shock waves
+Authors: Žiga Lokar, Darja Horvat, Jaka Petelin, Rok Petkovšek
+Year: 2023
+Venue: Photoacoustics
+DOI: 10.1016/j.pacs.2023.100465
+Paper ID: pmc_PMC9974415
+
+Abstract:
+We present measurements of laser-induced shockwave pressure rise time in liquids on a sub-nanosecond scale, using custom-designed single-mode fiber optic hydrophone. The measurements are aimed at the study of the shockwave generation process, helping to improve the effectiveness of various applications and decrease possible accidental damage from shockwaves. The developed method allows measurement of the fast shockwave rise time as close as 10 µm from an 8 µm sized laser-induced plasma shockwave source, significantly improving the spatial and temporal resolution of the pressure measurement over other types of hydrophones. The spatial and temporal limitations of the presented hydrophone measurements are investigated theoretically, with actual experimental results agreeing well with the predictions. To demonstrate the capabilities of the fast sensor, we were able to show that the shockwave rise time is linked to liquid viscosity exhibiting logarithmic dependency in the low viscosity regime (from 0.4 cSt to 50 cSt). Additionally, the shockwave rise time dependency on propagation distance close to the source in water was investigated, with shock wave rise times measured down to only 150 ps. It was found that at short propagation distances in water halving the shock wave peak pressure results in the rise time increase by approximately factor of 1.6. These results extend the understanding of shockwave behavior in low viscosity liquids.

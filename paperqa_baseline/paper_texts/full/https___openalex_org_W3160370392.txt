@@ -1,0 +1,9 @@
+Title: Polymer-free corticosteroid dimer implants for controlled and sustained drug delivery
+Authors: Kyle G. Battiston, Ian Parrag, Matthew Statham, Dimitra Louka, Hans Fischer, Gillian Mackey, Adam B. Daley, Fan Gu, Emily Baldwin, Bingqing Yang, Ben B Muirhead, Emily Anne Hicks, Heather Sheardown, Leonid Kalachev, Christopher Crean, Jeffrey L. Edelman, J. Paul Santerre, Wendy Naimark
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-23232-7
+Paper ID: https://openalex.org/W3160370392
+
+Abstract:
+Polymeric drug carriers are widely used for providing temporal and/or spatial control of drug delivery, with corticosteroids being one class of drugs that have benefitted from their use for the treatment of inflammatory-mediated conditions. However, these polymer-based systems often have limited drug-loading capacity, suboptimal release kinetics, and/or promote adverse inflammatory responses. This manuscript investigates and describes a strategy for achieving controlled delivery of corticosteroids, based on a discovery that low molecular weight corticosteroid dimers can be processed into drug delivery implant materials using a broad range of established fabrication methods, without the use of polymers or excipients. These implants undergo surface erosion, achieving tightly controlled and reproducible drug release kinetics in vitro. As an example, when used as ocular implants in rats, a dexamethasone dimer implant is shown to effectively inhibit inflammation induced by lipopolysaccharide. In a rabbit model, dexamethasone dimer intravitreal implants demonstrate predictable pharmacokinetics and significantly extend drug release duration and efficacy (>6 months) compared to a leading commercial polymeric dexamethasone-releasing implant.

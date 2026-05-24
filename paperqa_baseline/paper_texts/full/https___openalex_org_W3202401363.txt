@@ -1,0 +1,9 @@
+Title: Towards Sustainable Energy Consumption Evaluation in Europe for Industrial Sector Based on MCDA Methods
+Authors: Aleksandra Bączkiewicz, Bartłomiej Kizielewicz
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.08.137
+Paper ID: https://openalex.org/W3202401363
+
+Abstract:
+This paper presents a new approach to evaluate sustainable energy consumption in selected European countries for the industrial sector and to identify which country is leading in this respect. Energy consumption has been on a continuously rising trend due to industrial development, migration of people from rural to urban areas and growing energy demand in the service sector. Therefore, it is essential to increase the share of renewable sources in energy consumption because it allows reducing the share of non-renewable sources, which significantly contribute to carbon dioxide emissions to the atmosphere. The assessment of the effectiveness of actions taken to improve the sustainability of energy consumption requires the consideration of many different criteria. The practical usefulness of multi-criteria decision analysis (MCDA) methods in this task has been proven in the literature. The structure of the model evaluated was based on criteria made available by the European Statistical Office (EUROSTAT). The study was conducted using four MCDA methods (TOPSIS, VIKOR, COMET and PROMETHEE II). The results obtained proved the usefulness and adequacy of the selected MCDA methods in assessing the problem in question. It was possible to clearly identify the country with the most sustainable energy consumption in terms of the established principles.

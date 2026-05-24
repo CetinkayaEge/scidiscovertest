@@ -1,0 +1,9 @@
+Title: Horticulture 4.0: Adoption of Industry 4.0 Technologies in Horticulture for Meeting Sustainable Farming
+Authors: Rajat Singh, Rajesh Singh, Anita Gehlot, Shaik Vaseem Akram, Neeraj Priyadarshi, Bhekisipho Twala
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app122412557
+Paper ID: https://openalex.org/W4311077049
+
+Abstract:
+The United Nations emphasized a significant agenda on reducing hunger and protein malnutrition as well as micronutrient (vitamins and minerals) malnutrition, which is estimated to affect the health of up to two billion people. The UN also recognized this need through Sustainable Development Goals (SDG 2 and SDG 12) to end hunger and foster sustainable agriculture by enhancing the production and consumption of fruits and vegetables. Previous studies only stressed the various issues in horticulture with regard to industries, but they did not emphasize the centrality of Industry 4.0 technologies for confronting the diverse issues in horticulture, from production to marketing in the context of sustainability. The current study addresses the significance and application of Industry 4.0 technologies such as the Internet of Things, cloud computing, artificial intelligence, blockchain, and big data for horticulture in enhancing traditional practices for disease detection, irrigation management, fertilizer management, maturity identification, marketing, and supply chain, soil fertility, and weather patterns at pre-harvest, harvest, and post-harvest. On the basis of analysis, the article identifies challenges and suggests a few vital recommendations for future work. In horticulture settings, robotics, drones with vision technology and AI for the detection of pests, weeds, plant diseases, and malnutrition, and edge-computing portable devices that can be developed with IoT and AI for predicting and estimating crop diseases are vital recommendations suggested in the study.

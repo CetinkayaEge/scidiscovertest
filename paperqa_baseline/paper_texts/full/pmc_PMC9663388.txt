@@ -1,0 +1,9 @@
+Title: The mitigating effect of masks on the spread of Covid-19 ☆
+Authors: Daniel Cooper, Vaishali Garga, María José Luengo-Prado, Jenny Tang
+Year: 2023
+Venue: Economics and Human Biology
+DOI: 10.1016/j.ehb.2022.101195
+Paper ID: pmc_PMC9663388
+
+Abstract:
+We use US state-level data from early in the pandemic —March 15, 2020 to November 15, 2020— to estimate the effects of mask mandates and compliance with mandates on Covid-19 cases and deaths, conditional on mobility. A one-standard-deviation increase in mobility is associated with a 6 to 20 percent increase in the cases growth rate; a mask mandate can offset about one third of this increase with our most conservative estimates. Also, mask mandates are more effective in states with higher compliance. Given realized mobility, our estimates imply that total infections in the US on November 15, 2020 would have been 23.7 to 30.4 percent lower if a national mask mandate had been enacted on May 15, 2020. This reduction in cases translates to a 25 to 35 percent smaller decline in aggregate hours worked over the same period relative to a 2019 baseline.

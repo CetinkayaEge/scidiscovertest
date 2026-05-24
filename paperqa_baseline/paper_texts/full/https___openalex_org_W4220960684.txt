@@ -1,0 +1,9 @@
+Title: State Estimators in Soft Sensing and Sensor Fusion for Sustainable Manufacturing
+Authors: Marion McAfee, Mandana Kariminejad, Albert Weinert, Saif Huq, J.D. Stigter, David Tormey
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14063635
+Paper ID: https://openalex.org/W4220960684
+
+Abstract:
+State estimators, including observers and Bayesian filters, are a class of model-based algorithms for estimating variables in a dynamical system given the sensor measurements of related system states. They can be used to derive fast and accurate estimates of system variables that cannot be measured directly (‘soft sensing’) or for which only noisy, intermittent, delayed, indirect, or unreliable measurements are available, perhaps from multiple sources (‘sensor fusion’). In this paper, we introduce the concepts and main methods of state estimation and review recent applications in improving the sustainability of manufacturing processes across sectors including industrial robotics, material synthesis and processing, semiconductor, and additive manufacturing. It is shown that state estimation algorithms can play a key role in manufacturing systems for accurately monitoring and controlling processes to improve efficiencies, lower environmental impact, enhance product quality, improve the feasibility of processing more sustainable raw materials, and ensure safer working environments for humans. We discuss current and emerging trends in using state estimation as a framework for combining physical knowledge with other sources of data for monitoring and controlling distributed manufacturing systems.

@@ -1,0 +1,9 @@
+Title: Structural basis for reduced ribosomal A-site fidelity in response to P-site codon–anticodon mismatches
+Authors: Ha An Nguyen, Eric D. Hoffer, Crystal E. Fagan, Tatsuya Maehigashi, Christine M. Dunham
+Year: 2023
+Venue: The Journal of Biological Chemistry
+DOI: 10.1016/j.jbc.2023.104608
+Paper ID: pmc_PMC10140155
+
+Abstract:
+Rapid and accurate translation is essential in all organisms to produce properly folded and functional proteins. mRNA codons that define the protein-coding sequences are decoded by tRNAs on the ribosome in the aminoacyl (A) binding site. The mRNA codon and the tRNA anticodon interaction is extensively monitored by the ribosome to ensure accuracy in tRNA selection. While other polymerases that synthesize DNA and RNA can correct for misincorporations, the ribosome is unable to correct mistakes. Instead, when a misincorporation occurs, the mismatched tRNA–mRNA pair moves to the peptidyl (P) site and, from this location, causes a reduction in the fidelity at the A site, triggering post-peptidyl transfer quality control. This reduced fidelity allows for additional incorrect tRNAs to be accepted and for release factor 2 (RF2) to recognize sense codons, leading to hydrolysis of the aberrant peptide. Here, we present crystal structures of the ribosome containing a tRNA Lys in the P site with a U•U mismatch with the mRNA codon. We find that when the mismatch occurs in the second position of the P-site codon–anticodon interaction, the first nucleotide of the A-site codon flips from the mRNA path to engage highly conserved 16S rRNA nucleotide A1493 in the decoding center. We propose that this mRNA nucleotide mispositioning leads to reduced fidelity at the A site. Further, this state may provide an opportunity for RF2 to initiate premature termination before erroneous nascent chains disrupt the cellular proteome.

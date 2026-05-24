@@ -1,0 +1,9 @@
+Title: AI in Context and the Sustainable Development Goals: Factoring in the Unsustainability of the Sociotechnical System
+Authors: Henrik Skaug Sætra
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041738
+Paper ID: https://openalex.org/W3126217793
+
+Abstract:
+Artificial intelligence (AI) is associated with both positive and negative impacts on both people and planet, and much attention is currently devoted to analyzing and evaluating these impacts. In 2015, the UN set 17 Sustainable Development Goals (SDGs), consisting of environmental, social, and economic goals. This article shows how the SDGs provide a novel and useful framework for analyzing and categorizing the benefits and harms of AI. AI is here considered in context as part of a sociotechnical system consisting of larger structures and economic and political systems, rather than as a simple tool that can be analyzed in isolation. This article distinguishes between direct and indirect effects of AI and divides the SDGs into five groups based on the kinds of impact AI has on them. While AI has great positive potential, it is also intimately linked to nonuniversal access to increasingly large data sets and the computing infrastructure required to make use of them. As a handful of nations and companies control the development and application of AI, this raises important questions regarding the potential negative implications of AI on the SDGs. The conceptual framework here presented helps structure the analysis of which of the SDGs AI might be useful in attaining and which goals are threatened by the increased use of AI.

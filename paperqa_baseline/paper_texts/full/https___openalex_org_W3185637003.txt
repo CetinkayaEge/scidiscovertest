@@ -1,0 +1,9 @@
+Title: Energy Sustainability–Survey on Technology and Control of Microgrid, Smart Grid and Virtual Power Plant
+Authors: Riaz Ullah Khan, Naimul Islam, Sajal K. Das, S. M. Muyeen, Sumaya Ishrat Moyeen, Md. Firoz Ali, Zinat Tasneem, Md. Robiul Islam, Dip Kumar Saha, Md. Faisal R. Badal, Md. Hafiz Ahamed, Kuaanan Techato
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3099941
+Paper ID: https://openalex.org/W3185637003
+
+Abstract:
+The idea of microgrid, smart grid, and virtual power plant (VPP) is being developed to resolve the challenges of climate change in the 21st century, to ensure the use of renewable energy in the electrical grid. For the increasing demand for electricity, raising public consciousness about reducing carbon emission, the microgrid is established which is transformed into a virtual power plant (VPP) or a smart grid with the blessing of modern communication systems, intelligence technology, and smart devices. So, to keep these systems up-to-date and to ensure security, it is important to know the details about the uses and benefits of these systems in the developed world and also to improve control methods and automation, it is important to achieve the present essence of such systems. This paper is focused to contribute to this flourishing area of energy sustainability covering microgrid, smart grid, and virtual power plant by compiling and recapping their recent advancements, technical requirements, control problems, and solutions. The paper is mainly intended to address the role of control strategies applied to the microgrid, smart grid, and virtual power plant towards future energy generation, distribution, management, and security.

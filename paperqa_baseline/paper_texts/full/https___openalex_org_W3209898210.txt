@@ -1,0 +1,9 @@
+Title: Groundwater potentiality mapping using ensemble machine learning algorithms for sustainable groundwater management
+Authors: Showmitra Kumar Sarkar, Swapan Talukdar, Atiqur Rahman, Shahfahad, Sujit Kumar Roy
+Year: 2021
+Venue: Frontiers in Engineering and Built Environment
+DOI: https://doi.org/10.1108/febe-09-2021-0044
+Paper ID: https://openalex.org/W3209898210
+
+Abstract:
+Purpose The present study aims to construct ensemble machine learning (EML) algorithms for groundwater potentiality mapping (GPM) in the Teesta River basin of Bangladesh, including random forest (RF) and random subspace (RSS). Design/methodology/approach The RF and RSS models have been implemented for integrating 14 selected groundwater condition parametres with groundwater inventories for generating GPMs. The GPM were then validated using the empirical and bionormal receiver operating characteristics (ROC) curve. Findings The very high (831–1200 km2) and high groundwater potential areas (521–680 km2) were predicted using EML algorithms. The RSS (AUC-0.892) model outperformed RF model based on ROC's area under curve (AUC). Originality/value Two new EML models have been constructed for GPM. These findings will aid in proposing sustainable water resource management plans.

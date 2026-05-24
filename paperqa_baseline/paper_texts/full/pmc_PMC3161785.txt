@@ -1,0 +1,9 @@
+Title: Nuclear Factor-κB–Dependent Epithelial to Mesenchymal Transition Induced by HIF-1α Activation in Pancreatic Cancer Cells under Hypoxic Conditions
+Authors: Zhuo-Xin Cheng, Bei Sun, Shuang-Jia Wang, Yue Gao, Ying-Mei Zhang, Hao-Xin Zhou, Guang Jia, Yong-Wei Wang, Rui Kong, Shang-Ha Pan, Dong-Bo Xue, Hong-Chi Jiang, Xue-Wei Bai
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023752
+Paper ID: pmc_PMC3161785
+
+Abstract:
+Background Epithelial to mesenchymal transition (EMT) induced by hypoxia is one of the critical causes of treatment failure in different types of human cancers. NF-κB is closely involved in the progression of EMT. Compared with HIF-1α, the correlation between NF-κB and EMT during hypoxia has been less studied, and although the phenomenon was observed in the past, the molecular mechanisms involved remained unclear. Methodology/Principal Findings Here, we report that hypoxia or overexpression of hypoxia-inducible factor-1α (HIF-1α) promotes EMT in pancreatic cancer cells. On molecular or pharmacologic inhibition of NF-κB, hypoxic cells regained expression of E-cadherin, lost expression of N-cadherin, and attenuated their highly invasive and drug-resistant phenotype. Introducing a pcDNA3.0/HIF-1α into pancreatic cancer cells under normoxic conditions heightened NF-κB activity, phenocopying EMT effects produced by hypoxia. Conversely, inhibiting the heightened NF-κB activity in this setting attenuated the EMT phenotype. Conclusions/Significance These results suggest that hypoxia or overexpression of HIF-1α induces the EMT that is largely dependent on NF-κB in pancreatic cancer cells.

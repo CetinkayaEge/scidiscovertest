@@ -1,0 +1,9 @@
+Title: Modeling the spread of the Zika virus by sexual and mosquito transmission
+Authors: Saitel Agudelo, Mario Ventresca
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0270127
+Paper ID: pmc_PMC9803243
+
+Abstract:
+Zika Virus (ZIKV) is a flavivirus that is transmitted predominantly by the Aedes species of mosquito, but also through sexual contact, blood transfusions, and congenitally from mother to child. Although approximately 80% of ZIKV infections are asymptomatic and typical symptoms are mild, multiple studies have demonstrated a causal link between ZIKV and severe diseases such as Microcephaly and Guillain Barré Syndrome. Two goals of this study are to improve ZIKV models by considering the spread dynamics of ZIKV as both a vector-borne and sexually transmitted disease, and also to approximate the degree of under-reporting. In order to accomplish these objectives, we propose a compartmental model that allows for the analysis of spread dynamics as both a vector-borne and sexually transmitted disease, and fit it to the ZIKV incidence reported to the National System of Public Health Surveillance in 27 municipalities of Colombia between January 1 2015 and December 31 2017. We demonstrate that our model can represent the infection patterns over this time period with high confidence. In addition, we argue that the degree of under-reporting is also well estimated. Using the model we assess potential viability of public health scenarios for mitigating disease spread and find that targeting the sexual pathway alone has negligible impact on overall spread, but if the proportion of risky sexual behavior increases then it may become important. Targeting mosquitoes remains the best approach of those considered. These results may be useful for public health organizations and governments to construct and implement suitable health policies and reduce the impact of the Zika outbreaks.

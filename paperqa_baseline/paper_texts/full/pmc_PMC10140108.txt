@@ -1,0 +1,9 @@
+Title: Apparent diffusion coefficients of 31P metabolites in the human calf muscle at 7 T
+Authors: Zhiwei Huang, Giulio Gambarota, Ying Xiao, Daniel Wenz, Lijing Xin
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01065-3
+Paper ID: pmc_PMC10140108
+
+Abstract:
+Purpose In this study, we aimed to measure the apparent diffusion coefficients (ADCs) of major phosphorous metabolites in the human calf muscle at 7 T with a diffusion-weighted (DW)-STEAM sequence. Methods A DW-STEAM sequence with bipolar gradients was implemented at 7 T, and DW MR spectra were acquired in three orthogonal directions in the human calf muscle of six healthy volunteers (TE/TM/TR = 15 ms/750 ms/5 s) at three b -values (0, 800, and 1200 s/mm 2 ). Frequency and phase alignments were applied prior to spectral averaging. Averaged DW MR spectra were analyzed with LCModel, and ADCs of 31 P metabolites were estimated. Results Four metabolites ( phosphocreatine (PCr), adenosine triphosphate (ATP), inorganic phosphate (Pi) and glycerol phosphorylcholine (GPC) ) were quantified at all b -values with mean CRLBs below 10%. The ADC values of PCr, ATP, Pi, and GPC were (0.24 ± 0.02, 0.15 ± 0.04, 0.43 ± 0.14, 0.40 ± 0.09) × 10 –3 mm 2 /s, respectively. Conclusion The ADCs of four 31 P metabolites were successfully measured in the human calf muscle at 7 T, among which those of ATP, Pi and GPC were reported for the first time in humans. This study paves the way to investigate 31 P metabolite diffusion properties in health and disease on the clinical MR scanner. Supplementary Information The online version contains supplementary material available at 10.1007/s10334-023-01065-3.

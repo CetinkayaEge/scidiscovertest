@@ -1,0 +1,9 @@
+Title: Exploring the Role of Fossil Fuels and Renewable Energy in Determining Environmental Sustainability: Evidence from OECD Countries
+Authors: Haitao Hou, Wei Lu, Bing Liu, Zeina Hassanein, Hamid Mahmood, Samia Khalid
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15032048
+Paper ID: https://openalex.org/W4317811447
+
+Abstract:
+Global warming has become a major concern for countries around the world. In this context, developed countries have decided to reduce global emissions to achieve sustainable development. The energy mix of OECD countries consists of 80% fossil fuels and accounts for about 35% of worldwide carbon emissions. Therefore, it is important to analyze how environmental factors affect carbon emissions in OECD countries. This study uses fossil energy, renewable energy (RE), and GDP for the period 1990–2019. Unlike previous studies, we will estimate two separate models for FFE and RE. To evaluate the empirical results, advanced panel data estimation methods using the cointegration test and the CS-ARDL estimation technique are employed to examine the long-run relationship between the variables. The results of the study demonstrate that fossil fuel use and GDP increase carbon emissions both in the short and long term. However, the use of RE hurts carbon emissions and is associated with sustainable development in OECD countries. Therefore, it is assumed that although fossil fuel use degrades the environment, economic growth helps it by reducing carbon emissions. Overall, our study shows that the use of RE is essential for OECD countries to achieve their environmental sustainability goals because it reduces the share of fossil fuels in the overall energy mix. Furthermore, in order to achieve a sustainable environment, OECD countries are recommended to begin long-term planning to reduce carbon emissions.

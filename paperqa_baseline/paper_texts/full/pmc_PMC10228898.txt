@@ -1,0 +1,9 @@
+Title: Privacy and the acceptance of centralized digital currencies in the U.S., India and Germany
+Authors: Guido Mehlkop, Robert Neumann, Hagen von Hermanni
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35905-y
+Paper ID: pmc_PMC10228898
+
+Abstract:
+National governments around the world increasingly acknowledge the possibility of introducing new digital forms of money and implementing policies that trigger their adoption. Knowledge about the acceptance of such measures, however, is rather limited. Next to the regulatory uncertainty about the impact of a Central Bank Digital Currency (CBDC) on competition, on financial stability and questions on the integrity and technical implementations of a CBDC, recent announcements of the joint venture of e.g. the European Central Bank with a large and globally operating private company emphatically raise questions about data privacy. Therefore, we report results of a survey experiment conducted in the United States of America, Germany and India to investigate the acceptance of an app-based monthly digital payment similar to a Universal Basic Income and investigate its adoption across income levels. Controlling for privacy features and short-term vs. long-term incentives to adopt the digital payment app, we find strong reservations with regard to the involvement of multinational tech companies in establishing new digital mediums of exchange, while also finding contextual differences in acceptance levels between the studied populations.

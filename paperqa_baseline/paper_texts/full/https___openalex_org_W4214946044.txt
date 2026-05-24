@@ -1,0 +1,9 @@
+Title: Toward a sustainable and cost-efficient biological-based platform for siloxanes removal
+Authors: Celia Marcos Pascual, Raquel Lebrero, Sara Cantera
+Year: 2022
+Venue: Critical Reviews in Environmental Science and Technology
+DOI: https://doi.org/10.1080/10643389.2022.2044254
+Paper ID: https://openalex.org/W4214946044
+
+Abstract:
+Volatile methyl siloxanes (VMS) are persistent contaminants extensively used in industrial applications. Their presence in biogas constitutes a major hindrance for its energetic valorization or its use as renewable natural gas. Current commercial siloxanes abatement technologies are based on physical-chemical methods, whose good performance is impaired by their high investment costs, and a hefty environmental impact. Research evidences that VMS are indeed biodegradable, which opens the possibility of implementing bio-based technologies as a cost-effective and sustainable alternative for the removal of these compounds. This review uncovers the most plausible organisms and microbial pathways involved in biological VMS degradation, a relatively unexplored area. Additionally, the most commonly applied configurations and the main operating challenges are thoroughly revised and discussed, evidencing that a feasible implementation relies on the optimization and scale-up of enhanced mass transfer bioreactors. Finally, the techno-economic and environmental analysis demonstrate that, although in a very early stage, emerging biological technologies for siloxanes removal will play an important key role on the future abatement of VMS from waste gas streams such as raw biogas.

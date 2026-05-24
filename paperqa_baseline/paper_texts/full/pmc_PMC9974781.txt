@@ -1,0 +1,9 @@
+Title: Deep learning prediction of diffusion MRI data with microstructure-sensitive loss functions
+Authors: Geng Chen, Yoonmi Hong, Khoi Minh Huynh, Pew-Thian Yap
+Year: 2023
+Venue: Medical image analysis
+DOI: 10.1016/j.media.2023.102742
+Paper ID: pmc_PMC9974781
+
+Abstract:
+Deep learning prediction of diffusion MRI (DMRI) data relies on the utilization of effective loss functions. Existing losses typically measure the signal-wise differences between the predicted and target DMRI data without considering the quality of derived diffusion scalars that are eventually utilized for quantification of tissue microstructure. Here, we propose two novel loss functions, called microstructural loss and spherical variance loss, to explicitly consider the quality of both the predicted DMRI data and derived diffusion scalars. We apply these loss functions to the prediction of multi-shell data and enhancement of angular resolution. Evaluation based on infant and adult DMRI data indicates that both microstructural loss and spherical variance loss improve the quality of derived diffusion scalars.

@@ -1,0 +1,9 @@
+Title: Using life cycle assessment to drive innovation for sustainable cool clouds
+Authors: Husam A. Alissa, Teresa Nick, Ashish Raniwala, Alberto Arribas Herranz, Kali Frost, Ioannis Manousakis, Kari Lio, Brijesh Warrier, Vaidehi Oruganti, T.J. diCaprio, Kathryn Oseen-Senda, Bharath Ramakrishnan, Naval Gupta, Ricardo Bianchini, Jim Kleewein, Christian Belady, Marcus Fontoura, Julie Sinistore, Mukunth Natarajan, Lauren M. Johnson, VeeAnder Mealing, Praneet S. Arshi, Madeline Frieze
+Year: 2025
+Venue: Nature
+DOI: https://doi.org/10.1038/s41586-025-08832-3
+Paper ID: https://openalex.org/W4410019315
+
+Abstract:
+. We discuss constructing a life cycle assessment for a complex cloud ecosystem (including software, chips, servers and data centre buildings), analysing how different advanced cooling technologies interact with this ecosystem and evaluating each technology from a sustainability perspective to provide adoption guidelines. Life cycle assessment quantifies the benefits of advanced cooling methods, such as cold plates and immersion cooling, in reducing greenhouse gas emissions (15-21%), energy demand (15-20%) and blue water consumption (31-52%) in data centres. This comprehensive approach demonstrates the transformative potential of life cycle assessment in driving sustainable innovation across resource-intensive technologies.

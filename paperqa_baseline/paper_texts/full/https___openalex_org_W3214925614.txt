@@ -1,0 +1,9 @@
+Title: Demand Forecasting of E-Commerce Enterprises Based on Horizontal Federated Learning from the Perspective of Sustainable Development
+Authors: Juntao Li, Tianxu Cui, Kaiwen Yang, Ruiping Yuan, Liyan He, Mengtao Li
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132313050
+Paper ID: https://openalex.org/W3214925614
+
+Abstract:
+Public health emergencies have brought great challenges to the stability of the e-commerce supply chain. Demand forecasting is a key driver for the sound development of e-commerce enterprises. To prevent the potential privacy leakage of e-commerce enterprises in the process of demand forecasting using multi-party data, and to improve the accuracy of demand forecasting models, we propose an e-commerce enterprise demand forecasting method based on Horizontal Federated Learning and ConvLSTM, from the perspective of sustainable development. First, in view of the shortcomings of traditional RNN and LSTM demand forecasting models, which cannot handle multi-dimensional time-series problems, we propose a demand forecasting model based on ConvLSTM. Secondly, to address the problem that data cannot be directly shared and exchanged between e-commerce enterprises of the same type, the goal of demand information sharing modeling is realized indirectly through Horizontal Federated Learning. Experimental results on a large number of real data sets show that, compared with benchmark experiments, our proposed method can improve the accuracy of e-commerce enterprise demand forecasting models while avoiding privacy data leakage, and the bullwhip effect value is closer to 1. Therefore, we effectively alleviate the bullwhip effect of the entire supply chain system in demand forecasting, and promote the sustainable development of e-commerce companies.

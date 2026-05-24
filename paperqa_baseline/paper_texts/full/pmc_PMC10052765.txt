@@ -1,0 +1,9 @@
+Title: Timing and Frequency Synchronization Using CAZAC Sequences for OFDM Systems
+Authors: Gang Peng, Rui Li, Yushu He, Zhiren Han
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063168
+Paper ID: pmc_PMC10052765
+
+Abstract:
+Since orthogonal frequency division multiplexing (OFDM) systems are very susceptible to symbol timing offset (STO) and carrier frequency offset (CFO), which cause inter-symbol interference (ISI) and inter-carrier interference (ICI), accurate STO and CFO estimations are very important. In this study, first, a new preamble structure based on the Zadoff–Chu (ZC) sequences was designed. On this basis, we proposed a new timing synchronization algorithm, called the continuous correlation peak detection (CCPD) algorithm, and its improved algorithm: the accumulated correlation peak detection (ACPD) algorithm. Next, the correlation peaks that were obtained during the timing synchronization were used for the frequency offset estimation. For this, the quadratic interpolation algorithm was adopted as the frequency offset estimation algorithm, which was better than the fast Fourier transform (FFT) algorithm. The simulation results showed that when the correct timing probability reached 100%, under the parameters of m = 8 and N = 512, the performance of the CCPD algorithm was 4 dB higher than that of Du’s algorithm, and that of the ACPD algorithm was 7 dB. Under the same parameters, the quadratic interpolation algorithm also had a great performance improvement in both small and large frequency offsets, when compared with the FFT algorithm.

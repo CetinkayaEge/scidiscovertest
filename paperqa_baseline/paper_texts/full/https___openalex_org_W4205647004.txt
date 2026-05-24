@@ -1,0 +1,9 @@
+Title: Assessment of the Impact of Material Selection on Aviation Sustainability, from a Circular Economy Perspective
+Authors: Dionysios Markatos, Spiros Pantelakis
+Year: 2022
+Venue: Aerospace
+DOI: https://doi.org/10.3390/aerospace9020052
+Paper ID: https://openalex.org/W4205647004
+
+Abstract:
+Climate change and global warming pose great sustainability challenges to the aviation industry. Alternatives to petroleum-based fuels (hydrogen, natural gas, etc.) have emerged as promising aviation fuels for future aircraft. The present study aimed to contribute to the understanding of the impact of material selection on aviation sustainability, accounting for the type of fuel implemented and circular economy aspects. In this context, a decision support tool was introduced to aid decision-makers and relevant stakeholders to identify and select the best-performing materials that meet their defined needs and preferences, expressed through a finite set of conflicting criteria associated with ecological, economic, and circularity aspects. The proposed tool integrates life-cycle-based metrics extending to both ecological and economical dimensions and a proposed circular economy indicator (CEI) focused on the material/component level and linked to its quality characteristics, which also accounts for the quality degradation of materials which have undergone one or more recycling loops. The tool is coupled with a multi-criteria decision analysis (MCDA) methodology in order to reduce subjectivity when determining the importance of each of the considered criteria.

@@ -1,0 +1,9 @@
+Title: Comparison of Programmed Cell Death Ligand 1 Status between Core Needle Biopsy and Surgical Specimens of Triple-Negative Breast Cancer
+Authors: Hyungwook Choi, Sung Gwe Ahn, Soong Joon Bae, Jee Hung Kim, Na Lae Eun, Yangkyu Lee, Ji Hae Nahm, Joon Jeong, Yoon Jin Cha
+Year: 2023
+Venue: Yonsei Medical Journal
+DOI: 10.3349/ymj.2023.0090
+Paper ID: pmc_PMC10375241
+
+Abstract:
+Purpose Pembrolizumab is currently used to treat advanced triple-negative breast cancer (TNBC) and high-risk early TNBC with neoadjuvant chemotherapy (NAC). The tumor-infiltrating lymphocyte (TIL) level and programmed cell death ligand 1 (PD-L1) status are predictors of response to NAC and immune checkpoint inhibitor treatment. We aimed to investigate whether the PD-L1 status in core needle biopsies (CNBs) could represent the whole tumor in TNBC. Materials and Methods A total of 49 patients diagnosed with TNBC who received upfront surgery without NAC between January 2018 and March 2021 were included. The PD-L1 expression (SP142 and 22C3 clones) and TIL were evaluated in paired CNBs and resected specimens. The concordance PD-L1 status and TIL levels between CNBs and resected specimens were analyzed. Results PD-L1 positivity was more frequently observed in resected specimens. The overall reliability of TIL level in the CNB was good [intraclass correlation coefficient (ICC)=0.847, p <0.001]. The agreements of PD-L1 status were good and fair, respectively (SP142, κ=0.503, p <0.001; 22C3, κ=0.380, p =0.010). As the core number of CNB increased, the reliability and agreement also improved, especially from five tumor cores (TIL, ICC=0.911, p <0.001; PD-L1 [22C3], κ=0.750, p =0.028). Regarding PD-L1 (SP142), no further improvement was observed with ≥5 tumor cores (κ=0.600, p =0.058). Conclusion CNBs with ≥5 tumor cores were sufficient to represent the TIL level and PD-L1 (22C3) status in TNBC. Graphical Abstract

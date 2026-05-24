@@ -1,0 +1,9 @@
+Title: Corollary discharge promotes a sustained motor state in a neural circuit for navigation
+Authors: Ni Ji, Vivek Venkatachalam, Hillary Denise Rodgers, Wesley Hung, Taizo Kawano, Christopher M. Clark, Maria Lim, Mark J. Alkema, Mei Zhen, Aravinthan D. T. Samuel
+Year: 2021
+Venue: eLife
+DOI: https://doi.org/10.7554/elife.68848
+Paper ID: https://openalex.org/W3156389892
+
+Abstract:
+uses feedback from the motor circuit to a sensory processing interneuron to sustain its motor state during thermotactic navigation. By imaging circuit activity in behaving animals, we show that a principal postsynaptic partner of the AFD thermosensory neuron, the AIY interneuron, encodes both temperature and motor state information. By optogenetic and genetic manipulation of this circuit, we demonstrate that the motor state representation in AIY is a corollary discharge signal. RIM, an interneuron that is connected with premotor interneurons, is required for this corollary discharge. Ablation of RIM eliminates the motor representation in AIY, allows thermosensory representations to reach downstream premotor interneurons, and reduces the animal's ability to sustain forward movements during thermotaxis. We propose that feedback from the motor circuit to the sensory processing circuit underlies a positive feedback mechanism to generate persistent neural activity and sustained behavioral patterns in a sensorimotor transformation.

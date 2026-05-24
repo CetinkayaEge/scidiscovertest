@@ -1,0 +1,9 @@
+Title: HARNESSING BLOCKCHAIN FOR SUSTAINABLE PROCUREMENT: OPPORTUNITIES AND CHALLENGES
+Authors: Bukola A. Odulaja, Kelechi Chidiebere Ihemereze, Ololade Gilbert Fakeyede, Adekunle Abiola Abdul, Damilola Emmanuel Ogedengbe, Chibuike Daraojimba
+Year: 2023
+Venue: Computer Science & IT Research Journal
+DOI: https://doi.org/10.51594/csitrj.v4i3.619
+Paper ID: https://openalex.org/W4389245421
+
+Abstract:
+The integration of blockchain technology into sustainable procurement processes has garnered significant attention in recent years, promising a transformative shift in ensuring transparency, traceability, and adherence to sustainability standards. This study embarked on a comprehensive exploration of the potential, effectiveness, challenges, and future implications of blockchain in the realm of sustainable procurement. Utilizing a rigorous methodology, the research delved into decentralized ledgers, smart contracts, and the inherent transparency offered by blockchain. Key findings highlighted the unparalleled potential of blockchain in enhancing trust and accountability among stakeholders, while also emphasizing the barriers to its widespread adoption, such as high implementation costs and the need for a paradigm shift in organizational culture. The study concludes with a forward-looking perspective, emphasizing the profound benefits organizations stand to gain by proactively embracing blockchain in their procurement processes. Recommendations underscore the importance of stakeholder education, pilot projects, and collaboration with regulatory bodies. As the landscape of sustainable procurement evolves, blockchain emerges as a pivotal tool in shaping its future. Keywords: Blockchain, Sustainable Procurement, Decentralized Ledgers, Smart Contracts, Transparency.

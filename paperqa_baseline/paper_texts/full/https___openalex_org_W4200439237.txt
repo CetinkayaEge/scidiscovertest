@@ -1,0 +1,9 @@
+Title: Data Governance and Regulation for Sustainable Smart Cities
+Authors: Johannes Franke, Peter Gailhofer
+Year: 2021
+Venue: Frontiers in Sustainable Cities
+DOI: https://doi.org/10.3389/frsc.2021.763788
+Paper ID: https://openalex.org/W4200439237
+
+Abstract:
+It is increasingly understood that data governance is a key variable in the endeavor to design smart cities in such a way that they effectively contribute to achieving sustainability goals and solving environmental problems. However, the question of how different governance options might affect sustainability goals is still open. This article suggests an approach to answering this question from a regulatory perspective. It draws some preliminary lessons from previous regulatory debates, proposes a prospective evaluation of ideal types of data regulation, and finally seeks to outline normative guidelines for social–ecological data governance.

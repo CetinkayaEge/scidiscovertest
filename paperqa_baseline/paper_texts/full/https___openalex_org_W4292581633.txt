@@ -1,0 +1,9 @@
+Title: Behaviour and design of the ‘lockbolt’ demountable shear connector for sustainable steel-concrete composite structures
+Authors: Jun He, Ahmed S.H. Suwaed, George Vasdravellis, Sihao Wang
+Year: 2022
+Venue: Structures
+DOI: https://doi.org/10.1016/j.istruc.2022.08.062
+Paper ID: https://openalex.org/W4292581633
+
+Abstract:
+In order to promote sustainable steel-concrete composite structures, special shear connectors that can facilitate deconstruction are needed. A lockbolt demountable shear connector (LB-DSC), including a grout-filled steel tube embedded in the concrete slab and fastened to a geometrically compatible partial-thread bolt, which is bolted on the steel section’s top flange of a composite beam, was proposed. The main drawback of previous similar demountable bolts is the sudden slip of the bolt inside its hole. This bolt has a locked conical seat lug that is secured inside a predrilled compatible counter-sunk hole in the steel section’s flange to provide a non-slip bolt-flange connection. Deconstruction is achieved by demounting the tube from the top of the slab by unfastening using a simple modified wrench. The mechanical behaviour of the proposed connector is assessed by four pushout tests that were conducted per Eurocode 4 recommendations. The tests showed high shear resistance, and high stiffness as compared to other DSCs, while the slip capacity results classified the LB-DSC as a ductile shear connector according to Eurocode 4. A refined nonlinear finite element model (FEM) was validated through the tests and reliably reproduced the experimental behaviour. Consequently, the calibrated FEM model was applied to carry out extensive parametric analyses to investigate the strength and geometry effects of concrete slab, infilled grout, tube, and bolt on the structural behaviour of the LB-DSC. On the basis of numerical and experimental results, a design equation is derived to predict the shear resistance of the LB-DSC.

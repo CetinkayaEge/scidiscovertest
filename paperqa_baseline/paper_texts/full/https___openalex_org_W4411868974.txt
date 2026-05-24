@@ -1,0 +1,9 @@
+Title: Battery technology for sustainable aviation: a review of current trends and future prospects
+Authors: Tavish Pattanayak, Dimitri N. Mavris
+Year: 2025
+Venue: Applied Energy
+DOI: https://doi.org/10.1016/j.apenergy.2025.126356
+Paper ID: https://openalex.org/W4411868974
+
+Abstract:
+This comprehensive review explores the current state and prospects of battery technology in aviation, addressing the challenges and potential solutions for electrifying aircraft. It evaluates various battery chemistries, including advanced lithium-ion, solid-state, lithium–sulfur, and lithium–air batteries, with a focus on their energy densities, safety profiles, and suitability for aviation. Key challenges such as energy density limitations, power requirements, safety concerns, and environmental factors are discussed in detail. The review also highlights emerging technologies and innovative approaches, including More Electric Aircraft (MEA) concepts, hybrid-electric propulsion systems, superconducting technologies, and structural batteries. Regulatory and certification challenges are emphasized, underscoring the need for harmonized standards and adaptive frameworks. The article concludes with a future outlook, detailing the potential impact of these technologies on aircraft design, operational efficiency, and sustainability in aviation.

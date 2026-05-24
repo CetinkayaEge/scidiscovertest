@@ -1,0 +1,9 @@
+Title: Implementing Concurrent Engineering and QFD Method to Achieve Realization of Sustainable Project
+Authors: Lidija Rihar, Janez Kušar
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031091
+Paper ID: https://openalex.org/W3125843254
+
+Abstract:
+In this paper, we present the impact of concurrent engineering strategies, methods, and tools on product sustainability. Concurrent engineering can be used to achieve the primary goals of a product realization project: lower costs, shorter times, high quality, and increasing value. Currently, it is important that new products also meet product sustainability goals, such as economic, environmental, and social goals. The sustainability of a product can be influenced the most in the early stages of product development, so in this paper, we present a customized quality function deployment (QFD) method called the house of sustainability, which translates sustainability requirements into technical solutions for a product. A seven-step process for implementing a sustainable product realization project is also proposed, in which the house of sustainability is one of the most important tools. The proposed process is illustrated with an example of a concurrent product realization project in engineering to order production.

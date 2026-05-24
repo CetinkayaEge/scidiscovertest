@@ -1,0 +1,9 @@
+Title: Exploring the sustainability challenges facing digitalization and internet data centers
+Authors: Dlzar Al Kez, Aoife Foley, David Laverty, Dylan D. Furszyfer Del Rio, Benjamin K. Sovacool
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.133633
+Paper ID: https://openalex.org/W4292018162
+
+Abstract:
+Internet data centers have received significant scientific, public, and media attention due to the challenges associated with their greenhouse gas, water, and land footprint. This resource greedy data services sector continues to rapidly grow driven by data storage, data mining, and file sharing activities by a wide range of end-users. A fundamentally important question then arises; what impact does data storage have on the environment and is it sustainable? Water is used extensively in data centers, both directly for liquid cooling and indirectly to generate electricity. Data centers house a huge number of servers, which consume a vast amount of energy to respond to information requests and store files and large amounts of resulting data. Here we examine the environmental footprint of global data storage utilizing extensive datasets from the latest global electricity generation mix to throw light on this data sustainability issue. The analysis also provides a broad perspective of carbon, water, and land footprints due to worldwide data storage to through some light on the real impact of data centers globally. The findings indicate that if not properly handled, the annual global carbon, water and land footprints resulting from storing dark data might approach 5.26 million tons, 41.65 Gigaliters, and 59.45 square kilometers, respectively.

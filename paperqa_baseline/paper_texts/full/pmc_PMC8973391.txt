@@ -1,0 +1,9 @@
+Title: Synaptic plasticity in hippocampal CA1 neurons of mice lacking inositol-1,4,5-trisphosphate receptor-binding protein released with IP 3 (IRBIT)
+Authors: Jun-Ichi Goto, Satoshi Fujii, Hiroki Fujiwara, Katsuhiko Mikoshiba, Yoshihiko Yamazaki
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053542.121
+Paper ID: pmc_PMC8973391
+
+Abstract:
+In hippocampal CA1 neurons of wild-type mice, a short tetanus (15 or 20 pulses at 100 Hz) or a standard tetanus (100 pulses at 100 Hz) to a naive input pathway induces long-term potentiation (LTP) of the responses. Low-frequency stimulation (LFS; 1000 pulses at 1 Hz) 60 min after the standard tetanus reverses LTP (depotentiation [DP]), while LFS applied 60 min prior to the standard tetanus suppresses LTP induction (LTP suppression). We investigated LTP, DP, and LTP suppression of both field excitatory postsynaptic potentials and population spikes in CA1 neurons of mice lacking the inositol 1,4,5-trisphosphate (IP 3 ) receptor (IP 3 R)-binding protein released with IP 3 (IRBIT). The mean magnitudes of LTP induced by short and standard tetanus were not different in mutant and wild-type mice. In contrast, DP and LTP suppression were attenuated in mutant mice, whereby the mean magnitude of responses after LFS or tetanus were significantly greater than in wild-type mice. These results suggest that, in hippocampal CA1 neurons, IRBIT is involved in DP and LTP suppression, but is not essential for LTP. The attenuation of DP and LTP suppression in mice lacking IRBIT indicates that this protein, released during or after priming stimulations, determines the direction of LTP expression after the delivery of subsequent stimulations.

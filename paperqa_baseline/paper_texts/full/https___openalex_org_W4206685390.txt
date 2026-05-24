@@ -1,0 +1,9 @@
+Title: Strategies for Electrochemically Sustainable H2 Production in Acid
+Authors: Yuxi Hou, Jiangquan Lv, Weiwei Quan, Yingbin Lin, Zhensheng Hong, Yiyin Huang
+Year: 2022
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202104916
+Paper ID: https://openalex.org/W4206685390
+
+Abstract:
+production (SHP) because of the poor stability of most electrode catalysts, especially on the anode side, under strongly acidic and highly polarized electrochemical environments, which leads to surface corrosion and performance degradation. Research efforts focused on tuning the atomic/nano structures of catalysts have been made to address this stability issue, with only limited effectiveness because of inevitable catalyst degradation. A systems approach considering reaction types and system configurations/operations may provide innovative viewpoints and strategies for SHP, although these aspects have been overlooked thus far. This review provides an overview of acidified water electrolysis for systematic investigations of these aspects to achieve SHP. First, the fundamental principles of SHP are discussed. Then, recent advances on design of stable electrode materials are examined, and several new strategies for SHP are proposed, including fabrication of symmetrical heterogeneous electrolysis system and fluid homogeneous electrolysis system, as well as decoupling/hybrid-governed sustainability. Finally, remaining challenges and corresponding opportunities are outlined to stimulate endeavors toward the development of advanced acidified water electrolysis techniques for SHP.

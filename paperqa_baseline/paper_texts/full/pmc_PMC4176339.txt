@@ -1,0 +1,9 @@
+Title: Reduction of AUF1-mediated follistatin mRNA decay during glucose starvation protects cells from apoptosis
+Authors: Xiangwei Gao, Haojie Dong, Chen Lin, Jinghao Sheng, Fan Zhang, Jinfeng Su, Zhengping Xu
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku778
+Paper ID: pmc_PMC4176339
+
+Abstract:
+Follistatin (FST) performs several vital functions in the cells, including protection from apoptosis during stress. The expression of FST is up-regulated in response to glucose deprivation by an unknown mechanism. We herein showed that the induction of FST by glucose deprivation was due to an increase in the half-life of its mRNA. We further identified an AU-rich element (ARE) in the 3′UTR of FST mRNA that mediated its decay. The expression of FST was elevated after knocking down AUF1 and reduced when AUF1 was further expressed. In vitro binding assays and RNA pull-down assays revealed that AUF1 interacted with FST mRNA directly via its ARE. During glucose deprivation, a majority of AUF1 shuttled from cytoplasm to nucleus, resulting in dissociation of AUF1 from FST mRNA and thus stabilization of FST mRNA. Finally, knockdown of AUF1 decreased whereas overexpression of AUF1 increased glucose deprivation-induced apoptosis. The apoptosis promoting effect of AUF1 was eliminated in FST expressing cells. Collectively, this study provided evidence that AUF1 is a negative regulator of FST expression and participates in the regulation of cell survival under glucose deprivation.

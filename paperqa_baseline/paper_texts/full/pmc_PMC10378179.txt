@@ -1,0 +1,9 @@
+Title: Chemokine receptor CXCR7 activates Aurora Kinase A and promotes neuroendocrine prostate cancer growth
+Authors: Galina Gritsina, Ka-wing Fong, Xiaodong Lu, Zhuoyuan Lin, Wanqing Xie, Shivani Agarwal, Dong Lin, Gary E. Schiltz, Himisha Beltran, Eva Corey, Colm Morrissey, Yuzhuo Wang, Jonathan C. Zhao, Maha Hussain, Jindan Yu
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI166248
+Paper ID: pmc_PMC10378179
+
+Abstract:
+CXCR7 is an atypical chemokine receptor that recruits β-arrestin (ARRB2) and internalizes into clathrin-coated intracellular vesicles where the complex acts as a scaffold for cytoplasmic kinase assembly and signal transduction. Here, we report that CXCR7 was elevated in the majority of prostate cancer (PCa) cases with neuroendocrine features (NEPC). CXCR7 markedly induced mitotic spindle and cell cycle gene expression. Mechanistically, we identified Aurora Kinase A (AURKA), a key regulator of mitosis, as a novel target that was bound and activated by the CXCR7-ARRB2 complex. CXCR7 interacted with proteins associated with microtubules and golgi, and, as such, the CXCR7-ARRB2-containing vesicles trafficked along the microtubules to the pericentrosomal golgi apparatus, where the complex interacted with AURKA. Accordingly, CXCR7 promoted PCa cell proliferation and tumor growth, which was mitigated by AURKA inhibition. In summary, our study reveals a critical role of CXCR7-ARRB2 in interacting and activating AURKA, which can be targeted by AURKA inhibitors to benefit a subset of patients with NEPC.

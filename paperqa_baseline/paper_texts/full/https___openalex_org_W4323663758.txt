@@ -1,0 +1,9 @@
+Title: How Do the Criteria Affect Sustainable Supplier Evaluation? - A Case Study Using Multi-Criteria Decision Analysis Methods in a Fuzzy Environment
+Authors: Jakub Więckowski, Bartłomiej Kizielewicz, Andrii Shekhovtsov, Wojciech Sałabun
+Year: 2023
+Venue: Journal of Engineering Management and Systems Engineering
+DOI: https://doi.org/10.56578/jemse020102
+Paper ID: https://openalex.org/W4323663758
+
+Abstract:
+Choosing a battery supplier is a vital decision-making problem, for which it is essential to obtain stable evaluations. For such sustainable supplier evaluation, multi-criteria decision analysis (MCDA) methods are often used, as their ability to handle uncertain data gives experts more significant opportunities to consider a broader range of cases. However, given the great number of MCDA approaches, it is challenging to find out which approach is the most appropriate. Therefore, this paper presents a sensitivity analysis on evaluating battery suppliers by ARAS, EDAS, MAIRCA, TOPSIS, and VIKOR methods in a fuzzy environment. The provided study presented similar results for the considered MCDA methods confirmed by the WS similarity measure of rankings and the weighted Spearman correlation . On the other hand, the sensitivity analysis conducted on the considered methods indicated that the most relevant criteria for this problem are transportation cost, delivery time, and warranty period.

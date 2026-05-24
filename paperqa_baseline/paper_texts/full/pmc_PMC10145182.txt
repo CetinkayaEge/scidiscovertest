@@ -1,0 +1,9 @@
+Title: Renal proximal tubule cells: power and finesse
+Authors: Michaela A.A. Fuchs, Myles Wolf
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI169607
+Paper ID: pmc_PMC10145182
+
+Abstract:
+The proximal tubule is the high-capacity reabsorptive powerhouse of the kidney. Two papers in recent issues of the JCI highlight mechanisms of more delicate effects of the proximal tubule. Yoon et al. demonstrated the intracellular mechanism by which parathyroid hormone (PTH) increases production of 1,25-vitamin D. Activation of PTH receptor 1/cAMP/PKA signaling inhibited salt-inducible kinase 2 (SIK2) and SIK3, which increased CYB27B1 transcription and 1,25-vitamin D production. Replication of these effects with small-molecule SIK inhibitors suggests possible therapeutic applications for patients with disorders characterized by 1,25-vitamin D deficiency. Zhou et al. discovered that proximal tubule glycolysis acts as a phosphate sensor that regulates fibroblast growth factor 23 production in bone. They described several kidney-specific metabolic modifications that enabled glycolysis to be deployed as a phosphate sensor. The provocative results raise intriguing questions with implications for patients with disorders of phosphate homeostasis, including chronic kidney disease.

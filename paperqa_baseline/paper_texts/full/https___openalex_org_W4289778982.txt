@@ -1,0 +1,9 @@
+Title: Scalable and sustainable wood for efficient mechanical energy conversion in buildings via triboelectric effects
+Authors: Jianguo Sun, Urs Schütz, Kunkun Tu, Sophie Marie Koch, Günther Roman, Sandro Stucki, Feng Chen, Yong Ding, Wenqing Yan, Changsheng Wu, Laura Stricker, Ingo Burgert, Zhong Lin Wang, Dirk Hegemann, Guido Panzarasa
+Year: 2022
+Venue: Nano Energy
+DOI: https://doi.org/10.1016/j.nanoen.2022.107670
+Paper ID: https://openalex.org/W4289778982
+
+Abstract:
+Triboelectric nanogenerators (TENG) have great potential to help enhancing the energy efficiency of buildings, and thus to contribute significantly to the reduction of global greenhouse gas emissions. However, there are major barriers against the adoption of such emerging energy technologies. Meeting the need for sustainable large-scale fabrication of high-performance products remains a critical challenge towards real-world TENGs’ building applications. To mitigate this challenge, we enhance the poor polarizability of native wood by a scalable plasma treatment, a facile approach which to the greatest degree preserves wood's warm colors, mechanical robustness while efficiently enhancing the triboelectric output. We demonstrate the enhancement of electric output by assembling wood triboelectric nanogenerators (W-TENGs) in both contact-separation and single-electrode operation modes. We show that when two radial-cut wood samples (L × R × T: 100 × 80 × 1 mm3), one treated with an O2 plasma and the other with a C4F8 + O2 plasma, are subjected to periodic contact and separation with an applied pressure as low as 0.0225 MPa, a maximum voltage of 227 V and a current of 4.8 µA are produced. Eventually, we showcase the real-world applicability of our approach with two prototypes of triboelectric wood floors, opening up new technological pathways towards a ‘net-zero emissions’ future.

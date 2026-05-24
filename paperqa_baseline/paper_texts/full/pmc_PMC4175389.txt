@@ -1,0 +1,9 @@
+Title: Soft Covering Based Rough Sets and Their Application
+Authors: Şaziye Yüksel, Zehra Güzel Ergül, Naime Tozlu
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/970893
+Paper ID: pmc_PMC4175389
+
+Abstract:
+Soft rough sets which are a hybrid model combining rough sets with soft sets are defined by using soft rough approximation operators. Soft rough sets can be seen as a generalized rough set model based on soft sets. The present paper aims to combine the covering soft set with rough set, which gives rise to the new kind of soft rough sets. Based on the covering soft sets, we establish soft covering approximation space and soft covering rough approximation operators and present their basic properties. We show that a new type of the soft covering upper approximation operator is smaller than soft upper approximation operator. Also we present an example in medicine which aims to find the patients with high prostate cancer risk. Our data are 78 patients from Selçuk University Meram Medicine Faculty.

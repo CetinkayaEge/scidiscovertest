@@ -1,0 +1,9 @@
+Title: Sustainability analysis of aluminium hot forming and quenching technology for lightweight vehicles manufacturing
+Authors: Antonis Peppas, Konstantinos Kollias, Dimitriοs A. Dragatogiannis, Costas A. Charitidis
+Year: 2021
+Venue: International Journal of Thermofluids
+DOI: https://doi.org/10.1016/j.ijft.2021.100082
+Paper ID: https://openalex.org/W3150349969
+
+Abstract:
+The transport sector in the European Union contributes about one-fifth of the total CO2 emissions, which is considered as the main greenhouse gas. Approximately 75% of these emissions originate from passenger vehicles. The environmental impact related to the use of vehicles depends on three main factors: the frequency of trips and distances, the mode of transport used, and the technologies used by each mode. A sustainable solution is attributed to the development of lightweight, low-cost vehicles, which will reduce fuel consumption and thus the CO2 emissions levels. However, the production of lightweight vehicles is closely related to the replacement of steel from vehicle body structure with aluminium. The main objective of this study is to evaluate the environmental impact of the HFQ® technology process to manufacture high strength lightweight complex-shaped aluminium parts for the automotive sector by applying the methodology of Life Cycle Analysis. For the current analysis, the Functional Unit is a diesel vehicle with an average lifespan of 12 years and a total life mileage of 200,000 km for all life cycle phases (from primary aluminium, use phase and end-of-life treatment). It is indicated that the application of HFQ technology in diesel vehicle resulted in the reduction of the entire environmental impact (from “cradle” to “grave") by 17% and 7-7.5% in comparison to the baseline vehicle (conventional reference model) and the other forming technologies (aluminium casting, warm forming and hot stamping of steel), respectively.

@@ -1,0 +1,9 @@
+Title: Blockchain-Based Architecture for a Sustainable Supply Chain in Cloud Architecture
+Authors: Seyyed-Alireza Radmanesh, Alireza Haji, Omid Fatahi Valilai
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15119072
+Paper ID: https://openalex.org/W4379472050
+
+Abstract:
+Blockchain technology, as a well-known technology in financial spaces, has many advantages in non-financial industries and supply chains. Two of the main benefits of blockchain technology are smart contracts and distributed decision-making processes. These features can be especially useful in implementing Industry 4.0. Moreover, this technology can increase productivity in supply chains by enhancing transparency, reducing operational costs, and improving monitoring and supervision throughout the lifecycle of products. In this paper, we introduce a blockchain-based architecture for a supply chain in cloud architecture. This approach leads to the more efficient implementation of Industry 4.0 and increases sustainability in the supply chain. In this study, we aim to investigate whether the proposed blockchain-based platform affects sustainability in the supply chain. From a sustainability perspective, we solve the large-scale problem of a cloud-based production–distribution system in centralized and distributed states. The results of the solution indicate a significant improvement in the decentralized state compared to the centralized state and this improvement enhances sustainability in the supply chain. We verify the proposed model by considering an axiomatic design algorithm. In the distributed model, the system cost is reduced by up to 45%, and the solving time is decreased by approximately 51% in pessimistic conditions and by about 87% in optimistic conditions. These improvements directly enhance economic and environmental sustainability, resulting in reduced energy consumption.

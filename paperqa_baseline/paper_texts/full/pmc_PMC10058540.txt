@@ -1,0 +1,9 @@
+Title: Intraduodenal Delivery of Exosome-Loaded SARS-CoV-2 RBD mRNA Induces a Neutralizing Antibody Response in Mice
+Authors: Quan Zhang, Miao Wang, Chunle Han, Zhijun Wen, Xiaozhu Meng, Dongli Qi, Na Wang, Huanqing Du, Jianhong Wang, Lu Lu, Xiaohu Ge
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030673
+Paper ID: pmc_PMC10058540
+
+Abstract:
+Severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2), which causes coronavirus disease 2019 (COVID-19), has presented numerous challenges to global health. Vaccines, including lipid—based nanoparticle mRNA, inactivated virus, and recombined protein, have been used to prevent SARS-CoV-2 infections in clinics and have been immensely helpful in controlling the pandemic. Here, we present and assess an oral mRNA vaccine based on bovine-milk-derived exosomes (milk-exos), which encodes the SARS-CoV-2 receptor-binding domain (RBD) as an immunogen. The results indicate that RBD mRNA delivered by milk-derived exosomes can produce secreted RBD peptides in 293 cells in vitro and stimulates neutralizing antibodies against RBD in mice. These results indicate that SARS-CoV-2 RBD mRNA vaccine loading with bovine-milk-derived exosomes is an easy, cheap, and novel way to introduce immunity against SARS-CoV-2 in vivo. Additionally, it also can work as a new oral delivery system for mRNA.

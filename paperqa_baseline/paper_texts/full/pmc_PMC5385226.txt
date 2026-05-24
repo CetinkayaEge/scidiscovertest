@@ -1,0 +1,9 @@
+Title: Comparison of DNA Methylation in Schwann Cells before and after Peripheral Nerve Injury in Rats
+Authors: Xian-Hu Zhou, Wei Lin, Yi-Ming Ren, Shen Liu, Bao-You Fan, Zhi-Jian Wei, Gui-Dong Shi, Xin Cheng, Yan Hao, Shi-Qing Feng
+Year: 2017
+Venue: BioMed Research International
+DOI: 10.1155/2017/5393268
+Paper ID: pmc_PMC5385226
+
+Abstract:
+This study aims to find the difference of genomewide DNA methylation in Schwann cells (SCs) before and after peripheral nerve system (PNS) injury by Methylated DNA Immunoprecipitation Sequencing (MeDIP-Seq) and seek meaningful differentially methylated genes related to repairment of injured PNS. SCs harvested from sciatic nerve were named as activated Schwann cells (ASCs), and the ones harvested from brachial plexus were named as normal Schwann cells (NSCs). Genomic DNA of ASCs and NSCs were isolated and MeDIP-Seq was conducted. Differentially methylated genes and regions were discovered and analyzed by bioinformatic methods. MeDIP-Seq analysis showed methylation differences were identified between ASCs and NSCs. The distribution of differentially methylated regions (DMRs) peaks in different components of genome was mainly located in distal intergenic regions. GO and KEGG analysis of these methylated genes were also conducted. The expression patterns of hypermethylated genes (Dgcr8, Zeb2, Dixdc1, Sox2, and Shh) and hypomethylated genes (Gpr126, Birc2) detected by qRT-PCR were opposite to the MeDIP analysis data with significance ( p < 0.05), which proved MeDIP analysis data were real and believable. Our data serve as a basis for understanding the injury-induced epigenetic changes in SCs and the foundation for further studies on repair of PNS injury.

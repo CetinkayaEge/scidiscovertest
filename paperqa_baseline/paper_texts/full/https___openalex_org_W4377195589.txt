@@ -1,0 +1,9 @@
+Title: Responsibility for sustainable water consumption in the global supply chains
+Authors: Masaharu Motoshita, Stephan Pfister, Takahiro Sasaki, Keisuke Nansai, Seiji Hashimoto, Ryosuke Yokoi, Kamrul Islam, Matthias Finkbeiner
+Year: 2023
+Venue: Resources Conservation and Recycling
+DOI: https://doi.org/10.1016/j.resconrec.2023.107055
+Paper ID: https://openalex.org/W4377195589
+
+Abstract:
+Freshwater, a limited natural resource, is unevenly distributed worldwide; this limited availability necessitates the virtual water trade in global supply chains, which may induce freshwater overconsumption (beyond carrying capacities). The dependency on remote water resources is imperceptible and barely recognized by consumers indirectly inducing water consumption. Here, we highlight the significance of remotely induced water consumption through supply chains and considerations for assessing and managing the sustainability of water resources through a case study of the Japanese national water footprint. The blue water consumption induced by the Japanese final demand (53.2 Billion m3) is approximately three times the volume saved through virtual water trade. For the compatible achievement of global and local sustainability of freshwater use, the hotspots in the global supply chains must be identified by considering three additional aspects in parallel, i.e., the concentration of overconsumption, pressure of overconsumption, and proportion to the local total overconsumption amount.

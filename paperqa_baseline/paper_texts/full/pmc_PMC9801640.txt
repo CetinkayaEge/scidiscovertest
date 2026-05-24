@@ -1,0 +1,9 @@
+Title: A hybrid sampling algorithm combining synthetic minority over-sampling technique and edited nearest neighbor for missed abortion diagnosis
+Authors: Fangyuan Yang, Kang Wang, Lisha Sun, Mengjiao Zhai, Jiejie Song, Hong Wang
+Year: 2022
+Venue: BMC Medical Informatics and Decision Making
+DOI: 10.1186/s12911-022-02075-2
+Paper ID: pmc_PMC9801640
+
+Abstract:
+Background Clinical diagnosis based on machine learning usually uses case samples as training samples, and uses machine learning to construct disease prediction models characterized by descriptive texts of clinical manifestations. However, the problem of sample imbalance often exists in the medical field, which leads to a decrease in classification performance of the machine learning. Methods To solve the problem of sample imbalance in medical dataset, we propose a hybrid sampling algorithm combining synthetic minority over-sampling technique (SMOTE) and edited nearest neighbor (ENN). Firstly, the SMOTE is used to over-sampling missed abortion and diabetes datasets, so that the number of samples of the two classes is balanced. Then, ENN is used to under-sampling the over-sampled dataset to delete the "noisy sample" in the majority. Finally, Random forest is used to model and predict the sampled missed abortion and diabetes datasets to achieve an accurate clinical diagnosis. Results Experimental results show that Random forest has the best classification performance on missed abortion and diabetes datasets after SMOTE-ENN sampled, and the MCC index is 95.6% and 90.0%, respectively. In addition, the results of pairwise comparison and multiple comparisons show that the SMOTE-ENN is significantly better than other sampling algorithms. Conclusion Random forest has significantly improved all indexes on the missed abortion dataset after SMOTE-ENN sampled.

@@ -1,0 +1,9 @@
+Title: Effect of zoning plans on urban land-use change: A multi-scenario simulation for supporting sustainable urban growth
+Authors: Darío Domingo, Gaëtan Palka, Anna M. Hersperger
+Year: 2021
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2021.102833
+Paper ID: https://openalex.org/W3135887826
+
+Abstract:
+Even though urban land-use change simulations provide useful information for decision makers, planning is generally weakly integrated into land-change modelling. However, the increasingly digitally available zoning data from statutory planning offers new opportunities. This study aims to reveal the potential effectiveness of statutory planning in terms of sustainable urban development by integrating zoning regulations in a multi-scenario simulation. Specifically, the gross floor area that can be built per parcel, as defined in the zoning plan, supports the allocation of varying degrees of urban densities. Using the CLUmondo modelling framework that couples cellular automata and multivariate logistic regression, we simulated urban growth in Madrid, Barcelona, Valencia, and Zaragoza Spanish Functional Urban Areas from 2012 to 2030 in four scenarios. The scenarios reflect the degree of planning intervention, ranging from high intervention to unrestricted development, while consider Spanish legislation and urban agenda 2030 sustainability goals. Simulations shows that by shifting growth to zones with urbanization projects almost 4200 ha of grassland and cropland could be saved from overbuilding, and 3800 ha by shifting it to zones without urbanization project. The simulation results provide critical information to support decision-makers and planners in revising plans and designing new plans to achieve sustainable urban development.

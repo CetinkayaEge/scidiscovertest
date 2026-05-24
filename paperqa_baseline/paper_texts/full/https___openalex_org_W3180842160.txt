@@ -1,0 +1,9 @@
+Title: Design of multi-objective sustainable food distribution network in the Indian context with multiple delivery channels
+Authors: Vinay Surendra Yadav, A.R. Singh, Rakesh D. Raut, Naoufel Cheikhrouhou
+Year: 2021
+Venue: Computers & Industrial Engineering
+DOI: https://doi.org/10.1016/j.cie.2021.107549
+Paper ID: https://openalex.org/W3180842160
+
+Abstract:
+The paper addresses the design of a sustainable multiple-channel fresh food distribution network, which serves three purposes. Firstly, it addresses the changing preferences of consumers for online retailing. Secondly, the model investigates the distribution network of Buy Online Pickup in Store (BOPS) in the context of food supply chain. Thirdly, the model formulates new farming laws passed by the Indian government which allows the farmers to sell their produce as per their choice and removes the constraint of selling in the government regulated Mandis. To address the problem, a multiple-channel multi-objective fresh food distribution network model is developed. The model takes sustainability into consideration by formulating economic (total cost minimization), environmental (emission minimization) and social (delivery time minimization) objectives. A combination of an epsilon constraint and linear programming (LP) metrics method is used to solve the model. The applicability of the model is verified through a case study of a fresh tomato supply chain in India. Moreover, a sensitivity analysis is carried out to evaluate the different distribution strategies. Results show that demand ratio plays an important role in the identification of the optimal design with respect to the three objectives considered.

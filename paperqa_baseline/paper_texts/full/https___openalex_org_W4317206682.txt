@@ -1,0 +1,9 @@
+Title: Protonic Ceramic Electrochemical Cells for Synthesizing Sustainable Chemicals and Fuels
+Authors: Fan Liu, Dong Ding, Chuancheng Duan
+Year: 2023
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202206478
+Paper ID: https://openalex.org/W4317206682
+
+Abstract:
+Protonic ceramic electrochemical cells (PCECs) have been intensively studied as the technology that can be employed for power generation, energy storage, and sustainable chemical synthesis. Recently, there have been substantial advances in electrolyte and electrode materials for improving the performance of protonic ceramic fuel cells and protonic ceramic electrolyzers. However, the electrocatalytic materials development for synthesizing chemicals in PCECs has gained less attention, and there is a lack of systematic and fundamental understanding of the PCEC reactor design, reaction mechanisms, and electrode materials. This review comprehensively summarizes and critically evaluates the most up-to-date progress in employing PCECs to synthesize a wide range of chemicals, including ammonia, carbon monoxide, methane, light olefins, and aromatics. Factors that impact the conversion, selectivity, product yield, and energy efficiencies are discussed to provide new insights into designing electrochemical cells, developing electrode materials, and achieving economically viable chemical synthesis. The primary challenges associated with producing chemicals in PCECs are highlighted. Approaches to tackle these challenges are then offered, with a particular focus on deliberately designing electrode materials, aiming to achieve practically valuable product yield and energy efficiency. Finally, perspectives on the future development of PCECs for synthesizing sustainable chemicals are provided.

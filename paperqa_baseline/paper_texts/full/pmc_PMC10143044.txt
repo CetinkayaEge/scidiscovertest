@@ -1,0 +1,9 @@
+Title: Vaccines Alone Cannot Slow the Evolution of SARS-CoV-2
+Authors: Debra Van Egeren, Madison Stoddard, Laura F. White, Natasha S. Hochberg, Michael S. Rogers, Bruce Zetter, Diane Joseph-McCarthy, Arijit Chakravarty
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040853
+Paper ID: pmc_PMC10143044
+
+Abstract:
+The rapid emergence of immune-evading viral variants of SARS-CoV-2 calls into question the practicality of a vaccine-only public-health strategy for managing the ongoing COVID-19 pandemic. It has been suggested that widespread vaccination is necessary to prevent the emergence of future immune-evading mutants. Here, we examined that proposition using stochastic computational models of viral transmission and mutation. Specifically, we looked at the likelihood of emergence of immune escape variants requiring multiple mutations and the impact of vaccination on this process. Our results suggest that the transmission rate of intermediate SARS-CoV-2 mutants will impact the rate at which novel immune-evading variants appear. While vaccination can lower the rate at which new variants appear, other interventions that reduce transmission can also have the same effect. Crucially, relying solely on widespread and repeated vaccination (vaccinating the entire population multiple times a year) is not sufficient to prevent the emergence of novel immune-evading strains, if transmission rates remain high within the population. Thus, vaccines alone are incapable of slowing the pace of evolution of immune evasion, and vaccinal protection against severe and fatal outcomes for COVID-19 patients is therefore not assured.

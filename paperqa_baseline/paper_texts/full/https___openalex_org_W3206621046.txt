@@ -1,0 +1,9 @@
+Title: Process intensification 4.0: A new approach for attaining new, sustainable and circular processes enabled by machine learning
+Authors: Enrique A. López-Guajardo, Fernando Delgado‐Licona, A. Alvarez, K.D.P. Nigam, Alejandro Montesinos‐Castellanos, Rubén Morales-Menéndez
+Year: 2021
+Venue: Chemical Engineering and Processing - Process Intensification
+DOI: https://doi.org/10.1016/j.cep.2021.108671
+Paper ID: https://openalex.org/W3206621046
+
+Abstract:
+This paper reviews system-level transformations converging into the next generation of Process Intensification strategies defined as PI4.0. Process Intensification 4.0 uses data-driven algorithms to understand other physical and chemical processes that improve equipment design, predictive control, and optimization. Following this, an overview of the use of Artificial Intelligence techniques, particularly Machine Learning for the acceleration of equipment design, process optimization, and streamlining, is presented. This work will highlight and discuss the emerging framework of the integration between Circular Chemistry, Industry 4.0, and Process Intensification and how the data obtained from this integration is at the core of the next generation of Process Intensification strategies. This is supported by a discussion of different cases that apply data-driven models enabled by Machine Learning as a mean to enhance an intensified system (product synthesis, equipment or methods).

@@ -1,0 +1,9 @@
+Title: Inclusivity of information and communication technology in ecological governance for sustainable resources management in G10 countries
+Authors: Nabila Abid, Federica Ceci, Asif Razzaq
+Year: 2023
+Venue: Resources Policy
+DOI: https://doi.org/10.1016/j.resourpol.2023.103378
+Paper ID: https://openalex.org/W4320895107
+
+Abstract:
+Resources depletion is mainly attributed to higher economic output. Although many drivers of resource exhaustion have been identified in the extant literature, little attention has been given to inclusive drivers; information and communication technologies (ICTs), governance, and energy transition. Using material footprint (MFP), a consumption-based indicator of resource depletion, we empirically examine the influence of ICTs, environmental regulations, and renewable energy in G10 economies from 1990 to 2019. This study employs a few preliminary tests, including cross-sectional dependence, slope heterogeneity, and panel unit root tests, and subsequently uses the cross-sectional Autoregressive Distributed Lag Model for estimating parameters. The results exhibit that ICTs negatively and significantly derive MFP in the short and long-run, suggesting a substantial role in reducing resource depletion. Likewise, environmental regulations and renewable energy substantially reduce MFP, whereas economic output contributes to MFP. Similar results are echoed using other panel estimators, suggesting inclusive policy for ICTs transformation, energy transition, and stringent environmental governance.

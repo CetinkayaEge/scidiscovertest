@@ -1,0 +1,9 @@
+Title: eco2AI: Carbon Emissions Tracking of Machine Learning Models as the First Step Towards Sustainable AI
+Authors: Semen Budennyy, V. D. Lazarev, N. N. Zakharenko, A. N. Korovin, O. A. Plosskaya, D. V. Dimitrov, V. S. Akhripkin, I. V. Pavlov, Ivan Oseledets, I. S. Barsola, I. V. Egorov, A. A. Kosterina, Leonid Zhukov
+Year: 2022
+Venue: Doklady Mathematics
+DOI: https://doi.org/10.1134/s1064562422060230
+Paper ID: https://openalex.org/W4317433347
+
+Abstract:
+Abstract— The size and complexity of deep neural networks used in AI applications continue to grow exponentially, significantly increasing energy consumption for training and inference by these models. We introduce an open-source package eco2AI to help data scientists and researchers to track the energy consumption and equivalent CO 2 emissions of their models in a straightforward way. In eco2AI we focus on accurate tracking of energy consumption and regional CO 2 emissions accounting. We encourage the research for community to search for new optimal Artificial Intelligence (AI) architectures with lower computational cost. The motivation also comes from the concept of AI-based greenhouse gases sequestrating cycle with both Sustainable AI and Green AI pathways. The code and documentation are hosted on Github under the Apache 2.0 license https://github.com/sb-ai-lab/Eco2AI .

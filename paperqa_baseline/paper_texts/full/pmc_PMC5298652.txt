@@ -1,0 +1,9 @@
+Title: A Truthful Incentive Mechanism for Online Recruitment in Mobile Crowd Sensing System
+Authors: Xiao Chen, Min Liu, Yaqin Zhou, Zhongcheng Li, Shuang Chen, Xiangnan He
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010079
+Paper ID: pmc_PMC5298652
+
+Abstract:
+We investigate emerging mobile crowd sensing (MCS) systems, in which new cloud-based platforms sequentially allocate homogenous sensing jobs to dynamically-arriving users with uncertain service qualities. Given that human beings are selfish in nature, it is crucial yet challenging to design an efficient and truthful incentive mechanism to encourage users to participate. To address the challenge, we propose a novel truthful online auction mechanism that can efficiently learn to make irreversible online decisions on winner selections for new MCS systems without requiring previous knowledge of users. Moreover, we theoretically prove that our incentive possesses truthfulness, individual rationality and computational efficiency. Extensive simulation results under both real and synthetic traces demonstrate that our incentive mechanism can reduce the payment of the platform, increase the utility of the platform and social welfare.

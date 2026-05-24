@@ -1,0 +1,9 @@
+Title: Ice‐Templated, Sustainable Carbon Aerogels with Hierarchically Tailored Channels for Sodium‐ and Potassium‐Ion Batteries
+Authors: Jing Wang, Zhen Xu, Jean‐Charles Eloi, Maria‐Magdalena Titirici, Stephen J. Eichhorn
+Year: 2022
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202110862
+Paper ID: https://openalex.org/W4205290187
+
+Abstract:
+Abstract Sodium‐ion batteries (SIBs) and potassium‐ion batteries (PIBs) are prospective candidates for large‐scale energy storage systems cause of their abundant resources. However, unsatisfactory rate and cycling performance of carbon‐based anodes present a bottleneck for the applications of SIBs/PIBs due to the large sizes of sodium/potassium ions. Herein, oxygen‐doped vertically aligned carbon aerogels (VCAs) with hierarchically tailored channels are synthesized as anodes in SIBs/PIBs via a controllable unidirectional ice‐templating technique. VCA‐3 (cooling rate of 3 K min −1 ) delivers the highest reversible capacity of ≈298 mAh g −1 at 0.1 C with an excellent cycling performance over 2000 cycles at 0.5 C for SIBs, while VCA‐5 manifests a superior capacity of ≈258 mAh g −1 at 0.1 C with an 82.7% retention over 1000 cycles at 0.5 C for PIBs. Moreover, their full cells demonstrate the promising potential of VCAs in applications. This novel controllable ice‐templating strategy opens unique avenues to tune the construction of hollow aligned channels for shortening ion‐transport pathways and ensuring structural integrity. New insights into structure‐performance correlations regulated by the cooling rates of an ice‐templating strategy and design guidelines for electrodes applicable in multiple energy storage technologies are reported.

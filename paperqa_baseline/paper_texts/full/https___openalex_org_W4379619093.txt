@@ -1,0 +1,9 @@
+Title: Microbial itaconic acid bioproduction towards sustainable development: Insights, challenges, and prospects
+Authors: Priskila Adjani Diankristanti, I‐Son Ng
+Year: 2023
+Venue: Bioresource Technology
+DOI: https://doi.org/10.1016/j.biortech.2023.129280
+Paper ID: https://openalex.org/W4379619093
+
+Abstract:
+Microbial biomanufacturing is a promising approach to produce high-value compounds with low-carbon footprint and significant economic benefits. Among twelve "Top Value-Added Chemicals from Biomass", itaconic acid (IA) stands out as a versatile platform chemical with numerous applications. IA is naturally produced by Aspergillus and Ustilago species through a cascade enzymatic reaction between aconitase (EC 4.2.1.3) and cis-aconitic acid decarboxylase (EC 4.1.1.6). Recently, non-native hosts such as Escherichia coli, Corynebacterium glutamicum, Saccharomyces cerevisiae, and Yarrowia lipolytica have been genetically engineered to produce IA through the introduction of key enzymes. This review provides an up-to-date summary of the progress made in IA bioproduction, from native to engineered hosts, covers in vivo and in vitro approaches, and highlights the prospects of combination tactics. Current challenges and recent endeavors are also addressed to envision comprehensive strategies for renewable IA production in the future towards sustainable development goals (SDGs).

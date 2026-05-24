@@ -1,0 +1,9 @@
+Title: Toward Green and Sustainable Zinc‐Ion Batteries: The Potential of Natural Solvent‐Based Electrolytes
+Authors: Gulsah Yaman Uzunoglu, Recep Yüksel
+Year: 2025
+Venue: Small
+DOI: https://doi.org/10.1002/smll.202411478
+Paper ID: https://openalex.org/W4406716396
+
+Abstract:
+Zinc-ion batteries (ZIBs) are emerged as a promising alternative for sustainable energy storage, offering advantages such as safety, low cost, and environmental friendliness. However, conventional aqueous electrolytes in ZIBs face significant challenges, including hydrogen evolution reaction (HER) and zinc dendrite formation, compromising their cycling stability and safety. These limitations necessitate innovative electrolyte solutions to enhance ZIB performance while maintaining sustainability. This review explores the potential of natural solvent-based electrolytes derived from renewable and biodegradable resources. Natural deep eutectic solvents (DES), bio-ionic liquids, and biomass-derived organic compounds present unique advantages, including a wider electrochemical stability window, reduced HER activity, and controlled zinc deposition. Examples include DESs based on choline chloride (ChCl), glycerol-based systems, and biomass-derived solvents such as γ-valerolactone (GVL) and aloe vera, demonstrating improved cycling stability and dendrite suppression. Despite their promise, challenges such as high viscosity, cost, and scalability remain critical barriers to commercialization. This review underscores the need for further research to optimize natural solvent formulations, enhance Zn anode compatibility, and integrate these systems into practical applications. By addressing these challenges, natural solvent-based electrolytes can pave the way for safer, high-performance, and environmentally sustainable ZIBs, particularly large-scale energy storage systems.

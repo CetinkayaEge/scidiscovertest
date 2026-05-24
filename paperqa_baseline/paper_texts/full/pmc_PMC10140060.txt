@@ -1,0 +1,9 @@
+Title: A novel Alzheimer’s disease prognostic signature: identification and analysis of glutamine metabolism genes in immunogenicity and immunotherapy efficacy
+Authors: Zixuan Wu, Ping Liu, Baisheng Huang, Sisi Deng, Zhenyan Song, Xindi Huang, Jing Yang, Shaowu Cheng
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33277-x
+Paper ID: pmc_PMC10140060
+
+Abstract:
+Alzheimer’s disease (AD) is characterized as a distinct onset and progression of cognitive and functional decline associated with age, as well as a specific neuropathology. It has been discovered that glutamine (Gln) metabolism plays a crucial role in cancer. However, a full investigation of its role in Alzheimer’s disease is still missing. This study intended to find and confirm potential Gln-related genes associated with AD using bioinformatics analysis. The discovery of GlnMgs was made possible by the intersection of the WGCNA test and 26 Gln-metabolism genes (GlnMgs). GlnMgs’ putative biological functions and pathways were identified using GSVA. The LASSO method was then used to identify the hub genes as well as the diagnostic efficiency of the four GlnMgs in identifying AD. The association between hub GlnMgs and clinical characteristics was also studied. Finally, the GSE63060 was utilized to confirm the levels of expression of the four GlnMgs. Four GlnMgs were discovered (ATP5H, NDUFAB1, PFN2, and SPHKAP). For biological function analysis, cell fate specification, atrioventricular canal development, and neuron fate specification were emphasized. The diagnostic ability of the four GlnMgs in differentiating AD exhibited a good value. This study discovered four GlnMgs that are linked to AD. They shed light on potential new biomarkers for AD and tracking its progression.

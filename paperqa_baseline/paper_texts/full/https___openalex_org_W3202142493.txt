@@ -1,0 +1,9 @@
+Title: Financial Knowledge, Confidence, and Sustainable Financial Behavior
+Authors: David Aristei, Manuela Gallo
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131910926
+Paper ID: https://openalex.org/W3202142493
+
+Abstract:
+This paper analyzes the effect of financial knowledge and confidence in shaping individual investment choices, sustainable debt behavior, and preferences for socially and environmentally responsible financial companies. Exploiting data from the “Italian Literacy and Financial Competence Survey” (IACOFI) carried out by the Bank of Italy in early 2020, we address potential endogeneity concerns in order to investigate the causal effect of objective financial knowledge on individual financial behaviors. To this aim, we perform endogenous probit regressions, using the respondent’s long-term planning attitude, the use of information and communication technology devices, and the financial knowledge of peers as additional instrumental variables. Our main empirical findings show that objective financial knowledge exerts a positive and significant effect on financial market participation and preferences for ethical financial companies. Moreover, we provide strong empirical evidence about the role of confidence biases on individual financial behaviors. In particular, overconfident individuals display a higher probability of making financial investments, experiencing losses due to investment fraud, and being over-indebted. Conversely, underconfident individuals exhibit suboptimal investment choices, but are less likely to engage in risky financial behaviors.

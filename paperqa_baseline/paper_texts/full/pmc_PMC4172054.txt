@@ -1,0 +1,9 @@
+Title: Mitochondrial Gene Expression Profiles and Metabolic Pathways in the Amygdala Associated with Exaggerated Fear in an Animal Model of PTSD
+Authors: He Li, Xin Li, Stanley E. Smerin, Lei Zhang, Min Jia, Guoqiang Xing, Yan A. Su, Jillian Wen, David Benedek, Robert Ursano
+Year: 2014
+Venue: Frontiers in Neurology
+DOI: 10.3389/fneur.2014.00164
+Paper ID: pmc_PMC4172054
+
+Abstract:
+The metabolic mechanisms underlying the development of exaggerated fear in post-traumatic stress disorder (PTSD) are not well defined. In the present study, alteration in the expression of genes associated with mitochondrial function in the amygdala of an animal model of PTSD was determined. Amygdala tissue samples were excised from 10 non-stressed control rats and 10 stressed rats, 14 days post-stress treatment. Total RNA was isolated, cDNA was synthesized, and gene expression levels were determined using a cDNA microarray. During the development of the exaggerated fear associated with PTSD, 48 genes were found to be significantly upregulated and 37 were significantly downregulated in the amygdala complex based on stringent criteria ( p < 0.01). Ingenuity pathway analysis revealed up- or downregulation in the amygdala complex of four signaling networks – one associated with inflammatory and apoptotic pathways, one with immune mediators and metabolism, one with transcriptional factors, and one with chromatin remodeling. Thus, informatics of a neuronal gene array allowed us to determine the expression profile of mitochondrial genes in the amygdala complex of an animal model of PTSD. The result is a further understanding of the metabolic and neuronal signaling mechanisms associated with delayed and exaggerated fear.

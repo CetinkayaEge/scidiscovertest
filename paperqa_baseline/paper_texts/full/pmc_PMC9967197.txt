@@ -1,0 +1,9 @@
+Title: Experimental and Computational Study for the Design of Sulfathiazole Dosage Form with Clay Mineral
+Authors: Eugenia Moreno-Domínguez, Ana Borrego-Sánchez, Rita Sánchez-Espejo, César Viseras, Claro Ignacio Sainz-Díaz
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020575
+Paper ID: pmc_PMC9967197
+
+Abstract:
+Sulfathiazole is an antimicrobial belonging to the family of sulfonamides, which were the first antibiotics to be discovered. Sulfathiazole is generally administered orally, and its main disadvantage is that it has low aqueous solubility, requiring high doses for its administration. This fact has led to side effects and the generation of bacterial resistance to the drug over time. The improvement of its solubility would mean not having to administer such high doses in its treatment. At the same time, montmorillonite is a natural, low-cost, non-toxic, biocompatible clay with a high adsorption capacity. It is potentially useful as a nanocarrier to design sulfathiazole dosage forms. In this work, the interaction between the drug and the clay mineral has been studied from an experimental and computational atomistic point of view to improve the drug’s biopharmaceutical profile. The results showed the potential enhancement of the drug solubility due to the correct adsorption of the sulfathiazole in the clay interlayer space. As a result of the inclusion of sulfathiazole in the interlayer of the clay mineral, the solubility of the drug increased by 220% concerning the pristine drug. Experimentally, it was not possible to know the number of drug molecules adsorbed in the interlayer space or the external surface of the carrier. Theoretical studies will enable the knowledge of the stoichiometry of the drug/clay hybrids, with three molecules in the interlayer space being the most favorable process. The resultant basal spacing was in agreement with the experimental results.

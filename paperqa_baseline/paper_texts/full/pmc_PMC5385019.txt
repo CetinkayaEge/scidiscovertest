@@ -1,0 +1,9 @@
+Title: Prediction accuracy of intraocular lens power calculation methods after laser refractive surgery
+Authors: Yubo Wu, Songyu Liu, Rongfeng Liao
+Year: 2017
+Venue: BMC Ophthalmology
+DOI: 10.1186/s12886-017-0439-x
+Paper ID: pmc_PMC5385019
+
+Abstract:
+Background This study aimed to evaluate the prediction accuracy of postoperative refractions using partial coherence interferometry (IOL-Master) and applanation ultrasound (AL-3000) assisted with corneal topography (TMS-4) in eyes that had undergone myopic laser-assisted in situ keratomileusis (LASIK). Methods Haigis-L formula, Koch–Maloney method using Haigis formula, Shammas clinically derived K-value (simulated keratometric value) correction (Shammas c.d.) using Haigis formula, and Shammas post-LASIK (Shammas-PL) formula were used in eyes with myopic LASIK. Constants were derived from the optimized constants in 133 virgin eyes. Refractive outcomes were determined by streak retinoscopy and subjective manifest refraction. Methods and formulas were evaluated by mean error (ME), standard deviation (SD), range of error, mean absolute error (MAE), median absolute error, 95% confidence interval of MAE, and percentage of eyes within ±0.5 diopter (D), ±1.0 D, and ±1.5 D of prediction. Results SDs of the Haigis-L, Koch-Maloney method using the Haigis formula, Shammas c.d. using the Haigis formula, and the Shammas-PL formula using IOL-Master were 0.721, 0.695, 0.695, and 0.698; and those using AL-3000 assisted with TMS-4 were 0.782, 0.741, 0.743, and 0.778, respectively. Conclusions No-history methods that corrected corneal power with measurements using IOL-Master were promising in myopic post-LASIK eyes, but still a gap in prediction accuracy exists between virgin eyes and post-LASIK eyes. Electronic supplementary material The online version of this article (doi:10.1186/s12886-017-0439-x) contains supplementary material, which is available to authorized users.

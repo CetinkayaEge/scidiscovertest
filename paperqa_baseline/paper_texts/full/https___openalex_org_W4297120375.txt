@@ -1,0 +1,9 @@
+Title: Quantitative assessment of sustainable renewable energy through soft computing: Fuzzy AHP-TOPSIS method
+Authors: Mohammed A. Alghassab
+Year: 2022
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2022.09.049
+Paper ID: https://openalex.org/W4297120375
+
+Abstract:
+Green energy resources need to be mobilized at an imminent pace to fulfill the world’s energy requirements that are both sustainable and cost-effective. Utilizing soft computing for generating sustainable power effectively eliminates additional requirements and costs. The selection procedure of Fuzzy Analytic Hierarchy Process (FAHP) and Fuzzy Technique for Order of Preferences by Similarity to Ideal Solution (FTOPSIS) plays a focal part in sustainable power and soft computing. We assess and analyze to create a long-term renewable energy control system with enhanced system protection against cyber-attacks. The factors affecting the sustainable renewable energy resources selected in primary level further every initial factors have five dependent secondary factors are selected for the assessment. The different approaches of generation of renewable energy are taken as alternatives. FAHP technique is required due to the nature of the characteristics involved in evaluating the performance assessment of the renewable energy control system and the weight of the factors. The FTOPSIS-based technique looks to be a good strategy for selecting the best option from a large number of options. The finding shows that Wind energy is fully sustainable most preferable and leading renewable energy source. The proposed work’s novelty will stem from the use of hybrid soft computing techniques and the application of the issue to the energy industry.

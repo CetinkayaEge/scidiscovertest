@@ -1,0 +1,9 @@
+Title: Algorithmic urban planning for smart and sustainable development: Systematic review of the literature
+Authors: Tim Heinrich Son, Zack Weedon, Tan Yiğitcanlar, Thomas W. Sanchez, Juan M. Corchado, Rashid Mehmood
+Year: 2023
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2023.104562
+Paper ID: https://openalex.org/W4361292570
+
+Abstract:
+In recent years, artificial intelligence (AI) has been increasingly put into use to address cities’ economic, social, environmental, and governance challenges. Thanks to its advanced capabilities, AI is set to become one of local governments’ principal means of achieving smart and sustainable development. AI utilisation for urban planning, nonetheless, is a relatively understudied area of research, particularly in terms of the gap between theory and practice. This study presents a comprehensive review of the areas of urban planning in which AI technologies are contemplated or applied, and it is analysed how AI technologies support or could potentially support smart and sustainable development. Regarding the methodological approach, this is a systematic literature review following the PRISMA protocol. The obtained insights include: (a) Early adopters’ real-world AI applications in urban planning are paving the way to wider local government AI adoption; (b) Achieving wider AI adoption for urban planning involves collaboration and partnership between key stakeholders; (c) Big data is an integral element for effective AI utilisation in urban planning, and; (d) Convergence of artificial and human intelligence is crucial to address urbanisation issues adequately and to achieve smart and sustainable development. These insights highlight the importance of making planning smarter through advanced data and analytical methods.

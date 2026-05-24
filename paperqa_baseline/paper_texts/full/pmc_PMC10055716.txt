@@ -1,0 +1,9 @@
+Title: CpG 1018 Is an Effective Adjuvant for Influenza Nucleoprotein
+Authors: Yibo Li, Xinyuan Chen
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030649
+Paper ID: pmc_PMC10055716
+
+Abstract:
+Current influenza vaccines mainly induce neutralizing antibodies against the highly variable surface antigen hemagglutinin and require annual manufacturing and immunization. Different from surface antigens, intracellular nucleoprotein (NP) is highly conserved and has been an attractive target to develop universal T cell vaccines against influenza. Yet, influenza NP protein mainly induces humoral immune responses and lacks the ability to induce potent cytotoxic T lymphocyte (CTL) responses, key for the success of universal T cell vaccines. This study compared CpG 1018 and AddaVax to enhance recombinant NP-induced CTL responses and protection in murine models. CpG 1018 was explored to boost intradermal NP immunization, while AddaVax was explored to boost intramuscular NP immunization due to the high risk of AddaVax adjuvant to induce significant local reactions following intradermal delivery. We found CpG 1018 was highly effective to enhance NP-induced humoral and cellular immune responses superior to AddaVax adjuvant. Furthermore, CpG 1018 potentiated Th1-biased antibody responses, while AddaVax enhanced Th1/Th2-balanced antibody responses. CpG 1018 significantly enhanced IFNγ-secreting Th1 cells, while AddaVax adjuvant significantly increased IL4-secreting Th2 cells. Influenza NP immunization in the presence of CpG 1018 induced significant protection against lethal viral challenges, while influenza NP immunization in the presence of AddaVax failed to elicit significant protection. Our data validated CpG 1018 as an effective adjuvant to enhance influenza NP-induced CTL responses and protection.

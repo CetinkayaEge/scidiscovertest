@@ -1,0 +1,9 @@
+Title: Long-Term Techno-Economic Analysis of Sustainable and Zero Grid Cellular Base Station
+Authors: Mohammed H. Alsharif, Raju Kannadasan, Abu Jahid, Mahmoud A. Albreem, Jamel Nebhen, Bong Jun Choi
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3071250
+Paper ID: https://openalex.org/W3144681228
+
+Abstract:
+Green wireless networking has attracted considerable research attention, especially in academics and industry from economic and ecological perspectives. Promoting wireless infrastructures by exploiting green power sources has the potential to enhance sustainability and address the adverse impact of conventional power sources. A sustainable optimal standalone solar-powered model for green cellular base stations in urban locations of South Korea is proposed in this work to extend 24-hour uninterrupted power supply support to LTE cellular base stations (BSs) and take advantage of integrated storage devices. The optimal system architecture, energy management, and economic analysis are examined using the hybrid optimization model for electric renewable optimization software based on actual prevailing conditions of regions and their technical feasibility. Results showed that the proposed solar photovoltaic system can achieve significant operational expenditure savings of up to 43% and 43.58% in on- and off-grid sites, respectively, and reduce greenhouse gas emissions in the telecommunications sector. Moreover, the results of this study can provide a stronger platform for a sustainable green wireless network paradigm that can ensure energy sustainability compared with conventional technology.

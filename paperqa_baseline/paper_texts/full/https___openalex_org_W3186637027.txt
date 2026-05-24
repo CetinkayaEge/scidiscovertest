@@ -1,0 +1,9 @@
+Title: Update on current approaches, challenges, and prospects of modeling and simulation in renewable and sustainable energy systems
+Authors: Kelvin O. Yoro, Michael O. Daramola, Patrick T. Sekoai, Uwemedimo Nyong Wilson, Orevaoghene Eterigho-Ikelegbe
+Year: 2021
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2021.111506
+Paper ID: https://openalex.org/W3186637027
+
+Abstract:
+Modeling and simulation (M&S) is a well-known scientific tool that could be used to analyze a system or predict its behavior before physical construction. Despite being an established methodical tool in engineering, only a few review articles discussing emerging topics in M&S are available in open literature, especially for renewable and sustainable energy systems. This review critically examines recent advances in modeling and simulation in the energy sector, with few insights on its approaches, challenges, and prospects in selected renewable and sustainable energy systems (RSES). In addition, the concept of model validation in RSES is systematically discussed based on in-sample and out-of-sample approaches, while potential data sources with crucial elements for model validation in RSES are highlighted. Furthermore, three major groups of sustainable energy system models that play important roles in supporting national and international energy policies arepresented, to bring to light how the modeling of energy systems is evolving to meet its challenges in the design, operation, and control of RSES. This review also presents a comprehensive assessment of the current approaches, challenges, and prospects in modeling the behavior and evaluating the performance of RSES. Finally, areas that need further research and development in renewable and sustainable energy system modeling are also highlighted.

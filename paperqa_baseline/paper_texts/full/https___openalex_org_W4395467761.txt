@@ -1,0 +1,9 @@
+Title: The impact of Fintech on corporate carbon emissions: Towards green and sustainable development
+Authors: Chang’an Wang, Long Wang, Shikuan Zhao, Cunyi Yang, Khaldoon Albitar
+Year: 2024
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3778
+Paper ID: https://openalex.org/W4395467761
+
+Abstract:
+Abstract Fintech, as the fusion of finance and technology, has not only transformed the traditional financial industry and contributed to reshaping the real economy. But also, it holds the potential to offer a feasible solution for achieving green and sustainable development. This paper investigates the impact of Fintech on corporate carbon emissions (CCEs) by using data from the National Tax Survey Database (NTSD). The results suggest that Fintech development leads to a reduction in CCEs. Our findings remain robust even after using the instrumental variable approach to alleviate endogeneity problems. The mechanism analysis reveals that Fintech reduces CCEs via alleviating financing constraints, improving energy efficiency, and promoting green innovation. Heterogeneity analysis demonstrates that Fintech dramatically decreases CCEs from coal energy consumption, while increasing CCEs from consuming power and gas energy. Additionally, carbon emissions from state‐owned and foreign companies experience a more pronounced reduction through Fintech compared to those from private firms. Furthermore, firms in eastern and middle regions are more vulnerable to Fintech development. Moreover, enterprises in non‐high‐tech industries and high‐polluting industries exhibit noteworthy performance in reducing carbon emissions through Fintech adoption. This research offers policymakers a path to effectively govern CCEs and achieve their carbon reduction targets.

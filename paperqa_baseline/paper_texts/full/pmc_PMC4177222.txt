@@ -1,0 +1,9 @@
+Title: IL-17A Promotes the Migration and Invasiveness of Cervical Cancer Cells by Coordinately Activating MMPs Expression via the p38/NF-κB Signal Pathway
+Authors: Minjuan Feng, Yidong Wang, Kunlun Chen, Zhuoqiong Bian, Jinfang Wu, Qing Gao
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0108502
+Paper ID: pmc_PMC4177222
+
+Abstract:
+Objective IL-17A plays an important role in many inflammatory diseases and cancers. We aimed to examine the effect of IL-17A on the invasion of cervical cancer cells and study its related mechanisms. Methods Wound healing and matrigel transwell assays were used to examine the effect of IL-17A on cervical cancer cell migration and invasion by a panel of cervical cancer cell lines. The levels of matrix metalloproteinases (MMPs) and tissue inhibitor of metalloproteinases (TIMPs) were investigated using western blotting. The activity of p38 and nuclear factor-kappa B (NF-κB) signal pathway was detected too. Results Here, we showed that IL-17A could promote the migration and invasion of cervical cancer cells. Further molecular analysis showed that IL-17A could up-regulate the expressions and activities of MMP2 and MMP9, and down-regulate the expressions of TIMP-1 and TIMP-2. Furthermore, IL-17A also activates p38 signal pathway and increased p50 and p65 nuclear expression. In addition, treatment of cervical cancer cells with the pharmacological p38/NF-κB signal pathway inhibitors, SB203580 and PDTC, potently restored the roles of invasion and upregulation of MMPs induced by IL-17A. Conclusion IL-17A could promote the migration and invasion of cervical cancer cell via up-regulating MMP2 and MMP9 expression, and down-regulating TIMP-1 and TIMP-2 expression via p38/NF-κB signal pathway. IL-17A may be a potential target to improve the prognosis for patients with cervical cancer.

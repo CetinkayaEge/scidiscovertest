@@ -1,0 +1,9 @@
+Title: Proposals for Surmounting Sensor Noises
+Authors: Andre Pittella, Timothy Sands
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063169
+Paper ID: pmc_PMC10058630
+
+Abstract:
+Classical and optimal control architectures for motion mechanics in the presence of noisy sensors use different algorithms and calculations to perform and control any number of physical demands, to varying degrees of accuracy and precision in regards to the system meeting the desired end state. To circumvent the deleterious effects of noisy sensors, a variety of control architectures are suggested, and their performances are tested for the purpose of comparison through the means of a Monte Carlo simulation that simulates how different parameters might vary under noise, representing real-world imperfect sensors. We find that improvements in one figure of merit often come at a cost in the performance in the others, especially depending on the presence of noise in the system sensors. If sensor noise is negligible, open-loop optimal control performs the best. However, in the overpowering presence of sensor noise, using a control law inversion patching filter performs as the best replacement, but has significant computational strain. The control law inversion filter produces state mean accuracy matching mathematically optimal results while reducing deviation by 36%. Meanwhile, rate sensor issues were more strongly ameliorated with 500% improved mean and 30% improved deviation. Inverting the patching filter is innovative but consequently understudied and lacks well-known equations to use for tuning gains. Therefore, such a patching filter has the additional drawback of having to be tuned through trial and error.

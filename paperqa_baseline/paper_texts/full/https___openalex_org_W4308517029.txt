@@ -1,0 +1,9 @@
+Title: Enviro-Economic Assessment of HHO–CNG Mixture Utilization in Spark Ignition Engine for Performance and Environmental Sustainability
+Authors: Muhammad Usman, Muhammad Ali Ijaz Malik, Rehmat Bashir, Fahid Riaz, Muhammad Juniad Raza, Khubaib Suleman, Abd-ul Rehman, Waqar Muhammad Ashraf, Jarosław Krzywański
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15218253
+Paper ID: https://openalex.org/W4308517029
+
+Abstract:
+Road transportation has received the attention of researchers due to its higher carbon footprint. Alternative fuels present major advantages in terms of environmental sustainability. For this reason, an enviro-economic analysis of alternative fuels carries great significance. However, scarce attempts have been rendered in order to ascertain the impact of a hydroxy gas (HHO) and compressed natural gas (CNG) mixture on sustainable environmental development. The current study addresses this issue by employing an HHO–CNG mixture and gasoline in spark ignition (SI) engines for the purposes of performance and environmental pollutants measurement. Then, engine emission data were substituted for Weibull distribution in order to establish suitability for 50 and 95% confidence intervals (CIs). The mixture outperformed gasoline in terms of brake-specific fuel consumption (BSFC) and emission contents. On average, hydroxy gas with CNG produced 10.59% lower oxides of nitrogen (NOX) comparative to gasoline. Finally, the enviro-economic analysis also turned out to be in favor of the hydroxy gas mixture owing to a saving of 36.14% in USD/year due to 27.87% lower production of carbon dioxide (CO2) emission.

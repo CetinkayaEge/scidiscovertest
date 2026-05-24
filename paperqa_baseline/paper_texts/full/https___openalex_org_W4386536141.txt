@@ -1,0 +1,9 @@
+Title: Collaborative Energy-Efficient Routing Protocol for Sustainable Communication in 5G/6G Wireless Sensor Networks
+Authors: H L Gururaj, Rajesh Natarajan, Nouf Abdullah Almujally, Francesco Flammini, Sujatha Krishna, Shashi Kant Gupta
+Year: 2023
+Venue: IEEE Open Journal of the Communications Society
+DOI: https://doi.org/10.1109/ojcoms.2023.3312155
+Paper ID: https://openalex.org/W4386536141
+
+Abstract:
+One of the main problems with WSNs is that most sensor nodes in wireless sensor networks (WSNs) are motorized by energy-constrained, which significantly affects the system’s effectiveness, dependability, and lifespan. Numerous clustering strategies have been created to enhance the energy efficiency of WSNs in 5G and 6G transmission. To overcome these issues, we suggest a collaborative energy-efficient routing protocol (CEEPR) for sustainable communication in 5G/6G wireless sensor networks (WSNs). Initially, this study gathered and collected the data at the sink node. The network’s nodes are clustered using the reinforcement learning technique (R.L.). Cluster head selection is employed for better data transmission using residual energy (RE) based cluster head selection algorithm. A collaborative energy-efficient routing protocol (CEERP) is proposed. We use a multi-objective improved seagull algorithm (MOISA) as an optimization technique to enhance the system’s performance. Finally, the presentation of the system is analyzed. Compare with the existing methods, the primary metrics are throughput, energy consumption, network lifetime, packet transmission, routing overhead, and transmission speed. The proposed approach uses 50% less energy while improving network lifespan and energy efficiency compared to the current protocols.

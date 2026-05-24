@@ -1,0 +1,9 @@
+Title: Interventions to promote home radon testing: A randomized clinical trial of a smartphone app vs. printed brochures
+Authors: Soojung Kim, Tiffany Chiu, Marilyn G. Klug, David Schmitz, Gary G. Schwartz
+Year: 2022
+Venue: Cancer Medicine
+DOI: 10.1002/cam4.4988
+Paper ID: pmc_PMC9883538
+
+Abstract:
+Abstract Radon is a preventable cause of lung cancer, but the percentage of homes tested for radon is low. We previously developed a smartphone app that informs users about radon and allows them to request a free radon test. Here we conducted a randomized, controlled trial comparing the radon app versus printed brochures on radon knowledge, attitudes, and behaviors, including the proportion of participants requesting radon tests. Participants (N = 138) were undergraduates at a midwestern university. Data were analyzed by t ‐tests, general linear models, and logistic regression. App users showed significantly greater increases in radon knowledge ( p = 0.010) and self‐efficacy ( p < 0.001) and requested tests three times more often than brochure recipients (41.4% vs. 13.2%, p < 0.001). However, the rate of test usage in each condition was low, ~3%. In conclusion, the radon app markedly outperformed brochures in increasing knowledge and requests for radon tests. Future work should focus on methods to increase test usage. We developed an app for smartphones to encourage radon testing of homes and compared it to print brochures in its ability to stimulate radon test requests.The radon app was markedly superior to brochures and increased test requests 3‐fold.

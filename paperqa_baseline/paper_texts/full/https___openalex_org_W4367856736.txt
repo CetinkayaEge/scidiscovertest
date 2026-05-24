@@ -1,0 +1,9 @@
+Title: A framework to identify and prioritise the key sustainability indicators: Assessment of heating systems in the built environment
+Authors: Mohammad Hosein Abbasi, Badr M. Abdullah, Raúl Castaño-Rosa, Muhammad Waseem Ahmad, Ali Rostami
+Year: 2023
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2023.104629
+Paper ID: https://openalex.org/W4367856736
+
+Abstract:
+Sustainability indicators (SIs) are important instruments to quantify, analyse, and communicate complex sustainability information, with a history of application in energy research. It is critical to identify an effective set of indicators which can holistically evaluate the energy systems encompassing the three facets of sustainability: environment, economy, and society. However, the literature has been lacking in either proportionally representing the sustainability dimensions or reflecting the stakeholders’ preferences. This paper develops a framework to identify and prioritise a set of SIs, critically reviewed to ensure reflection of a wide array of factors and conceptions of what sustainability entails. The developed framework utilises a series of methods within three phases: identification, refinement, and prioritisation. Applying the proposed framework to building heating technologies, a set of 22 SIs consisting of 4 economic, 8 environmental, and 10 social indicators were identified. According to the results, the economic indicators of Operation & Maintenance Cost and Net Present Value were found to be the most impactful factors, while environmental SIs contribute the most to the overall sustainability weight. The identified indicators apply to the assessment of heating systems and policies, and the proposed framework could more broadly support analysis of key sustainability criteria in various fields.

@@ -1,0 +1,9 @@
+Title: Trade-offs between economic, environmental and social sustainability on farms using a latent class frontier efficiency model: Evidence for Spanish crop farms
+Authors: Amer Ait Sidhoum, K Hervé Dakpo, Laure Latruffe
+Year: 2022
+Venue: PLoS ONE
+DOI: https://doi.org/10.1371/journal.pone.0261190
+Paper ID: https://openalex.org/W4205466247
+
+Abstract:
+This article studies trade-offs of farms in terms of economic sustainability (proxied here by technical efficiency), environmental sustainability (proxied here by farmers' commitment towards the environment) and social sustainability (proxied here by farmers' contribution to on farm well-being and communities' well-being). We use the latent class stochastic frontier model and create classes based on three separating variables, representing farms' environmental sustainability and social sustainability. The application to a sample of Spanish crop farms shows that more environmentally sustainable farms are likely to have lower levels of technical efficiency. However, improvements in social concerns, both towards own farm and the larger community, may lead to improved technical efficiency levels. In general, our study provides evidence of trade-offs for farms between economic sustainability and environmental sustainability, but also between environmental sustainability and social sustainability.

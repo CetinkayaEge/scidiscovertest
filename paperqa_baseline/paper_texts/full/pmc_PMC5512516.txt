@@ -1,0 +1,9 @@
+Title: Generalized Effective Medium Theory for Particulate Nanocomposite Materials
+Authors: Muhammad Usama Siddiqui, Abul Fazal M. Arif
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080694
+Paper ID: pmc_PMC5512516
+
+Abstract:
+The thermal conductivity of particulate nanocomposites is strongly dependent on the size, shape, orientation and dispersion uniformity of the inclusions. To correctly estimate the effective thermal conductivity of the nanocomposite, all these factors should be included in the prediction model. In this paper, the formulation of a generalized effective medium theory for the determination of the effective thermal conductivity of particulate nanocomposites with multiple inclusions is presented. The formulated methodology takes into account all the factors mentioned above and can be used to model nanocomposites with multiple inclusions that are randomly oriented or aligned in a particular direction. The effect of inclusion dispersion non-uniformity is modeled using a two-scale approach. The applications of the formulated effective medium theory are demonstrated using previously published experimental and numerical results for several particulate nanocomposites.

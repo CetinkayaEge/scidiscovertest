@@ -1,0 +1,9 @@
+Title: Multi-Objective Sliding Mode Control on Vehicle Cornering Stability with Variable Gear Ratio Actuator-Based Active Front Steering Systems
+Authors: Xinbo Ma, Pak Kin Wong, Jing Zhao, Zhengchao Xie
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010049
+Paper ID: pmc_PMC5298622
+
+Abstract:
+Active front steering (AFS) is an emerging technology to improve the vehicle cornering stability by introducing an additional small steering angle to the driver’s input. This paper proposes an AFS system with a variable gear ratio steering (VGRS) actuator which is controlled by using the sliding mode control (SMC) strategy to improve the cornering stability of vehicles. In the design of an AFS system, different sensors are considered to measure the vehicle state, and the mechanism of the AFS system is also modelled in detail. Moreover, in order to improve the cornering stability of vehicles, two dependent objectives, namely sideslip angle and yaw rate, are considered together in the design of SMC strategy. By evaluating the cornering performance, Sine with Dwell and accident avoidance tests are conducted, and the simulation results indicate that the proposed SMC strategy is capable of improving the cornering stability of vehicles in practice.

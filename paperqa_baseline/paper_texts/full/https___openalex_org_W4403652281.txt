@@ -1,0 +1,9 @@
+Title: Sustainable materials systems for triboelectric nanogenerator
+Authors: Yijun Hao, Chuguo Zhang, Wei Su, Hongke Zhang, Yong Qin, Zhong Lin Wang, Xiuhan Li
+Year: 2024
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.244
+Paper ID: https://openalex.org/W4403652281
+
+Abstract:
+Abstract Benefiting from the high sensitivity and electromechanical conversion efficiency, triboelectric nanogenerators (TENGs) are widely used in various fields of self‐powered sensing and mechanical energy harvesting, which have great potential for application in future smart Internet of Things. The development of sustainable triboelectric materials with high‐performance has a vital impact on the construction of TENG devices that combine high‐output performance and environmental friendliness, which have a positive impact on the sustainable development of humanity. This review systematically and comprehensively summarizes the latest research work on TENG's sustainable materials. First, an overall overview is provided based on the composition of the materials, including amino acids, polysaccharides, and synthetic polymer, and the representative research works are further classified and summarized in detail. In addition, the latest research progress of TENG with sustainable materials in the fields of self‐powered sensing and mechanical energy harvesting applications is also summarized. Finally, the overviews are provided for the various challenges in the current development of TENG's sustainable material, and the related outlooks are offered on the corresponding development strategies and directions of this field in the future.

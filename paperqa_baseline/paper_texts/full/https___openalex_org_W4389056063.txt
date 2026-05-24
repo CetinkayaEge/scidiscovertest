@@ -1,0 +1,9 @@
+Title: Transition towards sustainable mobility: the role of transport optimization
+Authors: Belma Turan, Vera Hemmelmayr, Allan Larsen, Jakob Puchinger
+Year: 2023
+Venue: Central European Journal of Operations Research
+DOI: https://doi.org/10.1007/s10100-023-00888-8
+Paper ID: https://openalex.org/W4389056063
+
+Abstract:
+Abstract Although the concept of a transition towards sustainability has been introduced about 30 years ago, there is still a lack of progress. Transport emissions have not decreased in the last decade. However, they need to be reduced substantially to meet climate goals. The cornerstones of a transition can be summarized with the avoid-shift-improve paradigm: Traffic should be avoided as much as possible, any unavoidable traffic should be shifted to sustainable modes of transport and finally fuel and vehicle technologies should be improved. The goal of this paper is to find out how and where transport optimization can contribute to a transition towards sustainable mobility. It identifies concepts based on the avoid-shift-improve approach for which transport optimization can be used, describes the existing literature and points out research directions.

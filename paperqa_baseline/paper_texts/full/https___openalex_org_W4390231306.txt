@@ -1,0 +1,9 @@
+Title: Viability of sustainable logistics practices enabling circular economy: A system dynamics approach
+Authors: Chamari Pamoshika Jayarathna, Duzgun Agdas, Les Dawes
+Year: 2023
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3655
+Paper ID: https://openalex.org/W4390231306
+
+Abstract:
+Abstract Transitioning toward a circular economy (CE) offers a promising avenue for achieving sustainable logistics systems. Nevertheless, the assessment of sustainable logistics practices (SLPs) in the CE context presents challenges due to the inherent dynamism and complexity of logistics systems. This study aims to assess SLPs toward a CE by employing a system dynamics analysis. Specifically, we focus on four sustainability practices: green purchasing (GP), eco‐design (ED), reverse logistics (RL), and green transportation (GT). These practices are assessed in terms of economic, environmental, and social dimensions of sustainability performance using a hypothetical case study centered on pallet manufacturing and distribution system. The results revealed that the RL practice yields improved economic and social performance, while GT enhances environmental performance more significantly when compared to the other three practices. Our analysis shows RL as a promising practice that enhances overall sustainability performance. This model serves as a valuable tool for decision‐makers aiding them in the prioritization of sustainability practices based on their performance within various CE strategies.

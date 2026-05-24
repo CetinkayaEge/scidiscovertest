@@ -1,0 +1,9 @@
+Title: Role of natural gas and nuclear energy consumption in fostering environmental sustainability in India
+Authors: Tomiwa Sunday Adebayo, İlhan Öztürk, Mehmet Ağa, Solomon Eghosa Uhunamure, Derviş Kırıkkaleli, Karabo Shale
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-38189-4
+Paper ID: https://openalex.org/W4383559313
+
+Abstract:
+), and load capacity factor (LF). In addition to nuclear energy, the study considers the influence of gas consumption and other drivers of ecological sustainability using data spanning from 1970 to 2018. The analysis also takes into account the impact of the 2008 global financial crisis on the model, employing the autoregressive distributed lag (ARDL) and frequency domain causality approaches to assess the relationships. Unlike previous studies, this research evaluates both the Environmental Kuznets Curve (EKC) and load capacity curve (LCC) hypotheses. The ARDL results support the validity of both the EKC and LCC hypotheses in the Indian context. Furthermore, the findings reveal that nuclear energy and human capital contribute positively to ecological quality, while gas consumption and economic growth have a negative impact on ecological sustainability. The study also highlights the increasing effect of the 2008 global financial crisis on ecological sustainability. Additionally, the causality analysis demonstrates that nuclear energy, human capital, gas consumption, and economic growth can serve as predictors of long-term ecological sustainability in India. Based on these findings, the research presents policy recommendations that can guide efforts towards achieving SDGs 7 and 13.

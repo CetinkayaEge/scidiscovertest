@@ -1,0 +1,9 @@
+Title: Simulation-based evaluation of SAR and flip angle homogeneity for five transmit head arrays at 14 T
+Authors: Seb D. Harrevelt, Thomas H. M. Roos, Dennis W. J. Klomp, Bart R. Steensma, Alexander J. E. Raaijmakers
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01067-1
+Paper ID: pmc_PMC10140109
+
+Abstract:
+Introduction Various research sites are pursuing 14 T MRI systems. However, both local SAR and RF transmit field inhomogeneity will increase. The aim of this simulation study is to investigate the trade-offs between peak local SAR and flip angle uniformity for five transmit coil array designs at 14 T in comparison to 7 T. Methods Investigated coil array designs are: 8 dipole antennas (8D), 16 dipole antennas (16D), 8 loop coils (8D), 16 loop coils (16L), 8 dipoles/8 loop coils (8D8L) and for reference 8 dipoles at 7 T. Both RF shimming and k T -points were investigated by plotting L-curves of peak SAR levels vs flip angle homogeneity. Results For RF shimming, the 16L array performs best. For k T -points, superior flip angle homogeneity is achieved at the expense of more power deposition, and the dipole arrays outperform the loop coil arrays. Discussion and conclusion For most arrays and regular imaging, the constraint on head SAR is reached before constraints on peak local SAR are violated. Furthermore, the different drive vectors in k T -points alleviate strong peaks in local SAR. Flip angle inhomogeneity can be alleviated by k T -points at the expense of larger power deposition. For k T -points, the dipole arrays seem to outperform loop coil arrays. Supplementary Information The online version contains supplementary material available at 10.1007/s10334-023-01067-1.

@@ -1,0 +1,9 @@
+Title: Sustained greening of the Antarctic Peninsula observed from satellites
+Authors: Thomas P. Roland, Oliver T. Bartlett, Dan J. Charman, Karen Anderson, Dominic A. Hodgson, Matthew J. Amesbury, Ilya M. D. Maclean, Peter T. Fretwell, Andrew Fleming
+Year: 2024
+Venue: Nature Geoscience
+DOI: https://doi.org/10.1038/s41561-024-01564-5
+Paper ID: https://openalex.org/W4403115195
+
+Abstract:
+Abstract The Antarctic Peninsula has experienced considerable anthropogenic warming in recent decades. While cryospheric responses are well defined, the responses of moss-dominated terrestrial ecosystems have not been quantified. Analysis of Landsat archives (1986–2021) using a Google Earth Engine cloud-processing workflow suggest widespread greening across the Antarctic Peninsula. The area of likely vegetation cover increased from 0.863 km 2 in 1986 to 11.947 km 2 in 2021, with an accelerated rate of change in recent years (2016–2021: 0.424 km 2 yr −1 ) relative to the study period (1986–2021: 0.317 km 2 yr −1 ). This trend echoes a wider pattern of greening in cold-climate ecosystems in response to recent warming, suggesting future widespread changes in the Antarctic Peninsula’s terrestrial ecosystems and their long-term functioning.

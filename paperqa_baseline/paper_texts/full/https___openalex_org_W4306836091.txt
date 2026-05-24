@@ -1,0 +1,9 @@
+Title: Scenario Modeling of Energy Policies for Sustainable Development
+Authors: Nadiia Аrtyukhova, Inna Tiutiunyk, Sylwester Bogacki, Tomasz Wołowiec, Oleksandr Dluhopolskyi, Yevhen Kovalenko
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15207711
+Paper ID: https://openalex.org/W4306836091
+
+Abstract:
+The article deals with the impacts of economic, ecological, and social development scenarios in ensuring sustainable energy development. EU countries were the statistical bases of the study; the assessment period was from 2000 to 2019. The information bases of the research were the World Bank, the Organization for Economic Cooperation and Development, and the European Commission data. Based on the generalized method of moments, the authors investigated the dependence of energy consumption on economic, environmental, and social development factors. The results confirm the positive relationship between renewable energy consumption and GDP per capita, foreign direct investment, and energy depletion. A negative relationship between the consumption of renewable energy, CO2 emissions, and domestic gas emissions was proved. Based on intelligent data analysis methods (methods involving one-dimensional branching CART and agglomeration), countries were clustered depending on the nature of the energy development policy; portraits of these clusters were formalized. The study results can be useful to authorized bodies when determining the most effective mechanisms for forming and implementing sustainable energy development policies.

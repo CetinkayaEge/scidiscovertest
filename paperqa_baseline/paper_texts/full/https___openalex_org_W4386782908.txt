@@ -1,0 +1,9 @@
+Title: AI Chatbot Adoption in SMEs for Sustainable Manufacturing Supply Chain Performance: A Mediational Research in an Emerging Country
+Authors: Rashmi Ranjan Panigrahi, Avinash K. Shrivastava, Karishma M. Qureshi, Bhavesh G. Mewada, Saleh Alghamdi, Naif Almakayeel, Ali Saeed Almuflih, M.N. Qureshi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151813743
+Paper ID: https://openalex.org/W4386782908
+
+Abstract:
+AI chatbots (AICs) have the potential to increase the sustainability of a manufacturing supply chain (SC) through sales engagement and customer engagement to accomplish various activities related to logistics and SC in real time. Industry 4.0 (I4.0) has opened up several opportunities with internet-based technologies, along with challenges for small and medium enterprises (SMEs). SMEs are beginning to adopt such technologies for their competitive advantages and the required sustainability in the manufacturing supply chain. AICs may help in accomplishing supply chain visibility (SCV) to enhance sustainable supply chain performance (SSCP). Innovation capability (IC) is also due to disruptive technologies being adopted by SMEs. The present research investigates the role of AICs in SCV and IC, which lead to SSCP, by employing structural equation modeling (SEM). An empirical study based on dynamic capability (DC) theory was carried out using 246 responses, and later Smart PLS-4.0 was used for SEM. The analysis revealed that AICs positively influence SCV and IC to support SSCP. SCV and IC also partially mediate the relationship between the adoption of AICs and SSCP.

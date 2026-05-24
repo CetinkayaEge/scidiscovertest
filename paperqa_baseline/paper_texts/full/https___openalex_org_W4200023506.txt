@@ -1,0 +1,9 @@
+Title: A core ontology for modeling life cycle sustainability assessment on the Semantic Web
+Authors: Agneta Ghose, Matteo Lissandrini, Emil Riis Hansen, Bo P. Weidema
+Year: 2021
+Venue: Journal of Industrial Ecology
+DOI: https://doi.org/10.1111/jiec.13220
+Paper ID: https://openalex.org/W4200023506
+
+Abstract:
+Abstract The use of Semantic Web and linked data increases the possibility of data accessibility, interpretability, and interoperability. It supports cross‐domain data and knowledge sharing and avoids the creation of research data silos. Widely adopted in several research domains, the use of the Semantic Web has been relatively limited with respect to sustainability assessments. A primary barrier is that the framework of the principles and technologies required to link and query data from the Semantic Web is often beyond the scope of industrial ecologists. Linking of a dataset to Semantic Web requires the development of a semantically linked core ontology in addition to the use of existing ontologies. Ontologies provide logical meaning to the data and the possibility to develop machine‐readable data format. To enable and support the uptake of semantic ontologies, we present a core ontology developed specifically to capture the data relevant for life cycle sustainability assessment. We further demonstrate the utility of the ontology by using it to integrate data relevant to sustainability assessments, such as EXIOBASE and the Yale Stocks and Flow Database to the Semantic Web. These datasets can be accessed by the machine‐readable endpoint using SPARQL, a semantic query language. The present work provides the foundation necessary to enhance the use of Semantic Web with respect to sustainability assessments. Finally, we provide our perspective on the challenges toward the adoption of Semantic Web technologies and technical solutions that can address these challenges.

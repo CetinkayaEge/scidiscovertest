@@ -1,0 +1,9 @@
+Title: Generic Multi-Layered Digital-Twin-Framework-Enabled Asset Lifecycle Management for the Sustainable Mining Industry
+Authors: Nabil El Bazi, Mustapha Mabrouki, Oussama Laayati, Nada Ouhabi, Hicham El Hadraoui, Fatima-Ezzahra Hammouch, Ahmed Chebak
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043470
+Paper ID: https://openalex.org/W4320729691
+
+Abstract:
+In the era of digitalization, many technologies are evolving, namely, the Internet of Things (IoT), big data, cloud computing, artificial intelligence (IA), and digital twin (DT) which has gained significant traction in a variety of sectors, including the mining industry. The use of DT in the mining industry is driven by its potential to improve efficiency, productivity, and sustainability by monitoring performance, simulating results, and predicting errors and yield. Additionally, the increasing demand for individualized products highlights the need for effective management of the entire product lifecycle, from design to development, modeling, simulating, prototyping, maintenance and troubleshooting, commissioning, targeting the market, use, and end-of-life. However, the problem to be overcome is how to successfully integrate DT into the mining business. This paper intends to shed light on the state of art of DT case studies focusing on concept, design, and development. The DT reference architecture model in Industry 4.0 and value-lifecycle-management-enabled DT are also discussed, and a proposition of a DT multi-layered architecture framework for the mining industry is explained to inspire future case studies.

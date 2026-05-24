@@ -1,0 +1,9 @@
+Title: Engineer a double team of short-lived and glucose-sensing bacteria for cancer eradication
+Authors: Ye Jin, Li Fu
+Year: 2023
+Venue: Cell Reports Medicine
+DOI: 10.1016/j.xcrm.2023.101043
+Paper ID: pmc_PMC10313919
+
+Abstract:
+Summary Rationally designed and engineered bacteria represent an emerging unique approach for cancer treatment. Here, we engineer a short-lived bacterium, mp105, that is effective against diverse cancer types and safe for intravenous administration. We reveal that mp105 combats cancer by direct oncolysis, depletion of tumor-associated macrophages, and elicitation of CD4 + T cell immunity. We further engineer a glucose-sensing bacterium named m6001 that selectively colonizes solid tumors. When intratumorally injected, m6001 clears tumors more efficiently than mp105 due to its post-delivery replication in tumors and potent oncolytic capacity. Finally, we combine intravenous injection of mp105 and intratumoral injection of m6001, forming a double team against cancer. The double team enhances cancer therapy compared with single treatment for subjects carrying both intratumorally injectable and uninjectable tumors. The two anticancer bacteria and their combination are applicable to different scenarios, turning bacterial therapy for cancer into a feasible solution. Graphical abstract Highlights • mp105 is engineered to be short lived and safe for intravenous administration • m6001 is engineered to selectively colonize solid tumors by sensing glucose • The two bacteria deplete tumor-associated macrophages, eliciting T cell immunity • Combination of the two bacteria improves cancer treatment Using bacteria for cancer therapy is hampered by safety and efficacy. Jin and Fu control the lifespan and tumor-selective colonization of bacteria, achieving tumor eradication safely in mice. Reduction of tumor-associated macrophages and direct oncolysis are mechanisms underlying the bacteria-mediated cancer treatment.

@@ -1,0 +1,9 @@
+Title: Psychophysiological Parameters Predict the Performance of Naive Subjects in Sport Shooting Training
+Authors: Artem Badarin, Vladimir Antipov, Vadim Grubov, Nikita Grigorev, Andrey Savosenkov, Anna Udoratina, Susanna Gordleeva, Semen Kurkin, Victor Kazantsev, Alexander Hramov
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063160
+Paper ID: pmc_PMC10054378
+
+Abstract:
+In this study, we investigated the neural and behavioral mechanisms associated with precision visual-motor control during the learning of sport shooting. We developed an experimental paradigm adapted for naïve individuals and a multisensory experimental paradigm. We showed that in the proposed experimental paradigms, subjects trained well and significantly increased their accuracy. We also identified several psycho-physiological parameters that were associated with shooting outcomes, including EEG biomarkers. In particular, we observed an increase in head-averaged delta and right temporal alpha EEG power before missing shots, as well as a negative correlation between theta-band energies in the frontal and central brain regions and shooting success. Our findings suggest that the multimodal analysis approach has the potential to be highly informative in studying the complex processes involved in visual-motor control learning and may be useful for optimizing training processes.

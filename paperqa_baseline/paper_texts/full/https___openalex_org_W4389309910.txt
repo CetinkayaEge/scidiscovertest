@@ -1,0 +1,9 @@
+Title: CBE Clima Tool: A free and open-source web application for climate analysis tailored to sustainable building design
+Authors: Giovanni Betti, Federico Tartarini, Christine Nguyen, Stefano Schiavon
+Year: 2023
+Venue: Building Simulation
+DOI: https://doi.org/10.1007/s12273-023-1090-5
+Paper ID: https://openalex.org/W4389309910
+
+Abstract:
+Abstract Climate-responsive building design holds immense potential for enhancing comfort, energy efficiency, and environmental sustainability. However, many social, cultural, and economic obstacles might prevent the wide adoption of designing climate-adapted buildings. One of these obstacles can be removed by enabling practitioners to easily access, visualize and analyze local climate data. The CBE Clima Tool (Clima) is a free and open-source web application that offers easy access to publicly available weather files and has been created for building energy simulation and design. It provides a series of interactive visualizations of the variables contained in the EnergyPlus Weather Files and several derived ones like the UTCI or the adaptive comfort indices. It is aimed at students, educators, and practitioners in the architecture and engineering fields. Since its inception, Clima’s user base has exhibited robust growth, attracting over 25,000 unique users annually from across 70 countries. Our tool is poised to revolutionize climate-adaptive building design, transcending geographical boundaries and fostering innovation in the architecture and engineering fields.

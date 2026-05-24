@@ -1,0 +1,9 @@
+Title: Uniaxial strain-induced mechanical and electronic property modulation of silicene
+Authors: Rui Qin, Wenjun Zhu, Yalin Zhang, Xiaoliang Deng
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-521
+Paper ID: pmc_PMC4177381
+
+Abstract:
+We perform first-principles calculations of mechanical and electronic properties of silicene under uniaxial strains. Poisson's ratio and the rigidity of silicene show strong chirality dependence under large uniaxial strains. The ultimate strains of silicene with uniaxial strain are smaller than those with biaxial strain. We find that uniaxial strains induce Dirac point deviation from the high-symmetry points in the Brillouin zone and semimetal-metal transitions. Therefore, no bandgap opens under the uniaxial strain. Due to its peculiar structure and variable sp 3 / sp 2 ratio of the chemical bond, the deviation directions of Dirac points from the high-symmetry points in the Brillouin zone and variation of Fermi velocities of silicene exhibit significant difference from those of graphene. Fermi velocities show strong anisotropy with respect to the wave vector directions and change slightly before the semimetal-metal transition. We also find that the work function of silicene increases monotonously with the increasing uniaxial strains. PACS numbers 61.46.-w; 62.20.D-; 73.22.Dj

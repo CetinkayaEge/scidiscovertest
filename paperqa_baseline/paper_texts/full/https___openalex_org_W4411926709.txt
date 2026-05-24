@@ -1,0 +1,9 @@
+Title: Sustainable Investments in the Blue Economy: Leveraging Fintech and Adoption Theories
+Authors: Vikas Sharma, Ramona Rupeika-Apoga, Tejinder Singh, Munish Gupta
+Year: 2025
+Venue: Journal of risk and financial management
+DOI: https://doi.org/10.3390/jrfm18070368
+Paper ID: https://openalex.org/W4411926709
+
+Abstract:
+This study investigates the attributes influencing the adoption of fintech services for sustainable investment within the blue economy. Specifically, it integrates the Diffusion of Innovations (DOI) theory and the Technology Acceptance Model (TAM) to examine how the perceived relative advantages, compatibility, complexity, trialability, and observability of fintech services influence their perceived ease of use and perceived usefulness, and it explores their impact on the intention to adopt fintech services. Finally, the study assesses how the intention to adopt fintech services affects sustainable investment decisions in the blue economy. Data were collected from 224 stakeholders in the blue economy sectors in India during the summer of 2024 and analyzed using structural equation modeling with partial least squares (SEM-PLS). The results reveal which attributes significantly influence perceived ease of use and perceived usefulness. Additionally, perceived ease of use and perceived usefulness significantly influence the intention to adopt fintech services. The intention to adopt fintech services positively impacts sustainable investment decisions in the blue economy. This study provides a comprehensive framework for advancing fintech services that support sustainable investment decisions, thereby contributing to the growth of the blue economy.

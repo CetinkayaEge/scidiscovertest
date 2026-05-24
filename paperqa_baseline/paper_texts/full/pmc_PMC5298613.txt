@@ -1,0 +1,9 @@
+Title: A Measurement Method for Large Parts Combining with Feature Compression Extraction and Directed Edge-Point Criterion
+Authors: Wei Liu, Yang Zhang, Fan Yang, Peng Gao, Zhiguang Lan, Zhenyuan Jia, Hang Gao
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010040
+Paper ID: pmc_PMC5298613
+
+Abstract:
+High-accuracy surface measurement of large aviation parts is a significant guarantee of aircraft assembly with high quality. The result of boundary measurement is a significant parameter for aviation-part measurement. This paper proposes a measurement method for accurately measuring the surface and boundary of aviation part with feature compression extraction and directed edge-point criterion. To improve the measurement accuracy of both the surface and boundary of large parts, extraction method of global boundary and feature analysis of local stripe are combined. The center feature of laser stripe is obtained with high accuracy and less calculation using a sub-pixel centroid extraction method based on compress processing. This method consists of a compressing process of images and judgment criterion of laser stripe centers. An edge-point extraction method based on directed arc-length criterion is proposed to obtain accurate boundary. Finally, a high-precision reconstruction of aerospace part is achieved. Experiments are performed both in a laboratory and an industrial field. The physical measurements validate that the mean distance deviation of the proposed method is 0.47 mm. The results of the field experimentation show the validity of the proposed method.

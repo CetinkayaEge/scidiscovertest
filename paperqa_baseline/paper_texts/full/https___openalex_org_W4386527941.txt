@@ -1,0 +1,9 @@
+Title: Smart grid technologies and application in the sustainable energy transition: a review
+Authors: Moses Jeremiah Barasa Kabeyi, Oludolapo Akanni Olanrewaju
+Year: 2023
+Venue: International Journal of Sustainable Energy
+DOI: https://doi.org/10.1080/14786451.2023.2222298
+Paper ID: https://openalex.org/W4386527941
+
+Abstract:
+The smart grid is a product of the advances in computer and communication technology and power electronics that creates a more resilient, reliable and one that supports a two-way flow of electricity and information. The smart grid enables more uptake of the variable renewables like wind, solar and variable loads like the plug-in cars and improves the efficiency of power systems and facilitate several products and services supported by the grid like automatic healing and re-routing of power in case of a fault and demand side management. The deployment and use of smart grids will enhance the realization of shared goals of grid stakeholders, promote energy security, enable economic growth, and help in the mitigation of climate change.

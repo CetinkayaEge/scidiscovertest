@@ -1,0 +1,9 @@
+Title: Inter-Cohort Validation of SuStaIn Model for Alzheimer’s Disease
+Authors: Damiano Archetti, Alexandra L. Young, Neil P. Oxtoby, Daniel Ferreira, Gustav Mårtensson, Eric Westman, Daniel C. Alexander, Giovanni B. Frisoni, Alberto Redolfi
+Year: 2021
+Venue: Frontiers in Big Data
+DOI: https://doi.org/10.3389/fdata.2021.661110
+Paper ID: https://openalex.org/W3163997615
+
+Abstract:
+cerebrospinal fluid concentration was proven to predict conversion from MCI to AD dementia on par with other novel statistical algorithms, with ROC curves that were not statistically different for the training and test sets and with area under curve respectively equal to 0.77 and 0.76. This study proves the transferability of a SuStaIn model for AD from research data to less-structured clinical cohorts, and indicates transferability to the clinical setting.

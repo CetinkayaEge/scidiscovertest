@@ -1,0 +1,9 @@
+Title: Indoor Organic Photovoltaics for Self‐Sustaining IoT Devices: Progress, Challenges and Practicalization
+Authors: Muhammad Jahandar, Soyeon Kim, Dong Chan Lim
+Year: 2021
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202100981
+Paper ID: https://openalex.org/W3165650188
+
+Abstract:
+Indoor photovoltaics (IPVs) have great potential to provide a self-sustaining power source for Internet-of-Things (IoT) devices. The rapid growth in demand for low-power IoT devices for indoor application not only boosts the development of high-performance IPVs, but also promotes the electronics and semiconductor industry for the design and development of ultra-low-power IoT systems. In this Review, the recent progress in IPV technologies, design rules, market trends, and future prospects for highly efficient indoor photovoltaics are discussed. Special attention is given to the progress and development of organic photovoltaics (OPVs), which demonstrate great possibilities for IPVs, owing to their bandgap tunability, high absorbance coefficient, semitransparency, solution processability, and easy large-area manufacturing on flexible substrates. Highly efficient indoor organic photovoltaics (IOPVs) can be realized through designing efficient donor and acceptor absorber materials that have good spectral responses in the visible region and better energy-aligned interfacial layers, and through modulation of optical properties. Interfacial engineering, photovoltage losses, device stability, and large-area organic photovoltaic modules are surveyed to understand the mechanisms of efficient power conversion and challenges for IOPVs under indoor conditions as a self-sustaining power source for IoT devices. Finally, the prospects for further improve in IOPV device performance and practical aspects of integrating IOPVs in low-power IoT devices are discussed.

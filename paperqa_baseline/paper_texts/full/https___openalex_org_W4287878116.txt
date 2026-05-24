@@ -1,0 +1,9 @@
+Title: Design Factors to Improve the Consistency and Sustainable User Experience of Responsive Interface Design
+Authors: Wenjie Li, Yuxiao Zhou, Shijian Luo, Yenan Dong
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14159131
+Paper ID: https://openalex.org/W4287878116
+
+Abstract:
+Computers have been extended to a variety of devices, such as smart phones, tablets, and smart watches, thereby increasing the importance of responsive interfaces across multi-terminal devices. To ensure a consistent and sustainable user experience for websites and software products, it is important to study the layout, design elements, and users’ visual perception of different terminal interfaces. In this paper, the multi-terminal interfaces of 40 existing responsive websites were studied in a hierarchical grouping experiment, and six typical interface layouts were classified and extracted. Then, the main design factors affecting interface consistency of the responsive website were extracted and classified through eye tracking and a questionnaire survey. Finally, taking a sales management software tool (SA) as an example for design application, we successfully created responsive interfaces across multi-terminal devices with a consistent and sustainable experience.

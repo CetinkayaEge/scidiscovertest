@@ -1,0 +1,9 @@
+Title: Reinforcement learning applications in environmental sustainability: a review
+Authors: Maddalena Zuccotto, Alberto Castellini, Davide La Torre, Lapo Mola, Alessandro Farinelli
+Year: 2024
+Venue: Artificial Intelligence Review
+DOI: https://doi.org/10.1007/s10462-024-10706-5
+Paper ID: https://openalex.org/W4394788526
+
+Abstract:
+Abstract Environmental sustainability is a worldwide key challenge attracting increasing attention due to climate change, pollution, and biodiversity decline. Reinforcement learning, initially employed in gaming contexts, has been recently applied to real-world domains, including the environmental sustainability realm, where uncertainty challenges strategy learning and adaptation. In this work, we survey the literature to identify the main applications of reinforcement learning in environmental sustainability and the predominant methods employed to address these challenges. We analyzed 181 papers and answered seven research questions, e.g., “How many academic studies have been published from 2003 to 2023 about RL for environmental sustainability?” and “What were the application domains and the methodologies used?”. Our analysis reveals an exponential growth in this field over the past two decades, with a rate of 0.42 in the number of publications (from 2 papers in 2007 to 53 in 2022), a strong interest in sustainability issues related to energy fields, and a preference for single-agent RL approaches to deal with sustainability. Finally, this work provides practitioners with a clear overview of the main challenges and open problems that should be tackled in future research.

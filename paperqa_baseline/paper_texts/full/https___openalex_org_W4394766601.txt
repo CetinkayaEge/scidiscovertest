@@ -1,0 +1,9 @@
+Title: Fintech, financial inclusion, and sustainable development in the African region
+Authors: Chemseddine Tidjani, Abderazak Madouri
+Year: 2024
+Venue: Frontiers in Applied Mathematics and Statistics
+DOI: https://doi.org/10.3389/fams.2024.1276218
+Paper ID: https://openalex.org/W4394766601
+
+Abstract:
+In this study, we explore the nexus between sustainable development and finance, with a specific focus on the African region–a critical yet underexplored context in the existing literature. Against the backdrop of evolving challenges in financial inclusion, improved access, and the growing prevalence of financial technology (FinTech), we aim to fill a research gap by investigating the connection between FinTech, financial inclusion, and sustainable development. The empirical exploration spans 25 African countries from 2011 to 2019, employing econometric methods such as dynamic panel (SGMM two-steps) and static panel (OLS, FE, LSDV). Utilizing key indicators like Adjusted Net Savings (ANS) and Gross Saving rate (GS), our findings reveal a substantial positive impact of financial inclusion and FinTech on sustainable development. However, an intriguing discovery emerges as the interaction between these variables exhibits a weak negative and significant effect. As a unique contribution to the existing literature, we estimate marginal effects at various levels of FinTech and financial inclusion on sustainable development. Beyond insights, our study offers vital policy recommendations, emphasizing the necessity for improved collaboration among financial service providers to avoid redundancy. Furthermore, we highlight the critical need to expand financial infrastructure, advocate for FinTech promotion, and foster inter-African cooperation.

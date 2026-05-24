@@ -1,0 +1,9 @@
+Title: The role of financial development in improving marine living resources towards sustainable blue economy
+Authors: Nguyen Thi Hong Nham, Lê Thanh Hà
+Year: 2023
+Venue: Journal of Sea Research
+DOI: https://doi.org/10.1016/j.seares.2023.102417
+Paper ID: https://openalex.org/W4385257700
+
+Abstract:
+Our paper sheds light on the relationship between financial development and the performance of marine living resources. We use factor cost as a measure of the blue economy sustainability of European countries. Indices for financial institutions and financial markets development are considered. These two sub-indicators are then analyzed using three dimensions: depth, access, and efficiency. A panel-corrected standard error (PCSE) model, the Feasible Generalized Least Squares (FGLS) model, and the two-step GMM are employed to examine this link. Furthermore, we use the dynamic fixed effect in ARDL to distinguish between the short-run and long-run impacts of financial development. Our estimation results highlight the significance of financial development in improving the sustainability of the blue economy during the 2009–2020 period in the European region. It can be clearly seen that although financial development negatively impacts the factor cost in the short run, a positive relationship between financial development and factor cost can be observed in the long run. Understanding how financial maturity affects the ocean economy provides critical policy implications to promote the sustainable blue economy.

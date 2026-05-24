@@ -1,0 +1,9 @@
+Title: Refinement of the extended crosswise model with a number sequence randomizer: Evidence from three different studies in the UK
+Authors: Khadiga H. A. Sayed, Maarten J. L. F. Cruyff, Peter G. M. van der Heijden, Andrea Petróczi
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279741
+Paper ID: pmc_PMC9803288
+
+Abstract:
+The Extended Crosswise Model (ECWM) is a randomized response model with neutral response categories, relatively simple instructions, and the availability of a goodness-of-fit test. This paper refines this model with a number sequence randomizer that virtually precludes the possibility to give evasive responses. The motivation for developing this model stems from a strategic priority of WADA (World Anti-Doping Agency) to monitor the prevalence of doping use by elite athletes. For this model we derived a maximum likelihood estimator that allows for binary logistic regression analysis. Three studies were conducted on online platforms with a total of over 6, 000 respondents; two on controlled substance use and one on compliance with COVID-19 regulations in the UK during the first lockdown. The results of these studies are promising. The goodness-of-fit tests showed little to no evidence for response biases, and the ECWM yielded higher prevalence estimates than direct questions for sensitive questions, and similar ones for non-sensitive questions. Furthermore, the randomizer with the shortest number sequences yielded the smallest response error rates on a control question with known prevalence.

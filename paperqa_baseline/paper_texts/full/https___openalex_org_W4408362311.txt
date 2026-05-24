@@ -1,0 +1,9 @@
+Title: Harnessing Nitrogen-Fixing Cyanobacteria for Sustainable Agriculture: Opportunities, Challenges, and Implications for Food Security
+Authors: Taufiq Nawaz, Shah Fahad, Liping Gu, Lan Xu, Ruanbao Zhou
+Year: 2025
+Venue: Nitrogen
+DOI: https://doi.org/10.3390/nitrogen6010016
+Paper ID: https://openalex.org/W4408362311
+
+Abstract:
+Nitrogen, an essential element for plant growth and food production, presents significant challenges in agriculture due to the environmental consequences of synthetic nitrogen fertilizers. This review explores the potential of nitrogen-fixing cyanobacteria as a sustainable alternative for agricultural nitrogen fertilization. The molecular mechanisms underlying nitrogen fixation in cyanobacteria, including key genes such as nif and related biochemical pathways, are examined in detail. Biotechnological approaches for utilizing nitrogen-fixing cyanobacteria as biofertilizers are discussed, alongside strategies for genetic engineering to improve nitrogen fixation efficiency. The review further evaluates the impact of cyanobacteria on soil health and environmental sustainability, emphasizing their role in mitigating the detrimental effects of synthetic fertilizers. While promising, challenges such as oxygen sensitivity during nitrogen fixation and competition with native microorganisms are critically analyzed. Finally, future directions are proposed, including advancements in synthetic biology, integration with conventional agricultural practices, and scalable implementation strategies. This review underscores the transformative potential of nitrogen-fixing cyanobacteria in promoting sustainable agriculture and enhancing global food security.

@@ -1,0 +1,9 @@
+Title: Robust optimization of risk-aware, resilient and sustainable closed-loop supply chain network design with Lagrange relaxation and fix-and-optimize
+Authors: Reza Lotfi, Zohre Sheikhi, Mohsen Amra, Mehdi Alibakhshi, Gerhard‐Wilhelm Weber
+Year: 2021
+Venue: International Journal of Logistics Research and Applications
+DOI: https://doi.org/10.1080/13675567.2021.2017418
+Paper ID: https://openalex.org/W4200042162
+
+Abstract:
+This study explores a Robust, Risk-aware, Resilient, and Sustainable Closed-Loop Supply Chain Network Design (3RSCLSCND) to tackle demand fluctuation like COVID-19 pandemic. A two-stage robust stochastic multiobjective programming model serves to express the proposed problems in formulae. The objective functions include minimising costs, CO2 emissions, energy consumption, and maximising employment by applying Conditional Value at Risk (CVaR) to achieve reliability through risk reduction. The Entropic Value at Risk (EVaR) and Minimax method are used to compare with the proposed model. We utilise the Lp-Metric method to solve the multiobjective problem. Since this model is complex, the Lagrange relaxation and Fix-and-Optimise algorithm are applied to find lower and upper bounds in large-scale, respectively. The results confirm the superior power of the model offered in estimating costs, energy consumption, environmental pollution, and employment level. This model and algorithms are applicable for other CLSC problems.

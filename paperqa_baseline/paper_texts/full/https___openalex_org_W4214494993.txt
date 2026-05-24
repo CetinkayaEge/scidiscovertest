@@ -1,0 +1,9 @@
+Title: Comprehensive review of the dynamic thermal rating system for sustainable electrical power systems
+Authors: Ching‐Ming Lai, Jiashen Teh
+Year: 2022
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2022.02.085
+Paper ID: https://openalex.org/W4214494993
+
+Abstract:
+The dynamic thermal rating (DTR) system can safely determine the thermal limits of power components on the basis of environmental conditions. Studies have shown that the DTR system can provide ratings that are higher than the traditional static thermal rating (STR) 80% to 90% of the time; 50% of the time, DTR is 15% to 30% higher than STR. Hence, the benefits and applications of the DTR system have been widely investigated and reported in various review papers. However, available reviews of the DTR system focused on transmission lines and networks only, ignoring the thermal limits of the transformer and distribution cable, which could form a thermal bottleneck. Moreover, these review articles cover only a few research themes, and many important research topics are left undiscussed. Therefore, these reviews cannot provide sufficiently diverse research on the DTR system. These drawbacks are addressed in this review article, which covers 176 notable research articles related to the DTR system obtained from three major databases, namely, IEEE, Elsevier, and Wiley. The collected articles are categorized based on their focus (e.g., distribution networks, transmission networks, and transformers) and then further classified into small groups on the basis of their research themes. Such an approach provides prospective researchers of the DTR system a one-stop summary of all previous studies.

@@ -1,0 +1,9 @@
+Title: A comprehensive review on the electrochemical parameters and recent material development of electrochemical water splitting electrocatalysts †
+Authors: Asha Raveendran, Mijun Chandran, Ragupathy Dhanusuraman
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07642j
+Paper ID: pmc_PMC9890951
+
+Abstract:
+Electrochemical splitting of water is an appealing solution for energy storage and conversion to overcome the reliance on depleting fossil fuel reserves and prevent severe deterioration of the global climate. Though there are several fuel cells, hydrogen (H 2 ) and oxygen (O 2 ) fuel cells have zero carbon emissions, and water is the only by-product. Countless researchers worldwide are working on the fundamentals, i.e. the parameters affecting the electrocatalysis of water splitting and electrocatalysts that could improve the performance of the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) and overall simplify the water electrolysis process. Noble metals like platinum for HER and ruthenium and iridium for OER were used earlier; however, being expensive, there are more feasible options than employing these metals for all commercialization. The review discusses the recent developments in metal and metalloid HER and OER electrocatalysts from the s, p and d block elements. The evaluation perspectives for electrocatalysts of electrochemical water splitting are also highlighted. The periodic table elements involved in electrochemical water splitting.

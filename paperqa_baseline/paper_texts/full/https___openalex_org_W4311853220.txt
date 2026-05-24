@@ -1,0 +1,9 @@
+Title: Vehicle Telematics for Safer, Cleaner and More Sustainable Urban Transport: A Review
+Authors: Omid Ghaffarpasand, Mark J. Burke, Louisa K. Osei, Helen Ursell, Sam Chapman, Francis D. Pope
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142416386
+Paper ID: https://openalex.org/W4311853220
+
+Abstract:
+Urban transport contributes more than a quarter of the global greenhouse gas emissionns that drive climate change; it also produces significant air pollution emissions. Furthermore, vehicle collisions kill and seriously injure 1.35 and 60 million people worldwide, respectively, each year. This paper reviews how vehicle telematics can contribute towards safer, cleaner and more sustainable urban transport. Collection methods are reviewed with a focus on technical challenges, including data processing, storage and privacy concerns. We review how vehicle telematics can be used to estimate transport variables, such as traffic flow speed, driving characteristics, fuel consumption and exhaustive and non-exhaustive emissions. The roles of telematics in the development of intelligent transportation systems (ITSs), optimised routing services, safer road networks and fairer insurance premia estimation are highlighted. Finally, we outline the potential for telematics to facilitate new-to-market urban mobility technologies, signalised intersections, vehicle-to-vehicle (V2V) communication networks and other internet-of-things (IoT) and internet-of-vehicles (IoV) technologies.

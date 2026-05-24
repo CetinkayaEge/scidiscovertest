@@ -1,0 +1,9 @@
+Title: Experimental study on the galloping characteristics of single ice-coated transmission lines under oblique flows
+Authors: Mingyang Gao, Zhaoqing Chen, Jin Su, Ning Su, Chuncheng Liu, Jinlong Zhang, Huiru Chen
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-32393-y
+Paper ID: pmc_PMC10063567
+
+Abstract:
+Galloping of ice-coated transmission lines is occasionally observed under oblique wind directions. However, most current investigations on the galloping mechanisms are for flow perpendicular to the span of the transmission lines. In order to address this gap, this research studies the galloping characteristics of ice-coated transmission lines under oblique flows based on wind tunnel tests. The wind-induced displacement of an aero-elastic iced-coated transmission line model was measured with a noncontact displacement measurement equipment in a wind tunnel at different wind speeds and directions. The results show that galloping is characterized by elliptical trajectories and negative damping, which is more likely to occur under oblique flows than the direct flow (0°). At 15° wind direction, a galloping in vertical direction was observed at wind speeds above 5 m/s. At 30° wind direction, galloping was observed over the entire range of the tested wind speeds. Moreover, the galloping amplitudes under oblique flows are observed to be larger than that at the direct flows. Consequently, when the wind direction between the major winter monsoon azimuth and the lateral direction of transmission line route is between 15° and 30°, appropriate anti-galloping devices are highly recommended in practice.

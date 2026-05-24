@@ -1,0 +1,9 @@
+Title: High-Energy Room-Temperature Sodium–Sulfur and Sodium–Selenium Batteries for Sustainable Energy Storage
+Authors: Zefu Huang, Pauline Jaumaux, Bing Sun, Xin Guo, Dong Zhou, Devaraj Shanmukaraj, Michel Armand, Teófilo Rojo, Guoxiu Wang
+Year: 2023
+Venue: Electrochemical Energy Reviews
+DOI: https://doi.org/10.1007/s41918-023-00182-w
+Paper ID: https://openalex.org/W4380089279
+
+Abstract:
+Abstract Rechargeable room-temperature sodium–sulfur (Na–S) and sodium–selenium (Na–Se) batteries are gaining extensive attention for potential large-scale energy storage applications owing to their low cost and high theoretical energy density. Optimization of electrode materials and investigation of mechanisms are essential to achieve high energy density and long-term cycling stability of Na–S(Se) batteries. Herein, we provide a comprehensive review of the recent progress in Na–S(Se) batteries. We elucidate the Na storage mechanisms and improvement strategies for battery performance. In particular, we discuss the advances in the development of battery components, including high-performance sulfur cathodes, optimized electrolytes, advanced Na metal anodes and modified separators. Combined with current research achievements, this review outlines remaining challenges and clear research directions for the future development of practical high-performance Na–S(Se) batteries. Graphic Abstract

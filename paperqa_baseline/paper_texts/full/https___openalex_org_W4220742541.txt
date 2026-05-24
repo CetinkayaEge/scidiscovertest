@@ -1,0 +1,9 @@
+Title: Sustainable development goals: conceptualization, communication and achievement synergies in a complex network framework
+Authors: Loredana Bellantuono, A. Monaco, Nicola Amoroso, Vincenzo Aquaro, Angela Lombardi, Sabina Tangaro, R. Bellotti
+Year: 2022
+Venue: Applied Network Science
+DOI: https://doi.org/10.1007/s41109-022-00455-1
+Paper ID: https://openalex.org/W4220742541
+
+Abstract:
+In this work we use a network-based approach to investigate the complex system of interactions among the 17 Sustainable Development Goals (SDGs), that constitute the structure of the United Nations 2030 Agenda for a sustainable future. We construct a three-layer multiplex, in which SDGs represent nodes, and their connections in each layer are determined by similarity definitions based on conceptualization, communication, and achievement, respectively. In each layer of the multiplex, we investigate the presence of nodes with high centrality, corresponding to strategic SDGs. We then compare the networks to establish whether and to which extent similar patterns emerge. Interestingly, we observe a significant relation between the SDG similarity patterns determined by their achievement and their communication and perception, revealed by social network data. The proposed framework represents an instrument to unveil new and nontrivial aspects of sustainability, laying the foundation of a decision support system to define and implement SDG achievement strategies.

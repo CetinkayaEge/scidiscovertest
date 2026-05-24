@@ -1,0 +1,9 @@
+Title: REG3A promotes the proliferation, migration, and invasion of gastric cancer cells
+Authors: Zhou-Feng Chen, Zhi-Ming Huang, Hai-Bo Xue, Xiu-Qing Lin, Ren-Ping Chen, Meng-Jun Chen, Rui-Fang Jin
+Year: 2017
+Venue: OncoTargets and therapy
+DOI: 10.2147/OTT.S131443
+Paper ID: pmc_PMC5388263
+
+Abstract:
+The mechanism underlying the metastasis of gastric cancer (GC) cells remains elusive. REG3A is considered an oncogene in various cancers, but in GC its role is unclear. Here, we report that the expression of REG3A was significantly increased in the tumor tissues of patients with GC compared with the matched normal tissues. Knockdown of REG3A induced by specific small interfering RNA (siRNA) significantly repressed the proliferation of GC cells for 24 h or 48 h. Moreover, knockdown of REG3A significantly suppressed the migration, invasion, and adhesion of GC cells in vitro. Furthermore, knockdown of REG3A reduced the phosphorylation of JAK2 and STAT3, and altered the messenger RNA (mRNA) and protein expression levels of E-cadherin, Snail, RhoC, MTA1, MMP-2, and MMP-9. Taken together, REG3A is overexpressed in GC and promotes the proliferation, migration, invasion, and adhesion of GC cells by regulating the JAK2/STAT3 signal pathway. REG3A may be a potential therapeutic target for GC.

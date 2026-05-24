@@ -1,0 +1,9 @@
+Title: A review of printing strategies, sustainable cementitious materials and characterization methods in the context of extrusion-based 3D concrete printing
+Authors: Yu Chen, Shan He, Yidong Gan, Oğuzhan Çopuroğlu, Fred Veer, Erik Schlangen
+Year: 2021
+Venue: Journal of Building Engineering
+DOI: https://doi.org/10.1016/j.jobe.2021.103599
+Paper ID: https://openalex.org/W3212706181
+
+Abstract:
+This paper aims to provide a systematical review of the available printing strategies, sustainable cementitious materials and characterization methods for extrusion-based 3D concrete printing (3DCP). The printing strategies, consisting of printing setup, process, and material requirements, were summarized initially. In the material aspect, the high ordinary Portland cement (OPC) content in most printable mixtures is a major issue that impedes the sustainability of 3DCP. This can be resolved by partially substituting OPC with supplementary cementitious materials (SCMs). In this review, the effect of different SCMs on fresh-state behaviors and 3D printing of cementitious materials was comprehensively discussed. Finally, a series of test methods for quantitively characterizing fresh properties, 3D printability and interlayer behaviors were summarized and reviewed.

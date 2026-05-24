@@ -1,0 +1,9 @@
+Title: Ten major challenges for sustainable lithium-ion batteries
+Authors: Brindha Ramasubramanian, JinKiong Ling, Rajan Jose, Seeram Ramakrishna
+Year: 2024
+Venue: Cell Reports Physical Science
+DOI: https://doi.org/10.1016/j.xcrp.2024.102032
+Paper ID: https://openalex.org/W4399366788
+
+Abstract:
+Lithium-ion batteries offer a contemporary solution to curb greenhouse gas emissions and combat the climate crisis driven by gasoline usage. Consequently, rigorous research is currently underway to improve the performance and sustainability of current lithium-ion batteries or to develop newer battery chemistry. However, as an industrial product, batteries follow a linear route of waste-intensive production, use, and disposal; therefore, greater circularity would elevate them as sustainable energizers. This article outlines principles of sustainability and circularity of secondary batteries considering the life cycle of lithium-ion batteries as well as material recovery, component reuse, recycling efficiency, environmental impact, and economic viability. By addressing the issues outlined in these principles through cutting-edge research and development, it is anticipated that battery sustainability, safety, and efficiency can be improved, thereby enabling stable grid-scale operations for stationary storage and efficient, safe operation of electric vehicles, including end-of-life management and second-life applications.

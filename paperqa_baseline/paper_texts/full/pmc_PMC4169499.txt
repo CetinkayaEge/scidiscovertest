@@ -1,0 +1,9 @@
+Title: Genome-Wide Identification and Expression Analysis of NBS-Encoding Genes in Malus x domestica and Expansion of NBS Genes Family in Rosaceae
+Authors: Preeti Arya, Gulshan Kumar, Vishal Acharya, Anil K. Singh
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107987
+Paper ID: pmc_PMC4169499
+
+Abstract:
+Nucleotide binding site leucine-rich repeats (NBS-LRR) disease resistance proteins play an important role in plant defense against pathogen attack. A number of recent studies have been carried out to identify and characterize NBS-LRR gene families in many important plant species. In this study, we identified NBS-LRR gene family comprising of 1015 NBS-LRRs using highly stringent computational methods. These NBS-LRRs were characterized on the basis of conserved protein motifs, gene duplication events, chromosomal locations, phylogenetic relationships and digital gene expression analysis. Surprisingly, equal distribution of Toll/interleukin-1 receptor (TIR) and coiled coil (CC) (1∶1) was detected in apple while the unequal distribution was reported in majority of all other known plant genome studies. Prediction of gene duplication events intriguingly revealed that not only tandem duplication but also segmental duplication may equally be responsible for the expansion of the apple NBS-LRR gene family. Gene expression profiling using expressed sequence tags database of apple and quantitative real-time PCR (qRT-PCR) revealed the expression of these genes in wide range of tissues and disease conditions, respectively. Taken together, this study will provide a blueprint for future efforts towards improvement of disease resistance in apple.

@@ -1,0 +1,9 @@
+Title: Dry Machining Techniques for Sustainability in Metal Cutting: A Review
+Authors: Shailendra Pawanr, Kapil Gupta
+Year: 2024
+Venue: Processes
+DOI: https://doi.org/10.3390/pr12020417
+Paper ID: https://openalex.org/W4391982892
+
+Abstract:
+Dry machining has gained significant importance in the last few years due to its promising contribution towards sustainability. This review study introduces dry machining, presents its benefits, and summarizes the recent technological developments that can facilitate dry machining. It aims to provide a concise overview of the current state of the art in dry machining to promote sustainability. This article synthesizes and emphasizes the useful information from the existing literature, and summarizes the methods and tools used to implement it. It also identifies some of the major problems and challenges and their potential solutions to make dry machining more viable and efficient. It concludes with some future research directions important for the scholars and researchers to establish the field further. From this review study, the major findings are: (1) tools with textures or patterns can enhance the cutting performance of dry machining for various materials, (2) tool coating is an effective way to lower the tool cost in dry machining and can achieve the required functionality for the cutting tool without affecting its core properties, (3) Alumina-based mixed ceramic tools with SiC whiskers have better fracture toughness, thermal shock resistance, and self-crack healing properties, (4) one effective method to improve the dry cutting of engineering materials is to apply external energy sources to assist the dry machining process, (5) by using microwave sintering, cutting tools with finer microstructures and higher densities can be produced, which improve their hardness, wear resistance, and thermal stability to perform well in dry machining conditions.

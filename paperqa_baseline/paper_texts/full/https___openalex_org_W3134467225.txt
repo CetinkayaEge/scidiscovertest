@@ -1,0 +1,9 @@
+Title: Photocatalysis-mediated drug-free sustainable cancer therapy using nanocatalyst
+Authors: Bin Zhao, Yingshuai Wang, Xianxian Yao, Danyang Chen, Mingjian Fan, Zhaokui Jin, Qianjun He
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-21618-1
+Paper ID: https://openalex.org/W3134467225
+
+Abstract:
+nanocatalyst is developed to achieve near infrared (NIR)-photocatalytic generation of oxidative holes and hydrogen molecules for realizing combined hole/hydrogen therapy by the drug-free therapeutic strategy. Without the need of any drug and other therapeutic agent assistance, the nanocatalyst oxidizes/consumes intratumoral over-expressed glutathione (GSH) by holes and simultaneously generates hydrogen molecules in a lasting and controllable way under NIR irradiation. Mechanistically, generated hydrogen molecules and GSH consumption inhibit cancer cell energy and destroy intratumoral redox balance, respectively, to synergistically damage DNA and induce tumor cell apoptosis. High efficacy and biosafety of combined hole/hydrogen therapy of tumors are achieved by the nanocatalyst. The proposed catalysis-based drug-free therapeutic strategy breaks a pathway to realize high efficacy and low toxicity of cancer treatment.

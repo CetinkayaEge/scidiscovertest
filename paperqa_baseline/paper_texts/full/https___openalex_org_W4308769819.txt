@@ -1,0 +1,9 @@
+Title: Self‐Sustained Snapping Drives Autonomous Dancing and Motion in Free‐Standing Wavy Rings
+Authors: Yao Zhao, Yaoye Hong, Fangjie Qi, Yinding Chi, Hao Su, Jie Yin
+Year: 2022
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202207372
+Paper ID: https://openalex.org/W4308769819
+
+Abstract:
+Harnessing snapping, an instability phenomenon observed in nature (e.g., Venus flytraps), for autonomy has attracted growing interest in autonomous soft robots. However, achieving self-sustained snapping and snapping-driven autonomous motions in soft robots remains largely unexplored. Here, harnessing bistable, ribbon ring-like structures for realizing self-sustained snapping in a library of soft liquid-crystal elastomer wavy rings under constant thermal and photothermal actuation are reported. The self-sustained snapping induces continuous ring flipping that drives autonomous dancing or crawling motions on the ground and underwater. The 3D, free-standing wavy rings employ either a highly symmetric or symmetry-broken twisted shape with tunable geometric asymmetries. It is found that the former favors periodic self-dancing motion in place due to isotropic friction, while the latter shows a directional crawling motion along the predefined axis of symmetry during fabrication due to asymmetric friction. It shows that the crawling speed can be tuned by the geometric asymmetries with a peak speed achieved at the highest geometric asymmetry. Lastly, it is shown that the autonomous crawling ring can also adapt its body shape to pass through a confined space that is over 30% narrower than its body size.

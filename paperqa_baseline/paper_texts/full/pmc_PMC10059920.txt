@@ -1,0 +1,9 @@
+Title: Advances of Research on Dual-Frequency Solid-State Lasers for Synthetic-Wave Absolute-Distance Interferometry
+Authors: Mingxing Jiao, Fei Jiang, Junhong Xing, Yun Liu, Tianhong Lian, Jianning Liu, Guangtao Li
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063206
+Paper ID: pmc_PMC10059920
+
+Abstract:
+Frequency-difference-stabilized dual-frequency solid-state lasers with tunable and large frequency difference have become an ideal light source for the high-accuracy absolute-distance interferometric system due to their stable multistage synthetic wavelengths. In this work, the advances in research on oscillation principles and key technologies of the different kinds of dual-frequency solid-state lasers are reviewed, including birefringent dual-frequency solid-state lasers, biaxial and two-cavity dual-frequency solid-state lasers. The system composition, operating principle, and some main experimental results are briefly introduced. Several typical frequency-difference stabilizing systems for dual-frequency solid-state lasers are introduced and analyzed. The main development trends of research on dual-frequency solid-state lasers are predicted.

@@ -1,0 +1,9 @@
+Title: Coating and Patterning Functional Materials for Large Area Electrofluidic Arrays
+Authors: Hao Wu, Biao Tang, Robert A. Hayes, Yingying Dou, Yuanyuan Guo, Hongwei Jiang, Guofu Zhou
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080707
+Paper ID: pmc_PMC5512529
+
+Abstract:
+Industrialization of electrofluidic devices requires both high performance coating laminates and efficient material utilization on large area substrates. Here we show that screen printing can be effectively used to provide homogeneous pin-hole free patterned amorphous fluoropolymer dielectric layers to provide both the insulating and fluidic reversibility required for devices. Subsequently, we over-coat photoresist using slit coating on this normally extremely hydrophobic layer. In this way, we are able to pattern the photoresist by conventional lithography to provide the chemical contrast required for liquids dosing by self-assembly and highly-reversible electrofluidic switching. Materials, interfacial chemistry, and processing all contribute to the provision of the required engineered substrate properties. Coating homogeneity as characterized by metrology and device performance data are used to validate the methodology, which is well-suited for transfer to high volume production in existing LCD cell-making facilities.

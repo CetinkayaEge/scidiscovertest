@@ -1,0 +1,9 @@
+Title: Estimating the True Size of Public Procurement to Assess Sustainability Impact
+Authors: Fatima Hafsa, Nicole Darnall, Stuart Bretschneider
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031448
+Paper ID: https://openalex.org/W3128851619
+
+Abstract:
+Public procurement, the government’s purchase of goods and services, is an important tool to advance sustainability objectives. Since government is the largest consumer in the economy, it can have a sizable impact on the market by purchasing sustainably. However, its sustainability impact (both environmental and social) is undermined because the public procurement’s size is underestimated. Previous estimates of public procurement only consider contract-based purchases or non-defense purchases. In other instances, data are too limited to estimate government purchases appropriately. These factors lead to underestimations of the extent to which government purchasing can be leveraged to advance sustainability objectives. To understand the true impact of government purchases, we estimated the size of public procurement by considering all aspects of public procurement. We used this estimation to assess whether current measurement processes misrepresent the size of public procurement and identify key elements that may be missing from the current public procurement measures. We applied our estimate to four OECD countries, the U.S., the U.K., Italy, and the Netherlands for two years (2017 and 2018). Our results showed that that across all levels of government, public procurement as a percentage of GDP in the U.S., the U.K., Italy, and the Netherlands ranged between 19–24%, 13–56%, 3–10%, and 12–38%, respectively. Our findings revealed that governments have substantially greater market power than previously estimated, which can be leveraged to pursue sustainability goals. Our findings also illustrate systemic data challenges to how public procurement data are collected and analyzed.

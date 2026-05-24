@@ -1,0 +1,9 @@
+Title: Sustainable Reuse and Recycling of Spent Li‐Ion batteries from Electric Vehicles: Chemical, Environmental, and Economical Perspectives
+Authors: Kanit Hantanasirisakul, Montree Sawangphruk
+Year: 2023
+Venue: Global Challenges
+DOI: https://doi.org/10.1002/gch2.202200212
+Paper ID: https://openalex.org/W4319843852
+
+Abstract:
+The rapidly increasing adoption of electric vehicles (EVs) worldwide is causing high demand for production of lithium-ion batteries (LIBs). Tremendous efforts have been made to develop different components of LIBs in addition to design of battery pack architectures as well as manufacturing processes to make better batteries with affordable prices. Nonetheless, sustainable use of LIBs relies on the availability and cost of rare metals, which are naturally concentrated in a few countries. In addition, toxic electrolytes used in LIBs pose concerns on environmental impacts if LIBs are not handled properly after decommissioned from EVs. Therefore, it is paramount to realize effective utilization of spent LIBs, where their remaining capacities can be reused in less demanding applications. Finally, electrode materials and other valuable components of LIBs can be recovered via recycling, completing their circular life cycle. In this review, available options of LIBs after their retirement from EV applications, including battery second use, repair of electrode materials by direct regeneration, and material recovery by hydrometallurgical or pyrometallurgical processes are discussed. Throughout the review, the discussion is based around current available technologies, their environmental impacts, and economic feasibility as well as provided examples of pilot and industrial scale adoption of the processes.

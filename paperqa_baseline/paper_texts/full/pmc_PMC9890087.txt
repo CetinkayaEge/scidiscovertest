@@ -1,0 +1,9 @@
+Title: Development and validation of a dynamic deep learning algorithm using electrocardiogram to predict dyskalaemias in patients with multiple visits
+Authors: Yu-Sheng Lou, Chin-Sheng Lin, Wen-Hui Fang, Chia-Cheng Lee, Chih-Hung Wang, Chin Lin
+Year: 2023
+Venue: European Heart Journal. Digital Health
+DOI: 10.1093/ehjdh/ztac072
+Paper ID: pmc_PMC9890087
+
+Abstract:
+Abstract Aims Deep learning models (DLMs) have shown superiority in electrocardiogram (ECG) analysis and have been applied to diagnose dyskalaemias. However, no study has explored the performance of DLM-enabled ECG in continuous follow-up scenarios. Therefore, we proposed a dynamic revision of DLM-enabled ECG to use personal pre-annotated ECGs to enhance the accuracy in patients with multiple visits. Methods and results We retrospectively collected 168 450 ECGs with corresponding serum potassium (K + ) levels from 103 091 patients as development samples. In the internal/external validation sets, the numbers of ECGs with corresponding K + were 37 246/47 604 from 13 555/20 058 patients. Our dynamic revision method showed better performance than the traditional direct prediction for diagnosing hypokalaemia [area under the receiver operating characteristic curve (AUC) = 0.730/0.720–0.788/0.778] and hyperkalaemia (AUC = 0.884/0.888–0.915/0.908) in patients with multiple visits. Conclusion Our method has shown a distinguishable improvement in DLMs for diagnosing dyskalaemias in patients with multiple visits, and we also proved its application in ejection fraction prediction, which could further improve daily clinical practice. Graphical Abstract Graphical Abstract

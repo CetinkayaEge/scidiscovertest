@@ -1,0 +1,9 @@
+Title: The crucial role of adhesion in the transmigration of active droplets through interstitial orifices
+Authors: A. Tiribocchi, M. Durve, M. Lauricella, A. Montessori, D. Marenduzzo, S. Succi
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36656-0
+Paper ID: pmc_PMC9968312
+
+Abstract:
+Active fluid droplets are a class of soft materials exhibiting autonomous motion sustained by an energy supply. Such systems have been shown to capture motility regimes typical of biological cells and are ideal candidates as building-block for the fabrication of soft biomimetic materials of interest in pharmacology, tissue engineering and lab on chip devices. While their behavior is well established in unconstrained environments, much less is known about their dynamics under strong confinement. Here, we numerically study the physics of a droplet of active polar fluid migrating within a microchannel hosting a constriction with adhesive properties, and report evidence of a striking variety of dynamic regimes and morphological features, whose properties crucially depend upon droplet speed and elasticity, degree of confinement within the constriction and adhesiveness to the pore. Our results suggest that non-uniform adhesion forces are instrumental in enabling the crossing through narrow orifices, in contrast to larger gaps where a careful balance between speed and elasticity is sufficient to guarantee the transition. These observations may be useful for improving the design of artificial micro-swimmers, of interest in material science and pharmaceutics, and potentially for cell sorting in microfluidic devices. Active fluid droplets are relevant for development of bio-inspired soft materials, however their motion in heterogeneous surrounding environments remains challenging. The authors uncover the role of adhesion forces for a variety of dynamic regimes of active fluid droplet crossing a narrow constriction.

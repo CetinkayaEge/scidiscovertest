@@ -1,0 +1,9 @@
+Title: From Efficiency to Sustainability: Exploring the Potential of 6G for a Greener Future
+Authors: Rohit Kumar, Saurav Kumar Gupta, Hwang-Cheng Wang, C. Shyamala Kumari, Sai Srinivas Vara Prasad Korlam
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su152316387
+Paper ID: https://openalex.org/W4389080298
+
+Abstract:
+This article provides a comprehensive examination of sustainable 6G wireless communication systems, addressing the urgent need for environmentally friendly and energy-efficient networks. The background establishes the broader context and significance of the study, emphasizing the escalating concerns surrounding the environmental impact and energy consumption of wireless communication systems. The purpose of this study is to explore and propose sustainable solutions for 6G networks. The methods employed in this research encompass an analysis of various strategies and technologies, including energy-aware network design, dynamic power management, energy harvesting, and green infrastructure deployment. The main findings of this article highlight the effectiveness of these approaches in enhancing energy efficiency, reducing carbon footprint, and optimizing resource management in 6G networks. The conclusions drawn from this study emphasize the importance of sustainable 6G wireless communication systems in achieving a more eco-friendly and energy-efficient future. It is crucial to adopt these sustainable practices to minimize environmental impact and address the increasing energy demands of wireless communication networks. The article provides valuable insights to researchers, industry practitioners, and policymakers, aiding in the development and implementation of sustainable practices for 6G wireless communication systems.

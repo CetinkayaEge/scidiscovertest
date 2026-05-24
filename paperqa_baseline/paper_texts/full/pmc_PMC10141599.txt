@@ -1,0 +1,9 @@
+Title: Self-Healing of Recombinant Spider Silk Gel and Coating
+Authors: Shin-Da Wu, Wei-Tsung Chuang, Jo-Chen Ho, Hsuan-Chen Wu, Shan-hui Hsu
+Year: 2023
+Venue: Polymers
+DOI: 10.3390/polym15081855
+Paper ID: pmc_PMC10141599
+
+Abstract:
+Self-healing properties, originating from the natural healing process, are highly desirable for the fitness-enhancing functionality of biomimetic materials. Herein, we fabricated the biomimetic recombinant spider silk by genetic engineering, in which Escherichia coli ( E. coli ) was employed as a heterologous expression host. The self-assembled recombinant spider silk hydrogel was obtained through the dialysis process (purity > 85%). The recombinant spider silk hydrogel with a storage modulus of ~250 Pa demonstrated autonomous self-healing and high strain-sensitive properties (critical strain ~50%) at 25 °C. The in situ small-angle X-ray scattering (in situ SAXS) analyses revealed that the self-healing mechanism was associated with the stick-slip behavior of the β-sheet nanocrystals (each of ~2–4 nm) based on the slope variation (i.e., ~−0.4 at 100%/200% strains, and ~−0.9 at 1% strain) of SAXS curves in the high q-range. The self-healing phenomenon may occur through the rupture and reformation of the reversible hydrogen bonding within the β-sheet nanocrystals. Furthermore, the recombinant spider silk as a dry coating material demonstrated self-healing under humidity as well as cell affinity. The electrical conductivity of the dry silk coating was ~0.4 mS/m. Neural stem cells (NSCs) proliferated on the coated surface and showed a 2.3-fold number expansion after 3 days of culture. The biomimetic self-healing recombinant spider silk gel and thinly coated surface may have good potential in biomedical applications.

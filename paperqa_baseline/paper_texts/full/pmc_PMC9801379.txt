@@ -1,0 +1,9 @@
+Title: Direct Modular Printing of Plasmonic Chemosensors
+Authors: I. Brian Becerril-Castro, Irene Calderon, Jana Ockova, Matz Liebel, Niek F. van Hulst, Vincenzo Giannini, Ramon A. Alvarez-Puebla
+Year: 2022
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.2c17202
+Paper ID: pmc_PMC9801379
+
+Abstract:
+Here, we present and implement a new approach for producing modular inkjet-printable surface-enhanced Raman scattering (SERS) chemosensors. These sensors, combined with a rapid large field-of-view imaging system allow for fast imaging of the chemical characteristics of a sample. The performance of these materials is illustrated by printing a pH sensor on paper and interrogating aqueous solutions at different pH values. Results show single-shot images exceeding 9 mm 2 which are readily read out via SERS imaging.

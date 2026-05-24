@@ -1,0 +1,9 @@
+Title: In Vitro and In Silico Studies on Angiotensin I-Converting Enzyme Inhibitory Peptides Found in Hydrophobic Domains of Porcine Elastin
+Authors: Toshiya Hatakenaka, Tamaki Kato, Kouji Okamoto
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083337
+Paper ID: pmc_PMC10140934
+
+Abstract:
+One of the most striking aspects of the primary structure in the hydrophobic domains of the tropoelastin molecule is the occurrence of the VAPGVG repeating sequence. Since the N-terminal tripeptide VAP of VAPGVG showed a potent ACE inhibitory activity, the ACE inhibitory activity of various derivatives of VAP was examined in vitro. The results showed that VAP derivative peptides VLP, VGP, VSP, GAP, LSP, and TRP exhibited potent ACE inhibitory activities, while the non-derivative peptide APG showed only weak activity. In in silico studies, the docking score S value showed that VAP derivative peptides VLP, VGP, VSP, LSP, and TRP had stronger docking interactions than APG. Molecular docking in the ACE active pocket showed that TRP, the most potent ACE inhibitory peptide among the VAP derivatives, had a larger number of interactions with ACE residues in comparison with APG and that the TRP molecule appeared to spread widely in the ACE pocket, while the APG molecule appeared to spread closely. Differences in molecular spread may be a reason why TRP exhibits more potent ACE inhibitory activity than APG. The results suggest that the number and strength of interactions between the peptide and ACE are important for the ACE- inhibitory potency of the peptide.

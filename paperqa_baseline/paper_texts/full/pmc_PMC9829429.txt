@@ -1,0 +1,9 @@
+Title: The development of virtual healing environment in VR platform
+Authors: Chris Juliantino, Mega Putri Nathania, Religiana Hendarti, Herru Darmadi, Bonny A Suryawinata
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.141
+Paper ID: pmc_PMC9829429
+
+Abstract:
+The purpose of this research is to build a healing environment that can be experienced through virtual reality (VR) to reduce stress levels of the user because of the lengthy period of COVID-19 pandemic that forced people to stay at home. The healing environment is created based on several theories on the principles of Healing Environments related to Architectural design. And as for the development of the simulation software, it is using the method of Extreme Programming that is based on Agile principle that combined with Architectural design flow. The VR is targeted to run optimally in low-end devices with cardboard and common Bluetooth controller so that it can be accessed inclusively. The evaluation is conducted using a user acceptance test with expert judgment and survey to 32 respondents. The findings are that they enjoyed the simulation because of the guidance is clear and the virtual environment looks more real compared to others that looks cartoonish.

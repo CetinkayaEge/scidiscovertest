@@ -1,0 +1,9 @@
+Title: What Is the Role of Tourism Management and Marketing toward Sustainable Tourism? A Bibliometric Analysis Approach
+Authors: Pahrudin Pahrudin, Liwei Liu, Shaoyu Li
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14074226
+Paper ID: https://openalex.org/W4226094642
+
+Abstract:
+Sustainability is one of the current much-discussed issues in the world, including in tourism sectors. However, there are few studies on tourism management and marketing toward sustainable tourism. This study aims to analyze the literature on tourism management and marketing toward sustainable tourism by using a bibliometric analysis approach based on the Web of Science (WOS) database. A sample of 528 articles was analyzed in this study. The data were processed and the results were graphically presented by using the R program. The results found the occurrence of publications by year, publication source information and authors, journals, countries, institutions, thematic maps, and current trends of topics in tourism management and marketing toward sustainable tourism. Furthermore, the role of tourism management and marketing toward sustainable tourism were discussed in this study. The bibliometric analysis helps to identify a future research agenda in sustainable tourism.

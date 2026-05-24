@@ -1,0 +1,9 @@
+Title: A framework for improving bridge resilience and sustainability through optimizing high-performance fiber-reinforced cementitious composites
+Authors: Xiao Tan, Soroush Mahjoubi, Qinghua Zhang, Daren Dong, Yi Bao
+Year: 2022
+Venue: Journal of Infrastructure Preservation and Resilience
+DOI: https://doi.org/10.1186/s43065-022-00067-0
+Paper ID: https://openalex.org/W4312101607
+
+Abstract:
+Abstract High-performance fiber-reinforced cementitious composites (HPFRCC) exhibit benefits in improving infrastructure resilience but often compromise sustainability due to the higher upfront cost and carbon footprint compared with conventional concrete. This paper presents a framework to improve bridge resilience and sustainability through optimizing HPFRCC. This research considers ultra-high-performance concrete and strain-hardening cementitious composite, both featuring high mechanical strengths, ductility, and damage tolerance. This paper establishes links between bridge resilience, bridge sustainability, mechanical properties of HPFRCC, and mixture design. The investigated mechanical properties include the first crack stress, the ultimate tensile strength, and the ultimate tensile strain. With the established links, sustainability is maximized while resilience is retained by optimizing HPFRCC mixtures. The framework is implemented into a case study of a bridge that collapsed during construction. Results show that use of HPFRCC enhances resilience, and HPFRCC mixtures can be engineered to minimize the material cost and carbon footprint while retaining high resilience.

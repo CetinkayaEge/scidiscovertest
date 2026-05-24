@@ -1,0 +1,9 @@
+Title: Zhx2 maintains islet β-cell mass and function by transcriptionally regulating Pax6
+Authors: Lu Ding, Yankun Zhang, Yingchun Wang, Yuzhen Wang, Zheng Tong, Pengfei Li, Chaojia Chen, Bo Wang, Xuetian Yue, Chunyang Li, Zhuanchang Wu, Xiaohong Liang, Chunhong Ma, Lifen Gao
+Year: 2023
+Venue: iScience
+DOI: 10.1016/j.isci.2023.106871
+Paper ID: pmc_PMC10232729
+
+Abstract:
+Summary Emerging evidence shows that pancreatic β-cell function and quality are key determinants in the progression of type 2 diabetes (T2D). The transcription factor zinc finger homeobox 2 (Zhx2) is involved in proliferation and development of multiple cells. However, the exact role of Zhx2 in β-cells and T2D remains completely unknown. Here, we report that Zhx2 orchestrates β-cell mass and function by regulating paired box protein pax-6 (Pax6). We found that β-cell-specific knockout Zhx2 (Zhx2BKO) mice showed a decrease in β-cell proliferation and glucose homeostasis. Under prediabetic and diabetic conditions, we discovered glucose intolerance in both Zhx2BKO-HFD mice and Zhx2BKO-db/db mice, with reduced β-cell mass and insulin secretion. Mechanistically, we demonstrated that Zhx2 targeted the Pax6 promoter region (−1740∼-1563; −862∼-559; −251∼+75), enhanced promoter activity. Overall, Zhx2 maintains β-cell function by transcriptionally regulating Pax6, which provides a therapeutic target for diabetes intervention. Graphical abstract Highlights • Zhx2 deletion in islet β-cells impairs glucose homeostasis in vivo • Zhx2 promotes β-cell proliferation and insulin secretion • Zhx2 maintains β-cell function by transcriptionally regulating Pax6 Molecular biology; Endocrinology; Model organism

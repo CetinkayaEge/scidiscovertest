@@ -1,0 +1,9 @@
+Title: Interfacial engineering of ferromagnetism in wafer-scale van der Waals Fe 4 GeTe 2 far above room temperature
+Authors: Hangtian Wang, Haichang Lu, Zongxia Guo, Ang Li, Peichen Wu, Jing Li, Weiran Xie, Zhimei Sun, Peng Li, Héloïse Damas, Anna Maria Friedel, Sylvie Migot, Jaafar Ghanbaja, Luc Moreau, Yannick Fagot-Revurat, Sébastien Petit-Watelot, Thomas Hauet, John Robertson, Stéphane Mangin, Weisheng Zhao, Tianxiao Nie
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-37917-8
+Paper ID: pmc_PMC10148834
+
+Abstract:
+Despite recent advances in exfoliated vdW ferromagnets, the widespread application of 2D magnetism requires a Curie temperature (T c ) above room temperature as well as a stable and controllable magnetic anisotropy. Here we demonstrate a large-scale iron-based vdW material Fe 4 GeTe 2 with the T c reaching ~530 K. We confirmed the high-temperature ferromagnetism by multiple characterizations. Theoretical calculations suggested that the interface-induced right shift of the localized states for unpaired Fe d electrons is the reason for the enhanced T c , which was confirmed by ultraviolet photoelectron spectroscopy. Moreover, by precisely tailoring Fe concentration we achieved arbitrary control of magnetic anisotropy between out-of-plane and in-plane without inducing any phase disorders. Our finding sheds light on the high potential of Fe 4 GeTe 2 in spintronics, which may open opportunities for room-temperature application of all-vdW spintronic devices. Applications of van der Waals magnetic systems are typically hampered by the low Curie temperature of van der Waals magnets. Here, Wang et al use molecular beam epitaxy to grow large films of Fe 4 GeTe 2 with Curie temperatures over 500 K, and the film’s magnetic anisotropy can be tuned arbitrarily by controlling stoichiometry.

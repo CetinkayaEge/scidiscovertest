@@ -1,0 +1,9 @@
+Title: Sustainable deployment of autonomous vehicles dedicated lanes in urban traffic networks
+Authors: Mohammadhosein Pourgholamali, Mohammad Miralinaghi, Paul Ha, Sania E. Seilabi, Samuel Labi
+Year: 2023
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2023.104969
+Paper ID: https://openalex.org/W4387122179
+
+Abstract:
+Autonomous vehicles (AVs) show promise for increasing roadway safety and capacity. During the AV transition era, which will be characterized by a mixed fleet of AVs and human-driven vehicles (HDVs), it is expected that the allure of these prospective benefits will motivate road agencies to allocate AV-dedicated lanes. This paper proposes a sustainability-driven AV-dedicated lane and pricing policy (SALP) framework that addresses the three pillars of sustainable development—social, environmental, and economic. The framework is formulated as a bi-level problem where the upper-level model yields decisions on the timing, location, and quantity of AV-dedicated lanes and tolling levels to minimize total travel time, emissions, and electricity consumption costs (that is, the economic and environmental pillars). To alleviate potential inequity (the social pillar), two considerations are proposed: revenue neutrality to compensate for the increase in travel costs of travelers and an equity constraint to limit the exacerbation of HDV travel costs. At the lower level, travelers react to the decisions made at the upper level by choosing their vehicle types (AV vs. HDV) and routes. The SALP is solved using Genetic and Frank-Wolfe algorithms. The results of the numerical experiments suggest that the proposed SALP addresses all three pillars, as it yields significant reductions in total travel time, emissions, and electricity costs.

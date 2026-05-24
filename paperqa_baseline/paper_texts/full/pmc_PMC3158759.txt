@@ -1,0 +1,9 @@
+Title: The Disequilibrium of Nucleosomes Distribution along Chromosomes Plays a Functional and Evolutionarily Role in Regulating Gene Expression
+Authors: Peng Cui, Qiang Lin, Lingfang Zhang, Feng Ding, Chengqi Xin, Daoyong Zhang, Fanglin Sun, Songnian Hu, Jun Yu
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023219
+Paper ID: pmc_PMC3158759
+
+Abstract:
+To further understand the relationship between nucleosome-space occupancy (NO) and global transcriptional activity in mammals, we acquired a set of genome-wide nucleosome distribution and transcriptome data from the mouse cerebrum and testis based on ChIP (H3)-seq and RNA-seq, respectively. We identified a nearly consistent NO patterns among three mouse tissues—cerebrum, testis, and ESCs—and found, through clustering analysis for transcriptional activation, that the NO variations among chromosomes are closely associated with distinct expression levels between house-keeping (HK) genes and tissue-specific (TS) genes. Both TS and HK genes form clusters albeit the obvious majority. This feature implies that NO patterns, i.e. nucleosome binding and clustering, are coupled with gene clustering that may be functionally and evolutionarily conserved in regulating gene expression among different cell types.

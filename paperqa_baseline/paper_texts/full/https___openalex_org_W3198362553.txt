@@ -1,0 +1,9 @@
+Title: Sustainable Marine Ecosystems: Deep Learning for Water Quality Assessment and Forecasting
+Authors: Ángel Fernández Gambı́n, Eduard Angelats, Jesús Soriano González, Marco Miozzo, Paolo Dini
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3109216
+Paper ID: https://openalex.org/W3198362553
+
+Abstract:
+An appropriate management of the available resources within oceans and coastal regions is vital to guarantee their sustainable development and preservation, where water quality is a key element. Leveraging on a combination of cross-disciplinary technologies including Remote Sensing (RS), Internet of Things (IoT), Big Data, cloud computing, and Artificial Intelligence (AI) is essential to attain this aim. In this paper, we review methodologies and technologies for water quality assessment that contribute to a sustainable management of marine environments. Specifically, we focus on Deep Leaning (DL) strategies for water quality estimation and forecasting. The analyzed literature is classified depending on the type of task, scenario and architecture. Moreover, several applications including coastal management and aquaculture are surveyed. Finally, we discuss open issues still to be addressed and potential research lines where transfer learning, knowledge fusion, reinforcement learning, edge computing and decision-making policies are expected to be the main involved agents.

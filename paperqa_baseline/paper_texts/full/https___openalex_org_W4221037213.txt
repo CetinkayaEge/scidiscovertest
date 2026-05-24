@@ -1,0 +1,9 @@
+Title: Potential impacts of institutional dynamics on the development of automated vehicles: Towards sustainable mobility?
+Authors: Jens Schippl, Bernhard Truffer, Torsten Fleischer
+Year: 2022
+Venue: Transportation Research Interdisciplinary Perspectives
+DOI: https://doi.org/10.1016/j.trip.2022.100587
+Paper ID: https://openalex.org/W4221037213
+
+Abstract:
+Most experts agree that automated vehicles (AV) will be commercialized sooner or later and that this will lead to far-reaching changes in the mobility system. However, it is still open whether these developments will lead to more sustainable transport systems. AVs may render private car ownership more attractive and therefore intensify car-oriented mobility patterns, or may increase the attractiveness of public transport when mostly used as robo-taxis. Once development has started to move in a specific direction, self-reinforcing dynamics and path-dependencies may unfold. Therefore, it is important to analyze which factors may influence the direction of path-dependencies. We argue that understanding emerging path-dependencies requires an understanding of the interrelated technical, economic and societal dynamics. We draw on recent insights into societal dynamics in sociotechnical regimes, drawn from sustainability transition research, to identify potential development trajectories of automated driving due to changes in what is conceptualized as normative-cognitive institutions. We introduce an approach to map such institutional dynamics based on recent data from developments in the German mobility sector. Results demonstrate that the direction of future AV pathways may depend on such institutional developments. Both a reinforcing and a disruptive pathway are plausible. Governance strategies that aim to tap the potential of AVs in supporting sustainable urban mobility should consider institutional dynamics more explicitly.

@@ -1,0 +1,9 @@
+Title: A Life Cycle Engineering Perspective on Biocomposites as a Solution for a Sustainable Recovery
+Authors: Amy M. Fitzgerald, Will Proud, Ali Kandemir, Richard Murphy, David Jesson, Richard S. Trask, Ian Hamerton, Marco L. Longana
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031160
+Paper ID: https://openalex.org/W3121912439
+
+Abstract:
+Composite materials, such as carbon fibre reinforced epoxies, provide more efficient structures than conventional materials through light-weighting, but the associated high energy demand during production can be extremely detrimental to the environment. Biocomposites are an emerging material class with the potential to reduce a product’s through-life environmental impact relative to wholly synthetic composites. As with most materials, there are challenges and opportunities with the adoption of biocomposites at the each stage of the life cycle. Life Cycle Engineering is a readily available tool enabling the qualification of a product’s performance, and environmental and financial impact, which can be incorporated in the conceptual development phase. Designers and engineers are beginning to actively include the environment in their workflow, allowing them to play a significant role in future sustainability strategies. This review will introduce Life Cycle Engineering and outline how the concept can offer support in the Design for the Environment, followed by a discussion of the advantages and disadvantages of biocomposites throughout their life cycle.

@@ -1,0 +1,9 @@
+Title: How artificial intelligence uses to achieve the agriculture sustainability: Systematic review
+Authors: Vilani Sachithra, Leela Subhashini
+Year: 2023
+Venue: Artificial Intelligence in Agriculture
+DOI: https://doi.org/10.1016/j.aiia.2023.04.002
+Paper ID: https://openalex.org/W4367309677
+
+Abstract:
+The generation of food production that meets the rising demand for food and ecosystem security is a big challenge. With the development of Artificial Intelligence (AI) models, there is a growing need to use them to achieve sustainable agriculture. The continuous enhancement of AI in agriculture, researchers have proposed many models in agriculture functions such as prediction,weed control, resource management, advance care of crops, and so on. This article evaluates on a systematic review of AI models in agriculture functions. It also reviews how AI models are used in identified sustainable objectives. Through this extensive review, this paper discusses considerations and limitations for building the next generation of sustainable agriculture using AI.

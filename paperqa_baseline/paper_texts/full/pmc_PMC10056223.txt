@@ -1,0 +1,9 @@
+Title: Electromagnetic Wave Absorption in the Human Head: A Virtual Sensor Based on a Deep-Learning Model
+Authors: Paolo Di Barba, Łukasz Januszkiewicz, Jarosław Kawecki, Maria Evelina Mognaschi
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063131
+Paper ID: pmc_PMC10056223
+
+Abstract:
+Determining the amount of electromagnetic wave energy absorbed by the human body is an important issue in the analysis of wireless systems. Typically, numerical methods based on Maxwell’s equations and numerical models of the body are used for this purpose. This approach is time-consuming, especially in the case of high frequencies, for which a fine discretization of the model should be used. In this paper, the surrogate model of electromagnetic wave absorption in human body, utilizing Deep-Learning, is proposed. In particular, a family of data from finite-difference time-domain analyses makes it possible to train a Convolutional Neural Network (CNN), in view of recovering the average and maximum power density in the cross-section region of the human head at the frequency of 3.5 GHz. The developed method allows for quick determination of the average and maximum power density for the area of the entire head and eyeball areas. The results obtained in this way are similar to those obtained by the method based on Maxwell’s equations.

@@ -1,0 +1,9 @@
+Title: E-FUCA: enhancement in fuzzy unequal clustering and routing for sustainable wireless sensor network
+Authors: Pawan Singh Mehra
+Year: 2021
+Venue: Complex & Intelligent Systems
+DOI: https://doi.org/10.1007/s40747-021-00392-z
+Paper ID: https://openalex.org/W3163190792
+
+Abstract:
+Abstract With huge cheap micro-sensing devices deployed, wireless sensor network (WSN) gathers information from the region and delivers it to the base station (BS) for further decision. The hotspot problem occurs when cluster head (CH) nearer to BS may die prematurely due to uneven energy depletion resulting in partitioning the network. To overcome the issue of hotspot or energy hole, unequal clustering is used where variable size clusters are formed. Motivated from the aforesaid discussion, we propose an enhanced fuzzy unequal clustering and routing protocol (E-FUCA) where vital parameters are considered during CH candidate selection, and intelligent decision using fuzzy logic (FL) is taken by non-CH nodes during the selection of their CH for the formation of clusters. To further extend the lifetime, we have used FL for the next-hop choice for efficient routing. We have conducted the simulation experiments for four scenarios and compared the propound protocol’s performance with recent similar protocols. The experimental results validate the improved performance of E-FUCA with its comparative in respect of better lifetime, protracted stability period, and enhanced average energy.

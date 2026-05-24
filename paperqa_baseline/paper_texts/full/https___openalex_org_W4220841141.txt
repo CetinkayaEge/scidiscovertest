@@ -1,0 +1,9 @@
+Title: Climate Change, Human Health, and Health Informatics: A New View of Connected and Sustainable Digital Health
+Authors: Kathleen Gray
+Year: 2022
+Venue: Frontiers in Digital Health
+DOI: https://doi.org/10.3389/fdgth.2022.869721
+Paper ID: https://openalex.org/W4220841141
+
+Abstract:
+The connection between human health and climate change has had a scientific basis for many decades. However, little attention has been directed to applying the science of health informatics to this aspect of health and healthcare until recently. This paper briefly reviews examples of recent international work on two fronts: to consider how health informatics can reduce the carbon footprint of healthcare, and to consider how it can integrate new kinds of data for insights into the human health impacts of climate change. Health informatics has two principles of fundamental relevance to this work - connectedness, in other words linking and integrating health data from multiple sources; and sustainability, in other words making healthcare overall more efficient and effective. Deepening its commitment to these principles will position health informatics as a discipline and a profession to support and guide technological advances that respond to the world's climate health challenges.

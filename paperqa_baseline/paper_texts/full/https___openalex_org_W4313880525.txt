@@ -1,0 +1,9 @@
+Title: Studies on Geometrical Features of Tool Wear and Other Important Machining Characteristics in Sustainable Turning of Aluminium Alloys
+Authors: Munish Kumar Gupta, Piotr Niesłony, Murat Sarıkaya, Mehmet Erdi Korkmaz, Mustafa Kuntoğlu, Grzegorz Królczyk
+Year: 2023
+Venue: International Journal of Precision Engineering and Manufacturing-Green Technology
+DOI: https://doi.org/10.1007/s40684-023-00501-y
+Paper ID: https://openalex.org/W4313880525
+
+Abstract:
+Abstract The aerospace and automotive industries make extensive use of aluminium and its alloys. Contrarily, machining of aluminium (Al) alloys presents a number of difficulties, including, but not limited to, poor surface finishing, excessive tool wear, decreased productivity etc. Therefore, it’s very important to measure the machining characteristics during machining of aluminium alloy with sustainable cooling strategies. In this work, a new approach of measurement was adopted to measure the critical geometrical aspects of tool wear, surface roughness, power consumption and microhardness while machining AA2024-T351 alloy under dry, minimum quantity lubrication (MQL), liquid nitrogen (LN 2 ) and carbon dioxide (CO 2 ) cooling conditions. Initially, the various aspects of tool wear were studied with the help of Sensofar Confocal Microscope integrated with Mountains map software and then, the other results such as surface roughness, power consumption and microhardness were measured as per the ISO standards. The outcome of these measurement studies confirms that LN 2 and CO 2 cooling is helpful in improving the machining characteristics of AA2024-T351 alloy. When compared to dry conditions, the surface roughness values of MQL, LN 2 , and CO 2 all have values that are lowered by 11.90%, 30.95%, and 39.28% respectively, and also power consumption values were lowered by 3.11%, 6.46% and 11.5% for MQL, CO 2 and LN 2 conditions, respectively.

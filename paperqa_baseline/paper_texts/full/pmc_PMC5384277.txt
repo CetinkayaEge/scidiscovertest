@@ -1,0 +1,9 @@
+Title: Computational fluid dynamics simulation of the upper airway response to large incisor retraction in adult class I bimaxillary protrusion patients
+Authors: Zhe Zheng, Hong Liu, Qi Xu, Wei Wu, Liling Du, Hong Chen, Yiwen Zhang, Dongxu Liu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45706
+Paper ID: pmc_PMC5384277
+
+Abstract:
+The changes of the upper airway after large retraction of the incisors in adult class I bimaxillary protrusion patients were assessed mainly focused on the anatomic variation and ignored the functional changes. This study aimed to investigate the changes of the upper airway in adult class I bimaxillary protrusion patients after extraction treatment using the functional images based on computational fluid dynamics (CFD). CFD was implemented after 3D reconstruction based on the CBCT of 30 patients who have completed extraction treatment. After treatment, pressure drop in the minimum area, oropharynx, and hypopharynx increased significantly. The minimum pressure and the maximum velocity mainly located in the hypopharynx in pre-treatment while they mostly occured in the oropharynx after treatment. Statistically significant correlation between pressure drop and anatomic parameters, pressure drop and treatment outcomes was found. No statistical significance changes in pressure drop and volume of nasopharynx was found. This study suggested that the risk of pharyngeal collapsing become higher after extraction treatment with maximum anchorage in bimaxillary protrusion adult patients. Those adverse changes should be taken into consideration especially for high-risk patients to avoid undesired weakening of the respiratory function in clinical treatment.

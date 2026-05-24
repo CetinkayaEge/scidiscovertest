@@ -1,0 +1,9 @@
+Title: Optimizations of SiRNA Design for the Activation of Gene Transcription by Targeting the TATA-Box Motif
+Authors: Miaomiao Fan, Yijun Zhang, Zhuoqiong Huang, Jun Liu, Xuemin Guo, Hui Zhang, Haihua Luo
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0108253
+Paper ID: pmc_PMC4176967
+
+Abstract:
+Small interfering RNAs (siRNAs) are widely used to repress gene expression by targeting mRNAs. Some reports reveal that siRNAs can also activate or inhibit gene expression through targeting the gene promoters. Our group has found that microRNAs (miRNAs) could activate gene transcription via interaction with the TATA-box motif in gene promoters. To investigate whether siRNA targeting the same region could upregulate the promoter activity, we test the activating efficiency of siRNAs targeting the TATA-box motif of 16 genes and perform a systematic analysis to identify the common features of the functional siRNAs for effective activation of gene promoters. Further, we try various modifications to improve the activating efficiency of siRNAs and find that it is quite useful to design the promoter-targeting activating siRNA by following several rules such as (a) complementary to the TATA-box-centered region; (b) UA usage at the first two bases of the antisense strand; (c) twenty-three nucleotides (nts) in length; (d) 2′-O-Methyl (2′-OMe) modification at the 3′ terminus of the antisense strand; (e) avoiding mismatches at the 3′ end of the antisense strand. The optimized activating siRNAs potently enhance the expression of interleukin-2 ( IL-2 ) gene in human and mouse primary CD4 + T cells with a long-time effect. Taken together, our study provides a guideline for rational design the promoter-targeting siRNA to sequence-specifically enhance gene expression.

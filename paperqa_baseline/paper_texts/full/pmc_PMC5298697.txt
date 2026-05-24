@@ -1,0 +1,9 @@
+Title: Dynamic Oil-in-Water Concentration Acquisition on a Pilot-Scaled Offshore Water-Oil Separation Facility
+Authors: Petar Durdevic, Chitra S. Raju, Mads V. Bram, Dennis S. Hansen, Zhenyu Yang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010124
+Paper ID: pmc_PMC5298697
+
+Abstract:
+This article is a feasibility study on using fluorescence-based oil-in-water (OiW) monitors for on-line dynamic efficiency measurement of a deoiling hydrocyclone. Dynamic measurements are crucial in the design and validation of dynamic models of the hydrocyclones, and to our knowledge, no dynamic OiW analysis of hydrocyclones has been carried out. Previous studies have extensively studied the steady state efficiency perspective of hydrocyclones, and have related them to different key parameters, such as the pressure drop ratio (PDR), inlet flow rate, and the flow-spilt. Through our study, we were able to measure the dynamics of the hydrocyclone’s efficiency ( ϵ ) response to step changes in the inlet flow rate with high accuracy. This is a breakthrough in the modelling, control, and monitoring of hydrocyclones.

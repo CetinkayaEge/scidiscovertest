@@ -1,0 +1,9 @@
+Title: Role of artificial intelligence in determining factors impacting patients’ refractive surgery decisions
+Authors: Gairik Kundu, Imranali Virani, Rohit Shetty, Pooja Khamar, Rudy M M A Nuijts
+Year: 2023
+Venue: Indian Journal of Ophthalmology
+DOI: 10.4103/IJO.IJO_2718_22
+Paper ID: pmc_PMC10229918
+
+Abstract:
+Purpose: To create a predictive model using artificial intelligence (AI) and assess if available data from patients’ registration records can help in predicting definitive endpoints such as the probability of patients signing up for refractive surgery. Methods: This was a retrospective analysis. Electronic health records data of 423 patients presenting to the refractive surgery department were incorporated into models using multivariable logistic regression, decision trees classifier, and random forest (RF). Mean area under the receiver operating characteristic curve (ROC-AUC), sensitivity (Se), specificity (Sp), classification accuracy, precision, recall, and F1-score were calculated for each model to evaluate performance. Results: The RF classifier provided the best output among the various models, and the top variables identified in this study by the RF classifier excluding income were insurance, time spent in the clinic, age, occupation, residence, source of referral, and so on. About 93% of the cases that did undergo refractive surgery were correctly predicted as having undergone refractive surgery. The AI model achieved an ROC-AUC of 0.945 with an Se of 88% and Sp of 92.5%. Conclusion: This study demonstrated the importance of stratification and identifying various factors using an AI model which could impact patients’ decisions while selecting a refractive surgery. Eye centers can build specialized prediction profiles across disease categories and may allow for the identification of prospective obstacles in the patient’s decision-making process, as well as strategies for dealing with them.

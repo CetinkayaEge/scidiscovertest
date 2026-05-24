@@ -1,0 +1,9 @@
+Title: Self‐Sustained Artificial Internet of Things Based on Vibration Energy Harvesting Technology: Toward the Future Eco‐Society
+Authors: Yunfei Li, Zhongda Sun, Manjuan Huang, Lining Sun, Huicong Liu, Chengkuo Lee
+Year: 2024
+Venue: Advanced Energy and Sustainability Research
+DOI: https://doi.org/10.1002/aesr.202400116
+Paper ID: https://openalex.org/W4402136008
+
+Abstract:
+Clean energy has emerged as the focal point of global energy and power development. With the advancement of 5G technology and the Internet of Things (IoT), the demand for sustainable energy supply has become more pressing, leading to widespread attention to vibration energy harvesting technology. This technology enables the conversion of vibrational energy from natural phenomena such as ocean waves and wind, as well as machinery operation and human activities, into electrical energy, thus supporting the expansion of self‐sustained IoT systems. This review provides an overview of the progress in vibration energy harvesting technology and discusses the integration of this technology with self‐powered sensors and artificial intelligence. These integrations are reflected in the enhanced accuracy of environmental monitoring, increased efficiency in intelligent transportation and industrial production, and improved quality of life through intelligent healthcare and smart home. Such applications demonstrate the significant potential of self‐sustained artificial IoT in promoting environmental sustainability and elevating the level of intelligent living. In summary, exploring and applying vibration energy harvesting technology to support the autonomous operation of IoT devices is key to building a more sustainable, intelligent, and interconnected world.

@@ -1,0 +1,9 @@
+Title: SquiggleKit: a toolkit for manipulating nanopore signal data
+Authors: James M Ferguson, Martin A Smith
+Year: 2019
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz586
+Paper ID: pmc_PMC9887521
+
+Abstract:
+Abstract Summary The management of raw nanopore sequencing data poses a challenge that must be overcome to facilitate the creation of new bioinformatics algorithms predicated on signal analysis. SquiggleKit is a toolkit for manipulating and interrogating nanopore data that simplifies file handling, data extraction, visualization and signal processing. Availability and implementation SquiggleKit is cross platform and freely available from GitHub at ( https://github.com/Psy-Fer/SquiggleKit ). Detailed documentation can be found at ( https://psy-fer.github.io/SquiggleKitDocs/ ). All tools have been designed to operate in python 2.7+, with minimal additional libraries. Supplementary information Supplementary data are available at Bioinformatics online.

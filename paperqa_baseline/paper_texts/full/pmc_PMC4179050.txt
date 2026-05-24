@@ -1,0 +1,9 @@
+Title: Preceding Vehicle Detection and Tracking Adaptive to Illumination Variation in Night Traffic Scenes Based on Relevance Analysis
+Authors: Junbin Guo, Jianqiang Wang, Xiaosong Guo, Chuanqiang Yu, Xiaoyan Sun
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140815325
+Paper ID: pmc_PMC4179050
+
+Abstract:
+Preceding vehicle detection and tracking at nighttime are challenging problems due to the disturbance of other extraneous illuminant sources coexisting with the vehicle lights. To improve the detection accuracy and robustness of vehicle detection, a novel method for vehicle detection and tracking at nighttime is proposed in this paper. The characteristics of taillights in the gray level are applied to determine the lower boundary of the threshold for taillights segmentation, and the optimal threshold for taillight segmentation is calculated using the OTSU algorithm between the lower boundary and the highest grayscale of the region of interest. The candidate taillight pairs are extracted based on the similarity between left and right taillights, and the non-vehicle taillight pairs are removed based on the relevance analysis of vehicle location between frames. To reduce the false negative rate of vehicle detection, a vehicle tracking method based on taillights estimation is applied. The taillight spot candidate is sought in the region predicted by Kalman filtering, and the disturbed taillight is estimated based on the symmetry and location of the other taillight of the same vehicle. Vehicle tracking is completed after estimating its location according to the two taillight spots. The results of experiments on a vehicle platform indicate that the proposed method could detect vehicles quickly, correctly and robustly in the actual traffic environments with illumination variation.

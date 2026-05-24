@@ -1,0 +1,9 @@
+Title: Sustainable Determinants That Affect Tourist Arrival Forecasting
+Authors: Sergej Gričar, Tea Baldigara, Violeta Šugar
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13179659
+Paper ID: https://openalex.org/W3196288897
+
+Abstract:
+This study considers diversification effects and significant influences on tourist arrivals as a vital export direction. Different quantitative methods, namely a cointegrated-autoregressive model, panels, sentiment and sensitivity analysis, were used in this study. The time-series data for Croatia and Slovenia were isolated from several secondary sources. The variables examined in this approach are tourist arrivals, precipitations, sunny days, earthquakes, microbes and CO2 emissions. The study results showed that there is a severe negative effect on tourist arrivals defined by viruses. Moreover, there is a significant decisive effect of weather conditions on tourist arrivals. Nevertheless, it is necessary to move past Covid-19 pandemic discussions to yield more accurate tourism supply forecasts, while demand is already somehow low since the beginning of 2020. The primary significance is to develop a broader thinking about the impacts of CO2 emissions on the tourism escorted to official tourist websites.

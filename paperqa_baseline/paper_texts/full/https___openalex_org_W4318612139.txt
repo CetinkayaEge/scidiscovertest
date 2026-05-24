@@ -1,0 +1,9 @@
+Title: System Architecture Design of a Multimedia Platform to Increase Awareness of Cultural Heritage: A Case Study of Sustainable Cultural Heritage
+Authors: Benshuo Wang, Li Dai, Bojing Liao
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15032504
+Paper ID: https://openalex.org/W4318612139
+
+Abstract:
+Cultural heritage (CH) plays a vital role in passing history to the present and also the future, which means it is important to build an efficient and friendly way to broadcast and inherit these past civilizations. Information communication technology (ICT) is one of the popular methods that can attract people’s attention on understanding history or joining in heritage preservation. To achieve that, governments have built a large numbers of official ICT platforms. However, most of them neglected people’s preferences on the retrieval of cultural heritage information. In terms of user experiences, the previous platforms are less than satisfactory in increasing the awareness of the cultural heritage. Thanks to the new technology, 3D models and virtual reality (VR) bring spring life to cultural heritage. This paper developed a new multimedia platform based on people’s preferences to overcome these disadvantages. UML-based web engineering (UWE) is applied to present the web application’s architecture, the database structure, and the platform’s interface. To demonstrate the multimedia platform, Strijp-S, an industry cultural heritage site in the city of Eindhoven (the Netherlands), has been used as a case area. This proposed platform provides a new idea on system architecture design of the multimedia platform and may strengthen the public’s knowledge of cultural heritage, and thereby increase the awareness of cultural heritage to keep it sustainable.

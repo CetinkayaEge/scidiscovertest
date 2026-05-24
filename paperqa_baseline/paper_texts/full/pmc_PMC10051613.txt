@@ -1,0 +1,9 @@
+Title: Asymmetry Optimization for 10 THz OPC Transmission over the C + L Bands Using Distributed Raman Amplification
+Authors: Paweł Rosa, Giuseppe Rizzelli Martella, Juan Diego Ania Castañón, Mingming Tan
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062906
+Paper ID: pmc_PMC10051613
+
+Abstract:
+An optimized design for a broadband Raman optical amplifier in standard single-mode fiber covering the C and L bands is presented, to be used in combination with wideband optical phase conjugation (OPC) nonlinearity compensation. The use of two Raman pumps and fiber Bragg grating reflectors at different wavelengths for the transmitted (C band) and conjugated (L band) WDM channels is proposed to extend bandwidth beyond the limits imposed by single-wavelength pumping, for a total 10 THz. Optimization of pump and reflector wavelength, as well as pump powers, allows us to achieve low asymmetry across the whole transmission band for optimal nonlinearity compensation. System performance is simulated to estimate OSNR, gain flatness and nonlinear Kerr distortion.

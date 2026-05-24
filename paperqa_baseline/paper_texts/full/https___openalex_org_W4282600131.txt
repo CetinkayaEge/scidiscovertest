@@ -1,0 +1,9 @@
+Title: Towards Resilient and Sustainable Rail and Road Networks: A Systematic Literature Review on Digital Twins
+Authors: João Vieira, João Poças Martins, N. Almeida, Hugo Patrício, João Morgado
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14127060
+Paper ID: https://openalex.org/W4282600131
+
+Abstract:
+The digital transformation of engineering assets has been receiving increased attention from the scientific community in the last few years. In this regard, Digital Twins (DTs) have been widely applied in the industry and are now reaching the civil infrastructures domain. At the same time, infrastructure managers face an increasing need to improve the sustainability and resilience of their assets. This paper aims firstly to map and present the current extent of DT application in rail and road networks, and secondly to perceive how these applications can contribute to increase their sustainability and resilience. To achieve this, the authors propose a systematic review on the DT literature related to rail and road infrastructure networks. The results show that the DT research in this domain is still scarce and that only a few use cases have attracted the attention of the scientific community. The results also indicate that most applications in rail and road networks focus on their operation and maintenance, and that there is a considerable unexplored potential for DT applications in this sector. More DT-related studies within this scope are expected to emerge in the coming years, and further research regarding its contribution to sustainability and resilience is needed.

@@ -1,0 +1,9 @@
+Title: A systematic review of local field potential physiomarkers in Parkinson’s disease: from clinical correlations to adaptive deep brain stimulation algorithms
+Authors: Bernadette C. M. van Wijk, Rob M. A. de Bie, Martijn Beudel
+Year: 2022
+Venue: Journal of Neurology
+DOI: 10.1007/s00415-022-11388-1
+Paper ID: pmc_PMC9886603
+
+Abstract:
+Deep brain stimulation (DBS) treatment has proven effective in suppressing symptoms of rigidity, bradykinesia, and tremor in Parkinson’s disease. Still, patients may suffer from disabling fluctuations in motor and non-motor symptom severity during the day. Conventional DBS treatment consists of continuous stimulation but can potentially be further optimised by adapting stimulation settings to the presence or absence of symptoms through closed-loop control. This critically relies on the use of ‘physiomarkers’ extracted from (neuro)physiological signals. Ideal physiomarkers for adaptive DBS (aDBS) are indicative of symptom severity, detectable in every patient, and technically suitable for implementation. In the last decades, much effort has been put into the detection of local field potential (LFP) physiomarkers and in their use in clinical practice. We conducted a research synthesis of the correlations that have been reported between LFP signal features and one or more specific PD motor symptoms. Features based on the spectral beta band (~ 13 to 30 Hz) explained ~ 17% of individual variability in bradykinesia and rigidity symptom severity. Limitations of beta band oscillations as physiomarker are discussed, and strategies for further improvement of aDBS are explored.

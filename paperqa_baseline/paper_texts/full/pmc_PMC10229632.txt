@@ -1,0 +1,9 @@
+Title: IL-6 prevents Th2 cell polarization by promoting SOCS3-dependent suppression of IL-2 signaling
+Authors: Holly Bachus, Erin McLaughlin, Crystal Lewis, Amber M. Papillion, Etty N. Benveniste, Dave Durell Hill, Alexander F. Rosenberg, André Ballesteros-Tato, Beatriz León
+Year: 2023
+Venue: Cellular and Molecular Immunology
+DOI: 10.1038/s41423-023-01012-1
+Paper ID: pmc_PMC10229632
+
+Abstract:
+Defective interleukin-6 (IL-6) signaling has been associated with Th2 bias and elevated IgE levels. However, the underlying mechanism by which IL-6 prevents the development of Th2-driven diseases remains unknown. Using a model of house dust mite (HDM)-induced Th2 cell differentiation and allergic airway inflammation, we showed that IL-6 signaling in allergen-specific T cells was required to prevent Th2 cell differentiation and the subsequent IgE response and allergic inflammation. Th2 cell lineage commitment required strong sustained IL-2 signaling. We found that IL-6 turned off IL-2 signaling during early T-cell activation and thus inhibited Th2 priming. Mechanistically, IL-6-driven inhibition of IL-2 signaling in responding T cells was mediated by upregulation of Suppressor Of Cytokine Signaling 3 (SOCS3). This mechanism could be mimicked by pharmacological Janus Kinase-1 (JAK1) inhibition. Collectively, our results identify an unrecognized mechanism that prevents the development of unwanted Th2 cell responses and associated diseases and outline potential preventive interventions.

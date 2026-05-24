@@ -1,0 +1,9 @@
+Title: Assessing the sustainability of tilapia farming in biofloc-based culture using emergy synthesis
+Authors: Luiz H. David, Sara M. Pinho, Karel J. Keesman, Fabiana Garcia
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.108186
+Paper ID: https://openalex.org/W3199105918
+
+Abstract:
+Biofloc technology (BFT) has been called an environmentally friendly aquaculture approach. The sustainable characteristics of biofloc-based culture are usually linked to the efficient use of water and nutrients and the minimal discard of effluent to the environment. Given the scarcity of sustainability assessment of biofloc-based systems, it is still unclear whether the positive characteristics of BFT make it a real sustainable approach for aquaculture. This study aimed to investigate and apply the emergy synthesis to assess the sustainability of commercial Nile tilapia fingerlings production in a biofloc-based system. The tilapia fingerlings produced on the BFT farm showed a UEV of 2.04E + 03 sej/J, renewability of 32.73%, EYR of 1.00, EIR, and ELR of 2.05, and ESI of 0.49. Compared to other aquaculture systems, the evaluated BFT farm presented emergy indicators with values characteristic of potentially sustainable production. Electricity has the highest representativeness in the emergy input, making the system dependent on resources from the larger economy. The low UEV indicates that the BFT farm is efficient in terms of converting the invested emergy into the system's output (tilapia fingerlings). A sensitivity analysis shows that replacing the hydroelectric source of electricity with photovoltaic will not improve the emergy performance of the evaluated BFT farm.

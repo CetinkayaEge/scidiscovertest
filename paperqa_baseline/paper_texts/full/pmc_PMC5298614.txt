@@ -1,0 +1,9 @@
+Title: Multi-User Identification-Based Eye-Tracking Algorithm Using Position Estimation
+Authors: Suk-Ju Kang
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010041
+Paper ID: pmc_PMC5298614
+
+Abstract:
+This paper proposes a new multi-user eye-tracking algorithm using position estimation. Conventional eye-tracking algorithms are typically suitable only for a single user, and thereby cannot be used for a multi-user system. Even though they can be used to track the eyes of multiple users, their detection accuracy is low and they cannot identify multiple users individually. The proposed algorithm solves these problems and enhances the detection accuracy. Specifically, the proposed algorithm adopts a classifier to detect faces for the red, green, and blue (RGB) and depth images. Then, it calculates features based on the histogram of the oriented gradient for the detected facial region to identify multiple users, and selects the template that best matches the users from a pre-determined face database. Finally, the proposed algorithm extracts the final eye positions based on anatomical proportions. Simulation results show that the proposed algorithm improved the average F 1 score by up to 0.490, compared with benchmark algorithms.

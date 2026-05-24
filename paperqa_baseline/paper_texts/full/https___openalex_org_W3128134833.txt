@@ -1,0 +1,9 @@
+Title: Pathway to a fully sustainable energy system for Bolivia across power, heat, and transport sectors by 2050
+Authors: Gabriel Lopez, Arman Aghahosseini, Dmitrii Bogdanov, Theophilus Nii Odai Mensah, Narges Ghorbani, Upeksha Caldera, Alejandra Prada Rivero, Johannes M. Kissel, Christian Breyer
+Year: 2021
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2021.126195
+Paper ID: https://openalex.org/W3128134833
+
+Abstract:
+Under the Paris Climate Agreement, sustainable energy supply will largely be achieved through renewable energies. Each country will have its own unique optimal pathway to transition to a fully sustainable system. This study demonstrates two such pathways for Bolivia that are both technically feasible and cost-competitive to a scenario without proper renewable energy targets, and significantly more cost-efficient than the current system. This transition for Bolivia would be driven by solar PV based electricity and high electrification across all energy sectors. Simulations performed using the LUT Energy System Transition model comprising 108 technology components show that electricity demand in Bolivia would rise from the present 12 TWh to 230 TWh in 2050, and electricity would comprise 82% of primary energy demand. The remaining 18% would then be covered by renewable heat and sustainable biomass resources. Solar PV sees massive increases in capacity from 0.13 GW in 2020 to a maximum of 113 GW in 2050, corresponding to 93% of electricity generation in 2050. In a high transmission scenario, levelized cost of energy reduces 27% during the transition. All scenarios studied see significant reductions in greenhouse gas emissions, with two scenarios demonstrating a Bolivian energy system with no greenhouse gas emissions in 2050. Further, such scenarios outline a sustainable and import-free supply of energy for Bolivia that will provide additional social benefits for the people of Bolivia.

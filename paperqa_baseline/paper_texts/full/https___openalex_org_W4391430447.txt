@@ -1,0 +1,9 @@
+Title: Literature Review on the Structural Health Monitoring (SHM) of Sustainable Civil Infrastructure: An Analysis of Influencing Factors in the Implementation
+Authors: Guangbin Wang, Jiawen Ke
+Year: 2024
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings14020402
+Paper ID: https://openalex.org/W4391430447
+
+Abstract:
+Structural health monitoring (SHM) of civil infrastructure is significant for sustainable development. This review aims to identify the factors influencing sustainable civil infrastructure SHM implementation and analyze the properties, paths, and conditions under which they have an impact. The method adopted is a coding study based on Grounded Theory. First, the SHM implementation process in the literature is categorized through open coding to obtain an implementation framework that contains phase and activity levels. Second, based on this framework, a synthesis is conducted to categorize the influencing factors in dimensions of contents and properties through open coding and axial coding. Finally, selective coding is used to extract the factors that interacted across activities to propose a scheme of influencing factor relationships. The main findings of the synthesis are shown as follows: (1) sensor work scheduling and data transmission are promising endeavors to balance economic and environmental sustainability, while social sustainability is mainly in terms of safety and user experience; (2) the success of sustainable civil infrastructure SHM requires a collaborative technical and organizational effort; (3) since the influencing factors at different phases may interact with each other, the implementation process should emphasize forward-looking and holistic thinking.

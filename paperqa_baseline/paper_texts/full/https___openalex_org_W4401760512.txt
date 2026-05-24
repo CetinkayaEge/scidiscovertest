@@ -1,0 +1,9 @@
+Title: Revolution in Renewables: Integration of Green Hydrogen for a Sustainable Future
+Authors: Jimiao Zhang, Jie Li
+Year: 2024
+Venue: Energies
+DOI: https://doi.org/10.3390/en17164148
+Paper ID: https://openalex.org/W4401760512
+
+Abstract:
+In recent years, global efforts towards a future with sustainable energy have intensified the development of renewable energy sources (RESs) such as offshore wind, solar photovoltaics (PVs), hydro, and geothermal. Concurrently, green hydrogen, produced via water electrolysis using these RESs, has been recognized as a promising solution to decarbonizing traditionally hard-to-abate sectors. Furthermore, hydrogen storage provides a long-duration energy storage approach to managing the intermittency of RESs, which ensures a reliable and stable electricity supply and supports electric grid operations with ancillary services like frequency and voltage regulation. Despite significant progress, the hydrogen economy remains nascent, with ongoing developments and persistent uncertainties in economic, technological, and regulatory aspects. This paper provides a comprehensive review of the green hydrogen value chain, encompassing production, transportation logistics, storage methodologies, and end-use applications, while identifying key research gaps. Particular emphasis is placed on the integration of green hydrogen into both grid-connected and islanded systems, with a focus on operational strategies to enhance grid resilience and efficiency over both the long and short terms. Moreover, this paper draws on global case studies from pioneering green hydrogen projects to inform strategies that can accelerate the adoption and large-scale deployment of green hydrogen technologies across diverse sectors and geographies.

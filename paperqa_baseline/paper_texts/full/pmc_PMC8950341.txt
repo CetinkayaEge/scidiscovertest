@@ -1,0 +1,9 @@
+Title: Failure to Detect Mutations in U2AF1 due to Changes in the GRCh38 Reference Sequence
+Authors: Christopher A. Miller, Jason R. Walker, Travis L. Jensen, William F. Hooper, Robert S. Fulton, Jeffrey S. Painter, Mikkael A. Sekeres, Timothy J. Ley, David H. Spencer, Johannes B. Goll, Matthew J. Walter
+Year: 2022
+Venue: The Journal of Molecular Diagnostics : JMD
+DOI: 10.1016/j.jmoldx.2021.10.013
+Paper ID: pmc_PMC8950341
+
+Abstract:
+The U2AF1 gene is a core part of mRNA splicing machinery and frequently contains somatic mutations that contribute to oncogenesis in myelodysplastic syndrome, acute myeloid leukemia, and other cancers. A change introduced in the GRCh38 version of the human reference build prevents detection of mutations in this gene, and others, by variant calling pipelines. This study describes the problem in detail and shows that a modified GRCh38 reference build with unchanged coordinates can be used to ameliorate the issue.

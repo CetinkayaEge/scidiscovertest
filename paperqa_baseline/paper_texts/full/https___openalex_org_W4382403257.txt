@@ -1,0 +1,9 @@
+Title: Manufacturing in the Age of Human-Centric and Sustainable Industry 5.0: Application to Holonic, Flexible, Reconfigurable and Smart Manufacturing Systems
+Authors: Christopher Turner, John Oyekan
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151310169
+Paper ID: https://openalex.org/W4382403257
+
+Abstract:
+This paper provides a classification of manufacturing types in terms of new technological tools provided in the Industry 5.0 framework. The manufacturing types agile, holonic, flexible and reconfigurable benefit from and are potentially changed by Industry 4.0 technologies and the human-centric focus of Industry 5.0. Furthermore, the use of Lifecycle Analysis (LCA) provides a holistic method for estimating the true value of emissions emitted during the carrying out of manufacturing decisions. As a result, LCA may be used as a central guiding framework, in addition to the use of Circular Economy metrics, for decisions in manufacturing whose results could be presented to humans as part of a scenario-generation system using visualisations within a Digital Twin environment. This enables a decision maker to make informed decisions regarding current and future production needs. Regardless of the size of production facility, this integrated approach is perhaps the most significant gap in research identified by this survey of manufacturing types and systems when viewed through the lens of Industry 5.0. This paper makes the contribution of providing an assessment of the major manufacturing types in the context of Industry 5.0, highlighting the gaps in the current research and providing a sustainable and human-centric agenda supported by LCA use with modern production methodologies.

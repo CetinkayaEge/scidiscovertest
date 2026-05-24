@@ -1,0 +1,9 @@
+Title: Room temperature nondestructive encapsulation via self-crosslinked fluorosilicone polymer enables damp heat-stable sustainable perovskite solar cells
+Authors: Tong Wang, Jiabao Yang, Qi Cao, Xingyu Pu, Yuke Li, Hui Chen, Junsong Zhao, Yixin Zhang, Xingyuan Chen, Xuanhua Li
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-36918-x
+Paper ID: https://openalex.org/W4323925460
+
+Abstract:
+Encapsulation engineering is an effective strategy to improve the stability of perovskite solar cells. However, current encapsulation materials are not suitable for lead-based devices because of their complex encapsulation processes, poor thermal management, and inefficient lead leakage suppression. In this work, we design a self-crosslinked fluorosilicone polymer gel, achieving nondestructive encapsulation at room temperature. Moreover, the proposed encapsulation strategy effectively promotes heat transfer and mitigates the potential impact of heat accumulation. As a result, the encapsulated devices maintain 98% of the normalized power conversion efficiency after 1000 h in the damp heat test and retain 95% of the normalized efficiency after 220 cycles in the thermal cycling test, satisfying the requirements of the International Electrotechnical Commission 61215 standard. The encapsulated devices also exhibit excellent lead leakage inhibition rates, 99% in the rain test and 98% in the immersion test, owing to excellent glass protection and strong coordination interaction. Our strategy provides a universal and integrated solution for achieving efficient, stable, and sustainable perovskite photovoltaics.

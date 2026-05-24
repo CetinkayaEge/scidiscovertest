@@ -1,0 +1,9 @@
+Title: Phytoplankton community structuring and succession in a competition-neutral resource landscape
+Authors: Michael J. Behrenfeld, Emmanuel S. Boss, Kimberly H. Halsey
+Year: 2021
+Venue: ISME Communications
+DOI: 10.1038/s43705-021-00011-5
+Paper ID: pmc_PMC9645248
+
+Abstract:
+Phytoplankton community composition and succession affect aquatic food webs and biogeochemistry. Resource competition is commonly viewed as an important governing factor for community structuring and this perception is imbedded in modern ecosystem models. Quantitative consideration of the physical spacing between phytoplankton cells, however, suggests that direct competition for growth-limiting resources is uncommon. Here we describe how phytoplankton size distributions and temporal successions are compatible with a competition-neutral resource landscape. Consideration of phytoplankton-herbivore interactions with proportional feeding size ranges yields small-cell dominated size distributions consistent with observations for stable aquatic environments, whereas predator–prey temporal lags and blooming physiologies shift this distribution to larger mean cell sizes in temporally dynamic environments. We propose a conceptual mandala for understanding phytoplankton community composition where species successional series are initiated by environmental disturbance, guided by the magnitude of these disturbances and nutrient stoichiometry, and terminated with the return toward a ‘stable solution’. Our conceptual mandala provides a framework for interpreting and modeling the environmental structuring of natural phytoplankton populations.

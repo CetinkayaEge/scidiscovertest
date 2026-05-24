@@ -1,0 +1,9 @@
+Title: Perspectives on single-nucleus RNA sequencing in different cell types and tissues
+Authors: Nayoung Kim, Huiram Kang, Areum Jo, Seung-Ah Yoo, Hae-Ock Lee
+Year: 2023
+Venue: Journal of Pathology and Translational Medicine
+DOI: 10.4132/jptm.2022.12.19
+Paper ID: pmc_PMC9846005
+
+Abstract:
+Single-cell RNA sequencing has become a powerful and essential tool for delineating cellular diversity in normal tissues and alterations in disease states. For certain cell types and conditions, there are difficulties in isolating intact cells for transcriptome profiling due to their fragility, large size, tight interconnections, and other factors. Single-nucleus RNA sequencing (snRNA-seq) is an alternative or complementary approach for cells that are difficult to isolate. In this review, we will provide an overview of the experimental and analysis steps of snRNA-seq to understand the methods and characteristics of general and tissue-specific snRNA-seq data. Knowing the advantages and limitations of snRNA-seq will increase its use and improve the biological interpretation of the data generated using this technique.

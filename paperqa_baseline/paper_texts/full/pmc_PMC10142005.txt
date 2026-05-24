@@ -1,0 +1,9 @@
+Title: Potential of Coupling Metaheuristics-Optimized-XGBoost and SHAP in Revealing PAHs Environmental Fate
+Authors: Gordana Jovanovic, Mirjana Perisic, Nebojsa Bacanin, Miodrag Zivkovic, Svetlana Stanisic, Ivana Strumberger, Filip Alimpic, Andreja Stojic
+Year: 2023
+Venue: Toxics
+DOI: 10.3390/toxics11040394
+Paper ID: pmc_PMC10142005
+
+Abstract:
+Polycyclic aromatic hydrocarbons (PAHs) refer to a group of several hundred compounds, among which 16 are identified as priority pollutants, due to their adverse health effects, frequency of occurrence, and potential for human exposure. This study is focused on benzo(a)pyrene, being considered an indicator of exposure to a PAH carcinogenic mixture. For this purpose, we have applied the XGBoost model to a two-year database of pollutant concentrations and meteorological parameters, with the aim to identify the factors which were mostly associated with the observed benzo(a)pyrene concentrations and to describe types of environments that supported the interactions between benzo(a)pyrene and other polluting species. The pollutant data were collected at the energy industry center in Serbia, in the vicinity of coal mining areas and power stations, where the observed benzo(a)pyrene maximum concentration for a study period reached 43.7 ng m − 3 . The metaheuristics algorithm has been used to optimize the XGBoost hyperparameters, and the results have been compared to the results of XGBoost models tuned by eight other cutting-edge metaheuristics algorithms. The best-produced model was later on interpreted by applying Shapley Additive exPlanations (SHAP). As indicated by mean absolute SHAP values, the temperature at the surface, arsenic, PM 10 , and total nitrogen oxide (NOx) concentrations appear to be the major factors affecting benzo(a)pyrene concentrations and its environmental fate.

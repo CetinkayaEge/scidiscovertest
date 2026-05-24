@@ -1,0 +1,9 @@
+Title: Ensuring the Sustainability of Biocatalysis
+Authors: John M. Woodley
+Year: 2022
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202102683
+Paper ID: https://openalex.org/W4210317382
+
+Abstract:
+Biocatalysis offers many attractive features for the synthetic chemist. In many cases, the high selectivity and ability to tailor specific enzyme features via protein engineering already make it the catalyst of choice. From the perspective of sustainability, several features such as catalysis under mild conditions and use of a renewable and biodegradable catalyst also look attractive. Nevertheless, to be sustainable at a larger scale it will be essential to develop processes operating at far higher concentrations of product, and which make better use of the enzyme via improved stability. In this Concept, it is argued that a particular emphasis on these specific metrics is of particular importance for the future implementation of biocatalysis in industry, at a level that fulfills its true potential.

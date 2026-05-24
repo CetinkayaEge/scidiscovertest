@@ -1,0 +1,9 @@
+Title: HDAC8 functions in spindle assembly during mouse oocyte meiosis
+Authors: Kemei Zhang, Yajuan Lu, Chaohua Jiang, Wei Liu, Jing Shu, Xueqin Chen, Yingjiao Shi, Ensheng Wang, Li Wang, Qinbo Hu, Yibo Dai, Bo Xiong
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15383
+Paper ID: pmc_PMC5386746
+
+Abstract:
+HDAC8 is a class I histone deacetylase that functions in a variety of biological processes through its non-histone substrates. However, its roles during oocyte meiosis remain elusive. Here, we document that HDAC8 localizes at spindle poles and positively participates in the regulation of microtubule organization and spindle assembly in mouse oocytes. Depletion of HDAC8 by siRNA-based gene silencing results in various spindle defects and chromosome misalignment during oocyte meiotic maturation, accompanied by impaired kinetochore-microtubule attachments. Consequently, a higher incidence of aneuploidy is generated in HDAC8-depleted MII eggs. In addition, inhibition of HDAC8 activity with its selective inhibitor PCI-34051 phenocopies the spindle/chromosome defects resulting from HDAC8 depletion by siRNA injection. Finally, we find that HDAC8 is required for the correct localization of ϕ-tubulin to spindle poles. Collectively, these data reveal that HDAC8 plays a significant role in regulating spindle assembly and thus ensuring the euploidy in mouse eggs.

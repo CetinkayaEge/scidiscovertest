@@ -1,0 +1,9 @@
+Title: Comparing Control Intervention Scenarios for Raccoon Rabies in Southern Ontario between 2015 and 2025
+Authors: Emily Sohanna Acheson, François Viard, Tore Buchanan, Larissa Nituch, Patrick A. Leighton
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15020528
+Paper ID: pmc_PMC9967127
+
+Abstract:
+The largest outbreak of raccoon rabies in Canada was first reported in Hamilton, Ontario, in 2015 following a probable translocation event from the United States. We used a spatially-explicit agent-based model to evaluate the effectiveness of provincial control programs in an urban-centric outbreak if control interventions were used until 2025, 2020, or never used. Calibration tests suggested that a seroprevalence of protective rabies antibodies 2.1 times higher than that inferred from seroprevalence in program assessments was required in simulations to replicate observed raccoon rabies cases. Our simulation results showed that if control interventions with an adjusted seroprevalence were used until 2025 or 2020, the probability of rabies elimination due to control intervention use was 49.2% and 42.1%, respectively. However, if controls were never used, the probability that initial rabies cases failed to establish a sustained outbreak was only 18.2%. In simulations where rabies was not successfully eliminated, using control interventions until 2025 resulted in 67% fewer new infections compared to only applying controls until 2020 and in 90% fewer new infections compared to no control intervention use. However, the model likely underestimated rabies elimination rates since we did not adjust for adaptive control strategies in response to changes in rabies distributions and case numbers, as well as extending control interventions past 2025. Our agent-based model offers a cost-effective strategy to evaluate approaches to rabies control applications.

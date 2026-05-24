@@ -1,0 +1,9 @@
+Title: Internet of Things‐Enabled Food and Plant Sensors to Empower Sustainability
+Authors: Matin Ataei Kachouei, Ajeet Kaushik, Md. Azahar Ali
+Year: 2023
+Venue: Advanced Intelligent Systems
+DOI: https://doi.org/10.1002/aisy.202300321
+Paper ID: https://openalex.org/W4387574470
+
+Abstract:
+To promote sustainability, this review explores: 1) the utilization of affordable high‐performance sensors that can enhance food safety and quality, plant growth, and disease management and 2) the Internet of Things (IoT)‐supported sensors to empower farmers, stakeholders, and agro‐food industries via rapid testing and predictive analysis based on sensing generated informatics using artificial intelligence (AI). The performance of such sensors is noticeable, but this technology is still not suitable to be used in real applications owing to the lack of focus, scalability, well‐coordinated research, and regulations. To cover this gap, this review carefully and critically analyzes state‐of‐the‐art sensing technologies developed for food quality assurance (i.e., contaminants, toxins, and packaging testing) and plant growth monitoring (i.e., phenotyping, stresses, volatile organic components, nutrient levels, hormones, and pathogens) along with the possible challenges. The following has been proposed for future research: 1) promoting the optimized combination of green sensing units supported by IoT to perform testing at the location, considering the remote and urban areas as a key focus, and 2) analyzing generated informatics via AI should also be a focus for risk assessment understanding and optimizing necessary safety majors. Finally, the perspectives of IoT‐enabled sensors, along with their real‐world limitations, are discussed.

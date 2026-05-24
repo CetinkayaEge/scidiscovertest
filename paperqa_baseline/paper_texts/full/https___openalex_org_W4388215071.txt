@@ -1,0 +1,9 @@
+Title: APOBEC3 deaminase editing in mpox virus as evidence for sustained human transmission since at least 2016
+Authors: Áine O’Toole, Richard A. Neher, Nnaemeka Ndodo, Vítor Borges, Ben Gannon, João Paulo Gomes, Natalie Groves, David J. King, Daniel Maloney, Philippe Lemey, Kuiama Lewandowski, Nicholas J. Loman, Richard Myers, Ifeanyi F. Omah, Marc A. Suchard, Michael Worobey, Meera Chand, Chikwe Ihekweazu, David Ulaeto, Ifedayo Adetifa, Andrew Rambaut
+Year: 2023
+Venue: Science
+DOI: https://doi.org/10.1126/science.adg8116
+Paper ID: https://openalex.org/W4388215071
+
+Abstract:
+Historically, mpox has been characterized as an endemic zoonotic disease that transmits through contact with the reservoir rodent host in West and Central Africa. However, in May 2022, human cases of mpox were detected spreading internationally beyond countries with known endemic reservoirs. When the first cases from 2022 were sequenced, they shared 42 nucleotide differences from the closest mpox virus (MPXV) previously sampled. Nearly all these mutations are characteristic of the action of APOBEC3 deaminases, host enzymes with antiviral function. Assuming APOBEC3 editing is characteristic of human MPXV infection, we developed a dual-process phylogenetic molecular clock that-inferring a rate of ~6 APOBEC3 mutations per year-estimates that MPXV has been circulating in humans since 2016. These observations of sustained MPXV transmission present a fundamental shift to the perceived paradigm of MPXV epidemiology as a zoonosis and highlight the need for revising public health messaging around MPXV as well as outbreak management and control.

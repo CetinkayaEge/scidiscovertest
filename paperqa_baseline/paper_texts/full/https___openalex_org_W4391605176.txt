@@ -1,0 +1,9 @@
+Title: Sustainable thermal energy harvest for generating electricity
+Authors: Shuai Zhang, Zekun Liu, Xiaotian Zhang, Zhenhua Wu, Zhiyu Hu
+Year: 2024
+Venue: The Innovation
+DOI: https://doi.org/10.1016/j.xinn.2024.100591
+Paper ID: https://openalex.org/W4391605176
+
+Abstract:
+Electricity is the lifeblood of modern society. However, the predominant source of electricity generation still relies on non-renewable fossil fuels, whose combustion releases greenhouse gases contributing to global warming. The increasing demand for energy and escalating environmental concerns necessitate proactive measures to develop innovative green energy technologies capable of both cooling the Earth and generating electricity. Here, we look forward to an interdisciplinary power system integrating solar absorbers, radiative coolers, and thermoelectric generators. This system can simultaneously harvest thermal energy from the sun and from cold space, thereby transforming the challenges posed by global warming into opportunities for the production of clean electricity. We underscore recent advancements in this field and address key challenges while also exploring forward-looking opportunities in the foreseeable future. The proposed integrated energy technology achieves uninterrupted power supply through the unrestricted capture of thermal energy, offering a robust alternative pathway for next-generation sustainable energy technologies.

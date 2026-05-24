@@ -1,0 +1,9 @@
+Title: Flexible and Semi-Transparent Silicon Solar Cells as a Power Supply to Smart Contact Lenses
+Authors: Erfan Pourshaban, Aishwaryadev Banerjee, Adwait Deshpande, Chayanjit Ghosh, Mohit U. Karkhanis, Rabiul Hasan, Nathan D. Rock, Hanseup Kim, Carlos H. Mastrangelo
+Year: 2022
+Venue: ACS Applied Electronic Materials
+DOI: 10.1021/acsaelm.2c00665
+Paper ID: pmc_PMC9406818
+
+Abstract:
+Supplying electric power to wearable IoT devices, particularly smart contact lenses (SCLs), is one of the main obstacles to widespread adoption and commercialization. In the present study, we have successfully designed, fabricated, and characterized semi-transparent, self-supported, and flexible single crystalline silicon solar cells using a single-sided micromachining procedure. Optical, mechanical, and electrical simulations, together with the practical measurements, verify the application of our developed solar cells to be mounted on a limited-footprint and flexible SCL. The 15 μm-thick silicon solar cells conformally fit on a dome-shaped contact lens (ROC = 8 mm) without any mechanical and electrical degradation. This homojunction photovoltaic device containing an array of micro-holes exhibits a V oc , J sc , and maximum power density of 504 mV, 6.48 mA cm –2 , and 1.67 mW cm –2 , respectively, at 25% visible light transparency under an AM1.5 one sun condition. Furthermore, the measurements were conducted under low-intensity indoor light conditions and resulted in a maximum power output of 25 and 42 μW cm –2 for the 50 and 25% transparent solar cells, respectively.

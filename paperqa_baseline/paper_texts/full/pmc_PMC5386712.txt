@@ -1,0 +1,9 @@
+Title: Methylation decreases the Bin1 tumor suppressor in ESCC and restoration by decitabine inhibits the epithelial mesenchymal transition
+Authors: Xuexiao Wang, Jiali Wang, Yunlong Jia, Yu Wang, Xiaonan Han, Yuqing Duan, Wei Lv, Ming Ma, Lihua Liu
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14914
+Paper ID: pmc_PMC5386712
+
+Abstract:
+Bridging integrator-1 (Bin1), as a tumor suppressor, is frequently attenuated or even abolished in multiple primary cancers. A reduced expression of Bin1 caused by DNA methylation, has been reported in breast and prostate cancers. However, the methylation status of Bin1 and potent biological functions in esophageal squamous cell carcinoma (ESCC) remain unclear. In a previous study, we showed that the Bin1 expression was low in ESCC tissues. Herein, we further characterized this mechanism, confirming that gene hypermethylation was significantly correlated with the aberrant attenuation of Bin1. In addition, the Bin1 hypermethylation was associated with the poorer clinical parameters and shorter survival times of ESCC patients. Methylation-specific reverse transcription-polymerase chain reaction (MS-RT-PCR) showed that Bin1 was hypermethylated in several ESCC cell lines, which might be the main cause of reduced Bin1 expression. In addition, treatment with the de-methylation agent Decitabine (DAC) could restore Bin1 expression and evidently restrained ESCC cell malignant behaviors, particularly the epithelial mesenchymal transition (EMT) via reactivating the PTEN/AKT signaling pathway to inhibit matrix metalloproteinase (MMP)-2 and MMP-9 expression in vitro and in vivo . In conclusion, these results demonstrated that Bin1 methylation could augment the malignant biological behaviors of ESCC and predict the poor prognosis for ESCC patients, thus indicating the potential clinical application value of DAC-based de-methylation therapy in ESCC.

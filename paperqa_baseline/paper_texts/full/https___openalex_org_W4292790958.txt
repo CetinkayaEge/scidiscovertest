@@ -1,0 +1,9 @@
+Title: Ligand‐to‐Metal Charge Transfer (LMCT) Photochemistry at 3d‐Metal Complexes: An Emerging Tool for Sustainable Organic Synthesis
+Authors: Fabio Juliá
+Year: 2022
+Venue: ChemCatChem
+DOI: https://doi.org/10.1002/cctc.202200916
+Paper ID: https://openalex.org/W4292790958
+
+Abstract:
+Abstract Despite the rich photochemistry of 3d‐metal complexes, the utilization of excited‐state reactivity of these compounds in organic synthesis has been historically overlooked. The advent of photoredox catalysis has changed the perception of synthetic chemists towards photochemistry, and nowadays the potential of photoinduced, outer‐sphere single‐electron transfer events is widely recognized. More recently, an emerging new mode of photoactivation has taken the spotlight, based on an inner‐sphere mode of reactivity triggered by population of ligand‐to‐metal charge‐transfer (LMCT) excited states. Contrarily to photoredox, LMCT‐activation does not rely on matching redox potentials, offers unique reactivity profiles and is particularly well suited on Earth‐abundant metal complexes. Those appealing features are propelling the development of methods using this blueprint to generate highly reactive open‐shell species under mild conditions. The aim of this contribution is to provide a didactical tool for the comprehension of this emerging concept and facilitate the development of new synthetic methodologies to achieve sustainable chemical transformations.

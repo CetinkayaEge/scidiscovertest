@@ -1,0 +1,9 @@
+Title: Novel Biobased Polylactic Acid/Poly(pentamethylene 2,5-furanoate) Blends for Sustainable Food Packaging
+Authors: Daniele Rigotti, Michelina Soccio, Andrea Dorigato, Massimo Gazzano, Valentina Siracusa, Giulia Fredi, Nadia Lotti
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.1c04092
+Paper ID: https://openalex.org/W3203388590
+
+Abstract:
+Here, solution-cast blends of polylactic acid (PLA) and a novel bioderived poly(pentamethylene 2,5-furanoate) (PPeF) in variable concentrations (1–50 wt %) are prepared and investigated. The characterization of the thin films (thickness 50 μm) highlights that PPeF strongly improves the UV-shielding properties of PLA, with a decrease in transmittance at 275 nm from 47.3% of neat PLA to 0.77% with only 1 wt % of PPeF, while the transmittance decrease in the visible region at these PPeF fractions is marginal, allowing the production of optically transparent films. Despite the complete immiscibility of PLA/PPeF blends, PPeF effectively enhances the ductility of PLA as the tensile strain at break increases from 7% of neat PLA to 200% of the blend with 30 wt % of PPeF. This composition is the most promising also from the gas-barrier point of view as the gas transmission rates of CO2 and O2 drop to one-fourth of those of neat PLA, comparable to those of poly(ethylene terephthalate). These results highlight that PLA/PPeF blends with PPeF fractions of 30 wt % are very promising for food packaging applications, and their properties could be further enhanced by applying suitable compatibilizers.

@@ -1,0 +1,9 @@
+Title: Exploring blockchain-based Traceability for Food Supply Chain Sustainability: Towards a Better Way of Sustainability Communication with Consumers
+Authors: Shoufeng Cao, Hope Johnson, Ayesha Tulloch
+Year: 2023
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.12.342
+Paper ID: https://openalex.org/W4315777150
+
+Abstract:
+While there is consensus that blockchain technology can improve supply chain transparency and operational efficiency, scholars and practitioners have only recently considered how blockchain could improve the sustainability of supply chains. This article contributes to this emerging body of work by considering how to use blockchain to enable sustainable food supply chains. To advance the use of blockchain for sustainability in the food supply chain context, this study proposes a blockchain-enabled architectural framework for trustworthy communication about the sustainability attributes of food products. The blockchain-enabled architectural framework outlines a multi-layered architecture for utilising blockchain-based traceability as a way to signal to consumers the trustworthy sustainability attributes of a particular food product. This kind of sustainability communication enables the accessibility of traceable and verifiable evidence and therefore can significantly enhance the reliability and trustworthiness of sustainable claims/credentials compared to printed food labels or other digital means of communication. The study contributes to sustainability communication empowered by blockchain-based traceability and offers invaluable insights to both researchers and practitioners in the industry 4.0 landscape.

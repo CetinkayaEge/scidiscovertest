@@ -1,0 +1,9 @@
+Title: Sustainable Development Programming of Airports by Identification of Non-Efficient Units
+Authors: Elżbieta Szaruga, Elżbieta Załoga
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15030932
+Paper ID: https://openalex.org/W4210248448
+
+Abstract:
+This article concerns the identification of inefficient airports and the exploration of spatial autocorrelation for programming sustainable development. The first research question was: do domestic airports cooperate by shifting passenger service and traffic to the geographically closest airport to respect the idea of sustainable development (in view of the rationalization of energy consumption)? The second question was: do they excessively compete for passengers and the carriers serving them? The aim was to identify ineffective units (taking into account energy consumption, airplane traffic, and passenger movement) and to evaluate the spatial autocorrelation between national airports, which shows whether airports cooperate or compete with each other. The study was conducted on 12 airports. An innovative extension of the data envelopment analysis method using methods in the field of spatial econometrics (including two-dimensional Moran I statistics and local LISA statistics) and artificial intelligence was applied. It was verified that ineffective airports have a non-rationalized structure of inputs to outputs. Based on the map-graph of connections, airports have been identified to which part of airplane traffic service can be transferred. Based on Moran statistics and local LISA statistics, it was confirmed that airports compete with each other. There was a strong polarization of efficient airports.

@@ -1,0 +1,9 @@
+Title: Progress in modeling dynamic systems for sustainable development
+Authors: Noelle E. Selin, Amanda Giang, William C. Clark
+Year: 2023
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2216656120
+Paper ID: https://openalex.org/W4387040939
+
+Abstract:
+This Perspective evaluates recent progress in modeling nature-society systems to inform sustainable development. We argue that recent work has begun to address longstanding and often-cited challenges in bringing modeling to bear on problems of sustainable development. For each of four stages of modeling practice-defining purpose, selecting components, analyzing interactions, and assessing interventions-we highlight examples of dynamical modeling methods and advances in their application that have improved understanding and begun to inform action. Because many of these methods and associated advances have focused on particular sectors and places, their potential to inform key open questions in the field of sustainability science is often underappreciated. We discuss how application of such methods helps researchers interested in harnessing insights into specific sectors and locations to address human well-being, focus on sustainability-relevant timescales, and attend to power differentials among actors. In parallel, application of these modeling methods is helping to advance theory of nature-society systems by enhancing the uptake and utility of frameworks, clarifying key concepts through more rigorous definitions, and informing development of archetypes that can assist hypothesis development and testing. We conclude by suggesting ways to further leverage emerging modeling methods in the context of sustainability science.

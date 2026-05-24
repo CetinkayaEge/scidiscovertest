@@ -1,0 +1,9 @@
+Title: Zebra-inspired stretchable, biodegradable radiation modulator for all-day sustainable energy harvesters
+Authors: Won Bae Han, Se‐Yeon Heo, Donghak Kim, Donghak Kim, Seung Min Yang, Gwan‐Jin Ko, Gil Ju Lee, Dong‐Je Kim, Dong‐Je Kim, Kaveti Rajaram, Joong Hoon Lee, Jeong‐Woong Shin, Tae‐Min Jang, Sungkeun Han, Heeseok Kang, Jun Hyeon Lim, Do Hyeon Kim, Soo Hyun Kim, Young Min Song, Suk‐Won Hwang
+Year: 2023
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.adf5883
+Paper ID: https://openalex.org/W4318825589
+
+Abstract:
+Recent advances in passive radiative cooling systems describe a variety of strategies to enhance cooling efficiency, while the integration of such technology with a bioinspired design using biodegradable materials can offer a research opportunity to generate energy in a sustainable manner, favorable for the temperature/climate system of the planet. Here, we introduce stretchable and ecoresorbable radiative cooling/heating systems engineered with zebra stripe-like patterns that enable the generation of a large in-plane temperature gradient for thermoelectric generation. A comprehensive study of materials with theoretical evaluations validates the ability to accomplish the target performances even under external mechanical strains, while all systems eventually disappear under physiological conditions. Use of the zebra print for selective radiative heating demonstrates an unexpected level of temperature difference compared to use of radiative cooling emitters alone, which enables producing energy through resorbable silicon-based thermoelectric devices. The overall result suggests the potential of scalable, ecofriendly renewable energy systems.

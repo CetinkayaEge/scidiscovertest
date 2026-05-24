@@ -1,0 +1,9 @@
+Title: Engineering a sustainable future for point-of-care diagnostics and single-use microfluidic devices
+Authors: Alfredo E. Ongaro, Zibusiso Ndlovu, Elodie Sollier, Collins Otieno, Pascale Ondoa, Alice Street, Maïwenn Kersaudy-Kerhoas
+Year: 2022
+Venue: Lab on a Chip
+DOI: https://doi.org/10.1039/d2lc00380e
+Paper ID: https://openalex.org/W4285207578
+
+Abstract:
+. Many devices also contain toxic chemicals, such as cyanide derivatives, that are damaging to environmental and human health if not disposed of safely. Yet, in the absence of government regulatory frameworks, safe and sustainable waste management for these novel medical devices is often left unaddressed. There is an urgent need to find novel solutions to avert environmental and human harm from these devices, especially in low- and middle-income countries where waste management infrastructure is often weak and where the use of point-of-care tests is projected to rise in coming years. We review here common materials used in the manufacture of single-use point-of-care diagnostic tests, examine the risks they pose to environmental and human health, and investigate replacement materials that can potentially reduce the impact of microfluidic devices on the production of harmful waste. We propose solutions available to point-of-care test developers to start embedding sustainability at an early stage in their design, and to reduce their non-renewable plastic consumption in research and product development.

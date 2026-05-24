@@ -1,0 +1,9 @@
+Title: A Systematic Literature Review of MABAC Method and Applications: An Outlook for Sustainability and Circularity
+Authors: Ali Ebadi Torkayesh, Erfan Babaee Tırkolaee, Aram Bahrini, Dragan Pamučar, Amir Khakbaz
+Year: 2023
+Venue: Informatica
+DOI: https://doi.org/10.15388/23-infor511
+Paper ID: https://openalex.org/W4322708048
+
+Abstract:
+Multiple Criteria Decision-Making (MCDM) is one of the most reliable and applicable decision-making tools to address real-life complex and multi-dimensional problems in accordance with the concepts of sustainable development and circular economy. Although there have been several literature reviews on several MCDM methods, there is a research gap in conducting a literature review on the Multi-Attributive Border Approximation area Comparison (MABAC) as a useful technique to deal with intelligent decision-making systems. This study attempts to present a comprehensive literature review of 117 articles on recent developments and applications of MABAC. Future outlook is provided considering challenges and current trends.

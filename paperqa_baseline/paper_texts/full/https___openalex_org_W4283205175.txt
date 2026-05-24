@@ -1,0 +1,9 @@
+Title: COVID-19 and connectedness between Sustainable and Islamic equity markets
+Authors: Muhammad Abubakr Naeem, Saqib Farid, Muhammad Arif, Andrea Paltrinieri, Majed Alharthi
+Year: 2022
+Venue: Borsa Istanbul Review
+DOI: https://doi.org/10.1016/j.bir.2022.06.001
+Paper ID: https://openalex.org/W4283205175
+
+Abstract:
+Because of the increasing importance of and demand for ethical investment, this paper investigates the dynamics of connectedness between sustainable and Islamic investment in nineteen countries that represent developed and emerging financial markets worldwide. To this end, we apply models proposed by Diebold and Yilmaz and Barunik and Krehlik to explore the overall and frequency-based connectedness between selected ethical investments. Our results reveal evidence of a moderate to strong intra country-level connectedness between sustainable and Islamic investment and limited cross-country connectedness between ethical investments. The time-varying connectedness analysis suggests enhanced connectedness during periods of market-wide turmoil, such as the European debt crisis, the Chinese financial crisis, and the COVID-19 pandemic. Moreover, the COVID-19 subsample analysis shows an enhanced and idiosyncratic country-level and cross-country connectedness structure between ethical investments, indicating the evolving nature of the relationship between sustainable and Islamic investment.

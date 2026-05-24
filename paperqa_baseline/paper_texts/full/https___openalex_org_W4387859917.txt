@@ -1,0 +1,9 @@
+Title: An Overview of Emerging and Sustainable Technologies for Increased Energy Efficiency and Carbon Emission Mitigation in Buildings
+Authors: Zhenjun Ma, Muhammad Bilal Awan, Menglong Lu, Shengteng Li, Muhammad Shahbaz Aziz, Xinlei Zhou, Han Du, Xinyi Sha, Yixuan Li
+Year: 2023
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings13102658
+Paper ID: https://openalex.org/W4387859917
+
+Abstract:
+The building sector accounts for a significant proportion of global energy usage and carbon dioxide emissions. It is important to explore technological advances to curtail building energy usage to support the transition to a sustainable energy future. This study provides an overview of emerging and sustainable technologies and strategies that can assist in achieving building decarbonization. The main technologies reviewed include uncertainty-based design, renewable integration in buildings, thermal energy storage, heat pump technologies, thermal energy sharing, building retrofits, demand flexibility, data-driven modeling, improved control, and grid-buildings integrated control. The review results indicated that these emerging and sustainable technologies showed great potential in reducing building operating costs and carbon footprint. The synergy among these technologies is an important area that should be explored. An appropriate combination of these technologies can help achieve grid-responsive net-zero energy buildings, which is anticipated to be one of the best options to simultaneously reduce building emissions, energy consumption, and operating costs, as well as support dynamic supply conditions of the renewable energy-powered grids. However, to unlock the full potential of these technologies, collaborative efforts between different stakeholders are needed to facilitate their integration and deployment on a larger and wider scale.

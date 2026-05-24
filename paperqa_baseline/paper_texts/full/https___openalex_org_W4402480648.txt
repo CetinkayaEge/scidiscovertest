@@ -1,0 +1,9 @@
+Title: Bridge Maintenance, Safety, Management, Digitalization and Sustainability
+Authors: Jens Sandager Jensen, Dan M. Frangopol, Jacob Wittrup Schmidt
+Year: 2024
+Venue: 
+DOI: https://doi.org/10.1201/9781003483755
+Paper ID: https://openalex.org/W4402480648
+
+Abstract:
+ABSTRACT: In this work, a simplified methodology is developed for evaluating the evolution of strain/stresses or forces/deflections during the construction process of a segmental concrete precast bridge erected using a balanced cantilever method. The focus of the study is on modeling the entire construction process in stages (most significant) and the prestressing system, considering creep effects in a finite element model. During construction, the superstructure adopts a cantilever static scheme that change into a supported continuous beam upon the last stage. An original method for calculating creep phenomena has been implemented, involving the definition of a ‘weighted’ creep factor, which allows bypassing the limitations of the more common commercial codes in modeling such phenomena. Once the conceptual framework of the problem modeling is defined, it becomes possible to transfer all the acquired knowledge to more sophisticated models that use 2D or 3D elements and can address more complex local issues.

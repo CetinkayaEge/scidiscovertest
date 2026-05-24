@@ -1,0 +1,9 @@
+Title: Quantifying Functional Impairment of ABCA3 Variants Associated with Interstitial Lung Disease
+Authors: Xiaohua Yang, Christina K. Rapp, Yang Li, Maria Forstner, Matthias Griese
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087554
+Paper ID: pmc_PMC10141231
+
+Abstract:
+ATP-binding cassette subfamily A member 3 (ABCA3) is a lipid transporter within alveolar type II cells. Patients with bi-allelic variants in ABCA3 may suffer from a variable severity of interstitial lung disease. We characterized and quantified ABCA3 variants’ overall lipid transport function by assessing the in vitro impairment of its intracellular trafficking and pumping activity. We expressed the results relative to the wild type, integrated the quantitative readouts from eight different assays and used newly generated data combined with previous results to correlate the variants’ function and clinical phenotype. We differentiated normal (within 1 normalized standard deviation (nSD) of the wild-type mean), impaired (within 1 to 3 nSD) and defective (beyond 3 nSD) variants. The transport of phosphatidylcholine from the recycling pathway into ABCA3 + vesicles proved sensitive to the variants’ dysfunction. The sum of the quantitated trafficking and pumping predicted a clinical outcome. More than an approximately 50% loss of function was associated with considerable morbidity and mortality. The in vitro quantification of ABCA3 function enables detailed variant characterization, substantially improves the phenotype prediction of genetic variants and possibly supports future treatment decisions.

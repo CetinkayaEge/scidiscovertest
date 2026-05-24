@@ -1,0 +1,9 @@
+Title: Computational Exploration of Licorice for Lead Compounds against Plasmodium vivax Duffy Binding Protein Utilizing Molecular Docking and Molecular Dynamic Simulation
+Authors: Muhammad Yasir, Jinyoung Park, Eun-Taek Han, Won Sun Park, Jin-Hee Han, Yong-Soo Kwon, Hee-Jae Lee, Wanjoo Chun
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083358
+Paper ID: pmc_PMC10141081
+
+Abstract:
+Plasmodium vivax ( P. vivax ) is one of the human’s most common malaria parasites. P. vivax is exceedingly difficult to control and eliminate due to the existence of extravascular reservoirs and recurring infections from latent liver stages. Traditionally, licorice compounds have been widely investigated against viral and infectious diseases and exhibit some promising results to combat these diseases. In the present study, computational approaches are utilized to study the effect of licorice compounds against P. vivax Duffy binding protein (DBP) to inhibit the malarial invasion to human red blood cells (RBCs). The main focus is to block the DBP binding site to Duffy antigen receptor chemokines (DARC) of RBC to restrict the formation of the DBP–DARC complex. A molecular docking study was performed to analyze the interaction of licorice compounds with the DARC binding site of DBP. Furthermore, the triplicates of molecular dynamic simulation studies for 100 ns were carried out to study the stability of representative docked complexes. The leading compounds such as licochalcone A, echinatin, and licochalcone B manifest competitive results against DBP. The blockage of the active region of DBP resulting from these compounds was maintained throughout the triplicates of 100 ns molecular dynamic (MD) simulation, maintaining stable hydrogen bond formation with the active site residues of DBP. Therefore, the present study suggests that licorice compounds might be good candidates for novel agents against DBP-mediated RBC invasion of P. vivax .

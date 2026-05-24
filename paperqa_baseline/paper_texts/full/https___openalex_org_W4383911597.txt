@@ -1,0 +1,9 @@
+Title: A Bibliometric Review of Education for Sustainable Development, 1992–2022
+Authors: Chuang Yang, Qi Xiu
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151410823
+Paper ID: https://openalex.org/W4383911597
+
+Abstract:
+The United Nations promulgated Agenda 21 in 1992, thereby recognizing education as the pathway to a more sustainable future. The launch of education for sustainable development (ESD) activities and the growing number of related studies have created an urgent need for a thorough and comprehensive review of the field. Based on 2779 publications from the related literature in the SSCI index from 1992 to 2022, this study outlines the growth characteristics, research areas, and research methods, and conducts a statistical analysis of the contributing forces of countries, institutions, and authors to demonstrate that the literature is mainly generated in developed countries. Meanwhile, this study identifies ten core journals and finds that highly productive institutions are characterized by close relationships and long-term in-depth research and collaboration with authors. Finally, a combination of Latent Dirichlet Allocation (LDA) theme models, manual coding, and pyLDAvis visualization tools identified five research themes, including foundations of ESD research, environmental education, higher education for sustainable development, sustainable development capacity, and educational technology innovation. The intellectual structure of research in this emerging interdisciplinary field is revealed, and this study provides a reference for scholars in this discipline.

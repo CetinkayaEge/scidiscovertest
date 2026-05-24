@@ -1,0 +1,9 @@
+Title: Design of a High-Order Kalman Filter for State and Measurement of A Class of Nonlinear Systems Based on Kronecker Product Augmented Dimension
+Authors: Deyan Peng, Chenglin Wen, Meilei Lv
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062894
+Paper ID: pmc_PMC10056134
+
+Abstract:
+A high-order Kalman filter for full-dimensional variables is proposed for a class of dynamic systems whose state model and measurement model are both nonlinear. The filter requires Taylor expansion of the system equations, and then performs Kronecker product operation on the linear part in the Taylor expansion. Finally, a linear dynamic model is achieved based on the full-dimensional vector formed by the state variables and the high-order dimension expansion variables. After designing the filter, the Kalman filter for the original state variables estimation was selected through the projection operator. The excellent performance of the novel filter is analyzed from the aspects of the information utilization of the state estimation value and the size of the state estimation error covariance matrix. The numerical verification is carried out by computer simulation.

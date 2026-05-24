@@ -1,0 +1,9 @@
+Title: Adsorption Tuning of Polarity and Magnetism in AgCr 2 S 4 Monolayer
+Authors: Ranran Li, Yu Wang, Ning Ding, Shuai Dong, Ming An
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083058
+Paper ID: pmc_PMC10140950
+
+Abstract:
+As a recent successfully exfoliated non-van der Waals layered material, AgCrS 2 has received a lot of attention. Motivated by its structure-related magnetic and ferroelectric behavior, a theoretical study on its exfoliated monolayer AgCr 2 S 4 has been carried out in the present work. Based on density functional theory, the ground state and magnetic order of monolayer AgCr 2 S 4 have been determined. The centrosymmetry emerges upon two-dimensional confinement and thus eliminates the bulk polarity. Moreover, two-dimensional ferromagnetism appears in the CrS 2 layer of AgCr 2 S 4 and can persist up to room temperature. The surface adsorption has also been taken into consideration, which shows a nonmonotonic effect on the ionic conductivity through ion displacement of the interlayer Ag, but has little impact on the layered magnetic structure.

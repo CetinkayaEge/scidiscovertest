@@ -1,0 +1,9 @@
+Title: Deploying Industry 5.0 drivers to enhance sustainable supply chain risk resilience
+Authors: Chih-Hung Hsu, Jin-Zheng Wu, Ting-Yi Zhang, Jiayi Chen
+Year: 2024
+Venue: International Journal of Sustainable Engineering
+DOI: https://doi.org/10.1080/19397038.2024.2327381
+Paper ID: https://openalex.org/W4392921882
+
+Abstract:
+ABSTRACTWith global supply chains facing increasing complexity and uncertainty, mitigating sustainable supply chain risks (SSCRs) has become an important research topic. Industry 5.0 (I5.0) is a supplement to, and re-development of, Industry 4.0, but no research on improving supply chain resilience (SCRE) through I5.0 drivers to mitigate SSCRs currently exists. Therefore, we developed a QFD approach to investigate the relationship between SSCRs, SCRE, and I5.0 drivers. This study utilises the FDM-FDISM-ANP-TOPSIS method, considers China’s largest private logistics enterprises as the object of empirical analysis, and establishes a sustainable supply chain identification system and SCRE evaluation index system for logistics enterprises through two-stage House of Quality. The findings reveal that 20 key I5.0 significantly bolster 17 SCRE, thereby mitigating 13 SSCRs by QFD-MCDM framework. These I5.0 drivers play a pivotal role in enhancing SCRE of logistics enterprises. This study contributes to the field of supply chain risk resilience in sustainable engineering by integrating the perspectives of SSCRs, SCRE and I5.0. It underscores the necessity for managers in logistics enterprises to develop SCRE solutions that incorporate both SSCRs and I5.0 considerations. Furthermore, our findings offer valuable insights for other industries aiming to bolster their supply chain competitive advantages in an increasingly complex global landscape.

@@ -1,0 +1,9 @@
+Title: Building Information Modelling Implementation Model for Sustainable Building Projects in Developing Countries: A PLS-SEM Approach
+Authors: Maged Abdel-Tawab, Ahmed Farouk Kineber, Nicholas Chileshe, Fonbeyin Henry Abanda, Ali Hassan Ali, Avar Almukhtar
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15129242
+Paper ID: https://openalex.org/W4380051060
+
+Abstract:
+When building homes, sustainability principles should be followed throughout the process to achieve maximum advantages. Building information modeling (BIM) activities can aid in achieving sustainable goals. Third-world countries’ building industry implements informal approaches to information dissemination through email newsletters and websites. This research seeks to provide a model for the application of BIM and its relationship with overall sustainable success (OSS) in building projects. BIM activities were identified from the literature, and a survey form was distributed to 180 professionals in the Egyptian construction industry. Partial Least Squares-Structural Equation Modeling (PLS-SEM) was used to establish the structure of BIM activities and assess their correlation with project success, revealing BIM accounts for 30% of sustainability. The study’s findings inform decision-making to improve project sustainability and reduce costs by introducing BIM to developing countries’ construction industries.

@@ -1,0 +1,9 @@
+Title: Building a unified sustainable development goal database: Why does sustainable development goal data selection matter?
+Authors: Anne Warchold, Prajal Pradhan, Pratibha Thapa, Muhammad Panji Islam Fajar Putra, Jürgen P. Kropp
+Year: 2022
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2316
+Paper ID: https://openalex.org/W4224286674
+
+Abstract:
+Abstract The 2020s are an essential decade for achieving the 2030 Agenda and its Sustainable Development Goals (SDGs). For this, SDG research needs to provide evidence that can be translated into concrete actions. However, studies use different SDG data, resulting in incomparable findings. Researchers primarily use SDG databases provided by the United Nations (UN), the World Bank Group (WBG), and the Bertelsmann Stiftung &amp; Sustainable Development Solutions Network (BE‐SDSN). We compile these databases into one unified SDG database and examine the effects of the data selection on our understanding of SDG interactions. Among the databases, we observed more different than similar SDG interactions. Differences in synergies and trade‐offs mainly occur for SDGs that are environmentally oriented. Due to the increased data availability, the unified SDG database offers a more nuanced and reliable view of SDG interactions. Thus, the SDG data selection may lead to diverse findings, fostering actions that might neglect or exacerbate trade‐offs.

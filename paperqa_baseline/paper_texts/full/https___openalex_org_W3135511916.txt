@@ -1,0 +1,9 @@
+Title: Primitive Compartmentalization for the Sustainable Replication of Genetic Molecules
+Authors: Ryo Mizuuchi, Norikazu Ichihashi
+Year: 2021
+Venue: Life
+DOI: https://doi.org/10.3390/life11030191
+Paper ID: https://openalex.org/W3135511916
+
+Abstract:
+Sustainable replication and evolution of genetic molecules such as RNA are likely requisites for the emergence of life; however, these processes are easily affected by the appearance of parasitic molecules that replicate by relying on the function of other molecules, while not contributing to their replication. A possible mechanism to repress parasite amplification is compartmentalization that segregates parasitic molecules and limits their access to functional genetic molecules. Although extent cells encapsulate genomes within lipid-based membranes, more primitive materials or simple geological processes could have provided compartmentalization on early Earth. In this review, we summarize the current understanding of the types and roles of primitive compartmentalization regarding sustainable replication of genetic molecules, especially from the perspective of the prevention of parasite replication. In addition, we also describe the ability of several environments to selectively accumulate longer genetic molecules, which could also have helped select functional genetic molecules rather than fast-replicating short parasitic molecules.

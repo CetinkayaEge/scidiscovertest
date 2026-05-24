@@ -1,0 +1,9 @@
+Title: A tool to assess analytical sample preparation procedures: Sample preparation metric of sustainability
+Authors: Raúl González-Martín, Adrián Gutiérrez‐Serpa, Verónica Pino, Muhammad Sajid
+Year: 2023
+Venue: Journal of Chromatography A
+DOI: https://doi.org/10.1016/j.chroma.2023.464291
+Paper ID: https://openalex.org/W4385652527
+
+Abstract:
+Sample preparation is a key step in most analytical methods, generally regarded as the least green step of the entire procedure. The existing green metrics assess the greenness of sample preparation techniques through the evaluation of the whole analytical procedure: including sampling, sample preparation, and the final detection/quantitation. Such inclusion of the entire method makes assessing the sustainability of a newly developed sample preparation technique quite challenging, as many aspects not solely linked to the sample preparation step are unavoidably considered. Thus, an alternative metric that can explicitly and exclusively evaluate the sample preparation is proposed. The metric is simple; it reports the result with a clock-like diagram, displaying the greenness outcome of main sample preparation parameters and a total score. This new metric can differentiate closely related microextraction approaches in terms of sustainability. The metric is also open-source and can be used by downloading the Excel sheet provided.

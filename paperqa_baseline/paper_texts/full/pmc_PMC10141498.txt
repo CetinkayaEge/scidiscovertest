@@ -1,0 +1,9 @@
+Title: Inhibition of spinal ferroptosis-like cell death alleviates hyperalgesia and spontaneous pain in a mouse model of bone cancer pain
+Authors: Zhuofeng Ding, Xiaoshen Liang, Jian Wang, Zongbin Song, Qulian Guo, Michael K.E. Schäfer, Changsheng Huang
+Year: 2023
+Venue: Redox Biology
+DOI: 10.1016/j.redox.2023.102700
+Paper ID: pmc_PMC10141498
+
+Abstract:
+Bone cancer pain (BCP) impairs patients’ quality of life. However, the underlying mechanisms are still unclear. This study investigated the role of spinal interneuron death using a pharmacological inhibitor of ferroptosis in a mouse model of BCP. Lewis lung carcinoma cells were inoculated into the femur, resulting in hyperalgesia and spontaneous pain. Biochemical analysis revealed that spinal levels of reactive oxygen species and malondialdehyde were increased, while those of superoxide dismutase were decreased. Histological analysis showed the loss of spinal GAD65+ interneurons and provided ultrastructural evidence of mitochondrial shrinkage. Pharmacologic inhibition of ferroptosis using ferrostatin-1 (FER-1, 10 mg/kg, intraperitoneal for 20 consecutive days) attenuated ferroptosis-associated iron accumulation and lipid peroxidation and alleviated BCP. Furthermore, FER-1 inhibited the pain-associated activation of ERK1/2 and COX-2 expression and prevented the loss of GABAergic interneurons. Moreover, FER-1 improved analgesia by the COX-2 inhibitor Parecoxib. Taken together, this study shows that pharmacological inhibition of ferroptosis-like cell death of spinal interneurons alleviates BCP in mice. The results suggest that ferroptosis is a potential therapeutic target in patients suffering on BCP and possibly other types of pain. Graphical abstract Image 1

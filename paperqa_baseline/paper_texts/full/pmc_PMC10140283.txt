@@ -1,0 +1,9 @@
+Title: A link prediction-based recommendation system using transactional data
+Authors: Emir Alaattin Yilmaz, Selim Balcisoy, Burcin Bozkaya
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-34055-5
+Paper ID: pmc_PMC10140283
+
+Abstract:
+Recommending relevant items to users has become an important task in many systems due to the increased amount of data produced. For this purpose, transaction datasets such as credit card transactions and e-commerce purchase histories can be used in recommendation systems to understand underlying user interests by exploiting user-item interactions, which can be a powerful signal to perform this task. This study proposes a link prediction-based recommendation system combining graph representation learning algorithms and gradient boosting classifiers for transaction datasets. The proposed system generates a network where nodes correspond to users and items, and links represent their interactions. A use case scenario is examined on a credit card transaction dataset as a merchant prediction task that predicts the merchants where users can make purchases in the next month. Performances of common network embedding extraction techniques and classifier models are evaluated via various experiments conducted and based on these evaluations, a novel system is proposed, and a matrix factorization-based alternative recommendation method is compared with the proposed model. The proposed method has shown superior performance to the alternative method in terms of receiver operating characteristic curves, area under the curve, and mean average precision metrics. The use of transactional data for a recommendation system is found to be a powerful approach to making relevant recommendations.

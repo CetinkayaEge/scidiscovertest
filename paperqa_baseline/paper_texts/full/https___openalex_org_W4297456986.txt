@@ -1,0 +1,9 @@
+Title: Sustainable Protein‐Based Binder for Lithium‐Sulfur Cathodes Processed by a Solvent‐Free Dry‐Coating Method
+Authors: Florian Schmidt, Sebastian Kirchhoff, Karin Jägle, Ankita De, Sebastian Ehrling, Paul Härtel, Susanne Dörfler, Thomas Abendroth, Benjamin Schumm, Holger Althues, Stefan Kaskel
+Year: 2022
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202201320
+Paper ID: https://openalex.org/W4297456986
+
+Abstract:
+In the market for next-generation energy storage, lithium-sulfur (Li-S) technology is one of the most promising candidates due to its high theoretical specific energy and cost-efficient ubiquitous active materials. In this study, this cell system was combined with a cost-efficient sustainable solvent-free electrode dry-coating process (DRYtraec®). So far, this process has been only feasible with polytetrafluoroethylene (PTFE)-based binders. To increase the sustainability of electrode processing and to decrease the undesired fluorine content of Li-S batteries, a renewable, biodegradable, and fluorine-free polypeptide was employed as a binder for solvent-free electrode manufacturing. The yielded sulfur/carbon dry-film cathodes were electrochemically evaluated under lean electrolyte conditions at coin and pouch cell level, using the state-of-the-art 1,2-dimethoxyethane/1,3-dioxolane electrolyte (DME/DOL) as well as the sparingly polysulfide-solvating electrolytes hexylmethylether (HME)/DOL and tetramethylene sulfone/1,1,2,2-tetrafluoroethyl-2,2,3,3-tetrafluoropropyl ether (TMS/TTE). These results demonstrated that the PTFE binder can be replaced by the biodegradable sericin as the cycle stability and performance of the cathodes was retained.

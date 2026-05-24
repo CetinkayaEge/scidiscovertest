@@ -1,0 +1,9 @@
+Title: Sustainable Governance, Energy Security, and Energy Losses of Europe in Turbulent Times
+Authors: Tomasz Wołowiec, Світлана Колосок, Tetiana Vasylieva, Аrtem Аrtyukhov, Łukasz Skowron, Oleksandr Dluhopolskyi, Larysa Sergiienko
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15238857
+Paper ID: https://openalex.org/W4309848549
+
+Abstract:
+The article aims to identify the relationship between energy efficiency and particular indicators of energy losses in Europe. The results of the bibliographic analysis showed a knowledge gap in energy losses in Europe regarding the new challenges of energy security. For the analysis, annual panel data from 32 European countries were collected from 1990 to 2019. The authors used the Jarque–Bera test to assess the normality of the residuals, utilized the Breush–Pagan test for heteroskedasticity check, and applied regression analysis to determine the relationship between energy efficiency and energy loss rates in Europe. To assess the effects of energy losses, the authors performed OLS modeling using the stats model’s package in Python. According to the modeling results, an increase in distribution losses (% of available energy from all sources) by 1% in Europe leads to an increase in energy consumption by 17.16% under other constant conditions. There is significant heterogeneity between European countries concerning energy efficiency and energy loss coefficients. Such a situation requires the development of new strategies and mechanisms to reduce energy losses, considering the challenges of energy security in Europe in turbulent times. Further research can be devoted to clustering European countries according to the main groups of energy losses: in the extraction, distribution, storage, and transformation of energy.

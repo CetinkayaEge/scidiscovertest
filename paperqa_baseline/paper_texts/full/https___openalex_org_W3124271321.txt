@@ -1,0 +1,9 @@
+Title: Mechanostimulation: a promising alternative for sustainable agriculture practices
+Authors: Ritesh Ghosh, Adelin Barbacci, Nathalie Leblanc‐Fournier
+Year: 2021
+Venue: Journal of Experimental Botany
+DOI: https://doi.org/10.1093/jxb/erab036
+Paper ID: https://openalex.org/W3124271321
+
+Abstract:
+Plants memorize events associated with environmental fluctuations. The integration of environmental signals into molecular memory allows plants to cope with future stressors more efficiently-a phenomenon that is known as 'priming'. Primed plants are more resilient to environmental stresses than non-primed plants, as they are capable of triggering more robust and faster defence responses. Interestingly, exposure to various forms of mechanical stimuli (e.g. touch, wind, or sound vibration) enhances plants' basal defence responses and stress tolerance. Thus, mechanostimulation appears to be a potential priming method and a promising alternative to chemical-based priming for sustainable agriculture. According to the currently available method, mechanical treatment needs to be repeated over a month to alter plant growth and defence responses. Such a long treatment protocol restricts its applicability to fast-growing crops. To optimize the protocol for a broad range of crops, we need to understand the molecular mechanisms behind plant mechanoresponses, which are complex and depend on the frequency, intervals, and duration of the mechanical treatment. In this review, we synthesize the molecular underpinnings of plant mechanoperception and signal transduction to gain a mechanistic understanding of the process of mechanostimulated priming.

@@ -1,0 +1,9 @@
+Title: Exploring the Nexus of Eco-Innovation and Sustainable Development: A Bibliometric Review and Analysis
+Authors: Nosheen Fatma, Abid Haleem
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151612281
+Paper ID: https://openalex.org/W4385759973
+
+Abstract:
+Eco-innovation promotes sustainable economic growth while mitigating environmental impacts. It has evolved into an essential tool for firms seeking to align with the 2030 Sustainable Development Goals. A total of 723 articles from Web of Science and Scopus databases were analyzed in the timespan of 2001–2022 to unveil the contributions and interconnections among eco-innovation, sustainable development, and the SDGs. This study aims to conduct a comprehensive performance analysis and science mapping using Bibliometrix R-package and VosViewer, respectively. The analysis highlights the influential authors, journals, countries, and thematic trends of research articles. The trend analysis shows that carbon emission limitation, targeting SDGs in isolation, and environmental economics are gradually becoming mainstream. Eco-innovation’s transformative potential spans economic, social, and environmental dimensions of sustainable development, though its studies have primarily focused on its environmental implications. This can offer new research directions to researchers and will be beneficial for framework development.

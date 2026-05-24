@@ -1,0 +1,9 @@
+Title: Sustainable Design of Structural and Functional Polymers for a Circular Economy
+Authors: Bernhard von Vacano, Hannah Mangold, Guido W. M. Vandermeulen, Glauco Battagliarin, Maximilian Hofmann, Jessica Bean, Andreas Künkel
+Year: 2022
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202210823
+Paper ID: https://openalex.org/W4302275543
+
+Abstract:
+emission neutrality. This is not only true for structural polymers, such as in packaging or engineering applications, but also for functional polymers in liquid formulations, such as adhesives, lubricants, thickeners or dispersants. At their end of life, polymers must be either collected and recycled via a technical pathway, or be biodegradable if they are not collectable. Advances in polymer chemistry and applications, aided by computational material science, open the way to addressing these issues comprehensively by designing for recyclability and biodegradability. This Review explores how scientific progress, together with emerging regulatory frameworks, societal expectations and economic boundary conditions, paint pathways for the transformation towards a circular economy of polymers.

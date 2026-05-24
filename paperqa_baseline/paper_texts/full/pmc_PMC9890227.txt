@@ -1,0 +1,9 @@
+Title: WRN helicase and mismatch repair complexes independently and synergistically disrupt cruciform DNA structures
+Authors: Valentina Mengoli, Ilaria Ceppi, Aurore Sanchez, Elda Cannavo, Swagata Halder, Sarah Scaglione, Pierre‐Henri Gaillard, Peter J McHugh, Nathalie Riesen, Piergiorgio Pettazzoni, Petr Cejka
+Year: 2022
+Venue: The EMBO Journal
+DOI: 10.15252/embj.2022111998
+Paper ID: pmc_PMC9890227
+
+Abstract:
+Abstract The Werner Syndrome helicase, WRN, is a promising therapeutic target in cancers with microsatellite instability (MSI). Long‐term MSI leads to the expansion of TA nucleotide repeats proposed to form cruciform DNA structures, which in turn cause DNA breaks and cell lethality upon WRN downregulation. Here we employed biochemical assays to show that WRN helicase can efficiently and directly unfold cruciform structures, thereby preventing their cleavage by the SLX1‐SLX4 structure‐specific endonuclease. TA repeats are particularly prone to form cruciform structures, explaining why these DNA sequences are preferentially broken in MSI cells upon WRN downregulation. We further demonstrate that the activity of the DNA mismatch repair (MMR) complexes MutSα (MSH2‐MSH6), MutSβ (MSH2‐MSH3), and MutLα (MLH1‐PMS2) similarly decreases the level of DNA cruciforms, although the mechanism is different from that employed by WRN. When combined, WRN and MutLα exhibited higher than additive effects in in vitro cruciform processing, suggesting that WRN and the MMR proteins may cooperate. Our data explain how WRN and MMR defects cause genome instability in MSI cells with expanded TA repeats, and provide a mechanistic basis for their recently discovered synthetic‐lethal interaction with promising applications in precision cancer therapy. Biochemical assays define the molecular basis of synthetic lethality caused by loss of both Werner Syndrome helicase and MMR in cancers with microsatellite instability.

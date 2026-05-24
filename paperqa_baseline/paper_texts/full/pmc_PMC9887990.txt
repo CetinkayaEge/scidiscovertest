@@ -1,0 +1,9 @@
+Title: Space-time distribution of urinary incontinence outpatient production in men, Brazil, 2010-2019
+Authors: Fernanda Vieira Nicolato, Alfredo Chaoubah, Maria do Socorro Lina van Keulen, Marcio Fernandes dos Reis, Graziela Liebel
+Year: 2022
+Venue: Epidemiologia e Serviços de Saúde : Revista do Sistema Unico de Saúde do Brasil
+DOI: 10.1590/S2237-96222022000200025
+Paper ID: pmc_PMC9887990
+
+Abstract:
+Abstract Objetive: To estimate the temporal trend and spatial distribution of urinary incontinence outpatient production in men in Brazil. Methods: This was an ecological time series study of Brazil and its regions, from 2010-2019, using data from the Brazilian National Health System Outpatient Information System. Prais-Winsten regression was used to analyze the temporal trend in Brazil as a whole and by region. The autoregressive integrated moving average model was used to forecast the trend until 2024. Results: In 2010, 3,457 outpatient appointments for urinary incontinence in men were registered, rising to 16,765 in 2019, revealing a rising temporal trend [annual percentage change = 50.37%; 95% confidence interval (95%IC) 37.54;63.62]; and a forecast of growth for the period 2020-2024 (final ARIMA model: 1, 1, 0). The spatial distribution of urinary incontinence rates varied between the country’s macro-regions. Conclusion: There was a rising temporal trend in urinary incontinence outpatient production in men in Brazil between 2010-2019 with growth forecast until 2024. The highest rates occurred in the Southeast region and the highest increase was found in the Southern region.

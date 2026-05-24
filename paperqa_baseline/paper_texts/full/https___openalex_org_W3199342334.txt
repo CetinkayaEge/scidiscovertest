@@ -1,0 +1,9 @@
+Title: Wind energy is not sustainable when balanced by fossil energy
+Authors: Jan Emblemsvåg
+Year: 2021
+Venue: Applied Energy
+DOI: https://doi.org/10.1016/j.apenergy.2021.117748
+Paper ID: https://openalex.org/W3199342334
+
+Abstract:
+Ensuring access to affordable, reliable, sustainable and modern energy for all is one of the Sustainable Development Goals. Some countries have therefore invested significantly in wind energy, but emissions, which is a common measure for sustainability in this context, have not fallen significantly. Reductions between 20% and 40% are typical. We therefore test the hypothesis that wind energy reduces emissions compared to using gas turbines when life-cycle emissions are included. The Irish grid is studied due to its record-high wind penetration. The model is based on high resolution grid data covering four years and input from 828 Life-Cycle Assessment cases to allow detailed analysis of demand, supply, life-cycle emissions and their changes due to the increased ramping of gas turbines and increased grid reserves required to maintain grid reliability when wind is deployed. Indirect effects are included to some extent. The model is sampled 10,000 times using Monte Carlo simulations. The results show that emissions are reduced by 10–20%, which supports the hypothesis. However, with an average wind penetration of 34% in 2019, reaching many times the 65% limit for non-synchronous generation set by the system operator to maintain grid reliability, such modest reductions logically imply that achieving an affordable, low-carbon grid using wind together with fossil energy balancing is infeasible with today’s technology, emissions and costs. This key finding is transferable to other grids where wind has large penetration and requires fossil energy balancing. Thus, wind energy is not sustainable when balanced by fossil fuel generators.

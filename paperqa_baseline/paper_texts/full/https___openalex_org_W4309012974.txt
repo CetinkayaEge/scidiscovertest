@@ -1,0 +1,9 @@
+Title: Application of Hydrogels as Sustained-Release Drug Carriers in Bone Defect Repair
+Authors: Yujie Feng, Weiwei Guo, Lei Hu, Xuedong Yi, Fushan Tang
+Year: 2022
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym14224906
+Paper ID: https://openalex.org/W4309012974
+
+Abstract:
+Large bone defects resulting from trauma, infection and tumors are usually difficult for the body's repair mechanisms to heal spontaneously. Generally, various types of bones and orthopedic implants are adopted to enhance bone repair and regeneration in the clinic. Due to the limitations of traditional treatments, bone defect repair is still a compelling challenge for orthopedic surgeons. In recent years, bone tissue engineering has become a potential option for bone repair and regeneration. Amidst the various scaffolds for bone tissue engineering applications, hydrogels are considered a new type of non-toxic, non-irritating and biocompatible materials, which are widely used in the biomedicine field currently. Some studies have demonstrated that hydrogels can provide a three-dimensional network structure similar to a natural extracellular matrix for tissue regeneration and can be used to transport cells, biofactors, nutrients and drugs. Therefore, hydrogels may have the potential to be multifunctional sustained-release drug carriers in the treatment of bone defects. The recent applications of different types of hydrogels in bone defect repair were briefly reviewed in this paper.

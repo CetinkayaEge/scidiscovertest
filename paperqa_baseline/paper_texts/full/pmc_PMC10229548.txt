@@ -1,0 +1,9 @@
+Title: Hopf physical reservoir computer for reconfigurable sound recognition
+Authors: Md Raf E. Ul Shougat, XiaoFu Li, Siyao Shao, Kathleen McGarvey, Edmon Perkins
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35760-x
+Paper ID: pmc_PMC10229548
+
+Abstract:
+The Hopf oscillator is a nonlinear oscillator that exhibits limit cycle motion. This reservoir computer utilizes the vibratory nature of the oscillator, which makes it an ideal candidate for reconfigurable sound recognition tasks. In this paper, the capabilities of the Hopf reservoir computer performing sound recognition are systematically demonstrated. This work shows that the Hopf reservoir computer can offer superior sound recognition accuracy compared to legacy approaches (e.g., a Mel spectrum + machine learning approach). More importantly, the Hopf reservoir computer operating as a sound recognition system does not require audio preprocessing and has a very simple setup while still offering a high degree of reconfigurability. These features pave the way of applying physical reservoir computing for sound recognition in low power edge devices.

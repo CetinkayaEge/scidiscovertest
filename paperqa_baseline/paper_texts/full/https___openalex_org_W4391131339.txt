@@ -1,0 +1,9 @@
+Title: Supervised Machine Learning Approaches for Predicting Key Pollutants and for the Sustainable Enhancement of Urban Air Quality: A Systematic Review
+Authors: Ismail Essamlali, Hasna Nhaila, Mohamed El Khaïli
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16030976
+Paper ID: https://openalex.org/W4391131339
+
+Abstract:
+Urban air pollution is a pressing global issue driven by factors such as swift urbanization, population expansion, and heightened industrial activities. To address this challenge, the integration of Machine Learning (ML) into smart cities presents a promising avenue. Our article offers comprehensive insights into recent advancements in air quality research, employing the PRISMA method as a cornerstone for the reviewing process, while simultaneously exploring the application of frequently employed ML methodologies. Focusing on supervised learning algorithms, the study meticulously analyzes air quality data, elucidating their unique benefits and challenges. These frequently employed ML techniques, including LSTM (Long Short-Term Memory), RF (Random Forest), ANN (Artificial Neural Networks), and SVR (Support Vector Regression), are instrumental in our quest for cleaner, healthier urban environments. By accurately predicting key pollutants such as particulate matter (PM), nitrogen oxides (NOx), carbon monoxide (CO), and ozone (O3), these methods offer tangible solutions for society. They enable informed decision-making for urban planners and policymakers, leading to proactive, sustainable strategies to combat urban air pollution. As a result, the well-being and health of urban populations are significantly improved. In this revised abstract, the importance of frequently employed ML methods in the context of air quality is explicitly emphasized, underlining their role in improving urban environments and enhancing the well-being of urban populations.

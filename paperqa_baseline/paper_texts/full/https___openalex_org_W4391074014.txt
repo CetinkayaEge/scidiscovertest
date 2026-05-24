@@ -1,0 +1,9 @@
+Title: Countries' research priorities in relation to the Sustainable Development Goals
+Authors: Hugo Confraria, Tommaso Ciarli, Ed Noyons
+Year: 2024
+Venue: Research Policy
+DOI: https://doi.org/10.1016/j.respol.2023.104950
+Paper ID: https://openalex.org/W4391074014
+
+Abstract:
+We analyse how countries' research priorities align with their greatest Sustainable Development Goals (SDGs) challenges and whether misalignments are worse in certain SDGs. Employing a novel method, we identify research related to an SDG by examining research areas in WoS with a higher share of publications containing text related to SDG policy outlets. Then, we use the SDG indicators to create a new score to assess the performance of countries in SDGs in relation to the top performers. Our analysis at the global level reveals a substantial misalignment. Although low and lower-middle income countries tend to face higher SDG challenges, only <10 % of SDG-related research is conducted in these regions. At the SDG-country level, we observe a positive alignment between countries' research priorities and SDG challenges only for SDG1 (No poverty), SDG2 (Zero hunger), SDG6 (Clean water and sanitation), and SDG9 (Industry, innovation, and infrastructure). This means that countries with higher SDG challenges are relatively specialised in research related to these specific goals. Conversely, for all other SDGs, our findings indicate a misalignment or an inconclusive relationship between SDG challenges and research prioritisation. A notable misalignment occurs in SDG12 (Responsible consumption and production), where the countries with the most unsustainable consumption/production patterns are high income countries that are not specialised in research related to SDG12. Our conclusions, underscore the need for research priorities to be more aligned with national SDG challenges, and advocate for more research funds to be directed towards low and lower-middle income countries.

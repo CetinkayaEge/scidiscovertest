@@ -1,0 +1,9 @@
+Title: Linking Public Transport User Satisfaction with Service Accessibility for Sustainable Mobility Planning
+Authors: Giuseppe Inturri, Nadia Giuffrida, Michela Le Pira, Martina Fazio, Matteo Ignaccolo
+Year: 2021
+Venue: ISPRS International Journal of Geo-Information
+DOI: https://doi.org/10.3390/ijgi10040235
+Paper ID: https://openalex.org/W3147451461
+
+Abstract:
+Increasing the Quality of Service (QoS) of Public Transport (PT), in order to attract more users, is one of the goals of transport companies and urban policy-makers. A continuous monitoring of data on users’ satisfaction is desirable, but most of the time such process is costly. Finding correlations between PT accessibility, user satisfaction and PT ridership might be the key to prioritize where and how service quality improvements have to be put in place. The aim of this paper is to investigate the correlation among PT use, user satisfaction and PT accessibility using a spatial and statistical approach to find useful and simple indicators for sustainable mobility planning. The case study is Catania, a medium-sized city located in southern Italy, with a focus on the mobility of University students. In this respect, students experienced fare-free PT from 2018 to 2020 as one of the main results of collaboration between the University and the two urban PT operators, providing free access to bus and metro transport services in the city. Student satisfaction and relevant data regarding their mobility behavior were constantly monitored via a web survey: the analysis conducted in this study is based on a database of about 4000 responses collected between 2018 and 2019. Spatial and statistical correlations between user satisfaction, transit ridership and accessibility will provide useful information for a correct planning and management of PT networks by transport companies, highlighting diverse insights for different PT options.

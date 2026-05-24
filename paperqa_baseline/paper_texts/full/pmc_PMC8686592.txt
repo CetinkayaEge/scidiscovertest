@@ -1,0 +1,9 @@
+Title: Reactivation-dependent amnesia for object recognition memory is contingent on hippocampal theta–gamma coupling during recall
+Authors: Maria Carolina Gonzalez, Andressa Radiske, Sergio Conde-Ocazionez, Janine I. Rossato, Lia R.M. Bevilaqua, Martín Cammarota
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053482.121
+Paper ID: pmc_PMC8686592
+
+Abstract:
+Hippocampal dopamine D1/D5 receptor-dependent destabilization is necessary for object recognition memory (ORM) updating through reconsolidation. Dopamine also regulates hippocampal theta and gamma oscillations, which are involved in novelty and memory processing. We found that, in adult male rats, ORM recall in the presence of a novel object, but not in the presence of a familiar one, triggers hippocampal theta–gamma coupling. Hippocampal theta–gamma coupling (hPAC) does not happen when ORM destabilization is prevented by blocking D1/D5 receptors, but artificial hPAC generation during recall in the presence of a familiar object enables the amnesic effect of reconsolidation inhibitors. Therefore, hPAC controls ORM destabilization, and its modulation could increase reconsolidation-based psychotherapy efficacy.

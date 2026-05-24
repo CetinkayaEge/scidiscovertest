@@ -1,0 +1,9 @@
+Title: EVA1A regulates hematopoietic stem cell regeneration via ER-mitochondria mediated apoptosis
+Authors: Bo Liu, Yuanyuan Zhou, Qiaofeng Wu, Yuting Fu, Xianli Zhang, Zhenkun Wang, Weiwei Yi, Hu Wang, Zhiyang Chen, Zhangfa Song, Wei Xiong, Yugang Qiu, Weifeng He, Zhenyu Ju
+Year: 2023
+Venue: Cell Death & Disease
+DOI: 10.1038/s41419-023-05559-9
+Paper ID: pmc_PMC9887066
+
+Abstract:
+Excessive protein synthesis upon enhanced cell proliferation frequently results in an increase of unfolded or misfolded proteins. During hematopoietic regeneration, to replenish the hematopoietic system, hematopoietic stem cells (HSCs) are activated and undergo a rapid proliferation. But how the activated HSCs respond to the proliferation pressure is still ambiguous; The proper control of the functional reservoir in the activated HSCs remains poorly understood. Here, we show a significant upregulation of EVA1A protein associated with the increase of ER stress during hematopoietic regeneration. Deletion of Eva1a significantly enhances the regeneration capacity of HSCs by inhibiting the ER stress-induced apoptosis. Mechanistically, the expression of EVA1A protein was upregulated by CHOP, and thereby promoted the ER-mitochondria interlinking via MCL1, which resulted in mitochondria-mediated apoptosis. These findings reveal a pathway for ER stress responses of HSCs by the EVA1A mediated apoptosis, which play an important role in HSCs regeneration.

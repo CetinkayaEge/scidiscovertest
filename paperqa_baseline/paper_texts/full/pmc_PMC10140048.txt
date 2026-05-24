@@ -1,0 +1,9 @@
+Title: Relationship between antidementia medication and fracture prevention in patients with Alzheimer’s dementia using a nationwide health insurance claims database
+Authors: Tatsuya Hosoi, Mitsutaka Yakabe, Shoya Matsumoto, Kenji Fujimori, Junko Tamaki, Shinichi Nakatoh, Shigeyuki Ishii, Nobukazu Okimoto, Kuniyasu Kamiya, Masahiro Akishita, Masayuki Iki, Sumito Ogawa
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-34173-0
+Paper ID: pmc_PMC10140048
+
+Abstract:
+This retrospective study aimed to evaluate the association between antidementia medication use and incidence of new vertebral, hip, and radial fractures in patients with Alzheimer’s dementia (AD). We used the nationwide health insurance claims database of Japan from 2012 to 2019 and identified 12,167,938 patients aged ≥ 65 years who were newly registered from April 2012 to March 2016 and had verifiable data receipt from half-year before to 3 years after the registration. Among these patients, 304,658 were diagnosed with AD and we showed the prescription status of antidementia and osteoporosis medication among them. Propensity score matching was conducted for AD group with and without antidementia medication use, and 122,399 matched pairs were yielded. The incidence of hip fractures (4.0% vs. 1.9%, p < 0.001) and all clinical fractures (10.5% vs. 9.0%, p < 0.001) significantly decreased and that of radial fractures increased (0.6% vs. 1.0%, p < 0.001) in AD patients with antidementia medication use compared with AD patients without antidementia medication use. No significant difference was found in vertebral fractures (6.6% vs. 6.5%, p = 0.51). Overall, these results suggest a positive relationship between antidementia medication use and fracture prevention in patients with AD.

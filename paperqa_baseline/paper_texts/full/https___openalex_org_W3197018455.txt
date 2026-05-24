@@ -1,0 +1,9 @@
+Title: Retooling Microbiome Engineering for a Sustainable Future
+Authors: Christopher E. Lawson
+Year: 2021
+Venue: mSystems
+DOI: https://doi.org/10.1128/msystems.00925-21
+Paper ID: https://openalex.org/W3197018455
+
+Abstract:
+Microbial communities (microbiomes) have been harnessed in biotechnology applications such as wastewater treatment and bioremediation for over a century. Traditionally, engineering approaches have focused on shaping the environment to steer microbiome function versus direct manipulation of the microbiome's metabolic network. While these selection-based approaches have proven to be invaluable for guiding bioprocess engineering, they do not enable the precise manipulation and control of microbiomes required for unlocking their full potential. Over the past 2 decades, systems biology has revolutionized our understanding of the metabolic networks driving microbiome processes, and more recently genetic engineering tools have started to emerge for nonmodel microorganisms and microbiomes. In this commentary, I discuss how systems biology approaches are being used to generate actionable understanding of microbiome functions in engineered ecosystems. I also highlight how integrating synthetic biology, automation, and machine learning can accelerate microbiome engineering to meet the sustainability challenges of the future.

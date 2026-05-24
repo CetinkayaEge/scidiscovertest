@@ -1,0 +1,9 @@
+Title: Evaluating the sustainability and resilience of an intermodal transport network leveraging consolidation strategies
+Authors: Asefeh Hasani Goodarzi, Armin Jabbarzadeh, Behnam Fahimnia, Marc Paquet
+Year: 2024
+Venue: Transportation Research Part E Logistics and Transportation Review
+DOI: https://doi.org/10.1016/j.tre.2024.103616
+Paper ID: https://openalex.org/W4400268838
+
+Abstract:
+Intermodal freight transport plays a pivotal role in addressing the challenges posed by global warming. The incorporation of consolidation strategies within intermodal transport networks introduces specific challenges that can exacerbate vulnerability to disruptions. This paper presents a two-stage stochastic optimization model that aims to enhance the sustainability and resilience of intermodal transport networks in the face of unexpected disruptions, while also harnessing the potential benefits of consolidation strategies. The proposed model incorporates various environmental and social sustainability metrics, including greenhouse gas emissions, noise pollution, and traffic congestion. An efficient solution methodology grounded in Lagrangian relaxation and valid inequalities is developed to deal with the inherent complexities of the proposed model. Real data from the UK’s transportation system is employed to validate the effectiveness of the proposed approach. The case study exemplifies the application of the proposed model in generating practical insights for transport managers and policymakers to help them identify where to prioritize investments across the transport network. Most notably, we find that allocating a mere 0.4% of the total cost to preparedness and recovery initiatives can yield a substantial reduction of approximately 4.7% in total costs. Likewise, we find that even a modest investment in consolidation initiatives can result in remarkable cost savings of up to 34 times of the initial investment.

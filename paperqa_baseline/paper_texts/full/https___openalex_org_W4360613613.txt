@@ -1,0 +1,9 @@
+Title: A Bibliometric and Content Analysis of Sustainability and Smart Tourism
+Authors: Clara Madeira, Paula Rodrigues, Mónica Gómez Suárez
+Year: 2023
+Venue: Urban Science
+DOI: https://doi.org/10.3390/urbansci7020033
+Paper ID: https://openalex.org/W4360613613
+
+Abstract:
+Sustainability and smart tourism are current hot topics in academic research. While these two concepts are complementary, their relationship has not been clearly outlined in the scientific literature. This bibliometric analysis aims to address this gap by examining the literature on sustainability and smart tourism. Specifically, this review has five objectives: (i) to document the size and growth of the literature on this topic, (ii) to identify the key authors, journals, and documents, (iii) to categorize the countries with the highest productivity rates, (iv) to highlight emerging topics and their relationship to the conceptual structure of each domain, and (v) to analyse the methodology approach. A total of 104 scientific documents were searched and analysed from the Web of Science Core Collection for the period 1900–2022 using R-Program and VOSviewer. The results indicate that there is an emerging knowledge base with main clusters identified in smart tourism, sustainable tourism, innovation, and smart cities. China, Spain, the Republic of Korea, Italy, Iran, and Portugal have demonstrated the highest rate of scientific production. This review provides valuable insights for both academics and practitioners seeking to expand their knowledge of sustainability and smart tourism research. It also offers new perspectives on the future development of these areas within the social sciences’ academic literature.

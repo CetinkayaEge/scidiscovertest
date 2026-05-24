@@ -1,0 +1,9 @@
+Title: Renewable energy and population growth for sustainable development in the Southeast Asian countries
+Authors: Duc Hong Vo, Anh The Vo
+Year: 2021
+Venue: Energy Sustainability and Society
+DOI: https://doi.org/10.1186/s13705-021-00304-6
+Paper ID: https://openalex.org/W3125205151
+
+Abstract:
+Abstract The energy–environment–growth nexus has been examined for the Association of Southeast Asian Nations (ASEAN) region, mainly using time series data. However, the important role of renewable energy and population has largely been ignored in previous studies. As such, this study is conducted to investigate a causal link between renewable energy usage, population, carbon dioxide emissions, and economic growth. In addition, a relatively new and advanced panel vector autoregressive model and the Granger non-causality test for heterogeneous panels are utilized with a sample of seven ASEAN countries for almost three decades since 1990. Key findings from this paper are as follows. First, renewable energy usage responds to population growth and leads to carbon dioxide (CO 2 ) emissions. Second, economic growth and renewable energy usage explain a substantial proportion of the change in energy consumption. Third, a bidirectional Granger causality does exist in each pair among energy consumption, economic growth and CO 2 emissions. We argue that moderating population growth and extending renewable energy usage are vital to achieving sustainable economic growth in the ASEAN region.

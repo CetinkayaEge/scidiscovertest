@@ -1,0 +1,9 @@
+Title: Modeling the effects of artificial intelligence (AI)-based innovation on sustainable development goals (SDGs): Applying a system dynamics perspective in a cross-country setting
+Authors: Sharmin Nahar
+Year: 2024
+Venue: Technological Forecasting and Social Change
+DOI: https://doi.org/10.1016/j.techfore.2023.123203
+Paper ID: https://openalex.org/W4391074104
+
+Abstract:
+Global environmental outcomes, productivity, inclusion, and equality aspects are already beginning to be impacted by artificial intelligence (AI), both immediately and over time. AI is expected to have both beneficial and detrimental effects on Sustainable Development Goals (SDGs). Nevertheless, there is a lacuna in the literature regarding systematically forecasting `AI's impact on different facets of SDGs over time in various countries. Moreover, though existing literature has reported a correlation between AI and innovation, no prior studies have forecast the influence of AI-based innovation on SDG Outcomes. To fill these significant research gaps, this study forecasts the impact of AI-based innovation on achieving SDGs over nine years, extending from 2022 to 2030 in 22 countries (including both developed and developing countries) across five continents via system dynamics modeling-based simulation and grounded in Institutional Theory (Technology Enactment Framework). The findings exhibit varying impacts on different SDGs. This study enriches the AI, innovation, and sustainable development literature by providing forecasts of the intricate relationship between AI, innovation, and SDGs, thereby offering valuable insights to the reader.

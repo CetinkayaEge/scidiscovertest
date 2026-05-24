@@ -1,0 +1,9 @@
+Title: Biomechanical Comparison of Conventional Plate and the C-Nail ® System for the Treatment of Displaced Intra-Articular Calcaneal Fractures: A Finite Element Analysis
+Authors: Roxana Maria Pînzaru, Silviu Dumitru Pavăl, Mihaela Perțea, Ovidiu Alexa, Paul Dan Sîrbu, Alexandru Filip, Adrian Claudiu Carp, Liliana Savin, Norin Forna, Bogdan Veliceasa
+Year: 2023
+Venue: Journal of Personalized Medicine
+DOI: 10.3390/jpm13040587
+Paper ID: pmc_PMC10141664
+
+Abstract:
+The C-Nail ® system is a novel intramedullary fixation method for displaced intra-articular calcaneal fractures. The aim of this study was to evaluate the biomechanical performance of the C-Nail ® system and compare it with conventional plate fixation for the treatment of displaced intra-articular calcaneal fractures using finite element analysis. The geometry of a Sanders type-IIB fracture was constructed using the computer-aided design software Ansys SpaceClaim. The C-Nail ® system (Medin, Nové Mesto n. Morave, Czech Republic) and the calcaneal locking plate (Auxein Inc., 35 Doral, Florida) and screws were designed according to the manufacturer specifications. Vertical loading of 350 N and 700 N were applied to the subtalar joint surfaces to simulate partial weight bearing and full weight bearing. Construct stiffness, total deformation, and von Mises stress were assessed. The maximum stress on the C-Nail ® system was lower compared with the plate (110 MPa vs. 360 MPa). At the bone level the stress was found to have higher values in the case of the plate compared to the C-Nail ® system. The study suggests that the C-Nail ® system can provide sufficient stability, making it a viable option for the treatment of displaced intra-articular calcaneal fractures.

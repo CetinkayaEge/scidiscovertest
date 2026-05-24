@@ -1,0 +1,9 @@
+Title: The voice of COVID-19: Acoustic correlates of infection in sustained vowels
+Authors: Katrin D. Bartl-Pokorny, Florian B. Pokorny, Anton Batliner, Shahin Amiriparian, Anastasia Semertzidou, Florian Eyben, Elena Kramer, Florian Schmidt, Rainer Schönweiler, Markus Wehler, Björn W. Schuller
+Year: 2021
+Venue: The Journal of the Acoustical Society of America
+DOI: https://doi.org/10.1121/10.0005194
+Paper ID: https://openalex.org/W3112906671
+
+Abstract:
+COVID-19 is a global health crisis that has been affecting our daily lives throughout the past year. The symptomatology of COVID-19 is heterogeneous with a severity continuum. Many symptoms are related to pathological changes in the vocal system, leading to the assumption that COVID-19 may also affect voice production. For the first time, the present study investigates voice acoustic correlates of a COVID-19 infection based on a comprehensive acoustic parameter set. We compare 88 acoustic features extracted from recordings of the vowels /i:/, /e:/, /u:/, /o:/, and /a:/ produced by 11 symptomatic COVID-19 positive and 11 COVID-19 negative German-speaking participants. We employ the Mann-Whitney U test and calculate effect sizes to identify features with prominent group differences. The mean voiced segment length and the number of voiced segments per second yield the most important differences across all vowels indicating discontinuities in the pulmonic airstream during phonation in COVID-19 positive participants. Group differences in front vowels are additionally reflected in fundamental frequency variation and the harmonics-to-noise ratio, group differences in back vowels in statistics of the Mel-frequency cepstral coefficients and the spectral slope. Our findings represent an important proof-of-concept contribution for a potential voice-based identification of individuals infected with COVID-19.

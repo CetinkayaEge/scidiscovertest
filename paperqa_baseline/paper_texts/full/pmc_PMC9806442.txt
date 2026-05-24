@@ -1,0 +1,9 @@
+Title: Current state of CAR-T therapy for T-cell malignancies
+Authors: Liangkui Luo, Xuan Zhou, Lijuan Zhou, Zhao Liang, Jilong Yang, Sanfang Tu, Yuhua Li
+Year: 2022
+Venue: Therapeutic Advances in Hematology
+DOI: 10.1177/20406207221143025
+Paper ID: pmc_PMC9806442
+
+Abstract:
+Chimeric antigen receptor T-cell (CAR-T) therapy has been approved for relapsed/refractory B-cell lymphomas and greatly improves disease outcomes. The impressive success has inspired the application of this approach to other types of tumors. The relapsed/refractory T-cell malignancies are characteristic of high heterogeneity and poor prognoses. The efficacy of current treatments for this group of diseases is limited. CAR-T therapy is a promising solution to ameliorate the current therapeutic situation. One of the major challenges is that normal T-cells typically share mutual antigens with malignant cells, which causes fratricide and serious T-cell aplasia. Moreover, T-cells collected for CAR transduction could be contaminated by malignant T-cells. The selection of suitable target antigens is of vital importance to mitigate fratricide and T-cell aplasia. Using nanobody-derived or naturally selected CAR-T is the latest method to overcome fratricide. Allogeneic CAR-T products and CAR-NK-cells are expected to avoid tumor contamination. Herein, we review the advances in promising target antigens, the current results of CAR-T therapy clinical trials in T-cell malignancies, the obstacles of CAR-T therapy in T-cell malignancies, and the solutions to these issues.

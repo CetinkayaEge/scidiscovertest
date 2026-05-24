@@ -1,0 +1,9 @@
+Title: Particle Accumulation in a Microchannel and Its Reduction by a Standing Surface Acoustic Wave (SSAW)
+Authors: Yannapol Sriphutkiat, Yufeng Zhou
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010106
+Paper ID: pmc_PMC5298679
+
+Abstract:
+Accumulation of particles in a high concentration on a microchannel wall is a common phenomenon in a colloidal fluid. Gradual accumulation/deposition of particles can eventually obstruct the fluid flow and lead to clogging, which seriously affects the accuracy and reliability of nozzle-based printing and causes damage to the nozzle. Particle accumulation in a 100 μm microchannel was investigated by light microscopy, and its area growth in an exponential format was used to quantify this phenomenon. The effects of the constriction angle and alginate concentration on particle accumulation were also studied. In order to reduce the clogging problem, an acoustic method was proposed and evaluated here. Numerical simulation was first conducted to predict the acoustic radiation force on the particles in the fluid with different viscosities. Interdigital transducers (IDTs) were fabricated on the LiNbO 3 wafer to produce standing surface acoustic waves (SSAW) in the microchannel. It was found that the actuation of SSAW can reduce the accumulation area in the microchannel by 2 to 3.7-fold. In summary, the particle accumulation becomes significant with the increase of the constriction angle and fluid viscosity. The SSAW can effectively reduce the particle accumulation and postpone clogging.

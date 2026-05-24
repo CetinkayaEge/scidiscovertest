@@ -1,0 +1,9 @@
+Title: Smart Elasto-Magneto-Electric (EME) Sensors for Stress Monitoring of Steel Cables: Design Theory and Experimental Validation
+Authors: Ru Zhang, Yuanfeng Duan, Siu Wing Or, Yang Zhao
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140813644
+Paper ID: pmc_PMC4179038
+
+Abstract:
+An elasto-magnetic (EM) and magneto-electric (ME) effect based elasto-magneto-electric (EME) sensor has been proposed recently by the authors for stress monitoring of steel cables with obvious superiorities over traditional elasto-magnetic sensors. For design optimization and engineering application of the EME sensor, the design theory is interpreted with a developed model taking into account the EM coupling effect and ME coupling effect. This model is able to approximate the magnetization changes that a steel structural component undergoes when subjected to excitation magnetic field and external stress, and to simulate the induced ME voltages of the ME sensing unit located in the magnetization area. A full-scale experiment is then carried out to verify the model and to calibrate the EME sensor as a non-destructive evaluation (NDE) tool to monitor the cable stress. The experimental results agree well with the simulation results using the developed model. The proposed EME sensor proves to be feasible for stress monitoring of steel cables with high sensitivity, fast response, and ease of installation.

@@ -1,0 +1,9 @@
+Title: Sustained Pupil Responses Are Modulated by Predictability of Auditory Sequences
+Authors: Alice E. Milne, Sijia Zhao, Christina Tampakaki, Gabriela Bury, Maria Chait
+Year: 2021
+Venue: Journal of Neuroscience
+DOI: https://doi.org/10.1523/jneurosci.2879-20.2021
+Paper ID: https://openalex.org/W3164529949
+
+Abstract:
+The brain is highly sensitive to auditory regularities. To appreciate the impact that the presence of predictability has on perception, we need to better understand how a predictable structure influences processing and attention. We recorded listeners' pupil responses to sequences of tones that followed either a predictable or unpredictable pattern, as the pupil can be used to implicitly tap into these different cognitive processes. We found that the pupil showed a smaller sustained diameter to predictable sequences, indicating that predictability eased processing rather than boosted attention. The findings suggest that the pupil response can be used to study the automatic extraction of regularities, and that the effects are most consistent with predictability helping the listener to efficiently process upcoming sounds.

@@ -1,0 +1,9 @@
+Title: PI3K/AKT-mediated upregulation of WDR5 promotes colorectal cancer metastasis by directly targeting ZNF407
+Authors: Xin Tan, Shuai Chen, Jiangxue Wu, Jiaxin Lin, Changchuan Pan, Xiaofang Ying, Zhizhong Pan, Lin Qiu, Ranyi Liu, Rong Geng, Wenlin Huang
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.111
+Paper ID: pmc_PMC5386518
+
+Abstract:
+Colorectal cancer (CRC) is the third most common cause of cancer deaths, and has a high rate of liver and lung metastasis. Unfortunately, distant metastasis is the main barrier for advanced CRC therapy and leads to a very low survival rate. In this study, we identified WDR5, a vital factor that regulates vertebrate development and cell self-renewal and reprogramming, as a novel prognostic marker and therapeutic target for CRC patients. We demonstrate that WDR5 is upregulated in CRC tissues and promotes CRC metastasis both in vitro and in vivo . In an effort to investigate the impact of WDR5 on CRC cell fate, we treated CRC cells with growth factor and inhibitor. We report that WDR5 is a novel factor in the metastasis of CRC by triggering epithelial–mesenchymal transition (EMT) process in response to the PI3K/AKT signaling pathway. Moreover, WDR5 shows a direct binding to the ZNF407 promoter on regulating cellular EMT process, leading to CRC metastasis. Hence, our findings strongly position WDR5 as a valuable marker for CRC, and inhibiting WDR5 or the associated signaling pathways may be an effective strategy for the future development of anti-CRC therapy.

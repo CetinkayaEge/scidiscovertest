@@ -1,0 +1,9 @@
+Title: An Evaluation of the Three Pillars of Sustainability in Cities with High Airbnb Presence: A Case Study of the City of Madrid
+Authors: Agustín Álvarez‐Herránz, Edith Cecilia Macedo Ruíz
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13063220
+Paper ID: https://openalex.org/W3136867215
+
+Abstract:
+The recent proliferation of private tourist accommodations on what has been known as sharing economy has induced new models on urban tourism and on the use of traditional housing. Urban tourism pressure has caused many transformation processes with important impacts in neighborhoods with high tourist interest, which are shown in the evolution of certain urban sustainability indicators, such as those proposed by the UN-Habitat Agenda for Sustainable Cities in line with the principles of the Leipzig Charter on Sustainable European Cities. Due to the above, the objective of this work is to analyze the spatial distribution of Airbnb accommodations, and explore the factors associated with the situation of Airbnb rentals in relation to the indicators of urban sustainability of neighborhoods and variables related to the gentrification processes of neighborhoods in which there is crowding or overtourism, measured through the Global Tourist Stress Index. For this, a first-order spatial autoregressive panel (SAR) data model with fixed effects has been specified, the results of which provide us with information to understand how sustainability indicators in the neighborhoods of the city of Madrid in the time period 2015–2018, they would explain the location and number of Airbnb accommodations found there. Additionally, it allows us to observe the existence of a spillover effect from the central neighborhoods, with a high per capita income, to nearby neighborhoods with lower income due to the level of tourist crowding, which is a contribution to the scarce existing literature.

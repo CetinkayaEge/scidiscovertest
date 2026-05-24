@@ -1,0 +1,9 @@
+Title: The Use of Social Media to Promote Sustainable Fashion and Benefit Communications: A Data-Mining Approach
+Authors: Li Zhao, Stacy Lee, Muzhen Li, Peng Sun
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031178
+Paper ID: https://openalex.org/W4205558601
+
+Abstract:
+Numerous brands utilize social media to capture consumers’ interests while promoting their sustainability goals. To understand how sustainable fashion brands communicate with their consumers, this study explored the visual and textual information sustainable fashion brands post on social media. Data were collected from sustainable fashion brands’ social media pages, and a total of 1525 images and captions and 140,735 comments were analyzed. By employing color theory and the theory of speech acts, HSV color analysis and the SVM classification model were used to extract information. The results showed that the images and captions posted by all three brands were consistent with their brand identities and sustainability goals. We also found that there were significant differences among the three brands when comparing posts employing expressive and assertive acts with posts using directive and assertive acts. These results indicate that social media users are more likely to leave comments when they read posts containing expressive and directive acts. These findings will allow fashion social media marketers to select appealing images and colors to engage consumers as well as to choose appropriate speech acts to deliver information to achieve their sustainability goals.

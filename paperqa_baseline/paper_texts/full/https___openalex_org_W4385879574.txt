@@ -1,0 +1,9 @@
+Title: The role of disaggregated renewable energy consumption on income and load capacity factor: A novel inclusive sustainable growth approach
+Authors: Uğur Korkut Pata, Qiang Wang, Mustafa Tevfik Kartal, Arshian Sharif
+Year: 2023
+Venue: Geoscience Frontiers
+DOI: https://doi.org/10.1016/j.gsf.2023.101693
+Paper ID: https://openalex.org/W4385879574
+
+Abstract:
+Stimulating renewable energy consumption is a major focus of the Sustainable Development Goals in combating climate change and global warming. The International Energy Agency estimates that renewable energy consumption should be doubled to achieve the COP21 targets. In this context, the question is whether renewable energy types promote the improvement of ecological quality and economic growth. Most studies have investigated the influence of renewable energy on ecological pollution using carbon dioxide emissions or ecological footprint indicators, which only represent the pollution caused by human consumption patterns, and these indicators neglect the supply side. Motivated by this point, this study uses the LCF (Load Capacity Factor) as an environmental indicator and examines the causality relationship among different types of renewable energy, income, and environmental quality in the USA, while also incorporating employment and capital stock into the analysis. Through using the Fourier causality test with the wavelet-decomposed series, the study explores for the validity of the renewable energy-based growth hypothesis and answers to the question of whether there is a causal effect of renewable energy types on environmental quality. The results demonstrate that there is a bidirectional causality between total renewable energy, wood, biomass, and economic growth as well as between these renewable energy types and the LCF.

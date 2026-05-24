@@ -1,0 +1,9 @@
+Title: Reductions in HbA1c with Flash Glucose Monitoring Are Sustained for up to 24 Months: A Meta-Analysis of 75 Real-World Observational Studies
+Authors: Mark L. Evans, Zoë Welsh, Alexander Seibold
+Year: 2022
+Venue: Diabetes Therapy
+DOI: https://doi.org/10.1007/s13300-022-01253-9
+Paper ID: https://openalex.org/W4224930752
+
+Abstract:
+INTRODUCTION: Real-world evidence (RWE) confirms that reductions in HbA1c for children and adults with type 1 diabetes (T1DM) and adults with type 2 diabetes (T2DM) are associated with use of the FreeStyle Libre system. This current meta-analysis aims to investigate whether HbA1c benefits are sustained over 24 months and to identify patterns of change in HbA1c for users of the FreeStyle Libre system for people living with T1DM or T2DM. METHODS: A bibliographic search up to December 2020 identified 75 studies reporting data on change in lab HbA1c in 30,478 participants with type 1 (n = 28,063; 62 trials) or type 2 diabetes (n = 2415; 13 trials) using the FreeStyle Libre system, including observations on children, adolescents and adults. Meta-analysis was performed using a random effects model. RESULTS: Reductions in HbA1c at 3-4 months were similar for adults with T1DM (- 0.53%, 95% CI - 0.69 to - 0.38) or with T2DM (- 0.45%, 95% CI - 0.57 to - 0.33), continuing through 4.5-7.5 months in T1DM (- 0.42%, 95% CI - 0.58 to - 0.27) and in T2DM (- 0.59%, 95% CI - 0.80 to - 0.39). Meta-regression analysis shows that higher starting HbA1c is correlated with greater reductions in HbA1c in T1DM and in T2DM. These patterns of change in HbA1c were sustained for 24 months in T1DM and for at least 12 months in T2DM. CONCLUSIONS: Meta-analysis of RWE confirms that using the FreeStyle Libre system is associated with significant reductions in HbA1c for adults with T1DM or with T2DM. Reductions are greater for people with higher baseline HbA1c and are sustained for 24 and 12 months in T1DM and TD2M respectively.

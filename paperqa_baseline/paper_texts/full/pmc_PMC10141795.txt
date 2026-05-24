@@ -1,0 +1,9 @@
+Title: The Role of H-Bonds in the Excited-State Properties of Multichromophoric Systems: Static and Dynamic Aspects
+Authors: Elisa Fresch, Elisabetta Collini
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083553
+Paper ID: pmc_PMC10141795
+
+Abstract:
+Given their importance, hydrogen bonds (H-bonds) have been the subject of intense investigation since their discovery. Indeed, H-bonds play a fundamental role in determining the structure, the electronic properties, and the dynamics of complex systems, including biologically relevant materials such as DNA and proteins. While H-bonds have been largely investigated for systems in their electronic ground state, fewer studies have focused on how the presence of H-bonds could affect the static and dynamic properties of electronic excited states. This review presents an overview of the more relevant progress in studying the role of H-bond interactions in modulating excited-state features in multichromophoric biomimetic complex systems. The most promising spectroscopic techniques that can be used for investigating the H-bond effects in excited states and for characterizing the ultrafast processes associated with their dynamics are briefly summarized. Then, experimental insights into the modulation of the electronic properties resulting from the presence of H-bond interactions are provided, and the role of the H-bond in tuning the excited-state dynamics and the related photophysical processes is discussed.

@@ -1,0 +1,9 @@
+Title: Nontrivial Topological Properties and Synthesis of Sn 2 CoS with L2 1 Structure
+Authors: Guifeng Chen, Bolin Long, Lei Jin, Hui Zhang, Zishuang Cheng, Xiaoming Zhang, Guodong Liu
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081389
+Paper ID: pmc_PMC10141049
+
+Abstract:
+We synthesize Sn 2 CoS in experiment and study its topological properties in theory. By first-principles calculations, we study the band structure and surface state of Sn 2 CoS with L2 1 structure. It is found that the material has type-II nodal line in the Brillouin zone and clear drumhead-like surface state when the spin–orbit coupling is not considered. In the case of spin–orbit coupling, the nodal line will open gap, leaving the Dirac points. To check the stability of the material in nature, we synthesize Sn 2 CoS nanowires with L2 1 structure in an anodic aluminum oxide (AAO) template directly by the electrochemical deposition (ECD) method with direct current (DC). Additionally, the diameter of the typical Sn 2 CoS nanowires is about 70 nm, with a length of about 70 μm. The Sn 2 CoS nanowires are single crystals with an axis direction of [100], and the lattice constant determined by XRD and TEM is 6.0 Å. Overall, our work provides realistic material to study the nodal line and Dirac fermions.

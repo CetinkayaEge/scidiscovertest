@@ -1,0 +1,9 @@
+Title: Increasing the agricultural sustainability of closed agrivoltaic systems with the integration of vertical farming: A case study on baby-leaf lettuce
+Authors: Marco Cossu, Maria Teresa Tiloca, Andrea Cossu, Paola A. Deligios, T. Pala, Luigi Ledda
+Year: 2023
+Venue: Applied Energy
+DOI: https://doi.org/10.1016/j.apenergy.2023.121278
+Paper ID: https://openalex.org/W4378071813
+
+Abstract:
+The photovoltaic (PV) greenhouses are closed agrivoltaic (CA) systems that allow the production of energy and food on the same land, but may result in a yield reduction when the shading of the PV panels is excessive. Adopting innovative cropping systems can increase the yield of the CA area, generating a more productive and sustainable agrosystem. In this case study we quantified the increase of land productivity derived from the integration of an experimental vertical farm (VF) for baby leaf lettuce inside a pre-existing commercial CA. The mixed system increased the yield by 13 times compared to the CA and the average LER was 1.31, but only 12 % of the energy consumption was covered by the CA energy. To achieve the energy self-sufficiency and avoid the related CO2 emissions, the VF area should not exceed 7–18 % of the CA area, depending on the PV energy yield and the daily light integral (DLI) of the LED lighting, meaning a land consumption from 5 to 14 times higher than the VF area. The support of the PV energy was essential for the profitability of the VFCA. Design features and solutions were proposed to increase the agronomic and economic sustainability of the VFCA. The VFs can be considered a possible answer for the reconversion of the actual underutilized CAs with high PV cover ratios into productive and efficient cropping systems, but a trade-off between energy production and land consumption should be identified to ensure an acceptable environmental sustainability of the mixed system.

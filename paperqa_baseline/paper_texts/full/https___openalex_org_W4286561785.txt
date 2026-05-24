@@ -1,0 +1,9 @@
+Title: Injectable Bacteria-Sensitive Hydrogel Promotes Repair of Infected Fractures via Sustained Release of miRNA Antagonist
+Authors: Chenyan Yu, Lang Chen, Wu Zhou, Liangcong Hu, Xudong Xie, Ze Lin, Adriana C. Panayi, Xingjie Zhan, Ranyang Tao, Bobin Mi, Guohui Liu
+Year: 2022
+Venue: ACS Applied Materials & Interfaces
+DOI: https://doi.org/10.1021/acsami.2c08491
+Paper ID: https://openalex.org/W4286561785
+
+Abstract:
+Fracture nonunion can result in considerable physical harm and limitation of quality of life in patients, exerting an extensive economic burden to the society. Nonunion largely results from unresolved inflammation and impaired osteogenesis. Despite advancements in surgical techniques, the indispensable treatment for nonunion is robust anti-inflammation therapy and the promotion of osteogenic differentiation. Herein, we report that plasma exosomes derived from infected fracture nonunion patients (Non-Exos) delayed fracture repair in mice by inhibiting the osteogenic differentiation of bone marrow stromal cells in vivo and in vitro. Unique molecular identifier microRNA-sequencing (UID miRNA-seq) suggested that microRNA-708-5p (miR-708-5p) was overexpressed in Non-Exos. Mechanistically, miR-708-5p targeted structure-specific recognition protein 1, thereby suppressing the Wnt/β-catenin signaling pathway, which, in turn, impaired osteogenic differentiation. AntagomicroRNA-708-5p (antagomiR-708-5p) could partly reverse the above process. A bacteria-sensitive natural polymer hyaluronic-acid-based hydrogel (HA hydrogel) loaded with antagomiR-708-5p exhibited promising effects in an in vivo study through antibacterial and pro-osteogenic differentiation functions in infected fractures. Overall, the effectiveness and reliability of an injectable bacteria-sensitive hydrogel with sustained release of agents represent a promising approach for infected fractures.

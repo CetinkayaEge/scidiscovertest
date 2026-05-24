@@ -1,0 +1,9 @@
+Title: Fluorescent Reporters Distinguish Stem Cell Colony Subtypes During Somatic Cell Reprogramming
+Authors: Alexandra Moauro, Robin E. Kruger, Daniel O'Hagan, Amy Ralston
+Year: 2022
+Venue: Cellular Reprogramming
+DOI: 10.1089/cell.2022.0071
+Paper ID: pmc_PMC9805857
+
+Abstract:
+Somatic cell reprogramming was first developed to create induced pluripotent stem (iPS) cells. Since that time, the highly dynamic and heterogeneous nature of the reprogramming process has come to be appreciated. Remarkably, a distinct type of stem cell, called induced extraembryonic endoderm (iXEN) stem cell, is also formed during reprogramming of mouse somatic cells by ectopic expression of the transcription factors, OCT4, SOX2, KLF4, and MYC (OSKM). The mechanisms leading somatic cells to adopt differing stem cell fates are challenging to resolve given that formation of either stem cell type is slow, stochastic, and rare. For these reasons, fluorescent gene expression reporters have provided an invaluable tool for revealing the path from the somatic state to pluripotency. However, no such reporters have been established for comparable studies of iXEN cell formation. In this study, we examined the expression of multiple fluorescent reporters, including Nanog , Oct4 , and the endodermal genes, Gata4 and Gata6 —alone and in combination, during reprogramming. We show that only simultaneous evaluation of Nanog and Gata4 reliably distinguishes iPS and iXEN cell colonies during reprogramming.

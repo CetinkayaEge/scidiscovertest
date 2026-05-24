@@ -1,0 +1,9 @@
+Title: Visualizing Sustainable Supply Chain Management: A Systematic Scientometric Review
+Authors: Zhiwen Su, Mingyu Zhang, Wenbing Wu
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084409
+Paper ID: https://openalex.org/W3153032776
+
+Abstract:
+Sustainable supply chain management (SSCM) has been attracting extensive attention from both practitioners and scholars. The main objective of this paper is to visualize and conduct a systematic scientometric review on 9151 articles and reviews published from 2007 to 2021. Research techniques of co-author analysis, co-word analysis, and co-citation analysis are applied to reveal the social structure, conceptual structure, and intellectual structure of the SSCM field, identify main concepts and research hotspots, and illuminate major specialties and emerging trends. The results of this work show that: (1) the top five most productive scholars are Joseph Sarkis, Kannan Govindan, Minglang Tseng, Angappa Gunasekaran, and Charbel Jose Chiappetta Jabbour. The top five most productive institutions are Hong Kong Polytech University, Islamic Azad University, University of Southern Denmark, Dalian University of Technology, and University of Tehran. (2) The main concepts include sustainable supply chain management, green supply chain management, circular economy, corporate social responsibility, and reverse logistics. The research hotspots of the SSCM field, currently, are game theory and circular economy related topics. (3) The leading researchers and influential journals are also identified. The emerging trends include sustainable supplier selection, circular economy, cap-and-trade regulation, blockchain technology, big data analytics, the COVID-19 pandemic, and the best-worst method and logistics performance. Finally, limitations and future researches are discussed. We expect this paper will show a big picture of the SSCM field for researchers as well as practitioners.

@@ -1,0 +1,9 @@
+Title: Sustainable conversion of biomass to rationally designed lithium-ion battery graphite
+Authors: Nathan A. Banek, Kevin R. McKenzie, Dustin T. Abele, Michael J. Wagner
+Year: 2022
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-022-11853-x
+Paper ID: https://openalex.org/W4280488448
+
+Abstract:
+The carbon net negative conversion of bio-char, the low value byproduct of pyrolysis bio-oil production from biomass, to high value, very high purity, highly crystalline flake graphite agglomerates with rationally designed shape and size tailored for lithium-ion battery energy storage material is reported. The process is highly efficient, 0.41 g/Wh; the energy content of its co-product of the process, bio-oil, exceeds that needed to power the process. It is shown that the shape of the starting material is retained during the transformation, allowing the ultimate morphology of the graphite agglomerates to be engineered from relatively malleable biomass. In contrast to commercial graphite production, the process can be performed at small scale with low equipment costs, enabling individual research laboratories to produce Li-ion grade graphite with customizable shape, size and porosity for Si/graphite composite and other graphite involved anodes. The mechanism of the graphitization of bio-char, a "non-graphitizable" carbon, is explored, suggesting the molten metal catalyst is absorbed into the pore structure, transported through and transforming the largely immobile biochar. Finally, the transformation of biomass to rationally designed graphite morphologies with Li-ion anode performance that closely mimic commercial shaped graphite is demonstrated.

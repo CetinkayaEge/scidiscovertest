@@ -1,0 +1,9 @@
+Title: A Capacitive Touch Screen Sensor for Detection of Urinary Tract Infections in Portable Biomedical Devices
+Authors: Carlos Honrado, Tao Dong
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140813851
+Paper ID: pmc_PMC4179013
+
+Abstract:
+Incidence of urinary tract infections (UTIs) is the second highest among all infections; thus, there is a high demand for bacteriuria detection. Escherichia coli are the main cause of UTIs, with microscopy methods and urine culture being the detection standard of these bacteria. However, the urine sampling and analysis required for these methods can be both time-consuming and complex. This work proposes a capacitive touch screen sensor (CTSS) concept as feasible alternative for a portable UTI detection device. Finite element method (FEM) simulations were conducted with a CTSS model. An exponential response of the model to increasing amounts of E. coli and liquid samples was observed. A measurable capacitance change due to E. coli presence and a tangible difference in the response given to urine and water samples were also detected. Preliminary experimental studies were also conducted on a commercial CTSS using liquid solutions with increasing amounts of dissolved ions. The CTSS was capable of distinguishing different volumes of liquids, also giving an exponential response. Furthermore, the CTSS gave higher responses to solutions with a superior amount of ions. Urine samples gave the top response among tested liquids. Thus, the CTSS showed the capability to differentiate solutions by their ionic content.

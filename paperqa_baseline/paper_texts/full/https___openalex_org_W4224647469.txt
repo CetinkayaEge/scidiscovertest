@@ -1,0 +1,9 @@
+Title: The role of sustainable corporate governance in mandatory sustainability reporting quality
+Authors: Tobias Gerwing, Peter Kajüter, Maximilian Wirth
+Year: 2022
+Venue: Journal of Business Economics
+DOI: https://doi.org/10.1007/s11573-022-01092-x
+Paper ID: https://openalex.org/W4224647469
+
+Abstract:
+Abstract This study analyzes the association between various sustainable corporate governance (SCG) mechanisms and mandatory sustainability reporting quality (MSRQ). To this end, we construct a novel MSRQ measure based on manually collected data from 220 German firms in their first year of mandatory sustainability reporting according to the European CSR Directive (2014/95/EU). Descriptive findings show a heterogeneous reporting quality for our sample. The regression analyses suggest an important role of SCG in ensuring high MSRQ. MSRQ increases with the number of SCG mechanisms employed. Regarding the individual mechanisms, we find that MSRQ is positively associated with a sustainable remuneration of the executive board, gender diversity at the supervisory board level, the existence of a CSR committee, engagement in CSR initiatives, and external assurance. However, we do not find any association between gender diversity at the executive board level and MSRQ, contradicting research on voluntary sustainability reporting. Finally, we derive several implications for preparers, auditors, stakeholders, and regulators.

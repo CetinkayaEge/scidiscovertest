@@ -1,0 +1,9 @@
+Title: Sustainable passive cooling strategy for PV module: A comparative analysis
+Authors: B. Ramkiran, C.K. Sundarabalan, K. Sudhakar
+Year: 2021
+Venue: Case Studies in Thermal Engineering
+DOI: https://doi.org/10.1016/j.csite.2021.101317
+Paper ID: https://openalex.org/W3195013708
+
+Abstract:
+This paper presents the experimental studies of different passive cooling techniques to analyze the electrical power improvement and temperature reduction of a 50 W polycrystalline PV module. Plant cooling, greenhouse cooling, greenhouse + plant cooling, coir pith, and phase change material cooling are the various approaches are used in the analysis. The percentage of electrical power improvement and temperature of various passive cooling techniques are compared with solar modules without cooling. The maximum percentage power improvement (11.34%) was found to be in coir pith cooling with an average maximum power of 36.38 W. The maximum temperature reduction was observed to be 14 °C in case of plant cooling with a greenhouse. Considering the electrical power improvement and temperature reduction, coir cooling and plant cooling were found to be best suited for the given climatic conditions amongst all cooling techniques. The results also showed that the reduction in temperature does not always give rise to the increase in power as it was depicted in the case of greenhouse net cooling and plant cooling with greenhouse. This kind of cooling technique is best suited for agro-based countries in tropical regions.

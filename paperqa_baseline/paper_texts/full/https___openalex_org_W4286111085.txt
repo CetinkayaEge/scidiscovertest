@@ -1,0 +1,9 @@
+Title: A Sustainable Capital Asset Pricing Model (S-CAPM): Evidence from Environmental Integration and Sin Stock Exclusion
+Authors: Olivier Zerbib
+Year: 2022
+Venue: European Finance Review
+DOI: https://doi.org/10.1093/rof/rfac045
+Paper ID: https://openalex.org/W4286111085
+
+Abstract:
+Abstract This article shows how sustainable investing—through the joint practice of exclusionary screening and environmental, social, and governance (ESG) integration—affects asset returns. I develop an asset pricing model with partial segmentation and heterogeneous preferences. I characterize two exclusion premia generalizing Merton’s (1987) premium on neglected stocks and a taste premium that clarifies the relationship between ESG and financial performance. Focusing on US stocks, I estimate the model by applying it to sin stocks as excluded assets and using the holdings of green funds to proxy for environmental integration. The average annual exclusion effect is 2.79% for the period 1999–2019. Although the annual taste effect ranges from –1.12% to + 0.14% across industries for 2007–19, the taste effect spread between the top and bottom terciles of companies within each industry can exceed 2% per year. Finally, I estimate and explain the dynamics of these premia.

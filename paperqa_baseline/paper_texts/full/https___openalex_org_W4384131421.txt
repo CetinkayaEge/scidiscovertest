@@ -1,0 +1,9 @@
+Title: A Review of Recent Manufacturing Technologies for Sustainable Soft Actuators
+Authors: Mohammadreza Lalegani Dezaki, Mahdi Bodaghi
+Year: 2023
+Venue: International Journal of Precision Engineering and Manufacturing-Green Technology
+DOI: https://doi.org/10.1007/s40684-023-00533-4
+Paper ID: https://openalex.org/W4384131421
+
+Abstract:
+Abstract Soft actuators have brought significant advancements to robotics, allowing robots to perform a diverse range of tasks across various domains. However, the increased use of soft actuators has resulted in negative environmental impacts, including material consumption, waste generation, and energy consumption. To address these challenges, research is increasingly focused on developing sustainable soft actuators (SSAs) that can provide high performance while minimizing environmental harm. This review article aims to explore the development and manufacturing of SSAs and their potential to reduce material waste and energy consumption promoting sustainability. The article examines various categories of soft actuators, such as multi-responsive ones, shape-locking variants, and biological water-responsive models, as well as their implementation through multi-material printing and, 3D and 4D printing techniques. The article also highlights the potential applications of these SSAs, including manufacturing, human–machine interaction, locomotion, and manipulation. Furthermore, the review explores various methods for reducing energy consumption and material waste in soft actuators, such as using recycled materials and eco-friendly manufacturing processes for a circular economy. Finally, the study provides a comprehensive analysis of SSAs and their potential to steer the evolution of robotics towards a more sustainable future and a circular economy.

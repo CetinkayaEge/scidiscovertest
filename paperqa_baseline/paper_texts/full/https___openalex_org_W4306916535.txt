@@ -1,0 +1,9 @@
+Title: Biohydrogen—A Green Fuel for Sustainable Energy Solutions
+Authors: Fariha Kanwal, Angel A. J. Torriero
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15207783
+Paper ID: https://openalex.org/W4306916535
+
+Abstract:
+Energy plays a crucial role in the sustainable development of modern nations. Today, hydrogen is considered the most promising alternative fuel as it can be generated from clean and green sources. Moreover, it is an efficient energy carrier because hydrogen burning only generates water as a byproduct. Currently, it is generated from natural gas. However, it can be produced using other methods, i.e., physicochemical, thermal, and biological. The biological method is considered more environmentally friendly and pollution free. This paper aims to provide an updated review of biohydrogen production via photofermentation, dark fermentation, and microbial electrolysis cells using different waste materials as feedstocks. Besides, the role of nanotechnology in enhancing biohydrogen production is examined. Under anaerobic conditions, hydrogen is produced during the conversion of organic substrate into organic acids using fermentative bacteria and during the conversion of organic acids into hydrogen and carbon dioxide using photofermentative bacteria. Different factors that enhance the biohydrogen production of these organisms, either combined or sequentially, using dark and photofermentation processes, are examined, and the effect of each factor on biohydrogen production efficiency is reported. A comparison of hydrogen production efficiency between dark fermentation, photofermentation, and two-stage processes is also presented.

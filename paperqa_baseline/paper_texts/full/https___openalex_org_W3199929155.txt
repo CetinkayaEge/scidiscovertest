@@ -1,0 +1,9 @@
+Title: A Comparative Eye Tracking Study of Usability—Towards Sustainable Web Design
+Authors: Mihai Țichindelean, Mihai Țichindelean, Monica-Teodora Țichindelean, Monica-Teodora Țichindelean, Iuliana Cetină, Gheorghe Orzan
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131810415
+Paper ID: https://openalex.org/W3199929155
+
+Abstract:
+Websites are one of the most frequently used communication environments, and creating sustainable web designs should be an objective for all companies. Ensuring high usability is proving to be one of the main contributors to sustainable web design, reducing usage time, eliminating frustration and increasing satisfaction and retention. The present paper studies the usability of different website landing pages, seeking to identify the elements, structures and designs that increase usability. The study analyzed the behavior of 22 participants during their interaction with five different landing pages while they performed three tasks on the webpage and freely viewed each page for one minute. The stimuli were represented by five different banking websites, each of them presenting the task content in a different mode (text, image, symbol, graph, etc.).; the data obtained from the eye tracker (fixations location, order and duration, saccades, revisits of the same element, etc.), together with the data from the applied survey lead to interesting conclusions: the top, center and right sides of the webpage attract the most attention; the use of pictures depicting persons increase visibility; the scanpaths follow a vertical and horizontal direction; numerical data should be presented through graphs or tables. Even if a user's past experience influences their experience on a website, we show that the design of the webpage itself has a greater influence on webpage usability.

@@ -1,0 +1,9 @@
+Title: Digitalization of Supply Chain Management with Industry 4.0 Enabling Technologies: A Sustainable Perspective
+Authors: Sanjay Chauhan, Rajesh Singh, Anita Gehlot, Shaik Vaseem Akram, Bhekisipho Twala, Neeraj Priyadarshi
+Year: 2022
+Venue: Processes
+DOI: https://doi.org/10.3390/pr11010096
+Paper ID: https://openalex.org/W4313362398
+
+Abstract:
+Supply chain management is one of the most prominent areas that needs to incorporate sustainability to achieve responsible consumption and production (SDG 11).It has been identified that there are limited studies that have presented the significance of different Industry 4.0 technologies from the perspective of sustainable SCM. The purpose of this study is to discuss the role of Industry 4.0 technologies in the context of sustainable SCM, as well as to identify important areas for future research. The PRISM framework is followed to discuss the role and significance of sustainable SCM and the integration of Industry 4.0-enabling technologies such as the Internet of Things (IoT), cloud computing, big data, artificial intelligence (AI), blockchain, and digital twin for sustainable SCM. The findings of the study reveal that there are limited empirical studies for developing countries and the majority are emphasized in case studies. Additionally, a few studies have focused on operational aspects, economics, and automation in SCM. The current study is able to contribute to the significance and application of IoT, cloud computing, big data, AI, blockchain, and digital twin in achieving sustainable SCM in the future. The current study can be expanded to discuss the Industry 4.0-enabling technologies in analyzing sustainability performance in any organization using environmental, social, and governance (ESG) metrics.

@@ -1,0 +1,9 @@
+Title: Sustainable edge computing: Challenges and future directions
+Authors: Patricia Arroba, Rajkumar Buyya, Román Cárdenas, José L. Risco‐Martín, José M. Moya
+Year: 2024
+Venue: Software Practice and Experience
+DOI: https://doi.org/10.1002/spe.3340
+Paper ID: https://openalex.org/W4396809042
+
+Abstract:
+Abstract The advent of edge computing holds immense promise for advancing the digitization of society, ushering in critical applications that elevate the overall quality of life. Yet, the practical implementation of the edge paradigm proves more challenging than anticipated, encountering disruptions primarily due to the constraints of applying conventional cloud‐based strategies at the network's periphery. Increasingly influenced by sustainability commitments, industry regulations currently view edge computing as a potential threat, primarily due to the energy inefficiency of solutions situated in close proximity to data generation sources and the rising density of computing. This paper presents a proactive strategy to transform the perceived threat into an opportunity, steering the sustainable evolution of future edge infrastructures to make them both environmentally and economically competitive for accelerated adoption. The vision outlined addresses key challenges associated with edge deployment and operation, emphasizing energy efficiency, fault‐tolerant automation, and collaborative orchestration. The proposed approach integrates two‐phase immersion cooling, formal modeling, machine learning, and federated management to effectively harness heterogeneity, propelling the sustainability of edge computing. To substantiate the efficacy of this approach, the paper details initial efforts towards establishing the sustainability of an edge infrastructure designed for an Advanced Driver Assistance Systems application.

@@ -1,0 +1,9 @@
+Title: Peristaltic micropump using polyvinyl chloride gels with micropatterned surface
+Authors: Tomoki Motohashi, Naoki Ogawa, Hideko Akai, Jun Shintake
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27226-3
+Paper ID: pmc_PMC9803654
+
+Abstract:
+This paper presents a pump using polyvinyl chloride (PVC) gel. PVC gels are compliant, have a simple structure, and exhibit large deformation at voltages in the range of 100–1000 V, which make them suitable for micropumps. In this study, a PVC gel sheet with a surface pattern that enhances active deformation in the thickness direction was employed for the fabrication of a pump. To this end, the PVC gel sheet was sandwiched between three sets of anode and cathode electrodes, after which voltages were sequentially applied to these electrodes to generate a peristaltic deformation of the gel sheet, thus pushing the liquid and creating a one-directional flow. Various pumps were fabricated using PVC gel sheets with different surface patterns, and the pumps were characterized. The pumps exhibited an outline dimension of 35 mm × 25 mm with a thickness of 4 mm, corresponding to a total volume of 3.5 × 10 3 mm 3 . The results revealed that the pump fabricated using a 174-μm-high pyramid-patterned gel sheet generated a flow rate of 224.1 µL/min at an applied voltage of 800 V and a driving frequency of 3 Hz. This observed value is comparable to or better than those of existing pumps based on smart materials.

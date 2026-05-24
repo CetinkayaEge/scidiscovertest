@@ -1,0 +1,9 @@
+Title: Towards a Self- sustained House: Development of an Analytical Hierarchy Process System for Evaluating the Performance of Self-sustained Houses
+Authors: Eman Omar
+Year: 2023
+Venue: MSA Engineering Journal
+DOI: https://doi.org/10.21608/msaeng.2023.291864
+Paper ID: https://openalex.org/W4361008813
+
+Abstract:
+Nowadays self-sustained buildings have gained a great attention to minimize the ecological impact of buildings on the environment. Houses are one of the building types that have tremendous effect on the environment and need to be self-sustained. Their design need to encounter a holistic approach that deals with a large number of criteria. Most of these criteria are qualitative and are often in conflict with each other making decisions during the preliminary design stage a hard task for architects. Architects need an easy evaluation method that can deal with multi- criteria and can quantify subjective data into numerical values to give the right decisions. The aim of this paper is to present a comprehensive application of Analytical Hierarchy Process (AHP)-a Multi Criteria Decision Making Method (MCDM). It can aid architects in selecting the most optimal design alternative while taking into account multiple, and even conflicting decision criteria. Herein, it will be applied for evaluating three proposed design alternatives for a self-sustained house and consequently resolving the alternatives' selection problem. AHP deals with complex decisions and suits the uncertainty and vagueness that characterize most of the design criteria. It uses math and psychology and can be an easy powerful tool for decision making. Basic AHP calculations will be performed using Python programming language to facilitate and automate the process.

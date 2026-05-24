@@ -1,0 +1,9 @@
+Title: Green ammonia enables sustainable energy production in small island developing states: A case study on the island of Curaçao
+Authors: Victor N. Sagel, Kevin H. R. Rouwenhorst, Jimmy Faria
+Year: 2022
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2022.112381
+Paper ID: https://openalex.org/W4220952825
+
+Abstract:
+Small Island Developing States (SIDS) have a high dependency on fossil fuels for energy, water, and food production. This has negative implications on the carbon footprint and resilience of the SIDS. Wind power is one of the most promising options for renewable energy in the coastal areas of the SIDS. To account for the seasonal intermittent nature of wind energy, ammonia can be used for energy storage. In this paper, ammonia as an energy vector, is examined to reduce the costs and carbon footprint of energy on the island of Curaçao as a showcase for Caribbean SIDS. The levelized cost of electricity (LCOE) for the combined wind and ammonia energy storage system is 0.13 USD/kWh at a discount rate of 5%. This is cost competitive with the LCOE of 0.15–0.17 USD/kWh from heavy fuel oil, which is the main electricity source in the Caribbean SIDS. In Curaçao, the LCOE from LNG and coal without carbon capture and storage (CCS) is 0.07–0.10 USD/kWh and 0.09–0.14 USD/kWh, respectively. When CCS is applied, the LCOE from LNG and coal is 0.10–0.13 USD/kWh and 0.14–0.21 USD/kWh, respectively. This suggests that the LCOE of the combined wind and ammonia energy storage system can be competitive with fossil-based alternatives with carbon capture and storage (CCS) in a decarbonized energy landscape. The CO2-footprint of the combined wind energy and ammonia energy storage system is 0.03 kg CO2/kWh, compared to 0.04 kg CO2/kWh and 0.12 kg CO2/kWh for LNG-/coal-based energy generation with CCS, respectively.

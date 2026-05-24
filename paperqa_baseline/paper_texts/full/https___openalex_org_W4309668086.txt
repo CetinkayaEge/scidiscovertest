@@ -1,0 +1,9 @@
+Title: Using Machine Learning to make nanomaterials sustainable
+Authors: Janeck J. Scott‐Fordsmand, Mónica J.B. Amorim
+Year: 2022
+Venue: The Science of The Total Environment
+DOI: https://doi.org/10.1016/j.scitotenv.2022.160303
+Paper ID: https://openalex.org/W4309668086
+
+Abstract:
+Sustainable development is a key challenge for contemporary human societies; failure to achieve sustainability could threaten human survival. In this review article, we illustrate how Machine Learning (ML) could support more sustainable development, covering the basics of data gathering through each step of the Environmental Risk Assessment (ERA). The literature provides several examples showing how ML can be employed in most steps of a typical ERA.A key observation is that there are currently no clear guidance for using such autonomous technologies in ERAs or which standards/checks are required. Steering thus seems to be the most important task for supporting the use of ML in the ERA of nano- and smart-materials. Resources should be devoted to developing a strategy for implementing ML in ERA with a strong emphasis on data foundations, methodologies, and the related sensitivities/uncertainties. We should recognise historical errors and biases (e.g., in data) to avoid embedding them during ML programming.

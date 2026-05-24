@@ -1,0 +1,9 @@
+Title: The Influence of Digital Transformation and Supply Chain Integration on Overall Sustainable Supply Chain Performance: An Empirical Analysis from Manufacturing Companies in Morocco
+Authors: Imadeddine Oubrahim, Naoufal Sefiani, Ari Happonen
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16021004
+Paper ID: https://openalex.org/W4316672828
+
+Abstract:
+This study examined the association between digital transformation (DT), supply chain integration (SCI), and overall sustainable supply chain performance (OSSCP). The current literature has preliminarily explored the concepts of DT and SCI and their relationship with sustainable supply chain performance. However, real empirical evidence of the direct impact of DT and SCI on OSSCP has been missing so far. To fill this gap, data were collected from 134 professionals working in international manufacturing companies operating in Morocco through a questionnaire-based survey from August 2022 to November 2022. A conceptual framework was developed based on DT, SCI, and OSSCP and analyzed by partial least squares structural equation modeling (PLS-SEM) with the assistance of SmartPLS 4.0 software. The findings revealed that DT has a significant positive influence on SCI and OSSCP. Furthermore, SCI directly and positively impacts OSSCP with a partial mediation effect on the relationship between DT and OSSCP. Further, this research provides insights for practitioners into enhancing sustainable supply chain performance by adopting digital technologies and integrating SC functions. In particular, this study revealed that DT adoption drives a higher ethical supply chain level from the perspective of sustainability and efficiency in operations. This study is the first to analyze the influence of digital transformation and supply chain integration on sustainable supply chain performance in a manufacturing context.

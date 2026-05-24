@@ -1,0 +1,9 @@
+Title: Systematic review of digital twin technology and applications
+Authors: Jun-Feng Yao, Yong Yang, Xue-Cheng Wang, Xiao-Peng Zhang
+Year: 2023
+Venue: Visual Computing for Industry, Biomedicine, and Art
+DOI: 10.1186/s42492-023-00137-4
+Paper ID: pmc_PMC10229487
+
+Abstract:
+As one of the most important applications of digitalization, intelligence, and service, the digital twin (DT) breaks through the constraints of time, space, cost, and security on physical entities, expands and optimizes the relevant functions of physical entities, and enhances their application value. This phenomenon has been widely studied in academia and industry. In this study, the concept and definition of DT, as utilized by scholars and researchers in various fields of industry, are summarized. The internal association between DT and related technologies is explained. The four stages of DT development history are identified. The fundamentals of the technology, evaluation indexes, and model frameworks are reviewed. Subsequently, a conceptual ternary model of DT based on time, space, and logic is proposed. The technology and application status of typical DT systems are described. Finally, the current technical challenges of DT technology are analyzed, and directions for future development are discussed.

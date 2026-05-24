@@ -1,0 +1,9 @@
+Title: Towards Green Innovation in Smart Cities: Leveraging Traffic Flow Prediction with Machine Learning Algorithms for Sustainable Transportation Systems
+Authors: Xingyu Tao, Lan Cheng, Ruihan Zhang, Wai Kin Chan, Huang Chao, Jing Qin
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16010251
+Paper ID: https://openalex.org/W4390272563
+
+Abstract:
+The emergence of smart cities has presented the prospect of transforming urban transportation systems into more sustainable and environmentally friendly entities. A pivotal facet of achieving this transformation lies in the efficient management of traffic flow. This paper explores the utilization of machine learning techniques for predicting traffic flow and its application in supporting sustainable transportation management strategies in smart cities based on data from the TRAFFIC CENSUS of the Hong Kong Transport Department. By analyzing anticipated traffic conditions, the government can implement proactive measures to alleviate congestion, reduce fuel consumption, minimize emissions, and ultimately improve quality of life for urban residents. This study proposes a way to develop traffic flow prediction methods with different methodologies in machine learning with a comparison with other results. This research aims to highlight the importance of leveraging machine learning technology in traffic flow prediction and its potential impact on sustainable transportation systems for the green innovation paradigm. The findings of this research have practical implications for transportation planners, policymakers, and urban designers. The predictive models demonstrated can support decision-making processes, enabling proactive measures to optimize traffic flow, reduce emissions, and improve the overall sustainability of transportation systems.

@@ -1,0 +1,9 @@
+Title: Evaluation of a Cardiovascular Systems Model for Design and Analysis of Hemodynamic Safety Studies
+Authors: Yu Fu, Nelleke Snelder, Tingjie Guo, Piet H. van der Graaf, Johan. G. C. van Hasselt
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041175
+Paper ID: pmc_PMC10143046
+
+Abstract:
+Early prediction, quantification and translation of cardiovascular hemodynamic drug effects is essential in pre-clinical drug development. In this study, a novel hemodynamic cardiovascular systems (CVS) model was developed to support these goals. The model consisted of distinct system- and drug-specific parameter, and uses data for heart rate (HR), cardiac output (CO), and mean atrial pressure (MAP) to infer drug mode-of-action (MoA). To support further application of this model in drug development, we conducted a systematic analysis of the estimation performance of the CVS model to infer drug- and system-specific parameters. Specifically, we focused on the impact on model estimation performance when considering differences in available readouts and the impact of study design choices. To this end, a practical identifiability analysis was performed, evaluating model estimation performance for different combinations of hemodynamic endpoints, drug effect sizes, and study design characteristics. The practical identifiability analysis showed that MoA of drug effect could be identified for different drug effect magnitudes and both system- and drug-specific parameters can be estimated precisely with minimal bias. Study designs which exclude measurement of CO or use a reduced measurement duration still allow the identification and quantification of MoA with acceptable performance. In conclusion, the CVS model can be used to support the design and inference of MoA in pre-clinical CVS experiments, with a future potential for applying the uniquely identifiable systems parameters to support inter-species scaling.

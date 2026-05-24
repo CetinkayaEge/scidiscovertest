@@ -1,0 +1,9 @@
+Title: Textual analysis of corporate sustainability reporting and corporate ESG scores
+Authors: Urša Ferjančič, Riste Ichev, Igor Lončarski, Syrielle Montariol, Andraž Pelicon, Senja Pollak, Katarina Sitar Šuštar, Aleš Toman, Aljoša Valentinčič, Martin Žnidaršič
+Year: 2024
+Venue: International Review of Financial Analysis
+DOI: https://doi.org/10.1016/j.irfa.2024.103669
+Paper ID: https://openalex.org/W4403541623
+
+Abstract:
+This paper examines the evolution of environmental, social and governance (ESG) reporting by analysing a ten-year corpus of annual reports from FTSE 350 companies. Using BERTopic, an advanced topic modelling technique, we identify and subsequently cluster the most important ESG topics, providing significant insights into the reporting landscape. Our findings show how regulatory changes, such as the Non-Financial Reporting Directive, and major events like Covid-19, influence ESG topic prominence. The disclosure of ESG information is primarily determined by regulatory requirements. This is particularly evident in the fact that companies only disclose the diversity on the board, which is mandatory, but not the diversity and inclusion at other levels of the reporting organisation. Furthermore, our study examines the correlation between ESG scores and topic proportions, showing that extensive disclosure on topics like climate risk and stakeholder engagement is positively associated with higher ESG scores, whereas topics like executive remuneration show negative correlations. Our research contributes to the literature by offering a novel methodological approach to ESG analysis and provides insights into the gaps between reporting standards and practices, relevant to standard-setting bodies and regulators.

@@ -1,0 +1,9 @@
+Title: Virtual agri-food supply chains: A holistic digital twin for sustainable food ecosystem design, control and transparency
+Authors: Beatrice Guidani, Michele Ronzoni, Riccardo Accorsi
+Year: 2024
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2024.01.016
+Paper ID: https://openalex.org/W4391480459
+
+Abstract:
+The transition of Agri-Food Supply Chains (AFSC) toward sustainable patterns able to secure safe, quality, and affordable food whilst preserving natural and anthropogenic ecosystems is a key challenge of this century. Increasing production and distribution operations' transparency and impact visibility uncovers hidden complexities and the food ecosystem's externalities. To this attempt, this paper introduces a novel Agri-Food Supply Chain digital twin (AFSC-DT) able to virtualize the agricultural, processing, warehousing, and distribution operations holistically from-field-to-consumer and estimate economic, logistic, environmental, safety, and nutritional indicators associated with any food order, assumed as the functional unit. The AFSC-DT behaves as a control tower, providing a multi-dimensional dashboard of indicators and labels to enhance practitioners' and consumers' knowledge of FSC entities and operations. The practitioner's visibility drives top-down operational and tactical feedback controls through real-time monitoring and a-posteriori multi-dimensional performance analysis, whilst consumers, with their informed choices, perform a strategic bottom-up pressure on the food industry toward a sustainable redesign. A what-if simulation analysis conducted over four virtual scenarios within a regional horticultural AFSC proves how the AFSC-DT aids informed decision-making across the AFSC echelons, stimulating a virtuous cycle and favoring a progressive transition toward more sustainable patterns.

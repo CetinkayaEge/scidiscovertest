@@ -1,0 +1,9 @@
+Title: The Internet of Vehicles and Sustainability—Reflections on Environmental, Social, and Corporate Governance
+Authors: Mariusz Kostrzewski, Magdalena Marczewska, Lorna Uden
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16073208
+Paper ID: https://openalex.org/W4362584724
+
+Abstract:
+The Internet of Vehicles (IoV) has generated great interest among researchers from different disciplines as it is multidisciplinary research. Sustainability for the IoV requires solutions from different perspectives, particularly in the context of environmental, social, and corporate governance. This review paper examines each of the mentioned perspectives of IoV research which were conducted among at least one of these three perspectives. On the one hand, this allows determining how widely research on the IoV system has been conducted. Moreover, it shows the directions of research on the IoV. On the other hand, it determines whether and how the IoV research is linked to each of the perspectives separately and analyses this link from a global perspective as well; i.e., it analyses the survey data in terms of the data’s relationship to all the perspectives as a group. As one of the research results, a conceptual model of IoV systems allocating the ESG perspectives was developed. The current research has shown that consideration of IoV systems in the context of these three perspectives (treated both individually and collectively) is still limited. A balanced approach towards these IoV systems is still required. Therefore, the paper consists of a survey of the current research related to the sustainability of the IoV from the three mentioned perspectives, aiming to give a balanced view of the importance of the three perspectives for IoV systems.

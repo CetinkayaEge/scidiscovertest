@@ -1,0 +1,9 @@
+Title: A systematic literature review of data envelopment analysis implementation in agriculture under the prism of sustainability
+Authors: Leonidas Sotirios Kyrgiakos, Georgios Kleftodimos, George Vlontzos, Pãnos M. Pardalos
+Year: 2023
+Venue: Operational Research
+DOI: https://doi.org/10.1007/s12351-023-00741-5
+Paper ID: https://openalex.org/W4321437391
+
+Abstract:
+Abstract Safeguarding natural resources and energy is essential to ensure food security for future generations. Given the increase of published papers in the agricultural field applying Data Envelopment Analysis (DEA), this review seeks to address the special requirements of this methodology when implemented in the agricultural sector as well as to classify papers under sustainability aspects (economic, environmental, social). More specifically, 120 papers from Scopus and Web of Science databases were included in this review by using PRISMA methodology, and they were tested in the following groups (i) General information, (ii) DEA implementation, (iii) DEA extensions, (iv) Data type, (v) Data collection and processing, and (vi) Sustainability dimensions. Results indicate that there is a great need for weights use when performing DEA in the agricultural sector, to acquire results with greater explanatory power. Moreover, systematic data collection of multiple factors could lead to the implementation of complex methodologies, providing feasible solutions to the involved stakeholders. Lastly, the social aspect is the least represented dimension out of the three aspects of sustainability, indicating the need for the integration of social factors in such analyses, especially when DEA is used to create a policy framework in a specific area.

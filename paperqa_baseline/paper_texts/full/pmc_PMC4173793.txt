@@ -1,0 +1,9 @@
+Title: Large-Scale Biochemical Profiling of the Candida albicans Biofilm Matrix: New Compositional, Structural, and Functional Insights
+Authors: Jose L. Lopez-Ribot
+Year: 2014
+Venue: mBio
+DOI: 10.1128/mBio.01781-14
+Paper ID: pmc_PMC4173793
+
+Abstract:
+ABSTRACT Among pathogenic fungi, Candida albicans is most frequently associated with biofilm formation, a lifestyle that is entirely different from the planktonic state. One of the distinguishing features of these biofilms is the presence of extracellular material, commonly referred to as the “biofilm matrix.” The fungal biofilm matrix embeds sessile cells within these communities and plays important structural and physiological functions, including antifungal drug resistance with important clinical repercussions. This matrix is mostly self-produced by the fungal cells themselves and is composed of different types of biopolymers. In C. albicans , the main components of the biofilm matrix are carbohydrates, proteins, lipids, and DNA, but many of them remain unidentified and/or poorly characterized. In their recent article, Zarnowski et al. [mBio 5(4):e01333-14, 2014, doi:10.1128/mBio.01333-14] used a variety of biochemical and state-of-the-art “omic” approaches (glycomics, proteomics, and lipidomics) to identify and characterize unique biopolymers present in the C. albicans biofilm matrix. Besides generating a true “encyclopedic” catalog of individual moieties from each of the different macromolecular categories, results also provide important insights into structural and functional aspects of the fungal biofilm matrix, particularly the interaction between different components and the contribution of multiple matrix constituents to biofilm antifungal drug resistance.

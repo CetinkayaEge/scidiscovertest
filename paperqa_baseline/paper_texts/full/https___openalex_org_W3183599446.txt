@@ -1,0 +1,9 @@
+Title: The Effect of Transportation Disruptions on Cold Chain Sustainability
+Authors: Nurul Syafiqah Zulkefly, Hawa Hishamuddin, Fatin Amrina A. Rashid, Noorhelyna Razali, Nizaroyani Saibani, Mohd Nizam Ab Rahman
+Year: 2021
+Venue: Evergreen
+DOI: https://doi.org/10.5109/4480702
+Paper ID: https://openalex.org/W3183599446
+
+Abstract:
+Food and vaccine supply chains are a top priority in the cold chain sector as consumers are particularly concerned for the quality, safety, and environmental effects of these temperature sensitive products. Moreover, any disruptions to these supply chains will have adverse effects on the overall supply chain system and significantly increase the cost of recovery. Therefore, this study aimed to determine the optimum recovery cost for transportation disruptions in a cold chain system. A mathematical model was developed to analyse transportation disruption's effect, where the optimal recovery schedule consisting of production and shipment quantity decisions are determined by considering the economic and environmental impact. Particularly, the model quantifies the costs of carbon emissions from fuel consumption and the cooling system of the refrigerated truck. LINGO programming software was used to conduct a numerical analysis to determine the optimal recovery costs. Our findings indicate that truck load capacity was the main factor affecting total recovery costs as trucks carrying larger load capacities greatly reduced the frequency of shipment on a route thereby reducing the overall cost of carbon emissions.

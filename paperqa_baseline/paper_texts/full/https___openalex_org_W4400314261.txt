@@ -1,0 +1,9 @@
+Title: Bank sustainability, climate change initiatives and financial performance: The role of corporate governance
+Authors: Douglas A. Adu, Mohammad Zoynul Abedin, Vida Y. Saa, Frank Boateng
+Year: 2024
+Venue: International Review of Financial Analysis
+DOI: https://doi.org/10.1016/j.irfa.2024.103438
+Paper ID: https://openalex.org/W4400314261
+
+Abstract:
+This study elucidates the interrelationships among corporate governance disclosure index (CORPGOVDISCIN), bank sustainability characteristics (BSCs), bank-based climate change initiatives (BCCIs) and financial performance (FP) through the lens of multi-theoretical framework. Based on a panel dataset of 2785 observations (220 banks) from 16 Sub-Saharan Africa countries between 2007 and 2022, we observe that bank sustainability reporting framework (BSRF) and board sustainability committee (BSCOM) are positively related to increased levels of BCCIs. Second, the study shows that the BSRF-BCCIs and BSCOM-BCCIs associations are positively moderated by CORPGOVDISCIN, indicating that these relationships are contingent on the quality of the bank's corporate governance mechanisms. Third, the study then provides evidence that BSCOM is positively related to FP, but BSRF has no effect on FP. Fourth, we also observe that BCCIs disclosure has positive impact on FP, but actual BCCIs investments do not seem to improve FP. Fifth, the study detects that the association between BCCIs and FP is significantly moderated by CG mechanisms. We identify CG disclosure as the possible channel through which BCCIs and FP are interlinked. Finally, we show that the predicted relationships vary across banks' operating periods. Our findings are robust to endogeneity and selection bias concerns.

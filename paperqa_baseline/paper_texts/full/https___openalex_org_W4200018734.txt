@@ -1,0 +1,9 @@
+Title: Sustainability of Synthetic Plastics: Considerations in Materials Life-Cycle Management
+Authors: Thomas H. Epps, LaShanda T. J. Korley, Tianwei Yan, Kathryn L. Beers, Tiffani M. Burt
+Year: 2021
+Venue: JACS Au
+DOI: https://doi.org/10.1021/jacsau.1c00191
+Paper ID: https://openalex.org/W4200018734
+
+Abstract:
+The sustainability of current and future plastic materials is a major focus of basic research, industry, government, and society at large. There is a general recognition of the positive impacts of plastics, especially packaging; however, the negative consequences around end-of-life outcomes and overall materials circularity are issues that must be addressed. In this perspective, we highlight some of the challenges associated with the many uses of plastic components and the diversity of materials needed to satisfy consumer demand, with several examples focused on plastics packaging. We also discuss the opportunities provided by conventional and advanced recycling/upgrading routes to petrochemical and bio-based materials and feedstocks, along with overviews of chemistry-related (experimental, computational, data science, and materials traceability) approaches to the valorization of polymers toward a closed-loop environment.

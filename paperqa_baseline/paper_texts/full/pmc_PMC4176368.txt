@@ -1,0 +1,9 @@
+Title: A competitive formation of DNA:RNA hybrid G-quadruplex is responsible to the mitochondrial transcription termination at the DNA replication priming site
+Authors: Ke-wei Zheng, Ren-yi Wu, Yi-de He, Shan Xiao, Jia-yu Zhang, Jia-quan Liu, Yu-hua Hao, Zheng Tan
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku764
+Paper ID: pmc_PMC4176368
+
+Abstract:
+Human mitochondrial DNA contains a distinctive guanine-rich motif denoted conserved sequence block II (CSB II) that stops RNA transcription, producing prematurely terminated transcripts to prime mitochondrial DNA replication. Recently, we reported a general phenomenon that DNA:RNA hybrid G-quadruplexes (HQs) readily form during transcription when the non-template DNA strand is guanine-rich and such HQs in turn regulate transcription. In this work, we show that transcription of mitochondrial DNA leads to the formation of a stable HQ or alternatively an unstable intramolecular DNA G-quadruplex (DQ) at the CSB II. The HQ is the dominant species and contributes to the majority of the premature transcription termination. Manipulating the stability of the DQ has little effect on the termination even in the absence of HQ; however, abolishing the formation of HQs by preventing the participation of either DNA or RNA abolishes the vast majority of the termination. These results demonstrate that the type of G-quadruplexes (HQ or DQ) is a crucial determinant in directing the transcription termination at the CSB II and suggest a potential functionality of the co-transcriptionally formed HQ in DNA replication initiation. They also suggest that the competition/conversion between an HQ and a DQ may regulate the function of a G-quadruplex-forming sequence.

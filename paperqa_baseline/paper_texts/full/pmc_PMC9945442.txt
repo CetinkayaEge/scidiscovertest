@@ -1,0 +1,9 @@
+Title: RNA:RNA interaction in ternary complexes resolved by chemical probing
+Authors: Elnaz Banijamali, Lorenzo Baronti, Walter Becker, Joanna J. Sajkowska-Kozielewicz, Ting Huang, Christina Palka, David Kosek, Lara Sweetapple, Juliane Müller, Michael D. Stone, Emma R. Andersson, Katja Petzold
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079190.122
+Paper ID: pmc_PMC9945442
+
+Abstract:
+RNA regulation can be performed by a second targeting RNA molecule, such as in the microRNA regulation mechanism. Selective 2′-hydroxyl acylation analyzed by primer extension (SHAPE) probes the structure of RNA molecules and can resolve RNA:protein interactions, but RNA:RNA interactions have not yet been addressed with this technique. Here, we apply SHAPE to investigate RNA-mediated binding processes in RNA:RNA and RNA:RNA-RBP complexes. We use R NA:RN A b inding by S HAPE (RABS) to investigate microRNA-34a ( miR-34a ) binding its mRNA target, the silent information regulator 1 (m SIRT1 ), both with and without the Argonaute protein, constituting the RNA-induced silencing complex (RISC). We show that the seed of the mRNA target must be bound to the microRNA loaded into RISC to enable further binding of the compensatory region by RISC, while the naked miR-34a is able to bind the compensatory region without seed interaction. The method presented here provides complementary structural evidence for the commonly performed luciferase-assay-based evaluation of microRNA binding-site efficiency and specificity on the mRNA target site and could therefore be used in conjunction with it. The method can be applied to any nucleic acid-mediated RNA- or RBP-binding process, such as splicing, antisense RNA binding, or regulation by RISC, providing important insight into the targeted RNA structure.

@@ -1,0 +1,9 @@
+Title: Indicator‐based assessment of local and regional progress toward the Sustainable Development Goals (SDGs): An integrated approach from Romania
+Authors: József Benedek, Kinga Ivan, Ibolya Török, Arnold Temerdek, Iulian‐Horia Holobâcă
+Year: 2021
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2180
+Paper ID: https://openalex.org/W3135800278
+
+Abstract:
+Abstract In order to measure progress in achieving the Sustainable Development Goals (SDGs) by 2030, 169 targets have been approved globally. Even though interest in implementing these goals is high, many states have not yet established a set of subnational indicators to measure the implementation of the SDGs and have not completed their own assessment of progress in achieving these global goals. This study aims to measure the progress toward achieving the SDG at local and regional level in Romania by calculating the SDG Index. For the calculation of the SDG Index at subnational level, we propose an integrated approach based on 90 indicators, stored and processed in a PostgreSQL object‐relational database. The results show the concentration of the highest performances of sustainable development in some specific geographical areas. The rural areas and the extended peripheral regions in the eastern and southern part of the country are the poorest performers.

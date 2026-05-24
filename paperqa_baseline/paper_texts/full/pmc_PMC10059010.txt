@@ -1,0 +1,9 @@
+Title: Energy-Efficient LoRa Routing for Smart Grids
+Authors: Raja Kishore Repuri, John Pradeep Darsy
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063072
+Paper ID: pmc_PMC10059010
+
+Abstract:
+Energy-efficient routing protocols in Internet of Things (IoT) applications are always of colossal importance as they improve the network’s longevity. The smart grid (SG) application of the IoT uses advanced metring infrastructure (AMI) to read and record power consumption periodically or on demand. The AMI sensor nodes in a smart grid network sense, process, and transmit information, which require energy, which is a limited resource and is an important parameter required to maintain the network for a longer duration. The present work discusses a novel energy-efficient routing criterion in an SG environment realised using LoRa nodes. Firstly, a modified LEACH protocol–cumulative low-energy adaptive clustering hierarchy (Cum_LEACH) is proposed for cluster head selection among the nodes. It uses the cumulative energy distribution of the nodes to select the cluster head. Furthermore, for test packet transmission, multiple optimal paths are created using the quadratic kernelised African-buffalo-optimisation-based LOADng (qAB_LOADng) algorithm. The best optimal path is selected from these multiple paths using a modified version of the MAX algorithm called the SMAx algorithm. This routing criterion showed an improved energy consumption profile of the nodes and the number of active nodes after running for 5000 iterations compared to standard routing protocols such as LEACH, SEP, and DEEC.

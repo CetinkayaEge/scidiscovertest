@@ -1,0 +1,9 @@
+Title: The effect of sustainable mobility transition policies on cumulative urban transport emissions and energy demand
+Authors: Lisa Winkler, Drew Pearce, Jenny Nelson, Oytun Babacan
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-37728-x
+Paper ID: https://openalex.org/W4366816879
+
+Abstract:
+The growing urban transport sector presents towns and cities with an escalating challenge in the reduction of their greenhouse gas emissions. Here we assess the effectiveness of several widely considered policy options (electrification, light-weighting, retrofitting, scrapping, regulated manufacturing standards and modal shift) in achieving the transition to sustainable urban mobility in terms of their emissions and energy impact until 2050. Our analysis investigates the severity of actions needed to comply with Paris compliant regional sub-sectoral carbon budgets. We introduce the Urban Transport Policy Model (UTPM) for passenger car fleets and use London as an urban case study to show that current policies are insufficient to meet climate targets. We conclude that, as well as implementation of emission-reducing changes in vehicle design, a rapid and large-scale reduction in car use is necessary to meet stringent carbon budgets and avoid high energy demand. Yet, without increased consensus in sub-national and sectoral carbon budgets, the scale of reduction necessary stays uncertain. Nevertheless, it is certain we need to act urgently and intensively across all policy mechanisms available as well as developing new policy options.

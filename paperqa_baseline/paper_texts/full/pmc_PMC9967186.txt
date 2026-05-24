@@ -1,0 +1,9 @@
+Title: Synthesis and Characterization of Gd-Functionalized B 4 C Nanoparticles for BNCT Applications
+Authors: Agostina Vitali, Maria Paola Demichelis, Greta Di Martino, Ian Postuma, Silva Bortolussi, Andrea Falqui, Chiara Milanese, Chiara Ferrara, Patrizia Sommi, Umberto Anselmi-Tamburini
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13020429
+Paper ID: pmc_PMC9967186
+
+Abstract:
+Inorganic nanoparticles of boron-rich compounds represent an attractive alternative to boron-containing molecules, such as boronophenylalanine or boranes, for BNCT applications. This work describes the synthesis and biological activity of multifunctional boron carbide nanoparticles stabilized with polyacrylic acid (PAA) and a gadolinium ( Gd )-rich solid phase. A fluorophore (DiI) was included in the PAA functionalization, allowing the confocal microscopy imaging of the nanoparticles. Analysis of the interaction and activity of these fluorescent Gd -containing B 4 C nanoparticles (FGdBNPs) with cultured cells was appraised using an innovative correlative microscopy approach combining intracellular neutron autoradiography, confocal, and SEM imaging. This new approach allows visualizing the cells, the FGdBNP, and the events deriving from the nuclear process in the same image. Quantification of 10 B by neutron autoradiography in cells treated with FGdBNPs confirmed a significant accumulation of NPs with low levels of cellular toxicity. These results suggest that these NPs might represent a valuable tool for achieving a high boron concentration in tumoral cells.

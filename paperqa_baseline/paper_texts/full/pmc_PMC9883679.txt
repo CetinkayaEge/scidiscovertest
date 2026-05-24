@@ -1,0 +1,9 @@
+Title: Gene relevance based on multiple evidences in complex networks
+Authors: Noemi Di Nanni, Matteo Gnocchi, Marco Moscatelli, Luciano Milanesi, Ettore Mosca
+Year: 2020
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz652
+Paper ID: pmc_PMC9883679
+
+Abstract:
+Abstract Motivation Multi-omics approaches offer the opportunity to reconstruct a more complete picture of the molecular events associated with human diseases, but pose challenges in data analysis. Network-based methods for the analysis of multi-omics leverage the complex web of macromolecular interactions occurring within cells to extract significant patterns of molecular alterations. Existing network-based approaches typically address specific combinations of omics and are limited in terms of the number of layers that can be jointly analysed. In this study, we investigate the application of network diffusion to quantify gene relevance on the basis of multiple evidences (layers). Results We introduce a gene score (mND) that quantifies the relevance of a gene in a biological process taking into account the network proximity of the gene and its first neighbours to other altered genes. We show that mND has a better performance over existing methods in finding altered genes in network proximity in one or more layers. We also report good performances in recovering known cancer genes. The pipeline described in this article is broadly applicable, because it can handle different types of inputs: in addition to multi-omics datasets, datasets that are stratified in many classes (e.g., cell clusters emerging from single cell analyses) or a combination of the two scenarios. Availability and implementation The R package ‘mND’ is available at URL: https://www.itb.cnr.it/mnd . Supplementary information Supplementary data are available at Bioinformatics online.

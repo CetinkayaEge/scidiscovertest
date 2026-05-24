@@ -1,0 +1,9 @@
+Title: Biodegradable electrohydraulic actuators for sustainable soft robots
+Authors: Ellen H. Rumley, David Preninger, Alona Shagan, Philipp Rothemund, Florian Hartmann, Melanie Baumgartner, Nicholas Kellaris, Andreas Stojanovic, Zachary Yoder, Benjamin Karrer, Christoph Keplinger, Martin Kaltenbrunner
+Year: 2023
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.adf5551
+Paper ID: https://openalex.org/W4353038822
+
+Abstract:
+Combating environmental pollution demands a focus on sustainability, in particular from rapidly advancing technologies that are poised to be ubiquitous in modern societies. Among these, soft robotics promises to replace conventional rigid machines for applications requiring adaptability and dexterity. For key components of soft robots, such as soft actuators, it is thus important to explore sustainable options like bioderived and biodegradable materials. We introduce systematically determined compatible materials systems for the creation of fully biodegradable, high-performance electrohydraulic soft actuators, based on various biodegradable polymer films, ester-based liquid dielectric, and NaCl-infused gelatin hydrogel. We demonstrate that these biodegradable actuators reliably operate up to high electric fields of 200 V/μm, show performance comparable to nonbiodegradable counterparts, and survive more than 100,000 actuation cycles. Furthermore, we build a robotic gripper based on biodegradable soft actuators that is readily compatible with commercial robot arms, encouraging wider use of biodegradable materials systems in soft robotics.

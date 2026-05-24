@@ -1,0 +1,9 @@
+Title: High-frequency synthetic apomixis in hybrid rice
+Authors: Aurore Vernet, Donaldo Meynard, Qichao Lian, Delphine Mieulet, Olivier Gibert, Matilda Bissah, Ronan Rivallan, Daphné Autran, Olivier Leblanc, Anne Cécile Meunier, Julien Frouin, James Taillebois, Kyle Shankle, Imtiyaz Khanday, Raphael Mercier, Venkatesan Sundaresan, Emmanuel Guiderdoni
+Year: 2022
+Venue: Nature Communications
+DOI: 10.1038/s41467-022-35679-3
+Paper ID: pmc_PMC9794695
+
+Abstract:
+Introducing asexual reproduction through seeds – apomixis – into crop species could revolutionize agriculture by allowing F1 hybrids with enhanced yield and stability to be clonally propagated. Engineering synthetic apomixis has proven feasible in inbred rice through the inactivation of three genes ( MiMe ), which results in the conversion of meiosis into mitosis in a line ectopically expressing the BABYBOOM1 ( BBM1 ) parthenogenetic trigger in egg cells. However, only 10–30% of the seeds are clonal. Here, we show that synthetic apomixis can be achieved in an F1 hybrid of rice by inducing MiMe mutations and egg cell expression of BBM1 in a single step. We generate hybrid plants that produce more than 95% of clonal seeds across multiple generations. Clonal apomictic plants maintain the phenotype of the F1 hybrid along successive generations. Our results demonstrate that there is no barrier to almost fully penetrant synthetic apomixis in an important crop species, rendering it compatible with use in agriculture. Previously, a proof-of-concept for low frequency synthetic apomixis was established in a laboratory strain of rice by combining MiMe mutations with the egg cell expression of the embryogenic trigger - BBM1 . Here, the authors achieve clonal seed formation in hybrid rice with almost full penetrance and higher fertility.

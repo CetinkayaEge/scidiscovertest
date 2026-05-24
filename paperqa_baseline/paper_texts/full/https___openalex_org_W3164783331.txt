@@ -1,0 +1,9 @@
+Title: Development of top-dressing automation technology for sustainable shrimp aquaculture in India
+Authors: P. Chellapandi
+Year: 2021
+Venue: Discover Sustainability
+DOI: https://doi.org/10.1007/s43621-021-00036-9
+Paper ID: https://openalex.org/W3164783331
+
+Abstract:
+Globally, the shrimp farming industry faces increasing challenges and pressure to reduce the broken shrimps and maintain a healthier pond environment. Shrimps lack an adaptive immune system to combat invading pathogens due to an imbalance in beneficial gut microbiota. The use of top-dressing agents like probiotics and pond optimizes is an alternative strategy to improve the innate immune system leading produce disease-free shrimp in international markets. The cost of top-dressing agents is accounted for 20% of the production cost and therefore, the development of top-dressing automation technology is important to maintain and improve the financial and environmental viability of shrimp sustainable farming. This perspective described several sensor-based aquaculture technologies for on-farm management systems but sustainability in the aquaculture industry is not yet achieved in practice. The present technology is a new invention to reduce labor and production costs required for reducing bacterial and organic loads in Biofloc shrimp cultures. Aquaculture automation system disperses the top-dressing agents to the shrimp ponds based on the signals received from microbial and environmental sensors. Continuous monitoring of shrimp growth, mortality, immune responses, diseases, and pond water quality parameters will fetch larger profits with additional savings on labor and production costs for sustainable shrimp aquaculture in India.

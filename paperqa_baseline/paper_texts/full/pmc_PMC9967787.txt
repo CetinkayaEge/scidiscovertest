@@ -1,0 +1,9 @@
+Title: Evaluation of an Imine-Linked Polymer Organic Framework for Storage and Release of H 2 S and NO
+Authors: Sílvia Carvalho, João Pires, Cristina Moiteiro, Moisés L. Pinto
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16041655
+Paper ID: pmc_PMC9967787
+
+Abstract:
+Hydrogen sulfide (H 2 S) and nitric oxide (NO) are especially known as toxic and polluting gases, yet they are also endogenously produced and play key roles in numerous biological processes. These two opposing aspects of the gases highlight the need for new types of materials to be developed in addition to the most common materials such as activated carbons and zeolites. Herein, a new imine-linked polymer organic framework was obtained using the inexpensive and easy-to-access reagents isophthalaldehyde and 2,4,6-triaminopyrimidine in good yield (64%) through the simple and catalyst-free Schiff-base reaction. The polymeric material has microporosity, an A BET surface area of 51 m 2 /g, and temperature stability up to 300 °C. The obtained 2,4,6-triaminopyrimidine imine-linked polymer organic material has a higher capacity to adsorb NO (1.6 mmol/g) than H 2 S (0.97 mmol/g). Release studies in aqueous solution showed that H 2 S has a faster release (3 h) from the material than NO, for which a steady release was observed for at least 5 h. This result is the first evaluation of the possibility of an imine-linked polymer organic framework being used in the therapeutic release of NO or H 2 S.

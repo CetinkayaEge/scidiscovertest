@@ -1,0 +1,9 @@
+Title: A statistical physics approach for disease module detection
+Authors: Xu-Wen Wang, Dandi Qiao, Michael H. Cho, Dawn L. DeMeo, Edwin K. Silverman, Yang-Yu Liu
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276690.122
+Paper ID: pmc_PMC9712625
+
+Abstract:
+Extensive evidence indicates that the pathobiological processes of a complex disease are associated with perturbation in specific neighborhoods of the human protein–protein interaction (PPI) network (also known as the interactome), often referred to as the disease module. Many computational methods have been developed to integrate the interactome and omics profiles to extract context-dependent disease modules. Yet, existing methods all have fundamental limitations in terms of rigor and/or efficiency. Here, we developed a statistical physics approach based on the random-field Ising model (RFIM) for disease module detection, which is both mathematically rigorous and computationally efficient. We applied our RFIM approach to genome-wide association studies (GWAS) of ten complex diseases to examine its performance for disease module detection. We found that our RFIM approach outperforms existing methods in terms of computational efficiency, connectivity of disease modules, and robustness to the interactome incompleteness.

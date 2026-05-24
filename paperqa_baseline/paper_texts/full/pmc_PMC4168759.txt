@@ -1,0 +1,9 @@
+Title: Psoralidin induces autophagy through ROS generation which inhibits the proliferation of human lung cancer A549 cells
+Authors: Wenhui Hao, Xuenong Zhang, Wenwen Zhao, Xiuping Chen
+Year: 2014
+Venue: PeerJ
+DOI: 10.7717/peerj.555
+Paper ID: pmc_PMC4168759
+
+Abstract:
+Psoralidin (PSO), a natural furanocoumarin, is isolated from Psoralea corylifolia L . possessing anti-cancer properties. However, the mechanisms of its effects remain unclear. Herein, we investigated its anti-proliferative effect and potential approaches of action on human lung cancer A549 cells. Cell proliferation and death were measured by MTT and LDH assay respectively. Apoptosis was detected with Hoechst 33342 staining by fluorescence microscopy, Annexin V-FITC by flow cytometry and Western blot analysis for apoptosis-related proteins. The autophagy was evaluated using MDC staining, immunofluorescence assay and Western blot analyses for LC3-I and LC3-II. In addition, the reactive oxygen species (ROS) generation was measured by DCFH2-DA with flow cytometry. PSO dramatically decreased the cell viabilities in dose- and time-dependent manner. However, no significant change was observed between the control group and the PSO-treated groups in Hoechst 33342 and Annexin V-FITC staining. The expression of apoptosis-related proteins was not altered significantly either. While the MDC-fluorescence intensity and the expression ratio of LC3-II/LC3-I was remarkably increased after PSO treatment. Autophagy inhibitor 3-MA blocked the production of LC3-II and reduced the cytotoxicity in response to PSO. Furthermore, PSO increased intracellular ROS level which was correlated to the elevation of LC3-II. ROS scavenger N-acetyl cysteine pretreatment not only decreased the ROS level, reduced the expression of LC3-II but also reversed PSO induced cytotoxicity. PSO inhibited the proliferation of A549 cells through autophagy but not apoptosis, which was mediated by inducing ROS production.

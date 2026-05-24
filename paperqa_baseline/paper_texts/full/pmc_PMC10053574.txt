@@ -1,0 +1,9 @@
+Title: Multimodal Image Fusion for X-ray Grating Interferometry
+Authors: Haoran Liu, Mingzhe Liu, Xin Jiang, Jinglei Luo, Yuming Song, Xingyue Chu, Guibin Zan
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063115
+Paper ID: pmc_PMC10053574
+
+Abstract:
+X-ray grating interferometry (XGI) can provide multiple image modalities. It does so by utilizing three different contrast mechanisms—attenuation, refraction (differential phase-shift), and scattering (dark-field)—in a single dataset. Combining all three imaging modalities could create new opportunities for the characterization of material structure features that conventional attenuation-based methods are unable probe. In this study, we proposed an image fusion scheme based on the non-subsampled contourlet transform and spiking cortical model (NSCT-SCM) to combine the tri-contrast images retrieved from XGI. It incorporated three main steps: (i) image denoising based on Wiener filtering, (ii) the NSCT-SCM tri-contrast fusion algorithm, and (iii) image enhancement using contrast-limited adaptive histogram equalization, adaptive sharpening, and gamma correction. The tri-contrast images of the frog toes were used to validate the proposed approach. Moreover, the proposed method was compared with three other image fusion methods by several figures of merit. The experimental evaluation results highlighted the efficiency and robustness of the proposed scheme, with less noise, higher contrast, more information, and better details.

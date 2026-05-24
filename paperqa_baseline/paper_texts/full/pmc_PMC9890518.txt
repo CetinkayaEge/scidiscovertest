@@ -1,0 +1,9 @@
+Title: Structure and emission properties of dinuclear copper( i ) complexes with pyridyltriazole †
+Authors: Alexey Gusev, Mikhail Kiskin, Elena Braga, Ekaterina Zamnius, Mariya Kryukova, Nataliya Karaush-Karmazin, Glib Baryshnikov, Boris Minaev, Wolfgang Linert
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra06986e
+Paper ID: pmc_PMC9890518
+
+Abstract:
+A new series of five highly emissive binuclear heteroleptic pyridyltriazole-Cu( i )-phosphine complexes 1–5 was synthesized and examined by different experimental (IR, elemental and thermogravimetric analysis, single crystal X-ray diffraction technique, UV-vis and fluorescence spectroscopy) and quantum chemical aproaches. Complexes 1–5 exhibited excellent stimuli-responsive photoluminescent performance in the solid state at room temperature (quantum yield (QY) = 27.5–52.0%; lifetime ( τ ) = 8.3–10.7 μs) and when the temperature was lowered to 77 K (QY = 38.3–88.2; τ = 17.8–134.7 μs). The highest QY was examined for complex 3 (52%) that can be explained by the small structural changes between the ground S 0 and exited S 1 and T 1 states leading to the small S 1 –T 1 triplet gap and efficient thermally-activated delayed fluorescence. Moreover, complex 4 demonstrates reversible mechanochromic and excitation dependent luminescence. New highly emissive copper( i ) complexes based on 3/4-pyridyltriazole have been synthesized and fully characterized. Photophysical properties and the mechanism of photo- and mechanochromic and excitation dependent luminescence are discussed.

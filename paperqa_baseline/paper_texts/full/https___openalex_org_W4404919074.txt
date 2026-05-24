@@ -1,0 +1,9 @@
+Title: Multi-Objective Optimization in Industry 5.0: Human-Centric AI Integration for Sustainable and Intelligent Manufacturing
+Authors: Shu‐Chuan Chen, Hsien-Ming Chen, Han-Kwang Chen, Chieh-Lan Li
+Year: 2024
+Venue: Processes
+DOI: https://doi.org/10.3390/pr12122723
+Paper ID: https://openalex.org/W4404919074
+
+Abstract:
+The shift from Industry 4.0 to Industry 5.0 represents a significant evolution toward sustainable, human-centric manufacturing. This paper explores how advanced multi-objective optimization techniques can integrate Artificial Intelligence (AI) with human insights to enhance both sustainability and customization in manufacturing. We investigate specific optimization methods, including genetic algorithms (GAs), Particle Swarm Optimization (PSO), and reinforcement learning (RL), which are tailored to balance efficiency, waste reduction, and carbon footprint. Our proposed framework enables human creativity to interact with AI-driven processes, embedding human input into a computational structure that adapts dynamically to operational goals. By linking optimization directly to environmental impacts, such as reducing waste, energy consumption, and carbon emissions, this study establishes a pathway toward environmentally sustainable production. This research fills existing gaps by offering a detailed, practical model that harmonizes theoretical insights with applications in personalized manufacturing environments. In this regard, it contributes to the ongoing development of Industry 5.0, emphasizing how AI and human collaboration can foster intelligent, adaptable, and sustainable manufacturing systems.

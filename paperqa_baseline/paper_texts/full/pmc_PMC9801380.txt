@@ -1,0 +1,9 @@
+Title: Carbene-Controlled Regioselective Functionalization of Linear Alkanes under Silver Catalysis
+Authors: María Álvarez, Francisco Molina, Pedro J. Pérez
+Year: 2022
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.2c11707
+Paper ID: pmc_PMC9801380
+
+Abstract:
+Control of the regioselectivity in the functionalization of C–H bonds of linear alkanes C 2 H 2n+2 via carbene transfer from diazo compounds is restricted to the use of rhodium-based catalysts, which govern the reaction outcome employing donor–acceptor diazo reagents. At variance with that catalyst-controlled strategy, we present an alternative approach in which employing the appropriate silver complexes containing trispyrazolylborate ligands as catalysts with large differences in their steric and electronic properties, the regioselection is mainly governed by the diazo reagent, which leads to the functionalization of primary or secondary sites of linear alkanes (lacking any activating or directing groups). Donor–acceptor aryl diazoacetates exclusively provide the functionalization of the secondary sites of hexane or pentane, whereas acceptor ethyl diazoacetate leads to an unprecedented level of primary functionalization.

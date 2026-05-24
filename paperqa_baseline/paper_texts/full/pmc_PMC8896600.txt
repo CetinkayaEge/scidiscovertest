@@ -1,0 +1,9 @@
+Title: TransportTools: a library for high-throughput analyses of internal voids in biomolecules and ligand transport through them
+Authors: Jan Brezovsky, Aravind Selvaram Thirunavukarasu, Bartlomiej Surpeta, Carlos Eduardo Sequeiros-Borja, Nishita Mandal, Dheeraj Kumar Sarkar, Cedrix J Dongmo Foumthuim, Nikhil Agrawal
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab872
+Paper ID: pmc_PMC8896600
+
+Abstract:
+Abstract Summary Information regarding pathways through voids in biomolecules and their roles in ligand transport is critical to our understanding of the function of many biomolecules. Recently, the advent of high-throughput molecular dynamics simulations has enabled the study of these pathways, and of rare transport events. However, the scale and intricacy of the data produced requires dedicated tools in order to conduct analyses efficiently and without excessive demand on users. To fill this gap, we developed the TransportTools, which allows the investigation of pathways and their utilization across large, simulated datasets. TransportTools also facilitates the development of custom-made analyses. Availability and implementation TransportTools is implemented in Python3 and distributed as pip and conda packages. The source code is available at https://github.com/labbit-eu/transport_tools . Data are available in a repository and can be accessed via a link: https://doi.org/10.5281/zenodo.5642954 . Supplementary information Supplementary data are available at Bioinformatics online.

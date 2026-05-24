@@ -1,0 +1,9 @@
+Title: Edible and Biodegradable Wearable Capacitive Pressure Sensors: A Paradigm Shift toward Sustainable Electronics with Bio‐Based Materials
+Authors: Fevzihan Başarír, Yazan Al Haj, Fangxin Zou, Swarnalok De, An Nguyen, Alexander D. Frey, Ijlal Haider, Veikko Sariola, Jaana Vapaavuori
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202403268
+Paper ID: https://openalex.org/W4401426469
+
+Abstract:
+Abstract This study presents a significant advancement in sustainable electronics, introducing an innovative capacitive‐type wearable pressure sensor crafted entirely from edible and biodegradable biomaterials. The sensor's constituents, encompassing the substrate, electrode, and dielectric elements, are obtained using edible and renewable sources, specifically cellulose and pectin. Leveraging their non‐metallic properties, these materials facilitate natural biodegradation, effectively reducing the environmental impact of electronic waste. Employing green chemistry principles during material preparation ensures the exclusion of critical raw materials. The resulting sensors showcase a versatile pressure detection range, from subtle pressures of 100 Pa to a maximum threshold of 100 kPa. Demonstrating a sensitivity of 0.0294 kPa −1 in the subtle pressure regime, the sensors exhibit a low detection limit of 10 Pa and a fast response time of 118 ms. The sensors exhibited notable repeatability and robustness, enduring over 10 000 loading‐unloading cycles without succumbing to fatigue. Applied in real‐time human motion detection, the sensors prove their potential applicability. In a biodegradability assessment, all sensor elements exhibit rapid degradation by various fungi, marking a significant stride toward a high‐performance, edible, and wearable capacitive pressure sensor that can be deposited as biowaste at the end of its lifecycle.

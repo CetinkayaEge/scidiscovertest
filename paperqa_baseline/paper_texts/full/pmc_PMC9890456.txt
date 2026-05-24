@@ -1,0 +1,9 @@
+Title: Simultaneous relaxometry and morphometry of human brain structures with 3D magnetic resonance fingerprinting: a multicenter, multiplatform, multifield-strength study
+Authors: Shohei Fujita, Matteo Cencini, Guido Buonincontri, Naoyuki Takei, Rolf F Schulte, Issei Fukunaga, Wataru Uchida, Akifumi Hagiwara, Koji Kamagata, Yasuhiro Hagiwara, Yutaka Matsuyama, Osamu Abe, Michela Tosetti, Shigeki Aoki
+Year: 2023
+Venue: Cerebral Cortex (New York, NY)
+DOI: 10.1093/cercor/bhac096
+Paper ID: pmc_PMC9890456
+
+Abstract:
+Abstract Relaxation times and morphological information are fundamental magnetic resonance imaging-derived metrics of the human brain that reflect the status of the underlying tissue. Magnetic resonance fingerprinting (MRF) enables simultaneous acquisition of T 1 and T 2 maps inherently aligned to the anatomy, allowing whole-brain relaxometry and morphometry in a single scan. In this study, we revealed the feasibility of 3D MRF for simultaneous brain structure-wise morphometry and relaxometry. Comprehensive test–retest scan analyses using five 1.5-T and three 3.0-T systems from a single vendor including different scanner types across 3 institutions demonstrated that 3D MRF-derived morphological information and relaxation times are highly repeatable at both 1.5 T and 3.0 T. Regional cortical thickness and subcortical volume values showed high agreement and low bias across different field strengths. The ability to acquire a set of regional T 1 , T 2 , thickness, and volume measurements of neuroanatomical structures with high repeatability and reproducibility facilitates the ability of longitudinal multicenter imaging studies to quantitatively monitor changes associated with underlying pathologies, disease progression, and treatments.

@@ -1,0 +1,9 @@
+Title: Antitumor activity of a folate receptor-targeted immunoglobulin G-doxorubicin conjugate
+Authors: Tan Yang, Ling Xu, Bin Li, Weijie Li, Xiang Ma, Lingling Fan, Robert J Lee, Chuanrui Xu, Guangya Xiang
+Year: 2017
+Venue: International Journal of Nanomedicine
+DOI: 10.2147/IJN.S125591
+Paper ID: pmc_PMC5383082
+
+Abstract:
+Development of antibody-drug conjugates (ADCs) is a promising therapeutic strategy for cancer therapy. In this study, folate was conjugated via a polyethyleneglycol (PEG) linker to immunoglobulin G (IgG), which was linked to doxorubicin (DOX), to form a novel ADC folate-PEG-IgG-DOX (FA-PEG-IgG-DOX). The FA-PEG-IgG-DOX showed high targeting efficiency in HeLa and KB cells and significantly improved the uptake and retention of DOX compared with IgG-DOX about 10-fold. Subsequently, FA-PEG-IgG-DOX was shown to have at least 8 times higher antitumor activity than IgG-DOX both in HeLa and KB cells and also induced more apoptosis in those cells than IgG-DOX. Moreover, FA-PEG-IgG-DOX had a 2 times longer circulating time than FA-IgG-DOX, but did not increase the DOX distribution in mouse hearts. Importantly, FA-PEG-IgG-DOX treatment significantly inhibited tumor growth in xenograft mice. Together, our results indicate that FA-PEG-IgG is an effective ADC carrier for delivery of chemotherapeutic agents and that conjugating tumor targeting ligands to antibodies is a promising strategy for producing ADC drugs.

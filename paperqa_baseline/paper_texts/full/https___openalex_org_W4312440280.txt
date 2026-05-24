@@ -1,0 +1,9 @@
+Title: Artificial intelligence and digital twins in sustainable agriculture and forestry: a survey
+Authors: Jing Nie, Yi Wang, Yang Li, Xuewei Chao
+Year: 2022
+Venue: TURKISH JOURNAL OF AGRICULTURE AND FORESTRY
+DOI: https://doi.org/10.55730/1300-011x.3033
+Paper ID: https://openalex.org/W4312440280
+
+Abstract:
+Affected by global economic pressure and epidemics, sustainable agriculture has received widespread attention from farmers and agricultural engineers. Throughout history, agricultural technology has closely followed the pace of scientific and technological development and has followed the footsteps of mechanization, automation, and intelligence to progress continuously. At this stage, artificial intelligence (AI) is dominating the field of agriculture and advancing the progress of sustainable agriculture. However, the large amount of data required by AI technology and the high cost of data have ensued, while the rapid development of virtualization technology has made people gradually begin to consider the application of digital twins (DT) in agriculture. This paper examines the application of artificial intelligence technology and digital twin technology in smart agriculture in recent years and discusses and analyzes the challenges they face and the future directions of development. We find that digital twins have great potential for success in sustainable agriculture, which is of great significance to advancing smart agricultural solutions that achieve low cost and high precision to meet the growing demand for high-yield production from farmers around the world.

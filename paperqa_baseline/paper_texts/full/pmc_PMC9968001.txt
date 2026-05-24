@@ -1,0 +1,9 @@
+Title: Milling-Assisted Loading of Drugs into Mesoporous Silica Carriers: A Green and Simple Method for Obtaining Tunable Customized Drug Delivery
+Authors: Basma Moutamenni, Nicolas Tabary, Alexandre Mussi, Jeremy Dhainaut, Carmen Ciotonea, Alexandre Fadel, Laurent Paccou, Jean-Philippe Dacquin, Yannick Guinet, Alain Hédoux
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020390
+Paper ID: pmc_PMC9968001
+
+Abstract:
+Mesoporous silica (MPS) carriers are considered as a promising strategy to increase the solubility of poorly soluble drugs and to stabilize the amorphous drug delivery system. The development by the authors of a solvent-free method (milling-assisted loading, MAL) made it possible to manipulate the physical state of the drug within the pores. The present study focuses on the effects of the milling intensity and the pore architecture (chemical surface) on the physical state of the confined drug and its release profile. Ibuprofen (IBP) and SBA-15 were used as the model drug and the MPS carrier, respectively. It was found that decreasing the milling intensity promotes nanocrystallization of confined IBP. Scanning electron microscopy and low-frequency Raman spectroscopy investigations converged into a bimodal description of the size distribution of particles, by decreasing the milling intensity. The chemical modification of the pore surface with 3-aminopropyltriethoxisylane also significantly promoted nanocrystallization, regardless of the milling intensity. Combined analyses of drug release profiles obtained on composites prepared from unmodified and modified SBA-15 with various milling intensities showed that the particle size of composites has the greatest influence on the drug release profile. Tuning drug concentration, milling intensity, and chemical surface make it possible to easily customize drug delivery.

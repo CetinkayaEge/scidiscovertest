@@ -1,0 +1,9 @@
+Title: CpG oligodeoxynucleotides enhance chemosensitivity of 5-fluorouracil in HepG2 human hepatoma cells via downregulation of the antiapoptotic factors survivin and livin
+Authors: Sheng-ran Liang, Guang-rui Hu, Li-juan Fang, Su-jing Huang, Jin-song Li, Ming-yi Zhao, Min-jie Meng
+Year: 2013
+Venue: Cancer Cell International
+DOI: 10.1186/1475-2867-13-106
+Paper ID: pmc_PMC4176997
+
+Abstract:
+Background Recent studies indicated that a synthetic oligonucleotide containing un-methylated CpG oligodeoxynucleotides (CpG-ODN) has a potential function for cancer therapy. In this study, we evaluated the chemosensitizing effects of CpG-ODN in 5-fluorouracil (5-FU)-treated HepG2 human hepatoma cells. Methods Cell viability assay were utilized to evaluate the direct cytotoxicity of CpG-ODN in the presence or absence of 5-FU in HepG2 cells, and apoptosis as well as cell-cycle was examined by flow cytometry analysis. The mRNA expression of Bcl-2, Livin and Survivin within HepG2 cells treated with CpG-ODN and/or 5-FU were analyzed by Real Time PCR assay in vitro. Results CpG-ODN in combination with 5-FU could decrease cell viability, increase apoptosis and further induce HepG2 cells cycle arrest at S phase when compared with CpG-ODN or 5-FU. CpG-ODN or 5-FU could down-regulate the mRNA expression of Bcl-2 within HepG2 cells. The mRNA expression of Livin and Survivin decreased in cells treated with CpG-ODN alone but increased in cells treated with 5-FU alone. However, CpG-ODN in combination with 5-FU could down-regulate the mRNA expression of Livin and Survivin within HepG2 cells. Conclusions Our finding demonstrated that CpG-ODN enhanced the chemosentivity of 5-FU in HepG2 human hepatoma cells at least in part by down-regulating the expression of Livin and Survivin, leading to apoptosis and further inducing cell cycle arrest at S phase. Therefore, CpG-ODN may be a potential candidate as chemosensitizer for human hepatocellular carcinoma.

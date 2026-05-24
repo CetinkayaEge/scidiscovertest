@@ -1,0 +1,9 @@
+Title: Using multi-criteria performance measurement models to evaluate the financial, operational and environmental sustainability of airlines
+Authors: Gökhan Tanrıverdi, Rico Merkert, Çağlar Karamaşa, Veysi Asker
+Year: 2023
+Venue: Journal of Air Transport Management
+DOI: https://doi.org/10.1016/j.jairtraman.2023.102456
+Paper ID: https://openalex.org/W4383506314
+
+Abstract:
+Airline sustainability, defined as both decarbonization and long-term financial survival, has become critical especially since the onset of the COVID-19 pandemic. Our paper investigates the multi-dimensional effects of the COVID-19 crisis on airlines’ sustainability performance using data from 56 airlines for the period before, during and early after the pandemic (2017–2021). We develop and use a novel multi-criteria MEREC–CoCoSo/Borda performance measurement model tailored to the airline industry. Our results suggest that while operational results have dominated sustainability weights throughout the period, the financial pillar has gained considerably in importance while the decarbonization criterion decreased in weight in 2020. However, from 2021, decarbonization started to become more important again in the “new normal” and sector recovery. In terms of overall and sustained sustainability, low-cost carriers and small full-service carriers with predominantly domestic networks are ranked as best performers. Renewing fleet, attaching decarbonization conditions to government aid and reviewing airport slot policies are important to prepare the aviation industry for the next pandemic or disruption.

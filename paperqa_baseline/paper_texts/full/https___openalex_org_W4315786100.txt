@@ -1,0 +1,9 @@
+Title: Greenwashing, Sustainability Reporting, and Artificial Intelligence: A Systematic Literature Review
+Authors: Wayne Moodaley, Arnesh Telukdarie
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15021481
+Paper ID: https://openalex.org/W4315786100
+
+Abstract:
+The rise of stakeholder interest globally in sustainable business practices has resulted in a rise in demands from stakeholders that companies report on the environmental and social impacts of their business activities. In certain cases, however, companies have resorted to the practice of providing inaccurate disclosures regarding sustainability as part of their corporate communications and sustainability reporting—commonly referred to as “greenwashing”. Concurrently, technological improvements in artificial intelligence have presented the means to rapidly and accurately analyze large volumes of text-based information, such as that contained in sustainability reports. Despite the possible impacts of artificial intelligence and machine learning on the fields of greenwashing and sustainability reporting, no literature to date has comprehensively and holistically addressed the interrelationship between these three important topics. This paper contributes to the body of knowledge by using bibliometric and thematic analyses to systematically analyze the interrelationship between those fields. The analysis is also used to conjecture a conceptual and thematic framework for the use of artificial intelligence with machine learning in relation to greenwashing and company sustainability reporting. This paper finds that the use of artificial intelligence in relation to greenwashing, and greenwashing within sustainability reporting, is an underexplored research field.

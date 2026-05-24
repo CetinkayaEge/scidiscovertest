@@ -1,0 +1,9 @@
+Title: The sustainable potential of efficient air-transportation industry and green innovation in realising environmental sustainability in G7 countries
+Authors: Jieping Chen, Xiaoli Hu, Ummara Razi, Gadaf Rexhepi
+Year: 2021
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2021.2004190
+Paper ID: https://openalex.org/W3216443284
+
+Abstract:
+Air transportation has a deep impact on environmental degradation due to the higher fossil fuel consumption. On the other hand, this industry also embraces the highest innovation that may alter its environmental consequences. However, there is a dearth of empirical evidence that explores the impact of air transportation and eco-innovation on environmental quality. Therefore, this study is a pioneering attempt to examine the role of air-transportation and eco-innovation in reducing environmental degradation in G7 countries using annual data from 1990 to 2019. In doing so, we employed various advance econometric approaches to handle issues arises from panel data such as Pesaran () and Bai and Carrion-I-Silvestre () used to examine the presence of unit root, cross-sectional dependency checked through Pesaran () test, and for parameters heterogeneity through Pesaran and Yamagata (). Moreover, the Westerlund and Edgerton () test and Cross Sectional Augmented ARDL were employed to analyse the long run and short run association among variables. The overall results show that air transportation and eco-innovation play an important role in abating environmental deterioration. Air transportation is negatively correlated with carbon emission and PM2.5 exposure (air quality) due to the improved technical structure of aircraft engines and the use of mixed ration or alternative aviation fuels. These results provide valuable suggestions for all stakeholders.

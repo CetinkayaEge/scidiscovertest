@@ -1,0 +1,9 @@
+Title: Dynamic Chemistry Toolbox for Advanced Sustainable Materials
+Authors: Yuanxin Deng, Qi Zhang, Ben L. Feringa
+Year: 2024
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202308666
+Paper ID: https://openalex.org/W4391608147
+
+Abstract:
+Developing dynamic chemistry for polymeric materials offers chemical solutions to solve key problems associated with current plastics. Mechanical performance and dynamic function are equally important in material design because the former determines the application scope and the latter enables chemical recycling and hence sustainability. However, it is a long-term challenge to balance the subtle trade-off between mechanical robustness and dynamic properties in a single material. The rise of dynamic chemistry, including supramolecular and dynamic covalent chemistry, provides many opportunities and versatile molecular tools for designing constitutionally dynamic materials that can adapt, repair, and recycle. Facing the growing social need for developing advanced sustainable materials without compromising properties, recent progress showing how the toolbox of dynamic chemistry can be explored to enable high-performance sustainable materials by molecular engineering strategies is discussed here. The state of the art and recent milestones are summarized and discussed, followed by an outlook toward future opportunities and challenges present in this field.

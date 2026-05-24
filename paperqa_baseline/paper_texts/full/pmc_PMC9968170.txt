@@ -1,0 +1,9 @@
+Title: Interplay of Breast Cancer Resistance Protein (Bcrp/Abcg2), Sex, and Fed State in Oral Pharmacokinetic Variability of Furosemide in Rats
+Authors: Sheena Sharma, Vijaya Saradhi Mettu, Bhagwat Prasad
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020542
+Paper ID: pmc_PMC9968170
+
+Abstract:
+Poor and variable oral bioavailability of furosemide (FUR) presents critical challenges in pharmacotherapy. We investigated the interplay of breast cancer resistance protein (Bcrp)-mediated transport, sex, and fed state on FUR pharmacokinetics (PK) in rats. A crossover PK study of FUR (5 mg/kg, oral) was performed in Sprague-Dawley rats (3 males and 3 females), alone or with a Bcrp inhibitor, novobiocin (NOV) (20 mg/kg, oral), in both fed and fasted states. Co-administration of NOV significantly increased FUR extent (AUC) and rate (C max ) of exposure by more than two-fold, which indicates efficient Bcrp inhibition in the intestine. The female rats showed two-fold higher AUC and C max , and two-fold lower renal clearance of FUR compared to the male rats. The latter was correlated with higher renal abundance of Bcrp and organic anion transporters (Oats) in the male rats compared to age-matched female rats. These findings suggest that the PK of Bcrp and/or Oat substrates could be sex-dependent in rats. Moreover, allometric scaling of rat PK and toxicological data of Bcrp substrates should consider species and sex differences in Bcrp and Oat abundance in the kidney. Considering that Bcrp is abundant in the intestine of rats and humans, a prospective clinical study is warranted to evaluate the effect of Bcrp inhibition on FUR PK. The potential confounding effect of the Bcrp transporter should be considered when FUR is used as a clinical probe of renal organic anion transporter-mediated drug–drug interactions. Unlike human data, no food-effect was observed on FUR PK in rats.

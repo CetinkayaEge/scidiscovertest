@@ -1,0 +1,9 @@
+Title: Distributed Manufacturing: A New Digital Framework for Sustainable Modular Construction
+Authors: Christopher Turner, John Oyekan, Lampros Stergioulas
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031515
+Paper ID: https://openalex.org/W3126834501
+
+Abstract:
+This paper explores the notion of the modular building construction site as an applied instance of redistributed manufacturing; in so doing, this research seeks to reduce the environmental footprint of building sites, treating them as small digitally connected subunits. In seeking to provide a whole lifecycle appreciation of a construction project, it is noted that the presence of a framework to provide guidance on the consideration of Internet of Things (IoT) data streams and connected construction objects is currently lacking. This paper proposes use of embedded IoT enabled sensing technology within all stages of a modular building lifecycle. An expanded four-phase model of intelligent assets use in construction is proposed along with an outline of the required data flows between the stages of a given building’s entire lifecycle that need to be facilitated for a BIM (Buildings Information Modelling) representation to begin to describe a building project as a sustainable asset within the circular economy. This paper also describes the use of concrete as a modular sensing structure; proposing that health monitoring of the material in situ along with the recoding of environmental factors over time could help to extend the longevity of such structures.

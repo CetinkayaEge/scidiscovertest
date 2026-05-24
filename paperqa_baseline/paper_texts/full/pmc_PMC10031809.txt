@@ -1,0 +1,9 @@
+Title: QSAR via multisite λ‐dynamics in the orphaned TSSK1B kinase
+Authors: Xiaorong Liu, Pui Ki Tsang, Matthew B. Soellner, Charles L. Brooks
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4623
+Paper ID: pmc_PMC10031809
+
+Abstract:
+Abstract Multisite λ‐dynamics (MSλD) is a novel method for the calculation of relative free energies of binding for ligands to their targeted receptors. It can be readily used to examine a large number of molecules with multiple functional groups at multiple sites around a common core. This makes MSλD a powerful tool in structure‐based drug design. In the present study, MSλD is applied to calculate the relative binding free energies of 1296 inhibitors to the testis specific serine kinase 1B (TSSK1B), a validated target for male contraception. For this system, MSλD requires significantly fewer computational resources compared to traditional free energy methods like free energy perturbation or thermodynamic integration. From MSλD simulations, we examined whether modifications of a ligand at two different sites are coupled or not. Based on our calculations, we established a quantitative structure–activity relationship (QSAR) for this set of molecules and identified a site in the ligand where further modification, such as adding more polar groups, may lead to increased binding affinity.

@@ -1,0 +1,9 @@
+Title: Unraveling chirality transfer mechanism by structural isomer-derived hydrogen bonding interaction in 2D chiral perovskite
+Authors: Jaehyun Son, Sunihl Ma, Young-Kwang Jung, Jeiwan Tan, Gyumin Jang, Hyungsoo Lee, Chan Uk Lee, Junwoo Lee, Subin Moon, Wooyong Jeong, Aron Walsh, Jooho Moon
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38927-2
+Paper ID: pmc_PMC10229653
+
+Abstract:
+In principle, the induced chirality of hybrid perovskites results from symmetry-breaking within inorganic frameworks. However, the detailed mechanism behind the chirality transfer remains unknown due to the lack of systematic studies. Here, using the structural isomer with different functional group location, we deduce the effect of hydrogen-bonding interaction between two building blocks on the degree of chirality transfer in inorganic frameworks. The effect of asymmetric hydrogen-bonding interaction on chirality transfer was clearly demonstrated by thorough experimental analysis. Systematic studies of crystallography parameters confirm that the different asymmetric hydrogen-bonding interactions derived from different functional group location play a key role in chirality transfer phenomena and the resulting spin-related properties of chiral perovskites. The methodology to control the asymmetry of hydrogen-bonding interaction through the small structural difference of structure isomer cation can provide rational design paradigm for unprecedented spin-related properties of chiral perovskite. Chiral Ruddlesden-Popper perovskites are of interest as they exhibit circular dichroism in the visible light region. Here authors demonstrate the effect of asymmetric hydrogen bonding on the spin-polarization-based phenomena in chiral 2D perovskites by using structural isomer organic spacers.

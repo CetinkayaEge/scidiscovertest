@@ -1,0 +1,9 @@
+Title: Green Finance Assists Agricultural Sustainable Development: Evidence from China
+Authors: Yalin Mo, Dinghai Sun, Yu Zhang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15032056
+Paper ID: https://openalex.org/W4317733715
+
+Abstract:
+Whether green finance can promote agriculture to achieve carbon emission reduction is an important issue in agricultural sustainable development. Based on panel data on 30 provinces in China from 2011 to 2020, this paper established a mediation effect framework and employed stepwise regression and bootstrapping to study whether and how green finance can promote carbon emission reduction in China’s agricultural sector. The empirical research results indicate that the development of green finance can significantly reduce China’s agricultural carbon emission intensity. Using instrumental variables for robustness regression tests, the empirical results were also found to be robust. Further research found that green finance can not only directly promote agricultural carbon emission reduction but also indirectly facilitate it by optimizing the agricultural industrial structure and guiding agricultural technological progress. Finally, this article puts forward a number of policy recommendations to actively develop green finance, optimize the structure of the agricultural industry, and promote the progress of agricultural technology with the overarching aim of promoting the sustainable development of China’s agriculture through green finance.

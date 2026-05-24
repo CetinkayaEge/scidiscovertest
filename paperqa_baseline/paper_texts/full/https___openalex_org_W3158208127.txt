@@ -1,0 +1,9 @@
+Title: Sustainable Irrigation System for Farming Supported by Machine Learning and Real-Time Sensor Data
+Authors: André Glória, J. M. R. Cardoso, Pedro Sebastião
+Year: 2021
+Venue: Sensors
+DOI: https://doi.org/10.3390/s21093079
+Paper ID: https://openalex.org/W3158208127
+
+Abstract:
+Presently, saving natural resources is increasingly a concern, and water scarcity is a fact that has been occurring in more areas of the globe. One of the main strategies used to counter this trend is the use of new technologies. On this topic, the Internet of Things has been highlighted, with these solutions being characterized by offering robustness and simplicity, while being low cost. This paper presents the study and development of an automatic irrigation control system for agricultural fields. The developed solution had a wireless sensors and actuators network, a mobile application that offers the user the capability of consulting not only the data collected in real time but also their history and also act in accordance with the data it analyses. To adapt the water management, Machine Learning algorithms were studied to predict the best time of day for water administration. Of the studied algorithms (Decision Trees, Random Forest, Neural Networks, and Support Vectors Machines) the one that obtained the best results was Random Forest, presenting an accuracy of 84.6%. Besides the ML solution, a method was also developed to calculate the amount of water needed to manage the fields under analysis. Through the implementation of the system it was possible to realize that the developed solution is effective and can achieve up to 60% of water savings.

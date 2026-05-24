@@ -1,0 +1,9 @@
+Title: Towards a more general drug target interaction prediction model using transfer learning
+Authors: Derwin Suhartono, Muhammad Rizki Nur Majiid, Alif Tri Handoyo, Pandu Wicaksono, Henry Lucky
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.148
+Paper ID: pmc_PMC9829421
+
+Abstract:
+The topic of Drug-Target Interaction (DTI) topic has emerged nowadays since the COVID-19 outbreaks. DTI is one of the stages of finding a new cure for a recent disease. It determines whether a chemical compound would affect a particular protein, known as binding affinity. Recently, significant efforts have been devoted to artificial intelligence (AI) powered DTI. However, the use of transfer learning in DTI has not been explored extensively. This paper aims to make a more general DTI model by investigating DTI prediction method using Transfer learning. Three popular models will be tested and observed: CNN, RNN, and Transformer. Those models combined in several scenarios involving two extensive public datasets on DTI (BindingDB and DAVIS) to find the most optimum architecture. In our finding, combining the CNN model and BindingDB as the source data became the most recommended pre-trained model for real DTI cases. This conclusion was proved with the 6% AUPRC increase after fine-tuning the BindingDB pre-trained model to DAVIS dataset than without pre-training the model first.

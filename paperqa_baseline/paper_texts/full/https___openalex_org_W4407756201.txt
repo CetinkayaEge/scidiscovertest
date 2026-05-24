@@ -1,0 +1,9 @@
+Title: Emerging Trends in Bioinspired Superhydrophobic and Superoleophobic Sustainable Surfaces
+Authors: Cerys M. Cormican, Sinem Bektaş, Francisco J. Martín‐Martínez, Shirin Alexander
+Year: 2025
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202415961
+Paper ID: https://openalex.org/W4407756201
+
+Abstract:
+Inspired by nature's ability to master materials for performance and sustainability, biomimicry has enabled the creation of bioinspired materials for structural color, superadhesion, hydrophobicity and hydrophilicity, among many others. This review summarizes the emerging trends in novel sustainable fluorocarbon-free bioinspired designs for creating superhydrophobic and superoleophobic surfaces. It discusses methods, challenges, and future directions, alongside the impact of computational modeling and artificial intelligence in accelerating the experimental development of more sustainable surface materials. While significant progress is made in superhydrophobic materials, sustainable superoleophobic surfaces remain a challenge. However, bioinspiration and experimental techniques supported by computational platforms are paving the way to new renewable and biodegradable repellent surfaces that meet environmental standards without sacrificing performance. Nevertheless, despite environmental concerns, and policies, several bioinspired designs still continue to apply fluorination and other environmentally harmful techniques to achieve the required standard of repellency. As discussed in this critical review, a new paradigm that integrates advanced materials characterization, nanotechnology, additive manufacturing, computational modeling, and artificial intelligence is coming, to generate bioinspired materials with tailored superhydrophobicity and superoleophobicity while adhering to environmental standards.

@@ -1,0 +1,9 @@
+Title: PomBase: a Global Core Biodata Resource—growth, collaboration, and sustainability
+Authors: Kim Rutherford, Manuel Lera-Ramírez, Valerie Wood
+Year: 2024
+Venue: Genetics
+DOI: https://doi.org/10.1093/genetics/iyae007
+Paper ID: https://openalex.org/W4391962939
+
+Abstract:
+PomBase (https://www.pombase.org), the model organism database (MOD) for fission yeast, was recently awarded Global Core Biodata Resource (GCBR) status by the Global Biodata Coalition (GBC; https://globalbiodata.org/) after a rigorous selection process. In this MOD review, we present PomBase's continuing growth and improvement over the last 2 years. We describe these improvements in the context of the qualitative GCBR indicators related to scientific quality, comprehensivity, accelerating science, user stories, and collaborations with other biodata resources. This review also showcases the depth of existing connections both within the biocuration ecosystem and between PomBase and its user community.

@@ -1,0 +1,9 @@
+Title: An Inclusive and Sustainable Artificial Intelligence Strategy for Europe Based on Human Rights
+Authors: Celia Fernández-Aller, Arturo Fernandez de Velasco, Ángeles Manjarrés Riesco, David Pastor-Escuredo, Simon Pickin, Jesús Salgado-Criado, Txetxu Ausín
+Year: 2021
+Venue: IEEE Technology and Society Magazine
+DOI: https://doi.org/10.1109/mts.2021.3056283
+Paper ID: https://openalex.org/W3137291493
+
+Abstract:
+The United Nations (UN) 2030 Agenda and other movements toward setting global goals such as the Paris Agreement and the European Green Deal/U.S. Green New Deal are laying the groundwork for a transformation beyond purely market-based economics toward sustainability and inclusiveness [1], in which technological innovation and, in particular, artificial intelligence (AI) can play a central role. The European Union (EU) is committed to the 2030 Agenda and the sustainable development goals (SDGs), which the UN itself has recognized cannot be achieved without a people-focused, science-based, digital revolution [2]. This commitment to the 2030 Agenda should entail promoting an inclusive and sustainable AI strategy, rather than a strategy with a narrow focus on competitiveness [3], [4]. In order for AI to contribute to achieving the SDGs, a systemic approach to the development of AI solutions is required [5]-[9]. Conversely, the SDGs provide an ideal framework to test the desirability of AI solutions [10]. Europe's multicultural character and its framework of international collaboration give it a head start toward becoming a global reference in the promotion of an inclusive and sustainable AI. Sharing the experiences and practices of such a European AI could make a significant contribution to achieving the SDGs.

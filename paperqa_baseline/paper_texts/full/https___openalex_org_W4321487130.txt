@@ -1,0 +1,9 @@
+Title: Synthesis of a novel pH-responsive Fe3O4/chitosan/agarose double nanoemulsion as a promising Nanocarrier with sustained release of curcumin to treat MCF-7 cell line
+Authors: Mehrab Pourmadadi, Mohammadjavad Ahmadi, Fatemeh Yazdian
+Year: 2023
+Venue: International Journal of Biological Macromolecules
+DOI: https://doi.org/10.1016/j.ijbiomac.2023.123786
+Paper ID: https://openalex.org/W4321487130
+
+Abstract:
+/chitosan/agarose was synthesized and curcumin was loaded with loading and entrapment efficacies of 48.25 % and 87.5 %, respectively. The crystalline nature of the nanocomposites was confirmed by X-ray diffraction, and Fourier transforms spectroscopy investigated the functional groups of the components. The results of DLS and zeta potential showed proper particle size and surface charge, which are important for making the EPR effect and stability of the developed drug delivery system. The release profile of curcumin from the nanocarrier presented a sustained and pH-responsive release, avoiding overdosage and decreasing side effects. The best kinetic model that the release data could be fitted on was Hixon-Crowell. Finally, from the cytotoxicity of the prepared nanocomposite, it was concluded that the nanocarrier is biocompatible, and from flow cytometry analysis, a high apoptosis percentage proved that the effect of the designed drug delivery system on MCF-7 cell lines is programmed. Hence, this curcumin-loaded double emulsion could mitigate cancer therapy restrictions, with a minimum toxic effect on cultured cells.

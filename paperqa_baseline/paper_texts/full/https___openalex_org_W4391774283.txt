@@ -1,0 +1,9 @@
+Title: Air quality monitoring using statistical learning models for sustainable environment
+Authors: Mohsin Imam, Sufiyan Adam, Soumyabrata Dev, Nashreen Nesa
+Year: 2024
+Venue: Intelligent Systems with Applications
+DOI: https://doi.org/10.1016/j.iswa.2024.200333
+Paper ID: https://openalex.org/W4391774283
+
+Abstract:
+High levels of air pollutants pose significant health risks, increasing the chances of respiratory infections, lung cancer, and heart complications, particularly for those already susceptible to illness. Modern societal advancements have worsened air quality degradation, with daily activities such as transportation, industrial processes, and domestic operations releasing harmful contaminants. This study addresses the urgent need for air quality monitoring and forecasting, especially in developing nations like India, where machine learning-based prediction technologies play a crucial role in understanding environmental aspects. Our study focuses on analyzing and predicting air quality using data from two distinct areas in Kolkata—Victoria and Rabindra. Thorough pre-processing and data analysis are conducted to identify essential features and detect undermining patterns in the data. Utilizing five classic machine learning algorithms, we predict the air quality category by categorizing the predicted AQI into six AQI classes, emphasizing extensive hyper-parameter tuning for each model. The Rabindra dataset yields the best-performing Support Vector Machine (SVC) model with a 97.98% accuracy, while the best prediction accuracy for Victoria location is 93.29% from Random Forest Classifier (RFC). This study offers valuable insights into the effectiveness of machine learning algorithms for air quality prediction, with the novelty of the study lying in the focus on hyper-parameter tuning to achieve the highest accuracy.

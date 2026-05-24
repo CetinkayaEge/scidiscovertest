@@ -1,0 +1,9 @@
+Title: X‐ray structure and mechanism of ZgHAD , a l ‐2‐haloacid dehalogenase from the marine Flavobacterium Zobellia galactanivorans
+Authors: Eugénie Grigorian, Thomas Roret, Mirjam Czjzek, Catherine Leblanc, Ludovic Delage
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4540
+Paper ID: pmc_PMC9794022
+
+Abstract:
+Abstract Haloacid dehalogenases are potentially involved in bioremediation of contaminated environments and few have been biochemically characterized from marine organisms. The l ‐2‐haloacid dehalogenase ( l ‐2‐HAD) from the marine Bacteroidetes Zobellia galactanivorans Dsij T (ZgHAD) has been shown to catalyze the dehalogenation of C2 and C3 short‐chain l ‐2‐haloalkanoic acids. To better understand its catalytic properties, its enzymatic stability, active site, and 3D structure were analyzed. ZgHAD demonstrates high stability to solvents and a conserved catalytic activity when heated up to 60°C, its melting temperature being at 65°C. The X‐ray structure of the recombinant enzyme was solved by molecular replacement. The enzyme folds as a homodimer and its active site is very similar to DehRhb, the other known l ‐2‐HAD from a marine Rhodobacteraceae . Marked differences are present in the putative substrate entrance sites of the two enzymes. The H179 amino acid potentially involved in the activation of a catalytic water molecule was confirmed as catalytic amino acid through the production of two inactive site‐directed mutants. The crystal packing of 13 dimers in the asymmetric unit of an active‐site mutant, ZgHAD‐H179N, reveals domain movements of the monomeric subunits relative to each other. The involvement of a catalytic His/Glu dyad and substrate binding amino acids was further confirmed by computational docking. All together our results give new insights into the catalytic mechanism of the group of marine l ‐2‐HAD.

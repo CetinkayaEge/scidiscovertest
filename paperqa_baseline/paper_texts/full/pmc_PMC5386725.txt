@@ -1,0 +1,9 @@
+Title: Clinicalpathological and prognostic significance of survivin expression in renal cell carcinoma: a meta-analysis
+Authors: Zhichen Pu, Guang-Zhen Wu, QiFei Wang
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15082
+Paper ID: pmc_PMC5386725
+
+Abstract:
+Background In recent years, survivin expression had been investigated as a prognostic biomarker for renal cell carcinoma (RCC), however, the results were conflicting. This study was aimed to explore the association between survivin expression and clinicalpathological features and the prognostic value for cancer-specific survival (CSS) and overall survival (OS) in RCC. Results Eleven studies with 1,697 subjects were included in this meta-analysis. The results showed that survivin expression was associated with higher tumor grade (OR=4.25, 95%CI: 3.04-5.95, p<0.001), advanced tumor stage (OR=3.83, 95%CI: 2.01-7.3, p<0.001) and lymph node metastasis (OR=4.19, 95%CI: 2.34-7.52, p<0.001), but had no association with age, gender or distant metastasis. In addition, survivin expression was also correlated with poor CSS (HR=2.08, 95%CI: 1.07-4.05, p=0.032) and poor OS (HR=2.28, 95%CI: 1.57-3.33, p<0.001). Materials and Methods Literature was searched by PubMed, Embase and Web of Science. Hazard ratios (HRs) and 95% confidence intervals (95% CIs) were extracted from eligible studies. Fixed or random effects model were used to calculate pooled HRs and 95%CIs according to heterogeneity. Conclusions This study demonstrated that survivin expression was associated with more aggressive clinical features and predicted poor CSS and OS in patients with RCC.

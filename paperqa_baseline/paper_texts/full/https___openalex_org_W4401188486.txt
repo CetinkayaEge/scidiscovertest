@@ -1,0 +1,9 @@
+Title: Which discount rate for sustainability?
+Authors: Dirk Schoenmaker, Willem Schramade
+Year: 2024
+Venue: Journal of Sustainable Finance and Accounting
+DOI: https://doi.org/10.1016/j.josfa.2024.100010
+Paper ID: https://openalex.org/W4401188486
+
+Abstract:
+There is a long-standing controversy about determining the discount rate at which companies should discount the long-term benefits of sustainability investments (e.g. for climate change mitigation and adaptation). While financial capital is discounted at the standard financial discount rate, this paper argues that companies should discount social and natural capital at the social discount rate. We add a risk parameter to the social discount rate to deal with the macroeconomic risk of rare disasters. Social discount rates are typically lower than financial discount rates. So, if applied, they should lead to higher investments in social and natural capital.

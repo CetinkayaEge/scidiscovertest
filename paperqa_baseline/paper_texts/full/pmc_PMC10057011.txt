@@ -1,0 +1,9 @@
+Title: Optical Frequency Domain Reflectometry Based on Multilayer Perceptron
+Authors: Guolu Yin, Zhaohao Zhu, Min Liu, Yu Wang, Kaijun Liu, Kuanglu Yu, Tao Zhu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063165
+Paper ID: pmc_PMC10057011
+
+Abstract:
+We proposed an optical frequency domain reflectometry based on a multilayer perceptron. A classification multilayer perceptron was applied to train and grasp the fingerprint features of Rayleigh scattering spectrum in the optical fiber. The training set was constructed by moving the reference spectrum and adding the supplementary spectrum. Strain measurement was employed to verify the feasibility of the method. Compared with the traditional cross-correlation algorithm, the multilayer perceptron achieves a larger measurement range, better measurement accuracy, and is less time-consuming. To our knowledge, this is the first time that machine learning has been introduced into an optical frequency domain reflectometry system. Such thoughts and results would bring new knowledge and optimization to the optical frequency domain reflectometer system.

@@ -1,0 +1,9 @@
+Title: Unexpected polarization properties of sub-nanosized magnesium clusters †
+Authors: Stanislav K. Ignatov, Artëm E. Masunov
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra08086a
+Paper ID: pmc_PMC9890678
+
+Abstract:
+The isotropic electrostatic polarizability (IEP) of sub-nanosized magnesium clusters Mg 2 –Mg 32 was studied in an extensive set comprising 1237 structurally unique isomers. These isomers were found in the course of the global search for the potential energy surface minima of the magnesium clusters at the BP86/6-31G(d) level. The calculation of the polarizability at the same DFT level reveals an unexpected property of the IEP: the linear correlation between the polarizability of the most favorable isomers (and only them) and the cluster nuclearity n . Moreover, for each n , the most stable cluster isomer demonstrates nearly minimal IEP value among all found isomers of a given nuclearity. Surprisingly, these observed features are independent of the cluster structures which are quite different. We hypothesize that the energetic favorability of a cluster structure is related to their low polarizability. Apparently, the atoms forming the cluster tend to arrange themselves in such a way as to provide the most compact distribution of the cluster electron density. A possible explanation of the observed trends, their significance for cluster structure prediction, and the practical applications are discussed. Isotropic electrostatic polarizability (IEP) of clusters Mg n has two properties: (1) IEP of the most favorable isomers is linearly dependent on n ; (2) the most favorable clusters have nearly minimal IEP values among all other isomers of a given n .

@@ -1,0 +1,9 @@
+Title: Integration of BIM and Value Model for Sustainability Assessment for application in bridge projects
+Authors: F. Lozano, J.C. Jurado, Fidel Lozano‐Galant, Albert de la Fuente, José Turmo
+Year: 2023
+Venue: Automation in Construction
+DOI: https://doi.org/10.1016/j.autcon.2023.104935
+Paper ID: https://openalex.org/W4378070760
+
+Abstract:
+The integration of multicriteria decision-making (MCDM) methods with building information modeling (BIM) provides robust support for decision-making when assessing the sustainability of construction projects. Among the MCDM methods, the Integrated Value Model for Sustainability Assessment (MIVES) has proven to provide a representative and meaningful quantification of sustainability in different areas of civil engineering. Although previous studies have integrated BIM and MIVES, none automated the sustainability assessment process as BIM was only used to define the measurements of the MIVES indicators. This study accordingly developed a new method coupling the MIVES and BIM methodologies to realize automatic sustainability assessment of bridges. The proposed technique was validated using a real viaduct to evaluate sustainability and conduct a sensitivity analysis identifying the indicators with the most influence on sustainability performance. Critically, this methodology is not limited to the sustainability assessment of bridges as it can be readily adapted to other types of infrastructure.

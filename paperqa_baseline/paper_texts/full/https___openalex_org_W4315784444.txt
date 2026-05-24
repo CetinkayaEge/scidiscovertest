@@ -1,0 +1,9 @@
+Title: The influence of sustainable energy demands on energy efficiency: Evidence from China
+Authors: Fengsheng Chien, Lihua Huang, Wei Zhao
+Year: 2023
+Venue: Journal of Innovation & Knowledge
+DOI: https://doi.org/10.1016/j.jik.2022.100298
+Paper ID: https://openalex.org/W4315784444
+
+Abstract:
+Recently, there has been a high level of energy demand worldwide, which has piqued regulators and researchers’ interest in producing efficient energy. Therefore, this research investigates the impact of multiple energy demands on China's energy efficiency (renewable energy production). The researchers use secondary data extracted from World Development Indicators for the period 1986 to 2019. They use time series analysis techniques, such as the ADF test for stationarity, the ARDL model to evaluate the association between the variables, and the Granger causality test to evaluate the directional nexus amongst the variables. The findings show that multiple energy demands have a positive association with energy efficiency in China. Several implications and recommendations are made by the study to facilitate future research and regulation.

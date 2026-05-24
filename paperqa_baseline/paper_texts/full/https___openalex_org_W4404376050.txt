@@ -1,0 +1,9 @@
+Title: The Role of Digital Technologies in Corporate Sustainability: A Bibliometric Review and Future Research Agenda
+Authors: Sajead Mowafaq Alshdaifat, Noor Hidayah Ab Aziz, Mushtaq Yousif Alhasnawi, Esraa Esam Alharasis, Fatima Al Qadi, Hamzeh Al Amosh
+Year: 2024
+Venue: Journal of risk and financial management
+DOI: https://doi.org/10.3390/jrfm17110509
+Paper ID: https://openalex.org/W4404376050
+
+Abstract:
+This study aims to analyze trends, pioneers, emerging issues, and potential future research in the field of digital technologies such as blockchain, artificial intelligence, big data, fintech, and digital transformation for corporate sustainability. Using VOSviewer, R-studio, and BiblioMagika, this bibliometric review analyses 1251 articles published between 1995 and 2024 from the Scopus database. It highlights gaps in the knowledge and possible areas for further research in digital technologies and sustainability. Based on the findings, it can be determined that recent scholarly work has focused on topics such as digitalisation and sustainability, AI and sustainable development, blockchain and environmental technology, financial technology and green innovation, and energy policy and carbon emissions. This study is useful in helping emerging scholars identify and understand current trends in digital technologies and sustainability.

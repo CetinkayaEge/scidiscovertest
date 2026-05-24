@@ -1,0 +1,9 @@
+Title: Sustainable energy-water-food nexus integration and optimisation in eco-industrial parks
+Authors: Jamileh Fouladi, Ahmed AlNouss, Tareq Al‐Ansari
+Year: 2021
+Venue: Computers & Chemical Engineering
+DOI: https://doi.org/10.1016/j.compchemeng.2021.107229
+Paper ID: https://openalex.org/W3119113240
+
+Abstract:
+In this study, a representation of the Energy-Water-Food (EWF) nexus is developed to capture the trade-offs and synergies between sustainability dimensions within an industrial park. A unique systems approach based on thermodynamics is developed to optimise the nexus and enhance resource efficiency. The case study involves various chemical processes operating in the State of Qatar, which is evaluated to ascertain resource efficiency enhancement possibilities across various scenarios, and considers multiple objectives to capture the trade-offs between minimising the total annual cost and environmental emissions. Furthermore, a sustainability metric is applied to compute the effect of each scenario on EWF resources. In this study, there is emphasis on capturing the synergetic potential from utilising biomass from the food sector. The results indicate that the global warming potential in the best performing scenario decreases by approximately 30 %, while the exergy efficiency of the system is enhanced by 28 %.

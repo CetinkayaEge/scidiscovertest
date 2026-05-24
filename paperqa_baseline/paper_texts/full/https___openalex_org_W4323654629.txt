@@ -1,0 +1,9 @@
+Title: Meticulous integration of N and C active sites in Ni2P electrocatalyst for sustainable ammonia oxidation and efficient hydrogen production
+Authors: Chanmin Jo, Subramani Surendran, Min Cheol Kim, Tae‐Yong An, Yoongu Lim, Hyeonuk Choi, Gnanaprakasam Janani, Sebastian Cyril Jesudass, Dae Jun Moon, Jaekyum Kim, Joon Young Kim, Chang Hyuck Choi, Myeongjin Kim, Jung Kyu Kim, Uk Sim
+Year: 2023
+Venue: Chemical Engineering Journal
+DOI: https://doi.org/10.1016/j.cej.2023.142314
+Paper ID: https://openalex.org/W4323654629
+
+Abstract:
+Ammonia, as an efficient hydrogen carrier, is emerging as an alternative energy resource to replace fossil fuels in the carbon–neutral era. Hydrogen production by water electrolysis seeks a lower potential dependent anodic reaction to overcome its energy-inefficiency that originates from the high potential anodic oxygen evolution reaction (OER). In this work, nickel phosphide supported on nitrogen doped-carbon (Ni2P@N-C) was prepared by one-pot synthesis for the bifunctional activity of hydrogen evolution (HER) and ammonia oxidation (AOR) reactions. The Ni2P@N-C electrocatalyst exhibits about 78% decomposition of ammonia compared to the initial concentration. The amount of hydrogen generated in a 0.5 M ammonia environment for 30 min is about 2.144 mmol(H2)/mol(NH3) h cm2. The fabricated ammonia electrolysis cell demonstrates a comparatively low energy consumption rate of 8.611 KWHkg(H2)−1. Thus, engineering a bifunctional electrocatalyst for a low potential anode oxidation reaction and the cathodic HER is a promising strategy to fabricate an energy efficient electrolysis cell for hydrogen production with a low cell potential requirement.

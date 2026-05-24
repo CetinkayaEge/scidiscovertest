@@ -1,0 +1,9 @@
+Title: Key Challenges to Sustainable Humanitarian Supply Chains: Lessons from the COVID-19 Pandemic
+Authors: Koppiahraj Karuppiah, Bathrinath Sankaranarayanan, Syed Mithun Ali, Sanjoy Kumar Paul
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13115850
+Paper ID: https://openalex.org/W3165874167
+
+Abstract:
+COVID-19 has had a major impact on health, economic, social, and industrial activities. It has disrupted supply chain management and affected the movement of essential supplies to a large extent. This study aims to identify and evaluate the challenges hampering sustainable humanitarian supply chain management (SHSCM). Twenty critical challenges to SHSCM are identified using a comprehensive literature review, and three strategies were developed. The challenges and strategies were verified using expert input. The challenges were evaluated using the neutrosophic analytic hierarchical process (AHP) method. The neutrosophic TODIM (an acronym in Portuguese for interactive multicriteria decision making) method was then used to select the best strategy. The findings reveal that facility location problems, short lead times for emergency supplies, spread of rumors, rapid emergence of new clusters, and doubt concerning the available remedy are five critical challenges in SHSCM during COVID-19. Public–private partnerships are identified as the best strategy in SHSCM. Finally, this paper discusses the implications to sustainable development goals in the post-COVID-19 pandemic era.

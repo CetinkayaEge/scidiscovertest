@@ -1,0 +1,9 @@
+Title: Advancements in Artificial Intelligence-Based Decision Support Systems for Improving Construction Project Sustainability: A Systematic Literature Review
+Authors: Craig John Smith, Andy T.C. Wong
+Year: 2022
+Venue: Informatics
+DOI: https://doi.org/10.3390/informatics9020043
+Paper ID: https://openalex.org/W4280517961
+
+Abstract:
+This paper aims at evaluating the current state of research into artificial intelligence (AI)-based decision support systems (DSS) for improving construction project sustainability. The literature was systematically reviewed to explore the use of AI in the construction project lifecycle together with the consideration of the economic, environmental, and social goals of sustainability. A total of 2688 research papers were reviewed, and 77 papers were further analyzed, and the major tasks of the DSSs were categorized. Our review results suggest that the main research stream is dedicated to early-stage project prediction (50% of all papers), with artificial neural networks (ANNs) and fuzzy logic (FL) being the most popular AI algorithms in use. Hybrid AI models were used in 46% of all studies. The goal for economic sustainability is the most considered in research, with 87% of all papers considering this goal, and there is evidence given of a trend towards the environmental and social goals of sustainability receiving increasing attention throughout the latter half of the decade.

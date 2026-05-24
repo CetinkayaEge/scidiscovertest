@@ -1,0 +1,9 @@
+Title: The impact of land transfer policy on sustainable agricultural development in China
+Authors: Congjia Huo, Lingming Chen
+Year: 2024
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-024-57284-8
+Paper ID: https://openalex.org/W4393163492
+
+Abstract:
+At present, China's agricultural development presents problems such as increasingly tight constraints on water and soil resources, increased pollution in the process of agricultural production, and noticeable degradation of agricultural ecosystems. So, it is urgent to promote the sustainable development of agriculture. From the perspective of land transfer policy, based on the panel data of 30 regions in China from 2006 to 2020, this paper uses the entropy weight method to calculate the level of sustainable agricultural development. Based on the analysis of the impact mechanism of land transfer policy on sustainable agricultural development, the relationship between land transfer policy and sustainable agricultural development is empirically tested by the continuous difference-in-difference method. The study found that the overall level of sustainable agricultural development in China is relatively low but shows an upward trend. The land transfer policy significantly promoted the sustainable development of agriculture in China. This conclusion is still valid after a series of validity tests and robustness tests. Finally, the corresponding policy suggestions are put forward according to the theoretical analysis and empirical results. Future research will focus on indicators challenging to quantify in agricultural sustainable development and find effective methods to incorporate them into the indicator system. At the same time, find the data of Prefecture-level cities in major grain-producing areas and further improve the measurement and research of agricultural sustainable development.

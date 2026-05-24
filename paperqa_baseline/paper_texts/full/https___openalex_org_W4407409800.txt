@@ -1,0 +1,9 @@
+Title: A Comprehensive Review of Multi-criteria Decision-making (MCDM) Toward Sustainable Renewable Energy Development
+Authors: Sushil Kumar Sahoo, Bibhuti Bhusan Choudhury, Prasant Ranjan Dhal, Manindra Singh Hanspal
+Year: 2025
+Venue: Spectrum of Operational Research.
+DOI: https://doi.org/10.31181/sor21202527
+Paper ID: https://openalex.org/W4407409800
+
+Abstract:
+The transition to sustainable renewable energy necessitates robust decision-making frameworks that integrate economic, environmental, and social considerations. Multi-Criteria Decision-Making (MCDM) methods have become vital for optimizing energy planning and policy formulation. This review systematically examines MCDM applications in sustainable renewable energy from 2015 to 2025 using bibliometric analysis. Data were sourced from 4,101 UGC CARE List II research papers indexed in Scopus and Web of Science via the Dimensions.ai database, applying predefined inclusion and exclusion criteria. The study identifies key trends, methodological advancements, and research gaps, highlighting the increasing adoption of hybrid MCDM approaches. Despite progress, challenges such as subjective weight assignment and model uncertainties remain. The review underscores influential contributions, assesses methodological limitations, and explores MCDM models. Future research should focus on model transparency, standardized criteria selection, and real-world applications, offering insights for policymakers, researchers, and industry stakeholders to enhance sustainable energy decision-making.

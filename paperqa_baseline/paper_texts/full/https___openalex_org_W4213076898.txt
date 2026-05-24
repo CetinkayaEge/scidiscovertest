@@ -1,0 +1,9 @@
+Title: Thermally triggered self-healing epoxy coating towards sustained anti-corrosion
+Authors: Binbin Zhang, Hao Fan, Weichen Xu, Jizhou Duan
+Year: 2022
+Venue: Journal of Materials Research and Technology
+DOI: https://doi.org/10.1016/j.jmrt.2022.02.041
+Paper ID: https://openalex.org/W4213076898
+
+Abstract:
+Cracks and mechanical damages are unavoidable during the real-world application of protective epoxy coatings, resulting in localized failure, corrosion attack, and potential safety hazards. Herein, 2-aminophenyl disulfide (APD) was used as a hardener for the design and construction of a novel self-healing epoxy coating (EAPD coating) to recover the micro-scale mechanical scratches. The optical spectroscopy, X-ray photoelectron spectroscopy (XPS), Fourier transform infrared spectra (FTIR) and electrochemical impedance spectroscopy (EIS) were employed to investigate the macro-micro surface morphologies, chemical compositions, self-healing behaviors, and corrosion resisting properties of the scratch-damaged and scratch-healed EAPD coatings. Due to disulfide-mediated radical exchanges and S–S bonds rearrangement, the developed EAPD coating exhibits superior thermally-triggered self-healing performance with mechanical scratches completely self-repaired after 20 min at 80 °C and sustainable recovered corrosion resistance. The created self-healing EAPD coating is thought to provide a new design strategy for the development of smart and multi-functional protective coating materials with intriguing properties.

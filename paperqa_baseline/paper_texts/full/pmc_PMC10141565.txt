@@ -1,0 +1,9 @@
+Title: How Regiochemistry Influences Aggregation Behavior and Charge Transport in Conjugated Organosulfur Polymer Cathodes for Lithium–Sulfur Batteries
+Authors: Yannik Schütze, Diptesh Gayen, Karol Palczynski, Ranielle de Oliveira Silva, Yan Lu, Michael Tovar, Pouya Partovi-Azar, Annika Bande, Joachim Dzubiella
+Year: 2023
+Venue: ACS Nano
+DOI: 10.1021/acsnano.3c01523
+Paper ID: pmc_PMC10141565
+
+Abstract:
+For lithium–sulfur (Li–S) batteries to become competitive, they require high stability and energy density. Organosulfur polymer-based cathodes have recently shown promising performance due to their ability to overcome common limitations of Li–S batteries, such as the insulating nature of sulfur. In this study, we use a multiscale modeling approach to explore the influence of the regiochemistry of a conjugated poly(4-(thiophene-3-yl)benzenethiol) (PTBT) polymer on its aggregation behavior and charge transport. Classical molecular dynamics simulations of the self-assembly of polymer chains with different regioregularity show that a head-to-tail/head-to-tail regularity can form a well-ordered crystalline phase of planar chains allowing for fast charge transport. Our X-ray diffraction measurements, in conjunction with our predicted crystal structure, confirm the presence of crystalline phases in the electropolymerized PTBT polymer. We quantitatively describe the charge transport in the crystalline phase in a band-like regime. Our results give detailed insights into the interplay between microstructural and electrical properties of conjugated polymer cathode materials, highlighting the effect of polymer chain regioregularity on its charge transport properties.

@@ -1,0 +1,9 @@
+Title: Smart Contracts for Sustainable Supply Chain Management: Conceptual Frameworks for Supply Chain Maturity Evaluation and Smart Contract Sustainability Assessment
+Authors: Wolfram Groschopf, Mario Dobrovnik, Christian Herneth
+Year: 2021
+Venue: Frontiers in Blockchain
+DOI: https://doi.org/10.3389/fbloc.2021.506436
+Paper ID: https://openalex.org/W3154926564
+
+Abstract:
+Current research on smart contracts focuses on technical, conceptual, and legal aspects but neglects organizational requirements and sustainability impacts. We consider this a significant research gap and explore the relationship between smart contracts and sustainability in supply chains. First, we define the concept of smart contracts in terms of supply chain management. Then, we conduct a content analysis of the literature to explore the overlapping research fields of smart contracts and sustainability in supply chains. Next, we develop a semi-structured assessment framework to model the potential environmental and social impacts induced by smart contracts on supply chains. We propose a conceptual framework for supply chain maturity by mapping the relationships between organizational development, sustainability, and technology. We identify smart contracts as a foundational technology that enables efficient and transparent governance and collaborative self-coordination of human and non-human actors. Thus, we argue that smart contracts can contribute to the economic and social development of networked value chains and Society 5.0. To stimulate interdisciplinary research on smart contracts, we conclude the article by formulating research propositions and trade-offs for smart contracts in the context of technology development, business process and supply chain management, and sustainability.

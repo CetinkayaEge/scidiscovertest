@@ -1,0 +1,9 @@
+Title: Study on Modelling Method of Resilient Mat Used under Floating Slab Track
+Authors: Zhuosheng Xu, Xiaojing Sun, Chang Qiao, Tingting Wang, Meng Ma
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083078
+Paper ID: pmc_PMC10141997
+
+Abstract:
+Kelvin’s model is widely used to simulate the dynamic characteristic of a resilient mat under a slab track. To develop an effective calculation model for a resilient mat using a solid element, a three-parameter viscoelasticity model (3PVM) was employed. With the help of the user-defined material mechanical behavior, the proposed model was implemented in software ABAQUS. To validate the model, a laboratory test was performed on a slab track with a resilient mat. Then, a finite element model of the track-tunnel-soil system was built. The calculation results using the 3PVM was compared with those using Kelvin’s model and the test results. The results indicate that the 3PVM can better reflect the dynamic characteristics of resilient mat than Kelvin’s model, especially over 10 Hz. Compared with the test results, the 3PVM has an average error of 2.7 dB and a max error of 7.9 dB at 5 Hz.

@@ -1,0 +1,9 @@
+Title: Line-Based Registration of Panoramic Images and LiDAR Point Clouds for Mobile Mapping
+Authors: Tingting Cui, Shunping Ji, Jie Shan, Jianya Gong, Kejian Liu
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010070
+Paper ID: pmc_PMC5298643
+
+Abstract:
+For multi-sensor integrated systems, such as the mobile mapping system (MMS), data fusion at sensor-level, i.e., the 2D-3D registration between an optical camera and LiDAR, is a prerequisite for higher level fusion and further applications. This paper proposes a line-based registration method for panoramic images and a LiDAR point cloud collected by a MMS. We first introduce the system configuration and specification, including the coordinate systems of the MMS, the 3D LiDAR scanners, and the two panoramic camera models. We then establish the line-based transformation model for the panoramic camera. Finally, the proposed registration method is evaluated for two types of camera models by visual inspection and quantitative comparison. The results demonstrate that the line-based registration method can significantly improve the alignment of the panoramic image and the LiDAR datasets under either the ideal spherical or the rigorous panoramic camera model, with the latter being more reliable.

@@ -1,0 +1,9 @@
+Title: Promotion of Ni 2+ Removal by Masking Toxicity to Sulfate-Reducing Bacteria: Addition of Citrate
+Authors: Junwei Qian, Xiaoyu Zhu, Yong Tao, Yan Zhou, Xiaohong He, Daping Li
+Year: 2015
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms16047932
+Paper ID: pmc_PMC4425059
+
+Abstract:
+The sulfate-reducing bioprocess is a promising technology for the treatment of heavy metal-containing wastewater. This work was conducted to investigate the possibility of promoting heavy metal removal by the addition of citrate to mask Ni 2+ toxicity to sulfate-reducing bacteria (SRB) in batch reactors. SRB growth was completely inhibited in Ni 2+ -containing medium (1 mM) when lactate served as the sole carbon resource, leading to no sulfate reduction and Ni 2+ removal. However, after the addition of citrate, SRB grew well, and sulfate was quickly reduced to sulfide. Simultaneously, the Ni-citrate complex was biodegraded to Ni 2+ and acetate. The NiS precipitate was then formed, and Ni 2+ was completely removed from the solution. It was suggested that the addition of citrate greatly alleviates Ni 2+ toxicity to SRB and improves the removal of Ni 2+ , which was confirmed by quantitative real-time PCR targeting dissimilatory sulfite reductase (dsrAB) genes. Analysis of the carbon metabolism indicated that lactate instead of acetate served as the electron donor for sulfate reduction. This study offers a potential approach to increase the removal of heavy metals from wastewater in the single stage SRB-based bioprocess.

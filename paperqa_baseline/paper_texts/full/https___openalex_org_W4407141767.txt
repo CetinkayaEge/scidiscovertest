@@ -1,0 +1,9 @@
+Title: Sustainable hybrid systems for electric vehicle charging infrastructures in regional applications
+Authors: Aykut Fatih Güven, Nilya Ateş, Saud Alotaibi, Thabet Alzahrani, Amare Merfo Amsal, Salah K. Elsayed
+Year: 2025
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-025-87985-7
+Paper ID: https://openalex.org/W4407141767
+
+Abstract:
+Increasing greenhouse gas (GHG) emissions and environmental issues have heightened the demand for renewable energy sources (RES) and prompted a swift transition to electric vehicles (EVs) in the transportation sector. This shift underscores the need to address the challenges of electricity supply and continuity for electric vehicle charging stations (EVCS). This study aims to determine the most suitable hybrid systems to ensure the electricity supply to EVCSs in the Çukurova region of Adana, Turkey. Six different scenarios involving components such as photovoltaic (PV) panel, wind turbine (WT), biomass generators (BG), electrolyzer (Elz), hydrogen tank (HT), fuel cell (FC), batteries (Bat), inverter (Inv), and the grid were analyzed using HOMER Pro microgrid analysis tool version 3.14.2 software. The optimization results indicated that the most feasible system was Scenario 4, comprising the PV, BG, Elz, HT, FC, Inv, and grid components. This scenario's total net present cost (NPC) was $611,283.50, with a levelized cost of energy (LCOE) of $0.0215. The annual energy production and consumption were 1,507,169 kWh and 1,420,714 kWh, respectively. The fact that the energy generated from exceeds the energy sourced from the grid reduces the payback period of the system. These findings highlight the economic and sustainable potential of renewable hybrid systems for enhancing the performance of EVCS in solar-rich regions.

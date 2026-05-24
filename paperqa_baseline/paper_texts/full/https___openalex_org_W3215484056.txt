@@ -1,0 +1,9 @@
+Title: Spread Analysis of the Sustainability-Linked Bonds Tied to an Issuer’s Greenhouse Gases Emissions Reduction Target
+Authors: Marcin Liberadzki, Piotr Jaworski, Kamil Liberadzki
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14237918
+Paper ID: https://openalex.org/W3215484056
+
+Abstract:
+Sustainability-Linked Bonds (SLBs) are a new type of general corporate purpose bond in which payments are tied to an issuer’s sustainability key performance indicators (KPIs) with respect to the environmental, social, and governance (ESG) criteria. The structure is complementary to green bonds. The Tesco SLBs are linked to the firm’s ability to cut its greenhouse gas emissions by 60%. The priority is to reduce its reliance on nonrenewable grid electricity, which contributed 65% of Tesco’s global carbon emissions footprint. Tesco accounts for 1% of electricity demand in the UK. Failure to meet the goals will result in a coupon step-up by 25 basis points on the last three coupons. The aim of our study is to investigate the presence of, how we call it ‘ESG spread’, marked by negative yield difference between SLB and regular bonds. It is something similar to ‘greenium’, that is, a premium paid by bondholders for green bonds when compared to nongreen bonds. We compare the bid and ask yields of SLBs with the interpolated yields, calculated for the yields of Tesco and Carrefour notes. Then, we look into the SLB yields in coupon step-up scenario to answer the question if the issuer’s failure to keep up with KPIs results in changing of ESG spread from negative to positive.

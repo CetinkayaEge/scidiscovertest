@@ -1,0 +1,9 @@
+Title: Sustainability of Rewards-Based Crowdfunding: A Quasi-Experimental Analysis of Funding Targets and Backer Satisfaction
+Authors: Michael Wessel, Rob Gleasure, Robert J. Kauffman
+Year: 2021
+Venue: Journal of Management Information Systems
+DOI: https://doi.org/10.1080/07421222.2021.1987622
+Paper ID: https://openalex.org/W3217209304
+
+Abstract:
+Rewards-based crowdfunding presents an information asymmetry for participants due to the funding mechanism used. Campaign-backers trust creators to complete projects and deliver rewards as outlined prior to the fundraising process, but creators may discover better opportunities as they progress with a project. Despite this, the all-or-nothing (AON) mechanism on crowdfunding platforms incentivizes creators to set meager funding-targets that are easier to achieve but may offer limited slack when creators wish to simultaneously pursue emerging opportunities later in the project. We explore the related issues of how funding targets seem to be selected by the creators, and how dissatisfaction with the rewards outcomes may arise for the backers. We constructed a quasi-experimental (QE) research design based on an extensive dataset from Kickstarter with nearly 390,000 campaigns. Our findings show that creators who set particularly meager funding-targets for their campaigns are more likely to receive sufficient funds but are less likely to satisfy backers with the project outcomes they deliver. We also test the moderating roles of creator and campaign characteristics. Overall, this study provides evidence that the funding mechanism used in rewards-based crowdfunding may be unsustainable in its current form, unless new mechanisms are introduced to realign the diverging incentives for creators and backers.

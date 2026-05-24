@@ -1,0 +1,9 @@
+Title: Unlocking sustainable futures: Exploring the non-linear linkages between green finance and environmental sustainability in developing countries
+Authors: Raazia Gul, Shahzad Hussain
+Year: 2024
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2024.122971
+Paper ID: https://openalex.org/W4403632568
+
+Abstract:
+In an era characterized by growing environmental concerns and the urgent call for climate action, the role of green finance in addressing ecological sustainability has become a subject of paramount importance. Owing to this need, the current study examines the nonlinear relationship between green finance and environmental sustainability in 51 developing countries from 2000 to 2022. We employ various advanced panel estimation techniques, including Driscoll-Kraay standard errors (D-K), Feasible generalized least squares (FGLS), Generalized linear model (GLM), and System GMM to examine the long-run impact of this association. The results are further validated using a unique bootstrap quantile approach as a robustness check. We find a nonlinear inverted U-shaped relationship between green finance and environmental sustainability. We extend our analysis to lower-income and lower-middle-income countries and see that this nexus is stronger in middle-income countries than lower-income ones. Our findings also confirm the green finance based-EKC across the sub-samples of lower- and lower-middle-income countries. We also document that this nonlinear relationship is weak during the COVID-19 pandemic. This underscores the complexity of the investigated nexus, emphasizing the need for tailored strategies to foster a sustainable environment in developing economies.

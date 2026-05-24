@@ -1,0 +1,9 @@
+Title: Category-sensitive incidental reinstatement in medial temporal lobe subregions during word recognition
+Authors: Heidrun Schultz, Tobias Sommer, Jan Peters
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053553.121
+Paper ID: pmc_PMC9053111
+
+Abstract:
+During associative retrieval, the brain reinstates neural representations that were present during encoding. The human medial temporal lobe (MTL), with its subregions hippocampus (HC), perirhinal cortex (PRC), and parahippocampal cortex (PHC), plays a central role in neural reinstatement. Previous studies have given compelling evidence for reinstatement in the MTL during explicitly instructed associative retrieval. High-confident recognition may be similarly accompanied by recollection of associated information from the encoding context. It is unclear, however, whether high-confident recognition memory elicits reinstatement in the MTL even in the absence of an explicit instruction to retrieve associated information. Here, we addressed this open question using high-resolution fMRI. Twenty-eight male and female human volunteers engaged in a recognition memory task for words that they had previously encoded together with faces and scenes. Using complementary univariate and multivariate approaches, we show that MTL subregions including the PRC, PHC, and HC differentially reinstate category-sensitive representations during high-confident word recognition, even though no explicit instruction to retrieve the associated category was given. This constitutes novel evidence that high-confident recognition memory is accompanied by incidental reinstatement of associated category information in MTL subregions, and supports a functional model of the MTL that emphasizes content-sensitive representations during both encoding and retrieval.

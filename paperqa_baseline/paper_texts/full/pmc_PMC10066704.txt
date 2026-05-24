@@ -1,0 +1,9 @@
+Title: Effects of High-Fat Diet on Cardiovascular Protein Expression in Mice Based on Proteomics
+Authors: Xiaoyu Pan, Xueqing Zhang, Jiangli Ban, Lin Yue, Lin Ren, Shuchun Chen
+Year: 2023
+Venue: Diabetes, Metabolic Syndrome and Obesity
+DOI: 10.2147/DMSO.S405327
+Paper ID: pmc_PMC10066704
+
+Abstract:
+Purpose To investigate the effect of high-fat diet on protein expression in mouse heart and aorta using proteomic techniques. Methods A high-fat diet was used to construct an obese mouse model, and body weight was checked regularly. After the experiment, serum lipid and oxidative stress levels were measured. Proteomic detection of cardiac and aortic protein expression. Cardiac and aortic common differentially expressed proteins (Co-DEPs) were screened based on proteomic results. Subsequently, functional enrichment analysis and screening of key proteins were performed. Results A high-fat diet significantly increased body weight in mice. Obese mice had considerably higher levels of TC, TG, LDL-C, ROS, and MDA. In the heart and aorta, 17 Co-DEPs were discovered. The results of functional analysis of these proteins indicated that they were mainly related to lipid metabolism. Ech1, Decr1, Hsd17b4, Hsdl2 and Acadvl were screened as key proteins. In mice, a high-fat diet causes lipid metabolism to become disrupted, resulting in higher levels of oxidative stress and lipid peroxidation products. Conclusion Ech1, Decr1, Hsd17b4, Hsdl2 and Acadvl as cardiac and aortic Co-DEPs are closely related to lipid metabolism and may serve as potential diagnostic and therapeutic targets for obesity-induced cardiovascular disease.

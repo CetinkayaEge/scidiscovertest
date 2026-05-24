@@ -1,0 +1,9 @@
+Title: Firms’ sustainability, financial performance, and regulatory dynamics: Evidence from European firms
+Authors: Maria‐Eleni K. Agoraki, Maria Giaka, Dimitrios Konstantios, Victoria Patsika
+Year: 2022
+Venue: Journal of International Money and Finance
+DOI: https://doi.org/10.1016/j.jimonfin.2022.102785
+Paper ID: https://openalex.org/W4310859771
+
+Abstract:
+This study examines the association between firms’ ESG reputational risk and financial performance under the EU regulatory policy changes and the COVID-19 period. Analyzing a panel of 1,816 European listed firms during the period 2007–2021, we document evidence that firms with lower ESG reputational risk have reduced information asymmetry, are less financial constrained and perform better. To establish causality, we design a quasi-natural experiment focusing on the 2014/95/EU directive of non-financial disclosing and the COVID-19 exogenous shock. Our findings are robust to several estimation techniques that address endogeneity, self-selection, and model sensitivity.

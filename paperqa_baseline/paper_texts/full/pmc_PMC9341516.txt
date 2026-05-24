@@ -1,0 +1,9 @@
+Title: Cell cycle arrest explains the observed bulk 3D genomic alterations in response to long-term heat shock in K562 cells
+Authors: Bingxiang Xu, Xiaomeng Gao, Xiaoli Li, Yan Jia, Feifei Li, Zhihua Zhang
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276554.122
+Paper ID: pmc_PMC9341516
+
+Abstract:
+Heat shock is a common environmental stress, although the response of the nucleus to it remains controversial in mammalian cells. Acute reaction and chronic adaptation to environmental stress may have distinct internal rewiring in the gene regulation networks. However, this difference remains largely unexplored. Here, we report that chromatin conformation and chromatin accessibility respond differently in short- and long-term heat shock in human K562 cells. We found that chromatin conformation in K562 cells was largely stable in response to short-term heat shock, whereas it showed clear and characteristic changes after long-term heat treatment with little alteration in chromatin accessibility during the whole process. We further show in silico and experimental evidence strongly suggesting that changes in chromatin conformation may largely stem from an accumulation of cells in the M stage of the cell cycle in response to heat shock. Our results represent a paradigm shift away from the controversial view of chromatin response to heat shock and emphasize the necessity of cell cycle analysis when interpreting bulk Hi-C data.

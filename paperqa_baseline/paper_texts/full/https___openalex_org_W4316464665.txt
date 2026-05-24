@@ -1,0 +1,9 @@
+Title: Balanced Spider Monkey Optimization with Bi-LSTM for Sustainable Air Quality Prediction
+Authors: C. Aarthi, Varatharaj Jeya Ramya, Przemysław Falkowski‐Gilski, Parameshachari Bidare Divakarachari
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15021637
+Paper ID: https://openalex.org/W4316464665
+
+Abstract:
+A reliable air quality prediction model is required for pollution control, human health monitoring, and sustainability. The existing air quality prediction models lack efficiency due to overfitting in prediction model and local optima trap in feature selection. This study proposes the Balanced Spider Monkey Optimization (BSMO) technique for effective feature selection to overcome the local optima trap and overfitting problems. The air quality prediction data were collected from the Central Pollution Control Board (CPCB) from four cities in India: Bangalore, Chennai, Hyderabad, and Cochin. Normalization is performed using Min-Max Normalization and fills the missing values in the dataset. A Convolutional Neural Network (CNN) is applied to provide deep representation of the input dataset. The BSMO technique selects the relevant features based on the balancing factor and provides the relevant features for the Bi-directional Long Short-Term Memory (Bi-LSTM) model. The Bi-LSTM model provides the time series prediction of air quality for four cities. The BSMO model obtained higher feature selection performance compared to existing techniques in air quality prediction. The BSMO-BILSTM model obtained 0.318 MSE, 0.564 RMSE, and 0.224 MAE, whereas Attention LSTM reached 0.699 MSE, 0.836 RMSE, and 0.892 MAE. Our solution may be of particular interest to various governmental and non-governmental institutions focused on maintaining high Quality of Life (QoL) on the local or state level.

@@ -1,0 +1,9 @@
+Title: The Trends and Content of Research Related to the Sustainable Development Goals: A Systemic Review
+Authors: Shin-Cheng Yeh, Yi‐Lin Hsieh, Hui-Ching Yu, Yuen‐Hsien Tseng
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app12136820
+Paper ID: https://openalex.org/W4284681716
+
+Abstract:
+This study employed a comprehensive systematic review of the literature (SRL) process with the Content Analysis Toolkits for Academic Research (CATAR) for conducting a bibliometric analysis of the 2814 general SDG-related papers and 92 review papers selected from the Web of Science database from 2013 to 2022. The overview analysis found that the US and UK took the lead in publication and citation. The WHO and several universities were identified as the most prominent institutes around the globe. The field distribution of the most cited papers revealed the existence of a “strong sustainability” paradigm and the importance of science and technology. A landscape of 1123 papers was included in eight clusters according to the bibliographic coupling algorithms in the Multi-stage Document Clustering (MSDC) process. These clusters were then categorized into three groups, “synergies and trade-offs”, “networking”, and “systems analysis”, demonstrated in the theme maps. As for the 92 SDG-related review papers, most were shaped based on literature analysis without specified countries. Moreover, SDG 3 was identified as that exclusively studied in most papers. The information presented is expected to help research scholars, public sectors, and practitioners monitor, gather, check, analyze, and use the growing volume of SDG-related academic articles.

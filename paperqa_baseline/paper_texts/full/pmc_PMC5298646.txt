@@ -1,0 +1,9 @@
+Title: Evaluation of Surface Cleaning Procedures in Terms of Gas Sensing Properties of Spray-Deposited CNT Film: Thermal- and O 2 Plasma Treatments
+Authors: Joon Hyub Kim, Min-Jung Song, Ki Beom Kim, Joon-Hyung Jin, Nam Ki Min
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010073
+Paper ID: pmc_PMC5298646
+
+Abstract:
+The effect of cleaning the surface of single-walled carbon nanotube (SWNT) networks by thermal and the O 2 plasma treatments is presented in terms of NH 3 gas sensing characteristics. The goal of this work is to determine the relationship between the physicochemical properties of the cleaned surface (including the chemical composition, crystal structure, hydrophilicity, and impurity content) and the sensitivity of the SWNT network films to NH 3 gas. The SWNT networks are spray-deposited on pre-patterned Pt electrodes, and are further functionalized by heating on a programmable hot plate or by O 2 plasma treatment in a laboratory-prepared plasma chamber. Cyclic voltammetry was employed to semi-quantitatively evaluate each surface state of various plasma-treated SWNT-based electrodes. The results show that O 2 plasma treatment can more effectively modify the SWNT network surface than thermal cleaning, and can provide a better conductive network surface due to the larger number of carbonyl/carboxyl groups, enabling a faster electron transfer rate, even though both the thermal cleaning and the O 2 plasma cleaning methods can eliminate the organic solvent residues from the network surface. The NH 3 sensors based on the O 2 plasma-treated SWNT network exhibit higher sensitivity, shorter response time, and better recovery of the initial resistance than those prepared employing the thermally-cleaned SWNT networks.

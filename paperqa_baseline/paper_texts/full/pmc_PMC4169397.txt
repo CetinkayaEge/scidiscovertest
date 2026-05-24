@@ -1,0 +1,9 @@
+Title: Endostar, a Modified Recombinant Human Endostatin, Suppresses Angiogenesis through Inhibition of Wnt/β-Catenin Signaling Pathway
+Authors: Xiaoming Xu, Wei Mao, Qian Chen, Qin Zhuang, Lihui Wang, Jin Dai, Haibing Wang, Zhaoquan Huang
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107463
+Paper ID: pmc_PMC4169397
+
+Abstract:
+Endostar, a novel modified recombinant human endostatin, is now widely studied for the treatment of diseases that are characterized or caused by pathological angiogenesis. However, its molecular mechanism remains unclear. In this study, we investigated the effects of Endostar on the Wnt/β-catenin signaling pathway, which has emerged as an important aspect of angiogenesis. We showed that Endostar significantly inhibited the proliferation, migration, invasion, and capillary-like tube formation of human umbilical vascular endothelial cells in a dose-dependent manner. Using a luciferase reporter assay, we also demonstrated that Endostar suppressed β-catenin-dependent T cell factor transcriptional activity in increasing doses. Moreover, we found that Endostar treatment also restricted the stabilized mutant β-catenin-mediated increase in transcriptional activity, suggesting that Endostar exerts its inhibitory influence on Wnt/β-catenin signaling by targeting β-catenin or its downstream molecules. Western blot and immunofluorescence results revealed that Endostar significantly decreased nuclear and total β-catenin levels. Finally, we discovered that Endostar down-regulated cyclin D1 and VEGF, two proteins that are known as the downstream targets of Wnt/β-catenin signaling and that also play important roles in angiogenesis. Our findings suggested that Endostar inhibits angiogenesis and that the downregulation of the Wnt/β-catenin signaling pathway may be involved in the inhibition of angiogenesis by Endostar. These results support the use of Endostar in further clinical applications.

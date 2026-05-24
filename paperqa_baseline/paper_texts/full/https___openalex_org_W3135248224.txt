@@ -1,0 +1,9 @@
+Title: Combining Electrocatalysts and Biobased Adsorbents for Sustainable Denitrification
+Authors: Zili Ma, Matthias Klimpel, Serhiy Budnyk, Anna Rokicińska, Piotr Kuśtrowski, Richard Dronskowski, Aji P. Mathew, Tetyana M. Budnyak, Adam Slabon
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.0c07807
+Paper ID: https://openalex.org/W3135248224
+
+Abstract:
+Efficient treatment of domestic and industrial wastewater is one of the major challenges of the 21st century.Among the inorganic pollutants, nitrogen species are significant contaminants and the management of the nitrogen cycle is one the most crucial parts of wastewater purification.Herein, we report an integrated method that minimizes the amount of chemicals used, can be empowered by renewable energy, uses renewables materials for ammonia recovery, and is scalable.Complete denitrification of wastewater was achieved by combining electrochemical and adsorption treatment for real wastewater samples from the Stockholm water pilot plant.About 98% of nitrate was selectively converted to ammonia over abundant copper electrocatalysts in the presence of Na 2 SO 4supporting electrolyte at -0.6 V vs reversible hydrogen electrode (RHE) within 3 h.The valorized nitrate in the form of ammonia could be recovered by means of cheap kraft lignin-SiO 2 sorbents to achieve total denitrification.The presented method is economically feasible, scalable, and contributes to sustainable recycling within a circular economy.

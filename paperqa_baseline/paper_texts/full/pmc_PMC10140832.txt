@@ -1,0 +1,9 @@
+Title: Synthesis of Bis(amino acids) Containing the Styryl-cyclobutane Core by Photosensitized [2+2]-Cross-cycloaddition of Allylidene-5(4 H )-oxazolones
+Authors: Sonia Sierra, David Dalmau, Juan V. Alegre-Requena, Alexandra Pop, Cristian Silvestru, Maria Luisa Marín, Francisco Boscá, Esteban P. Urriolabeitia
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087583
+Paper ID: pmc_PMC10140832
+
+Abstract:
+The irradiation of 2-aryl-4-( E -3′-aryl-allylidene)-5(4 H )-oxazolones 1 with blue light (456 nm) in the presence of [Ru(bpy) 3 ](BF 4 ) 2 (bpy = 2,2′-bipyridine, 5% mol) gives the unstable cyclobutane-bis(oxazolones) 2 by [2+2]-photocycloaddition of two oxazolones 1 . Each oxazolone contributes to the formation of 2 with a different C=C bond, one of them reacting through the exocyclic C=C bond, while the other does so through the styryl group. Treatment of unstable cyclobutanes 2 with NaOMe/MeOH produces the oxazolone ring opening reaction, affording stable styryl-cyclobutane bis(amino acids) 3 . The reaction starts with formation of the T 1 excited state of the photosensitizer 3 [Ru*(bpy) 3 ] 2+ , which reacts with S 0 of oxazolones 1 through energy transfer to give the oxazolone T 1 state 3 (oxa*)- 1 , which is the reactive species and was characterized by transient absorption spectroscopy. Measurement of the half-life of 3 (oxa*)- 1 for 1a , 1b and 1d shows large values for 1a and 1b (10–12 μs), while that of 1d is shorter (726 ns). Density functional theory (DFT) modeling displays strong structural differences in the T 1 states of the three oxazolones. Moreover, study of the spin density of T 1 state 3 (oxa*)- 1 provides clues to understanding the different reactivity of 4-allylidene-oxazolones described here with respect to the previously reported 4-arylidene-oxazolones.

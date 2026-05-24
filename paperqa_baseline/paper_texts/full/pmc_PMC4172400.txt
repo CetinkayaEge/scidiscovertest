@@ -1,0 +1,9 @@
+Title: Substantial influence on solar energy harnessing ability by geometries of ordered Si nanowire array
+Authors: Zilong Wu, Ziyi Wang, Songyou Wang, Zhenyang Zhong
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-495
+Paper ID: pmc_PMC4172400
+
+Abstract:
+The reflectance of the controlled periodic Si nanowire (NW) arrays is systematically explored, which characterizes the influence on the solar energy harnessing ability by the geometries of the NW. A unique dependence of the reflectance of the Si NW array on the diameter, the height, and the bending of the NW are disclosed. The solar energy loss caused by the reflection of the Si NW array exhibits the minimum for the NW with intermediate diameter and length. A plane-wave-based transfer-matrix method (TMM) simulation is performed, which is well consistent with the experimental results. Our results demonstrate the design principle to optimize the Si NW arrays for high-efficiency solar cells. PACS 81.07.-b; 78.67.-n; 81.16.-c

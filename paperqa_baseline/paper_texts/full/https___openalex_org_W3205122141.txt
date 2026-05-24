@@ -1,0 +1,9 @@
+Title: Integrating Resilience and Sustainability Criteria in the Supply Chain Network Design. A Systematic Literature Review
+Authors: Luis Francisco López-Castro, Elyn L. Solano‐Charris
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131910925
+Paper ID: https://openalex.org/W3205122141
+
+Abstract:
+Nowadays, Supply Chain Networks (SCNs) must respond to economic, environmental, social, and uncertain considerations. Thus, sustainable and resilience criteria need to be incorporated as key criteria into the Supply Chain Network Design (SCND). This paper, as part of an emerging subject, reviews the literature between 2010 and 2021 that integrates sustainability and resilience on the SCND. The article classifies the literature according to the levels of the SCND, levels of the decision-making (i.e., strategic, tactical, and operational), resilience and sustainability criteria, solving approach, objective criteria, contributions to the Sustainable Development Goals (SDGs), and real-world applications. The main findings allow us to conclude that the decisions regarding the supply chain network design with sustainability and resilience criteria are mainly strategic, focusing on the forward flow. Most works address resilience through the evaluation of scenarios (risk assessment perspective), and in terms of the sustainability perspective, authors mainly focus on the economic dimension through the evaluation of income and costs along the chain. Based on the review and the proposed taxonomy, the paper proposes ideas for future research.

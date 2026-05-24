@@ -1,0 +1,9 @@
+Title: An Internet of Things Embedded Sustainable Supply Chain Management of B2B E-Commerce
+Authors: Dhirendra Prajapati, Felix T.S. Chan, H. Chelladurai, Lakshay Lakshay, Saurabh Pratap
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14095066
+Paper ID: https://openalex.org/W4224324244
+
+Abstract:
+Adopting digital technologies in a business can help with sustainable supply chain management. These technologies can make e-commerce development faster and empower the emergence of B2B e-commerce businesses. In this study, our focus was to develop a framework for an Internet of things (IoT) embedded sustainable supply chain to deliver textile items using a B2B e-commerce business model. We formulated a mixed-integer non-linear programming (MINLP) model to minimize the total supply chain cost, including the B2B orders’ packaging, handling, and transportation, with carbon emission taxation. Furthermore, the purchasing cost of the RFID tags and IoT facilities that were provided on the transport vehicles was high. The proposed model was solved by using the global solver in the LINGO software package and finding the optimized value of the total supply chain network cost. We tested the proposed model in different case scenarios, i.e., small- to significant-sized problems. Then, a sensitivity analysis was performed to observe the variations in the overall cost of the supply chain network when there were changes in the main parameters of the proposed model. The results of the models showed that models can be helpful for efficient logistics planning and supply chain design.

@@ -1,0 +1,9 @@
+Title: Process Technology and Sustainability Assessment of Wastewater Treatment
+Authors: Nam Nghiep Tran, Marc Escribà‐Gelonch, Mohammad Mohsen Sarafraz, Quoc Hue Pho, Suresh Sagadevan, Volker Hessel
+Year: 2023
+Venue: Industrial & Engineering Chemistry Research
+DOI: https://doi.org/10.1021/acs.iecr.2c03471
+Paper ID: https://openalex.org/W4315700639
+
+Abstract:
+Removal of heavy metals in wastewater treatment is crucial to protect the environment, wildlife, and human health. Various techniques have been developed focusing on removal of heavy metal ions, pharmaceuticals, and other contaminants from different wastewater sources. The main methods include adsorption, filtration, ion exchange, electrochemical, reverse osmosis, precipitation, flotation/coagulation/flocculation, and photocatalytic-based treatments. This paper comprehensively assesses the sustainability of those common technologies used for wastewater process treatment. The sustainability profile depends mostly on the exact approach followed for each technology, including its energy consumption, type of radiation (where appropriate), auxiliary materials used (e.g., catalysts, adsorbents), and further specific experimental process settings. Thus, while sustainability inevitably provides a multifaceted answer, the review finally aims for sustainability benchmarking of all technologies, by compressing the manifold outcomes toward a compact information set, such as a table and radar plot.

@@ -1,0 +1,9 @@
+Title: CNApy: a CellNetAnalyzer GUI in Python for analyzing and designing metabolic networks
+Authors: Sven Thiele, Axel von Kamp, Pavlos Stephanos Bekiaris, Philipp Schneider, Steffen Klamt
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab828
+Paper ID: pmc_PMC8826044
+
+Abstract:
+Abstract Summary Constraint-based reconstruction and analysis (COBRA) is a widely used modeling framework for analyzing and designing metabolic networks. Here, we present CNApy, an open-source cross-platform desktop application written in Python, which offers a state-of-the-art graphical front-end for the intuitive analysis of metabolic networks with COBRA methods. While the basic look-and-feel of CNApy is similar to the user interface of the MATLAB toolbox CellNetAnalyzer, it provides various enhanced features by using components of the powerful Qt library. CNApy supports a number of standard and advanced COBRA techniques and further functionalities can be easily embedded in its GUI facilitating modular extension in the future. Availability and implementation CNApy can be installed via conda and its source code is freely available at https://github.com/cnapy-org/CNApy under the Apache 2 license.

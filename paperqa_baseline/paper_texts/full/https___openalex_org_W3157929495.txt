@@ -1,0 +1,9 @@
+Title: A Route to Sustainable Aviation: A Roadmap for the Realization of Aircraft Components With Electrical and Structural Multifunctionality
+Authors: Catherine Jones, Patrick Norman, Graeme Burt, Callum Hill, Giuliano Allegri, Jason Yon, Ian Hamerton, Richard S. Trask
+Year: 2021
+Venue: IEEE Transactions on Transportation Electrification
+DOI: https://doi.org/10.1109/tte.2021.3078118
+Paper ID: https://openalex.org/W3157929495
+
+Abstract:
+Increased electrification of aircraft power systems has been widely presented as a route toward meeting environmental and emissions targets for aircraft performance, via more-electric aircraft and future hybrid-electric aircraft concepts. In parallel, the superior mechanical performance of carbon fiber reinforced polymer (CFRP) has resulted in its increasing use for aircraft structures. The relatively low electrical conductivity of CFRP compared to traditional aluminum structures and copper conductors limits the use of structural CFRP structures as electrical elements, so separate systems are needed. This adds structural mass and volume to a system, negating some of the benefits of using CFRP. Closer integration of the composite structure and electrical power system (EPS), with an ultimate goal of achieving components with multifunctionality (combined thermal, electrical, and structural functionality), offers a route toward the light-weighting of these systems, thus supporting improvements in aircraft performance. This article presents a roadmap to achieve this multifunctionality, supported by the combination of introducing definitions for different levels of multifunctionality, associated design thresholds, and trades between the EPS and CFRP materials/structures. Existing multifunctional (MF) electrical–thermal–structural CFRP-based solutions are contextualized within this roadmap. This enables the realization of viable routes for developing MF systems for the strategic focus of future research efforts.

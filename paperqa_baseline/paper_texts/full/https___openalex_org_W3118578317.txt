@@ -1,0 +1,9 @@
+Title: Evaluating Sustainable Development by Composite Index: Evidence from French Departments
+Authors: Jean Bonnet, Eva Coll‐Martínez, Patricia Renou‐Maissant
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020761
+Paper ID: https://openalex.org/W3118578317
+
+Abstract:
+Since the adoption of the Sustainable Development Goals by the United Nations, sustainability has been a key priority for European governments. While previous studies have investigated the associations between indicators of sustainable development, few have directly considered a multidimensional approach to assess and compare the performance of regions in terms of sustainable development. As such, a comprehensive assessment of regional sustainable performance is thus still needed. In this paper, the concept of sustainability relies on the construction of six composite indices (environment and natural resources, energy transition, sustainable mobility, economic dynamism, social cohesion and solidarity, and governance and citizenship) with the aim to provide an evaluation framework for empirically comparing the performance of the 96 metropolitan French Departments. Each dimension is explored by spatial autocorrelation analysis and Hierarchical Ascending Classification (HAC) to classify French Departments providing five different regional profiles of sustainable development. The findings make it possible to identify the strengths and weaknesses of the departments in the implementation of sustainable development. This approach provides the bases for a systematic monitoring of sustainable development policies at the regional scale.

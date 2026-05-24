@@ -1,0 +1,9 @@
+Title: MK-886 protects against cardiac ischaemia/reperfusion injury by activating proteasome-Keap1-NRF2 signalling
+Authors: Kai-Na Shi, Pang-Bo Li, Hui-Xiang Su, Jing Gao, Hui-Hua Li
+Year: 2023
+Venue: Redox Biology
+DOI: 10.1016/j.redox.2023.102706
+Paper ID: pmc_PMC10149391
+
+Abstract:
+Oxidative stress is considered a key factor contributing to the initiation and development of cardiac injury following ischaemia‒reperfusion (I/R). Arachidonate 5-lipoxygenase (ALOX5) is a rate-limiting enzyme for leukotriene biosynthesis. MK-886 is an inhibitor of ALOX5 that exhibits anti-inflammatory and antioxidant activities. However, the significance of MK-886 in preventing I/R-mediated cardiac injury and the underlying mechanism remain unclear. Cardiac I/R model was produced by ligation/release of the left anterior descending artery. MK-886 (20 mg/kg) was administered intraperitoneally into mice at 1 and 24 h before I/R. Our results indicated that MK-886 treatment significantly attenuated I/R-mediated cardiac contractile dysfunction and decreased the infarct area, myocyte apoptosis, and oxidative stress accompanied with reduction of Kelch-like ECH-associated protein 1 (keap1) and upregulation of nuclear factor erythroid 2-related factor 2 (NRF2). Conversely, administration of the proteasome inhibitor epoxomicin and NRF2 inhibitor ML385 greatly abrogated MK-886-mediated cardioprotection after I/R injury. Mechanistically, MK-886 enhanced the expression of the immunoproteasome subunit β5i, which interacted with keap1 and enhanced its degradation, leading to activation of the NRF2-dependent antioxidant response and improvement of mitochondrial fusion-fission balance in the I/R-treated heart. In summary, our present findings indicated that MK-886 could protect the heart against I/R injury and highlight that MK-886 may represent a promising therapeutic candidate for preventing ischaemic disease.

@@ -1,0 +1,9 @@
+Title: Enhancing Grid Stability and Sustainability: Energy-Storage-Based Hybrid Systems for Seamless Renewable Integration
+Authors: Md Wahiduzzaman Rakib, A. Munna, Talha Bin Farooq, Agili Boker, Miao He
+Year: 2024
+Venue: European Journal of Electrical Engineering and Computer Science
+DOI: https://doi.org/10.24018/ejece.2024.8.3.618
+Paper ID: https://openalex.org/W4398159744
+
+Abstract:
+In the face of escalating global energy demand, the shift towards renewable energy sources has emerged as a sustainable solution. However, the integration of renewable energy into the electrical grid introduces challenges such as intermittent and instability. The concept of energy-storage-based hybrid systems, which combines renewable energy systems with energy storage, presents a promising approach to overcome these hurdles. These hybrid systems enhance grid stability by ensuring a consistent energy supply, compensating for the variable output of renewable energy sources, and providing ancillary services to the grid. Furthermore, they pave the way for a more resilient and reliable energy infrastructure, fostering the seamless integration of a substantial share of renewable energies. This paper offers a comprehensive exploration of energy-storage-based hybrid systems, discussing their structure, functioning, and the pivotal role they play in bolstering grid stability and promoting the unobstructed integration of renewable energy sources.

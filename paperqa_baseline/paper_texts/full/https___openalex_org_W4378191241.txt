@@ -1,0 +1,9 @@
+Title: Towards sustainable and net-zero cities: A review of environmental modelling and monitoring tools for optimizing emissions reduction strategies for improved air quality in urban areas
+Authors: Anna C. O’Regan, Marguerite Nyhan
+Year: 2023
+Venue: Environmental Research
+DOI: https://doi.org/10.1016/j.envres.2023.116242
+Paper ID: https://openalex.org/W4378191241
+
+Abstract:
+Climate change is a defining challenge for today's society and its consequences pose a great threat to humanity. Cities are major contributors to climate change, accounting for over 70% of global greenhouse gas emissions. With urbanization occurring at a rapid rate worldwide, cities will play a key role in mitigating emissions and addressing climate change. Greenhouse gas emissions are strongly interlinked with air quality as they share emission sources. Consequently, there is a great opportunity to develop policies which maximize the co-benefits of emissions reductions on air quality and health. As such, a narrative meta-review is conducted to highlight state-of-the-art monitoring and modelling tools which can inform and monitor progress towards greenhouse gas emission and air pollution reduction targets. Urban greenspace will play an important role in the transition to net-zero as it promotes sustainable and active transport modes. Therefore, we explore advancements in urban greenspace quantification methods which can aid strategic developments. There is great potential to harness technological advancements to better understand the impact of greenhouse gas reduction strategies on air quality and subsequently inform the optimal design of these strategies going forward. An integrated approach to greenhouse gas emission and air pollution reduction will create sustainable, net-zero and healthy future cities.

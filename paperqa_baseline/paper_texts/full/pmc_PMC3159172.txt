@@ -1,0 +1,9 @@
+Title: Strategies for Intracellular Survival of Burkholderia pseudomallei
+Authors: Elizabeth M. Allwood, Rodney J. Devenish, Mark Prescott, Ben Adler, John D. Boyce
+Year: 2011
+Venue: Frontiers in Microbiology
+DOI: 10.3389/fmicb.2011.00170
+Paper ID: pmc_PMC3159172
+
+Abstract:
+Burkholderia pseudomallei is the causative agent of melioidosis, a disease with high mortality that is prevalent in tropical regions of the world. A key component of the pathogenesis of melioidosis is the ability of B. pseudomallei to enter, survive, and replicate within mammalian host cells. For non-phagocytic cells, bacterial adhesins have been identified both on the bacterial surface and associated with Type 4 pili. Cell invasion involves components of one or more of the three Type 3 Secretion System clusters, which also mediate, at least in part, the escape of bacteria from the endosome into the cytoplasm, where bacteria move by actin-based motility. The mechanism of actin-based motility is not clearly understood, but appears to differ from characterized mechanisms in other bacterial species. A small proportion of intracellular bacteria is targeted by host cell autophagy, involving direct recruitment of LC3 to endosomes rather than through uptake by canonical autophagosomes. However, the majority of bacterial cells are able to circumvent autophagy and other intracellular defense mechanisms such as the induction of inducible nitric oxide synthase, and then replicate in the cytoplasm and spread to adjacent cells via membrane fusion, resulting in the formation of multi-nucleated giant cells. A potential role for host cell ubiquitin in the autophagic response to bacterial infection has recently been proposed.

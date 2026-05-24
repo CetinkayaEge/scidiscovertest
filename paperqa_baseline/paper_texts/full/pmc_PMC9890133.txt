@@ -1,0 +1,9 @@
+Title: Downregulation of iNOS/NO Promotes Epithelial–Mesenchymal Transition and Metastasis in Colorectal Cancer
+Authors: Qiang Du, Silvia Liu, Kun Dong, Xiao Cui, Jing Luo, David A. Geller
+Year: 2023
+Venue: Molecular Cancer Research
+DOI: 10.1158/1541-7786.MCR-22-0509
+Paper ID: pmc_PMC9890133
+
+Abstract:
+Abstract Metastasis is the major cause of cancer-related death in patients with colorectal cancer. Although inducible nitric oxide synthase (iNOS) is a crucial regulator of cancer development and progression, its roles in epithelial–mesenchymal transition (EMT) and the pathogenesis of metastatic colorectal cancer have not been fully investigated. Primary colorectal cancer and liver metastatic tissue specimens were analyzed showing 90% of liver metastatic colorectal cancer with reduced expressions of iNOS compared with 6% of primary colorectal cancer. The Cancer Genome Atlas database analyses via cBioPortal reveal that mRNA expression of iNOS negatively correlated with selected EMT markers in colorectal cancer in a cancer type–dependent manner. The transcriptomic profiling (RNA sequencing data) indicates that iNOS knockdown in SW480 colorectal cancer cells induced an EMT program with upregulated expression of selected stem-cell markers. iNOS knockdown did not alter E-cadherin mRNA expression but re-localized it from membrane to cytoplasm through iNOS-GATA4-Crb2-E-cadherin pathway. iNOS knockdown induced a change in cell morphology, and promoted cell invasion and migration in vitro , and metastasis in vivo . Implications: iNOS downregulation-induced pathway networks mediate the EMT program and metastasis. As an EMT inducer, the reduced-iNOS may serve as a potential therapeutic target for patients with colorectal cancer.

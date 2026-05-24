@@ -1,0 +1,9 @@
+Title: Evaluation of Piezoresistive and Electrical Properties of Conductive Nanocomposite Based on Castor-Oil Polyurethane Filled with MWCNT and Carbon Black
+Authors: Diego S. Melo, Idalci C. Reis, Júlio C. Queiroz, Cicero R. Cena, Bacus O. Nahime, José A. Malmonge, Michael J. Silva
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083223
+Paper ID: pmc_PMC10143113
+
+Abstract:
+Flexible films of a conductive polymer nanocomposite-based castor oil polyurethane (PUR), filled with different concentrations of carbon black (CB) nanoparticles or multiwall carbon nanotubes (MWCNTs), were obtained by a casting method. The piezoresistive, electrical, and dielectric properties of the PUR/MWCNT and PUR/CB composites were compared. The dc electrical conductivity of both PUR/MWCNT and PUR/CB nanocomposites exhibited strong dependences on the concentration of conducting nanofillers. Their percolation thresholds were 1.56 and 1.5 mass%, respectively. Above the threshold percolation level, the electrical conductivity value increased from 1.65 × 10 −12 for the matrix PUR to 2.3 × 10 −3 and 1.24 × 10 −5 S/m for PUR/MWCNT and PUR/CB samples, respectively. Due to the better CB dispersion in the PUR matrix, the PUR/CB nanocomposite exhibited a lower percolation threshold value, corroborated by scanning electron microscopy images. The real part of the alternating conductivity of the nanocomposites was in accordance with Jonscher’s law, indicating that conduction occurred by hopping between states in the conducting nanofillers. The piezoresistive properties were investigated under tensile cycles. The nanocomposites exhibited piezoresistive responses and, thus, could be used as piezoresistive sensors.

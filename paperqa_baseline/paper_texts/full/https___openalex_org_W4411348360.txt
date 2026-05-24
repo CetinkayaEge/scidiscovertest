@@ -1,0 +1,9 @@
+Title: The dual nature of plant growth-promoting bacteria: Benefits, risks, and pathways to sustainable deployment
+Authors: Hassan Etesami
+Year: 2025
+Venue: Current Research in Microbial Sciences
+DOI: https://doi.org/10.1016/j.crmicr.2025.100421
+Paper ID: https://openalex.org/W4411348360
+
+Abstract:
+Plant growth-promoting bacteria (PGPB) are pivotal in sustainable agriculture, enhancing crop productivity and reducing reliance on chemical inputs. However, their dual role as beneficial agents and potential stressors remains underexplored. This review examines the paradoxical adverse effects of PGPB, challenging the predominantly optimistic narrative surrounding their use. At the plant level, unintended consequences include hormonal imbalances (e.g., auxin-induced root inhibition), phytotoxic metabolite production (e.g., hydrogen cyanide), and trade-offs between growth and defense mechanisms. At the soil level, risks encompass disrupted microbial diversity, altered nutrient cycling, and horizontal gene transfer that may foster pathogenicity. These outcomes are driven by environmental factors (soil pH and moisture), host-specific interactions, and application practices. Mitigation strategies emphasize rigorous strain selection, optimized dosing, and integrated soil management to balance efficacy with ecological safety. Advances in multi-omics technologies and synthetic consortia design offer predictive insights into strain behavior, while long-term ecological assessments are critical to address legacy impacts. The review underscores the necessity of a nuanced, evidence-based approach to PGPB deployment, harmonizing agricultural benefits with environmental stewardship. By addressing knowledge gaps in microbial ecology and risk assessment, this work supports strategies prioritizing both agricultural resilience and soil biodiversity to ensure PGPB contribute sustainably to global food security.

@@ -1,0 +1,9 @@
+Title: A Novel Method to Model Image Creation Based on Mammographic Sensors Performance Parameters: A Theoretical Study
+Authors: Nektarios Kalyvas, Anastasia Chamogeorgaki, Christos Michail, Aikaterini Skouroliakou, Panagiotis Liaparinos, Ioannis Valais, George Fountos, Ioannis Kandarakis
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042335
+Paper ID: pmc_PMC9968010
+
+Abstract:
+Background: Mammographic digital imaging is based on X-ray sensors with solid image quality characteristics. These primarily include (a) a response curve that yields high contrast and image latitude, (b) a frequency response given by the Modulation Transfer Function ( MTF ), which enables small detail imaging and (c) the Normalize Noise Power Spectrum ( NNPS ) that shows the extent of the noise effect on image clarity. Methods: In this work, a methodological approach is introduced and described for creating digital phantom images based on the measured image quality properties of the sensor. For this purpose, a mathematical phantom, simulating breast tissue and lesions of blood, adipose, muscle, Ca and Ca(50%)-P(50%) was created by considering the corresponding X-ray attenuation coefficients. The simulated irradiation conditions of the phantom used four mammographic spectra assuming exponential attenuation. Published data regarding noise and blur of a commercial RadEye HR CMOS imaging sensor were used as input data for the resulting images. Results: It was found that the Ca and Ca(50%)-P(50%) lesions were visible in all exposure conditions. In addition, the W/Rh spectrum at 28 kVp provided more detailed images than the corresponding Mo/Mo spectrum. Conclusions: The presented methodology can act complementarily to image quality measurements, leading to initial optimization of the X-ray exposure parameters per clinical condition.

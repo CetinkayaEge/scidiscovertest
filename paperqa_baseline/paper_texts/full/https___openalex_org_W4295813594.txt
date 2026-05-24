@@ -1,0 +1,9 @@
+Title: Towards Digitalization of Water Supply Systems for Sustainable Smart City Development—Water 4.0
+Authors: Kazeem B. Adedeji, Akinlolu A. Ponnle, Adnan M. Abu‐Mahfouz, Anish Kurien
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app12189174
+Paper ID: https://openalex.org/W4295813594
+
+Abstract:
+Urban water supply systems are complex and dynamic in nature, and as a result, can be considered complex to manage owing to enhanced urbanization levels, climate change, growing and varying consumer demands, and limited water resources. The operation of such a system must be managed effectively for sustainable water supply to satisfy the growing consumer demand. This creates a need for intelligent systems for the purposes of operational management. In recent years, computing technologies have been applied to water systems to assist water utilities in addressing some of these problems. Unfortunately, previous ICT solutions have not been able to provide the necessary support for applications to deal with the dynamics of water supply system environments. With the increasing growth in technology, the water sector is moving to the full phase of digitalization to enhance the sustainability of systems. Thus, a new industrial revolution in the water context (Water 4.0) is being researched. This is referred to as Water 4.0, which offers better possibilities to enhance the sustainability of water supply system operations. This paper presents an overview of Water 4.0 and its applications in enhancing water supply system operations. Key features of Water 4.0 are discussed. Furthermore, challenges and future opportunities offered by technology for sustainable operation of municipal water services are discussed.

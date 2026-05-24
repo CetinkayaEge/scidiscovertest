@@ -1,0 +1,9 @@
+Title: Scientific principles for accelerating the Sustainable Development Goals
+Authors: Bojie Fu, Xutong Wu, Shuai Wang, Wenwu Zhao
+Year: 2024
+Venue: Geography and sustainability
+DOI: https://doi.org/10.1016/j.geosus.2024.01.005
+Paper ID: https://openalex.org/W4391364193
+
+Abstract:
+The Sustainable Development Goals (SDGs) are significantly off-course as we reach the midpoint of their 2030 deadline. From a scientific perspective, the critical challenge in achieving the SDGs lies in the need for more scientific principles to understand the complex socio-ecological systems (SES) and their interactions influencing the 17 SDGs. Here, we propose a scientific framework to clarify the common scientific principles and the rational treatment of diversity under these principles. The framework's core is revealing the complex mechanisms underlying the achievement of each SDG and SDG interactions. Building upon the identified mechanisms, complex SES models can be established, and the implementation of SDGs can be formulated as a multi-objective optimization problem, seeking a compromise in competition between essential costs and desired benefits. Our framework can assist countries, and even the world in accelerating progress toward the SDGs.

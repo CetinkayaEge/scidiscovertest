@@ -1,0 +1,9 @@
+Title: Sensors on Internet of Things Systems for the Sustainable Development of Smart Cities: A Systematic Literature Review
+Authors: Zeng Fan, Chuan Pang, Huajun Tang
+Year: 2024
+Venue: Sensors
+DOI: https://doi.org/10.3390/s24072074
+Paper ID: https://openalex.org/W4393163628
+
+Abstract:
+The Internet of Things (IoT) is a critical component of smart cities and a key contributor to the achievement of the United Nations Sustainable Development Goal (UNSDG) 11: Sustainable Cities and Communities. The IoT is an infrastructure that enables devices to communicate with each other over the Internet, providing critical components for smart cities, such as data collection, generation, processing, analysis, and application handling. IoT-based applications can promote sustainable urban development. Many studies demonstrate how the IoT can improve smart cities' sustainable development. This systematic literature review provides valuable insights into the utilization of the IoT in the context of smart cities, with a particular focus on its implications for sustainable urban development. Based on an analysis of 73 publications, we discuss the role of IoT in the sustainable development of smart cities, focusing on smart communities, smart transportation, disaster management, privacy and security, and emerging applications. In each domain, we have detailed the attributes of IoT sensors. In addition, we have examined various communication technologies and protocols suitable for transmitting sensor-generated data. We have also presented the methods for analyzing and integrating these data within the IoT application layer. Finally, we identify research gaps in the literature, highlighting areas that require further investigation.

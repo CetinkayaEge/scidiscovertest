@@ -1,0 +1,9 @@
+Title: Development of 3D printable engineered cementitious composites with incineration bottom ash (IBA) for sustainable and digital construction
+Authors: Junhong Ye, Fei Teng, Jie Yu, Shiwei Yu, Hongjian Du, Dong Zhang, Shaoqin Ruan, Yiwei Weng
+Year: 2023
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2023.138639
+Paper ID: https://openalex.org/W4386319909
+
+Abstract:
+This study aims to develop 3D printable engineered cementitious composites (3DPECC) with incineration bottom ash (IBA) for the enhancement of sustainability. The impacts of using IBA to substitute aggregate (0%, 20%, 40%, and 60% by volume) on the fresh properties, hydration kinetics, and hardened properties of 3DPECC were investigated. The 3DPECC incorporated IBA was firstly tailored for 3D printing by the optimization of fresh properties. The results show that the addition of IBA enhances hydration degree while leading to a porous IBA in the matrix. Due to the enhanced hydration degree, printed specimens with 20% IBA substitution exhibit improved tensile strength (6.19 MPa), compressive strength (50.47 MPa), and flexural strength (22.60 MPa) compared to that of printed specimens without IBA. Due to the porous IBA, printed specimens with 60% IBA substitution reduce 14.9%, 1.5%, and 14.5% on the tensile, compressive, and flexural strength, respectively, compared to printed specimens with 20% IBA substitution. Sustainability analysis reveals that 3DPECC with 60% IBA substitution reduces 1.27 kg/m3 and 14.74 $/m3 on embodied carbon and cost, respectively, compared to that of 3DPECC without IBA. The findings reveal that recycling IBA in 3DPECC is a feasible solution to facilitate municipal solid waste management and sustainable construction.

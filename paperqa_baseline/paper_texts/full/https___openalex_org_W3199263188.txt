@@ -1,0 +1,9 @@
+Title: A Reference Model of Reverse Logistics Process for Improving Sustainability in the Supply Chain
+Authors: Faustino Alarcón Valero, Pascual Cortés-Pellicer, David Pérez Perales, Ana Mengual Recuerda
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131810383
+Paper ID: https://openalex.org/W3199263188
+
+Abstract:
+The reverse logistics process (RLP) has become a key process for the supply chain (SC) given its importance for treating the increasing quantity of returned or recovered products and its impact on sustainability. However, the RLP is complex and involves a high degree of uncertainty and difficult decisions that affect SC efficiency. One of the aspects that can help the most to reduce this complexity and to improve SC efficiency is to formalize this process. The consulted studies agree on the numerous benefits of RLP formalization, but no tools, methodologies or specific solutions were found that help companies to advance in this matter. This work aims to develop a specific tool for RLP formalization so that its efficiency can be increased, leading to an improvement of SC sustainability. The main results comprise a reference model for RLP (RM-RLP) and an associated methodology so that any company can formalize its RLP by modeling its activities. The proposed tool (RM-RLP and methodology) is applied to a closed loop SC of relaxing chairs as an example of RLP formalization, proving its usefulness and, additionally, the improvements that can be reached in three RLP key indicators: total process duration, customer response time and the perceived autonomy and trust of the workers participating in the process.

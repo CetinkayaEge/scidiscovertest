@@ -1,0 +1,9 @@
+Title: Ammonia Production Using Bacteria and Yeast toward a Sustainable Society
+Authors: Yukio Watanabe, Wataru Aoki, Mitsuyoshi Ueda
+Year: 2023
+Venue: Bioengineering
+DOI: https://doi.org/10.3390/bioengineering10010082
+Paper ID: https://openalex.org/W4313889001
+
+Abstract:
+Ammonia is an important chemical that is widely used in fertilizer applications as well as in the steel, chemical, textile, and pharmaceutical industries, which has attracted attention as a potential fuel. Thus, approaches to achieve sustainable ammonia production have attracted considerable attention. In particular, biological approaches are important for achieving a sustainable society because they can produce ammonia under mild conditions with minimal environmental impact compared with chemical methods. For example, nitrogen fixation by nitrogenase in heterogeneous hosts and ammonia production from food waste using microorganisms have been developed. In addition, crop production using nitrogen-fixing bacteria has been considered as a potential approach to achieving a sustainable ammonia economy. This review describes previous research on biological ammonia production and provides insights into achieving a sustainable society.

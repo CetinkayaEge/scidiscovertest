@@ -1,0 +1,9 @@
+Title: Mechanical nanosurgery of chemoresistant glioblastoma using magnetically controlled carbon nanotubes
+Authors: Xian Wang, Zheyuan Gong, Tiancong Wang, Junhui Law, Xin Chen, Siyi Wanggou, Jintian Wang, Binbin Ying, Michelle Francisco, Weifan Dong, Yi Xiong, Jerry J. Fan, Graham MacLeod, Stephane Angers, Xuejun Li, Peter B. Dirks, Xinyu Liu, Xi Huang, Yu Sun
+Year: 2023
+Venue: Science Advances
+DOI: 10.1126/sciadv.ade5321
+Paper ID: pmc_PMC10058241
+
+Abstract:
+Glioblastoma (GBM) is the most common and aggressive primary brain cancer. Despite multimodal treatment including surgery, radiotherapy, and chemotherapy, median patient survival has remained at ~15 months for decades. This situation demands an outside-the-box treatment approach. Using magnetic carbon nanotubes (mCNTs) and precision magnetic field control, we report a mechanical approach to treat chemoresistant GBM. We show that GBM cells internalize mCNTs, the mobilization of which by rotating magnetic field results in cell death. Spatiotemporally controlled mobilization of intratumorally delivered mCNTs suppresses GBM growth in vivo. Functionalization of mCNTs with anti-CD44 antibody, which recognizes GBM cell surface–enriched antigen CD44, increases mCNT recognition of cancer cells, prolongs mCNT enrichment within the tumor, and enhances therapeutic efficacy. Using mouse models of GBM with upfront or therapy-induced resistance to temozolomide, we show that mCNT treatment is effective in treating chemoresistant GBM. Together, we establish mCNT-based mechanical nanosurgery as a treatment option for GBM. Magnetic nanomaterials under field control can function as scalpels to treat therapy-resistant brain tumors.

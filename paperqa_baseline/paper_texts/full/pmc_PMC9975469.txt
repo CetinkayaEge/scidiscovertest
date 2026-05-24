@@ -1,0 +1,9 @@
+Title: U.Taxonstand: An R package for standardizing scientific names of plants and animals
+Authors: Jian Zhang, Hong Qian
+Year: 2023
+Venue: Plant Diversity
+DOI: 10.1016/j.pld.2022.09.001
+Paper ID: pmc_PMC9975469
+
+Abstract:
+The scientific names of organisms are key identifiers of plants and animals. Correctly treating scientific names is a prerequisite for biodiversity research and documentation. Here, we present an R package, ‘U.Taxonstand’, which can standardize and harmonize scientific names in plant and animal species lists at a fast speed and at a high rate of matching success. Unlike most of other similar R packages each of which works with only one taxonomic database, U.Taxonstand can work with all taxonomic databases, as long as they are properly formatted. Multiple databases for plants and animals that can be directly used by U.Taxonstand, which include bryophytes, vascular plants, amphibians, birds, fishes, mammals, and reptiles, are available online. U.Taxonstand can be a very useful tool for botanists, zoologists, ecologists and biogeographers to standardize and harmonize scientific names of organisms. Highlights • We present an R package, which is called ‘U.Taxonstand’. • This package standardizes scientific names of both plants and animals. • U.Taxonstand standardizes scientific names at a fast execution speed and a high rate of matching success.

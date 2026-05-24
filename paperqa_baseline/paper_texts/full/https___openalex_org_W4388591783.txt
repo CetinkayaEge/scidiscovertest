@@ -1,0 +1,9 @@
+Title: Big Data Analytics-based life cycle sustainability assessment for sustainable manufacturing enterprises evaluation
+Authors: Lahcen Tamym, Lyès Benyoucef, Ahmed Nait‐Sidi‐Moh, Driss El Ouadghiri
+Year: 2023
+Venue: Journal Of Big Data
+DOI: https://doi.org/10.1186/s40537-023-00848-8
+Paper ID: https://openalex.org/W4388591783
+
+Abstract:
+Abstract Recently, governments and organizations have repeatedly pressed manufacturing enterprises to promote the ethical and transparent use of natural resources, lessen their negative effects on national and international ecosystems, and safeguard people and the environment. In this context, enhancing the various stages of the product/service life cycle to fulfill sustainability requirements and foster sustainable value creation is a key area of interest for researchers and professionals. This emphasis reflects the growing recognition of the importance of minimizing the environmental impact of products and services, while also maximizing their positive contributions to society, economy, and environment. To this end, this research work addresses how manufacturing enterprises benefit from life cycle sustainability assessment (LCSA) thinking to incorporate the environmental and social criteria into the product/service life cycle strategies. To do so, a novel approach based on environmental priority strategy (EPS) as an LCSA method for impacts monetization coupling with Big Data Analytics (BDA) techniques and tools is developed to evaluate and analyze the manufacturing enterprises’ impacts on the environment and society. Moreover, the developed approach evaluates manufacturing enterprises’ progress toward sustainable development goals (SDGs). Finally, to demonstrate the applicability of the developed approach, a case study from the corporate environmental impact database is used, and the obtained numerical results are analyzed showing its efficiency and added value.

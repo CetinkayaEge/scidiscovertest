@@ -1,0 +1,9 @@
+Title: Construction of novel Ru-embedded bulk g-C3N4 photocatalysts toward efficient and sustainable photocatalytic hydrogen production
+Authors: Mohammed Ismael
+Year: 2024
+Venue: Diamond and Related Materials
+DOI: https://doi.org/10.1016/j.diamond.2024.111024
+Paper ID: https://openalex.org/W4392914092
+
+Abstract:
+Novel Ru-embedded bulk graphitic carbon nitride (g-C3N4) photocatalysts containing different wt% of Ru (0.5–2 % wt) were synthesized by a simple mixing method of ruthenium complex with g-C3N4. The photocatalytic activity of the synthesized photocatalysts was assessed for hydrogen production in an aqueous solution containing methanol with and without Pt. The optimal hydrogen production rate of the most active photocatalyst (0.8 % Ru/CN) was 246 μmol/h without Pt and 1021 μmol/h with Pt, which was more than two times higher than pure g-C3N4. Various physiochemical techniques such as X-ray diffraction (XRD), N2 adsorption-desorption isotherms, transmission electron microscopy (TEM), X-ray photoelectron spectroscopy (XPS), UV–vis diffuse reflectance spectroscopy (UV–vis DRS), photoluminescence spectroscopy (PL) and transition photocurrent response (PC) were applied to investigate the origin of activity of the Rux/CN photocatalysts. Results indicated that the loading of g-C3N4 with Ru nanoparticles enlarged its surface area and enhanced visible light absorption. Importantly, Ru nanoparticles promoted the charge carrier separation and transfer efficiency of g-C3N4 revealed by the PL and PC measurements, enhancing the photocatalytic activity of the embedded photocatalyst. Furthermore, XPS proved the existence of Ru (II) of RuO2 and metallic Ru0. The Ru-embedded g-C3N4 showed high photocatalytic activity, which makes them attractive materials for further applications in photocatalysis.

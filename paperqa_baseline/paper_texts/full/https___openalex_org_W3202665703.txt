@@ -1,0 +1,9 @@
+Title: An Augmented Reality Symbiosis Software Tool for Sustainable Logistics Activities
+Authors: V. Sidiropoulos, Dimitrios Bechtsis, Dimitrios Vlachos
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131910929
+Paper ID: https://openalex.org/W3202665703
+
+Abstract:
+Augmented Reality (AR) is an emerging technology in the Industry 4.0 and Logistics 4.0 contexts with an important role in man–machine symbiosis scenarios. Practitioners, although already acquainted with AR technology, are reluctant to adopt AR applications in industrial operations. This stems from the fact that a direct connection that is important for the management of sustainability goals is missing. Moreover, such a connection with economic, social, and environmental sustainability parameters sparsely appears in the AR literature. The proposed research, on one hand, presents an innovative architecture for a stable and scalable AR application that extents state-of-the-art solutions and, on the other hand, attempts to study AR technology within the framework of a sustainable business strategy. The developed system utilizes the Robot Operating System (ROS) alongside an AR mobile application to present an employee navigation scenario in warehouses and production lines. ROS is responsible for mapping the industrial facility, while the AR mobile application identifies the surrounding environment, along with a Real-Time Location System localizes employees in the facility. Finally, ROS identifies the shortest path between the employee and the destination point, while the AR mobile application presents the virtual path for reaching the destination.

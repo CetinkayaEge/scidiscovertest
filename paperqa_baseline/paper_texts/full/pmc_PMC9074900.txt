@@ -1,0 +1,9 @@
+Title: The limits of human microRNA annotation have been met
+Authors: Bastian Fromm, Xiangfu Zhong, Marcel Tarbier, Marc R. Friedländer, Michael Hackenberg
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.079098.122
+Paper ID: pmc_PMC9074900
+
+Abstract:
+Over the last few years, the number of microRNAs in the human genome has become a controversially debated issue. Several publications reported thousands of putative novel microRNAs not included in the curated microRNA gene database MirGeneDB and the repository miRBase. Recently, by using sequencing of ∼300 human tissues and cell lines, the human RNA atlas, an expanded inventory of human RNA annotations, was published, reporting thousands of putative microRNAs. We, the developers of established microRNA prediction tools and hosts of MirGeneDB, raise concerns about the frequently applied prediction and functional validation strategies, briefly discussing the drawbacks of false positive detections. By means of quantifying well-established biogenesis-derived features, we show that the reported novel microRNAs essentially represent false-positives and argue that the human microRNA complement, at about 550 microRNA genes, is already near complete. Output of available tools must be curated as false predictions will misguide scientists looking for biomarkers or therapeutic targets.

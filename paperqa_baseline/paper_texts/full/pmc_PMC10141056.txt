@@ -1,0 +1,9 @@
+Title: BCG Vaccination and the Risk of Type 1 Diabetes Mellitus: A Systematic Review and Meta-Analysis
+Authors: Parnian Jamshidi, Bardia Danaei, Benyamin Mohammadzadeh, Mahta Arbabi, Amirhossein Nayebzade, Leonardo A. Sechi, Mohammad Javad Nasiri
+Year: 2023
+Venue: Pathogens
+DOI: 10.3390/pathogens12040581
+Paper ID: pmc_PMC10141056
+
+Abstract:
+(1) Background: Type 1 diabetes mellitus (T1D) is an autoimmune disease characterized by progressive and irreversible autoimmune destruction of pancreatic beta cell islets, resulting in absolute insulin deficiency. To date, several epidemiologic and observational studies have evaluated the possible impact of BCG vaccination on T1D development, but the results are controversial. To elucidate this issue, we aimed to conduct a systematic review and meta-analysis of published cohort studies in this field. (2) Methods: A systematic search was performed for relevant studies published up to 20 September 2022 using Pubmed/Medline, Embase, and Scopus. Cohort studies, containing original information about the association between T1D and BCG vaccination, were included for further analysis. Pooled estimates and 95% confidence intervals (CI) for the risk ratio of T1D in BCG-vaccinated individuals compared to unvaccinated ones were assessed using the fixed effect model. (3) Results: Out of 630 potentially relevant articles, five cohort studies met the inclusion criteria. The total population of all included studies was 864,582. The overall pooled risk ratio of T1D development in BCG vaccinated and unvaccinated individuals was found to be 1.018 (95% CI 0.908–1.141, I 2 : 0%). (4) Conclusions: Our study revealed no protective or facilitative effect of prior BCG vaccination in T1D development.

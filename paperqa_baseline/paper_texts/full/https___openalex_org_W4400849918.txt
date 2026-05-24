@@ -1,0 +1,9 @@
+Title: Sustainable investments in volatile times: Nexus of climate change risk, ESG practices, and market volatility
+Authors: Mirza Muhammad Naseer, Yongsheng Guo, Tanveer Bagh, Xiaoxian Zhu
+Year: 2024
+Venue: International Review of Financial Analysis
+DOI: https://doi.org/10.1016/j.irfa.2024.103492
+Paper ID: https://openalex.org/W4400849918
+
+Abstract:
+Climate change poses an unprecedented threat to global stability, presenting complex political, economic, and social risks. As financial markets become increasingly intertwined with sustainability considerations, understanding the implications of climate risk is paramount. This study investigates the relationships between climate change risk (CCRISK), environmental, social, and governance (ESG) factors, and the United Kingdom's stock market volatility (SMVOL). Using data from 2012 to 2021, we employ a robust analytical approach, including ordinary least squares and a generalised method of moments, to assess these relationships. Our findings reveal several key insights. First, we prove a positive and statistically significant relationship between CCRISK and SMVOL, indicating that firms with higher CCRISK tend to exhibit higher SMVOL. Second, we demonstrate a negative and statistically significant relationship between ESG scores and SMVOL, suggesting that firms with higher ESG scores tend to experience lower SMVOL. Furthermore, we introduced a moderation analysis examining how specific ESG dimensions moderate the CCRISK-SMVOL relationship. Our results reveal nuanced interactions, emphasising that different ESG dimensions influence the relationship differently. The findings offer strategic insights for investors, policymakers, and the advancement of sustainable finance.

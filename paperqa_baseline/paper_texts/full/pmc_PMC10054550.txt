@@ -1,0 +1,9 @@
+Title: Simultaneous Localization and Guidance of Two Underwater Hexapod Robots under Underwater Currents
+Authors: Jonghoek Kim
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063186
+Paper ID: pmc_PMC10054550
+
+Abstract:
+This paper addresses the simultaneous localization and guidance of two underwater hexapod robots under sea currents. This paper considers an underwater environment where there are no landmarks or features which can assist a robot’s localization. This article uses two underwater hexapod robots that move together while using each other as landmarks in the environment. While one robot moves, another robot extends its legs into the seabed and acts as a static landmark. A moving robot measures the relative position of another static robot, in order to estimate its position while it moves. Due to underwater currents, a robot cannot maintain its desired course. Moreover, there may be obstacles, such as underwater nets, that a robot needs to avoid. We thus develop a guidance strategy for avoiding obstacles, while estimating the perturbation due to the sea currents. As far as we know, this paper is novel in tackling simultaneous localization and guidance of underwater hexapod robots in environments with various obstacles. MATLAB simulations demonstrate that the proposed methods are effective in harsh environments where the sea current magnitude can change irregularly.

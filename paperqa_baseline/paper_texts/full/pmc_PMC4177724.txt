@@ -1,0 +1,9 @@
+Title: Design parameters for enhanced photon absorption in vertically aligned silicon nanowire arrays
+Authors: Stefan T Jäger, Steffen Strehle
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-511
+Paper ID: pmc_PMC4177724
+
+Abstract:
+Superior photon absorption in ordered nanowire arrays has been demonstrated recently. However, systematic studies are still missing to explore the limits of their implementation as functional photonic devices. With emphasis on silicon nanowires, we investigated the effects of nanowire diameter, length, morphology, and pitch on the photon absorption within the visible solar spectrum based on simulations. Our results reveal that these parameters are crucial but disclose a path to improve the absorbance drastically. PACS 78.40.Fy; 78.67.Uh; 78.67.-n

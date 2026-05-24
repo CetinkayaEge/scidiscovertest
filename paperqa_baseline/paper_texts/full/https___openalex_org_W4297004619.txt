@@ -1,0 +1,9 @@
+Title: Technology Transfer in the Context of Sustainable Development—A Bibliometric Analysis of Publications in the Field
+Authors: Lisa Craiut, Constantin Bungău, Paul Andrei Negru, Tudor Bungau, Andrei-Flavius Radu
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141911973
+Paper ID: https://openalex.org/W4297004619
+
+Abstract:
+Technology transfer (TT) is a complex process that considers various components and variables. The mechanisms underlying innovation and TT have led to the development of applications in a context of sustainable development, framing an expanding area of research in terms of bibliometric quantity, quality, and structural indicators in recent years. Although there is considerable academic interest in TT in the context of sustainable development, there has not been a recent analysis of the literature in the field to assess its relevance in terms of scientific impact, citations, and other information prior to the literature search/publication process. Therefore, the present paper conducts a bibliometric analysis using VOSviewer to assess research performance and to perform a scientific mapping of the most relevant literature in the field included in the Web of Science (W.o.S.) database. Furthermore, 39,958 manuscripts published between 1976 and 2022 have been systematically assessed in terms of influential indicators, citations, and publication trends. Major contributors in the field include the United States, China, and England, while the most prolific journals include Sustainability, Environmental Science &amp; Technology, and Applied Energy. This study contributes to the scientific literature by providing a significant theoretical reference for the potential application of TT in the context of sustainable development through statistical analysis and interpretation of the bibliometric data obtained.

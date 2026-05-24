@@ -1,0 +1,9 @@
+Title: A Study on an Application System for the Sustainable Development of Smart Healthcare in China
+Authors: Xingqun Xue, Yuanyu Zeng, Yanjiao Zhang, Sunhae Lee, Zhigang Yan
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3099806
+Paper ID: https://openalex.org/W3185965585
+
+Abstract:
+The purpose of this study is to explore ways to apply information technologies such as big data, Internet of things (IoT), mobile internet, and so on to the healthcare industry. By analyzing the impact path of such high-techs on healthcare, it intends to propose an application system for the sustainable development of so called “smart healthcare”. It identifies the influencing factors of smart healthcare from three different perspectives: society, economy and environment. It then constructs an indicator system containing 14 factors, and comprehensively analyzes the importance and dependence of the factors by using Fuzzy Decision-making Trial and Evaluation Laboratory (DEMATEL) and Interpretative Structural Modeling Method (ISM) based on a multi-level hierarchy model. Using the theoretical framework of scientific research methods, this paper reveals the hierarchical path of the sustainable development of the whole intelligent healthcare which starts from the social level, combines the social and economic levels to achieve the balanced development of benefits, and finally brings the benefits to the environmental level. Based on this finding, this paper develops a sustainable application system for intelligent medicine in three levels: government, enterprise and user. The development of the sustainable application system for smart healthcare can provide theoretical guidance for model application evaluation.

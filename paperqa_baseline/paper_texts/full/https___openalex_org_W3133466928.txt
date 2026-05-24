@@ -1,0 +1,9 @@
+Title: The Assessment of Urbanization Effect and Sustainable Drainage Solutions on Flood Hazard by GIS
+Authors: Seda Ertan, Rahmi Nurhan Çeli̇k
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042293
+Paper ID: https://openalex.org/W3133466928
+
+Abstract:
+Rapid and uncontrolled changes in land use patterns due to urbanization negatively affect urban rainfall-runoff processes and flood hazard. In this study, a method that included different sustainable drainage solutions, such as green infrastructure (GI) usage for flood hazard mitigation with various scenarios on a geographic information system (GIS) platform within a 1653 ha catchment of the Kağıthane Stream in İstanbul, Turkey is presented. Developed scenarios are as follows: scenario one (SN1) is the current situation; scenario two (SN2) used green roof application for buildings and a permeable surface for roads; scenario three (SN3) used only green roof application for buildings; scenario four (SN4) used a rainwater barrel for collecting roof water, a swale canal for collecting road water, and added additional structures to open areas to observe urbanization; scenario five (SN5) considered multiple GI implementations; and scenario six (SN6) considered full urbanization. The results indicate that greener infrastructure implementation provides benefits in reducing both the runoff coefficient and the peak flowrate, and the flood inundation area and number of structures affected by flood risk were decreased. The integrated evaluation system, which consisted of the geographic information system and the assessment of the 1D HEC-RAS hydrologic model, was applied to evaluate the GI usage and flood mitigation.

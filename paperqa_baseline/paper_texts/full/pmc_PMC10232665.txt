@@ -1,0 +1,9 @@
+Title: Single-cell transcriptomics reveals ependymal subtypes related to cytoskeleton dynamics as the core driver of syringomyelia pathological development
+Authors: Chunli Lu, Xianming Wu, Xinyu Wang, Zhifeng Xiao, Longbing Ma, Jianwu Dai, Fengzeng Jian
+Year: 2023
+Venue: iScience
+DOI: 10.1016/j.isci.2023.106850
+Paper ID: pmc_PMC10232665
+
+Abstract:
+Summary Syringomyelia is a common clinical lesion associated with cerebrospinal fluid flow abnormalities. By a reversible model with chronic extradural compression to mimic human canalicular syringomyelia, we explored the spatiotemporal pathological alterations during syrinx development. The most dynamic alterations were observed in ependymal cells (EPCs), oligodendrocyte lineage, and microglia, as a response to neuroinflammation. Among different cell types, EPC subtypes experienced obvious dynamic alterations, which were accompanied by ultrastructural changes involving the ependymal cytoskeleton, cilia, and dynamic injury in parenchyma primarily around the central canal, corresponding to the single-cell transcripts. After effective decompression, the syrinx resolved with the recovery of pathological damage and overall neurological function, implying that for syringomyelia in the early stage, there was still endogenous repair potential coexisting with immune microenvironment imbalance. Ependymal remodeling and cilia restoration might be important for better resolution of syringomyelia and parenchymal injury recovery. Graphical abstract Highlights • Dynamic pathophysiological changes during syringomyelia formation and resolution • Multiple cellular subtype alterations appear during syringomyelia development • Early effective decompression could benefit syrinx resolution and SCI recovery • Remodeling ependymal cytoskeleton as the focus for future treatment for syringomyelia Neuroanatomy; Transcriptomics; Model organism

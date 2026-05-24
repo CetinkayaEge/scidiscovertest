@@ -1,0 +1,9 @@
+Title: Designing a Tri-Objective, Sustainable, Closed-Loop, and Multi-Echelon Supply Chain During the COVID-19 and Lockdowns
+Authors: Sina Abbasi, Maryam Daneshmand-Mehr, Armin Ghane Kanafi
+Year: 2023
+Venue: Foundations of Computing and Decision Sciences
+DOI: https://doi.org/10.2478/fcds-2023-0011
+Paper ID: https://openalex.org/W4387382426
+
+Abstract:
+Abstract This paper proposes a mathematical model of Sustainable Closed-Loop Supply Chain Networks (SCLSCNs). When an outbreak occurs, environmental, economic, and social aspects can be traded off. A novelty aspect of this paper is its emphasis on hygiene costs. As well as healthcare education, prevention, and control of COVID-19, this model offers job opportunities related to COVID-19 pandemic. COVID-19 damages lead to lost days each year, which is one of the negative social aspects of this model. COVID-19 was associated with two environmental novelties in this study. positive and negative effects of COVID-19 can be observed in the environmental context. As a result, there has been an increase in medical waste disposal and plastic waste disposal. Multi-objective mathematical modeling whit Weighted Tchebycheff method scalarization. In this process, the software Lingo is used. The COVID-19 pandemic still has a lot of research gaps because it’s a new disease. An SC model that is sustainable and hygienic will be developed to fill this gap in the COVID-19 condition disaster. Our new indicator of sustainability is demonstrated using a mixed-integer programming model with COVID-19-related issues in a Closed-Loop Supply Chain (CLSC) overview.

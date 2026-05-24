@@ -1,0 +1,9 @@
+Title: Exergetic, sustainability and environmental assessments of a turboshaft engine used on helicopter
+Authors: Özgür Ballı
+Year: 2023
+Venue: Energy
+DOI: https://doi.org/10.1016/j.energy.2023.127593
+Paper ID: https://openalex.org/W4366831527
+
+Abstract:
+The gas turbine based turboshaft engines (TSE) are widely used in helicopters nowadays. The innovation points of this research are that the analyses of environmental impact and damage cost formation are firstly evaluated. Firstly, the engine cycle data as temperature, pressure and mass flow as well as emissions are firstly obtained from test cell measurements and parametrically. Then, aviation, energy, exergy, exergy based environmental and sustanability, environmental impact and cost formation analyses are realized. Energy efficiency of engine is obtained as 25.18% while its exergy efficiency is estimated as 23.72%. According to exergy based environmental and sustainability analyses, environmental and ecological effect factors are found as 3.216 and 4.216 while exergetic sustainability index and sustainable efficiency factor are determined as 0.311 and 1.311. However, the environmental impact analysis indicates that total environmental impact rate of TSE is 12155.54 mPts/h whilst specific emission impact is 2505.97 mPts/GJ for 1347.40 kW-engine power. According to environmental damage cost analysis, cost formation index of emissions is computed as 36.156 €/GJ when environmental damage cost rate is 175.377 €/h. Between engine emissions, carbon dioxide is main contributor on environmental impact rate and environmental damage cost. The results indicate that air compressor and combustion chamber components are investigated in a detail to increase efficiencies and to decrease exergy destruction rates of these components.

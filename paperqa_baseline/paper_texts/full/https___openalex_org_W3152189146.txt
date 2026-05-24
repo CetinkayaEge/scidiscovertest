@@ -1,0 +1,9 @@
+Title: Strategies toward the sustainable electrochemical oxidation of methane to methanol
+Authors: José Alejandro Arminio‐Ravelo, Marı́a Escudero-Escribano
+Year: 2021
+Venue: Current Opinion in Green and Sustainable Chemistry
+DOI: https://doi.org/10.1016/j.cogsc.2021.100489
+Paper ID: https://openalex.org/W3152189146
+
+Abstract:
+The direct conversion of methane to methanol is very promising to achieve a decarbonized future but remains a great challenge. The electrochemical activation and partial oxidation of methane to methanol are highly attractive to enable the direct conversion in a sustainable and decentralized way. In this review, we present an overview of the main strategies that have allowed to gain mechanistic insight into the electrochemical activation of methane. We discuss the developments of the direct and indirect electrochemical methane activation strategies as well as the opportunities and challenges toward the electrocatalytic conversion of methane to methanol.

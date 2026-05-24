@@ -1,0 +1,9 @@
+Title: PolyID: Artificial Intelligence for Discovering Performance-Advantaged and Sustainable Polymers
+Authors: A. Nolan Wilson, Peter C. St. John, Daniela H. Marin, Caroline B. Hoyt, Erik G. Rognerud, Mark R. Nimlos, Robin M. Cywar, Nicholas A. Rorrer, Kevin M. Shebek, Linda J. Broadbelt, Gregg T. Beckham, Michael F. Crowley
+Year: 2023
+Venue: Macromolecules
+DOI: https://doi.org/10.1021/acs.macromol.3c00994
+Paper ID: https://openalex.org/W4387771514
+
+Abstract:
+accessible biobased polymers, we identified five poly(ethylene terephthalate) (PET) analogues with predicted improvements to thermal and transport performance. Experimental validation for one of the PET analogues demonstrated a glass transition temperature between 85 and 112 °C, which is higher than PET and within the predicted range of the PolyID tool. In addition to accurate predictions, we show how the model's predictions are explainable through analysis of individual bond importance for a biobased nylon. Overall, PolyID can aid the biobased polymer practitioner to navigate the vast number of renewable polymers to discover sustainable materials with enhanced performance.

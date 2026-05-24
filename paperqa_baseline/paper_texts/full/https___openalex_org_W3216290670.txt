@@ -1,0 +1,9 @@
+Title: Sustainable Oxide Electrocatalyst for Hydrogen- and Oxygen-Evolution Reactions
+Authors: Ram Krishna Hona, Surendra B. Karki, Tengfei Cao, Rohan Mishra, George E. Sterbinsky, Farshid Ramezanipour
+Year: 2021
+Venue: ACS Catalysis
+DOI: https://doi.org/10.1021/acscatal.1c03196
+Paper ID: https://openalex.org/W3216290670
+
+Abstract:
+An electrocatalyst for water splitting based on earth-abundant metals is reported. This perovskite–oxide catalyst, CaSrFe0.75Co0.75Mn0.5O6−δ (CSFCM), is examined using both experimental and computational methods. It demonstrates a combination of properties, which include (a) very high activity for the oxygen-evolution reaction with an overpotential of η = 0.19 V at 10 mA/cm2, (b) high stability over 1000 cycles of catalysis, (c) the ability to catalyze the hydrogen-evolution reaction effectively in both acidic and basic conditions, and (d) catalytic activity as a single-phase bulk material without the need for any additional processing, multicomponent composite preparation, or nanofabrication. Therefore, the catalytic activity of CSFCM is intrinsic, making it a good benchmark compound for future studies of electrocatalytic parameters. This work also highlights the impact of systematic structural design on electrocatalytic activity. Results from density functional theory calculations indicate that in addition to an optimal eg occupancy of ∼1, an additional descriptor, i.e., maximizing the number of free eg carriers, correlates with the electrocatalytic activity.

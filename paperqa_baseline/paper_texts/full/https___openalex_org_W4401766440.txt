@@ -1,0 +1,9 @@
+Title: Advances and challenges in MXene-based electrocatalysts: unlocking the potential for sustainable energy conversion
+Authors: Lei He, Haizheng Zhuang, Qi Fan, Ping Yu, Shengchao Wang, Yifan Pang, Ke Chen, Kun Liang
+Year: 2024
+Venue: Materials Horizons
+DOI: https://doi.org/10.1039/d4mh00845f
+Paper ID: https://openalex.org/W4401766440
+
+Abstract:
+MXenes, a novel class of two-dimensional materials, have garnered significant attention for their promising electrocatalytic properties in various energy conversion applications such as water splitting, fuel cells, metal-air batteries, and nitrogen reduction reactions. Their excellent electrical conductivity, high specific surface area, and versatile surface chemistry enable exceptional catalytic performance. This review highlights recent advancements in the design and application strategies of MXenes as electrocatalysts, focusing on key reactions including hydrogen evolution reaction (HER), oxygen evolution reaction (OER), oxygen reduction reaction (ORR), and nitrogen reduction reaction (NRR). We discuss the tunability of MXenes' layered structures and surface properties through surface modification, MXene lattice substitution, defect and morphology engineering, and heterostructure construction. Despite the considerable progress, MXenes face challenges such as restacking during catalysis, stability issues, and difficulties in large-scale production. Addressing these challenges through innovative engineering approaches and advancing industrial synthesis techniques is crucial for the broader application of MXene-based materials. Our review underscores the potential of MXenes in transforming electrocatalytic processes and highlights future research directions to optimize their catalytic efficiency and stability.

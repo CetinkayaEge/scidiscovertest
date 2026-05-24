@@ -1,0 +1,9 @@
+Title: Kinetically and thermodynamically controlled one-pot growth of gold nanoshells with NIR-II absorption for multimodal imaging-guided photothermal therapy
+Authors: Ming Chen, Xiao-Tong Chen, Lian-Ying Zhang, Wei Meng, Yong-Jian Chen, Ying-Shan Zhang, Zhi-Cong Chen, Hui-Min Wang, Chun-Mei Luo, Xiu-Dong Shi, Wen-Hua Zhang, Mao-Sheng Wang, Jin-Xiang Chen
+Year: 2023
+Venue: Journal of Nanobiotechnology
+DOI: 10.1186/s12951-023-01907-1
+Paper ID: pmc_PMC10141956
+
+Abstract:
+Since the successful clinical trial of AuroShell for photothermal therapy, there is currently intense interest in developing gold-based core-shell structures with near-infrared (NIR) absorption ranging from NIR-I (650–900 nm) to NIR-II (900–1700 nm). Here, we propose a seed-mediated successive growth approach to produce gold nanoshells on the surface of the nanoscale metal–organic framework (NMOF) of UiO-66-NH 2 (UiO = the University of Oslo) in one pot. The key to this strategy is to modulate the proportion of the formaldehyde (reductant) and its regulator / oxidative product of formic acid to harness the particle nucleation and growth rate within the same system. The gold nanoshells propagate through a well-oriented and controllable diffusion growth pattern (points → facets → octahedron), which has not been identified. Most strikingly, the gold nanoshells prepared hereby exhibit an exceedingly broad and strong absorption in NIR-II with a peak beyond 1300 nm and outstanding photothermal conversion efficiency of 74.0%. Owing to such superior performance, these gold nanoshells show promising outcomes in photoacoustic (PA), computed tomography (CT), and photothermal imaging-guided photothermal therapy (PTT) for breast cancer, as demonstrated both in vitro and in vivo. Supplementary Information The online version contains supplementary material available at 10.1186/s12951-023-01907-1.

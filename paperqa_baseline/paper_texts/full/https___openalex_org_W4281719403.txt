@@ -1,0 +1,9 @@
+Title: Are green bonds and sustainable cryptocurrencies truly sustainable? Evidence from a wavelet coherence analysis
+Authors: Inzamam Ul Haq, Apichit Maneengam, Supat Chupradit, Chunhui Huo
+Year: 2022
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2022.2080739
+Paper ID: https://openalex.org/W4281719403
+
+Abstract:
+This article aims to explore the co-movement of daily returns among S&P green bonds (GB/GBs), the top five sustainable cryptocurrencies, Bitcoin, the Dow Jones Sustainability World Index (DJSWI) and the Dow Jones Sustainability Emerging Market Index (DJSEMI) to determine whether GBs, Bitcoin and sustainable cryptocurrencies are truly sustainable; in addition, it investigates hedging and diversification opportunities. Using a partial wavelet coherence framework to capture the bivariate co-movement, our findings show strong (weak) positive co-movements among GB (sustainable cryptocurrencies) and DJSWI returns, where GBs (sustainable cryptocurrencies) have a heterogeneous leading role in the short-term and long-term horizons. Results indicate moderate positive (negative) co-movement among GBs and sustainable cryptocurrencies (Bitcoin) and DJSWI in the short run (long run). Overall, the results show GB (sustainable cryptocurrencies) acts as a diversifier for Bitcoin and sustainable cryptocurrencies in most cases (DJSWI). However, increasing Bitcoin returns adversely impacts the DJSWI in the long run. Findings are equally imperative for green investors, crypto traders and policymakers, where investors and traders can earn financial and social returns, and policy-makers can deploy suitable policies for the development of sustainable cryptocurrency mining processes. The role of Bitcoin is alarming for the United Nations Sustainable Development Goals and global greener economy.

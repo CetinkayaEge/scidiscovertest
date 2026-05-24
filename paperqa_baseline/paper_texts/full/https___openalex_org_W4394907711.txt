@@ -1,0 +1,9 @@
+Title: Investigating the potential of geothermal energy as a sustainable replacement for fossil fuels in commercial buildings
+Authors: Faouzi H. Ouerghi, Mohamed Omri, Kottakkaran Sooppy Nisar, Rasha M. Abd El-Aziz, Ahmed I. Taloba
+Year: 2024
+Venue: Alexandria Engineering Journal
+DOI: https://doi.org/10.1016/j.aej.2024.03.094
+Paper ID: https://openalex.org/W4394907711
+
+Abstract:
+Commercial Buildings release large volumes of greenhouse gases, expediting global warming. The commercial building industry accounts for 37% of global CO2 emissions. Geothermal energy technologies are an intriguing solution that provides a low-impact, emission-free, and cost-effective thermal fuel source for baseload energy production. Geothermal energy systems offer a potential solution to dramatically halt global warming and facilitate the transition to a carbon-neutral civilization. This study develops a framework for assessing the geothermal power capabilities of innovative house and district heating systems. The energy requirements are first assessed, and then the spatial evaluation of district heating infrastructure is carried out using a Python-based program. Economic comparisons between geothermal energy and fossil fuels are made using LCC analysis. Environmental impacts are measured by Life Cycle Analysis (LCA). This study compares geothermal energy to fossil fuels, and the LCA results show that geothermal energy has a low environmental impact. With a Net Present Value (NPV) of 34.81 USD, it displays economic viability as well as a satisfactory financial return. The study's findings show that geothermal energy has the ability to compete with fossil fuels in commercial heating applications while still being environmentally beneficial.

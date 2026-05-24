@@ -1,0 +1,9 @@
+Title: Distinct roles for histone chaperones in the deposition of Htz1 in chromatin
+Authors: Hongde Liu, Min Zhu, Yawen Mu, Lingjie Liu, Guanghui Li, Yakun Wan
+Year: 2014
+Venue: Bioscience Reports
+DOI: 10.1042/BSR20140092
+Paper ID: pmc_PMC4168335
+
+Abstract:
+Histone variant Htz1 substitution for H2A plays important roles in diverse DNA transactions. Histone chaperones Chz1 and Nap1 (nucleosome assembly protein 1) are important for the deposition Htz1 into nucleosomes. In literatures, it was suggested that Chz1 is a Htz1–H2B-specific chaperone, and it is relatively unstructured in solution but it becomes structured in complex with the Htz1–H2B histone dimer. Nap1 (nucleosome assembly protein 1) can bind (H3–H4) 2 tetramers, H2A–H2B dimers and Htz1–H2B dimers. Nap1 can bind H2A–H2B dimer in the cytoplasm and shuttles the dimer into the nucleus. Moreover, Nap1 functions in nucleosome assembly by competitively interacting with non-nucleosomal histone–DNA. However, the exact roles of these chaperones in assembling Htz1-containing nucleosome remain largely unknown. In this paper, we revealed that Chz1 does not show a physical interaction with chromatin. In contrast, Nap1 binds exactly at the genomic DNA that contains Htz1. Nap1 and Htz1 show a preferential interaction with AG-rich DNA sequences. Deletion of chz1 results in a significantly decreased binding of Htz1 in chromatin, whereas deletion of nap1 dramatically increases the association of Htz1 with chromatin. Furthermore, genome-wide nucleosome-mapping analysis revealed that nucleosome occupancy for Htz1p-bound genes decreases upon deleting htz1 or chz1 , suggesting that Htz1 is required for nucleosome structure at the specific genome loci. All together, these results define the distinct roles for histone chaperones Chz1 and Nap1 to regulate Htz1 incorporation into chromatin.

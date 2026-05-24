@@ -1,0 +1,9 @@
+Title: Molybdenum, Vanadium, and Tungsten-Based Catalysts for Sustainable (ep)Oxidation
+Authors: Jana Pisk, Dominique Agustin
+Year: 2022
+Venue: Molecules
+DOI: https://doi.org/10.3390/molecules27186011
+Paper ID: https://openalex.org/W4296282158
+
+Abstract:
+This article gives an overview of the research activity of the LAC2 team at LCC developed at Castres in the field of sustainable chemistry with an emphasis on the collaboration with a research team from the University of Zagreb, Faculty of Science, Croatia. The work is situated within the context of sustainable chemistry for the development of catalytic processes. Those processes imply molecular complexes containing oxido-molybdenum, -vanadium, -tungsten or simple polyoxometalates (POMs) as catalysts for organic solvent-free epoxidation. The studies considered first the influence of the nature of complexes (and related ligands) on the reactivity (assessing mechanisms through DFT calculations) with model substrates. From those model processes, the work has been enlarged to the valorization of biomass resources. A part concerns the activity on vanadium chemistry and the final part concerns the use of POMs as catalysts, from molecular to grafted catalysts, (ep)oxidizing substrates from fossil and biomass resources.

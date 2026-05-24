@@ -1,0 +1,9 @@
+Title: Hybrid adsorption–photocatalysis composites: a sustainable route for efficient water purification
+Authors: Madina Bissenova, Nurlan Idrissov, Zhengisbek Kuspanov, Arman Umirzakov, Chingis Daulbayev
+Year: 2025
+Venue: Materials for Renewable and Sustainable Energy
+DOI: https://doi.org/10.1007/s40243-025-00319-5
+Paper ID: https://openalex.org/W4412189415
+
+Abstract:
+Abstract The convergence of adsorption and photocatalysis in hybrid composites offers a sustainable and energy-efficient strategy for the removal of persistent organic pollutants from water systems. This review presents a comprehensive analysis of recent advances in adsorption–photocatalysis hybrid materials, focusing on the synergistic mechanisms that enhance pollutant capture, photodegradation, and material regeneration. We classify and evaluate three major categories of composites: carbon-based, metal oxide, and polymeric materials, highlighting their physicochemical characteristics, surface morphologies, and functional architectures. Special attention is given to Z-scheme and type II heterojunctions, plasmonic enhancements, and nanoscale engineering that improve solar light harvesting and charge carrier dynamics. The influence of key environmental parameters such as pH, light intensity, and contaminant load is discussed, along with strategies for material optimization and recyclability. Unlike conventional reviews, this work offers a design-focused and environmentally integrated perspective, emphasizing scalable, low-waste, and sunlight-driven solutions for water purification. The insights provided here aim to guide future research on hybrid systems that contribute to the circular economy and renewable energy-based remediation technologies.

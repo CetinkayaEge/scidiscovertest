@@ -1,0 +1,9 @@
+Title: Sustainable Logistics for E-Commerce: A Literature Review and Bibliometric Analysis
+Authors: José Alejandro Cano, Abraham Allec Londoño Pineda, Carolina Rodas
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912247
+Paper ID: https://openalex.org/W4298004852
+
+Abstract:
+This study aims to present a bibliometric analysis and literature review and to identify publications, main topics, and trends in recent years about the sustainability of logistics operations in e-commerce environments. For this, we considered 99 documents from Scopus published in 2021 and 2022 that address logistics, e-commerce, and sustainability. The bibliometric analysis shows that authors from Italy and India stand out for generating the largest number of publications, and correspondingly, institutional affiliations from these countries present the largest scientific production. It is established that journals such as Sustainability, International Journal of Logistics Research and Applications, and Sustainable Cities and Society lead both in the number of published articles and the number of articles with the highest citations. Within the main topics are the sustainability of e-commerce logistics, last-mile logistics and delivery logistics, urban and city logistics, environmental impact, urban transport, packing and packaging, traffic and congestion, supply chains, the effects of the COVID-19 pandemic, China and cross-border e-commerce, vehicle routing, optimization methods, and decision-making techniques in operations for cost and energy efficiency. Similarly, this study identifies the main research trends related to multiple dimensions of sustainability; technological developments including electric vehicles and specialized software; crowdshipping; operation modes such as collection and delivery points, parcel lockers, and micro-depots; and policymaking.

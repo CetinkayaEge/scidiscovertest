@@ -1,0 +1,9 @@
+Title: Recycled graphite for more sustainable lithium‐ion batteries
+Authors: Mayokun Olutogun, Anna Vanderbruggen, Christoph Frey, Martin Rudolph, Dominic Bresser, Stefano Passerini
+Year: 2024
+Venue: Carbon Energy
+DOI: https://doi.org/10.1002/cey2.483
+Paper ID: https://openalex.org/W4391995717
+
+Abstract:
+Abstract The demand for lithium‐ion batteries (LIBs) is driven largely by their use in electric vehicles, which is projected to increase dramatically in the future. This great success, however, urgently calls for the efficient recycling of LIBs at the end of their life. Herein, we describe a froth flotation‐based process to recycle graphite—the predominant active material for the negative electrode—from spent LIBs and investigate its reuse in newly assembled LIBs. It has been found that the structure and morphology of the recycled graphite are essentially unchanged compared to pristine commercial anode‐grade graphite, and despite some minor impurities from the recycling process, the recycled graphite provides a remarkable reversible specific capacity of more than 350 mAh g −1 . Even more importantly, newly assembled graphite‖NMC 532 cells show excellent cycling stability with a capacity retention of 80% after 1000 cycles, that is, comparable to the performance of reference full cells comprising pristine commercial graphite.

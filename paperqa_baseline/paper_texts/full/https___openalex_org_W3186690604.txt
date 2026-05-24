@@ -1,0 +1,9 @@
+Title: Harvesting Crowdsourcing Platforms’ Traffic in Favour of Air Forwarders’ Brand Name and Sustainability
+Authors: Δαμιανός Π. Σακάς, Nikolaos T. Giannakopoulos
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158222
+Paper ID: https://openalex.org/W3186690604
+
+Abstract:
+In the modern digitalised era, the total number of businesses and organisations utilising crowdsourcing services has risen, leading to an increase of their website traffic. In this way, there is plenty of space for marketers and strategists to capitalise big data from both their own and the crowdsourcer’s websites. This can lead to a comprehension of factors affecting their brand name, sustainability (gross profit) and consequently visitor influence. The first of the three staged contexts, based on web data, includes the retrieval of web data analytics and metrics from five air forwarding and five crowdsourcing websites in 210 observation days. At stage two, we deployed a diagnostic-exploratory model, through Fuzzy Cognitive Mapping (FCM), and in the last stage, an Agent-Based Model is deployed for data prediction and simulation. We concluded that crowdsourcing referral traffic increases air forwarders’ top 3 keywords volume, and decreases social traffic and total keywords volume, which then boosts their global web rank and gross profit. The exact opposite results occur with crowdsourcing search traffic. To sum up, the contribution of this paper is to offer realistic and well-informed insights to marketers about SEO and SEM strategies for brand name and profit enhancement, based on harvesting crowdsourcing platform traffic.

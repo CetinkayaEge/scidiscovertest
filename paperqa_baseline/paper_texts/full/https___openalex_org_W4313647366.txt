@@ -1,0 +1,9 @@
+Title: Construction of Sustainable Digital Factory for Automated Warehouse Based on Integration of ERP and WMS
+Authors: Qingfei Tong, Xinguo Ming, Xianyu Zhang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15021022
+Paper ID: https://openalex.org/W4313647366
+
+Abstract:
+The integration and application of a warehouse system and manufacturing system has become a manufacturing problem for enterprises. The main reason is that the information control system based on automation and stereo warehouse is inconsistent with the production and management information system of the enterprise in terms of business, data, functions, etc. Based on this, this paper studies the implementation of an automated warehouse based on the integration of ERP (enterprise resource planning) and WMS (warehouse management system) with the method and technology of the intermediate table. Moreover, MES (manufacturing execution system) is the brain and the core part of a sustainable digital factory. The enterprise adopts advanced intelligent and information technology to build and deploy the MES, realize fine management and agile production, and meet the personalized needs of the market. Therefore, this paper studies the implementation path and effect based on MES from an industrial realization to construct a sustainable digital factory. The research results of this paper can improve industrial efficiency and reduce costs for enterprises in storage capacity, handling capacity, response rate, rate of error, number of operators, etc.

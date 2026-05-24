@@ -1,0 +1,9 @@
+Title: Analyzing the factors contribute to achieving sustainable development goals in Pakistan: A novel policy framework
+Authors: Dinghong Xu, Kashif Raza Abbasi, Khadim Hussain, Abdullah Albaker, Abdulaziz I. Almulhim, Rafael Alvarado
+Year: 2022
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2022.101050
+Paper ID: https://openalex.org/W4312213521
+
+Abstract:
+Pakistan is in a terrifying and devastating energy crisis. Recently, the prediction for energy consumption has intensified compared to its production capacity, which is problematic for Pakistan's social and economic stability. Hence, it is vital to examine the link between power consumption, power prices, urban transition, other electricity use, and economic expansion from 1970 to 2018 in Pakistan. For analysis, the second-generation econometric technique of Lee and Strazicich (2013), novel Augmented Autoregressive Distributed Lag (AARDL), and Frequency Domain Causality (FDC) is useful to detect the long-medium and short-run association among the variables. The results show that power consumption stimulates economic expansion in the short and long-run, though the rise in power prices declines economic activity in the short and long-run. Also, urban transition and other electricity use are a substantial positive and negative impact on economic expansion in the short and long-run. The outcome suggests that efficient energy supply, low-cost power prices, proper urban transition management, and other energy use could be useful for policymakers to achieve SDGs 7 and 11 in Pakistan.

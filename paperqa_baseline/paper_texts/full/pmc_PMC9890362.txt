@@ -1,0 +1,9 @@
+Title: Gold Nanoparticle and Polymerase Chain Reaction (PCR)-Based Colorimetric Assay for the Identification of Campylobacter spp. in Chicken Carcass
+Authors: Seung-Hwan Hong, Kun-Ho Seo, Sung Ho Yoon, Soo-Ki Kim, Jungwhan Chon
+Year: 2023
+Venue: Food Science of Animal Resources
+DOI: 10.5851/kosfa.2022.e59
+Paper ID: pmc_PMC9890362
+
+Abstract:
+Abstract Campylobacteriosis is a common cause of gastrointestinal disease. In this study, we suggest a general strategy of applying gold nanoparticles (AuNPs) in colorimetric biosensors to detect Campylobacter in chicken carcass. Polymerase chain reaction (PCR) was utilized for the amplification of the target genes, and the thiolated PCR products were collected. Following the blending of colloid AuNPs with PCR products, the thiol bound to the surface of AuNPs, forming AuNP-PCR products. The PCR products had a sufficient negative charge, which enabled AuNPs to maintain a dispersed formation under electrostatic repulsion. This platform presented a color change as AuNPs aggregate. It did not need additional time and optimization of pH for PCR amplicons to adhere to the AuNPs. The specificity of AuNPs of modified primer pairs for mapA from Campylobacter jejuni and ceuE from Campylobacter coli was activated perfectly ( C. jejuni , p-value: 0.0085; C. coli , p-value: 0.0239) when compared to Salmonella Enteritidis and Escherichia coli as non- Campylobacter species. Likewise, C. jejuni was successfully detected from artificially contaminated chicken carcass samples. According to the sensitivity test, at least 15 ng/μL of Campylobacter PCR products or 1×10 3 CFU/mL of cells in the broth was needed for the detection using the optical method.

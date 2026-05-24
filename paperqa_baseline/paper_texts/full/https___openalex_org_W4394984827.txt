@@ -1,0 +1,9 @@
+Title: Sustainable solutions for railway using recycled rubber
+Authors: Yujie Qi, Buddhima Indraratna, Trung Ngo, Chathuri Arachchige, Suwan Hettiyahandi
+Year: 2024
+Venue: Transportation Geotechnics
+DOI: https://doi.org/10.1016/j.trgeo.2024.101256
+Paper ID: https://openalex.org/W4394984827
+
+Abstract:
+This paper introduces four innovative applications of waste rubber from scrapped tyres or conveyor belts in railway tracks. They include (a) a synthetic energy-absorbing layer of coalwash, steel furnace slag and rubber crumbs (SFS + CW + RC) for railway subballast, (b) a rubber inter-mixed ballast system (RIBS), (c) energy-absorbing rubber geogrids, and (d) a hybrid track incorporating tyre cells and elements of off-the-road truck tyres. Comprehensive laboratory and field tests have been conducted to investigate the geotechnical properties of these applications. Specifically, an empirical model was developed to predict the permanent deformation response of SFS + CW + RC mixtures that incorporate the effect of granular rubber and axial loads based on cyclic triaxial tests. Large-scale triaxial tests and field trials proved that RIBS exhibited improved energy-absorbing properties, sufficient shear strength and the promising ability to mitigate ballast breakage and stress distribution. A rubber geogrid with an optimal rib thickness of 10.6 mm was selected based on drop-hammer impact tests. The performance of the hybrid track was investigated using the National Testing Facility for High-speed Rail (NTFHR), from which it was found that the reinforced track had significantly less settlement, lateral deformation and ballast breakage than the traditional track.

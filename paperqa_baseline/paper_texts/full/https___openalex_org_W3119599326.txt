@@ -1,0 +1,9 @@
+Title: 100% Sustainable Electricity in the Faroe Islands: Expansion Planning Through Economic Optimization
+Authors: Helma Maria Tróndheim, Bárður Arnsteinsson Niclasen, Terji Nielsen, Filipe Faria da Silva, Claus Leth Bak
+Year: 2021
+Venue: IEEE Open Access Journal of Power and Energy
+DOI: https://doi.org/10.1109/oajpe.2021.3051917
+Paper ID: https://openalex.org/W3119599326
+
+Abstract:
+SEV, the Faroese Power Company, has a vision to reach a 100% renewable power system by 2030. SEV is committed to achieve this, starting from a 41% share of renewables in 2019. A detailed expansion plan for the generation, storage and transmission is needed to reach this goal. This is the focus of this study. Practical constrains e.g. resource potential and available space must be considered. Balmorel, an optimisation tool, has been used to optimise investments and dispatch. A method to translate optimal results to a realistic RoadMap was developed and applied. The impact of different technologies and costs has been investigated through multiple scenarios. In ratios of average consumption in 2030, installed power will be 224% wind, 105% solar with 8–9 days of pumped hydro storage according to the proposed RoadMap. The plan is economically favorable up to 87% of renewables, but in order to reach a 100% renewable production in an average weather year, the renewable generation capacity has to be increased by 80%. The study also shows that if biofules or tidal technologies become viable, these will be game changers needing a significantly lower total sum of installed renewable power.

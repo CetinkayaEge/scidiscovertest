@@ -1,0 +1,9 @@
+Title: Emerging Sustainable Supply Chain Models for 3D Food Printing
+Authors: Helen Rogers, Mohit Srivastava
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132112085
+Paper ID: https://openalex.org/W3208183015
+
+Abstract:
+3D printing technology is rapidly transforming supply chains across diverse manufacturing sectors, enabling personalisation of consumer goods ranging from car parts, medical devices, toys, houses, and even clothing. Food production is also included in the breadth of applications of this expanding technology. Increasing consumer awareness about sustainability, including the problem of food waste, as well as growing interest in customised nutrition have led to the emergence of food industry research focused on aspects, such as packaging, portion size, and healthy sustainable ingredients, to satisfy consumer demands. The growing market for personalised food options in particular, requires increased flexibility and agility to tailor ingredients to an individual’s specific requirements. Such specificity is not easily fulfilled using traditional mass production methods; however, the emerging technology of 3D food printing (3DFP) may be one solution. This paper evaluates the opportunities, risks, and challenges associated with 3DFP, with a focus on developing sustainable supply chains for future growth. Drawing on 12 semi-structured interviews with 3DFP industry managers and current literature in the domain, we propose three supply chain models for 3DFP services, as well as an overview of the key business drivers.

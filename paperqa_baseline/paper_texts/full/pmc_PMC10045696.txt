@@ -1,0 +1,9 @@
+Title: Serial Interval and Incubation Period Estimates of Monkeypox Virus Infection in 12 Jurisdictions, United States, May–August 2022
+Authors: Zachary J. Madewell, Kelly Charniga, Nina B. Masters, Jason Asher, Lily Fahrenwald, William Still, Judy Chen, Naama Kipperman, David Bui, Meghan Shea, Katharine Saunders, Lori Saathoff-Huber, Shannon Johnson, Khalil Harbi, Abby L. Berns, Taidy Perez, Emily Gateley, Ian H. Spicknall, Yoshinori Nakazawa, Thomas L. Gift
+Year: 2023
+Venue: Emerging Infectious Diseases
+DOI: 10.3201/eid2904.221622
+Paper ID: pmc_PMC10045696
+
+Abstract:
+Using data from 12 US health departments, we estimated mean serial interval for monkeypox virus infection to be 8.5 (95% credible interval 7.3–9.9) days for symptom onset, based on 57 case pairs. Mean estimated incubation period was 5.6 (95% credible interval 4.3–7.8) days for symptom onset, based on 35 case pairs.

@@ -1,0 +1,9 @@
+Title: Airborne laser scanning for quantifying criteria and indicators of sustainable forest management in Canada
+Authors: Tristan R.H. Goodbody, Nicholas C. Coops, J. Luther, Piotr Tompalski, Christopher Mulverhill, Catherine Frizzle, Richard Fournier, Shane Furze, Sam Herniman
+Year: 2021
+Venue: Canadian Journal of Forest Research
+DOI: https://doi.org/10.1139/cjfr-2020-0424
+Paper ID: https://openalex.org/W3174190519
+
+Abstract:
+Airborne laser scanning (ALS) has emerged as a technology capable of generating descriptors of vegetation structure and best available terrain information. Research and operational implementations of ALS data have highlighted their value for characterizing forest structure and generating spatially explicit and objective spatial coverages and mapping products for forest management. Continued emphasis to enhance forest stewardship is promoting novel methods to integrate ALS to detail non-timber ecosystem values like habitat, soil, and water. Standardized criteria and indicator frameworks such as the Canadian Council of Forest Ministers provide a reliable starting point for where ALS has opportunities to characterize ecosystems objectively regardless of location. In this review of primarily Canadian work, we highlight how ALS is becoming an increasingly viable technology for deriving meaningful indicators to meet sustainable forest management criteria. We review and highlight the value of ALS for quantifying indicators of biological diversity, ecosystem condition and productivity, soil and water, and the role of forests in global ecological cycles. We conclude by highlighting the need for increased education, tech transfer, flexible software, and reporting frameworks alongside five key considerations for using ALS to derive meaningful indicators of sustainable forest management.

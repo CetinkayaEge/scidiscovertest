@@ -1,0 +1,9 @@
+Title: Multiobjective Optimization of Sustainable WCO for Biodiesel Supply Chain Network Design
+Authors: Nana Geng, Yixiang Sun
+Year: 2021
+Venue: Discrete Dynamics in Nature and Society
+DOI: https://doi.org/10.1155/2021/6640358
+Paper ID: https://openalex.org/W3134742544
+
+Abstract:
+Bioenergy is attracting more attention worldwide due to its environmental and economic benefits. The design of a feasible biodiesel supply chain network can effectively improve the production and use of biodiesel and then further promote the development of the biodiesel industry. As an easy recyclable material with high yield, kitchen waste has a good prospect and can solve public health and safety problems. This paper takes the kitchen waste producing biodiesel as the object to design and optimize the biodiesel supply chain in order to improve the sustainable development of biodiesel industry and the operational efficiency of the biodiesel supply chain. By designing a sustainable biodiesel supply chain model under defined conditions, it proposes strategic and tactical decisions related to location, production, inventory, and distribution within multiple planning cycles. In order to effectively solve the model, a Pareto optimal NSGAII heuristic algorithm is proposed and applied to a practical case study of restaurants in Jiangsu Province. The efficiency of the method and the optimal solution are verified by a case study. The overall optimization of biodiesel supply can effectively improve the efficiency of supply chain, reduce system cost, improve the profit of biodiesel operators, and promote the sustainable development of biodiesel industry, which has important guiding significance and reference value for the practice of biodiesel supply chain network planning.

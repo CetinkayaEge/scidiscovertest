@@ -1,0 +1,9 @@
+Title: An FGF timer for zygotic genome activation
+Authors: Nicholas Treen, Emily Chavarria, Claire J. Weaver, Clifford P. Brangwynne, Michael Levine
+Year: 2023
+Venue: Genes & Development
+DOI: 10.1101/gad.350164.122
+Paper ID: pmc_PMC10069452
+
+Abstract:
+Here, Treen et al. investigated the precise timing of gene induction during the earliest phases of embryogenesis and used high-resolution in situ detection methods, along with genetic and experimental manipulations, to study the timing of zygotic activation in the simple model chordate Ciona intestinalis with minute-scale temporal precision. Their findings support a FGF timing mechanism that is driven by ERK-mediated derepression of the ERF repressor. Zygotic genome activation has been extensively studied in a variety of systems including flies, frogs, and mammals. However, there is comparatively little known about the precise timing of gene induction during the earliest phases of embryogenesis. Here we used high-resolution in situ detection methods, along with genetic and experimental manipulations, to study the timing of zygotic activation in the simple model chordate Ciona with minute-scale temporal precision. We found that two Prdm1 homologs in Ciona are the earliest genes that respond to FGF signaling. We present evidence for a FGF timing mechanism that is driven by ERK-mediated derepression of the ERF repressor. Depletion of ERF results in ectopic activation of FGF target genes throughout the embryo. A highlight of this timer is the sharp transition in FGF responsiveness between the eight- and 16-cell stages of development. We propose that this timer is an innovation of chordates that is also used by vertebrates.

@@ -1,0 +1,9 @@
+Title: Unveiling Long-Lived Hot-Electron Dynamics via Hyperbolic Meta-antennas
+Authors: Rakesh Dhama, Mohsin Habib, Alireza R. Rashed, Humeyra Caglayan
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c03922
+Paper ID: pmc_PMC10141405
+
+Abstract:
+Conventional plasmonic nanoantennas enable scattering and absorption bands at the same wavelength region, making their utilization to full potential impossible for both features simultaneously. Here, we take advantage of spectrally separated scattering and absorption resonance bands in hyperbolic meta-antennas (HMA) to enhance the hot-electron generation and prolong the relaxation dynamics of hot carriers. First, we show that HMA enables extending plasmon-modulated photoluminescence spectrum toward longer wavelengths due to its particular scattering spectrum, in comparison to the corresponding nanodisk antennas (NDA). Then, we demonstrate that the tunable absorption band of HMA controls and modifies the lifetime of the plasmon-induced hot electrons with enhanced excitation efficiency in the near-infrared region and also broadens the utilization of the visible/NIR spectrum in comparison to NDA. Thus, the rational heterostructures designed by plasmonic and adsorbate/dielectric layers with such dynamics can be a platform for optimization and engineering the utilization of plasmon-induced hot carriers.

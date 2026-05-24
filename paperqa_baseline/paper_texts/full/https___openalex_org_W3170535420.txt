@@ -1,0 +1,9 @@
+Title: Spectral envelope position and shape in sustained musical instrument sounds
+Authors: Kai Siedenburg, Simon Jacobsen, Christoph Reuter
+Year: 2021
+Venue: The Journal of the Acoustical Society of America
+DOI: https://doi.org/10.1121/10.0005088
+Paper ID: https://openalex.org/W3170535420
+
+Abstract:
+It has been argued that the relative position of spectral envelopes along the frequency axis serves as a cue for musical instrument size (e.g., violin vs viola) and that the shape of the spectral envelope encodes family identity (violin vs flute). It is further known that fundamental frequency (F0), F0-register for specific instruments, and dynamic level strongly affect spectral properties of acoustical instrument sounds. However, the associations between these factors have not been rigorously quantified for a representative set of musical instruments. Here, we analyzed 5640 sounds from 50 sustained orchestral instruments sampled across their entire range of F0s at three dynamic levels. Regression of spectral centroid (SC) values that index envelope position indicated that smaller instruments possessed higher SC values for a majority of instrument classes (families), but SC also correlated with F0 and was strongly and consistently affected by the dynamic level. Instrument classification using relatively low-dimensional cepstral audio descriptors allowed for discrimination between instrument classes with accuracies beyond 80%. Envelope shape became much less indicative of instrument class whenever the classification problem involved generalization to different dynamic levels or F0-registers. These analyses confirm that spectral envelopes encode information about instrument size and family identity and highlight their dependence on F0(-register) and dynamic level.

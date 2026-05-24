@@ -1,0 +1,9 @@
+Title: Sustainable nanostructured electrolyte additives for stable metal anodes
+Authors: Wenjie Fan, Huanlei Wang, Jingyi Wu
+Year: 2024
+Venue: eScience
+DOI: https://doi.org/10.1016/j.esci.2024.100248
+Paper ID: https://openalex.org/W4392028791
+
+Abstract:
+Metal anodes (e.g., Li and Zn) are promising candidates for high-energy and high-power rechargeable batteries. However, the commercialization of metal anodes is hampered by irregular dendrite growth, which severely deteriorates the safety and cyclability of metal anodes. Optimizing the electrolyte by nanostructured additives to regulate the metal deposition shows great potential since the electrochemically nonreactive feature endows the regulation function with good sustainability. In this manuscript, the fundamental dendrite formation models and key parameters for stabilizing metal anode are first discussed. The progress and functional mechanism of nanostructured additives for regulating the metal deposition are summarized in terms of regulatory model, i.e., deposition-, adsorption- and dispersion-type. Finally, we also provide a detailed concluding outlook, pointing out the future trend of selecting new nanostructured additive candidates and elucidating synergistic effects and underlying mechanisms with the key attention being given to the assessments of practicality.

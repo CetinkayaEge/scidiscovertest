@@ -1,0 +1,9 @@
+Title: U.S. Solar Photovoltaic System and Energy Storage Cost Benchmarks, With Minimum Sustainable Price Analysis: Q1 2022
+Authors: Vignesh Ramasamy, Jarett Zuboy, Eric O’Shaughnessy, David Feldman, Jal Desai, Michael Woodhouse, Paul A. Basore, Robert Margolis
+Year: 2022
+Venue: 
+DOI: https://doi.org/10.2172/1891204
+Paper ID: https://openalex.org/W4303696848
+
+Abstract:
+NREL's bottom-up cost models can be used to assess the minimum sustainable price (MSP) and modeled market price (MMP) of PV and storage systems having various configurations. MSP can be used to estimate future potential cost-reduction opportunities for PV and PV-plus-storage systems, thus helping guide research and development aimed at advancing cost-effective system configurations. MMP can be used to understand the cost of systems under recent market conditions. The MSP data in this annual benchmarking report will be used to inform the formulation of, and track progress toward, the Solar Energy Technologies Office's Government Performance and Reporting Act cost targets.

@@ -1,0 +1,9 @@
+Title: Using Amino-Labeled Nucleotide Probes for Simultaneous Single Molecule RNA-DNA FISH
+Authors: Reelina Basu, Lan-Tian Lai, Zhenyu Meng, Jun Wu, Fangwei Shao, Li-Feng Zhang
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107425
+Paper ID: pmc_PMC4167323
+
+Abstract:
+Using amino-labeled oligonucleotide probes, we established a simple, robust and low-noise method for simultaneous detection of RNA and DNA by fluorescence in situ hybridization, a highly useful tool to study the large pool of long non-coding RNAs being identified in the current research. With probes either chemically or biologically synthesized, we demonstrate that the method can be applied to study a wide range of RNA and DNA targets at the single-cell and single-molecule level in cellular contexts.

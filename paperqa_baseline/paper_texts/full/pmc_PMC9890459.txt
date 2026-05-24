@@ -1,0 +1,9 @@
+Title: A connectome-based neuromarker of nonverbal number acuity and arithmetic skills
+Authors: Dai Zhang, Liqin Zhou, Anmin Yang, Shanshan Li, Chunqi Chang, Jia Liu, Ke Zhou
+Year: 2023
+Venue: Cerebral Cortex (New York, NY)
+DOI: 10.1093/cercor/bhac108
+Paper ID: pmc_PMC9890459
+
+Abstract:
+Abstract The approximate number system (ANS) is vital for survival and reproduction in animals and is crucial for constructing abstract mathematical abilities in humans. Most previous neuroimaging studies focused on identifying discrete brain regions responsible for the ANS and characterizing their functions in numerosity perception. However, a neuromarker to characterize an individual’s ANS acuity is lacking, especially one based on whole-brain functional connectivity (FC). Here, based on the resting-state functional magnetic resonance imaging (rs-fMRI) data obtained from a large sample, we identified a distributed brain network (i.e. a numerosity network) using a connectome-based predictive modeling (CPM) analysis. The summed FC strength within the numerosity network reliably predicted individual differences in ANS acuity regarding behavior, as measured using a nonsymbolic number-comparison task. Furthermore, in an independent dataset of the Human Connectome Project (HCP), we found that the summed FC strength within the numerosity network also specifically predicted individual differences in arithmetic skills, but not domain-general cognitive abilities. Therefore, our findings revealed that the identified numerosity network could serve as an applicable neuroimaging-based biomarker of nonverbal number acuity and arithmetic skills.

@@ -1,0 +1,9 @@
+Title: Systems Thinking for Planning Sustainable Desert Agriculture Systems with Saline Groundwater Irrigation: A Review
+Authors: Sangmin Shin, Danyal Aziz, Mohamed E. A. El-Sayed, Mohamed Hazman, Lal K. Almas, Mike McFarland, Ali Shams El Din, Steven J. Burian
+Year: 2022
+Venue: Water
+DOI: https://doi.org/10.3390/w14203343
+Paper ID: https://openalex.org/W4307183660
+
+Abstract:
+Agricultural land expansion is a solution to address global food security challenges in the context of climate change. However, the sustainability of expansion in arid countries is difficult because of scarce surface water resources, groundwater salinity, and the health of salt-affected soil. Developing expansion and sustainability plans for agriculture requires systems thinking, considering the complex feedback interactions between saline groundwater, salt-affected soil, plant growth, freshwater mixing with saline groundwater, irrigation systems, and the application of soil amendments to alleviate the salinity impacts. This study presents an extensive literature review on the effects of salinity on soil and plant health, the constraints and opportunities for sustainable agriculture in Egypt, and a systems thinking approach to the feedback interactions between saline water, salt-affected soil, and the application of soil amendments to achieve required crop yields. Insights and strategies are discussed, including a system-dynamics-based decision model, irrigation systems with diversified and decentralized water sources, urban water demand management, energy availability, smart irrigation systems, and active participation of stakeholders to achieve sustainable agriculture under climate and socioeconomic changes. The insights are expected to encourage stakeholders and academic communities in the water, agriculture, and related food security sectors to develop a quantitative and systematic decision-making framework for sustainable agriculture systems in arid regions.

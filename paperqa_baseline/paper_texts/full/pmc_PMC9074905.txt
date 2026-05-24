@@ -1,0 +1,9 @@
+Title: Ligands with polyfluorophenyl moieties promote a local structural rearrangement in the Spinach2 and Broccoli aptamers that increases ligand affinities
+Authors: Sharif Anisuzzaman, Ivan M. Geraskin, Muslum Ilgu, Lee Bendickson, George A. Kraus, Marit Nilsen-Hamilton
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.079005.121
+Paper ID: pmc_PMC9074905
+
+Abstract:
+The interaction of nucleic acids with their molecular targets often involves structural reorganization that may traverse a complex folding landscape. With the more recent recognition that many RNAs, both coding and noncoding, may regulate cellular activities by interacting with target molecules, it becomes increasingly important to understand how nucleic acids interact with their targets and how drugs might be developed that can influence critical folding transitions. We have extensively investigated the interaction of the Spinach2 and Broccoli aptamers with a library of small molecule ligands modified by various extensions from the imido nitrogen of DFHBI [(Z)-5-(3,5-difluoro-4-hydroxybenzylidene)-2,3-dimethyl-3,5-dihydro-4H-imidazol-4-one] that reach out from the Spinach2 ligand binding pocket. Studies of the interaction of these compounds with the aptamers revealed that polyfluorophenyl-modified ligands initiate a slow change in aptamer affinity that takes an extended time (half-life of ∼40 min) to achieve. The change in affinity appears to involve an initial disruption of the entrance to the ligand binding pocket followed by a gradual transition to a more defined structure for which the most likely driving force is an interaction of the gateway adenine with a nearby 2′OH group. These results suggest that polyfluorophenyl modifications might increase the ability of small molecule drugs to disrupt local structure and promote RNA remodeling.

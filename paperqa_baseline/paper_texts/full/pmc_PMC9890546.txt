@@ -1,0 +1,9 @@
+Title: Atomic scale insights into the epitaxial growth mechanism of 2D Cr 3 Te 4 on mica †
+Authors: Hailin Yang, An Wu, Huaxin Yi, Weiwei Cao, Jiandong Yao, Guowei Yang, Yi-Chao Zou
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00835a
+Paper ID: pmc_PMC9890546
+
+Abstract:
+Two-dimensional (2D) magnetic materials are of wide research interest owing to their promising applications in spintronic devices. Among them, chromium chalcogenide compounds are some of the limited available systems that present both high stability in air and high Curie temperatures. Epitaxial growth techniques based on chemical vapour deposition (CVD) have been demonstrated to be a robust method for growing 2D non-layered chromium chalcogenides. However, the growth mechanism is not well-understood. Here, we demonstrate the epitaxial growth of Cr 3 Te 4 nanoplates with high quality on mica. Atomic-resolution scanning transmission electron microscopy (STEM) imaging reveals that the epitaxial growth is based on nanosized chromium oxide seed particles at the interface of Cr 3 Te 4 and mica. The chromium oxide nanoparticle exhibits a coherent interface with both mica and Cr 3 Te 4 with a lattice mismatch within 3%, suggesting that, as a buffer layer, chromium oxide can release the interfacial strain, and induce the growth of Cr 3 Te 4 although there is a distinct oxygen-content difference between mica and Cr 3 Te 4 . This work provides an experimental understanding behind the epitaxial growth of 2D magnetic materials at the atomic scale and facilitates the improvement of their growth procedures for devices with high crystalline quality. Epitaxial growth of high-quality two-dimensional Cr 3 Te 4 crystals on mica was facilitated by a buffer layer of chromium oxide seed particles in chemical vapour deposition.

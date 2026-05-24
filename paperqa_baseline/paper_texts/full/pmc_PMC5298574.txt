@@ -1,0 +1,9 @@
+Title: A Unified Framework for Street-View Panorama Stitching
+Authors: Li Li, Jian Yao, Renping Xie, Menghan Xia, Wei Zhang
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010001
+Paper ID: pmc_PMC5298574
+
+Abstract:
+In this paper, we propose a unified framework to generate a pleasant and high-quality street-view panorama by stitching multiple panoramic images captured from the cameras mounted on the mobile platform. Our proposed framework is comprised of four major steps: image warping, color correction, optimal seam line detection and image blending. Since the input images are captured without a precisely common projection center from the scenes with the depth differences with respect to the cameras to different extents, such images cannot be precisely aligned in geometry. Therefore, an efficient image warping method based on the dense optical flow field is proposed to greatly suppress the influence of large geometric misalignment at first. Then, to lessen the influence of photometric inconsistencies caused by the illumination variations and different exposure settings, we propose an efficient color correction algorithm via matching extreme points of histograms to greatly decrease color differences between warped images. After that, the optimal seam lines between adjacent input images are detected via the graph cut energy minimization framework. At last, the Laplacian pyramid blending algorithm is applied to further eliminate the stitching artifacts along the optimal seam lines. Experimental results on a large set of challenging street-view panoramic images captured form the real world illustrate that the proposed system is capable of creating high-quality panoramas.

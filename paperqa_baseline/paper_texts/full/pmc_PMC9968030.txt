@@ -1,0 +1,9 @@
+Title: Case Studies with the Contiki-NG Simulator to Design Strategies for Sensors’ Communication Optimization in an IoT-Fog Ecosystem
+Authors: Antonio Marcos Almeida Ferreira, Leonildo José de Melo de Azevedo, Júlio Cezar Estrella, Alexandre Cláudio Botazzo Delbem
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042300
+Paper ID: pmc_PMC9968030
+
+Abstract:
+With the development of mobile communications and the Internet of Things (IoT), IoT devices have increased, allowing their application in numerous areas of Industry 4.0. Applications on IoT devices are time sensitive and require a low response time, making reducing latency in IoT networks an essential task. However, it needs to be emphasized that data production and consumption are interdependent, so when designing the implementation of a fog network, it is crucial to consider criteria other than latency. Defining the strategy to deploy these nodes based on different criteria and sub-criteria is a challenging optimization problem, as the amount of possibilities is immense. This work aims to simulate a hybrid network of sensors related to public transport in the city of São Carlos - SP using Contiki-NG to select the most suitable place to deploy an IoT sensor network. Performance tests were carried out on five analyzed scenarios, and we collected the transmitted data based on criteria corresponding to devices, applications, and network communication on which we applied Multiple Attribute Decision Making (MADM) algorithms to generate a multicriteria decision ranking. The results show that based on the TOPSIS and VIKOR decision-making algorithms, scenario four is the most viable among those analyzed. This approach makes it feasible to optimally select the best option among different possibilities.

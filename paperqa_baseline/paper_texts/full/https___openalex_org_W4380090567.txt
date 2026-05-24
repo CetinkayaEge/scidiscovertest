@@ -1,0 +1,9 @@
+Title: Vitrification and nanowarming enable long-term organ cryopreservation and life-sustaining kidney transplantation in a rat model
+Authors: Zonghu Han, Joseph Sushil Rao, Lakshya Gangwar, Bat‐Erdene Namsrai, Jacqueline L. Pasek-Allen, Michael L. Etheridge, Susan M. Wolf, Timothy L. Pruett, John C. Bischof, Erik B. Finger
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-38824-8
+Paper ID: https://openalex.org/W4380090567
+
+Abstract:
+Banking cryopreserved organs could transform transplantation into a planned procedure that more equitably reaches patients regardless of geographical and time constraints. Previous organ cryopreservation attempts have failed primarily due to ice formation, but a promising alternative is vitrification, or the rapid cooling of organs to a stable, ice-free, glass-like state. However, rewarming of vitrified organs can similarly fail due to ice crystallization if rewarming is too slow or cracking from thermal stress if rewarming is not uniform. Here we use "nanowarming," which employs alternating magnetic fields to heat nanoparticles within the organ vasculature, to achieve both rapid and uniform warming, after which the nanoparticles are removed by perfusion. We show that vitrified kidneys can be cryogenically stored (up to 100 days) and successfully recovered by nanowarming to allow transplantation and restore life-sustaining full renal function in nephrectomized recipients in a male rat model. Scaling this technology may one day enable organ banking for improved transplantation.

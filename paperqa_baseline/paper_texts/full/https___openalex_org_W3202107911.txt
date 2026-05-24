@@ -1,0 +1,9 @@
+Title: Investigation of Big Data Analytics for Sustainable Smart City Development: An Emerging Country
+Authors: Mohammed Arshad Khan, Mohd Shuaib Siddiqui, Mohammad Khalid Imam Rahmani, Shahid Husain
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3115987
+Paper ID: https://openalex.org/W3202107911
+
+Abstract:
+In the data-driven world, data is created in huge volume and then analyzed by several organizations to get benefit from them. Smart city is one of the examples to use big data to offer improved services for its resident and tourist. However, some countries face certain obstacles to analyze the big data integration for sustainability in smart city development. Therefore, the purpose of this research paper is to identify and analyze the significant barriers related to sustainable smart city development. To accomplish this objective, fourteen barriers of big data analytics are selected through the combined approach of literature review and expert input. After that, these barriers are evaluated using the best worst method for obtaining deeper insights. The result of this study reveals that the most significant barrier is ‘lack of technologies for BDA’, ‘lack of BDA framework’, ‘nature of big data’, and ‘low availability of analytics platforms for big data’. These barriers need to address on priority to develop a sustainable smart city. This study is helpful to the urban planner, government, and consultancy agencies to decide on the adoption of BDA for sustainable smart city development. Further, they can also optimize their resources in the best possible manner to achieve the sustainable development of the existing smart cities.

@@ -1,0 +1,9 @@
+Title: Determination of binding affinity of tunicamycin with SARS-CoV-2 proteins: Proteinase, protease, nsp2, nsp9, ORF3a, ORF7a, ORF8, ORF9b, envelope and RBD of spike glycoprotein
+Authors: Ali Adel Dawood
+Year: 2023
+Venue: Vacunas (English Edition)
+DOI: 10.1016/j.vacune.2023.02.001
+Paper ID: pmc_PMC9969538
+
+Abstract:
+Introduction Despite the availability of several COVID-19 vaccines, the incidence of infections remains a serious issue. Tunicamycin (TM), an antibiotic, inhibited tumor growth, reduced coronavirus envelope glycoprotein subunit 2 synthesis, and decreased N-linked glycosylation of coronavirus glycoproteins . Objectives Our study aimed to determine how tunicamycin interacts with certain coronavirus proteins (proteinase, protease, nsp9, ORF7a, ORF3a, ORF9b, ORF8, envelope protein, nsp2, and RBD of spike glycoprotein). Methods : Several types of chemo and bioinformatics tools were used to achieve the aim of the study. As a result, virion's effectiveness may be impaired. Results TM can bind to viral proteins with various degrees of affinity. The proteinase had the highest binding affinity with TM. Proteins (ORF9b, ORF8, nsp9, and RBD) were affected by unfavorable donor or acceptor bonds that impact the degree of docking. ORF7a had the weakest affinities. Conclusions This antibiotic is likely to effect on SARS-CoV-2 in clinical studies.

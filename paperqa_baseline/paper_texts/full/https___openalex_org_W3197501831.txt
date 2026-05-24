@@ -1,0 +1,9 @@
+Title: Agricultural impacts of sustainable water use in the United States
+Authors: Neal T. Graham, Gokul Iyer, Mohamad Hejazi, Son H. Kim, Pralit Patel, Matthew Binsted
+Year: 2021
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-021-96243-5
+Paper ID: https://openalex.org/W3197501831
+
+Abstract:
+Governance measures such as restrictions on groundwater pumping and adjustments to sectoral water pricing have been suggested as response strategies to curtail recent increases in groundwater pumping and enhance sustainable water use. However, little is known about the impacts of such sustainability strategies. We investigate the implications of such measures, with the United States (U.S.) as an example. Using the Global Change Analysis Model (GCAM) with state-level details in the U.S., we find that the combination of these two governance measures can drastically alter agricultural production in the U.S. The Southwest stands to lose upwards of 25% of their total agricultural production, much of which is compensated for by production increases in river basins on the east coast of the U.S. The implementation of future sustainable water governance measures will require additional investments that allow farmers to maximize production while minimizing water withdrawals to avoid potentially detrimental revenue losses.

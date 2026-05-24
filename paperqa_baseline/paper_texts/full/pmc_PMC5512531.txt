@@ -1,0 +1,9 @@
+Title: Identification of Material Parameters for the Simulation of Acoustic Absorption of Fouled Sintered Fiber Felts
+Authors: Nicolas Lippitz, Christopher Blech, Sabine Langer, Joachim Rösler
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080709
+Paper ID: pmc_PMC5512531
+
+Abstract:
+As a reaction to the increasing noise pollution, caused by the expansion of airports close to residential areas, porous trailing edges are investigated to reduce the aeroacoustic noise produced by flow around the airframe. Besides mechanical and acoustical investigations of porous materials, the fouling behavior of promising materials is an important aspect to estimate the performance in long-term use. For this study, two sintered fiber felts were selected for a long-term fouling experiment where the development of the flow resistivity and accumulation of dirt was observed. Based on 3D structural characterizations obtained from X-ray tomography of the initial materials, acoustic models (Biot and Johnson–Champoux–Allard) in the frame of the transfer matrix method were applied to the sintered fiber felts. Flow resistivity measurements and the measurements of the absorption coefficient in an impedance tube are the basis for a fouling model for sintered fiber felts. The contribution will conclude with recommendations concerning the modeling of pollution processes of porous materials.

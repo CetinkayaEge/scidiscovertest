@@ -1,0 +1,9 @@
+Title: Electrocatalytic oxidation of 5‐hydroxymethylfurfural for sustainable 2,5‐furandicarboxylic acid production—From mechanism to catalysts design
+Authors: Xiaoli Jiang, Wei Li, Yanxia Liu, Lin Zhao, Zhikai Chen, Lan Zhang, Yagang Zhang, Sining Yun
+Year: 2023
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.109
+Paper ID: https://openalex.org/W4319834666
+
+Abstract:
+Abstract Catalytic conversion of biomass‐based platform chemicals is one of the significant approaches to utilize renewable biomass resources. 2,5‐Furandicarboxylic acid (FDCA), obtained by an electrocatalytic oxidation of 5‐hydroxymethylfurfural (HMF), has attracted extensive attention due to the potential of replacing terephthalic acid to synthesize high‐performance polymeric materials for commercialization. In the present work, the pH‐dependent reaction pathways and factors influencing the degree of functional group oxidation are first discussed. Then the reaction mechanism of HMF oxidation is further elucidated using the representative examples. In addition, the emerging catalyst design strategies (defects, interface engineering) used in HMF oxidation are generalized, and structure–activity relationships between the abovementioned strategies and catalysts performance are analyzed. Furthermore, cathode pairing reactions, such as hydrogen evolution reaction, CO 2 reduction reaction (CO 2 RR), oxygen reduction reaction, and thermodynamically favorable organic reactions to lower the cell voltage of the electrolysis system, are discussed. Finally, the challenges and prospects of the electrochemical oxidation of HMF for FDCA are presented, focusing on deeply investigated reaction mechanism, coupling reaction, reactor design, and downstream product separation/purification.

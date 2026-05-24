@@ -1,0 +1,9 @@
+Title: Electrospun Nanofibers of Polycaprolactone/Collagen as a Sustained-Release Drug Delivery System for Artemisinin
+Authors: Peipei Huo, Xinxu Han, W. Zhang, Jing Zhang, Parveen Kumar, Bo Liu
+Year: 2021
+Venue: Pharmaceutics
+DOI: https://doi.org/10.3390/pharmaceutics13081228
+Paper ID: https://openalex.org/W3190737588
+
+Abstract:
+The application of artemisinin (ART) in the treatment of malaria has been restricted to a certain degree due to its inherent limitations, such as short half-life, poor solubility, limited bioavailability, and re-crystallization. Electrospun nanofibers loaded with ART provide an excellent solution to these limitations and yield sustained drug release as well as inhibition of drug re-crystallization. In this study, ART-loaded polycaprolactone (PCL)/collagen (Col) nanofibers with different proportions of polymers were prepared. ART-loaded PCL/Col nanofibers were characterized, and further ART anti-crystallization and release behaviors were studied. SEM was used to observe the morphology of PCL/Col nanofibers. X-ray diffraction (XRD) was used to characterize the physical state of ART in ART-loaded PCL/Col nanofibers. Fourier transform infrared spectroscopy (FTIR), water contact angle measurement, weight loss, degree of swelling, and drug release experiments can verify the differences in performance of ART-loaded PCL/Col nanofibers due to different polymer ratios. The release curve was analyzed by kinetics, showing sustained release for up to 48 h, and followed the Fickian release mechanism, which was shown by the diffusion index value obtained from the Korsmeyer-Peppas equation.

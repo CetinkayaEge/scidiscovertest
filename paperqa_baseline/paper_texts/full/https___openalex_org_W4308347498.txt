@@ -1,0 +1,9 @@
+Title: Sustained and targeted delivery of hydrophilic drug compounds: A review of existing and novel technologies from bench to bedside
+Authors: D. Hawthorne, Ananth Sekher Pannala, Susan Sandeman, Andrew W. Lloyd
+Year: 2022
+Venue: Journal of Drug Delivery Science and Technology
+DOI: https://doi.org/10.1016/j.jddst.2022.103936
+Paper ID: https://openalex.org/W4308347498
+
+Abstract:
+The sustained and/or targeted delivery of hydrophilic drugs is an important field within drug delivery, presenting unique challenges when compared to that of hydrophobic drugs. Yet relatively few comprehensive reviews specific to hydrophilic drug delivery have been published recently. In this review, therefore, we seek to establish the recent trends in the delivery of hydrophilic drugs in particular, and recent developments including electrospun core-shell nanofibrous materials, stimuli-responsive hydrogel carriers, amphiphilic drug-drug conjugates (ADDCs), and nanomaterials including polymer nanoparticles (PNPs), solid lipid nanoparticles (SLNs), micelles, liposomes, and mesoporous silica nanoparticles (MSNs). A recurring trend in the field has been the relatively slow translation of novel technologies into viable pharmaceutical products, with few reaching clinical trial phase. Furthermore, we consider the bench-to-bedside potential of these novel technologies, taking into account the capabilities of these concepts to overcome the technical, legislative, and commercial requirements that must be met in order for a viable device to be adopted in the real world.

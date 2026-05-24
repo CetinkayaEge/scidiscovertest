@@ -1,0 +1,9 @@
+Title: Application of MICMAC, Fuzzy AHP, and Fuzzy TOPSIS for Evaluation of the Maintenance Factors Affecting Sustainable Manufacturing
+Authors: Małgorzata Jasiulewicz–Kaczmarek, Katarzyna Antosz, Ryszard Wyczółkowski, Dariusz Mazurkiewicz, Bo Sun, Cheng Qian, Yi Ren
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14051436
+Paper ID: https://openalex.org/W3135356565
+
+Abstract:
+This paper presents an empirical study on the impact of maintenance function on more sustainable manufacturing processes. The work methodology comprises four stages. At first, ten factors of maintenance activities from a sustainable manufacturing point of view were identified. Then, in the second stage, the matrix of crossed impact multiplications applied to a classification (MICMAC) was carried out to categorize these factors based on their influence and dependence values. In the third stage, the criteria for evaluation of maintenance factors were defined, then the fuzzy analytic hierarchy process (F-AHP) was applied to determine their relative weights. In the last stage, the results of MICMAC and F-AHP analyses were used as inputs for the fuzzy technique for order preference by similarity to ideal solution (F-TOPIS) to generate aggregate scores and selection of the most important maintenance factors that have an impact on sustainable manufacturing processes. A numerical example is provided to demonstrate the applicability of the approach. It was observed that factors “Implementation of preventive and prognostic service strategies”, “The usage of M&amp;O data collection and processing systems”, and “Modernization of machines and devices” are the major factors that support the realization of sustainable manufacturing process challenges.

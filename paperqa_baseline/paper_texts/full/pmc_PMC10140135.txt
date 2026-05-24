@@ -1,0 +1,9 @@
+Title: Phase angle in localized bioimpedance measurements to assess and monitor muscle injury
+Authors: Lexa Nescolarde, Antonio Talluri, Javier Yanguas, Henry Lukaski
+Year: 2023
+Venue: Reviews in Endocrine & Metabolic Disorders
+DOI: 10.1007/s11154-023-09790-9
+Paper ID: pmc_PMC10140135
+
+Abstract:
+Localized bioimpedance (L-BIA) measurements are an innovative method to non-invasively identify structural derangement of soft tissues, principally muscles, and fluid accumulation in response to traumatic injury. This review provides unique L-BIA data demonstrating significant relative differences between injured and contralateral non-injured regions of interest (ROI) associated with soft tissue injury. One key finding is the specific and sensitive role of reactance (Xc), measured at 50 kHz with a phase-sensitive BI instrument, to identify objective degrees of muscle injury, localized structural damage and fluid accretion, determined using magnetic resonance imaging. The predominant effect of Xc as an indicator of severity of muscle injury is highlighted in phase angle (PhA) measurements. Novel experimental models utilizing cooking-induced cell disruption, saline injection into meat specimens, and measurements of changing amounts of cells in a constant volume provide empirical evidence of the physiological correlates of series Xc as cells in water. Findings of strong associations of capacitance, computed from parallel Xc (X CP ), with whole body counting of 40-potassium and resting metabolic rate support the hypothesis that parallel Xc is a biomarker of body cell mass. These observations provide a theoretical and practical basis for a significant role of Xc, and hence PhA, to identify objectively graded muscle injury and to reliably monitor progress of treatment and return of muscle function.

@@ -1,0 +1,9 @@
+Title: Optical Monitoring of In Situ Iron Loading into Single, Native Ferritin Proteins
+Authors: Arman Yousefi, Cuifeng Ying, Christopher D. J. Parmenter, Mahya Assadipapari, Gabriel Sanderson, Ze Zheng, Lei Xu, Saaman Zargarbashi, Graham J. Hickman, Richard B. Cousins, Christopher J. Mellor, Michael Mayer, Mohsen Rahmani
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00042
+Paper ID: pmc_PMC10141409
+
+Abstract:
+Ferritin is a protein that stores and releases iron to prevent diseases associated with iron dysregulation in plants, animals, and bacteria. The conversion between iron-loaded holo-ferritin and empty apo-ferritin is an important process for iron regulation. To date, studies of ferritin have used either ensemble measurements to quantify the characteristics of a large number of proteins or single-molecule approaches to interrogate labeled or modified proteins. Here we demonstrate the first real-time study of the dynamics of iron ion loading and biomineralization within a single, unlabeled ferritin protein. Using optical nanotweezers, we trapped single apo- and holo-ferritins indefinitely, distinguished one from the other, and monitored their structural dynamics in real time. The study presented here deepens the understanding of the iron uptake mechanism of ferritin proteins, which may lead to new therapeutics for iron-related diseases.

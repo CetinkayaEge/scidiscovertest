@@ -1,0 +1,9 @@
+Title: Cross View Gait Recognition Using Joint-Direct Linear Discriminant Analysis
+Authors: Jose Portillo-Portillo, Roberto Leyva, Victor Sanchez, Gabriel Sanchez-Perez, Hector Perez-Meana, Jesus Olivares-Mercado, Karina Toscano-Medina, Mariko Nakano-Miyatake
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010006
+Paper ID: pmc_PMC5298579
+
+Abstract:
+This paper proposes a view-invariant gait recognition framework that employs a unique view invariant model that profits from the dimensionality reduction provided by Direct Linear Discriminant Analysis (DLDA). The framework, which employs gait energy images (GEIs), creates a single joint model that accurately classifies GEIs captured at different angles. Moreover, the proposed framework also helps to reduce the under-sampling problem (USP) that usually appears when the number of training samples is much smaller than the dimension of the feature space. Evaluation experiments compare the proposed framework’s computational complexity and recognition accuracy against those of other view-invariant methods. Results show improvements in both computational complexity and recognition accuracy.

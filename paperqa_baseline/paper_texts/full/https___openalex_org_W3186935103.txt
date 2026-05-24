@@ -1,0 +1,9 @@
+Title: Green CVD—Toward a sustainable philosophy for thin film deposition by chemical vapor deposition
+Authors: Henrik Pedersen, Seán T. Barry, Jonas Sundqvist
+Year: 2021
+Venue: Journal of Vacuum Science & Technology A Vacuum Surfaces and Films
+DOI: https://doi.org/10.1116/6.0001125
+Paper ID: https://openalex.org/W3186935103
+
+Abstract:
+Thin films of materials are critical components for most areas of sustainable technologies, making thin film techniques, such as chemical vapor deposition (CVD), instrumental for a sustainable future. It is, therefore, of great importance to critically consider the sustainability aspects of CVD processes themselves used to make thin films for sustainable technologies. Here, we point to several common practices in CVD that are not sustainable. From these, we offer a perspective on several principles for a sustainable, “Green CVD” philosophy, which we hope will spur research on how to make CVD more sustainable without affecting the properties of the deposited film. We hope that these principles can be developed by the research community over time and be used to establish research on how to make CVD more sustainable and that a Green CVD philosophy can develop new research directions for both precursor and reactor design to reduce the precursor and energy consumption in CVD processes.

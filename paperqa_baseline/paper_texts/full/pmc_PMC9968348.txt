@@ -1,0 +1,9 @@
+Title: Bioinspired crowding directs supramolecular polymerisation
+Authors: Nils Bäumer, Eduardo Castellanos, Bartolome Soberats, Gustavo Fernández
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36540-x
+Paper ID: pmc_PMC9968348
+
+Abstract:
+Crowding effects are crucial to maintaining functionality in biological systems, but little is known about their role in analogous artificial counterparts. Within the growing field of supramolecular polymer science, crowding effects have hitherto remained underappreciated. Herein, we show that crowding effects exhibit strong and distinct control over the kinetics, accessible pathways and final outcomes of supramolecular polymerisation processes. In the presence of a pre-formed supramolecular polymer as crowding agent, a model supramolecular polymer dramatically changes its self-assembly behaviour and undergoes a morphological transformation from bundled fibres into flower-like hierarchical assemblies, despite no co-assembly taking place. Notably, this new pathway can only be accessed in crowded environments and when the crowding agent exhibits a one-dimensional morphology. These results allow accessing diverse morphologies and properties in supramolecular polymers and pave the way towards a better understanding of high-precision self-assembly in nature. Crowding effects have long been established as powerful guiding forces in natural assembly processes. Here the authors report a bioinspired approach translating this phenomenon to artificial supramolecular polymers.

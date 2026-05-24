@@ -1,0 +1,9 @@
+Title: A biocatalytic approach for resolution of 3-hydroxy-3-phenylpropanonitrile with the use of immobilized enzymes stabilized with ionic liquids
+Authors: Oliwia Degórska, Daria Szada, Teofil Jesionowski, Jakub Zdarta
+Year: 2023
+Venue: Computational and Structural Biotechnology Journal
+DOI: 10.1016/j.csbj.2023.02.026
+Paper ID: pmc_PMC9974985
+
+Abstract:
+Due to the growing importance of synthesizing active pharmaceutical ingredients (APIs) in enantiomerically pure form, new methods of asymmetric synthesis are being sought. Biocatalysis is a promising technique that can lead to enantiomerically pure products. In this study, lipase from Pseudomonas fluorescens , immobilized on modified silica nanoparticles, was used for the kinetic resolution (via transesterification) of a racemic mixture of 3-hydroxy-3-phenylpropanonitrile (3H3P), where the obtaining of a pure (S)-enantiomer of 3H3P is a crucial step in the fluoxetine synthesis pathway. For additional stabilization of the enzyme and enhanced process efficiency, ionic liquids (ILs) were used. It was found that the most suitable IL was [BMIM]Cl; a process efficiency of 97.4 % and an enantiomeric excess (ee%) of 79.5 % were obtained when 1 % (w/v) of that IL in hexane was applied and the process was catalyzed by lipase immobilized on amine-modified silica.

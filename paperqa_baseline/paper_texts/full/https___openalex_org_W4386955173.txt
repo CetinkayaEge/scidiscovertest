@@ -1,0 +1,9 @@
+Title: Hydrogen towards sustainable transition: A review of production, economic, environmental impact and scaling factors
+Authors: M. Aravindan, G. Praveen Kumar
+Year: 2023
+Venue: Results in Engineering
+DOI: https://doi.org/10.1016/j.rineng.2023.101456
+Paper ID: https://openalex.org/W4386955173
+
+Abstract:
+Currently, meeting the global energy demand is largely dependent on fossil fuels such as natural gas, coal and oil. Fossil fuels represent a danger to the Earth's environment and its biological systems. The utilisation of these fuels results in a rise in atmospheric CO2 levels, which in turn triggers global warming and adverse changes in the climate. Furthermore, these represent finite energy resources that will eventually deplete. There is a pressing need to identify and harness renewable energy sources as a replacement for fossil fuels in the near future. This shift is expected to have a minimal environmental impact and would contribute to ensuring energy security. Hydrogen is considered a highly desirable fuel option with the potential to substitute depleting hydrocarbon resources. This concise review explores diverse methods of renewable hydrogen production, with a primary focus on solar, wind, geothermal, and mainly water-splitting techniques such as electrolysis, thermolysis, photolysis, and biomass-related processes. It addresses their limitations and key challenges hampering the global hydrogen economy's growth, including clean value chain creation, storage, transportation, production costs, standards, and investment risks. The study concludes with research recommendations to enhance production efficiencies and policy suggestions for governments to mitigate investment risks while scaling up the hydrogen economy.

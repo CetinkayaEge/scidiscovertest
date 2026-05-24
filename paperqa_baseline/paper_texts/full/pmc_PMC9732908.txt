@@ -1,0 +1,9 @@
+Title: TFIIH moonlighting at telomeres
+Authors: Galina Glousker, Joachim Lingner
+Year: 2022
+Venue: Genes & Development
+DOI: 10.1101/gad.350140.122
+Paper ID: pmc_PMC9732908
+
+Abstract:
+In this Outlook, Glousker and Lingner highlight a study in this issue of Genes & Development from Yang et al., who discover that TFIIH, a basic component of the PolII transcription initiation and nucleotide excision repair machinery, facilitates telomere replication. Although telomeres are essential for chromosome stability, they represent fragile structures in our genome. Telomere shortening occurs during aging in cells lacking telomerase due to the end replication problem. In addition, recent work uncovered that the bulk of telomeric DNA poses severe hurdles for the semiconservative DNA replication machinery, requiring the assistance of an increasing number of specialized factors that prevent accidental telomere loss or damage events. In this issue of Genes & Development , Yang and colleagues (pp. 956–969) discover that TFIIH, a basic component of the PolII transcription initiation and nucleotide excision repair machinery, facilitates telomere replication. TFIIH is recruited to telomeres by the shelterin component TRF1, taking on at telomeres a moonlighting function.

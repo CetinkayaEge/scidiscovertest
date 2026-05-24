@@ -1,0 +1,9 @@
+Title: A Narrative Review of Commercial Platforms Offering Tracking of Heart Rate Variability in Corporate Employees to Detect and Manage Stress
+Authors: Craig S. McLachlan, Hang Truong
+Year: 2023
+Venue: Journal of Cardiovascular Development and Disease
+DOI: 10.3390/jcdd10040141
+Paper ID: pmc_PMC10142541
+
+Abstract:
+The COVID-19 pandemic has resulted in employees being at risk of significant stress. There is increased interest by employers to offer employees stress monitoring via third party commercial sensor-based devices. These devices assess physiological parameters such as heart rate variability and are marketed as an indirect measure of the cardiac autonomic nervous system. Stress is correlated with an increase in sympathetic nervous activity that may be associated with an acute or chronic stress response. Interestingly, recent studies have shown that individuals affected with COVID will have some residual autonomic dysfunction that will likely render it difficult to track both stress and stress reduction using heart rate variability. The aims of the present study are to explore web and blog information using five operational commercial technology solution platforms that offer heart rate variability for stress detection. Across five platforms we found a number that combined HRV with other biometrics to assess stress. The type of stress being measured was not defined. Importantly, no company considered cardiac autonomic dysfunction because of post-COVID infection and only one other company mentioned other factors affecting the cardiac autonomic nervous system and how this may impact HRV accuracy. All companies suggested they could only assess associations with stress and were careful not to claim HRV could diagnosis stress. We recommend that managers think carefully about whether HRV is accurate enough for their employees to manage their stress during COVID.

@@ -1,0 +1,9 @@
+Title: The mechanisms to dispose of misfolded proteins in the endoplasmic reticulum of adipocytes
+Authors: Shuangcheng Alivia Wu, Chenchen Shen, Xiaoqiong Wei, Xiawei Zhang, Siwen Wang, Xinxin Chen, Mauricio Torres, You Lu, Liangguang Leo Lin, Huilun Helen Wang, Allen H. Hunter, Deyu Fang, Shengyi Sun, Magdalena I. Ivanova, Yi Lin, Ling Qi
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38690-4
+Paper ID: pmc_PMC10229581
+
+Abstract:
+Endoplasmic reticulum (ER)-associated degradation (ERAD) and ER-phagy are two principal degradative mechanisms for ER proteins and aggregates, respectively; however, the crosstalk between these two pathways under physiological settings remains unexplored. Using adipocytes as a model system, here we report that SEL1L-HRD1 protein complex of ERAD degrades misfolded ER proteins and limits ER-phagy and that, only when SEL1L-HRD1 ERAD is impaired, the ER becomes fragmented and cleared by ER-phagy. When both are compromised, ER fragments containing misfolded proteins spatially coalesce into a distinct architecture termed Coalescence of ER Fragments (CERFs), consisted of lipoprotein lipase (LPL, a key lipolytic enzyme and an endogenous SEL1L-HRD1 substrate) and certain ER chaperones. CERFs enlarge and become increasingly insoluble with age. Finally, we reconstitute the CERFs through LPL and BiP phase separation in vitro, a process influenced by both redox environment and C-terminal tryptophan loop of LPL. Hence, our findings demonstrate a sequence of events centered around SEL1L-HRD1 ERAD to dispose of misfolded proteins in the ER of adipocytes, highlighting the profound cellular adaptability to misfolded proteins in the ER in vivo. Endoplasmic reticulum (ER)-associated degradation (ERAD) and ER-phagy are two central degradative mechanisms in the ER. Here the authors describe the sequence of events underlying the disposition of misfolded ER proteins by ERAD and ER-phagy.

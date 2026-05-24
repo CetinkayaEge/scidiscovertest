@@ -1,0 +1,9 @@
+Title: The search for systemic biomarkers for monitoring degenerative lumbar spinal disorders
+Authors: Nader Tarabeih, Adel Shalata, Orabi Higla, Alexander Kalinkovich, Gregory Livshits
+Year: 2022
+Venue: Osteoarthritis and Cartilage Open
+DOI: 10.1016/j.ocarto.2022.100323
+Paper ID: pmc_PMC9805972
+
+Abstract:
+Objectives In our previous study, we reported that low back pain (LBP) severity and disability significantly correlate with body composition and several blood biochemical factors. Herein, we tested the hypothesis that these covariates are associated with anatomical deformations of the lumbar spine, in particular, radiographic facet joint osteoarthritis (FJOA) and lumbar disc degeneration (LDD) features important contributors to LBP. Methods CT and MRI images of the lumbar spine were obtained from 200 individuals suffering from LBP-sciatica. We examined the FJOA and total LDD score - the sum of the scores of the three radiographic features (intervertebral disc herniation, osteophythosis and spondylolisthesis) at the L1 - S1 vertebral levels. By implementing a bioelectrical impedance analysis, we assessed the participants for body composition, specifically, extracellular water (ECW). Plasma levels of growth and differentiation factor 15 (GDF-15) and visceral adipose tissue-derived serine protease inhibitor (vaspin), were detected by ELISA. Results By conducting a series of multivariable regression analyses, we report that the circulating levels of GDF-15, vaspin, and ECW are significantly and independently associated with FJOA scores [β GDF15 ​= ​0.38 ​± ​0.08, p ​= ​0.0001; β VASPIN ​= ​0.36 ​± ​0.07, p ​= ​0.000004; β ECW ​= ​0.24 ​± ​0.07, p ​= ​0.002]. The levels of GDF-15 (β ​= ​0.30 ​± ​0.10, p ​= ​0.007) and ECW (β ​= ​0.20 ​± ​0.09, p ​= ​0.03) were also found significantly associated with the LDD scores. Conclusion The obtained new data suggest that GDF-15, vaspin and ECW may serve as biomarkers for FJOA and LDD phenotypes.

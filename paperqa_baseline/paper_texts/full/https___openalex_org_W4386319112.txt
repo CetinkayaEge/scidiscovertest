@@ -1,0 +1,9 @@
+Title: Green logistics operations and its impact on supply chain sustainability: An empirical study
+Authors: Supriyo Roy, R.P. Mohanty
+Year: 2023
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3531
+Paper ID: https://openalex.org/W4386319112
+
+Abstract:
+Abstract This study aims to understand the impact of green logistics operations on the sustainability of supply chains. It is an experimental, numerical analysis carried out in an Indian industrial setting to derive some empirical truths, which have profound implications for the community of professional practice and academic and policy research towards inclusiveness in ecological governance. The analysis is centred on a conceptual model based on causal interdependencies. This model conceives stakeholders' demands from the outside in the form of numerous environmental, economic and social externalities triggering pressures for integrating innovative sustainable responses in logistics operations in the supply chain to eventuate desirable state transformation of the society, environment and economy. The model, as proposed, is validated through primary data collected through a structured questionnaire survey from Indian logistics service providers (LSPs) and analysed through structural equation modelling (SEM) with coding in the R engine platform. The empirical result shows that sustainable performance is influenced less by green practices than logistics operations, and the direct impact of logistics operations is much less on green practices than on supply chain sustainability. This study attempts to study contemporary sustainability practices. It transcends to contribute towards regenerative inclusive human welfare, adding the scope of activity from merely environmental management to sustainability in ecological governance.

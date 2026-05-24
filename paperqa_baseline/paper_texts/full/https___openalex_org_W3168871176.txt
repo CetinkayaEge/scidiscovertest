@@ -1,0 +1,9 @@
+Title: Modeling Sustainable Economic Development Using Production Functions
+Authors: Oleksandr Yankovyi, Viktor Koval, Larysa Lazorenko, Olga Poberezhets, Marina Novikova, Vіktorіya Gonchar
+Year: 2021
+Venue: Studies of Applied Economics
+DOI: https://doi.org/10.25115/eea.v39i5.5090
+Paper ID: https://openalex.org/W3168871176
+
+Abstract:
+The most popular two-factor production functions used in the process of modeling sustainable economic development are examined. Economic and mathematical characteristics of Cobb-Douglas production functions, CES-function, linear function, Leontief and Allen functions are considered, in particular, type of dependence of labour productivity in relation to capital-labour ratio of commodity production system within mentioned production functions. Their most important economic and mathematical characteristics are presented: factors average and marginal return, demand for production resources, factor substitution, factors marginal rate of technical substitution, output elasticity by factors, elasticity of factors technical substitution, optimal capital-labour ratio according to the criterion of maximum output. Comparative analysis is given to Cobb-Douglas and CES-functions, which are two production functions mostly required in practice.

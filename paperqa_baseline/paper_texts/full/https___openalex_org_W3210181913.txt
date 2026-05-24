@@ -1,0 +1,9 @@
+Title: A Neutrosophic Fuzzy Optimisation Model for Optimal Sustainable Closed-Loop Supply Chain Network during COVID-19
+Authors: Agnieszka Szmelter-Jarosz, Javid Ghahremani-Nahr, Hamed Nozari
+Year: 2021
+Venue: Journal of risk and financial management
+DOI: https://doi.org/10.3390/jrfm14110519
+Paper ID: https://openalex.org/W3210181913
+
+Abstract:
+In this paper, a sustainable closed-loop supply chain problem is modelled in conditions of uncertainty. Due to the COVID-19 pandemic situation, the designed supply chain network seeks to deliver medical equipment to hospitals on time within a defined time window to prevent overcrowding and virus transmission. In order to achieve a suitable model for designing a sustainable closed-loop supply chain network, important decisions such as locating potential facilities, optimal flow allocation, and vehicle routing have been made to prevent the congestion of vehicles and transmission of the COVID-19 virus. Since the amount of demand in hospitals for medical equipment is unknown, the fuzzy programming method is used to control uncertain demand, and to achieve an efficient solution to the decision-making problem, the neutrosophic fuzzy method is used. The results show that the designed model and the selected solution method (the neutrosophic fuzzy method) have led to a reduction in vehicle traffic by meeting the uncertain demand of hospitals in different time windows. In this way, both the chain network costs have been reduced and medical equipment has been transferred to hospitals with social distancing.

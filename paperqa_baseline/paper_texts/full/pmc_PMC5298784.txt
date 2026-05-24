@@ -1,0 +1,9 @@
+Title: Gas Sensors Based on Polymer Field-Effect Transistors
+Authors: Aifeng Lv, Yong Pan, Lifeng Chi
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010213
+Paper ID: pmc_PMC5298784
+
+Abstract:
+This review focuses on polymer field-effect transistor (PFET) based gas sensor with polymer as the sensing layer, which interacts with gas analyte and thus induces the change of source-drain current (Δ I SD ). Dependent on the sensing layer which can be semiconducting polymer, dielectric layer or conducting polymer gate, the PFET sensors can be subdivided into three types. For each type of sensor, we present the molecular structure of sensing polymer, the gas analyte and the sensing performance. Most importantly, we summarize various analyte–polymer interactions, which help to understand the sensing mechanism in the PFET sensors and can provide possible approaches for the sensor fabrication in the future.

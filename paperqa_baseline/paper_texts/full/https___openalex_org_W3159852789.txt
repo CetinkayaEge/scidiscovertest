@@ -1,0 +1,9 @@
+Title: Using Enterprise Architecture to Integrate Lean Manufacturing, Digitalization, and Sustainability: A Lean Enterprise Case Study in the Chemical Industry
+Authors: Ming-Hui Liao, Chi-Tai Wang
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094851
+Paper ID: https://openalex.org/W3159852789
+
+Abstract:
+The chemical industry has sustained the development of global economies by providing an astonishing variety of products and services, while also consuming massive amounts of raw materials and energy. Chemical firms are currently under tremendous pressure to become lean enterprises capable of executing not only traditional lean manufacturing practices but also emerging competing strategies of digitalization and sustainability. All of these are core competencies required for chemical firms to compete and thrive in future markets. Unfortunately, reports of successful transformation are so rare among chemical firms that acquiring the details of these cases would seem an almost impossible mission. The severe lack of knowledge about these business transformations thus provided a strong motivation for this research. Using The Open Group Architecture Framework, we performed an in-depth study on a real business transformation occurring at a major international chemical corporation, extracting the architecture framework possibly adopted by this firm to become a lean enterprise. This comprehensive case study resulted in two major contributions to the field of sustainable business transformation: (1) a custom lean enterprise architecture framework applicable to common chemical firms making a similar transformation, and (2) a lean enterprise model developed to assist chemical firms in comprehending the intricate and complicated dynamics between lean manufacturing, digitalization, and sustainability.

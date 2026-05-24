@@ -1,0 +1,9 @@
+Title: Opening the black box of big data sustainable value creation: the mediating role of supply chain management capabilities and circular economy practices
+Authors: Randy Riggs, José L. Roldán, Juan C. Real, Carmen M. Felipe
+Year: 2023
+Venue: International Journal of Physical Distribution & Logistics Management
+DOI: https://doi.org/10.1108/ijpdlm-03-2022-0098
+Paper ID: https://openalex.org/W4319443308
+
+Abstract:
+Purpose This article examines the mechanisms through which big data analytics capabilities (BDAC) contribute to creating sustainable value and analyzes the mediating roles that supply chain management capabilities (SCMC), as well as circular economy practices (CEP), play through their impact on sustainable performance. Design/methodology/approach Following a literature review, a serial mediation model is presented. Hypotheses regarding direct and mediating relationships are tested to determine their potential for sustainability impact and circularity. Partial least squares structural equation modeling (PLS-SEM) has been applied for causal and predictive purposes. Findings The results indicate that big data analytics capabilities do not have a direct positive impact on sustainable performance but influence indirectly through SCMC and CEP. Originality/value Although some authors have addressed the associations between IT business value, supply chain (SC), and sustainability, this paper provides empirical evidence related to these relationships. Additionally, this study performs novel predictive analyses.

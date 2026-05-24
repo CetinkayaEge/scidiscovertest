@@ -1,0 +1,9 @@
+Title: Digital data demand and renewable energy limits: Forecasting the impacts on global electricity supply and sustainability
+Authors: Vı́tor Castro, Marios Georgiou, Tom Jackson, Ian R. Hodgkinson, Lisa Jackson, Steve Lockwood
+Year: 2024
+Venue: Energy Policy
+DOI: https://doi.org/10.1016/j.enpol.2024.114404
+Paper ID: https://openalex.org/W4403930478
+
+Abstract:
+This study critically evaluates whether the current and projected generation of renewable energy can meet the escalating global demand for electricity from digital data growth. Our modelling forecasts reveal a concerning trend: despite the expansion in renewable energy capacities, they are likely insufficient to satisfy the burgeoning electricity needs of the digital data sector. More alarmingly, there is a real risk that the demand for digital data could soon exceed feasible electricity production capabilities. This paper underscores the urgent necessity for a data-centric sustainability approach across all supply chains, sectors, industries, and nations. Such measures are crucial to increase efficiency, cut energy usage, and transition towards a decarbonized digital ecosystem, thereby supporting the global pursuit of a sustainable, net-zero future. This research highlights a critical junction in energy policy and digital infrastructure planning, urging immediate action to reconcile digital advancement with ecological sustainability. • Assess whether renewable energy can meet the escalating energy demand by digital data. • Our forecasting model unveils a potential data doomsday scenario. • Despite the expansion in renewable energy, it is insufficient to satisfy the burgeoning needs of digital data. • Demand for digital data could soon exceed feasible electricity production capabilities. • Urgent need for a data-centric sustainability approach across all supply chains, sectors, industries, and nations.

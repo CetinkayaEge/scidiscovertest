@@ -1,0 +1,9 @@
+Title: Evaluating the quality of life for sustainable urban development
+Authors: Tsuyoshi Takano, Hiroyoshi Morita, Shinichiro Nakamura, Takuya Togawa, Noriyasu Kachi, Hirokazu Katō, Yoshitsugu Hayashi
+Year: 2023
+Venue: Cities
+DOI: https://doi.org/10.1016/j.cities.2023.104561
+Paper ID: https://openalex.org/W4386840588
+
+Abstract:
+As urbanization is rapidly progressing worldwide, the cities need to assess their quality of life (QOL) not only to check their infrastructure but also to keep pace with the changing citizens' sense of values and lifestyles. We propose an integrated method to evaluate urban QOL from the detailed spatial aspects of a city with the subjective preferences of its citizens. In this study, we collected the spatial data of urban setting attributes at a 500-m mesh scale, and the subjective preferences that vary based on individual attributes, to evaluate the QOL across five metropolitan areas in Japan. Our results reveal a greater disparity in QOL within larger metropolitan areas. The optimal urban population density for the best QOL tends to be around 4000 people/km2. This level strikes a balance between the benefits and drawbacks associated with urban QOL, such as enhanced living and cultural opportunities versus high housing costs and limited space. Moreover, QOL within a city varied according to geographic location, and these differences were amplified by subjective preferences. These findings contribute to our understanding of the disparities in urban QOL, and provide a scientific basis for urban policies that achieve diversity and inclusiveness.

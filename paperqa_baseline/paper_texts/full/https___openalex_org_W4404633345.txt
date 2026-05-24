@@ -1,0 +1,9 @@
+Title: Bayesian optimization as a flexible and efficient design framework for sustainable process systems
+Authors: Joel A. Paulson, Calvin Tsay
+Year: 2024
+Venue: Current Opinion in Green and Sustainable Chemistry
+DOI: https://doi.org/10.1016/j.cogsc.2024.100983
+Paper ID: https://openalex.org/W4404633345
+
+Abstract:
+Bayesian optimization (BO) is a powerful technology for optimizing noisy, expensive-to-evaluate black-box functions, with a broad range of real-world applications in science, engineering, economics, manufacturing, and beyond. In this paper, we provide an overview of recent developments, challenges, and opportunities in BO for design of next-generation process systems. After describing several motivating applications, we discuss how advanced BO methods have been developed to more efficiently tackle important problems in these applications. We conclude the paper with a summary of challenges and opportunities related to improving the quality of the probabilistic model, the choice of internal optimization procedure used to select the next sample point, and the exploitation of problem structure to improve sample efficiency.

@@ -1,0 +1,9 @@
+Title: Bibliometric Analysis of Multi-Level Perspective on Sustainability Transition Research
+Authors: Cheng Wang, Tao Lv, Rongjiang Cai, Jianfeng Xu, Liya Wang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14074145
+Paper ID: https://openalex.org/W4220662981
+
+Abstract:
+The multi-level perspective (MLP) is a prominent framework for transition research. However, few studies have used bibliometrics for conducting a global picture of the MLP research. This study identifies the worldwide trends at three levels: sources, authors, and documents, and uses the bibliometrix based on 757 articles published in WOS and Scopus from 2002 to 2020. The results show that the MLP research literature is proliferating, and the number of journals and countries concerned in this field is increasing. MLP research has mainly focused on transition, sustainability transition, socio-technical transition, energy transition, innovation, and governance; and will increase focus on agency, power, and policy. MLP research will focus on multi-niche, multi-regime, and multi-landscape interactions at the hierarchy levels. The results assist scholars in systematically understanding the current research status, research frontiers, and future trends of MLP from a macro perspective.

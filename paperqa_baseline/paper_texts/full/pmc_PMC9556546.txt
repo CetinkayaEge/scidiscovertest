@@ -1,0 +1,9 @@
+Title: Joint control of meiotic crossover patterning by the synaptonemal complex and HEI10 dosage
+Authors: Stéphanie Durand, Qichao Lian, Juli Jing, Marcel Ernst, Mathilde Grelon, David Zwicker, Raphael Mercier
+Year: 2022
+Venue: Nature Communications
+DOI: 10.1038/s41467-022-33472-w
+Paper ID: pmc_PMC9556546
+
+Abstract:
+Meiotic crossovers are limited in number and are prevented from occurring close to each other by crossover interference. In many species, crossover number is subject to sexual dimorphism, and a lower crossover number is associated with shorter chromosome axes lengths. How this patterning is imposed remains poorly understood. Here, we show that overexpression of the Arabidopsis pro-crossover protein HEI10 increases crossovers but maintains some interference and sexual dimorphism. Disrupting the synaptonemal complex by mutating ZYP1 also leads to an increase in crossovers but, in contrast, abolishes interference and disrupts the link between chromosome axis length and crossovers. Crucially, combining HEI10 overexpression and zyp1 mutation leads to a massive and unprecedented increase in crossovers. These observations support and can be predicted by, a recently proposed model in which HEI10 diffusion along the synaptonemal complex drives a coarsening process leading to well-spaced crossover-promoting foci, providing a mechanism for crossover patterning. During meiosis, the number and distribution of crossovers (COs) are tightly controlled, but the mechanistic basis of this control is unclear. Here, by combining experimental data and mathematical modeling, the study advocates a CO patterning model via coarsening through the diffusion of HEI10 along the synaptonemal complex.

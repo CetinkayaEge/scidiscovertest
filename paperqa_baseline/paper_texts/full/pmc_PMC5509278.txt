@@ -1,0 +1,9 @@
+Title: Investigation of Various Active Layers for Their Performance on Organic Solar Cells
+Authors: Pao-Hsun Huang, Yeong-Her Wang, Jhong-Ciao Ke, Chien-Jung Huang
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080667
+Paper ID: pmc_PMC5509278
+
+Abstract:
+The theoretical mechanism of open-circuit voltages (V OC ) in OSCs based on various small molecule organic materials is studied. The structure under investigation is simple planar heterojunction (PHJ) by thermal vacuum evaporation deposition. The various wide band gaps of small molecule organic materials are used to enhance the power conversion efficiency (PCE). The donor materials used in the device include: Alpha-sexithiophene (α-6T), Copper(II) phthalocyanine (CuPc), boron subnaphthalocyanine chloride (SubNc) and boron Subphthalocyanine chloride (SubPc). It is combined with fullerene or SubPc acceptor material to obtain a comprehensive understanding of the charge transport behavior. It is found that the V OC of the device is largely limited by charge transport. This was associated with the space charge effects and hole accumulation. These results are attributed to the improvement of surface roughness and work function after molybdenum trioxide (MoO 3 ) is inserted as an anode buffer layer.

@@ -1,0 +1,9 @@
+Title: Evaluation of Renal Fibrosis Using Magnetization Transfer Imaging at 1.5T and 3T in a Porcine Model of Renal Artery Stenosis
+Authors: Deep B. Gandhi, Mina Al Saeedi, James D. Krier, Kai Jiang, James F. Glockner, Lilach O. Lerman
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12082956
+Paper ID: pmc_PMC10140905
+
+Abstract:
+Renal fibrosis is an important marker in the progression of chronic kidney disease, and renal biopsy is the current reference standard for detecting its presence. Currently, non-invasive methods have only been partially successful in detecting renal fibrosis. Magnetization transfer imaging (MTI) allows estimates of renal fibrosis but may vary with scanning conditions. We hypothesized that MTI-derived renal fibrosis would be reproducible at 1.5T and 3T MRI and over time in fibrotic kidneys. Fifteen pigs with unilateral renal artery stenosis (RAS, n = 9) or age-matched sham controls (n = 6) underwent MTI-MRI at both 1.5T and 3T 6 weeks post-surgery and again 4 weeks later. Magnetization transfer ratio (MTR) measurements of fibrosis in both kidneys were compared between 1.5T and 3T, and the reproducibility of MTI at the two timepoints was evaluated at 1.5T and 3T. MTR at 3T with 600 Hz offset frequency successfully distinguished between normal, stenotic, and contralateral kidneys. There was excellent reproducibility of MTI at 1.5T and 3T over the two timepoints and no significant differences between MTR measurements at 1.5T and 3T. Therefore, MTI is a highly reproducible technique which is sensitive to detect changes in fibrotic compared to normal kidneys in the RAS porcine model at 3T.

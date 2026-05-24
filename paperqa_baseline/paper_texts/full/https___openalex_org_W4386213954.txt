@@ -1,0 +1,9 @@
+Title: Cyber-agricultural systems for crop breeding and sustainable production
+Authors: Soumik Sarkar, Baskar Ganapathysubramanian, Arti Singh, Arti Singh, Fateme Fotouhi, Soumyashree Kar, Koushik Nagasubramanian, Girish Chowdhary, Sajal K. Das, George Kantor, Adarsh Krishnamurthy, Nirav Merchant, Asheesh K. Singh, Asheesh K. Singh
+Year: 2023
+Venue: Trends in Plant Science
+DOI: https://doi.org/10.1016/j.tplants.2023.08.001
+Paper ID: https://openalex.org/W4386213954
+
+Abstract:
+The cyber-agricultural system (CAS) represents an overarching framework of agriculture that leverages recent advances in ubiquitous sensing, artificial intelligence, smart actuators, and scalable cyberinfrastructure (CI) in both breeding and production agriculture. We discuss the recent progress and perspective of the three fundamental components of CAS - sensing, modeling, and actuation - and the emerging concept of agricultural digital twins (DTs). We also discuss how scalable CI is becoming a key enabler of smart agriculture. In this review we shed light on the significance of CAS in revolutionizing crop breeding and production by enhancing efficiency, productivity, sustainability, and resilience to changing climate. Finally, we identify underexplored and promising future directions for CAS research and development.

@@ -1,0 +1,9 @@
+Title: The Sustainability of Mexican Municipal Public Debt
+Authors: Ernesto del Castillo, René Cabral, Eduardo Saucedo
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14116558
+Paper ID: https://openalex.org/W4281772360
+
+Abstract:
+This paper examines the sustainability of subnational governments in Mexico, focusing on its top 110 most indebted municipalities. We employ dynamic panel data techniques to assess whether municipal debt remained sustainable during 2007–2017. Our study finds that the subnational fiscal position of Mexican municipalities remains sustainable despite the rapid growth of public debt following the 2008 global financial crisis. However, using Monte Carlo simulations, we show that random disturbances can significantly impact municipal governments’ debt, deteriorating governments’ finances after the shocks materialize.

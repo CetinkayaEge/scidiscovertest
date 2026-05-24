@@ -1,0 +1,9 @@
+Title: High transition frequencies of dynamic functional connectivity states in the creative brain
+Authors: Junchao Li, Delong Zhang, Aiying Liang, Bishan Liang, Zengjian Wang, Yuxuan Cai, Mengxia Gao, Zhenni Gao, Song Chang, Bingqing Jiao, Ruiwang Huang, Ming Liu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46072
+Paper ID: pmc_PMC5382673
+
+Abstract:
+Creativity is thought to require the flexible reconfiguration of multiple brain regions that interact in transient and complex communication patterns. In contrast to prior emphases on searching for specific regions or networks associated with creative performance, we focused on exploring the association between the reconfiguration of dynamic functional connectivity states and creative ability. We hypothesized that a high frequency of dynamic functional connectivity state transitions will be associated with creative ability. To test this hypothesis, we recruited a high-creative group (HCG) and a low-creative group (LCG) of participants and collected resting-state fMRI (R-fMRI) data and Torrance Tests of Creative Thinking (TTCT) scores from each participant. By combining an independent component analysis with a dynamic network analysis approach, we discovered the HCG had more frequent transitions between dynamic functional connectivity (dFC) states than the LCG. Moreover, a confirmatory analysis using multiplication of temporal derivatives also indicated that there were more frequent dFC state transitions in the HCG. Taken together, these results provided empirical evidence for a linkage between the flexible reconfiguration of dynamic functional connectivity states and creative ability. These findings have the potential to provide new insights into the neural basis of creativity.

@@ -1,0 +1,9 @@
+Title: The sustainability impact of a digital circular economy
+Authors: Laura Piscicelli
+Year: 2023
+Venue: Current Opinion in Environmental Sustainability
+DOI: https://doi.org/10.1016/j.cosust.2022.101251
+Paper ID: https://openalex.org/W4320525846
+
+Abstract:
+Digital technologies — such as the Internet of Things, big data and advanced analytics, additive manufacturing and 3D printing, blockchain and online platforms — are regarded as key enablers for a circular economy. A systematic literature review and analysis of 48 scientific articles published in the last five years was conducted to identify the first-, second- and third-order sustainability effects of a digital circular economy. Second-order environmental effects such as improved resource efficiency and reduction of emissions, waste and material use in products and production processes are often envisaged. However, limited attention is given to social and economic impact, and rebound effects. Existing literature also lacks a solid assessment of actual (vs expected) impact, and a more balanced consideration of negative (vs positive) effects.

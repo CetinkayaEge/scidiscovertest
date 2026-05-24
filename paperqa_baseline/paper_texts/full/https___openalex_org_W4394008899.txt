@@ -1,0 +1,9 @@
+Title: The potential role of artificial intelligence in sustainability of nuclear medicine
+Authors: Geoffrey Currie, K. Elizabeth Hawk, Eric Rohren
+Year: 2024
+Venue: Radiography
+DOI: https://doi.org/10.1016/j.radi.2024.03.005
+Paper ID: https://openalex.org/W4394008899
+
+Abstract:
+Background: Strategies targeted at the five pillars of sustainability (social, human, economic, ecological and environmental) can be used to improve sustainability of clinical or research practices in nuclear medicine. Key findings: While the core principle of sustainability is ensuring depletion does not exceed regeneration, this manuscript considers the balance of benefits and detriments of artificial intelligence (AI) technologies across the five pillars of sustainability. Specifically, innovations such as AI, generative AI and digital twins could enhance sustainability. While AI has the potential to address social asymmetry and inequity to drive the social and human pillars of sustainability, there is potential for widening the equity gap. AI augmentation and generative AI present economic and environmental sustainability opportunities. Deep digital twins offers clinical and research benefits in economic, ecological and environmental sustainability pillars. Conclusion: AI, digital twins and generative AI offer potential benefits to sustainability in nuclear medicine. Despite the benefits, caution is advised because these technologies confront a number of challenges that could potentially threaten sustainability. Implications for practice: AI presents opportunities for improving sustainability of nuclear medicine practice although caution is recommended to avoid unintentional undermining of sustainability across the five pillars.

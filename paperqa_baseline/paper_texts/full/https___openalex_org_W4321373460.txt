@@ -1,0 +1,9 @@
+Title: The Effect of Correlated Color Temperature and Illumination Level of LED Lighting on Visual Comfort during Sustained Attention Activities
+Authors: Xiaoyun Fu, Di Feng, Xu Jiang, Tingting Wu
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043826
+Paper ID: https://openalex.org/W4321373460
+
+Abstract:
+LED lighting has been widely used in various scenes, but there are few studies on the impact of LED lighting on visual comfort in sustained attention tasks. This paper aims to explore the influence of correlated color temperature (CCT) and illuminance level in LED lighting parameters on human visual comfort. We selected 46 healthy college students (23 male and 23 female). The ages ranged from 22 to 26 years old (average age was 24.2 years). Electroencephalogram (EEG) signals, sustained attention to response test (SART) parameters and subjective evaluation parameters of subjects performing sustained attention tasks under LED lighting were obtained. The results under different conditions were compared, and the effects of experimental lighting parameters on visual comfort were discussed. The results showed that the LED lighting with CCT of 3300 K and illuminance of 300 lx was more comfortable than other combined conditions. In the subjective perception of subjects, 4000 K CCT also had good visual comfort evaluation and caused good task performance. Therefore, our study showed that in sustained attention tasks, when LED lighting conditions were CCT of 3300 and 4300 K and illuminance level was 300 lx, the visual comfort of the subjects was better.

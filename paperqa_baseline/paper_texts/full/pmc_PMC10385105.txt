@@ -1,0 +1,9 @@
+Title: Flexible Pressure Sensors and Machine Learning Algorithms for Human Walking Phase Monitoring
+Authors: Thanh-Hai Nguyen, Ba-Viet Ngo, Thanh-Nghia Nguyen, Chi Cuong Vu
+Year: 2023
+Venue: Micromachines
+DOI: 10.3390/mi14071411
+Paper ID: pmc_PMC10385105
+
+Abstract:
+Soft sensors are attracting much attention from researchers worldwide due to their versatility in practical projects. There are already many applications of soft sensors in aspects of life, consisting of human-robot interfaces, flexible electronics, medical monitoring, and healthcare. However, most of these studies have focused on a specific area, such as fabrication, data analysis, or experimentation. This approach can lead to challenges regarding the reliability, accuracy, or connectivity of the components. Therefore, there is a pressing need to consider the sensor’s placement in an overall system and find ways to maximize the efficiency of such flexible sensors. This paper proposes a fabrication method for soft capacitive pressure sensors with spacer fabric, conductive inks, and encapsulation glue. The sensor exhibits a good sensitivity of 0.04 kPa −1 , a fast recovery time of 7 milliseconds, and stability of 10,000 cycles. We also evaluate how to connect the sensor to other traditional sensors or hardware components. Some machine learning models are applied to these built-in soft sensors. As expected, the embedded wearables achieve a high accuracy of 96% when recognizing human walking phases.

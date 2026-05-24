@@ -1,0 +1,9 @@
+Title: A Gated Multiscale Multitask Learning Model Using Time-Frequency Representation for Health Assessment and Remaining Useful Life Prediction
+Authors: Tong Wu, Tengpeng Chen
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041922
+Paper ID: pmc_PMC9967891
+
+Abstract:
+Health assessment and remaining useful life prediction are usually seen as separate tasks in industrial systems. Some multitask models use common features to handle these tasks synchronously, but they lack the usage of the representation in different scales and time-frequency domain. A lack of balance also exists among these scales. Therefore, a gated multiscale multitask learning model known as GMM-Net is proposed in this paper. By using the time-frequency representation, GMM-Net can obtain features of different scales via different kernels and compose the features by a gating network. A detailed loss function whose weight can be searched in a smaller scale is designed. The model is tested with different weights in the total loss function, and an optimal weight is found. Using this optimal weight, it is observed that the proposed method converges to a smaller loss and has a smaller model size than long short-term memory (LSTM) and gated recurrent unit (GRU) with less training time. The experiment results demonstrate the effectiveness of the proposed method.

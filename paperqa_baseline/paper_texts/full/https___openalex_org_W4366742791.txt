@@ -1,0 +1,9 @@
+Title: A Recyclable Standalone Microporous Layer with Interpenetrating Network for Sustainable Fuel Cells
+Authors: Qinglin Wen, Yali Li, Can He, Min Shen, Fandi Ning, Xiong Dan, Yiyang Liu, Pengpeng Xu, Siyi Zou, Zhi Chai, Wei Li, Lei He, Bin Tian, Xiaochun Zhou
+Year: 2023
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202301504
+Paper ID: https://openalex.org/W4366742791
+
+Abstract:
+), providing the basic guarantee for its application in high-performance and highly recyclable fuel cells. Additionally, the standalone MPL is highly adaptable to various gas-diffusion backings (GDBs), providing high possibility to select highly recyclable GDBs. Outstandingly, anode standalone MPLs and GDBs can be easily detached from the spent membrane electrode assembly (MEA). This not only saves >90 vol% solvent in the recovery of the catalyst-coated membrane (CCM), but also extends the service life of the GDBs and the anode standalone MPL at least 138 times (2 760 000 h assuming 20 000 h of CCM) comparing to CCM. Therefore, the standalone MPL significantly enhances the recyclability and sustainability of fuel cells and is promising to be an indispensable component in the next-generation fuel cells.

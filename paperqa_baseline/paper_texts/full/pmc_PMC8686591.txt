@@ -1,0 +1,9 @@
+Title: Transection of the ventral hippocampal commissure impairs spatial reference but not contextual or spatial working memory
+Authors: Jake T. Jordan, Yi Tong, Carolyn L. Pytte
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053483.121
+Paper ID: pmc_PMC8686591
+
+Abstract:
+Plasticity is a neural phenomenon in which experience induces long-lasting changes to neuronal circuits and is at the center of most neurobiological theories of learning and memory. However, too much plasticity is maladaptive and must be balanced with substrate stability. Area CA3 of the hippocampus provides such a balance via hemispheric lateralization, with the left hemisphere dominant in providing plasticity and the right specialized for stability. Left and right CA3 project bilaterally to CA1; however, it is not known whether this downstream merging of lateralized plasticity and stability is functional. We hypothesized that interhemispheric convergence of input from these pathways is essential for integrating spatial memory stored in the left CA3 with navigational working memory facilitated by the right CA3. To test this, we severed interhemispheric connections between the left and right hippocampi in mice and assessed learning and memory. Despite damage to this major hippocampal fiber tract, hippocampus-dependent navigational working memory and short- and long-term memory were both spared. However, tasks that required the integration of information retrieved from memory with ongoing navigational working memory and navigation were impaired. We propose that one function of interhemispheric communication in the mouse hippocampus is to integrate lateralized processing of plastic and stable circuits to facilitate memory-guided spatial navigation.

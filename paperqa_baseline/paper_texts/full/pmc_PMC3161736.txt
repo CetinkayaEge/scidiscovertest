@@ -1,0 +1,9 @@
+Title: Comprehensive Study in the Inhibitory Effect of Berberine on Gene Transcription, Including TATA Box
+Authors: Yugang Wang, Michael M. Kheir, Yushuang Chai, Jun Hu, Dongming Xing, Fan Lei, Lijun Du
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023495
+Paper ID: pmc_PMC3161736
+
+Abstract:
+Berberine (BBR) is an established natural DNA intercalator with numerous pharmacological functions. However, currently there are neither detailed reports concerning the distribution of this alkaloid in living cells nor reports concerning the relationship between BBR's association with DNA and the function of DNA. Here we report that the distribution of BBR within the nucleus can be observed 30 minutes after drug administration, and that the content of berberine in the nucleus peaks at around 4 µmol, which is twelve hours after drug administration. The spatial conformation of DNA and chromatin was altered immediately after their association with BBR. Moreover, this association can effectively suppress the transcription of DNA in living cell systems and cell-free systems. Electrophoretic mobility shift assays (EMSA) demonstrated further that BBR can inhibit the association between the TATA binding protein (TBP) and the TATA box in the promoter, and this finding was also attained in living cells by chromatin immunoprecipitation (ChIP). Based on results from this study, we hypothesize that berberine can suppress the transcription of DNA in living cell systems, especially suppressing the association between TBP and the TATA box by binding with DNA and, thus, inhibiting TATA box-dependent gene expression in a non-specific way. This novel study has significantly expanded the sphere of knowledge concerning berberine's pharmacological effects, beginning at its paramount initial interaction with the TATA box.

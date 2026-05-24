@@ -1,0 +1,9 @@
+Title: Fused in sarcoma undergoes cold denaturation: Implications for phase separation
+Authors: Sara S. Félix, Douglas V. Laurents, Javier Oroz, Eurico J. Cabrita
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4521
+Paper ID: pmc_PMC9793971
+
+Abstract:
+Abstract The mediation of liquid–liquid phase separation (LLPS) for fused in sarcoma (FUS) protein is generally attributed to the low‐complexity, disordered domains and is enhanced at low temperature. The role of FUS folded domains on the LLPS process remains relatively unknown since most studies are mainly based on fragmented FUS domains. Here, we investigate the effect of metabolites on full‐length (FL) FUS LLPS using turbidity assays and differential interference contrast (DIC) microscopy, and explore the behavior of the folded domains by nuclear magnetic resonance (NMR) spectroscopy. FL FUS LLPS is maximal at low concentrations of glucose and glutamate, moderate concentrations of NaCl, Zn 2+ , and Ca 2+ and at the isoelectric pH. The FUS RNA recognition motif (RRM) and zinc‐finger (ZnF) domains are found to undergo cold denaturation above 0°C at a temperature that is determined by the conformational stability of the ZnF domain. Cold unfolding exposes buried nonpolar residues that can participate in LLPS‐promoting hydrophobic interactions. Therefore, these findings constitute the first evidence that FUS globular domains may have an active role in LLPS under cold stress conditions and in the assembly of stress granules, providing further insight into the environmental regulation of LLPS.

@@ -1,0 +1,9 @@
+Title: Assessing the environmental sustainability of grass silage and cattle slurry for biogas production
+Authors: Ciara Beausang, Kevin McDonnell, Fionnuala Murphy
+Year: 2021
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2021.126838
+Paper ID: https://openalex.org/W3139341045
+
+Abstract:
+Grass silage and cattle slurry have been identified as potential significant resources for biogas production. While a higher proportion of grass silage enables a higher specific methane yield to be achieved, there are concerns that using high shares of grass silage may have negative environmental impacts. Previous studies which consider grass as a feedstock have focused on environmental sustainability in the context of greenhouse gas mitigation. However, there is a potential risk of burden shifting occurring if other environmental impacts, such as eutrophication and terrestrial acidification, are not taken into account. A consequential life cycle assessment was conducted to examine mono-digestion of cattle slurry and co-digestion with grass silage in different ratios on a volatile solids (VS) basis. The prior uses of the feedstocks were considered, along with the processes displaced by the biogas and digestate produced. The net environmental impact varied according to the proportion of silage and slurry digested. Higher environmental burdens were observed for mixes with a greater ratio of grass silage to slurry. The optimum environmental performance for the baseline scenario was observed at a VS ratio of 0.4:0.6 for silage and slurry, where there is a net reduction for all impact categories considered. The choice of marginal technologies that are displaced has a significant influence on the results, as have the assumptions about how the grass silage is sourced. This study provides greater insight into the environmental impacts of co-digesting an energy crop with animal manure in varying proportions.

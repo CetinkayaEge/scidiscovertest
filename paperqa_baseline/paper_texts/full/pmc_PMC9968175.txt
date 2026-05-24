@@ -1,0 +1,9 @@
+Title: Prognostic Imaging Biomarkers in Diabetic Macular Edema Eyes Treated with Intravitreal Dexamethasone Implant
+Authors: Eliana Costanzo, Daniela Giannini, Daniele De Geronimo, Serena Fragiotta, Monica Varano, Mariacristina Parravano
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041303
+Paper ID: pmc_PMC9968175
+
+Abstract:
+Background: The aim was to evaluate predictive value of baseline optical coherence tomography (OCT) and OCT angiography (OCTA) parameters in diabetic macular edema (DME) treated with dexamethasone implant (DEXi). Methods: OCT and OCTA parameters were collected: central macular thickness (CMT), vitreomacular abnormalities (VMIAs), intraretinal and subretinal fluid (mixed DME pattern), hyper-reflective foci (HRF), microaneurysms (MAs) reflectivity, ellipsoid zone disruption, suspended scattering particles in motion (SSPiM), perfusion density (PD), vessel length density, and foveal avascular zone. Responders’ (RES) and non-responders’ (n-RES) eyes were classified considering morphological (CMT reduction ≥ 10%) and functional (BCVA change ≥ 5 ETDRS letters) changes after DEXi. Binary logistic regression OCT, OCTA, and OCT/OCTA-based models were developed. Results: Thirty-four DME eyes were enrolled (18 treatment-naïve). OCT-based model combining DME mixed pattern + MAs + HRF and OCTA-based model combining SSPiM and PD showed the best performance to correctly classify the morphological RES eyes. In the treatment-naïve eyes, VMIAs were included with a perfect fit for n-RES eyes. Conclusion: The presence of DME mixed pattern, a high number of parafoveal HRF, hyper-reflective MAs, SSPiM in the outer nuclear layers, and high PD represent baseline predictive biomarkers for DEXi treatment responsiveness. The application of these models to treatment-naïve patients allowed a good identification of n-RES eyes.

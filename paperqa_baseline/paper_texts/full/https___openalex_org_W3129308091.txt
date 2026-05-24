@@ -1,0 +1,9 @@
+Title: A self-sustainable wearable multi-modular E-textile bioenergy microgrid system
+Authors: Lu Yin, Kyeong Nam Kim, Jian Lv, Farshad Tehrani, Muyang Lin, Zuzeng Lin, Jong-Min Moon, Jessica Ma, Jialu Yu, Sheng Xu, Joseph Wang
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-21701-7
+Paper ID: https://openalex.org/W3129308091
+
+Abstract:
+Despite the fast development of various energy harvesting and storage devices, their judicious integration into efficient, autonomous, and sustainable wearable systems has not been widely explored. Here, we introduce the concept and design principles of e-textile microgrids by demonstrating a multi-module bioenergy microgrid system. Unlike earlier hybrid wearable systems, the presented e-textile microgrid relies solely on human activity to work synergistically, harvesting biochemical and biomechanical energy using sweat-based biofuel cells and triboelectric generators, and regulating the harvested energy via supercapacitors for high-power output. Through energy budgeting, the e-textile system can efficiently power liquid crystal displays continuously or a sweat sensor-electrochromic display system in pulsed sessions, with half the booting time and triple the runtime in a 10-min exercise session. Implementing "compatible form factors, commensurate performance, and complementary functionality" design principles, the flexible, textile-based bioenergy microgrid offers attractive prospects for the design and operation of efficient, sustainable, and autonomous wearable systems.

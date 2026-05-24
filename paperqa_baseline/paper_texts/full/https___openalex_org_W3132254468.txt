@@ -1,0 +1,9 @@
+Title: Built to Sustain: The Effect of Entrepreneurial Decision-Making Logic on New Venture Sustainability
+Authors: Dan Long, Houhong Wang, Peili Wang
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042170
+Paper ID: https://openalex.org/W3132254468
+
+Abstract:
+How entrepreneurs make entrepreneurial decisions to improve entrepreneurial performance is a popular concern in both theoretical and practical circles. Existing studies mostly analyze the effect of entrepreneurial decision-making logic on the survival and growth of new ventures from the perspective of financial performance, but few studies focus on new venture sustainability. Based on datasets from the first two survey rounds of CPSED (Chinese Panel Study of Entrepreneurial Dynamics), this paper selects a group of 259 entrepreneurs as a sample and uses logistic regression analysis as a research method. The purpose of this study is to examine the effects of entrepreneurial decision-making logic on new venture sustainability. There are two main entrepreneurial logics, namely effectuation and causation. The paper discusses causation in terms of four dimensions, namely goal orientation, expected returns, competitive analysis, and avoiding contingencies. It examines effectuation in terms of the dimensions of means orientation, affordable loss, partnerships, and leveraging contingencies. The empirical results show that goal orientation plays a negative role in promoting new venture sustainability, while avoiding contingencies has a positive influence on it. Partnerships are conducive to new venture sustainability, while means orientation and leveraging contingencies have a negative effect.

@@ -1,0 +1,9 @@
+Title: Human Embryonic Stem-Cell-Derived Exosomes Repress NLRP3 Inflammasome to Alleviate Pyroptosis in Nucleus Pulposus Cells by Transmitting miR-302c
+Authors: Yawen Yu, Wenting Li, Tinghui Xian, Mei Tu, Hao Wu, Jiaqing Zhang
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087664
+Paper ID: pmc_PMC10141109
+
+Abstract:
+Recent studies have shown that the NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3) inflammasome is extensively activated in the process of intervertebral disc degeneration (IVDD), leading to the pyroptosis of nucleus pulposus cells (NPCs) and the exacerbation of the pathological development of the intervertebral disc (IVD). Exosomes derived from human embryonic stem cells (hESCs-exo) have shown great therapeutic potential in degenerative diseases. We hypothesized that hESCs-exo could alleviate IVDD by downregulating NLRP3. We measured the NLRP3 protein levels in different grades of IVDD and the effect of hESCs-exo on the H 2 O 2 -induced pyroptosis of NPCs. Our results indicate that the expression of NLRP3 was upregulated with the increase in IVD degeneration. hESCs-exo were able to reduce the H 2 O 2 -mediated pyroptosis of NPCs by downregulating the expression levels of NLRP3 inflammasome-related genes. Bioinformatics software predicted that miR-302c, an embryonic stem-cell-specific RNA, can inhibit NLRP3 , thereby alleviating the pyroptosis of NPCs, and this was further verified by the overexpression of miR-302c in NPCs. In vivo experiments confirmed the above results in a rat caudal IVDD model. Our study demonstrates that hESCs-exo could inhibit excessive NPC pyroptosis by downregulating the NLRP3 inflammasome during IVDD, and miR-302c may play a key role in this process.

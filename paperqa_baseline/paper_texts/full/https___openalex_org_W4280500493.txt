@@ -1,0 +1,9 @@
+Title: Social sustainability in the age of digitalization: A systematic literature Review on the social implications of industry 4.0
+Authors: Andrius Grybauskas, Alessandro Stefanini, Morteza Ghobakhloo
+Year: 2022
+Venue: Technology in Society
+DOI: https://doi.org/10.1016/j.techsoc.2022.101997
+Paper ID: https://openalex.org/W4280500493
+
+Abstract:
+The fourth industrial revolution has turned into a reality during the past few years, and, as a result, the related literature has grown at an unprecedented rate, offering valuable insights into the possible impacts of Industry 4.0 at various analysis levels. Investigating the economic effects of Industry 4.0, especially at the corporate level, has been a cutting-edge research topic across various disciplines. Similarly, several studies have addressed the opportunities that Industry 4.0 might offer to environmental sustainability. On the contrary, the social sustainability implications of Industry 4.0 are less explored in the literature. Unlike the overoptimism around the economic benefits, academia remains quite inconsistent while interpreting the social aspects linked to Industry 4.0. Trying to shed some light on this issue, this research conducts a state-of-the-art systematic review of academic papers and a Machine Learning-based analysis of grey literature on the social implications of Industry 4.0. Contributing to this very relevant and fresh topic, the study summarizes the ongoing trends on social sustainability consequences of Industry 4.0, highlights the existing gaps, and proposes exciting avenues for future research.

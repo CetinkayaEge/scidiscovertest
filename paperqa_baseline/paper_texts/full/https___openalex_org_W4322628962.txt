@@ -1,0 +1,9 @@
+Title: Effect of Financial Inclusion, Eco-Innovation, Globalization, and Sustainable Economic Growth on Ecological Footprint
+Authors: Trong Lam Vu, Ch. Paramaiah, Bushra Tufail, Muhammad Atif Nawaz, Nguyen Thi My Xuyen, Pham Quang Huy
+Year: 2023
+Venue: Engineering Economics
+DOI: https://doi.org/10.5755/j01.ee.34.1.32402
+Paper ID: https://openalex.org/W4322628962
+
+Abstract:
+Although economic growth, globalization, and ecological footprint are extensively researched altogether, however, the literature on the role of financial inclusion, ecological innovation along with growth and globalization is still limited specifically in the context of MENA region. Thereby, The study aims to scrutinize the dynamic association between the above-stated variables while considering a range of statistical estimations and methods. Data is gathered from 1990 to 2017 for the stated panel economies entitled under the MENA region. It is observed that there exists cross-sectional dependence, having stationarity proprieties, and slope heterogeneity for the variables of interest. Furthermore, the findings through CS-ARDL indicate the significant and direct impact of financial inclusion economic growth, and globalization through GDP in creating more environmental issues like EFP. Whereas ecological innovation is significantly playing its role in reducing ED for the selected economies. Finally, robust checks through "Augmented Mean Group and Common Correlated Effect Mean Group" have also revealed consistent findings when examined through CS-ARDL. Besides, various policy implications are also presented in this research.

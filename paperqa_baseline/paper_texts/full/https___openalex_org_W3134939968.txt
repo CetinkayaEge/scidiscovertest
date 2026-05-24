@@ -1,0 +1,9 @@
+Title: Towards More Sustainable Materials for Geo-Environmental Engineering: The Case of Geogrids
+Authors: Alessio Cislaghi, Paolo Sala, Gigliola Borgonovo, Claudio Gandolfi, Gian Battista Bischetti
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052585
+Paper ID: https://openalex.org/W3134939968
+
+Abstract:
+Plastic materials are widely used in geotechnical engineering, especially as geosynthetics. The use of plastic-based products involves serious environmental risks caused by their degradation. Innovative research has been focusing on biodegradable polymers of natural origin, especially on poly(lactic acid) (PLA), to reduce the use of plastics. This study aims to explore the potentiality of biopolymers for the production of geogrids, measuring the chemical and mechanical characteristics of raw materials and of prototype samples, similar to those available on the market. First, chemical composition and optical purity were determined by hydrogen nuclear magnetic resonance (1H-NMR) and polarimetry. Furthermore, samples of uniaxial and biaxial geogrids were custom-molded using a professional 3D printer. Mechanical properties were measured both on the filament and on the prototype geogrids. The maximum tensile resistance was 6.76 kN/m for the neat-PLA filament and 10.14 kN/m for uniaxial prototype geogrids produced with PLA-based polymer mixed with titanium dioxide. PLA-based materials showed higher tensile properties than polypropylene (PP), the most common petroleum derivative. Conversely, such biomaterials seem to be more brittle and with scarce elongation rate respect PP. Nonetheless, these results are encouraging and can support the use of PLA-based materials for innovative biodegradable geosynthetics production, especially if used in combination with live plants.

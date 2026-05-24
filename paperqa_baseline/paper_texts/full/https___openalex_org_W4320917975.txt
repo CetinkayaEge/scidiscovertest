@@ -1,0 +1,9 @@
+Title: Telepresence Robot with DRL Assisted Delay Compensation in IoT-Enabled Sustainable Healthcare Environment
+Authors: Fawad Naseer, Muhammad Nasir Khan, Ali Altalbe
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043585
+Paper ID: https://openalex.org/W4320917975
+
+Abstract:
+Telepresence robots have become popular during the COVID-19 era due to the quarantine measures and the requirement to interact less with other humans. Telepresence robots are helpful in different scenarios, such as healthcare, academia, or the exploration of certain unreachable territories. IoT provides a sensor-based environment wherein robots acquire more precise information about their surroundings. Remote telepresence robots are enabled with more efficient data from IoT sensors, which helps them to compute the data effectively. While navigating in a distant IoT-enabled healthcare environment, there is a possibility of delayed control signals from a teleoperator. We propose a human cooperative telecontrol robotics system in an IoT-sensed healthcare environment. The deep reinforcement learning (DRL)-based deep deterministic policy gradient (DDPG) offered improved control of the telepresence robot to provide assistance to the teleoperator during the delayed communication control signals. The proposed approach can stabilize the system in aid of the teleoperator by taking the delayed signal term out of the main controlling framework, along with the sensed IOT infrastructure. In a dynamic IoT-enabled healthcare context, our suggested approach to operating the telepresence robot can effectively manage the 30 s delayed signal. Simulations and physical experiments in a real-time healthcare environment with human teleoperators demonstrate the implementation of the proposed method.

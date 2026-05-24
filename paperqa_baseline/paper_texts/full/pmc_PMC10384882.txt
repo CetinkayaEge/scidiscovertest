@@ -1,0 +1,9 @@
+Title: Phase-Locked Synthetic Wavelength Interferometer Using a Femtosecond Laser for Absolute Distance Measurement without Cyclic Error
+Authors: Hyeokin Kang, Joohyung Lee, Young-Jin Kim, Seung-Woo Kim
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23146253
+Paper ID: pmc_PMC10384882
+
+Abstract:
+We present a phase-locked synthetic wavelength interferometer that enables a complete elimination of cyclic errors in absolute distance measurements. With this method, the phase difference between the reference and measurement paths is fed back into a phase lock-in system, which is then used to control the synthetic wavelength and set the phase difference to zero using an external cavity acousto-optic modulator. We validated the cyclic error removal of the proposed phase-locked method by comparing it with the conventional phase-measuring method of the synthetic wavelength interferometer. By analyzing the locked error signal, we achieved a precision of 0.6 mrad in phase without any observed cyclic errors.

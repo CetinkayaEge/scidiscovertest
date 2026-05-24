@@ -1,0 +1,9 @@
+Title: Nearly half of the world is suitable for diversified farming for sustainable intensification
+Authors: Hannah Kamau, Shahrear Roman, Lisa Biber‐Freudenberger
+Year: 2023
+Venue: Communications Earth & Environment
+DOI: https://doi.org/10.1038/s43247-023-01062-3
+Paper ID: https://openalex.org/W4389145390
+
+Abstract:
+Abstract Sustainable intensification, defined as increasing production per unit without harming the environment, has potential to transform agricultural systems. While questions persist about which practices and conditions lead to sustainable intensification, diversification has gained prominence as a proposed solution. Here we apply niche modelling using maximum entropy modelling approach to predict the global spatial distribution of profitable diversified farming systems under different socio-economic conditions. We found about 47% of the world is suitable for profitable diversified systems with a larger area in the global North. When we combined our findings with knowledge about biophysical potential for cropland expansion and intensification, we found that different areas could benefit from diversification to achieve sustainable intensification through cropland expansion (e.g., Europe), intensification (e.g., sub-tropics and tropics), or both (e.g., West Africa). With these results, we provide insights in which way diversification can support sustainable intensification and contribute to the debate on land sharing vs sparing.

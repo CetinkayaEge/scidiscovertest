@@ -1,0 +1,9 @@
+Title: Energy and Sustainable Development in Smart Cities: An Overview
+Authors: Mohamed G Moh Almihat, Mohamed Tariq Kahn, Khaled M. Abo–Al–Ez, Ali Almaktoof
+Year: 2022
+Venue: Smart Cities
+DOI: https://doi.org/10.3390/smartcities5040071
+Paper ID: https://openalex.org/W4306835732
+
+Abstract:
+Smart cities are an innovative concept for managing metropolitan areas to increase their residents’ sustainability and quality of life. This article examines the management and evolution of energy generation, various storage systems and the applications they serve, and infrastructure technology’s current condition and future prospects. Additionally, the study also examines energy-related construction and transportation systems and technologies. The Smart Cities Energy Prediction Task Force predicts electrical usage using STLF, SVM, and e-learning machines. To keep a system working well throughout the year, fossil fuels must be utilised as a backup energy source. Technologies can only benefit if integrated into the city’s infrastructure. By 2050, it is anticipated that the global population will surpass 10 billion, with most people settling in metropolitan regions. Between 2020 and 2027, the global market for smart energy is anticipated to expand by 27.1% annually, from USD 122.2 billion in 2020 to USD 652 billion in 2026. In 2020, Europe will account for 31.8 per cent of total smart energy product sales. China’s GDP is projected to grow by 33.0 per cent annually, reaching USD 176.1 billion by the conclusion of the analysis period. Consequently, smart cities are expanding and blooming worldwide, yet there are no permanent standards.

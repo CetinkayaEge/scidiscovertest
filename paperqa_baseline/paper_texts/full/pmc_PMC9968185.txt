@@ -1,0 +1,9 @@
+Title: Data-Driven Prediction of the Formation of Co-Amorphous Systems
+Authors: Elisabeth Fink, Michael Brunsteiner, Stefan Mitsche, Hartmuth Schröttner, Amrit Paudel, Sarah Zellnitz-Neugebauer
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020347
+Paper ID: pmc_PMC9968185
+
+Abstract:
+Co-amorphous systems (COAMS) have raised increasing interest in the pharmaceutical industry, since they combine the increased solubility and/or faster dissolution of amorphous forms with the stability of crystalline forms. However, the choice of the co-former is critical for the formation of a COAMS. While some models exist to predict the potential formation of COAMS, they often focus on a limited group of compounds. Here, four classes of combinations of an active pharmaceutical ingredient (API) with (1) another API, (2) an amino acid, (3) an organic acid, or (4) another substance were considered. A model using gradient boosting methods was developed to predict the successful formation of COAMS for all four classes. The model was tested on data not seen during training and predicted 15 out of 19 examples correctly. In addition, the model was used to screen for new COAMS in binary systems of two APIs for inhalation therapy, as diseases such as tuberculosis, asthma, and COPD usually require complex multidrug-therapy. Three of these new API-API combinations were selected for experimental testing and co-processed via milling. The experiments confirmed the predictions of the model in all three cases. This data-driven model will facilitate and expedite the screening phase for new binary COAMS.

@@ -1,0 +1,9 @@
+Title: A comprehensive systematic literature review of ML in nanotechnology for sustainable development
+Authors: Inam Ur Rehman, Inam Ullah, Habib Ullah Khan, Mohammed Seghir Guellil, Jakeoung Koo, J.M. Min, Shabana Habib, Muhammad Islam, Mi Young Lee
+Year: 2024
+Venue: Nanotechnology Reviews
+DOI: https://doi.org/10.1515/ntrev-2024-0069
+Paper ID: https://openalex.org/W4401666701
+
+Abstract:
+Abstract The rapid expansion of nanotechnology has transformed numerous sectors, with nanoproducts now ubiquitous in everyday life, electronics, healthcare, and pharmaceuticals. Despite their widespread adoption, concerns persist regarding potential adverse effects, necessitating vigilant risk management. This systematic literature review advocates for leveraging artificial intelligence (AI) and machine learning (ML) methodologies to enhance simulations and refine safety assessments for nanomaterials (NMs). Through a comprehensive examination of the existing literature, this study seeks to explain the pivotal role of AI in boosting NMs sustainability efforts across six key research themes. It explores their significance in advancing sustainability, hazard identification, and their diverse applications in this field. In addition, it evaluates the past sustainability strategies for NMs while proposing innovative avenues for future exploration. By conducting this comprehensive analysis, the research aims to illuminate the current landscape, identify challenges, and outline potential pathways for integrating AI and ML to promote sustainable practices within nanotechnology. Furthermore, it advocates for extending these technologies to monitor the real-world behaviour of NMs delivery. Through its thorough investigation, this systematic literature review endeavours to address current obstacles and pave the way for the safe and sustainable utilization of nanotechnology, thereby minimizing associated risks.

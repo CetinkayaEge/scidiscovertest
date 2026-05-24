@@ -1,0 +1,9 @@
+Title: An integrated machine learning and quantitative optimization method for designing sustainable bioethanol supply chain networks
+Authors: Mohsen Momenitabar, Zhila Dehdari Ebrahimi, Atefeh Abdollahi, Wesam Helmi, Kelly Bengtson, Peiman Ghasemi
+Year: 2023
+Venue: Decision Analytics Journal
+DOI: https://doi.org/10.1016/j.dajour.2023.100236
+Paper ID: https://openalex.org/W4367299642
+
+Abstract:
+Increasing demand for energy is pushing decision-makers in the Bioethanol Supply Chain Network (BSCN) to adopt second-generation biomass feedstocks to meet sustainability criteria. This study proposes an integrated Machine Learning (ML) and quantitative optimization model to design a Sustainable Bioethanol Supply Chain Network (SBSCN). We use ML methods, such as Random Forest (RF), Extreme Gradient Boosting Method (XGBoost), and Ensemble learning algorithm (Bagging), to project the bioethanol demand. We select the RF method as a superior method to forecast the bioethanol demand as inputs to the model by comparing the performance criteria for these three methods. We then propose a Mixed-Integer Linear Programming (MILP) model to meet the sustainability criteria defined by three objective functions. We present a case study to demonstrate the applicability of the proposed approach. The sensitivity analysis confirms that the costs of establishing preprocessing and biorefinery centers constitute 37% of the total costs of the network. More importantly, we find that the square bale harvest method is among the methods that utilized the most switchgrass land area. More interestingly, our model determined that the square bale harvest method led to 18,450 tons of switchgrass loss in the case study. Finally, our results can be utilized by policymakers and investors to develop efficient SBSCNs.

@@ -1,0 +1,9 @@
+Title: Exploration–Exploitation: How business analytics powers organisational ambidexterity for environmental sustainability
+Authors: Yunfei Shi, Christine Van Toorn, Mikayla McEwan
+Year: 2023
+Venue: Information Systems Journal
+DOI: https://doi.org/10.1111/isj.12456
+Paper ID: https://openalex.org/W4382986810
+
+Abstract:
+Abstract Simultaneous exploration and exploitation (i.e., exploration–exploitation) can help a firm address short‐term environmental requirements and ensure long‐term environmental viability. Exploration–exploitation, however, challenges organisational practices because they compete for resources and time. While business analytics (BA) offers the potential to overcome these challenges, research to date offers very limited insights into how BA capabilities interact with ambidextrous capabilities to realise environmental value. We address this issue by conducting a comparative case study at a bank and at a real‐estate trust through the theoretical lens of dynamic capabilities. We develop a process model to explain how BA powers ambidextrous practices to achieve sustainability outcomes over time. We uncover two mechanisms: a BA‐powered context shaping mechanism by which BA powers contextual ambidexterity at the employee level using data availability, timeliness, and analytics culture; and a BA‐powered resource linking mechanism by which BA powers structural ambidexterity at intra‐ and inter‐organisational levels using holistic insights and analytics leadership. Our model highlights the contextual factors that condition the extent to which a firm moves along the continuum of exploration–exploitation. We also define a new dimension of sustainability outcomes which we label eco‐awareness to explain how BA shapes employees' environmental alertness and enables the paradigm shift in an organisation's sustainability mindset.

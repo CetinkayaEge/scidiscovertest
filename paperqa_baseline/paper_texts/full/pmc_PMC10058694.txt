@@ -1,0 +1,9 @@
+Title: Transmit–Receive Sparse Synthesis of Linear Frequency Diverse Array in Range-Angle Space Using Genetic Algorithm
+Authors: Yanhong Xu, Xiao Huang, Anyi Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063107
+Paper ID: pmc_PMC10058694
+
+Abstract:
+Unlike conventional phased array (PA), frequency diversity array (FDA) can perform the beampattern synthesis not only in an angle dimension but also in a range dimension by introducing an additional frequency offset (FO) across the array aperture, thus greatly enhancing the beamforming flexibility of an array antenna. Nevertheless, an FDA with uniform inter-element spacing that consists of a huge number of elements is required when a high resolution is needed, which results in a high cost. To substantially reduce the cost while almost maintaining the antenna resolution, it is important to conduct a sparse synthesis of FDA. Under these circumstances, this paper investigated the transmit–receive beamforming of a sparse-fda in range and angle dimensions. In particular, the joint transmit–receive signal formula was first derived and analyzed to resolve the inherent time-varying characteristics of FDA based on a cost-effective signal processing diagram. In the sequel, the GA-based low sidelobe level (SLL) transmit–receive beamforming of the sparse-fda was proposed to generate a focused main lobe in a range-angle space, where the array element positions were incorporated into the optimization problem. Numerical results showed that 50% of the elements can be saved for the two linear FDAs with sinusoidally and logarithmically varying frequency offsets, respectively termed as sin-FO linear-FDA and log-FO linear-FDA, with only a less than 1 dB increment in SLL. The resultant SLLs are below −9.6 dB, and −12.9 dB for these two linear FDAs, respectively.

@@ -1,0 +1,9 @@
+Title: Investigation of adsorption behaviors, and electronic and magnetic properties for small gas molecules adsorbed on Pt-doped arsenene by density functional calculations
+Authors: Ping Wu, Min Huang
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra08028a
+Paper ID: pmc_PMC9890969
+
+Abstract:
+Based on first-principles calculations, we compared the adsorption behaviors, electronic and magnetic properties of gas molecules (CO, NO, NO 2 , O 2 , NH 3 , H 2 O, H 2 and N 2 ) adsorbed on Pt-embedded arsenene and pristine arsenene. Our calculations show the interactions between molecules and arsenene can be enhanced by substitution of a Pt atom, suggesting the potential application of Pt-doped arsenene in gas sensing, especially for detecting NO 2 gas due to the largest adsorption energy and charge transfer between NH 3 and Pt-doped arsenene. Among all the molecules considered, CO, NO, NO 2 , O 2 and NH 3 molecules chemisorb on Pt-doped arsenene (these molecules physisorb on pristine arsenene) forming covalent Pt–C, Pt–N and Pt–O bonds, thus resulting in the elongation of C–O, N–O, O–O, N–H bonds in molecules. The magnetic moments of arsenene adsorbed with O 2 , NO, and NO 2 decrease or diminish after Pt doping. Such variation on magnetism before and after Pt doping is ascribed to significant charge transfer and strong hybridization between gas molecules and the underlying Pt atoms, indicating the magnetic properties of arsenene can be tuned by molecular adsorption and Pt doping. These findings suggest Pt-doped arsenene has potential applications in spintronic devices, catalysts and gas sensors. CO, NO, NO 2 , O 2 and NH 3 chemisorb on Pt-doped arsenene with larger charge transfers and higher adsorption energies than those on pristine arsenene, implying Pt-doped arsenene displays superior gas sensing performance compared to pristine arsenene.

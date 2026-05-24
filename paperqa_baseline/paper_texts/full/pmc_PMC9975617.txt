@@ -1,0 +1,9 @@
+Title: Auxin induces lateral root formation in Bupleurum : A heme oxygenase dependent approach
+Authors: Liang Feng, Hua Chen, Jun Zhao, Dan Liu, Zhen Wei, Yuchan Li, Bin Yang, Yilian He, Meng Zhang, Dabin Hou, Ma Yu
+Year: 2023
+Venue: Chinese Herbal Medicines
+DOI: 10.1016/j.chmed.2022.03.006
+Paper ID: pmc_PMC9975617
+
+Abstract:
+Objective The content of saikosaponins in genus Bupleurum is increased with numbers of lateral root, but the genetic mechanisms are largely unknown. This study aims to identify the heme oxygenase (HO) gene family members of B. chinense and B. scorzonerifolium , and assess their role in the root development in Bupleurum . Methods The gene sequences of HO family were selected from iso -seq full-length transcriptome data of B. chinense and B. scorzonerifolium , and were analyzed in physicochemical properties, conserved domains, motifs and phylogenetic relationship. In addition, the expression patterns of HO gene in different parts of roots were compared via transcriptome sequencing and qRT-PCR in the two species. Results Five Bupleurum HO genes ( BcHO1 - BcHO5 ) belonging to the HO1 subfamily were identified from the transcriptome data, whereas the HO2 subfamily member was not identified. The expression levels of BcHO1 and BcHO2 were significantly higher than those of other three HO members in the transcriptome analysis. In addition, the expression profile of BcHO1 showed consistency with lateral root development in B. chinense and B. scorzonerifolium . Conclusion Hos might participate in the auxin-induced morphogenesis of lateral roots. The yield of saikosaponin may be improved by manipulating expression of these genes.

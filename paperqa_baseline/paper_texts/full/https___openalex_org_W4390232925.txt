@@ -1,0 +1,9 @@
+Title: Design of high‐performance and sustainable Co‐free Ni‐rich cathodes for next‐generation lithium‐ion batteries
+Authors: Hao Ge, Zhiwen Shen, Yanhong Wang, Zhijia Sun, Xiaoman Cao, Chaoyue Wang, Xinyue Fan, Jinsong Bai, Rundong Li, Tianhua Yang, Gang Wu
+Year: 2023
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.176
+Paper ID: https://openalex.org/W4390232925
+
+Abstract:
+Abstract Great attention has been given to high‐performance and inexpensive lithium‐ion batteries (LIBs) in response to the ever‐increasing demand for the explosive growth of electric vehicles (EVs). High‐performance and low‐cost Co‐free Ni‐rich layered cathodes are considered one of the most favorable candidates for next‐generation LIBs because the current supply chain of EVs relies heavily on scarce and expensive Co. Herein, we review the recent research progress on Co‐free Ni‐rich layered cathodes, emphasizing on analyzing the necessity of replacing Co and the popular improvment methods. The current advancements in the design strategies of Co‐free Ni‐rich layered cathodes are summarized in detail. Despite considerable improvements achieved so far, the main technical challenges contributing to the deterioration of Co‐free Ni‐rich cathodes such as detrimental phase transitions, crack formation, and severe interfacial side reactions, are difficult to resolve by a single technique. The cooperation of multiple modification strategies is expected to accelerate the industrialization of Co‐free Ni‐rich layered cathodes, and the corresponding synergistic mechanisms urgently need to be studied. More effects will be aroused to explore high‐performance Co‐free Ni‐rich layered cathodes to promote the sustainable development of LIBs.

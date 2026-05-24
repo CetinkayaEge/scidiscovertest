@@ -1,0 +1,9 @@
+Title: Development of a novel endolysin, PanLys.1, for the specific inhibition of Peptostreptococcus anaerobius
+Authors: Joonbeom Moon, Hanbeen Kim, Dongseok Lee, Jakyeom Seo
+Year: 2023
+Venue: Animal Bioscience
+DOI: 10.5713/ab.22.0454
+Paper ID: pmc_PMC10330981
+
+Abstract:
+Objective The objective of this study was to develop a novel endolysin (PanLys.1) for the specific killing of the ruminal hyper-ammonia-producing bacterium Peptostreptococcus anaerobius ( P. anaerobius ). Methods Whole genome sequences of P. anaerobius strains and related bacteriophages were collected from the National Center for Biotechnology Information database, and the candidate gene for PanLys.1 was isolated based on amino acid sequences and conserved domain database (CDD) analysis. The gene was overexpressed using a pET system in Escherichia coli BL21 (DE3). The lytic activity of PanLys.1 was evaluated under various conditions (dosage, pH, temperature, NaCl, and metal ions) to determine the optimal lytic activity conditions. Finally, the killing activity of PanLys.1 against P. anaerobius was confirmed using an in vitro rumen fermentation system. Results CDD analysis showed that PanLys.1 has a modular design with a catalytic domain, amidase-2, at the N-terminal, and a cell wall binding domain, from the CW-7 superfamily, at the C-terminal. The lytic activity of PanLys.1 against P. anaerobius was the highest at pH 8.0 (p<0.05) and was maintained at 37°C to 45°C, and 0 to 250 mM NaCl. The activity of PanLys.1 significantly decreased (p<0.05) after Mn 2+ or Zn 2+ treatment. The relative abundance of P. anaerobius did not decrease after administration PanLys.1 under in vitro rumen conditions. Conclusion The application of PanLys.1 to modulate P. anaerobius in the rumen might not be feasible because its lytic activity was not observed in in vitro rumen system.

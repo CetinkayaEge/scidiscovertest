@@ -1,0 +1,9 @@
+Title: Towards a circular economy: Implications for emission reduction and environmental sustainability
+Authors: Abebe Hailemariam, Michael Odei Erdiaw‐Kwasie
+Year: 2022
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3229
+Paper ID: https://openalex.org/W4291941504
+
+Abstract:
+Abstract Governments and policymakers worldwide have been setting targets to achieve an ambitious net‐zero emission target by 2050 to tackle the pressing issue of climate change. However, achieving the net‐zero emission target by 2050 depends on the factors determining the transition from traditional fossil fuel energy sources to renewables. In connection with this, policymakers have emphasised the need to transition from a linear to a circular economy. In this paper, we investigate the effectiveness of the progress towards a circular economy in reducing CO 2 emissions and promoting environmental sustainability. To do so, we use annual historical data for a panel of 29 European countries from 2000 to 2020. Using an identification strategy that adopts heteroscedastic‐based instrumental variables and addresses endogeneity issues, we find that progress towards a circular economy significantly improves environmental quality via reducing CO 2 emissions. Our findings suggest that business strategies promoting recycling and circular economy practices play an important role in environmental sustainability by reducing emissions.

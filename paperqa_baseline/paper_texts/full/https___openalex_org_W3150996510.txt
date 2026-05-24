@@ -1,0 +1,9 @@
+Title: Analysis of dependency and importance of key indicators for railway sustainability monitoring: A new integrated approach with DEA and Pearson correlation
+Authors: Boban Djordjević, Ajinkya S. Mane, Evelin Krmac
+Year: 2021
+Venue: Research in Transportation Business & Management
+DOI: https://doi.org/10.1016/j.rtbm.2021.100650
+Paper ID: https://openalex.org/W3150996510
+
+Abstract:
+Railways play a crucial role in sustainable development of transport systems contributing to the economic growth of every country. To maximize their potential, railways must monitor their progress towards sustainability. Key performance indicators are a tool for assessing the sustainability of railways. This study aims to present a comprehensive set of indicators for railway sustainability and to introduce a new approach to their analysis. For this purpose, the indicators have been grouped according to sustainability themes and pillars, while the new approach to assess their impact is based on a two-stage process - correlation analysis and a DEA model. The obtained results show the strong correlation between the indicators and their mutual impacts. Moreover, this study presents the current status of the efficiency of the railways by evaluating it against selected indicators.

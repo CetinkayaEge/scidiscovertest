@@ -1,0 +1,9 @@
+Title: Vestibular Drop Attacks and Meniere’s Disease as Results of Otolithic Membrane Damage—A Numerical Model
+Authors: Nicholas Senofsky, Justin Faber, Dolores Bozovic
+Year: 2022
+Venue: JARO: Journal of the Association for Research in Otolaryngology
+DOI: 10.1007/s10162-022-00880-0
+Paper ID: pmc_PMC9971529
+
+Abstract:
+Meniere’s disease (MD) is a condition of the inner ear with symptoms affecting both vestibular and hearing functions. Some patients with MD experience vestibular drop attacks (VDAs), which are violent falls caused by spurious vestibular signals from the utricle and/or saccule. Recent surgical work has shown that patients who experience VDAs also show disrupted utricular otolithic membranes. The objective of this study is to determine if otolithic membrane damage alone is sufficient to induce spurious vestibular signals, thus potentially eliciting VDAs and the vestibular dysfunction seen in patients with MD. We use a previously developed numerical model to describe the nonlinear dynamics of an array of active, elastically coupled hair cells. We then reduce the coupling strength of a selected region of the membrane to model the effects of tissue damage. As we reduce the coupling strength, we observe large and abrupt spikes in hair bundle position. As bundle displacements from the equilibrium position have been shown to lead to depolarization of the hair-cell soma and hence trigger neural activity, this spontaneous activity could elicit false detection of a vestibular signal. The results of this numerical model suggest that otolithic membrane damage alone may be sufficient to induce VDAs and the vestibular dysfunction seen in patients with MD. Future experimental work is needed to confirm these results in vitro.

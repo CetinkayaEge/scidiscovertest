@@ -1,0 +1,9 @@
+Title: Sustainable Urban Greening and Cooling Strategies for Thermal Comfort at Pedestrian Level
+Authors: Maurizio Detommaso, Antonio Gagliano, Luigi Marletta, Francesco Nocera
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13063138
+Paper ID: https://openalex.org/W3136663906
+
+Abstract:
+The increase of the urban warming phenomenon all over the world is gaining increasing attention from scientists as well as planners and policymakers due to its adverse effects on energy consumption, health, wellbeing, and air pollution. The protection of urban areas from the outdoor warming phenomenon is one of the challenges that policy and governments have to tackle as soon as possible and in the best possible way. Among the urban heat island mitigation techniques, cool materials and urban greening are identified as the most effective solutions in reducing the urban warming phenomenon. The effects produced by the adoption of cool materials and urban forestation on the urban microclimate were investigated through a computational fluid-dynamic (CFD) model. The CFD model was calibrated and validated thanks to experimental surveys within the Catania University campus area. The urban microclimate thermal comfort analysis and assessment were carried out with the Klima–Michel Model (KMM) and Munich Energy Balance Model for Individuals (MEMI). In particular, three scenarios were performed: cool, low, and high levels of urban greening. The cool scenario, although it produces air temperature at around 1.00 °C, determines the worst condition of outdoor thermal comfort, especially at the pedestrian level. On the contrary, a high level of urban greening, obtained by the extensive green roofs together with an urban forestation, guarantees the wellbeing of pedestrians, showing more convenient values of PMV and PET.

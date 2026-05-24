@@ -1,0 +1,9 @@
+Title: Sustainable Cyber-Physical Production Systems in Big Data-Driven Smart Urban Economy: A Systematic Literature Review
+Authors: Mihai Andronie, George Lăzăroiu, Mariana Iatagan, Iulian Hurloiu, Irina Dijmărescu
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020751
+Paper ID: https://openalex.org/W3118511700
+
+Abstract:
+In this article, we cumulate previous research findings indicating that cyber-physical production systems bring about operations shaping social sustainability performance technologically. We contribute to the literature on sustainable cyber-physical production systems by showing that the technological and operations management features of cyber-physical systems constitute the components of data-driven sustainable smart manufacturing. Throughout September 2020, we performed a quantitative literature review of the Web of Science, Scopus, and ProQuest databases, with search terms including “sustainable industrial value creation”, “cyber-physical production systems”, “sustainable smart manufacturing”, “smart economy”, “industrial big data analytics”, “sustainable Internet of Things”, and “sustainable Industry 4.0”. As we inspected research published only in 2019 and 2020, only 323 articles satisfied the eligibility criteria. By eliminating controversial findings, outcomes unsubstantiated by replication, too imprecise material, or having similar titles, we decided upon 119, generally empirical, sources. Future research should investigate whether Industry 4.0-based manufacturing technologies can ensure the sustainability of big data-driven production systems by use of Internet of Things sensing networks and deep learning-assisted smart process planning.

@@ -1,0 +1,9 @@
+Title: Triadic motifs in the dependence networks of virtual societies
+Authors: Wen-Jie Xie, Ming-Xia Li, Zhi-Qiang Jiang, Wei-Xing Zhou
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep05244
+Paper ID: pmc_PMC5381493
+
+Abstract:
+In friendship networks, individuals have different numbers of friends, and the closeness or intimacy between an individual and her friends is heterogeneous. Using a statistical filtering method to identify relationships about who depends on whom, we construct dependence networks (which are directed) from weighted friendship networks of avatars in more than two hundred virtual societies of a massively multiplayer online role-playing game (MMORPG). We investigate the evolution of triadic motifs in dependence networks. Several metrics show that the virtual societies evolved through a transient stage in the first two to three weeks and reached a relatively stable stage. We find that the unidirectional loop motif (M 9 ) is underrepresented and does not appear, open motifs are also underrepresented, while other close motifs are overrepresented. We also find that, for most motifs, the overall level difference of the three avatars in the same motif is significantly lower than average, whereas the sum of ranks is only slightly larger than average. Our findings show that avatars' social status plays an important role in the formation of triadic motifs.

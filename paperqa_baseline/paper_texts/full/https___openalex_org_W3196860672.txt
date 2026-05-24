@@ -1,0 +1,9 @@
+Title: Explainable Ontology-Based Intelligent Decision Support System for Business Model Design and Sustainability
+Authors: Basma Hamrouni, Abdelhabib Bourouis, Ahmed Korichi, Mohsen Brahmi
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13179819
+Paper ID: https://openalex.org/W3196860672
+
+Abstract:
+Background: Case-Based Reasoning (CBR) is a problem-solving paradigm that uses knowledge of relevant past experiences (cases) to interpret or solve new problems. CBR systems allow generating explanations easily, as they typically organize and represent knowledge in a way that makes it possible to reason about and thereby generate explanations. An improvement of this paradigm is ontology-based CBR, an approach that combines, in the form of formal ontologies, case-specific knowledge with domain one in order to improve the effectiveness and explanation capability of the system. Intelligent systems make daily activities more easily, efficiently, and represent a real support for sustainable economic development. On the one hand, they improve efficiency, productivity, and quality, and, on the other hand, can reduce costs and cut waste. In this way, intelligent systems facilitate sustainable development, economic growth, societal progress, and improve efficiency. Aim: In this vision, the purpose of this paper is to propose a new generation of intelligent decision support systems for Business Model having the ability to provide explanations to increase confidence in proposed solutions. Findings/result: The performance results obtained show the benefits of the proposed solution with different requirements of an explanatory decision support system. Consequently, applying this paradigm for software tools of business model development will make a great promise for supporting business model design, sustainability, and innovation.

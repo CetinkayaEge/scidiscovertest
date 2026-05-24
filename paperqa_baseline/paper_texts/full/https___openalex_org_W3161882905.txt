@@ -1,0 +1,9 @@
+Title: Investigations on digitalization for sustainable machine tools and forming technologies
+Authors: Philipp Klimant, Hans‐Joachim Koriath, Marco Schumann, Sven Winkler
+Year: 2021
+Venue: The International Journal of Advanced Manufacturing Technology
+DOI: https://doi.org/10.1007/s00170-021-07182-4
+Paper ID: https://openalex.org/W3161882905
+
+Abstract:
+Abstract Progress in applied research for sustainable machine tools and forming technologies bases upon industrial and environmental requirements for resource efficiency. Relevant technical trends base upon impact studies and applied research projects on the lifecycle resource consumption for manufacturing processes and systems. This paper gives an overview about a unified methodological approach of the evaluation of resource efficiency of machine tools. It answers the scientific question on sustainability: which technological parameters and machine tool characteristics lead to their lowest resource consumption/losses and part manufacturing costs. Therefore, the method allows to consider them as an energy-information model, in which the transformation of any forms and types of energy, material, and information takes place. It is shown that innovative hollow shaft forming technologies become sustainable alternatives to cutting technologies. A smart factory uses digitalization, manufacturing data management, and self-learning methods for resource efficiency. Sustainable production requires robust and error-free machining processes. Therefore, a collision prevention system protects machining centers and work pieces from collisions in real time will be presented. The gathered information about the product and its properties as well as manufacturing data builds a digital twin and enables a prediction of the resource consumption in smart factories.

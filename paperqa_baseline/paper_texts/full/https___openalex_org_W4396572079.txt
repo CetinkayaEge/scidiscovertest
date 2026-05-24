@@ -1,0 +1,9 @@
+Title: Artificial intelligence potential for net zero sustainability: Current evidence and prospects
+Authors: David B. Olawade, Ojima Z. Wada, Aanuoluwapo Clement David-Olawade, Oluwaseun Fapohunda, Abimbola O. Ige, Jonathan Ling
+Year: 2024
+Venue: Next Sustainability
+DOI: https://doi.org/10.1016/j.nxsust.2024.100041
+Paper ID: https://openalex.org/W4396572079
+
+Abstract:
+This comprehensive review explores the nexus between AI and the pursuit of net-zero emissions, highlighting the potential of AI in driving sustainable development and combating climate change. The paper examines various threads within this field, including AI applications for net zero, AI-driven solutions and innovations, challenges and ethical considerations, opportunities for collaboration and partnerships, capacity building and education, policy and regulatory support, investment and funding, as well as scalability and replicability of AI solutions. Key findings emphasize the enabling role of AI in optimizing energy systems, enhancing climate modelling and prediction, improving sustainability in various sectors such as transportation, agriculture, and waste management, and enabling effective emissions monitoring and tracking. The review also highlights challenges related to data availability, quality, privacy, energy consumption, bias, fairness, human-AI collaboration, and governance. Opportunities for collaboration, capacity building, policy support, investment, and scalability are identified as key drivers for future research and implementation. Ultimately, this review underscores the transformative potential of AI in achieving a sustainable, net-zero future and provides insights for policymakers, researchers, and practitioners engaged in climate change mitigation and adaptation.

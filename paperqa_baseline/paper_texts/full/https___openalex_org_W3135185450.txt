@@ -1,0 +1,9 @@
+Title: An MCDM Model for Sustainable Decision-Making in Municipal Residential Buildings Facilities Management
+Authors: Eglė Klumbytė, Raimondas Bliūdžius, Milena Medineckienė, Paris A. Fokaides
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052820
+Paper ID: https://openalex.org/W3135185450
+
+Abstract:
+Measuring and monitoring sustainability plays an essential role in impact assessment of global changes and development. Multi-criteria decision-making (MCDM) represents a reliable and adequate technique for assessing sustainability, especially in the field of municipal buildings management, where numerous parameters and criteria are involved. This study presents an MCDM model for the sustainable decision-making, tailored to municipal residential buildings facilities management. The main outcome of this research concerned normalized and weighted decision-making matrixes, based on the complex proportion assessment (COPRAS) and weighted aggregated sum product assessment (WASPAS) methods, applied for ranking investment alternatives related to the management of the buildings. The delivered model was applied to 20 municipal buildings of Kaunas city municipality, located in Lithuania, which an EU member state employing practices and regulations in accordance with the EU acquis, as well as a former Soviet Republic. The proposed model aspires to enhance sustainability practices in the management of municipal buildings and to demonstrate a solid tool that will allow informed decision-making in the building management sector.

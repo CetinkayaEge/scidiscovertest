@@ -1,0 +1,9 @@
+Title: A Sustainable Supply Chain Integrated with Autonomated Inspection, Flexible Eco-Production, and Smart Transportation
+Authors: Bikash Koli Dey, İbrahim Yılmaz, Hyesung Seok
+Year: 2022
+Venue: Processes
+DOI: https://doi.org/10.3390/pr10091775
+Paper ID: https://openalex.org/W4296502378
+
+Abstract:
+The present study focuses on supply chain management to improve its sustainability from economic, environmental, and social perspectives. First, improving production process reliability and cost reduction are two main factors for enhancing economic sustainability. Hence, we introduced autonomated inspection and invested in ordering and setup costs. Second, reducing the carbon footprint in supply chains is the main pillar of their environmental stewardship, which is addressed by an eco-friendly and flexible production system in this study. Finally, an advanced single-setup-multi-delivery (SSMD) strategy is utilized to improve social aspects associated with human labor increase. For practicality, demand is considered as the selling price and is quality dependent. The sustainability enhancement is transformed as a term of profit; therefore, our model maximizes the total profit of the supply chain by optimizing a manufacturer’s and retailer’s decision variables. Numerical examples show that autonomation technology increases the system’s reliability by 64%, where eco-production reduces carbon emission by up to 16%, and the total profit increases by up to 25%. Moreover, the application of advanced SSMD reduces the transportation cost by up to 34%.

@@ -1,0 +1,9 @@
+Title: Analysis of the Snake Robot Kinematics with Virtual Reality Visualisation
+Authors: Anna Sibilska-Mroziewicz, Ayesha Hameed, Jakub Możaryn, Andrzej Ordys, Krzysztof Sibilski
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063262
+Paper ID: pmc_PMC10059841
+
+Abstract:
+In this article, we present a novel approach to performing engineering simulation in an interactive environment. A synesthetic design approach is employed, which enables the user to gather information about the system’s behaviour more holistically, at the same time as facilitating interaction with the simulated system. The system considered in this work is a snake robot moving on a flat surface. The dynamic simulation of the robot’s movement is realised in dedicated engineering software, whereas this software exchanges information with the 3D visualisation software and a Virtual Reality (VR) headset. Several simulation scenarios have been presented, comparing the proposed method with standard ways for visualising the robot’s motion, such as 2D plots and 3D animations on a computer screen. This illustrates how, in the engineering context, this more immersive experience, allowing the viewer to observe the simulation results and modify the simulation parameters within the VR environment, can facilitate the analysis and design of systems.

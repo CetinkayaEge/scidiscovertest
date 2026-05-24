@@ -1,0 +1,9 @@
+Title: Boosting Sustainability in Healthcare Sector through Fintech: Analyzing the Moderating Role of Financial and ICT Development
+Authors: Meiling Li, Farzan Yahya, Muhammad Waqas, Zhang Shaohua, Syed Atif Ali, Alishba Hania
+Year: 2021
+Venue: INQUIRY The Journal of Health Care Organization Provision and Financing
+DOI: https://doi.org/10.1177/00469580211028174
+Paper ID: https://openalex.org/W3176966770
+
+Abstract:
+Healthcare organizations are setting new targets of sustainable practices to improve their financial performance without depleting social and natural capital. Maintaining a sustainable, resilient, and durable healthcare system facilitate economies to achieve sustainable competitiveness. Thus, it is important to address and fill the knowledge gap by identifying factors that improve a firm's sustainability. Drawing on technological knowledge spillover theory, this study investigates the effect of FinTech development on the sustainable performance of healthcare firms using panel data comprised of 11 Asia-Pacific countries. By applying the 2-step GMM technique, we find a robust estimate that digital financial technologies improve the sustainable performance of the firms. Contrary to the substitution effect, our results further indicate that financial institutions are collaborating with FinTechs to facilitate financing at the individual and firm-level. We also find that financial and ICT development positively moderates the relationship between FinTech development and sustainable performance.

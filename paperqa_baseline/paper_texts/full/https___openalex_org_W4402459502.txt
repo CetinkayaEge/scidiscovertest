@@ -1,0 +1,9 @@
+Title: The Polycomb system sustains promoters in a deep OFF state by limiting pre-initiation complex formation to counteract transcription
+Authors: Aleksander Szczurek, Emilia Dimitrova, Jessica R. Kelley, Neil P. Blackledge, Robert J. Klose
+Year: 2024
+Venue: Nature Cell Biology
+DOI: https://doi.org/10.1038/s41556-024-01493-w
+Paper ID: https://openalex.org/W4402459502
+
+Abstract:
+The Polycomb system has fundamental roles in regulating gene expression during mammalian development. However, how it controls transcription to enable gene repression has remained enigmatic. Here, using rapid degron-based depletion coupled with live-cell transcription imaging and single-particle tracking, we show how the Polycomb system controls transcription in single cells. We discover that the Polycomb system is not a constitutive block to transcription but instead sustains a long-lived deep promoter OFF state, which limits the frequency with which the promoter can enter into a transcribing state. We demonstrate that Polycomb sustains this deep promoter OFF state by counteracting the binding of factors that enable early transcription pre-initiation complex formation and show that this is necessary for gene repression. Together, these important discoveries provide a rationale for how the Polycomb system controls transcription and suggests a universal mechanism that could enable the Polycomb system to constrain transcription across diverse cellular contexts.

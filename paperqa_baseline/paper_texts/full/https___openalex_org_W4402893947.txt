@@ -1,0 +1,9 @@
+Title: A review on recent progress in polymer composites for effective electromagnetic interference shielding properties – structures, process, and sustainability approaches
+Authors: Rajesh Kumar Bheema, J Gopu, Krithika Bhaskaran, Akshat Verma, Murthy Chavali, Krishna C. Etika
+Year: 2024
+Venue: Nanoscale Advances
+DOI: https://doi.org/10.1039/d4na00572d
+Paper ID: https://openalex.org/W4402893947
+
+Abstract:
+The rapid proliferation and extensive use of electronic devices have resulted in a meteoric increase in electromagnetic interference (EMI), which causes electronic devices to malfunction. The quest for the best shielding material to overcome EMI is boundless. This pursuit has taken different directions, right from materials to structures to process, up to the concept of sustainable materials. The emergence of polymer composites has substituted metal and metal alloy-based EMI shielding materials due to their unique features such as light weight, excellent corrosion resistance, and superior electrical, dielectric, thermal, mechanical, and magnetic properties that are beneficial for suppressing the EMI. Therefore, polymer nanocomposites are an extensively explored EMI shielding materials strategy. This review focuses on recent research developments with a major emphasis on structural aspects and processing for enhancing the EMI shielding effectiveness of polymer nanocomposites with their underlying mechanisms and some glimpses of the sustainability approaches taken in this field.

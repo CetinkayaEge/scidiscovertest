@@ -1,0 +1,9 @@
+Title: What sustained multi-disciplinary research can achieve: The space weather modeling framework
+Authors: T. I. Gombosi, Yuxi Chen, A. Glocer, Zhenguang Huang, Xianzhe Jia, M. W. Liemohn, W. B. Manchester, T. I. Pulkkinen, Nishtha Sachdeva, Qusai Al Shidi, И. В. Соколов, Judit Szente, V. Tenishev, Gábor Tóth, B. van der Holst, D. T. Welling, Lulu Zhao, Shasha Zou
+Year: 2021
+Venue: Journal of Space Weather and Space Climate
+DOI: https://doi.org/10.1051/swsc/2021020
+Paper ID: https://openalex.org/W3164087718
+
+Abstract:
+Magnetohydrodynamics (MHD)-based global space weather models have mostly been developed and maintained at academic institutions. While the “free spirit” approach of academia enables the rapid emergence and testing of new ideas and methods, the lack of long-term stability and support makes this arrangement very challenging. This paper describes a successful example of a university-based group, the Center of Space Environment Modeling (CSEM) at the University of Michigan, that developed and maintained the Space Weather Modeling Framework (SWMF) and its core element, the BATS-R-US extended MHD code. It took a quarter of a century to develop this capability and reach its present level of maturity that makes it suitable for research use by the space physics community through the Community Coordinated Modeling Center (CCMC) as well as operational use by the NOAA Space Weather Prediction Center (SWPC).

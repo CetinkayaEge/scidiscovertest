@@ -1,0 +1,9 @@
+Title: Nuclear Drosha enhances cell invasion via an EGFR-ERK1/2-MMP7 signaling pathway induced by dysregulated miRNA-622/197 and their targets LAMC2 and CD82 in gastric cancer
+Authors: Liyun Xu, Yixuan Hou, Gang Tu, Yanlin Chen, Yan-e Du, Hailong Zhang, Siyang Wen, Xi Tang, Jiali Yin, Lei Lang, Kexin Sun, Guanglun Yang, Xiaoli Tang, Manran Liu
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.5
+Paper ID: pmc_PMC5386557
+
+Abstract:
+Drosha is an RNA III-like enzyme that has an aberrant expression in some tumors. Our previous studies showed the aberrant Drosha in gastric tumors. However, the roles of nuclear Drosha , the main regulator of microRNA (miRNA) biogenesis, in gastric cancer (GC) progression remain poorly understood. In this study, we demonstrated that nuclear Drosha is significantly associated with cell invasion of GC and that Drosha silence impedes the tumor invasion. Knockdown of Drosha led to a set of dysregulated miRNAs in GC cells. Multiple targets of these miRNAs were the members in cell migration, invasion and metastasis-associated signaling (e.g. ECM-receptor interaction, focal adhesion, p53 signaling and MAPK signaling pathway) revealed by bioinformatics analysis. LAMC2 (a key element of ECM-receptor signaling) and CD82 (a suppressor of p53 signaling) are the targets of miR-622 and miR-197, respectively. High levels of LAMC2 and low levels of CD82 were significantly related to the worse outcome for GC patients. Furthermore, overexpression of LAMC2 and knockdown of CD82 markedly promoted GC cell invasion and activated EGFR/ERK1/2-MMP7 signaling via upregulation of the expression of phosphorylated (p)-EGFR, p-ERK1/2 and MMP7. Our findings suggest that nuclear Drosha potentially has a role in the development of GC.

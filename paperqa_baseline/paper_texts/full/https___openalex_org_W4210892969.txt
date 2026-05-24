@@ -1,0 +1,9 @@
+Title: Sustainable AI: An integrated model to guide public sector decision-making
+Authors: Christopher Wilson, Maja van der Velden
+Year: 2022
+Venue: Technology in Society
+DOI: https://doi.org/10.1016/j.techsoc.2022.101926
+Paper ID: https://openalex.org/W4210892969
+
+Abstract:
+Ethics, explainability, responsibility, and accountability are important concepts for questioning the societal impacts of artificial intelligence and machine learning (AI), but are insufficient to guide the public sector in regulating and implementing AI. Recent frameworks for AI governance help to operationalize these by identifying the processes and layers of governance in which they must be considered, but do not provide public sector workers with guidance on how they should be pursued or understood. This analysis explores how the concept of sustainable AI can help to fill this gap. It does so by reviewing how the concept has been used by the research community and aligning research on sustainable development with research on public sector AI. Doing so identifies the utility of boundary conditions that have been asserted for social sustainability according to the Framework for Strategic Sustainable Development, and which are here integrated with prominent concepts from the discourse on AI and society. This results in a conceptual model that integrates five boundary conditions to assist public sector decision-making about how to govern AI: Diversity, Capacity for learning, Capacity for self-organization Common meaning, and Trust. These are presented together with practical approaches for their presentation, and guiding questions to aid public sector workers in making the decisions that are required by other operational frameworks for ethical AI.

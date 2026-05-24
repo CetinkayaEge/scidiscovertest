@@ -1,0 +1,9 @@
+Title: Fifty-Five Years of Research on B , C and D in Escherichia coli
+Authors: Charles E. Helmstetter
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040977
+Paper ID: pmc_PMC10141973
+
+Abstract:
+The basic properties of the Escherichia coli duplication process can be defined by two time periods: C , the time for a round of chromosome replication, and D , the time between the end of a round of replication and cell division. Given the durations of these periods, the pattern of chromosome replication during the cell cycle can be determined for cells growing with any doubling time. In the 55 years since these parameters were identified, there have been numerous investigations into their durations and into the elements that determine their initiations. In this review, I discuss the history of our involvement in these studies from the very beginning, some of what has been learned over the years by measuring the durations of C and D , and what might be learned with additional investigations.

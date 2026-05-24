@@ -1,0 +1,9 @@
+Title: Towards a Sustainable Urban Future: A Comprehensive Review of Urban Heat Island Research Technologies and Machine Learning Approaches
+Authors: Siavash Ghorbany, Ming Hu, Siyuan Yao, Chaoli Wang
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16114609
+Paper ID: https://openalex.org/W4399176766
+
+Abstract:
+The urban heat island (UHI) is a crucial factor in developing sustainable cities and societies. Appropriate data collection, analysis, and prediction are essential first steps in studying the effects of the UHI. This research systematically reviewed the papers related to the UHI that have used on-site data collection in the United States and Canada and the papers related to predicting and analyzing this effect in these regions. To achieve this goal, this study extracted 330 articles from Scopus and Web of Science and, after selecting the papers, reviewed 30 papers in detail from 1998 to 2023. The findings of this paper indicated a methodological shift from traditional sensors and data loggers towards more innovative and customized technologies. Concurrently, this research reveals a growing trend in using machine learning, moving from supportive to direct predictive roles and using techniques like neural networks and Bayesian networks. Despite the maturation of UHI research due to these developments, they also present challenges in technology complexity and data integration. The review emphasizes the need for future research to focus on accessible, accurate technologies. Moreover, interdisciplinary approaches are crucial for addressing UHI challenges in an era of climate change.

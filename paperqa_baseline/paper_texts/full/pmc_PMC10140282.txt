@@ -1,0 +1,9 @@
+Title: Contact lens embedded holographic pointer
+Authors: François-Maël Robert, Bernard Abiven, Maïna Sinou, Kevin Heggarty, Laure Adam, Vincent Nourrit, Jean-Louis de Bougrenet de la Tocnaye
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33420-8
+Paper ID: pmc_PMC10140282
+
+Abstract:
+In this paper we present an infrared laser pointer, consisting of a vertical-cavity surface-emitting laser (VCSEL) and a diffractive optical element (DOE), encapsulated into a scleral contact lens (SCL). The VCSEL is powered remotely by inductive coupling from a primary antenna embedded into an eyewear frame. The DOE is used either to collimate the laser beam or to project a pattern image at a chosen distance in front of the eye. We detail the different SCL constitutive blocks, how they are manufactured and assembled. We particularly emphasize the various technological challenges related to their encapsulation in the reduced volume of the SCL, while keeping the pupil free. Finally, we describe how the laser pointer operates, what are its performances (e.g. collimation, image formation) and how it can be used efficiently in various application fields such as visual assistance and augmented reality.

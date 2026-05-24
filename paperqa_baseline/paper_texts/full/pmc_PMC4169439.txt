@@ -1,0 +1,9 @@
+Title: A Genetically Modified Protein-Based Hydrogel for 3D Culture of AD293 Cells
+Authors: Xiao Du, Jingyu Wang, Wentao Diao, Ling Wang, Jiafu Long, Hao Zhou
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107949
+Paper ID: pmc_PMC4169439
+
+Abstract:
+Hydrogels have strong application prospects for drug delivery, tissue engineering and cell therapy because of their excellent biocompatibility and abundant availability as scaffolds for drugs and cells. In this study, we created hybrid hydrogels based on a genetically modified tax interactive protein-1 (TIP1) by introducing two or four cysteine residues in the primary structure of TIP1. The introduced cysteine residues were crosslinked with a four-armed poly (ethylene glycol) having their arm ends capped with maleimide residues (4-armed-PEG-Mal) to form hydrogels. In one form of the genetically modification, we incorporated a peptide sequence ‘GRGDSP’ to introduce bioactivity to the protein, and the resultant hydrogel could provide an excellent environment for a three dimensional cell culture of AD293 cells. The AD293 cells continued to divide and displayed a polyhedron or spindle-shape during the 3-day culture period. Besides, AD293 cells could be easily separated from the cell-gel constructs for future large-scale culture after being cultured for 3 days and treating hydrogel with trypsinase. This work significantly expands the toolbox of recombinant proteins for hydrogel formation, and we believe that our hydrogel will be of considerable interest to those working in cell therapy and controlled drug delivery.

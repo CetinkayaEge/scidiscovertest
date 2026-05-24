@@ -1,0 +1,9 @@
+Title: Business models for digital sustainability: Framework, microfoundations of value capture, and empirical evidence from 130 smart city services
+Authors: Barbara Bencsik, Maximilian Palmié, Vinit Parida, Joakim Wincent, Oliver Gassmann
+Year: 2023
+Venue: Journal of Business Research
+DOI: https://doi.org/10.1016/j.jbusres.2023.113757
+Paper ID: https://openalex.org/W4323034692
+
+Abstract:
+The emerging research stream on digital sustainability examines how digital technologies enable the creation of environmental and social value. The need to finance the creation of such value calls for a business model perspective that combines value creation and value capture. To extend the digital sustainability literature in this regard, we adopt a microfoundations perspective and argue that the configuration of value creation influences the decision of users to pay for a value proposition or not, which in turn affects organizational value capture. Applying a crisp-set qualitative comparative analysis to 130 smart city initiatives in Switzerland, we develop a three-dimensional framework of business models for digital sustainability. The framework comprises 12 theoretically possible business model types, representing distinct business model configurations. We contribute to the digital sustainability and the microfoundations literatures by analyzing, explaining, and classifying the diversity of digitally enabled business models in the context of smart cities.

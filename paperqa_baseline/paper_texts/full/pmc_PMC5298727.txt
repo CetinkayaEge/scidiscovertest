@@ -1,0 +1,9 @@
+Title: Low Cost and Flexible UAV Deployment of Sensors
+Authors: Lars Yndal Sørensen, Lars Toft Jacobsen, John Paulin Hansen
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010154
+Paper ID: pmc_PMC5298727
+
+Abstract:
+This paper presents a platform for airborne sensor applications using low-cost, open-source components carried by an easy-to-fly unmanned aircraft vehicle (UAV). The system, available in open-source , is designed for researchers, students and makers for a broad range of exploration and data-collection needs. The main contribution is the extensible architecture for modularized airborne sensor deployment and real-time data visualisation. Our open-source Android application provides data collection, flight path definition and map tools. Total cost of the system is below 800 dollars. The flexibility of the system is illustrated by mapping the location of Bluetooth beacons (iBeacons) on a ground field and by measuring water temperature in a lake.

@@ -1,0 +1,9 @@
+Title: Comparative life cycle assessment for the sustainable production of fermentation-based L-methionine
+Authors: Hyunwoo Kim, B. Saremi, Sangmin Park, Mooyoung Jung, Yeohong Yun, Ju-Yeon Son, Jina Lee, Jun‐Woo Kim, Wangyun Won
+Year: 2024
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2024.142700
+Paper ID: https://openalex.org/W4399036982
+
+Abstract:
+Methionine, essential for human and animal growth, faces increasing demand, contributing significantly to greenhouse gas emissions through animal digestion and nitrogen excretion. This study introduces L-methionine (L-Met) produced biologically from CJ CheilJedang Corp., offering a sustainable alternative to the conventional petroleum-based DL-methionine (DL-Met) due to its higher bioavailability and reduced environmental impact. One of the most important aspects for the sustainable lifecycle of L-Met is to reduce environmental impact during the production stage. Consequently, the aim of this study is to evaluates the environmental impact of L-Met and its environmentally improved product, L-Met Eco, through a life cycle assessment compared to DL-Met. We employed scenario analysis to consider uptake CO2 by bio-based feedstock, bioavailability of methionine, and system expansion of co-products. Our findings indicate that L-Met and L-Met Eco have lower global warming potentials of 0.92 and 0.79 kg CO2/kg Met, respectively, than DL-Met (2.60−3.32 kg CO2/kg Met). Sensitivity analysis further suggests that optimizing renewable energy use and production location can significantly enhance the sustainability of L-Met production. This comprehensive study offers valuable insights for stakeholders in the bio-based material sector, promoting environmentally sustainable practices.

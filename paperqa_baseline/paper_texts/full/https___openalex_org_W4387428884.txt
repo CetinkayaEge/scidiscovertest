@@ -1,0 +1,9 @@
+Title: Electrochemical Storage of Ammonium Versus Metal Ions in Bimetallic Hydroxide for Sustainable Aqueous Batteries
+Authors: Chang Liu, Mengxue Li, Jianming Meng, Peng Hei, Jing Wang, Yu Song, Xiaoxia Liu
+Year: 2023
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202310437
+Paper ID: https://openalex.org/W4387428884
+
+Abstract:
+Abstract Aqueous batteries with high safety and cost efficiency usually employ metallic cations as charge carriers. Recently, ammonium (NH 4 + ) ion batteries using the nonmetal NH 4 + as a charge carrier exhibit distinct electrochemical features from conventional aqueous batteries. Herein, the electrochemical performances of a bimetallic hydroxide material are systematically studied with different charge carriers in the electrolytes, including NH 4 + , as well as the conventional monovalent metallic cations K + and Na + , respectively. Electrochemical results indicate that the charge storage process using NH 4 + as the working ions exhibits a higher discharge plateau, smaller electrochemical polarization, and larger discharge capacity than that using conventional metallic charge carriers. Experimental characterizations and theoretical calculations suggest that the strong interaction between NH 4 + and the electrode material, as well as the low NH 4 + ‐ion diffusion barrier lead to these superior electrochemical features. The assembled NH 4 + ‐ion battery exhibits a good energy density of 123 Wh kg (cathode+anode) −1 at the power density of 480 W kg (cathode+anode) −1 . These fundamental findings are important for developing good safety, low‐cost, and high‐energy aqueous batteries with sustainable NH 4 + charge carriers.

@@ -1,0 +1,9 @@
+Title: Sustainable production of benzene from lignin
+Authors: Qinglei Meng, Jiang Yan, Ruizhi Wu, Huizhen Liu, Yang Sun, Ningning Wu, Junfeng Xiang, Lirong Zheng, Jing Zhang, Buxing Han
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-24780-8
+Paper ID: https://openalex.org/W3184487807
+
+Abstract:
+-O bonds using the locally abstracted hydrogen from lignin molecule, affording a benzene yield of 18.8% on lignin weight basis in water system. The reaction mechanism is elucidated in detail by combination of control experiments and density functional theory calculations. The high-performance protocol can be readily scaled up to produce 8.5 g of benzene product from 50.0 g lignin without any saturation byproducts. This work opens the way to produce benzene using lignin as the feedstock efficiently.

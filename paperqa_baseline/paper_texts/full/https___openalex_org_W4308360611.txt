@@ -1,0 +1,9 @@
+Title: Sustainable use of waste eggshells in cementitious materials: An experimental and modeling-based study
+Authors: Fahad Alsharari, Kaffayatullah Khan, Muhammad Nasir Amin, Waqas Ahmad, Usama Khan, Mohammed Mutnbak, Moustafa Houda, Ahmed M. Yosri
+Year: 2022
+Venue: Case Studies in Construction Materials
+DOI: https://doi.org/10.1016/j.cscm.2022.e01620
+Paper ID: https://openalex.org/W4308360611
+
+Abstract:
+This study evaluated the compressive strength (CS) of cement-based materials (CBMs) incorporating eggshell powder (ESP) as a partial substitute for cement and fine aggregate using both experimental and machine learning (ML)-based strategies. Initially, the CS of CBMs based on ESP was measured experimentally. ML techniques, including support vector machine and bagging regressor, were applied for CS estimation. Comparing the coefficient of determination (R2), statistical checks, k-fold evaluation, and measuring the difference between experimental and projected CS were used to evaluate the performance of ML models. According to the results of the experiment, the addition of ESP increased the CS of CBMs when used in lower replacement ratios. In addition, the support vector machine model had a reasonable degree of precision, while the bagging regressor model predicted the CS of ESP-based CBMs with a higher degree of precision. Incorporating waste eggshells into building materials will promote sustainable development by minimizing environmental problems connected with eggshell disposal, conserving natural resources, offering cost-effective materials, and decreasing CO2 emissions. In addition, the use of ML approaches will benefit the construction sector by facilitating efficient and economical ways of analyzing the properties of materials.

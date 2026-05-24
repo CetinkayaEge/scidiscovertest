@@ -1,0 +1,9 @@
+Title: Impact of a sharing economy on sustainable development and energy efficiency: Evidence from the top ten Asian economies
+Authors: YunQian Zhang, Li Li, Muhammad Sadiq, Fengsheng Chien
+Year: 2023
+Venue: Journal of Innovation & Knowledge
+DOI: https://doi.org/10.1016/j.jik.2023.100320
+Paper ID: https://openalex.org/W4320004395
+
+Abstract:
+Changes over the last few decades around the globe highlight concepts such as sustainable economic development (SED). Globalization has accelerated the competition between firms and they require sustainable development (SD) in order to survive in such a competitive environment. In this scenario, SED and energy efficiency can be achieved through an effective sharing economy. This phenomenon has received wide global attention and is the focus of many recent studies. This article investigates the impact of a sharing economy, including the sharing economy users and sharing economy values, on energy efficiency and SED in the top ten Asian economies. It takes inflation, employment rate and population growth as control variables. The study extracts secondary data from the Statista and World Development Indicators (WDI) databases from 2006 to 2020 and uses the method of moments quantile regression (MMQR) to examine the nexus between these constructs. The results reveal that sharing economy users, sharing economy values, inflation, employment rate and population growth have a positive association with energy efficiency and SED in the top ten Asian economies. This serves as a guide for policymakers establishing relevant policies related to the achievement of SED and energy efficiency using a sharing economy.

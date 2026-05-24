@@ -1,0 +1,9 @@
+Title: Sustainability in drilling of aluminum alloy
+Authors: Alokesh Pramanik, Animesh Kumar Basak, Chander Prakash, S. Shankar, Somnath Chattopadhyaya
+Year: 2022
+Venue: Cleaner Materials
+DOI: https://doi.org/10.1016/j.clema.2022.100048
+Paper ID: https://openalex.org/W4207036872
+
+Abstract:
+Drilling is an extremely crucial process and enormously used in manufacturing assembling components. On the other hand, the 6061-aluminum alloy is most used in modern industry. Therefore, sustainable drilling of this alloy to reduce the use of power and coolant without compromising the quality is promising for the modern industries. This study investigates the active peak power, burr formation, diameter error, circularity error, cylindricity and surface roughness for different cooling methods such as dry, minimum quantity lubrication (MQL), liquid nitrogen (LN2) and air cooling (AIR) under different speeds and feeds. It is found that cooling methods have negligible effect of active power consumption which increases with the increase of speed and feed. Clear trends of the dimensional errors are not noticed with the variation of parameters considered in this investigation. The influences of coolants on surface roughness and chip thickness ratio also don’t follow any trend. The surface roughness increases with the increase of feeds and speeds. The chip thickness ratio tends to increase with the increase of speed and decrease of feed. It is noted that a specific coolant is required at certain speed and feed to obtain a desired outcome. The balance of hardening and softening effects of workpiece materials at different cutting conditions and rigidity of machine tools controls the desired sustainable outcomes.

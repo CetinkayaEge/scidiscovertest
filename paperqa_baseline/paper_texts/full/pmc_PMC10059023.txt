@@ -1,0 +1,9 @@
+Title: A Comparison of Two Types of Acoustic Emission Sensors for the Characterization of Hydrogen-Induced Cracking
+Authors: Dandan Liu, Bin Wang, Han Yang, Stephen Grigg
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063018
+Paper ID: pmc_PMC10059023
+
+Abstract:
+Acoustic emission (AE) technology is a non-destructive testing (NDT) technique that is able to monitor the process of hydrogen-induced cracking (HIC). AE uses piezoelectric sensors to convert the elastic waves generated from the growth of HIC into electric signals. Most piezoelectric sensors have resonance and thus are effective for a certain frequency range, and they will fundamentally affect the monitoring results. In this study, two commonly used AE sensors (Nano30 and VS150-RIC) were used for monitoring HIC processes using the electrochemical hydrogen-charging method under laboratory conditions. Obtained signals were analyzed and compared on three aspects, i.e., in signal acquisition, signal discrimination, and source location to demonstrate the influences of the two types of AE sensors. A basic reference for the selection of sensors for HIC monitoring is provided according to different test purposes and monitoring environments. Results show that signal characteristics from different mechanisms can be identified more clearly by Nano30, which is conducive to signal classification. VS150-RIC can identify HIC signals better and provide source locations more accurately. It can also acquire low-energy signals better, which is more suitable for monitoring over a long distance.

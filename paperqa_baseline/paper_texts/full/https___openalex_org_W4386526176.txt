@@ -1,0 +1,9 @@
+Title: Engineering Polymer-Based Porous Membrane for Sustainable Lithium-Ion Battery Separators
+Authors: Lei Li, Yutian Duan
+Year: 2023
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym15183690
+Paper ID: https://openalex.org/W4386526176
+
+Abstract:
+Due to the growing demand for eco-friendly products, lithium-ion batteries (LIBs) have gained widespread attention as an energy storage solution. With the global demand for clean and sustainable energy, the social, economic, and environmental significance of LIBs is becoming more widely recognized. LIBs are composed of cathode and anode electrodes, electrolytes, and separators. Notably, the separator, a pivotal and indispensable component in LIBs that primarily consists of a porous membrane material, warrants significant research attention. Researchers have thus endeavored to develop innovative systems that enhance separator performance, fortify security measures, and address prevailing limitations. Herein, this review aims to furnish researchers with comprehensive content on battery separator membranes, encompassing performance requirements, functional parameters, manufacturing protocols, scientific progress, and overall performance evaluations. Specifically, it investigates the latest breakthroughs in porous membrane design, fabrication, modification, and optimization that employ various commonly used or emerging polymeric materials. Furthermore, the article offers insights into the future trajectory of polymer-based composite membranes for LIB applications and prospective challenges awaiting scientific exploration. The robust and durable membranes developed have shown superior efficacy across diverse applications. Consequently, these proposed concepts pave the way for a circular economy that curtails waste materials, lowers process costs, and mitigates the environmental footprint.

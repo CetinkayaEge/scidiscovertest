@@ -1,0 +1,9 @@
+Title: Examining AI and Systemic Factors for Improved Chatbot Sustainability
+Authors: Arum Park, Sae Bom Lee
+Year: 2023
+Venue: Journal of Computer Information Systems
+DOI: https://doi.org/10.1080/08874417.2023.2251416
+Paper ID: https://openalex.org/W4386733946
+
+Abstract:
+Chatbots link companies and users, increase conversions, reduce labor costs, and provide answers based on big data. Since COVID-19, demand for non-face-to-face services has increased. Despite expectations, chatbot use is inconsistent and satisfaction is low. This study identifies factors for improving the sustainability of chatbot services by considering artificial intelligence factors (personalization, anthropomorphism, social presence) and systemic factors (responsiveness, compatibility). The confirmatory factor analysis and structural equation model of the measurement model were analyzed using Smart PLS 3.3. Two hypotheses were rejected because the effect on expectation-confirmation was not statistically significant. This study presents implications for future chatbot research and development.

@@ -1,0 +1,9 @@
+Title: Dynamic nomogram prediction model for diabetic retinopathy in patients with type 2 diabetes mellitus
+Authors: Chunhui Zhang, Liqiong Zhou, Minjun Ma, Yanni Yang, Yuanping Zhang, Xu Zha
+Year: 2023
+Venue: BMC Ophthalmology
+DOI: 10.1186/s12886-023-02925-1
+Paper ID: pmc_PMC10142167
+
+Abstract:
+Background To develop a dynamic prediction model for diabetic retinopathy (DR) using systemic risk factors. Methods This retrospective study included type 2 diabetes mellitus (T2DM) patients discharged from the Second Affiliated Hospital of Kunming Medical University between May 2020 and February 2022. The early patients (80%) were used for the training set and the late ones (20%) for the validation set. Results Finally, 1257 patients (1049 [80%] in the training set and 208 [20%] in the validation set) were included; 360 (28.6%) of them had DR. The areas under the curves (AUCs) for the multivariate regression (MR), least absolute shrinkage and selection operator regression (LASSO), and backward elimination stepwise regression (BESR) models were 0.719, 0.727, and 0.728, respectively. The Delong test showed that the BESR model had a better predictive value than the MR (p = 0.04899) and LASSO (P = 0.04999) models. The DR nomogram risk model was established according to the BESR model, and it included disease duration, age at onset, treatment method, total cholesterol, urinary albumin to creatinine ratio (UACR), and urine sugar. The AUC, kappa coefficient, sensitivity, specificity, and compliance of the nomogram risk model in the validation set were 0.79, 0.48, 71.2%, 78.9%, and 76.4%, respectively. Conclusions A relatively reliable DR nomogram risk model was established based on the BESR model. Supplementary Information The online version contains supplementary material available at 10.1186/s12886-023-02925-1.

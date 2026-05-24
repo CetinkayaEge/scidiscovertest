@@ -1,0 +1,9 @@
+Title: Anterior thalamic nuclei neurons sustain memory
+Authors: Sue Barnett, Louise C. Parr‐Brownlie, Brook A. L. Perry, Calvin K. Young, Hollie E. Wicky, Stephanie M. Hughes, Neil McNaughton, John C. Dalrymple‐Alford
+Year: 2021
+Venue: Current Research in Neurobiology
+DOI: https://doi.org/10.1016/j.crneur.2021.100022
+Paper ID: https://openalex.org/W3203714521
+
+Abstract:
+A hippocampal-diencephalic-cortical network supports memory function. The anterior thalamic nuclei (ATN) form a key anatomical hub within this system. Consistent with this, injury to the mammillary body-ATN axis is associated with examples of clinical amnesia. However, there is only limited and indirect support that the output of ATN neurons actively enhances memory. Here, in rats, we first showed that mammillothalamic tract (MTT) lesions caused a persistent impairment in spatial working memory. MTT lesions also reduced rhythmic electrical activity across the memory system. Next, we introduced 8.5 Hz optogenetic theta-burst stimulation of the ATN glutamatergic neurons. The exogenously-triggered, regular pattern of stimulation produced an acute and substantial improvement of spatial working memory in rats with MTT lesions and enhanced rhythmic electrical activity. Neither behaviour nor rhythmic activity was affected by endogenous stimulation derived from the dorsal hippocampus. Analysis of immediate early gene activity, after the rats foraged for food in an open field, showed that exogenously-triggered ATN stimulation also increased Zif268 expression across memory-related structures. These findings provide clear evidence that increased ATN neuronal activity supports memory. They suggest that ATN-focused gene therapy may be feasible to counter clinical amnesia associated with dysfunction in the mammillary body-ATN axis.

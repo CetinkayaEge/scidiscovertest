@@ -1,0 +1,9 @@
+Title: Acknowledging Sustainability in the Framework of Ethical Certification for AI
+Authors: Sergio Genovesi, Julia Maria Mönig
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14074157
+Paper ID: https://openalex.org/W4220905297
+
+Abstract:
+In the past few years, many stakeholders have begun to develop ethical and trustworthiness certification for AI applications. This study furnishes the reader with a discussion of the philosophical arguments that impel the need to include sustainability, in its different forms, among the audit areas of ethical AI certification. We demonstrate how sustainability might be included in two different types of ethical impact assessment: assessment certifying the fulfillment of minimum ethical requirements and what we describe as nuanced assessment. The paper focuses on the European, and especially the German, context, and the development of certification for AI.

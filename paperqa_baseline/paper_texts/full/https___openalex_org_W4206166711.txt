@@ -1,0 +1,9 @@
+Title: 3D Printing of Liquid Crystalline Hydroxypropyl Cellulose—toward Tunable and Sustainable Volumetric Photonic Structures
+Authors: Chun Lam Clement Chan, Iek Man Lei, Gea T. van de Kerkhof, Richard Parker, Kieran D. Richards, Rachel C. Evans, Yan Yan Shery Huang, Silvia Vignolini
+Year: 2022
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202108566
+Paper ID: https://openalex.org/W4206166711
+
+Abstract:
+Abstract Additive manufacturing is becoming increasingly important as a flexible technique for a wide range of products, with applications in the transportation, health, and food sectors. However, to develop additional functionality it is important to simultaneously control structuring across multiple length scales. In 3D printing, this can be achieved by employing inks with intrinsic hierarchical order. Liquid crystalline systems represent such a class of self‐organizing materials; however, to date they are only used to create filaments with nematic alignment along the extrusion direction. In this study, cholesteric hydroxypropyl cellulose (HPC) is combined with in situ photo‐crosslinking to produce filaments with an internal helicoidal nanoarchitecture, enabling the direct ink writing of solid, volumetric objects with structural color. The iridescent color can be tuned across the visible spectrum by exploiting either the lyotropic or thermotropic behavior of HPC during the crosslinking step, allowing objects with different colors to be printed from the same feedstock. Furthermore, by examining the microstructure after extrusion, the role of shear within the nozzle is revealed and a mechanism proposed based on rheological measurements simulating the nozzle extrusion. Finally, by using only a sustainable biopolymer and water, a pathway toward environmentally friendly 3D printing is revealed.

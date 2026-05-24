@@ -1,0 +1,9 @@
+Title: eIF3i activity is critical for endothelial cells in tumor induced angiogenesis through regulating VEGFR and ERK translation
+Authors: Yaguang Zhang, Ping Wang, Qian Zhang, Xiaomin Yao, Linjie Zhao, Yibin Liu, Xiaowei Liu, Rui Tao, Chuan Yu, Yuhao Li, Xiangrong Song, Shaohua Yao
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15274
+Paper ID: pmc_PMC5386737
+
+Abstract:
+Translational control is a critical step in the regulation of gene expression. Accumulating evidence shows that translational control of a subgroup of mRNAs tends to be selective. However, our understanding of the function of selective translational control in endothelial cells is still incomplete. We found that a key translational regulator, eIF3i, is highly expressed in endothelial cells during embryonic and tumor angiogenesis. Knockdown of eIF3i restrained cell proliferation and migration in endothelial cells. In zebrafish angiogenesis model, eIF3i mutant endothelial cells could not respond to induction signals from tumor mass. Mechanistically, we showed that eIF3i knockdown reduced VEGFR/ERK signaling by down-regulating VEGFR2 and ERK protein expression. Gene therapy model suggested that the growth and metastasis of cancer cells were suppressed by eIF3i shRNA. Therefore, our work established a selective translational regulatory mechanism during tumor induced angiogenesis and suggested that targeting eIF3i may be applicable for anticancer therapy.

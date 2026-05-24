@@ -1,0 +1,9 @@
+Title: Recycling of Nanowire Percolation Network for Sustainable Soft Electronics
+Authors: Yuxuan Liu, Hongyu Wang, Yong Zhu
+Year: 2021
+Venue: Advanced Electronic Materials
+DOI: https://doi.org/10.1002/aelm.202100588
+Paper ID: https://openalex.org/W3185545221
+
+Abstract:
+Abstract There is an increasing demand for eco‐friendly and sustainable electronics, where recycling of functional materials is the key. Soft electronics have received much attention recently, however, their recycling has been challenging. Here a strategy is reported to recycle silver nanowire (AgNW) percolation network to achieve sustainable soft electronics. The effect of working solvent and ultrasonication time on the morphology and electrical properties of the recycled AgNW network is investigated. Using the selected working solvent with low surface tension (isopropanol) and optimal ultrasonication time (20 s), the AgNW network film can be recycled multiple times (four times in this work) without significant morphology changes and performance degradation. A transient epidermal sensor patch using AgNW as electrodes and a water‐soluble polymer substrate is fabricated and fully recycled. On‐body test of the epidermal sensor patch fabricated by recycled AgNWs demonstrates a working example for the recycling concept of AgNWs. The recycling concept can be extended to other nanomaterials in the form of percolation network.

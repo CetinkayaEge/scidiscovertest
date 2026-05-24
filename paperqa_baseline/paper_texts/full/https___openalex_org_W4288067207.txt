@@ -1,0 +1,9 @@
+Title: Challenges and advances of organic electrode materials for sustainable secondary batteries
+Authors: Ruijuan Shi, Shilong Jiao, Qianqian Yue, Guangqin Gu, Kai Zhang, Yong Zhao
+Year: 2022
+Venue: Exploration
+DOI: https://doi.org/10.1002/exp.20220066
+Paper ID: https://openalex.org/W4288067207
+
+Abstract:
+Organic electrode materials (OEMs) emerge as one of the most promising candidates for the next-generation rechargeable batteries, mainly owing to their advantages of bountiful resources, high theoretical capacity, structural designability, and sustainability. However, OEMs usually suffer from poor electronic conductivity and unsatisfied stability in common organic electrolytes, ultimately leading to their deteriorating output capacity and inferior rate capability. Making clear of the issues from microscale to macroscale level is of great importance for the exploration of novel OEMs. Herein, the challenges and advanced strategies to boost the electrochemical performance of redox-active OEMs for sustainable secondary batteries are systematically summarized. Particularly, the characterization technologies and computational methods to elucidate the complex redox reaction mechanisms and confirm the organic radical intermediates of OEMs have been introduced. Moreover, the structural design of OEMs-based full cells and the outlook for OEMs are further presented. This review will shed light on the in-depth understanding and development of OEMs for sustainable secondary batteries.

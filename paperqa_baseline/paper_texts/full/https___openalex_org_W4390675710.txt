@@ -1,0 +1,9 @@
+Title: Machine learning and the renewable energy revolution: Exploring solar and wind energy solutions for a sustainable future including innovations in energy storage
+Authors: Abu Danish Aiman Bin Abu Sofian, Hooi Ren Lim, Heli Siti Halimatul Munawaroh, Zengling Ma, Kit Wayne Chew, Pau Loke Show
+Year: 2024
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2885
+Paper ID: https://openalex.org/W4390675710
+
+Abstract:
+Abstract This article evaluates the present global condition of solar and wind energy adoption and explores their benefits and limitations in meeting energy needs. It examines the historical and evolutionary growth of solar and wind energy, global trends in the usage of renewable energy, and upcoming technologies, including floating solar and vertical‐axis wind turbines. The importance of smart grid technology and energy storage alternatives for enhancing the effectiveness and dependability of renewable energy is explored. In addition, the role of Electric Vehicles (EVs) in a modern smart grid has been assessed. Furthermore, the economic benefits, and most recent technological developments of solar and wind energy and their environmental and social ramifications. The potential of solar and wind energy to meet the increasing global energy demand and the problems and opportunities facing the renewable energy industry have shown excellent promise. Machine learning applications for solar and wind energy generation are vital for sustainable energy production. Machine learning can help in design, optimization, cost reduction, and, most importantly, in improving the efficacy of solar and wind energy, including advancing energy storage. This assessment is a crucial resource for policymakers, industry leaders, and researchers who aim to make the world cleaner and more sustainable. Ultimately, this review has shown the great potential of solar and wind energy in meeting global energy demands and sustainable goals.

@@ -1,0 +1,9 @@
+Title: Does biomass energy drive environmental sustainability? An SDG perspective for top five biomass consuming countries
+Authors: Mehmet Akif Destek, Samuel Asumadu Sarkodie, Ernest Frimpong Asamoah
+Year: 2021
+Venue: Biomass and Bioenergy
+DOI: https://doi.org/10.1016/j.biombioe.2021.106076
+Paper ID: https://openalex.org/W3157430415
+
+Abstract:
+Efficient use of biomass energy is integral to achieving many of the Sustainable Development Goals (SDGs). Their contributions, trade-off patterns, and implementation vary geographically, requiring in-depth analysis to sustainably manage its impact. Here, we analyzed the contribution of biomass energy intensity and efficiency on sustainable development across the top five biomass energy-consuming countries—Brazil, China, Germany, India, and the US. We compared the impact of biomass energy consumption, economic development, urbanization, and trade openness on carbon dioxide emissions and ecological footprint. Using annual frequency data from 1970 to 2016, we utilized continuously-updated fully-modified, and continuously-updated bias-corrected panel estimation techniques that control for cross-section dependence among sampled countries. Our empirical analysis shows income level escalates ecological footprint and emissions by 0.05–0.21%. Similarly, urban sprawl increases long-term emissions and ecological footprint by 0.07–0.17%. Biomass energy consumption increases ecological footprint by 0.18–0.90% but declines emissions by 0.02–0.09%. However, trade openness reduces both ecological footprint and CO2 emissions by 0.34–0.55%. Our results reveal income level stimulates biomass consumption in early stages of growth, but declines in technologically oriented industrial-based economy, yet, outgrows in service-inspired economy. This shows biomass extraction in developed countries can surpass regenerative capability, necessitating sustainable domestic material consumption management.

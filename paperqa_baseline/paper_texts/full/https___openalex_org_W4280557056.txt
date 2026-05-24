@@ -1,0 +1,9 @@
+Title: An Empirical Analysis of Sustainable Energy Security for Energy Policy Recommendations
+Authors: Fahad Abdullah, Rizwan Iqbal, Sadique Ahmad, Mohammed ElAffendi, Maria Chong Abdullah
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14106099
+Paper ID: https://openalex.org/W4280557056
+
+Abstract:
+This study presents a framework for assessing Pakistan’s sustainable energy security (SES) between 1991 and 2020 by estimating its composite index, termed “SESi”, and three sub-indices. The SES has three dimensions: economic, social, and environmental. A total of 26 indicators were chosen and normalized using the Z-score approach before being weighted using principal component analysis (PCA) or equal weighting. The findings associated with the indices point to a declining tendency between 1991 and 2020. The highest degree of sustainable energy security (SES) was reported in 1991, with the lowest levels recorded in 2004 and 2007. Between 1991 and 2020, 9% of SESi regressed. Economic dimensions regressed among the dimension indices between 1991 and 2004, followed by steady performance, while the other two dimensions, social and environmental, fell by 30% and 26%, respectively, during the study period. Further analysis indicates that the objectives of the policies implemented throughout the study period were only partially achieved due to the country’s heavy import dependence, energy expenditures, falling reserves and forest area, and inefficiencies in the power sector.

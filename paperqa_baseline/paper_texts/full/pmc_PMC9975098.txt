@@ -1,0 +1,9 @@
+Title: Quantitative risk assessment of college campus considering risk interactions
+Authors: Xinan Wang, Xiaofeng Hu
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13674
+Paper ID: pmc_PMC9975098
+
+Abstract:
+Because of the more emerging risks and stronger risk interactions, the risk of college campuses as well as students and staff received more and more attention. Current works on campus risk mostly focus on single-category factors, and few of them considered risk interactions. Therefore, an integrated model for assessing comprehensive risks on the campus is proposed to put forward risk reduction strategies. First, a comprehensive risk identification of the college campus is conducted by integrating the modified egg model and the fault tree. Then, DEMATEL (Decision-Making Trial and Evaluation Laboratory) is applied to quantify the complex risk interactions and determine the influential causes for further modelling. Finally, the Bayesian network is established for cause diagnosis, consequence prediction, and risk reduction. The identified most sensitive cause is alcohol use. In the case of the four sensitive causes simultaneously occurring, the probability of high campus risk will increase from 21.9% of the original to 39.4%. Moreover, an efficiency analysis of different risk reduction strategies is performed to determine the most efficient risk reduction strategy. The results indicate that the proposed methodology may of great significance for the risk reduction of the college campus in the changing age. Highlights • An integrated model is proposed to assess comprehensive risks on the college campus. • DEMATEL and BN are integrated to quantify risk interactions and determine risk reduction strategy. • The identified sensitive causes of campus accidents are alcohol use, flammable gas, and COVID pandemic. • The most efficient risk reduction strategy for campus risk can be quantitatively proposed.

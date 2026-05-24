@@ -1,0 +1,9 @@
+Title: Metal-Free Carbon-Based Nanomaterials: Insights from Synthesis to Applications in Sustainable Catalysis
+Authors: Vishal Bharati Jaryal, Alberto Villa, Neeraj Gupta
+Year: 2023
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.3c01452
+Paper ID: https://openalex.org/W4386762976
+
+Abstract:
+The development of cutting-edge catalysts is critical in material science for sustainable development. Though, metals have always been used in catalysis for enabling essential chemicals, but their use is not considered sustainable owing to the high cost, toxicity, and poor durability. Nevertheless, the modern focus has shifted towards metal free materials due to their leading role in sustainable development. Carbon-based nanomaterials have become focus of researchers over last 30 years and are used either as a catalyst support or metal-free catalyst in various chemical conversions. They are highly anticipated as state-of-the-art materials due to high specific surface area, high conductivity, and tunable functional groups. This account summarizes various strategies proposed by our group to design metal-free carbon catalysts for electrochemical sensing, biomass valorization, and synthesis of value-added chemicals. Also, “metal-free” point-of-care devices are fabricated to provide affordable healthcare services to the user end. The materials are designed using graphitic carbon nitride, reduced graphene oxide, Janus 2D carbon nanomaterials, ultradispersed diamonds, and carbon nanotubes. Their efficacy can be improved by building composites with metal-free materials and incorporating defects. Finally, we share some knowledge and insights regarding current challenges and future perspectives in this emerging field.

@@ -1,0 +1,9 @@
+Title: Association between obsessive-compulsive disorder and the risk of schizophrenia using the Korean National Health Insurance Service-National Sample Cohort: a retrospective cohort study
+Authors: H. Kim, S. H. Kim, W. Jeong, Y. S. Park, J. Kim, E. C. Park, S. I. Jang
+Year: 2023
+Venue: Epidemiology and Psychiatric Sciences
+DOI: 10.1017/S2045796023000021
+Paper ID: pmc_PMC9971846
+
+Abstract:
+Aims Obsessive-compulsive disorder (OCD) and schizophrenia are often reported as co-morbid conditions. However, the evidence of an association between OCD and the risk of schizophrenia is limited. This study investigated the risk of schizophrenia in patients newly diagnosed with OCD using a nationally representative sample cohort in South Korea. Methods Data were obtained from the 2002–2013 Korean National Health Insurance Service-National Sample Cohort of the National Health Insurance Service. Using propensity score matching, 2509 patients with OCD and a control group of 7527 patients were included in the analysis. Chi-squared tests were used to investigate and compare the general characteristics of the study population. The risk of schizophrenia was analysed using the Cox proportional hazard model. Results The incidence rate was 45.79/10 000 person-year for patients with OCD and 4.19/10 000 person-year for patients without OCD. Patients with OCD had a higher risk of schizophrenia compared to the control group after adjusting for covariates (hazard ratio = 10.46, 95% confidence interval = 6.07–18.00). Conclusions This study identified an association between the diagnosis of OCD and the risk of schizophrenia in a South Korean national representative cohort. Further research using a prospective design to clarify the causality of OCD in schizophrenia in a controlled environment should be conducted to validate these findings.

@@ -1,0 +1,9 @@
+Title: Solar PV cleaning techniques contribute to Sustainable Development Goals (SDGs) using Multi-criteria decision-making (MCDM): Assessment and review
+Authors: Haya Aljaghoub, Farah Abumadi, Maryam Nooman AlMallahi, Khaled Obaideen, Abdul Hai Alami
+Year: 2022
+Venue: International Journal of Thermofluids
+DOI: https://doi.org/10.1016/j.ijft.2022.100233
+Paper ID: https://openalex.org/W4306734960
+
+Abstract:
+The efficiency and power output of photovoltaic (PV) panels are vital to the solar PV plant. Apart from overheating, and natural shading, some geographical locations are more susceptible to objectionable dust accumulation on the surfaces of PV panels. Consequently, specific cleaning techniques are required to mitigate the accumulated dust and restore the plant's efficiency. The most popular PV panel cleaning techniques include natural, manual, automatic, and electrostatic cleaning. Each cleaning technique is associated with both positive and negative impacts. Hence, this paper proposes a methodology that underlines the impact of each cleaning technique and relates it to the Sustainable Development Goals (SDGs) and their associated targets. The results exhibit the goals related to energy (SDG 7, 9,11, 12, & 13) and water (SDG 6) were the most affected SDGs by choice of cleaning technology and thus needed to be carefully considered before their deployment. This paper then employs a multi-criteria decision-making method Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS), to compare these cleaning techniques and find the optimal cleaning method concerning the SDGs. This method prioritizes the alternatives by considering the 18 criteria set and their relative significance to the SDGs. The TOPSIS technique showed that the manual cleaning technique outperformed the other cleaning techniques and obtained the highest ranking.

@@ -1,0 +1,9 @@
+Title: A high-temperature double perovskite molecule-based antiferroelectric with excellent anti-breakdown capacity for energy storage
+Authors: Yi Liu, Yu Ma, Xi Zeng, Haojie Xu, Wuqian Guo, Beibei Wang, Lina Hua, Liwei Tang, Junhua Luo, Zhihua Sun
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38007-5
+Paper ID: pmc_PMC10140061
+
+Abstract:
+Halide double perovskites have recently emerged as an environmentally green candidate toward electronic and optoelectronic applications owing to their non-toxicity and versatile physical merits, whereas study on high-temperature antiferroelectric (AFE) with excellent anti-breakdown property remains a huge blank in this booming family. Herein, we present the first high-temperature AFE of the lead-free halide double perovskites, (CHMA) 2 CsAgBiBr 7 ( 1 , where CHMA + is cyclohexylmethylammonium), by incorporating a flexible organic spacer cation. The typical double P-E hysteresis loops and J-E curves reveal its concrete high-temperature AFE behaviors, giving large polarizations of ~4.2 μC/cm 2 and a high Curie temperature of 378 K. Such merits are on the highest level of molecular AFE materials. Particularly, the dynamic motional ordering of CHMA + cation contributes to the formation of antipolar alignment and high electric breakdown field strength up to ~205 kV/cm with fatigue endurance over 10 4 cycles, almost outperforming the vast majority of molecule counterparts. This is the first demonstration of high-temperature AFE properties in the halide double perovskites, which will promote the exploration of new “green” candidates for anti-breakdown energy storage capacitor. Antiferroelectric (AFE) materials are emerging as a remarkable candidate for efficient energy-storage applications. Here, the authors report on a high-temperature, lead-free, AFE perovskite, (CHMA) 2 CsAgBiBr 7 (where CHMA is cyclohexylmethylammonium) with high fatigue endurance at a high electric breakdown field strength.

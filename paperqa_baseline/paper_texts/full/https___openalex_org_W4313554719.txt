@@ -1,0 +1,9 @@
+Title: SUSAN: A Deep Learning based anomaly detection framework for sustainable industry
+Authors: Ángel Luis Perales Gómez, Lorenzo Fernández Maimó, Alberto Huertas Celdrán, Félix J. García Clemente
+Year: 2023
+Venue: Sustainable Computing Informatics and Systems
+DOI: https://doi.org/10.1016/j.suscom.2022.100842
+Paper ID: https://openalex.org/W4313554719
+
+Abstract:
+Nowadays, sustainability is the core of green technologies, being a critical aspect in many industries concerned with reducing carbon emissions and energy consumption optimization. While this concern increases, the number of cyberattacks causing sustainability issues in industries also grows. These cyberattacks impact industrial systems that control and monitor the right functioning of processes and systems. Furthermore, they are very specialized, requiring knowledge about the target industrial processes, and being undetectable for traditional cybersecurity solutions. To overcome this challenge, we present SUSAN, a Deep Learning-based framework, to build anomaly detectors that expose cyberattacks affecting the sustainability of industrial systems. SUSAN follows a modular and flexible design that allows the ensembling of several detectors to achieve more precise detections. To demonstrate the feasibility of SUSAN, we implemented the framework in a water treatment plant using the SWaT testbed. The experiments performed achieved the best recall rate (0.910) and acceptable precision (0.633), resulting in an F1-score of 0.747. Regarding individual cyberattacks that impact the system’s sustainability, our implementation detected all of them, and, concerning the related work, it achieved the most balanced results, with 0.64 as the worst recall rate. Finally, a false-positive rate of 0.000388 makes our solution feasible in real scenarios.

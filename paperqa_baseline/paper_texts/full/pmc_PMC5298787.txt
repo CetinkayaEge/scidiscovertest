@@ -1,0 +1,9 @@
+Title: An Adaptive Moving Target Imaging Method for Bistatic Forward-Looking SAR Using Keystone Transform and Optimization NLCS
+Authors: Zhongyu Li, Junjie Wu, Yulin Huang, Haiguang Yang, Jianyu Yang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010216
+Paper ID: pmc_PMC5298787
+
+Abstract:
+Bistatic forward-looking SAR (BFSAR) is a kind of bistatic synthetic aperture radar (SAR) system that can image forward-looking terrain in the flight direction of an aircraft. Until now, BFSAR imaging theories and methods for a stationary scene have been researched thoroughly. However, for moving-target imaging with BFSAR, the non-cooperative movement of the moving target induces some new issues: (I) large and unknown range cell migration (RCM) (including range walk and high-order RCM); (II) the spatial-variances of the Doppler parameters (including the Doppler centroid and high-order Doppler) are not only unknown, but also nonlinear for different point-scatterers. In this paper, we put forward an adaptive moving-target imaging method for BFSAR. First, the large and unknown range walk is corrected by applying keystone transform over the whole received echo, and then, the relationships among the unknown high-order RCM, the nonlinear spatial-variances of the Doppler parameters, and the speed of the mover, are established. After that, using an optimization nonlinear chirp scaling (NLCS) technique, not only can the unknown high-order RCM be accurately corrected, but also the nonlinear spatial-variances of the Doppler parameters can be balanced. At last, a high-order polynomial filter is applied to compress the whole azimuth data of the moving target. Numerical simulations verify the effectiveness of the proposed method.

@@ -1,0 +1,9 @@
+Title: Use of Artificial Intelligence for Predicting Parameters of Sustainable Concrete and Raw Ingredient Effects and Interactions
+Authors: Muhammad Nasir Amin, Waqas Ahmad, Kaffayatullah Khan, Ayaz Ahmad, Sohaib Nazar, Anas Abdulalim Alabdullah
+Year: 2022
+Venue: Materials
+DOI: https://doi.org/10.3390/ma15155207
+Paper ID: https://openalex.org/W4288081194
+
+Abstract:
+value and lower error (i.e., MAE, RMSE) values, had a better performance than the other ensemble techniques. The application of machine learning techniques for the prediction of concrete properties would consume fewer resources and take less time and effort for scholars in the respective engineering field. The forecasting of the proposed DT-Gradient Boosting models is in close agreement with the actual experimental results, as indicated by the assessment output showing the improved estimation of RCAC's compressive strength.

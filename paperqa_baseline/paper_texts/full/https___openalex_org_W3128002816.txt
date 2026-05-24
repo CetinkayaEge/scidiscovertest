@@ -1,0 +1,9 @@
+Title: Fuzzy and Interval AHP Approaches in Sustainable Management for the Architectural Heritage in Smart Cities
+Authors: Mimica Milošević, Dušan Milošević, Ana Stanojević, Dragan Stević, Dušan J. Simjanović
+Year: 2021
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math9040304
+Paper ID: https://openalex.org/W3128002816
+
+Abstract:
+For the past four decades, the methodology of fuzzy analytic hierarchy process based on fuzzy trapezoidal or triangular numbers with the linear type of membership functions has witnessed an expanding development with applicability to a wide variety of areas, such as industry, environment, education, government, economics, engineering, health, and smart city leadership. On the other hand, the interval gray analytic hierarchy process is a more practical method when a significant number of professionals have large variations in preferences and interests in complex decisions. The paper examines the management of architectural heritage in smart cities, using methods of multi-criteria decision making. Two appropriate methods generally recommended by the scientific literature have been applied: fuzzy and interval grey analytic hierarchy process. By using both techniques, there is an opportunity to analyze the consensual results from the aspect of two different stakeholder groups: architectural heritage experts and smart city development experts. Trapezoidal fuzzy analytical hierarchical process shows better stability than a triangular one. Both approaches assign priority to the strategy, but the interval approach gives a more significant rank to architectural heritage factors. The similarity of the proposed methods has been tested, and the similarity factor in the ranking indicates a high degree of similarity in comparing the reference rankings.

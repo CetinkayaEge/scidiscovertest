@@ -1,0 +1,9 @@
+Title: Transcranial electrical stimulation: How can a simple conductor orchestrate complex brain activity?
+Authors: Matthew R. Krause, Pedro G. Vieira, Christopher C. Pack
+Year: 2023
+Venue: PLOS Biology
+DOI: 10.1371/journal.pbio.3001973
+Paper ID: pmc_PMC9886255
+
+Abstract:
+Transcranial electrical stimulation (tES) is one of the oldest and yet least understood forms of brain stimulation. The idea that a weak electrical stimulus, applied outside the head, can meaningfully affect neural activity is often regarded as mysterious. Here, we argue that the direct effects of tES are not so mysterious: Extensive data from a wide range of model systems shows it has appreciable effects on the activity of individual neurons. Instead, the real mysteries are how tES interacts with the brain’s own activity and how these dynamics can be controlled to produce desirable therapeutic effects. These are challenging problems, akin to repairing a complex machine while it is running, but they are not unique to tES or even neuroscience. We suggest that models of coupled oscillators, a common tool for studying interactions in other fields, may provide valuable insights. By combining these tools with our growing, interdisciplinary knowledge of brain dynamics, we are now in a good position to make progress in this area and meet the high demand for effective neuromodulation in neuroscience and psychiatry. Weak electric currents applied to the scalp (known as transcranial electrical stimulation) can affect brain activity in surprisingly complex ways. This Unsolved Mystery investigates how these effects can be used to treat disease or improve cognition.

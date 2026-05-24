@@ -1,0 +1,9 @@
+Title: Exploration and Investigation of Green Lean Six Sigma Adoption Barriers for Manufacturing Sustainability
+Authors: Mahender Singh Kaswan, Rajeev Rathi, Jose Arturo Garza‐Reyes, Jiju Antony
+Year: 2021
+Venue: IEEE Transactions on Engineering Management
+DOI: https://doi.org/10.1109/tem.2021.3108171
+Paper ID: https://openalex.org/W3200730656
+
+Abstract:
+The increased awareness about the effect of operations on sustainability dynamics and governmental pressure to cut emission rates has forced industries to adopt sustainable approaches such as Green Lean Six Sigma (GLSS). Despite increasing interest in GLSS, very limited research has focused on its implementation and no research has investigated barriers that hinder GLSS execution. This article investigates GLSS implementation barriers, their relationship, and removal of same in the manufacturing sector. In this article, 18 GLSS barriers have been recognized through literature review and formulated into logical groups using principal component analysis. This article pioneers with decision-making trial and evaluation laboratory with intuitionistic fuzzy (IF) set to prioritize barriers and handle the important and causal relationship among the same. The results of the article were validated through the IF best-worst method (BWM). The results reveal that management-related barriers are the top ranked followed by environmental and organization barriers with BWM weights 0.5283, 0.1704, and 0.1035, respectively. This provides impetus to policymakers for the induction of GLSS in business organizations to make harmony between economic development and environmental sustainability.

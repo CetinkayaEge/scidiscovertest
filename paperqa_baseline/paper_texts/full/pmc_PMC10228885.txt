@@ -1,0 +1,9 @@
+Title: Molecular identification of Phlebotomus kandelakii apyrase and assessment of the immunogenicity of its recombinant protein in BALB/c mice
+Authors: Shima Fayaz, Abbasali Raz, Fariborz Bahrami, Pezhman Fard-Esfahani, Parviz Parvizi, Soheila Ajdary
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-36037-z
+Paper ID: pmc_PMC10228885
+
+Abstract:
+Sand fly salivary proteins have immunomodulatory and anti-inflammatory features; hence, they are proven to perform important roles in the early establishment of Leishmania parasite in the vertebrate host. Among them, salivary apyrase with anti-hemostatic properties has a crucial role during the blood meal process. In the present study, a Genome-Walking method was used to characterize a full-length nucleotide sequence of Phlebotomus (P.) kandelakii apyrase (Pkapy). Bioinformatics analyses revealed that Pkapy is a ~ 36 kDa stable and hydrophilic protein that belongs to the Cimex family of apyrases. Moreover, recombinant proteins of Pkapy and P. papatasi apyrase (Ppapy) were over-expressed in Escherichia coli BL2 (DE3) and their antigenicity in BALB/c mice was evaluated. Dot-blot and ELISA results indicated that both recombinant apyrases could induce antibodies in BALB/c. Moreover, a partial cross-reactivity between Pkapy and Ppapy was found. In vitro stimulation of splenocytes from immunized mice with the recombinant proteins indicated cross-reactive T cell proliferative responses. Cytokine analysis revealed significant production of IFN-γ ( p < 0.001) and IL-10 ( p < 0.01) in response to Pkapy. In conclusion, the full-length nucleotide sequence and molecular characteristics of Pkapy were identified for the first time. Immunologic analyses indicated that Pkapy and Ppapy are immunogenic in BALB/c mice and show partial cross-reactive responses. The immunity to Pkapy was found to be a Th1-dominant response that highlights its potential as a component for an anti- Leishmania vaccine.

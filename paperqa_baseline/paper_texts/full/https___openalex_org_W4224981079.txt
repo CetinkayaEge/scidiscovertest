@@ -1,0 +1,9 @@
+Title: Prediction of Compressive Strength of Sustainable Foam Concrete Using Individual and Ensemble Machine Learning Approaches
+Authors: Haji Sami Ullah, Rao Arsalan Khushnood, Furqan Farooq, Junaid Ahmad, Nikolai Vatin, Dina Yehia Zakaria Ewais
+Year: 2022
+Venue: Materials
+DOI: https://doi.org/10.3390/ma15093166
+Paper ID: https://openalex.org/W4224981079
+
+Abstract:
+= 0.96 along with the lowest statistical error values of MAE = 1.84 MPa and RMSE = 2.52 MPa. Overall, the result suggests that the ensemble learners would significantly enhance the performance and robustness of ML models.

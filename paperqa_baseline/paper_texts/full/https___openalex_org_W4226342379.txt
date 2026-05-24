@@ -1,0 +1,9 @@
+Title: An Empirical Study of the Impact of Systems Thinking and Simulation on Sustainability Education
+Authors: Caroline Green, Owen Molloy, Jim Duggan
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14010394
+Paper ID: https://openalex.org/W4226342379
+
+Abstract:
+Education for sustainable development (ESD) is considered vital to the success of the United Nations’ sustainable development goals. Systems thinking has been identified as a core competency that must be included in ESD. However, systems thinking-orientated ESD learning tools, established methods of the assessment of sustainability skills, and formal trials to demonstrate the effectiveness of such learning tools are all lacking. This research presents a randomised controlled trial (n = 106) to investigate whether an innovative online sustainability learning tool that incorporates two factors, systems thinking and system dynamics simulation, increases the understanding of a specific sustainability problem. A further aim was to investigate whether these factors also support the transfer of knowledge to a second problem with a similar systemic structure. The effects of the two factors were tested separately and in combination using a two-by-two factorial study design. ANOVA and related inferential statistical techniques were used to analyse the effect of the factors on sustainability understanding. Cohen’s d effect sizes were also calculated. Simulation alone was found to increase ESD learning outcomes significantly, and also to support the transfer of skills, although less significantly. Qualitative feedback was also gathered from participants, most of whom reported finding systems thinking and simulation very helpful.

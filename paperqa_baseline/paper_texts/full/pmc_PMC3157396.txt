@@ -1,0 +1,9 @@
+Title: Molecular Basis for the Recognition of Adenomatous Polyposis Coli by the Discs Large 1 Protein
+Authors: Zhenyi Zhang, Hua Li, Leyi Chen, Xingyu Lu, Jian Zhang, Ping Xu, Kui Lin, Geng Wu
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023507
+Paper ID: pmc_PMC3157396
+
+Abstract:
+The human Discs Large 1 (DLG1) protein uses two of its three PDZ domains to interact with the C-terminal peptide of the Adenomatous Polyposis Coli (APC) tumor suppressor protein. The DLG1/APC complex inhibits the cell cycle progression from the G0/G1 to the S phase, regulates epithelial cell migration and morphogenesis, and is required for polarization of the microtubule cytoskeleton. However, the molecular details of how DLG1 recognizes APC is not clear. In this study, we performed biochemical and biophysical assays to investigate the interactions between PDZ domains of DLG1 and the C-terminal peptide of APC. In addition, we determined the crystal structures of the PDZ1 and PDZ2 domains of DLG1 each in complex with the C-terminal 11-residue peptide of APC. Our biochemical, biophysical, and structural results revealed structural elements and residues on PDZ1 and PDZ2 domains of DLG1 and on APC crucial for their mutual interaction. In particular, our results show that the β2/β3 loops of PDZ1 and PDZ2 play important roles in contributing to the binding affinities between PDZ domains and APC, through interacting with the residues upstream of the canonical PDZ-binding S/T-X-V motif. The results provide new insights into the binding mode of a defined C-terminal segment of APC by the PDZ domains of DLG1.

@@ -1,0 +1,9 @@
+Title: Prosumerism for sustainability
+Authors: Theodoros Daglis, Maria-Anna Katsikogianni, Dimitris Ipsakis, Konstantinos P. Tsagarakis
+Year: 2025
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2025.03.002
+Paper ID: https://openalex.org/W4408201975
+
+Abstract:
+Many individuals tend to become prosumers, which are both producers and consumers, contributing to sustainable practices. This study investigates the sustainability dimensions of prosumerism through a systematic literature review and natural language processing in the context of topic analysis. Our results highlight key areas that the literature engages with prosumer sustainability, including solar energy, electricity, and renewable energy sources, with a focus on challenges like excess energy management and blockchain adoption. The results reveal that prosumers represent a technological and social movement that can promote renewable energy adoption, and enhance smart cities, as may utilize various energy sources, such as biodiesel, solar, and thermal networks. Specific case studies, both within Europe and globally, point out the importance of focused strategies and the need to improve solar prosumption that will enhance sustainable energy systems. Blockchain and peer-to-peer technologies can enable decentralized and efficient energy trading while enhancing the accuracy of real-time energy production and consumption data, in the context of prosumerism. Finally, natural language processing confirms the importance of prosumers in driving sustainability, but omits important emerging topics such as blockchain and regional case studies, especially within the European Union.

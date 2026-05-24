@@ -1,0 +1,9 @@
+Title: Development of Renewable Energy Sources in the European Union in the Context of Sustainable Development Policy
+Authors: Piotr Bórawski, Rafał Wyszomierski, Aneta Bełdycka-Bórawska, Bartosz Mickiewicz, Beata Kalinowska, James W. Dunn, Tomasz Rokicki
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15041545
+Paper ID: https://openalex.org/W4213221274
+
+Abstract:
+Renewable energy sources play a key role in decarbonizing the economy of the European Union (EU) and the world. The aim of this research is to present the development of the renewable energy sources (RES) sector in the European Union (EU), with particular emphasis on sustainable development. The EU guidelines, requirements, and directives were analyzed in order to meet the provisions of the energy policy to ensure energy and climate security. The potential of the RES was studied in the EU countries, and the possibility of its use in cogeneration with the use of local renewable resources. The results are presented in tabular, graphic, and descriptive forms. The results are presented based on the extensive literature on the subject and data from Eurostat. The data covered 2004–2019. We used different methods to evaluate the changes in the RES in the EU countries. First, we compiled descriptive statistics; second, we used the Augmented Dickey–Fuller test (ADF test); and, finally, we used the Generalized Autoregressive Conditional Heteroscedasticity model (GARCH model). Our analysis found that the EU increased the share of RES. The biggest share of energy from renewable energy sources was found in 2019 in Iceland (78%), Norway (74%), and Sweden (56%). The biggest increase in the share of RES in 2004–19 was found in Malta (8322%), Great Britain (1126%), and Luxemburg (784%). The results demonstrate the development of RES in the EU countries. However, not all countries achieved the planned goal in 2019.

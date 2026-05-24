@@ -1,0 +1,9 @@
+Title: Kinetic evidence in favor of glyoxalase III and against deglycase activity of DJ ‐1
+Authors: Joonhyeok Choi, Sungho Tak, Hoe‐Myung Jung, Soyoung Cha, Eunha Hwang, Donghan Lee, Joon‐Hwa Lee, Kyoung‐Seok Ryu, Chankyu Park
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4641
+Paper ID: pmc_PMC10127264
+
+Abstract:
+Abstract DJ‐1, a protein encoded by PARK7 plays a protective role against neurodegeneration. Since its glyoxalase III activity catalyzing methylglyoxal (MG) to lactate was discovered, DJ‐1 has been re‐established as a deglycase decomposing the MG‐intermediates with amino acids and nucleotides (hemithioacetal and hemiaminal) rather than MG itself, but it is still debatable. Here, we have clarified that human DJ‐1 directly recognizes MG, and not MG‐intermediates, by monitoring the detailed catalytic processes and enantiomeric lactate products. The hemithioacetal intermediate between C106 of 15 N‐labeled DJ‐1 ( 15N DJ‐1) and MG was also monitored by NMR. TRIS molecule formed stable diastereotopic complexes with MG ( K d , 1.57 ± 0.27 mM) by utilizing its three OH groups, which likely disturbed the assay of deglycase activity. The low k cat of DJ‐1 for MG and its MG‐induced structural perturbation may suggest that DJ‐1 has a regulatory function as an in vivo sensor of reactive carbonyl stress.

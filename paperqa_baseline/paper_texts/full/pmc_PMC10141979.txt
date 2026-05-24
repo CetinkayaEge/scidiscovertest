@@ -1,0 +1,9 @@
+Title: Development of a Peptide-Based Nano-Sized Cathepsin B Inhibitor for Anticancer Therapy
+Authors: So-Hyeon Park, Jun-Hyuck Lee, Seong-Bin Yang, Dong-Nyeong Lee, Tae-Bong Kang, Jooho Park
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041131
+Paper ID: pmc_PMC10141979
+
+Abstract:
+Numerous cathepsin B inhibitors have been developed and are under investigation as potential cancer treatments. They have been evaluated for their ability to inhibit cathepsin B activity and reduce tumor growth. However, they have shown critical limitations, including low anticancer efficacy and high toxicity, due to their low selectivity and delivery problems. In this study, we developed a novel peptide and drug conjugate (PDC)-based cathepsin B inhibitor using cathepsin-B-specific peptide (RR) and bile acid (BA). Interestingly, this RR and BA conjugate (RR–BA) was able to self-assemble in an aqueous solution, and as a result, it formed stable nanoparticles. The nano-sized RR–BA conjugate showed significant cathepsin B inhibitory effects and anticancer effects against mouse colorectal cancer (CT26) cells. Its therapeutic effect and low toxicity were also confirmed in CT26 tumor-bearing mice after intravenous injection. Therefore, based on these results, the RR–BA conjugate could be developed as an effective anticancer drug candidate for inhibiting cathepsin B in anticancer therapy.

@@ -1,0 +1,9 @@
+Title: Mitochondrial translation is required for sustained killing by cytotoxic T cells
+Authors: Miriam Lisci, P. Barton, Lyra O. Randzavola, Y. Claire, Julia M. Marchingo, Doreen A. Cantrell, Vincent Paupe, Julien Prudent, Jane C. Stinchcombe, Gillian M. Griffiths
+Year: 2021
+Venue: Science
+DOI: https://doi.org/10.1126/science.abe9977
+Paper ID: https://openalex.org/W3206731434
+
+Abstract:
+T lymphocytes initiates their maturation into effector cytotoxic T lymphocytes (CTLs), which can kill cancer and virally infected cells. Although CTLs show an increased reliance on glycolysis upon acquisition of effector function, we found an essential requirement for mitochondria in target cell–killing. Acute mitochondrial depletion in USP30 (ubiquitin carboxyl-terminal hydrolase 30)–deficient CTLs markedly diminished killing capacity, although motility, signaling, and secretion were all intact. Unexpectedly, the mitochondrial requirement was linked to mitochondrial translation, inhibition of which impaired CTL killing. Impaired mitochondrial translation triggered attenuated cytosolic translation, precluded replenishment of secreted killing effectors, and reduced the capacity of CTLs to carry out sustained killing. Thus, mitochondria emerge as a previously unappreciated homeostatic regulator of protein translation required for serial CTL killing.

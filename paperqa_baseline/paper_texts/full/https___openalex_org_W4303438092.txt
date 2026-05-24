@@ -1,0 +1,9 @@
+Title: Recent advances and future perspectives on more sustainable and energy efficient distillation processes
+Authors: Hendrik Kooijman, Eva Sørensen
+Year: 2022
+Venue: Process Safety and Environmental Protection
+DOI: https://doi.org/10.1016/j.cherd.2022.10.005
+Paper ID: https://openalex.org/W4303438092
+
+Abstract:
+Distillation has held a very strong position in the chemical process industries for well over a century, and has, as a separation method, been around for millennia. The process can be designed directly without the need for experimentation unlike other novel separation processes, and distillation is a standard part of any undergraduate curriculum. So why the ongoing interest in this separation dinosaur? Due to distillation’s significant importance in industry, and its associated high energy requirements and thereby contribution to global warming, considerable effort is still needed to make the process more energy efficient, as well as to consider other heating sources beyond traditional fossil fuels. In this work, we will outline the most significant methods currently considered for energy efficiency of distillation, and provide an overview of where we may be heading as a discipline in our quest for a more sustainable chemical engineering future. We will argue that significant improvements have already been made, but more is still required by both industry and legislators. We need to consider a future without the use of fossil fuel-based feedstock or energy sources and switch towards renewable sources, and our future graduates need to be adequately prepared for such a future.

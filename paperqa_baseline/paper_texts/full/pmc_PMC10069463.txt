@@ -1,0 +1,9 @@
+Title: Complex hierarchical structures in single-cell genomics data unveiled by deep hyperbolic manifold learning
+Authors: Tian Tian, Cheng Zhong, Xiang Lin, Zhi Wei, Hakon Hakonarson
+Year: 2023
+Venue: Genome Research
+DOI: 10.1101/gr.277068.122
+Paper ID: pmc_PMC10069463
+
+Abstract:
+With the advances in single-cell sequencing techniques, numerous analytical methods have been developed for delineating cell development. However, most are based on Euclidean space, which would distort the complex hierarchical structure of cell differentiation. Recently, methods acting on hyperbolic space have been proposed to visualize hierarchical structures in single-cell RNA-seq (scRNA-seq) data and have been proven to be superior to methods acting on Euclidean space. However, these methods have fundamental limitations and are not optimized for the highly sparse single-cell count data. To address these limitations, we propose scDHMap, a model-based deep learning approach to visualize the complex hierarchical structures of scRNA-seq data in low-dimensional hyperbolic space. The evaluations on extensive simulation and real experiments show that scDHMap outperforms existing dimensionality-reduction methods in various common analytical tasks as needed for scRNA-seq data, including revealing trajectory branches, batch correction, and denoising the count matrix with high dropout rates. In addition, we extend scDHMap to visualize single-cell ATAC-seq data.

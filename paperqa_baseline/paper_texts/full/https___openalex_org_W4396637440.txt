@@ -1,0 +1,9 @@
+Title: Plasmonic chemistry for sustainable ammonia production
+Authors: Arsha Choudhary, Anubhab Halder, Pooja Aggarwal, Vishal Govind Rao
+Year: 2024
+Venue: Communications Materials
+DOI: https://doi.org/10.1038/s43246-024-00510-7
+Paper ID: https://openalex.org/W4396637440
+
+Abstract:
+Abstract The traditional Haber-Bosch process for ammonia production is energy-intensive and relies on harsh conditions. Plasmonic materials are considered a sustainable alternative to this process. In plasmonics, the ability to localize and enhance light fields beyond the diffraction limit offers a promising avenue for harnessing visible light for photocatalysis. Moreover, the integration of plasmonic metals with various catalysts presents a promising avenue to improve efficiency and selectivity. However, cost and stability challenges hinder large-scale applications. Researchers are actively exploring new materials, optimizing catalyst design, and improving stability to overcome these hurdles. This Review delves into the intricacies of plasmonic catalysis, including material design, co-catalyst selection, and the use of nanotechnologies for precise control of metal properties in plasmonic catalysis. It emphasizes understanding energy flow at material interfaces. Ultimately, the Review aims to establish a foundation for efficient nitrogen fixation through plasmonic photocatalysis, paving the way for a more sustainable future.

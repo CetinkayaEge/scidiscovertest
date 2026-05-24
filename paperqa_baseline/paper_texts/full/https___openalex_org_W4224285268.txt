@@ -1,0 +1,9 @@
+Title: Toward Sustainable Urban Mobility by Using Fuzzy-FUCOM and Fuzzy-CoCoSo Methods: The Case of the SUMP Podgorica
+Authors: Gülay Demir, Milanko Damjanović, Boško Matović, Radoje Vujadinović
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14094972
+Paper ID: https://openalex.org/W4224285268
+
+Abstract:
+Sustainable urban mobility plans (SUMPs) have become increasingly popular in cities with environmental problems to reduce pollution, often caused by urban transportation. Therefore, this study aims to provide a practical framework for the selection decisions of final measures and policies to be carried out to achieve SUMP workspace goals using a fuzzy multi-criteria decision-making (MCDM) methodology. Alternatives are created with the strategic “pillar”, which was first adopted by the Podgorica city council. With the measurements in this pillar, the main criteria and the recommended measures for these measures create sub-criteria. Secondly, a Fuzzy Full Consistency Method (F-FUCOM) was used to determine the weights of the main and sub-criteria. The Fuzzy Combined Compromise Solution (F-CoCoSo) method was then applied to rank the alternatives. “The implementation and assurance of the SUMP” and “establishing a system for regular data collection, monitoring and evaluation of selected mobility indicators” were decided as the most important main and sub-criteria with weights of 0.286 and 0.1079, respectively. The findings suggest that the comprehensive planning for sustainable urban mobility alternative is first and the valorization of cycling potential alternative is second. A comprehensive sensitivity analysis confirms the validity, robustness, and effectiveness of the proposed framework. The applied methodology has the potential to assist decision makers in the process of developing SUMPs.

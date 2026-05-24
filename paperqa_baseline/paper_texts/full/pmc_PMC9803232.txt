@@ -1,0 +1,9 @@
+Title: IMAGE-IN: Interactive web-based multidimensional 3D visualizer for multi-modal microscopy images
+Authors: Yubraj Gupta, Carlos Costa, Eduardo Pinho, Luís A. Bastião Silva, Rainer Heintzmann
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279825
+Paper ID: pmc_PMC9803232
+
+Abstract:
+Advances in microscopy hardware and storage capabilities lead to increasingly larger multidimensional datasets. The multiple dimensions are commonly associated with space, time, and color channels. Since “seeing is believing”, it is important to have easy access to user-friendly visualization software. Here we present IMAGE-IN, an interactive web-based multidimensional (N-D) viewer designed specifically for confocal laser scanning microscopy (CLSM) and focused ion beam scanning electron microscopy (FIB-SEM) data, with the goal of assisting biologists in their visualization and analysis tasks and promoting digital workflows. This new visualization platform includes intuitive multidimensional opacity fine-tuning, shading on/off, multiple blending modes for volume viewers, and the ability to handle multichannel volumetric data in volume and surface views. The software accepts a sequence of image files or stacked 3D images as input and offers a variety of viewing options ranging from 3D volume/surface rendering to multiplanar reconstruction approaches. We evaluate the performance by comparing the loading and rendering timings of a heterogeneous dataset of multichannel CLSM and FIB-SEM images on two devices with installed graphic cards, as well as comparing rendered image quality between ClearVolume (the ImageJ open-source desktop viewer), Napari (the Python desktop viewer), Imaris (the closed-source desktop viewer), and our proposed IMAGE-IN web viewer.

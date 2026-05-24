@@ -1,0 +1,9 @@
+Title: Bioinformatics and Next-Generation Data Analysis for Identification of Genes and Molecular Pathways Involved in Subjects with Diabetes and Obesity
+Authors: Prashanth Ganekal, Basavaraj Vastrad, Satish Kavatagimath, Chanabasayya Vastrad, Shivakumar Kotrashetti
+Year: 2023
+Venue: Medicina
+DOI: 10.3390/medicina59020309
+Paper ID: pmc_PMC9967176
+
+Abstract:
+Background and Objectives: A subject with diabetes and obesity is a class of the metabolic disorder. The current investigation aimed to elucidate the potential biomarker and prognostic targets in subjects with diabetes and obesity. Materials and Methods: The next-generation sequencing (NGS) data of GSE132831 was downloaded from Gene Expression Omnibus (GEO) database. Functional enrichment analysis of DEGs was conducted with ToppGene. The protein–protein interactions network, module analysis, target gene–miRNA regulatory network and target gene–TF regulatory network were constructed and analyzed. Furthermore, hub genes were validated by receiver operating characteristic (ROC) analysis. A total of 872 DEGs, including 439 up-regulated genes and 433 down-regulated genes were observed. Results: Second, functional enrichment analysis showed that these DEGs are mainly involved in the axon guidance, neutrophil degranulation, plasma membrane bounded cell projection organization and cell activation. The top ten hub genes ( MYH9 , FLNA , DCTN1 , CLTC , ERBB2 , TCF4 , VIM , LRRK2 , IFI16 and CAV1 ) could be utilized as potential diagnostic indicators for subjects with diabetes and obesity. The hub genes were validated in subjects with diabetes and obesity. Conclusion: This investigation found effective and reliable molecular biomarkers for diagnosis and prognosis by integrated bioinformatics analysis, suggesting new and key therapeutic targets for subjects with diabetes and obesity.

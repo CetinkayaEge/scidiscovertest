@@ -1,0 +1,9 @@
+Title: Reconfigurable, Intelligent, and Sustainable Wireless Environments for 6G Smart Connectivity
+Authors: Emilio Calvanese Strinati, George C. Alexandropoulos, Henk Wymeersch, Benoît Denis, Vincenzo Sciancalepore, Raffaele D’Errico, Antonio Clemente, Dinh-Thuy Phan-Huy, Elisabeth de Carvalho, Petar Popovski
+Year: 2021
+Venue: VBN Forskningsportal (Aalborg Universitet)
+DOI: https://doi.org/10.1109/mcom.001.2100070
+Paper ID: https://openalex.org/W3216379160
+
+Abstract:
+Various visions of the forthcoming sixth generation (6G) networks point toward flexible connect-and-compute technologies to support future innovative services and the corresponding use cases. 6G should be able to accommodate ever evolving and heterogeneous applications, future regulations, and diverse user-, service-, and location-based requirements. A key element toward building smart and energy sustainable wireless systems beyond 5G is the reconfigurable intelligent surface (RIS), which offers programmable control and shaping of the wireless propagation environment. Capitalizing on this technology potential, in this article we introduce two new concepts: i) wireless environment as a service, which leverages a novel RIS-empowered networking paradigm to trade off diverse, and usually conflicting, connectivity objectives; and ii) performance-boosted areas enabled by RIS-based connectivity, representing competing service provisioning areas that are highly spatially and temporally focused. We discuss the key technological enablers and research challenges with the proposed networking paradigm, and highlight the potential profound role of RISs in the recent Open Radio Access Network architecture.

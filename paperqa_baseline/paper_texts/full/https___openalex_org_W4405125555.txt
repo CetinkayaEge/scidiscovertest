@@ -1,0 +1,9 @@
+Title: Is sustainable entrepreneurship profitable? ESG disclosure and the financial performance of SMEs
+Authors: Paul P. Momtaz, Isabel M. Parra
+Year: 2024
+Venue: Small Business Economics
+DOI: https://doi.org/10.1007/s11187-024-00981-5
+Paper ID: https://openalex.org/W4405125555
+
+Abstract:
+Abstract Sustainability practices have a positive effect on the financial performance of SMEs. We extract ESG-related information for a sample of Spanish SMEs over the period 2012–2022 using tools provided by the Internet Archive to estimate a staggered difference-in-differences model of how the release of new ESG-related information impacts the financial performance of SMEs. ESG-related information can be delivered as an endogenous signal or as an exogenous certification. We show that both types of ESG-related information have a positive effect on SMEs’ financial performance and that both are informational substitutes. We also show that institutional change in the form of the 2015 Paris Agreement on Climate Change moderated the sustainability–performance relation. Specifically, post-Paris, the value-creating impact of exogenous ESG certification increased, while endogenous ESG signals without external certification became ineffective or detrimental. Finally, in line with CSR-as-insurance theory, we show that SMEs with higher performance variability benefit more from sustainability orientation.

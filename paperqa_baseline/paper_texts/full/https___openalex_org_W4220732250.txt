@@ -1,0 +1,9 @@
+Title: Mechanosensitive calcium flashes promote sustained RhoA activation during tight junction remodeling
+Authors: Saranyaraajan Varadarajan, Shahana Chumki, Rachel E. Stephenson, Eileen Misterovich, Jessica Wu, Claire E. Dudley, Ivan S. Erofeev, Andrew B. Goryachev, Ann L. Miller
+Year: 2022
+Venue: The Journal of Cell Biology
+DOI: https://doi.org/10.1083/jcb.202105107
+Paper ID: https://openalex.org/W4220732250
+
+Abstract:
+Epithelial cell-cell junctions remodel in response to mechanical stimuli to maintain barrier function. Previously, we found that local leaks in tight junctions (TJs) are rapidly repaired by local, transient RhoA activation, termed "Rho flares," but how Rho flares are regulated is unknown. Here, we discovered that intracellular calcium flashes and junction elongation are early events in the Rho flare pathway. Both laser-induced and naturally occurring TJ breaks lead to local calcium flashes at the site of leaks. Additionally, junction elongation induced by optogenetics increases Rho flare frequency, suggesting that Rho flares are mechanically triggered. Depletion of intracellular calcium or inhibition of mechanosensitive calcium channels (MSCs) reduces the amplitude of calcium flashes and diminishes the sustained activation of Rho flares. MSC-dependent calcium influx is necessary to maintain global barrier function by regulating reinforcement of local TJ proteins via junction contraction. In all, we uncovered a novel role for MSC-dependent calcium flashes in TJ remodeling, allowing epithelial cells to repair local leaks induced by mechanical stimuli.

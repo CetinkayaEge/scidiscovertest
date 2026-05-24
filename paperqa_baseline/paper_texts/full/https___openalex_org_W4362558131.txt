@@ -1,0 +1,9 @@
+Title: Acoustical Characterization and Modeling of Sustainable Posidonia Fibers
+Authors: Francesco Pompoli
+Year: 2023
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app13074562
+Paper ID: https://openalex.org/W4362558131
+
+Abstract:
+This article presents the results of an acoustic characterization of fibers obtained from Posidonia Balls (scientific name: Aegagropiles), produced by a marine plant (Posidonia oceanica) that is widespread in the Mediterranean Sea and can be found on beaches in large quantities, particularly following storm surges. The aim of this research is to evaluate the possible use of these fibers as eco-sustainable sound-absorbing materials and to define an acoustic model for the optimization of sound-absorbing panels made from these fibers. Experimental tests were conducted to measure airflow resistivity and sound absorption for different densities of loose fiber samples. From these experimental tests, the five physical parameters of the Johnson-Champoux-Allard model were calculated to obtain an analytical formulation of the acoustic behavior of the fibers depending on their density. To the author’s knowledge, this is the first time that an article has been published on acoustic data relating to the sound-absorbing performance of loose Posidonia oceanica fibers and that an analytical model has been presented that allows for the acoustical design of panels of different thicknesses and densities made with this material. An interesting aspect of this material is that the lignin fibers are ready for acoustic application due to the natural cleaning process of the waves and salt water. Furthermore, the methodology consists of a hybrid method between the experimental characterization of some parameters (i.e., different densities) and the numerical inversion of the acoustic data for other parameters. This is an effective solution that has rarely been adopted in other studies on sustainable materials.

@@ -1,0 +1,9 @@
+Title: Activatable Raman Probes Utilizing Enzyme-Induced Aggregate Formation for Selective Ex Vivo Imaging
+Authors: Hiroyoshi Fujioka, Minoru Kawatani, Spencer John Spratt, Ayumi Komazawa, Yoshihiro Misawa, Jingwen Shou, Takaha Mizuguchi, Hina Kosakamoto, Ryosuke Kojima, Yasuteru Urano, Fumiaki Obata, Yasuyuki Ozeki, Mako Kamiya
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.2c12381
+Paper ID: pmc_PMC10141441
+
+Abstract:
+Detecting multiple enzyme activities simultaneously with high spatial specificity is a promising strategy to investigate complex biological phenomena, and Raman imaging would be an excellent tool for this purpose due to its high multiplexing capabilities. We previously developed activatable Raman probes based on 9CN-pyronins, but specific visualization of cells with target enzyme activities proved difficult due to leakage of the hydrolysis products from the target cells after activation. Here, focusing on rhodol bearing a nitrile group at the position of 9 (9CN-rhodol), we established a novel mechanism for Raman signal activation based on a combination of aggregate formation (to increase local dye concentration) and the resonant Raman effect along with the bathochromic shift of the absorption, and utilized it to develop Raman probes. We selected the 9CN-rhodol derivative 9CN-JCR as offering a suitable combination of increased stimulated Raman scattering (SRS) signal intensity and high aggregate-forming ability, resulting in good retention in target cells after probe activation. By using isotope-edited 9CN-JCR-based probes, we could simultaneously detect β-galactosidase, γ-glutamyl transpeptidase, and dipeptidyl peptidase-4 activities in live cultured cells and distinguish cell regions expressing target enzyme activity in Drosophila wing disc and fat body ex vivo .

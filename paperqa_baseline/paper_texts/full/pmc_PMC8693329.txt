@@ -1,0 +1,9 @@
+Title: Ex-vivo imaging of buccal and oral periodontal bone with low-dose CBCT in porcine jaws
+Authors: Maurice Ruetters, Holger Gehrig, Dorohtea Kronsteiner, Vanessa Weyer, Ti-Sun Kim, Christopher J. Lux, Sinan Sen
+Year: 2022
+Venue: Dentomaxillofacial Radiology
+DOI: 10.1259/dmfr.20210233
+Paper ID: pmc_PMC8693329
+
+Abstract:
+Objectives: New CBCT devices have been developed which can provide “low-dose CBCTs (LD-CBCT)”. Aim of this study is to investigate the suitability of LD-CBCT for measurement of alveolar buccal/oral bone. Methods and materials: Vestibular and oral bone loss of the teeth of seven porcine mandibles free of soft tissues were investigated by Micro-CT and three CBCT-modes: high-dose (HD), standard-dose (SD) and low-dose (LD). Radiographic measurements of bone loss (bl) and vestibular and oral bone thickness (bt) were made by two raters at 69 sites. Measurement means and differences, Intraclass correlation (ICC) and Bland–Altman plots were calculated. Results: ICCs between raters(r) concerning bl were 0.954 for HD, 0.949 for SD and 0.945 for LD; concerning bt they were 0.872 for HD, 0.845 for SD and 0.783 for LD. Means of differences of bt measurements were −0.01 mm(r1)/0.00 mm(r2) for HD, 0.04 mm(r1)/0.02 mm(r2) for SD and 0.02 mm(r1)/0.04 mm(r2) for LD; for bl measurements they were 0.06 mm(r1)/0.05 mm(r2) for HD, −0.01 mm(r1)/0.13 mm(r2) for SD and 0.07 mm(r1)/0.16 mm(r2) for LD. Linear regression indicates no noticeable differences between methods and the raters with respect to bl and bt. Conclusions Relating to the CBCT-device used in this study, LD-CBCT is a promising method to detect and describe buccal and oral periodontal bl and bt. Further studies with human anatomic structures must confirm these results.

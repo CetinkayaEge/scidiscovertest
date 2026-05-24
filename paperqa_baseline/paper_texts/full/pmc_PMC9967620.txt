@@ -1,0 +1,9 @@
+Title: Intraclass Image Augmentation for Defect Detection Using Generative Adversarial Neural Networks
+Authors: Vignesh Sampath, Iñaki Maurtua, Juan José Aguilar Martín, Ander Iriondo, Iker Lluvia, Gotzone Aizpurua
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041861
+Paper ID: pmc_PMC9967620
+
+Abstract:
+Surface defect identification based on computer vision algorithms often leads to inadequate generalization ability due to large intraclass variation. Diversity in lighting conditions, noise components, defect size, shape, and position make the problem challenging. To solve the problem, this paper develops a pixel-level image augmentation method that is based on image-to-image translation with generative adversarial neural networks (GANs) conditioned on fine-grained labels. The GAN model proposed in this work, referred to as Magna-Defect-GAN, is capable of taking control of the image generation process and producing image samples that are highly realistic in terms of variations. Firstly, the surface defect dataset based on the magnetic particle inspection (MPI) method is acquired in a controlled environment. Then, the Magna-Defect-GAN model is trained, and new synthetic image samples with large intraclass variations are generated. These synthetic image samples artificially inflate the training dataset size in terms of intraclass diversity. Finally, the enlarged dataset is used to train a defect identification model. Experimental results demonstrate that the Magna-Defect-GAN model can generate realistic and high-resolution surface defect images up to the resolution of 512 × 512 in a controlled manner. We also show that this augmentation method can boost accuracy and be easily adapted to any other surface defect identification models.

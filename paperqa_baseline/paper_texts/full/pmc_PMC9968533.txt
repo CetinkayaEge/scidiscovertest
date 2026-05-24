@@ -1,0 +1,9 @@
+Title: Competing particle attractee in liquid bridges
+Authors: Robert Parker, Paolo Capobianchi, Marcello Lappa
+Year: 2023
+Venue: Philosophical transactions. Series A, Mathematical, physical, and engineering sciences
+DOI: 10.1098/rsta.2022.0302
+Paper ID: pmc_PMC9968533
+
+Abstract:
+Assuming the so-called particle accumulation structures (PAS) in liquid bridges as archetypal systems for the investigation of particle self-assembly phenomena in laminar time-periodic flows, an attempt is made here to disentangle the complex hierarchy of relationships existing between the multiplicity of the loci of aggregation (streamtubes which coexist in the physical space as competing attractee) and the particle structures effectively showing up. While the former depends on purely topological (fluid-dynamic) arguments, the influential factors driving the outcomes of the fluid–particle interaction seem to obey a much more complex logic, which makes the arrangement of particles different from realization to realization. Through numerical solution of the governing Eulerian and Lagrangian equations for liquid and mass transport, we show that for a fixed aspect ratio of the liquid bridge, particles can be gradually transferred from one streamtube to another as the Stokes number and/or the Marangoni number are varied. Moreover, ranges exist where these attractors compete resulting in overlapping or intertwined particle structures, some of which, characterized by a strong degree of asymmetry, have never been reported before. This article is part of the theme issue 'New trends in pattern formation and nonlinear dynamics of extended systems'.

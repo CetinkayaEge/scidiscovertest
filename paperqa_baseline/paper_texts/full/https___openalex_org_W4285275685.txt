@@ -1,0 +1,9 @@
+Title: Interaction of Digital Twins in a Sustainable Battery Cell Production
+Authors: Alexander D. Kies, Jonathan Krauß, Arno Schmetz, Robert Schmitt, Christian Brecher
+Year: 2022
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2022.05.134
+Paper ID: https://openalex.org/W4285275685
+
+Abstract:
+In this paper, we propose a procedure for identifying suitable fields of action for digital twins, selecting meaningful use-cases to realize the benefits of digital twins, and prototyping their implementation in the context of battery cell production. For this purpose, we present a framework that maps out the various fields of action for realizing the benefits of digital twins in the sustainable factory of the future. In addition, the identification of suitable use-cases in the respective fields of action is described. Using the example of prototypical implementations from battery cell production, it is illustrated how different digital twins interact with each other towards the vision of sustainable production. This focuses on the digital machine, building, and product twin. The aggregation of the twins and their use enables a conservation of resources and an increase in efficiency in the production of the cells and enables the optimization of subsequent value chain steps.

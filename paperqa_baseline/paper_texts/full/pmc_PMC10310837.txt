@@ -1,0 +1,9 @@
+Title: Investigating the possibility of extending the BWR cycle length for 15 years of operation by mixing highly enriched UO 2 fuel with burnable absorbers
+Authors: Sayed Saeed Mustafa
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-37615-x
+Paper ID: pmc_PMC10310837
+
+Abstract:
+This paper investigates the possibility to extend the cycle length of boiling water reactor bundles to 15 years of operation with three different burnable poisons; gadolinium, erbium, and boron carbide. This can be carried out by mixing highly enriched UO 2 fuel (15–19.9% U-235) with high concentrations of Gadolinium oxide (3–14% Gd 2 O 3 ) or Erbium oxide (2–4% Er 2 O 3 ).The boron carbide B 4 C was modeled as (Al 2 O 3 -B 4 C) rods in the bundle guide tubes. MCNPX code 2.7 was used to evaluate infinite multiplication factor (K-inf), power distribution, peaking factor, void reactivity coefficient, fuel cycle length, depletion of U-235, and fissile inventory ratio for the three designs at 40% void. The MCNPX simulation showed that introducing gadolinium rods at the bundle periphery has the advantage of lowering reactivity swing throughout the exposure range. The uniform distribution of erbium in all fuel rods contributed to the flattening of peaking factor at all the burnup stages. For the B 4 C design, the author found that the assembly with B 4 C–Al performs best in terms of reactivity flattening when five of the B 4 C–AL 2 O 3 rods are positioned in the central region of the assembly. Furthermore, the fuel temperature coefficient is more negative for gadolinium design at all burnup stages. On the other hand, the boron model delivers the lowest control rod worth. Finally, the moderator temperature coefficient is more negative for erbium and WABA designs due to the enhanced thermal neutrons capture by the effect of the strategic arrangement of WABA rods and the uniform distribution of erbium.

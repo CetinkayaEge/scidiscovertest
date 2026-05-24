@@ -1,0 +1,9 @@
+Title: Functional Importance of the Hydrophobic Residue 362 in Influenza A PB1 Subunit
+Authors: Johnson Jor-Shing Chan, Yun-Sang Tang, Chun-Yeung Lo, Pang-Chui Shaw
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15020396
+Paper ID: pmc_PMC9967172
+
+Abstract:
+PB1, acting as the catalytic subunit of the influenza polymerase, has numerous sequentially and structurally conserved regions. It has been observed that the slight modification of residues in PB1 would greatly affect the polymerase activity and even host adaptation ability. Here, we identified a critical residue, 362M, on the polymerase activity and virus replication. By means of the minireplicon assay, we assured the importance of the hydrophobicity of PB1 362, and the possibility that the size and charge of the side chain might directly interfere with the polymerase function. We also proposed a hydrophobic core between the PA-arch and the PB1 β-hairpin motifs and showed the importance of the core to the polymerase function.

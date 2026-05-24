@@ -1,0 +1,9 @@
+Title: Sustainable, Efficient, and Scalable Preparation of Pure and Performing Spiro-OMeTAD for Perovskite Solar Cells
+Authors: Sara Mattiello, Giulia Lucarelli, Adiel Calascibetta, Lorenzo Polastri, Erika Ghiglietti, Suresh Kumar Podapangi, Thomas M. Brown, Mauro Sassi, Luca Beverina
+Year: 2022
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c00493
+Paper ID: https://openalex.org/W4220908051
+
+Abstract:
+The technology of organometal halide perovskites is on the verge of the lab to fab transition due to particularly high efficiencies and low cost of the raw materials employed in the active later. The hole transport layer is a key enabling component of such solar cells and at the same time the one requiring more significant synthetic efforts. Alternative materials with improved sustainability are under constant development, yet 2,2′,7,7′-tetrakis(N,N-di(4-methoxyphenyl)amino)-9,9′-spirobifluorene (Spiro-OMeTAD) still represents the standard in the field. We show that the combination of solventless approaches, chemistry on water, and micellar catalysis gives access to such critical material in a fully sustainable, scalable, and efficient way. Performances are validated in devices delivering results equal to those with standard commercial Spiro-OMeTAD but greatly reducing the overall E-factor─a green chemistry metric measuring the waste/purified product ratio of a synthesis, from 5299 to 555, as well as eliminating chlorinated solvents and hazardous chemicals.

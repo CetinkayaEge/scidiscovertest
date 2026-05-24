@@ -1,0 +1,9 @@
+Title: A systematic literature review of machine learning application in COVID-19 medical image classification
+Authors: Daniel, Tjeng Wawan Cenggoro, Bens Pardamean
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.192
+Paper ID: pmc_PMC9829419
+
+Abstract:
+Detecting COVID-19 as early as possible and quickly is one way to stop the spread of COVID-19. Machine learning development can help to diagnose COVID-19 more quickly and accurately. This report aims to find out how far research has progressed and what lessons can be learned for future research in this sector. By filtering titles, abstracts, and content in the Google Scholar database, this literature review was able to find 19 related papers to answer two research questions, i.e. what medical images are commonly used for COVID-19 classification and what are the methods for COVID-19 classification. According to the findings, chest X-ray were the most commonly used data to categorize COVID-19 and transfer learning techniques were the method used in this study. Researchers also concluded that lung segmentation and use of multimodal data could improve performance.

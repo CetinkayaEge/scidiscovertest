@@ -1,0 +1,9 @@
+Title: CORAL Models for Drug-Induced Nephrotoxicity
+Authors: Andrey A. Toropov, Devon A. Barnes, Alla P. Toropova, Alessandra Roncaglioni, Alasdair R. Irvine, Rosalinde Masereeuw, Emilio Benfenati
+Year: 2023
+Venue: Toxics
+DOI: 10.3390/toxics11040293
+Paper ID: pmc_PMC10142465
+
+Abstract:
+Drug-induced nephrotoxicity is a major cause of kidney dysfunction with potentially fatal consequences. The poor prediction of clinical responses based on preclinical research hampers the development of new pharmaceuticals. This emphasises the need for new methods for earlier and more accurate diagnosis to avoid drug-induced kidney injuries. Computational predictions of drug-induced nephrotoxicity are an attractive approach to facilitate such an assessment and such models could serve as robust and reliable replacements for animal testing. To provide the chemical information for computational prediction, we used the convenient and common SMILES format. We examined several versions of so-called optimal SMILES-based descriptors. We obtained the highest statistical values, considering the specificity, sensitivity and accuracy of the prediction, by applying recently suggested atoms pairs proportions vectors and the index of ideality of correlation, which is a special statistical measure of the predictive potential. Implementation of this tool in the drug development process might lead to safer drugs in the future.

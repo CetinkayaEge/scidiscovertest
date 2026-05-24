@@ -1,0 +1,9 @@
+Title: Context-Aware Blockchain-Based Sustainable Supply Chain Visibility Management
+Authors: Funlade Sunmola
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.01.339
+Paper ID: https://openalex.org/W3132029919
+
+Abstract:
+Supply chain visibility allows a state of being able to see end to end in a supply chain. Sustainable supply chain visibility is premised on sharing of mutually benefiting information, to achieve associated sustainability objectives including those related to economic, environmental and social goals. Sustainable supply chains strive for distinctive visibility with its attendant benefits that include improving and strengthening the supply chain for competitive advantage. Advances in technology such as blockchain technology can help facilitate effective management of sustainable supply chain visibility and in delivering associated benefits. The relational characteristics of blockchain and sustainable supply chain visibility has recently been reported in the literature with some emphasis on the capacity, capability and context of sustainable supply chain visibility. This paper explores a notion of context-awareness and blockchain in relation to sustainable supply chain visibility. A landscape for an architecture of a blockchain-based sustainable supply chain visibility management platform centred on context-awareness is suggested. The main thrust of the considerations is provisioning of secure, auditable and mutually benefiting sustainable supply chain information sharing, for distinctive visibility, in heterogeneous context-aware scenarios whilst recognising the underlying characteristics of sustainable supply chain visibility.

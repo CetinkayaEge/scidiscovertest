@@ -1,0 +1,9 @@
+Title: Nests of dividing neuroblasts sustain interneuron production for the developing human brain
+Authors: Mercedes F. Paredes, Cristina Mora, Quetzal Flores-Ramirez, Arantxa Cebrián‐Silla, Ashley Del Dosso, Phillip Larimer, Jiapei Chen, Gugene Kang, Susana González-Granero, Eric Garcia, Julia Chu, Ryan N. Delgado, Jennifer Cotter, Vivian Tang, Julien Spatazza, Kirsten Obernier, Jaime Ferrer-Lozano, Máximo Vento, Julia A. Scott, Colin Studholme, Tomasz J. Nowakowski, Arnold R. Kriegstein, Michael C. Oldham, Andrea R. Hasenstaub, José Manuel García‐Verdugo, Arturo Álvarez-Buylla, Eric J. Huang
+Year: 2022
+Venue: Science
+DOI: https://doi.org/10.1126/science.abk2346
+Paper ID: https://openalex.org/W4210539467
+
+Abstract:
+The human cortex contains inhibitory interneurons derived from the medial ganglionic eminence (MGE), a germinal zone in the embryonic ventral forebrain. How this germinal zone generates sufficient interneurons for the human brain remains unclear. We found that the human MGE (hMGE) contains nests of proliferative neuroblasts with ultrastructural and transcriptomic features that distinguish them from other progenitors in the hMGE. When dissociated hMGE cells are transplanted into the neonatal mouse brain, they reform into nests containing proliferating neuroblasts that generate young neurons that migrate extensively into the mouse forebrain and mature into different subtypes of functional interneurons. Together, these results indicate that the nest organization and sustained proliferation of neuroblasts in the hMGE provide a mechanism for the extended production of interneurons for the human forebrain.

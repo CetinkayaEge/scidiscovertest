@@ -1,0 +1,9 @@
+Title: Application of Magnetic Resonance Strain Analysis Using Feature Tracking in a Myocardial Infarction Model
+Authors: Ryutaro Onishi, Junpei Ueda, Seiko Ide, Masahiro Koseki, Yasushi Sakata, Shigeyoshi Saito
+Year: 2023
+Venue: Tomography
+DOI: 10.3390/tomography9020071
+Paper ID: pmc_PMC10141923
+
+Abstract:
+This study validates the usefulness of myocardial strain analysis with cardiac cine magnetic resonance imaging (MRI) by evaluating the changes in the cardiac function and myocardial strain values longitudinally in a myocardial disease model. Six eight-week-old male Wistar rats were used as a model of myocardial infarction (MI). Cine images were taken in the short axis, two-chamber view longitudinal axis, and four-chamber view longitudinal axis directions in rats 3 and 9 days after MI and in control rats, with preclinical 7-T MRI. The control images and the images on days 3 and 9 were evaluated by measuring the ventricular ejection fraction (EF) and the strain values in the circumferential (CS), radial (RS), and longitudinal directions (LS). The CS decreased significantly 3 days after MI, but there was no difference between the images on days 3 and 9. The two-chamber view LS was −9.7 ± 2.1% at 3 days and −13.9 ± 1.4% at 9 days after MI. The four-chamber view LS was −9.9 ± 1.5% at 3 days and −11.9 ± 1.3% at 9 days after MI. Both the two- and four-chamber LS values were significantly decreased 3 days after MI. Myocardial strain analysis is, therefore, useful for assessing the pathophysiology of MI.

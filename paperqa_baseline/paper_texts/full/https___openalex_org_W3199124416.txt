@@ -1,0 +1,9 @@
+Title: RNA Interference and CRISPR/Cas Gene Editing for Crop Improvement: Paradigm Shift towards Sustainable Agriculture
+Authors: Meenakshi Rajput, Khushboo Choudhary, Manish Kumar, Vivekanand Vivekanand, Aakash Chawade, Rodomiro Ortíz, Nidhi Pareek
+Year: 2021
+Venue: Plants
+DOI: https://doi.org/10.3390/plants10091914
+Paper ID: https://openalex.org/W3199124416
+
+Abstract:
+With the rapid population growth, there is an urgent need for innovative crop improvement approaches to meet the increasing demand for food. Classical crop improvement approaches involve, however, a backbreaking process that cannot equipoise with increasing crop demand. RNA-based approaches i.e., RNAi-mediated gene regulation and the site-specific nuclease-based CRISPR/Cas9 system for gene editing has made advances in the efficient targeted modification in many crops for the higher yield and resistance to diseases and different stresses. In functional genomics, RNA interference (RNAi) is a propitious gene regulatory approach that plays a significant role in crop improvement by permitting the downregulation of gene expression by small molecules of interfering RNA without affecting the expression of other genes. Gene editing technologies viz. the clustered regularly interspaced short palindromic repeat (CRISPR)/CRISPR-associated protein (CRISPR/Cas) have appeared prominently as a powerful tool for precise targeted modification of nearly all crops' genome sequences to generate variation and accelerate breeding efforts. In this regard, the review highlights the diverse roles and applications of RNAi and CRISPR/Cas9 system as powerful technologies to improve agronomically important plants to enhance crop yields and increase tolerance to environmental stress (biotic or abiotic). Ultimately, these technologies can prove to be important in view of global food security and sustainable agriculture.

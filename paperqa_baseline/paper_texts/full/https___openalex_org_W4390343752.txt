@@ -1,0 +1,9 @@
+Title: Unveiling the complexities of sustainable development: An investigation of economic growth, globalization and human development on carbon emissions in 64 countries
+Authors: Nikunj Patel, Pradeep Kautish, Muhammad Shahbaz
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2846
+Paper ID: https://openalex.org/W4390343752
+
+Abstract:
+Abstract To achieve Sustainable Development Goals, countries face the challenge of expanding economic activities while mitigating pollution. Using the panel autoregressive distributed lag and panel non‐linear autoregressive distributed lag approach, this study investigates the effects of globalization, economic development, human development, industrialization, non‐renewable energy, and population density on the carbon emissions (CO 2 ) of 64 countries. This study validates the Environmental Kuznets Curve hypothesis in upper‐ and lower‐middle‐income countries. However, low‐income countries exhibit a U ‐shaped relationship, while high‐income countries have successfully mitigated CO 2 emissions to some extent. The analysis shows bidirectional causality between CO 2 emissions and other variables, except for one‐way causality from globalization to CO 2 emissions. Manufacturing in upper‐ and lower‐middle‐income countries depends on conventional energy sources, indicating the need for policies to promote renewable energy sources. The findings have significant policy implications for enhancing environmental sustainability and achieving sustainable economic growth while mitigating CO 2 emissions to achieve the SDGs.

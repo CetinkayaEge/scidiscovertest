@@ -1,0 +1,9 @@
+Title: Whole-blood Point-of-Care Activated Partial Thromboplastin Time Ratio (APR) is not Accurate Enough to Monitor Heparin Therapy in Patients with Severe Respiratory Failure Secondary to SARS-Cov-2 Infection Supported with Veno-Venous Extracorporeal Membrane Oxygenation (VV-ECMO)
+Authors: Daniel Aston, Martin Besser, Ben Goddard, Nicholas Maggs, Hassan Ahmed, Florian Falter
+Year: 2022
+Venue: Clinical and Applied Thrombosis/Hemostasis
+DOI: 10.1177/10760296221148162
+Paper ID: pmc_PMC9806398
+
+Abstract:
+Support with VV-ECMO requires anticoagulation with unfractionated heparin to prevent thrombotic complications. This must be monitored due to bleeding risk. A point-of-care (POC) method of testing aPTT and APR was evaluated for agreement with laboratory methods. In a prospective observational study, patients supported on VV-ECMO as a result of severe respiratory failure secondary to Covid-19 infection were given heparin as part of standard therapy. The aPTT was measured (i) at the bedside using the Hemochron Signature Elite device and (ii) at the hospital laboratory. Duplicate results were compared. Agreement between the POC and laboratory tests was poor, as assessed using the Bland-Altman method. The maximum difference between POC and laboratory methods was 133% and the minimum was 0%. Overall bias was 7.3% and limits of agreement were between −43.8% and 58.5%. Correlation increased when results were normalised to platelet count and creatinine. This POC test is insufficiently accurate for use as the primary method of heparin monitoring in patients requiring VV-ECMO for Covid-19. Platelets and renal function may influence the result of this whole blood POC test.

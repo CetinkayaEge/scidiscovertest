@@ -1,0 +1,9 @@
+Title: Asthma control among treated US asthma patients in Practice Fusion’s electronic medical record research database
+Authors: Jonathan Davitte, Bailey DeBarmore, David Hinds, Shiyuan Zhang, Jessica Chao, Leah Sansbury
+Year: 2023
+Venue: NPJ Primary Care Respiratory Medicine
+DOI: 10.1038/s41533-023-00338-7
+Paper ID: pmc_PMC10140050
+
+Abstract:
+This study investigated burden of ‘not well-controlled’ asthma, overall and by Global Initiative for Asthma (GINA) Step, among treated asthma patients in Practice Fusion’s research database. Asthma control (Asthma Control Test [ACT]) was stratified by GINA Step; prevalence ratios were estimated using Poisson regression with robust variance controlled for confounders. ACT scores ≤19 reflect not well-controlled; >19 reflect ‘well-controlled’ asthma. Of 15,579 patients, 30% had not well-controlled asthma at index date. The proportion of patients with not well-controlled asthma increased from GINA Step 1 (29%) to Step 5 (45%). Compared with Step 1, the proportion of patients with not well-controlled asthma was 0.87-times lower in Step 2, 1.10-times greater in Step 4, and 1.37-times greater in Step 5. Results suggest that despite available treatments, patients remain symptomatic across GINA Steps in real-world primary care and specialist outpatient practices, with incremental disease burden and unmet medical need in these populations.

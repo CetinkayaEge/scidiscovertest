@@ -1,0 +1,9 @@
+Title: Sustainable Synthesis of Silver Nanoparticles Using Marine Algae for Catalytic Degradation of Methylene Blue
+Authors: Chandra Kishore Somasundaram, Raji Atchudan, Thomas Nesakumar Jebakumar Immanuel Edison, Suguna Perumal, Rajangam Vinodh, Ashok K. Sundramoorthy, R. Suresh Babu, Muthulakshmi Alagan, Yong Rok Lee
+Year: 2021
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal11111377
+Paper ID: https://openalex.org/W3213834847
+
+Abstract:
+Herein, Sargassum coreanum (marine algae)-mediated silver nanoparticles (AgNPs) were successfully synthesized by a simple reduction method. The synthesized AgNPs were characterized using ultraviolet-visible spectroscopy, attenuated total reflection Fourier transformed infrared spectroscopy, X-ray diffractometry, field emission scanning electron microscopy (FESEM) with energy-dispersive X-ray (EDX) spectroscopy, and high-resolution transmission electron microscopy (HR-TEM) analysis. The acquired colloidal AgNPs were strongly absorbed around 420 nm and displayed brown color under visible light. The XRD pattern of AgNPs exposed their face-centered cubic geometry along with crystalline nature. The HRTEM images of synthesized AgNPs confirmed the mean particle size of 19 nm with a distorted spherical shape, and the calculated interlayer distance (d-spacing value) was about 0.24 nm. Further, the catalytic degradation of methylene blue using sodium borohydride and AgNPs was monitored using UV–vis spectroscopy. The result revealed that AgNPs performed as a superior catalyst, which completely degraded MB in 20 min. The rate constant for MB degradation was calculated to be 0.106 min−1, demonstrating that the marine algae-mediated AgNPs had outstanding catalytic activity. This approach is easy and environmentally benign, which can be applied for environmental-based applications such as dye degradation and pollutant detoxification.

@@ -1,0 +1,9 @@
+Title: Comparison of Orbit-Based and Time-Offset-Based Geometric Correction Models for SAR Satellite Imagery Based on Error Simulation
+Authors: Seunghwan Hong, Yoonjo Choi, Ilsuk Park, Hong-Gyoo Sohn
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010170
+Paper ID: pmc_PMC5298743
+
+Abstract:
+Geometric correction of SAR satellite imagery is the process to adjust the model parameters that define the relationship between ground and image coordinates. To achieve sub-pixel geolocation accuracy, the adoption of the appropriate geometric correction model and parameters is important. Until now, various geometric correction models have been developed and applied. However, it is still difficult for general users to adopt a suitable geometric correction models having sufficient precision. In this regard, this paper evaluated the orbit-based and time-offset-based models with an error simulation. To evaluate the geometric correction models, Radarsat-1 images that have large errors in satellite orbit information and TerraSAR-X images that have a reportedly high accuracy in satellite orbit and sensor information were utilized. For Radarsat-1 imagery, the geometric correction model based on the satellite position parameters has a better performance than the model based on time-offset parameters. In the case of the TerraSAR-X imagery, two geometric correction models had similar performance and could ensure sub-pixel geolocation accuracy.

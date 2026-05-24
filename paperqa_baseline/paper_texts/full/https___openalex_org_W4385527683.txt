@@ -1,0 +1,9 @@
+Title: Sustainable mixes for 3D printing of earth-based constructions
+Authors: Flora Faleschini, Daniel Trento, Maryam Masoomi, Carlo Pellegrino, Mariano Angelo Zanini
+Year: 2023
+Venue: Construction and Building Materials
+DOI: https://doi.org/10.1016/j.conbuildmat.2023.132496
+Paper ID: https://openalex.org/W4385527683
+
+Abstract:
+This work shows the results of an experimental campaign aimed at selecting earth-based sustainable mixes for 3D printing. For this scope, 18 mixes were realized, varying the types of components, their amount in the mix and the hydration rate. Specifically, the analyzed components are locally-available soil, hydraulic lime binder, unaltered rice husk, shredded rice husk, marble waste dust, municipal solid waste incinerator bottom ash, silica sand, and natural fibers, including jute, coconut, sisal and goat hair. Each mix was tested in terms of printability via a preliminary test, then compressive and flexural strength were measured at 28 days, and lastly shrinkage was experimentally investigated. Among the analyzed mixes, two of them were further optimized to realize some 3D printed blocks and verify their effective printability in a full-scale construction project. Results demonstrated that it is possible to obtain mixes with relatively good strength and limited shrinkage. According to a multi-criteria efficiency evaluation carried out here, it was possible to evaluate which mix performs best, considering the mechanical performance, the economic price and the carbon footprint of each mix. Particularly, a mixture containing lime as binder and sisal as long fibers allows attaining a compressive strength of 1.26 MPa, embodied carbon of about 0.05239 kgCO2eq/kg with a selling price of 0.137€/kg, being the most efficient one. Instead, the optimized mixture used for real-scale printing achieved 11.04 MPa of compressive and 1.26 MPa of flexural strength.

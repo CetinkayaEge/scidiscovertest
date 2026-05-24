@@ -1,0 +1,9 @@
+Title: Sustainable Development of a Mobile Payment Security Environment Using Fintech Solutions
+Authors: Yoon-Young Hwang, Sangwook Park, Nina Shin
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158375
+Paper ID: https://openalex.org/W3185447980
+
+Abstract:
+Financial technology (fintech) services have come to differentiate themselves from traditional financial services by offering unique, niche, and customized services. Mobile payment service (MPS) has emerged as the most crucial fintech service. While many studies have addressed the essential role of security when service providers and users choose to engage in financial transactions, the relationship between users distinct perceptions of security and MPS success determinants are yet to be examined. Thus, this study primarily aims to uncover the distinctive roles of platform and technology security by investigating how users react differently to their varying understandings of the MPS usage environment. This study proposes a research model comprising two security dimensions (platform and technology) and three MPS success determinants (convenience, interoperability, and trust). We evaluated the proposed model empirically by using an online survey of 356 users. The survey accounts users experiences of the selected MPS. The results show that a security driven MPS can essentially enhance or deteriorate users positive perceptions of MPS success determinants while they use it for financial transactions. To further understand how this recent trend of user perception of security affects the overall MPS usage experience, this study provides theoretical insights into the roles of platform and technology securities. Managerial insights on the design strategies of MPS providers are also provided based on the potential implications of users subjective and objective perceptions of MPS security environment.

@@ -1,0 +1,9 @@
+Title: Analysis of Adverse Events of Cholinesterase Inhibitors and NMDA Receptor Antagonists on Arrhythmias Using the Japanese Adverse Drug Event Report Database
+Authors: Shotaro Kobayashi, Norio Sugama, Hiroyuki Nagano, Ayaka Miyamori, Masahiro Takahashi, Akifumi Kushiyama
+Year: 2023
+Venue: Drugs - Real World Outcomes
+DOI: 10.1007/s40801-023-00362-6
+Paper ID: pmc_PMC10232399
+
+Abstract:
+Background The association between anti-dementia drugs and arrhythmia is uncertain. In addition, the effects of certain drug combinations are not yet well known. Objective We investigated the association between anti-dementia drugs and arrhythmia. Furthermore, we investigated the effects of anti-dementia drugs both alone and in combination on the likelihood of arrhythmia in patients with dementia. Methods We examined the Japanese Adverse Drug Event Report database (JADER) from April 2004 to May 2022 for dementia drug users aged ≥ 60 years. We calculated the unadjusted reported odds ratio (ROR) and adjusted ROR for confounding factors. Furthermore, we examined the association of various combinations of anti-dementia drugs with the development of arrhythmias. Results There were 6718 arrhythmia cases identified out of 333,702 reported cases. The unadjusted ROR results were as follows: donepezil alone (ROR 4.39, 95% confidence interval [CI] 3.89–4.95), rivastigmine alone (2.10, 1.53–2.87), galantamine alone (3.87, 3.04–4.94), memantine alone (2.25, 1.59–3.20), and combination of choline esterase inhibitor and memantine (2.56, 1.84–3.57). In a multivariate analysis, the RORs remained significant. Conclusions Regardless of whether anti-dementia drugs were used alone or in combination, attention should be paid to the occurrence of arrhythmias. Supplementary Information The online version contains supplementary material available at 10.1007/s40801-023-00362-6.

@@ -1,0 +1,9 @@
+Title: Hybrid vigor: Why hybrids with sustainable biofuels are better than pure electric vehicles
+Authors: Marcelo Antunes Gauto, Marcelo Falsarella Carazzolle, Marilene Elizabete Pavan Rodrigues, Ricardo Simões de Abreu, Tomaz Carraro Pereira, Gonçalo Amarante Guimarães Pereira
+Year: 2023
+Venue: Energy Sustainable Development/Energy for sustainable development
+DOI: https://doi.org/10.1016/j.esd.2023.101261
+Paper ID: https://openalex.org/W4382652437
+
+Abstract:
+Life cycle assessment (LCA) was used to evaluate the greenhouse gas emissions (GHG) of traditional internal combustion engine vehicles (ICEV), hybrid vehicles (non-plug-in or plug-in), and battery electric vehicles (BEV), fueled with biofuels or recharged with electricity from Brazilian or European matrix, including recharging losses. The study shows that calculated GHG emissions for hybrid vehicles using biofuels are lower than observed for BEVs even in Brazil, where the carbon intensity of the electricity matrix is low compared to most countries. In addition, we show that the emissions of a non-hybrid traditional internal combustion vehicle using biomethane is lower than a BEV. It was also observed that combining Brazilian biofuels with hybrid vehicles results in a higher traveled distance for each kilogram of GHG emitted compared to a BEV. The carbon footprint reduction for metallic batteries in future scenarios was considered in the sensitivity analysis, which shows that biofuels still remain a better option. We hope these results can be useful for guiding public policies for transport decarbonization, considering hybrid vehicles fueled with biofuels as an economical and more effective alternative than battery electric vehicles to reach the sustainable goal of carbon net zero emissions by 2050.

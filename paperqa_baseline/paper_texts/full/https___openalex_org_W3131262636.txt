@@ -1,0 +1,9 @@
+Title: Neuregulin signaling mediates the acute and sustained antidepressant effects of subanesthetic ketamine
+Authors: Steven F. Grieco, Xin Qiao, Kevin G. Johnston, Lujia Chen, Renetta R. Nelson, Cary Lai, Todd C. Holmes, Xiangmin Xu
+Year: 2021
+Venue: Translational Psychiatry
+DOI: https://doi.org/10.1038/s41398-021-01255-4
+Paper ID: https://openalex.org/W3131262636
+
+Abstract:
+Subanesthetic ketamine evokes rapid antidepressant effects in human patients that persist long past ketamine's chemical half-life of ~2 h. Ketamine's sustained antidepressant action may be due to modulation of cortical plasticity. We find that ketamine ameliorates depression-like behavior in the forced swim test in adult mice, and this depends on parvalbumin-expressing (PV) neuron-directed neuregulin-1 (NRG1)/ErbB4 signaling. Ketamine rapidly downregulates NRG1 expression in PV inhibitory neurons in mouse medial prefrontal cortex (mPFC) following a single low-dose ketamine treatment. This NRG1 downregulation in PV neurons co-tracks with the decreases in synaptic inhibition to mPFC excitatory neurons for up to a week. This results from reduced synaptic excitation to PV neurons, and is blocked by exogenous NRG1 as well as by PV targeted ErbB4 receptor knockout. Thus, we conceptualize that ketamine's effects are mediated through rapid and sustained cortical disinhibition via PV-specific NRG1 signaling. Our findings reveal a novel neural plasticity-based mechanism for ketamine's acute and long-lasting antidepressant effects.

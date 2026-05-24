@@ -1,0 +1,9 @@
+Title: Identification and characterization of two critical sequences in SV40PolyA that activate the green fluorescent protein reporter gene
+Authors: Honggang Wang, Wuzhuang Sun, Zhu Li, Xiufang Wang, Zhanjun Lv
+Year: 2011
+Venue: Genetics and Molecular Biology
+DOI: 10.1590/S1415-47572011005000018
+Paper ID: pmc_PMC3168177
+
+Abstract:
+Alu repeats or Line-1-ORF2 ( ORF2 ) inhibit expression of the green fluorescent protein (GFP) gene when inserted downstream of this gene in the vector pEGFP-C1. In this work, we studied cis-acting elements that eliminated the repression of GFP gene expression induced by Alu and ORF2 and sequence characteristics of these elements. We found that sense and antisense PolyA of simian virus 40 (SV40PolyA, 240 bp) eliminated the repression of GFP gene expression when inserted between the GFP gene and the Alu (283 bp) repeats or ORF2 (3825 bp) in pAlu14 (14 tandem Alu repeats were inserted downstream of the GFP gene in the vector pEGFP-C1) or pORF2. Antisense SV40PolyA (PolyAas) induced stronger gene expression than its sense orientation (PolyA). Of four 60-bp segments of PolyAas (1F1R, 2F2R, 3F3R and 4F4R) inserted independently into pAlu14, only two (2F2R and 3F3R) eliminated the inhibition of GFP gene expression induced by Alu repeats. Deletion analysis revealed that a 17 nucleotide AT repeat (17ntAT; 5′-AAAAAAATGCTTTATTT-3′) in 2F2R and the fragment 3F38d9 (5′-ATAAACAAGTTAACAACA ACAATTGCATT-3′) in 3F3R were critical sequences for activating the GFP gene. Sequence and structural analyses showed that 17ntAT and 3F38d9 included imperfect palindromes and may form a variety of unstable stem-loops. We suggest that the presence of imperfect palindromes and unstable stem-loops in DNA enhancer elements plays an important role in GFP gene activation.

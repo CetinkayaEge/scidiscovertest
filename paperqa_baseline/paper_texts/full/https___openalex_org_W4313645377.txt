@@ -1,0 +1,9 @@
+Title: Sustainable photoinduced decarboxylative chlorination mediated by halogen atom transfer
+Authors: Guillaume Levitre, Albert Granados, Gary A. Molander
+Year: 2023
+Venue: Green Chemistry
+DOI: https://doi.org/10.1039/d2gc04578h
+Paper ID: https://openalex.org/W4313645377
+
+Abstract:
+halogen-atom transfer (XAT) as a key step is presented. The method merges a metal-free photoredox system with (diacetoxyiodo)benzene (PIDA) as a hypervalent iodine reagent using 1,2-dihaloethanes as halogen sources to afford haloalkanes in an efficient manner. The sustainability of this protocol is highlighted by an important waste recovery protocol as well as by atom economy and carbon efficiency parameters.

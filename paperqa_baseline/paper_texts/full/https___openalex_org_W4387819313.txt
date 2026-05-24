@@ -1,0 +1,9 @@
+Title: Sustainable Powder-Based Additive Manufacturing Technology
+Authors: Hossein Eskandari Sabzi, Pedro E.J. Rivera-Díaz-del-Castillo
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su152015081
+Paper ID: https://openalex.org/W4387819313
+
+Abstract:
+A thorough exploration of sustainability in powder-based additive manufacturing (AM) is presented. This review focuses particularly on the design of sustainable alloys for AM. Environmental, economic, and social aspects of sustainability are covered. The importance of life cycle assessment (LCA) in evaluating environmental impact is discussed. LCA tools are used to analyse factors such as energy consumption, waste management, and air pollution, providing a comprehensive view of AM’s environmental footprint. Additionally, the economic dimension of sustainability is addressed through life cycle costing analysis. Production costs, energy use, and waste management are scrutinised, showcasing AM’s potential cost savings. Social life cycle assessment is introduced to assess societal impacts, focusing on worker welfare, community engagement, and overall societal well-being. A forward-looking concept of predicting sustainability before printing, using a product sustainability index, is presented. The approach emphasises environmentally responsible material selection, considering factors such as global warming potential in alloy design. This study offers a holistic approach to designing sustainable alloys and optimising AM processes through a sustainable materials science paradigm to establish the relationship amongst processing, microstructure, properties, sustainability, and performance.

@@ -1,0 +1,9 @@
+Title: Sustainable aim and personal gain? How sustainable value affects the relation between personal value and crowdfunding success
+Authors: Sven Siebeneicher, Carolin Bock
+Year: 2022
+Venue: Technological Forecasting and Social Change
+DOI: https://doi.org/10.1016/j.techfore.2022.121938
+Paper ID: https://openalex.org/W4293211626
+
+Abstract:
+We extend the entrepreneurship literature by investigating how the relation between sustainable values and personal value affects crowdfunding success. Therefore, according to the triple bottom line, we disaggregate sustainable values into ecologic, economic, and social value. Relying on the blended value proposition and signaling theory, we identify the value proposed in campaign teasers and descriptions by deriving and employing reliable word lists for text analysis. Our findings suggest that sustainable and personal values positively affect crowdfunding success. The marginal effect of sustainable on personal values increases for teasers but decreases for descriptions. We consider a sample of 45,608 Kickstarter campaigns.

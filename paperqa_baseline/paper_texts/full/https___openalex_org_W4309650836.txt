@@ -1,0 +1,9 @@
+Title: A sustainable synthesis of the SARS-CoV-2 Mpro inhibitor nirmatrelvir, the active ingredient in Paxlovid
+Authors: Joseph R. A. Kincaid, Juan C. Caravez, Karthik S. Iyer, Rahul D. Kavthe, Nico Fleck, Donald H. Aue, Bruce H. Lipshutz
+Year: 2022
+Venue: Communications Chemistry
+DOI: https://doi.org/10.1038/s42004-022-00758-5
+Paper ID: https://openalex.org/W4309650836
+
+Abstract:
+Pfizer's drug for the treatment of patients infected with COVID-19, Paxlovid, contains most notably nirmatrelvir, along with ritonavir. Worldwide demand is projected to be in the hundreds of metric tons per year, to be produced by several generic drug manufacturers. Here we show a 7-step, 3-pot synthesis of the antiviral nirmatrelvir, arriving at the targeted drug in 70% overall yield. Critical amide bond-forming steps utilize new green technology that completely avoids traditional peptide coupling reagents, as well as epimerization of stereocenters. Likewise, dehydration of a primary amide to the corresponding nitrile is performed and avoids use of the Burgess reagent and chlorinated solvents. DFT calculations for various conformers of nirmatrelvir predict that two rotamers about the tertiary amide would be present with an unusually high rotational barrier. Direct comparisons with the original literature procedures highlight both the anticipated decrease in cost and environmental footprint associated with this route, potentially expanding the availability of this important drug worldwide.

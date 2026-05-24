@@ -1,0 +1,9 @@
+Title: Down-regulation of nuclear HMGB1 reduces ischemia-induced HMGB1 translocation and release and protects against liver ischemia-reperfusion injury
+Authors: Guangyuan Zhao, Cheng Fu, Lu Wang, Lan Zhu, Yutao Yan, Ying Xiang, Fang Zheng, Feili Gong, Song Chen, Gang Chen
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46272
+Paper ID: pmc_PMC5382773
+
+Abstract:
+Hepatocyte-specific HMGB1 deletion has been found to worsen the injury and inflammation in liver ischemia-reperfusion injury (IRI), highlighting a role for intracellular HMGB1 in cellular protection. Down-regulation of nuclear HMGB1 by small interfering RNA (siRNA) might not only decrease its injurious extracellular role by reducing its release but also serve to maintain its beneficial intracellular role, thus protecting against IRI. We established a non-lethal liver IRI model in mice via segmental hepatic warm ischemia for 1 h and reperfusion for 6 h. HMGB1-siRNA achieved a reduction of ~60–70% in the nuclear HMGB1 expression in the liver at 48 h post-treatment. Knockdown of nuclear HMGB1 expression dramatically reduced both the degree of nuclear-cytoplasmic translocation of HMGB1 during hepatic ischemia and of HMGB1 release after hepatic reperfusion, resulting in significant preservation of liver function and a marked reduction in pathological damage. Also, HMGB1-siRNA pretreatment markedly inhibited the increases in hepatic expression of TLR4, TLR2, RAGE, TNF-α, IL-1β, IL-6, MCP-1, iNOS, and COX-2 seen in control mice after hepatic reperfusion. We demonstrated for the first time that down-regulation of nuclear HMGB1 reduces ischemia-induced HMGB1 release and protects against liver IRI, which is helpful for better understanding the role of HMGB1 in organ IRI.

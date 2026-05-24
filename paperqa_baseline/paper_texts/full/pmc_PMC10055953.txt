@@ -1,0 +1,9 @@
+Title: OpenVNT: An Open Platform for VIS-NIR Technology
+Authors: Roman-David Kulko, Alexander Pletl, Heike Mempel, Florian Wahl, Benedikt Elser
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063151
+Paper ID: pmc_PMC10055953
+
+Abstract:
+Spectrometers measure diffuse reflectance and create a “molecular fingerprint” of the material under investigation. Ruggedized, small scale devices for “in-field” use cases exist. Such devices might for example be used by companies in the food supply chain for inward inspection of goods. However, their application for the industrial Internet of Things workflows or scientific research is limited due to their proprietary nature. We propose an open platform for visible and near-infrared technology (OpenVNT), an open platform for capturing, transmitting, and analysing spectral measurements. It is built for use in the field, as it is battery-powered and transmits data wireless. To achieve high accuracy, the OpenVNT instrument contains two spectrometers covering a wavelength range of 400–1700 nm. We conducted a study on white grapes to compare the performance of the OpenVNT instrument against the Felix Instruments F750, an established commercial instrument. Using a refractometer as ground truth, we built and validated models to estimate the Brix value. As a quality measure, we used coefficient of determination of the cross-validation ( R 2 C V ) between the instrument estimation and ground truth. With 0.94 for the OpenVNT and 0.97 for the F750, a comparable R 2 C V was achieved for both instruments. OpenVNT matches the performance of commercially available instruments at one tenth of the price. We provide an open bill of materials, building instructions, firmware, and analysis software to enable research and industrial IOT solutions without the limitations of walled garden platforms.

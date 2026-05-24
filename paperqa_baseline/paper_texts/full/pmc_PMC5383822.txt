@@ -1,0 +1,9 @@
+Title: Dynamics of host populations affected by the emerging fungal pathogen Batrachochytrium salamandrivorans
+Authors: Benedikt R. Schmidt, Claudio Bozzuto, Stefan Lötters, Sebastian Steinfartz
+Year: 2017
+Venue: Royal Society Open Science
+DOI: 10.1098/rsos.160801
+Paper ID: pmc_PMC5383822
+
+Abstract:
+Emerging infectious diseases cause extirpation of wildlife populations. We use an epidemiological model to explore the effects of a recently emerged disease caused by the salamander-killing chytrid fungus Batrachochytrium salamandrivorans ( Bsal ) on host populations, and to evaluate which mitigation measures are most likely to succeed. As individuals do not recover from Bsal , we used a model with the states susceptible, latent and infectious, and parametrized the model using data on host and pathogen taken from the literature and expert opinion. The model suggested that disease outbreaks can occur at very low host densities (one female per hectare). This density is far lower than host densities in the wild. Therefore, all naturally occurring populations are at risk. Bsal can lead to the local extirpation of the host population within a few months. Disease outbreaks are likely to fade out quickly. A spatial variant of the model showed that the pathogen could potentially spread rapidly. As disease mitigation during outbreaks is unlikely to be successful, control efforts should focus on preventing disease emergence and transmission between populations. Thus, this emerging wildlife disease is best controlled through prevention rather than subsequent actions.

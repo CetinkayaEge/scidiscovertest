@@ -1,0 +1,9 @@
+Title: Effect of Organic Ions on The Formation and Collapse of Nanometric Bubbles in Ionic Liquid/Water Solutions: A Molecular Dynamics Study
+Authors: Raffaela Cabriolu, Bruno G. Pollet, Pietro Ballone
+Year: 2023
+Venue: The Journal of Physical Chemistry. B
+DOI: 10.1021/acs.jpcb.2c07950
+Paper ID: pmc_PMC9969518
+
+Abstract:
+Molecular dynamics simulation is applied to investigate the effect of two ionic liquids (IL) on the nucleation and growth of (nano)cavities in water under tension and on the cavities’ collapse following the release of tension. Simulations of the same phenomena in two pure water samples of different sizes are carried out for comparison. The first IL, i.e., tetra-ethylammonium mesylate ([Tea][Ms]), is relatively hydrophilic and its addition to water at 25 wt % concentration decreases its tendency to nucleate cavities. Apart from quantitative details, cavity formation and collapse are similar to those taking place in water and qualitatively follow the Rayleigh–Plesset (RP) equation. The second IL, i.e., tetrabutyl phosphonium 2,4-dimethylbenzenesulfonate ([P 4444 ][DMBS]), is amphiphilic and forms nanostructured solutions with water. At 25 wt % concentrations, [P 4444 ][DMBS] favors the nucleation of bubbles that tend to form at the interface between water-rich and IL-rich domains. Cavity collapse in [P 4444 ][DMBS]/water solutions are greatly hindered by a shell of ions decorating the interface between the solution and the vapor phase. A similar effect is observed for the equilibration of a population of bubbles of different sizes. The drastic slowing down of the bubbles’ relaxation processes suggests ways to produce long-lived nanometric cavities in the liquid phase that could be useful for nanotechnology and drug delivery.

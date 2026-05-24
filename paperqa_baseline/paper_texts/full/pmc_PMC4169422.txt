@@ -1,0 +1,9 @@
+Title: Sortase A Induces Th17-Mediated and Antibody-Independent Immunity to Heterologous Serotypes of Group A Streptococci
+Authors: Xin Fan, Xiaoshuang Wang, Ning Li, Honglian Cui, Baidong Hou, Bin Gao, Paul Patrick Cleary, Beinan Wang
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107638
+Paper ID: pmc_PMC4169422
+
+Abstract:
+Group A streptococci (GAS) are associated with a variety of mucosal and invasive human infections. Recurrent infections by highly heterologous serotypes indicate that cross-serotype immunity is critical for prevention of GAS infections; however, mechanisms underlying serotype-independent protection are poorly understood. Here we report that intranasal vaccination of mice with Sortase A (SrtA), a conserved cell wall bound protein, reduced colonization of nasal-associated lymphoid tissue (NALT) by heterologous serotypes of GAS. Vaccination significantly increased CD4 + IL-17A + cells in NALT and depletion of IL-17A by neutralizing antibody prevented GAS clearance from NALT which was dependent on immunization with SrtA. Vaccination also induced high levels of SrtA-specific antibodies; however, immunized, B cell-deficient mice cleared streptococcal challenges as efficiently as wild type mice, indicating that the cross-serotype protection is Th17-biased and antibody-independent. Furthermore, efficient GAS clearance from NALT was associated with a rapid neutrophil influx into NALT of immunized mice. These results suggest that serotype independent immune protection against GAS mucosal infection can be achieved by intranasal vaccination with SrtA and enhanced neutrophil function is critical for anti-GAS defense and might be a target for prevention of GAS infections.

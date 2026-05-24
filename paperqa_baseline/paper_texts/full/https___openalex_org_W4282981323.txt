@@ -1,0 +1,9 @@
+Title: Industry 4.0 enabling sustainable supply chain development in the renewable energy sector: A multi-criteria intelligent approach
+Authors: Ernesto Mastrocinque, F. Javier Ramírez, Andrés Honrubia‐Escribano, Duc Truong Pham
+Year: 2022
+Venue: Technological Forecasting and Social Change
+DOI: https://doi.org/10.1016/j.techfore.2022.121813
+Paper ID: https://openalex.org/W4282981323
+
+Abstract:
+The aim of this paper is to provide a multi-criteria decision-making intelligent approach based on Industry 4.0 and Triple Bottom Line principles for sustainable supply chain development in the renewable energy sector. In particular, the solar photovoltaic energy supply chain is used as a case study, encompassing the entire energy production process, from supply to disposal. An exhaustive literature review is conducted to identify the main criteria affecting social, economic and environmental sustainability in the photovoltaic energy supply chain, and to explore the potential impact of Industry 4.0 on sustainability. Subsequently, three Fuzzy Inference Systems combining quantitative and qualitative data are built to calculate the supply chain's social, economic and environmental sustainability. Experts' opinions are used to identify the impact of Industry 4.0 technologies on the three pillars of sustainability for each supply chain stage. Finally, a novel sustainability index, Sustainability Index 4.0, is formulated to compute the overall sustainability of the photovoltaic energy supply chain in seven countries. The results show the applicability and usefulness of the proposed holistic model in helping policy makers, stakeholders and users to make informed decisions for the development of sustainable renewable energy supply chains, taking into account the impact of Industry 4.0 and digital technologies.

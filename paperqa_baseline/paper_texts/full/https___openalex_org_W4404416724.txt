@@ -1,0 +1,9 @@
+Title: Investigation of the Effect of Al2O3 Nanoparticle-Added MQL Lubricant on Sustainable and Clean Manufacturing
+Authors: Fuat Kara
+Year: 2024
+Venue: Lubricants
+DOI: https://doi.org/10.3390/lubricants12110393
+Paper ID: https://openalex.org/W4404416724
+
+Abstract:
+In this study, in order to improve the characteristics of the vegetable-based cutting fluids used in the MQL technique and increase the machining performance of MQL and its positive effects on sustainable manufacturing, the effects of the MQL method with nano-Al2O3 additives on surface roughness (Ra) and cutting temperature (Ctt) were examined through turning experiments carried out by adding nano-Al2O3 to the vegetable-based cutting fluid. For this purpose, machining tests were carried out on hot work tool steel alloyed with Cr-Ni-Mo that has a delivery hardness of 45 HRC. In hard machining experiments, three techniques for cooling and lubricating (dry cutting, MQL, and nano-MQL), three cutting speeds (V) (100, 130, 160 m/min), three feed rates (f) (0.10, 0.125, and 0.15 mm/rev), and two different ceramic cutting tools (uncoated and TiN-coated with PVD methods) were used as control factors. For Ra, the nano-MQL method provided an average of 21.49% improvement compared to other cooling methods. For Ctt, this rate increased to 26.7%. In crater wear areas, the nano-MQL method again exhibited the lowest wear values, decreasing performance by approximately 50%. The results of this research showed that the tests conducted using the cooling of nano-MQL approach produced the best results for all output metrics (Ra, Ctt, and crater wear).

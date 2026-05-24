@@ -1,0 +1,9 @@
+Title: Virological Markers in Epstein–Barr Virus-Associated Diseases
+Authors: Julien Lupo, Aurélie Truffot, Julien Andreani, Mohammed Habib, Olivier Epaulard, Patrice Morand, Raphaële Germi
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030656
+Paper ID: pmc_PMC10051789
+
+Abstract:
+Epstein–Barr virus (EBV) is an oncogenic virus infecting more than 95% of the world’s population. After primary infection—responsible for infectious mononucleosis in young adults—the virus persists lifelong in the infected host, especially in memory B cells. Viral persistence is usually without clinical consequences, although it can lead to EBV-associated cancers such as lymphoma or carcinoma. Recent reports also suggest a link between EBV infection and multiple sclerosis. In the absence of vaccines, research efforts have focused on virological markers applicable in clinical practice for the management of patients with EBV-associated diseases. Nasopharyngeal carcinoma is an EBV-associated malignancy for which serological and molecular markers are widely used in clinical practice. Measuring blood EBV DNA load is additionally, useful for preventing lymphoproliferative disorders in transplant patients, with this marker also being explored in various other EBV-associated lymphomas. New technologies based on next-generation sequencing offer the opportunity to explore other biomarkers such as the EBV DNA methylome, strain diversity, or viral miRNA. Here, we review the clinical utility of different virological markers in EBV-associated diseases. Indeed, evaluating existing or new markers in EBV-associated malignancies or immune-mediated inflammatory diseases triggered by EBV infection continues to be a challenge.

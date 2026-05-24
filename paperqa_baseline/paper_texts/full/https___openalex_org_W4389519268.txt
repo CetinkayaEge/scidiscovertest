@@ -1,0 +1,9 @@
+Title: CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools
+Authors: Jingwei Ni, Julia Bingler, Chiara Colesanti-Senni, Mathias Kraus, Glen Gostlow, Tobias Schimanski, Dominik Stammbach, Saeid Ashraf Vaghefi, Qian Wang, Nicolas Webersinke, Tobias Wekhof, Tingyu Yu, Markus Leippold
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.18653/v1/2023.emnlp-demo.3
+Paper ID: https://openalex.org/W4389519268
+
+Abstract:
+Jingwei Ni, Julia Bingler, Chiara Colesanti-Senni, Mathias Kraus, Glen Gostlow, Tobias Schimanski, Dominik Stammbach, Saeid Ashraf Vaghefi, Qian Wang, Nicolas Webersinke, Tobias Wekhof, Tingyu Yu, Markus Leippold. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations. 2023.

@@ -1,0 +1,9 @@
+Title: TBK1 posphorylation activates LIR-dependent degradation of the inflammation repressor TNIP1
+Authors: Jianwen Zhou, Nikoline Lander Rasmussen, Hallvard Lauritz Olsvik, Vyacheslav Akimov, Zehan Hu, Gry Evjen, Stéphanie Kaeser-Pebernard, Devanarayanan Siva Sankar, Carole Roubaty, Pauline Verlhac, Nicole van de Beek, Fulvio Reggiori, Yakubu Princely Abudu, Blagoy Blagoev, Trond Lamark, Terje Johansen, Jörn Dengjel
+Year: 2023
+Venue: The Journal of Cell Biology
+DOI: 10.1083/jcb.202108144
+Paper ID: pmc_PMC9797988
+
+Abstract:
+Autophagy is well known for its anti-inflammatory effects. In this article, Zhou, Rasmussen et al. highlight that selective, autophagy-dependent degradation of the inflammation repressor TNIP1 supports pro-inflammatory gene and protein expression. Similarly as in cancer, autophagy appears to play a dual role in controlling inflammation. Limitation of excessive inflammation due to selective degradation of pro-inflammatory proteins is one of the cytoprotective functions attributed to autophagy. In the current study, we highlight that selective autophagy also plays a vital role in promoting the establishment of a robust inflammatory response. Under inflammatory conditions, here TLR3-activation by poly(I:C) treatment, the inflammation repressor TNIP1 (TNFAIP3 interacting protein 1) is phosphorylated by Tank-binding kinase 1 (TBK1) activating an LIR motif that leads to the selective autophagy-dependent degradation of TNIP1, supporting the expression of pro-inflammatory genes and proteins. This selective autophagy efficiently reduces TNIP1 protein levels early (0–4 h) upon poly(I:C) treatment to allow efficient initiation of the inflammatory response. At 6 h, TNIP1 levels are restored due to increased transcription avoiding sustained inflammation. Thus, similarly as in cancer, autophagy may play a dual role in controlling inflammation depending on the exact state and timing of the inflammatory response.

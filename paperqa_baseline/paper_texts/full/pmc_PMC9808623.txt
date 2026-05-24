@@ -1,0 +1,9 @@
+Title: Fast and accurate mapping of long reads to complete genome assemblies with VerityMap
+Authors: Andrey V. Bzikadze, Alla Mikheenko, Pavel A. Pevzner
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276871.122
+Paper ID: pmc_PMC9808623
+
+Abstract:
+Recent advancements in long-read sequencing have enabled the telomere-to-telomere (complete) assembly of a human genome and are now contributing to the haplotype-resolved complete assemblies of multiple human genomes. Because the accuracy of read mapping tools deteriorates in highly repetitive regions, there is a need to develop accurate, error - exposing (detecting potential assembly errors), and diploid - awar e (distinguishing different haplotypes) tools for read mapping in complete assemblies. We describe the first accurate, error-exposing, and partially diploid-aware VerityMap tool for long-read mapping to complete assemblies.

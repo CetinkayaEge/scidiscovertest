@@ -1,0 +1,9 @@
+Title: Optimization and enviro-economic assessment of hybrid sustainable energy systems: The case study of a photovoltaic/biogas/diesel/battery system in Xuzhou, China
+Authors: Chong Li, Lin Zhang, Fei Qiu, Rui Fu
+Year: 2022
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2022.100852
+Paper ID: https://openalex.org/W4225165232
+
+Abstract:
+The current study intends to optimally design and carry out the economic and environmental assessment of a hybrid photovoltaic/biogas/diesel/battery (PV/BG/DG/battery) sustainable system to meet the electricity load of a village in Xuzhou, east China. HOMER (Hybrid Optimization of Multiple Energy Resources) software was used to perform the analyses and the results indicated that the PV/BG/battery hybrid system comprising 400 kWp PV modules, a 100 KW biogas generators (BGs), 400 batteries, and a 200 kW sized converter was the most cost-effective one. Besides, the optimal system operated in the load following (LF) strategy and had a total net present cost (NPC) and a cost of energy (COE) of $1,808,992 and 0.24 $/kWh, respectively. Compared to diesel generator (DG), the proposed system would save 1,297,174 kg of carbon dioxide (CO2) per year. The PV/battery hybrid system is the most environmentally friendly one with a complete absence of emissions of pollutants, whereas the DG-only is the most polluted system with the most emissions of pollutants. Additionally, the sensitivity analysis results showed that a reduction in the costs of BGs and batteries could effectively reduce the cost of the hybrid PV/BG/battery system. The integration of PV and BGs into hybrid sustainable energy systems may be a good choice for villages in developing countries if economic and environmental considerations are taken into account.

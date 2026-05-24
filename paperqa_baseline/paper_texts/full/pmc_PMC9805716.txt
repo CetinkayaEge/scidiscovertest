@@ -1,0 +1,9 @@
+Title: Biosynthetic Gas Vesicles Combined with Focused Ultrasound for Blood–Brain Barrier Opening
+Authors: Jinghan Zhang, Fei Yan, Wei Zhang, Lei He, Yi Li, Shuai Zheng, Yuanyuan Wang, Tengfei Yu, Lijuan Du, Yuanyuan Shen, Wen He
+Year: 2022
+Venue: International Journal of Nanomedicine
+DOI: 10.2147/IJN.S374039
+Paper ID: pmc_PMC9805716
+
+Abstract:
+Background Focused ultrasound (FUS) combined with microbubbles (MBs) has emerged as a potential approach for opening the blood–brain barrier (BBB) for delivering drugs into the brain. However, MBs range in size of microns and thus can hardly extravasate into the brain parenchyma. Recently, growing attention has been paid to gas vesicles (GVs), which are genetically encoded gas-filled nanostructures with protein shells, due to their potential for extravascular targeting in ultrasound imaging and therapy. However, the use of GVs as agents for BBB opening has not yet been investigated. Methods In this study, GVs were extracted and purified from Halobacterium NRC-1 . Ultrasound imaging performance of GVs was assessed in vitro and in vivo. Then, FUS/GVs-mediated BBB opening for small molecular Evans blue or large molecular liposome delivery across the BBB was examined. Results The results showed a good contrast performance of GVs for brain perfusion ultrasound imaging in vivo. At the acoustic negative pressure of 1.5 MPa, FUS/GVs opened the BBB safely, and effectively enhanced Evans blue and 200-nm liposome delivery into the brain parenchyma. Conclusion Our study suggests that biosynthetic GVs hold great potential to serve as local BBB-opening agents in the development of new targeted drug delivery strategies for central nervous system disorders.

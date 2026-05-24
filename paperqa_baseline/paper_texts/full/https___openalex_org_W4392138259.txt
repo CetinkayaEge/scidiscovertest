@@ -1,0 +1,9 @@
+Title: European agricultural sector: The tortuous path across efficiency, sustainability and environmental risk
+Authors: Anna Mergoni, Anna Rita Dipierro, Chiara Colamartino
+Year: 2024
+Venue: Socio-Economic Planning Sciences
+DOI: https://doi.org/10.1016/j.seps.2024.101848
+Paper ID: https://openalex.org/W4392138259
+
+Abstract:
+This research aims at investigating the relationship between efficiency, sustainability, and environmental risk in the European agricultural sector. On the one hand, we assess whether efficiency and sustainability are complementary or competing targets; on the other, we explore to what extent environmental risk exposure can represent a motivation or a threat to promoting sustainability in the sector. To do so, we construct three composite indicators, based on frontier techniques. In particular, we implement classical Data Envelopment Analysis (DEA) to estimate agricultural efficiency, a DEA model for undesirable output for the sustainable efficiency, and a Benefit of the Doubt model to assess environmental risk. The analysis highlights three main results: first, that efficiency and sustainability are not competing aims, at least for the analysed territories; second, countries that are exposed to environmental risk are less agricultural efficient; third, more sustainable countries are likely to be the most exposed to environmental risk, indicating that direct exposure to environmental risks might be a strong motivation engine to encourage sustainability. The study adds to previous literature debate by providing evidence about the agricultural sector’s vulnerability and of the difficulties of combining efficiency, sustainability, and environmental goals.

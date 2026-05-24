@@ -1,0 +1,9 @@
+Title: Infrared and visible image fusion algorithm based on spatial domain and image features
+Authors: Liangjun Zhao, Yun Zhang, Linlu Dong, Fengling Zheng
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0278055
+Paper ID: pmc_PMC9803111
+
+Abstract:
+Multi-scale image decomposition is crucial for image fusion, extracting prominent feature textures from infrared and visible light images to obtain clear fused images with more textures. This paper proposes a fusion method of infrared and visible light images based on spatial domain and image features to obtain high-resolution and texture-rich images. First, an efficient hierarchical image clustering algorithm based on superpixel fast pixel clustering directly performs multi-scale decomposition of each source image in the spatial domain and obtains high-frequency, medium-frequency, and low-frequency layers to extract the maximum and minimum values of each source image combined images. Then, using the attribute parameters of each layer as fusion weights, high-definition fusion images are through adaptive feature fusion. Besides, the proposed algorithm performs multi-scale decomposition of the image in the spatial frequency domain to solve the information loss problem caused by the conversion process between the spatial frequency and frequency domains in the traditional extraction of image features in the frequency domain. Eight image quality indicators are compared with other fusion algorithms. Experimental results show that this method outperforms other comparative methods in both subjective and objective measures. Furthermore, the algorithm has high definition and rich textures.

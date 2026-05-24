@@ -1,0 +1,9 @@
+Title: Bioinspired artificial spider silk photocatalyst for the high-efficiency capture and inactivation of bacteria aerosols
+Authors: Linghui Peng, Haiyu Wang, Guiying Li, Zhishu Liang, Weiping Zhang, Weina Zhao, Taicheng An
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38194-1
+Paper ID: pmc_PMC10134728
+
+Abstract:
+Bioaerosol can cause the spread of disease, and therefore, capture and inactivation of bioaerosols is desirable. However, filtration systems can easily become blocked, and are often unable to inactivate the bioaerosol once it is captured. Herein, we reported a bioinspired artificial spider silk (ASS) photocatalyst, consisting of a periodic spindle structure of TiO 2 on nylon fiber that can efficiently capture and concentrate airborne bacteria, followed by photocatalytic inactivation in situ, without a power-supply exhaust system. The ASS photocatalyst exhibits a higher capture capacity than the nylon fiber substrate and a photocatalytic inactivation efficiency of 99.99% obtained under 4 h irradiation. We found that the capture capacity of the ASS photocatalyst can be mainly attributed to the synergistic effects of hydrophilicity, Laplace pressure differences caused by the size of the spindle knots and surface energy gradients induced by surface roughness. The bacteria captured by the ASS photocatalyst are inactivated by photocatalysis within droplets or at the air/photocatalyst interfaces. This strategy paves the way for constructing materials for bioaerosol purification. Bioaerosol can cause the spread of disease, but current removal systems are easily blocked and often cannot deactivate the bioaerosol. Here, the authors report a method for bioaerosol removal and deactivation using a bioinspired photocatalyst capable of capturing airborne bacteria.

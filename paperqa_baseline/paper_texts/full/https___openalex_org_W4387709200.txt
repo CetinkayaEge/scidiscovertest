@@ -1,0 +1,9 @@
+Title: Blockchain for sustainability: A systematic literature review for policy impact
+Authors: Catherine Mulligan, Suzanne G. Morsfield, Evîn Cheikosman
+Year: 2023
+Venue: Telecommunications Policy
+DOI: https://doi.org/10.1016/j.telpol.2023.102676
+Paper ID: https://openalex.org/W4387709200
+
+Abstract:
+Blockchain technology has been proposed to achieve sustainable development through various solutions, such as carbon credit trading, energy systems and supply chain management. While existing literature has not covered this topic in a structured fashion, this paper provides insights to policymakers on how blockchain can deliver sustainable development. This study conducted a systematic literature review on the role of blockchain technologies in assisting policymakers in achieving ESG and environmental sustainability goals. The paper performs a detailed PRISMA SLR analysis of 10,188 technical and policy papers sourced from Scopus and IEEE databases to ensure high-quality inputs and breadth of coverage across relevant sources. In addition, the study reviews the relevant regulatory environment related to ESG, including SDGs, IPCC, COP 27, ESMA, ISSB, SEC, GRI, TCFD, ESRS, IFRS S1 and S2 and CRSD. Most papers do not outline a structured approach to applying blockchain in the emerging regulatory environment. Our paper outlines recommendations to policymakers wishing to ensure that the blockchain research community and solutions proposed are usefully directed to enable the world to achieve its net zero goals.

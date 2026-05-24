@@ -1,0 +1,9 @@
+Title: Dicer promotes tumorigenesis by translocating to nucleus to promote SFRP1 promoter methylation in cholangiocarcinoma cells
+Authors: Wenlong Cheng, Yongqiang Qi, Li Tian, Bing Wang, Wenhua Huang, Yongjun Chen
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.57
+Paper ID: pmc_PMC5386496
+
+Abstract:
+Dicer, a member of the RNase III family of endoribonucleases, has an important role in regulating methylation of CpG islands in mammal cancer cells. However, the underlying mechanism of action remains unclear. In this study, we demonstrated that upregulation of Dicer in cholangiocarcinoma (CCA) cells and its translocation to nuclues to interact with heterochromatin protein 1 α (HP1 α ). The nuclear Dicer/HP1 α complex appeared to promote both H3K9 trimethylation and DNA methylation of the secreted frizzled-related protein 1 (SFRP1) promoter. The expression of Dicer negatively correlated with that of SFRP1 and it appeared to promote CCA cell proliferation and invasion through repression of SFRP1 gene. High expression of Dicer in tumor tissues was significantly associated with larger tumor size (>3 cm) and lymph node metastasis. Our findings help characterize the role of Dicer in epigenetic regulation and tumorigenesis in the context of CCA.

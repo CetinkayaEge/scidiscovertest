@@ -1,0 +1,9 @@
+Title: Green blockchain – A move towards sustainability
+Authors: Yehia Ibrahim Alzoubi, Alok Mishra
+Year: 2023
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2023.139541
+Paper ID: https://openalex.org/W4388540865
+
+Abstract:
+In recent years, blockchain technology has seen significant growth and widespread adoption in various industries. However, one major drawback of blockchain investments is their substantial energy consumption, which has negative impacts on both the economy and the environment. The main cause of concern is the generation of atmospheric carbon emissions resulting from excessive energy usage. This research study aims to identify blockchain networks and systems that assert themselves as environmentally friendly and determine which of them produces the least amount of carbon emissions, such as Cardano, Tezos, and Bitgreen. This has been accomplished by following a comprehensive hybrid literature review. Our study has identified 23 blockchain networks that consume significantly less power and release fewer carbon dioxide emissions compared to the Bitcoin network. Some of these environmentally friendly networks include Algorand, Fantom, MobileCoin, and Electroneum. Additionally, we have found various projects and organizations that support greener blockchain initiatives, such as the Renewable Energy Certificate Mechanism, Green Digital Finance Alliance, GreenTrust, and the Energy Web Foundation. While several projects in this area have been recognized and examined, comprehensive research and analysis are still needed to provide empirical evidence regarding the power consumption and carbon dioxide emissions of these claimed environmentally friendly blockchains. This is due to the relatively early stage of development in this field.

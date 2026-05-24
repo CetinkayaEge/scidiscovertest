@@ -1,0 +1,9 @@
+Title: Flow Chemistry: A Sustainable Voyage Through the Chemical Universe en Route to Smart Manufacturing
+Authors: Amanda A. Volk, Zachary S. Campbell, Malek Y. S. Ibrahim, Jeffrey A. Bennett, Milad Abolhasani
+Year: 2022
+Venue: Annual Review of Chemical and Biomolecular Engineering
+DOI: https://doi.org/10.1146/annurev-chembioeng-092120-024449
+Paper ID: https://openalex.org/W4221046998
+
+Abstract:
+Microfluidic devices and systems have entered many areas of chemical engineering, and the rate of their adoption is only increasing. As we approach and adapt to the critical global challenges we face in the near future, it is important to consider the capabilities of flow chemistry and its applications in next-generation technologies for sustainability, energy production, and tailor-made specialty chemicals. We present the introduction of microfluidics into the fundamental unit operations of chemical engineering. We discuss the traits and advantages of microfluidic approaches to different reactive systems, both well-established and emerging, with a focus on the integration of modular microfluidic devices into high-efficiency experimental platforms for accelerated process optimization and intensified continuous manufacturing. Finally, we discuss the current state and new horizons in self-driven experimentation in flow chemistry for both intelligent exploration through the chemical universe and distributed manufacturing.

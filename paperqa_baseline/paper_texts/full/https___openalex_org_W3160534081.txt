@@ -1,0 +1,9 @@
+Title: Emerging Technology for a Green, Sustainable Energy-Promising Materials for Hydrogen Storage, from Nanotubes to Graphene—A Review
+Authors: Krzysztof Jastrzębski, P. Kula
+Year: 2021
+Venue: Materials
+DOI: https://doi.org/10.3390/ma14102499
+Paper ID: https://openalex.org/W3160534081
+
+Abstract:
+The energetic and climate crises should pose a challenge for scientists in finding solutions in the field of renewable, green energy sources. Throughout more than two decades, the search for new opportunities in the energy industry made it possible to observe the potential use of hydrogen as an energy source. One of the greatest challenges faced by scientists for the sake of its use as an energy source is designing safe, usable, reliable, and effective forms of hydrogen storage. Moreover, the manner in which hydrogen is to be stored is closely dependent on the potential use of this source of green energy. In stationary use, the aim is to achieve high volumetric density of the container. However, from the point of view of mobile applications, an extremely important aspect is the storage of hydrogen, using lightweight tanks of relatively high density. That is why, a focus of scientists has been put on the use of carbon-based materials and graphene as a perspective solution in the field of H2 storage. This review focuses on the comparison of different methods for hydrogen storage, mainly based on the carbon-based materials and focuses on efficiently using graphene and its different forms to serve a purpose in the future H2-based economy.

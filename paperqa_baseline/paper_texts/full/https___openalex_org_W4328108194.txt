@@ -1,0 +1,9 @@
+Title: A review of renewable hydrogen generation and proton exchange membrane fuel cell technology for sustainable energy development
+Authors: Rajesh G. Bodkhe, R.L. Shrivastava, Vinod Kumar Soni, Rajkumar Chadge
+Year: 2023
+Venue: International Journal of Electrochemical Science
+DOI: https://doi.org/10.1016/j.ijoes.2023.100108
+Paper ID: https://openalex.org/W4328108194
+
+Abstract:
+Beyond its typical usage as an economical fuel for creating ammonia, methanol, and petroleum refineries, hydrogen has become a modern form of energy. Energy-scarce advanced countries like Japan and Korea are concerned about energy privacy and environmental responsibility. Many wealthy countries have been fervently building hydrogen networks and renewable energy sources to fulfil their main goals or the growing requirement for energy. In this study, we concentrate on proton-exchange membrane fuel cells (PEMFCs), generally viewed as financially viable for vehicle industries, especially for automobiles demanding less hydrogen infrastructure facilities, like fleets of cabs, buses, and logistical automobiles. This overview includes all of the significant PEMFC components, focusing on the reaction, gas diffusion, and polymer. Without question, the equipment necessary for a consistent supply of ultra-pure hydrogen is essential for the effectiveness of PEMFC in extensive requests.

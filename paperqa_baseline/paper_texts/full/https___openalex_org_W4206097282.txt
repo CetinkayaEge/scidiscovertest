@@ -1,0 +1,9 @@
+Title: Are Sustainable Aviation Fuels a Viable Option for Decarbonizing Air Transport in Europe? An Environmental and Economic Sustainability Assessment
+Authors: Alexander Barke, Timo Bley, Christian Thies, Christian Weckenborg, Thomas Spengler
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app12020597
+Paper ID: https://openalex.org/W4206097282
+
+Abstract:
+The use of drop-in capable alternative fuels in aircraft can support the European aviation sector to achieve its goals for sustainable development. They can be a transitional solution in the short and medium term, as their use does not require any structural changes to the aircraft powertrain. However, the production of alternative fuels is often energy-intensive, and some feedstocks are associated with harmful effects on the environment. In addition, alternative fuels are often more expensive to produce than fossil kerosene, which can make their use unattractive. Therefore, this paper analyzes the environmental and economic impacts of four types of alternative fuels compared to fossil kerosene in a well-to-wake perspective. The fuels investigated are sustainable aviation fuels produced by power-to-liquid and biomass-to-liquid pathways. Life cycle assessment and life cycle costing are used as environmental and economic assessment methods. The results of this well-to-wake analysis reveal that the use of sustainable aviation fuels can reduce the environmental impacts of aircraft operations. However, an electricity mix based on renewable energies is needed to achieve significant reductions. In addition, from an economic perspective, the use of fossil kerosene ranks best among the alternatives. A scenario analysis confirms this result and shows that the production of sustainable aviation fuels using an electricity mix based solely on renewable energy can lead to significant reductions in environmental impact, but economic competitiveness remains problematic.

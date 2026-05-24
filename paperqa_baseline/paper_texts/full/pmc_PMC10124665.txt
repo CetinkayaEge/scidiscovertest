@@ -1,0 +1,9 @@
+Title: Case–Control Study of Long COVID, Sapporo, Japan
+Authors: Toshiaki Asakura, Takashi Kimura, Isaku Kurotori, Katabami Kenichi, Miyuki Hori, Mariko Hosogawa, Masayuki Saijo, Kaori Nakanishi, Hiroyasu Iso, Akiko Tamakoshi
+Year: 2023
+Venue: Emerging Infectious Diseases
+DOI: 10.3201/eid2905.221349
+Paper ID: pmc_PMC10124665
+
+Abstract:
+We conducted a cross-sectional survey among SARS-CoV-2–positive persons and negative controls in Sapporo, Japan, to clarify symptoms of long COVID. We collected responses from 8,018 participants, 3,694 case-patients and 3,672 controls. We calculated symptom prevalence for case-patients at 2–3, 4–6, 7–9, 10–12, and 13–18 months after illness onset. We used logistic regression, adjusted for age and sex, to estimate the odds ratio (OR) for each symptom and control reference. We calculated symptom prevalence by stratifying for disease severity, age, and sex. At 4–18 months from illness onset, ORs for anosmia, ageusia, dyspnea, alopecia, and brain fog were consistently >1, whereas ORs for common cold–like, gastrointestinal, and dermatologic symptoms were <1. Time trend ORs increased for diminished ability to concentrate, brain fog, sleep disturbance, eye symptoms, and tinnitus. Clinicians should focus on systemic, respiratory, and neuropsychiatric symptoms among long COVID patients.

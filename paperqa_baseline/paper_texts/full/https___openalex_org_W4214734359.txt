@@ -1,0 +1,9 @@
+Title: Accelerating vehicle fleet turnover to achieve sustainable mobility goals
+Authors: Sergey Naumov, David R. Keith, John D. Sterman
+Year: 2022
+Venue: Journal of Operations Management
+DOI: https://doi.org/10.1002/joom.1173
+Paper ID: https://openalex.org/W4214734359
+
+Abstract:
+Abstract Achieving societal climate goals requires rapid reductions in greenhouse gas (GHG) emissions from transportation. Recent efforts by policymakers have focused on increasing consumer adoption of electric vehicles (EVs). Nevertheless, EV sales remain low. Worse, even if EV market share jumped dramatically, it would take decades to replace the existing vehicle fleet, during which time vehicle GHG emissions would continue, worsening climate change. Consequently, some argue for policies to accelerate the retirement of inefficient fossil‐powered vehicles through “cash‐for‐clunkers” (C4C) programs. We examine C4C policies through a behavioral model of vehicle fleet turnover and EV market development in the United States. We find C4C policies can substantially reduce vehicle fleet emissions at reasonable cost per tonne of CO 2 . To meet emissions reductions goals, C4C policies should apply only when consumers replace their fossil‐powered vehicles with EVs. C4C policies incentivizing EVs accelerate cost reductions through scale economies, charging infrastructure deployment, model variety, and consumer awareness, boosting EV adoption beyond the direct effect of vehicle replacement. The result is a substantial synergy amplifying the impact of C4C and lowering unit cost of emissions reductions. C4C is further amplified when deployed together with complementary policies promoting renewable electricity production and a gas tax or carbon price.

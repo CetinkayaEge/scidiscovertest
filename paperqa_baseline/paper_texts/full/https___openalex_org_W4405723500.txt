@@ -1,0 +1,9 @@
+Title: AI-Powered Digital Twins and Internet of Things for Smart Cities and Sustainable Building Environment
+Authors: Aljawharah A. Alnaser, Mina Maxi, Haytham H. Elmousalami
+Year: 2024
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app142412056
+Paper ID: https://openalex.org/W4405723500
+
+Abstract:
+This systematic literature review explores the intersection of AI-driven digital twins and IoT in creating a sustainable building environment. A comprehensive analysis of 125 papers focuses on four major themes. First, digital twins are examined in construction, facility management, and their role in fostering sustainability and smart cities. The integration of IoT and AI with digital twins and energy optimization for zero-energy buildings is discussed. Second, the application of AI and automation in manufacturing, particularly in Industry 4.0 and cyber-physical systems, is evaluated. Third, emerging technologies in urban development, including blockchain, cybersecurity, and EEG-driven systems for sustainable buildings, are highlighted. The study underscores the role of data-driven approaches in flood resilience and urban digital ecosystems. This review contributes to sustainability by identifying how digital technologies and AI can optimize energy use and enhance resilience in both urban and industrial contexts.

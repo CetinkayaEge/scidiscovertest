@@ -1,0 +1,9 @@
+Title: Adaptive Metaheuristic-Based Methods for Autonomous Robot Path Planning: Sustainable Agricultural Applications
+Authors: Farzad Kiani, Amir Seyyedabbasi, Sajjad Nematzadeh, Fuat Candan, Taner Çevik, Fateme Ayşin Anka, Giovanni Randazzo, Stefania Lanza, Anselme Muzirafuti
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app12030943
+Paper ID: https://openalex.org/W4205389794
+
+Abstract:
+The increasing need for food in recent years means that environmental protection and sustainable agriculture are necessary. For this, smart agricultural systems and autonomous robots have become widespread. One of the most significant and persistent problems related to robots is 3D path planning, which is an NP-hard problem, for mobile robots. In this paper, efficient methods are proposed by two metaheuristic algorithms (Incremental Gray Wolf Optimization (I-GWO) and Expanded Gray Wolf Optimization (Ex-GWO)). The proposed methods try to find collision-free optimal paths between two points for robots without human intervention in an acceptable time with the lowest process costs and efficient use of resources in large-scale and crowded farmlands. Thanks to the methods proposed in this study, various tasks such as tracking crops can be performed efficiently by autonomous robots. The simulations are carried out using three methods, and the obtained results are compared with each other and analyzed. The relevant results show that in the proposed methods, the mobile robots avoid the obstacles successfully and obtain the optimal path cost from source to destination. According to the simulation results, the proposed method based on the Ex-GWO algorithm has a better success rate of 55.56% in optimal path cost.

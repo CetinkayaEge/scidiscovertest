@@ -1,0 +1,9 @@
+Title: Designs and practices using generative AI for sustainable student discourse and knowledge creation
+Authors: Alwyn Vwen Yen Lee, Seng Chee Tan, Chew Lee Teo
+Year: 2023
+Venue: Smart Learning Environments
+DOI: https://doi.org/10.1186/s40561-023-00279-1
+Paper ID: https://openalex.org/W4388461519
+
+Abstract:
+Abstract Utilizing generative artificial intelligence, especially the more popularly used Generative Pre-trained Transformer (GPT) architecture, has made it possible to employ AI in ways that were previously not possible with conventional assessment and evaluation technologies for learning. As educational use cases and academic studies become increasingly prevalent, it is critical for education stakeholders to discuss design considerations and ideals that are key in supporting and augmenting learning via quality classroom discourse that sets the climate for student learning and thinking, and teachers’ transmission of expectations. In this paper, we seek to address how emergent technological advancements such as GPT, can be considered and utilized in designs that are consistent with the ideals of sustainable student discourse and knowledge creation. We showcase contemporary exemplars of possible designs and practices that are based on the pedagogy of knowledge building, with recent illustrations of how GPT may be utilized to sustain students’ knowledge building discourse. We also examine the potential effects and repercussions of technological utilization and misuse, along with insights into GPT’s role in supporting and enhancing knowledge building practices. We anticipate that the findings, through our exploration of designs and practices for knowledge creation, will be able to resonate with a broader audience and instigate meaningful change on issues of teaching and learning within smart learning environments.

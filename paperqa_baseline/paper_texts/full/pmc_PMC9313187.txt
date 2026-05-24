@@ -1,0 +1,9 @@
+Title: SiCoDEA: A Simple, Fast and Complete App for Analyzing the Effect of Individual Drugs and Their Combinations
+Authors: Giulio Spinozzi, Valentina Tini, Alessio Ferrari, Ilaria Gionfriddo, Roberta Ranieri, Francesca Milano, Sara Pierangeli, Serena Donnini, Federica Mezzasoma, Serenella Silvestri, Brunangelo Falini, Maria Paola Martelli
+Year: 2022
+Venue: Biomolecules
+DOI: 10.3390/biom12070904
+Paper ID: pmc_PMC9313187
+
+Abstract:
+The administration of combinations of drugs is a method widely used in the treatment of different pathologies as it can lead to an increase in the therapeutic effect and a reduction in the dose compared to the administration of single drugs. For these reasons, it is of interest to study combinations of drugs and to determine whether a specific combination has a synergistic, antagonistic or additive effect. Various mathematical models have been developed, which use different methods to evaluate the synergy of a combination of drugs. We have developed an open access and easy to use app that allows different models to be explored and the most fitting to be chosen for the specific experimental data: SiCoDEA (Single and Combined Drug Effect Analysis). Despite the existence of other tools for drug combination analysis, SiCoDEA remains the most complete and flexible since it offers options such as outlier removal or the ability to choose between different models for analysis. SiCoDEA is an easy to use tool for analyzing drug combination data and to have a view of the various steps and offer different results based on the model chosen.

@@ -1,0 +1,9 @@
+Title: Framework for Sustainable Wireless Sensor Network Based Environmental Monitoring
+Authors: Ridha Ouni, Kashif Saleem
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14148356
+Paper ID: https://openalex.org/W4284879499
+
+Abstract:
+Wireless sensor networks (WSN) are the base of the Internet of Things (IoT) that all together give rise to the smart city. These WSNs consist of several sensors, which are densely distributed to observe physical or environmental conditions, like humidity, temperature, light intensity, and gas concertation. The sensors reading data are transmitted to the network coordinator, the IP-gateway, which is at the heart of the wireless network. Many monitoring systems are to be found in the literature with generic designs and with the output of algorithms that runs on the given systems. In this paper, we review the related work on monitoring systems and propose the framework based on WSN to sense the readings from the environment to transmit and store in the cloud for calling on the handheld devices when required by the single or multiple users. A real sensor nodes-based experimental testbed is implemented in order to study the scalability, adaptability, and sustainability of the novel WSN-based environmental monitoring framework.

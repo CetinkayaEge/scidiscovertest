@@ -1,0 +1,9 @@
+Title: The Contribution of Data-Driven Technologies in Achieving the Sustainable Development Goals
+Authors: Nadine Bachmann, Shailesh Tripathi, Brunner Manuel, Herbert Jodlbauer
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052497
+Paper ID: https://openalex.org/W4213437886
+
+Abstract:
+The United Nations’ Sustainable Development Goals (SDGs) set out to improve the quality of life of people in developed, emerging, and developing countries by covering social and economic aspects, with a focus on environmental sustainability. At the same time, data-driven technologies influence our lives in all areas and have caused fundamental economical and societal changes. This study presents a comprehensive literature review on how data-driven approaches have enabled or inhibited the successful achievement of the 17 SDGs to date. Our findings show that data-driven analytics and tools contribute to achieving the 17 SDGs, e.g., by making information more reliable, supporting better-informed decision-making, implementing data-based policies, prioritizing actions, and optimizing the allocation of resources. Based on a qualitative content analysis, results were aggregated into a conceptual framework, including the following categories: (1) uses of data-driven methods (e.g., monitoring, measurement, mapping or modeling, forecasting, risk assessment, and planning purposes), (2) resulting positive effects, (3) arising challenges, and (4) recommendations for action to overcome these challenges. Despite positive effects and versatile applications, problems such as data gaps, data biases, high energy consumption of computational resources, ethical concerns, privacy, ownership, and security issues stand in the way of achieving the 17 SDGs.

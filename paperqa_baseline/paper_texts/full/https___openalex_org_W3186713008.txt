@@ -1,0 +1,9 @@
+Title: A network approach to rank countries chasing sustainable development
+Authors: Carla Sciarra, G. Chiarotti, Luca Ridolfi, Francesco Laio
+Year: 2021
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-021-94858-2
+Paper ID: https://openalex.org/W3186713008
+
+Abstract:
+In 2015, the United Nations established the Agenda 2030 for sustainable development, addressing the major challenges the world faces and introducing the 17 Sustainable Development Goals (SDGs). How are countries performing in their challenge toward sustainable development? We address this question by treating countries and Goals as a complex bipartite network. While network science has been used to unveil the interconnections among the Goals, it has been poorly exploited to rank countries for their achievements. In this work, we show that the network representation of the countries-SDGs relations as a bipartite system allows one to recover aggregate scores of countries' capacity to cope with SDGs as the solutions of a network's centrality exercise. While the Goals are all equally important by definition, interesting differences self-emerge when non-standard centrality metrics, borrowed from economic complexity, are adopted. Innovation and Climate Action stand as contrasting Goals to be accomplished, with countries facing the well-known trade-offs between economic and environmental issues even in addressing the Agenda. In conclusion, the complexity of countries' paths toward sustainable development cannot be fully understood by resorting to a single, multipurpose ranking indicator, while multi-variable analyses shed new light on the present and future of sustainable development.

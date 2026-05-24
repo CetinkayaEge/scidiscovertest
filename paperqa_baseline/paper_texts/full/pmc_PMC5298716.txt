@@ -1,0 +1,9 @@
+Title: A Non-Intrusive Cyber Physical Social Sensing Solution to People Behavior Tracking: Mechanism, Prototype, and Field Experiments
+Authors: Yunjian Jia, Zhenyu Zhou, Fei Chen, Peng Duan, Zhen Guo, Shahid Mumtaz
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010143
+Paper ID: pmc_PMC5298716
+
+Abstract:
+Tracking people’s behaviors is a main category of cyber physical social sensing (CPSS)-related people-centric applications. Most tracking methods utilize camera networks or sensors built into mobile devices such as global positioning system (GPS) and Bluetooth. In this article, we propose a non-intrusive wireless fidelity (Wi-Fi)-based tracking method. To show the feasibility, we target tracking people’s access behaviors in Wi-Fi networks, which has drawn a lot of interest from the academy and industry recently. Existing methods used for acquiring access traces either provide very limited visibility into media access control (MAC)-level transmission dynamics or sometimes are inflexible and costly. In this article, we present a passive CPSS system operating in a non-intrusive, flexible, and simplified manner to overcome above limitations. We have implemented the prototype on the off-the-shelf personal computer, and performed real-world deployment experiments. The experimental results show that the method is feasible, and people’s access behaviors can be correctly tracked within a one-second delay.

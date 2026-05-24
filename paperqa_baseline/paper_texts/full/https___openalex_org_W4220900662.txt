@@ -1,0 +1,9 @@
+Title: Suitable Cathode NMP Replacement for Efficient Sustainable Printed Li-Ion Batteries
+Authors: Rafal Sliz, Juho Välikangas, Hellen S. Santos, Pauliina Vilmi, Lassi Rieppo, Tao Hu, Ulla Lassi, Tapio Fabritius
+Year: 2022
+Venue: ACS Applied Energy Materials
+DOI: https://doi.org/10.1021/acsaem.1c02923
+Paper ID: https://openalex.org/W4220900662
+
+Abstract:
+) chemistry in two configurations: NMC523 and NMC88. The first, well-established NCM523, was used as a reference, while NMC88 was used to demonstrate the potential of the proposed method with high-capacity materials. The cathodes were used to create coin and pouch cell batteries that were cycled 1000 times. The achieved results indicate that DMF can successfully replace NMP in the NMC cathode fabrication process without compromising battery performance. Specifically, both the NMP blade-coated and DMF screen-printed batteries retained 87 and 90% of their capacity after 1000 (1C/1C) cycles for NMC523 and NMC88, respectively. The modeling results of the drying process indicate that utilizing a low-boiling-point solvent (DMF) instead of NMP can reduce the drying energy consumption fourfold, resulting in a more environmentally friendly battery production process.

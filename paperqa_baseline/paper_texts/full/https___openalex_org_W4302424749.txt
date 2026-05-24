@@ -1,0 +1,9 @@
+Title: p300/CBP sustains Polycomb silencing by non-enzymatic functions
+Authors: George Hunt, Ann Boija, Mattias Mannervik
+Year: 2022
+Venue: Molecular Cell
+DOI: https://doi.org/10.1016/j.molcel.2022.09.005
+Paper ID: https://openalex.org/W4302424749
+
+Abstract:
+Maintenance of appropriate cell states involves epigenetic mechanisms, including Polycomb-group (PcG)-mediated transcriptional repression. While PcG proteins are known to induce chromatin compaction, how PcG proteins gain access to DNA in compact chromatin to achieve long-term silencing is poorly understood. Here, we show that the p300/CREB-binding protein (CBP) co-activator is associated with two-thirds of PcG regions and required for PcG occupancy at many of these in Drosophila and mouse cells. CBP stabilizes RNA polymerase II (Pol II) at PcG-bound repressive sites and promotes Pol II pausing independently of its histone acetyltransferase activity. CBP and Pol II pausing are necessary for RNA-DNA hybrid (R-loop) formation and nucleosome depletion at Polycomb Response Elements (PREs), whereas transcription beyond the pause region is not. These results suggest that non-enzymatic activities of the CBP co-activator have been repurposed to support PcG-mediated silencing, revealing how chromatin regulator interplay maintains transcriptional states.

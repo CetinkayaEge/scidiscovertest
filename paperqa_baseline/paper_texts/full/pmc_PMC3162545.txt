@@ -1,0 +1,9 @@
+Title: Lysosome-associated membrane glycoprotein 3 is involved in influenza A virus replication in human lung epithelial (A549) cells
+Authors: Zhuo Zhou, Qinghua Xue, Yuli Wan, Yaowu Yang, Jianwei Wang, Tao Hung
+Year: 2011
+Venue: Virology Journal
+DOI: 10.1186/1743-422X-8-384
+Paper ID: pmc_PMC3162545
+
+Abstract:
+Background Influenza A virus mutates rapidly, rendering antiviral therapies and vaccines directed against virus-encoded targets ineffective. Knowledge of the host factors and molecular pathways exploited by influenza virus will provide further targets for novel antiviral strategies. However, the critical host factors involved in influenza virus infection have not been fully defined. Results We demonstrated that LAMP3, a member of lysosome-associated membrane glycoprotein (LAMP) family, was significantly induced in human lung epithelial (A549) cells upon influenza A virus infection. Knockdown of LAMP3 expression by RNA interference attenuated production of viral nucleoprotein (NP) as well as virus titers. Confocal microscopy results demonstrated that viral NP is colocalized within LAMP3 positive vesicles at early stages of virus infection. Furthermore, knockdown of LAMP3 expression led to a reduction in nuclear accumulation of viral NP and impeded virus replication. Conclusions LAMP3 is an influenza A virus inducible gene, and plays an important role in viral post-entry steps. Our observations may provide insights into the mechanism of influenza virus replication and potential targets for novel anti-influenza therapeutics.

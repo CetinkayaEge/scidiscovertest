@@ -1,0 +1,9 @@
+Title: Discovery of Pyrimidine- and Coumarin-Linked Hybrid Molecules as Inducers of JNK Phosphorylation through ROS Generation in Breast Cancer Cells
+Authors: Na Young Kim, Divakar Vishwanath, Zhang Xi, Omantheswara Nagaraja, Ananda Swamynayaka, Keshav Kumar Harish, Shreeja Basappa, Mahendra Madegowda, Vijay Pandey, Gautam Sethi, Peter E. Lobie, Kwang Seok Ahn, Basappa Basappa
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083450
+Paper ID: pmc_PMC10142175
+
+Abstract:
+Human epidermal growth factor receptor 2 (HER2)-positive breast cancer exhibits early relapses, poor prognoses, and high recurrence rates. Herein, a JNK-targeting compound has been developed that may be of utility in HER2-positive mammary carcinoma. The design of a pyrimidine-and coumarin-linked structure targeting JNK was explored and the lead structure PC-12 [4-(3-((2-((4-chlorobenzyl)thio) pyrimidin-4-yl)oxy)propoxy)-6-fluoro-2 H -chromen-2-one ( 5d )] was observed to selectively inhibit the proliferation of HER2-positive BC cells. The compound PC-12 exerted DNA damage and induced apoptosis in HER-2 positive BC cells more significantly compared to HER-2 negative BC cells. PC-12 induced PARP cleavage and down-regulated the expression of IAP-1, BCL-2, SURVIVIN, and CYCLIN D1 in BC cells. In silico and theoretical calculations showed that PC-12 could interact with JNK, and in vitro studies demonstrated that it enhanced JNK phosphorylation through ROS generation. Overall, these findings will assist the discovery of new compounds targeting JNK for use in HER2-positive BC cells.

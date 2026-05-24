@@ -1,0 +1,9 @@
+Title: Industry 4.0 and cleaner production: A comprehensive review of sustainable and intelligent manufacturing for energy-intensive manufacturing industries
+Authors: Shuaiyin Ma, Wei Ding, Yang Liu, Yingfeng Zhang, Shan Ren, Xianguang Kong, Jiewu Leng
+Year: 2024
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2024.142879
+Paper ID: https://openalex.org/W4399588519
+
+Abstract:
+Under the promotion of sustainable development goals, cleaner production (CP) has become an important strategy for energy-intensive manufacturing industries to maintain their competitiveness. Studies have shown that the implementation of Industry 4.0 (I4.0) can effectively promote the CP process in manufacturing. However, existing studies often focus on specific scenarios, limiting a comprehensive assessment of the industry's overall status. This paper aims to provide a comprehensive overview of the main research areas of I4.0 and its key impacts on CP by employing systematic mapping studies. By reviewing 121 studies retrieved from the Web of Science, a hierarchical analysis framework centred on the product life cycle (PLC) has been introduced. This framework provides a holistic analysis of sustainable intelligent manufacturing, summarizing the application of I4.0 and its impact on CP across the PLC stages. The main findings reveal a growing focus on I4.0 and CP, with the manufacturing and maintenance stages of the PLC being primary research scenarios. Attention should be directed towards integrating clean technologies, bolstering industrial data security, fostering circular economy practices, and exploring emerging fields like Industry 5.0. Moreover, the deep application of I4.0 technologies will help drive the further development of CP, but requires the concerted efforts of enterprise managers, researchers, and governments. These viewpoints and conclusions are of great significance for guiding future research and practical applications.

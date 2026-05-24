@@ -1,0 +1,9 @@
+Title: A Model of Socially Sustained Self-Tracking for Food and Diet
+Authors: Xi Lu, Yunan Chen, Daniel A. Epstein
+Year: 2021
+Venue: Proceedings of the ACM on Human-Computer Interaction
+DOI: https://doi.org/10.1145/3479595
+Paper ID: https://openalex.org/W3207902512
+
+Abstract:
+Studies of personal informatics systems primarily examine people's use or non-use, but people often leverage other technology towards their long-term behavior change processes such as social platforms. We explore how tracking technologies and social platforms together help people build healthy eating behaviors by interviewing 18 people who use Chinese food journaling apps. We contribute a Model of Socially Sustained Self-Tracking in personal informatics, building on the past model of Personal Informatics and the learning components of Social Cognitive Theory. The model illustrates how people get advice from social platforms on when and how to track, transfer data to and apply knowledge from social platforms, evolve to use social platforms after tracking, and occasionally resume using tracking tools. Observational learning and enactive learning are central to these processes, with social technologies helping people to gain deeper and more reliable domain knowledge. We discuss how lapsing and abandoning of tracking can be viewed as evolving to social platforms, offering recommendations for how technology can better facilitate this evolution.

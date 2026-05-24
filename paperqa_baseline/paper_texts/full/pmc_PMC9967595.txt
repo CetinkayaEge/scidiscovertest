@@ -1,0 +1,9 @@
+Title: Artificial Intelligence Software for Diabetic Eye Screening: Diagnostic Performance and Impact of Stratification
+Authors: Freya Peeters, Stef Rommes, Bart Elen, Nele Gerrits, Ingeborg Stalmans, Julie Jacob, Patrick De Boever
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041408
+Paper ID: pmc_PMC9967595
+
+Abstract:
+Aim: To evaluate the MONA.health artificial intelligence screening software for detecting referable diabetic retinopathy (DR) and diabetic macular edema (DME), including subgroup analysis. Methods: The algorithm’s threshold value was fixed at the 90% sensitivity operating point on the receiver operating curve to perform the disease classification. Diagnostic performance was appraised on a private test set and publicly available datasets. Stratification analysis was executed on the private test set considering age, ethnicity, sex, insulin dependency, year of examination, camera type, image quality, and dilatation status. Results: The software displayed an area under the curve (AUC) of 97.28% for DR and 98.08% for DME on the private test set. The specificity and sensitivity for combined DR and DME predictions were 94.24 and 90.91%, respectively. The AUC ranged from 96.91 to 97.99% on the publicly available datasets for DR. AUC values were above 95% in all subgroups, with lower predictive values found for individuals above the age of 65 (82.51% sensitivity) and Caucasians (84.03% sensitivity). Conclusion: We report good overall performance of the MONA.health screening software for DR and DME. The software performance remains stable with no significant deterioration of the deep learning models in any studied strata.

@@ -1,0 +1,9 @@
+Title: Sustainable E-scooter parking operation in urban areas using fuzzy Dombi based RAFSI model
+Authors: Muhammet Deveci, Ilgın Gökaşar, Dragan Pamučar, Yan Chen, D’Maris Coffman
+Year: 2023
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2023.104426
+Paper ID: https://openalex.org/W4318305360
+
+Abstract:
+Over the last five years, e-scooters have gradually become commonplace in most urban areas. However, shortcomings in infrastructure provision, especially with parking, make it awkward to use these vehicles. This study presents a novel hybrid fuzzy multi-criteria decision-making model for determining optimal e-scooter parking locations by combining the Logarithmic Methodology of Additive Weights (LMAW) and the RAFSI (Ranking of Alternatives through Functional mapping of criterion sub-intervals into a Single Interval) methods. In the first stage, the fuzzy Aczel-Alsina function based LMAW approach is used to address the uncertainty of experts’ opinions in the decision process and to calculate the weights of the twelve criteria. Afterward, fuzzy Dombi based RAFSI is applied to obtain the ranking of e-scooter parking locations. A case study is presented to propose a solution for the operation of e-scooter parking by taking into consideration three different alternatives based on four different aspects and twelve criteria. According to the findings, the third option, which is a hybrid operation with geo-fencing hubs in primary catchment areas of public transportation, is the most practical choice for a sustainable operation of e-scooter parking. This option also has the potential to be the most environmentally friendly.

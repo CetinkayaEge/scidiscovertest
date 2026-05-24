@@ -1,0 +1,9 @@
+Title: Cost-efficient, automated, and sustainable composite profile manufacture: A review of the state of the art, innovations, and future of pultrusion technologies
+Authors: Maximilian Volk, Onur Yuksel, İsmet Baran, Jesper Henri Hattel, Jon Spangenberg, Michael Sandberg
+Year: 2022
+Venue: Composites Part B Engineering
+DOI: https://doi.org/10.1016/j.compositesb.2022.110135
+Paper ID: https://openalex.org/W4288886122
+
+Abstract:
+Over the last 70 years, pultrusion has matured into an industry-leading process when it comes to providing high throughput and automated composite manufacture at a competitive price point. In this paper, we review recent innovations that have advanced pultrusion to a versatile manufacturing technology and thereby allowed composite materials to penetrate markets in, e.g., the automotive, construction, aerospace, and wind turbine industries. We accompany our review with discussions on how pultrusion has enabled new innovations within additive manufacturing and sustainable composite manufacturing, and finally, we provide an outlook and suggestions for where we see the potential for research and new industrial applications of pultrusion technology.

@@ -1,0 +1,9 @@
+Title: Machine learning-based characterization of hydrochar from biomass: Implications for sustainable energy and material production
+Authors: Alireza Shafizadeh, Hossein Shahbeik, Shahin Rafiee, Aysooda Moradi, Mohammadreza Shahbaz, Meysam Madadi, Cheng Li, Wanxi Peng, Meisam Tabatabaei, Mortaza Aghbashlo
+Year: 2023
+Venue: Fuel
+DOI: https://doi.org/10.1016/j.fuel.2023.128467
+Paper ID: https://openalex.org/W4366780552
+
+Abstract:
+Hydrothermal carbonization (HTC) is a process that converts biomass into versatile hydrochar without the need for prior drying. The physicochemical properties of hydrochar are influenced by biomass properties and processing parameters, making it challenging to optimize for specific applications through trial-and-error experiments. To save time and money, machine learning can be used to develop a model that characterizes hydrochar produced from different biomass sources under varying reaction processing parameters. Thus, this study aims to develop an inclusive model to characterize hydrochar using a database covering a range of biomass types and reaction processing parameters. The quality and quantity of hydrochar are predicted using two models (decision tree regression and support vector regression). The decision tree regression model outperforms the support vector regression model in terms of forecast accuracy (R2 > 0.88, RMSE < 6.848, and MAE < 4.718). Using an evolutionary algorithm, optimum inputs are identified based on cost functions provided by the selected model to optimize hydrochar for energy production, soil amendment, and pollutant adsorption, resulting in hydrochar yields of 84.31%, 84.91%, and 80.40%, respectively. The feature importance analysis reveals that biomass ash/carbon content and operating temperature are the primary factors affecting hydrochar production in the HTC process.

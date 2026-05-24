@@ -1,0 +1,9 @@
+Title: Systemwide energy return on investment in a sustainable transition towards net zero power systems
+Authors: Hasret Sahin, A.A. Solomon, Arman Aghahosseini, Christian Breyer
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-44232-9
+Paper ID: https://openalex.org/W4390545061
+
+Abstract:
+Abstract The Glasgow Climate Pact articulated the vital importance of renewables in reducing emissions on the way to net-zero pledges. During the power sector transition, foreseeing conditions affecting the plausibility of pathway options is crucial for specifying an optimal system development strategy. This study examines the net energy performance of nine decarbonisation global energy transition scenarios until 2050 by applying a newly developed systemwide energy return on investment (EROI) model. All scenarios result in an EROI value above the upper limit of the net energy cliff, expected to be around 10. EROI trends heavily depend on transition paths. Once achieving higher renewable energy shares begin requiring significant enabling technologies, EROI continually declines as the shares increase. Shortening the transition period leads to a sharper declining of EROI, which stabilises after achieving 100% renewables. The vulnerability arising from natural gas and oil depletions may have worst impact on EROI of fossil fuels dominated systems.

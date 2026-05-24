@@ -1,0 +1,9 @@
+Title: The Influences of International Trade on Sustainable Economic Growth: An Economic Policy Perspective
+Authors: Xiuping Ji, Feiran Dong, Zheng Chen, Naipeng Bu
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052781
+Paper ID: https://openalex.org/W4214624510
+
+Abstract:
+This study uses the Gregory–Hansen cointegration method and the vector error correction model in the vector autoregression system to reveal how international trade contributes to economic sustainability. The Gregory–Hansen test for cointegration method reveals a permanent equilibrium relation among sustainably economic growth, exports, and imports and shows that exports facilitate GDP growth and accelerate improvements in the capability of imports in the long-run. The causality between GDP and exports is unidirectional, indicating that exports area determinant of sustainable economic growth. The bidirectional causality from imports to GDP also sheds light on the important influence of imports on economic sustainability; however, GDP growth also drives import growth. The interaction between imports and exports corresponds to their bidirectional causal relationship, which is indicative of imports contributing to export production and of export growth expanding the capacity for imports. This finding indicates that imports are both exogenous and endogenous factors for exports.

@@ -1,0 +1,9 @@
+Title: Blockchain for sustainable supply chain management: trends and ways forward
+Authors: Saumyaranjan Sahoo, Satish Kumar, Uthayasankar Sivarajah, Weng Marc Lim, J. Christopher Westland, Ashwani Kumar
+Year: 2022
+Venue: Electronic Commerce Research
+DOI: https://doi.org/10.1007/s10660-022-09569-1
+Paper ID: https://openalex.org/W4281736072
+
+Abstract:
+Abstract Blockchain operates on a highly secured framework, and its decentralized consensus has benefits for supply chain sustainability. Scholars have recognized the growing importance of sustainability in supply chains and studied the potential of blockchain for sustainable supply chain management. However, no study has taken stock of high-quality research in this area. To address this gap, this paper aims to provide a state-of-the-art overview of high-quality research on blockchain for sustainable supply chain management. To do so, this paper conducts a systematic literature review using a bibliometric analysis of 146 high-quality articles on blockchain for sustainable supply chain management that have been published in journals ranked “A*”, “A”, and “B” by the Australian Business Deans Council and retrieved from the Scopus database. In doing so, this paper unpacks the most prominent journals, authors, institutions, and countries that have contributed to three major themes in the field, namely blockchain for sustainable business activities, decision support systems using blockchain, and blockchain for intelligent transportation system. This paper also reveals the use of blockchain for sustainable supply chain management across four major sectors, namely food, healthcare, manufacturing, and infrastructure, and concludes with suggestions for future research in each sector.

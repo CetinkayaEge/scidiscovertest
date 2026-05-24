@@ -1,0 +1,9 @@
+Title: P-IOTA: A Cloud-Based Geographically Distributed Threat Alert System That Leverages P4 and IOTA
+Authors: Amir Al Sadi, Carlo Mazzocca, Andrea Melis, Rebecca Montanari, Marco Prandini, Nicolò Romandini
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062955
+Paper ID: pmc_PMC10051091
+
+Abstract:
+The recent widespread novel network technologies for programming data planes are remarkably enhancing the customization of data packet processing. In this direction, the Programming Protocol-independent Packet Processors (P4) is envisioned as a disruptive technology, capable of configuring network devices in a highly customizable way. P4 enables network devices to adapt their behaviors to mitigate malicious attacks (e.g., denial of service). Distributed ledger technologies (DLTs), such as blockchain, allow secure reporting alerts on malicious actions detected across different areas. However, the blockchain suffers from major scalability concerns due to the consensus protocols needed to agree on a global state of the network. To overcome these limitations, new solutions have recently emerged. IOTA is a next-generation distributed ledger engineered to tackle the scalability limits while still providing the same security capabilities such as immutability, traceability, and transparency. This article proposes an architecture that integrates a P4-based data plane software-defined network (SDN) and an IOTA layer employed to notify about networking attacks. Specifically, we propose a fast, secure, and energy-efficient DLT-enabled architecture that combines the IOTA data structure, named Tangle, with the SDN layer to detect and notify about network threats.

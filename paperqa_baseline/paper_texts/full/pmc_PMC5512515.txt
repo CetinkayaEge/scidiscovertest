@@ -1,0 +1,9 @@
+Title: Improvement of the Mechanical Properties of 1022 Carbon Steel Coil by Using the Taguchi Method to Optimize Spheroidized Annealing Conditions
+Authors: Chih-Cheng Yang, Chang-Lun Liu
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080693
+Paper ID: pmc_PMC5512515
+
+Abstract:
+Cold forging is often applied in the fastener industry. Wires in coil form are used as semi-finished products for the production of billets. This process usually requires preliminarily drawing wire coil in order to reduce the diameter of products. The wire usually has to be annealed to improve its cold formability. The quality of spheroidizing annealed wire affects the forming quality of screws. In the fastener industry, most companies use a subcritical process for spheroidized annealing. Various parameters affect the spheroidized annealing quality of steel wire, such as the spheroidized annealing temperature, prolonged heating time, furnace cooling time and flow rate of nitrogen (protective atmosphere). The effects of the spheroidized annealing parameters affect the quality characteristics of steel wire, such as the tensile strength and hardness. A series of experimental tests on AISI 1022 low carbon steel wire are carried out and the Taguchi method is used to obtain optimum spheroidized annealing conditions to improve the mechanical properties of steel wires for cold forming. The results show that the spheroidized annealing temperature and prolonged heating time have the greatest effect on the mechanical properties of steel wires. A comparison between the results obtained using the optimum spheroidizing conditions and the measures using the original settings shows the new spheroidizing parameter settings effectively improve the performance measures over their value at the original settings. The results presented in this paper could be used as a reference for wire manufacturers.

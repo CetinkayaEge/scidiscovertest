@@ -1,0 +1,9 @@
+Title: The Influence of Porosity on Mechanical Properties of PUR-Based Composites: Experimentally Derived Mathematical Approach
+Authors: Miroslav Černý, Josef Petruš, Ivana Chamradová
+Year: 2023
+Venue: Polymers
+DOI: 10.3390/polym15081960
+Paper ID: pmc_PMC10141045
+
+Abstract:
+The work is focused on the mechanical behavior description of porous filled composites that is not based on simulations or exact physical models, including different assumptions and simplifications with further comparison with real behavior of materials with different extents of accordance. The proposed process begins by measurement and further fitting of data by spatial exponential function z c = z m · p 1 b · p 2 c , where z c / z m is mechanical property value for composite/nonporous matrix, p 1 / p 2 are suitable dimensionless structural parameters (equal to 1 for nonporous matrix) and b / c are exponents ensuring the best fitting. The fitting is followed by interpolation of b and c , which are logarithmic variables based on the observed mechanical property value of nonporous matrix with additions of further properties of matrix in some cases. The work is dedicated to the utilization of further suitable pairs of structural parameters to one pair published earlier. The proposed mathematical approach was demonstrated for PUR/rubber composites with a wide range of rubber filling, various porosity, and different polyurethane matrices. The mechanical properties derived from tensile testing included elastic modulus, ultimate strength and strain, and energy need for ultimate strain achievement. The proposed relationships between structure/composition and mechanical behavior seem to be suitable for materials containing randomly shaped filler particles and voids and, therefore, could be universal (and also hold materials with less complicated microstructure) after potential following and more exact research.

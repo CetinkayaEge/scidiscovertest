@@ -1,0 +1,9 @@
+Title: Small-molecule SUMO inhibition for biomarker-informed B-cell lymphoma therapy
+Authors: Uta M. Demel, Matthias Wirth, Schayan Yousefian, Le Zhang, Konstandina Isaakidis, Judith Dönig, Marlitt Böger, Nikita Singh, Hazal Köse, Simon Haas, Stefan Müller, Markus Schick, Ulrich Keller
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280995
+Paper ID: pmc_PMC9890013
+
+Abstract:
+Aberrant activity of the SUMOylation pathway has been associated with MYC overexpression and poor prognosis in aggressive B-cell lymphoma (BCL) and other malignancies. Recently developed small-molecule inhibitors of SUMOylation (SUMOi) target the heterodimeric E1 SUMO activation complex (SAE1/UBA2). Here, we report that activated MYC signaling is an actionable molecular vulnerability in vitro and in a preclinical murine in vivo model of MYC-driven BCL. While SUMOi conferred direct effects on MYC-driven lymphoma cells, SUMO inhibition also resulted in substantial remodeling of various subsets of the innate and specific immunity in vivo . Specifically, SUMOi increased the number of memory B cells as well as cytotoxic and memory T cells, subsets that are attributed a key role within a coordinated anti-tumor immune response. In summary, our data constitute pharmacologic SUMOi as a powerful therapy in a subset of BCL causing massive remodeling of the normal B-cell and T-cell compartment.

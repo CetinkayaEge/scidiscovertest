@@ -1,0 +1,9 @@
+Title: Waste Classification for Sustainable Development Using Image Recognition with Deep Learning Neural Network Models
+Authors: Meena Malik, Sachin Sharma, Mueen Uddin, Chin‐Ling Chen, Chih-Ming Wu, Punit Soni, Shikha Chaudhary
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14127222
+Paper ID: https://openalex.org/W4282831800
+
+Abstract:
+The proper handling of waste is one of the biggest challenges of modern society. Municipal Solid Waste (MSW) requires categorization into a number of types, including bio, plastic, glass, metal, paper, etc. The most efficient techniques proposed by researchers so far include neural networks. In this paper, a detailed summarization was made of the existing deep learning techniques that have been proposed to classify waste. This paper proposes an architecture for the classification of litter into the categories specified in the benchmark approaches. The architecture used for classification was EfficientNet-B0. These are compound-scaling based models proposed by Google that are pretrained on ImageNet and have an accuracy of 74% to 84% in top-1 over ImageNet. This research proposes EfficientNet-B0 model tuning for images specific to particular demographic regions for efficient classification. This type of model tuning over transfer learning provides a customized model for classification, highly optimized for a particular region. It was shown that such a model had comparable accuracy to that of EfficientNet-B3, however, with a significantly smaller number of parameters required by the B3 model. Thus, the proposed technique achieved efficiency on the order of 4X in terms of FLOPS. Moreover, it resulted in improvised classifications as a result of fine-tuning over region-wise specific litter images.

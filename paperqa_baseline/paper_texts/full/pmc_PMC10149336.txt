@@ -1,0 +1,9 @@
+Title: Modulation of microglial metabolism facilitates regeneration in demyelination
+Authors: Chuan Qin, Sheng Yang, Man Chen, Ming-Hao Dong, Luo-Qi Zhou, Yun-Hui Chu, Zhu-Xia Shen, Dale B. Bosco, Long-Jun Wu, Dai-Shi Tian, Wei Wang
+Year: 2023
+Venue: iScience
+DOI: 10.1016/j.isci.2023.106588
+Paper ID: pmc_PMC10149336
+
+Abstract:
+Summary Microglia exhibit diverse phenotypes in various central nervous system disorders and metabolic pathways exert crucial effects on microglial activation and effector functions. Here, we discovered two novel distinct microglial clusters, functionally associated with enhanced phagocytosis (PEMs) and myelination (MAMs) respectively, in human patients with multiple sclerosis by integrating public snRNA-seq data. Microglia adopt a PEMs phenotype during the early phase of demyelinated lesions, predominated in pro-inflammatory responses and aggravated glycolysis, while MAMs mainly emerged during the later phase, with regenerative signatures and enhanced oxidative phosphorylation. In addition, microglial triggering receptor expressed on myeloid cells 2 (Trem2) was greatly involved in the phenotype transition in demyelination, but not indispensable for microglia transition toward PEMs. Rosiglitazone could promote microglial phenotype conversion from PEMs to MAMs, thus favoring myelin repair. Taken together, these findings provide insights into therapeutic interventions targeting immunometabolism to switch microglial phenotypes and facilitate regenerative capacity in demyelination. Graphical abstract Highlights • Microglia loaded with lipid adopt a PEMs phenotype • Rosiglitazone helps microglia adopt MAMs phenotype • Rosiglitazone facilitates glucose metabolism conversion by enhancing PPAR-γ signaling Neuroscience; Cellular neuroscience; Immunology; Cell biology

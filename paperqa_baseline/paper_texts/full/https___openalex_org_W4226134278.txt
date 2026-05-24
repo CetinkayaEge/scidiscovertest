@@ -1,0 +1,9 @@
+Title: Internet of Things as a Tool for Sustainable Analytical Chemistry: A Review
+Authors: Alegre N. S. Cadeado, Caio Cesar Souza Machado, Geandre C. Oliveira, Daniela e Silva, Rodrigo A.A. Muñoz, Sidnei G. Silva
+Year: 2022
+Venue: Journal of the Brazilian Chemical Society
+DOI: https://doi.org/10.21577/0103-5053.20220048
+Paper ID: https://openalex.org/W4226134278
+
+Abstract:
+Sustainable analytical methods are highly demanded in the modern society. Within the green principles, novel procedures that attend the sustainable development goals have been proposed and the internet of things (IoT) can play key role to achieve this goal. The association of IoT with analytical chemistry enables the real-time obtaining of analytical data to control industrial processes as well as for monitoring different environmental scenarios and human health by accessing remotely analytical information. In this context, this review presents the main IoT technologies used for analytical chemistry as well as a tutorial for beginners in the field.

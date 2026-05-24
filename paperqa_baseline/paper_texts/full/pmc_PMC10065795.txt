@@ -1,0 +1,9 @@
+Title: The Slingshot phosphatase 2 is required for acrosome biogenesis during spermatogenesis in mice
+Authors: Ke Xu, Xianwei Su, Kailun Fang, Yue Lv, Tao Huang, Mengjing Li, Ziqi Wang, Yingying Yin, Tahir Muhammad, Shangming Liu, Xiangfeng Chen, Jing Jiang, Jinsong Li, Wai-Yee Chan, Jinlong Ma, Gang Lu, Zi-Jiang Chen, Hongbin Liu
+Year: 2023
+Venue: eLife
+DOI: 10.7554/eLife.83129
+Paper ID: pmc_PMC10065795
+
+Abstract:
+The acrosome is a membranous organelle positioned in the anterior portion of the sperm head and is essential for male fertility. Acrosome biogenesis requires the dynamic cytoskeletal shuttling of vesicles toward nascent acrosome which is regulated by a series of accessory proteins. However, much remains unknown about the molecular basis underlying this process. Here, we generated Ssh2 knockout (KO) mice and HA-tagged Ssh2 knock-in (KI) mice to define the functions of Slingshot phosphatase 2 (SSH2) in spermatogenesis and demonstrated that as a regulator of actin remodeling, SSH2 is essential for acrosome biogenesis and male fertility. In Ssh2 KO males, spermatogenesis was arrested at the early spermatid stage with increased apoptotic index and the impaired acrosome biogenesis was characterized by defective transport/fusion of proacrosomal vesicles. Moreover, disorganized F-actin structures accompanied by excessive phosphorylation of COFILIN were observed in the testes of Ssh2 KO mice. Collectively, our data reveal a modulatory role for SSH2 in acrosome biogenesis through COFILIN-mediated actin remodeling and the indispensability of this phosphatase in male fertility in mice.

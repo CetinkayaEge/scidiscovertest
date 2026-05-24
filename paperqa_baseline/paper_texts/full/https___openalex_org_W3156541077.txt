@@ -1,0 +1,9 @@
+Title: Scaling up sustainable investment through blockchain‐based project bonds
+Authors: Yushi Chen, Ulrich Volz
+Year: 2021
+Venue: Development Policy Review
+DOI: https://doi.org/10.1111/dpr.12582
+Paper ID: https://openalex.org/W3156541077
+
+Abstract:
+Summary Motivation Most low‐ and middle‐income countries face an urgent need to scale up sustainable finance for low‐carbon and climate‐resilient infrastructure investment, yet underdeveloped capital markets tend to inhibit domestic resource mobilization for infrastructure investment. At the same time, domestic savers face a scarcity of “safe” local‐currency assets, resulting in the export of capital. Purpose This article explores options for mobilizing domestic savings through financial technology (fintech) solutions to scale up sustainable investment. Methods and approach The article discusses how fintech can help to complement conventional capital markets and mobilize financial resources for sustainable infrastructure investments. Findings The article puts forward a proposal for blockchain‐based project bonds to raise finance through a digital crowdfunding platform which is able to record transparently and certify the use of proceeds, sustainability impact, and revenue streams of projects by combining timestamp, public and private key mechanisms, and smart contract technologies. Policy implications The proposed approach would not only provide investors of different sizes with the opportunity to purchase local‐currency assets and issuers such as municipalities to raise funds for sustainable infrastructure investment, it would also facilitate project management once the project is operational, for example through metering and billing, and create full transparency over the life cycle of the investment, reducing problems concerning the misuse of funds.

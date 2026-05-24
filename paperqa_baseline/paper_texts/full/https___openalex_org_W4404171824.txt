@@ -1,0 +1,9 @@
+Title: ESG-washing detection in corporate sustainability reports
+Authors: Valentina Lagasio
+Year: 2024
+Venue: International Review of Financial Analysis
+DOI: https://doi.org/10.1016/j.irfa.2024.103742
+Paper ID: https://openalex.org/W4404171824
+
+Abstract:
+This study introduces the ESG-washing Severity Index (ESGSI) for quantitatively assessing discrepancies between portrayed and actual sustainability practices in corporate disclosures. Using advanced Natural Language Processing (NLP) techniques, we analyze sustainability reports from 749 listed companies, integrating sentiment analysis with the frequency of sustainability terms to calculate the ESGSI. Our findings reveal significant variation in ESG-washing practices across industries and geographical regions. The ESGSI serves as a critical tool for stakeholders and policymakers, highlighting the need for stricter sustainability reporting standards and more effective regulatory frameworks to combat ESG-washing. This study contributes to the growing body of literature on corporate sustainability and provides practical implications for investors, corporate managers, and policymakers in evaluating and improving ESG practices and disclosures. • The ESG-washing Severity Index (ESGSI) assess discrepancies between portrayed and actual sustainability practices in corporate disclosures. • The ESGSI is calculated with Natural Language Processing techniques by comparing sentiment analysis scores with sustainability content scores in corporate sustainability reports of 749 globally listed companies. • The study highlights the need for more standardized ESG reporting frameworks and regulations to combat ESG-washing practices globally.

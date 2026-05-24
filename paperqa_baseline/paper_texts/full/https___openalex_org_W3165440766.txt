@@ -1,0 +1,9 @@
+Title: Drone and sensor technology for sustainable weed management: a review
+Authors: Marco Esposito, Mariano Crimaldi, Valerio Cirillo, Fabrizio Sarghini, Albino Maggio
+Year: 2021
+Venue: Chemical and Biological Technologies in Agriculture
+DOI: https://doi.org/10.1186/s40538-021-00217-8
+Paper ID: https://openalex.org/W3165440766
+
+Abstract:
+Abstract Weeds are amongst the most impacting abiotic factors in agriculture, causing important yield loss worldwide. Integrated Weed Management coupled with the use of Unmanned Aerial Vehicles (drones), allows for Site-Specific Weed Management, which is a highly efficient methodology as well as beneficial to the environment. The identification of weed patches in a cultivated field can be achieved by combining image acquisition by drones and further processing by machine learning techniques. Specific algorithms can be trained to manage weeds removal by Autonomous Weeding Robot systems via herbicide spray or mechanical procedures. However, scientific and technical understanding of the specific goals and available technology is necessary to rapidly advance in this field. In this review, we provide an overview of precision weed control with a focus on the potential and practical use of the most advanced sensors available in the market. Much effort is needed to fully understand weed population dynamics and their competition with crops so as to implement this approach in real agricultural contexts.

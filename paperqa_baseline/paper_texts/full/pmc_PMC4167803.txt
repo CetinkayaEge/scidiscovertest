@@ -1,0 +1,9 @@
+Title: An Order Insertion Scheduling Model of Logistics Service Supply Chain Considering Capacity and Time Factors
+Authors: Weihua Liu, Yi Yang, Shuqing Wang, Yang Liu
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/530678
+Paper ID: pmc_PMC4167803
+
+Abstract:
+Order insertion often occurs in the scheduling process of logistics service supply chain (LSSC), which disturbs normal time scheduling especially in the environment of mass customization logistics service. This study analyses order similarity coefficient and order insertion operation process and then establishes an order insertion scheduling model of LSSC with service capacity and time factors considered. This model aims to minimize the average unit volume operation cost of logistics service integrator and maximize the average satisfaction degree of functional logistics service providers. In order to verify the viability and effectiveness of our model, a specific example is numerically analyzed. Some interesting conclusions are obtained. First, along with the increase of completion time delay coefficient permitted by customers, the possible inserting order volume first increases and then trends to be stable. Second, supply chain performance reaches the best when the volume of inserting order is equal to the surplus volume of the normal operation capacity in mass service process. Third, the larger the normal operation capacity in mass service process is, the bigger the possible inserting order's volume will be. Moreover, compared to increasing the completion time delay coefficient, improving the normal operation capacity of mass service process is more useful.

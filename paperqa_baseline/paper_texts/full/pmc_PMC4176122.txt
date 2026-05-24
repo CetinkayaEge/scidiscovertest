@@ -1,0 +1,9 @@
+Title: 6-Shogaol induces apoptosis in human leukemia cells through a process involving caspase-mediated cleavage of eIF2α
+Authors: Qun Liu, Yong-Bo Peng, Ping Zhou, Lian-Wen Qi, Mu Zhang, Ning Gao, E-Hu Liu, Ping Li
+Year: 2013
+Venue: Molecular Cancer
+DOI: 10.1186/1476-4598-12-135
+Paper ID: pmc_PMC4176122
+
+Abstract:
+Background 6-Shogaol is a promising antitumor agent isolated from dietary ginger ( Zingiber officinale ). However, little is known about the efficacy of 6-shogaol on leukemia cells. Here we investigated the underlying mechanism of 6-shogaol induced apoptosis in human leukemia cells in vitro and in vivo . Methods Three leukemia cell lines and primary leukemia cells were used to investigate the apoptosis effect of 6-shogaol. A shotgun approach based on label-free proteome with LC-CHIP Q-TOF MS/MS was employed to identify the cellular targets of 6-shogaol and the differentially expressed proteins were analyzed by bioinformatics protocols. Results The present study indicated that 6-shogaol selectively induced apoptosis in transformed and primary leukemia cells but not in normal cells. Eukaryotic translation initiation factor 2 alpha (eIF2α), a key regulator in apoptosis signaling pathway, was significantly affected in both Jurkat and U937 proteome profiles. The docking results suggested that 6-shogaol might bind well to eIF2α at Ser51 of the N-terminal domain. Immunoblotting data indicated that 6-shogaol induced apoptosis through a process involving dephosphorylation of eIF2α and caspase activation–dependent cleavage of eIF2α. Furthermore, 6-shogaol markedly inhibited tumor growth and induced apoptosis in U937 xenograft mouse model. Conclusion The potent anti-leukemia activity of 6-shogaol found both in vitro and in vivo in our study make this compound a potential anti-tumor agent for hematologic malignancies.

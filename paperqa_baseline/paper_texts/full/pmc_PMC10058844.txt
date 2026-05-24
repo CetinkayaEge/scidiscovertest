@@ -1,0 +1,9 @@
+Title: Deep Reinforcement Learning-Based One-to-Multiple Cooperative Computing in Large-Scale Event-Driven Wireless Sensor Networks
+Authors: Zhihui Guo, Hongbin Chen, Shichao Li
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063237
+Paper ID: pmc_PMC10058844
+
+Abstract:
+Emergency event monitoring is a hot topic in wireless sensor networks (WSNs). Benefiting from the progress of Micro-Electro-Mechanical System (MEMS) technology, it is possible to process emergency events locally by using the computing capacities of redundant nodes in large-scale WSNs. However, it is challenging to design a resource scheduling and computation offloading strategy for a large number of nodes in an event-driven dynamic environment. In this paper, focusing on cooperative computing with a large number of nodes, we propose a set of solutions, including dynamic clustering, inter-cluster task assignment and intra-cluster one-to-multiple cooperative computing. Firstly, an equal-size K -means clustering algorithm is proposed, which activates the nodes around event location and then divides active nodes into several clusters. Then, through inter-cluster task assignment, every computation task of events is alternately assigned to the cluster heads. Next, in order to make each cluster efficiently complete the computation tasks within the deadline, a Deep Deterministic Policy Gradient (DDPG)-based intra-cluster one-to-multiple cooperative computing algorithm is proposed to obtain a computation offloading strategy. Simulation studies show that the performance of the proposed algorithm is close to that of the exhaustive algorithm and better than other classical algorithms and the Deep Q Network (DQN) algorithm.

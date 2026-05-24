@@ -1,0 +1,9 @@
+Title: Correlation of Acceleration Curves in Gravitational Direction for Different Body Segments during High-Impact Jumping Exercises
+Authors: Lukas Reinker, Dominic Bläsing, Rudolf Bierl, Sabina Ulbricht, Sebastian Dendorfer
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042276
+Paper ID: pmc_PMC9967370
+
+Abstract:
+Osteoporosis is a common disease of old age. However, in many cases, it can be very well prevented and counteracted with physical activity, especially high-impact exercises. Wearables have the potential to provide data that can help with continuous monitoring of patients during therapy phases or preventive exercise programs in everyday life. This study aimed to determine the accuracy and reliability of measured acceleration data at different body positions compared to accelerations at the pelvis during different jumping exercises. Accelerations at the hips have been investigated in previous studies with regard to osteoporosis prevention. Data were collected using an IMU-based motion capture system (Xsens) consisting of 17 sensors. Forty-nine subjects were included in this study. The analysis shows the correlation between impacts and the corresponding drop height, which are dependent on the respective exercise. Very high correlations (0.83–0.94) were found between accelerations at the pelvis and the other measured segments at the upper body. The foot sensors provided very weak correlations (0.20–0.27). Accelerations measured at the pelvis during jumping exercises can be tracked very well on the upper body and upper extremities, including locations where smart devices are typically worn, which gives possibilities for remote and continuous monitoring of programs.

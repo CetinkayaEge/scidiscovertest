@@ -1,0 +1,9 @@
+Title: Effect of Inadequate Electrification on Nigeria’s Economic Development and Environmental Sustainability
+Authors: Mustapha Mukhtar, Sandra Obiora, Nasser Yimen, Zhang Quixin, Olusola Bamisile, Pauline Jidele, Young Imienwain Irivboje
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042229
+Paper ID: https://openalex.org/W3132919013
+
+Abstract:
+In this study, the impact of the electricity crisis on the economic growth of Nigeria is presented. Unlike other existing studies that checked the effect of electricity consumption on economic development or environmental sustainability for different countries, the present study will further present a techno-economic analysis of a proffered solution to the imminent electricity crisis. Time-series regression models are used to analyze the effect of electricity consumption on economic development and environmental sustainability while RETScreen professional software is used to perform a techno-economic analysis and determine the feasibility of a 500-kW microgrid Solar Photovoltaic (PV) system integrated for electricity generation. From the analysis results, a strong positive correlation effect is evident between electricity consumption and GNI, as well as a strong negative correlation between electricity consumption and gross domestic savings. Also, strong positive correlation effects are evident in the case of carbon emissions by buildings, by the power industry, and by other combustion industries on electricity consumption in Nigeria. Considering the net present value, internal rate of return and payback periods, the use of solar PV systems for electricity generation is feasible in the 12 different locations in Nigeria studied in this research. The most feasible area for solar PV installation is the northern part of Nigeria as Gombe and Kaduna recorded a simple PBP and an equity PBP are 6.3 years and 7.4 years respectively.

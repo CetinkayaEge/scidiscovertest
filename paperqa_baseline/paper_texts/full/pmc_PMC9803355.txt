@@ -1,0 +1,9 @@
+Title: Heterogeneous levels of delta-like 4 within a multinucleated niche cell maintains muscle stem cell diversity
+Authors: Susan Eliazer, Xuefeng Sun, Emilie Barruet, Andrew S Brack
+Year: 2022
+Venue: eLife
+DOI: 10.7554/eLife.68180
+Paper ID: pmc_PMC9803355
+
+Abstract:
+The quiescent muscle stem cell (QSC) pool is heterogeneous and generally characterized by the presence and levels of intrinsic myogenic transcription factors. Whether extrinsic factors maintain the diversity of states across the QSC pool remains unknown. The muscle fiber is a multinucleated syncytium that serves as a niche to QSCs, raising the possibility that the muscle fiber regulates the diversity of states across the QSC pool. Here, we show that the muscle fiber maintains a continuum of quiescent states, through a gradient of Notch ligand, Dll4, produced by the fiber and captured by QSCs. The abundance of Dll4 captured by the QSC correlates with the protein levels of the stem cell (SC) identity marker, Pax7. Niche-specific loss of Dll4 decreases QSC diversity and shifts the continuum to cell states that are biased toward more proliferative and committed fates. We reveal that fiber-derived Mindbomb1 (Mib1), an E3 ubiquitin ligase activates Dll4 and controls the heterogeneous levels of Dll4. In response to injury, with a Dll4-replenished niche, the normal continuum and diversity of the SC pool is restored, demonstrating bidirectionality within the SC continuum. Our data show that a post-translational mechanism controls heterogeneity of Notch ligands in a multinucleated niche cell to maintain a continuum of metastable states within the SC pool during tissue homeostasis.

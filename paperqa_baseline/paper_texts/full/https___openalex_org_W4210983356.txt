@@ -1,0 +1,9 @@
+Title: Sustainable Solar Drying of Brewer’s Spent Grains: A Comparison with Conventional Electric Convective Drying
+Authors: Juan Pablo Capossio, María Paula Fabani, Andrés Reyes-Urrutia, Rodrigo Torres-Sciancalepore, Yimin Deng, Jan Baeyens, Rosa Rodríguez, Germán Mazza
+Year: 2022
+Venue: Processes
+DOI: https://doi.org/10.3390/pr10020339
+Paper ID: https://openalex.org/W4210983356
+
+Abstract:
+Spent grains from microbreweries are mostly formed by malting barley (or malt) and are suitable for a further valorization process. Transforming spent grains from waste to raw materials, for instance, in the production of nontraditional flour, requires a previous drying process. A natural convection solar dryer (NCSD) was evaluated as an alternative to a conventional electric convective dryer (CECD) for the dehydration process of local microbrewers’ spent grains. Two types of brewer’s spent grains (BSG; Golden ale and Red ale) were dried with both systems, and sustainability indices, specific energy consumption (eC), and CO2 emissions were calculated and used to assess the environmental advantages and disadvantages of the NCSD. Then, suitable models (empirical, neural networks, and computational fluid dynamics) were used to simulate both types of drying processes under different conditions. The drying times were 30–85 min (depending on the drying temperature, 363.15 K and 333.15 K) and 345–430 min (depending on the starting daytime hour at which the drying process began) for the CECD and the NCSD, respectively. However, eC and CO2 emissions for the CECD were 1.68–1.88 · 10−3 (kW h)/kg and 294.80–410.73 kg/(kW h) for the different drying temperatures. Using the NCSD, both indicators were null, considering this aspect as an environmental benefit.

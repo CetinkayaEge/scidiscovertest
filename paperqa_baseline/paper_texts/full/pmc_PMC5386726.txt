@@ -1,0 +1,9 @@
+Title: Apigenin inhibits renal cell carcinoma cell proliferation
+Authors: Shuai Meng, Yi Zhu, Jiang-Feng Li, Xiao Wang, Zhen Liang, Shi-Qi Li, Xin Xu, Hong Chen, Ben Liu, Xiang-Yi Zheng, Li-Ping Xie
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15771
+Paper ID: pmc_PMC5386726
+
+Abstract:
+Apigenin, a natural flavonoid found in vegetables and fruits, has antitumor activity in several cancer types. The present study evaluated the effects and mechanism of action of apigenin in renal cell carcinoma (RCC) cells. We found that apigenin suppressed ACHN, 786-0, and Caki-1 RCC cell proliferation in a dose- and time-dependent manner. A comet assay suggested that apigenin caused DNA damage in ACHN cells, especially at higher doses, and induced G2/M phase cell cycle arrest through ATM signal modulation. Small interfering RNA (siRNA)-mediated p53 knockdown showed that apigenin-induced apoptosis was likely p53 dependent. Apigenin anti-proliferative effects were confirmed in an ACHN cell xenograft mouse model. Apigenin treatment reduced tumor growth and volume in vivo , and immunohistochemical staining revealed lower Ki-67 indices in tumors derived from apigenin-treated mice. These findings suggest that apigenin exposure induces DNA damage, G2/M phase cell cycle arrest, p53 accumulation and apoptosis, which collectively suppress ACHN RCC cell proliferation in vitro and in vivo . Given its antitumor effects and low in vivo toxicity, apigenin is a highly promising agent for treatment of RCC.

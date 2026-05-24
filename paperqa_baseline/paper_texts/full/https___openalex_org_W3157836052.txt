@@ -1,0 +1,9 @@
+Title: Transportation synthetic sustainability indices: A case of Taiwan intercity railway transport
+Authors: Shu-Hua Rao
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.107753
+Paper ID: https://openalex.org/W3157836052
+
+Abstract:
+Sustainable Transport faces two challenges: the first is to understand and define Sustainability Indicators (Indices) (SI); the second is to quantify and operationalize. The objective of the study was to examine the impacts of intercity railways passenger transportation service in Taiwan. By applying MCDM technologies, the study constructed Synthetic Sustainability Indices (SSI). By using the DEMATEL and DEMATEL-ANP Based method (DANP), the study analyzed the degree of mutual influence to find the causality between indicators, and identified the weight of individual indicators and the dimension. Besides, empirical analysis was conducted to collect the performance of various SI of Taiwan intercity railway transport, including high-speed rail (HSR) and Taiwan railway (TRA), and calculated the individual and integrated SSI. With SSI as a basis, we could understand the trend of the sustainability of the transportation system over the years and the correlation between each transit system. The empirical results showed the economic dimension was the core factor, and was more important than the social and environmental dimension. The social dimension came as the second, and the environmental dimension was the independent factor. Besides, both SSI of HSR and TRA were positively improving over the recent 10 years; the integrated SSI of HSR and TRA system showed higher SSI than that of individual SSI.

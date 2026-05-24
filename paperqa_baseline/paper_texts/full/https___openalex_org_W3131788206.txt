@@ -1,0 +1,9 @@
+Title: A Hesitant Fuzzy Combined Compromise Solution Framework-Based on Discrimination Measure for Ranking Sustainable Third-Party Reverse Logistic Providers
+Authors: Arunodaya Raj Mishra, Pratibha Rani, R. Krishankumar, Edmundas Kazimieras Zavadskas, Fausto Cavallaro, K. S. Ravichandran
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042064
+Paper ID: https://openalex.org/W3131788206
+
+Abstract:
+Customers’ pressure, social responsibility, and government regulations have motivated the enterprises to consider the reverse logistics (RL) in their operations. Recently, companies frequently outsource their RL practices to third-party reverse logistics providers (3PRLPs) to concentrate on their primary concern and diminish costs. However, to select the suitable 3PRLP candidate requires a multi-criteria decision making (MCDM) process involving uncertainty owing to the presence of many associated aspects. In order to choose the most appropriate sustainable 3PRLP (S3PRLP), we introduce a hybrid approach based on the classical Combined Compromise Solution (CoCoSo) method and propose a discrimination measure within the context of hesitant fuzzy sets (HFSs). This approach offers a new process based on the discrimination measure for evaluating the criteria weights. The efficiency and practicability of the present approach are numerically demonstrated by solving an illustrative case study of S3PRLPs selection under a hesitant fuzzy environment. Moreover, sensitivity and comparative studies are presented to highlight the robustness and strength of the introduced methodology. The result of this work concludes that the introduced methodology can recommend a more feasible performance when facing with determinate and inconsistent knowledge and qualitative data.

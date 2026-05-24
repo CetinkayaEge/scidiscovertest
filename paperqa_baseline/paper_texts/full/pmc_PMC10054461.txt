@@ -1,0 +1,9 @@
+Title: Improving TDOA Radar Performance in Jammed Areas through Neural Network-Based Signal Processing
+Authors: Jakub Gotthans, Tomas Gotthans, David Novak
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062889
+Paper ID: pmc_PMC10054461
+
+Abstract:
+This paper presents a method for estimating the position of a target under jammed conditions using the Time Difference of Arrival (TDOA) method. The algorithm utilizes a deep neural network to overcome the challenges posed by the jammed conditions. The simulations and results indicate that the presented method is more accurate and efficient than the traditional TDOA methods.

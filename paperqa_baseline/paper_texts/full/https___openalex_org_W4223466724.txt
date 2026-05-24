@@ -1,0 +1,9 @@
+Title: A perspective on sustainable luminescent solar concentrators
+Authors: Miguel A. Hernández‐Rodríguez, Sandra F. H. Correia, Rute A. S. Ferreira, Luís D. Carlos
+Year: 2022
+Venue: Journal of Applied Physics
+DOI: https://doi.org/10.1063/5.0084182
+Paper ID: https://openalex.org/W4223466724
+
+Abstract:
+The luminescent solar concentrator (LSC) concept appeared almost forty years ago, as a solution to overcome the limitations related to photovoltaic cell efficiency. Nowadays, they are seen as a promising approach to integrate photovoltaic elements into the built environment, in an invisible way and without detrimental effects to the aesthetics of the building or the quality of life of the inhabitants. LSCs are devices comprising a transparent matrix embedding optically active centers that absorb the incident radiation, which is re-emitted at a specific wavelength and transferred by total internal reflection to photovoltaic cells located at the edges of the matrix. During the last few decades, several optically active materials have been tested for LSCs in an endless quest for the most efficient device. Nowadays, one of the world's major concerns is the environmental impact of our choices. Thus, the present and future path for LSCs must include the search for nature-friendly materials, with little environmental impact, and, in this sense, this Perspective offers a general overview of the potential of environmentally-friendly materials for LSCs.

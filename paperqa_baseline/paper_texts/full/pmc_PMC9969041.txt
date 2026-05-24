@@ -1,0 +1,9 @@
+Title: Finite-element method based solver for an evaporating sessile droplet on a heated surface
+Authors: Manish Kumar, Rajneesh Bhardwaj
+Year: 2023
+Venue: Sādhanā
+DOI: 10.1007/s12046-023-02089-0
+Paper ID: pmc_PMC9969041
+
+Abstract:
+We report the development of a finite-element-based solver to compute transport of mass, momentum and energy during evaporation of a sessile droplet on a heated surface. The evaporation is assumed to be quasi-steady and diffusion-limited. The heat transfer between the droplet and substrate and mass transfer of liquid-vapor are solved using a two-way coupling. In particular, here, we develop and implement the formulation of fluid flow inside the droplet in the model. The continuity and Navier–Stokes equations are solved in axisymmetric, cylindrical coordinates. Jump velocity boundary condition is applied on the liquid–gas interface using the evaporation mass flux. The governing equations are discretized in the framework of the Galerkin weight residual approach. A mesh of finite triangular elements with six nodes is utilized, and quadratic shape functions are used to obtain the second-order accurate numerical solution. Two formulations, namely, penalty function and velocity pressure, are employed to obtain discretized equations. The numerical results are the same using both methods, and the latter is around 30–50% faster than the former for the cases of refined grid. Computed flow fields are in excellent agreement with published results. The solver’s capability is demonstrated by solving the internal flow field for a case of a heated substrate.

@@ -1,0 +1,9 @@
+Title: Effects of COVID19 Pandemic on Pediatric Kidney Transplant in the United States
+Authors: Olga Charnaya, Teresa Po-Yu Chiang, Richard Wang, Jennifer Motter, Brian Boyarsky, Elizabeth King, William Werbel, Christine M. Durand, Robin Avery, Dorry Segev, Allan Massie, Jacqueline Garonzik-Wang
+Year: 2020
+Venue: Research Square
+DOI: 10.21203/rs.3.rs-72427/v1
+Paper ID: pmc_PMC7491577
+
+Abstract:
+In March 2020, COVID-19 infections began to rise exponentially in the United States, placing substantial burden on the healthcare system. As a result, there was a rapid change in transplant practices and policies, with cessation of most procedures. Our goal was to understand changes to pediatric kidney transplantation (KT) at the national level during the COVID-19 epidemic. Using SRTR data, we examined changes in pediatric waitlist registration, waitlist removal or inactivation, and deceased donor and living donor (DDKT/LDKT) events during the start of the disease transmission in the United States compared to the same time the previous year. We saw an initial decrease in DDKT and LDKT by 47% and 82% compared to expected events and then a continual increase, with numbers reaching expected pre-pandemic levels by May 2020. In the early phase of the pandemic, waitlist inactivation and removals due to death or deteriorating condition rose above expected values by 152% and 189%, respectively. There was a statistically significant decrease in new waitlist additions (IRR 0.49 0.65 0.85 ) and LDKT (IRR 0.17 0.38 0.84 ) in states with high vs low COVID activity. Transplant recipients during the pandemic were more likely to have received a DDKT, but had similar cPRA, waitlist time and cause of ESRD as before the pandemic. The COVID-19 pandemic initially reduced access to kidney transplantation among pediatric patients in the United States, but has not had a sustained effect.

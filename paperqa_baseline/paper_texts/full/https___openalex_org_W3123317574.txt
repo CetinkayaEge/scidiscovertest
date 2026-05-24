@@ -1,0 +1,9 @@
+Title: Environmental Sustainability and Economic Growth in Greenland: Testing the Environmental Kuznets Curve
+Authors: Javier L. Arnaut, Johanna Lidman
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031228
+Paper ID: https://openalex.org/W3123317574
+
+Abstract:
+The environmental Kuznets curve (EKC) hypothesis assumes there is an inverted U-shape relationship between pollution and income per capita, implying an improvement in environmental quality when a growing economy reaches a high level of economic development. This study evaluated empirically the existence of the environmental Kuznets curve in Greenland for the period 1970–2018. Using an autoregressive distributed lag (ARDL) approach, the results show evidence of a U-shaped EKC in Greenland instead of the hypothesized inverted U-shape. The findings indicate that Greenland had initially experienced a decoupling transition during an early development stage associated with structural conditions of a small subsistence economy. However, once the country began to expand its industry, the trend began to reverse, creating a positive and significant relationship between CO2 emissions and GDP per capita that is potentially detrimental to the Arctic natural environment.

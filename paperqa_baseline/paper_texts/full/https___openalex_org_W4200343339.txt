@@ -1,0 +1,9 @@
+Title: A Comprehensive Review on Sustainable Aspects of Big Data Analytics for the Smart Grid
+Authors: P. Vinoth Kumar, Padmanathan Kasinathan, Rajvikram Madurai Elavarasan, R. Vinoth, Ranjith Kumar A, Umashankar Subramaniam, Aritra Ghosh, Eklas Hossain
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132313322
+Paper ID: https://openalex.org/W4200343339
+
+Abstract:
+The role of energy is cardinal for achieving the Sustainable Development Goals (SDGs) through the enhancement and modernization of energy generation and management practices. The smart grid enables efficient communication between utilities and the end- users, and enhances the user experience by monitoring and controlling the energy transmission. The smart grid deals with an enormous amount of energy data, and the absence of proper techniques for data collection, processing, monitoring and decision-making ultimately makes the system ineffective. Big data analytics, in association with the smart grid, enable better grid visualization and contribute toward the attainment of sustainability. The current research work deals with the achievement of sustainability in the smart grid and efficient data management using big data analytics, that has social, economic, technical and political impacts. This study provides clear insights into energy data generated in the grid and the possibilities of energy theft affecting the sustainable future. The paper provides insights about the importance of big data analytics, with their effects on the smart grids’ performance towards the achievement of SDGs. The work highlights efficient real-time energy data management involving artificial intelligence and machine learning for a better future, to short out the effects of the conventional smart grid without big data analytics. Finally, the work discusses the challenges and future directions to improve smart grid technologies with big data analytics in action.

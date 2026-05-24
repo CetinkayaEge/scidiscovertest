@@ -1,0 +1,9 @@
+Title: Assessment of sustainable third party reverse logistic provider using the single-valued neutrosophic Combined Compromise Solution framework
+Authors: Arunodaya Raj Mishra, Pratibha Rani
+Year: 2021
+Venue: Cleaner and Responsible Consumption
+DOI: https://doi.org/10.1016/j.clrc.2021.100011
+Paper ID: https://openalex.org/W3133351360
+
+Abstract:
+Customers’ pressure, social responsibility and government regulations have motivated the enterprises to consider the Reverse Logistics (RL) in their operations. Recently, companies frequently outsource RL to Third-Party Reverse Logistics Providers (3PRLPs) to concentrate on their prime concern and diminish costs. In the present study, relevant sustainability criteria are employed for a decision-making example of Sustainable 3PRLP (S3PRLP) selection problem of an Indian Electronics Company. To choose the most suitable S3PRLP, a novel integrated approach by combining Combined Compromise Solution (CoCoSo) and CRiteria Importance Through Intercriteria Correlation (CRITIC) approaches under the context of Single-Valued Neutrosophic Sets (SVNSs). This approach offers a new procedure for determining the criteria weights with the use of CRITIC technique. The efficiency and practicability of the present approach is numerically demonstrated by solving an illustrative case study of S3PRLPs selection within SVNSs context. Moreover, sensitivity analysis and comparison with previously developed techniques are presented to highlight the robustness and strength of the introduced method. The result of this work concludes that the introduced methodology can recommend more feasible performance when facing with indeterminate and inconsistent knowledge, and qualitative data.

@@ -1,0 +1,9 @@
+Title: Long non-coding RNA XIST regulates PTEN expression by sponging miR-181a and promotes hepatocellular carcinoma progression
+Authors: Shuzhen Chang, Binhe Chen, Xiaoyan Wang, Keqin Wu, Yuqiu Sun
+Year: 2017
+Venue: BMC Cancer
+DOI: 10.1186/s12885-017-3216-6
+Paper ID: pmc_PMC5383949
+
+Abstract:
+Background Tumor metastasis often occurs in hepatocellular carcinoma (HCC) and influences the patient’s prognosis, and microRNAs are reported to play key roles in tumor metastasis. This study was conducted to explore the effect of microRNAs on HCC metastasis. Methods The levels of miR-181a in HCC tissues, adjacent tissues, metastatic HCC tissues, and non-metastatic HCC tissues at different stages were determined by qRT-PCR. Effect of miR-181a on the proliferation, invasion, and metastasis of HCC cells was estimated by cell counting kits-8 (CCK-8), wound-healing, and Transwell assays. Software analysis and luciferase assays were used to explore the target gene of miR-181a. Results MiR-181a was up-regulated in HCC tissues and its expression level in metastatic HCC tissues was much higher than in non-metastasis samples. PTEN was found to be a target gene of miR-181a. MiR-181a had multiple binding sites with the long non-coding RNA (lncRNA) XIST. The regulation of miR-181a on PTEN was mediated by lncRNA XIST. The proliferation and invasion of cells with siXIST were significantly enhanced compared with those of control cells, while knockdown of miR-181a abolished the enhancing effects. Conclusions MiR-181a can promote HCC metastasis by targeting PTEN, which is regulated by lncRNA XIST. Electronic supplementary material The online version of this article (doi:10.1186/s12885-017-3216-6) contains supplementary material, which is available to authorized users.

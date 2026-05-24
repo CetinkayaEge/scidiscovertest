@@ -1,0 +1,9 @@
+Title: Generation of anti-GD2 CAR macrophages from human pluripotent stem cells for cancer immunotherapies
+Authors: Jue Zhang, Sarah Webster, Bret Duffin, Matthew N. Bernstein, John Steill, Scott Swanson, Matthew H. Forsberg, Jennifer Bolin, Matthew E. Brown, Aditi Majumder, Christian M. Capitini, Ron Stewart, James A. Thomson, Igor I. Slukvin
+Year: 2023
+Venue: Stem Cell Reports
+DOI: 10.1016/j.stemcr.2022.12.012
+Paper ID: pmc_PMC9968983
+
+Abstract:
+Summary Macrophages armed with chimeric antigen receptors (CARs) provide a potent new option for treating solid tumors. However, genetic engineering and scalable production of somatic macrophages remains significant challenges. Here, we used CRISPR-Cas9 gene editing methods to integrate an anti-GD2 CAR into the AAVS1 locus of human pluripotent stem cells (hPSCs). We then established a serum- and feeder-free differentiation protocol for generating CAR macrophages (CAR-Ms) through arterial endothelial-to-hematopoietic transition (EHT). CAR-M produced by this method displayed a potent cytotoxic activity against GD2-expressing neuroblastoma and melanoma in vitro and neuroblastoma in vivo . This study provides a new platform for the efficient generation of off-the-shelf CAR-Ms for antitumor immunotherapy. Graphical abstract Highlights • Generation of hPSCs with anti-GD2 CAR inserted at AAVS1 locus • Efficient generation of anti-GD2 CAR-Ms from hPSCs through arterial HE • Anti-GD2 CAR-Ms possess potent activity against GD2 + solid tumors In this article, Zhang and colleagues show the generation of hPSCs with anti-GD2 CARs integrated into the AAVS1 locus and their differentiation into CAR macrophages (CAR-Ms) through arterialized hemogenic endothelium intermediates. CAR-Ms displayed a potent antitumor activity against neuroblastoma and melanoma.

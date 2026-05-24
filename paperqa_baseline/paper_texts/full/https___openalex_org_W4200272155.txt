@@ -1,0 +1,9 @@
+Title: Smart Sustainable City Manufacturing and Logistics: A Framework for City Logistics Node 4.0 Operations
+Authors: Agnieszka Deja, Tygran Dzhuguryan, Lyudmyla Dzhuguryan, Oleg Konradi, Robert Ulewicz
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14248380
+Paper ID: https://openalex.org/W4200272155
+
+Abstract:
+The location of smart sustainable city multi-floor manufacturing (CMFM) directly in the residential area of a megapolis reduces the delivery time of goods to consumers, has a favorable effect on urban traffic and the environment, and contributes to the rational use of land resources. An important factor in the transformation of a smart city is the development of CMFM clusters and their city logistics nodes (CLNs); the key elements of the logistics system of a megapolis. The primary goal of this study was to examine the role of the CLN4.0, as a lead sustainability and smart service provider of a CMFM cluster within the Industry 4.0 paradigm, as well as its value in the system of logistics facilities and networks of a megalopolis. This paper presents an innovative model of a CLN4.0 under supply uncertainty using a material flow analysis (MFA) methodology, which allows for specific parameters of throughput capacity within the CMFM cluster and the management of supply chains (SCs) under uncertainty. The model was verified based on a case study (7th scenario) for various frameworks of a multi-floor CLN4.0. The validity of using a group of virtual CLNs4.0 to support the balanced operation of these framework operations under uncertainty, due to an uneven production workload of CMFM clusters, is discussed. The results may be useful for the decision-making and planning processes associated with supply chain management (SCM) within CMFM clusters in a megapolis.

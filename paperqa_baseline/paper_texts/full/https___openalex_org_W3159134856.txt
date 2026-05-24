@@ -1,0 +1,9 @@
+Title: Short-Term Forecasting of Agriculture Commodities in Context of Indian Market for Sustainable Agriculture by Using the Artificial Neural Network
+Authors: Anil Kumar Mahto, M. Afshar Alam, Ranjit Biswas, Jawed Ahmed, Shah Imran Alam
+Year: 2021
+Venue: Journal of Food Quality
+DOI: https://doi.org/10.1155/2021/9939906
+Paper ID: https://openalex.org/W3159134856
+
+Abstract:
+Prediction of well-grounded market information, particularly short-term forecast of prices of agricultural commodities, is the essential requirement for the sustainable development of the farming community. Such predictions are mostly performed with the help of time series models. In this study, the soft computing method is used for short-term forecasting of agriculture commodity price based on time series data using the artificial neural network (ANN). The time series data for sunflower seed and soybean seed are considered as the agriculture commodities. The soybean seed time series data were collected for the period of five years (Jan 2014–Dec 2018), for Akola district market, Maharashtra, India. The sunflower time series data were collected for the period of six years (Jan 2011–Dec 2016), for Kadari district market, Andhra Pradesh, India. The dataset is available at the Indian government website taken from the website www.data.gov.in. For forecasting, the ANN model is used on the abovementioned datasets. The performance of the model is compared with the result of the traditional ARIMA model. The mean absolute percentage error (MAPE) and root mean square percentage error (RMSPE) are considered as the performance parameters for the forecasting model. It is observed that the ANN is a better forecasting model than the ARIMA model by considering the two forecasting performance parameters MAPE and RMSPE.

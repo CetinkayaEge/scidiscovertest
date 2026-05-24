@@ -1,0 +1,9 @@
+Title: Association of leukocyte mitochondrial DNA content with glioma risk: evidence from a Chinese case–control study
+Authors: Jie Zhang, Deyang Li, Falin Qu, Yibing Chen, Gang Li, Hequn Jiang, Xiaojun Huang, Hushan Yang, Jinliang Xing
+Year: 2014
+Venue: BMC Cancer
+DOI: 10.1186/1471-2407-14-680
+Paper ID: pmc_PMC4177174
+
+Abstract:
+Background Increasing evidence suggests that alterations in mitochondrial DNA (mtDNA) content may be implicated in the tumorigenesis of several malignancies. However, the association between mtDNA content in peripheral blood lymphocytes (PBLs) and glioma risk has not been investigated. Methods Real-time PCR was used to examine the mtDNA content in PBLs of 414 glioma patients and 414 matched controls in a hospital-based case–control study. The association between mtDNA content and glioma risk was evaluated using an unconditional multivariate logistic regression model. Results We found that glioma patients exhibited a significantly higher median mtDNA content than healthy controls (0.99 vs. 0.71, P < 0.001). Unconditional multivariate logistic regression analysis adjusting for age, gender, smoking status, and family cancer history showed that there was an S-shaped association between mtDNA content and glioma risk. Higher mtDNA content was significantly associated with an elevated risk of glioma. Compared with the first quartile, the odds ratio (95% confidence interval) for subjects in the second, third, and fourth quartiles of mtDNA content were 0.90 (0.52-1.53), 3.38 (2.15-5.31), and 5.81 (3.74-9.03), respectively ( P for nonlinearity = 0.009). Stratified analysis showed that the association between mtDNA content and glioma risk was not modulated by major host characteristics. Conclusions Our findings demonstrate for the first time that a higher mtDNA content in PBLs is associated with an elevated risk of glioma, which warrants further investigation in larger populations.

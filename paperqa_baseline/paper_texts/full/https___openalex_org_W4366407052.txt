@@ -1,0 +1,9 @@
+Title: BIM adoption in sustainability, energy modelling and implementing using ISO 19650: A review
+Authors: Xingchen Pan, Abdul Mateen Khan, Sayed M. Eldin, Fahid Aslam, Sardar Kashif Ur Rehman, Mohammed Jameel
+Year: 2023
+Venue: Ain Shams Engineering Journal
+DOI: https://doi.org/10.1016/j.asej.2023.102252
+Paper ID: https://openalex.org/W4366407052
+
+Abstract:
+The construction industry is adopting a ground-breaking invention called Building Information Modeling (BIM) to virtually manage and plan projects throughout the building's lifespan. In the architectural, engineering, and construction (AEC) sector, the adoption of BIM is growing throughout the government sector worldwide, including governmental entities and non-profit organizations. This article covers how building information modelling was used to produce suggestions to help customers and operational teams appropriately specify information needs for projects. The ISO 19650 standards underline this as the first and most critical stage in ensuring that there is adequate information available to optimize constructed assets over the course of their whole life cycle. A study gap that was discovered was the absence of explicit recommendations aimed at helping customers determine their information needs as the appointing party. This research gives recommendations for a plan of action to identify needs and promote effective BIM project outcomes. Since Pakistan does not have a BIM standard, the authors recommended using ISO 19650 with minimum modification as Pakistan's BIM standard, as it offers a systemic framework in this regard.

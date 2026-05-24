@@ -1,0 +1,9 @@
+Title: Sustainable Aviation Fuels for Clean Skies: Exploring the Potential and Perspectives of Strained Hydrocarbons
+Authors: Feng Wang, Dilip Rijal
+Year: 2024
+Venue: Energy & Fuels
+DOI: https://doi.org/10.1021/acs.energyfuels.3c04935
+Paper ID: https://openalex.org/W4392629227
+
+Abstract:
+Fuel is the lifeblood of the aviation industry. The pressing need to reduce carbon emissions calls for the adoption of sustainable aviation fuels (SAFs) as a feasible alternative, particularly in the absence of widespread hydrogen usage. SAFs with high energy density (HED) hold great promise due to their favorable weight and volume characteristics. This comprehensive review article delves into the history of aviation fuel, essential requirements for aviation fuels, and the imperative for SAF development, focusing on the power-to-liquid (PtL) pathway to produce SAFs. It particularly concentrates on recent advancements in the screening and design of new strained hydrocarbons as high-performance SAFs. By utilizing machine learning (ML) techniques, potential strained hydrocarbon or cycloalkane structures have been identified and optimized, revealing superior potentials for energy content and other critical properties that enhance the efficiency and performance of SAFs. The review also provides a perspective with a forward-looking approach and a route map in the development of new SAFs, including the exploration of strain energy in cycloalkanes through quantum mechanical calculations, the establishment of structure–property relationships for rational design, and the need for a technoeconomic assessment (TEA) of their production. It further highlights the potential new directions in SAF development.

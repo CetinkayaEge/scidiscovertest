@@ -1,0 +1,9 @@
+Title: Sustainable practices in cocoa production. The role of certification schemes and farmer cooperatives
+Authors: Katharina Krumbiegel, Pascal Tillie
+Year: 2024
+Venue: Ecological Economics
+DOI: https://doi.org/10.1016/j.ecolecon.2024.108211
+Paper ID: https://openalex.org/W4395688401
+
+Abstract:
+In Côte d'Ivoire and Ghana, many small-scale cocoa producers cultivate cocoa in unshaded or low-shaded plots, leading to challenges such as reduced biodiversity, soil fertility depletion, and increased soil erosion. To assess the adoption of sustainable agricultural practices in the cocoa sector, we develop a scale that incorporates dimensions of agroforestry, soil conservation, pest and disease management and farm sanitation. Using data from >1700 cocoa producers, we examine farmer participation in cooperatives and three main certification schemes (incl. Fairtrade, Rainforest Alliance and Organic) to understand their roles in promoting sustainable practices. We apply a multinomial endogenous switching regression model to control for potential selection bias and estimate the impact of participating in certification schemes, farmer cooperatives or both. In Côte d'Ivoire, econometric results show that joint participation in both a certification scheme and a farmer cooperative is associated with a significantly higher sustainability score. In Ghana, certification scheme membership shows the highest effect.

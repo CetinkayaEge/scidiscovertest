@@ -1,0 +1,9 @@
+Title: DNMT1 regulates human endometrial carcinoma cell proliferation
+Authors: Xinjing Wang, Bilan Li
+Year: 2017
+Venue: OncoTargets and therapy
+DOI: 10.2147/OTT.S130022
+Paper ID: pmc_PMC5384697
+
+Abstract:
+Endometrial carcinoma (EC) is the most common gynecologic malignancy, but the molecular events involved in the development and progression of EC remain unclear. This study aimed to investigate the role of DNA methyltransferase 1 (DNMT1), a member of DNA methyltransferases, in EC. AN3CA cells were transfected with DNMT1 siRNA. The proliferation, cell cycle, and apoptosis of AN3CA cells were evaluated by Cell Counting Kit-8 (CCK-8) assay and flow cytometry. The expression of related genes was detected by polymerase chain reaction and Western blot analysis. Knockdown of DNMT1 inhibited the proliferation, induced apoptosis, and G0/G1 phase arrest of AN3CA cells. Furthermore, knockdown of DNMT1 upregulated the expression of nuclear factor kappa-B-inhibitor alpha (NF-κBIA) and Bax and downregulated the expression of Bcl-2 and CCND1/2 in AN3CA cells. In conclusion, this study provides the first evidence that knockdown of DNMT1 affects the expression of cell cycle- and apoptosis-associated proteins in EC cells, suggesting the potential of DNMT1 in EC therapy.

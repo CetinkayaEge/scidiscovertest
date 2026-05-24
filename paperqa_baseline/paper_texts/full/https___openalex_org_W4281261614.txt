@@ -1,0 +1,9 @@
+Title: Towards Low Cost and Sustainable Thin Film Thermoelectric Devices Based on Quaternary Chalcogenides
+Authors: Eleonora Isotta, Jacob Andrade‐Arvizu, Ubaidah Syafiq, Alex Jiménez‐Arguijo, Alejandro Navarro‐Güell, Maxim Guc, Edgardo Saucedo, Paolo Scardi
+Year: 2022
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202202157
+Paper ID: https://openalex.org/W4281261614
+
+Abstract:
+Abstract A major challenge in thermoelectrics (TEs) is developing devices made of sustainable, abundant, and non‐toxic materials. Furthermore, the technological drive toward low sizes makes crucial the study of nano and micro configurations. In this work, thin film TE devices based on p‐type Cu 2+ x Zn 1‐ x SnS 4 and Cu 2+ x Zn 1‐ x SnSe 4 , and n‐type Al y Zn 1‐ y O are fabricated by physical vapor deposition. The kesterite phases show good purity and promising TE power factor, likely enhanced by the copper–zinc order–disorder transition. Thin film generators in planar configuration are assembled by a sequential deposition of the p‐type, n‐type, and contact materials. The power per unit planar area reaches 153 and 279 nW cm −2 for the sulphur‐ and selenium‐based generators, respectively. These values significantly outperform any other literature attempt based on sustainable and low‐cost thin films. Furthermore, if compared with traditional TEs often made of scarce and toxic materials, these devices offer a cost reduction above 80%. This allows reaching comparable values of power density per unit material cost, representing a first real step toward the development of sustainable and non‐toxic thin film TE devices. These can find applications in micro energy harvesters, microelectronics coolers, and temperature controllers for wearables, medical appliances, and sensors for the internet of things.

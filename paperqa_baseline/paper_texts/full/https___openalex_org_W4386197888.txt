@@ -1,0 +1,9 @@
+Title: Comprehensive analysis of tool wear, surface roughness and chip morphology in sustainable turning of Inconel-601 alloy
+Authors: Mehmet Erdi Korkmaz, Munish Kumar Gupta, Mustafa Günay, Mehmet Boy, Nafiz Yaşar, Recep Demirsöz, Nimel Sworna Ross, Y. Abbas
+Year: 2023
+Venue: Journal of Manufacturing Processes
+DOI: https://doi.org/10.1016/j.jmapro.2023.08.026
+Paper ID: https://openalex.org/W4386197888
+
+Abstract:
+The objective of this research was to explore the impact of various cooling conditions on machinability, as potential alternatives to traditional cooling methods. To achieve this aim, a series of experiments were performed, where dry machining, minimum quantity lubrication (MQL), nanofluids, cryogenic (cryo) cooling, and hybrid cooling (cryo+nano MQL) methods were tested. Under distinct nanofluids conditions hBN(0.2 %) + graphene(0.2 %) performed well and overall cryo+nano MQL produced better result in terms of tool wear, microhardness, surface and chip morphology. The results demonstrated that the cooling effect of the Cryo-MQL regime, which maintains the cutting temperature at a tolerable level and preserves the lubricant performance of the MQL, is the cause of the lowest Vb value of 90 μm.

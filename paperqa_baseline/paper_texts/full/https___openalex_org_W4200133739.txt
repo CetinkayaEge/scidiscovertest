@@ -1,0 +1,9 @@
+Title: Application of digital technologies for sustainable product management in a circular economy – a review
+Authors: Magdalena Rusch, Josef‐Peter Schöggl, Rupert J. Baumgartner
+Year: 2021
+Venue: 
+DOI: https://doi.org/10.31235/osf.io/twgks
+Paper ID: https://openalex.org/W4200133739
+
+Abstract:
+Digital technologies (DTs), such as the internet of things, big data, artificial intelligence or blockchain, are considered as enablers for a more sustainable and circular economy. So far, literature on these topics has mostly focused on specific DTs and sub-areas of sustainable product management (SPM). The aim of this paper is to provide a more comprehensive overview of current and potential examples of DT applications in SPM (e.g., product design/assessment, supply chain management, business models). The collected examples (n=146) were analyzed based on a systematic literature review, using quantitative and qualitative content analysis. Deductive and inductive analyses of the examples revealed the potential of DTs in terms of their useability along the product life cycle, their role as enablers for circular economy strategies and in specific SPM activities. DT application often entails only incremental improvements, e.g., increased efficiency of existing processes, with more radical forms of improvement remaining relatively scarce. There is clear room for greater adoption and optimization of DTs, in various areas of SPM, so as to accelerate the transition towards a more sustainable and circular economy.

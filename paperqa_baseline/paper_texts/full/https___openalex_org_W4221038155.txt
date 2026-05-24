@@ -1,0 +1,9 @@
+Title: Making Digital Health “Solutions” Sustainable in Healthcare Systems: A Practitioner Perspective
+Authors: Matthew Cripps, Harry Scarbrough
+Year: 2022
+Venue: Frontiers in Digital Health
+DOI: https://doi.org/10.3389/fdgth.2022.727421
+Paper ID: https://openalex.org/W4221038155
+
+Abstract:
+Digital health solutions have the potential to bring about great improvements in the delivery and quality of services in healthcare systems. In this paper, we draw on the extensive experience of NHS (National Health Service) England to develop a practitioner perspective on the challenges of effectively implementing and sustaining such solutions. We argue that a properly sustainable approach requires a shift in both thinking and practice when it comes to the spread and adoption of such technologies. Our thinking needs to shift from a focus on the technology itself to how we bring about the changes needed to deliver more efficient and effective care for patients. In practical terms, this means focussing on the changes involved to integrate digital health solutions into the delivery of services. In particular, it requires greater attention to the motivations, constraints and specific contexts that influence users and patients. The technical expertise of innovators therefore needs to be complemented by other forms of insight into change processes, including clinical and behavioral insight, process engineering and knowledge management. In this paper, we show how these different pillars of the NHS Sustainable Healthcare approach help to ensure the effective implementation and use of digital solutions. We draw out the implications of this approach for policy-makers in healthcare systems, highlighting the need to give greater attention and resources to the downstream challenges of implementing digital health solutions.

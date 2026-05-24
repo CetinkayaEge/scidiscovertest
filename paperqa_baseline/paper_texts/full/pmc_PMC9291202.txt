@@ -1,0 +1,9 @@
+Title: Subsampling of cues in associative learning
+Authors: Omar D. Perez, Edgar H. Vogel, Sanjay Narasiwodeyar, Fabian A. Soto
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053602.122
+Paper ID: pmc_PMC9291202
+
+Abstract:
+Theories of learning distinguish between elemental and configural stimulus processing depending on whether stimuli are processed independently or as whole configurations. Evidence for elemental processing comes from findings of summation in animals where a compound of two dissimilar stimuli is deemed to be more predictive than each stimulus alone, whereas configural processing is supported by experiments using similar stimuli in which summation is not found. However, in humans the summation effect is robust and impervious to similarity manipulations. In three experiments in human predictive learning, we show that summation can be obliterated when partially reinforced cues are added to the summands in training and tests. This lack of summation only holds when the partially reinforced cues are similar to the reinforced cues (experiment 1) and seems to depend on participants sampling only the most salient cue in each trial (experiments 2a and 2b) in a sequential visual search process. Instead of attributing our and others’ instances of lack of summation to the customary idea of configural processing, we offer a formal subsampling rule that might be applied to situations in which the stimuli are hard to parse from each other.

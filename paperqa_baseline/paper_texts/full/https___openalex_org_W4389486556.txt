@@ -1,0 +1,9 @@
+Title: Review on microgrids design and monitoring approaches for sustainable green energy networks
+Authors: Ijaz Ahmed, Muhammad Rehan, Abdul Basit, Hasnain Ahmad, Waqas Ahmed, Nasim Ullah, Marian Piecha, Vojtěch Blažek, Lukáš Prokop
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-48985-7
+Paper ID: https://openalex.org/W4389486556
+
+Abstract:
+Microgrids are power distribution systems that can operate either in a grid-connected configuration or in an islanded manner, depending on the availability of decentralized power resources, such as sustainable or non-sustainable power sources, battery backup systems, and power demands. The extensive adoption of inverter-based systems poses numerous technological challenges, necessitating a centralized management system to assure the system reliability and monitoring of the energy delivery networks. Thus, this research begins by highlighting these significant obstacles and then analyzes the present-day advances in multilevel control architecture for delivering on promised functionality. This article also discusses the development of innovative control technologies, such as introducing collaborative distributed approaches and reducing conventional three-stage patriarchal administration to fewer stages of system integration and functioning.

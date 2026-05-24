@@ -1,0 +1,9 @@
+Title: Biocontrol of plant parasitic nematodes by bacteria and fungi: a multi-omics approach for the exploration of novel nematicides in sustainable agriculture
+Authors: Muhammad Ayaz, Jing-Tian Zhao, Wei Zhao, Yuankai Chi, Qurban Ali, Farman Ali, Abdur Rashid Khan, Qing Yu, Jing-Wen Yu, Wen-Cui Wu, Rende Qi, Wenkun Huang
+Year: 2024
+Venue: Frontiers in Microbiology
+DOI: https://doi.org/10.3389/fmicb.2024.1433716
+Paper ID: https://openalex.org/W4401038622
+
+Abstract:
+Plant parasitic nematodes (PPNs) pose a significant threat to global crop productivity, causing an estimated annual loss of US $157 billion in the agriculture industry. While synthetic chemical nematicides can effectively control PPNs, their overuse has detrimental effects on human health and the environment. Biocontrol agents (BCAs), such as bacteria and fungi in the rhizosphere, are safe and promising alternatives for PPNs control. These BCAs interact with plant roots and produce extracellular enzymes, secondary metabolites, toxins, and volatile organic compounds (VOCs) to suppress nematodes. Plant root exudates also play a crucial role in attracting beneficial microbes toward infested roots. The complex interaction between plants and microbes in the rhizosphere against PPNs is mostly untapped which opens new avenues for discovering novel nematicides through multi-omics techniques. Advanced omics approaches, including metagenomics, transcriptomics, proteomics, and metabolomics, have led to the discovery of nematicidal compounds. This review summarizes the status of bacterial and fungal biocontrol strategies and their mechanisms for PPNs control. The importance of omics-based approaches for the exploration of novel nematicides and future directions in the biocontrol of PPNs are also addressed. The review highlighted the potential significance of multi-omics techniques in biocontrol of PPNs to ensure sustainable agriculture.

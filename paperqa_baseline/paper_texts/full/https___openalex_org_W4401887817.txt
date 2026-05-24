@@ -1,0 +1,9 @@
+Title: Using blockchain and AI technologies for sustainable, biodiverse, and transparent fisheries of the future
+Authors: Naif Alsharabi, Jalel Ktari, Tarek Frikha, Abdulaziz M. Alayba, Abdullah J. Alzahrani, Amr Mohsen Jadi, Habib Hamam
+Year: 2024
+Venue: Journal of Cloud Computing Advances Systems and Applications
+DOI: https://doi.org/10.1186/s13677-024-00696-8
+Paper ID: https://openalex.org/W4401887817
+
+Abstract:
+This paper proposes a total fusion of blockchain and AI tech for tomorrow’s viable, rich in diversity and transparent fisheries. It outlines the main goal of tackling overfishing challenges due to lack of transparency and biodiversity depletion in the fisheries sector. With the use of blockchain technology, we can ensure that all fishery products are safely traced from their harvest up to when they get to the market— at the same time, AI algorithms are used in monitoring fish populations and predicting them plus decision-making processes which should be enhanced thus promoting bio-diversity and ensuring sustainability of fish stocks. Results show promise on using both technologies together: improving sustainability plus transparency in fisheries which would promote more fish biodiversity, while others including using an artificial intelligence system have not been confirmed yet by observations. The conclusion underscores the transformative nature of these technologies as having great implications towards fisheries management; this implies that there is a need for future observational studies aimed at validating such other findings.

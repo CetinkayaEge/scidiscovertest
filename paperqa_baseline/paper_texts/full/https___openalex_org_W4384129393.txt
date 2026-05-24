@@ -1,0 +1,9 @@
+Title: Multiplex CRISPR editing of wood for sustainable fiber production
+Authors: Daniel B. Sulis, Xiao Jiang, Chenmin Yang, Barbara M. Marques, Megan L. Matthews, Zachary Miller, Kai Lan, Carlos Cofre-Vega, Baoguang Liu, Runkun Sun, Henry Sederoff, Ryan G. Bing, Xiaoyan Sun, Cranos Williams, Hasan Jameel, Richard Phillips, Hou‐min Chang, Ilona Peszlen, Yung-Yun Huang, Wei Li, Robert M. Kelly, Ronald R. Sederoff, Vincent L. Chiang, Rodolphe Barrangou, Jack Wang
+Year: 2023
+Venue: Science
+DOI: https://doi.org/10.1126/science.add4514
+Paper ID: https://openalex.org/W4384129393
+
+Abstract:
+The domestication of forest trees for a more sustainable fiber bioeconomy has long been hindered by the complexity and plasticity of lignin, a biopolymer in wood that is recalcitrant to chemical and enzymatic degradation. Here, we show that multiplex CRISPR editing enables precise woody feedstock design for combinatorial improvement of lignin composition and wood properties. By assessing every possible combination of 69,123 multigenic editing strategies for 21 lignin biosynthesis genes, we deduced seven different genome editing strategies targeting the concurrent alteration of up to six genes and produced 174 edited poplar variants. CRISPR editing increased the wood carbohydrate-to-lignin ratio up to 228% that of wild type, leading to more-efficient fiber pulping. The edited wood alleviates a major fiber-production bottleneck regardless of changes in tree growth rate and could bring unprecedented operational efficiencies, bioeconomic opportunities, and environmental benefits.

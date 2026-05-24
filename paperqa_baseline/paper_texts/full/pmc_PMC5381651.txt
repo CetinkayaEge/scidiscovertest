@@ -1,0 +1,9 @@
+Title: The Diversification of Evolutionarily Conserved MAPK Cascades Correlates with the Evolution of Fungal Species and Development of Lifestyles
+Authors: Chuan Xu, Ran Liu, Qiangqiang Zhang, Xiaoxuan Chen, Ying Qian, Weiguo Fang
+Year: 2017
+Venue: Genome Biology and Evolution
+DOI: 10.1093/gbe/evw051
+Paper ID: pmc_PMC5381651
+
+Abstract:
+The fungal kingdom displays an extraordinary diversity of lifestyles, developmental processes, and ecological niches. The MAPK (mitogen-activated protein kinase) cascade consists of interlinked MAPKKK, MAPKK, and MAPK, and collectively such cascades play pivotal roles in cellular regulation in fungi. However, the mechanism by which evolutionarily conserved MAPK cascades regulate diverse output responses in fungi remains unknown. Here we identified the full complement of MAPK cascade components from 231 fungal species encompassing 9 fungal phyla. Using the largest data set to date, we found that MAPK family members could have two ancestors, while MAPKK and MAPKKK family members could have only one ancestor. The current MAPK, MAPKK, and MAPKKK subfamilies resulted from duplications and subsequent subfunctionalization during the emergence of the fungal kingdom. However, the gene structure diversification and gene expansion and loss have resulted in significant diversity in fungal MAPK cascades, correlating with the evolution of fungal species and lifestyles. In particular, a distinct evolutionary trajectory of MAPK cascades was identified in single-celled fungi in the Saccharomycetes. All MAPK, MAPKK, and MAPKKK subfamilies expanded in the Saccharomycetes; genes encoding MAPK cascade components have a similar exon–intron structure in this class that differs from those in other fungi.

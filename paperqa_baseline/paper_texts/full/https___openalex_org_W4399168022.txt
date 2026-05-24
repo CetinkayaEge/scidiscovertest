@@ -1,0 +1,9 @@
+Title: Imbalanced speciation pulses sustain the radiation of mammals
+Authors: Ignacio Quintero, Nicolas Lartillot, Hélène Morlon
+Year: 2024
+Venue: Science
+DOI: https://doi.org/10.1126/science.adj2793
+Paper ID: https://openalex.org/W4399168022
+
+Abstract:
+The evolutionary histories of major clades, including mammals, often comprise changes in their diversification dynamics, but how these changes occur remains debated. We combined comprehensive phylogenetic and fossil information in a new "birth-death diffusion" model that provides a detailed characterization of variation in diversification rates in mammals. We found an early rising and sustained diversification scenario, wherein speciation rates increased before and during the Cretaceous-Paleogene (K-Pg) boundary. The K-Pg mass extinction event filtered out more slowly speciating lineages and was followed by a subsequent slowing in speciation rates rather than rebounds. These dynamics arose from an imbalanced speciation process, with separate lineages giving rise to many, less speciation-prone descendants. Diversity seems to have been brought about by these isolated, fast-speciating lineages, rather than by a few punctuated innovations.

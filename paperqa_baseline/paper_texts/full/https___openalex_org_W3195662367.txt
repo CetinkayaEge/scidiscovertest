@@ -1,0 +1,9 @@
+Title: Sustainable industrial and operation engineering trends and challenges Toward Industry 4.0: a data driven analysis
+Authors: Ming‐Lang Tseng, Thi Phuong Thuy Tran, Hiền Minh Hà, Tat‐Dat Bui, Ming K. Lim
+Year: 2021
+Venue: Journal of Industrial and Production Engineering
+DOI: https://doi.org/10.1080/21681015.2021.1950227
+Paper ID: https://openalex.org/W3195662367
+
+Abstract:
+This study supplies contributions to the existing literature with a state-of-the-art bibliometric review of sustainable industrial and operation engineering as the field moves toward Industry 4.0, and guidance for future studies and practical achievements. Although industrial and operation engineering is being promoted forward to sustainability, the systematization of the knowledge that forms firms’ manufacturing and operations and encompasses their wide concepts and abundant complementary elements is still absent. This study aims to analyze contemporary sustainable industrial and operations engineering in Industry 4.0 context. The bibliometric analysis and fuzzy Delphi method are proposed. Resulting in a total of 30 indicators that are criticized and clustered into eight study groups, including lean manufacturing in Industry 4.0, cyber-physical production system, big data-driven and smart communications, safety and security, artificial intelligence for sustainability, the circular economy in a digital environment, business intelligence and virtual reality, and environmental sustainability.

@@ -1,0 +1,9 @@
+Title: Obesity-Associated Hepatic Steatosis, Somatotropic Axis Impairment, and Ferritin Levels Are Strong Predictors of COVID-19 Severity
+Authors: Davide Masi, Elena Gangitano, Anna Criniti, Laura Ballesio, Antonella Anzuini, Luca Marino, Lucio Gnessi, Antonio Angeloni, Orietta Gandini, Carla Lubrano
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15020488
+Paper ID: pmc_PMC9968194
+
+Abstract:
+The full spectrum of SARS-CoV-2-infected patients has not yet been defined. This study aimed to evaluate which parameters derived from CT, inflammatory, and hormonal markers could explain the clinical variability of COVID-19. We performed a retrospective study including SARS-CoV-2–infected patients hospitalized from March 2020 to May 2021 at the Umberto I Polyclinic of Rome. Patients were divided into four groups according to the degree of respiratory failure. Routine laboratory examinations, BMI, liver steatosis indices, liver CT attenuation, ferritin, and IGF-1 serum levels were assessed and correlated with severity. Analysis of variance between groups showed that patients with worse prognoses had higher BMI and ferritin levels, but lower liver density, albumin, GH, and IGF-1. ROC analysis confirmed the prognostic accuracy of IGF-1 in discriminating between patients who experienced death/severe respiratory failure and those who did not (AUC 0.688, CI: 0.587 to 0.789, p < 0.001). A multivariate analysis considering the degrees of severity of the disease as the dependent variable and ferritin, liver density, and the standard deviation score of IGF-1 as regressors showed that all three parameters were significant predictors. Ferritin, IGF-1, and liver steatosis account for the increased risk of poor prognosis in COVID-19 patients with obesity.

@@ -1,0 +1,9 @@
+Title: Impact of glaucoma on the spatial frequency processing of scenes in central vision
+Authors: Audrey Trouilloud, Elvia Ferry, Muriel Boucart, Louise Kauffmann, Aude Warniez, Jean-François Rouland, Carole Peyrin
+Year: 2023
+Venue: Visual Neuroscience
+DOI: 10.1017/S0952523822000086
+Paper ID: pmc_PMC9970733
+
+Abstract:
+Glaucoma is an eye disease characterized by a progressive vision loss usually starting in peripheral vision. However, a deficit for scene categorization is observed even in the preserved central vision of patients with glaucoma. We assessed the processing and integration of spatial frequencies in the central vision of patients with glaucoma during scene categorization, considering the severity of the disease, in comparison to age-matched controls. In the first session, participants had to categorize scenes filtered in low-spatial frequencies (LSFs) and high-spatial frequencies (HSFs) as a natural or an artificial scene. Results showed that the processing of spatial frequencies was impaired only for patients with severe glaucoma, in particular for HFS scenes. In the light of proactive models of visual perception, we investigated how LSF could guide the processing of HSF in a second session. We presented hybrid scenes (combining LSF and HSF from two scenes belonging to the same or different semantic category). Participants had to categorize the scene filtered in HSF while ignoring the scene filtered in LSF. Surprisingly, results showed that the semantic influence of LSF on HSF was greater for patients with early glaucoma than controls, and then disappeared for the severe cases. This study shows that a progressive destruction of retinal ganglion cells affects the spatial frequency processing in central vision. This deficit may, however, be compensated by increased reliance on predictive mechanisms at early stages of the disease which would however decline in more severe cases.

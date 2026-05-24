@@ -1,0 +1,9 @@
+Title: Collaborative approaches in sustainable and resilient manufacturing
+Authors: Luís M. Camarinha-Matos, André Dionísio Rocha, Paula Graça
+Year: 2022
+Venue: Journal of Intelligent Manufacturing
+DOI: https://doi.org/10.1007/s10845-022-02060-6
+Paper ID: https://openalex.org/W4311624088
+
+Abstract:
+In recent years, the manufacturing sector is going through a major transformation, as reflected in the concept of Industry 4.0 and digital transformation. The urge for such transformation is intensified when we consider the growing societal demands for sustainability. The notion of sustainable manufacturing has emerged as a result of this trend. Additionally, industries and the whole society face the challenges of an increasing number of disruptive events, either natural or human-caused, that can severely affect the normal operation of systems. Furthermore, the growing interconnectivity between organizations, people, and physical systems, supported by recent developments in information and communication technologies, highlights the important role that collaborative networks can play in the digital transformation processes. As such, this article analyses potential synergies between the areas of sustainable and resilient manufacturing and collaborative networks. The work also discusses how the responsibility for the various facets of sustainability can be distributed among the multiple entities involved in manufacturing. The study is based on a literature survey, complemented with the experience gained from various research projects and related initiatives in the area, and is organized according to various dimensions of Industry 4.0. A brief review of proposed approaches and indicators for measuring sustainability from the networked manufacturing perspective is also included. Finally, a set of key research challenges are identified to complement strategic research agendas in manufacturing.

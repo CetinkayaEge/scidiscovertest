@@ -1,0 +1,9 @@
+Title: Revealing Local Temporal Profile of Laser Pulses of Intensity above 10 14 W/cm 2
+Authors: Qi Lu, Xiang Zhang, Arnaud Couairon, Yi Liu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063101
+Paper ID: pmc_PMC10054389
+
+Abstract:
+We demonstrated a method for in situ temporal characterization of an intense femtosecond laser pulse around its focus where the laser intensity exceeds 10 14 W/cm 2 . Our method is based on the second harmonic generation (SHG) by a relatively weak femtosecond probe pulse and the intense femtosecond pulses under analysis in the gas plasma. With the increase in the gas pressure, it was found that the incident pulse evolves from a Gaussian profile to a more complicated structure featured by multiple peaks in the temporal domain. Numerical simulations of filamentation propagation support the experimental observations of temporal evolution. This simple method can be applied to many situations involving femtosecond laser–gas interaction, when the temporal profile of the femtosecond pump laser pulse with an intensity above 10 14 W/cm 2 cannot be measured in traditional ways.

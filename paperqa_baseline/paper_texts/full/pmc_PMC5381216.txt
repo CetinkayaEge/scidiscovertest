@@ -1,0 +1,9 @@
+Title: An in-line Mach-Zehnder Interferometer Using Thin-core Fiber for Ammonia Gas Sensing With High Sensitivity
+Authors: Xinyue Huang, Xueming Li, Jianchun Yang, Chuanyi Tao, Xiaogang Guo, Hebin Bao, Yanjun Yin, Huifei Chen, Yuhua Zhu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep44994
+Paper ID: pmc_PMC5381216
+
+Abstract:
+Ammonia is an important indicator among environmental monitoring parameters. In this work, thin-core fiber Mach-Zehnder interferometer deposited with poly (acrylic acid) (PAA), poly (allyamine hydrochloride) (PAH) and single-walled carbon nanotubes (SWCNTs-COOH) sensing film for the detection of ammonia gas has been presented. The thin-core fiber modal interferometer was made by fusion splicing a small section of thin-core fiber (TCF) between two standard single mode fibers (SMF). A beam propagation method (BPM) is employed for the design of proposed interferometer and numerical simulation. Based on the simulation results, interferometer with a length of 2 cm of thin-core fiber is fabricated and experimentally studied. (PAH/PAA) 2 + [PAH/(PAA + SWCNTs-COOH)] 8 film is deposited on the outer surface of thin-core fiber via layer-by-layer (LbL) self-assembly technique. The gas sensor coated with (PAH/PAA) 2 + [PAH/(PAA + SWCNTs-COOH)] 8 film towards NH 3 gas exposure at concentrations range from 1 to 960 ppm are analyzed and the sensing capability is demonstrated by optical spectrum analyzer (OSA). Experimental results show that the characteristic wavelength shift has an approximately linear relationship in the range 1–20 ppm, which is in accordance with the numerical simulation. Thus, this paper reveals the potential application of this sensor in monitoring low concentration NH 3 gas.

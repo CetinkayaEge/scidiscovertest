@@ -1,0 +1,9 @@
+Title: A vision of 14 T MR for fundamental and clinical science
+Authors: Steve Bates, Serge O. Dumoulin, Paul J. M. Folkers, Elia Formisano, Rainer Goebel, Aidin Haghnejad, Rick C. Helmich, Dennis Klomp, Anja G. van der Kolk, Yi Li, Aart Nederveen, David G. Norris, Natalia Petridou, Stefan Roell, Tom W. J. Scheenen, Menno M. Schoonheim, Ingmar Voogt, Andrew Webb
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01081-3
+Paper ID: pmc_PMC10088620
+
+Abstract:
+Objective We outline our vision for a 14 Tesla MR system. This comprises a novel whole-body magnet design utilizing high temperature superconductor; a console and associated electronic equipment; an optimized radiofrequency coil setup for proton measurement in the brain, which also has a local shim capability; and a high-performance gradient set. Research fields The 14 Tesla system can be considered a ‘mesocope’: a device capable of measuring on biologically relevant scales. In neuroscience the increased spatial resolution will anatomically resolve all layers of the cortex, cerebellum, subcortical structures, and inner nuclei. Spectroscopic imaging will simultaneously measure excitatory and inhibitory activity, characterizing the excitation/inhibition balance of neural circuits. In medical research (including brain disorders) we will visualize fine-grained patterns of structural abnormalities and relate these changes to functional and molecular changes. The significantly increased spectral resolution will make it possible to detect (dynamic changes in) individual metabolites associated with pathological pathways including molecular interactions and dynamic disease processes. Conclusions The 14 Tesla system will offer new perspectives in neuroscience and fundamental research. We anticipate that this initiative will usher in a new era of ultra-high-field MR.

@@ -1,0 +1,9 @@
+Title: Game-Based Social Learning for Socially Sustainable Water Management
+Authors: Joop de Kraker, Astrid Offermans, Merel M. van der Wal
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094646
+Paper ID: https://openalex.org/W3157430774
+
+Abstract:
+An important aspect of the social sustainability of a proposed solution is acceptance by societal stakeholders. Acceptance is determined by the extent to which the solution matches with stakeholder perspectives on the problem and preferred ways to deal with it. Social learning can contribute to the social sustainability of water management strategies by achieving a convergence in perspectives among societal stakeholders. Serious games have proven to be effective in generating this type of social learning outcomes, but the underlying mechanisms are still unclear. This article aims to clarify how a multi-player serious game on river management (Sustainable Delta) supports social learning among participants with initially diverging perspectives. Based on a conceptual framework for game-based social learning, hypotheses and expectations were formulated and tested with quantitative and qualitative analyses of game sessions. Convergence of perspectives was observed in 10 out of 12 gaming sessions, but could not, or could only to a limited extent, be explained by the presumed learning support mechanisms in the game’s design. This underlines the importance of opening up the black box of serious games to determine how and why they work. If this is neglected, there is a clear risk that the design of games will be based on wrong, untested assumptions and will be less effective in supporting social learning and social sustainability.

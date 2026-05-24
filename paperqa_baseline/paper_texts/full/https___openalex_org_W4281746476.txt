@@ -1,0 +1,9 @@
+Title: Do young people really engage in sustainable behaviors in their lifestyles?
+Authors: Alfonso Piscitelli, Angela Maria D’Uggento
+Year: 2022
+Venue: Social Indicators Research
+DOI: https://doi.org/10.1007/s11205-022-02955-0
+Paper ID: https://openalex.org/W4281746476
+
+Abstract:
+Abstract In recent years, environmental problems have become a serious issue worldwide due to the increasing damage caused by climate change. People’s environmental awareness has grown, and public opinion is now demanding effective action from governments. Young people around the world are playing an important role in this, with the Fridays For Future movement, calling on policymakers to make environmental protection one of their political priorities. Through a survey of 1,975 high school students, this paper aims to contribute to the study of young people’s sustainable behaviors and their awareness to take effective action against environmental degradation, to explore their concerns and opinions about environmental issues, and to find out what ecological practices they are willing to adopt in their daily lives. Data analysis is conducted using tree-based methods to examine the sustainable behaviors and define the key practices that constitute them. The results of classification tree show that sustainable behaviors impact lifestyles, whether through less demanding actions such as turning off the faucet or appliances, or willingness to work as a volunteer, among others. The Random Forest provides us with a ranked list of sustainable behaviors that young people engage in to reduce and stop environmental degradation. The results of this study may be of interest to policy makers who need to plan educational pathways for students from elementary school to university, as environmental culture must be a cornerstone of our society.

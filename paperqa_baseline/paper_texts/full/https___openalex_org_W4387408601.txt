@@ -1,0 +1,9 @@
+Title: Metabolic support by macrophages sustains colonic epithelial homeostasis
+Authors: Stephanie Deborah Fritsch, Nyamdelger Sukhbaatar, Karine Gonzales, Alishan Sahu, Loan Tran, Andrea Vogel, Mario Mazic, Jayne Louise Wilson, Stephan Forisch, Hannah L. Mayr, Raimund Oberle, Jakob Weiszmann, Martin Brenner, Roeland Vanhoutte, Melanie Hofmann, Sini Pirnes-Karhu, Christoph Magnes, Torben Kühnast, Wolfram Weckwerth, Christoph Bock, Kristaps Klavins, Markus Hengstschläger, Christine Moissl‐Eichinger, Gernot Schabbauer, Gerda Egger, Eija Pirinen, Steven H. L. Verhelst, Thomas Weichhart
+Year: 2023
+Venue: Cell Metabolism
+DOI: https://doi.org/10.1016/j.cmet.2023.09.010
+Paper ID: https://openalex.org/W4387408601
+
+Abstract:
+The intestinal epithelium has a high turnover rate and constantly renews itself through proliferation of intestinal crypt cells, which depends on insufficiently characterized signals from the microenvironment. Here, we showed that colonic macrophages were located directly adjacent to epithelial crypt cells in mice, where they metabolically supported epithelial cell proliferation in an mTORC1-dependent manner. Specifically, deletion of tuberous sclerosis complex 2 (Tsc2) in macrophages activated mTORC1 signaling that protected against colitis-induced intestinal damage and induced the synthesis of the polyamines spermidine and spermine. Epithelial cells ingested these polyamines and rewired their cellular metabolism to optimize proliferation and defense. Notably, spermine directly stimulated proliferation of colon epithelial cells and colon organoids. Genetic interference with polyamine production in macrophages altered global polyamine levels in the colon and modified epithelial cell proliferation. Our results suggest that macrophages act as “commensals” that provide metabolic support to promote efficient self-renewal of the colon epithelium.

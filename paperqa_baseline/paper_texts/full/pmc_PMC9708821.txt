@@ -1,0 +1,9 @@
+Title: Partial differential equations modeling of thermal transportation in Casson nanofluid flow with arrhenius activation energy and irreversibility processes
+Authors: Khalid Fanoukh Al Oweidi, Wasim Jamshed, B. Shankar Goud, Imran Ullah, Usman, Siti Suzilliana Putri Mohamed Isa, Sayed M. El Din, Kamel Guedri, Refed Adnan Jaleel
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-25010-x
+Paper ID: pmc_PMC9708821
+
+Abstract:
+The formation of entropy in a mixed convection Casson nanofluid model with Arhenius activation energy is examined in this paper using magnetohydrodynamics (MHD). The expanding sheet, whose function of sheet velocity is nonlinear, confines the Casson nanofluid. The final equations, which are obtained from the first mathematical formulations, are solved using the MATLAB built-in solver bvp4c. Utilizing similarity conversion, ODEs are converted in their ultimate form. A number of graphs and tabulations are also provided to show the effects of important flow parameters on the results distribution. Slip parameter was shown to increase fluid temperature and decrease entropy formation. On the production of entropy, the Brinkman number and concentration gradient have opposing effects. In the presence of nanoparticles, the Eckert number effect's augmentation of fluid temperature is more significant. Furthermore, a satisfactory agreement is reached when the findings of the current study are compared to those of studies that have been published in the past.

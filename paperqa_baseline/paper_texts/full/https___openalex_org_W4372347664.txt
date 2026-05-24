@@ -1,0 +1,9 @@
+Title: The Cost of Understanding—XAI Algorithms towards Sustainable ML in the View of Computational Cost
+Authors: Claire Jean-Quartier, Katharina Bein, Lukas Hejny, Edith Hofer, Andreas Holzinger, Fleur Jeanquartier
+Year: 2023
+Venue: Computation
+DOI: https://doi.org/10.3390/computation11050092
+Paper ID: https://openalex.org/W4372347664
+
+Abstract:
+In response to socioeconomic development, the number of machine learning applications has increased, along with the calls for algorithmic transparency and further sustainability in terms of energy efficient technologies. Modern computer algorithms that process large amounts of information, particularly artificial intelligence methods and their workhorse machine learning, can be used to promote and support sustainability; however, they consume a lot of energy themselves. This work focuses and interconnects two key aspects of artificial intelligence regarding the transparency and sustainability of model development. We identify frameworks for measuring carbon emissions from Python algorithms and evaluate energy consumption during model development. Additionally, we test the impact of explainability on algorithmic energy consumption during model optimization, particularly for applications in health and, to expand the scope and achieve a widespread use, civil engineering and computer vision. Specifically, we present three different models of classification, regression and object-based detection for the scenarios of cancer classification, building energy, and image detection, each integrated with explainable artificial intelligence (XAI) or feature reduction. This work can serve as a guide for selecting a tool to measure and scrutinize algorithmic energy consumption and raise awareness of emission-based model optimization by highlighting the sustainability of XAI.

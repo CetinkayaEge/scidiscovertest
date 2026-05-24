@@ -1,0 +1,9 @@
+Title: A Review of Applications and Communication Technologies for Internet of Things (IoT) and Unmanned Aerial Vehicle (UAV) Based Sustainable Smart Farming
+Authors: Nahina Islam, Md. Mamunur Rashid, Faezeh Pasandideh, Biplob Ray, Steven T. Moore, R. W. Kadel
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041821
+Paper ID: https://openalex.org/W3128370569
+
+Abstract:
+To reach the goal of sustainable agriculture, smart farming is taking advantage of the Unmanned Aerial Vehicles (UAVs) and Internet of Things (IoT) paradigm. These smart farms are designed to be run by interconnected devices and vehicles. Some enormous potentials can be achieved by the integration of different IoT technologies to achieve automated operations with minimum supervision. This paper outlines some major applications of IoT and UAV in smart farming, explores the communication technologies, network functionalities and connectivity requirements for Smart farming. The connectivity limitations of smart agriculture and it’s solutions are analysed with two case studies. In case study-1, we propose and evaluate meshed Long Range Wide Area Network (LoRaWAN) gateways to address connectivity limitations of Smart Farming. While in case study-2, we explore satellite communication systems to provide connectivity to smart farms in remote areas of Australia. Finally, we conclude the paper by identifying future research challenges on this topic and outlining directions to address those challenges.

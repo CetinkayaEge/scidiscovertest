@@ -1,0 +1,9 @@
+Title: Efficient and Sustainable Biodiesel Production via Transesterification: Catalysts and Operating Conditions
+Authors: Basiru O. Yusuf, Sulayman A. Oladepo, S. A. Ganiyu
+Year: 2024
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal14090581
+Paper ID: https://openalex.org/W4402123829
+
+Abstract:
+Biodiesel has received tremendous attention as a sustainable energy source. This review presents an overview of various catalysts utilized in biodiesel production and compares their potential for producing biodiesel. Presented here are the excellent features of the various catalysts while highlighting their drawbacks. For instance, production of biodiesel with homogeneous base catalysts is easy but it can only be used with refined oils having low levels of free fatty acid (FFAs). When homogeneous acid is used in esterification, it causes reactor corrosion. Water and FFAs do not affect heterogeneous acid catalysts. Thus, transesterification of triglycerides into biodiesel and converting FFAs into biodiesel through esterification can be catalyzed more efficiently using a heterogeneous acid catalyst. Biocatalysts are also being used to produce biodiesel from oils with high FFAs. However, heterogeneous acid catalysts and biocatalysts are not suitable for industrial application due to serious mass transfer limitations. Biodiesel yield and conversion were compared over various catalysts in this paper. Also presented are the effects of different reaction parameters on biodiesel yield over different catalysts. The correct interplay of factors like reaction temperature, time, alcohol-to-oil molar ratio, and catalyst loading produces optimal process conditions that give the highest biodiesel yield.

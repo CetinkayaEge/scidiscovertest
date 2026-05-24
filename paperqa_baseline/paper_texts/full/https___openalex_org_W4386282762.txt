@@ -1,0 +1,9 @@
+Title: Electrosprayed Stearic-Acid-Coated Ethylcellulose Microparticles for an Improved Sustained Release of Anticancer Drug
+Authors: Yuexin Ji, Hua Zhao, Hui Liu, Ping Zhao, Deng‐Guang Yu
+Year: 2023
+Venue: Gels
+DOI: https://doi.org/10.3390/gels9090700
+Paper ID: https://openalex.org/W4386282762
+
+Abstract:
+Sustained release is highly desired for "efficacious, safe and convenient" drug delivery, particularly for those anticancer drug molecules with toxicity. In this study, a modified coaxial electrospraying process was developed to coat a hydrophobic lipid, i.e., stearic acid (SA), on composites composed of the anticancer drug tamoxifen citrate (TC) and insoluble polymeric matrix ethylcellulose (EC). Compared with the electrosprayed TC-EC composite microparticles M1, the electrosprayed SA-coated hybrid microparticles M2 were able to provide an improved TC sustained-release profile. The 30% and 90% loaded drug sustained-release time periods were extended to 3.21 h and 19.43 h for M2, respectively, which were significantly longer than those provided by M1 (0.88 h and 9.98 h, respectively). The morphology, inner structure, physical state, and compatibility of the components of the particles M1 and M2 were disclosed through SEM, TEM, XRD, and FTIR. Based on the analyses, the drug sustained-release mechanism of multiple factors co-acting for microparticles M2 is suggested, which include the reasonable selections and organizations of lipid and polymeric excipient, the blank SA shell drug loading, the regularly round shape, and also the high density. The reported protocols pioneered a brand-new manner for developing sustained drug delivery hybrids through a combination of insoluble cellulose gels and lipid using modified coaxial electrospraying.

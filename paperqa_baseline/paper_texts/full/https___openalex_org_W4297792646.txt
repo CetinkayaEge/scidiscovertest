@@ -1,0 +1,9 @@
+Title: IoT, Environmental Sustainability, Agricultural Supply Chains
+Authors: Selwyn Piramuthu
+Year: 2022
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.08.098
+Paper ID: https://openalex.org/W4297792646
+
+Abstract:
+We discuss a few different IoT-based applications in agriculture and related food supply chains that help facilitate environmental sustainability. Specifically, we consider edibles as they move from farm to fork in terms of reduced environmental footprint that includes less energy consumption, reduced resource requirements, and less food wastage. We study IoT and sensor network use as they relate to environmental sustainability both during and after food production. During food production, precision farming and monitoring in cattle farms are discussed. After food production, we consider RFID-generated item-level information as it relates to environmental sustainability during food packaging, storage and transportation. Overall, we provide an overview of IoT use and related effects on environmental sustainability in agricultural supply chains.

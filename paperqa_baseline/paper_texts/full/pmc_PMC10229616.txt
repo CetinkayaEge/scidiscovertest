@@ -1,0 +1,9 @@
+Title: Experimental study on damage characteristics of Beishan granite under single loading and multiple loading with AE techniques
+Authors: Zihui Wang, Guanglei Zhou, Xinbo Ge
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35921-y
+Paper ID: pmc_PMC10229616
+
+Abstract:
+An insight into the damage characteristics of host rock is important for permanent disposal of high-level radioactive waste (HLW). Single loading and multiple loading tests for Beishan granite were carried out. The acoustic emission (AE) monitoring system was utilized simultaneously to measure the damage evolution in the specimens. The results show that, during single loading the AE signal has been maintained at a very high level after dilatancy. But a decreasing trend of AE signals can be observed when the axial stress approaches the peak stress. While during multiple loading, AE signals are mainly generated in the loading period in the elastic stage. However, in the failure and residual stages, AE signals generated in the unloading period are considerable. Most of the AE waveforms have a dominant frequency of less than 200 kHz and amplitude of less than 80 dB, and three frequency bands are obtained. In addition, the amplitude increases with the increase of loading stress. Furthermore, the obtained AE b-value s indicate that the relative proportion of micro- to macro-cracks increases first and then decreases with increasing confining pressure. And the AE a -values and b- values confirms that micro cracks develop rapidly in the damage stage and lead to the formation of macro cracks in the residual stage for the specimens experienced multiple loading.

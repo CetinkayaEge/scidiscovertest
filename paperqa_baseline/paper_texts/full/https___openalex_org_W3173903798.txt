@@ -1,0 +1,9 @@
+Title: The Nexus between Sustainable Economic Development and Government Health Expenditure in Asian Countries Based on Ecological Footprint Consumption
+Authors: Durdana Qaiser Gillani, Syed Ahmad Saad Gillani, Muhammad Zahid Naeem, Cristi Spulbăr, Elizabeth Y. S. Coker-Farrell, Abdullah Ejaz, Ramona Birău
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126824
+Paper ID: https://openalex.org/W3173903798
+
+Abstract:
+Health has vital importance in maintaining economic development since it is essential for, and a result of, economic development. This indicates that health makes a large contribution in achieving sustainable development and health outcomes. The significance of health is shown in the millennium development goals (MDGs) and in the sustainable development goals (SDGs), where four of the seventeen objectives focus on improving health outcomes (UN, 2021). As compared to other countries, some Asian countries are still worse off regarding health outcomes and are facing challenges in achieving positive outcomes for such goals. This study mainly focuses on identifying the link between public health expenditures and health outcomes in nine Asian economies from 2000 to 2018. The study implements fixed effects panel data estimations by using the Hausman specification test to identify the fixed effects model as the suitable estimator for the study. The empirical results from the fixed effects technique show that immunization, GDP per capita, trade openness, and utilization of basic water service facilities improve under-five and infant mortality in Asian economies. However, ecological footprint increases under-five and infant deaths by damaging the environment.

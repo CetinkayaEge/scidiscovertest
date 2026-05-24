@@ -1,0 +1,9 @@
+Title: Unraveling the mechanism of [4Fe‐4S] cluster assembly on the N‐terminal cluster binding site of NUBP1
+Authors: Beatrice Bargagna, Sara Matteucci, Simone Ciofi‐Baffoni, Francesca Camponeschi, Lucia Banci
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4625
+Paper ID: pmc_PMC10108433
+
+Abstract:
+Abstract [4Fe‐4S] 2+ cluster assembly in human cytosol requires both a [2Fe‐2S] cluster chaperone being able to donate two [2Fe‐2S] 2+ clusters and an electron donor providing two electrons to reductively couple the two [2Fe‐2S] 2+ clusters into a [4Fe‐4S] 2+ cluster. The mechanism through which the cytosolic [4Fe‐4S] 2+ cluster assembly works is still not defined. Here, we show that a hetero‐tetrameric complex formed by two molecules of cluster‐reduced [2Fe‐2S] + 2 ‐anamorsin and one molecule of dimeric cluster‐oxidized [2Fe‐2S] 2+ 2 ‐GLRX3 2 orchestrates the assembly of a [4Fe‐4S] 2+ cluster on the N‐terminal cluster binding site of the cytosolic protein NUBP1. We demonstrate that the hetero‐tetrameric complex is able to synergically provide two [2Fe‐2S] 2+ clusters from GLRX3 and two electrons from anamorsin for the assembly of the [4Fe‐4S] 2+ cluster on the N‐terminal cluster binding site of NUBP1. We also showed that only one of the two [2Fe‐2S] clusters bound to anamorsin, that is, that bound to the CX 8 CX 2 CXC motif, provides the electrons required to form the [4Fe‐4S] 2+ cluster. Our study contributes to the molecular understanding of the mechanism of [4Fe‐4S] protein biogenesis in the cytosol.

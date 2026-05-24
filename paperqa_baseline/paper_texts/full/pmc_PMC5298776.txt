@@ -1,0 +1,9 @@
+Title: Evaluation on Radiometric Capability of Chinese Optical Satellite Sensors
+Authors: Aixia Yang, Bo Zhong, Shanlong Wu, Qinhuo Liu
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010204
+Paper ID: pmc_PMC5298776
+
+Abstract:
+The radiometric capability of on-orbit sensors should be updated on time due to changes induced by space environmental factors and instrument aging. Some sensors, such as Moderate Resolution Imaging Spectroradiometer (MODIS), have onboard calibrators, which enable real-time calibration. However, most Chinese remote sensing satellite sensors lack onboard calibrators. Their radiometric calibrations have been updated once a year based on a vicarious calibration procedure, which has affected the applications of the data. Therefore, a full evaluation of the sensors’ radiometric capabilities is essential before quantitative applications can be made. In this study, a comprehensive procedure for evaluating the radiometric capability of several Chinese optical satellite sensors is proposed. In this procedure, long-term radiometric stability and radiometric accuracy are the two major indicators for radiometric evaluation. The radiometric temporal stability is analyzed by the tendency of long-term top-of-atmosphere (TOA) reflectance variation; the radiometric accuracy is determined by comparison with the TOA reflectance from MODIS after spectrally matching. Three Chinese sensors including the Charge-Coupled Device (CCD) camera onboard Huan Jing 1 satellite (HJ-1), as well as the Visible and Infrared Radiometer (VIRR) and Medium-Resolution Spectral Imager (MERSI) onboard the Feng Yun 3 satellite (FY-3) are evaluated in reflective bands based on this procedure. The results are reasonable, and thus can provide reliable reference for the sensors’ application, and as such will promote the development of Chinese satellite data.

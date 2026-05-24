@@ -1,0 +1,9 @@
+Title: A Sustainable Process to Produce Manganese and Its Alloys through Hydrogen and Aluminothermic Reduction
+Authors: Jafar Safarian
+Year: 2021
+Venue: Processes
+DOI: https://doi.org/10.3390/pr10010027
+Paper ID: https://openalex.org/W4200513666
+
+Abstract:
+Hydrogen and aluminum were used to produce manganese, aluminum–manganese (AlMn) and ferromanganese (FeMn) alloys through experimental work, and mass and energy balances. Oxide pellets were made from Mn oxide and CaO powder, followed by pre-reduction by hydrogen. The reduced MnO pellets were then smelted and reduced at elevated temperatures through CaO flux and Al reductant addition, yielding metallic Mn. Changing the amount of the added Al for the aluminothermic reduction, with or without iron addition led to the production of Mn metal, AlMn alloy and FeMn alloy. Mass and energy balances were carried out for three scenarios to produce these metal products with feasible material flows. An integrated process with three main steps is introduced; a pre-reduction unit to pre-reduce Mn ore, a smelting-aluminothermic reduction unit to produce metals from the pre-reduced ore, and a gas treatment unit to do heat recovery and hydrogen looping from the pre-reduction process gas. It is shown that the process is sustainable regarding the valorization of industrial waste and the energy consumptions for Mn and its alloys production via this process are lower than current commercial processes. Ferromanganese production by this process will prevent the emission of about 1.5 t CO2/t metal.

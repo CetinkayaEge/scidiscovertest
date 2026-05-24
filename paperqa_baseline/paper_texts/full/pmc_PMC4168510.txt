@@ -1,0 +1,9 @@
+Title: The Optical Property of Core-Shell Nanosensors and Detection of Atrazine Based on Localized Surface Plasmon Resonance (LSPR) Sensing
+Authors: Shaobo Yang, Tengfei Wu, Xinhua Zhao, Xingfei Li, Wenbin Tan
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140713273
+Paper ID: pmc_PMC4168510
+
+Abstract:
+Three different nanosensors with core-shell structures were fabricated by molecular self-assembly and evaporation techniques. Such closely packed nanoparticles exhibit fine optical properties which are useful for biochemical sensing. The refractive index sensitivity (RIS) of nanosensors was detected by varying the refractive index of the surrounding medium and the decay length of nanosensors was investigated using a layer-by-layer polyelectrolyte multilayer assembly. The results showed that the thickness of the Au shell plays an important role in determining the RIS and the decay length. A system based on localized surface plasmon resonances (LSPR) sensing was constructed in our study. The core-shell nanosensors can detect 10 ng/mL atrazine solutions and are suitable for pesticide residue detection.

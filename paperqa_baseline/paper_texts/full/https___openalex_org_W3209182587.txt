@@ -1,0 +1,9 @@
+Title: Traceless Directing Groups in Sustainable Metal-Catalyzed C–H Activation
+Authors: Αθανάσιος Ζαρκαδούλας, Ioanna Zgouleta, Nikolaos V. Tzouras, Georgios C. Vougioukalakis
+Year: 2021
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal11050554
+Paper ID: https://openalex.org/W3209182587
+
+Abstract:
+Sustainable transformations towards the production of valuable chemicals constantly attract interest, both in terms of academic and applied research. C–H activation has long been scrutinized in this regard, given that it offers a straightforward pathway to prepare compounds of great significance. In this context, directing groups (DG) have paved the way for chemical transformations that had not been achievable using traditional reactions. Few steps, high yields, selectivity and activation of inert substrates are some of the invaluable assets of directed catalysis. Additionally, the employment of traceless directing groups (TDG) greatly improves and simplifies this strategy, enabling the realization of multi-step reactions in one-pot, cascade procedures. Cheap, abundant, readily available transition metal salts and complexes can catalyze a plethora of reactions employing TDGs, usually under low catalyst loadings—rarely under stoichiometric amounts, leading in greater atom economy and milder conditions with increased yields and step-economy. This review article summarizes all the work done on TDG-assisted catalysis with manganese, iron, cobalt, nickel, or copper catalysts, and discusses the structure-activity relationships observed, by presenting the catalytic pathways and range of transformations reported thus far.

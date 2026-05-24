@@ -1,0 +1,9 @@
+Title: Diaphragm Based Fiber Bragg Grating Acceleration Sensor with Temperature Compensation
+Authors: Tianliang Li, Yuegang Tan, Xue Han, Kai Zheng, Zude Zhou
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010218
+Paper ID: pmc_PMC5298789
+
+Abstract:
+A novel fiber Bragg grating (FBG) sensing-based acceleration sensor has been proposed to simultaneously decouple and measure temperature and acceleration in real-time. This design applied a diaphragm structure and utilized the axial property of a tightly suspended optical fiber, enabling improvement in its sensitivity and resonant frequency and achieve a low cross-sensitivity. The theoretical vibrational model of the sensor has been built, and its design parameters and sensing properties have been analyzed through the numerical analysis. A decoupling method has been presented with consideration of the thermal expansion of the sensor structure to realize temperature compensation. Experimental results show that the temperature sensitivity is 8.66 pm/°C within the range of 30–90 °C. The acceleration sensitivity is 20.189 pm/g with a linearity of 0.764% within the range of 5~65 m/s 2 . The corresponding working bandwidth is 10~200 Hz and its resonant frequency is 600 Hz. This sensor possesses an excellent impact resistance for the cross direction, and the cross-axis sensitivity is below 3.31%. This implementation can avoid the FBG-pasting procedure and overcome its associated shortcomings. The performance of the proposed acceleration sensor can be easily adjusted by modifying their corresponding physical parameters to satisfy requirements from different vibration measurements.

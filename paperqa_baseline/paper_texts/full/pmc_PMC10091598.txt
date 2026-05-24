@@ -1,0 +1,9 @@
+Title: Integrative analysis of HASMCs gene expression profile revealed the role of thrombin in the pathogenesis of atherosclerosis
+Authors: Yichen Zhang, Lin Sun, Xingsheng Wang, Qingbo Zhou
+Year: 2023
+Venue: BMC Cardiovascular Disorders
+DOI: 10.1186/s12872-023-03211-0
+Paper ID: pmc_PMC10091598
+
+Abstract:
+We explored the effect of thrombin on human aortic smooth muscle cells (HASMCs) and further analyzed its role in the pathogenesis of atherosclerosis (AS). Thrombin-induced differentially expressed genes (DEGs) in HASMCs were identified by analyzing expression profiles from the GEO. Subsequently, enrichment analysis, GSEA, PPI network, and gene-microRNAs networks were interrogated to identify hub genes and associated pathways. Enrichment analysis results indicated that thrombin causes HASMCs to secrete various pro-inflammatory cytokines and chemokines, exacerbating local inflammatory response in AS. Moreover, we identified 9 HUB genes in the PPI network, which are closely related to the inflammatory response and the promotion of the cell cycle. Additionally, we found that thrombin inhibits lipid metabolism and autophagy of HASMCs, potentially contributing to smooth muscle-derived foam cell formation. Our study deepens a mechanistic understanding of the effect of thrombin on HASMCs and provides new insight into treating AS.

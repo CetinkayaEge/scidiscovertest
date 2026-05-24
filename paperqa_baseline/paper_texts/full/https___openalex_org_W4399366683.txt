@@ -1,0 +1,9 @@
+Title: Bacterial Cellulose: A Sustainable Source for Hydrogels and 3D-Printed Scaffolds for Tissue Engineering
+Authors: Elena Uțoiu, V.S. Mănoiu, Elena Iulia Oprita, Oana Crăciunescu
+Year: 2024
+Venue: Gels
+DOI: https://doi.org/10.3390/gels10060387
+Paper ID: https://openalex.org/W4399366683
+
+Abstract:
+Bacterial cellulose is a biocompatible biomaterial with a unique macromolecular structure. Unlike plant-derived cellulose, bacterial cellulose is produced by certain bacteria, resulting in a sustainable material consisting of self-assembled nanostructured fibers with high crystallinity. Due to its purity, bacterial cellulose is appealing for biomedical applications and has raised increasing interest, particularly in the context of 3D printing for tissue engineering and regenerative medicine applications. Bacterial cellulose can serve as an excellent bioink in 3D printing, due to its biocompatibility, biodegradability, and ability to mimic the collagen fibrils from the extracellular matrix (ECM) of connective tissues. Its nanofibrillar structure provides a suitable scaffold for cell attachment, proliferation, and differentiation, crucial for tissue regeneration. Moreover, its mechanical strength and flexibility allow for the precise printing of complex tissue structures. Bacterial cellulose itself has no antimicrobial activity, but due to its ideal structure, it serves as matrix for other bioactive molecules, resulting in a hybrid product with antimicrobial properties, particularly advantageous in the management of chronic wounds healing process. Overall, this unique combination of properties makes bacterial cellulose a promising material for manufacturing hydrogels and 3D-printed scaffolds, advancing the field of tissue engineering and regenerative medicine.

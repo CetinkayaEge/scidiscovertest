@@ -1,0 +1,9 @@
+Title: From an Ethics of Carefulness to an Ethics of Desirability: Going Beyond Current Ethics Approaches to Sustainable AI
+Authors: Larissa Bolte, Tijs Vandemeulebroucke, Aimee van Wynsberghe
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14084472
+Paper ID: https://openalex.org/W4225672240
+
+Abstract:
+‘Sustainable AI’ sets itself apart from other AI ethics frameworks by its inherent regard for the ecological costs of AI, a concern that has so far been woefully overlooked in the policy space. Recently, two German-based research and advocacy institutions have published a joint report on Sustainability Criteria for Artificial Intelligence. This is, to our knowledge, the first AI ethics document in the policy space that puts sustainability at the center of its considerations. We take this as an opportunity to highlight the foundational problems we see in current debates about AI ethics guidelines. Although we do believe the concept of sustainability has the potential to introduce a paradigm shift, we question whether the suggestions and conceptual grounding found in this report have the strength to usher it in. We show this by presenting this new report as an example of current approaches to AI ethics and identify the problems of this approach, which we will describe as ‘checklist ethics’ and ‘ethics of carefulness’. We argue to opt for an ‘ethics of desirability’ approach. This can be completed, we suggest, by reconceptualizing sustainability as a property of complex systems. Finally, we offer a set of indications for further research.

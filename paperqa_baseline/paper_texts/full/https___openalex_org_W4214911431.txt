@@ -1,0 +1,9 @@
+Title: Traditional and sustainable approaches for the construction of C–C bonds by harnessing C–H arylation
+Authors: Jagrit Grover, Gaurav Prakash, Nupur Goswami, Debabrata Maiti
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-28707-9
+Paper ID: https://openalex.org/W4214911431
+
+Abstract:
+Biaryl scaffolds are found in natural products and drug molecules and exhibit a wide range of biological activities. In past decade, the transition metal-catalyzed C-H arylation reaction came out as an effective tool for the construction of biaryl motifs. However, traditional transition metal-catalyzed C-H arylation reactions have limitations like harsh reaction conditions, narrow substrate scope, use of additives etc. and therefore encouraged synthetic chemists to look for alternate greener approaches. This review aims to draw a general overview on C-H bond arylation reactions for the formation of C-C bonds with the aid of different methodologies, majorly highlighting on greener and sustainable approaches.

@@ -1,0 +1,9 @@
+Title: Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review
+Authors: Ahmed I. Osman, Bingbing Fang, Yubin Zhang, Yunfei Liu, Jiacheng Yu, Mohamed Farghali, Ahmed K. Rashwan, Zhonghao Chen, Lin Chen, Ikko Ihara, David W. Rooney, Pow‐Seng Yap
+Year: 2024
+Venue: Environmental Chemistry Letters
+DOI: https://doi.org/10.1007/s10311-023-01694-z
+Paper ID: https://openalex.org/W4391482191
+
+Abstract:
+Abstract The global expansion of the bioenergy industry raises concerns, emphasizing the need for careful evaluation and sustainable management. To facilitate this, life cycle assessments beyond greenhouse gas emissions and energy balance are essential, along with the standardization of assessment methodologies to enable meaningful comparisons. Here, we review life cycle assessment, chemical aspects, and policy implication of bioenergy production. We discuss life cycle assessment in terms of concepts, methods, impacts, greenhouse gases, land use, water consumption, bioethanol, biodiesel, biogas, and techno-economic analysis. Chemical aspects comprise reaction processes and means to improve efficiency. Concerning policies, tools, and frameworks that encourage sustainable energy production are presented. We found that carbon dioxide removal ranges from 45 to 99% in various bioenergy processes. The review also emphasizes the importance of chemistry in advancing sustainable bioenergy production for a more sustainable and secure energy future.

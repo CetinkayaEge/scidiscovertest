@@ -1,0 +1,9 @@
+Title: Self-sustained electricity generator driven by the compatible integration of ambient moisture adsorption and evaporation
+Authors: Jin Tan, Sunmiao Fang, Zhuhua Zhang, Jun Yin, Luxian Li, Xiang Wang, Wanlin Guo
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-31221-7
+Paper ID: https://openalex.org/W4283526351
+
+Abstract:
+Generating sustainable electricity from ambient humidity and natural evaporation has attracted tremendous interest recently as it requires no extra mechanical energy input and is deployable across all weather and geography conditions. Here, we present a device prototype for enhanced power generation from ambient humidity. This prototype uses both heterogenous materials assembled from a LiCl-loaded cellulon paper to facilitate moisture adsorption and a carbon-black-loaded cellulon paper to promote water evaporation. Exposing such a centimeter-sized device to ambient humidity can produce voltages of around 0.78 V and a current of around 7.5 μA, both of which can be sustained for more than 10 days. The enhanced electric output and durability are due to the continuous water flow that is directed by evaporation through numerous, negatively charged channels within the cellulon papers. The voltage and current exhibit an excellent scaling behavior upon device integration to sufficiently power commercial devices including even cell phones. The results open a promising prospect of sustainable electricity generation based on a synergy between spontaneous moisture adsorption and water evaporation.

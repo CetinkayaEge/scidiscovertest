@@ -1,0 +1,9 @@
+Title: Firework Optimization Algorithm-Based Diagnosis of Hepatocellular Carcinoma and Hepatic Cavernous Hemangioma Using MRI Images
+Authors: Geng Liu, Huiqun Chen, Fang Fang, Lei Song
+Year: 2021
+Venue: Contrast Media & Molecular Imaging
+DOI: 10.1155/2021/3970529
+Paper ID: pmc_PMC8318739
+
+Abstract:
+This study was aimed to explore the diagnostic features of magnetic resonance imaging (MRI) on hepatocellular carcinoma (HCC) and hepatic cavernous hemangioma (HCH). A fireworks algorithm optimization (FAO) was proposed based on the fireworks algorithm (FA), and it was compared with the maximum between-class variance method (OTSU) and the maximum entropy threshold method (KSW) for analysis. In addition, it was applied to the diagnosis of MRI images of 55 HCC patients in the experimental group (group E) and 55 HCH patients in the control group (group C). It was found that the FAO showed a greatly lower difference function (DF) and a shorter running time in contrast to the OTSU and KSW algorithms ( P < 0.05); the diagnostic accuracy (DA) of the T1-weighted image (T1WI) for patients in groups E and C was 85.31% and 95.85%, respectively, and the DA of the T2-weighted image (T2WI) was 97.84% (group E) and 89.71% (group C), respectively. In short, FAO showed an excellent performance in segmentation and reconstruction of MRI images for liver tissue, and T1WI and T2WI of MRI images showed high accuracy in diagnosing the HCC and HCH, respectively.

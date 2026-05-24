@@ -1,0 +1,9 @@
+Title: Artificial Intelligence Integration in Sustainable Business Practices: A Text Mining Analysis of USA Firms
+Authors: Yavuz Selim Balcıoğlu, Ahmet Alkan Çelik, Erkut Altındağ
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16156334
+Paper ID: https://openalex.org/W4400943037
+
+Abstract:
+Artificial Intelligence (AI) is transforming sustainable business strategies globally, yet its specific applications within American enterprises remain underexplored. This study examines the integration of AI in sustainability efforts across various industries in the USA from 2014 to 2022. By analyzing 263 sustainability reports from 41 leading Nasdaq-listed firms using advanced text mining techniques, we uncover nuanced insights into how AI is employed to address environmental and social challenges. Our findings reveal a strategic deployment of AI not only to enhance operational efficiency, but also to drive significant environmental improvements, such as optimizing renewable energy usage and mitigating emissions. Additionally, AI’s impact extends to fostering workplace safety, enhancing diversity, and bolstering community initiatives. This research highlights the critical role of AI as a catalyst in advancing sustainable practices, providing a blueprint for other regions and industries aiming to leverage technology for greater sustainability.

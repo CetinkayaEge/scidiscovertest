@@ -1,0 +1,9 @@
+Title: Robust Control Allocation for Space Inertial Sensor under Test Mass Release Phase with Overcritical Conditions
+Authors: Juzheng Zhang, Yu Zhang, Wenjian Tao, Zhenkun Lu, Mingpei Lin
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062881
+Paper ID: pmc_PMC10057518
+
+Abstract:
+This paper proposes a robust control allocation for the capture control of the space inertial sensor’s test mass under overcritical conditions. Uncertainty factors of the test mass control system under the overcritical condition are analyzed first, and a 6-DOF test mass dynamics model with system uncertainty is established. Subsequently, a time-varying weight function is designed to coordinate the allocation of 6-DOF generalized forces. Moreover, a robust control allocation method is proposed to distribute the commanded forces and torques into individual electrodes in an optimal manner, which takes into account the system uncertainties. This method transforms the robust control allocation problem into a second-order cone optimization problem, and its dual problem is introduced to simplify the computational complexity and improve the solving efficiency. Numerical simulation results are presented to illustrate and highlight the fine performance benefits obtained using the proposed robust control allocation method, which improves capture efficiency, increases the security margin and reduces allocation errors.

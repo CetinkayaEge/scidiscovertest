@@ -1,0 +1,9 @@
+Title: Nano‐Enhanced Graphite/Phase Change Material/Graphene Composite for Sustainable and Efficient Passive Thermal Management
+Authors: Ji‐Xiang Wang, Yufeng Mao, Nenad Miljkovic
+Year: 2024
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202402190
+Paper ID: https://openalex.org/W4401462670
+
+Abstract:
+Passive battery thermal management systems (BTMSs) are critical for mitigation of battery thermal runaway (TR). Phase change materials (PCMs) have shown promise for mitigating transient thermal challenges. Fluid leakage and low effective thermal conductivity limit PCM adoption. Furthermore, the thermal capacitance of PCMs diminishes as their latent load is exhausted, creating an unsustainable cooling effect that is transitory. Here, an expanded graphite/PCM/graphene composite that solves these challenges is proposed. The expanded graphite/PCM phase change composite eliminates leakage and increases effective thermal conductivity while the graphene coating enables radiative cooling for PCM regeneration. The composite demonstrates excellent thermal performance in a real BTMS and shows a 26% decrease in temperature when compared to conventional BTMS materials. The composite exhibits thermal control performance comparable with active cooling, resulting in reduced cost and increased simplicity. In addition to BTMSs, this material is anticipated to have application in a plethora of engineered systems requiring stringent thermal management.

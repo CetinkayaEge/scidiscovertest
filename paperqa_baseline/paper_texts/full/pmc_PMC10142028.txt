@@ -1,0 +1,9 @@
+Title: Influence of Molecular Structure and Physicochemical Properties of Immunosuppressive Drugs on Micelle Formulation Characteristics and Cutaneous Delivery
+Authors: Julie Quartier, Maria Lapteva, Younes Boulaguiem, Stéphane Guerrier, Yogeshvar N. Kalia
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041278
+Paper ID: pmc_PMC10142028
+
+Abstract:
+The aim of this study was to investigate whether subtle differences in molecular properties affected polymeric micelle characteristics and their ability to deliver poorly water-soluble drugs into the skin. D-α-tocopherol-polyethylene glycol 1000 was used to prepare micelles containing ascomycin-derived immunosuppressants—sirolimus (SIR), pimecrolimus (PIM) and tacrolimus (TAC)—which have similar structures and physicochemical properties and have dermatological applications. Micelle formulations were prepared by thin-film hydration and extensively characterized. Cutaneous delivery and biodistribution were determined and compared. Sub-10 nm micelles were obtained for the three immunosuppressants with incorporation efficiencies >85%. However, differences were observed for drug loading, stability (at the highest concentration), and their in vitro release kinetics. These were attributed to differences in drug aqueous solubility and lipophilicity. Differences between the cutaneous biodistribution profiles and drug deposition in the different skin compartments pointed to the impact of differences in thermodynamic activity. Therefore, despite their structural similarities, SIR, TAC and PIM did not demonstrate the same behaviour either in the micelles or when applied to the skin. These outcomes indicate that polymeric micelles should be optimized even for closely related drug molecules and support the hypothesis that drugs are released from micelles prior to skin penetration.

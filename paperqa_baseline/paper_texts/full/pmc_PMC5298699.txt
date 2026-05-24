@@ -1,0 +1,9 @@
+Title: A Distance Detector with a Strip Magnetic MOSFET and Readout Circuit
+Authors: Guo-Ming Sung, Wen-Sheng Lin, Hsing-Kuang Wang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010126
+Paper ID: pmc_PMC5298699
+
+Abstract:
+This paper presents a distance detector composed of two separated metal-oxide semiconductor field-effect transistors (MOSFETs), a differential polysilicon cross-shaped Hall plate (CSHP), and a readout circuit. The distance detector was fabricated using 0.18 μm 1P6M Complementary Metal-Oxide Semiconductor (CMOS) technology to sense the magnetic induction perpendicular to the chip surface. The differential polysilicon CSHP enabled the magnetic device to not only increase the magnetosensitivity but also eliminate the offset voltage generated because of device mismatch and Lorentz force. Two MOSFETs generated two drain currents with a quadratic function of the differential Hall voltages at CSHP. A readout circuit—composed of a current-to-voltage converter, a low-pass filter, and a difference amplifier—was designed to amplify the current difference between two drains of MOSFETs. Measurements revealed that the electrostatic discharge (ESD) could be eliminated from the distance sensor by grounding it to earth; however, the sensor could be desensitized by ESD in the absence of grounding. The magnetic influence can be ignored if the magnetic body (human) stays far from the magnetic sensor, and the measuring system is grounded to earth by using the ESD wrist strap (Strap E-GND). Both ‘no grounding’ and ‘grounding to power supply’ conditions were unsuitable for measuring the induced Hall voltage.

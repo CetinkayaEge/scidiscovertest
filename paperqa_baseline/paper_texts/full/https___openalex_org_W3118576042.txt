@@ -1,0 +1,9 @@
+Title: How to Achieve Positive Energy Districts for Sustainable Cities: A Proposed Calculation Methodology
+Authors: Andrea Gabaldón, Fredy Vélez, Beril Alpagut, Patxi Hernández, Cecilia Sanz
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020710
+Paper ID: https://openalex.org/W3118576042
+
+Abstract:
+In this paper, a methodology for calculating the energy balance at the district level and energy performance of those districts aspiring to become a Positive Energy District (PED) is proposed. PEDs are understood as districts that achieve a positive energy balance on an annual basis by means of exporting more energy than is consumed within their limits. The main issue to standardize the concept, besides which characteristics should be considered, is that current standards to calculate an energy balance are not applied at the district level. This paper reviews the current standards and adapts them to propose an energy balance calculation methodology. Calculation of an energy balance at the district level is complex since it includes several parameters, such as which loads (or elements) should be included, which renewable energy technologies should be considered on-site production, and which primary energy factors should be used. The proposed methodology is thought to help cities at the design stage of a district and to evaluate its annual energy balance. The methodology is performed in eight steps, and all the needed assumptions that affect the calculation of the annual energy balance are discussed in each step.

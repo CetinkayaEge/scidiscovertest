@@ -1,0 +1,9 @@
+Title: Evaluation of setup errors of immobilization device for radiation therapy in companion animals
+Authors: Toshie Iseri, Nanami Hira, Yoshinori Tanabe, Hiro Horikirizono, Hiroshi Sunahara, Harumichi Itoh, Yuki Nemoto, Kazuhito Itamoto, Kenji Tani, Munekazu Nakaichi
+Year: 2022
+Venue: Open Veterinary Journal
+DOI: 10.5455/OVJ.2022.v12.i6.19
+Paper ID: pmc_PMC9805779
+
+Abstract:
+Background: Intensity-modulated radiotherapy (IMRT), which allows generating steep dose gradients, is a beneficial treatment for companion animals with adjacent target and risk organs. IMRT is essential for high setup accuracy for avoiding overdose to risk organs, and optimal radiotherapy is important for evaluating the setup accuracy of companion animals. Aim: To use an immobilization device to evaluate setup errors in radiotherapy for companion animals. Methods: We calculated setup errors in radiotherapy for 386 animals (dogs and cats; 3,261 registration images) that underwent radiotherapy between 2016 and 2022. The companion animals were immobilized with a customized bite block and vacuum lock device. A quantile–quantile plot with 95% confidence interval (CI) was used to evaluate the histogram of the setup errors, and the systematic and random setup errors were calculated for each region (brain, head and neck, chest and abdomen, pelvis, and spine). Results: The setup error in each direction presented an extremely narrow-interval histogram, with the following lower and upper 95% CIs: cranial–caudal (−0.08, −0.06 cm); left–right (−0.04, −0.02 cm); and dorsal–ventral (−0.13, −0.11 cm). The mean systematic setup error was 0.16 cm (range: 0.12–0.36 cm), and the random error was 0.15 cm (range: 0.08–0.34 cm). The pelvis showed the highest systematic and random setup errors (mean: 0.36 and 0.23 cm, respectively). Conclusion: The use of an immobilization device enables highly accurate radiotherapy for companion animals (95% CI < 0.15 cm).

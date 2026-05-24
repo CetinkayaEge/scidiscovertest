@@ -1,0 +1,9 @@
+Title: Is FDI inflow bad for environmental sustainability?
+Authors: Lyubov Tsoy, Almas Heshmati
+Year: 2023
+Venue: Environment Development and Sustainability
+DOI: https://doi.org/10.1007/s10668-023-03844-3
+Paper ID: https://openalex.org/W4386542606
+
+Abstract:
+Abstract In the last few years, discussions and debates around environmental sustainability have become a key goal of the global agenda. This is because the latest studies and our direct experiences of the consequences of environmental degradation and climate change are showing that economic models need some urgent changes. The goal of this paper was to investigate the effects of foreign direct investment (FDI) flow on environmental sustainability globally. The balanced panel data of 100 countries from 2000 to 2020 were used for empirical analysis to understand the relationship between FDI inflow and environmental performance index (EPI) for countries with different income levels. The estimation is made using the two-step system GMM model as it gives more robust and efficient results in this study. The results of the dynamic panel model do not support the pollution haven hypothesis, i.e., FDI inflow was not found to have any statistically significant effect on EPI. The findings of the paper suggest that to improve environmental quality globally, it is important for governments to invest more in renewable energy projects as clean energy consumption can be one of the most efficient solutions for reducing the impact of climate change. Moreover, countries need to reduce the unemployment rate as it significantly improves the environmental quality according to our estimation results.

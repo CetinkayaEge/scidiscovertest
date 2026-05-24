@@ -1,0 +1,9 @@
+Title: AI-induced job impact: Complementary or substitution? Empirical insights and sustainable technology considerations
+Authors: Kuang‐Hsien Wang, Wen‐Cheng Lu
+Year: 2024
+Venue: Sustainable Technology and Entrepreneurship
+DOI: https://doi.org/10.1016/j.stae.2024.100085
+Paper ID: https://openalex.org/W4403054232
+
+Abstract:
+This study utilizes 3,682 full-time workers to examine perceptions of AI-induced job displacement risk and evaluate AI's potential complementary effects on labor. By distinguishing between these variables, the research identifies which worker characteristics and industries are most affected by AI. Employing an extended ordered probit model, the results show that those with higher perceived risks are mainly female, older, and more educated. Workers with frequent internet usage and remote work are more concerned about AI-induced job risks. Sector-wise, entry-level employees perceive the least risk, whereas manufacturing professionals and senior service sector employees are more apprehensive. Contrary to the mainstream assumption that AI causes unemployment, this study identifies a potential complementary effect on job tasks, suggesting that AI can enhance and support human labor rather than replace it. This inference is based on observed worker perceptions and the increased use of AI tools in tasks that complement human skills. Moreover, AI's integration contributes to sustainable practices and entrepreneurial opportunities, enhancing business innovation and environmental efficiency. Workers increasingly view AI as a value-added element in their jobs rather than a threat, particularly in sectors focusing on sustainable development and green technologies.

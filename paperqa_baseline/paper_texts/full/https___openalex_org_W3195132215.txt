@@ -1,0 +1,9 @@
+Title: Sustainable production of graphene from petroleum coke using electrochemical exfoliation
+Authors: Sanjit Saha, Pritishma Lakhe, Matthew J. Mason, Bryan J. Coleman, Kailash Arole, Xiaofei Zhao, Sergey Yakovlev, Sundararajan Uppili, Micah J. Green, Rohan A. Hule
+Year: 2021
+Venue: npj 2D Materials and Applications
+DOI: https://doi.org/10.1038/s41699-021-00255-8
+Paper ID: https://openalex.org/W3195132215
+
+Abstract:
+Abstract Petroleum coke is a solid, carbonaceous by-product of oil refining and is normally used for heating or as an anode in aluminum and steel production. These applications contribute to carbon emissions, but here we show that petroleum coke has another potential avenue: as a precursor for graphene production. This path presents an environmentally and economically sustainable use for a low-value industrial stream. Electrochemical exfoliation is used to produce graphene nanosheets from petroleum coke, rather than graphite. The final product is separated from the unreacted material by a two-step centrifuging process. SEM and TEM images confirm that the final product contains few-layered nanosheets, and the Raman spectra confirm that the exfoliated coke product is indeed graphene. Post-annealing of this product substantially increases the electrical conductivity. This new finding holds potential for the petroleum industry to produce a value-added nanomaterial and enhance the economic impact of slurry oil and slurry oil-derived coke streams by orders of magnitude; this route also allows these streams to be directed away from high-emissions uses.

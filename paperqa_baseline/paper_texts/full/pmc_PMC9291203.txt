@@ -1,0 +1,9 @@
+Title: Darting across space and time: parametric modulators of sex-biased conditioned fear responses
+Authors: Julia R. Mitchell, Sean G. Trettel, Anna J. Li, Sierra Wasielewski, Kylie A. Huckleberry, Michaela Fanikos, Emily Golden, Mikaela A. Laine, Rebecca M. Shansky
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053587.122
+Paper ID: pmc_PMC9291203
+
+Abstract:
+Pavlovian fear conditioning is a widely used behavioral paradigm for studying associative learning in rodents. Despite early recognition that subjects may engage in a variety of both conditioned and unconditioned responses, the last several decades have seen the field narrow its focus to measure freezing as the sole indicator of conditioned fear. We previously reported that female rats were more likely than males to engage in darting, an escape-like conditioned response that is associated with heightened shock reactivity. To determine how experimental parameters contribute to the frequency of darting in both males and females, we manipulated factors such as chamber size, shock intensity, and number of trials. To better capture fear-related behavioral repertoires in our animals, we developed ScaredyRat, an open-source custom Python tool that analyzes Noldus Ethovision-generated raw data files to identify darters and quantify both conditioned and unconditioned responses. We found that, like freezing, conditioned darting occurrences scale with experimental alterations. While most darting occurs in females, we found that with an extended training protocol, darting can emerge in males as well. Collectively, our data suggest that darting reflects a behavioral switch in conditioned responding that is a product of an individual animal's sex, shock reactivity, and experimental parameters, underscoring the need for careful consideration of sex as a biological variable in classic learning paradigms.

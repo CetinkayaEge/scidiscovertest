@@ -1,0 +1,9 @@
+Title: Residues E53, L55, H59, and G70 of the cellular receptor protein Tva mediate cell binding and entry of the novel subgroup K avian leukosis virus
+Authors: Xinyi Li, Yuntong Chen, Mengmeng Yu, Suyan Wang, Peng Liu, Lingzhai Meng, Ru Guo, Xiaoyan Feng, Mingxue Hu, Tana He, Xiaole Qi, Kai Li, Li Gao, Yanping Zhang, Changjun Liu, Hongyu Cui, Xiaomei Wang, Yulong Gao
+Year: 2023
+Venue: The Journal of Biological Chemistry
+DOI: 10.1016/j.jbc.2023.102962
+Paper ID: pmc_PMC9974445
+
+Abstract:
+Subgroup K avian leukosis virus (ALV-K) is a novel subgroup of ALV isolated from Chinese native chickens. As for a retrovirus, the interaction between its envelope protein and cellular receptor is a crucial step in ALV-K infection. Tva, a protein previously determined to be associated with vitamin B 12 /cobalamin uptake, has been identified as the receptor of ALV-K. However, the molecular mechanism underlying the interaction between Tva and the envelope protein of ALV-K remains unclear. In this study, we identified the C-terminal loop of the LDL-A module of Tva as the minimal functional domain that directly interacts with gp85, the surface component of the ALV-K envelope protein. Further point-mutation analysis revealed that E53, L55, H59, and G70, which are exposed on the surface of Tva and are spatially adjacent, are key residues for the binding of Tva and gp85 and facilitate the entry of ALV-K. Homology modeling analysis indicated that the substitution of these four residues did not significantly impact the Tva structure but impaired the interaction between Tva and gp85 of ALV-K. Importantly, the gene-edited DF-1 cell line with precisely substituted E53, L55, H59, and G70 was completely resistant to ALV-K infection and did not affect vitamin B 12 /cobalamin uptake. Collectively, these findings not only contribute to a better understanding of the mechanism of ALV-K entry into host cells but also provide an ideal gene-editing target for antiviral study.

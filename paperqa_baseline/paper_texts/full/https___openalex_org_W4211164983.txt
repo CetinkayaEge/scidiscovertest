@@ -1,0 +1,9 @@
+Title: SENP7 senses oxidative stress to sustain metabolic fitness and antitumor functions of CD8+ T cells
+Authors: Zhongqiu Wu, Haiyan Huang, Qiaoqiao Han, Zhilin Hu, Xiao-Lu Teng, Rui Ding, Youqiong Ye, Xiaoyan Yu, Ren Zhao, Zhengting Wang, Qiang Zou
+Year: 2022
+Venue: SHILAP Revista de lepidopterología
+DOI: 
+Paper ID: https://openalex.org/W4211164983
+
+Abstract:
+The functional integrity of CD8+ T cells is tightly coupled to metabolic reprogramming, but how oxidative stress directs CD8+ T cell metabolic fitness in the tumor microenvironment (TME) remains elusive. Here, we report that SUMO-specific protease 7 (SENP7) senses oxidative stress to maintain the CD8+ T cell metabolic state and antitumor functions. SENP7-deficient CD8+ T cells exhibited decreased glycolysis and oxidative phosphorylation, resulting in attenuated proliferation in vitro and dampened antitumor functions in vivo. Mechanistically, CD8+ T cell–derived ROS triggered cytosolic SENP7–mediated PTEN deSUMOylation, thereby promoting PTEN degradation and preventing PTEN-dependent metabolic defects. Importantly, lowering T cell–intrinsic ROS restricted SENP7 cytosolic translocation and repressed CD8+ T cell metabolic and functional activity in human colorectal cancer samples. Our findings reveal that SENP7, as an oxidative stress sensor, sustains CD8+ T cell metabolic fitness and effector functions and unveil an oxidative stress–sensing machinery in tumor-infiltrating CD8+ T cells.

@@ -1,0 +1,9 @@
+Title: Making the internet globally sustainable: Technical and policy options for improved energy management, governance and community acceptance of Nordic datacenters
+Authors: Benjamin K. Sovacool, Chukwuka G. Monyei, Paul Upham
+Year: 2021
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2021.111793
+Paper ID: https://openalex.org/W3212816920
+
+Abstract:
+Both policymakers and the technology industry need to do more to combat the ever-growing demand for data and its associated energy impacts. In this study, based on novel corporate data, expert interviews, focus groups with members of the public, extensive site visits across Greenland, Iceland and Norway and a literature review, we look at the energy and climate impacts of existing and proposed datacenters, both quantitatively and in terms of stakeholder and public perceptions. The paper examines datacenter management and sustainability practices in the Nordic region. It explores what community impacts occur, and how communities manage conflicting objectives. It investigates the technical and policy options that can make datacenters more sustainable and/or lower-carbon and it explores associated stakeholder and public views in the three countries. In exploring these themes, our study examines the shifting energy governance of datacenters, including patterns of electricity consumption and cooling but also circular economy operations and power densities. We also analyze a series of 40 solutions for eco-friendly design or green datacenter management across the entire lifecycle. We conclude with implications for energy and climate policy as well as future research.

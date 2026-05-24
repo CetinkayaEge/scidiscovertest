@@ -1,0 +1,9 @@
+Title: A novel PHD-finger protein 14/KIF4A complex overexpressed in lung cancer is involved in cell mitosis regulation and tumorigenesis
+Authors: Lin Zhang, Qin Huang, Jiatao Lou, Liangjian Zou, Yiguo Wang, Peng Zhang, Guang Yang, Junyi Zhang, Lan Yu, Dai Yan, Chenyi Zhang, Jing Qiao, Shuting Wang, Sai Wang, Yongdong Xu, Hongbin Ji, Zhengjun Chen, Zhe Zhang
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14962
+Paper ID: pmc_PMC5386714
+
+Abstract:
+The plant homeodomain (PHD) finger-containing proteins have been implicated in many human diseases including cancer. In this study, we found that PHF14, a newly identified PHD finger protein, is highly expressed in lung cancer. The high expression level of PHF14 was associated with adenocarcinoma and poor survival in lung cancer patients. Knocking down PHF14 suppressed cancer cell growth and carcinogenesis, while over-expressing PHF14 promoted cell proliferation. During cell division, PHF14 directly bound to and co-localized with KIF4A (a nuclear motor protein involved in lung carcinogenesis) to form a functional complex. Similarly to the effect of KIF4A depletion, silencing PHF14 in several cell lines caused cell mitotic defects, prolonged M phase, and inhibited cell proliferation. What's more, these two proteins had a synergistic effect on cell proliferation and were significantly co-overexpressed in lung cancer tissues. Our data provide new insights into the biological significance of PHD finger proteins and imply that PHF14 may be a potential biomarker for lung cancer.

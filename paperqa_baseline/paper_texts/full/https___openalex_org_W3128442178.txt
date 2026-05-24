@@ -1,0 +1,9 @@
+Title: Process modelling and life cycle assessment coupled with experimental work to shape the future sustainable production of chemicals and fuels
+Authors: Iasonas Ioannou, Sebastiano Carlo D’Angelo, Ángel Galán‐Martín, Carlos Pozo, Javier Pérez‐Ramírez, Gonzalo Guillén‐Gosálbez
+Year: 2021
+Venue: Reaction Chemistry & Engineering
+DOI: https://doi.org/10.1039/d0re00451k
+Paper ID: https://openalex.org/W3128442178
+
+Abstract:
+Meeting the sustainable development goals and carbon neutrality targets requires transitioning to cleaner products, which poses significant challenges to the future chemical industry. Identifying alternative pathways to cover the growing demand for chemicals and fuels in a more sustainable manner calls for close collaborative programs between experimental and computational groups as well as new tools to support these joint endeavours. In this broad context, we here review the role of process systems engineering tools in assessing and optimising alternative chemical production patterns based on renewable resources, including renewable carbon and energy. The focus is on the use of process modelling and optimisation combined with life cycle assessment methodologies and network analysis to underpin experiments and generate insight into how the chemical industry could optimally deliver chemicals and fuels with a lower environmental footprint. We identify the main gaps in the literature and provide directions for future work, highlighting the role of PSE concepts and tools in guiding the future transition and complementing experimental studies more effectively.

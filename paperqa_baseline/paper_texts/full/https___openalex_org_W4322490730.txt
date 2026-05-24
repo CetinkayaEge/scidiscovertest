@@ -1,0 +1,9 @@
+Title: Land-use mixing in Irish cities: Implications for sustainable development
+Authors: Conor O’Driscoll, Frank Crowley, Justin Doran, Nóirín McCarthy
+Year: 2023
+Venue: Land Use Policy
+DOI: https://doi.org/10.1016/j.landusepol.2023.106615
+Paper ID: https://openalex.org/W4322490730
+
+Abstract:
+Land-use configurations are explicitly related to the outcomes of numerous economic, social, and environmental policies. From a regional development perspective, efficiency in the use of natural resources, such as space, can positively contribute to sustainability efforts in these realms. This Viewpoint measures the efficiency of land and infrastructure usage within Irish metropolitan areas using relative entropy (i.e., land-use mixing). We find that land-use developments across Irish metropolitan areas are characterised by inefficient land-use configurations. We discuss these findings in the context of decades of urban sprawl in Ireland and illustrate how these developmental trends have thwarted efforts to achieve sustainability in regional development as laid out in the United Nations Sustainable Development Goals.

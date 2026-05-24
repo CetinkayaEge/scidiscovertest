@@ -1,0 +1,9 @@
+Title: Leaf Disease Segmentation and Detection in Apple Orchards for Precise Smart Spraying in Sustainable Agriculture
+Authors: Gary Storey, Qinggang Meng, Baihua Li
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031458
+Paper ID: https://openalex.org/W4210562074
+
+Abstract:
+Reduction in chemical usage for crop management due to the environmental and health issues is a key area in achieving sustainable agricultural practices. One area in which this can be achieved is through the development of intelligent spraying systems which can identify the target for example crop disease or weeds allowing for precise spraying reducing chemical usage. Artificial intelligence and computer vision has the potential to be applied for the precise detection and classification of crops. In this paper, a study is presented that uses instance segmentation for the task of leaf and rust disease detection in apple orchards using Mask R-CNN. Three different Mask R-CNN network backbones (ResNet-50, MobileNetV3-Large and MobileNetV3-Large-Mobile) are trained and evaluated for the tasks of object detection, segmentation and disease detection. Segmentation masks on a subset of the Plant Pathology Challenge 2020 database are annotated by the authors, and these are used for the training and evaluation of the proposed Mask R-CNN based models. The study highlights that a Mask R-CNN model with a ResNet-50 backbone provides good accuracy for the task, particularly in the detection of very small rust disease objects on the leaves.

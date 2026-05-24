@@ -1,0 +1,9 @@
+Title: The environmental sustainability of data-driven health research: A scoping review
+Authors: Gabrielle Samuel, Anneke Lucassen
+Year: 2022
+Venue: Digital Health
+DOI: https://doi.org/10.1177/20552076221111297
+Paper ID: https://openalex.org/W4285048610
+
+Abstract:
+Data-Driven and Artificial Intelligence technologies are rapidly changing the way that health research is conducted, including offering new opportunities. This will inevitably have adverse environmental impacts. These include carbon dioxide emissions linked to the energy required to generate and process large amounts of data; the impact on the material environment (in the form of data centres); the unsustainable extraction of minerals for technological components; and e-waste (discarded electronic appliances) disposal. The growth of Data-Driven and Artificial Intelligence technologies means there is now a compelling need to consider these environmental impacts and develop means to mitigate them. Here, we offer a scoping review of how the environmental impacts of data storage and processing during Data-Driven and Artificial Intelligence health-related research are being discussed in the academic literature. Using the UK as a case study, we also offer a review of policies and initiatives that consider the environmental impacts of data storage and processing during Data-Driven and Artificial Intelligence health-related research in the UK. Our findings suggest little engagement with these issues to date. We discuss the implications of this and suggest ways that the Data-Driven and Artificial Intelligence health research sector needs to move to become more environmentally sustainable.

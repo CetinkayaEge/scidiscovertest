@@ -1,0 +1,9 @@
+Title: Addressing sustainable development goals in life cycle sustainability assessment: Synergies, challenges and needs
+Authors: Mauro Cordella, Rafael Horn, Sun Hea Hong, Marco Bianchi, Marina Isasa, Rosan Harmens, Thomas Sonderegger, Hanna Pihkola
+Year: 2023
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2023.137719
+Paper ID: https://openalex.org/W4380365728
+
+Abstract:
+The assessment and monitoring of society's progress towards sustainability requires a multidisciplinary approach in which tools, indicators and data are integrated across existing frameworks. In this sense, the United Nations' Sustainable Development Goals (SDGs) and the life cycle sustainability assessment (LCSA) framework introduced by UNEP/SETAC Life Cycle Initiative are two of the most important references used by practitioners to assess sustainability at territorial level, in the first case, and at process, product, or organizational level, in the second case. However, due to the different scopes of SDGs and LCSA, the integration between the two tools has been limited so far and the synergies mostly remained untapped. Building on LCSA literature, and with the aid of text-mining analysis, this manuscript analyzes how linkages between product LCSA and SDGs have been and could be addressed, also highlighting key challenges and needs for connecting LCSA with SDGs in a coherent and operational way. The paper highlights that, although SDGs and LCSA are complementary and could inform and feed each other, as of today there is no harmonized way to set up and analyze the connections between the two and progress still seems far from reaching general consensus. Further research is needed to consistently link LCSA metrics to SDGs goals and thus ensure that improved products sustainability effectively contributes to progress towards more sustainable territories.

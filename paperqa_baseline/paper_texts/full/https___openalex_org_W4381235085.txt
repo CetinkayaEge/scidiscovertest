@@ -1,0 +1,9 @@
+Title: Research progress analysis of sustainable smart grid based on CiteSpace
+Authors: Yuqing Geng, Naiguang Zhang, Renjun Zhu
+Year: 2023
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2023.101111
+Paper ID: https://openalex.org/W4381235085
+
+Abstract:
+The smart grid (SG) research has continued unabated; however, some challenges, such as stability and security, cause us to focus on sustainable SG, which benefits society. Sustainable SG is complicated and covers many topics that should be summarized systematically. This paper uses CiteSpace to analyze sustainable SG's research progress to comprehensively understand this domain's current research evolvement in recent years; then constructs a knowledge framework and provides future research characteristics. The results show that sustainable SG is a hot topic with increasing publications and frequent regional collaboration; this domain also integrates different disciplines and covers various topics. Furthermore, integrating information technology and social science may be an emerging research trend in the future. This study contributes to the domain because the comprehensive demonstration of the research progress on sustainable SG from different perspectives provides a dynamic view, the knowledge framework makes scholars easily grasp the essential information, and the potential research characteristics provide more explicit technologies and enablers for scholars to continue research more efficiently.

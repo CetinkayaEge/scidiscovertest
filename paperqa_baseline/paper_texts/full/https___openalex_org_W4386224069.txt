@@ -1,0 +1,9 @@
+Title: A Review on Sustainable Energy Sources Using Machine Learning and Deep Learning Models
+Authors: Ashok Bhansali, Namala Narasimhulu, Rocío Pérez de Prado, Parameshachari Bidare Divakarachari, Dayanand Lal Narayan
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16176236
+Paper ID: https://openalex.org/W4386224069
+
+Abstract:
+Today, methodologies based on learning models are utilized to generate precise conversion techniques for renewable sources. The methods based on Computational Intelligence (CI) are considered an effective way to generate renewable instruments. The energy-related complexities of developing such methods are dependent on the vastness of the data sets and number of parameters needed to be covered, both of which need to be carefully examined. The most recent and significant researchers in the field of learning-based approaches for renewable challenges are addressed in this article. There are several different Deep Learning (DL) and Machine Learning (ML) approaches that are utilized in solar, wind, hydro, and tidal energy sources. A new taxonomy is formed in the process of evaluating the effectiveness of the strategies that are described in the literature. This survey evaluates the advantages and the drawbacks of the existing methodologies and helps to find an effective approach to overcome the issues in the existing methods. In this study, various methods based on energy conversion systems in renewable source of energies like solar, wind, hydro power, and tidal energies are evaluated using ML and DL approaches.

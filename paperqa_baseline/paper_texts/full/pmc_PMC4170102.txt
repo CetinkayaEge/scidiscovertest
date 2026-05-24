@@ -1,0 +1,9 @@
+Title: Extracellular signals and receptor-like kinases regulating ROP GTPases in plants
+Authors: Kaori N. Miyawaki, Zhenbiao Yang
+Year: 2014
+Venue: Frontiers in Plant Science
+DOI: 10.3389/fpls.2014.00449
+Paper ID: pmc_PMC4170102
+
+Abstract:
+Rho-like GTPase from plants (ROPs) function as signaling switches that control a wide variety of cellular functions and behaviors including cell morphogenesis, cell division and cell differentiation. The Arabidopsis thaliana genome encodes 11 ROPs that form a distinct single subfamily contrarily to animal or fungal counterparts where multiple subfamilies of Rho GTPases exist. Since Rho proteins bind to their downstream effector proteins only in their GTP-bound “active” state, the activation of ROPs by upstream factor(s) is a critical step in the regulation of ROP signaling. Therefore, it is critical to examine the input signals that lead to the activation of ROPs. Recent findings showed that the plant hormone auxin is an important signal for the activation of ROPs during pavement cell morphogenesis as well as for other developmental processes. In contrast to auxin, another plant hormone, abscisic acid, negatively regulates ROP signaling. Calcium is another emerging signal in the regulation of ROP signaling. Several lines of evidence indicate that plasma membrane localized-receptor like kinases play a critical role in the transmission of the extracellular signals to intracellular ROP signaling pathways. This review focuses on how these signals impinge upon various direct regulators of ROPs to modulate various plant processes.

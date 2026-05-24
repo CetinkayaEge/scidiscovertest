@@ -1,0 +1,9 @@
+Title: The Sustainable Digitalization in the Manufacturing Industry: A Bibliometric Analysis and Research Trend
+Authors: Zhiming Shang, Liming Zhang
+Year: 2022
+Venue: Mobile Information Systems
+DOI: https://doi.org/10.1155/2022/1451705
+Paper ID: https://openalex.org/W4205423064
+
+Abstract:
+Digital technologies are shown to perform a vital role in developing a resource-efficient industrial base. The effective adoption of digital technologies can help reduce costs and improve the sustainability and flexibility of manufacturing industries. However, how digital technologies favor the transition towards manufacturing systems has not been analyzed in detail yet, so more conceptual and empirical investigation is required in this field. This study investigates the digital transformation trend in the manufacturing industry by combining the bibliometric method with life cycle mode and literature mining. An integrated data analysis system (IDAS) is developed, which includes data collection, data analysis, and visualization processes. As a result, dual-map overlay, keywords clusters, Timeline, and Time zone views are visualized to identify the research trend with the three main aspects: design, larger integrated circuit, and sustainable manufacturing concept evolution. Besides, to recognize potentials for future development of the domain, life cycle model-based technological trajectory is identified, constructing an information society, the combination of tools, and the performance improvement of the whole digital transformation. Moreover, in response to sustainable development, a system considering business strategies and cultural delivery, technological integration, and partner participation and evaluation is developed, which could cope with complex manufacturing processes due to different industrial tasks in different regions.

@@ -1,0 +1,9 @@
+Title: Achieving Sustainable Smart Cities through Geospatial Data-Driven Approaches
+Authors: Daniel G. Costa, João Carlos N. Bittencourt, Franklin Oliveira, João Paulo Just Peixoto, Thiago C. Jesus
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16020640
+Paper ID: https://openalex.org/W4390751318
+
+Abstract:
+In recent years, the concept of smart cities has become increasingly important in the pursuit of sustainable development goals. In general, common urban challenges have been addressed through smart-city services, and new perspectives for more sustainable cities have emerged. To realize the full potential of such smart urban environments, geospatial approaches have been used as a focal point, offering a plethora of applications that contribute to a better understanding of urban challenges and innovation potentials. Nevertheless, although significant progress has been made, different problems may arise when the available technologies and resources are not understood or even when their potentialities are not properly capitalized. This article reviews the state of the art in the field, highlighting success cases and remaining challenges in exploiting geospatial data-driven strategies, particularly when leveraging geographic information systems, satellites, and distributed sensors to produce and process geospatial data and datasets in urban scenarios. Moreover, a more organized perspective of the area is provided in this article, as well as future development trends, supporting new research efforts in this area when empowering smart cities for a more sustainable future.

@@ -1,0 +1,9 @@
+Title: Sustainable Wacker‐Type Oxidations
+Authors: Purushothaman Rajeshwaran, Jonathan Trouvé, Khalil Youssef, Rafael Gramage‐Doria
+Year: 2022
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202211016
+Paper ID: https://openalex.org/W4297249002
+
+Abstract:
+The Wacker reaction is the oxidation of olefins to ketones and typically requires expensive and scarce palladium catalysts in the presence of an additional copper co-catalyst under harsh conditions (acidic media, high pressure of air/dioxygen, elevated temperatures). Such a transformation is relevant for industry, as shown by the synthesis of acetaldehyde from ethylene as well as for fine-chemicals, because of the versatility of a carbonyl group placed at specific positions. In this regard, many contributions have focused on controlling the chemo- and regioselectivity of the olefin oxidation by means of well-defined palladium catalysts under different sets of reaction conditions. However, the development of Wacker-type processes that avoid the use of palladium catalysts has just emerged in the last few years, thereby paving the way for the generation of more sustainable procedures, including milder reaction conditions and green chemistry technologies. In this Minireview, we discuss the development of new catalytic processes that utilize more benign catalysts and sustainable reaction conditions.

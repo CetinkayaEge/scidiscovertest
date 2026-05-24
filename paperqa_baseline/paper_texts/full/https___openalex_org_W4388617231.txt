@@ -1,0 +1,9 @@
+Title: Green preferences sustain greenwashing: challenges in the cultural transition to a sustainable future
+Authors: Lukas von Flüe, Charles Efferson, Sonja Vogt
+Year: 2023
+Venue: Philosophical Transactions of the Royal Society B Biological Sciences
+DOI: https://doi.org/10.1098/rstb.2022.0268
+Paper ID: https://openalex.org/W4388617231
+
+Abstract:
+Discussions of the environmental impact that revolve around monetary incentives and other easy-to-measure factors are important, but they neglect culture. Pro-environmental values will be crucial when facing sustainability challenges in the Anthropocene, and demand among green consumers is arguably critical to incentivise sustainable production. However, owing to asymmetric information, consumers might not know whether the premium they pay for green production is well-spent. Reliable monitoring of manufacturers is meant to solve this problem. To see how this might work, we develop and analyse a game theoretic model of a simple buyer-seller exchange with asymmetric information, and our analysis shows that greenwashing can exist exactly because reliable monitoring co-exists with unreliable monitoring. More broadly, promoting pro-environmental values among consumers might even amplify the problem at times because a manufacturer with significant market power can exploit both consumer preferences for sustainability and trustworthy monitoring to gouge prices and in extreme cases green wash in plain sight. We discuss several strategies to address this problem. Promoting accurate beliefs and a large-scale behavioural change based on pro-environmental values might be necessary for a rapid transition to a sustainable future, but recent evidence from the cultural evolution literature highlights many important challenges. This article is part of the theme issue 'Evolution and sustainability: gathering the strands for an Anthropocene synthesis'.

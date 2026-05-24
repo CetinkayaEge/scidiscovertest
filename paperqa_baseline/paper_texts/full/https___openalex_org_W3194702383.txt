@@ -1,0 +1,9 @@
+Title: Comprehensive Review on Fuel Cell Technology for Stationary Applications as Sustainable and Efficient Poly-Generation Energy Systems
+Authors: Viviana Cigolotti, Matteo Genovese, Petronilla Fragiacomo
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14164963
+Paper ID: https://openalex.org/W3194702383
+
+Abstract:
+Fuel cell technologies have several applications in stationary power production, such as units for primary power generation, grid stabilization, systems adopted to generate backup power, and combined-heat-and-power configurations (CHP). The main sectors where stationary fuel cells have been employed are (a) micro-CHP, (b) large stationary applications, (c) UPS, and IPS. The fuel cell size for stationary applications is strongly related to the power needed from the load. Since this sector ranges from simple backup systems to large facilities, the stationary fuel cell market includes few kWs and less (micro-generation) to larger sizes of MWs. The design parameters for the stationary fuel cell system differ for fuel cell technology (PEM, AFC, PAFC, MCFC, and SOFC), as well as the fuel type and supply. This paper aims to present a comprehensive review of two main trends of research on fuel-cell-based poly-generation systems: tracking the market trends and performance analysis. In deeper detail, the present review will list a potential breakdown of the current costs of PEM/SOFC production for building applications over a range of production scales and at representative specifications, as well as broken down by component/material. Inherent to the technical performance, a concise estimation of FC system durability, efficiency, production, maintenance, and capital cost will be presented.

@@ -1,0 +1,9 @@
+Title: Sewage Sludge Treatment by Hydrothermal Carbonization: Feasibility Study for Sustainable Nutrient Recovery and Fuel Production
+Authors: Gabriel Gerner, Luca Meyer, Rahel Wanner, Thomas Keller, Rolf Krebs
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14092697
+Paper ID: https://openalex.org/W3163268119
+
+Abstract:
+Phosphorus recovery from waste biomass is becoming increasingly important, given that phosphorus is an exhaustible non-renewable resource. For the recovery of plant nutrients and production of climate-neutral fuel from wet waste streams, hydrothermal carbonization (HTC) has been suggested as a promising technology. In this study, digested sewage sludge (DSS) was used as waste material for phosphorus and nitrogen recovery. HTC was conducted at 200 °C for 4 h, followed by phosphorus stripping (PS) or leaching (PL) at room temperature. The results showed that for PS and PL around 84% and 71% of phosphorus, as well as 53% and 54% of nitrogen, respectively, could be recovered in the liquid phase (process water and/or extract). Heavy metals were mainly transferred to the hydrochar and only &lt;1 ppm of Cd and 21–43 ppm of Zn were found to be in the liquid phase of the acid treatments. According to the economic feasibility calculation, the HTC-treatment per dry ton DSS with an industrial-scale plant would cost around 608 USD. Between 349–406 kg of sulfuric acid are required per dry ton DSS to achieve a high yield in phosphorus recovery, which causes additional costs of 96–118 USD. Compared to current sewage sludge treatment costs in Switzerland, which range between 669 USD and 1173 USD, HTC can be an economically feasible process for DSS treatment and nutrient recovery.

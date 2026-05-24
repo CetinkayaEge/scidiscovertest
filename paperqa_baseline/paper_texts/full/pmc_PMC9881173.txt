@@ -1,0 +1,9 @@
+Title: Resolution of sequence divergence for repeat-mediated deletions shows a polarity that is mediated by MLH1
+Authors: Hannah Trost, Arianna Merkell, Felicia Wednesday Lopezcolorado, Jeremy M Stark
+Year: 2023
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkac1240
+Paper ID: pmc_PMC9881173
+
+Abstract:
+Abstract Repeat-mediated deletions (RMDs) are a type of chromosomal rearrangement between two homologous sequences that causes loss of the sequence between the repeats, along with one of the repeats. Sequence divergence between repeats suppresses RMDs; the mechanisms of such suppression and of resolution of the sequence divergence remains poorly understood. We identified RMD regulators using a set of reporter assays in mouse cells that test two key parameters: repeat sequence divergence and the distances between one repeat and the initiating chromosomal break. We found that the mismatch repair factor MLH1 suppresses RMDs with sequence divergence in the same pathway as MSH2 and MSH6, and which is dependent on residues in MLH1 and its binding partner PMS2 that are important for nuclease activity. Additionally, we found that the resolution of sequence divergence in the RMD product has a specific polarity, where divergent bases that are proximal to the chromosomal break end are preferentially removed. Moreover, we found that the domain of MLH1 that forms part of the MLH1-PMS2 endonuclease is important for polarity of resolution of sequence divergence. We also identified distinctions between MLH1 versus TOP3α in regulation of RMDs. We suggest that MLH1 suppresses RMDs with sequence divergence, while also promoting directional resolution of sequence divergence in the RMD product.

@@ -1,0 +1,9 @@
+Title: A Multi-modelling Approach for Assessing Sustainable Tourism
+Authors: Gennaro Punzo, Mariapina Trunfio, Rosalia Castellano, Mirko Buonocore
+Year: 2022
+Venue: Social Indicators Research
+DOI: https://doi.org/10.1007/s11205-022-02943-4
+Paper ID: https://openalex.org/W4281629707
+
+Abstract:
+Academics, institutions and policymakers advocate systematic assessments to design sustainable development and implement proper environmental management; however, practical measurements in tourism research based on composite indicators are still in progress. This paper aims to build and validate a composite indicator of sustainable tourism (SusTour-Index), which recognises the economic, environmental and social dimensions as the three main interrelated facets of tourism sustainability. The SusTour-Index is composed of 75 elementary indicators, adequately structured in pillars and sub-pillars within each economic (34), environmental (21) and social dimension (20). A multi-modelling approach tests the hierarchical structure of the SusTour-Index by combining different weighting and aggregation methods within each sustainability dimension to choose the most appropriate model once the uncertainty analysis has been performed. The structure of the SusTour-Index is validated in all 21 Italian regions by performing 23 different models of the same composite indicator. The paper presents theoretical and methodological contributions for future research and advances in practical assessments, supporting policymakers and institutions in planning and managing sustainable tourism development.

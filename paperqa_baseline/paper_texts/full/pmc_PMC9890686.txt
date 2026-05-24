@@ -1,0 +1,9 @@
+Title: Fundamental and higher eigenmodes of qPlus sensors with a long probe for vertical-lateral bimodal atomic force microscopy †
+Authors: Yuya Yamada, Takashi Ichii, Toru Utsunomiya, Kuniko Kimura, Kei Kobayashi, Hirofumi Yamada, Hiroyuki Sugimura
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00686c
+Paper ID: pmc_PMC9890686
+
+Abstract:
+The detection of vertical and lateral forces at the nanoscale by atomic force microscopy (AFM) reveals various mechanical properties on surfaces. The qPlus sensor is a widely used force sensor, which is built from a quartz tuning fork (QTF) and a sharpened metal probe, capable of high-resolution imaging in viscous liquids such as lubricant oils. Although a simultaneous detection technique of vertical and lateral forces by using a qPlus sensor is required in the field of nanotribology, it has still been difficult because the torsional oscillations of QTFs cannot be detected. In this paper, we propose a method to simultaneously detect vertical and lateral force components by using a qPlus sensor with a long probe. The first three eigenmodes of the qPlus sensor with a long probe are theoretically studied by solving a set of equations of motion for the QTF prong and probe. The calculation results were in good agreement with the experimental results. It was found that the tip oscillates laterally in the second and third modes. Finally, we performed friction anisotropy measurements on a polymer film by using a bimodal AFM utilizing the qPlus sensor with a long probe to confirm the lateral force detection. The characteristics of qPlus sensors with a long probe were theoretically studied, and they were applied to bidirectional force microscopy.

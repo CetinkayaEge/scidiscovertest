@@ -1,0 +1,9 @@
+Title: SH3YL1 Protein Predicts Renal Outcomes in Patients with Type 2 Diabetes
+Authors: Sang Youb Han, Seung Hyun Han, Jung Yeon Ghee, Jin Joo Cha, Young Sun Kang, Dae Ryong Cha
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040963
+Paper ID: pmc_PMC10141384
+
+Abstract:
+NADPH oxidase (NOX)-derived oxidative stress is an important factor in renal progression, with NOX4 being the predominant NOX in the kidney. Recently, Src homology 3 (SH3) domain-containing YSC84-like 1 (SH3YL1) was reported to be a regulator of NOX4. In this study, we tested whether the SH3YL1 protein could predict 3-year renal outcomes in patients with type 2 diabetes. A total of 131 patients with type 2 diabetes were enrolled in this study. Renal events were defined as a 15% decline in the estimated glomerular filtration rate (eGFR) from the baseline, the initiation of renal replacement therapy, or death during the 3 years. The levels of the urinary SH3YL1-to-creatinine ratio (USCR) were significantly different among the five stages of chronic kidney disease (CKD) and the three groups, based on albuminuria levels. The USCR levels showed a significant negative correlation with eGFR and a positive correlation with the urinary albumin-to-creatinine ratio (UACR). Plasma SH3YL1 levels were significantly correlated with UACR. The highest tertile group of USCR and plasma SH3YL1 had a significantly lower probability of renal event-free survival. Furthermore, the highest tertile group of USCR showed a significant association with the incidence of renal events after full adjustment: adjusted hazard ratio (4.636: 95% confidence interval, 1.416–15.181, p = 0.011). This study suggests that SH3YL1 is a new diagnostic biomarker for renal outcomes in patients with type 2 diabetes.

@@ -1,0 +1,9 @@
+Title: Incorporating ultrasound-based lymph node staging significantly improves the performance of a clinical nomogram for predicting preoperative axillary lymph node metastasis in breast cancer
+Authors: Xiaomin Wang, Xiaoping Yi, Qian Zhang, Xiaoxiao Wang, Hanghao Zhang, Shuai Peng, Kuansong Wang, Liqiu Liao
+Year: 2023
+Venue: Biomolecules and Biomedicine
+DOI: 10.17305/bb.2022.8564
+Paper ID: pmc_PMC10351098
+
+Abstract:
+Models for predicting axillary lymph node metastasis (ALNM) in breast cancer patients are lacking. We aimed to develop an efficient model to accurately predict ALNM. Three hundred fifty-five breast cancer patients were recruited and randomly divided into the training and validation sets. Univariate and multivariate logistic regressions were applied to identify predictors of ALNM. We developed nomograms based on these variables to predict ALNM. The performance of the nomograms was tested using the receiver operating characteristic curve and calibration curve, and a decision curve analysis was performed to assess the clinical utility of the prediction models. The nomograms that included clinical N stage (cN), pathological grade (pathGrade), and hemoglobin accurately predicted ALNM in the training and validation sets (area under the curve [AUC] 0.80 and 0.80, respectively). We then explored the importance of the cN and pathGrade signatures used in the integrated model and developed new nomograms by removing the two variables. The results suggested that the combine-pathGrade nomogram also accurately predicted ALNM in the training and validation sets (AUC 0.78 and 0.78, respectively), but the combine-cN nomogram did not (AUC 0.64 and 0.60, in the training and validation sets, respectively). We described a cN-based ALNM prediction model in breast cancer patients, presenting a novel efficient clinical decision nomogram for predicting ALNM.

@@ -1,0 +1,9 @@
+Title: Life Cycle Assessment of construction materials: Methodologies, applications and future directions for sustainable decision-making
+Authors: Salim Barbhuiya, Bibhuti Bhusan Das
+Year: 2023
+Venue: Case Studies in Construction Materials
+DOI: https://doi.org/10.1016/j.cscm.2023.e02326
+Paper ID: https://openalex.org/W4385164063
+
+Abstract:
+This review paper presents a comprehensive analysis of Life Cycle Assessment (LCA) methodologies applied to construction materials. It begins with an introduction highlighting the significance of LCA in the construction industry, followed by an overview of LCA principles, phases and key parameters specific to construction materials. The methodological approaches utilised in LCA, including inventory analysis, impact assessment, normalisation, allocation methods and uncertainty analysis, are discussed in detail. The paper then provides a thorough review of LCA studies on various construction materials, such as cement, concrete, steel and wood, examining their life cycle stages and environmental considerations. The review also explores recent advances in LCA for construction materials, including circular economy principles, renewable alternatives, technological innovations and policy implications. The challenges and future directions in LCA implementation for construction materials are discussed, emphasising the need for data quality, standardisation, social aspects integration and industry-research collaboration. The provides valuable insights for researchers, policymakers and industry professionals to enhance sustainability in the construction sector through informed decision-making based on LCA.

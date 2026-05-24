@@ -1,0 +1,9 @@
+Title: Nuclear magnetic resonance reveals a two hairpin equilibrium near the 3′-splice site of influenza A segment 7 mRNA that can be shifted by oligonucleotides
+Authors: Andrew D. Kauffmann, Scott D. Kennedy, Walter N. Moss, Elzbieta Kierzek, Ryszard Kierzek, Douglas H. Turner
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.078951.121
+Paper ID: pmc_PMC8925974
+
+Abstract:
+Influenza A kills hundreds of thousands of people globally every year and has the potential to generate more severe pandemics. Influenza A's RNA genome and transcriptome provide many potential therapeutic targets. Here, nuclear magnetic resonance (NMR) experiments suggest that one such target could be a hairpin loop of 8 nucleotides in a pseudoknot that sequesters a 3′ splice site in canonical pairs until a conformational change releases it into a dynamic 2 × 2-nt internal loop. NMR experiments reveal that the hairpin loop is dynamic and able to bind oligonucleotides as short as pentamers. A 3D NMR structure of the complex contains 4 and likely 5 bp between pentamer and loop. Moreover, a hairpin sequence was discovered that mimics the equilibrium of the influenza hairpin between its structure in the pseudoknot and upon release of the splice site. Oligonucleotide binding shifts the equilibrium completely to the hairpin secondary structure required for pseudoknot folding. The results suggest this hairpin can be used to screen for compounds that stabilize the pseudoknot and potentially reduce splicing.

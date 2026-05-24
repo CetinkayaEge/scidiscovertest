@@ -1,0 +1,9 @@
+Title: Revolutionizing digital healthcare networks with wearable strain sensors using sustainable fibers
+Authors: Junze Zhang, Bingang Xu, Kaili Chen, Yi Li, Gang Li, Ze-Kun Liu
+Year: 2024
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.207
+Paper ID: https://openalex.org/W4399140168
+
+Abstract:
+Abstract Wearable strain sensors have attracted research interest owing to their potential within digital healthcare, offering smarter tracking, efficient diagnostics, and lower costs. Unlike rigid sensors, fiber‐based ones compete with their flexibility, durability, adaptability to body structures as well as eco‐friendliness to environment. Here, the sustainable fiber‐based wearable strain sensors for digital health are reviewed, and material, fabrication, and practical healthcare aspects are explored. Typical strain sensors predicated on various sensing modalities, be it resistive, capacitive, piezoelectric, or triboelectric, are explained and analyzed according to their strengths and weaknesses toward fabrication and applications. The applications in digital healthcare spanning from body area sensing networks, intelligent health management, and medical rehabilitation to multifunctional healthcare systems are also evaluated. Moreover, to create a more complete digital health network, wired and wireless methods of data collection and examples of machine learning are elaborated in detail. Finally, the prevailing challenges and prospective insights into the advancement of novel fibers, enhancement of sensing precision and wearability, and the establishment of seamlessly integrated systems are critically summarized and offered. This endeavor not only encapsulates the present landscape but also lays the foundation for future breakthroughs in fiber‐based wearable strain sensor technology within the domain of digital health.

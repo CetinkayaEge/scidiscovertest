@@ -1,0 +1,9 @@
+Title: Torsion angles to map and visualize the conformational space of a protein
+Authors: Helen Mary Ginn
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4608
+Paper ID: pmc_PMC10022581
+
+Abstract:
+Abstract Present understanding of protein structure dynamics trails behind that of static structures. A torsion‐angle‐based approach, called the representation of protein entities, derives an interpretable conformational space that correlates with data collection temperature, resolution, and reaction coordinate. For more complex systems, atomic coordinates fail to separate functional conformational states, which are still preserved by torsion angle‐derived space. This indicates that torsion angles are often a more sensitive and biologically relevant descriptor for protein conformational dynamics than atomic coordinates.

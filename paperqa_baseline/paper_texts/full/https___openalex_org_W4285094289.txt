@@ -1,0 +1,9 @@
+Title: Decision Support Concept for Improvement of Sustainability-Related Competences
+Authors: Andreja Abina, Tanja Batkovič, Bojan Cestnik, Adem Kikaj, Rebeka Kovačič Lukman, Maja Kurbus, Aleksander Zidanšek
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14148539
+Paper ID: https://openalex.org/W4285094289
+
+Abstract:
+In this paper, we derived competences from previously developed competence models, ensuring the effective use of advanced technologies in future factories to improve the sustainability of their business models and strategies. Based on the analysis of the Hogan competence model and competence models for sustainability and leadership, we compiled a selection of competences for digitalisation, automation, robotics, artificial intelligence, and soft competences such as emotional intelligence and cultural literacy. We also included competences required for sustainability, corporate social responsibility, and circular economy. The selected competences formed the core for the conceptual development of a decision support tool for the individualised selection of training for employees. The concept was tested in customised training to improve employees’ skills and motivation for lifelong learning at the selected industrial partner. The developed assessment algorithm was used to monitor the progress of individual employees’ skills development before and after their training participation. The results of the assessment help human resource departments make decisions for selecting the most effective and optimal training for employees to improve their sustainability-related competences. Such a systematic approach can improve and evaluate competences that companies need to transition to a circular economy.

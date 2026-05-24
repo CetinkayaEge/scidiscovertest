@@ -1,0 +1,9 @@
+Title: Magnetocaloric Effect, Structure, Spinodal Decomposition and Phase Transformations Heusler Alloy Ni-Mn-In
+Authors: D. D. Kuznetsov, E. I. Kuznetsova, A. V. Mashirov, A. S. Loshachenko, D. V. Danilov, V. I. Mitsiuk, A. S. Kuznetsov, V. G. Shavrov, V. V. Koledov, P. Ari-Gur
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081385
+Paper ID: pmc_PMC10140959
+
+Abstract:
+Ni 46 Mn 41 In 13 (close to 2-1-1 system) Heusler alloy was studied by magnetization measurement dependence on the temperature in magnetic fields of up to 13.5 T. The magnetocaloric effect measured by the direct method in quasi-adiabatic conditions showed a maximum value of ∆T ad = −4.2 K at a temperature T = 212 K in a magnetic field of 10 T in the region of martensitic transformation. The structure of the alloy was studied by transmission electron microscopy (TEM) as a function of the temperature and the thickness of the sample foil. In the temperature range from 353 to 215 K, at least two processes were established. The results of the study indicate that the concentration stratification occurs according to the mechanism of spinodal decomposition (conditionally spinodal decomposition) into nanoscale regions. At a temperature of 215 K and lower, martensitic phase with 14 M modulation is observed in the alloy at thicknesses greater than 50 nm. Some austenite is also observed. In foils with thickness of less than 50 nm in a temperature range from 353 to 100 Km only the initial austenite, which has not transformed, was found.

@@ -1,0 +1,9 @@
+Title: Characterization of a Basidiomycota hydrophobin reveals the structural basis for a high-similarity Class I subdivision
+Authors: Julie-Anne Gandier, David N. Langelaan, Amy Won, Kylie O’Donnell, Julie L. Grondin, Holly L. Spencer, Philip Wong, Elisabeth Tillier, Christopher Yip, Steven P. Smith, Emma R. Master
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45863
+Paper ID: pmc_PMC5385502
+
+Abstract:
+Class I hydrophobins are functional amyloids secreted by fungi. They self-assemble into organized films at interfaces producing structures that include cellular adhesion points and hydrophobic coatings. Here, we present the first structure and solution properties of a unique Class I protein sequence of Basidiomycota origin: the Schizophyllum commune hydrophobin SC16 ( hyd1 ). While the core β-barrel structure and disulphide bridging characteristic of the hydrophobin family are conserved, its surface properties and secondary structure elements are reminiscent of both Class I and II hydrophobins. Sequence analyses of hydrophobins from 215 fungal species suggest this structure is largely applicable to a high-identity Basidiomycota Class I subdivision (IB). To validate this prediction, structural analysis of a comparatively distinct Class IB sequence from a different fungal order, namely the Phanerochaete carnosa PcaHyd1, indicates secondary structure properties similar to that of SC16. Together, these results form an experimental basis for a high-identity Class I subdivision and contribute to our understanding of functional amyloid formation.

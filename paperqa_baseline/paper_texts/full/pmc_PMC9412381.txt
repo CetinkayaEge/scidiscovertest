@@ -1,0 +1,9 @@
+Title: Establishing an In Vitro System to Assess How Specific Antibodies Drive the Evolution of Foot-and-Mouth Disease Virus
+Authors: David J. King, Graham Freimanis, Chris Neil, Andrew Shaw, Tobias J. Tuthill, Emma Laing, Donald P. King, Lidia Lasecka-Dykes
+Year: 2022
+Venue: Viruses
+DOI: 10.3390/v14081820
+Paper ID: pmc_PMC9412381
+
+Abstract:
+Viruses can evolve to respond to immune pressures conferred by specific antibodies generated after vaccination and/or infection. In this study, an in vitro system was developed to investigate the impact of serum-neutralising antibodies upon the evolution of a foot-and-mouth disease virus (FMDV) isolate. The presence of sub-neutralising dilutions of specific antisera delayed the onset of virus-induced cytopathic effect (CPE) by up to 44 h compared to the untreated control cultures. Continued virus passage with sub-neutralising dilutions of these sera resulted in a decrease in time to complete CPE, suggesting that FMDV in these cultures adapted to escape immune pressure. These phenotypic changes were associated with three separate consensus-level non-synonymous mutations that accrued in the viral RNA-encoding amino acids at positions VP2 66 , VP2 80 and VP1 155 , corresponding to known epitope sites. High-throughput sequencing also identified further nucleotide substitutions within the regions encoding the leader (L pro ), VP4, VP2 and VP3 proteins. While association of the later mutations with the adaptation to immune pressure must be further verified, these results highlight the multiple routes by which FMDV populations can escape neutralising antibodies and support the application of a simple in vitro approach to assess the impact of the humoral immune system on the evolution of FMDV and potentially other viruses.

@@ -1,0 +1,9 @@
+Title: Determinants of Learning Management Systems during COVID-19 Pandemic for Sustainable Education
+Authors: Nadire Çavuş, Yakubu Bala Mohammed, Mohammed Nasiru Yakubu
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13095189
+Paper ID: https://openalex.org/W3160964005
+
+Abstract:
+Research has shown that effective and efficient learning management systems (LMS) were the main reasons for sustainable education in developed nations during COVID-19 pandemic. However, due to slow take-up of LMS many schools in developing countries, especially Africa were completely shut down due to COVID-19 pandemic. To fill this gap, 4 AI-based models; Support Vector Machine (SVM), Gaussian Process Regression (GPR), Artificial Neural Network (ANN), and Boosted Regression Tree (BRT) were developed for prediction of LMS determinants. Nonlinear sensitivity analysis was employed to select the key parameters of the LMS determinants data obtained from 1244 schools’ students. Five statistical indices were used to validate the models. The performance results of the four developed AI models discovered facilitating conditions, attitude towards LMS, perceived enjoyment, users’ satisfaction, perceived usefulness, and ease of use to be the most significant factors that affect educational sustainability in Nigeria during COVID-19. Further, single model’s performance results comparison proved that SVM has the highest prediction ability compared to GPR, ANN, and BRT due to its robustness in handling data uncertainties. The study results identified the factors responsible for total schools’ closure during COVID-19. Future studies should examine the application of other linear and other nonlinear AI techniques.

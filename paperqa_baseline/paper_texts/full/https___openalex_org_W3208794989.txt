@@ -1,0 +1,9 @@
+Title: The Aurora B gradient sustains kinetochore stability in anaphase
+Authors: Diana Papini, Mark D. Levasseur, Jonathan M.G. Higgins
+Year: 2021
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2021.109818
+Paper ID: https://openalex.org/W3208794989
+
+Abstract:
+Kinetochores assemble on chromosomes in mitosis to allow microtubules to attach and bring about accurate chromosome segregation. The kinases Cyclin B-Cdk1 and Aurora B are crucial for the formation of stable kinetochores. However, the activity of these two kinases appears to decline dramatically at centromeres during anaphase onset, precisely when microtubule attachments are required to move chromosomes toward opposite poles of the dividing cell. We find that, although Aurora B leaves centromeres at anaphase, a gradient of Aurora B activity centered on the central spindle is still able to phosphorylate kinetochore substrates such as Dsn1 to modulate kinetochore stability in anaphase and to regulate kinetochore disassembly as cells enter telophase. We provide a model to explain how Aurora B co-operates with Cyclin B-Cdk1 to maintain kinetochore function in anaphase.

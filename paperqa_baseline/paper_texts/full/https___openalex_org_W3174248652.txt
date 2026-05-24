@@ -1,0 +1,9 @@
+Title: Solar energy and sustainable development: evidence from 35 countries
+Authors: Taner Güney
+Year: 2021
+Venue: International Journal of Sustainable Development & World Ecology
+DOI: https://doi.org/10.1080/13504509.2021.1986749
+Paper ID: https://openalex.org/W3174248652
+
+Abstract:
+This study analyzes the relationship between solar energy and sustainable development. Data from 35 countries covering the period 2005–2018 were used. The potential endogeneity problem was considered in solar energy and sustainable development analyses. The predictions confirm the existence of endogeneity among the variables included in the analyses. Instrumental variables and the two-step generalized method of moments method were preferred for solving the endogeneity problem; according to these estimates, solar energy has a positive effect on sustainable development; in other words, solar energy causes an increase in the level of sustainable development. On the other hand, the analysis shows that non-renewable energy causes a decrease in sustainable development. Therefore, this study suggests prioritizing solar energy to increase the level of sustainable development and enable countries to reach the United Nations 2030 Sustainable Development Goals more easily.

@@ -1,0 +1,9 @@
+Title: Sustainable Materials Containing Biochar Particles: A Review
+Authors: Giulia Infurna, Gabriele Caruso, Nadka Tzankova Dintcheva
+Year: 2023
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym15020343
+Paper ID: https://openalex.org/W4313828924
+
+Abstract:
+The conversion of polymer waste, food waste, and biomasses through thermochemical decomposition to fuels, syngas, and solid phase, named char/biochar particles, gives a second life to these waste materials, and this process has been widely investigated in the last two decades. The main thermochemical decomposition processes that have been explored are slow, fast, and flash pyrolysis, torrefaction, gasification, and hydrothermal liquefaction, which produce char/biochar particles that differ in their chemical and physical properties, i.e., their carbon-content, CHNOS compositions, porosity, and adsorption ability. Currently, the main proposed applications of the char/biochar particles are in the agricultural sector as fertilizers for soil retirement and water treatment, as well as use as high adsorption particles. Therefore, according to recently published papers, char/biochar particles could be successfully considered for the formulation of sustainable polymer and biopolymer-based composites. Additionally, in the last decade, these particles have also been proposed as suitable fillers for asphalts. Based on these findings, the current review gives a critical overview that highlights the advantages in using these novel particles as suitable additives and fillers, and at the same time, it shows some drawbacks in their use. Adding char/biochar particles in polymers and biopolymers significantly increases their elastic modulus, tensile strength, and flame and oxygen resistance, although composite ductility is significantly penalized. Unfortunately, due to the dark color of the char/biochar particles, all composites show brown-black coloration, and this issue limits the applications.

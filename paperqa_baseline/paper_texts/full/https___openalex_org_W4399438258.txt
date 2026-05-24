@@ -1,0 +1,9 @@
+Title: Applying Artificial Intelligence to Promote Sustainability
+Authors: Miriam Du-Phuong Ta, Stefan Wendt, Þröstur Olaf Sigurjónsson
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16124879
+Paper ID: https://openalex.org/W4399438258
+
+Abstract:
+This study reviews the application of artificial intelligence (AI) throughout the food value chain and how it can be leveraged to help companies become more sustainable. A literature review across different parts of the food value chain was conducted to provide an overview of the main themes of current and future AI applications throughout the food industry. Moreover, the paper focuses on the benefits and challenges of change management when integrating AI. A documentary Systematic Review using PRISMA research was conducted to find and analyze the aforementioned applications. The key insight is that change progress varies significantly. Today’s applications are primarily found within food inspection and quality assurance due to relatively straightforward AI applications in the value chain. Such technology is mainly image-based. Companies can use the interconnectedness of AI and sustainability by becoming more efficient through AI and simultaneously saving emissions and resources through optimizing processes.

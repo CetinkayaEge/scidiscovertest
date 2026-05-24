@@ -1,0 +1,9 @@
+Title: A Prerecognition Model for Hot Topic Discovery Based on Microblogging Data
+Authors: Tongyu Zhu, Jianjun Yu
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/360934
+Paper ID: pmc_PMC4164368
+
+Abstract:
+The microblogging is prevailing since its easy and anonymous information sharing at Internet, which also brings the issue of dispersing negative topics, or even rumors. Many researchers have focused on how to find and trace emerging topics for analysis. When adopting topic detection and tracking techniques to find hot topics with streamed microblogging data, it will meet obstacles like streamed microblogging data clustering, topic hotness definition, and emerging hot topic discovery. This paper schemes a novel prerecognition model for hot topic discovery. In this model, the concepts of the topic life cycle, the hot velocity, and the hot acceleration are promoted to calculate the change of topic hotness, which aims to discover those emerging hot topics before they boost and break out. Our experiments show that this new model would help to discover potential hot topics efficiently and achieve considerable performance.

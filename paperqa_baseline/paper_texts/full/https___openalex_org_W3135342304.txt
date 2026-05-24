@@ -1,0 +1,9 @@
+Title: Guest Editorial: Sustainable and Intelligent Precision Agriculture
+Authors: Lei Shu, Gerhard P. Hancke, Adnan M. Abu‐Mahfouz
+Year: 2021
+Venue: IEEE Transactions on Industrial Informatics
+DOI: https://doi.org/10.1109/tii.2020.3035198
+Paper ID: https://openalex.org/W3135342304
+
+Abstract:
+The papers in this special section focus on sustainable and intelligent precision agriculture. Human society has experienced three industrial revolutions from mechanization, and electricity to information automation. Every industrial revolution significantly alters the form of agricultural industry from labor-intensive farming, mechanized production, precision agriculture to large-scale fine grained industrial agriculture. However, the agricultural industry at current stage still faces many challenges, such as global food security, food safety, poverty reduction, and sustainable natural resource management. Now the fourth industrial revolution is ongoing, that is characterized by a fusion of emerging technologies such as Industry 4.0, Internet of Things, Cloud/Edge Computing, Big Data, Artificial Intelligence, and Blockchain.

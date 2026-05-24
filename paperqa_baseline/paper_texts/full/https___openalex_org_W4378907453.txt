@@ -1,0 +1,9 @@
+Title: A State-of-the-Art Review on Recently Developed Sustainable and Green Cooling/Lubrication Technologies in Machining Metal Matrix Composites (MMCs)
+Authors: Rashid Ali Laghari, Ning He, Muhammad Jamil, Muhammad Irfan Hussain, Munish Kumar Gupta, Grzegorz Królczyk
+Year: 2023
+Venue: International Journal of Precision Engineering and Manufacturing-Green Technology
+DOI: https://doi.org/10.1007/s40684-023-00521-8
+Paper ID: https://openalex.org/W4378907453
+
+Abstract:
+Abstract Metal matrix composites (MMCs) are lightweight, hard materials applied in heavy-duty applications such as automobile, aerospace, and electronics, as well as sports equipment. MMCs reveal exceptional physical and mechanical properties, including high strength, corrosion, wear resistance, higher stiffness, and toughness. However, owing to poor surface finish, accelerated tool wear, and high material removal cost, MMCs are categorized as difficult-to-cut composites. This article reviews sustainable machining under different lubrication and cooling approaches and the economics of the operation for MMCs. The study focuses on optimizing machinability factors, such as surface integrity, chip formation, tool wear, and sustainability analysis. To attain this goal, the review evaluates suitable cutting parameters for Aluminum, Titanium, Magnesium, and Copper-based metal matrix composites, which hitherto have not been explored or summarized comprehensively. This study provides strong guidance regarding selection of precise cutting parameters for MMCs. The findings of this review suggest that different cooling/lubrication technologies can optimize and improve the sustainability and machinability characteristics, extend tool life and surface quality, during the cutting operation.

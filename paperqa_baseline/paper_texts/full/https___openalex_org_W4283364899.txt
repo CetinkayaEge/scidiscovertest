@@ -1,0 +1,9 @@
+Title: The sustainability of emerging technologies for use in pharmaceutical manufacturing
+Authors: Edward Weaver, C. O'Hagan, Dimitrios A. Lamprou
+Year: 2022
+Venue: Expert Opinion on Drug Delivery
+DOI: https://doi.org/10.1080/17425247.2022.2093857
+Paper ID: https://openalex.org/W4283364899
+
+Abstract:
+INTRODUCTION: Sustainability within the pharmaceutical industry is becoming a focal point for many companies, to improve the longevity and social perception of the industry. Both additive manufacturing (AM) and microfluidics (MFs) are continuously progressing, so are far from their optimization in terms of sustainability; hence, it is the aim of this review to highlight potential gaps alongside their beneficial features. Discussed throughout this review also will be an in-depth discussion on the environmental, legal, economic, and social particulars relating to these emerging technologies. AREAS COVERED: Additive manufacturing (AM) and microfluidics (MFs) are discussed in depth within this review, drawing from up-to-date literature relating to sustainability and circular economies. This applies to both technologies being utilized for therapeutic and analytical purposes within the pharmaceutical industry. EXPERT OPINION: It is the role of emerging technologies to be at the forefront of promoting a sustainable message by delivering plausible environmental standards whilst maintaining efficacy and economic viability. AM processes are highly customizable, allowing for their optimization in terms of sustainability, from reducing printing time to reducing material usage by removing supports. MFs too are supporting sustainability via reduced material wastage and providing a sustainable means for point of care analysis.

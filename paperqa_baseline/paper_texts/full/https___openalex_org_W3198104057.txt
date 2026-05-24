@@ -1,0 +1,9 @@
+Title: IoT for Global Development to Achieve the United Nations Sustainable Development Goals: The New Scenario After the COVID-19 Pandemic
+Authors: Ascensión López-Vargas, Agapito Ledezma, Jack Bott, Araceli Sanchis
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3109338
+Paper ID: https://openalex.org/W3198104057
+
+Abstract:
+COVID-19 has not affected all countries equally: developing countries have been more disadvantaged by the pandemic. Regarding global development, the COVID-19 pandemic has forced a step back in the path to attaining the Sustainable Development Goals (SDGs). The SDGs most negatively affected by the pandemic are identified here: education, health, and work. Then using the SDGs as a reference, this research explores the new challenges faced by developing countries and the impact of the Internet of Things (IoT) after COVID-19's emergence. IoT solutions carried out in developing countries during the pandemic have been identified and reviewed. Successful Internet of Things for Development (IoT4D) projects, in relation to the SDGs, are highlighted. New social and technical challenges that have emerged for the IoT4D as a consequence of the pandemic are then studied. This work concludes that the future of IoT4D in the wake of COVID-19 should focus on the use of low-cost IoT devices for the SDGs most affected by the pandemic. After an exhaustive study, the Intelligent Internet of Things (IIoT) has been determined to be a key actor in the pandemic's wake, with a leading role in the health sector. The proposed approach includes an extensive study of the new role of the IoT4D for achieving the SDGs in our forever changed world.

@@ -1,0 +1,9 @@
+Title: Ecological transition and sustainable development: integrated statistical indicators to support public policies
+Authors: Francesco Rotondo, Paola Perchinunno, Samuela L’Abbate, Lucia Mongelli
+Year: 2022
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-022-23085-0
+Paper ID: https://openalex.org/W4308147351
+
+Abstract:
+The evolution of the concept of sustainability and the availability of new statistical information requires constant checks on the set of indicators so that they accurately perform the task of representing well-being in our society. The Sustainable Development Goals refer to various development domains relating to environmental, social, economic, and institutional issues that have been placed at the basis of the Missions envisaged by the National Recovery and Resilience Plan (NRRP). Specifically, the subject of ecological transition and the related statistical indicators and the evaluations of the effectiveness of the programming implemented by the NRRP to pursue it in practice are of significant interest. The numerous data available were analyzed at a regional level through multivariate statistical methodologies (Totally Fuzzy and Relative method) capable of synthesizing the various information to evaluate the territorial adequacy of the economic planning of its various components. Through the representation on a GIS basis of the geographical distribution of the synthesis values of the fuzzy indices, the paper highlights the different starting point existing between Italian regions. So, these integrated statistical indicators can help public policies to be oriented in a more coherent way with their environmental declared objectives. Starting from the availability of multiple data, it is developed an integrated approach to the evaluation of the local government policies in place and to monitor the progress of subsequent interventions by the Italian government.

@@ -1,0 +1,9 @@
+Title: Integrating Digital Technologies to Aid Grassland Productivity and Sustainability
+Authors: D.R. Stevens, B.R. Thompson, Patricia Johnson, B.G. Welten, Esther D. Meenken, J.R. Bryant
+Year: 2021
+Venue: Frontiers in Sustainable Food Systems
+DOI: https://doi.org/10.3389/fsufs.2021.602350
+Paper ID: https://openalex.org/W3152225371
+
+Abstract:
+Digital technologies provide an opportunity to further increase the sustainability and productivity of grasslands and rangelands. Three resources are key to that change. These are the soil on which forage grows, the forages that grow on those soils and the animals that use the forage resource as food. This paper describes elements of technologies to measure and monitor these resources and provides some insights on combining that knowledge and controlling the animal's utilization through virtual fencing. There are many potential challenges to the application of digital technologies to pastoral farming. These often require the calibration of digital signals to define biophysical characteristics. The significant repository of historic data of pasture growth over many geo-climatic regions, for example, provides New Zealand with an opportunity to accelerate that development. Future advances in rangeland use, nutrient deposition, greenhouse gas emissions and the provision and utilization of high quality and quantity will be enabled by the application of digital technologies at scale, under the control of virtual fencing. Digital technologies may provide the means to maintain or enhance ruminant production from grassland in a sustainable operating space into the future.

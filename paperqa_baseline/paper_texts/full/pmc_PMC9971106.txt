@@ -1,0 +1,9 @@
+Title: Angle Kappa agreement between Scheimpflug tomography, combined placido Scheimpflug and combined slit scanning placido systems
+Authors: Mo’mena Ahmad A. Awad-Allah, Hesham Mohamed Gharieb, Rania Gamal Eldin Zaki, Ihab Saad Othman
+Year: 2022
+Venue: International Ophthalmology
+DOI: 10.1007/s10792-022-02433-z
+Paper ID: pmc_PMC9971106
+
+Abstract:
+Purpose To compare the measured or calculated angle Kappa using Oculus pentacam HR, Sirius and Orbscan III devices. Patients and methods A prospective randomized cohort study, conducted on 47 eyes of 47 healthy orthotropic individuals, with an age range of 18–50 years and a corrected Snellen’s distance visual acuity (CDVA) of 0.8 decimal or better. Angle Kappa is assessed directly using Orbscan® III software version 1.8.165.1. (Bausch and Lomb Rochester, New York, United States), while Pentacam® HR 1.21r.65 (Oculus Optikgeräte GmbH, Wetzlar, Germany) and Sirius device (CSO, version 3.2.1.60, Costruzione Strumenti Oftalmici, Florence, Italy) were used to calculate angle kappa indirectly. Results Least mean difference of estimated angle Kappa was between Orbscan and Pentacam devices (− 0.18° ± 1.8), and it was statistically insignificant ( p value = 0.1294). Differences between both Orbscan and Sirius, and Pentacam and Sirius were statistically significant ( p value = 0.0004 and < 0.0001 consecutively). Bland Altman analysis showed a 95% confidence interval between Orbscan III and Pentacam of − 3.76 to 3.4 and between Orbscan III and Sirius of − 3.79 to 2.26. Conclusion Pentacam parameters can be used as a reliable method to calculate angle kappa indirectly, without usage of any additional measurements from other machine. Sirius device parameters could also be used, but with less accurate results. A simple modification to those devices’ software to calculate it, and incorporate it in the printout is possible, and highly recommended.

@@ -1,0 +1,9 @@
+Title: vcf2gwas : Python API for comprehensive GWAS analysis using GEMMA
+Authors: Frank Vogt, Gautam Shirsekar, Detlef Weigel
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab710
+Paper ID: pmc_PMC8756188
+
+Abstract:
+Abstract Motivation Genome-wide association study (GWAS) requires a researcher to perform a multitude of different actions during analysis. From editing and formatting genotype and phenotype information to running the analysis software to summarizing and visualizing the results. A typical GWAS workflow poses a significant challenge of utilizing the command-line, manual text-editing and requiring knowledge of one or more programming/scripting languages, especially for newcomers. Results vcf2gwas is a package that provides a convenient pipeline to perform all of the steps of a traditional GWAS workflow by reducing it to a single command-line input of a Variant Call Format file and a phenotype data file. In addition, all the required software is installed with the package. vcf2gwas also implements several useful features enhancing the reproducibility of GWAS analysis. Availability and implementation The source code of vcf2gwas is available under the GNU General Public License. The package can be easily installed using conda. Installation instructions and a manual including tutorials can be accessed on the package website at https://github.com/frankvogt/vcf2gwas . Supplementary information Supplementary data are available at Bioinformatics online.

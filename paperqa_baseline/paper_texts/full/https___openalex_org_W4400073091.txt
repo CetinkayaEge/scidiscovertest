@@ -1,0 +1,9 @@
+Title: Operational efficiency and sustainability in smart ports: a comprehensive review
+Authors: Paola Alzate, Gustavo Isaza, Eliana Mirledy Toro Ocampo, Jorge Jaramillo, Sara Hernandez, Isabella Jurado, Diana Hernández
+Year: 2024
+Venue: Marine Systems & Ocean Technology
+DOI: https://doi.org/10.1007/s40868-024-00142-z
+Paper ID: https://openalex.org/W4400073091
+
+Abstract:
+Abstract The challenges of optimizing logistics operations in all links of the supply chain have led to the development of new dynamics around the revolution 4.0 and the response of operational efficiency linked to environmental sustainability. Smart ports are born as a strategy to meet customer needs from a technological evolution that generates quality logistical and operational responses. The objective of this review is to identify and to analyze the research perspectives related to smart ports. The implemented methodology considered a scientific mapping to determine the most relevant publications in terms of authors, journals, and countries with the greatest scientific participation in the subject and a network analysis based on the implementation of the tree metaphor of the graph theory. The R-studio software and the Bibliometrix plugin were used to process the information. The review considered 204 documents from the Scopus and Web of Science databases, identifying a growing trend in the number of enhanced publications as of 2019, with China being the country with the largest number of papers. In relation to research trends, the adaptation of ports to industry 4.0, maritime ports and technological security, and green and smart ports are the perspectives on the subject of study. Finally, an agenda for future research is presented.

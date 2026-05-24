@@ -1,0 +1,9 @@
+Title: IoT Platform for Energy Sustainability in University Campuses
+Authors: Pedro Moura, José Ignacio Moreno, G. López, Manuel Álvarez-Campana
+Year: 2021
+Venue: Sensors
+DOI: https://doi.org/10.3390/s21020357
+Paper ID: https://openalex.org/W3119300996
+
+Abstract:
+University campuses are normally constituted of large buildings responsible for high energy demand, and are also important as demonstration sites for new technologies and systems. This paper presents the results of achieving energy sustainability in a testbed composed of a set of four buildings that constitute the Telecommunications Engineering School of the Universidad Politécnica de Madrid. In the paper, after characterizing the consumption of university buildings for a complete year, different options to achieve more sustainable use of energy are presented, considering the integration of renewable generation sources, namely photovoltaic generation, and monitoring and controlling electricity demand. To ensure the implementation of the desired monitoring and control, an internet of things (IoT) platform based on wireless sensor network (WSN) infrastructure was designed and installed. Such a platform supports a smart system to control the heating, ventilation, and air conditioning (HVAC) and lighting systems in buildings. Furthermore, the paper presents the developed IoT-based platform, as well as the implemented services. As a result, the paper illustrates how providing old existing buildings with the appropriate technology can contribute to the objective of transforming such buildings into nearly zero-energy buildings (nZEB) at a low cost.

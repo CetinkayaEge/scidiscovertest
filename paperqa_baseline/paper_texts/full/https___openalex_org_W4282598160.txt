@@ -1,0 +1,9 @@
+Title: Sustainable anti-frosting surface for efficient thermal transport
+Authors: Rongfu Wen, Yushan Ying, Xuehu Ma, Ronggui Yang
+Year: 2022
+Venue: Cell Reports Physical Science
+DOI: https://doi.org/10.1016/j.xcrp.2022.100937
+Paper ID: https://openalex.org/W4282598160
+
+Abstract:
+Inhibiting frost formation is of fundamental importance for many industrial applications, ranging from various infrastructures to thermal systems. Sustaining a frost-free surface without reducing heat transfer efficiency is a great challenge. We hereby propose a counterintuitive approach to achieve sustainable anti-frosting under high heat flux subcooled condensation by accelerating the nucleation-to-departure cycle of condensed liquid, demonstrated by manipulating initial nucleation and reducing thermal resistance using a three-dimensional nanowire network. High heat flux subcooled condensation is maintained without frost formation on the frost-free surface at a low surface temperature of −15°C for more than 5 h in humid air with a relative humidity of 75%. More than 10 times enhancement in the steady-state heat flux is obtained on the frost-free surface compared with the state-of-the-art low solid fraction non-wetting nanostructured surfaces. This passive frost-free surface may hold promise for increasing the efficiency of thermal systems while inspiring the design of frost-free surfaces.

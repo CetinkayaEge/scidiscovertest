@@ -1,0 +1,9 @@
+Title: A Comprehensive Review on Printed Electronics: A Technology Drift towards a Sustainable Future
+Authors: Sridhar Chandrasekaran, Arunkumar Jayakumar, Rajkumar Velu
+Year: 2022
+Venue: Nanomaterials
+DOI: https://doi.org/10.3390/nano12234251
+Paper ID: https://openalex.org/W4311006200
+
+Abstract:
+Printable electronics is emerging as one of the fast-growing engineering fields with a higher degree of customization and reliability. Ironically, sustainable printing technology is essential because of the minimal waste to the environment. To move forward, we need to harness the fabrication technology with the potential to support traditional process. In this review, we have systematically discussed in detail the various manufacturing materials and processing technologies. The selection criteria for the assessment are conducted systematically on the manuscript published in the last 10 years (2012-2022) in peer-reviewed journals. We have discussed the various kinds of printable ink which are used for fabrication based on nanoparticles, nanosheets, nanowires, molecular formulation, and resin. The printing methods and technologies used for printing for each technology are also reviewed in detail. Despite the major development in printing technology some critical challenges needed to be addressed and critically assessed. One such challenge is the coffee ring effect, the possible methods to reduce the effect on modulating the ink environmental condition are also indicated. Finally, a summary of printable electronics for various applications across the diverse industrial manufacturing sector is presented.

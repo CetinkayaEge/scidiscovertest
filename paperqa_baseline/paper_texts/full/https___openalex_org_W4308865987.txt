@@ -1,0 +1,9 @@
+Title: Evaluating Enterprise Resource Planning (ERP) Implementation for Sustainable Supply Chain Management
+Authors: M.N. Qureshi
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142214779
+Paper ID: https://openalex.org/W4308865987
+
+Abstract:
+Enterprise Resource Planning (ERP) plays a vital role in an organization’s growth and sustainability in the supply chain. ERP implementations have a mix of critical success factors (CSFs) that are very important. Hence, it is essential to study the CSFs, their mutual influence and their severity in terms of prioritization for the I4.0. The goal of the current study is to identify CSFs for ERP implementations, as well as their interdependence and ranking. The CSFs of ERP deployment were discovered by a thorough analysis of the literature and subsequent input from a group of subject matter experts. Using the interpretive structural modeling (ISM) method, the shortlisted CSFs were modeled, and after that, the matrice d’ impacts croises multiplication appliqué an classement (MICMAC) analysis was used to classify them. The interpretative ranking technique was used to carry out the subsequent prioritization and ranking (IRP). In the present research, the modeling of CSFs for successful ERP implementations was carried out to accomplish much-needed sustainability in the supply chain. The result revealed the three top-ranked CSFs for successful ERP implementations: “Top management support”, “Change management” and “Business process reengineering.” This research can help practicing managers prepare an ERP implementation plan to accomplish sustainability in SCM. Each CSF’s role can be studied in terms of the mutual relationships for its control. This research can also help in prioritizing strategies for optimizing the resources required for ERP implementations.

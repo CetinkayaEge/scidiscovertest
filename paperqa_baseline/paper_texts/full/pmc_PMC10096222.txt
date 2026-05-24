@@ -1,0 +1,9 @@
+Title: Modeling the impact of the habituation effect on information spreading processes with repeated contacts under an SI model
+Authors: Piotr Bartków, Kamil Bortko, Jarosław Jankowski, Patryk Pazura
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0280266
+Paper ID: pmc_PMC10096222
+
+Abstract:
+People are exposed to information from different sources whether or not such exposure is desired. Due to a limited ability to process information, only parts of the messages may be absorbed, and other parts may be ignored. Repeated stimuli lead to lower responses due to the learning process and the habituation effect. While this effect has been intensively studied, mainly in relation to visual stimulus, it is also incorporated in information spreading processes. Information spreading models often assume the possibility of repeated contact, but no habituation effect, which lowers the level of responsiveness of nodes in the network, has been implemented. Here, we study the impact of the habituation effect on information spreading with a susceptible–infected (SI) model, which is often the basis for other models. We assume that a decrease in habituation has an impact on propagation processes. Analysis of the results shows that the course of these propagation processes behave differently, significantly worsening their results. These processes are very sensitive, even to small changes in the level of habituation.

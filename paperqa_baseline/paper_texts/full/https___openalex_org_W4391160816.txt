@@ -1,0 +1,9 @@
+Title: Characterizing the Opportunity Space for Sustainable Hydrothermal Valorization of Wet Organic Wastes
+Authors: Jianan Feng, Yalin Li, Timothy J. Strathmann, Jeremy S. Guest
+Year: 2024
+Venue: Environmental Science & Technology
+DOI: https://doi.org/10.1021/acs.est.3c07394
+Paper ID: https://openalex.org/W4391160816
+
+Abstract:
+Resource recovery from wet organic wastes can support circular economies by creating financial incentives to produce renewable energy and return nutrients to agriculture. In this study, we characterize the potential for hydrothermal liquefaction (HTL)-based resource recovery systems to advance the economic and environmental sustainability of wastewater sludge, FOG (fats, oils, and grease), food waste, green waste, and animal manure management through the production of liquid biofuels (naphtha, diesel), fertilizers (struvite, ammonium sulfate), and power (heat, electricity). From the waste management perspective, median costs range from −193 $·tonne–1 (FOG) to 251 $·tonne–1 (green waste), and median carbon intensities range from 367 kg CO2 eq·tonne–1 (wastewater sludge) to 769 kg CO2 eq·tonne–1 (green waste). From the fuel production perspective, the minimum selling price of renewable diesel blendstocks are within the commercial diesel price range (2.37 to 5.81 $·gal–1) and have a lower carbon intensity than petroleum diesel (101 kg CO2 eq·MMBTU–1). Finally, through uncertainty analysis and Monte Carlo filtering, we set specific targets (i.e., achieve wastewater sludge-to-biocrude yield >0.440) for the future development of hydrothermal waste management system components. Overall, our work demonstrates the potential of HTL-based resource recovery systems to reduce the costs and carbon intensity of resource-rich organic wastes.

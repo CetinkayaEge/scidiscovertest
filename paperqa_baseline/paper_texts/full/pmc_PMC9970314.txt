@@ -1,0 +1,9 @@
+Title: Hair follicle mesenchymal stem cell exosomal lncRNA H19 inhibited NLRP3 pyroptosis to promote diabetic mouse skin wound healing
+Authors: Hongliang Yang, Yan Zhang, Zhenwu Du, Tengfei Wu, Chun Yang
+Year: 2023
+Venue: Aging (Albany NY)
+DOI: 10.18632/aging.204513
+Paper ID: pmc_PMC9970314
+
+Abstract:
+Skin wounds caused by diabetes are a major medical problem. Mesenchymal stem cell-derived exosomes hold promise to quicken wound healing due to their ability to transfer certain molecules to target cells, including mRNAs, microRNAs, lncRNAs, and proteins. Nonetheless, the specific mechanisms underlying this impact are not elucidated. Therefore, this research aimed to investigate the effect of MSC-derived exosomes comprising long non-coding RNA (lncRNA) H19 on diabetic skin wound healing. Hair follicle mesenchymal stem cells (HF-MSCs) were effectively isolated and detected, and exosomes (Exo) were also isolated smoothly. Pretreatment with 30 mM glucose for 24 h (HG) could efficiently induce pyroptosis in HaCaT cells. Exosomal H19 enhanced HaCaT proliferation and migration and inhibited pyroptosis by reversing the stimulation of the NLRP3 inflammasome. Injection of exosomes overexpressing lncRNA H19 to diabetic skin wound promoted sustained skin wound healing, whereas sh-H19 exosomes did not have this effect. In conclusion, Exosomes overexpressing H19 promoted HaCaT proliferation, migration and suppressed pyroptosis both in vitro and in vivo . Therefore, HFMSC-derived exosomes that overexpress H19 may be included in strategies for healing diabetic skin wounds.

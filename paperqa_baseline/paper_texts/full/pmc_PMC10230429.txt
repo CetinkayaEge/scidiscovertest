@@ -1,0 +1,9 @@
+Title: Concomitant targeting of FLT3 and BTK overcomes FLT3 inhibitor resistance in acute myeloid leukemia through the inhibition of autophagy
+Authors: Weiguo Zhang, Guopan Yu, Hongying Zhang, Mahesh Basyal, Charlie Ly, Bin Yuan, Vivian Ruvolo, Sujan Piya, Seemana Bhattacharya, Qi Zhang, Gautam Borthakur, Venkata L. Battula, Marina Konopleva, William G. Rice, Michael Andreeff
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280884
+Paper ID: pmc_PMC10230429
+
+Abstract:
+Strategies to overcome resistance to FMS-like tyrosine kinase 3 (FLT3)-targeted therapy in acute myeloid leukemia (AML) are urgently needed. We identified autophagy as one of the resistance mechanisms, induced by hypoxia and the bone marrow microenvironment via activation of Bruton tyrosine kinase (BTK). Suppressing autophagy/BTK sensitized FLT3 -mutated AML to FLT3 inhibitor-induced apoptosis. Furthermore, co-targeting FLT3/BTK/aurora kinases with a novel multi-kinase inhibitor CG-806 (luxeptinib) induced profound apoptosis in FLT3 -mutated AML by co-suppressing FLT3/BTK, antagonizing autophagy, and causing leukemia cell death in FLT3 -wildtype AML by aurora kinase-mediated G2/M arrest and polyploidy, in addition to FLT3 inhibition. Thus, CG-806 exerted profound anti-leukemia activity against AML regardless of FLT3 mutation status. CG-806 also significantly reduced AML burden and extended survival in an in vivo patient-derived xenograft leukemia murine model of FLT3 inhibitor-resistant FLT3 -ITD/TKD double-mutant primary AML. Taken together, these findings indicate that CG-806 has a unique mechanistic action and pre-clinical activity, which is presently undergoing clinical evaluation in both FLT3 wildtype and mutant AML.

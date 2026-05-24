@@ -1,0 +1,9 @@
+Title: Preparation and Anti-Lung Cancer Activity Analysis of Guaiacyl-Type Dehydrogenation Polymer
+Authors: Junyi Zhou, Yuanyuan Yue, Xin Wei, Yimin Xie
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083589
+Paper ID: pmc_PMC10142027
+
+Abstract:
+In this paper, guaiacyl dehydrogenated lignin polymer (G-DHP) was synthesized using coniferin as a substrate in the presence of β-glucosidase and laccase. Carbon-13 nuclear magnetic resonance ( 13 C-NMR) determination revealed that the structure of G-DHP was relatively similar to that of ginkgo milled wood lignin (MWL), with both containing β-O-4, β-5, β-1, β-β, and 5-5 substructures. G-DHP fractions with different molecular weights were obtained by classification with different polar solvents. The bioactivity assay indicated that the ether-soluble fraction (DC 2 ) showed the strongest inhibition of A549 lung cancer cells, with an IC 50 of 181.46 ± 28.01 μg/mL. The DC 2 fraction was further purified using medium-pressure liquid chromatography. Anti-cancer analysis revealed that the D 4 and D 5 compounds from DC 2 had better anti-tumor activity, with IC 50 values of 61.54 ± 17.10 μg/mL and 28.61 ± 8.52 μg/mL, respectively. Heating electrospray ionization tandem mass spectrometry (HESI-MS) results showed that both the D 4 and D 5 were β-5-linked dimers of coniferyl aldehyde, and the 13 C-NMR and 1 H-NMR analyses confirmed the structure of the D 5 . Together, these results indicate that the presence of an aldehyde group on the side chain of the phenylpropane unit of G-DHP enhances its anticancer activity.

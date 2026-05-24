@@ -1,0 +1,9 @@
+Title: Relative Estimation of Water Content for Flat-Type Inductive-Based Oil Palm Fruit Maturity Sensor
+Authors: Norhisam Misron, Nor Aziana Aliteh, Noor Hasmiza Harun, Kunihisa Tashiro, Toshiro Sato, Hiroyuki Wakiwaka
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010052
+Paper ID: pmc_PMC5298625
+
+Abstract:
+The paper aims to study the sensor that identifies the maturity of oil palm fruit bunches by using a flat-type inductive concept based on a resonant frequency technique. Conventionally, a human grader is used to inspect the ripeness of the oil palm fresh fruit bunch (FFB) which can be inconsistent and inaccurate. There are various new methods that are proposed with the intention to grade the ripeness of the oil palm FFB, but none has taken the inductive concept. In this study, the resonance frequency of the air coil is investigated. Samples of oil palm FFB are tested with frequencies ranging from 20 Hz to 10 MHz and the results obtained show a linear relationship between the graph of the resonance frequency (MHz) against time (Weeks). It is observed that the resonance frequencies obtained for Week 10 (pre-mature) and Week 18 (mature) are around 8.5 MHz and 9.8 MHz, respectively. These results are compared with the percentage of the moisture content. Hence, the inductive method of the oil palm fruit maturity sensor can be used to detect the change in water content for ripeness detection of the oil palm FFB.

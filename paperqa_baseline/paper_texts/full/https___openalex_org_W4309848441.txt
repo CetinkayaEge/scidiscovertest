@@ -1,0 +1,9 @@
+Title: Evaluation of physicochemical variability of sustainable aviation fuels
+Authors: Anna Oldani, Alexandra E. Solecki, Tonghun Lee
+Year: 2022
+Venue: Frontiers in Energy Research
+DOI: https://doi.org/10.3389/fenrg.2022.1052267
+Paper ID: https://openalex.org/W4309848441
+
+Abstract:
+This study outlines an effort to report on the physicochemical variability of Sustainable Aviation Fuels (SAF), leveraging data from the FAA Alternative Jet Fuels Test Database (AJFTD). The AJFTD, containing fuel sample records of conventional and sustainable aviation fuels to date, was developed by the PIs through the FAA Center of Excellence (ASCENT). With the development of SAF from various feedstocks and processing methods, new approval processes have been developed to accommodate the changing jet fuel landscape. To control for these differences, approval procedures were designed as each new fuel category came through the development pipeline. However, recent studies have suggested that rather than feedstock or processing method, chemical properties and fuel performance can be accurately judged by considering fuel composition characteristics such as carbon chain length, hydrocarbon class, and branching level. To quantify the variability present in recently approved jet fuels, this paper evaluates physicochemical property variability and provides relevant thermophysical property relations for conventional and alternative jet fuels with a discussion of efforts to streamline approval, reducing the time and cost of bringing new SAF to future markets. Findings from this study show that the variability in the composition and properties of SAF as compared to conventional fuels is small enough such that they still satisfy specification requirements outlined by the American Society for Testing and Materials (ASTM) D7566 standards for aviation fuels containing synthesized hydrocarbons.

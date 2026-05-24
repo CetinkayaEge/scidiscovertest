@@ -1,0 +1,9 @@
+Title: LPWAN Cyber Security Risk Analysis: Building a Secure IQRF Solution
+Authors: Mohammed Bouzidi, Ahmed Amro, Yaser Dalveren, Faouzi Alaya Cheikh, Mohammad Derawi
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042078
+Paper ID: pmc_PMC9967461
+
+Abstract:
+Low-power wide area network (LPWAN) technologies such as IQRF are becoming increasingly popular for a variety of Internet of Things (IoT) applications, including smart cities, industrial control, and home automation. However, LPWANs are vulnerable to cyber attacks that can disrupt the normal operation of the network or compromise sensitive information. Therefore, analyzing cybersecurity risks before deploying an LPWAN is essential, as it helps identify potential vulnerabilities and threats as well as allowing for proactive measures to be taken to secure the network and protect against potential attacks. In this paper, a security risk analysis of IQRF technology is conducted utilizing the failure mode effects analysis (FMEA) method. The results of this study indicate that the highest risk corresponds to four failure modes, namely compromised end nodes, a compromised coordinator, a compromised gateway and a compromised communication between nodes. Moreover, through this methodology, a qualitative risk evaluation is performed to identify potential security threats in the IQRF network and propose countermeasures to mitigate the risk of cyber attacks on IQRF networks.

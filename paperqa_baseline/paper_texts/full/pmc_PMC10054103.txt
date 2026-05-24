@@ -1,0 +1,9 @@
+Title: Acoustic-Based Rolling Bearing Fault Diagnosis Using a Co-Prime Circular Microphone Array
+Authors: Chi Li, Changzheng Chen, Xiaojiao Gu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063050
+Paper ID: pmc_PMC10054103
+
+Abstract:
+This study proposes a high-efficiency method using a co-prime circular microphone array (CPCMA) for the bearing fault diagnosis, and discusses the acoustic characteristics of three fault-type signals at different rotation speeds. Due to the close positions of various bearing components, radiation sounds are seriously mixed, and it is challenging to separate the fault features. Direction-of-arrival (DOA) estimation can be used to suppress noise and directionally enhance sound sources of interest; however, classical array configurations usually require a large number of microphones to achieve high accuracy. To address this, a CPCMA is introduced to raise the array’s degrees of freedom in order to reduce the dependence on the microphone numbers and computation complexity. The estimation of signal parameters via rotational invariance techniques (ESPRIT) applied to a CPCMA can quickly figure out the DOA estimation without any prior knowledge. By using the techniques above, a sound source motion-tracking diagnosis method is proposed according to the movement characteristics of impact sound sources for each fault type. Additionally, more precise frequency spectra are obtained, which are used in combination to determine the fault types and locations.

@@ -1,0 +1,9 @@
+Title: Sustainable Battery Biomaterials
+Authors: Frank N. Crespilho, Carlos M. Costa, S. Lanceros‐Méndez
+Year: 2024
+Venue: ChemElectroChem
+DOI: https://doi.org/10.1002/celc.202400530
+Paper ID: https://openalex.org/W4405655990
+
+Abstract:
+Abstract The future of energy storage demands not just efficiency but sustainability. Current battery technologies, relying on finite resources materials, face critical challenges related to environmental impact and safety. This Perspective explores the transformative potential of biomaterials – specifically biopolymers, bioinspired redox molecules, and bio‐derived gels – in contributing to sustainable energy storage. Highlighting recent advancements, we focus on the integration of natural and bioinspired materials as binders, electrodes, and electrolytes. These innovations present viable alternatives to traditional, non‐biodegradable battery components while opening new frontiers in 3D printing, bio‐based thick electrodes, and solid‐state electrolytes. Despite challenges such as scalability and long‐term stability, biomaterials hold the key to reshaping the landscape of energy storage technologies, offering a path toward a greener, safer, and more efficient future.
