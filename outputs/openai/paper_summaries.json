@@ -1,22 +1,7 @@
 [
   {
-    "paper_id": "https://openalex.org/W3199800248",
-    "summary_text": "Insufficient evidence.",
-    "url": "https://doi.org/10.3390/su131810139",
-    "doi": "https://doi.org/10.3390/su131810139",
-    "evidence": [
-      {
-        "chunk_id": "https://openalex.org/W3199800248||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W3199800248",
-        "section": "ABSTRACT",
-        "score": -4.576414585113525,
-        "text_preview": "focuses on the concept, evolution, and background of digital twin and the benefits and challenges involved in its implementation. The Scopus and Web of Science databases from 2016 to 2021 were considered for the bibliometric analysis and used to study and analyze the articles that fall within the re"
-      }
-    ]
-  },
-  {
     "paper_id": "pmc_PMC10229487",
-    "summary_text": "- Insufficient evidence.",
+    "summary_text": "Insufficient evidence.",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229487/",
     "doi": "10.1186/s42492-023-00137-4",
     "evidence": [
@@ -24,29 +9,14 @@
         "chunk_id": "pmc_PMC10229487||ABSTRACT||000",
         "paper_id": "pmc_PMC10229487",
         "section": "ABSTRACT",
-        "score": -4.926827430725098,
+        "score": -4.926828861236572,
         "text_preview": "Systematic review of digital twin technology and applications | As one of the most important applications of digitalization, intelligence, and service, the digital twin (DT) breaks through the constraints of time, space, cost, and security on physical entities, expands and optimizes the relevant fun"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W3210308859",
-    "summary_text": "- Insufficient evidence.",
-    "url": "https://doi.org/10.1109/jstars.2021.3122573",
-    "doi": "https://doi.org/10.1109/jstars.2021.3122573",
-    "evidence": [
-      {
-        "chunk_id": "https://openalex.org/W3210308859||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W3210308859",
-        "section": "ABSTRACT",
-        "score": -9.736170768737793,
-        "text_preview": "mid- and long-term. In this study, we evaluate utility of Copernicus data for this task with WaPOR products serving as a comparison benchmark. Thus the modelled ET has to be able to accurately capture field-scale activity at 10-day timesteps while also scaling to national coverage and providing cons"
-      }
-    ]
-  },
-  {
     "paper_id": "https://openalex.org/W4387452406",
-    "summary_text": "- The provided evidence does not specify any spatial resolution used to assimilate ocean observations into the digital twin; it only mentions general issues of ocean data availability, including spatial coverage and temporal resolution [https://openalex.org/W4387452406||ABSTRACT||000].\n- The provided evidence does not specify any synchronization frequency for assimilating ocean observations into the digital twin; it only discusses data availability and quality barriers, including temporal resolution [https://openalex.org/W4387452406||ABSTRACT||000].\n",
+    "summary_text": "- The provided evidence does not report any specific spatial resolution used to assimilate ocean observations into the digital twin; it only notes general issues with data availability and quality, including spatial coverage and temporal resolution [https://openalex.org/W4387452406||ABSTRACT||000]\n- The provided evidence also does not state any synchronization frequency for assimilating ocean observations into the digital twin [https://openalex.org/W4387452406||ABSTRACT||000]\n",
     "url": "https://doi.org/10.1038/s44183-023-00023-9",
     "doi": "https://doi.org/10.1038/s44183-023-00023-9",
     "evidence": [
@@ -54,44 +24,29 @@
         "chunk_id": "https://openalex.org/W4387452406||ABSTRACT||000",
         "paper_id": "https://openalex.org/W4387452406",
         "section": "ABSTRACT",
-        "score": 0.5710682272911072,
+        "score": 0.5710654258728027,
         "text_preview": "Digital twins: a stepping stone to achieve ocean sustainability? | Abstract Digital twins, a nascent yet potent computer technology, can substantially advance sustainable ocean management by mitigating overfishing and habitat degradation, modeling, and preventing marine pollution and supporting clim"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9803307",
+    "paper_id": "https://openalex.org/W4360611662",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803307/",
-    "doi": "10.1371/journal.pone.0278641",
+    "url": "https://doi.org/10.1016/j.eja.2023.126809",
+    "doi": "https://doi.org/10.1016/j.eja.2023.126809",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9803307||ABSTRACT||001",
-        "paper_id": "pmc_PMC9803307",
+        "chunk_id": "https://openalex.org/W4360611662||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W4360611662",
         "section": "ABSTRACT",
-        "score": -11.194389343261719,
-        "text_preview": "also has clear limitations: total transmission periods were often short and punctuated by lapses; precision and accuracy of location fixes was limited and variable between study sites. However, impending reductions in transmitter size and price will alleviate many issues, further expanding options f"
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC5298756",
-    "summary_text": "- Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5298756/",
-    "doi": "10.3390/s17010183",
-    "evidence": [
-      {
-        "chunk_id": "pmc_PMC5298756||ABSTRACT||000",
-        "paper_id": "pmc_PMC5298756",
-        "section": "ABSTRACT",
-        "score": -10.338926315307617,
-        "text_preview": "SNR and Standard Deviation of cGNSS-R and iGNSS-R Scatterometric Measurements | This work addresses the accuracy of the Global Navigation Satellite Systems (GNSS)-Reflectometry (GNSS-R) scatterometric measurements considering the presence of both coherent and incoherent scattered components, for bot"
+        "score": -6.309646129608154,
+        "text_preview": "systems consisting of four key phases (i.e., data collection, data processing, data analysis and evaluation, and information use) based on the infological approach. We then apply the framework to present and discuss a field application of smart agriculture and digital twins on crop nitrogen (N) fert"
       }
     ]
   },
   {
     "paper_id": "https://openalex.org/W4367611274",
-    "summary_text": "- The paper says digital twins of the ocean are synchronized with their real-world counterparts “at a specific frequency and fidelity,” but it does not give a numerical synchronization frequency in the provided evidence [https://openalex.org/W4367611274||ABSTRACT||000].\n- It also states that digital ocean twins use ocean observations, historical data, and forecast data to represent the past and present and simulate possible future scenarios, but no specific spatial resolution for assimilating observations is given in the evidence [https://openalex.org/W4367611274||ABSTRACT||000] [https://openalex.org/W4367611274||ABSTRACT||001].\n- Insufficient evidence to determine the spatial resolution and synchronization frequency used for assimilation from the provided chunks alone.",
+    "summary_text": "- The evidence states that digital ocean twins use ocean observations, historical data, and forecast data to represent the past and present and simulate future scenarios, but it does not specify the spatial resolution used for assimilation [https://openalex.org/W4367611274||ABSTRACT||000] [https://openalex.org/W4367611274||ABSTRACT||001].\n- The paper says digital twins are synchronized with their real-world counterparts at a specific frequency and fidelity, but it does not give the synchronization frequency or any exact update interval [https://openalex.org/W4367611274||ABSTRACT||000].\n- Insufficient evidence to determine the spatial resolution and synchronization frequency used to assimilate ocean observations into the digital twin [https://openalex.org/W4367611274||ABSTRACT||000] [https://openalex.org/W4367611274||ABSTRACT||001].",
     "url": "https://doi.org/10.58440/ihr-29-a04",
     "doi": "https://doi.org/10.58440/ihr-29-a04",
     "evidence": [
@@ -99,37 +54,74 @@
         "chunk_id": "https://openalex.org/W4367611274||ABSTRACT||000",
         "paper_id": "https://openalex.org/W4367611274",
         "section": "ABSTRACT",
-        "score": 2.256485939025879,
+        "score": 2.2564849853515625,
         "text_preview": "Digital Twins of the Ocean can foster a sustainable blue economy in a protected marine environment | While the field of hydrography is crucial for maritime navigation and other maritime applications, oceanography is the field that provides the relevant data and knowledge for predicting climate chang"
       },
       {
         "chunk_id": "https://openalex.org/W4367611274||ABSTRACT||001",
         "paper_id": "https://openalex.org/W4367611274",
         "section": "ABSTRACT",
-        "score": 0.7187761068344116,
+        "score": 0.7187740802764893,
         "text_preview": "Digital ocean twins can transform human ocean interactions by accelerating holistic understanding, optimal decision-making, and effective interventions. Digital twins of the ocean use ocean observations, historical and forecast data to represent the past and present and simulate possible future scen"
       },
       {
         "chunk_id": "https://openalex.org/W4367611274||ABSTRACT||002",
         "paper_id": "https://openalex.org/W4367611274",
         "section": "ABSTRACT",
-        "score": -1.1886570453643799,
+        "score": -1.1886577606201172,
         "text_preview": "as climate change, pollution, resource extraction and overfishing. Researchers and IT companies are combining various technologies and data sources, such as the Internet of Things for ocean observations, state of the art data science, artificial intelligence and machine learning, data spaces and voc"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC5298745",
-    "summary_text": "- The provided evidence describes development and field testing of a GNSS buoy for monitoring water surface elevations in estuaries and coastal areas, with RTK GNSS, VBS, and GPRS-based data transmission, but it does not mention assimilation into a digital twin. [pmc_PMC5298745||ABSTRACT||000]\n- No spatial resolution is reported in the evidence. [pmc_PMC5298745||ABSTRACT||000]\n- No synchronization frequency is reported in the evidence. [pmc_PMC5298745||ABSTRACT||000]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5298745/",
-    "doi": "10.3390/s17010172",
+    "paper_id": "https://openalex.org/W3199800248",
+    "summary_text": "- The provided evidence describes a bibliometric literature review of digital twin frameworks in smart manufacturing, not an ocean-observation assimilation study, and it discusses the concept, evolution, benefits, and challenges of digital twins. [https://openalex.org/W3199800248||ABSTRACT||000]\n\n- The evidence says the study used Scopus and Web of Science articles from 2016 to 2021 and applied Proknow-C for article selection and statistical/network analyses, but it does not mention any spatial resolution or synchronization frequency for assimilating ocean observations. [https://openalex.org/W3199800248||ABSTRACT||001]\n\n- Insufficient evidence.",
+    "url": "https://doi.org/10.3390/su131810139",
+    "doi": "https://doi.org/10.3390/su131810139",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC5298745||ABSTRACT||000",
-        "paper_id": "pmc_PMC5298745",
+        "chunk_id": "https://openalex.org/W3199800248||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W3199800248",
         "section": "ABSTRACT",
-        "score": -11.038528442382812,
-        "text_preview": "Development of a GNSS Buoy for Monitoring Water Surface Elevations in Estuaries and Coastal Areas | In this work, a Global Navigation Satellite System (GNSS) buoy that utilizes a Virtual Base Station (VBS) combined with the Real-Time Kinematic (RTK) positioning technology was developed to monitor wa"
+        "score": -4.576416969299316,
+        "text_preview": "focuses on the concept, evolution, and background of digital twin and the benefits and challenges involved in its implementation. The Scopus and Web of Science databases from 2016 to 2021 were considered for the bibliometric analysis and used to study and analyze the articles that fall within the re"
+      },
+      {
+        "chunk_id": "https://openalex.org/W3199800248||ABSTRACT||000",
+        "paper_id": "https://openalex.org/W3199800248",
+        "section": "ABSTRACT",
+        "score": -7.390349388122559,
+        "text_preview": "Sustainable Development of Smart Manufacturing Driven by the Digital Twin Framework: A Statistical Analysis | The Fourth Industrial Revolution drives industries from traditional manufacturing to the smart manufacturing approach. In this transformation, existing equipment, processes, or devices are r"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC10052765",
+    "summary_text": "- The provided evidence does not describe assimilating ocean observations into a digital twin; it instead discusses OFDM timing and frequency synchronization using CAZAC sequences, including CCPD and ACPD algorithms for timing synchronization and quadratic interpolation for frequency offset estimation [pmc_PMC10052765||ABSTRACT||000].\n- No spatial resolution for ocean-observation assimilation is reported in the evidence. The only numeric parameters mentioned are OFDM-related values such as m = 8 and N = 512 [pmc_PMC10052765||ABSTRACT||000].\n- No synchronization frequency for ocean-observation assimilation is reported in the evidence; the abstract only states that timing synchronization outputs were used for frequency offset estimation [pmc_PMC10052765||ABSTRACT||000].",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10052765/",
+    "doi": "10.3390/s23063168",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC10052765||ABSTRACT||000",
+        "paper_id": "pmc_PMC10052765",
+        "section": "ABSTRACT",
+        "score": -6.249814510345459,
+        "text_preview": "Timing and Frequency Synchronization Using CAZAC Sequences for OFDM Systems | Since orthogonal frequency division multiplexing (OFDM) systems are very susceptible to symbol timing offset (STO) and carrier frequency offset (CFO), which cause inter-symbol interference (ISI) and inter-carrier interfere"
+      }
+    ]
+  },
+  {
+    "paper_id": "pmc_PMC10311359",
+    "summary_text": "- The evidence does not mention ocean observations, a digital twin, spatial resolution for assimilating ocean observations, or any synchronization frequency for that purpose. [pmc_PMC10311359||ABSTRACT||001]\n- The only quantitative frequencies reported are breathing frequencies from a respiratory imaging study: diaphragm-based 0.232 Hz and OSI-based 0.251 Hz. [pmc_PMC10311359||ABSTRACT||001]\n\n",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10311359/",
+    "doi": "10.1016/j.compbiomed.2023.107073",
+    "evidence": [
+      {
+        "chunk_id": "pmc_PMC10311359||ABSTRACT||001",
+        "paper_id": "pmc_PMC10311359",
+        "section": "ABSTRACT",
+        "score": -7.71871280670166,
+        "text_preview": "High consistency of breathing frequencies was observed between the diaphragm-based (0.232 Hz) and OSI-based (0.251 Hz) signals, with a slight discrepancy of 0.019Hz. Using end of expiration (EOE) and end of inspiration (EOI) phases as examples, the mean±1SD values of the 80 transverse, 100 coronal a"
       }
     ]
   }
