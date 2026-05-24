@@ -1,6 +1,6 @@
 """Run RAGAS on the existing paperqa_results.json without re-querying.
 
-Uses OpenAI gpt-4o-mini (via OPENAI_API_KEY_SOTA) as the RAGAS eval LLM.
+Uses OpenAI gpt-5.4-mini (via OPENAI_API_KEY_SOTA) as the RAGAS eval LLM.
 The Gemini free tier's 20-RPD quota is too low for 74 results × 3 metrics.
 """
 from __future__ import annotations
@@ -54,9 +54,9 @@ def main() -> None:
     from langchain_huggingface import HuggingFaceEmbeddings
     from langchain_openai import ChatOpenAI
 
-    logger.info("Building eval LLM (gpt-4o-mini)...")
+    logger.info("Building eval LLM (gpt-5.4-mini)...")
     llm = LangchainLLMWrapper(ChatOpenAI(
-        model="gpt-4o-mini",
+        model="gpt-5.4-mini",
         api_key=api_key,
         base_url="https://api.openai.com/v1",
         temperature=0,
@@ -114,7 +114,7 @@ def main() -> None:
         "ragas_faithfulness": round(float(df["faithfulness"].mean(skipna=True)), 4),
         "ragas_answer_relevancy": round(float(df["answer_relevancy"].mean(skipna=True)), 4),
         "ragas_context_recall": round(float(df["context_recall"].mean(skipna=True)), 4),
-        "ragas_eval_model": "gpt-4o-mini",
+        "ragas_eval_model": "gpt-5.4-mini",
         "ragas_n_rows": len(rows),
     }
     report.update(scores)
