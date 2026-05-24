@@ -190,11 +190,14 @@ def write_manifest(
         if not paper or not (paper.get("abstract") or "").strip():
             continue
         authors = paper.get("authors") or []
+        # IMPORTANT: pydantic refuses empty-string "" as a list — write "[]"
+        # (valid JSON empty list) so DocDetails(authors=[]) is constructed
+        # cleanly even when the source has no author info.
         rows.append({
             "file_location": f"{sanitize_paper_id(pid)}.txt",
             "doi": _normalize_doi(paper.get("doi") or ""),
             "title": (paper.get("title") or "").replace("\n", " ").strip(),
-            "authors": json.dumps(authors, ensure_ascii=False) if authors else "",
+            "authors": json.dumps(authors, ensure_ascii=False),
             "year": str(paper.get("year") or ""),
             "journal": (paper.get("venue") or "").strip(),
         })
@@ -469,6 +472,26 @@ def run_queries(
     paperqa.docs.DEFAULT_CLIENTS = (_NoOpProvider,)
     logger.info("Metadata providers disabled (manifest is sole source of paper metadata).")
 
+    # Defensive patch for paperqa.utils.format_bibtex: when DocDetails auto-builds
+    # a bibtex string from manifest fields and the result is empty or malformed,
+    # the original code raises (IndexError, CitationConversionError, ...) and
+    # kills the indexing TaskGroup.  Catch ANY failure and return a simple "Ref ..."
+    # fallback so the build keeps going on that paper (cosmetic only — affected
+    # papers will have a basic citation rather than a fancy parsed one).
+    import paperqa.utils as _pqa_utils
+    _original_format_bibtex = _pqa_utils.format_bibtex
+    def _safe_format_bibtex(bibtex, key=None, **kwargs):
+        try:
+            if key is None:
+                key = bibtex.split("{")[1].split(",")[0]
+            return _original_format_bibtex(bibtex, key=key, **kwargs)
+        except Exception:
+            return f"Ref {key or 'untitled'}"
+    _pqa_utils.format_bibtex = _safe_format_bibtex
+    # Also patch the import location used by paperqa.types
+    import paperqa.types as _pqa_types
+    _pqa_types.format_bibtex = _safe_format_bibtex
+
 
     # Read the key that sota_openai_env() already placed in the environment and
     # inject it directly into every LiteLLM config dict.  We also pin api_base
@@ -505,10 +528,13 @@ def run_queries(
                 index_directory=str(pqa_index_dir),
                 manifest_file=str(manifest_path) if manifest_path else None,
                 # On 22k papers the default concurrency=5 races on docs/<hash>.zip
-                # writes → FileNotFoundError mid-indexing.  Serial writes plus
-                # batched commits avoid the race (slower but deterministic).
-                concurrency=1,
-                batch_size=50,
+                # writes → FileNotFoundError mid-indexing.  concurrency=2 with
+                # batch_size=100 is a moderate-risk tradeoff: roughly halves
+                # indexing time vs concurrency=1, race surface is small enough
+                # that it usually surfaces (or doesn't) within the first ~1k
+                # papers — fall back to concurrency=1 if it does.
+                concurrency=2,
+                batch_size=100,
             ),
         ),
         verbosity=0,

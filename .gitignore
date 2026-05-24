@@ -8,3 +8,4 @@ __pycache__/
 
 # PaperQA2 baseline — paper_texts/ and pqa_index/ now committed so collaborators
 # can reproduce the eval without re-running indexing (3h + OpenAI embedding cost).
+venv/
