@@ -1,0 +1,9 @@
+Title: Sustainable M-MOF-74 (M = Cu, Co, Zn) prepared in methanol as heterogeneous catalysts in the synthesis of benzaldehyde from styrene oxidation
+Authors: J. Gabriel Flores, Manuel Díaz‐García, Ilich A. Ibarra, Julia Aguilar‐Pliego, Manuel Sánchez‐Sánchez
+Year: 2021
+Venue: Journal of Solid State Chemistry
+DOI: https://doi.org/10.1016/j.jssc.2021.122151
+Paper ID: https://openalex.org/W3150485146
+
+Abstract:
+Metal-Organic Framework (MOF) materials are promising heterogeneous catalysts in different areas including Fine Chemistry, mainly if they possess open metal sites and if they are nanocrystalline. In this work, a new sustainable methodology to obtain nanocrystalline M-MOF-74 materials at room temperature, without any energy input and in methanol as the unique solvent, is described. Amongst the seven divalent metal tested, pure MOF-74 phase was achieved in the case of Co, Cu and Zn (and maybe Ni), but not in the case of Mg, Mn and Cd. The formation of these MOFs is taken place as soon as the metal source (metal acetate) and the organic linker 2,5-dihydroxyterehpthalic acid are put together. The so-prepared Co- and Cu-MOF-74 (but not Zn-MOF-74) resulted to be nanocrystalline and having high external surface area and intercrystalline mesoporosity. They were tested as heterogeneous catalysts in the synthesis of benzaldehyde from styrene using tert-butylhydroperoxide as an oxidant. Different experimental parameters like reactants ratio, amount of catalysts or reaction temperature were optimized. Cu-MOF-74 gave the highest benzaldehyde yield and interestingly it maintained intact its structure after reaction, unlike the same catalyst used in some other catalytic processes under similar relatively mild conditions.

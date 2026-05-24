@@ -1,0 +1,9 @@
+Title: Optical-referenceless optical frequency counter with twelve-digit absolute accuracy
+Authors: Atsushi Ishizawa, Tadashi Nishikawa, Kenichi Hitachi, Tomoya Akatsuka, Katsuya Oguri
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35674-8
+Paper ID: pmc_PMC10229652
+
+Abstract:
+A simpler and more accurate measurement of absolute optical frequencies (AOFs) is very important for optical communications and navigation systems. To date, an optical reference has been needed for measuring AOFs with twelve-digit accuracy because of the difficulty in measuring them directly. Here, we focus on an electro-optics-modulation comb that can bridge the vast frequency gap between photonics and electronics. We demonstrate an unprecedented method that can directly measure AOFs to an accuracy of twelve digits with an RF frequency counter by simply delivering a frequency-unknown laser into an optical phase modulator. This could open up a new horizon for optical-referenceless optical frequency metrology. Our method can also simultaneously achieve a 100-fold phase-noise reduction in a conventional signal generator. This corresponds to an increase in the transmission speed of wireless communications of by about seven times.

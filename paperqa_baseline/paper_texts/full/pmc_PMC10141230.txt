@@ -1,0 +1,9 @@
+Title: In Situ Synthesis of a Tumor-Microenvironment-Responsive Chemotherapy Drug
+Authors: Xiupeng Wang, Ayako Oyane, Tomoya Inose, Maki Nakamura
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041316
+Paper ID: pmc_PMC10141230
+
+Abstract:
+Current chemotherapy still suffers from unsatisfactory therapeutic efficacy, multi-drug resistance, and severe adverse effects, thus necessitating the development of techniques to confine chemotherapy drugs in the tumor microenvironment. Herein, we fabricated nanospheres of mesoporous silica (MS) doped with Cu (MS-Cu) and polyethylene glycol (PEG)-coated MS-Cu (PEG-MS-Cu) as exogenous copper supply systems to tumors. The synthesized MS-Cu nanospheres showed diameters of 30–150 nm with Cu/Si molar ratios of 0.041–0.069. Only disulfiram (DSF) and only MS-Cu nanospheres showed little cytotoxicity in vitro, whereas the combination of DSF and MS-Cu nanospheres showed significant cytotoxicity against MOC1 and MOC2 cells at concentrations of 0.2–1 μg/mL. Oral DSF administration in combination with MS-Cu nanospheres intratumoral or PEG-MS-Cu nanospheres intravenous administration showed significant antitumor efficacy against MOC2 cells in vivo. In contrast to traditional drug delivery systems, we herein propose a system for the in situ synthesis of chemotherapy drugs by converting nontoxic substances into antitumor chemotherapy drugs in a specific tumor microenvironment.

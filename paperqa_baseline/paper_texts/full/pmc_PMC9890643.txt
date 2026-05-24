@@ -1,0 +1,9 @@
+Title: An electrochemical aptasensor based on AuNRs/AuNWs for sensitive detection of apolipoprotein A-1 (ApoA1) from human serum
+Authors: Raudhatul Husna, Chitra Padmakumari Kurup, Mohd Afaque Ansari, Noor Faizah Mohd-Naim, Minhaz Uddin Ahmed
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra06600a
+Paper ID: pmc_PMC9890643
+
+Abstract:
+For early detection and diagnosis of cancer, it is essential to develop an electrochemical biosensor that is quick, accurate, and sensitive. Here, we use gold nanorod (AuNR) and gold nanowire (AuNW) nanocomposites (AuNR/AuNW/CS) as electrode modifiers on a glassy carbon electrode (GCE) to construct a sensitive label-free electrochemical aptasensor to detect ApoA1. The thiolated ApoA1-specific aptamers were immobilized onto the modified electrode surface through self-assembled monolayers. Electrochemical techniques, such as cyclic voltammetry (CV) and differential pulse voltammetry (DPV), were used to analyze the fabrication steps. The concentration of ApoA1 was measured with DPV on the aptasensor, with a linear range of 0.1 to 1000 pg mL −1 and a detection limit of 0.04 pg mL −1 . When compared to results from ELISA tests (which have a detection limit of 80 pg mL −1 ), the results achieved here were over 2000 times better. The aptasensor's performance was successfully evaluated using human serum spiked with ApoA1, suggesting that it has great potential for practical application. The electrochemical apatsensor additionally demonstrated outstanding selectivity responses and strong stability toward the target analyte. For early detection and diagnosis of cancer, it is essential to develop an electrochemical biosensor that is quick, accurate, and sensitive.

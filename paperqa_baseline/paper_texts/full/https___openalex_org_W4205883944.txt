@@ -1,0 +1,9 @@
+Title: The Interplay between Kinetics and Thermodynamics in Furan Diels–Alder Chemistry for Sustainable Chemicals Production
+Authors: Răzvan C. Cioc, Marc Crockatt, Jan C. van der Waal, Pieter C. A. Bruijnincx
+Year: 2022
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202114720
+Paper ID: https://openalex.org/W4205883944
+
+Abstract:
+Biomass-derived furanic platform molecules have emerged as promising building blocks for renewable chemicals and functional materials. To this aim, the Diels-Alder (DA) cycloaddition stands out as a versatile strategy to convert these renewable resources in highly atom-efficient ways. Despite nearly a century worth of examples of furan DA chemistry, clear structure-reactivity-stability relationships are still to be established. Detailed understanding of the intricate interplay between kinetics and thermodynamics in these very particular [4+2] cycloadditions is essential to push further development and truly expand the scope beyond the ubiquitous addend combinations of electron-rich furans and electron-deficient olefins. Herein, we provide pertinent examples of DA chemistry, taken from various fields, to highlight trends, establish correlations and answer open questions in the field with the aim to support future efforts in the sustainable chemicals and materials production.

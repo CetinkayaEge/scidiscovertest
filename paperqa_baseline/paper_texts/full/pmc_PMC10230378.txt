@@ -1,0 +1,9 @@
+Title: MR imaging of the airways
+Authors: Juergen Biederer
+Year: 2023
+Venue: The British Journal of Radiology
+DOI: 10.1259/bjr.20220630
+Paper ID: pmc_PMC10230378
+
+Abstract:
+The need for airway imaging is defined by the limited sensitivity of common clinical tests like spirometry, lung diffusion (DLCO) and blood gas analysis to early changes of peripheral airways and to inhomogeneous regional distribution of lung function deficits. Therefore, X-ray and computed tomography (CT) are frequently used to complement the standard tests. As an alternative, magnetic resonance imaging (MRI) offers radiation-free lung imaging, but at lower spatial resolution. Non-contrast enhanced MRI shows healthy airways down to the first subsegmental level/4 th order (CT: eighth). Bronchiectasis can be identified by wall thickening and fluid accumulation. Smaller airways become visible, when altered by peribronchiolar inflammation or mucus retention (tree-in-bud sign). The strength of MRI is functional imaging. Dynamic, time-resolved MRI directly visualizes expiratory airway collapse down to the lobar level (CT: segmental level). Obstruction of even smaller airways becomes visible as air trapping on the expiratory scans. MRI with hyperpolarized noble gases ( 3 He, 129 Xe) directly shows the large airways and peripheral lung ventilation. Dynamic contrast-enhanced MRI (DCE MRI) indirectly shows airway dysfunction as perfusion deficits resulting from hypoxic vasoconstriction of the dependent lung volumes. Further promising scientific approaches such as non-contrast enhanced, ventilation-/perfusion-weighted MRI from periodic signal changes of respiration and blood flow are in development. In summary, MRI of the lungs and airways excels with its unique combination of morphologic and functional imaging capacities for research ( e.g., in chronic obstructive lung disease or asthma) as well as for clinical imaging ( e.g., in cystic fibrosis).

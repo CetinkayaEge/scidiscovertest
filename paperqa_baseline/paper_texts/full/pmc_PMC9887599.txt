@@ -1,0 +1,9 @@
+Title: Synthesis, Optical Properties, and Antiproliferative Evaluation of NBD-Triterpene Fluorescent Probes
+Authors: Marta Medina-O’Donnell, Karina Vega-Granados, Antonio Martinez, M. Rosario Sepúlveda, José Antonio Molina-Bolívar, Luis Álvarez de Cienfuegos, Andres Parra, Fernando J. Reyes-Zurita, Francisco Rivas
+Year: 2022
+Venue: Journal of Natural Products
+DOI: 10.1021/acs.jnatprod.2c00880
+Paper ID: pmc_PMC9887599
+
+Abstract:
+A fluorescent labeling protocol for hydroxylated natural compounds with promising antitumor properties has been used to synthesize, in yields of 72–86%, 12 derivatives having fluorescent properties and biological activity. The reagent used for the synthesis of these fluorescent derivatives was 7-nitrobenzo-2-oxa-1,3-diazole chloride (NBD-Cl). The linkers employed to bind the NBD-Cl reagent to the natural compounds were ω-amino acids (Aa) of different chain lengths. The natural triterpene compounds chosen were oleanolic and maslinic acid, as their corresponding 28-benzylated derivatives. Thus, 12 NBD-Aa-triterpene conjugates have been studied for their optical fluorescence properties and their biological activities against cell proliferation in three cancer cell lines (B16-F10, HT-29, and HepG2), compared with three nontumor cell lines (HPF, IEC-18, and WRL68) from different tissues. The results of the fluorescence study have shown that the best fluorescent labels are those in which the ω-amino acid chain is shorter, and the carboxylic group is not benzylated. Analysis by confocal microscopy showed that these compounds were rapidly incorporated into cells in all three cancer cell lines, with these same derivatives showing the highest toxicity against the cancer cell lines tested. Then, the fluorescent labeling of these NBD-Aa-triterpene conjugates enabled their uptake and subcellular distribution to be followed in order to probe in detail their biological properties at the cellular and molecular level.

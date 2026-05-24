@@ -1,0 +1,9 @@
+Title: Beware of sustainable AI! Uses and abuses of a worthy goal
+Authors: Jan‐Christoph Heilinger, Hendrik Kempt, Saskia K. Nagel
+Year: 2023
+Venue: AI and Ethics
+DOI: https://doi.org/10.1007/s43681-023-00259-8
+Paper ID: https://openalex.org/W4319018126
+
+Abstract:
+Abstract The ethical debate about technologies called artificial intelligence (AI) has recently turned towards the question whether and in which sense using AI can be sustainable, distinguishing possible contributions of AI to achieve the end of sustainability on the one hand from the sustainability of AI and its underlying technologies as means on the other hand. This important distinction is both applied in the context of environmental as well as social sustainability. However, further elaboration is necessary to capture the complexities of sustainability assessments in the context of AI. To this end, our analysis of the ends and means of “sustainable AI” in social and environmental contexts leads to a matrix of four dimensions reflecting its social and its environmental impact and costs. This matrix avoids overly narrow, one-dimensional assessments that too quickly label some AI-based technology as sustainable. While a selective assessment can, at best, warrant the narrower verdict of “thin” sustainability, only such a comprehensive assessment can warrant the verdict of what we call “thick” sustainability. In consequence, we recommend to broaden the normative scope in considering the ethics and justice of AI and to use the notion “sustainability” more carefully and sparingly, and to pursue the more ambitious goal of “thick” sustainability of AI-based technologies to meaningfully contribute to actual improvements of human lives and living together. Current conditions of an economy oriented towards permanent growth, however, may make it difficult or even impossible to realise sustainable AI.

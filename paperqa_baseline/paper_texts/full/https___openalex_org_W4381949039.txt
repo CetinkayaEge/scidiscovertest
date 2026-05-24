@@ -1,0 +1,9 @@
+Title: Steel corrosion in concrete – Achilles' heel for sustainable concrete?
+Authors: Ueli Angst
+Year: 2023
+Venue: Cement and Concrete Research
+DOI: https://doi.org/10.1016/j.cemconres.2023.107239
+Paper ID: https://openalex.org/W4381949039
+
+Abstract:
+The reduction of greenhouse gas emissions from concrete production leads to decreased alkalinity of the concrete. This is generally perceived as a durability problem, because the prevailing doctrine assumes that reduced alkalinity leads to corrosion of the reinforcing steel. It is exactly this paradigm that presents a barrier preventing the potential of low-emission concretes from being fully exploited. Practical experience, however, shows that the loss of alkalinity does not necessarily lead to significant steel corrosion. This knowledge presents an opportunity for a new paradigm that allows controlling corrosion while tolerating reduced alkalinity. However, this change can hardly be successfully achieved on the basis of empirical experience. Instead, science-based models are needed to predict the corrosion performance of new concretes. This contribution showcases advances related to the fundamental understanding of steel corrosion and coupled processes occurring in the cementitious matrix. Opportunities for integrating these findings in next-generation corrosion models are discussed.

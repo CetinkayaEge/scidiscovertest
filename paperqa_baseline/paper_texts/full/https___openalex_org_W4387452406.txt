@@ -1,0 +1,9 @@
+Title: Digital twins: a stepping stone to achieve ocean sustainability?
+Authors: Asaf Tzachor, Ofir Hendel, Catherine E. Richards
+Year: 2023
+Venue: npj Ocean Sustainability
+DOI: https://doi.org/10.1038/s44183-023-00023-9
+Paper ID: https://openalex.org/W4387452406
+
+Abstract:
+Abstract Digital twins, a nascent yet potent computer technology, can substantially advance sustainable ocean management by mitigating overfishing and habitat degradation, modeling, and preventing marine pollution and supporting climate adaptation by safely assessing marine geoengineering alternatives. Concomitantly, digital twins may facilitate multi-party marine spatial planning. However, the potential of this emerging technology for such purposes is underexplored and yet to be realized, with just one notable project entitled European Digital Twins of the Ocean. Here, we consider the promise of digital twins for ocean sustainability across four thematic areas. We further emphasize implementation barriers, namely, data availability and quality, compatibility, and cost. Regarding oceanic data availability, we note the issues of spatial coverage, depth coverage, temporal resolution, and limited data sharing, underpinned, among other factors, by insufficient knowledge of marine processes. Inspired by the prospects of digital twins, and informed by impending difficulties, we propose to improve the availability and quality of data about the oceans, to take measures to ensure data standardization, and to prioritize implementation in areas of high conservation value by following the ‘nested enterprise’ approach.

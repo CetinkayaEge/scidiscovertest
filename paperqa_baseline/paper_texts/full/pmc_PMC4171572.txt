@@ -1,0 +1,9 @@
+Title: Influence of delta-doping on the hole capture probability in Ge/Si quantum dot mid-infrared photodetectors
+Authors: Andrew Yakimov, Victor Kirienko, Vyacheslav Timofeev, Aleksei Bloshkin, Anatolii Dvurechenskii
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-504
+Paper ID: pmc_PMC4171572
+
+Abstract:
+We study the effect of delta-doping on the hole capture probability in ten-period p -type Ge quantum dot photodetectors. The boron concentration in the delta-doping layers is varied by either passivation of a sample in a hydrogen plasma or by direct doping during the molecular beam epitaxy. The devices with a lower doping density is found to exhibit a lower capture probability and a higher photoconductive gain. The most pronounced change in the trapping characteristics upon doping is observed at a negative bias polarity when the photoexcited holes move toward the δ -doping plane. The latter result implies that the δ -doping layers are directly involved in the processes of hole capture by the quantum dots.

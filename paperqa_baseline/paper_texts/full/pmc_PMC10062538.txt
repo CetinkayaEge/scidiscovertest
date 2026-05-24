@@ -1,0 +1,9 @@
+Title: Utopia for Norwegian helicopter emergency medical services: Estimating the number of bases needed to radically bring down response times, and lives needed to be saved for cost effectiveness
+Authors: Caroline Jeanne Jagtenberg, Oddvar Uleberg, Gudrun Maria Waaler Bjørnelv, Jo Røislien
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0281706
+Paper ID: pmc_PMC10062538
+
+Abstract:
+Objectives Helicopter Emergency Medical Services (HEMS) throughout Europe are generally on scene within 10–15 minutes. In Norway, however, with its 13 HEMS bases, only 75% of the population can currently be reached within half an hour. We estimate the number of HEMS bases needed to reach the full Norwegian population within 10–15 minutes, and discuss implications regarding cost effectiveness. Methods Using geographic location and population characteristics from Norway’s 428 municipalities as input to the Maximal Covering Location Problem–a mathematical location optimization model–we estimate the number of HEMS bases required along with accompanying personnel and healthcare costs. We estimate the minimum number of lives that would have to be saved to achieve a net social benefit of zero. Results To reach 99% or 100% of the Norwegian population by HEMS within 15 minutes 78 or 104 bases are needed, respectively. The incremental need for personnel going from 20 to 15 minutes for 99/100% of the population is 602/728, with an accompanying incremental cost of 228/276 million EURO per year. A yearly total of 280/339 additional lives would have to be saved to obtain a net social benefit of zero. Then, the HEMS-system as a whole would be cost effective although the least efficient bases still would not be. Conclusions Reducing Norwegian HEMS response times to 10–15 minutes requires a drastic increase in the number of HEMS bases needed. Choice of ethical philosophy (utilitarianism or egalitarianism) determines when the expansion might be considered cost effective.

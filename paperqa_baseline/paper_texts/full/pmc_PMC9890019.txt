@@ -1,0 +1,9 @@
+Title: Genome-wide CRISPR screens identify ferroptosis as a novel therapeutic vulnerability in acute lymphoblastic leukemia
+Authors: Marie-Eve Lalonde, Marc Sasseville, Anne-Marie Gélinas, Jean-Sébastien Milanese, Kathie Béland, Simon Drouin, Elie Haddad, Richard Marcotte
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280786
+Paper ID: pmc_PMC9890019
+
+Abstract:
+Acute lymphoblastic leukemia (ALL) is the most frequent cancer diagnosed in children. Despite the great progress achieved over the last 40 years, with cure rates now exceeding 85%, refractory or relapsed ALL still exhibit a dismal prognosis. This poor outcome reflects the lack of treatment options specifically targeting relapsed or refractory ALL. In order to address this gap, we performed whole-genome CRISPR/Cas drop-out screens on a panel of seven B-ALL cell lines. Our results demonstrate that while there was a significant overlap in gene essentiality between ALL cell lines and other cancer types survival of ALL cell lines was dependent on several unique metabolic pathways, including an exquisite sensitivity to GPX4 depletion and ferroptosis induction. Detailed molecular analysis of B-ALL cells suggest that they are primed to undergo ferroptosis as they exhibit high steady-state oxidative stress potential, a low buffering capacity, and a disabled GPX4-independent secondary lipid peroxidation detoxification pathway. Finally, we validated the sensitivity of BALL to ferroptosis induction using patient-derived B-ALL samples.

@@ -1,0 +1,9 @@
+Title: BORC complex specific components and Kinesin-1 mediate autophagy evasion by the autophagy-resistant Mycobacterium tuberculosis Beijing strain
+Authors: Janpen Tunganuntarat, Phongthon Kanjanasirirat, Tanawadee Khumpanied, Salisa Benjaskulluecha, Benjawan Wongprom, Tanapat Palaga, Tegar Adriansyah Putra Siregar, Suparerk Borwornpinyo, Angkana Chaiprasert, Prasit Palittapongarnpim, Marisa Ponpuak
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28983-5
+Paper ID: pmc_PMC9886903
+
+Abstract:
+Autophagy induction by starvation has been shown to enhance lysosomal delivery to mycobacterial phagosomes, resulting in the restriction of the Mycobacterium tuberculosis reference strain H37Rv. In contrast to H37Rv, our previous study showed that strains belonging to the notorious M. tuberculosis Beijing genotype could evade autophagic elimination. Our recent RNA-Seq analysis also discovered that the autophagy-resistant M. tuberculosis Beijing strain (BJN) evaded autophagic control by upregulating the expression of Kxd1 , a BORC complex component, and Plekhm2 , both of which function in lysosome positioning towards the cell periphery in host macrophages, thereby suppressing enhanced lysosomal delivery to its phagosome and sparing the BJN from elimination as a result. In this work, we further characterised the other specific components of the BORC complex, BORC5-8, and Kinesin proteins in autophagy resistance by the BJN. Depletion of BORCS5-8 and Kinesin-1, but not Kinesin-3, reverted autophagy avoidance by the BJN, resulting in increased lysosomal delivery to the BJN phagosomes. In addition, the augmented lysosome relocation towards the perinuclear region could now be observed in the BJN-infected host cells depleted in BORCS5-8 and Kinesin-1 expressions. Taken together, the data uncovered new roles for BORCS5-8 and Kinesin-1 in autophagy evasion by the BJN.

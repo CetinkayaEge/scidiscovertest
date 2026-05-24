@@ -1,0 +1,9 @@
+Title: An Interdisciplinary Systematic Review on Sustainability in Tunneling—Bibliometrics, Challenges, and Solutions
+Authors: Marco Huymajer, Matthias Woegerbauer, Leopold Winkler, Alexandra Mazak‐Huemer, Hubert Biedermann
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14042275
+Paper ID: https://openalex.org/W4213114406
+
+Abstract:
+Sustainability is defined by current research as an interdisciplinary field comprising environmental, social, and economic aspects. This paper presents a systematic literature review following the PRISMA guidelines investigating how authors currently view sustainability issues in the specific context of tunneling. Thereby, we introduce a new methodology for reviewing sustainability aspects in an interdisciplinary way, where key bibliographic metrics are derived from the metadata of the reviewed literature. Regarding the content of the articles, we cluster sustainability aspects into specific topics and discuss challenges and solutions. In addition, we examine the role of digital technologies applied in sustainable tunneling. Our results show that there is a lack of interdisciplinary studies and that the current research does not represent all three dimensions of sustainability equally. The current research focuses on assessing the status quo instead of presenting specific solutions. Finally, we see great potential to further leverage digital tools to enable sustainable tunneling.

@@ -1,0 +1,9 @@
+Title: Renewable Energy Deployment and COVID-19 Measures for Sustainable Development
+Authors: Miraj Ahmed Bhuiyan, Jaehyung An, Alexey Mikhaylov, Nikita Moiseev, Mir Sayed Shah Danish
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084418
+Paper ID: https://openalex.org/W3156365847
+
+Abstract:
+The main goal of this study is to evaluate the impact of restrictive measures introduced in connection with COVID-19 on consumption in renewable energy markets. The study will be based on the hypothesis that similar changes in human behavior can be expected in the future with the further spread of COVID-19 and/or the introduction of additional quarantine measures around the world. The analysis also yielded additional results. The strongest reductions in energy generation occurred in countries with a high percentage (more than 80%) of urban population (Brazil, USA, the United Kingdom and Germany). This study uses two models created with the Keras Long Short-Term Memory (Keras LSTM) Model, and 76 and 10 parameters are involved. This article suggests that various restrictive strategies reduced the sustainable demand for renewable energy and led to a drop in economic growth, slowing the growth of COVID-19 infections in 2020. It is unknown to what extent the observed slowdown in the spread from March 2020 to September 2020 due to the policy’s impact and not the interaction between the virus and the external environment. All renewable energy producers decreased the volume of renewable energy market supply in 2020 (except China).

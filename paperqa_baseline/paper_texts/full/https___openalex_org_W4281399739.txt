@@ -1,0 +1,9 @@
+Title: Optimization of Large-Scale Battery Storage Capacity in Conjunction with Photovoltaic Systems for Maximum Self-Sustainability
+Authors: Qusay Hassan, Bartosz Pawela, Ali N. Hasan, Marek Jaszczur
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15103845
+Paper ID: https://openalex.org/W4281399739
+
+Abstract:
+The photovoltaic array has gained popularity in the global electrical market. At the same time, battery storage, which is recently being placed by energy consumers alongside photovoltaics, continues to fall in price. Domestic and community loads may be combined utilizing central battery storage and shared solar power through an integrated grid or microgrid system. One of the main targets is maximum self-sustainability and independence of the microgrid system and implemented solution. This research study looks at the energy flows in a single household system that includes solar arrays and battery storage. The analysed household system is represented by a model which uses real load profiles from experimental measurements, local solar distribution, and onsite weather data. The results show that depending on the system configuration, two important parameters, self-consumption and self-sufficiency, can vary significantly. For a properly designed photovoltaic system, the energy self-consumption can be up to 90.19%, while self-sufficiency can be up to 82.55% for analysed cases. As an outcome, a large sample size with a variety of setups is recommended for a thorough examination of self-sustainability. Regional variations can worsen under different weather conditions, different photovoltaic and battery capacities, and different municipal rules.

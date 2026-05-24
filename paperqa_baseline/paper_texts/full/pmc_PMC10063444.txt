@@ -1,0 +1,9 @@
+Title: The hTERT-p50 homodimer inhibits PLEKHA7 expression to promote gastric cancer invasion and metastasis
+Authors: Yu-Yun Wu, Yu-Feng Xiao, Li-Xing Tian, Bing He, Jiao Liu, Zhi-Bin Li, Huan Yang, Yang Chen, Qiang Luo, Bo-Sheng Li, Shi-Ming Yang
+Year: 2023
+Venue: Oncogene
+DOI: 10.1038/s41388-023-02630-9
+Paper ID: pmc_PMC10063444
+
+Abstract:
+Although accumulating evidence has highlighted the molecular mechanisms by which hTERT promotes tumour cell invasion and metastasis, the molecular mechanisms of the properties enabling hTERT to contribute to invasion and metastasis have not been clearly illustrated. Here, we report that hTERT promotes gastric cancer invasion and metastasis by recruiting p50 to synergistically inhibit PLEKHA7 expression. We observed that the expression of PLEKHA7 in gastric cancer was significantly negatively associated with the TNM stage and lymphatic metastasis and that decreased PLEKHA7 expression dramatically increased invasion and metastasis in gastric cancer cells. Further mechanistic research showed that hTERT directly regulates PLEKHA7 expression by binding p50 and recruiting the hTERT/p50 complex to the PLEKHA7 promoter. Increased hTERT dramatically decreased PLEKHA7 expression and promoted invasion and metastasis in gastric cancer cells. The hTERT-mediated invasion/metastasis properties at least partially depended on PLEKHA7. Our work uncovers a novel molecular mechanism underlying invasion/metastasis in gastric cancer orchestrated by hTERT and p50.

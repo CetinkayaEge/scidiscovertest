@@ -1,0 +1,9 @@
+Title: Using neutral cline decay to estimate contemporary dispersal: a generic tool and its application to a major crop pathogen
+Authors: A Rieux, T Lenormand, J Carlier, L de Lapeyre de Bellaire, V Ravigné
+Year: 2013
+Venue: Ecology Letters
+DOI: 10.1111/ele.12090
+Paper ID: pmc_PMC4165305
+
+Abstract:
+Dispersal is a key parameter of adaptation, invasion and persistence. Yet standard population genetics inference methods hardly distinguish it from drift and many species cannot be studied by direct mark-recapture methods. Here, we introduce a method using rates of change in cline shapes for neutral markers to estimate contemporary dispersal. We apply it to the devastating banana pest Mycosphaerella fijiensis , a wind-dispersed fungus for which a secondary contact zone had previously been detected using landscape genetics tools. By tracking the spatio-temporal frequency change of 15 microsatellite markers, we find that σ, the standard deviation of parent–offspring dispersal distances, is 1.2 km/generation 1/2 . The analysis is further shown robust to a large range of dispersal kernels. We conclude that combining landscape genetics approaches to detect breaks in allelic frequencies with analyses of changes in neutral genetic clines offers a powerful way to obtain ecologically relevant estimates of dispersal in many species.

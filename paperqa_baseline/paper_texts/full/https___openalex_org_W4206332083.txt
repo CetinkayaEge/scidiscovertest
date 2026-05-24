@@ -1,0 +1,9 @@
+Title: Establishing A Sustainable Low-Cost Air Quality Monitoring Setup: A Survey of the State-of-the-Art
+Authors: M V Narayana, Devendra Jalihal, S. M. Shiva Nagendra
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22010394
+Paper ID: https://openalex.org/W4206332083
+
+Abstract:
+Low-cost sensors (LCS) are becoming popular for air quality monitoring (AQM). They promise high spatial and temporal resolutions at low-cost. In addition, citizen science applications such as personal exposure monitoring can be implemented effortlessly. However, the reliability of the data is questionable due to various error sources involved in the LCS measurement. Furthermore, sensor performance drift over time is another issue. Hence, the adoption of LCS by regulatory agencies is still evolving. Several studies have been conducted to improve the performance of low-cost sensors. This article summarizes the existing studies on the state-of-the-art of LCS for AQM. We conceptualize a step by step procedure to establish a sustainable AQM setup with LCS that can produce reliable data. The selection of sensors, calibration and evaluation, hardware setup, evaluation metrics and inferences, and end user-specific applications are various stages in the LCS-based AQM setup we propose. We present a critical analysis at every step of the AQM setup to obtain reliable data from the low-cost measurement. Finally, we conclude this study with future scope to improve the availability of air quality data.

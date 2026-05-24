@@ -1,0 +1,9 @@
+Title: Why Ebbinghaus’ savings method from 1885 is a very ‘pure’ measure of memory performance
+Authors: Jaap M. J. Murre, Antonio G. Chessa
+Year: 2022
+Venue: Psychonomic Bulletin & Review
+DOI: 10.3758/s13423-022-02172-3
+Paper ID: pmc_PMC9971077
+
+Abstract:
+This paper analyzes the savings measures introduced by Ebbinghaus in his monograph of 1885. He measured memory retention in terms of the learning time saved in subsequent study trials relative to the time spent on the first learning trial. We prove mathematically that Ebbinghaus’ savings measure is independent of initial encoding strength, learning time, and relearning times. This theoretical model-free result demonstrates that savings is in a sense a very ‘pure’ measure of memory. Considering savings as an old-fashioned and unwieldy measure of memory may be unwarranted given this interesting property, which hitherto seems to have been overlooked. We contrast this with often used forgetting functions based on recall probability, such as the power function, showing that we should expect a lower forgetting rate in the initial portion of the curve for material that has been learned less well.

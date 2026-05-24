@@ -1,0 +1,9 @@
+Title: Sustainable Cellulose-Derived Organic Photonic Gels with Tunable and Dynamic Structural Color
+Authors: Luyao Huang, Xianzhe Zhang, Lin Deng, Ying Wang, Yongmin Liu, Hongli Zhu
+Year: 2024
+Venue: ACS Nano
+DOI: https://doi.org/10.1021/acsnano.3c11432
+Paper ID: https://openalex.org/W4390822343
+
+Abstract:
+Structural color is a fascinating optical phenomenon arising from intricate light-matter interactions. Biological structural colors from natural polymers are invaluable in biomimetic design and sustainable construction. Here, we report a renewable, abundant, and biodegradable cellulose-derived organic gel that generates stable cholesteric liquid crystal structures with vivid structural colors. We construct the chromatic gel using a 68 wt % hydroxypropyl cellulose (HPC) matrix, incorporating distinct polyethylene glycol (PEG) guest molecules. The PEGs contain peculiar end groups with tailored polarity, allowing for precise positioning on the HPC helical backbone through electrostatic repulsion between the PEG and HPC chains. This preserves the HPC's chiral nematic phase without being disrupted. We demonstrate that the PEGs' polarity tunes the HPC gel's reflective color. Additionally, gels with variable polarities are highly sensitive to temperature, pressure, and stretching, resulting in rapid, continuous, and reversible color changes. These exceptional dynamic traits establish the chiral nematic gel as an outstanding candidate for next-generation applications across displays, wearables, flexible electronics, health monitoring, and multifunctional sensors.

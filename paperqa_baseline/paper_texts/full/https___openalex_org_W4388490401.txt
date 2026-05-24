@@ -1,0 +1,9 @@
+Title: Artificial intelligence-driven scalability and its impact on the sustainability and valuation of traditional firms
+Authors: Roberto Moro Visconti, Salvador Cruz Rambaud, Joaquín López Pascual
+Year: 2023
+Venue: Humanities and Social Sciences Communications
+DOI: https://doi.org/10.1057/s41599-023-02214-8
+Paper ID: https://openalex.org/W4388490401
+
+Abstract:
+Abstract The objective of this study is to determine the impact of artificial intelligence (AI) on the earnings before interest, taxes, depreciation, and amortization (EBITDA) of firms as a proxy of their financial and economic margins by improving revenues and minimizing expenses. This impact is positive on the market value and scalability by improving the economic and financial sustainability of companies. The methodology is based on a business plan that considers the savings obtained by a traditional firm implementing AI. Specifically, a sensitivity analysis will demonstrate that AI savings impact key parameters, leading to economic and financial sustainability. Additionally, a mathematical interpretation, based on network theory, will be produced to provide and compare the added value of two ecosystems (without and with AI that adds up new nodes and strengthens the existing ones). The main contribution of this paper is the combination of two unrelated approaches, showing the potential of AI in scalable ecosystems. In future research, this innovative methodology could be extended to other technological applications.

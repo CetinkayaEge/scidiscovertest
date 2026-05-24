@@ -1,0 +1,9 @@
+Title: A DMAIC Framework to Improve Quality and Sustainability in Additive Manufacturing—A Case Study
+Authors: Rodrigo Rodriguez Delgadillo, Khaled Medini, Thorsten Wuest
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14010581
+Paper ID: https://openalex.org/W4205556859
+
+Abstract:
+Additive manufacturing as a key Industry 4.0 technology brings radical changes to how we execute production and services operations. However, this innovative technology has not reached maturity and research and development are still in progress to unleash its full sustainability potential. This paper aims to provide operational guidance to decision makers to jointly improve quality and sustainability performance of additive manufacturing processes. We propose a framework based on the DMAIC (Define/Measure/Analyze/Improve/Control) methodology and comprehensive pool of targeted key performance indicators (KPIs) and illustrate this framework through a single case study. The paper evidences the feasibility of extending DMAIC to the growing additive manufacturing domain to achieve quality and sustainability objectives. The case study uncovered some challenges, e.g., the need for customization to a company/industry context, which must be addressed in order to widely apply the proposed framework successfully.

@@ -1,0 +1,9 @@
+Title: Molecular mechanism of claudin-15 strand flexibility: A computational study
+Authors: Shadi Fuladi, Sarah McGuinness, Le Shen, Christopher R. Weber, Fatemeh Khalili-Araghi
+Year: 2022
+Venue: The Journal of General Physiology
+DOI: 10.1085/jgp.202213116
+Paper ID: pmc_PMC9629798
+
+Abstract:
+Claudins in tight junctions form ion channels that regulate paracellular permeability. We use molecular dynamics simulations of claudin-15 strands formed by up to 300 monomers to uncover the molecular mechanism of strand flexibility. Claudins are one of the major components of tight junctions that play a key role in the formation and maintenance of the epithelial barrier function. Tight junction strands are dynamic and capable of adapting their structure in response to large-scale tissue rearrangement and cellular movement. Here, we present molecular dynamics simulations of claudin-15 strands of up to 225 nm in length in two parallel lipid membranes and characterize their mechanical properties. The persistence length of claudin-15 strands is comparable with those obtained from analyses of freeze-fracture electron microscopy. Our results indicate that lateral flexibility of claudin strands is due to an interplay of three sets of interfacial interaction networks between two antiparallel double rows of claudins in the membranes. In this model, claudins are assembled into interlocking tetrameric ion channels along the strand that slide with respect to each other as the strands curve over submicrometer-length scales. These results suggest a novel molecular mechanism underlying claudin-15 strand flexibility. It also sheds light on intermolecular interactions and their role in maintaining epithelial barrier function.

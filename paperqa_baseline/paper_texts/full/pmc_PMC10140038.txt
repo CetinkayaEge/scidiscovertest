@@ -1,0 +1,9 @@
+Title: Computer-aided detection of arrhythmogenic sites in post-ischemic ventricular tachycardia
+Authors: Giulia Baldazzi, Marco Orrù, Graziana Viola, Danilo Pani
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33866-w
+Paper ID: pmc_PMC10140038
+
+Abstract:
+Nowadays, catheter-based ablation in patients with post-ischemic ventricular tachycardia (VT) is performed in arrhythmogenic sites identified by electrophysiologists by visual inspection during electroanatomic mapping. This work aims to present the development of machine learning tools aiming at supporting clinicians in the identification of arrhythmogenic sites by exploiting innovative features that belong to different domains. This study included 1584 bipolar electrograms from nine patients affected by post-ischemic VT. Different features were extracted in the time, time scale, frequency, and spatial domains and used to train different supervised classifiers. Classification results showed high performance, revealing robustness across the different classifiers in terms of accuracy, true positive, and false positive rates. The combination of multi-domain features with the ensemble tree is the most effective solution, exhibiting accuracies above 93% in the 10-time 10-fold cross-validation and 84% in the leave-one-subject-out validation. Results confirmed the effectiveness of the proposed features and their potential use in a computer-aided system for the detection of arrhythmogenic sites. This work demonstrates for the first time the usefulness of supervised machine learning for the detection of arrhythmogenic sites in post-ischemic VT patients, thus enabling the development of computer-aided systems to reduce operator dependence and errors, thereby possibly improving clinical outcomes.

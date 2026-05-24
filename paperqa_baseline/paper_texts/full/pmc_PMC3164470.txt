@@ -1,0 +1,9 @@
+Title: Cla4 kinase triggers destruction of the Rac1-GEF Cdc24 during polarized growth in Ustilago maydis
+Authors: Sonja Helene Frieser, Andrea Hlubek, Björn Sandrock, Michael Bölker
+Year: 2011
+Venue: Molecular Biology of the Cell
+DOI: 10.1091/mbc.E11-04-0314
+Paper ID: pmc_PMC3164470
+
+Abstract:
+In the dimorphic fungus Ustilago maydis , Rac1 and its activator Cdc24 are essential for hyphal tip growth. Rac1 is shown to stimulate Cla4 kinase, which in turn triggers destruction of Cdc24. Expression of stabilized Cdc24 interferes with cell polarization, indicating that negative feedback regulation of Cdc24 is critical for tip growth. Dimorphic switching from budding to filamentous growth is a characteristic feature of many pathogenic fungi. In the fungal model organism Ustilago maydis polarized growth is induced by the multiallelic b mating type locus and requires the Rho family GTPase Rac1. Here we show that mating type–induced polarized growth involves negative feedback regulation of the Rac1-specific guanine nucleotide exchange factor (GEF) Cdc24. Although Cdc24 is essential for polarized growth, its concentration is drastically diminished during filament formation. Cdc24 is part of a protein complex that also contains the scaffold protein Bem1 and the PAK kinase Cla4. Activation of Rac1 results in Cla4-dependent degradation of the Rac1-GEF Cdc24, thus creating a regulatory negative feedback loop. We generated mutants of Cdc24 that are resistant to Cla4-dependent destruction. Expression of stable Cdc24 variants interfered with filament formation, indicating that negative feedback regulation of Cdc24 is critical for the establishment of polarized growth.

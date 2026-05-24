@@ -1,0 +1,9 @@
+Title: Influence of Annealing on Mechanical Behavior of Alumina-Tantala Nanolaminates
+Authors: Helle-Mai Piirsoo, Taivo Jõgiaas, Kaupo Kukli, Aile Tamm
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083207
+Paper ID: pmc_PMC10143553
+
+Abstract:
+Mechanical properties of thin films are significant for the applicability of nanodevices. Amorphous Al 2 O 3 -Ta 2 O 5 double and triple layers were atomic layer-deposited to the thickness of 70 nm with constituent single-layer thicknesses varying from 40 to 23 nm. The sequence of layers was alternated and rapid thermal annealing (700 and 800 °C) was implemented on all deposited nanolaminates. Annealing caused changes in the microstructure of laminates dependent on their layered structure. Various shapes of crystalline grains of orthorhombic Ta 2 O 5 were formed. Annealing at 800 °C resulted in hardening up to 16 GPa (~11 GPa prior to annealing) in double-layered laminate with top Ta 2 O 5 and bottom Al 2 O 3 layers, while the hardness of all other laminates remained below 15 GPa. The elastic modulus of annealed laminates depended on the sequence of layers and reached up to 169 GPa. The layered structure of the laminate had a significant influence on the mechanical behavior after annealing treatments.

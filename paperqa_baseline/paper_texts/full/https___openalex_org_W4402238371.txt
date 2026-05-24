@@ -1,0 +1,9 @@
+Title: Blockchain-Based Decentralized Storage Systems for Sustainable Data Self-Sovereignty: A Comparative Study
+Authors: Mpyana Mwamba Merlec, Hoh Peter In
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16177671
+Paper ID: https://openalex.org/W4402238371
+
+Abstract:
+In the digital age, data sovereignty has emerged as a critical concern due to the increasing demand for privacy, security, and user control. In this context, decentralized storage infrastructure is reshaping how data are stored and managed, leading the transition from traditional centralized models to a more decentralized and user-driven approach to data sovereignty, known as data self-sovereignty (DSS). This paper presents a systematic comparative analysis of decentralized storage systems, emphasizing their potential to enhance sustainable DSS. By highlighting the integral role of blockchain technology, this study critically examines various decentralized storage platforms, including Arweave, BitTorrent, Dat Protocol, Filecoin, Hypercore Protocol, IPFS, MaidSafe, Sia, Storj, and Swarm. The analysis covers the key architectural features of these systems, their performance metrics, and their contribution to user data sovereignty. This study aims to comprehensively explain how these decentralized storage solutions allow users to maintain complete control over their data, thus offering a viable alternative to traditional centralized storage methods. Therefore, This paper contributes to ongoing data sovereignty research and guides future developments in decentralized storage technologies.

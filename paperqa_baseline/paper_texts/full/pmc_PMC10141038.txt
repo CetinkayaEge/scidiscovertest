@@ -1,0 +1,9 @@
+Title: Microfluidic Liver-on-a-Chip for Preclinical Drug Discovery
+Authors: Jingyu Fu, Hailong Qiu, Cherie S. Tan
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041300
+Paper ID: pmc_PMC10141038
+
+Abstract:
+Drug discovery is an expensive, long, and complex process, usually with a high degree of uncertainty. In order to improve the efficiency of drug development, effective methods are demanded to screen lead molecules and eliminate toxic compounds in the preclinical pipeline. Drug metabolism is crucial in determining the efficacy and potential side effects, mainly in the liver. Recently, the liver-on-a-chip (LoC) platform based on microfluidic technology has attracted widespread attention. LoC systems can be applied to predict drug metabolism and hepatotoxicity or to investigate PK/PD (pharmacokinetics/pharmacodynamics) performance when combined with other artificial organ-on-chips. This review discusses the liver physiological microenvironment simulated by LoC, especially the cell compositions and roles. We summarize the current methods of constructing LoC and the pharmacological and toxicological application of LoC in preclinical research. In conclusion, we also discussed the limitations of LoC in drug discovery and proposed a direction for improvement, which may provide an agenda for further research.

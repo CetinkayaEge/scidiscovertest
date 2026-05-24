@@ -1,0 +1,9 @@
+Title: Sustainable renewable energy supply networks optimization – The gradual transition to a renewable energy system within the European Union by 2050
+Authors: Sanja Potrč, Lidija Čuček, Mariano Martı́n, Zdravko Kravanja
+Year: 2021
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2021.111186
+Paper ID: https://openalex.org/W3163999335
+
+Abstract:
+In order to achieve the goal of a carbon neutral EU by 2050 and meet the climate targets of the Paris Agreement, a sustainable, efficient, competitive and secure energy system needs to be developed. This paper presents the synthesis of sustainable renewable energy supply networks within the EU-27, proposing a stepwise energy transition in the transport and power sectors, achieving a carbon net neutral target by 2050. A multi-period mixed-integer programming model is developed, with the objective of maximizing sustainability net present value, considering different biomass and waste resources for the production of biofuels, renewable electricity, hydrogen, food and bioproducts, employing different types of technologies. The results show that, with further development of existing technologies, the goal of a carbon-neutral EU can be achieved without compromising food production. Wind farms have proven to be the most promising solution at present for the rapid expansion of electricity generation from renewable energy sources, while the importance of solar photovoltaics is increasing over the years, reaching the 43% share of electricity generation from RES in 2050. Moreover, the energy transition within the EU could have a significant positive impact on the economic, environmental and also social aspects of sustainability, with more than 1.5 million new job opportunities created across the EU over the next 30 years.

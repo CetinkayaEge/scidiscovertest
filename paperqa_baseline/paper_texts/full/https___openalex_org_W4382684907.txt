@@ -1,0 +1,9 @@
+Title: The Comparative Effectiveness of Interventions Aimed at Making Tourists Behave in More Environmentally Sustainable Ways: A Meta-Analysis
+Authors: Danyelle Greene, C. Stephan Demeter, Sara Dolničar
+Year: 2023
+Venue: Journal of Travel Research
+DOI: https://doi.org/10.1177/00472875231183701
+Paper ID: https://openalex.org/W4382684907
+
+Abstract:
+Tourism generates 8% of all greenhouse gas emissions. One way of reducing emissions is to deploy behavioral change interventions that entice tourists to behave in more sustainable ways. In search of the most effective approaches, we conducted a meta-analysis of 118 interventions tested in field experiments in the tourism context. Most studies targeted beliefs and focused on towel reuse, food waste, or resource use. Changing choice architecture ( d = 1.40) and increasing pleasure ( d = 0.66) emerge as the most effective approaches. Imposing penalties for unsustainable behavior ( d = −0.12) and leveraging social norms to trigger sustainable behavior ( d = 0.18) have limited effectiveness. Future work should re-direct attention from designing interventions that modify beliefs toward interventions that change choice architecture or increase the pleasure associated with the desired behavior, and aim at changing a wider range of behaviors, including green transportation and the avoidance of single use plastics.

@@ -1,0 +1,9 @@
+Title: Rotor mechanism and its mapping in atrial fibrillation
+Authors: Chang-Hao Xu, Feng Xiong, Wei-Feng Jiang, Xu Liu, Tao Liu, Mu Qin
+Year: 2023
+Venue: Europace
+DOI: 10.1093/europace/euad002
+Paper ID: pmc_PMC10062333
+
+Abstract:
+Abstract Treatment of atrial fibrillation (AF) remains challenging despite significant progress in understanding its underlying mechanisms. The first detailed, quantitative theory of functional re-entry, the ‘leading circle’ model, was developed more than 40 years ago. Subsequently, in decades of study, an alternative paradigm based on spiral waves has long been postulated to drive AF. The rotor as a ‘spiral wave generator’ is a curved ‘vortex’ formed by spin motion in the two-dimensional plane, identified using advanced mapping methods in experimental and clinical AF. However, it is challenging to achieve complementary results between experimental results and clinical studies due to the limitation in research methods and the complexity of the rotor mechanism. Here, we review knowledge garnered over decades on generation, electrophysiological properties, and three-dimensional (3D) structure diversity of the rotor mechanism and make a comparison among recent clinical approaches to identify rotors. Although initial studies of rotor ablation at many independent centres have achieved promising results, some inconclusive outcomes exist in others. We propose that the clinical rotor identification might be substantially influenced by (i) non-identical surface activation patterns, which resulted from a diverse 3D form of scroll wave, and (ii) inadequate resolution of mapping techniques. With rapidly advancing theoretical and technological developments, future work is required to resolve clinically relevant limitations in current basic and clinical research methodology, translate from one to the other, and resolve available mapping techniques.

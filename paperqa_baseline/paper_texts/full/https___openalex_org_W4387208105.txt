@@ -1,0 +1,9 @@
+Title: Sustainability communication of tourism cities: A text mining approach
+Authors: Valentina Marchi, Alessandra Marasco, Valentina Apicerni
+Year: 2023
+Venue: Cities
+DOI: https://doi.org/10.1016/j.cities.2023.104590
+Paper ID: https://openalex.org/W4387208105
+
+Abstract:
+Urban destinations have enjoyed increasing sustainable tourism attention and a consequent need to address challenges on promoting sustainable behavior in recent years. Tourism destinations' websites play an important role in the communication of sustainable tourism products and behaviors and have been receiving increasing attention in research on sustainability communication in tourism. However, the development of a holistic approach to online sustainability communication at the destination level remains challenging and requires further research. This study introduces a text-mining approach based on the creation of an ad-hoc dictionary to provide insights into how 10 European tourism cities communicate sustainability on their websites. Based on this approach, an assessment of online sustainability communication in these cities is performed through the definition and measurement of specific indicators relating to presence, depth and dispersion. The results show how this approach can be used to automatically assess the depth and the relative balance of communication across the environmental, socio-cultural, economic, and general dimensions of sustainability. Based on a large-scale, comparable analysis of sustainability-related online content, the proposed approach provides a tool to assist the design and improvement of websites for promoting sustainable tourist behavior and supporting sustainable destination management towards the green transition.

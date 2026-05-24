@@ -1,0 +1,9 @@
+Title: Sustainable Seawater Desalination and Energy Management: Mechanisms, Strategies, and the Way Forward
+Authors: Meng Wang, Yen Wei, Ruoxin Li, Xin Wang, Chengyu Wang, Nanqi Ren, Shih‐Hsin Ho
+Year: 2023
+Venue: Research
+DOI: https://doi.org/10.34133/research.0290
+Paper ID: https://openalex.org/W4389188230
+
+Abstract:
+Solar-driven desalination systems have been recognized as an effective technology to address the water crisis. Recently, evaporators prepared based on advanced manufacturing technologies have emerged as a promising tool in enhancing ocean energy utilization. In this review, we discussed the thermal conversion, energy flow, salt deposition mechanisms, and design strategies for solar-driven desalination systems, and explored how to improve the desalination performance and energy use efficiency of the systems through advanced manufacturing technologies. In future perspectives, we determined the feasibility of coupling solar-driven solar desalination systems with multi-stage energy utilization systems and emerging artificial intelligence technologies, for which conclusions are given and new directions for future desalination system development are envisioned. Finally, exciting opportunities and challenges in the face of basic research and practical implementation are discussed, providing promising solutions and blueprints for green and novel desalination technologies while achieving sustainable development.

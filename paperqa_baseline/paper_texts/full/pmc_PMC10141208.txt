@@ -1,0 +1,9 @@
+Title: Textural Features of Mouse Glioma Models Measured by Dynamic Contrast-Enhanced MR Images with 3D Isotropic Resolution
+Authors: Karl Kiser, Jin Zhang, Sungheon Gene Kim
+Year: 2023
+Venue: Tomography
+DOI: 10.3390/tomography9020058
+Paper ID: pmc_PMC10141208
+
+Abstract:
+This paper investigates the effect of anisotropic resolution on the image textural features of pharmacokinetic (PK) parameters of a murine glioma model using dynamic contrast-enhanced (DCE) MR images acquired with an isotropic resolution at 7T with pre-contrast T1 mapping. The PK parameter maps of whole tumors at isotropic resolution were generated using the two-compartment exchange model combined with the three-site-two-exchange model. The textural features of these isotropic images were compared with those of simulated, thick-slice, anisotropic images to assess the influence of anisotropic voxel resolution on the textural features of tumors. The isotropic images and parameter maps captured distributions of high pixel intensity that were absent in the corresponding anisotropic images with thick slices. A significant difference was observed in 33% of the histogram and textural features extracted from anisotropic images and parameter maps, compared to those extracted from corresponding isotropic images. Anisotropic images in different orthogonal orientations demonstrated 42.1% of the histogram and textural features to be significantly different from those of isotropic images. This study demonstrates that the anisotropy of voxel resolution needs to be carefully considered when comparing the textual features of tumor PK parameters and contrast-enhanced images.

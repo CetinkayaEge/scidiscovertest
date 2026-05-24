@@ -1,0 +1,9 @@
+Title: A new combined framework for sustainable development using the DPSIR approach and numerical modeling
+Authors: Mahsa Malmir, Saman Javadi, Ali Moridi, Aminreza Neshat, Babak Razdar
+Year: 2021
+Venue: Geoscience Frontiers
+DOI: https://doi.org/10.1016/j.gsf.2021.101169
+Paper ID: https://openalex.org/W3126362923
+
+Abstract:
+Relying on the conceptual DPSIR framework and MODFLOW analysis, this study used a mixed approach to produce groundwater resource management solutions for the Najafabad area in central Iran. According to DPSIR results, agricultural activities put the highest pressure on groundwater resources in this region. The results showed the effectiveness of reducing water withdrawal over 30 years in maintaining the aquifer in a state of equilibrium. The best scenario consisted of cutting down extraction by 10% over the said period. Output maps of the water table rise at the Najafabad aquifer clearly showed that the groundwater management scenario involving a 10% reduction of water withdrawal was the most effective solution, as it would raise the water level by 6.7 m. Regarding other scenarios, reducing cultivated area by 20% was found to raise the water table by 5.03 m on average, while cutting down water withdrawal by 5% increased the water table by 3.6 m, and a 10% reduction of the cultivated area resulted in a 1.85 m rise. The combined model proposed here can be used for similar aquifers and can aid decision-makers and managers.

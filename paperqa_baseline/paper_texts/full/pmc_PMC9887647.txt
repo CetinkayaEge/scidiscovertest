@@ -1,0 +1,9 @@
+Title: Multiarray Biosensor for Diagnosing Lung Cancer Based on Gap Plasmonic Color Films
+Authors: Thanh Mien Nguyen, Jae Heun Chung, Gyeong-Ha Bak, You Hwan Kim, Minjun Kim, Ye-Ji Kim, Ryuk Jun Kwon, Eun-Jung Choi, Kwang Ho Kim, Yun Seong Kim, Jin-Woo Oh
+Year: 2022
+Venue: ACS Sensors
+DOI: 10.1021/acssensors.2c02001
+Paper ID: pmc_PMC9887647
+
+Abstract:
+Adaptable and sensitive materials are essential for the development of advanced sensor systems such as bio and chemical sensors. Biomaterials can be used to develop multifunctional biosensor applications using genetic engineering. In particular, a plasmonic sensor system using a coupled film nanostructure with tunable gap sizes is a potential candidate in optical sensors because of its simple fabrication, stability, extensive tuning range, and sensitivity to small changes. Although this system has shown a good ability to eliminate humidity as an interferant, its performance in real-world environments is limited by low selectivity. To overcome these issues, we demonstrated the rapid response of gap plasmonic color sensors by utilizing metal nanostructures combined with genetically engineered M13 bacteriophages to detect volatile organic compounds (VOCs) and diagnose lung cancer from breath samples. The M13 bacteriophage was chosen as a recognition element because the structural protein capsid can readily be modified to target the desired analyte. Consequently, the VOCs from various functional groups were distinguished by using a multiarray biosensor based on a gap plasmonic color film observed by hierarchical cluster analysis. Furthermore, the lung cancer breath samples collected from 70 healthy participants and 50 lung cancer patients were successfully classified with a high rate of over 89% through supporting machine learning analysis.

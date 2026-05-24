@@ -1,0 +1,9 @@
+Title: Application of Polypyrrole-Based Electrochemical Biosensor for the Early Diagnosis of Colorectal Cancer
+Authors: Xindan Zhang, Xiao Tan, Ping Wang, Jieling Qin
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13040674
+Paper ID: pmc_PMC9967576
+
+Abstract:
+Although colorectal cancer (CRC) is easy to treat surgically and can be combined with postoperative chemotherapy, its five-year survival rate is still not optimistic. Therefore, developing sensitive, efficient, and compliant detection technology is essential to diagnose CRC at an early stage, providing more opportunities for effective treatment and intervention. Currently, the widely used clinical CRC detection methods include endoscopy, stool examination, imaging modalities, and tumor biomarker detection; among them, blood biomarkers, a noninvasive strategy for CRC screening, have shown significant potential for early diagnosis, prediction, prognosis, and staging of cancer. As shown by recent studies, electrochemical biosensors have attracted extensive attention for the detection of blood biomarkers because of their advantages of being cost-effective and having sound sensitivity, good versatility, high selectivity, and a fast response. Among these, nano-conductive polymer materials, especially the conductive polymer polypyrrole (PPy), have been broadly applied to improve sensing performance due to their excellent electrical properties and the flexibility of their surface properties, as well as their easy preparation and functionalization and good biocompatibility. This review mainly discusses the characteristics of PPy-based biosensors, their synthetic methods, and their application for the detection of CRC biomarkers. Finally, the opportunities and challenges related to the use of PPy-based sensors for diagnosing CRC are also discussed.

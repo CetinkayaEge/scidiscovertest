@@ -1,0 +1,9 @@
+Title: A model-based constrained deep learning clustering approach for spatially resolved single-cell data
+Authors: Xiang Lin, Le Gao, Nathan Whitener, Ashley Ahmed, Zhi Wei
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276477.121
+Paper ID: pmc_PMC9712636
+
+Abstract:
+Spatially resolved scRNA-seq (sp-scRNA-seq) technologies provide the potential to comprehensively profile gene expression patterns in tissue context. However, the development of computational methods lags behind the advances in these technologies, which limits the fulfillment of their potential. In this study, we develop a deep learning approach for clustering sp-scRNA-seq data, named Deep Spatially constrained Single-cell Clustering (DSSC). In this model, we integrate the spatial information of cells into the clustering process in two steps: (1) the spatial information is encoded by using a graphical neural network model, and (2) cell-to-cell constraints are built based on the spatial expression pattern of the marker genes and added in the model to guide the clustering process. Then, a deep embedding clustering is performed on the bottleneck layer of autoencoder by Kullback–Leibler (KL) divergence along with the learning of feature representation. DSSC is the first model that can use information from both spatial coordinates and marker genes to guide cell/spot clustering. Extensive experiments on both simulated and real data sets show that DSSC boosts clustering performance significantly compared with the state-of-the-art methods. It has robust performance across different data sets with various cell type/tissue organization and/or cell type/tissue spatial dependency. We conclude that DSSC is a promising tool for clustering sp-scRNA-seq data.

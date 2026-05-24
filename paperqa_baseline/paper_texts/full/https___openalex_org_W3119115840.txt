@@ -1,0 +1,9 @@
+Title: Analysing sustainable concerns in diamond supply chain: a fuzzy ISM-MICMAC and DEMATEL approach
+Authors: Saket Shanker, Akhilesh Barve
+Year: 2021
+Venue: International Journal of Sustainable Engineering
+DOI: https://doi.org/10.1080/19397038.2020.1862351
+Paper ID: https://openalex.org/W3119115840
+
+Abstract:
+Sustainable supply chain management has become one of the significant areas of concern for modern industries. Enterprises are now adopting management that implements viable practices involving environmental protection and financial savings in a combined form. In this aspect, this study focuses on detecting various concerns associated with sustainable supply chain management in the diamond mining industry globally. These parameters are classified based on their dependency and driving power (DP) with the help of fuzzy MICMAC analysis. In addition to this, a structural model of the recognised concerns has been established using the interpretive structural modelling technique. Furthermore, the interdependence among the respective concerns have been identified by utilising the decision-making trial and evaluation laboratory (DEMATEL) approach. Also, an integrated ISM-DEMATEL model has been employed to form an evident understanding of these concerns. The findings of this study illustrate that ‘Awareness Programmes’ and ‘Proper Infrastructure Investment’ should be given due consideration to ensure a sustainable competitive advantage.

@@ -1,0 +1,9 @@
+Title: Synthesis, antimicrobial activity and molecular docking studies of spiroquinoline-indoline-dione and spiropyrazolo-indoline-dione derivatives
+Authors: Melek Gul, Emine Turk Celikoglu, Onder Idil, Gamze Tas, Emel Pelit
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-27777-z
+Paper ID: pmc_PMC9885930
+
+Abstract:
+Spiro[benzo[h]quinoline-7,3′-indoline]diones and spiro[indoline-3,4′-pyrazolo[3,4-b]quinoline]diones were efficiently synthesized via one-pot multi-component reactions under ultrasound-promoted conditions. Spiro[benzo[h]quinoline-7,3′-indoline]dione derivatives were successfully developed by the reaction of isatins, naphthalene-1-amine and 1,3-dicarbonyl compounds. The spiro[indoline-3,4′-pyrazolo[3,4-b]quinoline]dione derivatives were prepared by the reaction of isatins, 5-amino-1-methyl-3-pheylpyrazole, and 1,3-dicarbonyl compounds by using ( ±)-camphor-10-sulfonic acid as a catalyst in H 2 O/EtOH (3:1 v/v) solvent mixture. The antibacterial activity of the synthesized compounds was evaluated against, Enterococcus faecalis , Staphylococcus aureus and Candida albicans . Compounds 4b, 4h, and 6h showed the strongest antimicrobial activity toward both bacteria. The MIC values of these compounds ranged from 375–3000 µg/mL. The effect of these compounds (4b, 4h, 6h) as a function of applied dose and time was investigated by a kinetic study, and the interaction with these antimicrobial results was simulated by a molecular docking study. We also used the docking approach with Covid-19 since secondary bacterial infections. Docking showed that indoline-quinoline hybrid compounds 4b and 4h exerted the strongest docking binding value against the active sites of 6LU7. In addition, the synthesized compounds had a moderate to good free radical scavenging activity.

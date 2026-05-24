@@ -1,0 +1,9 @@
+Title: Structure and Technological Parameters’ Effect on MISFET-Based Hydrogen Sensors’ Characteristics
+Authors: Boris Podlepetsky, Nikolay Samotaev, Maya Etrekova, Artur Litvinov
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063273
+Paper ID: pmc_PMC10056915
+
+Abstract:
+The influence of structure and technological parameters (STPs) on the metrological characteristics of hydrogen sensors based on MISFETs has been investigated. Compact electrophysical and electrical models connecting the drain current, the voltage between the drain and the source and the voltage between the gate and the substrate with the technological parameters of the n -channel MISFET as a sensitive element of the hydrogen sensor are proposed in a general form. Unlike the majority of works, in which the hydrogen sensitivity of only the threshold voltage of the MISFET is investigated, the proposed models allow us to simulate the hydrogen sensitivity of gate voltages or drain currents in weak and strong inversion modes, taking into account changes in the MIS structure charges. A quantitative assessment of the effect of STPs on MISFET performances (conversion function, hydrogen sensitivity, gas concentration measurement errors, sensitivity threshold and operating range) is given for a MISFET with a Pd-Ta 2 O 5 -SiO 2 -Si structure. In the calculations, the parameters of the models obtained on the basis of the previous experimental results were used. It was shown how STPs and their technological variations, taking into account the electrical parameters, can affect the characteristics of MISFET-based hydrogen sensors. It is noted, in particular, that for MISFET with submicron two-layer gate insulators, the key influencing parameters are their type and thickness. Proposed approaches and compact refined models can be used to predict performances of MISFET-based gas analysis devices and micro-systems.

@@ -1,0 +1,9 @@
+Title: A Survey of Technologies and Recent Developments for Sustainable Smart Cycling
+Authors: Franklin Oliveira, Dilan Nery, Daniel G. Costa, Ivanovitch Silva, Luciana Conceição de Lima
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13063422
+Paper ID: https://openalex.org/W3137857404
+
+Abstract:
+Among the problems resulted from the continuous urbanization process, inefficient urban mobility and high pollution levels have been complex challenges that have demanded a lot of public investments and research efforts. Recently, some alternative transportation means have been leveraged as sustainable options for such challenges, which has brought bicycles to a more relevant setting. Besides the sometimes obvious benefits of adopting bikes for transportation, technologies around the Internet of Things (IoT) paradigm have been advocated as important supportive tools to boost smart cycling initiatives. Actually, new technologies can be exploited to improve the efficiency of bike paths and parking spots, while reducing accidents and enhancing the cycling experience of the users. Therefore, in this highly vibrating scenario, this article facilitates the understating of current research trends and promising developments, surveying and classing recent works. Since there is a global interest for the promotion of cleaner and more sustainable solutions in large cities, this survey can be valuable when supporting new developments in this highly relevant research area.

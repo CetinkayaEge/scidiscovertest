@@ -1,0 +1,9 @@
+Title: TPLE: A Reliable Data Delivery Scheme for On-Road WSN Traffic Monitoring
+Authors: Rui Wang, Fei Chang, Suli Ren
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010044
+Paper ID: pmc_PMC5298617
+
+Abstract:
+In an on-road environment, motor-engines severely disturb the wireless link of a sensor node, leading to high package loss rate, high delivery delay, and poor radio communication quality. The existing data delivery mechanisms, such as the ACK-based retransmission mechanism and window-based link quality estimation mechanism, could not handle these challenges well. To solve this challenge, we propose a Target-Prediction-based Link quality Estimation scheme (TPLE) to realize high quality data delivery in an on-road environment. To perform on-road link quality estimation, TPLE dynamically calculates the track of a nearby vehicle target and estimates target impact on wireless link. Based on the local estimation of link quality, TPLE schedules radio communication tasks effectively. Simulations indicate that our proposed TPLE scheme produces a 94% data delivery rate, its average retransmission number is around 0.8. Our conducted on-road data delivery experiments also indicated a similar result as the computer simulation.

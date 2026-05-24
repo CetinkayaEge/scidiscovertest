@@ -1,0 +1,9 @@
+Title: CRISPR enables sustainable cereal production for a greener future
+Authors: Sunny Ahmar, Babar Usman, Göetz Hensel, Ki‐Hong Jung, Damian Gruszka
+Year: 2023
+Venue: Trends in Plant Science
+DOI: https://doi.org/10.1016/j.tplants.2023.10.016
+Paper ID: https://openalex.org/W4388751996
+
+Abstract:
+The clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) system has become the most important tool for targeted genome editing in many plant and animal species over the past decade. The CRISPR/Cas9 technology has also sparked a flood of applications and technical advancements in genome editing in the key cereal crops, including rice, wheat, maize, and barley. Here, we review advanced uses of CRISPR/Cas9 and derived systems in genome editing of cereal crops to enhance a variety of agronomically important features. We also highlight new technological advances for delivering preassembled Cas9-gRNA ribonucleoprotein (RNP)-editing systems, multiplex editing, gain-of-function strategies, the use of artificial intelligence (AI)-based tools, and combining CRISPR with novel speed breeding (SB) and vernalization strategies.

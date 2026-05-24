@@ -1,0 +1,9 @@
+Title: Topography Optimization for Sustainable Dropwise Condensation: The Critical Role of Correlation Length
+Authors: Panagiotis Sarkiris, Vassilios Constantoudis, Kosmas Ellinas, Cheuk Wing Edmond Lam, Athanasios Milionis, John S. Anagnostopoulos, Dimos Poulikakos, Εvangelos Gogolides
+Year: 2023
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202306756
+Paper ID: https://openalex.org/W4386967070
+
+Abstract:
+Abstract An effective pathway to enhance the heat transfer process is to induce the formation of highly mobile condensate droplets, employing micro‐nanoengineered superhydrophobic surfaces. However, the design of the topography of these surfaces for sustained high performance constitutes a significant scientific and technological challenge. Herein, the critical role of the correlation length of topography is demonstrated as an important factor when designing superhydrophobic surfaces for heat transfer applications. Specifically, it is shown that a) a high correlation length value corresponds to increased space between surface structures and higher lateral distances between nucleating droplets, which results in lower droplet departure diameter and significantly delayed flooding of the surface and b) correlation length has to surpass a critical value for dropwise condensation (DWC) to be sustained in hierarchical structured surfaces, when the droplets are growing in a partial Cassie state. Following this rationale, droplets are categorized in three different energy and wetting states (Wenzel droplets, Cassie droplets of low kinetic energy and high energy jumping droplets), depending on the correlation length of the topography. Heat transfer experiments demonstrate an increase of 126% in the heat transfer coefficient (HTC) of surfaces exhibiting the maximum correlation length when compared to the flat hydrophobic surface.

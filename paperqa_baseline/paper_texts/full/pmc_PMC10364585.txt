@@ -1,0 +1,9 @@
+Title: Global analysis of kinetics reveals the role of secondary nucleation in recombinant spider silk self‐assembly
+Authors: Veronika Hovanová, Andrej Hovan, Gabriel Žoldák, Erik Sedlák, Martin Humenik
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4722
+Paper ID: pmc_PMC10364585
+
+Abstract:
+Abstract Recombinant spider silk proteins can be prepared in scalable fermentation processes and have been proven as sources of biomaterials for biomedical and technical applications. Nanofibrils, formed through the self‐assembly of these proteins, possess unique structural and mechanical properties, serving as fundamental building blocks for the fabrication of micro‐ and nanostructured scaffolds. Despite significant progress in utilizing nanofibrils‐based morphologies of recombinant spider silk proteins, a comprehensive understanding of the molecular mechanisms of nanofibrils self‐assembly remains a challenge. Here, a detailed kinetic study of nanofibril formation from a recombinant spider silk protein eADF4(C16) in dependence on the protein concentration, seeding, and temperature is provided. For the global fitting of kinetic data obtained during the fibril formation, we utilized the online platform AmyloFit. Evaluation of the data revealed that the self‐assembly mechanism of recombinant spider silk is dominated by secondary nucleation. Thermodynamic analyses show that both primary and secondary nucleations, as well as the elongation step of the eADF4(C16), are endothermic processes.

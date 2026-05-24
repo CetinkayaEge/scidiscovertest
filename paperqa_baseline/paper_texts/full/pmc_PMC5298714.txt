@@ -1,0 +1,9 @@
+Title: Cluster-Based Maximum Consensus Time Synchronization for Industrial Wireless Sensor Networks †
+Authors: Zhaowei Wang, Peng Zeng, Mingtuo Zhou, Dong Li, Jintao Wang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010141
+Paper ID: pmc_PMC5298714
+
+Abstract:
+Time synchronization is one of the key technologies in Industrial Wireless Sensor Networks (IWSNs), and clustering is widely used in WSNs for data fusion and information collection to reduce redundant data and communication overhead. Considering IWSNs’ demand for low energy consumption, fast convergence, and robustness, this paper presents a novel Cluster-based Maximum consensus Time Synchronization (CMTS) method. It consists of two parts: intra-cluster time synchronization and inter-cluster time synchronization. Based on the theory of distributed consensus, the proposed method utilizes the maximum consensus approach to realize the intra-cluster time synchronization, and adjacent clusters exchange the time messages via overlapping nodes to synchronize with each other. A Revised-CMTS is further proposed to counteract the impact of bounded communication delays between two connected nodes, because the traditional stochastic models of the communication delays would distort in a dynamic environment. The simulation results show that our method reduces the communication overhead and improves the convergence rate in comparison to existing works, as well as adapting to the uncertain bounded communication delays.

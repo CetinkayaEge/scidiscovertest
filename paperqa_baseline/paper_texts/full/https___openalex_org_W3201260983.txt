@@ -1,0 +1,9 @@
+Title: A systematic literature review on the use of big data for sustainable tourism
+Authors: Eko Rahmadian, Daniel Feitosa, Andrej Zwitter
+Year: 2021
+Venue: Current Issues in Tourism
+DOI: https://doi.org/10.1080/13683500.2021.1974358
+Paper ID: https://openalex.org/W3201260983
+
+Abstract:
+Sustainable tourism research focuses on mitigating or remediating environmental, social and economic impacts on tourism. In the past years, Big Data approaches have been applied to the field of tourism allowing for remarkable progress. However, there seems to be little evidence to support that such approaches are an inspiration to sustainable tourism and are being implemented. In this context, we aim to obtain a comprehensive overview of the use of Big Data in sustainable tourism to address various issues and understand how Big Data can support decision-making in such scenarios. To that end, this paper reports on the results of a literature review via a combination of a Systematic Literature Review (SLR) in Software Engineering, and the use of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) method. In summary, we investigated four facets: (a) sources of big data, (b) approaches, (c) purposes, and (d) contexts of application. The results suggest that the use of various approaches have impacted practices in sustainable tourism. The findings provide a thorough understanding of the state of the art of Big Data application in sustainable tourism and provide valuable insights to foster growth both in terms of research and practice.

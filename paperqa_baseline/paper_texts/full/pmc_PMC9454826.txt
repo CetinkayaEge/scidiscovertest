@@ -1,0 +1,9 @@
+Title: Conformational Changes and H-Bond Rearrangements during Quinone Release in Photosystem II
+Authors: Yu Sugo, Keisuke Saito, Hiroshi Ishikita
+Year: 2022
+Venue: Biochemistry
+DOI: 10.1021/acs.biochem.2c00324
+Paper ID: pmc_PMC9454826
+
+Abstract:
+In photosystem II (PSII) and photosynthetic reaction centers from purple bacteria (PbRC), the electron released from the electronically excited chlorophyll is transferred to the terminal electron acceptor quinone, Q B . Q B accepts two electrons and two protons before leaving the protein. We investigated the molecular mechanism of quinone exchange in PSII, conducting molecular dynamics (MD) simulations and quantum mechanical/molecular mechanical (QM/MM) calculations. MD simulations suggest that the release of Q B leads to the transformation of the short helix (D1-Phe260 to D1-Ser264), which is adjacent to the stromal helix de (D1-Asn247 to D1-Ile259), into a loop and to the formation of a water-intake channel. Water molecules enter the Q B binding pocket via the channel and form an H-bond network. QM/MM calculations indicate that the H-bond network serves as a proton-transfer pathway for the reprotonation of D1-His215, the proton donor during Q B H – /Q B H 2 conversion. Together with the absence of the corresponding short helix but the presence of Glu-L212 in PbRC, it seems likely that the two type-II reaction centers undergo quinone exchange via different mechanisms.

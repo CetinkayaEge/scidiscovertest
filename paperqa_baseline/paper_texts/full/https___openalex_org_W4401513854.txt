@@ -1,0 +1,9 @@
+Title: Blockchain technology as an enabler of transparency and efficiency in sustainable supply chains
+Authors: Harold Nwariaku, Busola Fadojutimi, Lois Gertrude Larteley Lawson, Jumoke Agbelusi, Oluwaseun Aaron Adigun, James Augustine Udom, Temitope Dickson Olajide
+Year: 2024
+Venue: International Journal of Science and Research Archive
+DOI: https://doi.org/10.30574/ijsra.2024.12.2.1454
+Paper ID: https://openalex.org/W4401513854
+
+Abstract:
+Blockchain technology, known for its decentralized and immutable ledger, presents a promising solution to the challenges of ensuring transparency and efficiency in sustainable supply chains. This abstract explores how blockchain can enhance traceability, verify authenticity, and foster stakeholder trust by providing an unalterable record of transactions accessible by all parties involved. Additionally, blockchain improves supply chain efficiency through streamlined processes, accurate data, and reduced fraud and errors, enabled by its secure and automated systems. Case studies in the food, fashion, and pharmaceutical industries demonstrate blockchain's practical applications, showcasing its role in ensuring food safety, ethical sourcing, and counterfeit prevention. Despite its potential, challenges such as integration with existing systems, scalability, regulatory compliance, and data privacy must be addressed. As these obstacles are overcome, blockchain is poised to become a key component in the management of sustainable supply chains, offering substantial benefits in transparency and operational efficiency.

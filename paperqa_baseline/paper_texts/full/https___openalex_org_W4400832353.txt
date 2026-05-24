@@ -1,0 +1,9 @@
+Title: Progress in metal oxide-based electrocatalysts for sustainable water splitting
+Authors: Aasiya S. Jamadar, Ripa Sutar, Susmita S. Patil, Reshma V. Khandekar, Jyotiprakash B. Yadav
+Year: 2024
+Venue: Materials Reports Energy
+DOI: https://doi.org/10.1016/j.matre.2024.100283
+Paper ID: https://openalex.org/W4400832353
+
+Abstract:
+Metal oxide-based electrocatalysts are promising alternatives to platinum group metals for water splitting due to their low cost, abundant raw materials, and impressive stability. This article covers recent progress in various types of metal oxides tailored for hydrogen and oxygen evolution reactions, discussing their crystal structure, composition, and surface morphology influence on performance. Strategies like surface engineering, doping, and nanostructuring are evaluated for enhancing catalytic activity and stability. The key considerations for commercialization are highlighted, emphasizing ongoing research, innovation, and future scope to drive widespread adoption of water-splitting technology for a cleaner and sustainable future.

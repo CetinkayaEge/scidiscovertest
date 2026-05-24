@@ -1,0 +1,9 @@
+Title: An intensity ratio of interlocking loops determines circadian period length
+Authors: Jie Yan, Guangsen Shi, Zhihui Zhang, Xi Wu, Zhiwei Liu, Lijuan Xing, Zhipeng Qu, Zhen Dong, Ling Yang, Ying Xu
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku701
+Paper ID: pmc_PMC4176327
+
+Abstract:
+Circadian clocks allow organisms to orchestrate the daily rhythms in physiology and behaviors, and disruption of circadian rhythmicity can profoundly affect fitness. The mammalian circadian oscillator consists of a negative primary feedback loop and is associated with some ‘auxiliary’ loops. This raises the questions of how these interlocking loops coordinate to regulate the period and maintain its robustness. Here, we focused on the REV-ERBα/ Cry1 auxiliary loop, consisting of Rev-Erbα/ROR-binding elements (RORE) mediated Cry1 transcription, coordinates with the negative primary feedback loop to modulate the mammalian circadian period. The silicon simulation revealed an unexpected rule: the intensity ratio of the primary loop to the auxiliary loop is inversely related to the period length, even when post-translational feedback is fixed. Then we measured the mRNA levels from two loops in 10-mutant mice and observed the similar monotonic relationship. Additionally, our simulation and the experimental results in human osteosarcoma cells suggest that a coupling effect between the numerator and denominator of this intensity ratio ensures the robustness of circadian period and, therefore, provides an efficient means of correcting circadian disorders. This ratio rule highlights the contribution of the transcriptional architecture to the period dynamics and might be helpful in the construction of synthetic oscillators.

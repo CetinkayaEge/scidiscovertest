@@ -1,0 +1,9 @@
+Title: An ionically cross-linked composite hydrogel electrolyte based on natural biomacromolecules for sustainable zinc-ion batteries
+Authors: Haoyang Ge, Liping Qin, Bingyao Zhang, Long Jiang, Yan Tang, Bingan Lu, Siyu Tian, Jiang Zhou
+Year: 2024
+Venue: Nanoscale Horizons
+DOI: https://doi.org/10.1039/d4nh00243a
+Paper ID: https://openalex.org/W4399897962
+
+Abstract:
+and retains 70.7% of its initial capacity after 150 cycles. The pouch cell performs well at different bending angles and exhibits a capacity retention rate of 98% after returning to its initial state from 180° folding. This work aims to construct high-performance hydrogel electrolytes using low-cost natural materials, which may provide a solution for the application of ZIBs in flexible biocompatible devices.

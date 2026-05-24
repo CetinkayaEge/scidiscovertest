@@ -1,0 +1,9 @@
+Title: Sustainable Polymer Composites Manufacturing through 3D Printing Technologies by Using Recycled Polymer and Filler
+Authors: Daniela Fico, Daniela Rizzo, Valentina De Carolis, Francesco Montagna, Carola Esposito Corcione
+Year: 2022
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym14183756
+Paper ID: https://openalex.org/W4296117645
+
+Abstract:
+In the last years, the excessive use of plastic and other synthetic materials, that are generally difficult to dispose of, has caused growing ecological worries. These are contributing to redirecting the world's attention to sustainable materials and a circular economy (CE) approach using recycling routes. In this work, bio-filaments for the Fused Filament Fabrication (FFF) 3D printing technique were produced from recycled polylactic acid (PLA) and artisanal ceramic waste by an extrusion process and fully characterized from a physical, thermal, and mechanical point of view. The data showed different morphological, thermal, rheological, and mechanical properties of the two produced filaments. Furthermore, the 3D objects produced from the 100% recycled PLA filament showed lower mechanical performance. However, the results have demonstrated that all the produced filaments can be used in a low-cost FFF commercial printer that has been modified with simple hand-made operations in order to produce 3D-printed models. The main objective of this work is to propose an example of easy and low-cost application of 3D printing that involves operations such as the reprocessing and the recyclability of materials, that are also not perfectly mechanically performing but can still provide environmental and economic benefits.

@@ -1,0 +1,9 @@
+Title: Blockchain technology as an enabler for cross‐sectoral systems integration for developing smart sustainable cities
+Authors: Sarmad Khawaja, Vahid Javidroozi
+Year: 2023
+Venue: IET Smart Cities
+DOI: https://doi.org/10.1049/smc2.12059
+Paper ID: https://openalex.org/W4383068164
+
+Abstract:
+Abstract Smart cities driven by modern technologies are the need of the day to alleviate the urbanisation challenges and improve the overall experience of the citizens. As the role of data‐sharing to facilitate systems integration across city sectors for developing smart cities has grown ever so profoundly, there is a need for decentralisation, transparency, and openness in terms of integration of city sectors to have efficient data diffusion among them. This is extremely important as the requirements of smart sustainable cities are open data sharing to allow service providers to better serve the citizens. Blockchain technology offers these characteristics with the extremely important added advantage of maintaining data security via an immutable record. However, the notion of the use of Blockchain for smart sustainable cities is still in the early years and requires extensive efforts to research and test it. In this research, a state‐of‐the‐art review is conducted to explore the usefulness of Blockchain technology in smart sustainable city development with a specific focus on cross‐sectoral systems integration, highlighting the gaps in the existing body of knowledge. This leads to the proposal of a novel framework for the use of Blockchain for smart sustainable cities, linking together service providers and citizens.

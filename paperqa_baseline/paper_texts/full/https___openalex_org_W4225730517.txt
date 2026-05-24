@@ -1,0 +1,9 @@
+Title: Digital battery passports to enable circular and sustainable value chains: Conceptualization and use cases
+Authors: Katharina Berger, Josef‐Peter Schöggl, Rupert J. Baumgartner
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.131492
+Paper ID: https://openalex.org/W4225730517
+
+Abstract:
+With respect to sustainable product management, the transition to circular battery value chains requires that stakeholders have access to high-quality data for decision-making purposes. In such a context, digital battery passports (DBPs) can act as a valuable data source and thus enable greater sustainability and circularity. The present paper presents a DBP concept for an electric vehicle battery (EVB), and delineates, for the first time, the respective information requirements needed. Development of the DBP concept outlined here entailed stakeholder mapping, a systematic literature review, and a bottom-up approach. The concept comprises 54 data points, subsumed under four main information categories: (1) battery, (2) sustainability and circularity, (3) diagnostics, maintenance, and performance, and (4) value chain actors. The concept further details the information needed to enable sustainable and circular value chains. In addition, four potential DBP use cases of distinct EVB value chain stakeholders are presented in order to illustrate how the concept may be used to support sustainable product management. The contribution of the paper is threefold: firstly, it stimulates scientific debate concerning the potential of DBPs for sustainable product management. Secondly, the concepts described in this paper can be viewed as a guide for the development of other digital product passports and may thus serve to improve sustainable circular product management in general. Thirdly, it aids policymakers and practitioners when implementing DBPs.

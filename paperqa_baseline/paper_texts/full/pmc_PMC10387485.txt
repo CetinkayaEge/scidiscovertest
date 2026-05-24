@@ -1,0 +1,9 @@
+Title: Influence of different infill materials on the performance of geocell-reinforced cohesive soil beds
+Authors: Yang Zhao, Zheng Lu, Jie Liu, Jingbo Zhang, Hailin Yao
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-39580-x
+Paper ID: pmc_PMC10387485
+
+Abstract:
+This paper presents a comprehensive study on the numerical and parametric study of geocell-reinforced cohesive soil beds, focusing on different infill materials. The numerical calculations were validated against model test results using FLAC 3D software. Subsequently, the verified model was expanded to the geocell-reinforced cohesive soil beds. Six cases were simulated to investigate the reinforced performance, including pressure-settlement responses, bearing capacity improvement factor, settlement reduction percentage, and surface deformation. The numerical findings emphasize that the significance of superior geocell reinforcement should not overshadow the consideration of soil infill’s mechanical properties. In the case of cohesive soil as the infill material, the poor improvement in geocell-reinforced performance may be attributed to its low modulus and cohesion. Parametric studies suggest that geocells significantly impact reinforced performance when the infill material consists of foundation soil with a higher modulus and lower cohesion. Further, according to this numerical study, cohesionless soil with a modulus of 20 MPa and friction of 40° is the optimum infill soil in pockets to reinforce cohesive soil beds.

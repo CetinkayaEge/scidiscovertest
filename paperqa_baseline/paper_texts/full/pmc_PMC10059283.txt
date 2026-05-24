@@ -1,0 +1,9 @@
+Title: Securing the Cyber Resilience of a Blockchain-Based Railroad Non-Stop Customs Clearance System
+Authors: Sungbeen Kim, Dohoon Kim
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062914
+Paper ID: pmc_PMC10059283
+
+Abstract:
+Current railroad customs clearance systems are problematic in that the movement of trains is occasionally restricted for extended periods during inspections to verify cargo integrity at customs clearance. Consequently, significant human and material resources are consumed to obtain customs clearance to the destination, considering different processes exist for cross-border trade. Therefore, we developed a cross-border blockchain-based non-stop customs clearance (NSCC) system to address these delays and reduce resource consumption for cross-border trains. The integrity, stability, and traceability of blockchain technology are used to construct a stable and reliable customs clearance system to address these problems. The proposed method connects diverse trade and customs clearance agreements in a single blockchain network, which ensures integrity and minimal resource consumption, and includes railroads, freight vehicles, and transit stations in addition to the current customs clearance system. The integrity and confidentiality of customs clearance data are protected using sequence diagrams and the blockchain to strengthen the resilience of the NSCC process against attacks; the blockchain-based NSCC system structurally verifies the attack resilience based on matching sequences. The results confirm that the blockchain-based NSCC system is time- and cost-efficient compared with the current customs clearance system and offers improved attack resilience.

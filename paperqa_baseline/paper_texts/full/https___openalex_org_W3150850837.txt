@@ -1,0 +1,9 @@
+Title: Multiple Criteria Decision Making for the Achievement of the UN Sustainable Development Goals: A Systematic Literature Review and a Research Agenda
+Authors: Manuel Sousa, Maria Fatima Ludovico de Almeida, Rodrigo Flora Calili
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084129
+Paper ID: https://openalex.org/W3150850837
+
+Abstract:
+Multiple-criteria decision making (MCDM) methods have been widely employed in various fields and disciplines, including decision problems regarding Sustainable Development (SD) issues. The main objective of this paper is to present a systematic literature review (SLR) on MCDM methods supporting decisions focusing on the achievement of UN Sustainable Development Goals (SDGs) and the implementation of the 2030 Agenda for Sustainable Development in regional, national, or local contexts. In this regard, 143 published scientific articles from 2016 to 2020 were retrieved from the Scopus database, selected and reviewed. They were categorized according to the decision problem associated with SDGs issues, the MCDM methodological approach, including the use (or not) of fuzzy set theory, sensitivity analysis, and multistakeholder approaches, the context of MCDM applications, and the MCDM classification (if utility-based, compromise, multi-objective, outranking, or other MCDM methods). The widespread adoption of MCDM methods in complex contexts confirms that they can help decision-makers solve multidimensional problems associated with key issues within the 2030 Agenda framework. Besides, the state-of-art review provides an improved understanding of this research field and directions for building a research agenda for those interested in advancing the research on MCDM applications in issues associated with the 2030 Agenda framework.

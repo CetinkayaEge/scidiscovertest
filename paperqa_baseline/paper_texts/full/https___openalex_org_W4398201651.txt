@@ -1,0 +1,9 @@
+Title: The Critical Analysis of Membranes toward Sustainable and Efficient Vanadium Redox Flow Batteries
+Authors: Jiaye Ye, Lu Xia, Huiyun Li, F. Pelayo Garcı́a de Arquer, Hongxia Wang
+Year: 2024
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202402090
+Paper ID: https://openalex.org/W4398201651
+
+Abstract:
+Abstract Vanadium redox flow batteries (VRFB) are a promising technology for large‐scale storage of electrical energy, combining safety, high capacity, ease of scalability, and prolonged durability; features which have triggered their early commercial implementation. Furthering the deployment of VRFB technologies requires addressing challenges associated to a pivotal component: the membrane. Examples include vanadium crossover, insufficient conductivity, escalated costs, and sustainability concerns related to the widespread adoption of perfluoroalkyl‐based membranes, e.g., perfluorosulfonic acid (PFSA). Herein, recent advances in high‐performance and sustainable membranes for VRFB, offering insights into prospective research directions to overcome these challenges, are reviewed. The analysis reveals the disparities and trade‐offs between performance advances enabled by PFSA membranes and composites, and the lack of sustainability in their final applications. The potential of PFSA‐free membranes and present strategies to enhance their performance are discussed. This study delves into vital membrane parameters to enhance battery performance, suggesting protocols and design strategies to achieve high‐performance and sustainable VRFB membranes.

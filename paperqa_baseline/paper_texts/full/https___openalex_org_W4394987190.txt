@@ -1,0 +1,9 @@
+Title: Study on the Method of Selecting Sustainable Food Suppliers Considering Interactive Factors
+Authors: Yi Wang, Huizhi Yang, Xiao Han
+Year: 2024
+Venue: Journal of Operations Intelligence
+DOI: https://doi.org/10.31181/jopi21202420
+Paper ID: https://openalex.org/W4394987190
+
+Abstract:
+The existing sustainable supplier selection methods are not sufficient to deal with the problem of sustainable food supplier selection with the interaction of criteria under uncertainty. Therefore, this paper proposes a method of sustainable food supplier selection based on an extended decision model. Firstly, a processing method for supplier evaluation information is constructed using the Pythagorean fuzzy set has the function of processing complex uncertain information. Secondly, to obtain the objective weights of decision experts, a Pythagorean fuzzy weighted distance measure model is constructed, and an expert information fusion method based on a weighted power mean operator is proposed to construct the group decision matrix. Then, the decision experiment and evaluation experiment methods are integrated with the traditional MARCOS method, to construct a sustainable food supplier selection method considering the interaction of factors. This method can effectively deal with the complicated and uncertain problem of sustainable food supplier selection with interactive factors. Finally, the feasibility of the proposed method is verified by an example of sustainable food supplier selection. In addition, parameter sensitivity analysis and multi-method comparative analysis verified the rationality of the proposed selection method for sustainable food supplier selection.

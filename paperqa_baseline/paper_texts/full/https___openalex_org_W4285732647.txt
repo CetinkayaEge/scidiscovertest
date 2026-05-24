@@ -1,0 +1,9 @@
+Title: Sustainable Mobility as a Service: Framework and Transport System Models
+Authors: Antonino Vitetta
+Year: 2022
+Venue: Information
+DOI: https://doi.org/10.3390/info13070346
+Paper ID: https://openalex.org/W4285732647
+
+Abstract:
+Passenger mobility plays an important role in today’s society and optimized transport services are a priority. In recent years, MaaS (Mobility as a Service) has been studied and tested as new integrated services for users. In this paper, MaaS is studied considering the sustainability objectives and goals to be achieved with particular reference to the consolidated methodologies adopted in the transport systems engineering for design, management, and monitoring of transport services; it is defined as Sustainable MaaS (S-MaaS). This paper considers the technological and communication platform essential and assumed to be a given considering that it has been proposed in many papers and it has been tested in some areas together with MaaS. Starting from the MaaS platform, the additional components and models necessary for the implementation of an S-MaaS are analyses in relation to: a Decision Support System (DSS) that supports MaaS public administrations and MaaS companies for the design of the service and demand management; a system for the evaluation of intervention policies; and also considers smart planning for a priori and a posteriori evaluation of sustainability objectives and targets.

@@ -1,0 +1,9 @@
+Title: Simultaneous Moisture Content and Mass Flow Measurements in Wood Chip Flows Using Coupled Dielectric and Impact Sensors
+Authors: Pengmin Pan, Timothy McDonald, John Fulton, Brian Via, John Hung
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010020
+Paper ID: pmc_PMC5298593
+
+Abstract:
+An 8-electrode capacitance tomography (ECT) sensor was built and used to measure moisture content (MC) and mass flow of pine chip flows. The device was capable of directly measuring total water quantity in a sample but was sensitive to both dry matter and moisture, and therefore required a second measurement of mass flow to calculate MC. Two means of calculating the mass flow were used: the first being an impact sensor to measure total mass flow, and the second a volumetric approach based on measuring total area occupied by wood in images generated using the capacitance sensor’s tomographic mode. Tests were made on 109 groups of wood chips ranging in moisture content from 14% to 120% (dry basis) and wet weight of 280 to 1100 g. Sixty groups were randomly selected as a calibration set, and the remaining were used for validation of the sensor’s performance. For the combined capacitance/force transducer system, root mean square errors of prediction (RMSEP) for wet mass flow and moisture content were 13.42% and 16.61%, respectively. RMSEP using the combined volumetric mass flow/capacitance sensor for dry mass flow and moisture content were 22.89% and 24.16%, respectively. Either of the approaches was concluded to be feasible for prediction of moisture content in pine chip flows, but combining the impact and capacitance sensors was easier to implement. In situations where flows could not be impeded, however, the tomographic approach would likely be more useful.

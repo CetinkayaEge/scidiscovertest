@@ -1,0 +1,9 @@
+Title: Evaluating sustainable water management strategies using TOPSIS and fuzzy TOPSIS methods
+Authors: Fang Han, Rami N. Alkhawaji, M. Mehdi Shafieezadeh
+Year: 2024
+Venue: Applied Water Science
+DOI: https://doi.org/10.1007/s13201-024-02336-7
+Paper ID: https://openalex.org/W4405076026
+
+Abstract:
+This study evaluates sustainable water management strategies using TOPSIS and Fuzzy TOPSIS (FTOPSIS) to address global water scarcity by comparing rainwater harvesting, water recycling, and desalination across five criteria: water efficiency, cost-effectiveness, environmental impact, social equity, and technological feasibility. The results show Rainwater Harvesting as the most balanced option with a relative closeness value of $${C}_{i}^{+}$$ =0.640, excelling in social equity and environmental sustainability. Water Recycling ranks closely behind ( $${C}_{i}^{+}$$ =0.608), highlighting its adaptability and technological feasibility, while Desalination, though highly efficient, is hindered by lower cost-effectiveness ( $${C}_{i}^{+}$$ =0.578). By integrating TOPSIS and FTOPSIS, the study addresses uncertainties and subjective criteria, providing a robust multi-dimensional assessment framework for resource management. This methodology aids decision-makers in identifying strategies that align with sustainable development goals and adapt to regional priorities. Future work can expand this framework to include stakeholder engagement and policy factors, enhancing water management strategies for resilient, long-term solutions.

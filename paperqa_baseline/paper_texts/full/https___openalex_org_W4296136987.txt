@@ -1,0 +1,9 @@
+Title: The Influence of Digital Economy and Society Index on Sustainable Development Indicators: The Case of European Union
+Authors: Muhammad Imran, Xiangyang Liu, Rongyu Wang, Shah Saud, Yun Zhao, Muhammad Jalal Khan
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141811130
+Paper ID: https://openalex.org/W4296136987
+
+Abstract:
+The digital economy plays a vital role in promoting sustainable development. Out of different measurement indices, this research uses the DESI dimension, i.e., connectivity, human capital, the use of internet services, the integration of digital technology, and digital public services, to investigate the impact on the promotion of SGDI in the European Union countries. Previous research studies investigated the indirect impact of the DESI dimension on SGDI in different countries and regions. In this research, we investigate the direct impact of DESI dimensions on SGDI by using panel regression modeling. The results show that DESI sub-dimensions influence SGDI differently. Connectivity, human capital, and the use of internet services have more influence on SGDI compared to the integration of digital technology and digital public services. However, the impact is negative in most cases, but this is in line with the previous studies in other regional studies. Thus, the current research paper reveals that standard views on the influence of the digital economy are not always true. Policymakers need to make the necessary amendments while implementing each DESI dimension on any level for better promotion of SGDI.

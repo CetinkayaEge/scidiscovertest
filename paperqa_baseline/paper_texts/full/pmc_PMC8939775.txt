@@ -1,0 +1,9 @@
+Title: Structures of the Omicron Spike trimer with ACE2 and an anti-Omicron antibody
+Authors: Wanchao Yin, Youwei Xu, Peiyu Xu, Xiaodan Cao, Canrong Wu, Chunyin Gu, Xinheng He, Xiaoxi Wang, Sijie Huang, Qingning Yuan, Kai Wu, Wen Hu, Zifu Huang, Jia Liu, Zongda Wang, Fangfang Jia, Kaiwen Xia, Peipei Liu, Xueping Wang, Bin Song, Jie Zheng, Hualiang Jiang, Xi Cheng, Yi Jiang, Su-Jun Deng, H. Eric Xu
+Year: 2022
+Venue: Science (New York, N.y.)
+DOI: 10.1126/science.abn8863
+Paper ID: pmc_PMC8939775
+
+Abstract:
+The SARS-CoV-2 Omicron variant has become the dominant infective strain. We report the structures of the Omicron spike trimer on its own or in complex with ACE2 or an anti-Omicron antibody. Most Omicron mutations are located on the surface of the spike protein, which change binding epitopes to many current antibodies. In the ACE2 binding site, compensating mutations strengthen RBD binding to ACE2. Both the RBD and the apo form of the Omicron spike trimer are thermodynamically unstable. An unusual RBD-RBD interaction in the ACE2-spike complex supports the open conformation and further reinforces ACE2 binding to the spike trimer. A broad-spectrum therapeutic antibody, JMB2002, which has completed a Phase 1 clinical trial, maintains neutralizing activity against Omicron. JMB2002 binds to RBD differently from other characterized antibodies and inhibits ACE2 binding.

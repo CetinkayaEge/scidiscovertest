@@ -1,0 +1,9 @@
+Title: Modelling Sustainable Industrial Symbiosis
+Authors: Hafiz Haq, Petri Välisuo, Seppo Niemi
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14041172
+Paper ID: https://openalex.org/W3132075064
+
+Abstract:
+Industrial symbiosis networks conventionally provide economic and environmental benefits to participating industries. However, most studies have failed to quantify waste management solutions and identify network connections in addition to methodological variation of assessments. This study provides a comprehensive model to conduct sustainable study of industrial symbiosis, which includes identification of network connections, life cycle assessment of materials, economic assessment, and environmental performance using standard guidelines from the literature. Additionally, a case study of industrial symbiosis network from Sodankylä region of Finland is implemented. Results projected an estimated life cycle cost of €115.20 million. The symbiotic environment would save €6.42 million in waste management cost to the business participants in addition to the projected environmental impact of 0.95 million tonne of CO2, 339.80 tonne of CH4, and 18.20 tonne of N2O. The potential of further cost saving with presented optimal assessment in the current architecture is forecast at €0.63 million every year.

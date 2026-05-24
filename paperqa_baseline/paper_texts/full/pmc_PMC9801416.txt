@@ -1,0 +1,9 @@
+Title: Thin Solid Electrolyte Separators for Solid-State Lithium–Sulfur Batteries
+Authors: Soochan Kim, Yvonne A. Chart, Sudarshan Narayanan, Mauro Pasta
+Year: 2022
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c04216
+Paper ID: pmc_PMC9801416
+
+Abstract:
+The lithium–sulfur battery is one of the most promising “beyond Li-ion” battery chemistries owing to its superior gravimetric energy density and low cost. Nonetheless, its commercialization has been hindered by its low cycle life due to the polysulfide shuttle and nonuniform Li-metal plating and stripping. Thin and dense solid electrolyte separators could address these issues without compromising on energy density. Here, we introduce a novel argyrodite (Li 6 PS 5 Cl)–carboxylated nitrile butadiene rubber (XNBR) composite thin solid electrolyte separator (TSE) (<50 μm) processed by a scalable calendering technique and compatible with Li-metal. When integrated in a full cell with a commercial tape-cast sulfur cathode (3.54 mg S cm –2 ) in the presence of an in situ polymerized lithium bis(fluorosulfonyl)imide-polydioxolane catholyte and a 100 μm Li-metal foil anode, we demonstrate stable cycling for 50 cycles under realistic operating conditions (stack pressure of <1 MPa and 30 °C).

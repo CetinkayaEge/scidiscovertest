@@ -1,0 +1,9 @@
+Title: The Design of a Glycerol Concentration Sensor Based on an LRSPP Hybrid Photonic Biosensor
+Authors: Magno M. de Araújo, José P. da Silva
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042010
+Paper ID: pmc_PMC9967682
+
+Abstract:
+A refractive index sensor based on an on-chip silicon nitride (Si 3 N 4 ) ridge waveguide long-range surface plasmon polariton (LRSPP) is theoretically designed. The waveguide sensor consists of a gold film to enable the plasmonic resonance on top of a Cytop polymer layer. A proper finite element method was used to design and optimize the geometric parameters at the optical wavelength of 633 nm. In addition, the spectral performance was evaluated using the transfer matrix method from 580 to 680 nm. The redshifted interference spectrum results from an increasing analyte refractive index. The sensitivities of 6313 dB/cm/RIU and 251.82 nm/RIU can be obtained with a 400 nm wide and 25 nm thick Au layer. The proposed sensor has the potential for point-of-care applications considering its compactness and simplicity of construction.

@@ -1,0 +1,9 @@
+Title: Toward Sustainability: Trade-Off Between Data Quality and Quantity in Crop Pest Recognition
+Authors: Yang Li, Xuewei Chao
+Year: 2021
+Venue: Frontiers in Plant Science
+DOI: https://doi.org/10.3389/fpls.2021.811241
+Paper ID: https://openalex.org/W4200499937
+
+Abstract:
+The crop pest recognition based on the convolutional neural networks is meaningful and important for the development of intelligent plant protection. However, the current main implementation method is deep learning, which relies heavily on large amounts of data. As known, current big data-driven deep learning is a non-sustainable learning mode with the high cost of data collection, high cost of high-end hardware, and high consumption of power resources. Thus, toward sustainability, we should seriously consider the trade-off between data quality and quantity. In this study, we proposed an embedding range judgment (ERJ) method in the feature space and carried out many comparative experiments. The results showed that, in some recognition tasks, the selected good data with less quantity can reach the same performance with all training data. Furthermore, the limited good data can beat a lot of bad data, and their contrasts are remarkable. Overall, this study lays a foundation for data information analysis in smart agriculture, inspires the subsequent works in the related areas of pattern recognition, and calls for the community to pay more attention to the essential issue of data quality and quantity.

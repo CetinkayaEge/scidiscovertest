@@ -1,0 +1,9 @@
+Title: Single‐Atom Catalysts: A Sustainable Pathway for the Advanced Catalytic Applications
+Authors: Baljeet Singh, Vikas Sharma, Rahul P. Gaikwad, Paolo Fornasiero, Radek Zbořil, Manoj B. Gawande
+Year: 2021
+Venue: Small
+DOI: https://doi.org/10.1002/smll.202006473
+Paper ID: https://openalex.org/W3132057605
+
+Abstract:
+A heterogeneous catalyst is a backbone of modern sustainable green industries; and understanding the relationship between its structure and properties is the key for its advancement. Recently, many upscaling synthesis strategies for the development of a variety of respectable control atomically precise heterogeneous catalysts are reported and explored for various important applications in catalysis for energy and environmental remediation. Precise atomic-scale control of catalysts has allowed to significantly increase activity, selectivity, and in some cases stability. This approach has proved to be relevant in various energy and environmental related technologies such as fuel cell, chemical reactors for organic synthesis, and environmental remediation. Therefore, this review aims to critically analyze the recent progress on single-atom catalysts (SACs) application in oxygen reduction reaction, oxygen evolution reaction, hydrogen evolution reaction, and chemical and/or electrochemical organic transformations. Finally, opportunities that may open up in the future are summarized, along with suggesting new applications for possible exploitation of SACs.

@@ -1,0 +1,9 @@
+Title: A High Utilization and Environmentally Sustainable All‐Organic Aqueous Zinc‐Ion Battery Enabled by a Molecular Architecture Design
+Authors: Jin Yang, Haiming Hua, Huiya Yang, Pengbin Lai, Minghao Zhang, Zeheng Lv, Zhipeng Wen, Cheng Chao Li, Jinbao Zhao, Yang Yang
+Year: 2023
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202204005
+Paper ID: https://openalex.org/W4376874107
+
+Abstract:
+Abstract Despite their safe and cost‐effective merits, the cycling durability of aqueous zinc–organic batteries is hindered by cathode dissolution and low coulombic efficiency of Zn metal anodes. Herein, a Zn metal‐free all‐organic zinc‐ion battery (ZIB) is proposed by using quinoxalino[2,3‐i]diquinoxalino[2′,3′:6,7]quinoxalino[2,3‐a:2,3‐c] phenazine (QDPA) cathode coupled with a 1,4,5,8‐Naphthalenetetracarboxylic diimide (NPI) anode, rendering excellent electrochemical reversibility with high utilization. Based on the molecular architecture strategy, a QDPA cathode with an enlarged aromatic ring system is designed and synthesized, which not only effectively inhibits structural collapse during cycling but also enhances the working voltage without lowering the active group ratio. Moreover, theoretical calculations and experimental results confirm the rapid H + storage mechanism in the CN active sites of QDPA, affording ultra‐fast electrochemical kinetics. Thus, it delivers a negligible capacity decay of 0.002% up to 13 000 cycles at 20 A g −1 . Moreover, the QDPA//NPI all‐organic aqueous ZIB with a high energy density of 43.1 Wh kg −1 is demonstrated to be easily disassembled and recycled by the incineration treatment after battery failure, ensuring outstanding environmental sustainability.

@@ -1,0 +1,9 @@
+Title: Resonance-Enhanced Multiphoton Ionization Studies of the Lower Electronically Excited States of Flavone
+Authors: Jiayun Fan, Wybren Jan Buma
+Year: 2023
+Venue: The Journal of Physical Chemistry. a
+DOI: 10.1021/acs.jpca.3c00202
+Paper ID: pmc_PMC9969512
+
+Abstract:
+The spectroscopic and dynamics properties of flavone—the core chromophore of a wide variety of naturally occurring ultraviolet protecting filters—have been studied under supersonic beam conditions using (1 + 1′) resonance-enhanced two-photon ionization spectroscopic techniques. Excitation spectra recorded under such conditions are found to differ significantly from previously reported spectra. Pump–probe studies find that intersystem crossing is the dominant decay pathway of the excited singlet manifold, in agreement with previous solution phase studies and quantum chemical predictions for the isolated molecule. Microsolvation studies on flavone–water clusters reveal that the addition of one and two water molecules leads to considerable shifts in excitation energies but that further complexation does not result in further noticeable shifts. The relaxation pathways of the electronically excited states, on the other hand, do not appear to be influenced by interactions with the solvent molecules. Finally, photoionization spectra have enabled the accurate determination of the adiabatic ionization energy to the ground state of the molecular ion—key to the antioxidant properties of flavone—as 65,415 cm –1 (8.110 eV).

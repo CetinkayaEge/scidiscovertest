@@ -1,0 +1,9 @@
+Title: Chemical data intelligence for sustainable chemistry
+Authors: Jana M. Weber, Zhen Guo, Chonghuan Zhang, Artur M. Schweidtmann, Alexei A. Lapkin
+Year: 2021
+Venue: Chemical Society Reviews
+DOI: https://doi.org/10.1039/d1cs00477h
+Paper ID: https://openalex.org/W3201114462
+
+Abstract:
+This study highlights new opportunities for optimal reaction route selection from large chemical databases brought about by the rapid digitalisation of chemical data. The chemical industry requires a transformation towards more sustainable practices, eliminating its dependencies on fossil fuels and limiting its impact on the environment. However, identifying more sustainable process alternatives is, at present, a cumbersome, manual, iterative process, based on chemical intuition and modelling. We give a perspective on methods for automated discovery and assessment of competitive sustainable reaction routes based on renewable or waste feedstocks. Three key areas of transition are outlined and reviewed based on their state-of-the-art as well as bottlenecks: (i) data, (ii) evaluation metrics, and (iii) decision-making. We elucidate their synergies and interfaces since only together these areas can bring about the most benefit. The field of chemical data intelligence offers the opportunity to identify the inherently more sustainable reaction pathways and to identify opportunities for a circular chemical economy. Our review shows that at present the field of data brings about most bottlenecks, such as data completion and data linkage, but also offers the principal opportunity for advancement.

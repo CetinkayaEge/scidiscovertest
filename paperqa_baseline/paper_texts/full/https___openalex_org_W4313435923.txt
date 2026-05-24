@@ -1,0 +1,9 @@
+Title: Economic Indicators for Life Cycle Sustainability Assessment: Going beyond Life Cycle Costing
+Authors: Vivek Arulnathan, Mohammad Davoud Heidari, Maurice Doyon, Eric Ping Hung Li, Nathan Pelletier
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010013
+Paper ID: https://openalex.org/W4313435923
+
+Abstract:
+Life Cycle Costing (LCC) is universally accepted as the method of choice for economic assessment in Life Cycle Sustainability Assessment (LCSA) but the singular focus on costs is ineffective in representing the multiple facets of economic sustainability. This review intends to identify other economic indicators to potentially complement the use of LCC in LCSA. Papers for the review were identified in the Web of Science Core Collection database for the years 2010–2021. The shortlisted indicators were analyzed using 18 criteria. The 21 indicators analyzed performed well with respect to the review criteria for indicator methodology and use but most are unsuitable for direct integration into the LCC/LCSA framework due to the inability to aggregate across life cycles and a lack of correspondingly granular data. The indicators were grouped into six economic impact categories—profitability, productivity, innovation, stability, customers, and autonomy—each of which represents a significant aspect of economic sustainability. On this basis, a conceptual framework is proposed that could maintain the utility of LCC while integrating additional indicators to enable more holistic economic assessments in LCSA. Considering additional economic indicators in LCSA ensures that the positive aspects of LCC are preserved while also improving economic assessment in LCSA.

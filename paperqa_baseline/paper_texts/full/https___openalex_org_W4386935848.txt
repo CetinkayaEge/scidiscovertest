@@ -1,0 +1,9 @@
+Title: Multi-perspective approach for developing sustainable 6G mobile communications
+Authors: Marja Matinmikko‐Blue, Seppo Yrjölä, Petri Ahokangas
+Year: 2023
+Venue: Telecommunications Policy
+DOI: https://doi.org/10.1016/j.telpol.2023.102640
+Paper ID: https://openalex.org/W4386935848
+
+Abstract:
+Digitalisation and the green transition are driving change to societies at large. These intertwined processes play a key role in the broader topic of sustainable development, which is making its way into different sectors of society. Sustainable development is not only about technology development but involves several business and regulatory decisions that have a fundamental impact on our future society. Information and communication technologies (ICTs) are important enablers in this sustainability transition and the ICT sectors own sustainability role is yet underdefined. To help scholars, industries, and regulators to better structure the complex topic of connecting sustainable development and the ICTs, this paper discusses development of sustainable 6G mobile communications with a multi-perspective approach including environmental, social and economic sustainabilities, business, regulation and technology dimensions, and academia, industry and regulator stakeholder perspectives. The paper presents findings for 6G development from the three identified perspectives. This paper further explores an illustrative case study of spectrum management in 6G, which has a fundamental role in defining the future mobile connectivity market.

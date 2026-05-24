@@ -1,0 +1,9 @@
+Title: Leveraging Virtual Reality in Engineering Education to Optimize Manufacturing Sustainability in Industry 4.0
+Authors: Farheen Bano, Madani Abdu Alomar, Faisal Mohammed Alotaibi, Suhail H. Serbaya, Ali Rizwan, Faraz Hasan
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16187927
+Paper ID: https://openalex.org/W4402459579
+
+Abstract:
+Industry 4.0 emphasizes the importance of sustainable manufacturing practices. Accordingly, engineering education has increasingly incorporated virtual reality (VR) technology. This study aims to identify the potential usage of VR as an educational tool to enhance manufacturing sustainability within Industry 4.0. The methodology used an experimental design, a structured survey, and a multilevel modeling analysis to measure the effects of VR interventions. The findings show that the learning outcomes of VR treatments and post-test scores are significantly impacted by two crucial factors: age (β = 0.35, p &lt; 0.01) and VR experience (r = 0.42, p &lt; 0.01). Furthermore, sustainability attitudes moderately affected academic development (β = 0.25, p &lt; 0.05). According to descriptive statistics, virtual reality treatment resulted in a 25% improvement in the post-test results. According to MLM, the combined effects of virtual reality experience and sustainability attitudes on learning outcomes account for 45% of the total variation (R2 = 0.45, p &lt; 0.01). The study’s findings highlight the importance of VR in enhancing educational outcomes and fostering sustainable production practices within Industry 4.0. This research is unique in its simultaneous investigation of VR technology, engineering education, and sustainability, providing valuable insights into how VR can contribute to preparing engineers for the challenges of Industry 4.0 and advancing sustainable initiatives in the manufacturing field.

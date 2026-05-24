@@ -1,0 +1,9 @@
+Title: Isoalantolactone suppresses gallbladder cancer progression via inhibiting the ERK signalling pathway
+Authors: Xingyu Lv, Yuqi Lin, Xi Zhu, Xiujun Cai
+Year: 2023
+Venue: Pharmaceutical Biology
+DOI: 10.1080/13880209.2023.2191645
+Paper ID: pmc_PMC10064832
+
+Abstract:
+Abstract Context Gallbladder cancer (GBC) is the most common malignant tumour of the biliary tract. Isoalantolactone (IAL), an active sesquiterpene lactone compound isolated from the roots of Inula helenium L. (Asteraceae), has antitumour effects. Objective This study investigates the effects of IAL on GBC. Materials and methods In vitro , NOZ and GBC-SD cells were treated with IAL (0, 10, 20 and 40 μM) for 24 h. The DMSO-treated cells were selected as a control. Cell proliferation, migration, invasion and apoptosis were measured by the CCK-8 assay, transwell assay, flow cytometry and western blot. In vivo , subcutaneous tumour xenografts were constructed by injecting nude mice (BALB/C) with 5 × 10 6 NOZ cells. Mice were divided into the control group (equal amount of DMSO), the IAL group (10 mg/kg/day) and the IAL + Ro 67-7476 group (IAL, 10 mg/kg/day; Ro 67-7476, 4 mg/kg/day). The study duration was 30 days. Results Compared with the DMSO group, cell proliferation of NOZ (IC 50 15.98 μM) and GBC-SD (IC 50 20.22 μM) was inhibited by about 70% in the IAL 40 μM group. Migration and invasion were suppressed by about 80%. Cell apoptosis rate was increased about three-fold. The phosphorylation level of ERK was decreased to 30–35%. Tumour volume and weight (about 80% reduction) were suppressed by IAL in vivo . Moreover, the effects of IAL were abolished by Ro 67-7476 in vitro and in vivo . Discussion and conclusions Our findings indicate that IAL could inhibit GBC progression in vitro and in vivo by inhibiting the ERK signalling pathway.

@@ -1,0 +1,9 @@
+Title: A high-efficient and naked-eye visible CRISPR/Cas9 system in Arabidopsis
+Authors: Wenwen Kong, Mingliang Wang, Lijuan Huang, Feiyan Wu, Jinyuan Tao, Beixin Mo, Yu Yu
+Year: 2023
+Venue: Planta
+DOI: 10.1007/s00425-022-04060-5
+Paper ID: pmc_PMC9810554
+
+Abstract:
+Main conclusion Introducing 35S - dsRED2 into the Cas9 vector which expresses naked-eye visible dsRED2 greatly facilitates the genetic screening, and the WUS promoter driving the Cas9 expression can improve editing efficiency in Arabidopsis . Abstract CRISPR/Cas9-dependent genome editing has been applied to generate random insertions and deletions, targeted insertions or replacements, and precise base changes for both fundamental studies in many plant species and crop improvement. To simplify the screening procedure for target gene-edited transformants, we introduced a CaMV 35S -driven dsRED2 cassette ( 35S-dsRED2 ) into the Cas9 vector to express the naked-eye visible protein dsRED2, which can be observed under white light, greatly facilitated the genetic screening and reduced labor intensity without using any instrument. In addition, the WUS promoter was used to drive the expression of Cas9, which successfully improved the target genes editing efficiency and enabled the homozygous mutagenesis of two genes in T1 generation in Arabidopsis . Considering the conserved function and expression pattern of WUS across the plant species, this dsRED2-WUS/Cas9 system could also be used in many crops. Supplementary Information The online version contains supplementary material available at 10.1007/s00425-022-04060-5.

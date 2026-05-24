@@ -1,0 +1,9 @@
+Title: A Bibliometric Review of Sustainable Product Design
+Authors: Pingfei Jiang, Elena Dieckmann, Ji Han, Peter Childs
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14216867
+Paper ID: https://openalex.org/W3210226844
+
+Abstract:
+Consideration of sustainability in product development is becoming increasingly important and encompasses many aspects of product design. In this study, a bibliometric review of recent sustainable product design publications using Web of Science and VOSViewer is carried out. The review indicates that the majority of publications concerning sustainable product design is oriented towards environmental science-led subject areas and production-led journals. Analysis of author keyword co-occurrences reveals that circular economy, life cycle assessment, sustainable management, and optimization are the most popular topics in sustainable product design research. The analysis also reveals that the researchers fail to link sustainability research to activities in product design, which leads to the lack of access to relevant research that can make products more sustainable. Building on the findings, the authors propose four future research directions that aim to guide researchers to better correlate sustainability with product design, namely: sustainability interpretation, integration, assessment and validation, and improvement.

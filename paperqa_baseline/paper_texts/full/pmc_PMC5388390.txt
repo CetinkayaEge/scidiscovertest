@@ -1,0 +1,9 @@
+Title: Histone H2B monoubiquitination is a critical epigenetic switch for the regulation of autophagy
+Authors: Su Chen, Yuanya Jing, Xuan Kang, Lu Yang, Da-Liang Wang, Wei Zhang, Lei Zhang, Ping Chen, Jian-Feng Chang, Xiao-Mei Yang, Fang-Lin Sun
+Year: 2017
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkw1025
+Paper ID: pmc_PMC5388390
+
+Abstract:
+Abstract Autophagy is an evolutionarily conserved cellular process that primarily participates in lysosome-mediated protein degradation. Although autophagy is a cytoplasmic event, how epigenetic pathways are involved in the regulation of autophagy remains incompletely understood. Here, we found that H2B monoubiquitination (H2Bub1) is down-regulated in cells under starvation conditions and that the decrease in H2Bub1 results in the activation of autophagy. We also identified that the deubiquitinase USP44 is responsible for the starvation-induced decrease in H2Bub1. Furthermore, the changes in H2Bub1 affect the transcription of genes involved in the regulation of autophagy. Therefore, this study reveals a novel epigenetic pathway for the regulation of autophagy through H2Bub1.

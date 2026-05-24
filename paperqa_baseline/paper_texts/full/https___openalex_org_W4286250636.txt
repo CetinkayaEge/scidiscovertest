@@ -1,0 +1,9 @@
+Title: Next-generation energy systems for sustainable smart cities: Roles of transfer learning
+Authors: Yassine Himeur, Mariam Elnour, Fodil Fadli, Nader Meskin, Ioan Petri, Yacine Rezgui, Fayçal Bensaali, Abbes Amira
+Year: 2022
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2022.104059
+Paper ID: https://openalex.org/W4286250636
+
+Abstract:
+Smart cities attempt to reach net-zero emissions goals by reducing wasted energy while improving grid stability and meeting service demand. This is possible by adopting next-generation energy systems, which leverage artificial intelligence, the Internet of things (IoT), and communication technologies to collect and analyze big data in real-time and effectively run city services. However, training machine learning algorithms to perform various energy-related tasks in sustainable smart cities is a challenging data science task. These algorithms might not perform as expected, take much time in training, or do not have enough input data to generalize well. To that end, transfer learning (TL) has been proposed as a promising solution to alleviate these issues. To the best of the authors’ knowledge, this paper presents the first review of the applicability of TL for energy systems by adopting a well-defined taxonomy of existing TL frameworks. Next, an in-depth analysis is carried out to identify the pros and cons of current techniques and discuss unsolved issues. Moving on, two case studies illustrating the use of TL for (i) energy prediction with mobility data and (ii) load forecasting in sports facilities are presented. Lastly, the paper ends with a discussion of the future directions.

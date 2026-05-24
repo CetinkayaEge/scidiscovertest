@@ -1,0 +1,9 @@
+Title: A multi-criteria decision framework for sustainable supplier selection and order allocation using multi-objective optimization and fuzzy approach
+Authors: Raja Awais Liaqait, Salman Sagheer Warsi, Mujtaba Hassan Agha, Taiba Zahid, Till Becker
+Year: 2021
+Venue: Engineering Optimization
+DOI: https://doi.org/10.1080/0305215x.2021.1901898
+Paper ID: https://openalex.org/W3139684470
+
+Abstract:
+With the growing social and environmental concerns, the integration of sustainability in supplier selection and order allocation is of paramount importance. This research presents a holistic multi-phase decision-support framework to solve the sustainable supplier selection and order allocation problem for the multi-echelon supply chain. The framework comprises a multi-objective mixed-integer nonlinear programming mathematical model augmented with fuzzy multi-criteria decision making techniques and forecast demand. The various economic, environmental and social objectives were optimized for a multi-modal transportation network of a multi-echelon supply chain. The results of the mathematical model highlighted the impact of multi-modal transportation on the total cost and total travel time. The results also demonstrated the relationship between the multi-modal transport network and the environmental impact of the supply chain. The proposed multi-phase holistic decision support framework can be used in the comprehensive sustainability-based analysis of supply chains.

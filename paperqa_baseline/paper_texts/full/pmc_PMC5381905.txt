@@ -1,0 +1,9 @@
+Title: Cancer stem-like cell related protein CD166 degrades through E3 ubiquitin ligase CHIP in head and neck cancer
+Authors: Meng Xiao, Ming Yan, Jianjun Zhang, Qin Xu, Shengcai Qi, Xu Wang, Wantao Chen
+Year: 2017
+Venue: Experimental Cell Research
+DOI: 10.1016/j.yexcr.2017.03.005
+Paper ID: pmc_PMC5381905
+
+Abstract:
+Our previous studies have identified that CD166 works as a cancer stem-like cell (CSC) marker in epithelial cancers with a large repertoire of cellular functions. However, the post-translational regulatory mechanisms underlying CD166 turnover remain elusive. Several independent studies have reported that E3 ubiquitin ligase CHIP revealed significant biological effects through ubiquitin proteasome pathway on some kinds of malignant tumors. With analyzing the effects of CHIP expressions on stem-like cell populations, we found that CHIP represses CSC characteristics mainly targeting the CSC related protein CD166 in head and neck cancer (HNC). To investigate the role and relationship between CD166 and CHIP, HNC tissues and cell lines were used in this study. A significant negative correlation was observed between the expression levels of CHIP and CD166 in HNC patient samples. We also found that CHIP directly regulates the stability of CD166 protein through the ubiquitin proteasome system, which was also identified participating in the regulation of CSC behaviors in HNCs. Our findings demonstrate that CHIP-CD166-proteasome axis participates in regulating CSC properties in HNCs, suggesting that the regulation of CD166 by CHIP could provide new options for diagnosing and treating in the patients with HNCs.

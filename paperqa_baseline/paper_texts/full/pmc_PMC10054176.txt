@@ -1,0 +1,9 @@
+Title: Association between Temperature and Influenza Activity across Different Regions of China during 2010–2017
+Authors: Dina Wang, Hao Lei, Dayan Wang, Yuelong Shu, Shenglan Xiao
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030594
+Paper ID: pmc_PMC10054176
+
+Abstract:
+Influenza causes a significant disease burden as an acute respiratory infection. Evidence suggests that meteorological factors can influence the spread of influenza; however, the association between these factors and influenza activity remains controversial. In this study, we investigated the impact of temperature on influenza across different regions of China based on the meteorological data and influenza data from 554 sentinel hospitals in 30 provinces and municipalities in China from 2010 to 2017. A distributed lag nonlinear model (DLNM) was used to analyze the exposure lag response of daily mean temperatures to the risk of influenza-like illness (ILI), influenza A (Flu A), and influenza B (Flu B). We found that in northern China, low temperatures increased the risk of ILI, Flu A, and Flu B, while in central and southern China, both low and high temperatures increased the risk of ILI and Flu A, and only low temperatures increased the risk of Flu B. This study suggests that temperature is closely associated with the influenza activity in China. Temperature should be integrated into the current public health surveillance system for highly accurate influenza warnings and the timely implementation of disease prevention and control measures.

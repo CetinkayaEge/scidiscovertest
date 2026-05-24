@@ -1,0 +1,9 @@
+Title: Triple Bottom Line in Sustainable Development: A Comprehensive Bibliometric Analysis
+Authors: Ionuț Nica, Nora Chiriță, Irina Georgescu
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17051932
+Paper ID: https://openalex.org/W4407903423
+
+Abstract:
+This study provides a bibliometric analysis of the Triple Bottom Line (TBL) framework in sustainable development, highlighting its ethical dimensions and corporate responsibility. Using R Studio and VOSviewer, we examine research trends from 2001 to 2023, revealing a 23.23% annual growth in publications, strong global engagement, and increasing interdisciplinarity. Thematic analysis shows a shift from broad management concepts to specialized areas such as circular economy, life cycle assessment, and climate impact, demonstrating TBL’s transition from a theoretical model to an actionable sustainability framework. Our findings provide practical insights for policymakers and organizations, supporting data-driven decision-making in sustainability strategies. By integrating ethical accountability with economic, social, and environmental goals, TBL offers a structured approach to guiding sustainable business practices and informing policy development.

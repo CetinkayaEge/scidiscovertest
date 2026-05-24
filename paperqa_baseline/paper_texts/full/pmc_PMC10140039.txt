@@ -1,0 +1,9 @@
+Title: Van der Waals nanomesh electronics on arbitrary surfaces
+Authors: You Meng, Xiaocui Li, Xiaolin Kang, Wanpeng Li, Wei Wang, Zhengxun Lai, Weijun Wang, Quan Quan, Xiuming Bu, SenPo Yip, Pengshan Xie, Dong Chen, Dengji Li, Fei Wang, Chi-Fung Yeung, Changyong Lan, Chuntai Liu, Lifan Shen, Yang Lu, Furong Chen, Chun-Yuen Wong, Johnny C. Ho
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38090-8
+Paper ID: pmc_PMC10140039
+
+Abstract:
+Chemical bonds, including covalent and ionic bonds, endow semiconductors with stable electronic configurations but also impose constraints on their synthesis and lattice-mismatched heteroepitaxy. Here, the unique multi-scale van der Waals (vdWs) interactions are explored in one-dimensional tellurium (Te) systems to overcome these restrictions, enabled by the vdWs bonds between Te atomic chains and the spontaneous misfit relaxation at quasi-vdWs interfaces. Wafer-scale Te vdWs nanomeshes composed of self-welding Te nanowires are laterally vapor grown on arbitrary surfaces at a low temperature of 100 °C, bringing greater integration freedoms for enhanced device functionality and broad applicability. The prepared Te vdWs nanomeshes can be patterned at the microscale and exhibit high field-effect hole mobility of 145 cm 2 /Vs, ultrafast photoresponse below 3 μs in paper-based infrared photodetectors, as well as controllable electronic structure in mixed-dimensional heterojunctions. All these device metrics of Te vdWs nanomesh electronics are promising to meet emerging technological demands. The limited scalability of 1D semiconductors has restricted their large-area optoelectronic applications so far. Here, the authors report the low-temperature synthesis of wafer-scale van der Waals nanomeshes composed of self-welding Te nanowires on various substrates, showing improved transport and photoelectric properties.

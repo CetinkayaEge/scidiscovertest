@@ -1,0 +1,9 @@
+Title: Efficient Data-Driven Crop Pest Identification Based on Edge Distance-Entropy for Sustainable Agriculture
+Authors: Jiachen Yang, Shukun Ma, Yang Li, Zhuo Zhang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14137825
+Paper ID: https://openalex.org/W4283652502
+
+Abstract:
+Human agricultural activities are always accompanied by pests and diseases, which have brought great losses to the production of crops. Intelligent algorithms based on deep learning have achieved some achievements in the field of pest control, but relying on a large amount of data to drive consumes a lot of resources, which is not conducive to the sustainable development of smart agriculture. The research in this paper starts with data, and is committed to finding efficient data, solving the data dilemma, and helping sustainable agricultural development. Starting from the data, this paper proposed an Edge Distance-Entropy data evaluation method, which can be used to obtain efficient crop pests, and the data consumption is reduced by 5% to 15% compared with the existing methods. The experimental results demonstrate that this method can obtain efficient crop pest data, and only use about 60% of the data to achieve 100% effect. Compared with other data evaluation methods, the method proposed in this paper achieve state-of-the-art results. The work conducted in this paper solves the dilemma of the existing intelligent algorithms for pest control relying on a large amount of data, and has important practical significance for realizing the sustainable development of modern smart agriculture.

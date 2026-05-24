@@ -1,0 +1,9 @@
+Title: A Computational Method Based on the Integration of Heterogeneous Networks for Predicting Disease-Gene Associations
+Authors: Xingli Guo, Lin Gao, Chunshui Wei, Xiaofei Yang, Yi Zhao, Anguo Dong
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024171
+Paper ID: pmc_PMC3166294
+
+Abstract:
+The identification of disease-causing genes is a fundamental challenge in human health and of great importance in improving medical care, and provides a better understanding of gene functions. Recent computational approaches based on the interactions among human proteins and disease similarities have shown their power in tackling the issue. In this paper, a novel systematic and global method that integrates two heterogeneous networks for prioritizing candidate disease-causing genes is provided, based on the observation that genes causing the same or similar diseases tend to lie close to one another in a network of protein-protein interactions. In this method, the association score function between a query disease and a candidate gene is defined as the weighted sum of all the association scores between similar diseases and neighbouring genes. Moreover, the topological correlation of these two heterogeneous networks can be incorporated into the definition of the score function, and finally an iterative algorithm is designed for this issue. This method was tested with 10-fold cross-validation on all 1,126 diseases that have at least a known causal gene, and it ranked the correct gene as one of the top ten in 622 of all the 1,428 cases, significantly outperforming a state-of-the-art method called PRINCE. The results brought about by this method were applied to study three multi-factorial disorders: breast cancer, Alzheimer disease and diabetes mellitus type 2, and some suggestions of novel causal genes and candidate disease-causing subnetworks were provided for further investigation.

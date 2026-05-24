@@ -1,0 +1,9 @@
+Title: Identifying and Predicting Healthcare Waste Management Costs for an Optimal Sustainable Management System: Evidence from the Greek Public Sector
+Authors: Anastasios Sepetis, Paraskevi N. Zaza, Fotios Rizos, Pantelis G. Bagos
+Year: 2022
+Venue: International Journal of Environmental Research and Public Health
+DOI: https://doi.org/10.3390/ijerph19169821
+Paper ID: https://openalex.org/W4293677437
+
+Abstract:
+The healthcare sector is an ever-growing industry which produces a vast amount of waste each year, and it is crucial for healthcare systems to have an effective and sustainable medical waste management system in order to protect public health. Greek public hospitals in 2018 produced 9500 tons of hazardous healthcare wastes, and it is expected to reach 18,200 tons in 2025 and exceed 18,800 tons in 2030. In this paper, we investigated the factors that affect healthcare wastes. We obtained data from all Greek public hospitals and conducted a regression analysis, with the management cost of waste and the kilos of waste as the dependent variables, and a number of variables reflecting the characteristics of each hospital and its output as the independent variables. We applied and compared several models. Our study shows that healthcare wastes are affected by several individual-hospital characteristics, such as the number of beds, the type of the hospital, the services the hospital provides, the number of annual inpatients, the days of stay, the total number of surgeries, the existence of special units, and the total number of employees. Finally, our study presents two prediction models concerning the management costs and quantities of infectious waste for Greece's public hospitals and proposes specific actions to reduce healthcare wastes and the respective costs, as well as to implement and adopt certain tools, in terms of sustainability.

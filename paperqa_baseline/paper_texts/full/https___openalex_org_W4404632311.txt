@@ -1,0 +1,9 @@
+Title: Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions
+Authors: Shengyu Tao, Ruifei Ma, Zixi Zhao, Gengyu Ma, Lin Su, Heng Chang, Yuou Chen, Haizhou Liu, Zheng Liang, Tingwei Cao, Haocheng Ji, Zhiyuan Han, Minyan Lu, H. Yang, Zongguo Wen, Jianhua Yao, Yu Rong, Guodan Wei, Yang Li, Xuan Zhang, Tingyang Xu, Guangmin Zhou
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-54454-0
+Paper ID: https://openalex.org/W4404632311
+
+Abstract:
+emissions by mitigating data curation costs for a 2030 worldwide battery retirement scenario. This paper highlights exploiting limited data for exploring extended data space using generative methods, given data can be time-consuming, expensive, and polluting to retrieve for many estimation and predictive tasks.

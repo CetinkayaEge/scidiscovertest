@@ -1,0 +1,9 @@
+Title: Metrics for Measuring Sustainable Product Design Concepts
+Authors: Ji Han, Pingfei Jiang, Peter Childs
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14123469
+Paper ID: https://openalex.org/W3170619814
+
+Abstract:
+Although products can contribute to ecosystems positively, they can cause negative environmental impacts throughout their life cycles, from obtaining raw material, production, and use, to end of life. It is reported that most negative environmental impacts are decided at early design phases, which suggests that the determination of product sustainability should be considered as early as possible, such as during the conceptual design stage, when it is still possible to modify the design concept. However, most of the existing concept evaluation methods or tools are focused on assessing the feasibility or creativity of the concepts generated, lacking the measurements of sustainability of concepts. The paper explores key factors related to sustainable design with regard to environmental impacts, and describes a set of objective measures of sustainable product design concept evaluation, namely, material, production, use, and end of life. The rationales of the four metrics are discussed, with corresponding measurements. A case study is conducted to demonstrate the use and effectiveness of the metrics for evaluating product design concepts. The paper is the first study to explore the measurement of product design sustainability focusing on the conceptual design stage. It can be used as a guideline to measure the level of sustainability of product design concepts to support designers in developing sustainable products. Most significantly, it urges the considerations of sustainability design aspects at early design phases, and also provides a new research direction in concept evaluation regarding sustainability.

@@ -1,0 +1,9 @@
+Title: siRNA-mediated gene silencing of MexB from the MexA-MexB-OprM efflux pump in Pseudomonas aeruginosa
+Authors: Feng-Yun Gong, Ding-Yu Zhang, Jiang-Guo Zhang, Li-Li Wang, Wei-Li Zhan, Jun-Ying Qi, Jian-Xin Song
+Year: 2014
+Venue: BMB Reports
+DOI: 10.5483/BMBRep.2014.47.4.040
+Paper ID: pmc_PMC4163889
+
+Abstract:
+To gain insights into the effect of MexB gene under the short interfering RNA (siRNA), we synthesized 21 bp siRNA duplexes against the MexB gene. RT-PCR was performed to determine whether the siRNA inhibited the expression of MexB mRNA. Changes in antibiotic susceptibility in response to siRNA were measured by the E-test method. The efficacy of siRNAs was determined in a murine model of chronic P. aeruginosa lung infection. MexB-siRNAs inhibited both mRNA expression and the activity of P. aeruginosa in vitro . In vivo , siRNA was effective in reducing the bacterial load in the model of chronic lung infection and the P. aeruginosa -induced pathological changes. MexB-siRNA treatment enhanced the production of inflammatory cytokines in the early infection stage (P ＜ 0.05). Our results suggest that targeting of MexB with siRNA appears to be a novel strategy for treating P. aeruginosa infections. [BMB Reports 2014; 47(4): 203-208]

@@ -1,0 +1,9 @@
+Title: Linking natural resources and environmental sustainability: A panel data approach based on the load capacity curve hypothesis
+Authors: Sinan Erdoğan
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2836
+Paper ID: https://openalex.org/W4389152959
+
+Abstract:
+Abstract Economic development accelerated by natural resource use has caused many undesirable environmental consequences such as reducing the living standards of individuals and threatening human health. Therefore, whether natural resource abundance is a curse for individuals' welfare and environmental sustainability is one of the crucial topics in the literature. This study investigates the impact of natural resources on environmental sustainability by adopting the newly developed Load Capacity Curve hypothesis in the resource‐rich Sub‐Saharan African countries for the period from 1990 to 2020 by utilizing a set of panel data methods. The main estimation results can be outlined as follows: (i) cointegration tests show the existence of the long‐run relationship between variables, (ii) the Load Capacity Curve Hypothesis is valid in the model, and (iii) natural resource rent, energy consumption, and population density reduce environmental sustainability, (iv) empirical estimations for robustness check greatly confirm the finding obtained by baseline estimations. Therefore, policy‐makers in the resource‐rich Sub‐Saharan African countries should focus on establishing mechanisms for internalizing negative externalities of natural resource rent.

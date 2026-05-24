@@ -1,0 +1,9 @@
+Title: Compound Event Barrier Coverage in Wireless Sensor Networks under Multi-Constraint Conditions
+Authors: Yaoming Zhuang, Chengdong Wu, Yunzhou Zhang, Zixi Jia
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010025
+Paper ID: pmc_PMC5298598
+
+Abstract:
+It is important to monitor compound event by barrier coverage issues in wireless sensor networks (WSNs). Compound event barrier coverage (CEBC) is a novel coverage problem. Unlike traditional ones, the data of compound event barrier coverage comes from different types of sensors. It will be subject to multiple constraints under complex conditions in real-world applications. The main objective of this paper is to design an efficient algorithm for complex conditions that can combine the compound event confidence. Moreover, a multiplier method based on an active-set strategy (ASMP) is proposed to optimize the multiple constraints in compound event barrier coverage. The algorithm can calculate the coverage ratio efficiently and allocate the sensor resources reasonably in compound event barrier coverage. The proposed algorithm can simplify complex problems to reduce the computational load of the network and improve the network efficiency. The simulation results demonstrate that the proposed algorithm is more effective and efficient than existing methods, especially in the allocation of sensor resources.

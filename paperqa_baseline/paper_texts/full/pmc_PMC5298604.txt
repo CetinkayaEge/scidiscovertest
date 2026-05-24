@@ -1,0 +1,9 @@
+Title: A Canopy Density Model for Planar Orchard Target Detection Based on Ultrasonic Sensors
+Authors: Hanzhe Li, Changyuan Zhai, Paul Weckler, Ning Wang, Shuo Yang, Bo Zhang
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010031
+Paper ID: pmc_PMC5298604
+
+Abstract:
+Orchard target-oriented variable rate spraying is an effective method to reduce pesticide drift and excessive residues. To accomplish this task, the orchard targets’ characteristic information is needed to control liquid flow rate and airflow rate. One of the most important characteristics is the canopy density. In order to establish the canopy density model for a planar orchard target which is indispensable for canopy density calculation, a target density detection testing system was developed based on an ultrasonic sensor. A time-domain energy analysis method was employed to analyze the ultrasonic signal. Orthogonal regression central composite experiments were designed and conducted using man-made canopies of known density with three or four layers of leaves. Two model equations were obtained, of which the model for the canopies with four layers was found to be the most reliable. A verification test was conducted with different layers at the same density values and detecting distances. The test results showed that the relative errors of model density values and actual values of five, four, three and two layers of leaves were acceptable, while the maximum relative errors were 17.68%, 25.64%, 21.33% and 29.92%, respectively. It also suggested the model equation with four layers had a good applicability with different layers which increased with adjacent layers.

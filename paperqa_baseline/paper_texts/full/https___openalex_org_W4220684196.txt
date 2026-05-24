@@ -1,0 +1,9 @@
+Title: Readiness and Maturity of Smart and Sustainable Supply Chains: A Model Proposal
+Authors: Sercan Demir, Mehmet Akif Gündüz, Yaşanur Kayıkçı, Turan Paksoy
+Year: 2022
+Venue: Engineering Management Journal
+DOI: https://doi.org/10.1080/10429247.2022.2050129
+Paper ID: https://openalex.org/W4220684196
+
+Abstract:
+Many companies embrace Industry 4.0 technologies to enable operational sustainability against increasing climate change effects, decreasing natural resources, and raising consumer awareness of environmental issues. Even though readiness and maturity assessment of smartness and sustainability concepts are nested, no study simultaneously focuses on these concepts. As pioneering research, we propose a novel model titled “Smart and Sustainable Supply chain Readiness and Maturity model (S3RM)” and validate it by conducting a case study in the automotive industry. We design our model upon the triple-bottom-line (TBL) approach consisting of smartness and sustainability dimensions. Our study introduces the TBL of smartness covering availability, integrity, and adaptability sub-dimension. TBL of sustainability includes social, environmental, and economic sub-dimensions. The proposed model calculates the Smart and Sustainable Readiness and Maturity Index by averaging sustainability scores’ summation and smartness scores’ multiplication. Each sub-dimension consists of items measured by a readiness and maturity scale. The findings suggest how smartness and sustainability items create strengths, weaknesses, opportunities, and threats for the supply chain operations. Our model provides managerial implications in assessing the readiness and maturity of Industry 4.0 tools and sustainability indicators. This study offers a road map to managers on smart and sustainable supply chains’ defined target areas.

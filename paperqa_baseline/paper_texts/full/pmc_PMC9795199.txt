@@ -1,0 +1,9 @@
+Title: Structural validity of the Norwegian version of the Strengths and Difficulties Questionnaire in children aged 3–6 years
+Authors: Katrine Nyvoll Aadland, Arne Lervåg, Yngvar Ommundsen, Eivind Aadland
+Year: 2022
+Venue: Frontiers in Psychology
+DOI: 10.3389/fpsyg.2022.1024918
+Paper ID: pmc_PMC9795199
+
+Abstract:
+Introduction This study examined the structural validity of the teacher-report Strength and Difficulties Questionnaire (SDQ) in Norwegian preschoolers aged 3–6 years. We tested the original five-factor structure, the five-factor structure with two broader second-order factors, and a three-factor structure, all suggested in the literature. Since the positively worded items in SDQ have been shown to introduce noise, we also examined all three structures with a positive construal method factor for these items. Methods Preschool teachers from 43 preschools completed the SDQ questionnaire for 1,142 children [48% girls, mean age 4.3 (SD 0.9) years]. Confirmatory factor analyses were used to estimate and compare the six models. Measurement invariance was tested across sex (multi-group approach) and age (multiple-indicator multiple-cause approach). Results The original five-factor structure of SDQ was supported, where the model fit improved when including a method factor for positively worded items. Both models showed scalar invariance across sex and age. The second-order and the three-factor structures were not supported. Conclusion We recommend using the original five-factor structure when using SDQ for both clinical and research purposes in young children and adding a method factor when using structural equation modeling.

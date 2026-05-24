@@ -1,0 +1,9 @@
+Title: Hydrogen Utilization in the Sustainable Manufacture of CO2-Based Methanol
+Authors: Javier Fernández-González, Marta Rumayor, Antonio Domínguez-Ramos, Ángel Irabien
+Year: 2022
+Venue: Industrial & Engineering Chemistry Research
+DOI: https://doi.org/10.1021/acs.iecr.1c04295
+Paper ID: https://openalex.org/W4212889995
+
+Abstract:
+Production of alternative CO2-based products may play a major role in decoupling fossil resources to the economy´s needs. CO2 hydrogenation is one of the most readily operational CO2 conversion pathways to produce chemicals. Beyond this, electrochemical, photoelectrochemical, and photochemical CO2 conversion routes have gained attention as long-term direct conversion routes. This work analyzes under what conditions H2 could be a sustainable intermediate vector in producing renewable hydrogen-based methanol (hMeOH) and compares it with the fossil-based (fMeOH) and the emerging electrochemical-based (eMeOH) routes. The technological and exogenous drivers are identified, and the trade-offs between alternatives are assessed under an integrated life cycle approach. The deployment of low carbon hMeOH is locally conditioned to use electricity with carbon intensities of 150 kg of CO2e/MWh or lower. Higher electrolysis efficiency (&gt;70%) and product concentration (&gt;40 wt %) are needed in the eMeOH route to be competitive with the H2-based path. Substitution of fMeOH by wind-powered hMeOH could avoid substantial CO2 emissions (-1.57 kg of CO2e/kg) and fossil resources (-0.61 kg of oileq/kg) but at the cost of almost triple the impact of land use.

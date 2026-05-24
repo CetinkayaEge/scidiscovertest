@@ -1,0 +1,9 @@
+Title: Resistance Training Exercise Program for Intervention to Enhance Gait Function in Elderly Chronically Ill Patients: Multivariate Multiscale Entropy for Center of Pressure Signal Analysis
+Authors: Ming-Shu Chen, Bernard C. Jiang
+Year: 2014
+Venue: Computational and Mathematical Methods in Medicine
+DOI: 10.1155/2014/471356
+Paper ID: pmc_PMC4177181
+
+Abstract:
+Falls are unpredictable accidents, and the resulting injuries can be serious in the elderly, particularly those with chronic diseases. Regular exercise is recommended to prevent and treat hypertension and other chronic diseases by reducing clinical blood pressure. The “complexity index” (CI), based on multiscale entropy (MSE) algorithm, has been applied in recent studies to show a person's adaptability to intrinsic and external perturbations and widely used measure of postural sway or stability. The multivariate multiscale entropy (MMSE) was advanced algorithm used to calculate the complexity index (CI) values of the center of pressure (COP) data. In this study, we applied the MSE & MMSE to analyze gait function of 24 elderly, chronically ill patients (44% female; 56% male; mean age, 67.56 ± 10.70 years) with either cardiovascular disease, diabetes mellitus, or osteoporosis. After a 12-week training program, postural stability measurements showed significant improvements. Our results showed beneficial effects of resistance training, which can be used to improve postural stability in the elderly and indicated that MMSE algorithms to calculate CI of the COP data were superior to the multiscale entropy (MSE) algorithm to identify the sense of balance in the elderly.

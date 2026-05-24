@@ -1,0 +1,9 @@
+Title: Strategies of Automated Machine Learning for Energy Sustainability in Green Artificial Intelligence
+Authors: Dagoberto Castellanos–Nieves, Luis García-Forte
+Year: 2024
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app14146196
+Paper ID: https://openalex.org/W4400721987
+
+Abstract:
+Automated machine learning (AutoML) is recognized for its efficiency in facilitating model development due to its ability to perform tasks autonomously, without constant human intervention. AutoML automates the development and optimization of machine learning models, leading to high energy consumption due to the large amount of calculations involved. Hyperparameter optimization algorithms, central to AutoML, can significantly impact its carbon footprint. This work introduces and investigates energy efficiency metrics for advanced hyperparameter optimization algorithms within AutoML. These metrics enable the evaluation and optimization of an algorithm’s energy consumption, considering accuracy, sustainability, and reduced environmental impact. The experimentation demonstrates the application of Green AI principles to AutoML hyperparameter optimization algorithms. It assesses the current sustainability of AutoML practices and proposes strategies to make them more environmentally friendly. The findings indicate a reduction of 28.7% in CO2e emissions when implementing the Green AI strategy, compared to the Red AI strategy. This improvement in sustainability is achieved with a minimal decrease of 0.51% in validation accuracy. This study emphasizes the importance of continuing to investigate sustainability throughout the life cycle of AI, aligning with the three fundamental pillars of sustainable development.

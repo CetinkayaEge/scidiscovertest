@@ -1,0 +1,9 @@
+Title: Certification systems for machine learning: Lessons from sustainability
+Authors: Kira Matus, Michael Veale
+Year: 2021
+Venue: Regulation & Governance
+DOI: https://doi.org/10.1111/rego.12417
+Paper ID: https://openalex.org/W3167266398
+
+Abstract:
+Abstract Concerns around machine learning’s societal impacts have led to proposals to certify some systems. While prominent governance efforts to date center around networking standards bodies such as the Institute of Electrical and Electronics Engineers (IEEE), we argue that machine learning certification should build on structures from the sustainability domain. Policy challenges of machine learning and sustainability share significant structural similarities, including difficult to observe credence properties, such as data collection characteristics or carbon emissions from model training, and value chain concerns, including core‐periphery inequalities, networks of labor, and fragmented and modular value creation. While networking‐style standards typically draw their adoption and enforcement from functional needs to conform to enable network participation, machine learning, despite its digital nature, does not benefit from this dynamic. We therefore apply research on certification systems in sustainability, particularly of commodities, to generate lessons across both areas, informing emerging proposals such as the EU’s AI Act.

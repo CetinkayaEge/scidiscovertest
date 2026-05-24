@@ -1,0 +1,9 @@
+Title: Customer engagement, innovation, and sustainable consumption: Analyzing personalized, innovative, sustainable phygital products
+Authors: Rana Salman Anwar, Rizwan Raheem Ahmed, Dalia Štreimikienė, Wadim Striełkowski, Justas Štreimikis
+Year: 2024
+Venue: Journal of Innovation & Knowledge
+DOI: https://doi.org/10.1016/j.jik.2024.100642
+Paper ID: https://openalex.org/W4405218098
+
+Abstract:
+This research explores the relationship between factors that play a crucial role in e-commerce. This research aimed to check the direct relationship between customer engagement, innovation, and behavior of consumers towards phygital products on patronage intention. Furthermore, this study has explored the mediating role of the behavior of consumers toward phygital products and the moderating role of the level of innovation and sustainable consumption on the direct relationship between customer engagement and patronage intention toward phygital products. This study applied decision tree analysis, structural equation modeling (SEM), and artificial neural networks (ANN) to test all these proposed relationships. The data was collected from 412 Pakistani internet users who used different shopping applications. Moreover, JASP 0.19.0.0 was employed for analysis, and the data was collected on existing scales. The findings show that customer engagement, innovation, personalization, and sustainable consumption significantly affect patronage intentions. However, the moderating effect of consumer behavior was not supportive in this study. Decision tree analysis offered a transparent, interpretable framework for comprehending these dynamics, while the neural network model exposed the nonlinear relationships between these variables. This study provides new insights into phygital marketing, notably in Pakistan's fast-growing e-commerce sector. The insights can help marketers optimize their strategy in increasingly linked physical and digital experiences.

@@ -1,0 +1,9 @@
+Title: The Effects of Sensory Cues on Immersive Experiences for Fostering Technology-Assisted Sustainable Behavior: A Systematic Review
+Authors: Yaqi Zhang, Yao Song
+Year: 2022
+Venue: Behavioral Sciences
+DOI: https://doi.org/10.3390/bs12100361
+Paper ID: https://openalex.org/W4297347924
+
+Abstract:
+Games are consistently acknowledged as a powerful approach that can significantly impact people's behavior towards living in a sustainable way. Sensory cues are regarded as influential factors in facilitating immersive experiences in gamified applications to foster sustainable behavior. As our perception of an environment is influenced not only by what we can see but also by additional sensory input such as sound and touch, additional sensory information can be part of the participant's experience. This study systematically scrutinized game-based applications containing sensory cues to interpret current technology-assisted sustainable behavior development. This study provides a review of the impact of the sensory signals offered by video games, virtual reality, and augmented reality on pro-environmental behavioral intention. This research found that human senses can change the perception of immersion in multiple ways: visual (dimensions, angles, color), auditory (music, dialogue), and haptic, and these can affect sustainable behavior. Thus, we argue that multiple sensory modalities provide more opportunities to influence users to act sustainably. Based on the results, the theoretical contribution of this paper emphasizes the level of immersion, which is closely related to various sensory perceptions, and explains the correlation between them. In terms of industrial applications, it provides game designers, developers of VR and AR applications, and planners of sustainable education guidelines for the adoption of immersive scenarios.

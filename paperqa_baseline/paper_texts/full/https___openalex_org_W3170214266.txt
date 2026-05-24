@@ -1,0 +1,9 @@
+Title: Sustained neural activity correlates with rapid perceptual learning of auditory patterns
+Authors: Björn Herrmann, Kurdo Araz, Ingrid S. Johnsrude
+Year: 2021
+Venue: NeuroImage
+DOI: https://doi.org/10.1016/j.neuroimage.2021.118238
+Paper ID: https://openalex.org/W3170214266
+
+Abstract:
+Repeating structures forming regular patterns are common in sounds. Learning such patterns may enable accurate perceptual organization. In five experiments, we investigated the behavioral and neural signatures of rapid perceptual learning of regular sound patterns. We show that recurring (compared to novel) patterns are detected more quickly and increase sensitivity to pattern deviations and to the temporal order of pattern onset relative to a visual stimulus. Sustained neural activity reflected perceptual learning in two ways. Firstly, sustained activity increased earlier for recurring than novel patterns when participants attended to sounds, but not when they ignored them; this earlier increase mirrored the rapid perceptual learning we observed behaviorally. Secondly, the magnitude of sustained activity was generally lower for recurring than novel patterns, but only for trials later in the experiment, and independent of whether participants attended to or ignored sounds. The late manifestation of sustained activity reduction suggests that it is not directly related to rapid perceptual learning, but to a mechanism that does not require attention to sound. In sum, we demonstrate that the latency of sustained activity reflects rapid perceptual learning of auditory patterns, while the magnitude may reflect a result of learning, such as better prediction of learned auditory patterns.

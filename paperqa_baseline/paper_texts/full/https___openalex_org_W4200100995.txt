@@ -1,0 +1,9 @@
+Title: Bibliometric Mapping of Research Trends on Financial Behavior for Sustainability
+Authors: Tania López-Medina, Isabel Mendoza-Ávila, Nicolás Contreras-Barraza, Guido Salazar-Sepúlveda, Alejandro Vega-Muñoz
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14010117
+Paper ID: https://openalex.org/W4200100995
+
+Abstract:
+This article presents a global empirical overview of studies on financial behavior in relation to education, money-saving, and consumption, contributing to research on the Sustainable Development Goals (SDGs) related to social equity in the quality education (4th Sustainable Development Goal) and inequality reduction (10th Sustainable Development Goal) areas. Thus, the data and metadata of 492 articles registered between 1992 and August 2021 were extracted from the Web of Science (Journal Citation Report, JCR) and analyzed with a bibliometric approach, using classical methodological laws and the specialized software VOSviewer. Among the results, we highlight the exponential scientific production growth in the last decades, the concentration in only twelve specific journals indexed in the Journal Citation Report, the global hegemony of US universities in institutional co-authorship networks, and the thematic and temporal segregation of the concepts of financial behavior. We conclude an evolution of two decades in the relevant topics and a concentration in three large blocks: (1) financial education; (2) savings and consumption decisions; (3) financial literacy and investments, which are a temporal evolution that gives for the irruption of diverse visions in the relationship between the evolution of individual financial behavior and the global market. Given it is necessary to know the impact of financial education and financial literacy on personal savings, consumption, and investment behaviors, a larger study on financial behavior could be conducted with this research and an assessment of these results.

@@ -1,0 +1,9 @@
+Title: Biochar-based catalytic upgrading of plastic waste into liquid fuels towards sustainability
+Authors: Fanghua Li, Ning Wang, Xin He, Mingyue Deng, Xiangzhou Yuan, Huiyan Zhang, Ange Nzihou, Daniel C.W. Tsang, Chi‐Hwa Wang, Yong Sik Ok
+Year: 2025
+Venue: Communications Earth & Environment
+DOI: https://doi.org/10.1038/s43247-025-02286-1
+Paper ID: https://openalex.org/W4409906678
+
+Abstract:
+As the demand for single-use plastics rises, sustainable plastic management has become a pressing concern. Transforming plastic waste into value-added fuels is a promising waste-to-energy strategy that benefits environmental and energy security. In recent years, biochar-based catalysts (BBCs) have attracted increasing attention for their cost-effectiveness, well-developed pore structure, and effective surface functional groups in catalytic conversions of plastic waste into fuels. Many researchers have documented the successful utilization of biochar catalysts for efficient plastic waste valorization. However, a systematic review of biochar-based catalytic valorization of plastic waste into useful fuels is still missing. We assessed practical applications of biochar-based catalytic pyrolysis and advanced oxidation technologies, evaluating their performance from life-cycle and techno-economic perspectives. Machine learning was also introduced to design high-performance BBCs and optimize the plastic upcycling system. This eco-friendly innovation supports several UN SDGs and provides valuable insights for the UN Treaty on Plastic Pollution. Biochar-based catalytic conversion of plastic waste into value-added fuels and advanced oxidation-based upcycling of plastic are practical and promising route for sustainable management of plastic pollution, according to a literature review coupled with machine learning.

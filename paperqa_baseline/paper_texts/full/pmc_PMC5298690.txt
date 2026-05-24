@@ -1,0 +1,9 @@
+Title: A Two-Phase Coverage-Enhancing Algorithm for Hybrid Wireless Sensor Networks
+Authors: Qingguo Zhang, Mable P. Fok
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010117
+Paper ID: pmc_PMC5298690
+
+Abstract:
+Providing field coverage is a key task in many sensor network applications. In certain scenarios, the sensor field may have coverage holes due to random initial deployment of sensors; thus, the desired level of coverage cannot be achieved. A hybrid wireless sensor network is a cost-effective solution to this problem, which is achieved by repositioning a portion of the mobile sensors in the network to meet the network coverage requirement. This paper investigates how to redeploy mobile sensor nodes to improve network coverage in hybrid wireless sensor networks. We propose a two-phase coverage-enhancing algorithm for hybrid wireless sensor networks. In phase one, we use a differential evolution algorithm to compute the candidate’s target positions in the mobile sensor nodes that could potentially improve coverage. In the second phase, we use an optimization scheme on the candidate’s target positions calculated from phase one to reduce the accumulated potential moving distance of mobile sensors, such that the exact mobile sensor nodes that need to be moved as well as their final target positions can be determined. Experimental results show that the proposed algorithm provided significant improvement in terms of area coverage rate, average moving distance, area coverage–distance rate and the number of moved mobile sensors, when compare with other approaches.

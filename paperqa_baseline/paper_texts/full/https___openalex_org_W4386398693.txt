@@ -1,0 +1,9 @@
+Title: Defining and measuring the effects of digital technologies on social sustainability: A systematic literature review
+Authors: Gabriel Andy Szalkowski, Christian Johansen
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2741
+Paper ID: https://openalex.org/W4386398693
+
+Abstract:
+Abstract The impact of digital technologies on the environmental and economic sides of sustainability has received considerable attention. In contrast, the societal implications are quite under‐researched. Through a systematic literature review, we describe the current status of the research on the impacts that digital technologies have on social sustainability. We pay particular attention to methods used for assessing and measuring these impacts. One positive observation made from our descriptive (bibliometric) analysis is that there is an increasing interest in social sustainability. Our content analysis identified four categories, namely “Area of Impact,” “Approach to technology,” “Measured/Measurable Effect,” and “Measuring Methods”, accumulating 30 labels, which we use to classify the papers at study. A quite common label is “Jobs” as the area of impacts, whereas the least used label in the approach to technology category is “Cyber‐security,” signaling that few papers that investigate the impacts of digital technologies on social sustainability consider their security and privacy implications. Other gaps that we expose are the lack of empirical data as well as the lack of mathematical modeling when measuring the effects of digital technologies, with direct experiments appearing very seldom in the literature. In an attempt to provide a guide for future research, we identify five general research gaps, listing 20 specific research questions, and propose a structuring procedure for articles on social implications of digital technologies to be produce in a more systematic manner.

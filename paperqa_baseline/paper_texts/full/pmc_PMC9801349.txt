@@ -1,0 +1,9 @@
+Title: Controlling Nutritional Status Score Predicts In-Hospital Mortality in Acute Pulmonary Embolism
+Authors: Birdal Yıldırım, Zeynep Karakaya, Ethem Acar, Ahmet Demir, Kemal Gökçek, Aysel Gökçek, Volkan Doğan, Murat Biteker
+Year: 2022
+Venue: Medical Principles and Practice
+DOI: 10.1159/000525240
+Paper ID: pmc_PMC9801349
+
+Abstract:
+Objective The association between the nutritional status and outcomes in pulmonary embolism is unclear. This study was aimed at examining the value of the Controlling Nutritional Status (CONUT) score in assessing malnutrition among acute pulmonary embolism patients. Subject and Methods We retrospectively reviewed the records of adult patients with acute pulmonary embolism hospitalized through our ED. Demographic, clinical, and laboratory data on admission were recorded. Nutritional status was assessed with the CONUT score, which is calculated by the albumin, total cholesterol, and lymphocyte counts. The primary endpoint of the study was in-hospital mortality. Results A total of 308 consecutive patients (mean age 68.2 ± 12.9 years, 53.9% female) were included, and 35 of the patients (11.4%) died during their in-hospital course. Multivariate analysis showed that a pulmonary embolism severity index >148 (OR 3.12, 95% CI: 1.65–8.81, p < 0.001), the presence of heart failure (1.25, 95% CI: 1.08–1.78, p = 0.03), and a CONUT score >4 (OR 1.39, 95% CI: 1.146–3.424, p = 0.015) were independent predictors of in-hospital mortality. Conclusion The present study indicates that the presence of malnutrition defined by the CONUT score predicts in-hospital mortality following acute pulmonary embolism.

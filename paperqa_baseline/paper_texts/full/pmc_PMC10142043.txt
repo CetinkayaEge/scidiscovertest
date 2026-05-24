@@ -1,0 +1,9 @@
+Title: Highly Efficient Spatial Three-Level CoP@ZIF-8/pNF Based on Modified Porous NF as Dual Functional Electrocatalyst for Water Splitting
+Authors: Hongzhi Wang, Limin Zhang, Weiguo Zhang, Shaofeng Sun, Suwei Yao
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081386
+Paper ID: pmc_PMC10142043
+
+Abstract:
+The development of non-noble metal catalysts for water electrolysis to product hydrogen meets the current strategic need for carbon peaking and carbon neutrality. However, complex preparation methods, low catalytic activity and high energy consumption still limit the application of these materials. Herein, in this work we prepared a three-level structured electrocatalyst of CoP@ZIF-8 growing on modified porous nickel foam (pNF) via the natural growing and phosphating process. In contrast to the common NF, the modified NF constructs a large number of micron-sized pores carrying the nanoscaled catalytic CoP@ZIF-8 on the millimeter-sized skeleton of bare NF, which significantly increases the specific surface area and catalyst load of the material. Thanks to the unique spatial three-level porous structure, electrochemical tests showed a low overpotential of 77 mV at 10 mA cm −2 for HER, and 226 mV at 10 mA cm −2 and 331 mV at 50 mA cm −2 for OER. The result obtained from testing the electrode’s overall water splitting performance is also satisfactory, needing only 1.57 V at 10 mA cm −2 . Additionally, this electrocatalyst showed great stability for more than 55 h when a 10 mA cm −2 constant current was applied to it. Based on the above characteristics, the present work demonstrates the promising application of this material to the electrolysis of water for the production of hydrogen and oxygen.

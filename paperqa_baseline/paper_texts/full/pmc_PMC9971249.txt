@@ -1,0 +1,9 @@
+Title: The catalytic performance of CuFe 2 O 4 @CQD nanocomposite as a high-perform heterogeneous nanocatalyst in nitroaniline group reduction
+Authors: Samin Naghash-Hamed, Nasser Arsalani, Seyed Borhan Mousavi
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28935-z
+Paper ID: pmc_PMC9971249
+
+Abstract:
+In this study, we fabricated an economical, non-toxic, and convenient magnetic nanocomposite of CuFe 2 O 4 nanoparticles (NPs)/carbon quantum dots (CQDs) of citric acid via the co-precipitation method. Afterward, obtained magnetic nanocomposite was used as a nanocatalyst to reduce the ortho-nitroaniline (o-NA) and para-nitroaniline (p-NA) using a reducer agent of sodium borohydride (NaBH 4 ). To investigate the functional groups, crystallite, structure, morphology, and nanoparticle size of the prepared nanocomposite, FT-IR, XRD, TEM, BET, and SEM were employed. The catalytic performance of the nanocatalyst was experimentally evaluated based on the ultraviolet–visible absorbance to assess the reduction of o-NA and p-NA. The acquired outcomes illustrated that the prepared heterogeneous catalyst significantly enhanced the reduction of o-NA and p-NA substrates. The analysis of the absorption showed a remarkable decrease for ortho-NA and para-NA at λ max = 415 nm in 27 s and λ max = 380 nm in 8 s, respectively. The constant rate (k app ) of ortho-NA and para-NA at the stated λ max was 8.39 × 10 –2 s −1 and 5.48 × 10 –1 s −1 . The most highlighted result of this work was that the CuFe 2 O 4 @CQD nanocomposite fabricated from citric acid performed better than absolute CuFe 2 O 4 NPs, since nanocomposite containing CQDs had a more significant impact than copper ferrite NPs.

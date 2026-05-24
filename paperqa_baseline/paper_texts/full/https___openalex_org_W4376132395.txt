@@ -1,0 +1,9 @@
+Title: Non-enzymatic oligonucleotide ligation in coacervate protocells sustains compartment-content coupling
+Authors: Tommaso P. Fraccia, Nicolas Martin
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-38163-8
+Paper ID: https://openalex.org/W4376132395
+
+Abstract:
+Modern cells are complex chemical compartments tightly regulated by an underlying DNA-encoded program. Achieving a form of coupling between molecular content, chemical reactions, and chassis in synthetic compartments represents a key step to the assembly of evolvable protocells but remains challenging. Here, we design coacervate droplets that promote non-enzymatic oligonucleotide polymerization and that restructure as a result of the reaction dynamics. More specifically, we rationally exploit complexation between end-reactive oligonucleotides able to stack into long physical polymers and a cationic azobenzene photoswitch to produce three different phases-soft solids, liquid crystalline or isotropic coacervates droplets-each of them having a different impact on the reaction efficiency. Dynamical modulation of coacervate assembly and dissolution via trans-cis azobenzene photo-isomerization is used to demonstrate cycles of light-actuated oligonucleotide ligation. Remarkably, changes in the population of polynucleotides during polymerization induce phase transitions due to length-based DNA self-sorting to produce multiphase coacervates. Overall, by combining a tight reaction-structure coupling and environmental responsiveness, our reactive coacervates provide a general route to the non-enzymatic synthesis of polynucleotides and pave the way to the emergence of a primitive compartment-content coupling in membrane-free protocells.

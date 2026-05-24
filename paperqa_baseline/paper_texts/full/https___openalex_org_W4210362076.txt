@@ -1,0 +1,9 @@
+Title: A Review of CO2 Coolants for Sustainable Machining
+Authors: Leon Proud, Nikolaos Tapoglou, Tom Slatter
+Year: 2022
+Venue: Metals
+DOI: https://doi.org/10.3390/met12020283
+Paper ID: https://openalex.org/W4210362076
+
+Abstract:
+In many machining operations, metalworking fluids (MWFs) play an invaluable role. Often, proper application of an intelligent MWF strategy allows manufacturing processes to benefit from a multitude of operational incentives, not least of which are increased tool life, improved surface integrity and optimised chip handling. Despite these clearly positive implications, current MWF strategies are often unable to accommodate the environmental, economic and social conscience of industrial environments. In response to these challenges, CO2 coolants are postulated as an operationally viable, environmentally benign MWF solution. Given the strong mechanistic rationale and historical evidence in support of cryogenic coolants, this review considers the technological chronology of cryogenic MWF’s in addition to the current state-of-the-art approaches. The review also focuses on the use of CO2 coolants in the context of the machining of a multitude of material types in various machining conditions. In doing so, cryogenic assisted machining is shown to offer a litany of performance benefits for both conventional emulsion (flood) cooling and near dry strategies, i.e., minimum quantity lubrication (MQL), as well as aerosol dry lubrication (ADL).

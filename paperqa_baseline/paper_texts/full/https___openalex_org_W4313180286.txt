@@ -1,0 +1,9 @@
+Title: The China groundwater crisis: A mechanistic analysis with implications for global sustainability
+Authors: Michele Lancia, Yingying Yao, Charles B. Andrews, Xiaoli Wang, Xingxing Kuang, Jinren Ni, Steven M. Gorelick, Bridget R. Scanlon, Yanxin Wang, Chunmiao Zheng
+Year: 2022
+Venue: Sustainable Horizons
+DOI: https://doi.org/10.1016/j.horiz.2022.100042
+Paper ID: https://openalex.org/W4313180286
+
+Abstract:
+Over the past several decades, China has rapidly depleted groundwater storage, and has lagged in managing and protecting this resource. As a result, dried up rivers, land subsidence, saltwater intrusion, and wetland losses are extensive. To assist with managing this vital groundwater resource, we constructed the first national-scale numerical groundwater flow model of China to provide a comprehensive overview and understanding of the subsurface flow dynamics. The groundwater model is three-dimensional with a 10 km by 10 km horizontal resolution and five discretized vertical layers (up to 1700 m below the land surface). The calibrated model matched calculated to observed water levels and sufficiently reproduced water budgets. The model was used to reconstruct groundwater depletion by retracing the different stages of Chinese economic development. From 1945 to 2020, the northern provinces are characterized by an average groundwater depletion of ∼16.7 km3/yr (equivalent to 30% of the Yellow River's annual flow) while southern China has experienced no substantial groundwater depletion. Groundwater depletion is consistent with a large observed reduction in groundwater discharge as baseflow to the Yellow River (-23%) relative to negligible variation in baseflow in the Yangtze River. Our study provides a holistic tool to support development of nationwide water management strategies and temper the effects of a future water crisis that China's growing economy could propagate at the global scale.

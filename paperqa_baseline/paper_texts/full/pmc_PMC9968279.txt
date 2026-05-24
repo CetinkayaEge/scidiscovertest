@@ -1,0 +1,9 @@
+Title: Bright Tm 3+ -based downshifting luminescence nanoprobe operating around 1800 nm for NIR-IIb and c bioimaging
+Authors: Yulei Chang, Haoren Chen, Xiaoyu Xie, Yong Wan, Qiqing Li, Fengxia Wu, Run Yang, Wang Wang, Xianggui Kong
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36813-5
+Paper ID: pmc_PMC9968279
+
+Abstract:
+Fluorescence bioimaging based on rare-earth-doped nanocrystals (RENCs) in the shortwave infrared (SWIR, 1000–3000 nm) region has aroused intense interest due to deeper penetration depth and clarity. However, their downshifting emission rarely shows sufficient brightness beyond 1600 nm, especially in NIR-IIc. Here, we present a class of thulium (Tm) self-sensitized RENC fluorescence probes that exhibit bright downshifting luminescence at 1600–2100 nm (NIR-IIb/c) for in vivo bioimaging. An inert shell coating minimizes surface quenching and combines strong cross-relaxation, allowing LiTmF 4 @LiYF 4 NPs to emit these intense downshifting emissions by absorbing NIR photons at 800 nm (large Stokes shift ~1000 nm with a absolute quantum yield of ~14.16%) or 1208 nm (NIR-II in and NIR-II out ). Furthermore, doping with Er 3+ for energy trapping achieves four-wavelength NIR irradiation and bright NIR-IIb/c emission. Our results show that Tm-based NPs, as NIR-IIb/c nanoprobes with high signal-to-background ratio and clarity, open new opportunities for future applications and translation into diverse fields. Fluorescence imaging in the near-infrared region yields high-quality images that overcome the current depth limitations. Here, the authors report a Tm3 + -based nanoprobe for NIR-IIb/c imaging, providing references to future bioimaging beyond 1700 nm.

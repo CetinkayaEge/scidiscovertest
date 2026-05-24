@@ -1,0 +1,9 @@
+Title: Unraveling the Mechanism and Practical Implications of the Sol-Gel Synthesis of Spinel LiMn 2 O 4 as a Cathode Material for Li-Ion Batteries: Critical Effects of Cation Distribution at the Matrix Level
+Authors: Oyunbayar Nyamaa, Gyeong-Ho Kang, Sun-Chul Huh, Jeong-Hyeon Yang, Tae-Hyun Nam, Jung-Pil Noh
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083489
+Paper ID: pmc_PMC10142034
+
+Abstract:
+Spinel LiMn 2 O 4 (LMO) is a state-of-the-art cathode material for Li-ion batteries. However, the operating voltage and battery life of spinel LMO needs to be improved for application in various modern technologies. Modifying the composition of the spinel LMO material alters its electronic structure, thereby increasing its operating voltage. Additionally, modifying the microstructure of the spinel LMO by controlling the size and distribution of the particles can improve its electrochemical properties. In this study, we elucidate the sol-gel synthesis mechanisms of two common types of sol-gels (modified and unmodified metal complexes)—chelate gel and organic polymeric gel—and investigate their structural and morphological properties and electrochemical performances. This study highlights that uniform distribution of cations during sol-gel formation is important for the growth of LMO crystals. Furthermore, a homogeneous multicomponent sol-gel, necessary to ensure that no conflicting morphologies and structures would degrade the electrochemical performances, can be obtained when the sol-gel has a polymer-like structure and uniformly bound ions; this can be achieved by using additional multifunctional reagents, namely cross-linkers.

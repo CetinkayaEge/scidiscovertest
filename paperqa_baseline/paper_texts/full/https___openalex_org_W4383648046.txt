@@ -1,0 +1,9 @@
+Title: Sustainable product lifecycle management with Digital Twins: A systematic literature review
+Authors: Anne Seegrün, Thomas Kruschke, Janine Mügge, Louis Hardinghaus, Tobias Knauf, Theresa Riedelsheimer, Kai Lindow
+Year: 2023
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2023.03.124
+Paper ID: https://openalex.org/W4383648046
+
+Abstract:
+A Digital Twin (DT) is a virtual replica of a product or product-service system, which can be used to provide transparency of a product's sustainability and to positively influence the ecological impact throughout its lifecycle by means of intelligent data analytics. This paper identifies current sustainability-focused application scenarios of DTs in the manufacturing industry and outlines the results of a systematic literature review (SLR). The identification of the state-of-the-art and the assessment of current DT concepts with regard to the addressed product lifecycle phases, technological maturity and sustainability scope point towards key directions to guide future research.

@@ -1,0 +1,9 @@
+Title: Assessing sustainability with multi-criteria methods: A methodologically focused literature review
+Authors: Axel Lindfors
+Year: 2021
+Venue: Environmental and Sustainability Indicators
+DOI: https://doi.org/10.1016/j.indic.2021.100149
+Paper ID: https://openalex.org/W3204246278
+
+Abstract:
+In this literature review, the use of multi-criteria assessment methods to perform sustainability assessments was studied. It focused on key methodological choices and the theoretical underpinnings of these choices. The review was divided into seven themes: (1) reasons for applying multi-criteria assessments, (2) how assessment alternatives were selected, (3) how criteria and indicators were selected and defined, (4) what interpretation methods were applied, (5) how weights were generated, (6) how studies applied uncertainty management, and (7) how studies dealt with incommensurability, compensability and incomparability of criteria. The review shows a need for increased methodological transparency, such as giving insight into how alternatives, criteria, and indicators have been selected and why certain methods are chosen over others. In addition, stakeholder participation should be viewed as an end in itself and not simply be used instrumentally. Furthermore, it is recommended that multi-criteria assessments apply interpretation methods that imply incommensurability or weak commensurability of criteria when performing sustainability assessment to respect the value-plurality of sustainability and follow the notion of strong sustainability. Finally, future research is needed about how multi-criteria assessments are used in decision-making processes to foster sustainable development and how they may be used as pedagogical tools for social learning.

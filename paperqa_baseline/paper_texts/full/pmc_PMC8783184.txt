@@ -1,0 +1,9 @@
+Title: Antecedents to the Adoption of Mobile Payment in China and Italy: an Integration of UTAUT2 and Innovation Resistance Theory
+Authors: Giacomo Migliore, Ralf Wagner, Felipe Schneider Cechella, Francisco Liébana-Cabanillas
+Year: 2022
+Venue: Information Systems Frontiers
+DOI: 10.1007/s10796-021-10237-2
+Paper ID: pmc_PMC8783184
+
+Abstract:
+This research aims to investigate the adoption gap in mobile payment systems between Italy and China, focusing on users’ intention to adopt mobile payment. The theoretical framing considers both drivers and barriers when combines the unified theory of acceptance and use of technology 2 (UTAUT2) with innovation resistance theory (IRT). To empirically verify the proposed model, this study gathers primary data through a web-based, self-administered survey. To analyze the data, we use structural equation modeling, and to test for significant differences between the two groups we run multi-group analysis. The respondents in Italy and China present different behaviors. Social influence plays a significant role in cultures with high uncertainty avoidance, such as Italy. The tradition barrier is the only significant barrier to the adoption of mobile payment.

@@ -1,0 +1,9 @@
+Title: Pruning-Based Sparse Recovery for Electrocardiogram Reconstruction from Compressed Measurements
+Authors: Jaeseok Lee, Kyungsoo Kim, Ji-Woong Choi
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010105
+Paper ID: pmc_PMC5298678
+
+Abstract:
+Due to the necessity of the low-power implementation of newly-developed electrocardiogram (ECG) sensors, exact ECG data reconstruction from the compressed measurements has received much attention in recent years. Our interest lies in improving the compression ratio (CR), as well as the ECG reconstruction performance of the sparse signal recovery. To this end, we propose a sparse signal reconstruction method by pruning-based tree search, which attempts to choose the globally-optimal solution by minimizing the cost function. In order to achieve low complexity for the real-time implementation, we employ a novel pruning strategy to avoid exhaustive tree search. Through the restricted isometry property (RIP)-based analysis, we show that the exact recovery condition of our approach is more relaxed than any of the existing methods. Through the simulations, we demonstrate that the proposed approach outperforms the existing sparse recovery methods for ECG reconstruction.

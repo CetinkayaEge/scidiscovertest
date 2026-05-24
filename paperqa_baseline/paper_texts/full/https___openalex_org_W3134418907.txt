@@ -1,0 +1,9 @@
+Title: Aircraft Requirements for Sustainable Regional Aviation
+Authors: Dominik Eisenhut, N Moebs, Evert Windels, Dominique Bergmann, Ingmar Geiß, Ricardo Reis, Andreas Strohmayer
+Year: 2021
+Venue: Aerospace
+DOI: https://doi.org/10.3390/aerospace8030061
+Paper ID: https://openalex.org/W3134418907
+
+Abstract:
+Recently, the new Green Deal policy initiative was presented by the European Union. The EU aims to achieve a sustainable future and be the first climate-neutral continent by 2050. It targets all of the continent’s industries, meaning aviation must contribute to these changes as well. By employing a systems engineering approach, this high-level task can be split into different levels to get from the vision to the relevant system or product itself. Part of this iterative process involves the aircraft requirements, which make the goals more achievable on the system level and allow validation of whether the designed systems fulfill these requirements. Within this work, the top-level aircraft requirements (TLARs) for a hybrid-electric regional aircraft for up to 50 passengers are presented. Apart from performance requirements, other requirements, like environmental ones, are also included. To check whether these requirements are fulfilled, different reference missions were defined which challenge various extremes within the requirements. Furthermore, figures of merit are established, providing a way of validating and comparing different aircraft designs. The modular structure of these aircraft designs ensures the possibility of evaluating different architectures and adapting these figures if necessary. Moreover, different criteria can be accounted for, or their calculation methods or weighting can be changed.

@@ -1,0 +1,9 @@
+Title: Beyond food: A stochastic model to estimate the contributions of urban agriculture to sustainability
+Authors: Josep Pueyo‐Ros, Mateja Škerjanec, Joana Castellar, Nataša Atanasova, Joaquím Comas, Lluís Corominas
+Year: 2023
+Venue: Landscape and Urban Planning
+DOI: https://doi.org/10.1016/j.landurbplan.2023.104930
+Paper ID: https://openalex.org/W4387835312
+
+Abstract:
+In the first decades of the 21st century, urban agriculture has gained attention for its role in enhancing food security, particularly in developing nations. Additionally, it is commonly assumed that urban agriculture also has positive implications for other aspects of urban sustainability, such as mitigating runoff and creating job opportunities. However, the extent of these contributions has not been extensively quantified. This study aims to address this gap by presenting a stochastic model that quantifies the contributions of urban agriculture to urban sustainability, using Sant Feliu de Llobregat, a Mediterranean city, as a case study. We assessed eight indicators, including accessibility to green areas, food self-reliance, green surface area per capita, job creation, NO2 sequestration, runoff mitigation, urban heat island effect, and volunteer participation. These indicators were estimated across twelve different simulated scenarios using 1000 Monte Carlo simulations for each scenario, to account for uncertainties. The findings revealed that the contributions of urban agriculture are not straightforward, as they are influenced by factors such as garden typology and location. Although urban agriculture typically originates as a grassroots movement, it often receives administrative support. Therefore, strategic planning can be employed to maximize the contributions of urban agriculture to urban sustainability and minimize trade-offs between social and environmental benefits.

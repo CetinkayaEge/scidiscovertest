@@ -1,0 +1,9 @@
+Title: MiR-143 acts as a tumor suppressor by targeting N-RAS and enhances temozolomide-induced apoptosis in glioma
+Authors: Lin Wang, Zhu-mei Shi, Cheng-fei Jiang, Xue Liu, Qiu-dan Chen, Xu Qian, Dong-mei Li, Xin Ge, Xie-feng Wang, Ling-Zhi Liu, Yong-ping You, Ning Liu, Bing-Hua Jiang
+Year: 2014
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.2116
+Paper ID: pmc_PMC4170647
+
+Abstract:
+Therapeutic applications of microRNAs (miRNAs) in RAS-driven glioma were valuable, but their specific roles and functions have yet to be fully elucidated. Here, we firstly report that miR-143 directly targets the neuroblastoma RAS viral oncogene homolog (N-RAS) and functions as a tumor-suppressor in glioma. Overexpression of miR-143 decreased the expression of N-RAS, inhibited PI3K/AKT, MAPK/ERK signaling, and attenuated the accumulation of p65 in nucleus of glioma cells. In human clinical specimens, miR-143 was downregulated where an adverse with N-RAS expression was observed. Furthermore, overexpression of miR-143 decreased glioma cell migration, invasion, tube formation and slowed tumor growth and angiogenesis in a manner associated with N-RAS downregulation in vitro and in vivo . Finally, miR-143 also sensitizes glioma cells to temozolomide (TMZ),the first-line drug for glioma treatment. Taken together, for the first time, our results demonstrate that miR-143 plays a significant role in inactivating the RAS signaling pathway through the inhibition of N-RAS, which may provide a novel therapeutic strategy for treatment of glioma and other RAS-driven cancers.

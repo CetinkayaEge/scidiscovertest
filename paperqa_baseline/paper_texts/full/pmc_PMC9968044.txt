@@ -1,0 +1,9 @@
+Title: Design, Physical Characterizations, and Biocompatibility of Cationic Solid Lipid Nanoparticles in HCT-116 and 16-HBE Cells: A Preliminary Study
+Authors: Ali Alamri, Ali Alqahtani, Taha Alqahtani, Adel Al Fatease, Saeed Ahmed Asiri, Reem M. Gahtani, Sulaiman Mohammed Alnasser, Jamal Moideen Muthu Mohamed, Farid Menaa
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28041711
+Paper ID: pmc_PMC9968044
+
+Abstract:
+In this study, pEGFP-LUC was used as a model plasmid and three distinct cationic lipids (dioleyloxy-propyl-trimethylammonium chloride [DOTMA], dioleoyl trimethylammonium propane [DOTAP], and cetylpyridinium chloride [CPC]) were tested along with PEG 5000, as a nonionic surfactant, to prepare glyceryl monostearate (GMS)-based cationic solid lipid nanoparticles (cSLNs). Both the type and quantity of surfactant had an impact on the physicochemical characteristics of the cSLNs. Thermal analysis of the greater part of the endothermic peaks of the cSLNs revealed they were noticeably different from the individual pure compounds based on their zeta potential (ZP ranging from +17 to +56 mV) and particle size (PS ranging from 185 to 244 nm). The addition of cationic surfactants was required to produce nanoparticles (NPs) with a positive surface charge. This suggested that the surfactants and extensive entanglement of the lipid matrix GMS provided support for the behavioral diversity of the cSLNs and their capacity to interface with the plasmid DNA. Additionally, hemolytic assays were used to show that the cSLNs were biocompatible with the human colon cancer HCT-116 and human bronchial epithelial 16-HBE cell lines. The DOTMA 6-based cSLN was selected as the lead cSLN for further ex vivo and in vivo investigations. Taken together, these new findings might provide some guidance in selecting surfactants to prepare extremely efficient and non-toxic cSLN-based therapeutic delivery systems (e.g., gene therapy).

@@ -1,0 +1,9 @@
+Title: Sustainable Development of Information Dissemination: A Review of Current Fake News Detection Research and Practice
+Authors: Lu Yuan, Hangshun Jiang, Hao Shen, Lei Shi, Nanchang Cheng
+Year: 2023
+Venue: Systems
+DOI: https://doi.org/10.3390/systems11090458
+Paper ID: https://openalex.org/W4386420896
+
+Abstract:
+With the popularization of digital technology, the problem of information pollution caused by fake news has become more common. Malicious dissemination of harmful, offensive or illegal content may lead to misleading, misunderstanding and social unrest, affecting social stability and sustainable economic development. With the continuous iteration of artificial intelligence technology, researchers have carried out automatic and intelligent news data mining and analysis based on aspects of information characteristics and realized the effective identification of fake news information. However, the current research lacks the application of multidisciplinary knowledge and research on the interpretability of related methods. This paper focuses on the existing fake news detection technology. The survey includes fake news datasets, research methods for fake news detection, general technical models and multimodal related technical methods. The innovation contribution is to discuss the research progress of fake news detection in communication, linguistics, psychology and other disciplines. At the same time, it classifies and summarizes the explainable fake news detection methods and proposes an explainable human-machine-theory triangle communication system, aiming at establishing a people-centered, sustainable human–machine interaction information dissemination system. Finally, we discuss the promising future research topics of fake news detection technology.

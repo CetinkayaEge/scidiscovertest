@@ -1,0 +1,9 @@
+Title: A Closed Form Solution for Pricing Variance Swaps Under the Rescaled Double Heston Model
+Authors: Youngin Yoon, Jeong-Hoon Kim
+Year: 2021
+Venue: Computational Economics
+DOI: 10.1007/s10614-021-10214-6
+Paper ID: pmc_PMC8627299
+
+Abstract:
+As is well known, multi-factor stochastic volatility models are necessary to capture the market accurately in pricing financial derivatives. However, the multi-factor models usually require too many parameters to be calibrated efficiently and they do not lead to an analytic pricing formula. The double Heston model is one of them. The approach of this paper for this difficulty is to rescale the double Heston model to reduce the number of the model parameters and obtain a closed form analytic solution formula for variance swaps explicitly. We show that the rescaled double Heston model is as effective as the original double Heston model in terms of fitting to the VIX market data in a stable condition and yet the computing time is much less than that under the double Heston model. However, in a turbulent situation after the start of the COVID-19 pandemic in 2020, we acknowledge that even the double Heston model fails to capture the market accurately.

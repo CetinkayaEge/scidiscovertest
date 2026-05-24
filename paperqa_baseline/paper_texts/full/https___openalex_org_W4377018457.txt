@@ -1,0 +1,9 @@
+Title: GIS-based spatiotemporal analysis for road traffic crashes; in support of sustainable transportation Planning
+Authors: Semira Mohammed, Aya Hasan Alkhereibi, Ammar Abulibdeh, Rana N. Jawarneh, P. Balakrishnan
+Year: 2023
+Venue: Transportation Research Interdisciplinary Perspectives
+DOI: https://doi.org/10.1016/j.trip.2023.100836
+Paper ID: https://openalex.org/W4377018457
+
+Abstract:
+Road traffic crashes pose a significant challenge worldwide, necessitating increased efforts to reduce them and promote sustainable transport systems. This study aimed to investigate spatiotemporal road traffic crashes and their causes in the State of Qatar by identifying hot spots of crashs and exploring whether they were primiarly attributed to behavioural practices and/or the geometrical design of roads and intersections. The study employed various methods, including Time-Space Cube analysis, Geographically Weighted Regression (GWR), Emerging Hot Spot analysis, and Spatial Autocorrelation analysis, with historical traffic crash data from 2015 and 2019. The findings indicated that crashes were mainly concentrated in the central-eastern region of Qatar and are related to driver behaviour. The analysis also revealed that crashes during the weekdays in 2019 were more strongly clustered than in 2015, suggesting a probable systematic cause of crashes. The results provide valuable information for policymakers to target high-incidence locations, prioritize interventions and develop more effective measures and policies to reduce crashs and promote a sustainable transportation system in Qatar. Overall, this study highlights the importance of continued research and policy development in this area and could potentially be applicable and transferable to similar regions.

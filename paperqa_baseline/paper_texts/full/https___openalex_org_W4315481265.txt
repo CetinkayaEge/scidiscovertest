@@ -1,0 +1,9 @@
+Title: A sustainable and secure load management model for green cloud data centres
+Authors: Deepika Saxena, Ashutosh Kumar Singh, Chung‐Nan Lee, Rajkumar Buyya
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-27703-3
+Paper ID: https://openalex.org/W4315481265
+
+Abstract:
+The massive upsurge in cloud resource demand and inefficient load management stave off the sustainability of Cloud Data Centres (CDCs) resulting in high energy consumption, resource contention, excessive carbon emission, and security threats. In this context, a novel Sustainable and Secure Load Management (SaS-LM) Model is proposed to enhance the security for users with sustainability for CDCs. The model estimates and reserves the required resources viz., compute, network, and storage and dynamically adjust the load subject to maximum security and sustainability. An evolutionary optimization algorithm named Dual-Phase Black Hole Optimization (DPBHO) is proposed for optimizing a multi-layered feed-forward neural network and allowing the model to estimate resource usage and detect probable congestion. Further, DPBHO is extended to a Multi-objective DPBHO algorithm for a secure and sustainable VM allocation and management to minimize the number of active server machines, carbon emission, and resource wastage for greener CDCs. SaS-LM is implemented and evaluated using benchmark real-world Google Cluster VM traces. The proposed model is compared with state-of-the-arts which reveals its efficacy in terms of reduced carbon emission and energy consumption up to 46.9% and 43.9%, respectively with improved resource utilization up to 16.5%.

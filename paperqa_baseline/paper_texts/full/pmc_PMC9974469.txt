@@ -1,0 +1,9 @@
+Title: Evolution of bitter receptor genes and ontogenetic dietary shift in a frog
+Authors: Xiangyu Hao, Hengwu Jiao, Dahu Zou, Qiyang Li, Xiangqun Yuan, Wenbo Liao, Peihua Jiang, Huabin Zhao
+Year: 2023
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+DOI: 10.1073/pnas.2218183120
+Paper ID: pmc_PMC9974469
+
+Abstract:
+Vertebrate Tas2r taste receptors detect bitter compounds that are potentially poisonous. Previous studies found substantial variation in the number of Tas2r genes across vertebrates, with some frog species carrying the largest number. Peculiar among vertebrates, frogs undergo metamorphosis, often associated with a dietary shift between tadpoles and adults. A possible explanation for the large size of frog Tas2r families could be that distinct sets of Tas2r genes are required for tadpoles and adults, suggesting differential expression of Tas2r genes between tadpoles and adults. To test this hypothesis, we first examined 20 amphibian genomes and found that amphibians generally possess more Tas2r genes than do other vertebrate clades. We next focused on the American bullfrog ( Lithobates catesbeianus ) to examine the expression of its Tas2r genes in herbivorous tadpoles and insectivorous adult frogs. We report that close to one fifth of its 180 Tas2r genes are differentially expressed (22 genes enriched in adults and 11 in tadpoles). Tuning properties were determined for a subset of differentially expressed genes by a cell-based functional assay, with the adult-enriched Tas2r gene set covering a larger range of ligands compared to the tadpole-enriched subset. These results suggest a role of Tas2r genes in the ontogenetic dietary shift of frogs and potentially initiate a new avenue of ontogenetic analysis of diet-related genes in the animal kingdom.

@@ -1,0 +1,9 @@
+Title: Forecasting global sustainable energy from renewable sources using random forest algorithm
+Authors: Balasubbareddy Mallala, Azka Ihtesham Uddin Ahmed, Sastry Pamidi, Omar Faruque, M. Rajasekhar Reddy
+Year: 2024
+Venue: Results in Engineering
+DOI: https://doi.org/10.1016/j.rineng.2024.103789
+Paper ID: https://openalex.org/W4405676036
+
+Abstract:
+• Data collection, analysis, and decision-making. • Pre-processing of collected data. • Training and testing machine learning models. • Developing a machine learning model using the Random Forest algorithm. • Forecasting global sustainable energy from renewable sources for informed decisions. This study addresses the challenge of providing renewable energy in rapidly urbanizing nations like India and China, where reliance on fossil fuels from thermal power plants has led to higher carbon emissions and ozone layer depletion. Machine learning analysis, using the Random Forest algorithm, was conducted on data from the Kaggle platform to predict the future potential of renewable energy. The dataset, which had missing values, was preprocessed by imputing missing data with the mean for columns with less than 30% missing values and dropping columns with over 30% missing data. Feature selection was initially performed using the Correlation Coefficient method, but was later refined with the Mutual Information Regression method, identifying 11 key features with the strongest correlation to the target variable. High accuracy of the model was shown (R² = 0.998) along with low error (MAPE = 0.21), and thus can be utilized for renewable energy forecasting trends, in support of global sustainability goals.

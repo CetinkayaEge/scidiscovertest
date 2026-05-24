@@ -1,0 +1,9 @@
+Title: Genetic architecture of bone quality variation in layer chickens revealed by a genome-wide association study
+Authors: Jun Guo, Congjiao Sun, Liang Qu, Manman Shen, Taocun Dou, Meng Ma, Kehua Wang, Ning Yang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45317
+Paper ID: pmc_PMC5382839
+
+Abstract:
+Skeletal problems in layer chickens are gaining attention due to animal welfare and economic losses in the egg industry. The genetic improvement of bone traits has been proposed as a potential solution to these issues; however, genetic architecture is not well understood. We conducted a genome-wide association study (GWAS) on bone quality using a sample of 1534 hens genotyped with a 600 K Chicken Genotyping Array. Using a linear mixed model approach, a novel locus close to GSG1L , associated with femur bone mineral density (BMD), was uncovered in this study. In addition, nine SNPs in genes were associated with bone quality. Three of these genes, RANKL, ADAMTS and SOST , were known to be associated with osteoporosis in humans, which makes them good candidate genes for osteoporosis in chickens. Genomic partitioning analysis supports the fact that common variants contribute to the variations of bone quality. We have identified several strong candidate genes and genomic regions associated with bone traits measured in end-of-lay cage layers, which accounted for 1.3–7.7% of the phenotypic variance. These SNPs could provide the relevant information to help elucidate which genes affect bone quality in chicken.

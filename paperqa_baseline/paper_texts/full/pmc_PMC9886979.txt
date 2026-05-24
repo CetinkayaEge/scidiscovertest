@@ -1,0 +1,9 @@
+Title: High-temperature operation of gallium oxide memristors up to 600 K
+Authors: Kento Sato, Yusuke Hayashi, Naoki Masaoka, Tetsuya Tohei, Akira Sakai
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28075-4
+Paper ID: pmc_PMC9886979
+
+Abstract:
+Memristors have attracted much attention for application in neuromorphic devices and brain-inspired computing hardware. Their performance at high temperatures is required to be sufficiently reliable in neuromorphic computing, potential application to power electronics, and the aerospace industry. This work focuses on reduced gallium oxide (GaO x ) as a wide bandgap memristive material that is reported to exhibit highly reliable resistive switching operation. We prepared amorphous GaO x films to fabricate Pt/GaO x /indium tin oxide memristors using pulsed laser deposition. Stable resistive switching phenomena were observed in current–voltage properties measured between 300 and 600 K. The conduction mechanism analysis revealed that the resistive switching is caused by the transition between ohmic and space charge limiting current conductions. We elucidated the importance of appropriate control of the density of oxygen vacancies to obtain a high on/off resistance ratio and distinct resistive switching at high temperatures. These results indicate that GaO x is a promising memristor material that can be stably operated even at the record-high temperature of 600 K.

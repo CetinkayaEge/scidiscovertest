@@ -1,0 +1,9 @@
+Title: Comprehensive LCA of Biobased Sustainable Aviation Fuels and JET A-1 Multiblend
+Authors: Katja Oehmichen, Stefan Majer, Franziska Müller‐Langer, Daniela Thrän
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app12073372
+Paper ID: https://openalex.org/W4228998882
+
+Abstract:
+The use of sustainable biofuels in the aviation sector with correspondingly high reduction in specific GHG emissions will make an important contribution to reducing GHG emissions from air traffic. It is expected that airports in Europe will be supplied with JET A-1 blends that also contain various types of sustainable aviation fuels (SAF) in variable proportions (“multiblend”). This article presents the results of a study assessing the environmental impact of various sustainable aviation fuels (SAF) and multiblends, including all relevant parts of their value chains, starting from SAF production to mixing of different SAF with conventional JET A-1 and finally the use of the produced multiblend. The results of the life cycle assessment indicated that the production of some SAF caused less GHG emissions than others due to the use of waste or residues as SAF feedstock or the use of by-products to meet the internal process energy demand. A detailed assessment of GHG emissions of the studied multiblend JET A-1 showed a reduction in greenhouse gas emissions of up to 35% compared to fossil JET A-1.

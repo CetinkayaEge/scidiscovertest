@@ -1,0 +1,9 @@
+Title: Antimicrobial Peptides: Their Role as Infection-Selective Tracers for Molecular Imaging
+Authors: Thomas Ebenhan, Olivier Gheysens, Hendrick Gert Kruger, Jan Rijn Zeevaart, Mike Machaba Sathekge
+Year: 2014
+Venue: BioMed Research International
+DOI: 10.1155/2014/867381
+Paper ID: pmc_PMC4163393
+
+Abstract:
+Antimicrobial peptides (AMPs) are a heterogeneous class of compounds found in a variety of organisms including humans and, so far, hundreds of these structures have been isolated and characterised. They can be described as natural microbicide, selectively cytotoxic to bacteria, whilst showing minimal cytotoxicity towards the mammalian cells of the host organism. They act by their relatively strong electrostatic attraction to the negatively charged bacterial cells and a relatively weak interaction to the eukaryote host cells. The ability of these peptides to accumulate at sites of infection combined with the minimal host's cytotoxicity motivated for this review to highlight the role and the usefulness of AMPs for PET with emphasis on their mechanism of action and the different interactions with the bacterial cell. These details are key information for their selective properties. We also describe the strategy, design, and utilization of these peptides as potential radiopharmaceuticals as their combination with nuclear medicine modalities such as SPECT or PET would allow noninvasive whole-body examination for detection of occult infection causing, for example, fever of unknown origin.

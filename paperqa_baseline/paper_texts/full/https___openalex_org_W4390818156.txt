@@ -1,0 +1,9 @@
+Title: Sustainable Electrification—Advances and Challenges in Electrical-Distribution Networks: A Review
+Authors: Jimmy Gallegos, Paúl Arévalo, Christian Montaleza, Francisco Jurado
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16020698
+Paper ID: https://openalex.org/W4390818156
+
+Abstract:
+This paper provides a thorough exploration of the evolution and contemporary trends in electrical-distribution networks, with a focus on smart grids in the context of Industry 4.0. Beginning with the traditional components of electrical grids, the study highlights the transition towards sustainable energy sources and the integration of renewables. Key trends include economic operation, the application of distributed energy resources, and the significance of photovoltaic solar energy. The paper unfolds in seven sections, examining smart-electrical-network architecture, sustainable technology progression, energy efficiency, carbon-emission-reduction challenges, future perspectives, and concluding insights. Each section delves into specific layers and aspects, such as data management, electrical infrastructure, automation, and consumer interaction. The intricate role of smart meters and their impact on energy management is explored, providing a comprehensive overview of the current state and future directions of electrical-distribution networks.

@@ -1,0 +1,9 @@
+Title: Blockchain-Based Supply Chain Systems, Interoperability Model in a Pharmaceutical Case Study
+Authors: Yeray Mezquita, Blaž Podgorelec, Ana Belén Gil-González, Juan Manuel Corchado
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041962
+Paper ID: pmc_PMC9967772
+
+Abstract:
+The main purpose of supply chain systems based on blockchain technology is to take advantage of technology innovations to ensure that a tracked asset’s audit trail is immutable. However, the challenge lies in tracking the asset among different blockchain-based supply chain systems. The model proposed in this paper has been designed to overcome the identified challenges. Specifically, the proposed model enables: (1) the asset to be tracked among different blockchain-based supply-chain systems; (2) the tracked asset’s supply chain to be cryptographically verified; (3) a tracked asset to be defined in a standardized format; and (4) a tracked asset to be described with several different standardized formats. Thus, the model provides a great advantage in terms of interoperability between different blockchain-driven supply chains over other models in the literature, which will need to replicate the information in each blockchain platform they operate with, while giving flexibility to the platforms that make use of it and maintain the scalability of those logistic platforms. This work aims to examine the application of the proposed model from an operational point of view, in a scenario within the pharmaceutical sector.

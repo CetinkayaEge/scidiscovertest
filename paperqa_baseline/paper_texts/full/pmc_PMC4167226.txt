@@ -1,0 +1,9 @@
+Title: A Comparative Study of Newly Developed HPLC-DAD and UHPLC-UV Assays for the Determination of Posaconazole in Bulk Powder and Suspension Dosage Form
+Authors: Dalia A. Hamdy, Tarek S. Belal
+Year: 2014
+Venue: Journal of Analytical Methods in Chemistry
+DOI: 10.1155/2014/241035
+Paper ID: pmc_PMC4167226
+
+Abstract:
+Objective . To develop and compare HPLC-DAD and UHPLC-UV assays for the quantitation of posaconazole in bulk powder and suspension dosage form. Methods . Posaconazole linearity range was 5–50 μ g/mL for both assays. For HPLC-DAD assay, samples were injected through Zorbax SB-C18 (4.6 × 250 mm, 5 μ m) column. The gradient elution composed of the mobile phase acetonitrile: 15 mM potassium dihydrogen orthophosphate (30 : 70 to 80 : 20, linear over 7 minutes) pumped at 1.5 mL/min. For UHPLC-UV assay, samples were injected through Kinetex-C18 (2.1 × 50 mm, 1.3 μ m) column. The mobile phase composed of acetonitrile: 15 mM potassium dihydrogen orthophosphate (45 : 55) pumped isocratically at 0.4 mL/min. Detection wavelength was 262 nm in both methods. Results . The run time was 11 and 3 minutes for HPLC-DAD and UHPLC-UV assays, respectively. Both assays were linear ( r 2 > 0.999) with CV% and % error of the mean <3%. Limits of detection and quantitation were 0.82 and 2.73 μ g/mL for HPLC-DAD and 1.04 and 3.16 μ g/mL for UHPLC-UV, respectively. The methods quantitated PSZ in suspension dosage form with no observable interferences. Conclusions . Both assays were proven sensitive and selective according to ICH guidelines. UHPLC-UV assay exhibited some economic and chromatographic separation superiority.

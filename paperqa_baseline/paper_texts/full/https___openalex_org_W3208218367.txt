@@ -1,0 +1,9 @@
+Title: Application of AHP for the Weighting of Sustainable Development Indicators at the Subnational Level
+Authors: Abraham Allec Londoño Pineda, José Alejandro Cano, Rodrigo Andrés Gómez Montoya
+Year: 2021
+Venue: Economies
+DOI: https://doi.org/10.3390/economies9040169
+Paper ID: https://openalex.org/W3208218367
+
+Abstract:
+This article presents an indicator weighting method for constructing composite indices to assess sustainable development at the subnational level. The study uses an analytic hierarchy process (AHP), which is considered relevant, since it establishes links between the indicators that make up the different sustainable development goals (SDG). For this purpose, 28 indicators defined by experts constitute the base to evaluate the progress towards sustainable development of the Aburrá Valley region, located in Antioquia, Colombia. The results show that health, employment, and education indicators obtained higher weights, while environmental indicators received the most reduced weights. Likewise, the model proves to be consistent using a consistency ratio, which generates the possibility of replicating this model at different subnational levels.

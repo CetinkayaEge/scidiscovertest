@@ -1,0 +1,9 @@
+Title: A distributed permutation flow-shop considering sustainability criteria and real-time scheduling
+Authors: Amir M. Fathollahi‐Fard, L. A. Woodward, Ouassima Akhrif
+Year: 2024
+Venue: Journal of Industrial Information Integration
+DOI: https://doi.org/10.1016/j.jii.2024.100598
+Paper ID: https://openalex.org/W4392713913
+
+Abstract:
+Recent advancements in production scheduling have arisen in response to the need for adaptation in dynamic environments. This paper addresses the challenge of real-time scheduling within the context of sustainable production. We redefine the sustainable distributed permutation flow-shop scheduling problem using an online mixed-integer programming model. The proposed model prioritizes minimizing makespan while simultaneously constraining energy consumption, reducing the number of lost working days and increasing job opportunities within permissible limits. Our approach considers machines operating in different modes, ranging from manual to automatic, and employs two real-time scheduling strategies: predictive-reactive and proactive-reactive scheduling. We evaluate two rescheduling policies: continuous and event-driven. To demonstrate the model's applicability, we present a case study in auto workpiece production. We manage model complexity through various reformulations and heuristics, such as Lagrangian relaxation and Benders decomposition for initial optimization as well as four problem-specific heuristics for real-time considerations. For solving large-scale instances, we employ simulated annealing and tabu search metaheuristic algorithms. Our findings underscore the benefits of the predictive-reactive scheduling strategy and the efficiency of the event-driven rescheduling policy. By addressing dynamic scheduling challenges and integrating sustainability criteria, this study contributes valuable insights into real-time scheduling and sustainable production.

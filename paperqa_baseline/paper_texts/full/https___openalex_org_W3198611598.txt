@@ -1,0 +1,9 @@
+Title: Toward better measurement of sustainable development and wellbeing: A small number of SDG indicators reliably predict life satisfaction
+Authors: Ida Kubiszewski, Kenneth Mulder, Diane Jarvis, Robert Costanza
+Year: 2021
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2234
+Paper ID: https://openalex.org/W3198611598
+
+Abstract:
+Abstract In 2015, all 193 member states of the United Nations (UN) adopted the Sustainable Development Goals (SDGs). These 17 goals, 169 targets, and 232 indicators (including over 650 indicators if all the subdivisions are included) are intended to guide and improve sustainable wellbeing and life satisfaction for everyone on earth. Challenges include the fact that many indicators are not measured or reliably tracked in many countries, the cost of tracking is unclear, and no explicit overarching goal exists. To highlight some of the problems with this approach, we model life satisfaction (LS) survey scores by country, as a proxy for overall wellbeing, as the dependent variable against the official 232 SDG indicators. Using a constrained linear regression approach (LASSO), we identify a model that includes only 8 of the 232 indicators and explains 84% of the variation in LS. These eight indicators are proxies for economic, social, and environmental variables. We also cluster countries according to these indicators and LS showing correlation within geographical and cultural regions. We discuss these results with regard to the meaning and measurement of sustainable development vs. sustainable wellbeing and its relationship with LS and the SDGs. We recommend how these results can be used to prioritize goals and measurement efforts to create more meaningful and useful measures of sustainable wellbeing.

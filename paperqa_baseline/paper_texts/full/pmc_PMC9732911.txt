@@ -1,0 +1,9 @@
+Title: USP7 substrates identified by proteomics analysis reveal the specificity of USP7
+Authors: Litong Nie, Chao Wang, Xiaoguang Liu, Hongqi Teng, Siting Li, Min Huang, Xu Feng, Guangsheng Pei, Qinglei Hang, Zhongming Zhao, Boyi Gan, Li Ma, Junjie Chen
+Year: 2022
+Venue: Genes & Development
+DOI: 10.1101/gad.349848.122
+Paper ID: pmc_PMC9732911
+
+Abstract:
+In this study, Nie et al. performed proteome profiling with label-free quantification in control and single/double-KO cells of USP7 and its closest homolog, USP47, and for the first time revealed the proteome changes caused by USP7 and/or USP47 depletion. Their proteome-wide analysis uncovered potential USP7 substrates, which provides a resource for further functional studies. Deubiquitylating enzymes (DUBs) remove ubiquitin chains from proteins and regulate protein stability and function. USP7 is one of the most extensively studied DUBs, since USP7 has several well-known substrates important for cancer progression, such as MDM2, N-MYC, and PTEN. Thus, USP7 is a promising drug target. However, systematic identification of USP7 substrates has not yet been performed. In this study, we carried out proteome profiling with label-free quantification in control and single/double-KO cells of USP7 and its closest homolog, USP47 . Our proteome profiling for the first time revealed the proteome changes caused by USP7 and/or USP47 depletion. Combining protein profiling, transcriptome analysis, and tandem affinity purification of USP7-associated proteins, we compiled a list of 20 high-confidence USP7 substrates that includes known and novel USP7 substrates. We experimentally validated MGA and PHIP as new substrates of USP7. We further showed that MGA deletion reduced cell proliferation, similar to what was observed in cells with USP7 deletion. In conclusion, our proteome-wide analysis uncovered potential USP7 substrates, providing a resource for further functional studies.

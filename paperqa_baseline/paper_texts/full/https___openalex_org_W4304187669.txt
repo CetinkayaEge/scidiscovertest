@@ -1,0 +1,9 @@
+Title: Innovation in SMEs, AI Dynamism, and Sustainability: The Current Situation and Way Forward
+Authors: Ranjan Chaudhuri, Sheshadri Chatterjee, Demetris Vrontis, Sumana Chaudhuri
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912760
+Paper ID: https://openalex.org/W4304187669
+
+Abstract:
+The purpose of this study is to examine artificial intelligence (AI) dynamism and its impact on sustainability of firms, including small and medium enterprises (SMEs). In addition, this study investigates the moderating effects of technological and leadership support for AI technology deployment and sustainability for manufacturing and production firms. We developed a theoretical model through the lenses of expectation disconfirmation theory (EDT), technology–trust–fit (TTF) theory, contingency theory, and the knowledge contained in the existing literature. We tested the proposed theoretical model using factor-based PLS-SEM technique by analyzing data from 343 managers of SMEs. The findings of this study demonstrate that organizational characteristics, situational characteristics, technological characteristics, and individual characteristics all impacted SMEs’ deployment of AI technologies for the purpose of achieving sustainability, with technological and leadership support acting as moderators.

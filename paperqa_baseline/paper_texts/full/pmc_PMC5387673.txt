@@ -1,0 +1,9 @@
+Title: Optimization and Application of Direct Infusion Nanoelectrospray HRMS Method for Large-Scale Urinary Metabolic Phenotyping in Molecular Epidemiology
+Authors: Elena Chekmeneva, Gonçalo dos Santos Correia, Queenie Chan, Anisha Wijeyesekera, Adrienne Tin, Jeffery Hunter Young, Paul Elliott, Jeremy K. Nicholson, Elaine Holmes
+Year: 2017
+Venue: Journal of Proteome Research
+DOI: 10.1021/acs.jproteome.6b01003
+Paper ID: pmc_PMC5387673
+
+Abstract:
+Large-scale metabolic profiling requires the development of novel economical high-throughput analytical methods to facilitate characterization of systemic metabolic variation in population phenotypes. We report a fit-for-purpose direct infusion nanoelectrospray high-resolution mass spectrometry (DI-nESI-HRMS) method with time-of-flight detection for rapid targeted parallel analysis of over 40 urinary metabolites. The newly developed 2 min infusion method requires <10 μL of urine sample and generates high-resolution MS profiles in both positive and negative polarities, enabling further data mining and relative quantification of hundreds of metabolites. Here we present optimization of the DI-nESI-HRMS method in a detailed step-by-step guide and provide a workflow with rigorous quality assessment for large-scale studies. We demonstrate for the first time the application of the method for urinary metabolic profiling in human epidemiological investigations. Implementation of the presented DI-nESI-HRMS method enabled cost-efficient analysis of >10 000 24 h urine samples from the INTERMAP study in 12 weeks and >2200 spot urine samples from the ARIC study in <3 weeks with the required sensitivity and accuracy. We illustrate the application of the technique by characterizing the differences in metabolic phenotypes of the USA and Japanese population from the INTERMAP study.

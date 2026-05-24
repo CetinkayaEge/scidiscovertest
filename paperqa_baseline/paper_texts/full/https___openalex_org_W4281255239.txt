@@ -1,0 +1,9 @@
+Title: Does Reshoring Affect the Resilience and Sustainability of Supply Chain Networks? The Cases of Apple and Jaguar Land Rover
+Authors: Nishat Alam Choudhary, M. Ramkumar, Tobias Schoenherr, Nripendra P. Rana, Yogesh K. Dwivedi
+Year: 2022
+Venue: British Journal of Management
+DOI: https://doi.org/10.1111/1467-8551.12614
+Paper ID: https://openalex.org/W4281255239
+
+Abstract:
+Abstract Extending the notion that reshoring can have a significant impact on a firm's supply network owing to the associated location decisions, we explore how reshoring influences the resilience and sustainability of a focal firm's supply network. While reshoring is triggered by aspects related to both the home (domestic) and the host (foreign) country, frequently more favourable aspects in the home country lead to the reshoring decision. To investigate these dynamics, we construct two large‐scale networks consisting of 2066 and 1283 firms, respectively, capturing the supply networks of Apple and Jaguar Land Rover. Both networks have been experiencing the reshoring of previously foreign suppliers to domestic locations. Our investigation captures the network dynamics created by this relocation of tier 1 suppliers for the overall supply chain network, that is, also for higher‐tier/sub‐tier suppliers. The results reveal, contrary to our expectations, that indirect (sub‐tier) foreign suppliers positively influence the network's resilience, with this impact, however, being negatively moderated by their degree centrality, that is, the number of ties a node possesses. In addition, existing indirect (sub‐tier) domestic suppliers do not have a significant influence on the resilience of the network. No evidence was found for the impact of reshoring on sustainability. Overall, our study contributes to the reshoring literature by delineating its influence on both the resilience and the sustainability of a focal firm's supply chain network.

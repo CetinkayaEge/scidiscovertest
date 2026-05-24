@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and Machine Learning for Sustainable Manufacturing: Current Trends and Future Prospects
+Authors: Vishnu Vijay Kumar, Khaled Shahin
+Year: 2025
+Venue: Intelligent and sustainable manufacturing
+DOI: https://doi.org/10.70322/ism.2025.10002
+Paper ID: https://openalex.org/W4406360838
+
+Abstract:
+Artificial Intelligence (AI) and Machine Learning (ML) are transforming manufacturing processes, offering unprecedented opportunities to enhance sustainability and environmental stewardship. This comprehensive review analyzes the transformative impact of AI technologies on sustainable manufacturing, focusing on critical applications, including energy optimization, predictive maintenance, waste reduction, and circular economy implementation. Through systematic analysis of current research and industry practices, the study examines both the opportunities and challenges in deploying AI-driven solutions for sustainable manufacturing. The findings provide strategic insights for researchers, industry practitioners, and policymakers working towards intelligent and sustainable manufacturing systems while elucidating emerging trends and future directions in this rapidly evolving field.

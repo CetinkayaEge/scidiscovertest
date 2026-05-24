@@ -1,0 +1,9 @@
+Title: Sustainable Virtual Reality Patient Rehabilitation Systems with IoT Sensors Using Virtual Smart Cities
+Authors: Moustafa M. Nasralla
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094716
+Paper ID: https://openalex.org/W3155200702
+
+Abstract:
+To develop sustainable rehabilitation systems, these should consider common problems on IoT devices such as low battery, connection issues and hardware damages. These should be able to rapidly detect any kind of problem incorporating the capacity of warning users about failures without interrupting rehabilitation services. A novel methodology is presented to guide the design and development of sustainable rehabilitation systems focusing on communication and networking among IoT devices in rehabilitation systems with virtual smart cities by using time series analysis for identifying malfunctioning IoT devices. This work is illustrated in a realistic rehabilitation simulation scenario in a virtual smart city using machine learning on time series for identifying and anticipating failures for supporting sustainability.

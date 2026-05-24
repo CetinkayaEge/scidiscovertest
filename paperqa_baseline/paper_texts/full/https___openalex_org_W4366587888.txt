@@ -1,0 +1,9 @@
+Title: Virtual and Augmented Reality for Environmental Sustainability: A Systematic Review
+Authors: Laura Diana Cosio, Oğuz Buruk, Daniel Fernández Galeote, Isak de Villiers Bosman, Juho Hamari
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.1145/3544548.3581147
+Paper ID: https://openalex.org/W4366587888
+
+Abstract:
+In recent years, extended reality (XR) technology has seen a rise in use in environmental subjects, i.e., climate change or biodiversity loss, as a potential tool to inform and engage the public with current and future environmental issues. However, research on the potential of XR technology for environmental sustainability is still in the early stages, and there is no clear synthesis of the methods studied in this field. To provide a clearer view of existing approaches and research objectives, we systematically reviewed current literature dealing with XR use in environmental topics. Although the results indicate that the volume of literature exploring XR in environmental applications is increasing, empirical evidence of its impact is limited, hindering the possibility of presently drawing significant conclusions on its potential benefits. Based on our analyses, we identified thematic, theoretical, and methodological knowledge gaps and provide a guideline to aid future research in the field.

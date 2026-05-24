@@ -1,0 +1,9 @@
+Title: Eliciting Expressions of Emotion: An Exploratory Analysis of Alexithymia in Adults with Autism Utilising the APRQ
+Authors: Christian Ryan, Stephen Cogan
+Year: 2022
+Venue: Journal of Autism and Developmental Disorders
+DOI: 10.1007/s10803-022-05508-z
+Paper ID: pmc_PMC10229731
+
+Abstract:
+This study examined alternative methods for detecting alexithymia to the Toronto Alexithymia Scale—20 (TAS-20) by comparing the emotional linguistic performance of ASD and NT samples (n = 32 in each) on the Alexithymia Provoked Responses Questionnaire (APRQ). We utilised both the LIWC and tidytext approaches to linguistic analysis. The results indicate the ASD sample used significantly fewer affective words in response to emotionally stimulating scenarios and had less emotional granularity. Affective word use was correlated with ASD symptomatology but not with TAS-20 scores, suggesting that some elements of alexithymia are not well detected by the TAS-20 alone. The APRQ, in combination with the tidytext package, offers significant potential for sophisticated exploration of emotional expression in ASD.

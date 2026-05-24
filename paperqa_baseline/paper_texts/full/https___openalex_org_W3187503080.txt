@@ -1,0 +1,9 @@
+Title: Machine Learning for Sustainable Energy Systems
+Authors: Priya L. Donti, J. Zico Kolter
+Year: 2021
+Venue: Annual Review of Environment and Resources
+DOI: https://doi.org/10.1146/annurev-environ-020220-061831
+Paper ID: https://openalex.org/W3187503080
+
+Abstract:
+In recent years, machine learning has proven to be a powerful tool for deriving insights from data. In this review, we describe ways in which machine learning has been leveraged to facilitate the development and operation of sustainable energy systems. We first provide a taxonomy of machine learning paradigms and techniques, along with a discussion of their strengths and limitations. We then provide an overview of existing research using machine learning for sustainable energy production, delivery, and storage. Finally, we identify gaps in this literature, propose future research directions, and discuss important considerations for deployment.

@@ -1,0 +1,9 @@
+Title: Drone Forensics and Machine Learning: Sustaining the Investigation Process
+Authors: Zubair Baig, Majid Ali Khan, Nazeeruddin Mohammad, Ghassen Ben Brahim
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14084861
+Paper ID: https://openalex.org/W4224244535
+
+Abstract:
+Drones have been increasingly adopted to address several critical challenges faced by humanity to provide support and convenience . The technological advances in the broader domains of artificial intelligence and the Internet of Things (IoT) as well as the affordability of off-the-shelf devices, have facilitated modern-day drone use. Drones are readily available for deployment in hard to access locations for delivery of critical medical supplies, for surveillance, for weather data collection and for home delivery of purchased goods. Whilst drones are increasingly beneficial to civilians, they have also been used to carry out crimes. We present a survey of artificial intelligence techniques that exist in the literature in the context of processing drone data to reveal criminal activity. Our contribution also comprises the proposal of a novel model to adopt the concepts of machine learning for classification of drone data as part of a digital forensic investigation. Our main conclusions include that properly trained machine-learning models hold promise to enable an accurate assessment of drone data obtained from drones confiscated from a crime scene. Our research work opens the door for academics and industry practitioners to adopt machine learning to enable the use of drone data in forensic investigations.

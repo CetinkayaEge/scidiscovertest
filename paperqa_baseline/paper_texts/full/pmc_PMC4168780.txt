@@ -1,0 +1,9 @@
+Title: Fast and Sequence-Specific Palladium-Mediated Cross-Coupling Reaction Identified from Phage Display
+Authors: Reyna K. V. Lim, Nan Li, Carlo P. Ramil, Qing Lin
+Year: 2014
+Venue: ACS Chemical Biology
+DOI: 10.1021/cb500443x
+Paper ID: pmc_PMC4168780
+
+Abstract:
+Fast and specific bioorthogonal reactions are highly desirable because they provide efficient tracking of biomolecules that are present in low abundance and/or involved in fast dynamic process in living systems. Toward this end, classic strategy involves the optimization of substrate structures and reaction conditions in test tubes, testing their compatibility with biological systems, devising synthetic biology schemes to introduce the modified substrates into living cells or organisms, and finally validating the superior kinetics for enhanced capacity in tracking biomolecules in vivo —a lengthy process often mired by unexpected results. Here, we report a streamlined approach in which the “microenvironment” of a bioorthogonal chemical reporter is exploited directly in biological systems via phage-assisted interrogation of reactivity (PAIR) to optimize not only reaction kinetics but also specificity. Using the PAIR strategy, we identified a short alkyne-containing peptide sequence showing fast kinetics ( k 2 = 13 000 ± 2000 M –1 s –1 ) in a palladium-mediated cross-coupling reaction. Site-directed mutagenesis studies suggested that the residues surrounding the alkyne moiety facilitate the assembly of a key palladium–alkyne intermediate along the reaction pathway. When this peptide sequence was inserted into the extracellular domain of epidermal growth factor receptor (EGFR), this reactive sequence directed the specific labeling of EGFR in live mammalian cells.

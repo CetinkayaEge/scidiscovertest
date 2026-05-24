@@ -1,0 +1,9 @@
+Title: The Neuronal-Specific SGK1.1 (SGK1_v2) Kinase as a Transcriptional Modulator of BAG4 , Brox , and PPP1CB Genes Expression
+Authors: Rebeca González-Fernández, Julio Ávila, María F. Arteaga, Cecilia M. Canessa, Pablo Martín-Vasallo
+Year: 2015
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms16047462
+Paper ID: pmc_PMC4425028
+
+Abstract:
+The Serum- and Glucocorticoid-induced Kinase 1, SGK1, exhibits a broad range of cellular functions that include regulation of the number of ion channels in plasma membrane and modulation of signaling pathways of cell survival. This diversity of functions is made possible by various regulatory processes acting upon the SGK1 gene, giving rise to various isoforms: SGK1_v1–5, each with distinct properties and distinct aminotermini that serve to target proteins to different subcellular compartments. Among cellular effects of SGK1 expression is to indirectly modulate gene transcription by phosphorylating transcriptional factors of the FOXO family. Here we examined if SGK1.1 (SGK1_v2; NM_001143676 ), which associates primarily to the plasma membrane, is also able to regulate gene expression. Using a differential gene expression approach we identified six genes upregulated by SGK1.1 in HeLa cells. Further analysis of transcript and protein levels validated two genes: BCL2-associated athanogene 4 ( BAG-4 ) and Brox . The results indicate that SGK1.1 regulates gene transcription upon a different set of genes some of which participate in cell survival pathways ( BAG-4 ) and others in intracellular vesicular traffic ( Brox ).

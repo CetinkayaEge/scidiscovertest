@@ -1,0 +1,9 @@
+Title: Immunophenotypic correlates of sustained MRD negativity in patients with multiple myeloma
+Authors: David G. Coffey, Francesco Maura, Edgar Gonzalez‐Kozlova, J. Javier Díaz-Mejía, Ping Luo, Yong Zhang, Yuexin Xu, Edus H. Warren, Travis Dawson, Brian Hyohyoung Lee, Hui Xie, Eric L. Smith, Amanda Ciardiello, Hearn Jay Cho, Adeeb Rahman, Seunghee Kim‐Schulze, Benjamin Diamond, Alexander M. Lesokhin, Dickran Kazandjian, Trevor J. Pugh, Damian J. Green, Sacha Gnjatic, Ola Landgren
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-40966-8
+Paper ID: https://openalex.org/W4386390606
+
+Abstract:
+The role of the immune microenvironment in maintaining disease remission in patients with multiple myeloma (MM) is not well understood. In this study, we comprehensively profile the immune system in patients with newly diagnosed MM receiving continuous lenalidomide maintenance therapy with the aim of discovering correlates of long-term treatment response. Leveraging single-cell RNA sequencing and T cell receptor β sequencing of the peripheral blood and CyTOF mass cytometry of the bone marrow, we longitudinally characterize the immune landscape in 23 patients before and one year after lenalidomide exposure. We compare patients achieving sustained minimal residual disease (MRD) negativity to patients who never achieved or were unable to maintain MRD negativity. We observe that the composition of the immune microenvironment in both the blood and the marrow varied substantially according to both MRD negative status and history of autologous stem cell transplant, supporting the hypothesis that the immune microenvironment influences the depth and duration of treatment response.

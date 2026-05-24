@@ -1,0 +1,9 @@
+Title: A two-stage stochastic variational inequality model for storage and dynamic distribution of medical supplies in epidemic management
+Authors: Min Li, Chao Zhang, Mingxv Ding, Ruipu Lv
+Year: 2022
+Venue: Applied Mathematical Modelling
+DOI: 10.1016/j.apm.2021.09.033
+Paper ID: pmc_PMC8494524
+
+Abstract:
+The storage and distribution of medical supplies are important parts of epidemic prevention and control. This paper first proposes a new nonsmooth two-stage stochastic equilibrium model of medical supplies in epidemic management. The first stage addresses the storage in the pre-disaster phase, and the second stage focuses on the dynamic distribution by enrolling competitions among multiple hospitals over a period of time in the post-disaster phase. The uncertainties are the numbers of infected people treated in multiple hospitals during the period of time, which are time-varying around a nominal distribution predicted by historical experience. The two-stage stochastic equilibrium model is further approximated and transformed to a monotone two-stage stochastic variational inequality (SVI) model that is computationally tractable, with the aid of a smooth approximation technique. We employ the progressive hedging method (PHM) to solve a case study in the city of Wuhan in China suffered from the COVID-19 pandemic. Numerical results are presented to demonstrate the effectiveness of the proposed model in planning the storage and dynamic distribution of medical supplies in epidemic management.

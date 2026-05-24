@@ -1,0 +1,9 @@
+Title: Sustainable Banking, Market Power, and Efficiency: Effects on Banks’ Profitability and Risk
+Authors: Begoña Torre Olmo, María Cantero Sáiz, Sergio Sanfilippo Azofra
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031298
+Paper ID: https://openalex.org/W3121795186
+
+Abstract:
+The financial crisis seriously damaged the reputation of the banking sector, as well as its profitability and risk of insolvency, which led many banks to adopt a sustainable approach aimed at balancing long-term goals with short-term performance pressures. This article analyses how sustainable banking practices affect the profitability and the insolvency risk of banks. Moreover, we examine how sustainable strategies determine the effects of market power and efficiency on bank profitability. We used a two-step System-GMM to analyze an unbalanced panel of 1236 banks from 48 countries over the period 2015–2019. We found that sustainable banking practices increased profitability, and market power was an important determinant of profitability among conventional banks, but not among sustainable banks. Higher levels of cost scale efficiency led to greater profitability for both sustainable and conventional banks. However, there was no significant relationship between sustainable banking and insolvency risk. These results indicate that the traditional determinants of bank profitability are not relevant in explaining the superior profits of sustainable banks, which suggests the emergence of a new paradigm related to sustainability among the drivers of bank profitability.

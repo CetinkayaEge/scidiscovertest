@@ -1,0 +1,9 @@
+Title: Reducing Iron Oxide with Ammonia: A Sustainable Path to Green Steel
+Authors: Yan Ma, Jae Wung Bae, Se‐Ho Kim, Matic Jovičević‐Klug, Kejiang Li, Dirk Vogel, Dirk Ponge, Michael Rohwerder, Baptiste Gault, Dierk Raabe
+Year: 2023
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202300111
+Paper ID: https://openalex.org/W4361269796
+
+Abstract:
+Iron making is the biggest single cause of global warming. The reduction of iron ores with carbon generates about 7% of the global carbon dioxide emissions to produce ≈1.85 billion tons of steel per year. This dramatic scenario fuels efforts to re-invent this sector by using renewable and carbon-free reductants and electricity. Here, the authors show how to make sustainable steel by reducing solid iron oxides with hydrogen released from ammonia. Ammonia is an annually 180 million ton traded chemical energy carrier, with established transcontinental logistics and low liquefaction costs. It can be synthesized with green hydrogen and release hydrogen again through the reduction reaction. This advantage connects it with green iron making, for replacing fossil reductants. the authors show that ammonia-based reduction of iron oxide proceeds through an autocatalytic reaction, is kinetically as effective as hydrogen-based direct reduction, yields the same metallization, and can be industrially realized with existing technologies. The produced iron/iron nitride mixture can be subsequently melted in an electric arc furnace (or co-charged into a converter) to adjust the chemical composition to the target steel grades. A novel approach is thus presented to deploying intermittent renewable energy, mediated by green ammonia, for a disruptive technology transition toward sustainable iron making.

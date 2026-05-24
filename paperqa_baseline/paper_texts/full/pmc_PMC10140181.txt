@@ -1,0 +1,9 @@
+Title: Glycolipid transfer protein knockout disrupts vesicle trafficking to the plasma membrane
+Authors: Henrik Nurmi, Anders P.E. Backman, Josefin Halin, Max Lönnfors, Tomas Blom, Pia Roos-Mattjus, Peter Mattjus
+Year: 2023
+Venue: The Journal of Biological Chemistry
+DOI: 10.1016/j.jbc.2023.104607
+Paper ID: pmc_PMC10140181
+
+Abstract:
+The glycolipid transfer protein (GLTP) has been linked to many cellular processes aside from its best-known in vitro function as a lipid transport protein. It has been proposed to act as a sensor and regulator of glycosphingolipid homeostasis in cells. Furthermore, through its previously determined interaction with the endoplasmic reticulum membrane protein VAP-A (vesicle-associated membrane protein-associated protein A), GLTP may also be involved in facilitating vesicular transport in cells. In this study, we characterized the phenotype of CRISPR/Cas9-mediated GLTP KO HeLa cells. We showed that motility, three-dimensional growth, and cellular metabolism were all altered by GLTP knockout. Expression of a GLTP mutant incapable of binding VAP disrupted cell spheroid formation, indicating that the GLTP–VAP interaction is linked to cellular adhesion, cohesion, and three-dimensional growth. Most notably, we found evidence that GLTP, through its interaction with VAP-A, affects vesicular trafficking, marking the first cellular process discovered to be directly impacted by a change in GLTP expression.

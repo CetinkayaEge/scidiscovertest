@@ -1,0 +1,9 @@
+Title: Endogenous retroviruses and TDP-43 proteinopathy form a sustaining feedback driving intercellular spread of Drosophila neurodegeneration
+Authors: Yung‐Heng Chang, Josh Dubnau
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-36649-z
+Paper ID: https://openalex.org/W4321446819
+
+Abstract:
+Inter-cellular movement of "prion-like" proteins is thought to explain propagation of neurodegeneration between cells. For example, propagation of abnormally phosphorylated cytoplasmic inclusions of TAR-DNA-Binding protein (TDP-43) is proposed to underlie progression of amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). But unlike transmissible prion diseases, ALS and FTD are not infectious and injection of aggregated TDP-43 is not sufficient to cause disease. This suggests a missing component of a positive feedback necessary to sustain disease progression. We demonstrate that endogenous retrovirus (ERV) expression and TDP-43 proteinopathy are mutually reinforcing. Expression of either Drosophila mdg4-ERV (gypsy) or the human ERV, HERV-K (HML-2) are each sufficient to stimulate cytoplasmic aggregation of human TDP-43. Viral ERV transmission also triggers TDP-43 pathology in recipient cells that express physiological levels of TDP-43, whether they are in contact or at a distance. This mechanism potentially underlies the TDP-43 proteinopathy-caused neurodegenerative propagation through neuronal tissue.

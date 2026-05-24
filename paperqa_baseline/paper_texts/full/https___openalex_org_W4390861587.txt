@@ -1,0 +1,9 @@
+Title: Environmental-economic sustainability of hydrogen and ammonia fuels for short sea shipping operations
+Authors: Panagiotis Karvounis, Γεράσιμος Θεοτοκάτος, Evangelos Boulougouris
+Year: 2024
+Venue: International Journal of Hydrogen Energy
+DOI: https://doi.org/10.1016/j.ijhydene.2024.01.058
+Paper ID: https://openalex.org/W4390861587
+
+Abstract:
+Alternative fuels of low or zero carbon content can decarbonise the shipping operations. This study aims at assessing the lifetime environmental-economic sustainability of ammonia and hydrogen, as alternatives to diesel fuel for short sea shipping cargo vessels. A model is employed to calculate key performance indicators representing the lifetime financial sustainability and environmental footprint of the case ship using a realistic operating profile and considering several scenarios with different diesel substitution rates. Scenarios meeting the carbon emissions reduction targets set by the International Maritime Organisation (IMO) for 2030 are identified, whereas policy measures for their implementation including the emissions taxation are discussed. The derived results demonstrate that the future implementation of carbon emissions taxation in the ranges of 136–965 €/t for hydrogen and 356–2647 €/t for ammonia can support these fuels financial sustainability in shipping. This study provides insights for adopting zero-carbon fuels, and as such impacts the de-risking of shipping decarbonisation.

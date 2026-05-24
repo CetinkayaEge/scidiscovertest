@@ -1,0 +1,9 @@
+Title: Genetically encoded non‐canonical amino acids reveal asynchronous dark reversion of chromophore, backbone, and side‐chains in EL222
+Authors: Aditya S. Chaudhari, Aditi Chatterjee, Catarina A. O. Domingos, Prokopis C. Andrikopoulos, Yingliang Liu, Inger Andersson, Bohdan Schneider, Víctor A. Lórenz‐Fonfría, Gustavo Fuertes
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4590
+Paper ID: pmc_PMC10019195
+
+Abstract:
+Abstract Photoreceptors containing the light‐oxygen‐voltage (LOV) domain elicit biological responses upon excitation of their flavin mononucleotide (FMN) chromophore by blue light. The mechanism and kinetics of dark‐state recovery are not well understood. Here we incorporated the non‐canonical amino acid p ‐cyanophenylalanine (CNF) by genetic code expansion technology at 45 positions of the bacterial transcription factor EL222. Screening of light‐induced changes in infrared (IR) absorption frequency, electric field and hydration of the nitrile groups identified residues CNF31 and CNF35 as reporters of monomer/oligomer and caged/decaged equilibria, respectively. Time‐resolved multi‐probe UV/visible and IR spectroscopy experiments of the lit‐to‐dark transition revealed four dynamical events. Predominantly, rearrangements around the A'α helix interface (CNF31 and CNF35) precede FMN‐cysteinyl adduct scission, folding of α‐helices (amide bands), and relaxation of residue CNF151. This study illustrates the importance of characterizing all parts of a protein and suggests a key role for the N‐terminal A'α extension of the LOV domain in controlling EL222 photocycle length.

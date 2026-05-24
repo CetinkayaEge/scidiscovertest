@@ -1,0 +1,9 @@
+Title: The Effect of Watermelon Juice Supplementation on Heart Rate Variability and Metabolic Response during an Oral Glucose Challenge: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial
+Authors: Rachel Matthews, Kate S. Early, Cullen M. Vincellette, Jack Losso, Guillaume Spielmann, Brian A. Irving, Timothy D. Allerton
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15040810
+Paper ID: pmc_PMC9967111
+
+Abstract:
+Heart rate variability (HRV) provides a simple method to evaluate autonomic function in health and disease. A reduction in HRV may indicate autonomic dysfunction and is strongly associated with aspects of cardiometabolic disease, including hyperglycemia. Reduced nitric oxide (NO) bioavailability is also implicated in the development of cardiometabolic disease and autonomic dysfunction. Watermelons are natural sources of L-arginine and L-citrulline, substrates used for NO synthesis. Watermelon consumption can improve NO bioavailability. We conducted a randomized, double-blind, placebo-controlled crossover trial to test the effects of 2 weeks of daily watermelon juice (WMJ) supplementation on HRV in response to an oral glucose challenge (OGC) in healthy young adults. We also performed indirect calorimetry to assess if our intervention altered the metabolic response to the OGC. WMJ supplementation preserved high-frequency power (HF) (treatment effect, p = 0.03) and the percentage of successive differences that differ by more than 50 ms (pNN50) (treatment effect, p = 0.009) when compared to the placebo treatment. There was no difference in resting energy expenditure or substate oxidation according to treatment. We report that WMJ supplementation attenuates OGC-induced reductions in HRV. Future work should emphasize the importance of NO bioavailability in autonomic dysfunction in cardiometabolic disease.

@@ -1,0 +1,9 @@
+Title: Constrained Sintering in Fabrication of Solid Oxide Fuel Cells
+Authors: Hae-Weon Lee, Mansoo Park, Jongsup Hong, Hyoungchul Kim, Kyung Joong Yoon, Ji-Won Son, Jong-Ho Lee, Byung-Kook Kim
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080675
+Paper ID: pmc_PMC5510732
+
+Abstract:
+Solid oxide fuel cells (SOFCs) are inevitably affected by the tensile stress field imposed by the rigid substrate during constrained sintering, which strongly affects microstructural evolution and flaw generation in the fabrication process and subsequent operation. In the case of sintering a composite cathode, one component acts as a continuous matrix phase while the other acts as a dispersed phase depending upon the initial composition and packing structure. The clustering of dispersed particles in the matrix has significant effects on the final microstructure, and strong rigidity of the clusters covering the entire cathode volume is desirable to obtain stable pore structure. The local constraints developed around the dispersed particles and their clusters effectively suppress generation of major process flaws, and microstructural features such as triple phase boundary and porosity could be readily controlled by adjusting the content and size of the dispersed particles. However, in the fabrication of the dense electrolyte layer via the chemical solution deposition route using slow-sintering nanoparticles dispersed in a sol matrix, the rigidity of the cluster should be minimized for the fine matrix to continuously densify, and special care should be taken in selecting the size of the dispersed particles to optimize the thermodynamic stability criteria of the grain size and film thickness. The principles of constrained sintering presented in this paper could be used as basic guidelines for realizing the ideal microstructure of SOFCs.

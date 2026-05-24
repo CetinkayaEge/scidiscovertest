@@ -1,0 +1,9 @@
+Title: Classifications of Sustainable Factors in Blockchain Adoption: A Literature Review and Bibliometric Analysis
+Authors: Ammar AL-Ashmori, Shuib Basri, P.D.D. Dominic, Luiz Fernando Capretz, Amgad Muneer, Abdullateef Oluwagbemiga Balogun, Abdul Rehman Gilal, Rao Faizan Ali
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14095176
+Paper ID: https://openalex.org/W4224435150
+
+Abstract:
+Blockchain is a cutting-edge technology that is transforming and reshaping many industries. Hence, the adoption of Blockchain is becoming an increasingly significant topic. The number of publications discussing the potential of Blockchain adoption has been expanding significantly. In addition, not enough attention has been given to Blockchain adoption in the software development industry. As a result, a systematic overview to investigate the research trends in this area is needed. This study uses a Scientometric analysis and critical review to examine the evolution of Blockchain adoption research on the Web of Science Principal Collection. In addition, a systematic literature review (SLR) was conducted to identify gaps in Blockchain adoption research and the top reasons for adopting Blockchain with the intention of proposing a sustainable adoption framework. This study extends the body of knowledge by discussing the most influential countries, authors, organizations, publication themes, and most cited publications on Blockchain adoption research. Additionally, this study identifies the 30 relevant studies from the Web of Science and Scopus, including their industries, countries, methods, and respondent sample size, and the top 18 adoption factors among them. Consequently, this study proposes a suitable Blockchain adoption framework based on these top 18 factors. Finally, this study’s aim and unique contribution is to serve as an initial launching point for upcoming Blockchain adoption in software development industry research.

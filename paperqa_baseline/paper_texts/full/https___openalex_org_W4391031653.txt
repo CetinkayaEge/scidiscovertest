@@ -1,0 +1,9 @@
+Title: Tea‐Derived Sustainable Materials
+Authors: Qishan He, Huixin Chen, Xing Chen, Juanjuan Zheng, Lan‐Fang Que, Fu‐Da Yu, Junhui Zhao, Yiming Xie, Miaoliang Huang, Can‐Zhong Lu, Jiashen Meng, Xingcai Zhang
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202310226
+Paper ID: https://openalex.org/W4391031653
+
+Abstract:
+Abstract The practical application of hard carbon in sodium‐ion batteries is limited by insufficient reversible capacity and low initial Coulombic efficiency (ICE), which are caused by the lack of active sites and unstable electrode/electrolyte interface. Herein, a biomass‐derived hard carbon material based on tea stems is proposed, which exhibits an ultrahigh ICE of 90.8%. This remarkable ICE is attributed to the presence of an inorganic‐rich, thin, and robust solid electrolyte interface (SEI) layer. Furthermore, the material demonstrates excellent cycling stability, showing a capacity retention of 99.5% after 500 cycles at 280 mA g −1 . Additionally, when it works as the anode material in a sodium‐ion full cell without presodiation, it reaches a high energy density of 212 Wh kg −1 and a superior stability, e.g., retaining 93.1 mAh g −1 after 1000 cycles at 1 A g −1 with a capacity retention of 91.3%. The sodium storage capacity of this material is primarily attributed to a combined adsorption‐intercalation/filling effect as confirmed by in situ XRD and ex situ Raman analyses. These findings make this biomass‐derived hard carbon material a promising candidate for commercial application of sodium‐ion batteries, achieving high performance at low cost.

@@ -1,0 +1,9 @@
+Title: Sustainable Point of View: Life Cycle Analysis for Green Extraction Technologies
+Authors: Bahar Aslanbay Güler, Ugur Tepe, Esra İmamoğlu
+Year: 2024
+Venue: ChemBioEng Reviews
+DOI: https://doi.org/10.1002/cben.202300056
+Paper ID: https://openalex.org/W4390685150
+
+Abstract:
+Abstract Microalgae have emerged as a promising source of renewable energy and natural bioproducts since they show high biomass productivity, offer carbon dioxide fixation, and exhibit a rich content of compounds. Recent efforts have focused on green extraction technologies that utilize green solvents to further promote sustainability and minimize the environmental impact of the microalgal process. At this point, life cycle analysis (LCA) provides valuable insights into the environmental impacts of specific products and techniques. A comprehensive overview of the life cycle environmental and energy assessments conducted for the extraction of metabolites from microalgae is presented. Special attention is given to using green extraction technologies, i.e., supercritical fluid extraction, pressurized liquid extraction, microwave‐assisted extraction, ultrasound‐assisted extraction, and pulsed‐electric field extraction, and solvents to ensure sustainability. Additionally, the main principles, historical development, tools, and challenges of LCA are discussed. By addressing these aspects, the paper attracts attention to the environmental impacts associated with green extraction techniques for obtaining microalgal metabolites.

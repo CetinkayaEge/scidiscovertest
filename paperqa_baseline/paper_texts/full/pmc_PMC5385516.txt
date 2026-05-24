@@ -1,0 +1,9 @@
+Title: Prediction of the potential geographic distribution of the ectomycorrhizal mushroom Tricholoma matsutake under multiple climate change scenarios
+Authors: Yanlong Guo, Xin Li, Zefang Zhao, Haiyan Wei, Bei Gao, Wei Gu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46221
+Paper ID: pmc_PMC5385516
+
+Abstract:
+Effective conservation and utilization strategies for natural biological resources require a clear understanding of the geographic distribution of the target species. Tricholoma matsutake is an ectomycorrhizal (ECM) mushroom with high ecological and economic value. In this study, the potential geographic distribution of T. matsutake under current conditions in China was simulated using MaxEnt software based on species presence data and 24 environmental variables. The future distributions of T. matsutake in the 2050s and 2070s were also projected under the RCP 8.5, RCP 6, RCP 4.5 and RCP 2.6 climate change emission scenarios described in the Special Report on Emissions Scenarios (SRES) by the Intergovernmental Panel on Climate Change (IPCC). The areas of marginally suitable, suitable and highly suitable habitats for T. matsutake in China were approximately 0.22 × 10 6 km 2 , 0.14 × 10 6 km 2 , and 0.11 × 10 6 km 2 , respectively. The model simulations indicated that the area of marginally suitable habitats would undergo a relatively small change under all four climate change scenarios; however, suitable habitats would significantly decrease, and highly suitable habitat would nearly disappear. Our results will be influential in the future ecological conservation and management of T. matsutake and can be used as a reference for studies on other ectomycorrhizal mushroom species.

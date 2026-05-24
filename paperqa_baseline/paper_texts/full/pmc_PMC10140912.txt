@@ -1,0 +1,9 @@
+Title: Grape Seed Proanthocyanidins Inhibit Replication of the Dengue Virus by Targeting NF-kB and MAPK-Mediated Cyclooxygenase-2 Expression
+Authors: Wei-Chun Chen, Monir Hossen, Wangta Liu, Chia-Hung Yen, Chung-Hao Huang, Yao-Chin Hsu, Jin-Ching Lee
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15040884
+Paper ID: pmc_PMC10140912
+
+Abstract:
+Dengue virus (DENV) infection is a serious global health issue as it causes severe dengue hemorrhagic fever and dengue shock syndrome. Since no approved therapies are available to treat DENV infection, it is necessary to develop new agents or supplements that can do this. In this study, grape seed proanthocyanidins extract (GSPE), which is widely consumed as a dietary supplement, dose-dependently suppressed the replication of four DENV serotypes. The inhibitory mechanism demonstrated that GSPE downregulated DENV-induced aberrant cyclooxygenase-2 (COX-2) expression, revealing that the inhibitory effect of the GSPE on DENV replication involved targeting DENV-induced COX-2 expression. Mechanistic studies on signaling regulation have demonstrated that GSPE significantly reduced COX-2 expression by inactivating NF-κB and ERK/P38 MAPK signaling activities. Administrating GSPE to DENV-infected suckling mice reduced virus replication, mortality, and monocyte infiltration of the brain. In addition, GSPE substantially reduced the expression of DENV-induced inflammatory cytokines associated with severe dengue disease, including tumor necrosis factor-α, nitric oxide synthase, interleukin (IL)-1, IL-6, and IL-8, suggesting that GSPE has potential as a dietary supplement to attenuate DENV infection and severe dengue.

@@ -1,0 +1,9 @@
+Title: Sustainable Additive Manufacturing: An Overview on Life Cycle Impacts and Cost Efficiency of Laser Powder Bed Fusion
+Authors: Ramin Rahmani, Bashir Bashiri, Sérgio Ivan Lopes, Abrar Hussain, H.S. Maurya, Raivo Vilu
+Year: 2025
+Venue: Journal of Manufacturing and Materials Processing
+DOI: https://doi.org/10.3390/jmmp9010018
+Paper ID: https://openalex.org/W4406231998
+
+Abstract:
+This overview study investigates integrating advanced manufacturing technologies, specifically metal additive manufacturing (AM) and laser powder bed fusion (LPBF) processes, within Industry 4.0 and Industry 5.0 frameworks, to enhance sustainability and efficiency in industrial production and prototyping. The manufacturing sector, a significant contributor to global greenhouse gas emissions and resource consumption, is increasingly adopting technologies that reduce environmental impact while maintaining economic growth. Selective laser melting (SLM), as the subsection LPBF technologies, is highlighted for its capability to produce high-performance, lightweight, and complex components with minimal material waste, thus aligning with circular economy goals for metal alloys. Life cycle assessment (LCA) and life cycle costing (LCC) analyses are essential methods for evaluating the sustainability of any new technology. Sustainable technologies could support the concepts of the factory of the future (FoF), fulfilling the requirements of digital transformation and digital twins. This overview study reveals that implementing AM—specifically SLM—has the potential to reduce the environmental impact of manufacturing. It underscores the ability of these technologies to promote sustainable and efficient manufacturing practices, thereby accelerating the shift from Industry 4.0 to Industry 5.0.

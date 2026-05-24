@@ -1,0 +1,9 @@
+Title: Localized, on-demand, sustained drug delivery from biopolymer-based materials
+Authors: Junqi Wu, Sawnaz Shaidani, Sophia K. Theodossiou, Emily J. Hartzell, David L. Kaplan
+Year: 2022
+Venue: Expert Opinion on Drug Delivery
+DOI: https://doi.org/10.1080/17425247.2022.2110582
+Paper ID: https://openalex.org/W4289947497
+
+Abstract:
+INTRODUCTION: Local drug delivery facilitiates higher concentrations of drug molecules at or near the treatment site to enhance treatment efficiency and reduce drug toxicity and other systemic side effects. However, local drug delivery systems face challenges in terms of encapsulation, delivery, and controlled release of therapeutics. AREAS COVERED: We provide an overview of naturally derived biopolymer-based drug delivery systems for localized, sustained, and on-demand treatment. We introduce the advantages and limitations of these systems for drug encapsulation, delivery, and local release, as well as recent applications. EXPERT OPINION: Naturally derived biopolymers like cellulose, silk fibroin, chitosan, alginate, hyaluronic acid, and gelatin are good candidates for localized drug delivery because they are readily chemically modified, biocompatible, biodegradable (with the generation of metabolically compatible degradation products), and can be processed in aqueous and ambient environments to maintain the bioactivity of various therapeutics. The tradeoff between the effective treatment dosage and the response by local healthy tissue should be balanced during the design of these delivery systems. Future directions will be focused on strategies to design tunable and controlled biodegradation rates, as well as to explore commercial utility in substituting biopolymer-based systems for currently utilized synthetic polymers for implants for drug delivery.

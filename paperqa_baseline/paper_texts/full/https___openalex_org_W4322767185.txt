@@ -1,0 +1,9 @@
+Title: Sustained alternate-day fasting potentiates doxorubicin cardiotoxicity
+Authors: Mualla Özcan, Zhen Guo, Carla Valenzuela Ripoll, Ahmed Diab, Antonino Picataggi, David R. Rawnsley, Aynaz Lotfinaghsh, Carmen Bergom, Jeffrey J. Szymanski, Daniel Hwang, Aarti Asnani, Mikhail Kosiborod, Jie Zheng, Robert J. Hayashi, Pamela K. Woodard, Attila Kovács, Kenneth B. Margulies, Joel D. Schilling, Babak Razani, Abhinav Diwan, Ali Javaheri
+Year: 2023
+Venue: Cell Metabolism
+DOI: https://doi.org/10.1016/j.cmet.2023.02.006
+Paper ID: https://openalex.org/W4322767185
+
+Abstract:
+Fasting strategies are under active clinical investigation in patients receiving chemotherapy. Prior murine studies suggest that alternate-day fasting may attenuate doxorubicin cardiotoxicity and stimulate nuclear translocation of transcription factor EB (TFEB), a master regulator of autophagy and lysosomal biogenesis. In this study, human heart tissue from patients with doxorubicin-induced heart failure demonstrated increased nuclear TFEB protein. In mice treated with doxorubicin, alternate-day fasting or viral TFEB transduction increased mortality and impaired cardiac function. Mice randomized to alternate-day fasting plus doxorubicin exhibited increased TFEB nuclear translocation in the myocardium. When combined with doxorubicin, cardiomyocyte-specific TFEB overexpression provoked cardiac remodeling, while systemic TFEB overexpression increased growth differentiation factor 15 (GDF15) and caused heart failure and death. Cardiomyocyte TFEB knockout attenuated doxorubicin cardiotoxicity, while recombinant GDF15 was sufficient to cause cardiac atrophy. Our studies identify that both sustained alternate-day fasting and a TFEB/GDF15 pathway exacerbate doxorubicin cardiotoxicity.

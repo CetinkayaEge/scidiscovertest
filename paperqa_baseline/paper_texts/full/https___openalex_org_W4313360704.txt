@@ -1,0 +1,9 @@
+Title: Machine Learning-Based Predictive Modeling of Sustainable Lightweight Aggregate Concrete
+Authors: Fazal Hussain, Shayan Ali Khan, Rao Arsalan Khushnood, Ameer Hamza, Fazal Rehman
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010641
+Paper ID: https://openalex.org/W4313360704
+
+Abstract:
+Nowadays, lightweight aggregate concrete is becoming more popular due to its versatile properties. It mainly helps to reduce the dead loads of the structure, which ultimately reduces design load requirements. The main challenge associated with lightweight aggregate concrete is finding an optimized mix per requirements. However, the conventional material design of this composite is quite costly, time-consuming, and iterative. This research proposes a simplified methodology for the mix designing of structural and non-structural lightweight aggregate concrete by incorporating machine learning. For this purpose, five distinct machine learning algorithms, support vector machine (SVM), artificial neural network (ANN), decision tree (DT), Gaussian process of regression (GPR), and extreme gradient boosting tree (XGBoost) algorithms, were investigated. For the training, testing, and validation process, a total of 420 data points were collected from 43 published journal articles. The performance of models was evaluated based on statistical performance indicators. Overall, 11 input parameters, including ingredients of the concrete mix and aggregate properties were entertained; the only output parameter was the compressive strength of lightweight concrete. The results revealed that the GPR model outperformed the remaining four machine learning models by attaining an R2 value of 0.99, RMSE of 1.34, MSE of 1.79, and MAE of 0.69. In a nutshell, these simplified modern techniques can be employed to make the design of lightweight aggregate concrete easy without extensive experimentation.

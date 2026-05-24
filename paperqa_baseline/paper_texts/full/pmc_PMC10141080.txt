@@ -1,0 +1,9 @@
+Title: UWB Circular Fractal Antenna with High Gain for Telecommunication Applications
+Authors: Ibrahime Hassan Nejdi, Seddik Bri, Mohamed Marzouk, Sarosh Ahmad, Youssef Rhazi, Mustapha Ait Lafkih, Yawar Ali Sheikh, Adnan Ghaffar, Mousa Hussein
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084172
+Paper ID: pmc_PMC10141080
+
+Abstract:
+The present study proposes a new, highly efficient fractal antenna with ultra-wideband (UWB) characteristics. The proposed patch offers a wide simulated operating band that reaches 8.3 GHz, a simulated gain that varies between 2.47 and 7.73 dB throughout the operating range, and a high simulated efficiency that comes to 98% due to the modifications made to the antenna geometry. The modifications carried out on the antenna are composed of several stages, a circular ring extracted from a circular antenna in which four rings are integrated and, in each ring, four other rings are integrated with a reduction factor of 3/8. To further improve the adaptation of the antenna, a modification of the shape of the ground plane is carried out. In order to test the simulation results, the prototype of the suggested patch was built and tested. The measurement results validate the suggested dual ultra-wideband antenna design approach, which demonstrates good compliance with the simulation. From the measured results, the suggested antenna with a compact volume of 40 × 24.5 × 1.6 mm 3 asserts ultra-wideband operation with a measured impedance bandwidth of 7.33 GHz. A high measured efficiency of 92% and a measured gain of 6.52 dB is also achieved. The suggested UWB can effectively cover several wireless applications such as WLAN, WiMAX, and C and X bands.

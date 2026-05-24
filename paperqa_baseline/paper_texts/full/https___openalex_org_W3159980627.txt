@@ -1,0 +1,9 @@
+Title: Blockchain Technology and Sustainable Business Models: A Case Study of Devoleum
+Authors: Francesco Mercuri, Gaetano della Corte, Federica Ricci
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13105619
+Paper ID: https://openalex.org/W3159980627
+
+Abstract:
+The lack of transparency along global supply chains poses challenges in the areas of fraud, pollution, human rights abuses, and inefficiencies. In this context, the blockchain has the potential to offer an unprecedented level of transparency, with a shared and decentralized database in which immutable and encrypted copies of information are stored on every node of the network. Using a single case study methodology, this paper investigates how blockchain technology can improve and facilitate sustainable business models. The aim of this paper is to understand how blockchain technology can drive the development of sustainable business models. Recent studies show the importance of sustainability perspectives for business models. The study was conducted by applying the CAOS (“Characteristic, Ambience, Organization, Start-up”) model to a start-up operating in the agri-food sector, not yet institutionalized, called Devoleum. The results indicate that blockchain technology can increase sustainability through realizing the traceability, security, and non-manipulability of information, which are particularly useful in the agri-food sector. Furthermore, the absence of intermediaries in blockchain technology contributes to reducing transaction costs and the time required to consolidate relations between the company and the environment. The limitations of this study must be identified in that the company is operational but not yet incorporated.

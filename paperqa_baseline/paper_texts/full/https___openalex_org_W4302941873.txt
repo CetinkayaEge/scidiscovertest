@@ -1,0 +1,9 @@
+Title: Aspm sustains postnatal cerebellar neurogenesis and medulloblastoma growth in mice
+Authors: Scott Williams, Esteban A. Oyarzabal, Shiyi Li, Idoia García, Sean O’Neill, Andrew Crowther, Timothy R. Gershon, Alyssa B. Stewart, Hedi Liu, Yen Yu Ian Shih, Joseph R. Merrill, Kendall J. Lough, Katherine Veleta
+Year: 2021
+Venue: UNC Libraries
+DOI: https://doi.org/10.17615/12ny-4q60
+Paper ID: https://openalex.org/W4302941873
+
+Abstract:
+Alterations in genes that regulate brain size may contribute to both microcephaly and brain tumor formation. Here, we report that Aspm, a gene that is mutated in familial microcephaly, regulates postnatal neurogenesis in the cerebellum and supports the growth of medulloblastoma, the most common malignant pediatric brain tumor. Cerebellar granule neuron progenitors (CGNPs) express Aspm when maintained in a proliferative state by sonic hedgehog (Shh) signaling, and Aspm is expressed in Shh-driven medulloblastoma in mice. Genetic deletion of Aspm reduces cerebellar growth, while paradoxically increasing the mitotic rate of CGNPs. Aspm-deficient CGNPs show impaired mitotic progression, altered patterns of division orientation and differentiation, and increased DNA damage, which causes progenitor attrition through apoptosis. Deletion of Aspm in mice with Smo-induced medulloblastoma reduces tumor growth and increases DNA damage. Co-deletion of Aspm and either of the apoptosis regulators Bax or Trp53 (also known as p53) rescues the survival of neural progenitors and reduces the growth restriction imposed by Aspm deletion. Our data show that Aspm functions to regulate mitosis and to mitigate DNA damage during CGNP cell division, causes microcephaly through progenitor apoptosis when mutated, and sustains tumor growth in medulloblastoma.

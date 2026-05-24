@@ -1,0 +1,9 @@
+Title: Approaches in Hydroxytyrosol Supplementation on Epithelial—Mesenchymal Transition in TGFβ1-Induced Human Respiratory Epithelial Cells
+Authors: Rabiatul Adawiyah Razali, Muhammad Dain Yazid, Aminuddin Saim, Ruszymah Bt Hj Idrus, Yogeswaran Lokanathan
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043974
+Paper ID: pmc_PMC9967984
+
+Abstract:
+Hydroxytyrosol (HT) is an olive polyphenol with anti-inflammatory and antioxidant properties. This study aimed to investigate the effect of HT treatment on epithelial–mesenchymal transition (EMT) in primary human respiratory epithelial cells (RECs) isolated from human nasal turbinate. HT dose–response study and growth kinetic study on RECs was performed. Several approaches on HT treatment and TGFβ1 induction with varying durations and methods was studied. RECs morphology and migration ability were evaluated. Vimentin and E-cadherin immunofluorescence staining and Western blotting [E-cadherin, vimentin, SNAIL/SLUG, AKT, phosphorylated (p)AKT, SMAD2/3 and pSMAD2/3] were performed after 72-h treatment. In silico analysis (molecular docking) of HT was performed to evaluate the potential of HT to bind with the TGFβ receptor. The viability of the HT-treated RECs was concentration-dependent, where the median effective concentration (EC 50 ) was 19.04 μg/mL. Testing of the effects of 1 and 10 µg/mL HT revealed that HT suppressed expression of the protein markers vimentin and SNAIL/SLUG while preserving E-cadherin protein expression. Supplementation with HT protected against SMAD and AKT pathway activation in the TGFβ1-induced RECs. Furthermore, HT demonstrated the potential to bind with ALK5 (a TGFβ receptor component) in comparison to oleuropein. TGFβ1-induced EMT in RECs and HT exerted a positive effect in modulating the effects of EMT.

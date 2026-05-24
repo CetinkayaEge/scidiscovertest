@@ -1,0 +1,9 @@
+Title: The use of fish cell lines as in-vitro ecotoxicological tools: A cellular solution to aquaculture sustainability
+Authors: Thao V. Nguyen, Anupama Kumar, Phan Nguyen Trang
+Year: 2024
+Venue: Aquaculture
+DOI: https://doi.org/10.1016/j.aquaculture.2024.741302
+Paper ID: https://openalex.org/W4400113001
+
+Abstract:
+Aquaculture plays a crucial role in meeting the growing demand for seafood worldwide. However, the sustainability of aquaculture practices faces challenges from environmental pollutants and toxins. Traditional methods of assessing aquatic toxicity often rely on whole organism tests, which can be time-consuming, expensive, and ethically challenging. In recent years, the utilization of fish cell lines as in-vitro testing models in aquaculture toxicology has emerged as a promising alternative approach. Fish cell lines offer several advantages, including cost-effectiveness, scalability, and reduced ethical concerns. This review paper provides an overview of the implementation of fish cell lines in aquaculture toxicology, focusing on their applications in assessing the toxicity of environmental contaminants, mechanistic studies, and biomarker discovery. Furthermore, we discuss the advantages and limitations of fish cell lines compared to traditional whole organism tests explore challenges and future perspectives for integrating fish cell lines into regulatory frameworks. Overall, the integration of fish cell lines into aquaculture toxicology holds great promise for enhancing the sustainability and safety of aquaculture practices in the face of increasing environmental pressures.

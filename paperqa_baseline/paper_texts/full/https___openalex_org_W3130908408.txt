@@ -1,0 +1,9 @@
+Title: Sustainable reverse osmosis, electrodialysis and bipolar membrane electrodialysis application for cold-rolling wastewater treatment in the steel industry
+Authors: Gongyi Jiang, Hongdi Li, Meng Xu, Huimin Ruan
+Year: 2021
+Venue: Journal of Water Process Engineering
+DOI: https://doi.org/10.1016/j.jwpe.2021.101968
+Paper ID: https://openalex.org/W3130908408
+
+Abstract:
+In this work, a combination zero liquid discharge of reverse osmosis (RO), electrodialysis (ED) and bipolar membrane electrodialysis (BMED) for salt recovery and acid/base production is proposed for the treatment of cold-rolling wastewater. In ED concentrating process, parameters such as the most suitable voltage drop, membrane type and volume ratio were investigated according to concentration factor, energy consumption and water transport. The results indicated that the CMX/AMX stack showed good concentration factor of 2.19 in first-stage ED, and that the average flux of Na2SO4 approached a high value (4.94 mol/m2h) at voltage drop of 12 V. Furthermore, an optimal volume ratio of 4:1 was selected for two-stage ED process. The concentration factor could approach 5.14 through two-stage ED (Vd:Vc = 4:1), while the energy consumption was 61.88 kW h/m3 with second-stage ED. As result of BMED application, the Na2SO4-containing ED concentrate solution was sucessfully desalinated for acid/base production and pure water generation. The generated NaOH concentration can increased up to 2.03 mol/L with BP-1E/AMX/CMX stack (Vf:Vb:Va = 5:3:3). The results demonstrated that the hybrid RO-ED-BMED process has potential applicability for the sustainable treatment of cold-rolling wastewater.

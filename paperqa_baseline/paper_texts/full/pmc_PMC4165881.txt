@@ -1,0 +1,9 @@
+Title: Hesitant Fuzzy Linguistic Multicriteria Decision-Making Method Based on Generalized Prioritized Aggregation Operator
+Authors: Jia-ting Wu, Jian-qiang Wang, Jing Wang, Hong-yu Zhang, Xiao-hong Chen
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/645341
+Paper ID: pmc_PMC4165881
+
+Abstract:
+Based on linguistic term sets and hesitant fuzzy sets, the concept of hesitant fuzzy linguistic sets was introduced. The focus of this paper is the multicriteria decision-making (MCDM) problems in which the criteria are in different priority levels and the criteria values take the form of hesitant fuzzy linguistic numbers (HFLNs). A new approach to solving these problems is proposed, which is based on the generalized prioritized aggregation operator of HFLNs. Firstly, the new operations and comparison method for HFLNs are provided and some linguistic scale functions are applied. Subsequently, two prioritized aggregation operators and a generalized prioritized aggregation operator of HFLNs are developed and applied to MCDM problems. Finally, an illustrative example is given to illustrate the effectiveness and feasibility of the proposed method, which are then compared to the existing approach.

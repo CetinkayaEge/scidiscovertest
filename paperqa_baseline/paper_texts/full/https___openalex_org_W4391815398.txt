@@ -1,0 +1,9 @@
+Title: Sustainable Beckmann Rearrangement using Bead‐Milling Technology: The Route to Paracetamol
+Authors: Romain Geib, Evelina Colacino, Ludovic Gremaud
+Year: 2024
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202301921
+Paper ID: https://openalex.org/W4391815398
+
+Abstract:
+To address the growing demand for more sustainable and greener chemistry, mechanochemical methodologies are emerging as key players. However, to date there has been little data highlighting the benefits of these rising mechanochemical technologies with regard to process scale-up activities or implementation in commercial production scale. Herein, we report the first application of bead-mill technology (Dyno®-mill) for the sustainable mechanochemical synthesis of Acetaminophen, known under the brand name Paracetamol. Using the Beckmann rearrangement, the optimized solvent-free methodology delivered a final product on a scale of several tens of grams. In comparison to current production solvent-based process, the proposed process achieves a higher yield while also allowing the removal of solvents in the chemical reaction, hereby reducing one of the extensive drivers to waste generation. The mechanochemical approach was compared to solvent-based process using a combination of green metrics and EcoScale score. The mechanochemical synthesis of paracetamol scores the highest for all the metrics over currently used solution-based processes.

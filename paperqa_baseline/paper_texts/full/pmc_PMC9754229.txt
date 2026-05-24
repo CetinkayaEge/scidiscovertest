@@ -1,0 +1,9 @@
+Title: Decentralized governance may lead to higher infection levels and sub-optimal releases of quarantines amid the COVID-19 pandemic
+Authors: Adam Lampert
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279106
+Paper ID: pmc_PMC9754229
+
+Abstract:
+The outbreak of the novel Coronavirus (COVID-19) has led countries worldwide to administer quarantine policies. However, each country or state independently decides what mobility restrictions to administer within its borders while aiming to maximize its own citizens’ welfare. Since individuals travel between countries and states, the policy in one country affects the infection levels in other countries. Therefore, a major question is whether the policies dictated by multiple governments could be efficient. Here we focus on the decision regarding the timing of releasing quarantines, which were common during the first year of the pandemic. We consider a game-theoretical epidemiological model in which each government decides when to switch from a restrictive to a non-restrictive quarantine and vice versa. We show that, if travel between countries is frequent, then the policy dictated by multiple governments is sub-optimal. But if international travel is restricted, then the policy may become optimal.

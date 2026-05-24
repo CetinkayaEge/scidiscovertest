@@ -1,0 +1,9 @@
+Title: ConnecSenS, a Versatile IoT Platform for Environment Monitoring: Bring Water to Cloud
+Authors: Laure Moiroux-Arvis, Laurent Royer, David Sarramia, Gil De Sousa, Alexandre Claude, Delphine Latour, Erwan Roussel, Olivier Voldoire, Patrick Chardon, Richard Vandaële, Thierry Améglio, Jean-Pierre Chanet
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062896
+Paper ID: pmc_PMC10059706
+
+Abstract:
+Climate change is having an increasingly rapid impact on ecosystems and particularly on the issue of water resources. The Internet of Things and communication technologies have now reached a level of maturity that allows sensors to be deployed more easily on sites to monitor them. The communicating node based on LoRaWAN technology presented in this article is open and allows the interfacing of numerous sensors for designing long-term environmental monitoring systems of isolated sites. The data integration in the cloud is ensured by a workflow driving the storage and indexing of data, allowing a simple and efficient use of the data for different users (scientists, administration, citizens) through specific dashboards and extractions. This article presents this infrastructure through environmental monitoring use cases related to water resources.

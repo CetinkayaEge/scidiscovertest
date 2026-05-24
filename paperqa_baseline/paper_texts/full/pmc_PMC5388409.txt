@@ -1,0 +1,9 @@
+Title: Biochemical characterization of the helicase Sen1 provides new insights into the mechanisms of non-coding transcription termination
+Authors: Zhong Han, Domenico Libri, Odil Porrua
+Year: 2017
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkw1230
+Paper ID: pmc_PMC5388409
+
+Abstract:
+Abstract Pervasive transcription is widespread and needs to be controlled in order to avoid interference with gene expression. In Saccharomyces cerevisiae , the highly conserved helicase Sen1 plays a key role in restricting pervasive transcription by eliciting early termination of non-coding transcription. However, many aspects of the mechanism of termination remain unclear. In this study we characterize the biochemical activities of Sen1 and their role in termination. First, we demonstrate that the helicase domain (HD) is sufficient to dissociate the elongation complex (EC) in vitro . Both full-length Sen1 and its HD can translocate along single-stranded RNA and DNA in the 5΄ to 3΄ direction. Surprisingly, however, we show that Sen1 is a relatively poorly processive enzyme, implying that it must be recruited in close proximity to the RNA polymerase II (RNAPII) for efficient termination. We present evidence that Sen1 can promote forward translocation of stalled polymerases by acting on the nascent transcript. In addition, we find that dissociation of the EC by Sen1 is favoured by the reannealing of the DNA upstream of RNAPII. Taken together, our results provide new clues to understand the mechanism of Sen1-dependent transcription termination and a rationale for the kinetic competition between elongation and termination.

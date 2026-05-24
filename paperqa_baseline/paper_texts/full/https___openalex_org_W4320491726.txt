@@ -1,0 +1,9 @@
+Title: Sustainability Assessment of Buildings Indicators
+Authors: Leonardo Rodrigues, João M. P. Q. Delgado, Adélio Mendes, Antônio Gilson Barbosa de Lima, Ana Sofia Guimarães
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043403
+Paper ID: https://openalex.org/W4320491726
+
+Abstract:
+The building sector is responsible for a high environmental impact, namely during construction, maintenance, demolition, and lifetime. It is then urgent to develop tools for guiding all stockholders to make buildings more sustainable. In order to make the sustainability assessment of a building, it is necessary to make a survey of the most appropriate parameters for this analysis and organize them hierarchically. The first sustainability certification rating tools were developed in the 90′s of the last century, namely Leadership in Energy and Environmental Design (LEED) and Building Research Establishment Environmental Assessment Methodology (BREEAM), which allow for the quantitative sustainability assessment of different types of buildings. After the first developments, many authors joined in the endeavor of producing easier-to-use and more accurate sustainability assessment systems using sustainability indicators and their respective weights. This work provides a rational pathway throughout the relevant literature on sustainability indicators, comparing indicators proposed by different authors and different sustainability certification systems.

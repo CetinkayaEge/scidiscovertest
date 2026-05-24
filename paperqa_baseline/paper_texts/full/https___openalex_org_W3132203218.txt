@@ -1,0 +1,9 @@
+Title: Polymer Binders: Characterization and Development toward Aqueous Electrode Fabrication for Sustainability
+Authors: Aleksander Cholewinski, Pengxiang Si, Marianna Uceda, Michael A. Pope, Boxin Zhao
+Year: 2021
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym13040631
+Paper ID: https://openalex.org/W3132203218
+
+Abstract:
+Binders play an important role in electrode processing for energy storage systems. While conventional binders often require hazardous and costly organic solvents, there has been increasing development toward greener and less expensive binders, with a focus on those that can be processed in aqueous conditions. Due to their functional groups, many of these aqueous binders offer further beneficial properties, such as higher adhesion to withstand the large volume changes of several high-capacity electrode materials. In this review, we first discuss the roles of binders in the construction of electrodes, particularly for energy storage systems, summarize typical binder characterization techniques, and then highlight the recent advances on aqueous binder systems, aiming to provide a stepping stone for the development of polymer binders with better sustainability and improved functionalities.

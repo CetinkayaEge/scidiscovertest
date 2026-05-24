@@ -1,0 +1,9 @@
+Title: A State-of-the-Art Survey on Analytical Hierarchy Process Applications in Sustainable Development
+Authors: Sudheer Singh Rawat, Sangeeta Pant, Anuj Kumar, Mangey Ram, Hitesh Kumar Sharma, Akshay Kumar
+Year: 2022
+Venue: International Journal of Mathematical Engineering and Management Sciences
+DOI: https://doi.org/10.33889/ijmems.2022.7.6.056
+Paper ID: https://openalex.org/W4309546770
+
+Abstract:
+Nowadays, utility of the multi-criteria decision making (MCDM) technique in tackling real-world complex problems has risen tremendously. Even the United Nations is focusing on decision-making in order to accomplish Agenda 2030, as stated in its paragraph 48. The desire to promote sustainable development (SD) necessitates complex decision models, which could be achieved through the use of an efficient MCDM approach. Analytical Hierarchy Process (AHP) is one of the most efficient MCDM techniques that is incorporated in this study. The purpose of this work is to provide a contrasting of AHP's application that emerged between 2011 and 2022, rather than to reflect on its methodological improvements. Its application encompasses a wide range of disciplines including Renewable Energy, Sustainable manufacturing, Natural Hazards, Environmental Pollution, Landfill waste management and many others which lies explicitly or implicitly under the theme of SD. Previously, many reviews have been conducted that concentrated on a single decision topic; moreover, this review explore the comprehensive viewpoint of decision problems. As per statistical results, Middle Eastern countries such as Iran placed top in terms of applying AHP application in different sectors. GIS and fuzzy logic are the most often used approaches to incorporate AHP across all disciplines. Notably, the findings indicate that the most decision problem have selection and assessment as a major concern whereas, environmental, economical, LULC &amp; DFR are more frequently used criteria.

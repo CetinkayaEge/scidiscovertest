@@ -1,0 +1,9 @@
+Title: Single-Cell Labeling Strategies to Dissect Neuronal Structures and Local Functions
+Authors: Keigo Kohara, Masayoshi Okada
+Year: 2023
+Venue: Biology
+DOI: 10.3390/biology12020321
+Paper ID: pmc_PMC9953318
+
+Abstract:
+Simple Summary The neuronal circuits are essential for memory, recognition, and behavior but are too complex to be examined with ordinary, global labeling methods. Moreover, the role of each protein/gene in forming circuits is one of the biggest open questions in modern biology. Single-cell labeling methods are potent approaches for examining neuronal structure and circuits. Single-cell transgenic methods also enable single-cell gene knockout and modulation of neuronal activity, which can reveal their functional roles. This review summarizes the details of single neuronal labeling methods of non-transgenic and transgenic strategies and their contributions to our understanding of neuronal structures and functions. Abstract The brain network consists of ten billion neurons and is the most complex structure in the universe. Understanding the structure of complex brain networks and neuronal functions is one of the main goals of modern neuroscience. Since the seminal invention of Golgi staining, single-cell labeling methods have been among the most potent approaches for dissecting neuronal structures and neural circuits. Furthermore, the development of sparse single-cell transgenic methods has enabled single-cell gene knockout studies to examine the local functions of various genes in neural circuits and synapses. Here, we review non-transgenic single-cell labeling methods and recent advances in transgenic strategies for sparse single neuronal labeling. These methods and strategies will fundamentally contribute to the understanding of brain structure and function.

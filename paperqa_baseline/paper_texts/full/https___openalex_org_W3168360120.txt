@@ -1,0 +1,9 @@
+Title: New universal sustainability metrics to assess edge intelligence
+Authors: Nicola Lenherr, René Pawlitzek, Bruno Michel
+Year: 2021
+Venue: Sustainable Computing Informatics and Systems
+DOI: https://doi.org/10.1016/j.suscom.2021.100580
+Paper ID: https://openalex.org/W3168360120
+
+Abstract:
+The single recent focus on deep learning accuracy ignores economic, and environmental cost. Progress towards Green AI is hindered by lack of universal metrics that equally reward accuracy and cost and can help to improve all deep learning algorithms and platforms. We define recognition and training efficiency as new universal metrics to assess deep learning sustainability and compare them to similar, less universal metrics. They are based on energy consumption measurements, on deep learning inference, on recognition gradients, and on number of classes and thus universally balance accuracy, complexity and energy consumption. Well-designed edge accelerators improve recognition and training efficiencies compared to cloud CPUs and GPUs due to reduced communication overhead. Cradle to grave sustainability of edge intelligence models and platforms is assessed with novel deep learning lifecycle efficiency and life cycle recognition efficiency metrics that include the number of times models are used. Artificial and natural intelligence efficiencies are compared leading to insights on deep learning scalability.

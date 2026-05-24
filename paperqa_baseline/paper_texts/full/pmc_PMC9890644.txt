@@ -1,0 +1,9 @@
+Title: Temperature switch of electrochemical Seebeck coefficient of Fe 2+ /Fe 3+ via formation of [FeCl 4 ] 2− /[FeCl 4 ] − †
+Authors: Yunika Nomura, Dai Inoue, Yutaka Moritomo
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07886d
+Paper ID: pmc_PMC9890644
+
+Abstract:
+The electrochemical Seebeck coefficient ( α = d V /d T ; V and T are the redox potential and temperature, respectively) is important parameter for thermoelectric conversion. Here, we found that α of Fe 2+ /Fe 3+ in dimethyl sulfoxide (DMSO) with small amount of 19 M LiCl aqueous solution exhibits a crossover behavior from 1.4 mV K −1 (20 °C ≤ T ≤ 40 °C) to ≈0 mV K −1 (50 °C ≤ T ≤ 80 °C). The molar absorption ( ε ) spectra revealed that the crossover is ascribed to the transformation of the dominant Fe 3+ complex from [FeL 6 ] 3+ (L is solvent molecule) to [FeCl 4 ] − . Temperature change switches the electrochemical Seebeck coefficient ( α ) of Fe 2+ /Fe 3+ via transformation of the electrochemically-active redox pair.

@@ -1,0 +1,9 @@
+Title: Methane Pyrolysis for Zero-Emission Hydrogen Production: A Potential Bridge Technology from Fossil Fuels to a Renewable and Sustainable Hydrogen Economy
+Authors: Nuria Sánchez‐Bastardo, Robert Schlögl, Holger Ruland
+Year: 2021
+Venue: Industrial & Engineering Chemistry Research
+DOI: https://doi.org/10.1021/acs.iecr.1c01679
+Paper ID: https://openalex.org/W3191871700
+
+Abstract:
+Hydrogen plays a key role in many industrial applications and is currently seen as one of the most promising energy vectors. Many efforts are being made to produce hydrogen with zero CO2 footprint via water electrolysis powered by renewable energies. Nevertheless, the use of fossil fuels is essential in the short term. The conventional coal gasification and steam methane reforming processes for hydrogen production are undesirable due to the huge CO2 emissions. A cleaner technology based on natural gas that has received special attention in recent years is methane pyrolysis. The thermal decomposition of methane gives rise to hydrogen and solid carbon, and thus, the release of greenhouse gases is prevented. Therefore, methane pyrolysis is a CO2-free technology that can serve as a bridge from fossil fuels to renewable energies.

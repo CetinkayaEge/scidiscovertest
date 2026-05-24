@@ -1,0 +1,9 @@
+Title: In silico detection and characterization of novel virulence proteins of the emerging poultry pathogen Gallibacterium anatis
+Authors: L. G. T. G Rajapaksha, C. W. R Gunasekara, P. S. de Alwis
+Year: 2022
+Venue: Genomics & Informatics
+DOI: 10.5808/gi.22006
+Paper ID: pmc_PMC9847380
+
+Abstract:
+The pathogen Gallibacterium anatis has caused heavy economic losses for commercial poultry farms around the world. However, despite its importance, the functions of its hypothetical proteins (HPs) have been poorly characterized. The present study analyzed the functions and structures of HPs obtained from Gallibacterium anatis (NCTC11413) using various bioinformatics tools. Initially, all the functions of HPs were predicted using the VICMpred tool, and the physicochemical properties of the identified virulence proteins were then analyzed using Expasy's ProtParam server. A virulence protein ( WP_013745346.1 ) that can act as a potential drug target was further analyzed for its secondary structure, followed by homology modeling and three-dimensional (3D) structure determination using the Swiss-Model and Phyre2 servers. The quality assessment and validation of the 3D model were conducted using ERRAT, Verify3D, and PROCHECK programs. The functional and phylogenetic analysis was conducted using ProFunc, STRING, KEGG servers, and MEGA software. The bioinformatics analysis revealed 201 HPs related to cellular processes (n = 119), metabolism (n = 61), virulence (n = 11), and information/storage molecules (n = 10). Among the virulence proteins, three were detected as drug targets and six as vaccine targets. The characterized virulence protein WP_013745346.1 is proven to be stable, a drug target, and an enzyme related to the citrate cycle in the present pathogen. This enzyme was also found to facilitate other metabolic pathways, the biosynthesis of secondary metabolites, and the biosynthesis of amino acids.

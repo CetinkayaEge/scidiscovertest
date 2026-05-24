@@ -1,0 +1,9 @@
+Title: The PIWI/piRNA response is relaxed in a rodent that lacks mobilizing transposable elements
+Authors: Michael W. Vandewege, Roy N. Patt, Dana K. Merriman, David A. Ray, Federico G. Hoffmann
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.078862.121
+Paper ID: pmc_PMC8925971
+
+Abstract:
+Transposable elements (TEs) are genomic parasites that can propagate throughout host genomes. Mammalian genomes are typically dominated by LINE retrotransposons and their associated SINEs, and germline mobilization is a challenge to genome integrity. There are defenses against TE proliferation and the PIWI/piRNA defense is among the most well understood. However, the PIWI/piRNA system has been investigated largely in animals with actively mobilizing TEs and it is unclear how the PIWI/piRNA system functions in the absence of mobilizing TEs. The 13-lined ground squirrel provides the opportunity to examine PIWI/piRNA and TE dynamics within the context of minimal, and possibly nonexistent, TE accumulation. To do so, we compared the PIWI/piRNA dynamics in squirrels to observations from the rabbit and mouse. Despite a lack of young insertions in squirrels, TEs were still actively transcribed at higher levels compared to mouse and rabbit. All three Piwi genes were not expressed, prior to P8 in squirrel testis, and there was little TE expression change with the onset of Piwi expression. We also demonstrated there was not a major expression change in the young squirrel LINE families in the transition from juvenile to adult testis in contrast to young mouse and rabbit LINE families. These observations lead us to conclude that PIWI suppression, was weaker for squirrel LINEs and SINEs and did not strongly reduce their transcription. We speculate that, although the PIWI/piRNA system is adaptable to novel TE threats, transcripts from TEs that are no longer threatening receive less attention from PIWI proteins.

@@ -1,0 +1,9 @@
+Title: Analyzing the contributions of biofuels, biomass, and bioenergy to sustainable development goals
+Authors: Raghu Raman, Aswathy Sreenivasan, Naveen V. Kulkarni, M. Suresh, Prema Nedungadi
+Year: 2025
+Venue: iScience
+DOI: https://doi.org/10.1016/j.isci.2025.112157
+Paper ID: https://openalex.org/W4408129646
+
+Abstract:
+Biofuels, biomass, and bioenergy are pivotal in transitioning to sustainable energy systems while addressing global energy demands and supporting the UN sustainable development goals (SDGs). This study synthesizes research on biofuels, from first-to fourth-generation technologies, highlighting their potential to reduce greenhouse gas emissions, enhance energy security, and foster economic growth. Using the PRISMA framework, machine learning-based SDG mapping and BERTopic modeling, the analysis identifies two thematic clusters: one focused on sustainable energy and climate resilience (SDGs 7, 12, and 13) and the other on socioeconomic development and equity (SDGs 1, 8, and 15). Topics such as bioeconomic development and supply chain optimization emphasize systemic innovation and process efficiency. The study underscores the role of policy, international collaboration, and emerging technologies like AI in advancing biofuel systems. Investments in infrastructure and capacity building are vital to aligning bioenergy development with global sustainability goals.

@@ -1,0 +1,9 @@
+Title: Sustained Intratumoral Administration of Agonist CD40 Antibody Overcomes Immunosuppressive Tumor Microenvironment in Pancreatic Cancer
+Authors: Hsuan‐Chen Liu, Daniel Davila Gonzalez, Dixita Viswanath, Robin Shae Vander Pol, Shani Zakiya Saunders, Nicola Di Trani, Yitian Xu, Junjun Zheng, Shu‐Hsia Chen, Corrine Ying Xuan Chua, Alessandro Grattoni
+Year: 2023
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202206873
+Paper ID: https://openalex.org/W4317566998
+
+Abstract:
+Agonist CD40 monoclonal antibodies (mAb) is a promising immunotherapeutic agent for cold-to-hot tumor immune microenvironment (TIME) conversion. Pancreatic ductal adenocarcinoma (PDAC) is an aggressive and lethal cancer known as an immune desert, and therefore urgently needs more effective treatment. Conventional systemic treatment fails to effectively penetrate the characteristic dense tumor stroma. Here, it is shown that sustained low-dose intratumoral delivery of CD40 mAb via the nanofluidic drug-eluting seed (NDES) can modulate the TIME to reduce tumor burden in murine models. NDES achieves tumor reduction at a fourfold lower dosage than systemic treatment while avoiding treatment-related adverse events. Further, abscopal responses are shown where intratumoral treatment yields growth inhibition in distant untreated tumors. Overall, the NDES is presented as a viable approach to penetrate the PDAC immune barrier in a minimally invasive and effective manner, for the overarching goal of transforming treatment.

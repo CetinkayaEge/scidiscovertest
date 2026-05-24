@@ -1,0 +1,9 @@
+Title: Evaluation of Tumor Treatment of Magnetic Nanoparticles Driven by Extremely Low Frequency Magnetic Field
+Authors: Weitao Li, Yangyang Liu, Zhiyu Qian, Yamin Yang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46287
+Paper ID: pmc_PMC5387737
+
+Abstract:
+Recently, magnetic nanoparticles (MNPs), which can be manipulated in the magnetic field, have received much attention in tumor therapy. Extremely low frequency magnetic field (ELMF) system can initiate MNPs vibrating and the movement of MNPs inside of cells can be controlled by adjusting the frequency and intensity of ELMF towards irreversible cell damages. In this study, we investigated the detrimental effects on tumor cells with MNPs under various ELMF exposure conditions. An in-house built ELMF system was developed and utilized for evaluating the treatment efficiency of MNPs on tumor cells with specific intensities (2–20 Hz) and frequencies (0.1–20 mT). Significant morphological changes were found in tumor cells treated with MNPs in combing with ELMF, which were consistent with noticeable decrease in cell viability. With the increase of the intensity and frequency of the magnetic field, the structural integrity of tumor tissue can be further destroyed. Destructive effects of MNPs and ELMF on tumor tissues were further determined by the pathophysiological changes observed in vivo in animal study. Taken together, the combination of MNPs and ELMF had a great potential as an innovative treatment approach for tumor intervention.

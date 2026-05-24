@@ -1,0 +1,9 @@
+Title: Artificial Intelligence in Hydrology: Advancements in Soil, Water Resource Management, and Sustainable Development
+Authors: Seyed Mostafa Biazar, Golmar Golmohammadi, Rohit R. Nedhunuri, Saba Shaghaghi, Kourosh Mohammadi
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17052250
+Paper ID: https://openalex.org/W4408218756
+
+Abstract:
+Hydrology relates to many complex challenges due to climate variability, limited resources, and especially, increased demands on sustainable management of water and soil. Conventional approaches often cannot respond to the integrated complexity and continuous change inherent in the water system; hence, researchers have explored advanced data-driven solutions. This review paper revisits how artificial intelligence (AI) is dramatically changing the most important facets of hydrological research, including soil and land surface modeling, streamflow, groundwater forecasting, water quality assessment, and remote sensing applications in water resources. In soil and land modeling, AI techniques could further enhance accuracy in soil texture analysis, moisture estimation, and erosion prediction for better land management. Advanced AI models could also be used as a tool to forecast streamflow and groundwater levels, therefore providing valuable lead times for flood preparedness and water resource planning in transboundary basins. In water quality, AI-driven methods improve contamination risk assessment, enable the detection of anomalies, and track pollutants to assist in water treatment processes and regulatory practices. AI techniques combined with remote sensing open new perspectives on monitoring water resources at a spatial scale, from flood forecasting to groundwater storage variations. This paper’s synthesis emphasizes AI’s immense potential in hydrology; it also covers the latest advances and future prospects of the field to ensure sustainable water and soil management.

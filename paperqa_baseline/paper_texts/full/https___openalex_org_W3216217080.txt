@@ -1,0 +1,9 @@
+Title: A comprehensive framework for sustainable closed-loop supply chain network design
+Authors: Madjid Tavana, Hadi Kian, Arash Khalili Nasr, Kannan Govindan, Hassan Mina
+Year: 2021
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2021.129777
+Paper ID: https://openalex.org/W3216217080
+
+Abstract:
+Many companies face challenges in reducing their supply chain costs while increasing sustainability and customer service levels. A comprehensive framework for a sustainable closed-loop supply chain (CLSC) network is a practical solution to these challenges. Hence, for the first time, this study considers an integrated multi-objective mixed-integer linear programming (MOMILP) model to design sustainable CLSC networks with cross-docking, location-inventory-routing, time window, supplier selection, order allocation, transportation modes with simultaneous pickup, and delivery under uncertainty. An intelligent simulation algorithm is proposed to produce CLSC network data with probabilistic distribution functions and feasible solution space. In addition, a fuzzy goal programming approach is proposed to solve the MOMILP model under uncertainty. Eight small and medium-size test problems are used to evaluate the performance of the proposed model with the simulated data in GAMS software. The results obtained from test problems and sensitivity analysis show the efficacy of the proposed model.

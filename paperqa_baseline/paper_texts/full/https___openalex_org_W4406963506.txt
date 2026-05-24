@@ -1,0 +1,9 @@
+Title: The Escalating AI’s Energy Demands and the Imperative Need for Sustainable Solutions
+Authors: Maikel León
+Year: 2024
+Venue: WSEAS TRANSACTIONS ON SYSTEMS
+DOI: https://doi.org/10.37394/23202.2024.23.46
+Paper ID: https://openalex.org/W4406963506
+
+Abstract:
+Large Language Models (LLMs), such as GPT-4, represent a significant advancement in contemporary Artificial Intelligence (AI), demonstrating remarkable natural language processing, customer service automation, and knowledge representation capabilities. However, these advancements come with substantial energy costs. The training and deployment of LLMs require extensive computational resources, leading to escalating energy consumption and environmental impacts. This paper explores the driving factors behind the high energy demands of LLMs through the lens of the Technology Environment Organization (TEO) framework, assesses their ecological implications, and proposes sustainable strategies for mitigating these challenges. Specifically, we explore algorithmic improvements, hardware innovations, renewable energy adoption, and decentralized approaches to AI training and deployment. Our findings contribute to the literature on sustainable AI and provide actionable insights for industry stakeholders and policymakers.

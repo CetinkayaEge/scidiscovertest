@@ -1,0 +1,9 @@
+Title: Sustainability of emerging energy and transportation technologies is impacted by the coexistence of minerals in nature
+Authors: Ayman Elshkaki
+Year: 2021
+Venue: Communications Earth & Environment
+DOI: https://doi.org/10.1038/s43247-021-00262-z
+Paper ID: https://openalex.org/W3198455448
+
+Abstract:
+Abstract Wind power and electric vehicles can help reduce carbon dioxide emissions and improve air quality. However, these technologies rely on rare metals whose extraction requires large amounts of energy and water and are high in carbon emissions. Here we consider the sustainability of both technologies and the impacts of rare earth elements co-extraction. We use a global dynamic material flow-stock model and several scenarios for rare earth elements demand and supply. Cumulative carbon dioxide equivalent emissions associated with rare earth metals oversupply was between 5.5 and 6.4 times the emissions associated with dysprosium and neodymium production when dysprosium demand was increased. Carbon dioxide equivalent emissions associated with metals extraction and production were equivalent to between 10% and 29% of carbon dioxide emissions reduction through electric vehicle use. Targeting metal rich deposits and increased material efficiency and recycling reduced carbon dioxide emissions by 78%, 39% and 35%, and combined by 90%. Our findings highlight the role of resource efficiency and recycling in enhancing clean energy technologies.

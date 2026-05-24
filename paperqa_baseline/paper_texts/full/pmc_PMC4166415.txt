@@ -1,0 +1,9 @@
+Title: New Insights into FAK Phosphorylation Based on a FAT Domain-Defective Mutation
+Authors: Xuqian Fang, Xiangfan Liu, Ling Yao, Changqiang Chen, Jiafei Lin, Peihua Ni, Xinmin Zheng, Qishi Fan
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107134
+Paper ID: pmc_PMC4166415
+
+Abstract:
+Mounting evidence suggests that the FAK N-terminal (FERM) domain controls FAK phosphorylation and function; however, little is known regarding the role of the C terminal (FAT) domain in FAK regulation. We identified a patient-derived FAK mutant, in which a 27-amino acid segment was deleted from the C-terminal FAT domain (named FAK-Del33). When FAK-Del33 was overexpressed in specific tumor cell lines, Y397 phosphorylation increased compared with that observed in cells expressing FAK-WT. Here, we attempt to unveil the mechanism of this increased phosphorylation. Using cell biology experiments, we show that FAK-Del33 is incapable of co-localizing with paxillin, and has constitutively high Y397 phosphorylation. With a kinase-dead mutation, it showed phosphorylation of FAK-Del33 has enhanced through auto-phosphorylation. It was also demonstrated that phosphorylation of FAK-Del33 is not Src dependent or enhanced intermolecular interactions, and that the hyperphosphorylation can be lowered using increasing amounts of transfected FERM domain. This result suggests that Del33 mutation disrupting of FAT's structural integrity and paxillin binding capacity leads to incapable of targeting Focal adhesions, but has gained the capacity for auto-phosphorylation in cis.

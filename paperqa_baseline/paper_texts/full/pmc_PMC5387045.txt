@@ -1,0 +1,9 @@
+Title: Saliva Liquid Biopsy for Point-of-Care Applications
+Authors: Katri Aro, Fang Wei, David T. Wong, Michael Tu
+Year: 2017
+Venue: Frontiers in Public Health
+DOI: 10.3389/fpubh.2017.00077
+Paper ID: pmc_PMC5387045
+
+Abstract:
+Saliva is a non-invasive biofluid, which is easy to collect, transport, and store. Because of its accessibility and connection to systemic diseases, saliva is one of the best candidates for the advancement of point-of-care medicine, where individuals are able to easily monitor their health status by using portable convenient tools such as smartphones. There are a variety of scenarios with which saliva can be used: studies have been conducted on using saliva to measure stress hormones, enzyme levels, developmental disease biomarkers, and even cancer mutations. If validated biomarkers were combined with high-quality detection tools, saliva would open up a new frontier in high-quality healthcare, allowing physicians and patients to work together for real-time health monitoring and high-impact personalized preventative medicine. One of the most exciting emerging frontiers of saliva is liquid biopsy, which is a non-invasive means to assess the presence and characteristics of cancer in a patient. This article will review current basic knowledge of biomarkers, review their relation to different diseases and conditions, and explore liquid biopsy for point-of-care applications.

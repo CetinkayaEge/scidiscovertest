@@ -1,0 +1,9 @@
+Title: The design and synthesis of Prussian blue analogs as a sustainable cathode for sodium‐ion batteries
+Authors: Siwei Fan, Yijie Liu, Yijie Liu, Yun Gao, Yang Liu, Yang Liu, Yun Qiao, Li Li, Shulei Chou
+Year: 2023
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.170
+Paper ID: https://openalex.org/W4389737901
+
+Abstract:
+Abstract Sodium‐ion batteries (SIBs) present great appeal in various energy storage systems, especifically for stationary grid storage, on account of the abundance of sources and low cost. Unfortunately, the commercialization of SIBs is mainly limited by available electrode materials, especially for the cathodes. Prussian blue analogs (PBAs), emerge as a promising alternative for their structural feasibility in the application of SIBs. Decreasing the defects (vacancies and coordinated water) is an effective strategy to achieve superior electrochemical performance during the synthetic processes. Herein, we summarize crystal structures, synthetic methods, electrochemical mechanisms, and the influences of synthesis conditions of PBAs in detail. This comprehensive overview on the current research progresses of PBAs will give guides and directions to solve the existing problems for their application in SIBs.

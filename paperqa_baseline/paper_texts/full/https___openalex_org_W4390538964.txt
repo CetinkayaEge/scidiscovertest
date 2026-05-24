@@ -1,0 +1,9 @@
+Title: Blockchain adoption in supply chains: implications for sustainability
+Authors: Tianyu Zhang, Fu Jia, Lujie Chen
+Year: 2024
+Venue: Production Planning & Control
+DOI: https://doi.org/10.1080/09537287.2023.2296669
+Paper ID: https://openalex.org/W4390538964
+
+Abstract:
+This study aims to systematically review the current academic literature on blockchain and supply chain management (SCM) to explore the antecedents and sustainable outcomes of blockchain adoption and identify factors that influence blockchain adoption at different stages of implementation in supply chains (SC). This review follows the 6 steps and 14 decisions of conducting a systematic literature review (SLR) to comprehensively review 69 papers published in Academic Journal Guide (AJG) 3 and above journals between 2008 and 2023. Based on the content analysis of the selected papers, this study identifies antecedents and outcomes for blockchain adoption. This study further identifies influential factors in each blockchain implementation stage. A conceptual framework is developed to facilitate the conceptual development of blockchain adoption for sustainability in SCs. This study extends the prior studies of blockchain adoption in SCM with the consideration of how blockchain affects the SCM from the aspects of economic, social, and environmental. This review identifies four major themes in the topic of blockchain implementation and SCM, thus assisting researchers in avoiding focusing on the investigation of mature and saturated topics. The research gaps are identified, and future research directions are recommended for scholars, thereby enabling the comprehensive development of blockchain adoption in SCs.

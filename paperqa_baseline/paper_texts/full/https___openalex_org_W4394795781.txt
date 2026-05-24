@@ -1,0 +1,9 @@
+Title: Digital data‐driven technologies and the environmental sustainability of micro, small, and medium enterprises: Does size matter?
+Authors: Virginia Hernández, Antonio Revilla, Alicia Rodríguez
+Year: 2024
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3765
+Paper ID: https://openalex.org/W4394795781
+
+Abstract:
+Abstract Despite the increasing interest in understanding the relations between firms' digitalization and their environmental sustainability, they are still poorly understood as research on this hot topic is nascent and empirical evidence is sparse and fragmented. In this study, we delve into the relations between different digital data‐driven technologies (DTs) used for gathering and storing (smart devices and cloud computing), analyzing (Big Data and Artificial Intelligence), and sharing data (Blockchain) and environmental sustainability in micro, small, and medium enterprises (MSMEs). These firms, despite their relevance in the business landscape and their heterogeneity, are understudied in this area. Thus, we also examine the moderating role of firm size to understand the inherent diversity of MSMEs in the use of DTs and the development of the sustainability oriented practices. Empirical results from a large‐scale representative sample of European enterprises show that the adoption of DTs for data gathering and analysis is positively associated with sustainability‐oriented actions in MSMEs. The findings also reveal the positive moderating role of size: relations between data analysis and sharing technologies and sustainability are stronger for larger MSMEs, with the latter being significant only for medium‐sized enterprises.

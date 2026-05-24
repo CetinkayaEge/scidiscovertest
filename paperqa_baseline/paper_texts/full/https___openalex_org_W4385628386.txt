@@ -1,0 +1,9 @@
+Title: Information systems for sustainable remote workplaces
+Authors: Aleksandre Asatiani, Livia Norström
+Year: 2023
+Venue: The Journal of Strategic Information Systems
+DOI: https://doi.org/10.1016/j.jsis.2023.101789
+Paper ID: https://openalex.org/W4385628386
+
+Abstract:
+This review discusses the challenges associated with the sustainability of remote workplaces, which have become more prevalent due to the growing trend of work digitalization and the pandemic-induced push to remote work. These challenges are highlighted in literature across various disciplines, including information systems, but these discourses have remained isolated from each other. In this review, we consolidated and synthesized research on remote work from the perspective of individual workers by reviewing 187 articles published between 1999 and 2020 in recognized academic journals from fields including information systems, organizational studies, economics, human resources, sociology, and psychology. We identified five key themes that concern opportunities and challenges to sustainable remote workplaces: (1) key characteristics, (2) work-life boundaries; (3) health and well-being; (4) social interaction, and (5) leadership. Building on our findings we created a framework that recognizes two interrelated categories of factors influencing remote workplace sustainability – rigid base characteristics and contextual remote workplace variables – that together shape the trajectory of remote workplace sustainability in the long term. The framework also identifies the potential role of information systems in modulating the impact of the base characteristics to build continuities that encourage more sustainable remote workplaces. The paper concludes by offering a research agenda for information systems for sustainable remote workplaces based on the three IS theoretical frames: inclusion, dignity, and boundary objects.

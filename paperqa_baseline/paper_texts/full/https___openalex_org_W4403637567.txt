@@ -1,0 +1,9 @@
+Title: Integration of Artificial Intelligence and Robotic Process Automation: Literature Review and Proposal for a Sustainable Model
+Authors: Leonel Patrício, Leonilde Varela, Zilda de Castro Silveira
+Year: 2024
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app14219648
+Paper ID: https://openalex.org/W4403637567
+
+Abstract:
+This article investigates the growing integration between Artificial Intelligence (AI) and Robotic Process Automation (RPA), proposing an innovative model aimed at optimizing the operational efficiency of organizations balancing the social and environmental impacts arising from the use of these technologies. The research identifies a significant gap in the literature through a systematic review, revealing the need for greater attention to the social and environmental impacts of the implementation of AI and RPA. Employing an approach based on the PICO methodology (Population, Intervention, Comparison, Outcome), this study justifies the formulation of hypotheses and the choice of methodology, ensuring scientific rigor. The proposed model considers ethical issues such as privacy and cybersecurity and explores the challenges associated with the adoption of these innovations. The discussion includes the readiness of organizations to integrate these technologies, highlighting technical and cultural limitations that may influence the model’s effectiveness. The theoretical results suggest that careful implementation can optimize resource utilization, promoting a balance between operational efficiency and social and environmental responsibility. Furthermore, the article presents an analysis of the positive impacts, such as improved efficiency, and negative impacts, such as the fear of job displacement associated with the integration of AI and RPA, reinforcing the need for responsible adoption that fosters social and environmental sustainability in the digital age.

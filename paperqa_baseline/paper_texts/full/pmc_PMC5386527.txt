@@ -1,0 +1,9 @@
+Title: Targeting 3-phosphoinositide-dependent protein kinase 1 associated with drug-resistant renal cell carcinoma using new oridonin analogs
+Authors: Jiancheng Zhou, Eun-Jin Yun, Wei Chen, Ye Ding, Kaijie Wu, Bin Wang, Chunyong Ding, Elizabeth Hernandez, John Santoyo, Rey-Chen Pong, Haiying Chen, Dalin He, Jia Zhou, Jer-Tsong Hsieh
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.121
+Paper ID: pmc_PMC5386527
+
+Abstract:
+The current agents used for renal cell carcinoma (RCC) only exhibit the moderate response rate among patients. Development of drug resistance eventually fuels the need of either more potent drugs or new drugs to target the resistant pathways. Oridonin is a diterpenoid isolated from the Chinese medicinal herb Rabdosia rubescens and has been shown to have antitumor activities in many cancers. We previously developed new synthetic methodologies to modify structurally diversified diterpenoids and designed a series of nitrogen-enriched oridonin analogs. In this study, we screened a variety of oridonin analogs based on their cytotoxicity using MTT assay and identify the most potent candidate, namely, CYD-6-17. CYD-6-17 exhibited a high potency to inhibit the in vitro growth of several drug-resistant RCC cells as well as endothelial cells stimulated by tumor cells at nanomolar range. Delivery of CYD-6-17 significantly inhibited RCC tumor growth using xenograft model. Mechanistically, it targeted the 3-phosphoinositide-dependent protein kinase 1 gene that appeared to be a potent regulator of AKT and was associated with patient survival after targeted therapies. This offers a new rational therapeutic regimen of CYD-6-17 to drug-resistant RCC based on its novel mechanism of action.

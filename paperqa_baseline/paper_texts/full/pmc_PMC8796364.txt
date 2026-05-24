@@ -1,0 +1,9 @@
+Title: PheneBank: a literature-based database of phenotypes
+Authors: Mohammad Taher Pilehvar, Adam Bernard, Damian Smedley, Nigel Collier
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab740
+Paper ID: pmc_PMC8796364
+
+Abstract:
+Abstract Motivation Significant effort has been spent by curators to create coding systems for phenotypes such as the Human Phenotype Ontology, as well as disease–phenotype annotations. We aim to support the discovery of literature-based phenotypes and integrate them into the knowledge discovery process. Results PheneBank is a Web-portal for retrieving human phenotype–disease associations that have been text-mined from the whole of Medline. Our approach exploits state-of-the-art machine learning for concept identification by utilizing an expert annotated rare disease corpus from the PMC Text Mining subset. Evaluation of the system for entities is conducted on a gold-standard corpus of rare disease sentences and for associations against the Monarch initiative data. Availability and implementation The PheneBank Web-portal freely available at http://www.phenebank.org . Annotated Medline data is available from Zenodo at DOI: 10.5281/zenodo.1408800. Semantic annotation software is freely available for non-commercial use at GitHub: https://github.com/pilehvar/phenebank . Supplementary information Supplementary data are available at Bioinformatics online.

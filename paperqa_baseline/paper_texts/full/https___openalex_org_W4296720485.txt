@@ -1,0 +1,9 @@
+Title: Progress and Challenges of Anti-VEGF Agents and Their Sustained-Release Strategies for Retinal Angiogenesis
+Authors: Manhong Xu, Ruiyan Fan, Xiaoe Fan, Yan Shao, Xiaorong Li
+Year: 2022
+Venue: Drug Design Development and Therapy
+DOI: https://doi.org/10.2147/dddt.s383101
+Paper ID: https://openalex.org/W4296720485
+
+Abstract:
+Currently, the treatment for ocular neovascular diseases, including diabetic macular edema (DME) and age-related macular degeneration (AMD), mainly involves repeated intravitreal injection of anti-vascular endothelial growth factor (VEGF) drugs. Although it can preserve vision, repeated injections are an invasive treatment modality, leading to serious complications and reducing patient adherence to treatment. To reduce the frequency of administration, prolong the time of drug action, and avoid repeated intravitreal injections, the combination of sustained-release materials with anti-VEGF drug therapy has become an emphasis in ophthalmology. In this review, we highlight the current state of anti-VEGF technology, its challenges, and the sustained-release strategies under investigation or being used in clinical practice. Both continuous release and considerable therapeutic effects can be achieved by encapsulating anti-VEGF drugs in sustained-release materials to minimize the number of intravitreal injections. At present, two sustained-release materials are being tested in clinical research, and although basic research shows the strong therapeutic application prospects of extended-release drugs, its challenges mainly involve the discrepancy between the release rates in vitro and the efficiency of the drugs in vivo. Briefly, sustained release of anti-VEGF agents is an advantageous strategy for treating retinal angiogenesis.

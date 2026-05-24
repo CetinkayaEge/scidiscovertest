@@ -1,0 +1,9 @@
+Title: Repurposing Second-Life EV Batteries to Advance Sustainable Development: A Comprehensive Review
+Authors: Muhammad Nadeem Akram, Walid Abdul‐Kader
+Year: 2024
+Venue: Batteries
+DOI: https://doi.org/10.3390/batteries10120452
+Paper ID: https://openalex.org/W4405641743
+
+Abstract:
+While lithium-ion batteries (LIBs) have pushed the progression of electric vehicles (EVs) as a viable commercial option, they introduce their own set of issues regarding sustainable development. This paper investigates how using end-of-life LIBs in stationary applications can bring us closer to meeting the sustainable development goals (SDGs) highlighted by the United Nations. We focus on how this practice can support three of these goals, namely Goal 7: Affordable and Clean Energy, Goal 12: Responsible Consumption and Production, and Goal 13: Climate Action. We present a literature review that details the aging mechanisms of LIBs, namely battery degradation, state of charge, state of health, depth of discharge, remaining useful life, and battery management systems. Then, we thoroughly examine the environmental and economic benefits of using second-life EV batteries in stationary applications and how they align with the SDGs. Our review of the literature summarizes the most relevant research in battery aging, giving a foundation for further research and allowing effective legislation to be written around EVs. Additionally, our examination of the benefits of using second-life batteries motivates initiatives for sustainable practices, helping both corporations and legislators orient their ideals towards the SDGs.

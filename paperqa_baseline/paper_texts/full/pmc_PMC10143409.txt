@@ -1,0 +1,9 @@
+Title: Mechanism and Modulation of SidE Family Proteins in the Pathogenesis of Legionella pneumophila
+Authors: Yongchao Xie, Yi Zhang, Yong Wang, Yue Feng
+Year: 2023
+Venue: Pathogens
+DOI: 10.3390/pathogens12040629
+Paper ID: pmc_PMC10143409
+
+Abstract:
+Legionella pneumophila is the causative agent of Legionnaires’ disease, causing fever and lung infection, with a death rate up to 15% in severe cases. In the process of infection, Legionella pneumophila secretes over 330 effectors into host cell via the Dot/Icm type IV secretion system to modulate multiple host cellular physiological processes, thereby changing the environment of the host cell and promoting the growth and propagation of the bacterium. Among these effector proteins, SidE family proteins from Legionella pneumophila catalyze a non-canonical ubiquitination reaction, which combines mono-ADP-ribosylation and phosphodiesterase activities together to attach ubiquitin onto substrates. Meanwhile, the activity of SidE family proteins is also under multiple modulations by other effectors. Herein we summarize the key insights into recent studies in this area, emphasizing the tight link between the modular structure of SidE family proteins and the pathogen virulence as well as the fundamental mechanism and modulation network for further extensive research.

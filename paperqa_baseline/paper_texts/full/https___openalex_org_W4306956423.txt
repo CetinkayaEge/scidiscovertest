@@ -1,0 +1,9 @@
+Title: Welcome to the (label) jungle? Analyzing how consumers deal with intra-sustainability label trade-offs on food
+Authors: Winnie Isabel Sonntag, Dominic Lemken, Achim Spiller, Maureen Schulze
+Year: 2022
+Venue: Food Quality and Preference
+DOI: https://doi.org/10.1016/j.foodqual.2022.104746
+Paper ID: https://openalex.org/W4306956423
+
+Abstract:
+Sustainability labels provide consumers with information about the production process, but the number of specialized labels is increasing rapidly. Different label combinations on one product can lead to trade-offs for consumers since sustainability dimensions, e.g., animal welfare and climate impact, may conflict. Consumers may face a combination of sustainability labels where not all characteristics are positive. The likelihood of a combination of positive and negative labels is particularly high when certain labels become mandatory. It is unclear how this influences the decision-making of consumers. This study analyzes the effect of different multi-level sustainability labels: animal welfare label, climate label, and a binary label (organic), and a nutritional label: the Nutri-Score on two food products. We measured the willingness to pay (WTP) for chicken breast and whole milk for different label combinations using a discrete choice experiment with 985 German consumers. Our results provide first indications that the presence of a sustainability label does not diminish the marginal utility of another sustainability label and that the effects of a negative label on the WTP cannot be compensated by a positive label. Consumers can handle two different types of labels at the same time and seem to be able to cope even with contradictory information in a trade-off situation between different sustainability dimensions. For manufacturers, this means that they should avoid scoring negatively on any sustainability dimension.

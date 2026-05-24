@@ -1,0 +1,9 @@
+Title: A machine-learning approach to human footprint index estimation with applications to sustainable development
+Authors: Patrick Keys, Elizabeth A. Barnes, Neil Carter
+Year: 2021
+Venue: Environmental Research Letters
+DOI: https://doi.org/10.1088/1748-9326/abe00a
+Paper ID: https://openalex.org/W3125282169
+
+Abstract:
+Abstract The human footprint index (HFI) is an extensively used tool for interpreting the accelerating pressure of humanity on Earth. Up to now, the process of creating the HFI has required significant data and modeling, and updated versions of the index often lag the present day by many years. Here we introduce a near-present, global-scale machine learning-based HFI (ml-HFI) which is capable of routine update using satellite imagery alone. We present the most up-to-date map of the HFI, and document changes in human pressure during the past 20 years (2000–2019). Moreover, we demonstrate its utility as a monitoring tool for the United Nations Sustainable Development Goal 15 (SDG15), ‘Life on Land’, which aims to foster sustainable development while conserving biodiversity. We identify 43 countries that are making progress toward SDG15 while also experiencing increases in their ml-HFI. We examine a subset of these in the context of conservation policies that may or may not enable continued progress toward SDG15. This has immediate policy relevance, since the majority of countries globally are not on track to achieve Goal 15 by the declared deadline of 2030. Moving forward, the ml-HFI may be used for ongoing monitoring and evaluation support toward the twin goals of fostering a thriving society and global Earth system.

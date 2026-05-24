@@ -1,0 +1,9 @@
+Title: Big Data Analytics and AI for Green Supply Chain Integration and Sustainability in Hospitals
+Authors: Mahmoud Allahham, Abdel‐Aziz Ahmad Sharabati, Heba Hatamlah, Ahmad Ahmad, Samar Sabra, Mohammad Khalaf Daoud
+Year: 2023
+Venue: WSEAS TRANSACTIONS ON ENVIRONMENT AND DEVELOPMENT
+DOI: https://doi.org/10.37394/232015.2023.19.111
+Paper ID: https://openalex.org/W4389815292
+
+Abstract:
+This paper examines how big data analytics and AI improve hospital supply chain sustainability. Hospitals are recognizing the need for eco-friendly operations due to environmental issues and rising healthcare needs. It analyzes data from 68 UK hospitals using a conceptual model and partial least squares regression-based structural equation modeling. The research begins by examining hospital supply networks' environmental impact. Energy use, trash, and transportation emissions are major issues. It then explains how big data analytics and AI can transform these implications. This study prioritizes big data analytics for inventory management, demand forecasting, and procurement. Hospitals can reduce inventory, waste, and supply shortages using data-driven insights, saving money and the environment. AI also boosts hospital supply chain logistics and transportation efficiency, according to the study. Fuel consumption, carbon emissions, and delivery routes are optimized by AI. Predictive maintenance preserves medical equipment. In conclusion, hospital supply chains benefit greatly from big data analytics and AI. Hospitals can improve the healthcare business, reduce their environmental impact, and preserve resources for future generations. Healthcare leaders, politicians, and researchers seeking data-driven solutions for sustainable hospital supply chains gain valuable insights.

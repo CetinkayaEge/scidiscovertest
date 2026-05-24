@@ -1,0 +1,9 @@
+Title: Photodynamics of the Molecular Ruby [Cr(ddpd) 2 ] 3+
+Authors: J. Patrick Zobel, Hanna Radatz, Leticia González
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28041668
+Paper ID: pmc_PMC9968007
+
+Abstract:
+The introduction of strong-field ligands can enable luminescence in first-row transition-metal complexes. In this way, earth-abundant near-infrared emitters can be obtained using early 3d metals. A prime example is the molecular ruby [Cr(ddpd) 2 ] 3+ (ddpd = N,N′-dimethyl-N,N′-dipyridin-2-ylpyridine-2,6-diamine) that can achieve high phosphorescence quantum yields at room temperature in aqueous solution. To understand these remarkable properties, here, we simulate its photodynamics in water using trajectory surface hopping on linear vibronic coupling potentials parametrized from multiconfigurational CASSCF/CASPT2 calculations. We find that after excitation to the second absorption band, a relaxation cascade through metal-centered states occurs. After an initial back-and-forth intersystem crossing with higher-lying doublet states, the complex relaxes through a manifold of quartet metal-centered states to the low-lying doublet metal-centered states which are responsible for the experimentally observed emission. These electronic processes are driven by an elongation of the Cr–ligand bond lengths as well as the twisting motion of the trans-coordinated pyridine units in the ddpd ligands. The low-lying doublet states are reached within 1–2 ps and are close in geometry to the doublet minima, thus explaining the high phosphorescence quantum yield of the molecular ruby [Cr(ddpd) 2 ] 3+ .

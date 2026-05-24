@@ -1,0 +1,9 @@
+Title: Smart Indoor Farms: Leveraging Technological Advancements to Power a Sustainable Agricultural Revolution
+Authors: Anirban Jyoti Hati, Rajiv Ranjan Singh
+Year: 2021
+Venue: AgriEngineering
+DOI: https://doi.org/10.3390/agriengineering3040047
+Paper ID: https://openalex.org/W3207653842
+
+Abstract:
+Conventional farming necessitates a large number of resources and infrastructure such as land, irrigation, manpower to manage farms, etc. Modern initiatives are required to automate conventional farms. Smart indoor farms offer the potential to remedy the shortfalls of conventional farms by providing a controlled, intelligent, and smart environment. This paper presents a three-dimensional perspective consisting of soilless farming, energy harvesting, and smart technologies, which could be considered as the three important characteristics of smart indoor farms. A six-layer smart indoor farms architecture has also been proposed, which explains how data are collected using various sensors and devices and then transmitted onto the cloud infrastructure for further analysis and control through various layers. Artificial lighting, smart nutrition management, and artificial climate control, to name a few, are some of the important requirements for smart indoor farms while considering control and service management factors. The major bottleneck in installing such systems is both the economical and the technical constraints. However, with the evolution of technology (and when they become widely available in the near future), a more favourable farming scenario may emerge. Furthermore, smart indoor farms could be viewed as a potential answer for meeting the demands of a sustainable agricultural revolution as we move closer to Agriculture 4.0. Finally, in order to adapt smart indoor farms and their study scope, our work has presented various research areas to potential researchers.

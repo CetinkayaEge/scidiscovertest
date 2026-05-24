@@ -1,0 +1,9 @@
+Title: Biochar from food waste as a sustainable replacement for carbon black in upcycled or compostable composites
+Authors: Seth Kane, Cecily Ryan
+Year: 2022
+Venue: Composites Part C Open Access
+DOI: https://doi.org/10.1016/j.jcomc.2022.100274
+Paper ID: https://openalex.org/W4280552970
+
+Abstract:
+This study investigates biochar, a carbon-based material produced via pyrolysis, as a filler in two plastics: biodegradable plastic polylactic acid (PLA) and recycled high-density polyethylene (HDPE). Specifically, we examine biochar derived from post-consumer food waste as a method to reuse this large waste stream. We find that pyrolysis of this inhomogeneous waste at 900 °C forms biochar with a graphitic structure and electrical conductivity similar to carbon black. Biochar addition impacts the properties of HDPE and PLA differently, with reduced thermal stability in PLA and only minor impacts on the thermal and mechanical properties of HDPE. In both polymers, agglomeration of biochar particles results in low electrical conductivity of the composites. This study highlights a loss of thermal stability in PLA with the addition of biochar as a critical roadblock to applying biochar as a filler in PLA. We propose that inorganic compounds in the biochar catalyze the thermal degradation of PLA, resulting in shorter PLA chains and reducing the composite’s mechanical properties. An important finding of this work is that food-waste-derived biochar increased the degradation rate of PLA under composting conditions, with almost twice the mass loss after 40 days in samples with high biochar loading compared to neat PLA. This study highlights both the promise and challenges of utilizing biochar as a filler in PLA and HDPE. If particle dispersion and thermal stability with PLA can be addressed, biochar has the potential for reuse of a high environmental impact waste stream for a wide range of applications.

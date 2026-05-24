@@ -1,0 +1,9 @@
+Title: Fibrous Solar Evaporator with Tunable Water Flow for Efficient, Self‐Operating, and Sustainable Hydroelectricity Generation
+Authors: Can Ge, Duo Xu, Yuhang Song, Yingcun Liu, Xiao Feng, Chong Gao, Ze Chen, Keshuai Liu, Zhe Sun, Jian Fang
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202403608
+Paper ID: https://openalex.org/W4394833143
+
+Abstract:
+Abstract Convenient and green hydroelectricity generation (HG) systems are widely studied to cope with the energy crisis. Electricity can be generated through streaming potential with merely water droplets. Nevertheless, the operational requirement of persistent water supply restricts the durability and practicality of HG. Solar‐driven steam generation with continuous and sufficient water flow has become a promising integration way to enhance HG sustainability. However, most evaporation‐accelerated hydroelectricity generators are threatened by excessive wetting decay and ionic erosion damage, which significantly impair charge accumulation and operational durability. To address this issue, a carbon black/polypyrrole decorated Tencel framework (CPF) with tunable water flow is fabricated through twisting and braiding technology. The modified water flow rate, height, and content ensure rapid ion migration, appropriate wetting boundary, and sufficient brine circulation, respectively. The aqueous flow and ion strength are optimized through the evaporation‐accelerated and desalination‐integrated HG. Hence, the CPF evaporator shows an efficient, self‐operating, and sustainable output of 0.73 V, 0.6 µA, and 2.38 kg m −2 h −1 in 3.5 wt.% brine under 1 sun radiation without salt deposition. The scalable, prolonged, and adaptable outdoor operation throughout the daytime ensures the clean production of electricity and freshwater.

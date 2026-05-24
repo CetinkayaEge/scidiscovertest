@@ -1,0 +1,9 @@
+Title: Interconversion between bound and free conformations of LexA orchestrates the bacterial SOS response
+Authors: Matej Butala, Daniel Klose, Vesna Hodnik, Ana Rems, Zdravko Podlesek, Johann P. Klare, Gregor Anderluh, Stephen J. W. Busby, Heinz-Jürgen Steinhoff, Darja Žgur-Bertok
+Year: 2011
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkr265
+Paper ID: pmc_PMC3159453
+
+Abstract:
+The bacterial SOS response is essential for the maintenance of genomes, and also modulates antibiotic resistance and controls multidrug tolerance in subpopulations of cells known as persisters. In Escherichia coli , the SOS system is controlled by the interplay of the dimeric LexA transcriptional repressor with an inducer, the active RecA filament, which forms at sites of DNA damage and activates LexA for self-cleavage. Our aim was to understand how RecA filament formation at any chromosomal location can induce the SOS system, which could explain the mechanism for precise timing of induction of SOS genes. Here, we show that stimulated self-cleavage of the LexA repressor is prevented by binding to specific DNA operator targets. Distance measurements using pulse electron paramagnetic resonance spectroscopy reveal that in unbound LexA, the DNA-binding domains sample different conformations. One of these conformations is captured when LexA is bound to operator targets and this precludes interaction by RecA. Hence, the conformational flexibility of unbound LexA is the key element in establishing a co-ordinated SOS response. We show that, while LexA exhibits diverse dissociation rates from operators, it interacts extremely rapidly with DNA target sites. Modulation of LexA activity changes the occurrence of persister cells in bacterial populations.

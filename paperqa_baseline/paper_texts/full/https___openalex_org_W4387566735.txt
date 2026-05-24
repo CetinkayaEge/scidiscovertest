@@ -1,0 +1,9 @@
+Title: BIM in green building: Enhancing sustainability in the small construction project
+Authors: Ahsan Waqar, Idris Othman, Noha Saad, Marc Azab, Abdul Mateen Khan
+Year: 2023
+Venue: Cleaner Environmental Systems
+DOI: https://doi.org/10.1016/j.cesys.2023.100149
+Paper ID: https://openalex.org/W4387566735
+
+Abstract:
+The growing importance of green building practices in addressing environmental concerns, with a focus on energy efficiency, resource conservation, and occupant well-being, necessitates innovative solutions. Building Information Modeling (BIM), a sophisticated digital platform facilitating real-time collaboration and construction process visualization, emerges as a promising tool to enhance efficiency in construction projects. This study explores the role of BIM in advancing sustainability in smaller-scale construction projects. The methodology encompasses a comprehensive literature review and a quantitative analysis, including Exploratory Factor Analysis (EFA) and Structural Equation Modeling (SEM), with a case study centered in Perak, Malaysia. The research aims to assess the impact of BIM on resource efficiency, energy performance, waste reduction, and collaborative decision-making in small-scale green buildings. The findings reveal significant positive correlations between BIM adoption and early-stage design optimization, energy efficiency analysis, material selection, life cycle assessment, waste reduction, and prefabrication. This study underscores the vital role of integrating BIM in smaller-scale construction to promote environmentally responsible practices and achieve sustainable outcomes. Future research avenues may explore strategies for optimized BIM integration and deeper insights into the financial aspects of BIM adoption.

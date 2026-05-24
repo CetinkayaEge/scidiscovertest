@@ -1,0 +1,9 @@
+Title: Two-phase COVID-19 medical waste transport optimisation considering sustainability and infection probability
+Authors: Cejun Cao, Yuting Xie, Yang Liu, Jiahui Liu, Fanshun Zhang
+Year: 2023
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2023.135985
+Paper ID: https://openalex.org/W4315632165
+
+Abstract:
+of case No.35 is 3.20%. A decentralised decision mode is preferred to design a COVID-19 medical waste transport network at the province level. Whatever the infection probability is, infection risk is the most critical concern in the COVID-19 medical waste clean-up activities. Environmental and economic sustainability performance also should be considered when infection probability is more than a certain threshold.

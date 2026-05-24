@@ -1,0 +1,9 @@
+Title: Characteristics of the Fiber Laser Sensor System Based on Etched-Bragg Grating Sensing Probe for Determination of the Low Nitrate Concentration in Water
+Authors: Thanh Binh Pham, Huy Bui, Huu Thang Le, Van Hoi Pham
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010007
+Paper ID: pmc_PMC5298580
+
+Abstract:
+The necessity of environmental protection has stimulated the development of many kinds of methods allowing the determination of different pollutants in the natural environment, including methods for determining nitrate in source water. In this paper, the characteristics of an etched fiber Bragg grating (e-FBG) sensing probe—which integrated in fiber laser structure—are studied by numerical simulation and experiment. The proposed sensor is demonstrated for determination of the low nitrate concentration in a water environment. Experimental results show that this sensor could determine nitrate in water samples at a low concentration range of 0–80 ppm with good repeatability, rapid response, and average sensitivity of 3.5 × 10 −3 nm/ppm with the detection limit of 3 ppm. The e-FBG sensing probe integrated in fiber laser demonstrates many advantages, such as a high resolution for wavelength shift identification, high optical signal-to-noise ratio (OSNR of 40 dB), narrow bandwidth of 0.02 nm that enhanced accuracy and precision of wavelength peak measurement, and capability for optical remote sensing. The obtained results suggested that the proposed e-FBG sensor has a large potential for the determination of low nitrate concentrations in water in outdoor field work.

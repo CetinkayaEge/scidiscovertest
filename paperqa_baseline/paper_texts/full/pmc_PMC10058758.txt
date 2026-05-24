@@ -1,0 +1,9 @@
+Title: High-Precision AI-Enabled Flood Prediction Integrating Local Sensor Data and 3rd Party Weather Forecast
+Authors: Qinghua Wang, Walid Abdelrahman
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063065
+Paper ID: pmc_PMC10058758
+
+Abstract:
+Flooding risk is a threat to many sea-level cities and residential areas in the world. In the city Kristianstad in southern Sweden, a large number of sensors of different types have been deployed to monitor rain and other weather conditions, water levels at sea and lakes, ground water levels, and water flows in the city’s storm-water and sewage systems. All the sensors are enabled by battery and wireless communication, and allow real-time data to be transferred and visualized on a cloud-based Internet of Things (IoT) portal. To better enable the system with capacity of foreseeing upcoming flooding threats and to allow early response from decision-makers, it is desired to build a real-time flood forecast system by utilizing the massive sensor data collected at the IoT portal and data from 3rd party weather forecast service. In this article, we have developed a smart flood forecast system using machine learning and artificial neural networks. The developed forecast system has successfully integrated data from multiple sources and can make accurate flood forecast at distributed locations for the coming days. After being successfully implemented as software product and integrated with the city’s IoT portal, our developed flood forecast system has significantly extended the basic monitoring functions of the city’s IoT infrastructure. This article presents the context of this work, the challenges that have been encountered during our development, our solutions and performance evaluation results. To the best of our knowledge, this is the first large-scale IoT-based real-time flood forecast system that has been enabled by artificial intelligence (AI) and deployed in real world.

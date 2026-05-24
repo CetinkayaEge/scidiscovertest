@@ -1,0 +1,9 @@
+Title: Review on Resistive Switching Devices Based on Multiferroic BiFeO 3
+Authors: Xianyue Zhao, Stephan Menzel, Ilia Polian, Heidemarie Schmidt, Nan Du
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081325
+Paper ID: pmc_PMC10142330
+
+Abstract:
+This review provides a comprehensive examination of the state-of-the-art research on resistive switching (RS) in BiFeO 3 (BFO)-based memristive devices. By exploring possible fabrication techniques for preparing the functional BFO layers in memristive devices, the constructed lattice systems and corresponding crystal types responsible for RS behaviors in BFO-based memristive devices are analyzed. The physical mechanisms underlying RS in BFO-based memristive devices, i.e., ferroelectricity and valence change memory, are thoroughly reviewed, and the impact of various effects such as the doping effect, especially in the BFO layer, is evaluated. Finally, this review provides the applications of BFO devices and discusses the valid criteria for evaluating the energy consumption in RS and potential optimization techniques for memristive devices.

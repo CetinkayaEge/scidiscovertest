@@ -1,0 +1,9 @@
+Title: Voxel-based morphometry and a deep learning model for the diagnosis of early Alzheimer’s disease based on cerebral gray matter changes
+Authors: Huaidong Huang, Shiqiang Zheng, Zhongxian Yang, Yi Wu, Yan Li, Jinming Qiu, Yan Cheng, Panpan Lin, Yan Lin, Jitian Guan, David John Mikulis, Teng Zhou, Renhua Wu
+Year: 2023
+Venue: Cerebral Cortex (New York, NY)
+DOI: 10.1093/cercor/bhac099
+Paper ID: pmc_PMC9890469
+
+Abstract:
+Abstract This study aimed to analyse cerebral grey matter changes in mild cognitive impairment (MCI) using voxel-based morphometry and to diagnose early Alzheimer's disease using deep learning methods based on convolutional neural networks (CNNs) evaluating these changes. Participants (111 MCI, 73 normal cognition) underwent 3-T structural magnetic resonance imaging. The obtained images were assessed using voxel-based morphometry, including extraction of cerebral grey matter, analyses of statistical differences, and correlation analyses between cerebral grey matter and clinical cognitive scores in MCI. The CNN-based deep learning method was used to extract features of cerebral grey matter images. Compared to subjects with normal cognition, participants with MCI had grey matter atrophy mainly in the entorhinal cortex, frontal cortex, and bilateral frontotemporal lobes ( p < 0.0001). This atrophy was significantly correlated with the decline in cognitive scores ( p < 0.01). The accuracy, sensitivity, and specificity of the CNN model for identifying participants with MCI were 80.9%, 88.9%, and 75%, respectively. The area under the curve of the model was 0.891. These findings demonstrate that research based on brain morphology can provide an effective way for the clinical, non-invasive, objective evaluation and identification of early Alzheimer's disease.

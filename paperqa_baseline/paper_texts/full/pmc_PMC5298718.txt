@@ -1,0 +1,9 @@
+Title: Detection of the Vascular Endothelial Growth Factor with a Novel Bioluminescence Resonance Energy Transfer Pair Using a Two-Component System
+Authors: Tobias Wimmer, Eva Schroeter, Birgit Lorenz, Knut Stieger
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010145
+Paper ID: pmc_PMC5298718
+
+Abstract:
+In this paper we describe a two-component BRET (bioluminescence resonance energy transfer)-based method to detect vascular endothelial growth factor (VEGF) molecules in unknown samples as the basis for subsequent in vivo use. A luminescent VEGF binding molecule, which binds in the receptor binding motif of VEGF, is used as the energy donor, transferred to a fluorophore-coupled VEGF binding molecule (acceptor), which binds to the neuropilin binding motif of VEGF, thus enabling energy transfer from the donor to the acceptor molecule. This leads to the emission of light at a longer wavelength and thus the generation of an increased BRET signal only when VEGF is bound to both the donor and acceptor molecules. We further describe a novel BRET pair that uses the Renilla reniformis mutant luciferase RLuc8 and the chemically engineered fluorophore PerCP-Cy5.5 ® , which exhibits superior peak separation of approximately 300 nm. The implantation of capsules consisting of the two BRET components in solution, permeable for VEGF for its in vivo detection, would provide a new and improved method for monitoring VEGF-induced pathologies and thus an adjustment of therapy to patient needs.

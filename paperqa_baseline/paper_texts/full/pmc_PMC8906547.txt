@@ -1,0 +1,9 @@
+Title: Toehold-mediated strand displacement to measure released product from self-cleaving ribozymes
+Authors: Jay Bhakti Kapadia, Nawwaf Kharma, Alen Nellikulam Davis, Nicolas Kamel, Jonathan Perreault
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.078823.121
+Paper ID: pmc_PMC8906547
+
+Abstract:
+This paper presents a probe comprising a fluorophore and a quencher, enabling measurement of released product from self-cleaving hammerhead ribozyme, without labeled RNA molecules, regular sampling or use of polyacrylamide gels. The probe is made of two DNA strands; one strand is labeled with a fluorophore at its 5′-end, while the other strand is labeled with a quencher at its 3′-end. These two DNA strands are perfectly complementary, but with a 3′-overhang of the fluorophore strand. These unpaired nucleotides act as a toehold, which is utilized by a detached cleaved fragment (coming from a self-cleaving hammerhead ribozyme) as the starting point for a strand displacement reaction. This reaction causes the separation of the fluorophore strand from the quencher strand, culminating in fluorescence, detectable in a plate reader. Notably, the emitted fluorescence is proportional to the amount of detached cleaved-off RNAs, displacing the DNA quencher strand. This method can replace or complement radio-hazardous unstable 32 P as a method of measurement of the product release from ribozyme cleavage reactions; it also eliminates the need for polyacrylamide gels, for the same purpose. Critically, this method allows to distinguish between the total amount of cleaved ribozymes and the amount of detached fragments, resulting from that cleavage reaction.

@@ -1,0 +1,9 @@
+Title: Attitudes of University Students towards Mandatory COVID-19 Vaccination Policies: A Cross-Sectional Survey in Rome, Italy
+Authors: Antonio Sciurti, Valentina Baccolini, Erika Renzi, Maria Roberta De Blasiis, Leonardo Maria Siena, Claudia Isonne, Giuseppe Migliara, Azzurra Massimi, Corrado De Vito, Carolina Marzuillo, Paolo Villari
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040721
+Paper ID: pmc_PMC10141490
+
+Abstract:
+Mandatory vaccination (MV) against COVID-19 is a contentious topic. In this study, we used logistic regression models to identify attitudes among Sapienza University students towards MV for COVID-19. We considered three different scenarios: mandatory COVID-19 vaccination (MCV) for healthcare workers (HCWs) (Model 1), for all people aged ≥ 12 years (Model 2), and for admission to schools and universities (Model 3). We collected 5287 questionnaires over a six-month period and divided these into three groups (September–October 2021, November–December 2021, and January–February 2022). MCV for HCWs was the most strongly supported policy (69.8% in favour), followed by MCV for admission to schools and universities (58.3%), and MCV for the general population (54.6%). In a multivariable analysis, the models showed both similarities and differences. There was no association of socio-demographic characteristics with the outcomes, apart from being enrolled in non-healthcare courses, which negatively affected Models 2 and 3. A greater COVID-19 risk perception was generally associated with a more positive attitude towards MCV, although heterogeneously across models. Vaccination status was a predictor of being in favour of MCV for HCWs, whereas being surveyed in November–February 2022 favoured MCV for admission to schools and universities. Attitudes towards MCV were variable across policies; thus, to avoid unintended consequences, these aspects should be carefully considered by policymakers.

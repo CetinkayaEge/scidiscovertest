@@ -1,0 +1,9 @@
+Title: Green Ether Electrolytes for Sustainable High‐voltage Potassium Ion Batteries
+Authors: Xuemei Ma, Hongwei Fu, Jingyi Shen, Dianwei Zhang, Jiawan Zhou, Chunyi Tong, Apparao M. Rao, Jiang Zhou, Ling Fan, Bingan Lu
+Year: 2023
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202312973
+Paper ID: https://openalex.org/W4387691904
+
+Abstract:
+Ether-based electrolytes are promising for secondary batteries due to their good compatibility with alkali metal anodes and high ionic conductivity. However, they suffer from poor oxidative stability and high toxicity, leading to severe electrolyte decomposition at high voltage and biosafety/environmental concerns when electrolyte leakage occurs. Here, we report a green ether solvent through a rational design of carbon-chain regulation to elicit steric hindrance, such a structure significantly reducing the solvent's biotoxicity and tuning the solvation structure of electrolytes. Notably, our solvent design is versatile, and an anion-dominated solvation structure is favored, facilitating a stable interphase formation on both the anode and cathode in potassium-ion batteries. Remarkably, the green ether-based electrolyte demonstrates excellent compatibility with K metal and graphite anode and a 4.2 V high-voltage cathode (200 cycles with average Coulombic efficiency of 99.64 %). This work points to a promising path toward the molecular design of green ether-based electrolytes for practical high-voltage potassium-ion batteries and other rechargeable batteries.

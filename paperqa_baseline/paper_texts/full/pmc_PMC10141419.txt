@@ -1,0 +1,9 @@
+Title: Scannable Dual-Focus Metalens with Hybrid Phase
+Authors: Gi-Hyun Go, Chung Hyun Park, Kie Young Woo, Minho Choi, Yong-Hoon Cho
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c04696
+Paper ID: pmc_PMC10141419
+
+Abstract:
+Metalenses with two foci in the longitudinal or transverse direction, called bifocal or dual-focus metalenses, are promising building blocks in tomography techniques, data storage, and optical tweezers. For practical applications, relative movement between the beam and specimen is required, and beam scanning is highly desirable for high-speed operation without vibration. However, dual-focus metalenses employ a hyperbolic phase that experiences off-axis aberrations, which is not suitable for beam scanning. Here, we demonstrated a scannable dual-focus metalens by employing a new phase called “hybrid phase”. The hybrid phase consists of a hyperbolic phase inside and a quadratic phase outside to reduce off-axis aberrations while maintaining a high numerical aperture. We show that the two foci of the scannable dual-focus metalens move together without severe distortion for incident angles of up to 2.5°. Our design easily extends to the case of multifocusing, which is essential for various applications ranging from imaging to manipulation.

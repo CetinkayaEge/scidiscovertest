@@ -1,0 +1,9 @@
+Title: Quantification of Comfort for the Development of Binding Parts in a Standing Rehabilitation Robot
+Authors: Yejin Nam, Sumin Yang, Jongman Kim, Bummo Koo, Sunghyuk Song, Youngho Kim
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042206
+Paper ID: pmc_PMC9967481
+
+Abstract:
+Human-machine interfaces (HMI) refer to the physical interaction between a user and rehabilitation robots. A persisting excessive load leads to soft tissue damage, such as pressure ulcers. Therefore, it is necessary to define a comfortable binding part for a rehabilitation robot with the subject in a standing posture. The purpose of this study was to quantify the comfort at the binding parts of the standing rehabilitation robot. In Experiment 1, cuff pressures of 10–40 kPa were applied to the thigh, shank, and knee of standing subjects, and the interface pressure and pain scale were obtained. In Experiment 2, cuff pressures of 10–20 kPa were applied to the thigh, and the tissue oxygen saturation and the skin temperature were measured. Questionnaire responses regarding comfort during compression were obtained from the subjects using the visual analog scale and the Likert scale. The greatest pain was perceived in the thigh. The musculoskeletal configuration affected the pressure distribution. The interface pressure distribution by the binding part showed higher pressure at the intermuscular septum. Tissue oxygen saturation (StO 2 ) increased to 111.9 ± 6.7% when a cuff pressure of 10 kPa was applied and decreased to 92.2 ± 16.9% for a cuff pressure of 20 kPa. A skin temperature variation greater than 0.2 °C occurred in the compressed leg. These findings would help evaluate and improve the comfort of rehabilitation robots.

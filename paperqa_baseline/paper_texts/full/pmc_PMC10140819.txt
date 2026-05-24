@@ -1,0 +1,9 @@
+Title: Predicting Hydroxychloroquine Clearance in Healthy and Diseased Populations Using a Physiologically Based Pharmacokinetic Approach
+Authors: Faleh Alqahtani, Ali Mohammed Asiri, Ammara Zamir, Muhammad Fawad Rasool, Amer S. Alali, Sary Alsanea, Ismail A. Walbi
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041250
+Paper ID: pmc_PMC10140819
+
+Abstract:
+Hydroxychloroquine (HCQ), a congener of chloroquine, is widely used in prophylaxis and the treatment of malaria, and also as a cure for rheumatoid arthritis, systemic lupus erythematosus, and various other diseases. Physiologically based pharmacokinetic modeling (PBPK) has attracted great interest in the past few years in predicting drug pharmacokinetics (PK). This study focuses on predicting the PK of HCQ in the healthy population and extrapolating it to the diseased populations, i.e., liver cirrhosis and chronic kidney disease (CKD), utilizing a systematically built whole-body PBPK model. The time vs. concentration profiles and drug-related parameters were obtained from the literature after a laborious search and in turn were integrated into PK-Sim software for designing healthy intravenous, oral, and diseased models. The model’s evaluation was performed using observed-to-predicted ratios (Robs/Rpre) and visual predictive checks within a 2-fold error range. The healthy model was then extrapolated to liver cirrhosis and CKD populations after incorporating various disease-specific pathophysiological changes. Box–whisker plots showed an increase in AUC 0-t in liver cirrhosis, whereas a decrease in AUC 0-t was seen in the CKD population. These model predictions may assist clinicians in adjusting the administered HCQ doses in patients with different degrees of hepatic and renal impairment.

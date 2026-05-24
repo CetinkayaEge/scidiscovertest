@@ -1,0 +1,9 @@
+Title: Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs
+Authors: Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert‐Dufresne
+Year: 2022
+Venue: Communications Physics
+DOI: https://doi.org/10.1038/s42005-021-00788-w
+Paper ID: https://openalex.org/W3204707240
+
+Abstract:
+Abstract Contagion phenomena are often the results of multibody interactions—such as superspreading events or social reinforcement—describable as hypergraphs. We develop an approximate master equation framework to study contagions on hypergraphs with a heterogeneous structure in terms of group size (hyperedge cardinality) and of node membership (hyperdegree). By mapping multibody interactions to nonlinear infection rates, we demonstrate the influence of large groups in two ways. First, we characterize the phase transition, which can be continuous or discontinuous with a bistable regime. Our analytical expressions for the critical and tricritical points highlight the influence of the first three moments of the membership distribution. We also show that heterogeneous group sizes and nonlinear contagion promote a mesoscopic localization regime where contagion is sustained by the largest groups, thereby inhibiting bistability. Second, we formulate an optimal seeding problem for hypergraph contagion and compare two strategies: allocating seeds according to node or group properties. We find that, when the contagion is sufficiently nonlinear, groups are more effective seeds than individual hubs.

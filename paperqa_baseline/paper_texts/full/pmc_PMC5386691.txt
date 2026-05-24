@@ -1,0 +1,9 @@
+Title: Ochratoxin A induces ER stress and apoptosis in mesangial cells via a NADPH oxidase-derived reactive oxygen species-mediated calpain activation pathway
+Authors: Meei-Ling Sheu, Chin-Chang Shen, Yuan-Siao Chen, Chih-Kang Chiang
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14270
+Paper ID: pmc_PMC5386691
+
+Abstract:
+Ochratoxin A (OTA) contaminated food increases reactive oxygen species (ROS) production in glomerulus and causes glomerulopathy. The molecular mechanisms still remain uncertain. In this study, we used mouse and rat glomerular mesangial cells and delineate the signaling pathway behind the OTA-triggered cell apoptosis. OTA dose-dependently induced expression of ER stress markers including phospho-PERK, phospho-eIF2α, GRP78, GRP94, and CHOP. Apoptosis events including cleavage of caspase-12, caspase-7, and PARP are also observed. OTA activated oxidative stress and increased NADPH oxidase activity. NADPH oxidase inhibitor, apocynin, significantly attenuated OTA-induced cell apoptosis. Moreover, OTA markedly increased the calpain activity which significantly inhibited by apocynin. Transfection of calpain-siRNA effectively inhibited the OTA-increased ER stress-related protein expression. These findings suggest that OTA activated NADPH oxidase and calpain, induced ER stress and ROS production, and caused glomerular mesangial cells apoptosis which leads to glomerulopathy.

@@ -1,0 +1,9 @@
+Title: Forecasting of Covid-19 positive cases in Indonesia using long short-term memory (LSTM)
+Authors: Bryan Alfason Sunjaya, Syarifah Diana Permai, Alexander Agung Santoso Gunawan
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.125
+Paper ID: pmc_PMC9829418
+
+Abstract:
+Since the emergence of Covid-19, the condition of Covid-19 has increased and decreased several times along with the emergence of new variants. Therefore, change occurs quickly and is extreme. If the positive cases of covid occur beyond medical capacity, there will be inequality. Therefore, it is important to predict the number of positive cases of covid to avoid this. The objective of this research is to predict the number of positive cases of Covid-19 in Indonesia using the ARIMA and LSTM methods. The two methods were compared to obtain the best method for predicting positive cases of Covid-19 in Indonesia. The data used in this research is the number of positive cases of Covid-19 in Indonesia from 2020 to 2022. Based on the results of ARIMA modeling, showed that the prediction results for the number of positive Covid -19 cases are still not good. This is because the ARIMA model produced does not meet the assumptions. Therefore, modeling was carried out using the LSTM method to get better predictions of the number of positive cases of Covid -19 in Indonesia. Based on the comparison results of the RMSE and MAPE values on the ARIMA and LSTM models, it showed that the LSTM model is better than ARIMA.

@@ -1,0 +1,9 @@
+Title: Harnessing AI for Sustainable Shipping and Green Ports: Challenges and Opportunities
+Authors: Irmina Durlik, Tymoteusz Miller, Ewelina Kostecka, Adrianna Łobodzińska, Tomasz Kostecki
+Year: 2024
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app14145994
+Paper ID: https://openalex.org/W4400493457
+
+Abstract:
+The maritime industry, responsible for moving approximately 90% of the world’s goods, significantly contributes to environmental pollution, accounting for around 2.5% of global greenhouse gas emissions. This review explores the integration of artificial intelligence (AI) in promoting sustainability within the maritime sector, focusing on shipping and port operations. By addressing emissions, optimizing energy use, and enhancing operational efficiency, AI offers transformative potential for reducing the industry’s environmental impact. This review highlights the application of AI in fuel optimization, predictive maintenance, route planning, and smart energy management, alongside its role in autonomous shipping and logistics management. Case studies from Maersk Line and the Port of Rotterdam illustrate successful AI implementations, demonstrating significant improvements in fuel efficiency, emission reduction, and environmental monitoring. Despite challenges such as high implementation costs, data privacy concerns, and regulatory complexities, the prospects for AI in the maritime industry are promising. Continued advancements in AI technologies, supported by collaborative efforts and public–private partnerships, can drive substantial progress towards a more sustainable and efficient maritime industry.

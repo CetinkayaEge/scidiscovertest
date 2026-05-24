@@ -1,0 +1,9 @@
+Title: Sustainable Smart City to Society 5.0: State-of-the-Art and Research Challenges
+Authors: Priyanka Mishra, Prabhat Thakur, Ghanshyam Singh
+Year: 2022
+Venue: SAIEE Africa Research Journal
+DOI: https://doi.org/10.23919/saiee.2022.9945865
+Paper ID: https://openalex.org/W4308704844
+
+Abstract:
+With the growth of data traffic, demand of huge number of digital devices and their interconnection to establish a reliable communication, the internet has become a potential demand of the society. To develop a system that securely connects the internet to real-world space would aid in the advancement of a human-centered society that balances economic progress with the resolution of social issues. This paper provides a detailed aspect of Society 5.0 with its requirements, architecture, and components. We have proceeded extensively with the state-of-the-art Society 5.0 and its link with Industry 4.0/5.0. Furthermore, the role of Society 5.0 in the sustainable development goals of the United Nations is well elaborated. Several emerging communication and computing technologies such 5G/5G-Internet of Things (IoT), edge computing/ cloud computing/ fog computing, Internet of everything, blockchain, and beyond networks have been also well explored to fulfill the demands of Society 5.0. The potential application of super smart cities (Society 5.0) with some real-time experience of inhabitants is thoroughly discussed. Finally, we highlighted several open research challenges with opportunities.

@@ -1,0 +1,9 @@
+Title: Directed technical change, environmental sustainability, and population growth
+Authors: Peter Kruse-Andersen
+Year: 2023
+Venue: Journal of Environmental Economics and Management
+DOI: https://doi.org/10.1016/j.jeem.2023.102885
+Paper ID: https://openalex.org/W2995895173
+
+Abstract:
+Population growth has two potentially counteracting effects on pollution emissions: (i) more people imply more production and thereby more emissions, and (ii) more people imply a larger research capacity which might reduce the emission intensity of production, depending on the direction of research. This study investigates how to achieve a given climate goal in the presence of these two effects. A growth model featuring both directed technical change and population growth is developed. The model allows for simultaneous research in polluting and non-polluting technologies. Both analytical and numerical results indicate that population growth is a burden on the environment, even when all research efforts are directed toward non-polluting technologies. Thus, research subsidies alone cannot ensure environmental sustainability. Instead, the analysis highlights the importance of carbon taxes for climate change mitigation.

@@ -1,0 +1,9 @@
+Title: A review of visual sustained attention: neural mechanisms and computational models
+Authors: Huimin Huang, Rui Li, Junsong Zhang
+Year: 2023
+Venue: PeerJ
+DOI: https://doi.org/10.7717/peerj.15351
+Paper ID: https://openalex.org/W4380485412
+
+Abstract:
+Sustained attention is one of the basic abilities of humans to maintain concentration on relevant information while ignoring irrelevant information over extended periods. The purpose of the review is to provide insight into how to integrate neural mechanisms of sustained attention with computational models to facilitate research and application. Although many studies have assessed attention, the evaluation of humans' sustained attention is not sufficiently comprehensive. Hence, this study provides a current review on both neural mechanisms and computational models of visual sustained attention. We first review models, measurements, and neural mechanisms of sustained attention and propose plausible neural pathways for visual sustained attention. Next, we analyze and compare the different computational models of sustained attention that the previous reviews have not systematically summarized. We then provide computational models for automatically detecting vigilance states and evaluation of sustained attention. Finally, we outline possible future trends in the research field of sustained attention.

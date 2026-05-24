@@ -1,0 +1,9 @@
+Title: An Efficient Wireless Recharging Mechanism for Achieving Perpetual Lifetime of Wireless Sensor Networks
+Authors: Hongli Yu, Guilin Chen, Shenghui Zhao, Chih-Yung Chang, Yu-Ting Chin
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010013
+Paper ID: pmc_PMC5298586
+
+Abstract:
+Energy recharging has received much attention in recent years. Several recharging mechanisms were proposed for achieving perpetual lifetime of a given Wireless Sensor Network (WSN). However, most of them require a mobile recharger to visit each sensor and then perform the recharging task, which increases the length of the recharging path. Another common weakness of these works is the requirement for the mobile recharger to stop at the location of each sensor. As a result, it is impossible for recharger to move with a constant speed, leading to inefficient movement. To improve the recharging efficiency, this paper takes “recharging while moving” into consideration when constructing the recharging path. We propose a Recharging Path Construction (RPC) mechanism, which enables the mobile recharger to recharge all sensors using a constant speed, aiming to minimize the length of recharging path and improve the recharging efficiency while achieving the requirement of perpetual network lifetime of a given WSN. Performance studies reveal that the proposed RPC outperforms existing proposals in terms of path length and energy utilization index, as well as visiting cycle.

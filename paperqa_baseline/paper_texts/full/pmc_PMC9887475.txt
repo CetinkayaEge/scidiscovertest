@@ -1,0 +1,9 @@
+Title: sAOP: linking chemical stressors to adverse outcomes pathway networks
+Authors: Alejandro Aguayo-Orozco, Karine Audouze, Troels Siggaard, Robert Barouki, Søren Brunak, Olivier Taboureau
+Year: 2019
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz570
+Paper ID: pmc_PMC9887475
+
+Abstract:
+Abstract Motivation Adverse outcome pathway (AOP) is a toxicological concept proposed to provide a mechanistic representation of biological perturbation over different layers of biological organization. Although AOPs are by definition chemical-agnostic, many chemical stressors can putatively interfere with one or several AOPs and such information would be relevant for regulatory decision-making. Results With the recent development of AOPs networks aiming to facilitate the identification of interactions among AOPs, we developed a stressor-AOP network (sAOP). Using the ‘cytotoxitiy burst’ (CTB) approach, we mapped bioactive compounds from the ToxCast data to a list of AOPs reported in AOP-Wiki database. With this analysis, a variety of relevant connections between chemicals and AOP components can be identified suggesting multiple effects not observed in the simplified ‘one-biological perturbation to one-adverse outcome’ model. The results may assist in the prioritization of chemicals to assess risk-based evaluations in the context of human health. Availability and implementation sAOP is available at http://saop.cpr.ku.dk Supplementary information Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,9 @@
+Title: Influence of Building Information Modeling (BIM) Implementation in High-Rise Buildings towards Sustainability
+Authors: Bilal Manzoor, Idris Othman, Jong Kang, Zong Woo Geem
+Year: 2021
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app11167626
+Paper ID: https://openalex.org/W3194931988
+
+Abstract:
+To secure full benefits without jeopardizing project feasibility, sustainability standards in high-rise building design should be included at all phases of the decision-making process. However, there are limited empirical studies on the influence of building information modeling (BIM) implementation in high-rise buildings. Implementing BIM is a viable technique to improve high-rise building sustainability performance. Therefore, the aim of this research is to explore the influence of BIM implementation in high-rise buildings by integrating the exploratory factor analysis (EFA) and structural equation modeling (SEM) approaches. Following a detailed review of the literature to identify critical success factors (CSFs) for BIM implementation, empirical evidence was gathered through a questionnaire survey with 205 stakeholders in construction projects. The EFA revealed five components, namely, productivity, visualization, coordination, sustainability, and safety improvement, all of which have a significant impact on the long-term construction of high-rise buildings. Moreover, SEM was conducted to develop the model for high-rise buildings. However, it has been revealed that awareness and usage level of BIM technology in high-rise buildings still appears to be limited. This scenario paves the way for future researchers to develop more models in the domain of high-rise buildings in order to improve sustainable development.

@@ -1,0 +1,9 @@
+Title: Exploring big data applications in sustainable urban infrastructure: A review
+Authors: David Victor Ogunkan, Stella Kehinde Ogunkan
+Year: 2025
+Venue: Urban Governance
+DOI: https://doi.org/10.1016/j.ugj.2025.02.003
+Paper ID: https://openalex.org/W4407461917
+
+Abstract:
+As urbanization accelerates globally, cities face unprecedented challenges related to infrastructure management, resource efficiency, and sustainability. To address these issues, many cities are increasingly integrating big data into their infrastructure systems, particularly within the context of smart cities. This study provides a comprehensive review of how big data is utilized to promote sustainable urban infrastructure, focusing on five key areas: energy management, transportation systems, water resources, waste management, and green infrastructure. The analysis draws on successful case studies from cities such as Barcelona, Singapore, Amsterdam, and New York, exploring how these urban centers leverage big data to optimize infrastructure systems and improve environmental and social outcomes. Additionally, this review identifies the challenges cities face when integrating big data into their planning processes, including data privacy concerns, technical expertise gaps, and the high costs of infrastructure upgrades. The findings suggest that big data plays a transformative role in enhancing urban resilience, reducing environmental impact, and fostering long-term sustainability. The study concludes by highlighting future research opportunities, particularly the potential of AI and advanced analytics in further optimizing smart city infrastructure.

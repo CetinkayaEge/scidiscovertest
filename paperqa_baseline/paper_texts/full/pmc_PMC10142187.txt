@@ -1,0 +1,9 @@
+Title: The Adsorption Behaviors and Mechanisms of Humic Substances by Thermally Oxidized Graphitic Carbon Nitride
+Authors: Hongxin Li, Jianlong Wang, Dongbei Yue, Jianchao Wang, Chu Tang, Lingyue Zhang
+Year: 2023
+Venue: Toxics
+DOI: 10.3390/toxics11040369
+Paper ID: pmc_PMC10142187
+
+Abstract:
+Thermal oxidation is efficient for enhancing the photocatalysis performance of graphitic carbon nitride (g-C 3 N 4 ), while its effect on adsorption performance has not been fully studied, which is crucial to the application of g-C 3 N 4 as adsorbents and photocatalysts. In this study, thermal oxidation was used to prepare sheet-like g-C 3 N 4 (TCN), and its application for adsorption of humic acids (HA) and fulvic acids (FA) was evaluated. The results showed that thermal oxidation clearly affected the properties of TCN. After thermal oxidation, the adsorption performance of TCN was enhanced significantly, and the adsorption amount of HA increased from 63.23 (the bulk g-C 3 N 4 ) to 145.35 mg/g [TCN prepared at 600 °C (TCN-600)]. Based on fitting results using the Sips model, the maximum adsorption amounts of TCN-600 for HA and FA were 327.88 and 213.58 mg/g, respectively. The adsorption for HA and FA was markedly affected by pH, alkaline, and alkaline earth metals due to electrostatic interactions. The major adsorption mechanisms included electrostatic interactions, π-π interactions, hydrogen bonding, along with a special pH-dependent conformation (for HA). These findings implied that TCN prepared from environmental-friendly thermal oxidation showed promising prospects for humic substances (HSs) adsorption in natural water and wastewater.

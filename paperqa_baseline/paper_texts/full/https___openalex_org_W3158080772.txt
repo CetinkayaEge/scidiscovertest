@@ -1,0 +1,9 @@
+Title: Study of Alternatives for the Design of Sustainable Low-Income Housing in Brazil
+Authors: Pollyanna Fernandes Bianchi, Víctor Yepes, Paulo Cezar Vitório, Moacir Kripka
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13094757
+Paper ID: https://openalex.org/W3158080772
+
+Abstract:
+Despite insufficient housing facilities, particularly in developing countries, construction systems are generally selected intuitively or based on conventional solutions sanctioned by practice. The present study aims to evaluate different options for the design of low-income housing in Brazil by integrating the life cycle assessment (LCA) into the decision-making process. To achieve this objective, three single-family projects with different construction systems were selected and analyzed. The most sustainable design was selected through the analytic hierarchy process (AHP). The considered parameters, which were obtained through a survey with professionals and customers, included cost, environmental impact, thermal comfort, construction time, and cultural acceptance. LCA and life cycle cost assessment (LCCA) were performed with the frontier’s system considering the cradle-to-gate cycle, which included the extraction of raw materials, manufacture of building materials, and housing construction. The projects were modelled using Autodesk Revit software with the Tally application for LCA evaluation. The results indicated that light steel frame houses present a better behavior than other conventional alternatives, and the integration of building information modelling with LCA and LCCA in the design phase can lead to the development of more sustainable houses.

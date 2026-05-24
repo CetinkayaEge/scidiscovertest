@@ -1,0 +1,9 @@
+Title: Assessing the influence of emerging technologies on organizational data driven culture and innovation capabilities: A sustainability performance perspective
+Authors: Ranjan Chaudhuri, Sheshadri Chatterjee, Marcello M. Mariani, Samuel Fosso Wamba
+Year: 2023
+Venue: Technological Forecasting and Social Change
+DOI: https://doi.org/10.1016/j.techfore.2023.123165
+Paper ID: https://openalex.org/W4390445342
+
+Abstract:
+Industry 4.0 applications can accelerate data driven decision making culture in organizations. Such data driven culture can have a profound impact on the organizational capabilities underlying product and process innovation. While there is a relatively developed body of literature on the effect of data driven culture on organizational performance, there is virtually no study that has examined how Industry 4.0 influences the data driven culture of organizations and how in its turn such culture influences both product and process innovation. Furthermore, the role of organizational data driven culture has seldom been examined in relation to organizational sustainability performance. Against this backdrop, the aim of this study is to examine the role of emerging Industry 4.0 technologies on the data driven culture of organizations and analyze if and how such data driven culture influences organizational performance ultimately translating into competitive advantage. By leveraging the Resource Based View (RBV) and Dynamic Capabilities theory, we developed a theoretical model and tested it using a PLS-SEM approach on a sample of 416 organizations. We found that adoption of industry 4.0 technologies influences organizational performance by improving social, competitive, and financial performance of the organizations relying on data driven culture and improved innovative capabilities.

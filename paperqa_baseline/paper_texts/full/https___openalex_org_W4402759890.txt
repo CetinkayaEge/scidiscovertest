@@ -1,0 +1,9 @@
+Title: A Review of Agrivoltaic Systems: Addressing Challenges and Enhancing Sustainability
+Authors: Amro A. Zahrawi, Aly Mousaad Aly
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16188271
+Paper ID: https://openalex.org/W4402759890
+
+Abstract:
+Agrivoltaics is a relatively new term used originally for integrating photovoltaic (PV) systems into the agricultural landscape and expanded to applications such as animal farms, greenhouses, and recreational parks. The dual use of land offers multiple solutions for the renewable energy sector worldwide, provided it can be implemented without negatively impacting agricultural production. However, agrivoltaics represent a relatively new technology, facing challenges including economic viability, vulnerability to wind loads, and interference with growing crops. This paper reviews the recent research on integrating agrivoltaics with farming applications, focusing on challenges, wind impact on agrivoltaics, and economic solutions. The effect of agrivoltaics on temperature control of the lands is a critical factor in managing (1) water and the soil of the land, (2) animal comfort, and (3) greenhouse productivity, positively or negatively. In this review, a contradiction between the different versions of the American Society of Civil Engineers (ASCE) standards and the wind tunnel results is shown. Important factors affecting the wind load, such as damping and mass increase, optimum stow position, and aerodynamic edge modification, are highlighted with emphasis on the significant knowledge gap in the wind load mitigation methods.

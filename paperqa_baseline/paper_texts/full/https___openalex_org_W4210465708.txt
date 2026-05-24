@@ -1,0 +1,9 @@
+Title: Assessing Education for Sustainable Development in Engineering Study Programs: A Case of AI Ecosystem Creation
+Authors: Agnė Paulauskaitė-Tarasevičienė, Ingrida Lagzdinytė-Budnikė, Lina Gaižiūnienė, Vilma Sukackė, Laura Daniusevičiūtė-Brazaitė
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031702
+Paper ID: https://openalex.org/W4210465708
+
+Abstract:
+The issue of sustainability in education has never been more important for the future of our environment, and strategies to develop the skills needed by younger generations to meet this significant global challenge should be developed across all curricula. There is much focus on the topic of sustainability in business, finance, climate, health, water and education; however, there are some challenges when sustainability needs to be integrated into engineering or fundamental study programs (SPs). In the latter, sustainability is more often emphasized and implemented through its general principles or separate modules in social sciences and project activities. There are a number of questions and challenges in how to highlight sustainability aspects and evaluation metrics due to the specifics of the engineering study field. For evaluating the sustainability level in engineering studies, a hierarchical methodology employing the SAMR (Substitution, Augmentation, Modification, Redefinition) model is proposed, taking a technological university in Lithuania as the case study. As a more concrete example, the first and second cycle SPs titled ‘Artificial Intelligence’ are described and analyzed in all relevant perspectives of sustainability. The study proposes five tangible criteria that must be emphasized in the learning process in order to ensure the development of sustainability goals in IT/AI study programs.

@@ -1,0 +1,9 @@
+Title: Web 3.0 and Sustainability: Challenges and Research Opportunities
+Authors: Shekhar Rathor, Mingyu Zhang, Taehoon Im
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su152015126
+Paper ID: https://openalex.org/W4387843608
+
+Abstract:
+Web 3.0 is the next generation of the web and is still in its early stages. Web 3.0 uses many technical components to create an innovative Internet ecosystem. It is characterized by features such as decentralization, interoperability, data ownership, and smart contracts. Web 3.0 aims to enhance user experiences, privacy, and data control while fostering an equitable digital future. Web 3.0 holds significant potential for accelerating progress towards SDGs. As Web 3.0 technologies gain attraction, concerns arise about their potential impact on sustainability, encompassing energy consumption, hardware waste, and carbon footprint. By examining the current state of research about Web 3.0 and sustainability, this opinion paper discusses key Web 3.0 sustainability projects, sustainability challenges, and future directions to build a more sustainable digital era.

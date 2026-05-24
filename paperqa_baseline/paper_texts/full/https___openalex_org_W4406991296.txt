@@ -1,0 +1,9 @@
+Title: Exploring the role of ICT adoption technologies and renewable energy consumption in achieving a sustainable environment in the United States: an SDGs-based policy framework
+Authors: Tomiwa Sunday Adebayo, Oktay Özkan, Dilber Uzun Ozsahin, Babatunde Sunday Eweade, Bright Akwasi Gyamfi
+Year: 2025
+Venue: Environmental Sciences Europe
+DOI: https://doi.org/10.1186/s12302-025-01059-z
+Paper ID: https://openalex.org/W4406991296
+
+Abstract:
+In recent decades, rapid development has exacerbated climate challenges, posing serious threats to ecological sustainability. To address these issues, renewable energy, ICT technologies, financial development, and globalization have emerged as essential tools for mitigating ecological impacts and fostering green economic growth. These measures align closely with the goals of COP 28, the 2030 Sustainable Development Goals (SDGs), and the commitment to achieve carbon neutrality by 2050. However, the United States faces considerable challenges in reconciling socio-economic development with environmental sustainability. This study, therefore, investigates the key drivers of CO2 emissions (CO2) in the United States using data from 1990Q1 to 2021Q4. The study employs wavelet quantile-on-quantile regression along with quantile cointegration to analyze these dynamics across different quantiles and timeframes. The results from the study showed that across all quantiles and periods, ICT adoption technologies and fiscal decentralization increase CO2, while globalization, renewable energy consumption and financial development lessen CO2.

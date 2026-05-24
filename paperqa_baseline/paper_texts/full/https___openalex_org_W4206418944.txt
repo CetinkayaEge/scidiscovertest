@@ -1,0 +1,9 @@
+Title: circCDYL2 promotes trastuzumab resistance via sustaining HER2 downstream signaling in breast cancer
+Authors: Yun Ling, Gehao Liang, Qun Lin, Xiaolin Fang, Qing Luo, Yinghuan Cen, Maryam Mehrpour, Ahmed Hamaï, Zihao Liu, Yu Shi, Juanmei Li, Wanyi Lin, Shijie Jia, Wenqian Yang, Qiang Liu, Erwei Song, Jun Li, Chang Gong
+Year: 2022
+Venue: Molecular Cancer
+DOI: https://doi.org/10.1186/s12943-021-01476-7
+Paper ID: https://openalex.org/W4206418944
+
+Abstract:
+BACKGROUND: ) breast cancer (BC) patients treated with trastuzumab recurred rapidly. However, the mechanisms underlying trastuzumab resistance remained largely unclear. METHODS: breast cancer tissues with different trastuzumab response. The biological roles of trastuzumab-resistant associated circRNAs were detected by cell vitality assay, colony formation assay, Edu assay, patient-derived xenograft (PDX) models and orthotopic animal models. For mechanisms research, the co-immunoprecipitation, Western blot, immunofluorescence, and pull down assays confirmed the relevant mechanisms of circRNA and binding proteins. RESULTS: BC patients with high levels of circCDYL2 developed rapid recurrence and had shorter disease-free survival (DFS) and overall survival (OS) following anti-HER2 therapy compared to those with low circCDYL2. CONCLUSIONS: BC patients.

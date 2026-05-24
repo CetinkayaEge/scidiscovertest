@@ -1,0 +1,9 @@
+Title: Graph Neural Network Guided Evolutionary Search of Grain Boundaries in 2D Materials
+Authors: Jianan Zhang, Aditya Koneru, Subramanian K. R. S. Sankaranarayanan, Carmen M. Lilley
+Year: 2023
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.3c01161
+Paper ID: pmc_PMC10141246
+
+Abstract:
+Grain boundaries (GBs) in two-dimensional (2D) materials are known to dramatically impact material properties ranging from the physical, chemical, mechanical, electronic, and optical, to name a few. Predicting a range of physically realistic GB structures for 2D materials is critical to exercising control over their properties. This, however, is nontrivial given the vast structural and configurational (defect) search space between lateral 2D sheets with varying misfits. Here, in a departure from traditional evolutionary search methods, we introduce a workflow that combines the Graph Neural Network (GNN) and an evolutionary algorithm for the discovery and design of novel 2D lateral interfaces. We use a representative 2D material, blue phosphorene (BP), and identify 2D GB structures to test the efficacy of our GNN model. The GNN was trained with a computationally inexpensive machine learning bond order potential (Tersoff formalism) and density functional theory (DFT). Systematic downsampling of the training data sets indicates that our model can predict structural energy under 0.5% mean absolute error with sparse (<2000) DFT generated energy labels for training. We further couple the GNN model with a multiobjective genetic algorithm (MOGA) and demonstrate strong accuracy in the ability of the GNN to predict GBs. Our method is generalizable, is material agnostic, and is anticipated to accelerate the discovery of 2D GB structures.

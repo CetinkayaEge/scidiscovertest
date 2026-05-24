@@ -1,0 +1,9 @@
+Title: Expression profiles of small non-coding RNAs in breast cancer tumors characterize clinicopathological features and show prognostic and predictive potential
+Authors: Emmi Kärkkäinen, Sami Heikkinen, Maria Tengström, Veli-Matti Kosma, Arto Mannermaa, Jaana M. Hartikainen
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-26954-w
+Paper ID: pmc_PMC9803687
+
+Abstract:
+Precision medicine approaches are required for more effective therapies for cancer. As small non-coding RNAs (sncRNAs) have recently been suggested as intriguing candidates for cancer biomarkers and have shown potential also as novel therapeutic targets, we aimed at profiling the non-miRNA sncRNAs in a large sample set to evaluate their role in invasive breast cancer (BC). We used small RNA sequencing and 195 fresh-frozen invasive BC and 22 benign breast tissue samples to identify significant associations of small nucleolar RNAs, small nuclear RNAs, and miscellaneous RNAs with the clinicopathological features and patient outcome of BC. Ninety-six and five sncRNAs significantly distinguished ( Padj < 0.01) invasive local BC from benign breast tissue and metastasized BC from invasive local BC, respectively. Furthermore, 69 sncRNAs significantly associated ( Padj < 0.01) with the tumor grade, hormone receptor status, subtype, and/or tumor histology. Additionally, 42 sncRNAs were observed as candidates for prognostic markers and 29 for predictive markers for radiotherapy and/or tamoxifen response ( P < 0.05). We discovered the clinical relevance of sncRNAs from each studied RNA type. By introducing new sncRNA biomarker candidates for invasive BC and validating the potential of previously described ones, we have guided the way for further research that is warranted for providing novel insights into BC biology.

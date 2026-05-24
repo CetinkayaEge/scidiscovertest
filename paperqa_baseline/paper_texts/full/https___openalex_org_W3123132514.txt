@@ -1,0 +1,9 @@
+Title: Sustainable Spatial Energy Planning of Large-Scale Wind and PV Farms in Israel: A Collaborative and Participatory Planning Approach
+Authors: Sofia Spyridonidou, Georgia Sismani, Eva Loukogeorgaki, Dimitra Vagiona, Hagit Ulanovsky, Daniel Madar
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14030551
+Paper ID: https://openalex.org/W3123132514
+
+Abstract:
+In this work, an innovative sustainable spatial energy planning framework is developed on national scale for identifying and prioritizing appropriate, technically and economically feasible, environmentally sustainable as well as socially acceptable sites for the siting of large-scale onshore Wind Farms (WFs) and Photovoltaic Farms (PVFs) in Israel. The proposed holistic framework consists of distinctive steps allocated in two successive modules (the Planning and the Field Investigation module), and it covers all relevant dimensions of a sustainable siting analysis (economic, social, and environmental). It advances a collaborative and participatory planning approach by combining spatial planning tools (Geographic Information Systems (GIS)) and multi-criteria decision-making methods (e.g., Analytical Hierarchy Process (AHP)) with versatile participatory planning techniques in order to consider the opinion of three different participatory groups (public, experts, and renewable energy planners) within the site-selection processes. Moreover, it facilitates verification of GIS results by conducting appropriate field observations. Sites of high suitability, accepted by all participatory groups and field verified, form the final outcome of the proposed framework. The results illustrate the existence of high suitable sites for large-scale WFs’ and PVFs’ siting and, thus, the potential deployment of such projects towards the fulfillment of the Israeli energy targets in the near future.

@@ -1,0 +1,9 @@
+Title: Polymers and Solvents Used in Membrane Fabrication: A Review Focusing on Sustainable Membrane Development
+Authors: Xiaobo Dong, David Lu, Tequila A. L. Harris, Isabel C. Escobar
+Year: 2021
+Venue: Membranes
+DOI: https://doi.org/10.3390/membranes11050309
+Paper ID: https://openalex.org/W3159015320
+
+Abstract:
+-methyl-2-pyrrolidone (NMP), dimethylacetamide (DMAc), dimethylformamide (DMF) and other petroleum-derived solvents are commonly used to dissolve some petroleum-based polymers. However, these components may have negative impacts on the environment and human health. Therefore, using greener and less toxic components is of great interest for increasing membrane fabrication sustainability. The chemical structure of membranes is not affected by the use of different solvents, polymers, or by the differences in fabrication scale. On the other hand, membrane pore structures and surface roughness can change due to differences in diffusion rates associated with different solvents/co-solvents diffusing into the non-solvent and with differences in evaporation time. (2) Therefore, in this review, solvents and polymers involved in the manufacturing process of membranes are proposed to be replaced by greener/less toxic alternatives. The methods and feasibility of scaling up green polymeric membrane manufacturing are also examined.

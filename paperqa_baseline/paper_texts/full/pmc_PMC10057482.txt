@@ -1,0 +1,9 @@
+Title: What Motivates the Vaccination Rift Effect? Psycho-Linguistic Features of Responses to Calls to Get Vaccinated Differ by Source and Recipient Vaccination Status
+Authors: J. Lukas Thürmer, Sean M. McCrea
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030503
+Paper ID: pmc_PMC10057482
+
+Abstract:
+Although vaccination provides substantial protection against COVID, many people reject the vaccine despite the opportunity to receive it. Recent research on potential causes of such vaccine hesitancy showed that those unvaccinated rejected calls to get vaccinated when they stemmed from a vaccinated source (i.e., a vaccination rift). To mend this vaccination rift, it is key to understand the underlying motivations and psychological processes. To this end, we used the voluntary free-text responses comprised of 49,259 words from the original Austrian large-scale data-set ( N = 1170) to conduct in-depth psycho-linguistic analyses. These findings indicate that vaccinated message sources elicited longer responses using more words per sentence and simpler language writing more about things rather than themselves or addressing others directly. Contrary to common assumptions, expressed emotions or indicators of cognitive processing did not differ between message source conditions, but vaccinated sources led to more achievement-related expressions. Participant vaccination did not moderate the observed effects but had differential main effects on psycho-linguistic response parameters. We conclude that public vaccination campaigns need to take the vaccination status of the message source and other societal rifts into account to bolster recipients’ achievement.

@@ -1,0 +1,9 @@
+Title: TP63 Functions as a Tumor Suppressor Regulated by GAS5/miR-221-3p Signaling Axis in Human Non-Small Cell Lung Cancer Cells
+Authors: Qiming Shen, Haoyou Wang, Lin Zhang
+Year: 2023
+Venue: Cancer Management and Research
+DOI: 10.2147/CMAR.S387781
+Paper ID: pmc_PMC9974772
+
+Abstract:
+Background Tumor protein p63 (TP63) has been proven to play a role as a tumor suppressor in some human cancers, including non-small cell lung cancer (NSCLC). This study aimed to investigate the mechanism of TP63 and analyze the underlying pathway dysregulating TP63 in NSCLC. Methods RT-qPCR and Western blotting assays were used to determine gene expression in NSCLC cells. The luciferase reporter assay was performed to explore the transcriptional regulation. Flow cytometry was used to analyze the cell cycle and cell apoptosis. Transwell and CCK-8 assays were performed to test cell invasion and cell proliferation, respectively. Results GAS5 interacted with miR-221-3p, and its expression was significantly reduced in NSCLC. GAS5, as a molecular sponge, upregulated the mRNA and protein levels of TP63 by inhibiting miR-221-3p in NSCLC cells. The upregulation of GAS5 inhibited cell proliferation, apoptosis, and invasion, which was partially reversed by the knockdown of TP63. Interestingly, we found that GAS5-induced TP63 upregulation promoted tumor chemotherapeutic sensitivity to cisplatin therapy in vivo and in vitro. Conclusion Our results revealed the mechanism by which GAS5 interacts with miR-221-3p to regulate TP63, and targeting GAS5/miR-221-3p/TP63 may be a potential therapeutic strategy for NSCLC cells. Graphical Abstract

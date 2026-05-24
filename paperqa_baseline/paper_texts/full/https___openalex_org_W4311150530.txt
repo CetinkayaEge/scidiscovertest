@@ -1,0 +1,9 @@
+Title: Assessing the Sustainability of the Prepandemic Impact on Fuzzy Traveling Sellers Problem with a New Fermatean Fuzzy Scoring Function
+Authors: B. Baranidharan, Ieva Meidutė‐Kavaliauskienė, G. S. Mahapatra, Renata Činčikaitė
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142416560
+Paper ID: https://openalex.org/W4311150530
+
+Abstract:
+This article focused on transportation sustainability during the COVID-19 pandemic situation under the Fermatean fuzzy environment. In both developed and developing nations, sustainability has risen to the top of the priority list for transportation policies and planning. We introduce a simplified presentation of the Fermatean fuzzy traveling seller problem solved by using a new computation approach. Several approaches for solving the traveling seller problem using fuzzy parameters have been described in the literature. Even so, all the current strategies use general fuzzy numbers as the parameters for the traveling salesman problems, but his study, focused on the new Fermatean fuzzy number, is more effective for representing real-life incidents. The Fermatean fuzzy scoring functions and numerical conditions in distinct models in the Fermatean fuzzy environment were described to construct the algorithm. New solution methodology developed through scoring functions to find the best solution to fulfill our goal of sustainable transportation for traveling sellers problem. Sustainable cost and the optimal path are obtained by this study.

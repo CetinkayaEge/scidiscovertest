@@ -1,0 +1,9 @@
+Title: Additive Manufacturing of Sustainable Construction Materials and Form-finding Structures: A Review on Recent Progresses
+Authors: Junli Liu, Vuong Nguyen‐Van, Biranchi Panda, Kate Fox, Anton du Plessis, Phuong Tran
+Year: 2021
+Venue: 3D Printing and Additive Manufacturing
+DOI: https://doi.org/10.1089/3dp.2020.0331
+Paper ID: https://openalex.org/W3214055364
+
+Abstract:
+Recently, there has been an increasing interest on the sustainability advantage of 3D concrete printing (3DCP), where the original cement-based mixtures used for printing could be replaced or incorporated with environmental-friendly materials. The development in digital modeling and design tools also creates a new realm of form-finding architecture for 3DCP, which is based on topological optimization of volumetric mass and physical performance. This review provides a perspective of using different green cementitious materials, applications of structural optimization, and modularization methods for realizing sustainable construction with additive manufacturing. The fresh and hardened mechanical properties of various sustainable materials for extrusion-based 3D printing are presented, followed by discussions on different topology optimization techniques. The current state of global research and industrial applications in 3DCP, along with the development of sustainable construction materials, is also summarized. Finally, research and practical gaps identified in this review lead to several recommendations on material developments, digital design tool's prospects for 3DCP to achieve the sustainability goal.

@@ -1,0 +1,9 @@
+Title: Managing photovoltaic Waste: Sustainable solutions and global challenges
+Authors: Balaqis Al Zaabi, Aritra Ghosh
+Year: 2024
+Venue: Solar Energy
+DOI: https://doi.org/10.1016/j.solener.2024.112985
+Paper ID: https://openalex.org/W4403372143
+
+Abstract:
+• PV waste estimated to reach 88 million tons by 2050, urging global action. • Recycling is key for resource recovery, environmental protection, and sustainability. • Reuse, improved design, policies, and research are essential for PV EoL management. The global shift to clean energy has resulted in a significant increase in photovoltaic (PV) panel installations. However, with their limited lifespan of 25–30 years, end-of-life (EoL) management is becoming an environmental and economic challenge to the sector. Currently, PV panels are disposed of in landfills, raising concerns about resource loss and environmental contamination. This research paper addresses this by using a novel quantitative modelling framework that employs historical data and Bass diffusion equations to project future PV waste generation in key markets, including China, India, the USA, Japan, and Germany. The findings emphasise the necessity of exploring alternative EoL management options, such as repair, reuse, and recycling, to prevent resource loss and environmental contamination. The study’s novel methodology and detailed analysis highlight a lack of specific regulations for PV waste management globally. The study necessitates global policy frameworks, international standards, and public awareness to support the transition to a circular economy.

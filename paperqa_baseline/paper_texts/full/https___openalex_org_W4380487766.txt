@@ -1,0 +1,9 @@
+Title: Sustainable investment – Exploring the linkage between alpha,ESG, andSDGs
+Authors: Geert Bekaert, Richard Rothenberg, Miquel Noguer
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2628
+Paper ID: https://openalex.org/W4380487766
+
+Abstract:
+Abstract Environmental, Social and Governance (ESG) investing has attracted much attention in asset management this past decade. Asset managers who consider ESG issues when making investment decisions potentially face a trade off with their fiduciary duty to attempt to outperform investment benchmarks (“generate alpha”). We first analyze the relationship between alpha generation and ESG metrics. However, because there are no well‐accepted ESG standards, we also measure the impact companies have on the U.N.'s Sustainable Development Goals (SDG's). Our research consists of three steps. First, we construct a sector‐neutral portfolio using MSCI ESG momentum scores from 2013 to 2018, and determine that it is feasible to generate positive alpha vis‐à‐vis the MSCI US index and other risk benchmarks. Second, we utilize structured and unstructured data to determine a company's net influence on the SDGs, which we call its SDG “footprint.” We show that an ESG momentum portfolio both outperforms the MSCI US index and has a relatively better SDG footprint than that of the index. Third, we establish a positive contemporaneous connection between the portfolio's ESG ratings momentum and its SDG footprint. Thus, a positive linkage exists between ESG, alpha, and the SDGs for our sample.

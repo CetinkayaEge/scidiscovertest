@@ -1,0 +1,9 @@
+Title: Evaluation of Workpiece Temperature during Drilling of GLARE Fiber Metal Laminates Using Infrared Techniques: Effect of Cutting Parameters, Fiber Orientation and Spray Mist Application
+Authors: Khaled Giasin, Sabino Ayvar-Soberanis
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080622
+Paper ID: pmc_PMC5509040
+
+Abstract:
+The rise in cutting temperatures during the machining process can influence the final quality of the machined part. The impact of cutting temperatures is more critical when machining composite-metal stacks and fiber metal laminates due to the stacking nature of those hybrids which subjects the composite to heat from direct contact with metallic part of the stack and the evacuated hot chips. In this paper, the workpiece surface temperature of two grades of fiber metal laminates commercially know as GLARE is investigated. An experimental study was carried out using thermocouples and infrared thermography to determine the emissivity of the upper, lower and side surfaces of GLARE laminates. In addition, infrared thermography was used to determine the maximum temperature of the bottom surface of machined holes during drilling GLARE under dry and minimum quantity lubrication (MQL) cooling conditions under different cutting parameters. The results showed that during the machining process, the workpiece surface temperature increased with the increase in feed rate and fiber orientation influenced the developed temperature in the laminate.

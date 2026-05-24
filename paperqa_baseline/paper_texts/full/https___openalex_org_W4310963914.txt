@@ -1,0 +1,9 @@
+Title: Coordinated control of neuronal differentiation and wiring by sustained transcription factors
+Authors: Mehmet Neset Özel, Claudia Skok Gibbs, Isabel Holguera, Mennah Soliman, Richard Bonneau, Claude Desplan
+Year: 2022
+Venue: Science
+DOI: https://doi.org/10.1126/science.add1884
+Paper ID: https://openalex.org/W4310963914
+
+Abstract:
+visual system can each be defined by unique combinations of on average 10 continuously expressed transcription factors. We show that targeted modifications of this terminal selector code induce predictable conversions of neuronal fates that appear morphologically and transcriptionally complete. Cis-regulatory analysis of open chromatin links one of these genes to an upstream patterning factor that specifies neuronal fates in stem cells. Experimentally validated network models describe the synergistic regulation of downstream effectors by terminal selectors and ecdysone signaling during brain wiring. Our results provide a generalizable framework of how specific fates are implemented in postmitotic neurons.

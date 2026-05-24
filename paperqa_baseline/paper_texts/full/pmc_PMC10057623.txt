@@ -1,0 +1,9 @@
+Title: Motion Smoothness-Based Assessment of Surgical Expertise: The Importance of Selecting Proper Metrics
+Authors: Farzad Aghazadeh, Bin Zheng, Mahdi Tavakoli, Hossein Rouhani
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063146
+Paper ID: pmc_PMC10057623
+
+Abstract:
+The smooth movement of hand/surgical instruments is considered an indicator of skilled, coordinated surgical performance. Jerky surgical instrument movements or hand tremors can cause unwanted damages to the surgical site. Different methods have been used in previous studies for assessing motion smoothness, causing conflicting results regarding the comparison among surgical skill levels. We recruited four attending surgeons, five surgical residents, and nine novices. The participants conducted three simulated laparoscopic tasks, including peg transfer, bimanual peg transfer, and rubber band translocation. Tooltip motion smoothness was computed using the mean tooltip motion jerk, logarithmic dimensionless tooltip motion jerk, and 95% tooltip motion frequency (originally proposed in this study) to evaluate their capability of surgical skill level differentiation. The results revealed that logarithmic dimensionless motion jerk and 95% motion frequency were capable of distinguishing skill levels, indicated by smoother tooltip movements observed in high compared to low skill levels. Contrarily, mean motion jerk was not able to distinguish the skill levels. Additionally, 95% motion frequency was less affected by the measurement noise since it did not require the calculation of motion jerk, and 95% motion frequency and logarithmic dimensionless motion jerk yielded a better motion smoothness assessment outcome in distinguishing skill levels than mean motion jerk.

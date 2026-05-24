@@ -1,0 +1,9 @@
+Title: Metals Recovery from Artificial Ore in Case of Printed Circuit Boards, Using Plasmatron Plasma Reactor
+Authors: Jakub Szałatkiewicz
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080683
+Paper ID: pmc_PMC5512349
+
+Abstract:
+This paper presents the investigation of metals production form artificial ore, which consists of printed circuit board (PCB) waste, processed in plasmatron plasma reactor. A test setup was designed and built that enabled research of plasma processing of PCB waste of more than 700 kg/day scale. The designed plasma process is presented and discussed. The process in tests consumed 2 kWh/kg of processed waste. Investigation of the process products is presented with their elemental analyses of metals and slag. The average recovery of metals in presented experiments is 76%. Metals recovered include: Ag, Au, Pd, Cu, Sn, Pb, and others. The chosen process parameters are presented: energy consumption, throughput, process temperatures, and air consumption. Presented technology allows processing of variable and hard-to-process printed circuit board waste that can reach up to 100% of the input mass.

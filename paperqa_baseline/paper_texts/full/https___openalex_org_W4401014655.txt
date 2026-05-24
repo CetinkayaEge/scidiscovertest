@@ -1,0 +1,9 @@
+Title: A bibliometric analysis of environmental education and sustainable entrepreneurship development in a global perspective
+Authors: Varsha Arya, Akshat Gaurav, Brij B. Gupta, Kwok Tai Chui
+Year: 2024
+Venue: Sustainable Technology and Entrepreneurship
+DOI: https://doi.org/10.1016/j.stae.2024.100080
+Paper ID: https://openalex.org/W4401014655
+
+Abstract:
+This paper provides a bibliometric overview of the interaction between environmental education and the growth of sustainable entrepreneurship. Using VOSViewer and the R programming language, we found 849 reference studies for investigation while browsing English-language articles from esteemed publications and conferences recorded in the Scopus databases. Our analysis revealed an exponential increase in scholarly publications on the topic, therefore highlighting its development as a current focus of study. Our bibliometric study reveals a major knowledge gaps despite this increase: knowledge of the successful integration strategies of environmental education into sustainable entrepreneurship practices and policies at different levels (local, national, and global). Moreover, thorough research on how these interactions affect environmental awareness across several populations and the accomplishment of sustainable development goals (SDGs) is lacking. Therefore, our study aims to close this important void by offering a thorough review of the present situation of research, pointing out the best journals, countries, and authors leading in this field, and suggesting future directions to improve the synergy between environmental education and sustainable development. Policies, courses, and projects aiming at a more sustainable future depend on this input in setting their direction.

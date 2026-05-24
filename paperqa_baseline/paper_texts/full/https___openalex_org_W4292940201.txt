@@ -1,0 +1,9 @@
+Title: Role of sustainable cooling/lubrication conditions in improving the tribological and machining characteristics of Monel-400 alloy
+Authors: Nimel Sworna Ross, M. Ganesh, D. Srinivasan, Munish Kumar Gupta, Mehmet Erdi Korkmaz, Jolanta Królczyk
+Year: 2022
+Venue: Tribology International
+DOI: https://doi.org/10.1016/j.triboint.2022.107880
+Paper ID: https://openalex.org/W4292940201
+
+Abstract:
+Due to its strong corrosion resistance, high hardness, and ability to maintain its strength at high temperatures, Monel-400 is utilized in the marine, aerospace, and power plant sectors. Monel-400 alloy is hard to machine owing to quick tool wear that causes poor dimensional accuracy. Therefore, an advanced measurement system is required to monitor the insight of machining performance of difficult-to-machine alloys like Monel-400. In the present work, a new cutting technique is presented to increase the efficiency of cryogenic carbon dioxide (CO2) and minimum quantity lubrication (MQL) in the high-performance machining of Monel-400. The combination of both CO2 + MQL (CMQL) is an efficient approach that is supplied to the rake side and compared with dry, CO2 and MQL. Tool wear, surface roughness, temperature, chip morphology and microhardness measurements were performed to enumerate the influence of distinct cutting environments. Based on the findings of the systematic trials, CMQL was found to be the finest effective cooling technique, reducing friction to the greatest possible extent and creating the best possible surface. Under CMQL condition, the flank wear reduction was found to be 51–55 %, 37–47 % and 26–33 % compared to dry, MQL and CO2 conditions, respectively. Even though CMQL effectively reduces friction, the cryo medium outperformed and increased the machined face hardness.

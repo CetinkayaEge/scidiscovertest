@@ -1,0 +1,9 @@
+Title: spiralize : an R package for visualizing data on spirals
+Authors: Zuguang Gu, Daniel Hübschmann
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab778
+Paper ID: pmc_PMC8826351
+
+Abstract:
+Abstract Summary Spiral layout has two major advantages for data visualization. First, it is able to visualize data with long axes, which greatly improves the resolution of visualization. Second, it is efficient for time series data to reveal periodic patterns. Here, we present the R package spiralize that provides a general solution for visualizing data on spirals. spiralize implements numerous graphics functions so that self-defined high-level graphics can be easily implemented by users. The flexibility and power of spiralize are demonstrated by five examples from real-world datasets. Availability and implementation The spiralize package and documentations are freely available at the Comprehensive R Archive Network (CRAN) https://CRAN.R-project.org/package=spiralize Supplementary information Supplementary data are available at Bioinformatics online.

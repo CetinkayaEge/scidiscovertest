@@ -1,0 +1,9 @@
+Title: A Novel Approach to Delivering Evidence-based, High-quality Care in Psychiatry Through an Electronic Integrated Care Pathway (eICP) Pilot
+Authors: Luming Li, Macarena Kruger, Nancy Kim, Shawn Ong, Sarah Riley, Kelsey Cameron, Kourtney Koslosky, Deborah Rhodes
+Year: 2023
+Venue: The Psychiatric Quarterly
+DOI: 10.1007/s11126-023-10016-z
+Paper ID: pmc_PMC9959944
+
+Abstract:
+Integrated care pathways (ICPs) are evidence-based decision support tools intended to reduce variation and improve quality of care. Historically, adoption of ICPs has been difficult to measure, as the pathways were outside of the electronic health record (EHR), where care delivery documentation and orders were completed. This Technology Column describes the innovative development and implementation of a diagnosis specific electronic ICP that directly embeds pathway steps into an EHR to facilitate order sets, clinical decision-making, and usage tracking. The pathway was implemented at a seven-hospital academic medical center, and details the technology, team structure, early adoption results, and future directions. As such, the importance of investing and organizing resources to create an eICP (e.g., time, technology, and specialized teams) to provide a user-friendly experience to support early adoption is underscored. Preliminary findings show that the eICP had consistent use in the first year of implementation. This manuscript is intended to serve as a practical guide to build eICPs within behavioral health service areas across institutions.

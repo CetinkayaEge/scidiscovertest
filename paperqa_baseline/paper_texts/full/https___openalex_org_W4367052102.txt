@@ -1,0 +1,9 @@
+Title: Virtual Power Plant with Renewable Energy Sources and Energy Storage Systems for Sustainable Power Grid-Formation, Control Techniques and Demand Response
+Authors: Jiaqi Liu, Hongji Hu, Samson S. Yu, Hieu Trinh
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16093705
+Paper ID: https://openalex.org/W4367052102
+
+Abstract:
+As the climate crisis worsens, power grids are gradually transforming into a more sustainable state through renewable energy sources (RESs), energy storage systems (ESSs), and smart loads. Virtual power plants (VPP) are an emerging concept that can flexibly integrate distributed energy resources (DERs), managing manage the power output of each DER unit, as well as the power consumption of loads, to balance electricity supply and demand in real time. VPPs can participate in energy markets, enable self-scheduling of RESs, facilitate energy trading and sharing, and provide demand-side frequency control ancillary services (D-FCAS) to enhance the stability of the system frequency. As a result, studies considering VPPs have become the focus of recent energy research, with the purpose of reducing the uncertainty resulting from RESs distributed in the power grid and improving technology related to energy management system (EMS). However, comprehensive reviews of VPPs considering their formation, control techniques, and D-FCAS are still lacking in the literature. Therefore, this paper aims to provide a thorough overview of state-of-the-art VPP technologies for building sustainable power grids in the future. The review mainly considers the development of VPPs, the information transmission and control methods among DERs and loads in VPPs, as well as the relevant technologies for providing D-FCAS from VPPs. This review paper describes the significant economic, social, and environmental benefits of VPPs, as well as the technological advancements, challenges, and possible future research directions in VPP research.

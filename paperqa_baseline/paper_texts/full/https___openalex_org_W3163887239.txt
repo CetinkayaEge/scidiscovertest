@@ -1,0 +1,9 @@
+Title: The Mathematics of life cycle sustainability assessment
+Authors: Jhuma Sadhukhan, Sohum Sen, Siddharth Gadkari
+Year: 2021
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2021.127457
+Paper ID: https://openalex.org/W3163887239
+
+Abstract:
+This paper discusses a novel digital output using mathematical computation of life cycle sustainability assessment for design decisions on systemic holistic sustainability of technical systems. The computational social life cycle assessment (SLCA) combining the supply chain import data and social hotspot database for interacting countries in entire supply chain indicates that self-generation in electricity sector gives savings in community infrastructure (68%), governance (53%), human rights (50%), labour rights & decent work (24%), and health & safety (8%), SLCA categories compared to electricity import scenarios in the UK. The life cycle assessment shows the carbon-efficient energy systems for net zero greenhouse gas emissions (GHG) in increasing order of environmental impacts: hydroelectric, wind, biomass, geothermal and solar (4–76 gCO2eq./kWh). The technical and life cycle costing models show that within bioenergy, biomass combined heat and power systems give greater feasibility than microbial fuel cells with a levelized cost of electricity of 0.026 and 0.07 Euro/kWh. TESARREC™ (Trademark: UK00003321198), a novel web-based open-source digital output integrates intrinsic physicochemical, design, operating and systemic characteristics to model and analyse technical systems for sustainability and benchmark/standardise GHG of renewable, biomass and carbon dioxide capture and sequestration strategies for policy directives.

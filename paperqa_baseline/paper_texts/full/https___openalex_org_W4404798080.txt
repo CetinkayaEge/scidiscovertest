@@ -1,0 +1,9 @@
+Title: AI-driven predictive models for sustainability
+Authors: Mattew A. Olawumi, Bankole I. Oladapo
+Year: 2024
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2024.123472
+Paper ID: https://openalex.org/W4404798080
+
+Abstract:
+of 0.92, with precision and recall scores of 85-90% and 80-88%, respectively, demonstrating significant improvements over traditional methods. Sensitivity analysis revealed high influence from temperature and historical consumption data, requiring careful monitoring. This model performed robustly across diverse scenarios, reducing CO₂ emissions by 30% and cutting costs by 18%, highlighting its adaptability in real-world applications. Conclusions affirm that the explainable AI model advances sustainable energy management by providing reliable, actionable insights, aligning with Net Zero goals, and supporting informed decision-making through enhanced transparency and accuracy.

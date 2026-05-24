@@ -1,0 +1,9 @@
+Title: Unraveling networks of co-regulated genes on the sole basis of genome sequences
+Authors: Sylvain Brohée, Rekin’s Janky, Fadi Abdel-Sater, Gilles Vanderstocken, Bruno André, Jacques van Helden
+Year: 2011
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkr264
+Paper ID: pmc_PMC3159452
+
+Abstract:
+With the growing number of available microbial genome sequences, regulatory signals can now be revealed as conserved motifs in promoters of orthologous genes (phylogenetic footprints). A next challenge is to unravel genome-scale regulatory networks. Using as sole input genome sequences, we predicted cis -regulatory elements for each gene of the yeast Saccharomyces cerevisiae by discovering over-represented motifs in the promoters of their orthologs in 19 Saccharomycetes species. We then linked all genes displaying similar motifs in their promoter regions and inferred a co-regulation network including 56 919 links between 3171 genes. Comparison with annotated regulons highlights the high predictive value of the method: a majority of the top-scoring predictions correspond to already known co-regulations. We also show that this inferred network is as accurate as a co-expression network built from hundreds of transcriptome microarray experiments. Furthermore, we experimentally validated 14 among 16 new functional links between orphan genes and known regulons. This approach can be readily applied to unravel gene regulatory networks from hundreds of microbial genomes for which no other information is available except the sequence. Long-term benefits can easily be perceived when considering the exponential increase of new genome sequences.

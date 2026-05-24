@@ -1,0 +1,9 @@
+Title: A Bayesian model to estimate the cutoff value of TSH for management of preterm birth
+Authors: Maryam Rahmati, Sima Nazarpour, Sonia Minooee, Samira Behboudi-Gandevani, Fereidoun Azizi, Fahimeh Ramezani Tehrani
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283503
+Paper ID: pmc_PMC10058148
+
+Abstract:
+Background Determining a thyroid hormone cutoff value in pregnancy is challenging issue and several approaches have been introduced to optimize a utility function. We aimed to estimate the cutoff value of TSH using Bayesian method for prediction of preterm-birth. Methods This study was a secondary-analysis of the population-based data collected prospectively within the framework of the Tehran Thyroid and Pregnancy Study. A total of 1,538 pregnant women attending prenatal clinics. Results Using Bayesian method resulted a TSH-cutoff of (3.97mIU/L,95%CI:3.95–4.00) for distinguishing pregnant women at risk of preterm-birth. The cutoff was associated with acceptable positive predictive and negative predictive values (0.84,95% CI:0.80–0.88) and 0.92 (95%CI: 0.91–0.94), respectively). In women who were negative for thyroid peroxides antibody (TPOAb) with sufficient urinary iodine concentration (UIC), the TSH cutoff of 3.92 mIU/L(95%CI:3.70–4) had the highest predictive value; whereas in TPOAb positive women with insufficient UIC, the cutoff of 4.0 mIU/L(95%:CI 3.94–4) could better predict preterm birth. Cutoffs estimated in this study are close to the revised TSH value of 4.0mIU/L which is currently recommended by the American Thyroid Association. Conclusion Regardless of TPOAb status or iodine insufficiency, risk of preterm labor is increased in pregnant women with TSH value of > 3.92 mIU/L; these women may benefit from Levothyroxine (LT4) therapy for preventing preterm birth.

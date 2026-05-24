@@ -1,0 +1,9 @@
+Title: Sustainable PV Module Design—Review of State-of-the-Art Encapsulation Methods
+Authors: Anna Katharina Schnatmann, Fabian Schoden, Eva Schwenzfeier-Hellkamp
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14169971
+Paper ID: https://openalex.org/W4291940843
+
+Abstract:
+In times of climate change and increasing resource scarcity, the importance of sustainable renewable energy technologies is increasing. However, the photovoltaic (PV) industry is characterised by linear economy structures, energy-intensive production, downcycling and little sustainability. One starting point for sustainable technologies is offered by the circular economy with its circular design principles. One problematic aspect of the design of crystalline PV modules is the encapsulation. In particular, the encapsulation avoids high-value recycling or the remanufacturing of modules, which could close loops and extend the lifetime of the products. For this reason, this paper provides an overview of the current state of encapsulation methods regarding production, materials and recycling. In addition, the current state of sustainability research in the photovoltaic sector is presented using the VOSviewer tool. Furthermore, alternative encapsulation technologies are discussed and compared in terms of performance and sustainability. The current encapsulation method using ethylene vinyl acetate as the encapsulation material offers major disadvantages in terms of performance and recyclability. Alternatives are the thermoplastic material polyolefin and the alternative structure of the NICE technology. Overall, however, research should focus more on sustainability and recyclability. Alternative module structures will be a decisive factor in this context.

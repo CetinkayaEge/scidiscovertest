@@ -1,0 +1,9 @@
+Title: Multiparametric Remote Investigation in the near-IR through Optical Fiber for In Situ Measurements
+Authors: Letizia Fede, Gregory Lefrere, Maroun Hjeij, Ronan Le Page, Luiz Poffo, Jean-Marc Goujon, Aymeric Le Gratiet
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062911
+Paper ID: pmc_PMC10056751
+
+Abstract:
+Diffuse reflectance spectroscopy (DRS) has proven to be a powerful, reliable, and non-invasive optical method for characterizing a specimen. Nevertheless, these methods are based on a rudimentary interpretation of the spectral response and can be irrelevant to understanding 3D structures. In this work, we proposed adding optical modalities into a customized handheld probe head in order to increase the number of parameters in DRS acquired from the light/matter interaction. It consists of (1) placing the sample in a reflectance manual rotation stage to collect spectral backscattered angularly resolved light and (2) illuminating it with two sequential linear polarization orientations. We demonstrate that this innovative approach leads to a compact instrument, capable of performing fast polarization-resolved spectroscopic analysis. Due to the significant amount of data available with this technique in a short time, we observe sensitive quantitative discrimination between two types of biological tissue provided by a raw rabbit leg. We believe that this technique can pave the way for rapid meat quality check or biomedical diagnosis of pathological tissues in situ at an early stage.

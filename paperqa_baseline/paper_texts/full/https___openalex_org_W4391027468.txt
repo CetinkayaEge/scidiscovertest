@@ -1,0 +1,9 @@
+Title: Overcoming strategies for supply chain digitization barriers: Implications for sustainable development goals
+Authors: Krishna Kumar Dadsena, Pushpesh Pant, Sanjoy Kumar Paul, Saurabh Pratap
+Year: 2024
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3681
+Paper ID: https://openalex.org/W4391027468
+
+Abstract:
+Abstract This paper examines barriers to supply chain digitization (SCD) and offers mitigation strategies, focusing on sustainable development goals (SDGs), technological adoption, and financial constraints. A hybrid research approach, combining qualitative and quantitative methods, has been used to analyze significant SCD barriers and strategies under budget constraints. According to the findings, “lack of proper research and development facility” is the most influential barrier to SCD. The overcoming strategies are then ranked by how likely they are to be implemented in response to barriers. From a sustainability perspective, “improving privacy and security” is identified as the most important strategy. Further, a mathematical model is developed to facilitate investment‐related decision‐making by determining the most suitable overcoming strategies under budget constraints. The proposed mathematical model is evaluated across a range of investments and for a set of overcoming strategies within a given scenario. The findings demonstrate that optimal investments of $1.78 million can cover the top two overcoming strategies for implementation. Furthermore, the results indicate that a minimum investment of $1.9 million is required to adopt all 10 overcoming strategies.

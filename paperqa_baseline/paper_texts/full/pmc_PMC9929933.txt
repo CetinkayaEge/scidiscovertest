@@ -1,0 +1,9 @@
+Title: A loosely coordinated interaction site for arachidonic acid on ASICs
+Authors: Robert C. Klipp, John R. Bankston
+Year: 2023
+Venue: The Journal of General Physiology
+DOI: 10.1085/jgp.202213307
+Paper ID: pmc_PMC9929933
+
+Abstract:
+Molecular dynamics simulations reveal a putative interaction surface for PUFAs on TM1 of ASICs that is not tightly conserved between isoforms.

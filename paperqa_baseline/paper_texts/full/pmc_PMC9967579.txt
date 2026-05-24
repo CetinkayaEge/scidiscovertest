@@ -1,0 +1,9 @@
+Title: An Evaluation of Avian Influenza Virus Whole-Genome Sequencing Approaches Using Nanopore Technology
+Authors: Hon S. Ip, Sarah Uhm, Mary Lea Killian, Mia K. Torchetti
+Year: 2023
+Venue: Microorganisms
+DOI: 10.3390/microorganisms11020529
+Paper ID: pmc_PMC9967579
+
+Abstract:
+As exemplified by the global response to the SARS-CoV-2 pandemic, whole-genome sequencing played an important role in monitoring the evolution of novel viral variants and provided guidance on potential antiviral treatments. The recent rapid and extensive introduction and spread of highly pathogenic avian influenza virus in Europe, North America, and elsewhere raises the need for similarly rapid sequencing to aid in appropriate response and mitigation activities. To facilitate this objective, we investigate a next-generation sequencing platform that uses a portable nanopore sequencing device to generate and present data in real time. This platform offers the potential to extend in-house sequencing capacities to laboratories that may otherwise lack resources to adopt sequencing technologies requiring large benchtop instruments. We evaluate this platform for routine use in a diagnostic laboratory. In this study, we evaluate different primer sets for the whole genome amplification of influenza A virus and evaluate five different library preparation approaches for sequencing on the nanopore platform using the MinION flow cell. A limited amplification procedure and a rapid procedure are found to be best among the approaches taken.

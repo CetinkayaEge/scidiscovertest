@@ -1,0 +1,9 @@
+Title: COSMO-SkyMed Image Investigation of Snow Features in Alpine Environment
+Authors: Simonetta Paloscia, Simone Pettinato, Emanuele Santi, Mauro Valt
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010084
+Paper ID: pmc_PMC5298657
+
+Abstract:
+In this work, X band images acquired by COSMO-SkyMed (CSK) on alpine environment have been analyzed for investigating snow characteristics and their effect on backscattering variations. Preliminary results confirmed the capability of simultaneous optical and Synthetic Aperture Radar (SAR) images (Landsat-8 and CSK) in separating snow/no-snow areas and in detecting wet snow. The sensitivity of backscattering to snow depth has not always been confirmed, depending on snow characteristics related to the season. A model based on Dense Media Radiative Transfer theory (DMRT-QMS) was applied for simulating the backscattering response on the X band from snow cover in different conditions of grain size, snow density and depth. By using DMRT-QMS and snow in-situ data collected on Cordevole basin in Italian Alps, the effect of grain size and snow density, beside snow depth and snow water equivalent, was pointed out, showing that the snow features affect the backscatter in different and sometimes opposite ways. Experimental values of backscattering were correctly simulated by using this model and selected intervals of ground parameters. The relationship between simulated and measured backscattering for the entire dataset shows slope >0.9, determination coefficient, R 2 = 0.77, and root mean square error, RMSE = 1.1 dB, with p -value <0.05.

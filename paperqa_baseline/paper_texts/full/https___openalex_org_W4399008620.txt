@@ -1,0 +1,9 @@
+Title: Exploring Magnetocaloric Materials for Sustainable Refrigeration near Hydrogen Gas Liquefaction Temperature
+Authors: Sandeep Kumar, Raeesh Muhammad, Sunghyun Kim, Jungwon Yi, Kwanghyo Son, Hyunchul Oh
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202402513
+Paper ID: https://openalex.org/W4399008620
+
+Abstract:
+Abstract Magnetocaloric materials have the ability to undergo temperature changes when subjected to varying magnetic fields. These materials are of interest due to their potential for innovative cooling applications. This review article summarizes materials that exhibit magnetic ordering within the temperature range required for gas liquefaction and explores their potential applications through the magnetocaloric effect (MCE). The gas liquefaction temperature range is typically assumed to be 20–77 K, however, this study specifically summarizes materials that have a transition temperature near to the hydrogen liquefaction temperature (≈20K). This review article aims to showcase ongoing research on magnetic materials for hydrogen liquefaction. Driven by the depletion of natural resources and environmental concerns, the search for environmentally sustainable fuels has intensified, making hydrogen a promising alternative. However, the liquefaction of hydrogen is highly energy‐intensive. The investigation focuses on identifying and understanding these materials and assessing their suitability for environmentally friendly and sustainable cooling technologies. By harnessing the magnetocaloric effect, these materials exhibit temperature changes in response to an applied magnetic field, offering advantages over traditional cooling methods that are 20–50% more efficient. The review aims to furnish researchers with essential information that can help modify magnetocaloric effect (MCE) materials, enabling them to achieve the desired magnetic ordering temperature conducive to the liquefaction of hydrogen.

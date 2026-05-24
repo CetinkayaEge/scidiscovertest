@@ -1,0 +1,9 @@
+Title: A Risk-Based Planning Approach for Sustainable Distribution Systems Considering EV Charging Stations and Carbon Taxes
+Authors: Tayenne Dias de Lima, João Soares, Fernando Lezama, John F. Franco, Zita Vale
+Year: 2023
+Venue: IEEE Transactions on Sustainable Energy
+DOI: https://doi.org/10.1109/tste.2023.3261599
+Paper ID: https://openalex.org/W4360930926
+
+Abstract:
+Adopting distributed energy resources (DERs) is the key to a low-carbon future in electrical distribution systems (EDS). However, integrating DERs increases the uncertainties in the distribution system expansion planning (DSEP). Thus, the long-term DSEP faces a planning risk brought by the uncertainty of demand, electric vehicle (EV) demand, renewable production, and energy prices. Therefore, this work proposes a novel model for the multi-period planning of EDSs and DERs considering conditional value at risk (CVaR) to manage fluctuations in generation cost and carbon emissions. The proposed mathematical model aims to minimize the net present cost related to investment, operation, and risk. Unlike previous approaches, uncertain behavior of demand growth per planning period is addressed, and the risk is evaluated from two perspectives: planning costs and carbon taxes. Investments in substations, lines, renewable distributed generation, EV charging stations, and energy storage systems are considered. The uncertainties associated with the variability of renewable generation and demand are modeled through a set of scenarios. Finally, the model was evaluated using the 24 and 54-bus EDS. Thus, the proposal is a flexible tool that can be used for different purposes (e.g., carbon taxes, budget limits).

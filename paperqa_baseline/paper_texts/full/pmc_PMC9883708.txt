@@ -1,0 +1,9 @@
+Title: COMBAT-TB-NeoDB: fostering tuberculosis research through integrative analysis using graph database technologies
+Authors: Thoba Lose, Peter van Heusden, Alan Christoffels
+Year: 2020
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz658
+Paper ID: pmc_PMC9883708
+
+Abstract:
+Abstract Motivation Recent advancements in genomic technologies have enabled high throughput cost-effective generation of ‘omics’ data from M.tuberculosis (M.tb) isolates, which then gets shared via a number of heterogeneous publicly available biological databases. Albeit useful, fragmented curation negatively impacts the researcher’s ability to leverage the data via federated queries. Results We present Combat-TB-NeoDB , an integrated M.tb ‘omics’ knowledge-base. Combat-TB-NeoDB is based on Neo4j and was created by binding the labeled property graph model to a suitable ontology namely Chado. Combat-TB-NeoDB enables researchers to execute complex federated queries by linking prominent biological databases, and supplementary M.tb variants data from published literature. Availability and implementation The Combat-TB-NeoDB ( https://neodb.sanbi.ac.za ) repository and all tools mentioned in this manuscript are freely available at https://github.com/COMBAT-TB . Supplementary information Supplementary data are available at Bioinformatics online.

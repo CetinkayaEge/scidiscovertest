@@ -1,0 +1,9 @@
+Title: Strategic assessment and mitigation of risks in sustainable manufacturing systems
+Authors: Mahesh Chand
+Year: 2021
+Venue: Sustainable Operations and Computers
+DOI: https://doi.org/10.1016/j.susoc.2021.07.004
+Paper ID: https://openalex.org/W3185697930
+
+Abstract:
+In this paper, different risk issue related in sustainable manufacturing system has been studied for performance measurement. Risks such as supply risks, operational risks, disruption risk, transportation risk, financial risks and demanad risks are identified through literature and considered for the analysis. The main objective of this paper is to quantify the impact of risks in sustainable manufacturing system using Graph Theoretic Approach (GTA) and to suggest some risk mitigation techniques .

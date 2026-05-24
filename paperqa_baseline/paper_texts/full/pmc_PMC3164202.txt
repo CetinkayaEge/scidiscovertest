@@ -1,0 +1,9 @@
+Title: No Evidence for Strong Recent Positive Selection Favoring the 7 Repeat Allele of VNTR in the DRD4 Gene
+Authors: Izumi Naka, Nao Nishida, Jun Ohashi
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024410
+Paper ID: pmc_PMC3164202
+
+Abstract:
+The human dopamine receptor D4 ( DRD4 ) gene contains a 48-bp variable number of tandem repeat (VNTR) in exon 3, encoding the third intracellular loop of this dopamine receptor. The DRD4 7R allele, which seems to have a single origin, is commonly observed in various human populations and the nucleotide diversity of the DRD4 7R haplotype at the DRD4 locus is reduced compared to the most common DRD4 4R haplotype. Based on these observations, previous studies have hypothesized that positive selection has acted on the DRD4 7R allele. However, the degrees of linkage disequilibrium (LD) of the DRD4 7R allele with single nucleotide polymorphisms (SNPs) outside the DRD4 locus have not been evaluated. In this study, to re-examine the possibility of recent positive selection favoring the DRD4 7R allele, we genotyped HapMap subjects for DRD4 VNTR, and conducted several neutrality tests including long range haplotype test and iHS test based on the extended haplotype homozygosity. Our results indicated that LD of the DRD4 7R allele was not extended compared to SNP alleles with the similar frequency. Thus, we conclude that the DRD4 7R allele has not been subjected to strong recent positive selection.

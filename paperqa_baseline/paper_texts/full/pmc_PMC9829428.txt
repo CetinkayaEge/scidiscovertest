@@ -1,0 +1,9 @@
+Title: Clustering models for hospitals in Jakarta using fuzzy c-means and k-means
+Authors: Karli Eka Setiawan, Afdhal Kurniawan, Andry Chowanda, Derwin Suhartono
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.146
+Paper ID: pmc_PMC9829428
+
+Abstract:
+After facing the COVID-19 pandemic, national and local governments in Indonesia realized a gap in the distribution of health care and human health practitioners. This research proposes two unsupervised learning methods, K-Means and Fuzzy C-Means (FCM), for clustering a list of hospital data in Jakarta, Indonesia, which contains information about the number of its human health resources. The datasets used in this study were obtained from the website the Ministry of the Health Republic of Indonesia provided through the content scraping method. The result shows that implementing K-Means and FCM clustering results in the same number of clusters. Nevertheless, both results have different areas and proportions that can be observed by three distance metrics, such as Hamming, Euclidean, and Manhattan distance. By using the clustering result using the K-Means algorithm, the hospital list was separated into three clusters with a proportion of 84.82%, 14.66%, and 0.52% for clusters 0, 1, and 2, respectively. Meanwhile, using the FCM algorithm, the hospital list was separated into three clusters with a proportion of 17.80%, 73.82%, and 8.38% for clusters 0, 1, and 2, respectively. To the best of our knowledge, this is the first discussion of clustering healthcare facilities in Indonesia, especially hospitals, based on their health professionals.

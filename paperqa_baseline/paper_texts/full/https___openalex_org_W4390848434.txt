@@ -1,0 +1,9 @@
+Title: Quantitative sustainability assessment of metal additive manufacturing: A systematic review
+Authors: Valentina Pusateri, Michael Zwicky Hauschild, Sami Kara, Constantinos Goulas, Stig Irving Olsen
+Year: 2024
+Venue: CIRP journal of manufacturing science and technology
+DOI: https://doi.org/10.1016/j.cirpj.2023.12.005
+Paper ID: https://openalex.org/W4390848434
+
+Abstract:
+This paper presents a systematic critical review of quantitative sustainability assessment studies on metal additive manufacturing (MAM) with a life cycle perspective. Potential benefits and present challenges of MAM are also discussed. MAM showed the potential to reduce overall environmental impacts and be more cost-effective for parts with complex designs, high value and low production volumes, particularly for automotive and aerospace components. However, currently, conventional manufacturing appears to have a better sustainability performance than MAM for simple parts in industrial applications. Overall, MAM technology is still in development, even if there have been optimizations and method consolidations.

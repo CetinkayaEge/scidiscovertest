@@ -1,0 +1,9 @@
+Title: Application of Shannon entropy and CoCoSo methods in selection of the most appropriate engineering sustainability components
+Authors: Pankaj Prasad Dwivedi, Dilip Kumar Sharma
+Year: 2022
+Venue: Cleaner Materials
+DOI: https://doi.org/10.1016/j.clema.2022.100118
+Paper ID: https://openalex.org/W4285030262
+
+Abstract:
+One of the most challenging problems in engineering is deciding which material is best for the product in terms of durability, dependability, and cost. The selection of an appropriate material that provides optimal performance at the lowest cost is frequently seen to be an MCDM challenge with several objectives. The major goal of this study for engineering applications is to underline the necessity of choosing the best material from the alternatives group based on a usual of critical criteria. This paper gives an integrated strategy for an engineering design to select the best sustainable material that provides the best performance at the lowest cost. In the process of the best material selection, we use two techniques. The main reason to utilize these methods is that the CoCoSo strategy, along with Shannon's entropy, is a strong decision-making tool for selecting the best goal by combining three aggregation strategies. The first is the entropy technique which is used to compute the sustainable material weights of the criterion, and the second is the CoCoSo technique which is utilized to assess the ranking of the best choice for sustainable material. Seven choices and six criteria are employed in this strategy to pick the best material for the design.

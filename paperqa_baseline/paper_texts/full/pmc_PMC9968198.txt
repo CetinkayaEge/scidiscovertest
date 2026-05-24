@@ -1,0 +1,9 @@
+Title: Trauma to the Eye: Diffusion Restriction on MRI as a Surrogate Marker for Blindness
+Authors: Andreas Stahl, Norbert Hosten
+Year: 2023
+Venue: Tomography
+DOI: 10.3390/tomography9010033
+Paper ID: pmc_PMC9968198
+
+Abstract:
+Traumatic optic nerve injury may lead to almost instantaneous blindness. We describe a case of sight loss after a perforating injury to the eye. The case is unusual in that the patient remained conscious and the trauma to the eye was isolated. A full ophthalmological examination was therefore possible within hours as well as early magnetic resonance imaging of the facial skull. High-quality T1-weighted, T2-weighted, and diffusion-weighted imaging could be acquired. The latter included apparent diffusion coefficient maps. There was a loss of the subarachnoid space of the optic nerve, fluid in the retrobulbar fat of the affected eye, and signal changes in the optic nerve. Previous work has been contradictory on the signal of the optic nerve on apparent diffusion coefficient maps in sight loss, with an increase seen by one group and a decrease seen by another. Signal loss on the apparent diffusion coefficient map was seen in the case described here. Signal loss on apparent diffusion coefficient maps may thus be used as a surrogate marker of sight loss in patients who are unconscious or otherwise unable to cooperate in ophthalmological exams.

@@ -1,0 +1,9 @@
+Title: MPP8 is essential for sustaining self-renewal of ground-state pluripotent stem cells
+Authors: Iris Müller, Ann Sophie Moroni, Daria Shlyueva, Sudeep Sahadevan, Erwin M. Schoof, Aliaksandra Radzisheuskaya, Jonas W. Højfeldt, Tülin Tatar, Richard P. Koche, Chang Huang, Kristian Helin
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-23308-4
+Paper ID: https://openalex.org/W3164721363
+
+Abstract:
+Deciphering the mechanisms that control the pluripotent ground state is key for understanding embryonic development. Nonetheless, the epigenetic regulation of ground-state mouse embryonic stem cells (mESCs) is not fully understood. Here, we identify the epigenetic protein MPP8 as being essential for ground-state pluripotency. Its depletion leads to cell cycle arrest and spontaneous differentiation. MPP8 has been suggested to repress LINE1 elements by recruiting the human silencing hub (HUSH) complex to H3K9me3-rich regions. Unexpectedly, we find that LINE1 elements are efficiently repressed by MPP8 lacking the chromodomain, while the unannotated C-terminus is essential for its function. Moreover, we show that SETDB1 recruits MPP8 to its genomic target loci, whereas transcriptional repression of LINE1 elements is maintained without retaining H3K9me3 levels. Taken together, our findings demonstrate that MPP8 protects the DNA-hypomethylated pluripotent ground state through its association with the HUSH core complex, however, independently of detectable chromatin binding and maintenance of H3K9me3.

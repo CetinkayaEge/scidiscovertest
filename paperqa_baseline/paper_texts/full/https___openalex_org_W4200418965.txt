@@ -1,0 +1,9 @@
+Title: Quantitative Policy Analysis for Sustainable Aviation Fuel Production Technologies
+Authors: Z. Juju Wang, Mark D. Staples, Wallace E. Tyner, Xin Zhao, Robert Malina, Hakan Olcay, Florian Allroggen, Steven R. H. Barrett
+Year: 2021
+Venue: Frontiers in Energy Research
+DOI: https://doi.org/10.3389/fenrg.2021.751722
+Paper ID: https://openalex.org/W4200418965
+
+Abstract:
+This paper quantifies the impact of different policy options on the economic viability of sustainable aviation fuel (SAF) production technologies. The pathways considered include isobutanol to jet from corn grain, hydroprocessed esters and fatty acids (HEFA) from inedible fats and oils, HEFA from palm fatty acid distillate, synthesized iso-paraffins from sugarcane, Fischer-Tropsch (FT) gasification and synthesis from municipal solid waste, and micro FT from wood residues. The policies considered include feedstock subsidies, capital grants, output based incentives, and two policies intended to reduce project risk. Stochastic techno-economic analysis models are used to quantify the policies’ impact on project net present value and minimum selling price of the middle distillate fuel products. None of the technology pathways studied are found to be financially viable without policy aid. The median total policy costs required for economic viability range from 35 to 337 million USD per production facility, or 0.07–0.71 USD/liter. Our results indicate that the cumulative impact of multiple policies, similar in magnitude to analogous real-world fuel policies, could result in economically viable SAF production.

@@ -1,0 +1,9 @@
+Title: Triple-cation mixed-halide perovskites: towards efficient, annealing-free and air-stable solar cells enabled by Pb(SCN) 2 additive
+Authors: Yong Sun, Jiajun Peng, Yani Chen, Yingshan Yao, Ziqi Liang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46193
+Paper ID: pmc_PMC5382775
+
+Abstract:
+Organo-metal halide perovskites have suffered undesirably from structural and thermal instabilities. Moreover, thermal annealing is often indispensable to the crystallization of perovskites and removal of residual solvents, which is unsuitable for scalable fabrication of flexible solar modules. Herein, we demonstrate the non-thermal annealing fabrication of a novel type of air-stable triple-cation mixed-halide perovskites, FA 0.7 MA 0.2 Cs 0.1 Pb(I 5/6 Br 1/6 ) 3 (FMC) by incorporation of Pb(SCN) 2 additive. It is found that adding Pb(SCN) 2 functions the same as thermal annealing process by not only improving the crystallinity and optical absorption of perovskites, but also hindering the formation of morphological defects and non-radiative recombination. Furthermore, such Pb(SCN) 2 -treated FMC unannealed films present micrometer-sized crystal grains and remarkably high moisture stability. Planar solar cells built upon these unannealed films exhibit a high PCE of 14.09% with significantly suppressed hysteresis phenomenon compared to those of thermal annealing. The corresponding room-temperature fabricated flexible solar cell shows an impressive PCE of 10.55%. This work offers a new avenue to low-temperature fabrication of air-stable, flexible and high-efficiency perovskite solar cells.

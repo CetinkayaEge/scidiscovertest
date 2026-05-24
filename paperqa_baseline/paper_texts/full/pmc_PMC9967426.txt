@@ -1,0 +1,9 @@
+Title: T1-Weighted Contrast Enhancement, Apparent Diffusion Coefficient, and Cerebral-Blood-Volume Changes after Glioblastoma Resection: MRI within 48 Hours vs. beyond 48 Hours
+Authors: Davide Negroni, Romina Bono, Eleonora Soligo, Vittorio Longo, Christian Cossandi, Alessandro Carriero, Alessandro Stecco
+Year: 2023
+Venue: Tomography
+DOI: 10.3390/tomography9010027
+Paper ID: pmc_PMC9967426
+
+Abstract:
+Background: The aim of the study is to identify the advantages, if any, of post-operative MRIs performed at 48 h compared to MRIs performed after 48 h in glioblastoma surgery. Materials and Methods: To assess the presence of a residual tumor, the T1-weighted Contrast Enhancement (CE), Apparent Diffusion Coefficient (ADC), and Cerebral Blood Volume (rCBV) in the proximity of the surgical cavity were considered. The rCBV ratio was calculated by comparing the rCBV with the contralateral normal white matter. After the blind image examinations by the two radiologists, the patients were divided into two groups according to time window after surgery: ≤48 h (group 1) and >48 h (group 2). Results: A total of 145 patients were enrolled; at the 6-month follow-up MRI, disease recurrence was 89.9% (125/139), with a mean patient survival of 8.5 months (SD 7.8). The mean ADC and rCBV ratio values presented statistical differences between the two groups ( p < 0.05). Of these 40 patients in whom an ADC value was not obtained, the rCBV values could not be calculated in 52.5% (21/40) due to artifacts ( p < 0.05). Conclusion: The study showed differences in CE, rCBV, and ADC values between the groups of patients undergoing MRIs before and after 48 h. An MRI performed within 48 h may increase the ability of detecting GBM by the perfusion technique with the calculation of the rCBV ratio.

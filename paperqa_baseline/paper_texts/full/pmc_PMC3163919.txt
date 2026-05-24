@@ -1,0 +1,9 @@
+Title: A web accessible resource for investigating cassava phenomics and genomics information: BIOGEN BASE
+Authors: Murukarthick Jayakodi, Sreedevi Ghokhilamani selvan, Senthil Natesan, Raveendran Muthurajan, Raghu Duraisamy, Jana Jeevan Ramineni, Sakthi Ambothi Rathinasamy, Nageswari Karuppusamy, Pugalenthi Lakshmanan, Mohan Chokkappan
+Year: 2011
+Venue: Bioinformation
+DOI: 10.6026/97320630006391
+Paper ID: pmc_PMC3163919
+
+Abstract:
+The goal of our research is to establish a unique portal to bring out the potential outcome of the research in the Casssava crop. The Biogen base for cassava clearly brings out the variations of different traits of the germplasms, maintained at the Tapioca and Castor Research Station, Tamil Nadu Agricultural University. Phenotypic and genotypic variations of the accessions are clearly depicted, for the users to browse and interpret the variations using the microsatellite markers. Database (BIOGEN BASE ‐ CASSAVA) is designed using PHP and MySQL and is equipped with extensive search options. It is more user-friendly and made publicly available, to improve the research and development of cassava by making a wealth of genetics and genomics data available through open, common, and worldwide forum for all individuals interested in the field. Availability The database is available for free at http://www.tnaugenomics.com/biogenbase/casava.php

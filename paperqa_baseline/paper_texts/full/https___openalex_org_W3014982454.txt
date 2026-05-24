@@ -1,0 +1,9 @@
+Title: Mentalizing with the future: Electrical stimulation of the right TPJ increases sustainable decision-making
+Authors: Benedikt P. Langenbach, Branislav Savic, Thomas Baumgärtner, Annika M. Wyss, Daria Knoch
+Year: 2021
+Venue: Cortex
+DOI: https://doi.org/10.1016/j.cortex.2021.11.006
+Paper ID: https://openalex.org/W3014982454
+
+Abstract:
+While many people acknowledge the urgency to drastically change our consumption patterns to mitigate climate change, most people fail to live sustainably. We hypothesized that a lack of sustainability stems from insufficient intergenerational mentalizing (i.e., taking the perspective of people in the future). To causally test our hypothesis, we applied high-definition transcranial direct current stimulation (HD-tDCS) to the temporo-parietal junction (TPJ). We tested participants twice (receiving stimulation at the TPJ or the vertex as control), while they engaged in a behavioral economic paradigm measuring sustainable decision-making, even if sustainability was costly. Indeed, excitatory anodal HD-tDCS increased sustainable decision-making, while inhibitory cathodal HD-tDCS had no effect. These finding cannot be explained by changes in participants' fairness norms or their estimation of how other people would behave. Shedding light on the neural basis of sustainability, our results could inspire targeted interventions tackling the TPJ and give neuroscientific support to theories on how to construct public campaigns addressing sustainability issues.

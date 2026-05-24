@@ -1,0 +1,9 @@
+Title: Compatibilized Immiscible Polymer Blends for Gas Separations
+Authors: Nimanka Panapitiya, Sumudu Wijenayake, Do Nguyen, Chamaal Karunaweera, Yu Huang, Kenneth Balkus, Inga Musselman, John Ferraris
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080643
+Paper ID: pmc_PMC5509093
+
+Abstract:
+Membrane-based gas separation has attracted a great deal of attention recently due to the requirement for high purity gasses in industrial applications like fuel cells, and because of environment concerns, such as global warming. The current methods of cryogenic distillation and pressure swing adsorption are energy intensive and costly. Therefore, polymer membranes have emerged as a less energy intensive and cost effective candidate to separate gas mixtures. However, the use of polymeric membranes has a drawback known as the permeability-selectivity tradeoff. Many approaches have been used to overcome this limitation including the use of polymer blends. Polymer blending technology synergistically combines the favorable properties of different polymers like high gas permeability and high selectivity, which are difficult to attain with a single polymer. During polymer mixing, polymers tend to uncontrollably phase separate due to unfavorable thermodynamics, which limits the number of completely miscible polymer combinations for gas separations. Therefore, compatibilizers are used to control the phase separation and to obtain stable membrane morphologies, while improving the mechanical properties. In this review, we focus on immiscible polymer blends and the use of compatibilizers for gas separation applications.

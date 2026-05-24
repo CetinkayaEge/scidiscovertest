@@ -1,0 +1,9 @@
+Title: Design of cultural emperor penguin optimizer for energy-efficient resource scheduling in green cloud computing environment
+Authors: Romany F. Mansour, Hesham Alhumyani, Sayed Abdel Khalek, Rashid A. Saeed, Deepak Gupta
+Year: 2022
+Venue: Cluster Computing
+DOI: 10.1007/s10586-022-03608-0
+Paper ID: pmc_PMC9113386
+
+Abstract:
+In recent times, energy related issues have become challenging with the increasing size of data centers. Energy related issues problems are becoming more and more serious with the growing size of data centers. Green cloud computing (GCC) becomes a recent computing platform which aimed to handle energy utilization in cloud data centers. Load balancing is generally employed to optimize resource usage, throughput, and delay. Aiming at the reduction of energy utilization at the data centers of GCC, this paper designs an energy efficient resource scheduling using Cultural emperor penguin optimizer (CEPO) algorithm, called EERS-CEPO in GCC environment. The proposed model is aimed to distribute work load amongst several data centers or other resources and thereby avoiding overload of individual resources. The CEPO algorithm is designed based on the fusion of cultural algorithm (CA) and emperor penguin optimizer (EPO), which boosts the exploitation capabilities of EPO algorithm using the CA, shows the novelty of the work. The EERS-CEPO algorithm has derived a fitness function to optimally schedule the resources in data centers, minimize the operational and maintenance cost of the GCC, and thereby decrease the energy utilization and heat generation. To ensure the improvised performance of the EERS-CEPO algorithm, a wide range of experiments is performed and the experimental outcomes highlighted the better performance over the recent state of art techniques.

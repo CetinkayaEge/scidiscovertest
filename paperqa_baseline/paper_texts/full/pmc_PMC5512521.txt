@@ -1,0 +1,9 @@
+Title: Transverse Crack Detection in 3D Angle Interlock Glass Fibre Composites Using Acoustic Emission
+Authors: Matthieu Gresil, Mohamed Nasr Saleh, Constantinos Soutis
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080699
+Paper ID: pmc_PMC5512521
+
+Abstract:
+In addition to manufacturing cost and production rates, damage resistance has become a major issue for the composites industry. Three-dimensional (3D) woven composites have superior through-thickness properties compared to two-dimensional (2D) laminates, for example, improved impact damage resistance, high interlaminar fracture toughness and reduced notch sensitivity. The performance of 3D woven preforms is dependent on the fabric architecture, which is determined by the binding pattern. For this study, angle interlock (AI) structures with through-thickness binding were manufactured. The AI cracking simulation shows that the transverse component is the one that leads to transverse matrix cracking in the weft yarn under tensile loading. Monitoring of acoustic emission (AE) during mechanical loading is an effective tool in the study of damage processes in glass fiber-reinforced composites. Tests were performed with piezoelectric sensors bonded on a tensile specimen acting as passive receivers of AE signals. An experimental data has been generated which was useful to validate the multi-physics finite element method (MP-FEM), providing insight into the damage behaviour of novel 3D AI glass fibre composites. MP-FEM and experimental data showed that transverse crack generated a predominant flexural mode A0 and also a less energetic extensional mode S0.

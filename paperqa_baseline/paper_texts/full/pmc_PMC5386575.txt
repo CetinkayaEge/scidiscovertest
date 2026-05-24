@@ -1,0 +1,9 @@
+Title: Long noncoding RNA BLACAT1 indicates a poor prognosis of colorectal cancer and affects cell proliferation by epigenetically silencing of p15
+Authors: Jun Su, Erbao Zhang, Liang Han, Dandan Yin, Zhili Liu, Xuezhi He, Yuhong Zhang, Feng Lin, Qingfeng Lin, Peiyao Mao, Weidong Mao, Dong Shen
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.83
+Paper ID: pmc_PMC5386575
+
+Abstract:
+Recently, a novel class of transcripts, long noncoding RNAs (lncRNAs), is being identified at a rapid pace. These RNAs have critical roles in diverse biological processes, including tumorigenesis. One of them, BLACAT1, a cancer-associated long noncoding RNA, exerts regulatory functions in various biological processes in cancer cells, however, the role of BLACAT1 in colon cancer remains unclear. Our experiments showed that increased BLACAT1 was an independent unfavorable prognostic indicator for colorectal cancer, and revealed that BLACAT1 knockdown significantly repressed proliferation, both in vitro and in vivo . Mechanistic investigations demonstrated that BLACAT1 had a key role in G1/G0 arrest, and showed that BLACAT1 can repress p15 expression by binding to EZH2, thus contributing to the regulation of CRC cell cycle and proliferation. Our results suggest that BLACAT1, as a cell cycle regulator, may serve as a potential target for colon cancer prevention and treatment in human CRC.

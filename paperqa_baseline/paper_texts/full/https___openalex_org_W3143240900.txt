@@ -1,0 +1,9 @@
+Title: Bridge Maintenance, Safety, Management, Life-Cycle Sustainability and Innovations
+Authors: Maria Pregnolato, Andrew O. Winter, Andrew D. Sen, Dakota Mascarenas, Paul D Bates, Michael R. Motley
+Year: 2021
+Venue: 
+DOI: https://doi.org/10.1201/9780429279119
+Paper ID: https://openalex.org/W3143240900
+
+Abstract:
+Flood events are the most frequent cause of damage to infrastructure compared to any other natural hazard, and global changes (climate, socio-economic, technological) are likely to increase this damage. Transportation infrastructure systems are responsible for moving people, goods and services, and ensuring connection within and among urban areas; a failed link in this system can impact the community by reducing evacuation capability, recovery operations and the overall economy. Bridges are critical links in the system, since they are associated with less redundancy and a high construction cost. Riverine bridges are particularly prone to failure during flood events; in fact, the risks to bridges from high river flows and bank erosion have been recognized as crucial at global level. This study aims to establish rigorous practices of computational fluid dynamics (CFD) for modelling hydrodynamic forces on inundated bridges, and understanding the consequences of such impact on the surrounding network. Objectives of this study are to model hydrodynamic forces as demand on the bridge structure and to advance a reliability analysis of the structure under the modelled loading. Implications of the hydrodynamic impact on the performance and functionality of the surrounding transport network are discussed. This research will help to fill the gap between current guidance for design and assessment of bridges relevance within the overall transport system.

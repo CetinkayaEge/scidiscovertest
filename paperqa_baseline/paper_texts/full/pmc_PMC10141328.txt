@@ -1,0 +1,9 @@
+Title: Designing New Magnesium Pincer Complexes for Catalytic Hydrogenation of Imines and N -Heteroarenes: H 2 and N–H Activation by Metal–Ligand Cooperation as Key Steps
+Authors: Yaoyu Liang, Jie Luo, Yael Diskin-Posner, David Milstein
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c01091
+Paper ID: pmc_PMC10141328
+
+Abstract:
+Utilization of main-group metals as alternatives to transition metals in homogeneous catalysis has become a hot research area in recent years. However, their application in catalytic hydrogenation is less common due to the difficulty in heterolytic cleavage of the H–H bond. Employing aromatization/de-aromatization metal–ligand cooperation (MLC) highly enhances the H 2 activation process, offering an efficient approach for the hydrogenation of unsaturated molecules catalyzed by main-group metals. Herein, we report a series of new magnesium pincer complexes prepared using PNNH-type pincer ligands. The complexes were characterized by NMR and X-ray single-crystal diffraction. Reversible activation of H 2 and N–H bonds by MLC employing these pincer complexes was developed. Using the new magnesium complexes, homogeneously catalyzed hydrogenation of aldimines and ketimines was achieved, affording secondary amines in excellent yields. Control experiments and DFT studies reveal that a pathway involving MLC is favorable for the hydrogenation reactions. Moreover, the efficient catalysis was extended to the selective hydrogenation of quinolines and other N -heteroarenes, presenting the first example of hydrogenation of N -heteroarenes homogeneously catalyzed by early main-group metal complexes. This study provides a new strategy for hydrogenation of C=N bonds catalyzed by magnesium compounds and enriches the research of main-group metal catalysis.

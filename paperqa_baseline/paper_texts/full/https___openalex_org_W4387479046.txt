@@ -1,0 +1,9 @@
+Title: Introducing a Data Perspective to Sustainability: How Companies Develop Data Sourcing Practices for Sustainability Initiatives
+Authors: Pavel Krasikov, Christine Legner
+Year: 2023
+Venue: Communications of the Association for Information Systems
+DOI: https://doi.org/10.17705/1cais.05307
+Paper ID: https://openalex.org/W4387479046
+
+Abstract:
+Many companies use the UN Sustainable Development Goals as a point of reference for their sustainability initiatives and actions. Reporting on these goals requires collecting, processing, and interpreting substantial amounts of data (e.g., on emissions or recycled materials) that were previously neither captured nor analyzed. Although prior studies have occasionally highlighted the issues of data availability, data access, and data quality, a research void prevails on the data perspective in the sustainability context. This article aims at developing this perspective by shedding light on data sourcing practices for the reliable reporting of sustainability initiatives and goals. We make a two-fold contribution to sustainability and Green IS research: First, as a theoretical contribution, we propose a framework based on institutional theory to explain how companies develop their data sourcing practices in response to regulatory, normative, and cultural-cognitive pressures. Second, our empirical contributions include insights into five case studies that represent key initiatives in the field of environmental sustainability that touch on, first, understanding the ecological footprint, and, second, obtaining labels or complying with regulations, both on product and packaging levels. Based on five case studies, we identify three data sourcing practices: sense-making, data collection, and data reconciliation. Thereby, our research lays the foundation for an academic conceptualization of data sourcing in the context of sustainability.

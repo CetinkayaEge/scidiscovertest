@@ -1,0 +1,9 @@
+Title: Toward net-zero sustainable aviation fuel with wet waste–derived volatile fatty acids
+Authors: Nabila A. Huq, Glenn R. Hafenstine, Xiangchen Huo, Hannah Nguyen, Stephen M. Tifft, Davis R. Conklin, Daniela Stück, Jim Stunkel, Zhibin Yang, Joshua S. Heyne, Matthew Wiatrowski, Yimin Zhang, Ling Tao, Junqing Zhu, Charles S. McEnally, Earl Christensen, Cameron Hays, Kurt M. Van Allsburg, Kinga A. Unocic, Harry M. Meyer, Zia Abdullah, Derek R. Vardon
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2023008118
+Paper ID: https://openalex.org/W3139337658
+
+Abstract:
+volatile fatty acids (VFA) for catalytic upgrading to SAF. Here, we evaluate the catalytic conversion of food waste-derived VFAs to produce n-paraffin SAF for near-term use as a 10 vol% blend for ASTM "Fast Track" qualification and produce a highly branched, isoparaffin VFA-SAF to increase the renewable blend limit. VFA ketonization models assessed the carbon chain length distributions suitable for each VFA-SAF conversion pathway, and food waste-derived VFA ketonization was demonstrated for >100 h of time on stream at approximately theoretical yield. Fuel property blending models and experimental testing determined normal paraffin VFA-SAF meets 10 vol% fuel specifications for "Fast Track." Synergistic blending with isoparaffin VFA-SAF increased the blend limit to 70 vol% by addressing flashpoint and viscosity constraints, with sooting 34% lower than fossil jet. Techno-economic analysis evaluated the major catalytic process cost-drivers, determining the minimum fuel selling price as a function of VFA production costs. Life cycle analysis determined that if food waste is diverted from landfills to avoid methane emissions, VFA-SAF could enable up to 165% reduction in greenhouse gas emissions relative to fossil jet.

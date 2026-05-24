@@ -1,0 +1,9 @@
+Title: Interactive nanocluster compaction of the ELKS scaffold and Cacophony Ca 2+ channels drives sustained active zone potentiation
+Authors: Tina Ghelani, Marc Escher, Ulrich Thomas, Klara Esch, Janine Lützkendorf, Harald Depner, Marta Maglione, Pierre Parutto, Scott J. Gratz, Tanja Matkovic-Rachid, Stefanie Ryglewski, Alexander M. Walter, David Holcman, Kate M. O’Connor-Giles, Martin Heine, Stephan J. Sigrist
+Year: 2023
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.ade7804
+Paper ID: https://openalex.org/W4321185632
+
+Abstract:
+AZs undergoing presynaptic homeostatic potentiation. During potentiation, the numbers of α1 VGCC subunit Cacophony (Cac) increased per AZ, while their mobility decreased and nanoscale distribution compacted. These dynamic Cac changes depended on the interaction between Cac channel's intracellular carboxyl terminus and the membrane-close amino-terminal region of the ELKS-family protein Bruchpilot, whose distribution compacted drastically. The Cac-ELKS/Bruchpilot interaction was also needed for sustained AZ potentiation. Our single-molecule analysis illustrates how the AZ scaffold couples to VGCC nanoscale distribution and dynamics to establish a state of sustained potentiation.

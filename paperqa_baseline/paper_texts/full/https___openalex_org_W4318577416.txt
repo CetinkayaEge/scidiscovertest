@@ -1,0 +1,9 @@
+Title: Multilayered optofluidics for sustainable buildings
+Authors: Raphael Kay, J. Alstan Jakubiec, Charlie Katrycz, Benjamin D. Hatton
+Year: 2023
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2210351120
+Paper ID: https://openalex.org/W4318577416
+
+Abstract:
+Indoor climate control is among the most energy-intensive activities conducted by humans. A building facade that can achieve versatile climate control directly, through independent and multifunctional optical reconfigurations, could significantly reduce this energy footprint, and its development represents a pertinent unmet challenge toward global sustainability. Drawing from optically adaptive multilayer skins within biological organisms, we report a multilayered millifluidic interface for achieving a comprehensive suite of independent optical responses in buildings. We digitally control the flow of aqueous solutions within confined milliscale channels, demonstrating independent command over total transmitted light intensity (95% modulation between 250 and 2,500 nm), near-infrared-selective absorption (70% modulation between 740 and 2,500 nm), and dispersion (scattering). This combinatorial optical tunability enables configurable optimization of the amount, wavelength, and position of transmitted solar radiation within buildings over time, resulting in annual modeled energy reductions of more than 43% over existing technologies. Our scalable "optofluidic" platform, leveraging a versatile range of aqueous chemistries, may represent a general solution for the climate control of buildings.

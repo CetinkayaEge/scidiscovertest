@@ -1,0 +1,9 @@
+Title: Multi-objective optimization method for coil current waveform of transcranial magnetic stimulation
+Authors: Ziqi Zhang, Chang Liu, Jihui Hu, Hongfa Ding, Zhou He, Yongxiu Song, Jiannan Shao, Dandi Zhang
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13541
+Paper ID: pmc_PMC9975103
+
+Abstract:
+Transcranial magnetic stimulation (TMS) has been proved to be effective in the treatment of many kinds of mental diseases. However, the clicking noise produced by the pulse current with large amplitude and short duration in the TMS coil may damage the hearing of patients. The heat produced by the high-frequency pulse current in the coil also reduces the efficiency of TMS equipment. A multi-objective waveform optimization method to improve heat and noise problems at the same time is presented. By analyzing the current waveforms of TMS, the relationship between the current and the vibration energy/Joule heating is established. Taking the Joule heating and the vibration energy as the optimization objectives, exceeding the same amount of neuronal membrane potential as the limiting condition, the Pareto fronts of different current models are obtained by applying the multi-objective particle swarm optimization algorithm (MOPSO). Therefore, the corresponding current waveforms are inversely deduced. A ringing suppression cTMS (RS-cTMS) proof-of-principle experimental platform is constructed. The feasibility of the proposed method is validated through experiments. The results show that the optimized current waveforms can greatly reduce the vibration and heating of the coil compared with the conventional full-sine, recified sine and half-sine waveforms, thus reducing the pulse noise and prolonging the using time of the equipment. The optimized diversified waveforms also provide a reference for the diversity of TMS.

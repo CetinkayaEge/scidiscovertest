@@ -1,0 +1,9 @@
+Title: Neural processes responsible for the translation of sustained nociceptive inputs into subjective pain experience
+Authors: Hailu Wang, Yifei Guo, Yiheng Tu, Weiwei Peng, Xuejing Lu, Yanzhi Bi, Gian Domenico Iannetti, Li Hu
+Year: 2023
+Venue: Cerebral Cortex (New York, NY)
+DOI: 10.1093/cercor/bhac090
+Paper ID: pmc_PMC9890464
+
+Abstract:
+Abstract Tracking and predicting the temporal structure of nociceptive inputs is crucial to promote survival, as proper and immediate reactions are necessary to avoid actual or potential bodily injury. Neural activities elicited by nociceptive stimuli with different temporal structures have been described, but the neural processes responsible for translating nociception into pain perception are not fully elucidated. To tap into this issue, we recorded electroencephalographic signals from 48 healthy participants receiving thermo-nociceptive stimuli with 3 different durations and 2 different intensities. We observed that pain perception and several brain responses are modulated by stimulus duration and intensity. Crucially, we identified 2 sustained brain responses that were related to the emergence of painful percepts: a low-frequency component (LFC, < 1 Hz) originated from the insula and anterior cingulate cortex, and an alpha-band event-related desynchronization (α-ERD, 8–13 Hz) generated from the sensorimotor cortex. These 2 sustained brain responses were highly coupled, with the α-oscillation amplitude that fluctuated with the LFC phase. Furthermore, the translation of stimulus duration into pain perception was serially mediated by α-ERD and LFC. The present study reveals how brain responses elicited by nociceptive stimulation reflect the complex processes occurring during the translation of nociceptive information into pain perception.

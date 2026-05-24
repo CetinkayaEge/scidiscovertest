@@ -1,0 +1,9 @@
+Title: Nitrogen Gap Amelioration Is a Core for Sustainable Intensification of Agriculture—A Concept
+Authors: W. Grzebisz, Remigiusz Łukowiak
+Year: 2021
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy11030419
+Paper ID: https://openalex.org/W3129243838
+
+Abstract:
+The main reason for the development of the yield gap in crop production is the inefficient management of nitrogen (N). The nitrogen gap (NG) cannot be ameliorated without an indication and quantification of soil characteristics that limit N uptake by a crop plant. The insufficient supply of N to a plant during its cardinal stages of yield formation is a result of two major-variabilities. The first is spatial variability in the soil characteristics responsible for water supply to a plant, also serving as a nutrient carrier. The second is a vertical variability in soil factors, decisive for pools of available nutrients, and their in-season accessibility to the grown crop. The long-term strategy for NG cover should focus first on soil characteristics (humus stock, pH, nutrient content) responsible for water storage and its availability to the currently grown plant. Diagnostics of plant nutrient availability should deliver data on their contents both in the topsoil and subsoil. The combined use of both classical diagnostic tools and spectral imagery is a way to divide a single field into units, differing in productivity. Remote-sensing techniques offer a broad number of tools to define the in-season crop canopy requirement for fertilizer N in homogenous field units.

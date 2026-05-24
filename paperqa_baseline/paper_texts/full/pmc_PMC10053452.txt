@@ -1,0 +1,9 @@
+Title: Improving the Efficiency of 3D Monocular Object Detection and Tracking for Road and Railway Smart Mobility
+Authors: Alexandre Evain, Antoine Mauri, François Garnier, Messmer Kounouho, Redouane Khemmar, Madjid Haddad, Rémi Boutteau, Sébastien Breteche, Sofiane Ahmedali
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063197
+Paper ID: pmc_PMC10053452
+
+Abstract:
+Three-dimensional (3D) real-time object detection and tracking is an important task in the case of autonomous vehicles and road and railway smart mobility, in order to allow them to analyze their environment for navigation and obstacle avoidance purposes. In this paper, we improve the efficiency of 3D monocular object detection by using dataset combination and knowledge distillation, and by creating a lightweight model. Firstly, we combine real and synthetic datasets to increase the diversity and richness of the training data. Then, we use knowledge distillation to transfer the knowledge from a large, pre-trained model to a smaller, lightweight model. Finally, we create a lightweight model by selecting the combinations of width, depth & resolution in order to reach a target complexity and computation time. Our experiments showed that using each method improves either the accuracy or the efficiency of our model with no significant drawbacks. Using all these approaches is especially useful for resource-constrained environments, such as self-driving cars and railway systems.

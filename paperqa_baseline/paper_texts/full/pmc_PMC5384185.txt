@@ -1,0 +1,9 @@
+Title: PLGA-based dual targeted nanoparticles enhance miRNA transfection efficiency in hepatic carcinoma
+Authors: Chenlei Cai, Yuexia Xie, liangliang Wu, Xiaojing Chen, Hongmei Liu, Yan Zhou, Hanbing Zou, Dejun Liu, Yanan Zhao, Xianming Kong, Peifeng Liu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46250
+Paper ID: pmc_PMC5384185
+
+Abstract:
+Hepatic carcinoma (HCC) is a lethal disease associated with high morbidity and poor prognosis. Recently years, gene therapies have offered novel modalities to improve the prognosis of HCC patients. MicroRNA-99a (miR-99a) is frequently down-regulated in HCC, where it acts as a tumor suppressor. Therefore, we constructed monomethoxy (polyethylene glycol)-poly(D,L-lactide- co -glycolide)-poly(L-lysine)-lactobionic acid- anti-vascular endothelial growth factor antibody (mPEG-PLGA-PLL-LA/VEGFab or PEAL-LA/VEGFab) nanoparticles (NPs) with highly specific targeting properties as carriers to restore the expression of miR-99a both in vitro and in vivo , to inhibit HCC progression. In vitro , PEAL-LA/VEGFab NPs showed more efficient delivery of miR-99a to HepG2 cells than the conventional transfection reagent Lipofectamine TM 2000 (Lip2000). The higher delivery efficiency associated with PEAL-LA/VEGFab NPs consequently resulted in down-regulation of target genes and suppression of the proliferation, migration and invasion of HepG2 cells. In vivo , miR-99a-PEAL-LA/VEGFab NPs inhibited tumor xenograft growth in HCC-bearing mice without causing obvious systemic toxicity. Our results demonstrate that PEAL-LA/VEGFab NPs selectively and effectively deliver miR-99a to HCC cells based on the double-targeting character of these nanoparticles, thereby offering potential for translation into effective clinical therapies for HCC.

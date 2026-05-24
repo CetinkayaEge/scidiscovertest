@@ -1,0 +1,9 @@
+Title: The influence of firm digitalization on sustainable innovation performance and the moderating role of corporate sustainability practices: An empirical investigation
+Authors: Lorenzo Ardito
+Year: 2023
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3415
+Paper ID: https://openalex.org/W4361276293
+
+Abstract:
+Abstract This paper seeks to shed light on the relationship between firm digitalization and the likelihood of launching sustainable innovations (social and environmental, social only, and environmental only), for which the extant research has provided a paucity of evidence. In detail, the role of digitalization is considered in terms of (i) the specific effect of a given digital technology (DT)—among artificial intelligence, cloud computing, robotics, smart devices, big data analytics, high speed infrastructure, and blockchain—and (ii) the effect of the concurrent adoption of multiple DTs (degree of digitalization). Furthermore, the paper assesses if and how the effect of the degree of digitalization is moderated by the implementation of sustainability practices, as the two issues are often treated independently. Research questions are proposed instead of hypotheses. Econometric analysis to answer proposed questions is based on a sample of 14,125 firms, whose information is gathered from the survey Flash Eurobarometer 486. Results reveal that each DT differently affects the likelihood of launching sustainable innovations, while the degree of digitalization is always beneficial. Moreover, it appears that firm digitalization and the adoption of sustainability practices are not complementary. All in all, this paper helps to illuminate current representations of the interplay between digitalization, sustainability practices, and sustainable innovations at the firm level, with implications for research, managerial practice, and policymaking.

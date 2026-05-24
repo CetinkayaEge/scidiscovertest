@@ -1,0 +1,9 @@
+Title: Self‐Sustained Marangoni Flows Driven by Chemical Reactions**
+Authors: Anne‐Déborah C. Nguindjel, Peter A. Korevaar
+Year: 2021
+Venue: ChemSystemsChem
+DOI: https://doi.org/10.1002/syst.202100021
+Paper ID: https://openalex.org/W4214768083
+
+Abstract:
+Abstract Out‐of‐equilibrium chemical systems, comprising reaction networks and molecular self‐assembly pathways, rely on the delivery of reagents. Rather than via external flow, diffusion or convection, we aim at self‐sustained reagent delivery. Therefore, we explore how the coupling of Marangoni flow with chemical reactions can generate self‐sustained flows, driven by said chemical reactions, and – in turn – sustained by the delivery of reagents for this reaction. We combine a photoacid generator with a pH‐responsive surfactant, such that local UV exposure decreases the pH, increases the surface tension, and triggers the emergence of a Marangoni flow. We study the impact of reagent concentrations and identify threshold conditions at which flow can emerge. Surprisingly, we unraveled an antagonistic influence of the reagents on key features of the flow such as velocity and duration, and rationalize these findings via a kinetic model. Our study displays the potential of reaction‐driven flow to establish autonomous control in fuel delivery of out‐of‐equilibrium systems.

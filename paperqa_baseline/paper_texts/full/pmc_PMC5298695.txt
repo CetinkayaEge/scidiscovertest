@@ -1,0 +1,9 @@
+Title: Distributed Sensor Nodes Charged by Mobile Charger with Directional Antenna and by Energy Trading for Balancing
+Authors: Celso Moraes, Sunghee Myung, Sangkeum Lee, Dongsoo Har
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010122
+Paper ID: pmc_PMC5298695
+
+Abstract:
+Provision of energy to wireless sensor networks is crucial for their sustainable operation. Sensor nodes are typically equipped with batteries as their operating energy sources. However, when the sensor nodes are sited in almost inaccessible locations, replacing their batteries incurs high maintenance cost. Under such conditions, wireless charging of sensor nodes by a mobile charger with an antenna can be an efficient solution. When charging distributed sensor nodes, a directional antenna, rather than an omnidirectional antenna, is more energy-efficient because of smaller proportion of off-target radiation. In addition, for densely distributed sensor nodes, it can be more effective for some undercharged sensor nodes to harvest energy from neighboring overcharged sensor nodes than from the remote mobile charger, because this reduces the pathloss of charging signal due to smaller distances. In this paper, we propose a hybrid charging scheme that combines charging by a mobile charger with a directional antenna, and energy trading, e.g., transferring and harvesting, between neighboring sensor nodes. The proposed scheme is compared with other charging scheme. Simulations demonstrate that the hybrid charging scheme with a directional antenna achieves a significant reduction in the total charging time required for all sensor nodes to reach a target energy level.

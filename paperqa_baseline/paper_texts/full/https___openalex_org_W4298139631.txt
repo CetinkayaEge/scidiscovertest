@@ -1,0 +1,9 @@
+Title: preCICE v2: A sustainable and user-friendly coupling library
+Authors: Gerasimos Chourdakis, Kyle Davis, Benjamin Rodenberg, Miriam Schulte, Frédéric Simonis, Benjamin Uekérmann, Georg Abrams, Hans‐Joachim Bungartz, Lucia Cheung Yau, Ishaan Desai, Konrad Eder, Richard Hertrich, Florian Lindner, Alexander Rusch, Dmytro Sashko, D. P. Schneider, Amin Totounferoush, Dominik Volland, Peter Vollmer, Oguz Ziya Koseomur
+Year: 2022
+Venue: Open Research Europe
+DOI: https://doi.org/10.12688/openreseurope.14445.2
+Paper ID: https://openalex.org/W4298139631
+
+Abstract:
+preCICE is a free/open-source coupling library. It enables creating partitioned multi-physics simulations by gluing together separate software packages. This paper summarizes the development efforts in preCICE of the past five years. During this time span, we have turned the software from a working prototype -- sophisticated numerical coupling methods and scalability on ten thousands of compute cores -- to a sustainable and user-friendly software project with a steadily-growing community. Today, we know through forum discussions, conferences, workshops, and publications of more than 100 research groups using preCICE. We cover the fundamentals of the software alongside a performance and accuracy analysis of different data mapping methods. Afterwards, we describe ready-to-use integration with widely-used external simulation software packages, tests, and continuous integration from unit to system level, and community building measures, drawing an overview of the current preCICE ecosystem.

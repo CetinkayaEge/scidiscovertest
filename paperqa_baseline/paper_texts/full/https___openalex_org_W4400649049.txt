@@ -1,0 +1,9 @@
+Title: Advancing electric mobility with lithium-ion batteries: A materials and sustainability perspective
+Authors: Anika Promi, Katelyn Meyer, Rupayan Ghosh, Feng Lin
+Year: 2024
+Venue: MRS Bulletin
+DOI: https://doi.org/10.1557/s43577-024-00749-y
+Paper ID: https://openalex.org/W4400649049
+
+Abstract:
+Abstract In the last three decades, lithium-ion batteries (LIBs) have become one of the most influential technologies in the world, allowing the widespread adoption of consumer electronics and now electric vehicles (EVs), a key technology for tackling climate change. Decades of research in both academia and industry have led to the development of diverse chemistries for LIB components, aligning these technological advancements with global carbon neutrality goals. In this article, we discuss the fundamental materials chemistries employed in LIBs for EVs, focusing on how materials-level properties influence the electrochemical performance of the battery. We elaborate on factors such as supply-chain sustainability, raw materials availability, and geopolitical influences that shape the market dynamics of these battery materials. Additionally, we delve into current innovative materials design strategies aimed at enhancing the performance of LIBs, with a focus on improving energy density, safety, stability, and fast-charging capabilities. Finally, we offer our insights into the future trajectory of EV batteries, considering the ongoing research trends and evolving landscape of EVs in the context of global efforts toward a more sustainable and environmentally friendly transportation system. Graphical abstract

@@ -1,0 +1,9 @@
+Title: Sustainable ammonia production via nanosecond-pulsed plasma oxidation and electrocatalytic reduction
+Authors: Jing Sun, Renwu Zhou, Renwu Zhou, Jungmi Hong, Yuting Gao, Zhongping Qu, Zhijie Liu, Dingxin Liu, Tianqi Zhang, Rusen Zhou, Rusen Zhou, Kostya Ostrikov, Patrick J. Cullen, Emma C. Lovell, Rose Amal, Rouhollah Jalili
+Year: 2023
+Venue: Applied Catalysis B: Environmental
+DOI: https://doi.org/10.1016/j.apcatb.2023.123426
+Paper ID: https://openalex.org/W4387941213
+
+Abstract:
+The production of ammonia, powered by renewable energy, in a decentralized manner is of key importance in the transition to a more sustainable future. Recent research has explored the integration of non-thermal plasma and electrochemical processes to achieve this goal. However, the success of this hybrid process is contingent on the energy efficiency of the plasma-generated species. Herein, we developed a plasma bubble reactor, driven by nanosecond pulses interfacing plasma directly with water. This reactor can comprehensively probe gas ionization processes, different energy channels, corresponding plasma catalytic reaction mechanisms, and reactive species in gas and liquid phases. By using on-and-off plasma ignition with rapid pulses, we could regulate energy consumption in cycles and achieved the lowest reported energy consumption of 2.7 ± 0.1 kWh mol-1 NO3− and 3.2 ± 0.1 kWh mol-1 NH4+ after electrocatalytic nitrate reduction. This provides a promising pathway to producing green, renewable ammonia from air and water.

@@ -1,0 +1,9 @@
+Title: Artificial intelligence in clinical medicine: catalyzing a sustainable global healthcare paradigm
+Authors: Gokul Krishnan, Shiana Singh, Monika Pathania, Siddharth Gosavi, Shuchi Abhishek, Ashwin Parchani, Minakshi Dhar
+Year: 2023
+Venue: Frontiers in Artificial Intelligence
+DOI: https://doi.org/10.3389/frai.2023.1227091
+Paper ID: https://openalex.org/W4386293515
+
+Abstract:
+As the demand for quality healthcare increases, healthcare systems worldwide are grappling with time constraints and excessive workloads, which can compromise the quality of patient care. Artificial intelligence (AI) has emerged as a powerful tool in clinical medicine, revolutionizing various aspects of patient care and medical research. The integration of AI in clinical medicine has not only improved diagnostic accuracy and treatment outcomes, but also contributed to more efficient healthcare delivery, reduced costs, and facilitated better patient experiences. This review article provides an extensive overview of AI applications in history taking, clinical examination, imaging, therapeutics, prognosis and research. Furthermore, it highlights the critical role AI has played in transforming healthcare in developing nations.

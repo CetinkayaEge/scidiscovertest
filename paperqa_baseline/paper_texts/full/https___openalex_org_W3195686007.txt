@@ -1,0 +1,9 @@
+Title: Railway Vehicle Energy Efficiency as a Key Factor in Creating Sustainable Transportation Systems
+Authors: Małgorzata Ćwil, Witold Bartnik, Sebastian Jarzębowski
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14165211
+Paper ID: https://openalex.org/W3195686007
+
+Abstract:
+Railway transit forms the backbone of sustainable transportation systems, which are necessary to limit the effects of global warming. In this paper, the authors seek to determine whether there is a statistically significant difference in energy consumption between distinct railway vehicle types. Firstly, the energy consumption measurement methods in the railway transportation sector are described and compared to each other in respect to precision and cost. Secondly, the use of energy consumption as a criterion in rolling stock tenders with the associated norm is analysed, particularly with regard to the life-cycle cost of railway vehicles. In the next part real life data on energy consumption of six distinct passenger electrical railway vehicle types is presented and analysed in order to compare the efficiency of different types of rolling stock. The differences in energy efficiency between rolling stock types may be used to improve the procurement process ensuring train operating companies obtain less energy-consuming vehicles.

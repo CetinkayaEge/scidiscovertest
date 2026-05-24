@@ -1,0 +1,9 @@
+Title: Enhancing Supply Chain Agility and Sustainability through Machine Learning: Optimization Techniques for Logistics and Inventory Management
+Authors: Vikram Pasupuleti, Bharadwaj Thuraka, Chandra Shikhi Kodete, Saiteja Malisetty
+Year: 2024
+Venue: Logistics
+DOI: https://doi.org/10.3390/logistics8030073
+Paper ID: https://openalex.org/W4400721462
+
+Abstract:
+Background: In the current global market, supply chains are increasingly complex, necessitating agile and sustainable management strategies. Traditional analytical methods often fall short in addressing these challenges, creating a need for more advanced approaches. Methods: This study leverages advanced machine learning (ML) techniques to enhance logistics and inventory man-agement. Using historical data from a multinational retail corporation, including sales, inventory levels, order fulfillment rates, and operational costs, we applied a variety of ML algorithms, in-cluding regression, classification, clustering, and time series analysis. Results: The application of these ML models resulted in significant improvements across key operational areas. We achieved a 15% increase in demand forecasting accuracy, a 10% reduction in overstock and stockouts, and a 95% accuracy in predicting order fulfillment timelines. Additionally, the approach identified at-risk shipments and enabled customer segmentation based on delivery preferences, leading to more personalized service offerings. Conclusions: Our evaluation demonstrates the transforma-tive potential of ML in making supply chain operations more responsive and data-driven. The study underscores the importance of adopting advanced technologies to enhance deci-sion-making, evidenced by a 12% improvement in lead time efficiency, a silhouette coefficient of 0.75 for clustering, and an 8% reduction in replenishment errors.

@@ -1,0 +1,9 @@
+Title: Screening the active compounds of Phellodendri Amurensis cortex for treating prostate cancer by high-throughput chinmedomics
+Authors: Xian-Na Li, Aihua Zhang, Meijia Wang, Hui Sun, Zhidong Liu, Shi Qiu, Tianlei Zhang, Xijun Wang
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46234
+Paper ID: pmc_PMC5382783
+
+Abstract:
+Screening the active compounds of herbal medicines is of importance to modern drug discovery. In this work, an integrative strategy was established to discover the effective compounds and their therapeutic targets using Phellodendri Amurensis cortex (PAC) aimed at inhibiting prostate cancer as a case study. We found that PAC could be inhibited the growth of xenograft tumours of prostate cancer. Global constituents and serum metabolites were analysed by UPLC-MS based on the established chinmedomics analysis method, a total of 54 peaks in the spectrum of PAC were characterised in vitro and 38 peaks were characterised in vivo . Among the 38 compounds characterised in vivo , 29 prototype components were absorbed in serum and nine metabolites were identified in vivo . Thirty-four metabolic biomarkers were related to prostate cancer, and PAC could observably reverse these metabolic biomarkers to their normal level and regulate the disturbed metabolic profile to a healthy state. A chinmedomics approach showed that ten absorbed constituents, as effective compounds, were associated with the therapeutic effect of PAC. In combination with bioactivity assays, the action targets were also predicted and discovered. As an illustrative case study, the strategy was successfully applied to high-throughput screening of active compounds from herbal medicine.

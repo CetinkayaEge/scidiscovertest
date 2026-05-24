@@ -1,0 +1,9 @@
+Title: Life cycle sustainability assessment of a proton exchange membrane fuel cell technology for ecodesign purposes
+Authors: Mitja Mori, Diego Iribarren, Julie Cren, Emmanuelle Cor, Andrej Lotrič, Jure Gramc, Boštjan Drobnič, Laurent Rey, Felipe Campos-Carriedo, Gonzalo Puig-Samper, Eleonora Bargiacchi, Javier Dufour, Rok Stropnik
+Year: 2023
+Venue: International Journal of Hydrogen Energy
+DOI: https://doi.org/10.1016/j.ijhydene.2023.05.255
+Paper ID: https://openalex.org/W4381509979
+
+Abstract:
+The EU-funded project eGHOST supports the fuel cells and hydrogen (FCH) industry in shaping the eco (re)design of hydrogen-related products such as proton exchange membrane fuel cell (PEMFC) stacks. Within this framework, a life cycle sustainability assessment (LCSA) of a PEMFC stack was conducted to evaluate its potential environmental, economic, and social impacts. The climate change indicator for one 48 kWel PEMFC stack is 1160 kg CO2 eq., with platinum accounting for 63.5% of the total value. The cost depends mainly on the production rate, and it is 2233 €/stack for an annual production of 50,000 stacks. Social hotspots are mainly associated with platinum production in South Africa. Illustrative ecodesign actions allow a reduction in climate change of 31% and 46% in the realistic (short-term) and optimistic (long-term) concept, respectively. A further reduction in climate change (54% in the optimistic concept) is achieved if 95% recycled Pt is used.

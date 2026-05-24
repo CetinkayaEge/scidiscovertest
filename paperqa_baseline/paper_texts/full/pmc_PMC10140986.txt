@@ -1,0 +1,9 @@
+Title: A Novel Risk Calculator to Predict Erectile Dysfunction in HIV-Positive Men
+Authors: Narcis Chirca, Anca Streinu-Cercel, Marius Stefan, Justin Aurelian, Cristian Persu
+Year: 2023
+Venue: Journal of Personalized Medicine
+DOI: 10.3390/jpm13040679
+Paper ID: pmc_PMC10140986
+
+Abstract:
+HIV infection is considered to be a lifelong medical condition, requiring follow-up and treatment for decades. HIV-positive men are reported to have erectile dysfunction more often than age-matched healthy controls, and improving sexuality is known to potentially improve overall health-related quality of life. The aim of this paper is to evaluate the presence of ED in HIV-positive men and the associated contributing factors and to create a statistical model to assess the risk to develop ED in this population. In a prospective study, we analyzed a group of HIV-positive men in a cross-sectional manner, looking at demographics, blood test results, and smoking habits. Data were statistically analyzed using the Kruskal–Wallis test. In our series, the overall incidence of ED was 48.5%, increasing with age. Our analysis showed no correlation with blood sugar level, but a very strong correlation with total serum lipids. We were able to develop and validate a risk calculator for ED in HIV-positive men.

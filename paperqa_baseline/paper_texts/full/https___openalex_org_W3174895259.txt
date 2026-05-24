@@ -1,0 +1,9 @@
+Title: Direct activation of the proton channel by albumin leads to human sperm capacitation and sustained release of inflammatory mediators by neutrophils
+Authors: Ruiming Zhao, Hui Dai, Rodolfo Arias, Gerardo A. De Blas, Gerardo Orta, Martín A. Pavarotti, Rong Shen, Eduardo Perozo, Luis S. Mayorga, Alberto Darszon, Steven A. Goldstein
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-24145-1
+Paper ID: https://openalex.org/W3174895259
+
+Abstract:
+Human voltage-gated proton channels (hHv1) extrude protons from cells to compensate for charge and osmotic imbalances due metabolism, normalizing intracellular pH and regulating protein function. Human albumin (Alb), present at various levels throughout the body, regulates oncotic pressure and transports ligands. Here, we report Alb is required to activate hHv1 in sperm and neutrophils. Dose-response studies reveal the concentration of Alb in semen is too low to activate hHv1 in sperm whereas the higher level in uterine fluid yields proton efflux, allowing capacitation, the acrosomal reaction, and oocyte fertilization. Likewise, Alb activation of hHv1 in neutrophils is required to sustain production and release of reactive oxygen species during the immune respiratory burst. One Alb binds to both voltage sensor domains (VSDs) in hHv1, enhancing open probability and increasing proton current. A computational model of the Alb-hHv1 complex, validated by experiments, identifies two sites in Alb domain II that interact with the VSDs, suggesting an electrostatic gating modification mechanism favoring the active "up" sensor conformation. This report shows how sperm are triggered to fertilize, resolving how hHv1 opens at negative membrane potentials in sperm, and describes a role for Alb in physiology that will operate in the many tissues expressing hHv1.

@@ -1,0 +1,9 @@
+Title: Optimizing sustainable energy management in grid connected microgrids using quantum particle swarm optimization for cost and emission reduction
+Authors: Koushik Paul, B. Jyothi, R. Seshu Kumar, Arvind R. Singh, Mohit Bajaj, B. Hemanth Kumar, Євген Зайцев
+Year: 2025
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-025-90040-0
+Paper ID: https://openalex.org/W4407715195
+
+Abstract:
+. The algorithm's performance is validated across various microgrid configurations, including standard low-voltage setups. These results highlight QPSO's potential as an efficient tool for optimizing microgrid energy management, promoting both economic and environmental sustainability. This study provides a robust framework for achieving practical solutions in real-world applications, emphasizing the role of advanced optimization techniques in sustainable energy systems.

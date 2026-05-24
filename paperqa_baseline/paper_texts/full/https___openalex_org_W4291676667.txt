@@ -1,0 +1,9 @@
+Title: Circular RNA circNFKB1 promotes osteoarthritis progression through interacting with ENO1 and sustaining NF-κB signaling
+Authors: Su’an Tang, Xiaoyu Nie, Jianzhao Ruan, Yumei Cao, Jingliang Kang, Changhai Ding
+Year: 2022
+Venue: Cell Death and Disease
+DOI: https://doi.org/10.1038/s41419-022-05148-2
+Paper ID: https://openalex.org/W4291676667
+
+Abstract:
+Inflammatory cytokines-induced activation of the nuclear factor κB (NF-κB) pathway plays a critical role in the pathogenesis of osteoarthritis (OA). Circular RNA (circRNA) has been identified as important epigenetic factor in numerous diseases. However, the biological roles of inflammation-related circRNAs in regulating OA pathogenesis remain elusive. Here, we revealed circRNA expression profiles in human primary chondrocytes with interleukin-1β (IL-1β) stimulation by circRNA sequencing. We identified a highly upregulated circRNA, termed as circNFKB1 in inflamed chondrocytes and osteoarthritic cartilage. As a circRNA derived from exon 2-5 of NFKB1, circNFKB1 is located in both cytoplasm and nucleus of chondrocytes. Furthermore, knockdown of circNFKB1 inhibited extracellular matrix (ECM) catabolism and rescued IL-1β impaired ECM anabolism whereas ectopic expression of circNFKB1 significantly promoted chondrocytes degradation in vitro. Moreover, intraarticular injection of adenovirus-circNFKB1 in mouse joints triggered spontaneous cartilage loss and OA development. Mechanistically, circNFKB1 interacted with α-enolase (ENO1), regulated the expression of its parental gene NFKB1 and sustained the activation of NF-κB signaling pathway in chondrocytes. Therefore, this study highlights a novel ENO1-interacting circNFKB1 in OA pathogenesis, and provides valuable insights into understanding the regulatory mechanism of NF-κB signaling in chondrocytes and a promising therapeutic target for the treatment of OA.

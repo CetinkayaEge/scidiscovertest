@@ -1,0 +1,9 @@
+Title: Bio‐Waste‐Derived Hard Carbon Anodes Through a Sustainable and Cost‐Effective Synthesis Process for Sodium‐Ion Batteries
+Authors: Hyein Moon, Alessandro Innocenti, Huiting Liu, Huang Zhang, Marcel Weil, Maider Zarrabeitia, Stefano Passerini
+Year: 2022
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202201713
+Paper ID: https://openalex.org/W4306393013
+
+Abstract:
+Sodium-ion batteries (SIBs) are postulated as sustainable energy storage devices for light electromobility and stationary applications. The anode of choice in SIBs is hard carbon (HC) due to its electrochemical performance. Among different HC precursors, bio-waste resources have attracted significant attention due to their low-cost, abundance, and sustainability. Many bio-waste materials have been used as HC precursors, but they often require strong acids/bases for pre-/post-treatment for HC development. Here, the morphology, microstructure, and electrochemical performance of HCs synthesized from hazelnut shells subjected to different pre-treatments (i. e., no pre-treatment, acid treatment, and water washing) were compared. The impact on the electrochemical performance of sodium-ion cells and the cost-effectiveness were also investigated. The results revealed that hazelnut shell-derived HCs produced via simple water washing outperformed those obtained via other processing methods in terms of electrochemical performance and cost-ecological effectiveness of a sodium-ion battery pack.

@@ -1,0 +1,9 @@
+Title: Sustainable and Green Corrosion Inhibition of Mild Steel: Insights from Electrochemical and Computational Approaches
+Authors: Aicha Rizi, Amel Sedik, Anissa Acidi, Khadidja Otmane Rachedi, Hana Ferkous, Malika Berredjem, Amel Delimi, Amdjed Abdennouri, Manawwer Alam, Barbara Ernst, Yacine Benguerba
+Year: 2023
+Venue: ACS Omega
+DOI: https://doi.org/10.1021/acsomega.3c06548
+Paper ID: https://openalex.org/W4389243013
+
+Abstract:
+L (CCL) extract effectively reduces the corrosion of mild steel in hydrochloric acid with an inhibition efficiency ranging from 79.69 to 98.76%. The optimal inhibition concentration was 2 g/L of EO, and surface analysis confirmed the formation of a protective layer. Furthermore, our results suggest that the inhibitor binds to the metal surface through a charge-transfer process, creating a protective film. Finally, we utilized theoretical calculations and molecular dynamics simulations to elucidate the inhibition mechanism on both a global and local scale.

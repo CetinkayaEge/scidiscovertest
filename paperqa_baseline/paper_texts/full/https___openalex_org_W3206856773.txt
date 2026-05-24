@@ -1,0 +1,9 @@
+Title: Assessment of Green Building Materials’ Attributes to Achieve Sustainable Building Façades Using AHP
+Authors: Marwa M. Gomaa Mayhoub, Zeyad El Sayad, Ahmed AbdelMonteleb M. Ali, Mona G. Ibrahim
+Year: 2021
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings11100474
+Paper ID: https://openalex.org/W3206856773
+
+Abstract:
+The need to enhance the performance of building façades and mitigate adverse environmental impacts has promoted the hypothesis of integrating green materials towards sustainable buildings. Façade designers tend to select building materials based on their green characteristics (origin) or green performance; however, this study highlights the importance of integrating both into the decision process. The main objective is to develop a new assessment process for selecting green building façade materials based on green performance and green originality. Furthermore, the evaluation framework considers four green building rating systems as a reference to allocate credits for the relevant criteria. Applying the proposed criteria in this study helps maximize the points for accreditation when incorporating green building materials in building façades. Moreover, the Analytic Hierarchy Process (AHP) is used to assign the proposed criteria’s weighting importance based on the four rating systems’ average points. After that, performing sensitivity analysis to identify each criterion’s influence is conducted. The study concluded that involving minimum levels of adverse impacts is the preferable criteria regarding the green origin concept. As for the green performance, promoting the performance of indoor air quality is the most favorable selection criteria.

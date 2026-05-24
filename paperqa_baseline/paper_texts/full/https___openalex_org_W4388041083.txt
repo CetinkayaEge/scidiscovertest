@@ -1,0 +1,9 @@
+Title: Sustainable Supercomputing for AI
+Authors: Dan Zhao, Siddharth Samsi, Joseph McDonald, Baolin Li, David Bestor, Michael Jones, Devesh Tiwari, Vijay Gadepally
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.1145/3620678.3624793
+Paper ID: https://openalex.org/W4388041083
+
+Abstract:
+As research and deployment of AI grows, the computational burden to support and sustain its progress inevitably does too. To train or fine-tune state-of-the-art models in NLP, computer vision, etc., some form of AI hardware acceleration is virtually a requirement. Recent large language models require considerable resources to train and deploy, resulting in significant energy usage, potential carbon emissions, and massive demand for GPUs and other hardware accelerators. However, this surge carries large implications for energy sustainability at the HPC/datacenter level. In this paper, we study the effects of power-capping GPUs at a research supercomputing center on GPU temperature and power draw; we show significant decreases in both temperature and power draw, reducing power consumption and potentially improving hardware life-span, with minimal impact on job performance. To our knowledge, our work is the first to conduct and make available a detailed analysis of the effects of GPU power-capping at the supercomputing scale. We hope our work will inspire HPCs/datacenters to further explore, evaluate, and communicate the impact of power-capping AI hardware accelerators for more sustainable AI.

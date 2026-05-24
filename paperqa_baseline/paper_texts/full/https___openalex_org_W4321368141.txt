@@ -1,0 +1,9 @@
+Title: Improving cloud/edge sustainability through artificial intelligence: A systematic review
+Authors: Belén G. Bermejo, Carlos Juiz
+Year: 2023
+Venue: Journal of Parallel and Distributed Computing
+DOI: https://doi.org/10.1016/j.jpdc.2023.02.006
+Paper ID: https://openalex.org/W4321368141
+
+Abstract:
+In recent years, the increase in the use of services in cloud, fog, edge, and IoT ecosystems has been very notable. On the one hand, environmental sustainability is affected by this type of ecosystem since it can produce a large amount of energy consumption which translates into CO2 emissions into the atmosphere. On the other hand, due to the COVID-19 pandemic, the use of these ecosystems has increased considerably. Thus, it is necessary to apply policies and techniques to maximize sustainability within these ecosystems. Some of these policies and techniques are those based on artificial intelligence. However, the current processing of these policies and techniques can also consume a lot of resources. From this perspective, this article aims to clarify whether the sustainability of cloud/fog/edge/IoT ecosystems is improved by the application of artificial intelligence. To do this, a systematic literature review is developed in this paper. In addition, a set of classifications of the analyzed works is proposed based on the different aspects related to these ecosystems, their sustainability, and the applicability of artificial intelligence to improve them.

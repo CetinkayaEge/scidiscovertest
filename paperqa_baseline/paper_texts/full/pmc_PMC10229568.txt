@@ -1,0 +1,9 @@
+Title: Photonic elementary cellular automata for simulation of complex phenomena
+Authors: Gordon H. Y. Li, Christian R. Leefmans, James Williams, Alireza Marandi
+Year: 2023
+Venue: Light, Science & Applications
+DOI: 10.1038/s41377-023-01180-9
+Paper ID: pmc_PMC10229568
+
+Abstract:
+Cellular automata are a class of computational models based on simple rules and algorithms that can simulate a wide range of complex phenomena. However, when using conventional computers, these ‘simple’ rules are only encapsulated at the level of software. This can be taken one step further by simplifying the underlying physical hardware. Here, we propose and implement a simple photonic hardware platform for simulating complex phenomena based on cellular automata. Using this special-purpose computer, we experimentally demonstrate complex phenomena, including fractals, chaos, and solitons, which are typically associated with much more complex physical systems. The flexibility and programmability of our photonic computer present new opportunities to simulate and harness complexity for efficient, robust, and decentralized information processing using light. We experimentally demonstrate a special-purpose photonic computer as a novel hardware platform for simulating complex phenomena using cellular automata.

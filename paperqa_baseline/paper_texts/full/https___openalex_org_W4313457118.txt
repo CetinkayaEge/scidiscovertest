@@ -1,0 +1,9 @@
+Title: Developing sustainable FeTi alloys for hydrogen storage by recycling
+Authors: Yuanyuan Shang, Shaofei Liu, Zhida Liang, Florian Pyczak, Zhifeng Lei, Tim Heidenreich, Alexander Schökel, Ji‐Jung Kai, Gökhan Gizer, Martin Dornheim, Thomas Klassen, Claudio Pistidda
+Year: 2022
+Venue: Communications Materials
+DOI: https://doi.org/10.1038/s43246-022-00324-5
+Paper ID: https://openalex.org/W4313457118
+
+Abstract:
+Abstract Intermetallic alloys such as FeTi have attracted ever-growing attention as a safe and efficient hydrogen storage medium. However, the utilization of high-purity metals for the synthesis of such materials poses considerable concerns over the environmental sustainability of their large-scale production. Here, we report an approach for synthesizing FeTi from industrial scraps of iron (steels C45 and 316 L) and titanium (Ti alloy Grade 2) to reduce the carbon footprint associated with FeTi alloy synthesis, without compromising their hydrogen storage properties. At 50 °C and a pressure of 0 to 100 bar, the alloys obtained by using C45-Ti Grade 2 and 316L-Ti Grade 2 can absorb a maximum amount of hydrogen of 1.61 wt.% and 1.50 wt.%, respectively. Moreover, depending on the type of steel utilized, the thermodynamic properties can be modified. Our findings pave a pathway for developing high-performance, environmentally-sustainable FeTi alloys for hydrogen storage purposes using industrial metal wastes.

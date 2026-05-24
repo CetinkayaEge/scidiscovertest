@@ -1,0 +1,9 @@
+Title: Local Energy Communities in Service of Sustainability and Grid Flexibility Provision: Hierarchical Management of Shared Energy Storage
+Authors: Himanshu Nagpal, Iason-Iraklis Avramidis, Florin Capitanescu, André Madureira
+Year: 2022
+Venue: IEEE Transactions on Sustainable Energy
+DOI: https://doi.org/10.1109/tste.2022.3157193
+Paper ID: https://openalex.org/W4226325301
+
+Abstract:
+Local Energy Communities (LECs) can facilitate the transition towards sustainable and clean energy system infrastructure. In this work, we construct a novel hierarchical energy management framework for an LEC equipped with a community energy storage (CES) installation. The proposed two-stage approach involves end-users making self-driven, cost-optimal decisions (first stage) and said decisions being further coordinated through the CES in service of boosting the LEC’s self-consumption and self-sufficiency (second stage). By complementing the approach with a real-time, predictive, envelope-based methodology for LEC flexibility quantification, a rigorous cost structure for flexibility procurement is established. The LEC is further considered to be providing higher-level ancillary services to the wider power grid, through the load flexibility provision and CES capacity sharing. The efficacy and superior performance of the proposed approach are demonstrated in an exhaustive case study. This includes a detailed comparison with conventional centralized approaches and a comprehensive analysis of the financial and environmental benefits that this envisioned LEC variant can ultimately achieve.

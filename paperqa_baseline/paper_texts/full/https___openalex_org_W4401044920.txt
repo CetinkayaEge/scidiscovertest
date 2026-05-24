@@ -1,0 +1,9 @@
+Title: Sustainable biofabrication: from bioprinting to AI-driven predictive methods
+Authors: Miriam Filippi, Manuel Mekkattu, Robert K. Katzschmann
+Year: 2024
+Venue: Trends in biotechnology
+DOI: https://doi.org/10.1016/j.tibtech.2024.07.002
+Paper ID: https://openalex.org/W4401044920
+
+Abstract:
+Biofabrication is potentially an inherently sustainable manufacturing process of bio-hybrid systems based on biomaterials embedded with cell communities. These bio-hybrids promise to augment the sustainability of various human activities, ranging from tissue engineering and robotics to civil engineering and ecology. However, as routine biofabrication practices are laborious and energetically disadvantageous, our society must refine production and validation processes in biomanufacturing. This opinion highlights the research trends in sustainable material selection and biofabrication techniques. By modeling complex biosystems, the computational prediction will allow biofabrication to shift from an error-trial method to an efficient, target-optimized approach with minimized resource and energy consumption. We envision that implementing bionomic rationality in biofabrication will render bio-hybrid products fruitful for greening human activities.

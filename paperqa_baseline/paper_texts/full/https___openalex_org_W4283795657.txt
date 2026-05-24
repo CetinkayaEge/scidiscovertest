@@ -1,0 +1,9 @@
+Title: Novel composite curing methods for sustainable manufacture: A review
+Authors: Matthew Collinson, MP Bower, T.J. Swait, CP Atkins, SA Hayes, Betime Nuhiji
+Year: 2022
+Venue: Composites Part C Open Access
+DOI: https://doi.org/10.1016/j.jcomc.2022.100293
+Paper ID: https://openalex.org/W4283795657
+
+Abstract:
+The curing of high-performance carbon fibre composites has not changed significantly since their inception, primarily using ovens and autoclaves. To reduce energy costs and continue to increase throughput, alternative novel curing methods that heat the components more directly by not relying on convection or conduction have been investigated frequently, at varying levels of success and scale. This paper critically reviews direct electric, microwave, induction, and radio frequency heating for their manufacturing and engineering applicability, overall energy consumption and evaluation of future challenges and opportunities for these methods in industry. It highlights some of the benefits such as high heating rates, ability to control exothermic reactions effectively and low power consumption, as well as some of the remaining challenges to common adoption, such as uniform degree of cure and ease of use.

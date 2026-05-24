@@ -1,0 +1,9 @@
+Title: Sustainable Transitions Narratives: An Analysis of the Literature through Topic Modelling
+Authors: Gianluca Stefani, Mario Biggeri, Lucia Ferrone
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14042085
+Paper ID: https://openalex.org/W4212838031
+
+Abstract:
+A large and fast-growing field of studies, known as sustainability transitions, emerged at the end of the 1990s, relying on a number of theoretical approaches. Transition management, strategic niche management, sociotechnical transition and technological innovation systems are among the most popular frameworks used to theorize sustainability transitions, although other approaches have been used as well. Our research analyses a specific corpus of text composed of approximately 3500 abstracts of papers collected in the Scopus database related to the term sustainability transition with the help of machine learning techniques. We explore related subfields of this literature, both related to theoretical framework or sectoral focus and their evolution across years and publication outlets, depicting different sustainability narratives.

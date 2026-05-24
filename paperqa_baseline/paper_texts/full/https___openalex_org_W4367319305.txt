@@ -1,0 +1,9 @@
+Title: An aptamer-based depot system for sustained release of small molecule therapeutics
+Authors: Dali Wang, Yang Li, Xiaoran Deng, Matthew Torre, Zipei Zhang, Xiyu Li, Wei Zhang, Kathleen Cullion, Daniel S. Kohane, Christopher B. Weldon
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-37002-0
+Paper ID: https://openalex.org/W4367319305
+
+Abstract:
+Delivery of hydrophilic small molecule therapeutics by traditional drug delivery systems is challenging. Herein, we have used the specific interaction between DNA aptamers and drugs to create simple and effective drug depot systems. The specific binding of a phosphorothioate-modified aptamer to drugs formed non-covalent aptamer/drug complexes, which created a sustained release system. We demonstrated the effectiveness of this system with small hydrophilic molecules, the site 1 sodium channel blockers tetrodotoxin and saxitoxin. The aptamer-based delivery system greatly prolonged the duration of local anesthesia and reduced systemic toxicity. The beneficial effects of the aptamers were restricted to the compounds they were specific to. These studies establish aptamers as a class of highly specific, modifiable drug delivery systems, and demonstrate potential usefulness in the management of postoperative pain.

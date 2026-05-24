@@ -1,0 +1,9 @@
+Title: Solving crop planning and rotation problems in a sustainable agriculture perspective
+Authors: Mario Benini, Emanuele Blasi, Paolo Detti, Lorenzo Fosci
+Year: 2023
+Venue: Computers & Operations Research
+DOI: https://doi.org/10.1016/j.cor.2023.106316
+Paper ID: https://openalex.org/W4381487156
+
+Abstract:
+In this paper, the problem of planning the allocation of crops to arable lands, taking into account crop rotations principles and diversification strategies promoted by sustainable agriculture is addressed. Optimization models for solving multi-period planning problems are proposed, able to decide how to allocate crops in each growing season in order to maximize the total expected profit. The allocation decisions are made considering the crop rotation benefits across seasons and the sustainable requirements stated by current regulations. A complexity analysis is performed, and polynomial special cases are presented. Integer Linear Programming models are proposed, for a case study related to structured professional Italian farms specialized in arable crops, following sustainability rules coming from public regulations and private initiatives, i.e., the Common Agricultural Policy by the European Union and “La Carta del Mulino” by the Barilla Group. Numerical experiments conducted on real data show the effectiveness of the proposed solution approaches.

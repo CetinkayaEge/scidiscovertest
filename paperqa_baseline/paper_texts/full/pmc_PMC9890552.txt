@@ -1,0 +1,9 @@
+Title: Tumor identification via in vivo portable Raman detection of sialic acid with a dual gold nanoprobe system †
+Authors: Yuru Wang, Yuanjiao Yang, Jingxing Guo, Huangxian Ju, Yunlong Chen
+Year: 2022
+Venue: Chemical Science
+DOI: 10.1039/d2sc05163j
+Paper ID: pmc_PMC9890552
+
+Abstract:
+A dual gold nanoprobe system was designed for in vivo portable Raman detection of sialic acid (SA) for tumor identification. The dual gold nanoprobe system contained two gold nanoprobes, Au10-DTTC/PEG-PBA and Au40-PEG-SA. Au10-DTTC/PEG-PBA was constructed on a 10 nm gold nanoparticle modified with 3,3′-diethylthia tricarbocyanine iodide (DTTCI) as the Raman reporter and 3-aminophenylboronic acid (APBA) through a thiol PEG succinimidyl carboxymethyl ester (HS-PEG-NHS) linker for specific recognition of SA. Au40-PEG-SA was constructed on a 40 nm gold nanoparticle modified with SA through HS-PEG-NHS. For in vivo detection of SA, Au10-DTTC/PEG-PBA and Au40-PEG-SA were subsequently injected into tumor xenografted mice with optimal interval and retention times. Through the specific recognition between PBA and SA, the conjugates of Au10-DTTC/PEG-PBA and Au40-PEG-SA formed in the tumor region emitted strong SERS signals of DTTC, which could be detected by a portable Raman detector. This work provides a convenient and portable method to detect SA in tumor xenografted mice, which is useful for family-stay identification and clinical cleavage of tumors. A dual gold nanoprobe system was designed for in vivo portable Raman detection of sialic acid for tumor identification.

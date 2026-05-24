@@ -1,0 +1,9 @@
+Title: Predicting Sustainable Crop Yields: Deep Learning and Explainable AI Tools
+Authors: Ivan Malashin, В С Тынченко, Andrei Gantimurov, Vladimir Nelyub, А. С. Бородулин, Yadviga Tynchenko
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16219437
+Paper ID: https://openalex.org/W4403976848
+
+Abstract:
+Optimizing agricultural productivity and promoting sustainability necessitates accurate predictions of crop yields to ensure food security. Various agricultural and climatic variables are included in the analysis, encompassing crop type, year, season, and the specific climatic conditions of the Indian state during the crop’s growing season. Features such as crop and season were one-hot encoded. The primary objective was to predict yield using a deep neural network (DNN), with hyperparameters optimized through genetic algorithms (GAs) to maximize the R2 score. The best-performing model, achieved by fine-tuning its hyperparameters, achieved an R2 of 0.92, meaning it explains 92% of the variation in crop yields, indicating high predictive accuracy. The optimized DNN models were further analyzed using explainable AI (XAI) techniques, specifically local interpretable model-agnostic explanations (LIME), to elucidate feature importance and enhance model interpretability. The analysis underscored the significant role of features such as crops, leading to the incorporation of an additional dataset to classify the most optimal crops based on more detailed soil and climate data. This classification task was also executed using a GA-optimized DNN, aiming to maximize accuracy. The results demonstrate the effectiveness of this approach in predicting crop yields and classifying optimal crops.

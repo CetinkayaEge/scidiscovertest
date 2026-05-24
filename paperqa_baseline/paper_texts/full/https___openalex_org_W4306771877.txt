@@ -1,0 +1,9 @@
+Title: Sustainability standards and blockchain in agro-food supply chains: Synergies and conflicts
+Authors: Susanne Köhler, Simon Laursen Bager, Massimo Pizzol
+Year: 2022
+Venue: Technological Forecasting and Social Change
+DOI: https://doi.org/10.1016/j.techfore.2022.122094
+Paper ID: https://openalex.org/W4306771877
+
+Abstract:
+Blockchain-based technologies have emerged as a mechanism for governing sustainability in agro-food supply chain, where voluntary sustainability standards have been the main governance mechanisms over the past decades. Despite a growing body of research on blockchain-based technologies, the relationship between these two mechanisms for supply chains remains poorly understood. Therefore, this study aims at addressing this research gap and explaining their interaction. We described and assessed 16 cases of blockchain-based technologies and voluntary sustainability standards against twelve sustainability-related assessment criteria. The results show that the relationship between blockchain-based technologies and voluntary sustainability standards can be co-existing, synergistic, and antagonistic. While most cases fall under the co-existing relationship, we identified a few cases with synergistic relationships, and one case with an antagonistic relationship. We explain each type of relation and show how the system architecture and goal of a blockchain-based technology implementation are key determinants of this relationship. This study can support stakeholders in agro-food supply chain in better understanding the application of blockchain-based technologies for sustainability governance in relation to existing voluntary sustainability standards. It can further inform those stakeholders of possibilities to constructively collaborate and focus on positive social and environmental impacts within agro-food supply chains.

@@ -1,0 +1,9 @@
+Title: High bending strength at 1800 °C exceeding 1 GPa in TiB 2 -B 4 C composite
+Authors: A. Kuncser, O. Vasylkiv, H. Borodianska, D. Demirskyi, P. Badica
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33135-w
+Paper ID: pmc_PMC10140271
+
+Abstract:
+High density (99.5%) ceramic composite composed of titanium boride and boron carbide (70/30 vol%) was obtained by spark plasma sintering and was tested by 3-point bending test in Ar atmosphere at 1800 °C. Bending strength was high, around 1.1 GPa. The strength–strain curve presents a peculiar shape composed of three regions where elastic and plastic deformations are active with a different weight. Based on transmission electron microscopy observations we propose a process of mechanical energy absorption driven by shear stress in the boron carbide crystals: stacking faults with (1-11) and (011) stacking planes and twins with (1-11) twinning plane rearrange into nano-twins with (10-1) twinning planes, orthogonal but equivalent to the initial ones. This rearrangement mechanism provides in the first instance a plastic signature, but further contributes strengthening.

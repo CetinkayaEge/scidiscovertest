@@ -1,0 +1,9 @@
+Title: Using open data and open-source software to develop spatial indicators of urban design and transport features for achieving healthy and sustainable cities
+Authors: Geoff Boeing, Carl Higgs, Shiqin Liu, Billie Giles‐Corti, James F. Sallis, Ester Cerin, Melanie Lowe, Deepti Adlakha, Erica Hinckson, Anne Vernez Moudon, Deborah Salvo, Marc A. Adams, Lígia Vizeu Barrozo, Tamara Bozovic, Xavier Delclòs‐Alió, Jan Dygrýn, Sara Ferguson, Klaus Gebel, Thanh Phuong Ho, PC Lai, Joan Carles Martori, Kornsupha Nitvimol, Ana Queralt, Jennifer D. Roberts, Garba Sambo, Jasper Schipperijn, David Vale, Nico Van de Weghe, Guillem Vich, Jonathan Arundel
+Year: 2022
+Venue: The Lancet Global Health
+DOI: https://doi.org/10.1016/s2214-109x(22)00072-9
+Paper ID: https://openalex.org/W4280524400
+
+Abstract:
+Benchmarking and monitoring of urban design and transport features is crucial to achieving local and international health and sustainability goals. However, most urban indicator frameworks use coarse spatial scales that either only allow between-city comparisons, or require expensive, technical, local spatial analyses for within-city comparisons. This study developed a reusable, open-source urban indicator computational framework using open data to enable consistent local and global comparative analyses. We show this framework by calculating spatial indicators-for 25 diverse cities in 19 countries-of urban design and transport features that support health and sustainability. We link these indicators to cities' policy contexts, and identify populations living above and below critical thresholds for physical activity through walking. Efforts to broaden participation in crowdsourcing data and to calculate globally consistent indicators are essential for planning evidence-informed urban interventions, monitoring policy effects, and learning lessons from peer cities to achieve health, equity, and sustainability goals.

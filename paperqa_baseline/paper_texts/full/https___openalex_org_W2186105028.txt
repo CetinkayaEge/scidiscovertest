@@ -1,0 +1,9 @@
+Title: ERP systems: aspects of selection, implementation and sustainable operations
+Authors: Torsten Munkelt, Sven Völker
+Year: 2022
+Venue: International journal of information systems and project management
+DOI: https://doi.org/10.12821/ijispm010202
+Paper ID: https://openalex.org/W2186105028
+
+Abstract:
+This paper gives recommendations for selecting, implementing and sustainably operating ERP systems. We indicate special aspects which are important from our point of view. The paper addresses practitioners who are responsible for ERP systems, especially IT and project managers. The structure of the paper matches the three main phases of an ERP system’s lifecycle within an enterprise: selection, implementation and operations. General process models are given for selection and implementation of ERP systems. Our suggestions stretch from project management, business process reengineering, system selection criteria, reporting and customizing to choosing key users, data migration, and user training. Operations of ERP systems are commented according to the views defined by the ARIS concept. We are focusing on organizational issues, but give also remarks on business process maintenance, exploitation of ERP functions, and data management. While other publications give rather general advice, recommendations in this paper are selected to be use-oriented and easy to apply. The recommendations do not depend on any particular ERP system.

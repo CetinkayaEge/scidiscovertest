@@ -1,0 +1,9 @@
+Title: Enhancing tissue regeneration with self-healing elastic piezoelectricity for sustainable implants
+Authors: Bankole I. Oladapo, Qi Zhao
+Year: 2023
+Venue: Nano Energy
+DOI: https://doi.org/10.1016/j.nanoen.2023.109092
+Paper ID: https://openalex.org/W4388776022
+
+Abstract:
+This study explores an innovative energy harvesting technique for biomedical implants in alignment with the United Nations Sustainable Development Goals, focusing on good health and well-being (Goal 3). The study promotes sustainable healthcare solutions by analysing mechanically deformed materials, surface charges, and electric fields. This review research delves into the advancements and potential of piezoelectric materials and their integration with other energy-harvesting technologies, such as thermoelectrics, to create innovative hybrid systems for sustainable energy production and biomedical applications. The study highlights the development of stretchable, self-healing, and biodegradable piezoelectric materials enabled by nano-fillers, structural engineering, and various fabrication techniques. Integrating piezoelectric and thermoelectric materials in hybrid Energy Harvesters (EH) has led to devices capable of simultaneously harnessing thermal and mechanical energy, ensuring continuous and efficient energy production. The research on self-healing piezoelectric crystals explores the possibility of creating durable and resilient EH that can withstand repeated mechanical stress. The novelty and potential of this research lie in developing adaptive, high-performance, and environmentally friendly piezoelectric materials and devices. By combining piezoelectrics with other disciplines and exploring new designs, materials, and techniques, this review aims to inspire future research and innovation in sustainable energy solutions.

@@ -1,0 +1,9 @@
+Title: GIS-Based Cropland Suitability Prediction Using Machine Learning: A Novel Approach to Sustainable Agricultural Production
+Authors: Dorijan Radočaj, Mladen Jurišić
+Year: 2022
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy12092210
+Paper ID: https://openalex.org/W4296312141
+
+Abstract:
+The increasing global demand for food has forced farmers to produce higher crop yields in order to keep up with population growth, while maintaining sustainable production for the environment. As knowledge about natural cropland suitability is mandatory to achieve this, the aim of this paper is to provide a review of methods for suitability prediction according to abiotic environmental criteria. The conventional method for calculating cropland suitability in previous studies was a geographic information system (GIS)-based multicriteria analysis, dominantly in combination with the analytic hierarchy process (AHP). Although this is a flexible and widely accepted method, it has significant fundamental drawbacks, such as a lack of accuracy assessment, high subjectivity, computational inefficiency, and an unsystematic approach to selecting environmental criteria. To improve these drawbacks, methods for determining cropland suitability based on machine learning have been developed in recent studies. These novel methods contribute to an important paradigm shift when determining cropland suitability, being objective, automated, computationally efficient, and viable for widespread global use due to the availability of open data sources on a global scale. Nevertheless, both approaches produce invaluable complimentary benefits to cropland management planning, with novel methods being more appropriate for major crops and conventional methods more appropriate for less frequent crops.

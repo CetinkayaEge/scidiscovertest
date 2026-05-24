@@ -1,0 +1,9 @@
+Title: Sustainable Agricultural Total Factor Productivity and Its Spatial Relationship with Urbanization in China
+Authors: Jinkai Li, Jueying Chen, Heguang Liu
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126773
+Paper ID: https://openalex.org/W3166162300
+
+Abstract:
+The growth of agricultural total factor productivity (TFP) is seen as a driving force for the sustainable development of agriculture. Meanwhile, the promotion of urbanization in China has exerted a profound impact on agricultural production. This paper calculates the agricultural TFP and analyzes the effect of urbanization. Firstly, the DEA-Malmquist method is used to calculate the dynamic change in agricultural TFP in China from 2004 to 2016. Secondly, the spatial spillover effect of urbanization on agricultural TFP is investigated by the spatial Durbin model. We found that: the average annual growth rate of agricultural TFP in China is 4.8% from 2004 to 2016; and the spillover effect of urbanization on agricultural TFP shows a U-shaped relationship, which means that urbanization has exerted a negative effect first and then a positive effect on agricultural TFP. Finally, the paper puts forward policy suggestions from the perspective of sustainable coordination of urbanization and agricultural production.

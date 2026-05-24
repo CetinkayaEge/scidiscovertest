@@ -1,0 +1,9 @@
+Title: Preparation of Sodium Carboxymethyl Cellulose–Chitosan Complex Membranes through Sustainable Aqueous Phase Separation
+Authors: Lijie Li, Muhammad Irshad Baig, Wiebe M. de Vos, Saskia Lindhoud
+Year: 2023
+Venue: ACS Applied Polymer Materials
+DOI: https://doi.org/10.1021/acsapm.2c01901
+Paper ID: https://openalex.org/W4319728777
+
+Abstract:
+The aqueous phase separation (APS) technique has recently been introduced as one of the more sustainable methods to produce polymeric membranes. So far, almost all the APS membranes are produced on the basis of synthetic polyelectrolytes that are typically obtained from petroleum sources. In this work, we utilized natural polyelectrolytes to produce even more sustainable membranes via APS. Two natural polyelectrolytes, polyanionic sodium carboxymethyl cellulose (CMC) and polycationic chitosan (CS), were used to fabricate the polyelectrolyte complex membranes. By changing the solution pH and monomer ratio of polyelectrolytes, a desired homogeneous casting solution was prepared at pH ∼1 where CMC was uncharged. Exposing this solution to an acetate buffer coagulation bath at pH ∼5 caused CMC to acquire negative charges, leading to the formation of a polyelectrolyte complex with the positively charged CS. The structure and properties of the resultant membranes could be tuned by changing the concentration and pH of the acetate buffer. All the membranes showed an asymmetric structure with a dense top layer and porous inner structure. The membranes possessed tunable pure water permeability and were able to effectively (∼99%) remove oil droplets from an oil-in-water emulsion. This work demonstrates that natural polyelectrolytes can indeed be used to produce more sustainable APS membranes that can be directly applied for water treatment.

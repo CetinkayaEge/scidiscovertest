@@ -1,0 +1,9 @@
+Title: Earth Observation for Sustainable Infrastructure: A Review
+Authors: Yongze Song, Peng Wu
+Year: 2021
+Venue: Remote Sensing
+DOI: https://doi.org/10.3390/rs13081528
+Paper ID: https://openalex.org/W3154496658
+
+Abstract:
+Infrastructure is a fundamental sector for sustainable development and Earth observation has great potentials for sustainable infrastructure development (SID). However, implementations of the timely, large–scale and multi–source Earth observation are still limited in satisfying the huge global requirements of SID. This study presents a systematical literature review to identify trends of Earth observation for sustainable infrastructure (EOSI), investigate the relationship between EOSI and Sustainable Development Goals (SDGs), and explore challenges and future directions of EOSI. Results reveal the close associations of infrastructure, urban development, ecosystems, climate, Earth observation and GIS in EOSI, and indicate their relationships. In addition, from the perspective of EOSI–SDGs relationship, the huge potentials of EOSI are demonstrated from the 70% of the infrastructure influenced targets that can be directly or indirectly derived from Earth observation data, but have not been included in current SDG indicators. Finally, typical EOSI cases are presented to indicate challenges and future research directions. This review emphasizes the contributions and potentials of Earth observation to SID and EOSI is a powerful pathway to deliver on SDGs.

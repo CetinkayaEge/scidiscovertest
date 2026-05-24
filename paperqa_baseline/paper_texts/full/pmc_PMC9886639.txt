@@ -1,0 +1,9 @@
+Title: Preventing falls: the use of machine learning for the prediction of future falls in individuals without history of fall
+Authors: Ioannis Bargiotas, Danping Wang, Juan Mantilla, Flavien Quijoux, Albane Moreau, Catherine Vidal, Remi Barrois, Alice Nicolai, Julien Audiffren, Christophe Labourdette, François Bertin‐Hugaul, Laurent Oudre, Stephane Buffat, Alain Yelnik, Damien Ricard, Nicolas Vayatis, Pierre-Paul Vidal
+Year: 2022
+Venue: Journal of Neurology
+DOI: 10.1007/s00415-022-11251-3
+Paper ID: pmc_PMC9886639
+
+Abstract:
+Nowadays, it becomes of paramount societal importance to support many frail-prone groups in our society (elderly, patients with neurodegenerative diseases, etc.) to remain socially and physically active, maintain their quality of life, and avoid their loss of autonomy. Once older people enter the prefrail stage, they are already likely to experience falls whose consequences may accelerate the deterioration of their quality of life (injuries, fear of falling, reduction of physical activity). In that context, detecting frailty and high risk of fall at an early stage is the first line of defense against the detrimental consequences of fall. The second line of defense would be to develop original protocols to detect future fallers before any fall occur. This paper briefly summarizes the current advancements and perspectives that may arise from the combination of affordable and easy-to-use non-wearable systems (force platforms, 3D tracking motion systems), wearable systems (accelerometers, gyroscopes, inertial measurement units-IMUs) with appropriate machine learning analytics, as well as the efforts to address these challenges.

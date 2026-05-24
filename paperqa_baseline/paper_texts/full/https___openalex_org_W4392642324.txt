@@ -1,0 +1,9 @@
+Title: Sustainable Mobility in B5G/6G: V2X Technology Trends and Use Cases
+Authors: Sandra Roger, Carmen Botella, David Martín‐Sacristán, David García‐Roger, José F. Monserrat, Tommy Svensson
+Year: 2024
+Venue: IEEE Open Journal of Vehicular Technology
+DOI: https://doi.org/10.1109/ojvt.2024.3375451
+Paper ID: https://openalex.org/W4392642324
+
+Abstract:
+The concept of sustainability has been recently extended to cover economic and social factors besides the traditional environmental ones. This paper reflects on the potential of mobile communication standards towards achieving sustainable mobility, with focus on vehicular communications and use cases in smart cities scenarios. In this context, intelligent transportation systems, including connected and autonomous vehicles, will be key for developing affordable and sustainable infrastructures and services. We start by identifying three current technology trends, namely, towards climate neutral; cloudification and edge computing; and big data and artificial intelligence, and then we examine their capability to enable sustainable Vehicle-to-Everything (V2X) communication systems in beyond 5G and 6G networks. In the second part of the paper, a set of selected use case categories involving connected and autonomous vehicles is presented, showcasing the potential impact of the selected technology trends. Finally, a review of the estimates of the quantitative savings that could be achieved in environmental-related parameters such as energy/fuel consumption and greenhouse gas emissions is provided.

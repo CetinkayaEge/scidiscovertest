@@ -1,0 +1,9 @@
+Title: Imaging Perfusion Changes in Oncological Clinical Applications by Hyperspectral Imaging: A Literature Review
+Authors: Rok Hren, Gregor Sersa, Urban Simoncic, Matija Milanic
+Year: 2022
+Venue: Radiology and Oncology
+DOI: 10.2478/raon-2022-0051
+Paper ID: pmc_PMC9784371
+
+Abstract:
+Abstract Background Hyperspectral imaging (HSI) is a promising imaging modality that uses visible light to obtain information about blood flow. It has the distinct advantage of being noncontact, nonionizing, and noninvasive without the need for a contrast agent. Among the many applications of HSI in the medical field are the detection of various types of tumors and the evaluation of their blood flow, as well as the healing processes of grafts and wounds. Since tumor perfusion is one of the critical factors in oncology, we assessed the value of HSI in quantifying perfusion changes during interventions in clinical oncology through a systematic review of the literature. Materials and methods The PubMed and Web of Science electronic databases were searched using the terms “hyperspectral imaging perfusion cancer” and “hyperspectral imaging resection cancer”. The inclusion criterion was the use of HSI in clinical oncology, meaning that all animal, phantom, ex vivo , experimental, research and development, and purely methodological studies were excluded. Results Twenty articles met the inclusion criteria. The anatomic locations of the neoplasms in the selected articles were as follows: kidneys (1 article), breasts (2 articles), eye (1 article), brain (4 articles), entire gastrointestinal (GI) tract (1 article), upper GI tract (5 articles), and lower GI tract (6 articles). Conclusions HSI is a potentially attractive imaging modality for clinical application in oncology, with assessment of mastectomy skin flap perfusion after reconstructive breast surgery and anastomotic perfusion during reconstruction of gastrointenstinal conduit as the most promising at present.

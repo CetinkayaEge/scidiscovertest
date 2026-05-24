@@ -1,0 +1,9 @@
+Title: A low-carbon electricity sector in Europe risks sustaining regional inequalities in benefits and vulnerabilities
+Authors: Jan-Philipp Sasse, Evelina Trutnevyte
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-37946-3
+Paper ID: https://openalex.org/W4366334895
+
+Abstract:
+Improving equity is an emerging priority in climate and energy strategies, but little is known how these strategies would alter inequalities. Regional inequalities such as price, employment and land use are especially relevant in the electricity sector, which must decarbonize first to allow other sectors to decarbonize. Here, we show that a European low-carbon electricity sector in 2035 can reduce but also sustain associated regional inequalities. Using spatially-explicit modeling for 296 sub-national regions, we demonstrate that emission cuts consistent with net-zero greenhouse gas emissions in 2050 result in continent-wide benefits by 2035 regarding electricity sector investments, employment gains, and decreased greenhouse gas and particulate matter emissions. However, the benefits risk being concentrated in affluent regions of Northern Europe, while regions of Southern and Southeastern Europe risk high vulnerabilities due to high adverse impacts and sensitivities, and low adaptive capacities. Future analysis should investigate policy mechanisms for reducing and compensating inequalities.

@@ -1,0 +1,9 @@
+Title: Genetic and Phenotypic Characterization of the First Canadian Case of Ambler Class A Carbapenemase FRI-8
+Authors: Laura F. Mataseje, Florence Doualla-Bell, David A. Boyd, Ken Fakharuddin, Hector Felipe Garcia Jeldes, Valerie Plante, Marie-Claude Beaudoin, Alexandre Godbout, Simon Wong, Judith Fafard, Michael R. Mulvey
+Year: 2023
+Venue: Microbial Drug Resistance
+DOI: 10.1089/mdr.2022.0123
+Paper ID: pmc_PMC9969894
+
+Abstract:
+This study investigated the mechanism of carbapenem resistance in an Enterobacter cloacae complex positive by the modified carbapenem inactivation method (mCIM) but negative by the Rosco Neo-Rapid Carb Kit, β CARBA, and conventional PCR for common carbapenemase genes (KPC, NDM, OXA-48, IMP, VIM, GES, and IMI/NMC). Using whole genome sequencing (WGS) data we confirmed the identification of Enterobacter asburiae (ST1639) and the presence of bla FRI-8 located on a 148kb IncFII(Yp) plasmid. This is the first occurrence of a clinical isolate harboring the FRI-8 carbapenemase and the second occurrence of FRI in Canada. This study highlights the need to use both WGS and phenotypic screening methods for detection of carbapenemase-producing strains if we consider the growing diversity of carbapenemases.

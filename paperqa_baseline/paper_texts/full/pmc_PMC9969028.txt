@@ -1,0 +1,9 @@
+Title: Investigation of V/III ratio dependencies for optimizing AlN growth during reduced parasitic reaction in metalorganic vapor phase epitaxy
+Authors: Atsushi Tomita, Takumi Miyagawa, Hideki Hirayama, Yuusuke Takashima, Yoshiki Naoi, Kentaro Nagamatsu
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30489-z
+Paper ID: pmc_PMC9969028
+
+Abstract:
+AlGaN-based ultraviolet (UV) light-emitting diodes (LEDs) are expected to have various applications, including sensing and printing, and light with ultraviolet-C (UVC) wavelengths has a virus inactivation effect. The metalorganic vapor phase epitaxy (MOVPE) method has been used to fabricate LED devices with film control and impurity doping. However, to achieve high luminous efficiency, highly crystalline aluminum nitride (AlN) must be grown in the underlying layer. Although high temperatures are required to grow high-quality AlN for strong migration at the surface, there is a trade-off in the high temperature promoting parasitic reactions. These parasitic reactions are more dominant at a high V/III ratio with more raw material in the case of using the conventional MOVPE. Here, we used jet stream gas flow MOVPE to investigate the effect of V/III ratio dependencies in optimizing AlN growth and without affecting parasitic reaction conditions. As a result, trends of typical AlN crystal growth at V/III-ratio dependencies were obtained. AlN is more stable at a higher V/III ratio of 1000, exhibiting a double atomic step surface, and the crystal orientation is further improved at 1700 °C compared to that at a lower V/III ratio.

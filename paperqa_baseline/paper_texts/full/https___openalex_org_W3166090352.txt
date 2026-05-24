@@ -1,0 +1,9 @@
+Title: The mitochondrial pyruvate carrier (MPC) complex mediates one of three pyruvate-supplying pathways that sustain Arabidopsis respiratory metabolism
+Authors: Xuyen H. Le, Chun Pong Lee, A. Harvey Millar
+Year: 2021
+Venue: The Plant Cell
+DOI: https://doi.org/10.1093/plcell/koab148
+Paper ID: https://openalex.org/W3166090352
+
+Abstract:
+Malate oxidation by plant mitochondria enables the generation of both oxaloacetate and pyruvate for tricarboxylic acid (TCA) cycle function, potentially eliminating the need for pyruvate transport into mitochondria in plants. Here, we show that the absence of the mitochondrial pyruvate carrier 1 (MPC1) causes the co-commitment loss of its putative orthologs, MPC3/MPC4, and eliminates pyruvate transport into Arabidopsis thaliana mitochondria, proving it is essential for MPC complex function. While the loss of either MPC or mitochondrial pyruvate-generating NAD-malic enzyme (NAD-ME) did not cause vegetative phenotypes, the lack of both reduced plant growth and caused an increase in cellular pyruvate levels, indicating a block in respiratory metabolism, and elevated the levels of branched-chain amino acids at night, a sign of alterative substrate provision for respiration. 13C-pyruvate feeding of leaves lacking MPC showed metabolic homeostasis was largely maintained except for alanine and glutamate, indicating that transamination contributes to the restoration of the metabolic network to an operating equilibrium by delivering pyruvate independently of MPC into the matrix. Inhibition of alanine aminotransferases when MPC1 is absent resulted in extremely retarded phenotypes in Arabidopsis, suggesting all pyruvate-supplying enzymes work synergistically to support the TCA cycle for sustained plant growth.

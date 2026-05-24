@@ -1,0 +1,9 @@
+Title: Large-Scale Automated Additive Construction: Overview, Robotic Solutions, Sustainability, and Future Prospect
+Authors: Mohammad Reza Khosravani, Azadeh Haghighi
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14159782
+Paper ID: https://openalex.org/W4296450891
+
+Abstract:
+Additive manufacturing has drawn significant attention in both academia and industry due to its capabilities and promising potential in various sectors. However, the adoption of this technology in large-scale construction is still limited due to the numerous existing challenges. In this work, a comprehensive review of large-scale automated additive construction, its challenges, and emerging advances with a focus on robotic solutions and environmental sustainability is presented. The potential interrelations of the two topics are also discussed. A new classification scheme of available and emerging robotic solutions in automated additive construction is presented. Moreover, the vision of environmental sustainability is explored through three lenses: process, material, and printed large-scale structures/buildings. Finally, the current challenges and potential future directions are highlighted. The provided state of the art and challenges can be used as a guideline for future research on large-scale automated additive construction.

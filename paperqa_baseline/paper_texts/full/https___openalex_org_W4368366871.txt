@@ -1,0 +1,9 @@
+Title: Promotion of Sustainable Development in the EU: Social and Economic Drivers
+Authors: Yu-Xia Tu, Олександр Кубатко, Vladyslav Piven, Bohdan Kovalov, Mykola Oleksiiovych Kharchenko
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097503
+Paper ID: https://openalex.org/W4368366871
+
+Abstract:
+The transition to sustainability is a complex process that requires a clear understanding of its drivers and barriers. The paper explores the impact of different social and economic factors on sustainable development as a holistic process. The research involved data from 27 EU member states during 2012–2020. Hausman specification and Breusch and Pagan Lagrangian multiplier test were used to select the proper econometric model, which led to the use of generalized least squares regression with random effects to estimate the sustainable development drivers in the EU. The results suggested that corruption has no statistically significant impact on sustainability, whereas economic freedom increases Sustainable Development Goals (SDG) Index. Our empirical results demonstrated that GDP per capita inhibits sustainability transition, which could be a case of the environmental Kuznets curve hypothesis. Unemployment has a negative impact on sustainable development; however, employment in science and research is its driver. It was unfolded that median income per capita and life expectancy have a statistically significant positive impact on the SDG Index. Following these findings, a wide range of policy recommendations was suggested. They include but are not limited to: ensuring economic freedom, human capital development, digitalization of public services, and lifelong education promotion.

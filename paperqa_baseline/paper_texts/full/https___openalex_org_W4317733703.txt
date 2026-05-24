@@ -1,0 +1,9 @@
+Title: The Impact of Digital Transformation on Corporate Sustainability: Evidence from Listed Companies in China
+Authors: Zhiying Ji, Tingyu Zhou, Qian Zhang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15032117
+Paper ID: https://openalex.org/W4317733703
+
+Abstract:
+This study investigated whether digital transformation improves corporate sustainability. In particular, we focused on the mediating effects of operation efficiency and corporate innovation in the ability of digital transformation to enhance corporate sustainability. A novel analytical framework was constructed incorporating the resource-based view (RBV), institution-based view (IBV), enterprise efficiency theory and dynamic capability theory to explain the relationship between digital transformation and corporate sustainability. Fixed effects estimation and the 2SLS method were used to test our analytical framework based on Chinese A-share listed companies over the sample period, 2014–2020. We found that digital transformation is an important means to improve corporate sustainability, but this relationship is impacted by the heterogeneous factors of ownership, industry and location. At the end of the paper, implications, limitations and future research directions are discussed.

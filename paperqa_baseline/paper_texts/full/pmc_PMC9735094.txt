@@ -1,0 +1,9 @@
+Title: A class of diffusive delayed viral infection models with general incidence function and cellular proliferation
+Authors: Alexis Nangue, Willy Armel Tacteu Fokam
+Year: 2022
+Venue: Arabian Journal of Mathematics
+DOI: 10.1007/s40065-022-00412-x
+Paper ID: pmc_PMC9735094
+
+Abstract:
+We propose and analyze a new class of three dimensional space models that describes infectious diseases caused by viruses such as hepatitis B virus (HBV) and hepatitis C virus (HCV). This work constructs a Reaction–Diffusion-Ordinary Differential Equation model of virus dynamics, including absorption effect, cell proliferation, time delay, and a generalized incidence rate function. By constructing suitable Lyapunov functionals, we show that the model has threshold dynamics: if the basic reproduction number \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\mathcal {R}_{0}(\tau ) \le 1 $$\end{document} R 0 ( τ ) ≤ 1 , then the uninfected equilibrium is globally asymptotically stable, whereas if \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$\mathcal {R}_{0}(\tau ) > 1$$\end{document} R 0 ( τ ) > 1 , and under certain conditions, the infected equilibrium is globally asymptotically stable. This precedes a careful study of local asymptotic stability. We pay particular attention to prove boundedness, positivity, existence and uniqueness of the solution to the obtained initial and boundary value problem. Finally, we perform some numerical simulations to illustrate the theoretical results obtained in one-dimensional space. Our results improve and generalize some known results in the framework of virus dynamics.

@@ -1,0 +1,9 @@
+Title: Genetic engineering strategies for sustainable polyhydroxyalkanoate (PHA) production from carbon-rich wastes
+Authors: Jianfei Wang, Shijie Liu, Jiaqi Huang, Ran Cui, Yulei Xu, Zhilin Song
+Year: 2023
+Venue: Environmental Technology & Innovation
+DOI: https://doi.org/10.1016/j.eti.2023.103069
+Paper ID: https://openalex.org/W4320912649
+
+Abstract:
+Polyhydroxyalkanoates (PHAs) are promising biopolymers for biomedical applications due to their excellent biocompatibility and biodegradability. However, the high production cost mainly resulting from the pure sugar substrate limits PHA commercialization. It makes various carbon-rich wastes potential substrates for PHA production. The integration and optimization of metabolic pathways can further enhance the conversion of carbon-rich wastes to PHAs. Genetic engineering strategies focusing on carbon flux and energy metabolism have improved the PHA production capacities of targeted strains by promoting substrate assimilation, enhancing PHA synthesis, and reducing branch metabolism. CRISPR/Cas9-based systems have also served as efficient genome editing tools to improve the efficiency of metabolic modification. Genetic modification requires fitness among strains, substrates, and products. Therefore, this review outlined various efficient genetic engineering approaches to promote PHA production and discussed their feasibility in valorizing representative carbon-rich wastes. To further illustrate the widespread applicability of metabolic modification to support microbial cell factories with core PHA production, this review also involved advanced fermentation approaches and co-production systems for PHA production by engineered strains.

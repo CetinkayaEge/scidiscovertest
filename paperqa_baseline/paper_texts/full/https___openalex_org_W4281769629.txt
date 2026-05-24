@@ -1,0 +1,9 @@
+Title: Simple and effective serum-free medium for sustained expansion of bovine satellite cells for cell cultured meat
+Authors: Andrew J. Stout, Addison B. Mirliani, Miriam L. Rittenberg, Michelle Shub, Eugene C. White, John S.K. Yuen, David L. Kaplan
+Year: 2022
+Venue: Communications Biology
+DOI: https://doi.org/10.1038/s42003-022-03423-8
+Paper ID: https://openalex.org/W4281769629
+
+Abstract:
+Cell-cultured meat offers the potential for a more sustainable, ethical, resilient, and healthy food system. However, research and development has been hindered by the lack of serum-free media that enable the robust expansion of relevant cells (e.g., muscle satellite cells) over multiple passages. Recently, a low-cost serum-free media (B8) was described for pluripotent stem cells. Here, B8 is adapted for bovine satellite cells through the addition of a single component, recombinant albumin, which renders it suitable for long-term satellite cell expansion without sacrificing myogenicity. This new media (Beefy-9) maintains cell growth over the entire period tested (seven passages), with an average doubling time of 39 h. Along with demonstrated efficacy for bovine cells, Beefy-9 offers a promising starting-point for developing serum-free media for other meat-relevant species. Ultimately, this work offers a foundation for escaping cultured meat research's reliance on serum, thereby accelerating the field.

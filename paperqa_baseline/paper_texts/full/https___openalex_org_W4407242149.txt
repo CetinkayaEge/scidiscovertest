@@ -1,0 +1,9 @@
+Title: Biodegradable origami enables closed-loop sustainable robotic systems
+Authors: Pingdong Wei, Zhuang Zhang, Shaoru Cheng, Meng Yao, M.-D. Tong, Luoqian Emu, Wei Yan, Yanlin Zhang, Yunjie Wang, Jingyang Zhao, Changyu Xu, Feng Zhai, Junqiang Lu, Lei Wang, Hanqing Jiang
+Year: 2025
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.ads0217
+Paper ID: https://openalex.org/W4407242149
+
+Abstract:
+Robots are increasingly integral across various sectors due to their efficiency and superior capabilities, which enable performance beyond human potential. However, the development of robotic systems often conflicts with the sustainable development goals set by the United Nations, as they generate considerable nondegradable waste and organic/inorganic pollutants throughout their life cycle. In this paper, we introduce a dual closed-loop robotic system that integrates biodegradable, sustainable materials such as plasticized cellulose films and NaCl-infused ionic conductive gelatin organogels. These materials undergo a closed-loop ecological cycle from processing to biodegradation, contributing to new growth, while the self-sensing, origami-based robot supports a seamless human-in-the-loop teleoperation system. This innovative approach represents a paradigm shift in the application of soft robotic systems, offering a path toward a more sustainable future by aligning advanced robotic functionalities with environmental stewardship.

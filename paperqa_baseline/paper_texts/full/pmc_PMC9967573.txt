@@ -1,0 +1,9 @@
+Title: Magnetic Field Dependence of Spectral Correlations between 31 P-Containing Metabolites in Brain
+Authors: Sungtak Hong, Jun Shen
+Year: 2023
+Venue: Metabolites
+DOI: 10.3390/metabo13020211
+Paper ID: pmc_PMC9967573
+
+Abstract:
+Spectral correlations between metabolites in 31 P magnetic resonance spectroscopy (MRS) spectra of human brain were compared at 3 and 7 Tesla, the two commonly used magnetic field strengths for clinical research. It was found that at both field strengths, there are significant correlations between 31 P-containing metabolites arising from spectral overlap, and their downfield correlations are markedly altered by the background spectral baseline. Overall, the spectral correlations between 31 P-containing metabolites are markedly reduced at 7 Tesla with the increased chemical shift dispersion and the decreased membrane phospholipid signal. The findings provide the quantitative landscape of pre-existing correlations in 31 P MRS spectra due to overlapping signals. Detailed procedures for quantifying the pre-existing correlations between 31 P-containing metabolites are presented to facilitate incorporation of spectral correlations into statistical modeling in clinical correlation studies.

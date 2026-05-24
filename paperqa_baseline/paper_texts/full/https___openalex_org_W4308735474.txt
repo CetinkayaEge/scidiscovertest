@@ -1,0 +1,9 @@
+Title: Tcf12 is required to sustain myogenic genes synergism with MyoD by remodelling the chromatin landscape
+Authors: Sheng Wang, Yinlong Liao, Haoyuan Zhang, Yunqi Jiang, Zhelun Peng, Ruimin Ren, Xinyun Li, Heng Wang
+Year: 2022
+Venue: Communications Biology
+DOI: https://doi.org/10.1038/s42003-022-04176-0
+Paper ID: https://openalex.org/W4308735474
+
+Abstract:
+Muscle stem cells (MuSCs) are essential for skeletal muscle development and regeneration, ensuring muscle integrity and normal function. The myogenic proliferation and differentiation of MuSCs are orchestrated by a cascade of transcription factors. In this study, we elucidate the specific role of transcription factor 12 (Tcf12) in muscle development and regeneration based on loss-of-function studies. Muscle-specific deletion of Tcf12 cause muscle weight loss owing to the reduction of myofiber size during development. Inducible deletion of Tcf12 specifically in adult MuSCs delayed muscle regeneration. The examination of MuSCs reveal that Tcf12 deletion resulted in cell-autonomous defects during myogenesis and Tcf12 is necessary for proper myogenic gene expression. Mechanistically, TCF12 and MYOD work together to stabilise chromatin conformation and sustain muscle cell fate commitment-related gene and chromatin architectural factor expressions. Altogether, our findings identify Tcf12 as a crucial regulator of MuSCs chromatin remodelling that regulates muscle cell determination and participates in skeletal muscle development and regeneration.

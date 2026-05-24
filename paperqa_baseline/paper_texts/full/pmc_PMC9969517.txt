@@ -1,0 +1,9 @@
+Title: An Efficient Multilayer Approach to Model DNA-Based Nanobiosensors
+Authors: Jesús Lucia-Tamudo, Juan J. Nogueira, Sergio Díaz-Tendero
+Year: 2023
+Venue: The Journal of Physical Chemistry. B
+DOI: 10.1021/acs.jpcb.2c07225
+Paper ID: pmc_PMC9969517
+
+Abstract:
+In this work, we present a full computational protocol to successfully obtain the one-electron reduction potential of nanobiosensors based on a self-assembled monolayer of DNA nucleobases linked to a gold substrate. The model is able to account for conformational sampling and environmental effects at a quantum mechanical (QM) level efficiently, by combining molecular mechanics (MM) molecular dynamics and multilayer QM/MM/continuum calculations within the framework of Marcus theory. The theoretical model shows that a guanine-based biosensor is more prone to be oxidized than the isolated nucleobase in water due to the electrostatic interactions between the assembled guanine molecules. In addition, the redox properties of the biosensor can be tuned by modifying the nature of the linker that anchor the nucleobases to the metal support.

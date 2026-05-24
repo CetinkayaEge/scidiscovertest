@@ -1,0 +1,9 @@
+Title: Urban Computing for Sustainable Smart Cities: Recent Advances, Taxonomy, and Open Research Challenges
+Authors: Mohamed Hashem, Raja Sher Afgun Usmani, Mubarak Almutairi, Ashraf Osman Ibrahim, Abubakar Zakari, Faiz Abdullah Alotaibi, Saadat M. Alhashmi, Haruna Chiroma
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15053916
+Paper ID: https://openalex.org/W4321496947
+
+Abstract:
+The recent proliferation of ubiquitous computing technologies has led to the emergence of urban computing that aims to provide intelligent services to inhabitants of smart cities. Urban computing deals with enormous amounts of data collected from sensors and other sources in a smart city. In this article, we investigated and highlighted the role of urban computing in sustainable smart cities. In addition, a taxonomy was conceived that categorized the existing studies based on urban data, approaches, applications, enabling technologies, and implications. In this context, recent developments were elucidated. To cope with the engendered challenges of smart cities, we outlined some crucial use cases of urban computing. Furthermore, prominent use cases of urban computing in sustainable smart cities (e.g., planning in smart cities, the environment in smart cities, energy consumption in smart cities, transportation in smart cities, government policy in smart cities, and business processes in smart cities) for smart urbanization were also elaborated. Finally, several research challenges (such as cognitive cybersecurity, air quality, the data sparsity problem, data movement, 5G technologies, scaling via the analysis and harvesting of energy, and knowledge versus privacy) and their possible solutions in a new perspective were discussed explicitly.

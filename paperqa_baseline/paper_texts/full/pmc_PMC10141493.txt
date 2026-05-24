@@ -1,0 +1,9 @@
+Title: Left and Right Cortical Activity Arising from Preferred Walking Speed in Older Adults
+Authors: Julia Greenfield, Véronique Delcroix, Wafae Ettaki, Romain Derollepot, Laurence Paire-Ficout, Maud Ranchet
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083986
+Paper ID: pmc_PMC10141493
+
+Abstract:
+Cortical activity and walking speed are known to decline with age and can lead to an increased risk of falls in the elderly. Despite age being a known contributor to this decline, individuals age at different rates. This study aimed to analyse left and right cortical activity changes in elderly adults regarding their walking speed. Cortical activation and gait data were obtained from 50 healthy older individuals. Participants were then grouped into a cluster based on their preferred walking speed (slow or fast). Analyses on the differences of cortical activation and gait parameters between groups were carried out. Within-subject analyses on left and right–hemispheric activation were also performed. Results showed that individuals with a slower preferred walking speed required a higher increase in cortical activity. Individuals in the fast cluster presented greater changes in cortical activation in the right hemisphere. This work demonstrates that categorizing older adults by age is not necessarily the most relevant method, and that cortical activity can be a good indicator of performance with respect to walking speed (linked to fall risk and frailty in the elderly). Future work may wish to explore how physical activity training influences cortical activation over time in the elderly.

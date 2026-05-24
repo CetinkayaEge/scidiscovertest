@@ -1,0 +1,9 @@
+Title: Engineering Photosynthetic Bioprocesses for Sustainable Chemical Production: A Review
+Authors: Sheida M. Stephens, Radhakrishnan Mahadevan, D. Grant Allen
+Year: 2021
+Venue: Frontiers in Bioengineering and Biotechnology
+DOI: https://doi.org/10.3389/fbioe.2020.610723
+Paper ID: https://openalex.org/W3120957730
+
+Abstract:
+Microbial production of chemicals using renewable feedstocks such as glucose has emerged as a green alternative to conventional chemical production processes that rely primarily on petroleum-based feedstocks. The carbon footprint of such processes can further be reduced by using engineered cells that harness solar energy to consume feedstocks traditionally considered to be wastes as their carbon sources. Photosynthetic bacteria utilize sophisticated photosystems to capture the energy from photons to generate reduction potential with such rapidity and abundance that cells often cannot use it fast enough and much of it is lost as heat and light. Engineering photosynthetic organisms could enable us to take advantage of this energy surplus by redirecting it toward the synthesis of commercially important products such as biofuels, bioplastics, commodity chemicals, and terpenoids. In this work, we review photosynthetic pathways in aerobic and anaerobic bacteria to better understand how these organisms have naturally evolved to harness solar energy. We also discuss more recent attempts at engineering both the photosystems and downstream reactions that transfer reducing power to improve target chemical production. Further, we discuss different methods for the optimization of photosynthetic bioprocess including the immobilization of cells and the optimization of light delivery. We anticipate this review will serve as an important resource for future efforts to engineer and harness photosynthetic bacteria for chemical production.

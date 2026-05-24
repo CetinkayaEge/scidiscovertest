@@ -1,0 +1,9 @@
+Title: Pricing of sustainability-linked bonds
+Authors: Peter Feldhütter, Kristoffer Halskov, Arthur Krebbers
+Year: 2024
+Venue: Journal of Financial Economics
+DOI: https://doi.org/10.1016/j.jfineco.2024.103944
+Paper ID: https://openalex.org/W4402480911
+
+Abstract:
+We examine the pricing of sustainability-linked bonds (SLBs), where the cash flows depend on the bond issuer achieving one or more Environmental, Social and Governance (ESG) goals. Investors are willing to accept a 1–2bps lower yield due to the bond’s ESG label, providing evidence of investors caring about environmental impact. Furthermore, we find the average probability of missing the target is 14%–39% so firms set ESG targets that are easy to reach. We find that the SLB market is efficient: the prices of SLBs depend strongly on the size of the potential penalty and there is no evidence of mispricing. Finally, our results suggest that SLBs serve as financial hedges against ESG risk.

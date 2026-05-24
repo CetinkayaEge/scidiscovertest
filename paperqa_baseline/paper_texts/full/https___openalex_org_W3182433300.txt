@@ -1,0 +1,9 @@
+Title: Sustainable Risk Management in IT Enterprises
+Authors: Mateusz Trzeciak
+Year: 2021
+Venue: Risks
+DOI: https://doi.org/10.3390/risks9070135
+Paper ID: https://openalex.org/W3182433300
+
+Abstract:
+A synthesis of literature studies covering the determinants of agile project management methods, risk management processes as well as factors influencing the shaping of project success and failure clearly indicates that in most publications on risk in agile managed projects, the human factor is heavily underestimated at the expense of often excessive favoring of procedures. Meanwhile, after analyzing the risk factors that arise in agile-managed IT projects, it became apparent that in addition to aspects such as technology, hardware, system, or even project schedule and cost, the project team is highlighted, which is also the second concept with the GPM P5 Standard for Sustainability in Project Management. Thus, the purpose of this article is to develop a model for risk management in IT projects. As a result of the empirical research carried out by means of an expert interview (108 experts) and a questionnaire survey (123 respondents), a risk management model was developed and six original risk management areas were identified, describing 73.92% of all risk factors that may occur during the implementation of an IT project. Furthermore, empirical studies confirm that basic processes such as risk factor identification, impact assessment, and key risk factor management are used by managers and/or team leaders during the implementation of IT projects.

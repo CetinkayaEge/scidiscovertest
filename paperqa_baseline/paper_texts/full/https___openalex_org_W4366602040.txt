@@ -1,0 +1,9 @@
+Title: Multimodal Self‐sustainable Autonomous Locomotions of Light‐driven Seifert Ribbon Actuators based on Liquid Crystal Elastomers
+Authors: Zhen‐Zhou Nie, Meng Wang, Shuai Huang, Zhi‐Yang Liu, Hong Yang
+Year: 2023
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202304081
+Paper ID: https://openalex.org/W4366602040
+
+Abstract:
+Multimodal self-sustainable autonomous locomotions integrated into one individual system, are high-level intelligent behavioral characteristics of living organisms and are the scientific hotspot of bionic soft actuators. Here, we report a light-fueled soft actuator with multimodal self-sustainable movements based on a Seifert ribbon bounded by a Hopf link. The Seifert ribbon actuator can self-sense the illumination area adjustment, and the actuation component becomes either a discontinuous strip-like structure or a continuous toroidal structure, which can realize adaptive switches between self-sustained oscillatory and rotary motions. The two motion modes are applied to the self-oscillatory piezoelectric generation and self-rotational work multiplication of cargo transport, respectively. The unique smartness of Seifert surface topology advances the level of actuation intelligence with broad implications for the adaptability, multifunctionality, and autonomy of soft robots.

@@ -1,0 +1,9 @@
+Title: Digital financial inclusion and sustainable employment: Evidence from countries along the belt and road
+Authors: Zhechen Geng, Guosheng He
+Year: 2021
+Venue: Borsa Istanbul Review
+DOI: https://doi.org/10.1016/j.bir.2021.04.004
+Paper ID: https://openalex.org/W3157828594
+
+Abstract:
+Based on panel data on forty countries along the Belt and Road (B&R) from 2010 to 2018, this study adopts the instrumental variable method (FE and 2SLS models) to explore the impacts of digital financial inclusion on sustainable employment in the B&R countries. Taking full consideration of endogeneity and verifying their robustness, our results show that digitally inclusive finance significantly drives sustainable employment, and the effect is heterogeneous. Digital financial inclusion drives sustainable employment of lower-middle-income economies but the effect is insignificant. In upper-middle-income and high-income economies; however, the effect is significant, more so in the former than the latter. We conduct further analysis, showing a single threshold effect of digital financial inclusion on positive sustainable employment in upper-middle-income economies.

@@ -1,0 +1,9 @@
+Title: The impact of ESG factors on financial efficiency: An empirical analysis for the selection of sustainable firm portfolios
+Authors: Gianpaolo Iazzolino, Maria Elena Bruni, Stefania Veltri, Donato Morea, Giovanni Baldissarro
+Year: 2023
+Venue: Corporate Social Responsibility and Environmental Management
+DOI: https://doi.org/10.1002/csr.2463
+Paper ID: https://openalex.org/W4319350729
+
+Abstract:
+Abstract Environmental, Social, and Governance (ESG) factors are increasingly at the center of corporate and investment decisions. In this context, the aim of the paper was to test whether ESG factors impact on financial efficiency of a sample of firms belonging to different European sectors. This study enriches the literature of the field through a multi‐sectoral analysis. The Data Envelopment Analysis was used as widely considered in empirical and financial studies. Research findings showed that ESGs impact on firm efficiency differently over sectors: some of them are more sensitive than others to ESG factors. Furthermore, for most sensitive sectors the risk‐return characteristics related to ESGs were represented in order to provide insights for investors aiming to construct efficient and sustainable firm portfolios to invest in.

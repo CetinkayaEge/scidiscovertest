@@ -1,0 +1,9 @@
+Title: Toward sustainability and resilience with Industry 4.0 and Industry 5.0
+Authors: Shohin Aheleroff, Huiyue Huang, Xun Xu, Ray Y. Zhong
+Year: 2022
+Venue: Frontiers in Manufacturing Technology
+DOI: https://doi.org/10.3389/fmtec.2022.951643
+Paper ID: https://openalex.org/W4307764542
+
+Abstract:
+There is a recognized need for mass personalization for sustainability at scale. Mass personalization is becoming a leading research trend in the latest Industrial Revolution, whereas substantial research has been undertaken on the role of Industry 4.0 enabling technologies. The world is moving beyond mass customization, while manufacturing has led to mass personalization ahead of other industries. However, most studies have not treated human capabilities, machines, and technologies as sustainable collaboration. This research investigates mass personalization as a common goal under the latest Industrial revolutions. Also, it proposes a Reference Architecture Model for achieving mass personalization that contributes to understanding how Industry 5.0 enhances Industry 4.0 for higher resilience and sustainability through a human-centric approach. The study implies that Human Capital 5.0 leads collaboration with machines and technologies, bringing more value-added and sustainable products.

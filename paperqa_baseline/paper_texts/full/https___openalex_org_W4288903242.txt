@@ -1,0 +1,9 @@
+Title: Adoption of Artificial Intelligence and Cutting-Edge Technologies for Production System Sustainability: A Moderator-Mediation Analysis
+Authors: Sheshadri Chatterjee, Ranjan Chaudhuri, Sachin Kamble, Shivam Gupta, Uthayasankar Sivarajah
+Year: 2022
+Venue: Information Systems Frontiers
+DOI: https://doi.org/10.1007/s10796-022-10317-x
+Paper ID: https://openalex.org/W4288903242
+
+Abstract:
+Abstract Cutting-edge technologies like big data analytics (BDA), artificial intelligence (AI), quantum computing, blockchain, and digital twins have a profound impact on the sustainability of the production system. In addition, it is argued that turbulence in technology could negatively impact the adoption of these technologies and adversely impact the sustainability of the production system of the firm. The present study has demonstrated that the role of technological turbulence as a moderator could impact the relationships between the sustainability the of production system with its predictors. The study further analyses the mediating role of operational sustainability which could impact the firm performance. A theoretical model has been developed that is underpinned by dynamic capability view (DCV) theory and firm absorptive capacity theory. This model was verified by PLS-SEM with 412 responses from various manufacturing firms in India. There exists a positive and significant influence of AI and other cutting-edge technologies for keeping the production system sustainable.

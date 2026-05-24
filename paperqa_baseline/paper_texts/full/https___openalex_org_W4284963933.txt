@@ -1,0 +1,9 @@
+Title: Shallow subsurface heat recycling is a sustainable global space heating alternative
+Authors: Susanne A. Benz, Kathrin Menberg, Peter Bayer, Barret L. Kurylyk
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-31624-6
+Paper ID: https://openalex.org/W4284963933
+
+Abstract:
+Despite the global interest in green energy alternatives, little attention has focused on the large-scale viability of recycling the ground heat accumulated due to urbanization, industrialization and climate change. Here we show this theoretical heat potential at a multi-continental scale by first leveraging datasets of groundwater temperature and lithology to assess the distribution of subsurface thermal pollution. We then evaluate subsurface heat recycling for three scenarios: a status quo scenario representing present-day accumulated heat, a recycled scenario with ground temperatures returned to background values, and a climate change scenario representing projected warming impacts. Our analyses reveal that over 50% of sites show recyclable underground heat pollution in the status quo, 25% of locations would be feasible for long-term heat recycling for the recycled scenario, and at least 83% for the climate change scenario. Results highlight that subsurface heat recycling warrants consideration in the move to a low-carbon economy in a warmer world.

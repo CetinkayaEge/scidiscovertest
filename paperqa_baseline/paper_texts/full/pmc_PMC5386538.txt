@@ -1,0 +1,9 @@
+Title: RelA/p65 inhibition prevents tendon adhesion by modulating inflammation, cell proliferation, and apoptosis
+Authors: Shuai Chen, Shichao Jiang, Wei Zheng, Bing Tu, Shen Liu, Hongjiang Ruan, Cunyi Fan
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.135
+Paper ID: pmc_PMC5386538
+
+Abstract:
+Peritendinous tissue fibrosis which leads to poor tendon function is a worldwide clinical problem; however, its mechanism remains unclear. Transcription factor RelA/p65, an important subunit in the NF- κ B complex, is known to have a critical role in many fibrotic diseases. Here, we show that RelA/p65 functions as a core fibrogenic regulator in tendon adhesion and that its inhibition exerts an anti-fibrogenic effect on peritendinous adhesion. We detected the upregulation of the NF- κ B pathway in human tendon adhesion using a gene chip microarray assay and revealed the overexpression of p65 and extracellular matrix (ECM) proteins Collagen I, Collagen III, and α -smooth muscle actin ( α -SMA) in human fibrotic tissues by immunohistochemistry and western blotting. We also found that in a rat model of tendon injury, p65 expression correlated with tendon adhesion, whereas its inhibition by small interfering (si)RNA prevented fibrous tissue formation and inflammatory reaction as evidenced by macroscopic, biomechanical, histological, immunohistochemical, and western blotting analyses. Furthermore, in cultured fibroblasts, p65-siRNA, p65-specific inhibitor, Helenalin and JSH23 suppressed cell proliferation and promoted apoptosis, whereas inhibiting the mRNA and protein expression of ECM components and cyclo-oxygenase-2, an inflammatory factor involved in tendon adhesion. Our findings indicate that p65 has a critical role in peritendinous tissue fibrosis and suggest that p65 knockdown may be a promising therapeutic approach to prevent tendon adhesion.

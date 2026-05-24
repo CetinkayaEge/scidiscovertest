@@ -1,0 +1,9 @@
+Title: Sustainable Unmaking: Designing for Biodegradation, Decay, and Disassembly
+Authors: Katherine Song, Fiona Bell, Himani Deshpande, Ilan Mandel, Tiffany Wun, Mirela Alistar, Leah Buechley, Wendy Ju, Jeeeun Kim, Eric Paulos, Samar Sabie, Ron Wakkary
+Year: 2024
+Venue: 
+DOI: https://doi.org/10.1145/3613905.3636300
+Paper ID: https://openalex.org/W4396833453
+
+Abstract:
+Unmaking is a counterpart to making and creating new things that has emerged as a concept of interest in diverse parts of the HCI community. Unmaking has been posed as an ally to sustainability, encouraging designers to foreground issues relating to reuse, repair, obsolescence, degradation, and decay early in their design process. As a follow-up to the 2022 Unmaking@CHI workshop, this workshop will bring together researchers and practitioners interested in unmaking as it relates to sustainability and will focus primarily on exploring the role of unmaking in material practices, drawing upon the growing body of unmaking theory to explore future research opportunities for designing physical things with sustainable materials that are transient, degradable, and intentionally unmake-able. In addition to considering the pragmatics of what and how to unmake, we seek to articulate the relationships among unmaking and other related emerging themes and sustainable material practices – including biodegradation, designing with more-than-human agencies, reuse, and repair – and propose guidelines for designing for the unmaking of physical artifacts that are sustainable, equitable, and respectful of all entities involved.

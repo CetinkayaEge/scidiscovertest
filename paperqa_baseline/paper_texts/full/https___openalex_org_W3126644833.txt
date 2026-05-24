@@ -1,0 +1,9 @@
+Title: For Sustainable Application of Mobile Learning: An Extended UTAUT Model to Examine the Effect of Technical Factors on the Usage of Mobile Devices as a Learning Tool
+Authors: Saud S. Alghazi, Amirrudin Kamsin, Mohammed Amin Almaiah, Wong Seng Yue, Liyana Shuib
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041856
+Paper ID: https://openalex.org/W3126644833
+
+Abstract:
+Mobile devices have become an important tool in higher education. Although mobile devices have several benefits for students, the use of these devices is still very limited among students. This low percentage of usage could be attributed to several reasons, both technical and non-technical. Therefore, there is a need to conduct more research in order to understand the necessary factors that would lead to enhanced student usage, thus achieving sustainable mobile learning. In order to achieve that, our study proposes a model by employing the unified theory of acceptance and use of technology (UTAUT) to investigate the necessary factors that influence intention to use mobile learning among university students. To evaluate the proposed model, structural equation modelling (SEM) was employed to analyze data collected from 612 students. The results indicated that factors, such as device connectivity, device compatibility, device memory, device performance, network coverage, and network speed have a significant and positive influence on students’ intention to use mobile learning. This research provides important recommendations for university decision makers and developers on understanding the necessary factors for adopting mobile learning and reflect the students’ requirements.

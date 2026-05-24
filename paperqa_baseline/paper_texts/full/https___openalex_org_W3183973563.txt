@@ -1,0 +1,9 @@
+Title: Sustainable Syntheses and Sources of Nanomaterials for Microbial Fuel/Electrolysis Cell Applications: An Overview of Recent Progress
+Authors: Domenico Frattini, Gopalu Karunakaran, Eun‐Bum Cho, Yongchai Kwon
+Year: 2021
+Venue: Processes
+DOI: https://doi.org/10.3390/pr9071221
+Paper ID: https://openalex.org/W3183973563
+
+Abstract:
+The use of microbial fuel cells (MFCs) is quickly spreading in the fields of bioenergy generation and wastewater treatment, as well as in the biosynthesis of valuable compounds for microbial electrolysis cells (MECs). MFCs and MECs have not been able to penetrate the market as economic feasibility is lost when their performances are boosted by nanomaterials. The nanoparticles used to realize or decorate the components (electrodes or the membrane) have expensive processing, purification, and raw resource costs. In recent decades, many studies have approached the problem of finding green synthesis routes and cheap sources for the most common nanoparticles employed in MFCs and MECs. These nanoparticles are essentially made of carbon, noble metals, and non-noble metals, together with a few other few doping elements. In this review, the most recent findings regarding the sustainable preparation of nanoparticles, in terms of syntheses and sources, are collected, commented, and proposed for applications in MFC and MEC devices. The use of naturally occurring, recycled, and alternative raw materials for nanoparticle synthesis is showcased in detail here. Several examples of how these naturally derived or sustainable nanoparticles have been employed in microbial devices are also examined. The results demonstrate that this approach is valuable and could represent a solid alternative to the expensive use of commercial nanoparticles.

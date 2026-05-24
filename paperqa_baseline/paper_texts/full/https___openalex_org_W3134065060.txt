@@ -1,0 +1,9 @@
+Title: Use of PROMETHEE MCDA Method for Ranking Alternative Measures of Sustainable Urban Mobility Planning
+Authors: Maria Morfoulaki, Jason Papathanasiou
+Year: 2021
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math9060602
+Paper ID: https://openalex.org/W3134065060
+
+Abstract:
+One of the most crucial steps during the implementation of a Sustainable Urban Mobility Plan (SUMP) as well the relevant transportation projects is the final measures and policies’ selection that will be realized in order for the plan to achieve the study area targets. There are many methodologies that have been used for a specific purpose, with cost-effective and cost–benefit analysis being the most popular. According to the new specifications of SUMPs, the co-creation and co-planning of the future measures taking into account the opinions of all the relevant stakeholders and groups of citizens is the main parameter that will ensure the success of the planning. For this reason, MCA is the methodology proposed to be used for collecting and analyzing the different opinions. The aim of the current work is to prove, through a targeted Greek survey, the effectiveness of the MCA, not only to merge the different opinions and priorities of the stakeholders but also to highlight and rank realistically the most important sustainable mobility measures that should be implemented in an urban area. The work proposes and tests a specific methodological framework based on the use of the preference ranking organization method for enrichment of evaluations (PROMETHEE) method.

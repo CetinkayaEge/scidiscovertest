@@ -1,0 +1,9 @@
+Title: A systematic procedure for incorporating separable static heterogeneity into compartmental epidemic models
+Authors: Odo Diekmann, Hisashi Inaba
+Year: 2023
+Venue: Journal of Mathematical Biology
+DOI: 10.1007/s00285-023-01865-0
+Paper ID: pmc_PMC9839824
+
+Abstract:
+In this paper, we show how to modify a compartmental epidemic model, without changing the dimension, such that separable static heterogeneity is taken into account. The derivation is based on the Kermack–McKendrick renewal equation.

@@ -1,0 +1,9 @@
+Title: The impact of clean energy consumption, green innovation, and technological diffusion on environmental sustainability: New evidence from load capacity curve hypothesis for 10 European Union countries
+Authors: Mücahit Aydın, Tunahan Değirmenci
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2794
+Paper ID: https://openalex.org/W4387695375
+
+Abstract:
+Abstract Today, when climate change and environmental degradation are experienced, environmental sustainability comes to the fore. The most important component of environmental sustainability is undoubtedly technology and innovation. This study examines the effects of clean energy consumption, green innovation, and technological diffusion on environmental sustainability from 1990 to 2018 in selected European Union countries. This relationship has been frequently examined in the literature within the framework of the environmental Kuznets curve (EKC) hypothesis. The number of studies examining it within the load capacity curve (LCC) hypothesis framework is negligible. This study aims to fill the gap in the literature in the context of examining the relationship within the framework of the LCC hypothesis. For this purpose, Westerlund's (2008) panel cointegration test was applied, and cointegration was determined in the LCC model. Three different long‐term estimators, namely rCCE, DCCE, and AMG, were used to test the validity of the hypothesis. Although the results obtained for the entire panel say that the LCC hypothesis is not valid, evidence for the existence of the hypothesis has been identified in the country‐based results. Accordingly, the LCC hypothesis is valid for Denmark, France, Portugal, and Spain. Overall, green innovation and technological diffusion are essential to encourage the spread of environmentally friendly practices and to leave a more livable world for future generations.

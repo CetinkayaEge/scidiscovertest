@@ -1,0 +1,9 @@
+Title: Mutant p53 sustains serine-glycine synthesis and essential amino acids intake promoting breast cancer growth
+Authors: Camilla Tombari, Alessandro Zannini, Rebecca Bertolio, Silvia Pedretti, Matteo Audano, Luca Triboli, Valeria Cancila, Davide Vacca, Manuel Caputo, Sara Donzelli, Ilenia Segatto, Simone Vodret, Silvano Piazza, Alessandra Rustighi, Fiamma Mantovani, Barbara Belletti, Gustavo Baldassarre, Giovanni Blandino, Claudio Tripodo, Silvio Bicciato, Nico Mitro, Giannino Del Sal
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-42458-1
+Paper ID: https://openalex.org/W4387936970
+
+Abstract:
+Reprogramming of amino acid metabolism, sustained by oncogenic signaling, is crucial for cancer cell survival under nutrient limitation. Here we discovered that missense mutant p53 oncoproteins stimulate de novo serine/glycine synthesis and essential amino acids intake, promoting breast cancer growth. Mechanistically, mutant p53, unlike the wild-type counterpart, induces the expression of serine-synthesis-pathway enzymes and L-type amino acid transporter 1 (LAT1)/CD98 heavy chain heterodimer. This effect is exacerbated by amino acid shortage, representing a mutant p53-dependent metabolic adaptive response. When cells suffer amino acids scarcity, mutant p53 protein is stabilized and induces metabolic alterations and an amino acid transcriptional program that sustain cancer cell proliferation. In patient-derived tumor organoids, pharmacological targeting of either serine-synthesis-pathway and LAT1-mediated transport synergizes with amino acid shortage in blunting mutant p53-dependent growth. These findings reveal vulnerabilities potentially exploitable for tackling breast tumors bearing missense TP53 mutations.

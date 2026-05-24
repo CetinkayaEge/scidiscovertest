@@ -1,0 +1,9 @@
+Title: Different Aspects of Machinability in Turning of AISI 304 Stainless Steel: A Sustainable Approach with MQL Technology
+Authors: Rüstem Binali, Havva Demirpolat, Mustafa Kuntoğlu, Emin Salur
+Year: 2023
+Venue: Metals
+DOI: https://doi.org/10.3390/met13061088
+Paper ID: https://openalex.org/W4380089717
+
+Abstract:
+Machining of AISI 304 austenitic stainless steel is considered to be difficult due to its structural aspects and low thermal conductivity, which leads to increased temperatures during machining. To overcome the challenges of machining AISI 304 stainless steel, several cooling and lubricating techniques have been developed. The main objective of this experimental study is to evaluate the different turning conditions of AISI304 stainless steel under dry and minimum quantity lubrication (MQL) environment conditions. The machining experiments were conducted using a two-level full factorial design method and utilized a TiC-coated cutting tool. The tool-tip temperature, cutting force and surface roughness were analyzed regarding three cutting parameters namely, cutting speed, feed rate and cutting depth. Also, chip macro-morphology was investigated to define the interaction at the tool-chip-workpiece region. The cutting medium affects the surface roughness significantly (more than 100%) for all cutting parameter values. In some environmental cutting conditions, high cutting speed provides 10% lesser surface roughness than low cutting speed parameters. Also, the cutting force decreases by 20% in low feed rate machining conditions. However, the effect of this parameter disappeared for cutting forces in high feed rates and low cutting depth conditions in both MQL and dry environments. Cutting speed was observed as the most influential factor on surface roughness, followed by feed rate. The depth of cut was the main parameter that caused the temperature to increase in the dry machining environment.

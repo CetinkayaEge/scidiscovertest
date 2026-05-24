@@ -1,0 +1,9 @@
+Title: Mycobacterial fatty acid catabolism is repressed by FdmR to sustain lipogenesis and virulence
+Authors: Wenyue Dong, Xiaoqun Nie, Hong Zhu, Qingyun Liu, Kun-Xiong Shi, Linlin You, Yu Zhang, H. Christina Fan, Bo Yan, Chen Niu, Liang-Dong Lyu, Guoping Zhao, Chen Yang
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2019305118
+Paper ID: https://openalex.org/W3155767361
+
+Abstract:
+mutant deficient in FdmR was severely attenuated in zebrafish larvae and adult zebrafish. The mutant showed defective growth but high substrate consumption on fatty acids. FdmR was identified as a long-chain acyl-coenzyme A (acyl-CoA)-responsive repressor of genes involved in fatty acid degradation and modification. We demonstrated that FdmR functions as a valve to direct the flux of exogenously derived fatty acids away from β-oxidation toward lipid biosynthesis, thereby avoiding the overactive catabolism and accumulation of biologically toxic intermediates. Moreover, we found that FdmR suppresses degradation of long-chain acyl-CoAs endogenously synthesized through the type I fatty acid synthase. By modulating the supply of long-chain acyl-CoAs for lipogenesis, FdmR controls the abundance and chain length of virulence-associated lipids and mycolates and plays an important role in the impermeability of the cell envelope. These results reveal that despite the fact that host-derived fatty acids are used as an important carbon source, overactive catabolism of fatty acids is detrimental to mycobacterial cell growth and pathogenicity. This study thus presents FdmR as a potentially attractive target for chemotherapy.

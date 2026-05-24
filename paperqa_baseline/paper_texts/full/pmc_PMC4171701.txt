@@ -1,0 +1,9 @@
+Title: Homotypic dimerization of a maltose kinase for molecular scaffolding
+Authors: Jun Li, Xiaotao Guan, Neil Shaw, Weimin Chen, Yu Dong, Xiaoling Xu, Xuemei Li, Zihe Rao
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep06418
+Paper ID: pmc_PMC4171701
+
+Abstract:
+Mycobacterium tuberculosis ( Mtb ) uses maltose-1-phosphate to synthesize α-glucans that make up the major component of its outer capsular layer. Maltose kinase (MaK) catalyzes phosphorylation of maltose. The molecular basis for this phosphorylation is currently not understood. Here, we describe the first crystal structure of Mtb MaK refined to 2.4 Å resolution. The bi-modular architecture of Mtb MaK reveals a remarkably unique N-lobe. An extended sheet protrudes into ligand binding pocket of an adjacent monomer and contributes residues critical for kinase activity. Structure of the complex of Mtb MaK bound with maltose reveals that maltose binds in a shallow cavity of the C-lobe. Structural constraints permit phosphorylation of α-maltose only. Surprisingly, instead of a Gly-rich loop, Mtb MaK employs ‘EQS’ loop to tether ATP. Notably, this loop is conserved across all MaK homologues. Structures of Mtb MaK presented here unveil features that are markedly different from other kinases and support the scaffolding role proposed for this kinase.

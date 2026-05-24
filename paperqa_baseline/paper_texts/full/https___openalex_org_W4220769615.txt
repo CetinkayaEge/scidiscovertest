@@ -1,0 +1,9 @@
+Title: Thiourea Leaching: An Update on a Sustainable Approach for Gold Recovery from E-waste
+Authors: Daniel A. Ray, Mahsa Baniasadi, John Graves, A. W. Greenwood, Sébastien Farnaud
+Year: 2022
+Venue: Journal of Sustainable Metallurgy
+DOI: https://doi.org/10.1007/s40831-022-00499-8
+Paper ID: https://openalex.org/W4220769615
+
+Abstract:
+Abstract Electronic waste is a dominant global issue with over 50 million tons generated annually. Still, as an amalgamation of precious and rare raw materials, electronic waste is a considerable economic resource with the most valuable components located on the printed circuit boards. Gold is widely used in electronics in numerous applications, although principally for contact points and external connectors. The recovery of gold, due to its high value, is one of the main motivations for recycling e-waste. Although pyrometallurgy and hydrometallurgy processing are still the preferred modes of recovery for gold, the use of high-energy consuming pyro-methods, and the use of gold cyanidation that uses harmful lixiviants are increasingly discouraged. Thiourea has received attention as an alternative lixiviant for gold leaching due to its fast reaction kinetics and less harmful nature. This review aims to provide an up-to-date evaluation of thiourea-gold leaching studies from electronic waste, with emphasis on the recent progression from the classic chemical method to a more sustainable hybrid bioleaching-based system, while its challenges are highlighted. The complementary methods applied for gold retrieval from the pregnant solution are also described with a focus on sustainable methods that have the potential to provide a closed-loop system, the key objective for material recovery in a circular economy. Graphical Abstract

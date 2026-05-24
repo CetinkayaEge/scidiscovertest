@@ -1,0 +1,9 @@
+Title: Transcription Factor–Forced Astrocytic Differentiation Impairs Human Glioblastoma Growth In Vitro and In Vivo
+Authors: Francesco Trovato, Francesca Romana Stefani, Jiaxin Li, Oskar G. Zetterdahl, Isaac Canals, Henrik Ahlenius, Johan Bengzon
+Year: 2023
+Venue: Molecular Cancer Therapeutics
+DOI: 10.1158/1535-7163.MCT-21-0903
+Paper ID: pmc_PMC9890139
+
+Abstract:
+Abstract Direct cellular reprogramming has recently gained attention of cancer researchers for the possibility to convert undifferentiated cancer cells into more differentiated, postmitotic cell types. While a few studies have attempted reprogramming of glioblastoma (GBM) cells toward a neuronal fate, this approach has not yet been used to induce differentiation into other lineages and in vivo data on reduction in tumorigenicity are limited. Here, we employ cellular reprogramming to induce astrocytic differentiation as a therapeutic approach in GBM. To this end, we overexpressed key transcriptional regulators of astroglial development in human GBM and GBM stem cell lines. Treated cells undergo a remarkable shift in structure, acquiring an astrocyte-like morphology with star-shaped bodies and radial branched processes. Differentiated cells express typical glial markers and show a marked decrease in their proliferative state. In addition, forced differentiation induces astrocytic functions such as induced calcium transients and ability to respond to inflammatory stimuli. Most importantly, forced differentiation substantially reduces tumorigenicity of GBM cells in an in vivo xenotransplantation model. The current study capitalizes on cellular plasticity with a novel application in cancer. We take advantage of the similarity between neural developmental processes and cancer hierarchy to mitigate, if not completely abolish, the malignant nature of tumor cells and pave the way for new intervention strategies.

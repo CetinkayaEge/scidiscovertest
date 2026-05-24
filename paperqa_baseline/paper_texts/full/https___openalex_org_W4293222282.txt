@@ -1,0 +1,9 @@
+Title: Self-Sustainable Biomedical Devices Powered by RF Energy: A Review
+Authors: Hussein Yahya Alkhalaf, Mohd Yazed Ahmad, Harikrishnan Ramiah
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22176371
+Paper ID: https://openalex.org/W4293222282
+
+Abstract:
+Wearable and implantable medical devices (IMDs) have come a long way in the past few decades and have contributed to the development of many personalized health monitoring and therapeutic applications. Sustaining these devices with reliable and long-term power supply is still an ongoing challenge. This review discusses the challenges and milestones in energizing wearable and IMDs using the RF energy harvesting (RFEH) technique. The review highlights the main integrating frontend blocks such as the wearable and implantable antenna design, matching network, and rectifier topologies. The advantages and bottlenecks of adopting RFEH technology in wearable and IMDs are reviewed, along with the system elements and characteristics that enable these devices to operate in an optimized manner. The applications of RFEH in wearable and IMDs medical devices are elaborated in the final section of this review. This article summarizes the recent developments in RFEH, highlights the gaps, and explores future research opportunities.

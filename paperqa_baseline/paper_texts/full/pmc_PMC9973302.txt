@@ -1,0 +1,9 @@
+Title: N 6 -Methyladenosine and Reader Protein YTHDF2 Enhance the Innate Immune Response by Mediating DUSP1 mRNA Degradation and Activating Mitogen-Activated Protein Kinases during Bacterial and Viral Infections
+Authors: Jian Feng, Wen Meng, Luping Chen, Xinquan Zhang, Ashley Markazi, Weiming Yuan, Yufei Huang, Shou-Jiang Gao
+Year: 2023
+Venue: mBio
+DOI: 10.1128/mbio.03349-22
+Paper ID: pmc_PMC9973302
+
+Abstract:
+ABSTRACT Mitogen-activated protein kinases (MAPKs) play critical roles in the induction of numerous cytokines, chemokines, and inflammatory mediators that mobilize the immune system to counter pathogenic infections. Dual-specificity phosphatase 1 (DUSP1) is a member of the dual-specificity phosphatases that inactivates MAPKs through a negative-feedback mechanism. Here, we report that in response to viral and bacterial infections, not only the DUSP1 transcript but also its N 6 -methyladenosine (m 6 A) levels rapidly increase together with that of the m 6 A reader protein YTHDF2, resulting in enhanced YTHDF2-mediated DUSP1 transcript degradation. The knockdown of DUSP1 promotes p38 and Jun N-terminal kinase (JNK) phosphorylation and activation, thus increasing the expression of innate immune response genes, including the interleukin-1β (IL-1β), colony-stimulating factor 3 (CSF3), transglutaminase 2 (TGM2), and proto-oncogene tyrosine-protein kinase Src (SRC) genes. Similarly, the knockdown of the m 6 A eraser ALKBH5 increases the DUSP1 transcript m 6 A level, resulting in accelerated transcript degradation, the activation of p38 and JNK, and the enhanced expression of IL-1β, CSF3, TGM2, and SRC. These results demonstrate that m 6 A and the reader protein YTHDF2 orchestrate optimal innate immune responses during viral and bacterial infections by downregulating the expression of a negative regulator, DUSP1, of the p38 and JNK pathways that are central to innate immune responses against pathogenic infections.

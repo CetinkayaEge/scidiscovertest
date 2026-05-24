@@ -1,0 +1,9 @@
+Title: Two-Stage Energy Management Strategies of Sustainable Wind-PV-Hydrogen-Storage Microgrid Based on Receding Horizon Optimization
+Authors: Jiarui Wang, Dexin Li, Xiangyu Lv, Xiangdong Meng, Jiajun Zhang, Tengfei Ma, Wei Pei, Hao Xiao
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15082861
+Paper ID: https://openalex.org/W4224108956
+
+Abstract:
+Hydrogen and renewable electricity-based microgrid is considered to be a promising way to reduce carbon emissions, promote the consumption of renewable energies and improve the sustainability of the energy system. In view of the fact that the existing day-ahead optimal operation model ignores the uncertainties and fluctuations of renewable energies and loads, a two-stage energy management model is proposed for the sustainable wind-PV-hydrogen-storage microgrid based on receding horizon optimization to eliminate the adverse effects of their uncertainties and fluctuations. In the first stage, the day-ahead optimization is performed based on the predicted outpower of WT and PV, the predicted demands of power and hydrogen loads. In the second stage, the intra-day optimization is performed based on the actual data to trace the day-ahead operation schemes. Since the intra-day optimization can update the operation scheme based on the latest data of renewable energies and loads, the proposed two-stage management model is effective in eliminating the uncertain factors and maintaining the stability of the whole system. Simulations show that the proposed two-stage energy management model is robust and effective in coordinating the operation of the wind-PV-hydrogen-storage microgrid and eliminating the uncertainties and fluctuations of WT, PV and loads. In addition, the battery storage can reduce the operation cost, alleviate the fluctuations of the exchanged power with the power grid and improve the performance of the energy management model.

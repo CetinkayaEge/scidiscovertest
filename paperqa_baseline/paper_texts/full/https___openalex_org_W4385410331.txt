@@ -1,0 +1,9 @@
+Title: Cell membranes sustain phospholipid imbalance via cholesterol asymmetry
+Authors: Milka Doktorova, Jessica L. Symons, Xiaoxuan Zhang, Hongyin Wang, Jan Schlegel, Joseph H. Lorent, Frederick A. Heberle, Erdinç Sezgin, Edward Lyman, Kandice R. Levental, Ilya Levental
+Year: 2023
+Venue: bioRxiv (Cold Spring Harbor Laboratory)
+DOI: https://doi.org/10.1101/2023.07.30.551157
+Paper ID: https://openalex.org/W4385410331
+
+Abstract:
+Membranes are molecular interfaces that compartmentalize cells to control the flow of nutrients and information. These functions are facilitated by diverse collections of lipids, nearly all of which are distributed asymmetrically between the two bilayer leaflets. Most models of biomembrane structure and function often include the implicit assumption that these leaflets have similar abundances of phospholipids. Here, we show that this assumption is generally invalid and investigate the consequences of lipid abundance imbalances in mammalian plasma membranes (PM). Using quantitative lipidomics, we discovered that cytoplasmic leaflets of human erythrocyte membranes have >50% overabundance of phospholipids compared to exoplasmic leaflets. This imbalance is enabled by an asymmetric interleaflet distribution of cholesterol, which regulates cellular cholesterol homeostasis. These features produce unique functional characteristics, including low PM permeability and resting tension in the cytoplasmic leaflet that regulates protein localization. These largely overlooked aspects of membrane asymmetry represent an evolution of classic paradigms of biomembrane structure and physiology.

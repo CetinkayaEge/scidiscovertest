@@ -1,0 +1,9 @@
+Title: Integration of artificial intelligence in lung cancer: Rise of the machine
+Authors: Colton Ladbury, Arya Amini, Ameish Govindarajan, Isa Mambetsariev, Dan J. Raz, Erminia Massarelli, Terence Williams, Andrei Rodin, Ravi Salgia
+Year: 2023
+Venue: Cell Reports Medicine
+DOI: 10.1016/j.xcrm.2023.100933
+Paper ID: pmc_PMC9975283
+
+Abstract:
+Summary The goal of oncology is to provide the longest possible survival outcomes with the therapeutics that are currently available without sacrificing patients’ quality of life. In lung cancer, several data points over a patient’s diagnostic and treatment course are relevant to optimizing outcomes in the form of precision medicine, and artificial intelligence (AI) provides the opportunity to use available data from molecular information to radiomics, in combination with patient and tumor characteristics, to help clinicians provide individualized care. In doing so, AI can help create models to identify cancer early in diagnosis and deliver tailored therapy on the basis of available information, both at the time of diagnosis and in real time as they are undergoing treatment. The purpose of this review is to summarize the current literature in AI specific to lung cancer and how it applies to the multidisciplinary team taking care of these complex patients. Ladbury et al. review the current landscape of artificial intelligence (AI) research in lung cancer. Although much AI research is limited to single-institution datasets without external validation, there is promising foundational work in imaging, pathology, and patient treatment management. Future work should emphasize robust data sources, accuracy, reproducibility, and collaboration.

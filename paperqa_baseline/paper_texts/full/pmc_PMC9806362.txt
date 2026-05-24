@@ -1,0 +1,9 @@
+Title: Predictors of Readmission After Pulmonary Resection in Patients With Lung Cancer: A Systematic Review and Meta-analysis
+Authors: Jie Liu, Xuli Yang, Xing Liu, Yan Xu, Helang Huang
+Year: 2022
+Venue: Technology in Cancer Research & Treatment
+DOI: 10.1177/15330338221144512
+Paper ID: pmc_PMC9806362
+
+Abstract:
+Objective: Postoperative readmissions are considered an indicator of healthcare quality. The purpose of this study was to assess the factors associated with readmission following pulmonary resection for lung cancer. Methods: A comprehensive search was performed in PubMed, Web of science, the Cochrane Library, and databases of CNKI and Wanfang. We collected the factors associated with readmission following pulmonary resection from the included studies, and data analysis was conducted with STATA SE12.0 software. Results: A total of 11 studies (386 012 participants) were included. The meta-analysis results showed that age (standardized mean difference [SMD] = 0.093), male sex (odds ratio [OR] = 1.260), Charlson score (SMD = 1.408), forced expiratory volume in 1 second predicted (SMD = −0.203), congestive heart failure (OR = 1.708), peripheral vascular disease (OR = 1.436), and histology (OR = 0.804) were associated with readmission ( P < .05), while hypertension was not. Patients with postoperative empyema, pneumonia, air leak, and arrhythmia (all P < .05) had higher odds of hospital readmission. Conclusion: The predictive factors for readmission can help in establishing individualized discharge and follow-up plans and programs for reducing hospital readmissions after pulmonary resection in patients with lung cancer.

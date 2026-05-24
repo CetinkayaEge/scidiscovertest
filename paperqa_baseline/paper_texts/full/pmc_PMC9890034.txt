@@ -1,0 +1,9 @@
+Title: Targeting dual oncogenic machineries driven by TAL1 and PI3K-AKT pathways in T-cell acute lymphoblastic leukemia
+Authors: Fang Qi Lim, Allison Si-Yu Chan, Rui Yokomori, Xiao Zi Huang, Madelaine Skolastika Theardy, Allen Eng Juh Yeoh, Shi Hao Tan, Takaomi Sanda
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.280761
+Paper ID: pmc_PMC9890034
+
+Abstract:
+T-cell acute lymphoblastic leukemia (T-ALL) is a malignancy of thymic T-cell precursors. Overexpression of oncogenic transcription factor TAL1 is observed in 40-60% of human T-ALL cases, frequently together with activation of the NOTCH1 and PI3K-AKT pathways. In this study, we performed chemical screening to identify small molecules that can inhibit the enhancer activity driven by TAL1 using the GIMAP enhancer reporter system. Among approximately 3,000 compounds, PIK-75, a known inhibitor of PI3K and CDK, was found to strongly inhibit the enhancer activity. Mechanistic analysis demonstrated that PIK-75 blocks transcriptional activity, which primarily affects TAL1 target genes as well as AKT activity. TAL1-positive, AKT-activated T-ALL cells were very sensitive to PIK-75, as evidenced by growth inhibition and apoptosis induction, while T-ALL cells that exhibited activation of the JAK-STAT pathway were insensitive to this drug. Together, our study demonstrates a strategy targeting two types of core machineries mediated by oncogenic transcription factors and signaling pathways in T-ALL.

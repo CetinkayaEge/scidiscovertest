@@ -1,0 +1,9 @@
+Title: Alterations in Cortical Activation among Soccer Athletes with Chronic Ankle Instability during Drop-Jump Landing: A Preliminary Study
+Authors: Xiaoya Zhang, Wanrongyu Su, Bin Ruan, Yu Zang
+Year: 2022
+Venue: Brain Sciences
+DOI: 10.3390/brainsci12050664
+Paper ID: pmc_PMC9139920
+
+Abstract:
+Background: Chronic ankle instability (CAI) is a common peripheral joint injury and there is still no consensus on the mechanisms. It is necessary to investigate electrocortical parameters to provide clinical insight into the functional alterations of brain activity after an ankle sprain, which would greatly affect the implementation of rehabilitation plans. The purpose of this study was to assess cortical activation characteristics during drop-jump landing among soccer athletes with CAI. Methods: A total of 24 participants performed the drop-jump landing task on a force platform while wearing a 64-channel EEG system. The differences of power spectral density (PSD) in theta and alpha (alpha-1 and alpha-2) bands were analyzed between two groups (CAI vs. CON) and between two limbs (injured vs. healthy). Results: CAI participants demonstrated significantly higher theta power at the frontal electrode than that in healthy control individuals (F (1,22) = 7.726, p = 0.011, η 2 p = 0.260). No difference in parietal alpha-1 and alpha-2 power was found between groups (alpha-1: F (1,22) = 0.297, p = 0.591, η 2 p = 0.013; alpha-2: F (1,22) = 0.118, p = 0.734, η 2 p = 0.005). No limb differences were presented for any frequency band in selected cortical areas (alpha-1: F (1,22) = 0.149, p = 0.703, η 2 p = 0.007; alpha-2: F (1,22) = 0.166, p = 0.688, η 2 p = 0.007; theta: F (1,22) = 2.256, p = 0.147, η 2 p = 0.093). Conclusions: Theta power at the frontal cortex was higher in soccer athletes with CAI during drop-jump landing. Differences in cortical activation provided evidence for an altered neural mechanism of postural control among soccer athletes with CAI.

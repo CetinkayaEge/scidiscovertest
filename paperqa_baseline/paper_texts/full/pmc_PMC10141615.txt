@@ -1,0 +1,9 @@
+Title: Application of Optical Coherence Tomography (OCT) to Analyze Membrane Fouling under Intermittent Operation
+Authors: Song Lee, Hyeongrak Cho, Yongjun Choi, Sangho Lee
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13040392
+Paper ID: pmc_PMC10141615
+
+Abstract:
+There is increasing interest in membrane systems powered by renewable energy sources, including solar and wind, that are suitable for decentralized water supply in islands and remote regions. These membrane systems are often operated intermittently with extended shutdown periods to minimize the capacity of the energy storage devices. However, relatively little information is available on the effect of intermittent operation on membrane fouling. In this work, the fouling of pressurized membranes under intermittent operation was investigated using an approach based on optical coherence tomography (OCT), which allows non-destructive and non-invasive examination of membrane fouling. In reverse osmosis (RO), intermittently operated membranes were investigated by OCT-based characterization. Several model foulants such as NaCl and humic acids were used, as well as real seawater. The cross-sectional OCT images of the fouling were visualized as a three-dimensional volume using Image J. The OCT images were used to quantitatively measure the thickness of foulants on the membrane surfaces under different operating conditions. The results showed that intermittent operation retarded the flux decrease due to fouling compared to continuous operation. The OCT analysis showed that the foulant thickness was significantly reduced by the intermittent operation. The decrease in foulant layer thickness was found to occur when the RO process was restarted in intermittent operation.

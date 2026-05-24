@@ -1,0 +1,9 @@
+Title: Study of Force-Frequency Characteristics in AT-Cut Strip Quartz Crystal Resonators with Different Rotation Angles
+Authors: Gang Yang, Xianhe Huang, Ke Tan, Qiao Chen, Wei Pan
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062996
+Paper ID: pmc_PMC10058224
+
+Abstract:
+This paper investigated the force-frequency characteristics of AT-cut strip quartz crystal resonator (QCR) employing finite element analysis methods and experiments. We used the finite element analysis software COMSOL Multiphysics to calculate the stress distribution and particle displacement of the QCR. Moreover, we analyzed the impact of these opposing forces on the frequency shift and strains of the QCR. Meanwhile, the resonant frequency shifts, conductance, and quality factor (Q value) of three AT-cut strip QCRs with rotation angles of 30°, 40°, and 50° under different force-applying positions were tested experimentally. The results showed that the frequency shifts of the QCRs were proportional to the magnitude of the force. The highest force sensitivity was QCR with a rotation angle of 30°, followed by 40°, and 50° was the lowest. And the distance of the force-applying position from the X -axis also affected the frequency shift, conductance, and Q value of the QCR. The results of this paper are instructive for understanding the force-frequency characteristics of strip QCRs with different rotation angles.

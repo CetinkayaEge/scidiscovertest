@@ -1,0 +1,9 @@
+Title: Directly Using Ti 3 C 2 T x MXene for a Solid-Contact Potentiometric pH Sensor toward Wearable Sweat pH Monitoring
+Authors: Rongfeng Liang, Lijie Zhong, Yirong Zhang, Yitian Tang, Meixue Lai, Tingting Han, Wei Wang, Yu Bao, Yingming Ma, Shiyu Gan, Li Niu
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13040376
+Paper ID: pmc_PMC10141058
+
+Abstract:
+The level of hydrogen ions in sweat is one of the most important physiological indexes for the health state of the human body. As a type of two-dimensional (2D) material, MXene has the advantages of superior electrical conductivity, a large surface area, and rich functional groups on the surface. Herein, we report a type of Ti 3 C 2 T x -based potentiometric pH sensor for wearable sweat pH analysis. The Ti 3 C 2 T x was prepared by two etching methods, including a mild LiF/HCl mixture and HF solution, which was directly used as the pH-sensitive materials. Both etched Ti 3 C 2 T x showed a typical lamellar structure and exhibited enhanced potentiometric pH responses compared with a pristine precursor of Ti 3 AlC 2 . The HF-Ti 3 C 2 T x disclosed the sensitivities of −43.51 ± 0.53 mV pH –1 (pH 1–11) and −42.73 ± 0.61 mV pH –1 (pH 11–1). A series of electrochemical tests demonstrated that HF-Ti 3 C 2 T x exhibited better analytical performances, including sensitivity, selectivity, and reversibility, owing to deep etching. The HF-Ti 3 C 2 T x was thus further fabricated as a flexible potentiometric pH sensor by virtue of its 2D characteristic. Upon integrating with a solid-contact Ag/AgCl reference electrode, the flexible sensor realized real-time monitoring of pH level in human sweat. The result disclosed a relatively stable pH value of ~6.5 after perspiration, which was consistent with the ex situ sweat pH test. This work offers a type of MXene-based potentiometric pH sensor for wearable sweat pH monitoring.

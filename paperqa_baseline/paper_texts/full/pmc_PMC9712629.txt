@@ -1,0 +1,9 @@
+Title: A high-resolution map of small-scale inversions in the gibbon genome
+Authors: Ludovica Mercuri, Donato Palmisano, Alberto L'Abbate, Pietro D'Addabbo, Francesco Montinaro, Claudia Rita Catacchio, Patrick Hasenfeld, Mario Ventura, Jan O. Korbel, Ashley D. Sanders, Flavia Angela Maria Maggiolini, Francesca Antonacci
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276960.122
+Paper ID: pmc_PMC9712629
+
+Abstract:
+Gibbons are the most speciose family of living apes, characterized by a diverse chromosome number and rapid rate of large-scale rearrangements. Here we performed single-cell template strand sequencing (Strand-seq), molecular cytogenetics, and deep in silico analysis of a southern white-cheeked gibbon genome, providing the first comprehensive map of 238 previously hidden small-scale inversions. We determined that more than half are gibbon specific, at least fivefold higher than shown for other primate lineage-specific inversions, with a significantly high number of small heterozygous inversions, suggesting that accelerated evolution of inversions may have played a role in the high sympatric diversity of gibbons. Although the precise mechanisms underlying these inversions are not yet understood, it is clear that segmental duplication–mediated NAHR only accounts for a small fraction of events. Several genomic features, including gene density and repeat (e.g., LINE-1) content, might render these regions more break-prone and susceptible to inversion formation. In the attempt to characterize interspecific variation between southern and northern white-cheeked gibbons, we identify several large assembly errors in the current GGSC Nleu3.0/nomLeu3 reference genome comprising more than 49 megabases of DNA. Finally, we provide a list of 182 candidate genes potentially involved in gibbon diversification and speciation.

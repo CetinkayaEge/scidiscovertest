@@ -1,0 +1,9 @@
+Title: Zero-defect manufacturing the approach for higher manufacturing sustainability in the era of industry 4.0: a position paper
+Authors: Foivos Psarommatis, João Sousa, João Pedro Mendonça, Dimitris Kiritsis
+Year: 2021
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2021.1987551
+Paper ID: https://openalex.org/W3211268145
+
+Abstract:
+For manufacturing companies, quality management is a key feature for increasing the competitiveness, productivity, profitability, and sustainability of their systems. Quality improvement (QI) methods aim to achieve high-quality parts without reducing performance. The Industry 4.0 framework brought technological developments that cannot be used by traditional QI methods, such as Six Sigma, Lean, Lean Six, the Theory of Constraints, and Total Quality Management, which are widely used in manufacturing companies. The need for higher manufacturing sustainability and market requirements has led to the search for alternative QI methods with superior performance to traditional QI methods such as Zero-Defect Manufacturing (ZDM). The current paper is a position paper with a goal to present the ZDM approach and providing a clear definition about ZDM to align everyone in one common understanding of ZDM. Many researchers and manufactures are skeptical about ZDM, therefore, numerous argumentative questions have been created and answered, to convince them why they should migrate from traditional QI methods to ZDM. The migration to ZDM has already started, to support this statement numerous facts from the literature have been presented. Finally, several directions were identified, demonstrating that there is still plenty of room for research in several domains.

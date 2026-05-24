@@ -1,0 +1,9 @@
+Title: HiLight-PTM: an online application to aid matching peptide pairs with isotopically labelled PTMs
+Authors: Harry J Whitwell, Peter DiMaggio
+Year: 2020
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz654
+Paper ID: pmc_PMC9883675
+
+Abstract:
+Abstract Motivation Database searching of isotopically labelled PTMs can be problematic and we frequently find that only one, or neither in a heavy/light pair are assigned. In such cases, having a pair of MS/MS spectra that differ due to an isotopic label can assist in identifying the relevant m / z values that support the correct peptide annotation or can be used for de novo sequencing. Results We have developed an online application that identifies matching peaks and peaks differing by the appropriate mass shift (difference between heavy and light PTM) between two MS/MS spectra. Furthermore, the application predicts, from the exact-match peaks, the mass of their complementary ions and highlights these as high confidence matches between the two spectra. The result is a tool to visually compare two spectra, and downloadable peaks lists that can be used to support de novo sequencing. Availability and implementation HiLight-PTM is released using shinyapps.io by RStudio, and can be accessed from any internet browser at https://harrywhitwell.shinyapps.io/hilight-ptm/ . Supplementary information Supplementary data are available at Bioinformatics online.

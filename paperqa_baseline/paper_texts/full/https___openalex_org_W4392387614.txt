@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and Sustainability—A Review
+Authors: Rachit Dhiman, Sofia Miteff, Yuancheng Wang, Shih-Chi Ma, R. Amirikas, Benjamin Fabian
+Year: 2024
+Venue: Analytics
+DOI: https://doi.org/10.3390/analytics3010008
+Paper ID: https://openalex.org/W4392387614
+
+Abstract:
+In recent decades, artificial intelligence has undergone transformative advancements, reshaping diverse sectors such as healthcare, transport, agriculture, energy, and the media. Despite the enthusiasm surrounding AI’s potential, concerns persist about its potential negative impacts, including substantial energy consumption and ethical challenges. This paper critically reviews the evolving landscape of AI sustainability, addressing economic, social, and environmental dimensions. The literature is systematically categorized into “Sustainability of AI” and “AI for Sustainability”, revealing a balanced perspective between the two. The study also identifies a notable trend towards holistic approaches, with a surge in publications and empirical studies since 2019, signaling the field’s maturity. Future research directions emphasize delving into the relatively under-explored economic dimension, aligning with the United Nations’ Sustainable Development Goals (SDGs), and addressing stakeholders’ influence.

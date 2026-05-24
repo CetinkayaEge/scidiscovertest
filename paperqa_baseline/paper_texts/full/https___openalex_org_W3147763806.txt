@@ -1,0 +1,9 @@
+Title: Localized modes and dark solitons sustained by nonlinear defects
+Authors: Liangwei Zeng, Vladimir V. Konotop, Xiaowei Lu, Yi Cai, Qifan Zhu, Jingzhen Li
+Year: 2021
+Venue: Optics Letters
+DOI: https://doi.org/10.1364/ol.424389
+Paper ID: https://openalex.org/W3147763806
+
+Abstract:
+Dark solitons and localized defect modes against periodic backgrounds are considered in arrays of waveguides with defocusing Kerr nonlinearity, constituting a nonlinear lattice. Bright defect modes are supported by a local increase in nonlinearity, while dark defect modes are supported by a local decrease in nonlinearity. Dark solitons exist for both types of defects, although in the case of weak nonlinearity, they feature side bright humps, making the total energy propagating through the system larger than the energy transferred by the constant background. All considered defect modes are found stable. Dark solitons are characterized by relatively narrow windows of stability. Interactions of unstable dark solitons with bright and dark modes are described.

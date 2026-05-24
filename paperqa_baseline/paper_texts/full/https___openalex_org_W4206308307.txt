@@ -1,0 +1,9 @@
+Title: Anticipatory life cycle analysis framework for sustainable management of end-of-life crystalline silicon photovoltaic panels
+Authors: Kishore Ganesan, César Valderrama
+Year: 2022
+Venue: Energy
+DOI: https://doi.org/10.1016/j.energy.2022.123207
+Paper ID: https://openalex.org/W4206308307
+
+Abstract:
+In this research, a framework for performing Anticipatory Life Cycle Analysis (a-LCA) has been developed to identify the sustainable end of life (EoL) management option for crystalline silicon photovoltaic (PV) panels. a-LCA can be used to stimulate proactive and sustainable decision making for emerging technologies through stakeholder participation. In this research, stakeholders related to EoL management of PV panels participated through a survey to identify and prioritize economic, environmental, and social indicators for PV EoL management. Several EoL strategies like bulk material recycling (centralized and decentralized), high value material recycling, and landfilling were chosen and assessed for the prioritised sustainability indicators. The EoL strategies were then ranked through a multi-criteria decision analysis tool for their level of sustainability. High value material recycling (close to 100% material recovery) was identified as the most sustainable option followed by bulk recycling of PV panels that recover only the major constituents, such as aluminium, glass, and e-waste. Landfilling remained the least preferred option, although it currently has an economic advantage over other recycling options, highlighting the need to shift the user preferences. The developed a-LCA framework is iterative and can be applied by decision makers for different EoL management strategies in the future.

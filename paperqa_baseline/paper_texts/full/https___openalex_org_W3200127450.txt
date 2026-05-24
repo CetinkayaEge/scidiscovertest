@@ -1,0 +1,9 @@
+Title: Knowledge Mapping and Sustainable Development of eSports Research: A Bibliometric and Visualized Analysis
+Authors: Weisheng Chiu, Thomas Fan, Sang-Back Nam, Ping-Hung Sun
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131810354
+Paper ID: https://openalex.org/W3200127450
+
+Abstract:
+The rapid expansion of the eSports industry has attracted scholars’ attention in recent years. However, little research has investigated the evolution of the extant eSports literature. This study aimed to explore the existing knowledge base of eSports and its research networks across authors, journals, institutions, and countries by performing a bibliometric analysis. A total of 260 studies published between 2010 and 2021 were extracted from the Scopus database, which is one of the largest abstract and citation databases. Then, they were analyzed using VOSviewer. Specifically, a series of analyses were conducted: (1) citation analysis, (2) co-occurrence analysis of keywords, and (3) co-citation analysis. The findings revealed that the existing eSports literature mainly revolves around eSports games and activities closely related to eSports. Moreover, the most influential authors and publications were identified. In addition, the studies have been published in journals of various disciplines (e.g., technology and psychology), and the concepts and theories in sport-related fields (e.g., sports management) have been extensively applied in eSports research. This study’s findings contribute to a better understanding of eSports research, which can further provide directions for the sustainable development of eSports research.

@@ -1,0 +1,9 @@
+Title: Over-expression of microRNA-1 causes arrhythmia by disturbing intracellular trafficking system
+Authors: Xiaomin Su, Haihai Liang, He Wang, Guizhi Chen, Hua Jiang, Qiuxia Wu, Tianyi Liu, Qiushuang Liu, Tong Yu, Yunyan Gu, Baofeng Yang, Hongli Shan
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46259
+Paper ID: pmc_PMC5387686
+
+Abstract:
+Dysregulation of intracellular trafficking system plays a fundamental role in the progression of cardiovascular disease. Up-regulation of miR-1 contributes to arrhythmia, we sought to elucidate whether intracellular trafficking contributes to miR-1-driven arrhythmia. By performing microarray analyses of the transcriptome in the cardiomyocytes-specific over-expression of microRNA-1 (miR-1 Tg) mice and the WT mice, we found that these differentially expressed genes in miR-1 Tg mice were significantly enrichment with the trafficking-related biological processes, such as regulation of calcium ion transport. Also, the qRT-PCR and western blot results validated that Stx6, Braf, Ube3a, Mapk8ip3, Ap1s1, Ccz1 and Gja1, which are the trafficking-related genes, were significantly down-regulated in the miR-1 Tg mice. Moreover, we found that Stx6 was decreased in the heart of mice after myocardial infarction and in the hypoxic cardiomyocytes, and further confirmed that Stx6 is a target of miR-1. Meanwhile, knockdown of Stx6 in cardiomyocytes resulted in the impairments of PLM and L-type calcium channel, which leads to the increased resting ([Ca 2+ ] i ). On the contrary, overexpression of Stx6 attenuated the impairments of miR-1 or hypoxia on PLM and L-type calcium channel. Thus, our studies reveals that trafficking-related gene Stx6 may regulate intracellular calcium and is involved in the occurrence of cardiac arrhythmia, which provides new insights in that miR-1 participates in arrhythmia by regulating the trafficking-related genes and pathway.

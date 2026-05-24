@@ -1,0 +1,9 @@
+Title: Improving the Effective Spatial Resolution in 1 H-MRSI of the Prostate with Three-Dimensional Overdiscretized Reconstructions
+Authors: Carlijn J. A. Tenbergen, Loreen Ruhm, Sjoerd Ypma, Arend Heerschap, Anke Henning, Tom W. J. Scheenen
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13020282
+Paper ID: pmc_PMC9967259
+
+Abstract:
+In in vivo 1 H-MRSI of the prostate, small matrix sizes can cause voxel bleeding extending to regions far from a voxel, dispersing a signal of interest outside that voxel and mixing extra-prostatic residual lipid signals into the prostate. To resolve this problem, we developed a three-dimensional overdiscretized reconstruction method. Without increasing the acquisition time from current 3D MRSI acquisition methods, this method is aimed to improve the localization of metabolite signals in the prostate without compromising on SNR. The proposed method consists of a 3D spatial overdiscretization of the MRSI grid, followed by noise decorrelation with small random spectral shifts and weighted spatial averaging to reach a final target spatial resolution. We successfully applied the three-dimensional overdiscretized reconstruction method to 3D prostate 1 H-MRSI data at 3T. Both in phantom and in vivo, the method proved to be superior to conventional weighted sampling with Hamming filtering of k-space. Compared with the latter, the overdiscretized reconstructed data with smaller voxel size showed up to 10% less voxel bleed while maintaining higher SNR by a factor of 1.87 and 1.45 in phantom measurements. For in vivo measurements, within the same acquisition time and without loss of SNR compared with weighted k-space sampling and Hamming filtering, we achieved increased spatial resolution and improved localization in metabolite maps.

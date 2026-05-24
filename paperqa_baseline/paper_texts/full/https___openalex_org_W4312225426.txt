@@ -1,0 +1,9 @@
+Title: A Multi-Criteria Decision-Making Framework for Sustainable Supplier Selection in the Circular Economy and Industry 4.0 Era
+Authors: Ziyuan Xie, Guixian Tian, Yongchao Tao
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142416809
+Paper ID: https://openalex.org/W4312225426
+
+Abstract:
+Supplier selection is a difficult and important issue in sustainable supply chain management. This research proposes a managerial framework based on Industry 4.0, a plan for evaluating and choosing sustainable suppliers to implement circular economy practices. Green supplier selection (GSS), the circular economy, and Industry 4.0 have become hot topics in recent operations management discussions. Three main categories (e.g., economic, environmental, and social) and 16 subcategories related to supplier selection decisions were identified using a hybrid approach combining literature reviews and industry expert opinions. In the fuzzy environment of Pythagorean, this paper proposes comprehensive techniques for the selection of green suppliers based on entropy, stepwise weighted assessment ratio analysis (SWARA), and complex proportional assessment (COPRAS) methods. To calculate the standard weight, this technique first merges the objective weight found by the entropy method and the subjective weight found by the SWARA method. The findings show that access to finance and financial availability for implementing Industry 4.0 within the circular economy (ECO5) and R&amp;D in environmental issues using Industry 4.0 technologies (ENV7), Information technology (IT) facilities (ECO6), and Product cost/price (ECO1) showed highest ranking among sub-criteria. Moreover, Supplier 5 was listed as the best sustainable supplier when they started making such a decision. The results of the proposed method help decision-makers make effective and efficient sustainable supplier selection.

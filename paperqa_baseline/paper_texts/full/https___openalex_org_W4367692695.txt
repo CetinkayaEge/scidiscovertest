@@ -1,0 +1,9 @@
+Title: Machine learning-driven multifunctional peptide engineering for sustained ocular drug delivery
+Authors: Henry T. Hsueh, Renee Ti Chou, Usha Rai, Wathsala Liyanage, Yoo Chun Kim, Matthew B. Appell, Jahnavi Pejavar, Kirby T. Leo, Charlotte Davison, Patricia Kolodziejski, Ann Mozzer, HyeYoung Kwon, Maanasa Sista, Nicole M. Anders, Avelina Hemingway, Sri Vishnu Kiran Rompicharla, Malia M. Edwards, Ian Pitha, Justin Hanes, Michael P. Cummings, Laura M. Ensign
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-38056-w
+Paper ID: https://openalex.org/W4367692695
+
+Abstract:
+Sustained drug delivery strategies have many potential benefits for treating a range of diseases, particularly chronic diseases that require treatment for years. For many chronic ocular diseases, patient adherence to eye drop dosing regimens and the need for frequent intraocular injections are significant barriers to effective disease management. Here, we utilize peptide engineering to impart melanin binding properties to peptide-drug conjugates to act as a sustained-release depot in the eye. We develop a super learning-based methodology to engineer multifunctional peptides that efficiently enter cells, bind to melanin, and have low cytotoxicity. When the lead multifunctional peptide (HR97) is conjugated to brimonidine, an intraocular pressure lowering drug that is prescribed for three times per day topical dosing, intraocular pressure reduction is observed for up to 18 days after a single intracameral injection in rabbits. Further, the cumulative intraocular pressure lowering effect increases ~17-fold compared to free brimonidine injection. Engineered multifunctional peptide-drug conjugates are a promising approach for providing sustained therapeutic delivery in the eye and beyond.

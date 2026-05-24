@@ -1,0 +1,9 @@
+Title: An IGFBP7 hi endothelial cell subset drives T cell extravasation in psoriasis via endothelial glycocalyx degradation
+Authors: Qingyang Li, Shuai Shao, Zhenlai Zhu, Jiaoling Chen, Junfeng Hao, Yaxing Bai, Bing Li, Erle Dang, Gang Wang
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI160451
+Paper ID: pmc_PMC10145935
+
+Abstract:
+Dysfunction of vascular endothelial cells (ECs) facilitates imbalanced immune responses and tissue hyperinflammation. However, the heterogeneous functions of skin ECs and their underlying mechanism in dermatoses remain to be determined. Here, focusing on the pathogenic role of skin ECs in psoriasis, we characterized the molecular and functional heterogeneity of skin ECs from healthy individuals and psoriasis patients at the single-cell level. We found that endothelial glycocalyx destruction, a major feature of EC dysfunction in psoriasis, was a driving force during the process of T cell extravasation. Interestingly, we identified a skin EC subset, IGFBP7 hi ECs, in psoriasis. This subset actively responded to psoriatic-related cytokine signaling, secreted IGFBP7, damaged the endothelial glycocalyx, exposed the adhesion molecules underneath, and prepared the endothelium for immune-cell adhesion and transmigration, thus aggravating skin inflammation. More importantly, we provided evidence in a psoriasis-like mouse model that anti-IGFBP7 treatment showed promising therapeutic effects for restoring the endothelial glycocalyx and alleviating skin inflammation. Taken together, our results depict the distinct functions of EC clusters in healthy and psoriatic skin, identify IGFBP7 hi ECs as an active subset modulating vascular function and cutaneous inflammation, and indicate that targeting IGFBP7 is a potential therapeutic strategy in psoriasis.

@@ -1,0 +1,9 @@
+Title: Exploring Energy Trading Markets in Smart Grid and Microgrid Systems and Their Implications for Sustainability in Smart Cities
+Authors: Filipe Bandeiras, Álvaro Gomes, Mário Gomes, Paulo Coelho
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16020801
+Paper ID: https://openalex.org/W4315628419
+
+Abstract:
+Smart cities are aimed at connecting urban infrastructures to enhance the efficiency of their operation and services while taking sustainability goals into consideration. As a result of the intermittency associated with renewable generation, smart city systems such as smart grids and microgrids may not be able to ensure the security of supply. This can be mitigated by allowing these systems to trade surplus energy with other neighboring systems through local energy markets based on peer-to-peer schemes. Such an approach can play an important role on achieving sustainability due to the positive impacts at the economic, social, and environmental level. Therefore, this work explores the design of local energy markets to help determine how they are relevant to smart grid and microgrid applications and what their contributions are to sustainability in smart cities. Essentially, this is achieved by performing a literature review to address key characteristics related to the design of local energy markets while considering their relationship with urban sustainability. In addition, the concept of game theory and its potential to evaluate market designs are also introduced and discussed. Finally, the suitability of centralized, decentralized, and distributed market designs for each dimension of sustainability is estimated based on their design characteristics.

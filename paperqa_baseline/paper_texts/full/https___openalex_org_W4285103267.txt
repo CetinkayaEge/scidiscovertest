@@ -1,0 +1,9 @@
+Title: AI-Aided Integrated Terrestrial and Non-Terrestrial 6G Solutions for Sustainable Maritime Networking
+Authors: Salwa Saafi, Olga Vikhrova, Gábor Fodor, Jiří Hošek, Sergey Andreev
+Year: 2022
+Venue: IEEE Network
+DOI: https://doi.org/10.1109/mnet.104.2100351
+Paper ID: https://openalex.org/W4285103267
+
+Abstract:
+The maritime industry is experiencing a technological revolution that affects shipbuilding, operation of both seagoing and inland vessels, cargo management, and working practices in harbors. This ongoing transformation is driven by the ambition to make the ecosystem more sustainable and cost-efficient. Digitalization and automation help achieve these goals by transforming shipping and cruising into a much more cost- and energy-efficient and decarbonized industry segment. The key enablers in these processes are always-available connectivity and content delivery services, which can not only aid shipping companies in improving their operational efficiency and reducing carbon emissions, but also contribute to enhanced crew welfare and passenger experience. Due to recent advancements in integrating high-capacity and ultra-reliable terrestrial and non-terrestrial networking technologies, ubiquitous maritime connectivity is becoming a reality. To cope with the increased complexity of managing these integrated systems, this article advocates the use of artificial intelligence and machine-learning-based approaches to meet the service requirements and energy efficiency targets in various maritime communications scenarios.

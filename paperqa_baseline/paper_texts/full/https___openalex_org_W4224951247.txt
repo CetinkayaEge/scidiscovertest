@@ -1,0 +1,9 @@
+Title: Utilization of Internet of Things and Wireless Sensor Networks for Sustainable Smallholder Agriculture
+Authors: Amsale Zelalem Bayih, Javier Morales, Yaregal Assabie, R.A. de By
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22093273
+Paper ID: https://openalex.org/W4224951247
+
+Abstract:
+Agriculture is the economy's backbone for most developing countries. Most of these countries suffer from insufficient agricultural production. The availability of real-time, reliable and farm-specific information may significantly contribute to more sufficient and sustained production. Typically, such information is usually fragmented and often does fit one-on-one with the farm or farm plot. Automated, precise and affordable data collection and dissemination tools are vital to bring such information to these levels. The tools must address details of spatial and temporal variability. The Internet of Things (IoT) and wireless sensor networks (WSNs) are useful technology in this respect. This paper investigates the usability of IoT and WSN for smallholder agriculture applications. An in-depth qualitative and quantitative analysis of relevant work over the past decade was conducted. We explore the type and purpose of agricultural parameters, study and describe available resources, needed skills and technological requirements that allow sustained deployment of IoT and WSN technology. Our findings reveal significant gaps in utilization of the technology in the context of smallholder farm practices caused by social, economic, infrastructural and technological barriers. We also identify a significant future opportunity to design and implement affordable and reliable data acquisition tools and frameworks, with a possible integration of citizen science.

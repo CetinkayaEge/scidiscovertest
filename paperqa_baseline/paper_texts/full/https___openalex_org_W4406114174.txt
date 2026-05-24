@@ -1,0 +1,9 @@
+Title: Biobased vitrimers: towards sustainability and circularity
+Authors: Alberto Mariani, Giulio Malucelli
+Year: 2025
+Venue: Chemical Communications
+DOI: https://doi.org/10.1039/d4cc05967k
+Paper ID: https://openalex.org/W4406114174
+
+Abstract:
+In polymer science and technology, the distinction between thermoplastic and thermosetting materials has always been sharp, clear, and well-documented: indeed, the former can theoretically be reprocessed a potentially infinite number of times by heating, forming, and subsequent cooling. This cannot be done in the case of thermosetting polymers due to the presence of cross-links that covalently bind the macromolecular chains, giving rise to insoluble and infusible polymeric networks. In 2011, the discovery of vitrimers revolutionized the classification mentioned above, demonstrating the possibility of using new materials that consist of covalent adaptable networks (CANs): this way, they can change their topology through thermally-activated bond-exchange reactions. Recently, the increasing attention directed at green systems and circular economies has pushed the scientific community toward the synthesis and characterization of biobased materials, including vitrimers. Indeed, these latter represent a practical and reliable answer to the demanding issue of the eco sustainability of both materials and related technologies. The main advantage of using biobased vitrimers relies on their limited environmental impact as compared with the traditional systems deriving from fossil sources. Furthermore, biobased vitrimers exploit the same chemistries and plants already optimized for their fossil-based counterparts. The present work aims to review the current use of biobased vitrimers for advanced applications, highlighting their importance for designing novel, green, and sustainable materials that perfectly match the up-to-date circular economy concept.

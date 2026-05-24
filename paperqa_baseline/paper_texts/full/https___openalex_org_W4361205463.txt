@@ -1,0 +1,9 @@
+Title: Unveiling the dynamic complexity of rebound effects in sustainability transitions: Towards a system's perspective
+Authors: Daniel Guzzo, Bob Walrave, Daniela C. A. Pigosso
+Year: 2023
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2023.137003
+Paper ID: https://openalex.org/W4361205463
+
+Abstract:
+Rebound effects (RE) are systemic responses to sustainability-oriented actions that have relentlessly offset the anticipated effects, hindering sustainability transitions. Limitations to account for feedback, delays, and non-linearities hinder a deep understanding of RE, leading to divergent magnitude estimates and management recommendations. Therefore, a better understanding of the dynamic complexity surrounding RE occurrence is needed. Dynamic complexity manifests from the feedback relationships between system elements and how they change over time. This work aims to enhance the understanding of RE's causal and dynamic traits, following system dynamics (SD) as the investigation frame. Based on a literature review, 24 RE-specific dynamic complexities were identified and further categorised following the Iceberg model, which deepens into the causes of RE occurrence, providing additional leverage to prevent or mitigate them. The RE-specific dynamic complexities are then explored in case studies investigating RE through SD, which sustains three propositions for moving forward in RE investigations. This work sets the foundation for enabling less deterministic examinations of RE, capable of reaching recommendations that consider the true nature of the phenomenon.

@@ -1,0 +1,9 @@
+Title: Automated design of protein-binding riboswitches for sensing human biomarkers in a cell-free expression system
+Authors: Grace E. Vezeau, Lipika R. Gadila, Howard M. Salis
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38098-0
+Paper ID: pmc_PMC10140043
+
+Abstract:
+Cell-free genetically encoded biosensors have been developed to detect small molecules and nucleic acids, but they have yet to be reliably engineered to detect proteins. Here we develop an automated platform to convert protein-binding RNA aptamers into riboswitch sensors that operate within low-cost cell-free assays. We demonstrate the platform by engineering 35 protein-sensing riboswitches for human monomeric C-reactive protein, human interleukin-32γ, and phage MS2 coat protein. The riboswitch sensors regulate output expression levels by up to 16-fold with input protein concentrations within the human serum range. We identify two distinct mechanisms governing riboswitch-mediated regulation of translation rates and leverage computational analysis to refine the protein-binding aptamer regions, improving design accuracy. Overall, we expand the cell-free sensor toolbox and demonstrate how computational design is used to develop protein-sensing riboswitches with future applications as low-cost medical diagnostics. Cell-free genetically encoded biosensors have been developed to detect small molecules and nucleic acids, but they have yet to be reliably engineered to detect proteins. Here the authors develop an automated platform to convert protein-binding RNA aptamers into riboswitch sensors that operate within low-cost cell-free assays.

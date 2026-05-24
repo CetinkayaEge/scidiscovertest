@@ -1,0 +1,9 @@
+Title: D1/5 dopamine receptors are necessary for learning a novel context
+Authors: Fares Sayegh, Laurie Herraiz, Morgane Colom, Sébastien Lopez, Claire Rampon, Lionel Dahan
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053555.121
+Paper ID: pmc_PMC9126083
+
+Abstract:
+Dopamine participates in encoding memories and could either encode rewarding/aversive value of unconditioned stimuli or act as a novelty signal triggering contextual learning. Here we show that intraperitoneal injection of the dopamine D1/5R antagonist SCH23390 impairs contextual fear conditioning and tone-shock association, while intrahippocampal injection only impairs contextual fear conditioning. By using the context pre-exposure facilitation effect test, we show that SCH23390 is able to block the encoding of the context during the pre-exposure phase. Thus, we provide additional evidence that dopamine is involved in encoding conjunctive representations of new contexts.

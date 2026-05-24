@@ -1,0 +1,9 @@
+Title: AI Ethics for Sustainable Development Goals
+Authors: Aníbal Monasterio Astobiza, Mario Toboso Martín, Manuel Aparicio, Daniel López
+Year: 2021
+Venue: IEEE Technology and Society Magazine
+DOI: https://doi.org/10.1109/mts.2021.3056294
+Paper ID: https://openalex.org/W3171393449
+
+Abstract:
+We live in an era where problems are global in scale (e.g., climate change) and solutions must also be coordinated on a global scale in the international context. The 2030 agenda for sustainable development goals (SDGs) was ratified in 2015 as a continuation of the millennium development goals (MDGs). In this sense, the SDGs, as MDGs were in their day, are a global mechanism that urges governments to coordinate to address global problems. At the core of the SDGs is “to achieve a better and more sustainable future for all.” The SDGs consist in a series of 17 goals with 169 targets which, for the first time, identify the fight against poverty as a necessity for sustainable development. The SDGs consider the ecological, social, and economic dimensions as interdependent for sustainable development. With the progress and advances of artificial intelligence (AI) technologies, many researchers are exploring the possibility of their use to tackle societal problems. This is what many people nowadays call “AI for social good” (AI4SG). The concept behind AI4SG is very simple: AI-powered systems and capabilities applied to improve public welfare [1]. Although there are different forms of classification of AI4SG initiatives (in terms of data, modeling, or decision-making) “projects addressing AI4SG vary significantly” [2] and the AI behind these projects may have been designed for the “good” but, in practice, it could end up going “bad.” More importantly, not everyone would agree on what is a good result. The main motivation for any application of the AI4SG is to solve social problems.

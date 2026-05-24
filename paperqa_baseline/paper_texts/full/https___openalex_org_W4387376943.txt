@@ -1,0 +1,9 @@
+Title: Spillover Effects of Green Finance on Attaining Sustainable Development: Spatial Durbin Model
+Authors: Aleksy Кwilinski, Oleksii Lyulyov, Tetyana Pimonenko
+Year: 2023
+Venue: Computation
+DOI: https://doi.org/10.3390/computation11100199
+Paper ID: https://openalex.org/W4387376943
+
+Abstract:
+Attaining sustainable development goals is a complex process that involves a range of economic, social, and environmental factors. It requires investments in infrastructure, technology, and human capital. In this case, green finance is conducive to channel investments toward sustainable projects and initiatives by providing incentives for environmentally friendly practices and technologies and by encouraging companies and investors to adopt sustainable business models. This paper aims to check the spatial spillover effect of green finance on attaining sustainable development for European Union (EU) countries for 2008–2021. The study applies the spatial Durbin model to explore the research hypothesis. The findings confirm that green finance promotes the achievement of sustainable development goals. However, the impact of green finance on attaining sustainable development is heterogeneous depending on the EU region. In this case, the EU should intensify its green finance policy considering the regional features that significantly affect the achievement of sustainable development goals by reducing greenhouse gas emissions, improving energy efficiency, and promoting renewable energy. In addition, it is necessary to develop alternative financial sources involving green bonds that could be used to fund green projects on renewable energy projects, green building construction, etc.

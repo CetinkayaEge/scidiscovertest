@@ -1,0 +1,9 @@
+Title: Engineering of Semiconductor Nanocrystals for Light Emitting Applications
+Authors: Francesco Todescato, Ilaria Fortunati, Alessandro Minotto, Raffaella Signorini, Jacek J. Jasieniak, Renato Bozio
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080672
+Paper ID: pmc_PMC5510729
+
+Abstract:
+Semiconductor nanocrystals are rapidly spreading into the display and lighting markets. Compared with liquid crystal and organic LED displays, nanocrystalline quantum dots (QDs) provide highly saturated colors, wide color gamut, resolution, rapid response time, optical efficiency, durability and low cost. This remarkable progress has been made possible by the rapid advances in the synthesis of colloidal QDs and by the progress in understanding the intriguing new physics exhibited by these nanoparticles. In this review, we provide support to the idea that suitably engineered core/graded-shell QDs exhibit exceptionally favorable optical properties, photoluminescence and optical gain, while keeping the synthesis facile and producing QDs well suited for light emitting applications. Solid-state laser emitters can greatly profit from QDs as efficient gain materials. Progress towards fabricating low threshold, solution processed DFB lasers that are optically pumped using one- and two-photon absorption is reviewed. In the field of display technologies, the exploitation of the exceptional photoluminescence properties of QDs for LCD backlighting has already advanced to commercial levels. The next big challenge is to develop the electroluminescence properties of QD to a similar state. We present an overview of QLED devices and of the great perspectives for next generation display and lighting technologies.

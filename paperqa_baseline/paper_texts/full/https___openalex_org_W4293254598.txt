@@ -1,0 +1,9 @@
+Title: Translating advances in microbial bioproduction to sustainable biotechnology
+Authors: David N. Carruthers, Taek Soon Lee
+Year: 2022
+Venue: Frontiers in Bioengineering and Biotechnology
+DOI: https://doi.org/10.3389/fbioe.2022.968437
+Paper ID: https://openalex.org/W4293254598
+
+Abstract:
+Advances in synthetic biology have radically changed our ability to rewire microorganisms and significantly improved the scalable production of a vast array of drop-in biopolymers and biofuels. The success of a drop-in bioproduct is contingent on market competition with petrochemical analogues and weighted upon relative economic and environmental metrics. While the quantification of comparative trade-offs is critical for accurate process-level decision making, the translation of industrial ecology to synthetic biology is often ambiguous and assessment accuracy has proven challenging. In this review, we explore strategies for evaluating industrial biotechnology through life cycle and techno-economic assessment, then contextualize how recent developments in synthetic biology have improved process viability by expanding feedstock availability and the productivity of microbes. By juxtaposing biological and industrial constraints, we highlight major obstacles between the disparate disciplines that hinder accurate process evaluation. The convergence of these disciplines is crucial in shifting towards carbon neutrality and a circular bioeconomy.

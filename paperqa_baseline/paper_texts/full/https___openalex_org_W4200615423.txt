@@ -1,0 +1,9 @@
+Title: Mission Architecture Using the SpaceX Starship Vehicle to Enable a Sustained Human Presence on Mars
+Authors: J. L. Heldmann, Margarita Marinova, D. S. S. Lim, David J. Wilson, Peter Carrato, Keith Kennedy, Ann Esbeck, T. Colaprete, R. C. Elphic, Janine Captain, K. Zacny, Leo Stolov, B. Mellerowicz, Joseph Palmowski, A. M. Bramson, N. E. Putzig, G. A. Morgan, H. G. Sizemore, Josh Coyan
+Year: 2021
+Venue: New Space
+DOI: https://doi.org/10.1089/space.2020.0058
+Paper ID: https://openalex.org/W4200615423
+
+Abstract:
+resource utilization (ISRU) on Mars is a critical component to enabling humans on Mars to both establish long-term outposts and become self-reliant. This article focuses on a mission architecture using the SpaceX Starship as cargo and crew vehicles for the journey to Mars. The first Starships flown to Mars will be uncrewed and will provide unprecedented opportunities to deliver ∼100 metric tons of cargo to the martian surface per mission and conduct robotic precursor work to enable a sustained and self-reliant human presence on Mars. We propose that the highest priority activities for early uncrewed Starships include pre-placement of supplies, developing infrastructure, testing of key technologies, and conducting resource prospecting to map and characterize water ice for future ISRU purposes.

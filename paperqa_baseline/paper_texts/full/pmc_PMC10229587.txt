@@ -1,0 +1,9 @@
+Title: Diagnosis of sudden cardiac arrest using principal component analysis in automated external defibrillators
+Authors: Van-Su Pham, Anh Nguyen, Hoai Bac Dang, Hai-Chau Le, Minh Tuan Nguyen
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-36011-9
+Paper ID: pmc_PMC10229587
+
+Abstract:
+Sudden cardiac arrest (SCA) consisting of ventricular fibrillation and ventricular tachycardia considered as shockable rhythms is a life-threatening heart disease, which is treated efficiently by the automated external defibrillator (AED). This work proposes a novel design of the SAA, which includes a k-nearest neighbors model and a subset of 8 features extracted from the ECG segments, for the SCA diagnosis on the electrocardiogram (ECG) signal. These features are addressed as the most productive subset among 31 input features based on the evaluation of the feature correlation. The recursive feature elimination algorithm combined with the Boosting model and wise-patient fivefold cross-validation method is adopted for the calculation of the average feature importance, which shows the degree of feature correlation, to construct various input feature subsets. Moreover, component feature combinations known as the representatives of the input feature subsets with an enormous level of correlation and independence are transformed from the input subsets by the principal component analysis method. The wise-patient fivefold cross-validation procedure is used for the evaluation of these component feature combinations on the validation set. The proposed SAA is certainly efficient for SCA detection with a small number of the extracted feature and relatively high diagnosis performance such as accuracy of 99.52%, sensitivity of 97.69%, and specificity of 99.91%.

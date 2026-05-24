@@ -1,0 +1,9 @@
+Title: Sustainability of the Metaverse: A Transition to Industry 5.0
+Authors: Pietro De Giovanni
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15076079
+Paper ID: https://openalex.org/W4362468036
+
+Abstract:
+This study analyzes the sustainability of the metaverse technology by adopting a responsible digitalization perspective to drive the transition to Industry 5.0. This is motivated by the current experiences of digital transformation paths, which appear careless regarding the side effects induced when adopting digital technologies—for example, the energy consumption associated with blockchain, the jobs lost due to 3D printing, and the continuous payments required by artificial intelligence systems. While very few sustainable solutions are currently available to properly address these issues, similar effects might materialize when adopting metaverse technology. Therefore, this study provides tools to undertake a responsible digital transformation path through the metaverse to properly manage the transition to Industry 5.0. Specifically, it offers a set of frameworks to analyze the metaverse either from the perspective of the triple bottom line or by adopting an environmental, social, and governance (ESG) perspective and linking it to the most impacted business strategies or by connecting the technology to the sustainable development goals (SDGs). These tools enable readers to understand how society at large can responsibly implement, adopt, and manage a metaverse. By utilizing these frameworks, businesses can identify the most impacted strategies and take action to address any potential negative impacts.

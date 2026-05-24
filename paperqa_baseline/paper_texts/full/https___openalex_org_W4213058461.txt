@@ -1,0 +1,9 @@
+Title: Tumor-Derived Extracellular Vesicles Activate Normal Human Fibroblasts to a Cancer-Associated Fibroblast-Like Phenotype, Sustaining a Pro-Tumorigenic Microenvironment
+Authors: Ilaria Giusti, Marianna Di Francesco, Giuseppina Poppa, Letizia Esposito, Sandra D’Ascenzo, Vincenza Dolo
+Year: 2022
+Venue: Frontiers in Oncology
+DOI: https://doi.org/10.3389/fonc.2022.839880
+Paper ID: https://openalex.org/W4213058461
+
+Abstract:
+Fibroblasts in the tumor microenvironment have been proven to actively participate in tumor progression; they can be "educated" by cancer cells acquiring an activated state and, as such, are identified as cancer-associated fibroblasts (CAFs); CAFs, in turn, remodel tumor stroma to be more advantageous for cancer progression by modulating several processes, including angiogenesis, immunosuppression, and drug access, presumably driving the chemoresistance. That is why they are believed to hamper the response to clinical therapeutic options. The communication between cancer cells and fibroblasts can be mediated by extracellular vesicles (EVs), composed of both exosomes (EXOs) and microvesicles (MVs). To verify the role of different subpopulations of EVs in this cross-talk, a nearly pure subpopulation of EXO-like EVs and the second one of mixed EXO- and MV-like EVs were isolated from ovarian cancer cells and administered to fibroblasts. It turned out that EVs can activate fibroblasts to a CAF-like state, supporting their proliferation, motility, invasiveness, and enzyme expression; EXO-like EV subpopulation seems to be more efficient in some of those processes, suggesting different roles for different EV subpopulations. Moreover, the secretome of these "activated" fibroblasts, composed of both soluble and EV-associated molecules, was, in turn, able to modulate the response of bystander cells (fibroblasts, tumor, and endothelial cells), supporting the idea that EVs sustain the mutual cross-talk between tumor cells and CAFs.

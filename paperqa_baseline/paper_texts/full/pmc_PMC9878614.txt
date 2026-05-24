@@ -1,0 +1,9 @@
+Title: Live‐cell super‐resolution imaging of actin using LifeAct ‐14 with a PAINT ‐based approach
+Authors: Haresh Bhaskar, Dirk‐Jan Kleinjan, Curran Oi, Zoe Gidden, Susan J. Rosser, Mathew H. Horrocks, Lynne Regan
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4558
+Paper ID: pmc_PMC9878614
+
+Abstract:
+Abstract We present direct‐LIVE‐PAINT, an easy‐to‐implement approach for the nanoscopic imaging of protein structures in live cells using labeled binding peptides. We demonstrate the feasibility of direct‐LIVE‐PAINT with an actin‐binding peptide fused to EGFP, the location of which can be accurately determined as it transiently binds to actin filaments. We show that direct‐LIVE‐PAINT can be used to image actin structures below the diffraction‐limit of light and have used it to observe the dynamic nature of actin in live cells. We envisage a similar approach could be applied to imaging other proteins within live mammalian cells.

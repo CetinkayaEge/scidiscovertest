@@ -1,0 +1,9 @@
+Title: Business Model of Sustainable Robo-Advisors: Empirical Insights for Practical Implementation
+Authors: Cam-Duc Au, Lars Klingenberger, Martin Svoboda, Eric Frère
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132313009
+Paper ID: https://openalex.org/W3215908867
+
+Abstract:
+The given research paper examines the characteristics of German private investors regarding the probability of using robo-advisory-services. The used data set was gathered for this purpose (N = 305) to address the research question by using a logistic regression approach. The presented logit regression model results indicate that the awareness of sustainable aspects make a significant difference in the probability of using a sustainable robo-service. Additionally, our findings show that being male and cost-aware are positively associated with the use of a sustainable robo-advisor. Furthermore, the probability of use is 1.53 times higher among young and experienced investors. The findings in this paper provide relevant research findings for banks, asset managers, FinTechs, policy makers and financial practitioners to increase the adoption rate of robo-advice by introducing a sustainable offering.

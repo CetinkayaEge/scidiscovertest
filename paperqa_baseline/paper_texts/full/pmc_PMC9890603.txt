@@ -1,0 +1,9 @@
+Title: Tunable resonance of a graphene-perovskite terahertz metasurface
+Authors: Guibin Li, Guocui Wang, Yan Zhang, Jingling Shen, Bo Zhang
+Year: 2023
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00577h
+Paper ID: pmc_PMC9890603
+
+Abstract:
+The combination of graphene and perovskite has received extensive research attention because its photoelectric properties are excellent for the dynamic manipulation of light–matter interactions. Combining graphene and perovskite with a metasurface is expected to effectively improve the metasurface device's performance. Here, we report a terahertz graphene-perovskite metasurface with a tunable resonance. Under 780 nm laser excitation, the device's THz transmission is significantly reduced, and the Fano resonance mode can be manipulated in multiple dimensions. We verify the experimental results using a finite-difference time-domain (FDTD) simulation. Graphene and perovskite interact strongly with the metasurface, resulting in a short-circuit effect, which significantly weakens the resonance intensity of the Fano mode. The photoinduced conductivity enhancement intensifies the short-circuit effect, reducing the THz transmission and resonance intensity of the Fano mode and causing the resonance frequency to redshift. Finally, we provide a reference value for applications of hybrid metasurface-based optical devices in a real environment by investigating the effect of moisture on device performance. The combination of graphene and perovskite has received extensive research attention because its photoelectric properties are excellent for the dynamic manipulation of light–matter interactions.

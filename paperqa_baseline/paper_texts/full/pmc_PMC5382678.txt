@@ -1,0 +1,9 @@
+Title: Tree shrew database (TreeshrewDB): a genomic knowledge base for the Chinese tree shrew
+Authors: Yu Fan, Dandan Yu, Yong-Gang Yao
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep07145
+Paper ID: pmc_PMC5382678
+
+Abstract:
+The tree shrew ( Tupaia belangeri ) is a small mammal with a close relationship to primates and it has been proposed as an alternative experimental animal to primates in biomedical research. The recent release of a high-quality Chinese tree shrew genome enables more researchers to use this species as the model animal in their studies. With the aim to making the access to an extensively annotated genome database straightforward and easy, we have created the Tree shrew Database (TreeshrewDB). This is a web-based platform that integrates the currently available data from the tree shrew genome, including an updated gene set, with a systematic functional annotation and a mRNA expression pattern. In addition, to assist with automatic gene sequence analysis, we have integrated the common programs Blast, Muscle, GBrowse, GeneWise and codeml, into TreeshrewDB. We have also developed a pipeline for the analysis of positive selection. The user-friendly interface of TreeshrewDB, which is available at http://www.treeshrewdb.org , will undoubtedly help in many areas of biological research into the tree shrew.

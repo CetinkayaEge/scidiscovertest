@@ -1,0 +1,9 @@
+Title: A comprehensive review of advancements in green IoT for smart grids: Paving the path to sustainability
+Authors: P. Pandiyan, S. Saravanan, Raju Kannadasan, S. Krishnaveni, Mohammed H. Alsharif, Mun-Kyeom Kim
+Year: 2024
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2024.05.021
+Paper ID: https://openalex.org/W4398208864
+
+Abstract:
+Electricity consumption is increasing rapidly, and the limited availability of natural resources necessitates efficient energy usage. Predicting and managing electricity costs is challenging, leading to delays in pricing. Smart appliances and Internet of Things (IoT) networks offer a solution by enabling monitoring and control from the broadcaster side. Green IoT, also known as the Green Internet of Things, emerges as a sustainable approach for efficient communication, data management, and device utilization. It leverages technologies such as Wireless Sensor Networks (WSN), Cloud Computing (CC), Machine-to-Machine (M2M) Communication, Data Centres (DC), and advanced metering infrastructure to reduce energy consumption and promote environmentally friendly practices in design, manufacturing, and usage. Green IoT optimizes data processing through enhanced signal bandwidth, enabling faster and more efficient communication. This comprehensive review explores advancements in Green IoT for smart grids, paving the path to sustainability. It covers energy-efficient communication protocols, intelligent energy management, renewable energy integration, demand response, predictive analytics, and real-time monitoring. The importance of edge computing and fog computing in allowing distributed intelligence is emphasized. The review addresses challenges, and opportunities and presents successful case studies. Finally, the review concludes by outlining future research avenues and providing policy recommendations to foster the advancement of Green IoT.

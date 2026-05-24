@@ -1,0 +1,9 @@
+Title: UAV Communications for Sustainable Federated Learning
+Authors: Quoc-Viet Pham, Ming Zeng, Rukhsana Ruby, Thien Huynh-The, Won-Joo Hwang
+Year: 2021
+Venue: IEEE Transactions on Vehicular Technology
+DOI: https://doi.org/10.1109/tvt.2021.3065084
+Paper ID: https://openalex.org/W3133982043
+
+Abstract:
+Federated learning (FL), invented by Google in 2016, has become a hot research trend. However, enabling FL in wireless networks has to overcome the limited battery challenge of mobile users. In this regard, we propose to apply unmanned aerial vehicle (UAV)-empowered wireless power transfer to enable sustainable FL-based wireless networks. The objective is to maximize the UAV transmit power efficiency, via a joint optimization of transmission time and bandwidth allocation, power control, and the UAV placement. Directly solving the formulated problem is challenging, due to the coupling of variables. Hence, we leverage the decomposition technique and a successive convex approximation approach to develop an efficient algorithm, namely UAV for sustainable FL (UAV-SFL). Finally, simulations illustrate the potential of our proposed UAV-SFL approach in providing a sustainable solution for FL-based wireless networks, and in reducing the UAV transmit power by 32.95%, 63.18%, and 78.81% compared with the benchmarks.

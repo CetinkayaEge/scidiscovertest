@@ -1,0 +1,9 @@
+Title: Integrated studies for land suitability analysis towards sustainable agricultural development in semi-arid regions of AP, India
+Authors: B.N. Anusha, K. Raghu Babu, B. Pradeep Kumar, P. Padma Sree, Golla Veeraswamy, Ch. Swarnapriya, M. Rajasekhar
+Year: 2022
+Venue: Geosystems and Geoenvironment
+DOI: https://doi.org/10.1016/j.geogeo.2022.100131
+Paper ID: https://openalex.org/W4294884071
+
+Abstract:
+Land suitability analysis (LSA) is the progression of influence if a certain piece of land is suitable for a specific use. Land suitability study for crops is an essential contemporary step in identifying appropriate and sustainable land use strategies to enhance the land's potential. LSA for agriculture is one of the most capable models for exposing the apprehension for arable land and forecasting the allocation for long-term growth in semi-arid regions. As a result, the goal of this research is to provide a conceptual process for LSA that will aid in increasing green cover to address environmental challenges that prevent groundwater recharge. Several thematic layers like soils, geology, slope, geomorphology, Drainage Density (DD), Landuse landcover (LULC), Soil pH, soil nitrogen, soil phosphorous, and soil potassium are derived by using collateral data, and satellite images involved in LSA analysis. The Multicriteria Decision Making (MCDM), with Analytical Hierarchy Process (AHP) based pairwise comparison matrix, was applied to estimate LSA for agriculture. The outcomes revealed, around 80.53 sq.km (26.55%) is highly suitable, 87.38 sq.km (28.81%) is moderately suitable, 82.34 sq.km (27.15%) is marginally suitable, and 53.07 sq.km (17.50%) is not suitable for agriculture in the study region. The decision-making AHP tool combined with GIS presents a unique technique, and the findings from this work might be valuable in identifying viable agricultural lands in diverse regions of the world.

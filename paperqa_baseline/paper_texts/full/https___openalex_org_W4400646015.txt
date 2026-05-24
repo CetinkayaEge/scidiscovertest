@@ -1,0 +1,9 @@
+Title: Sustainable agriculture in the digital era: Past, present, and future trends by bibliometric analysis
+Authors: Jiahui Xu, Yanzi Li, Meiping Zhang, Shuhan Zhang
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e34612
+Paper ID: https://openalex.org/W4400646015
+
+Abstract:
+The digital era is reshaping agricultural practices, opening new avenues for sustainable growth, and proving indispensable in global challenges like food security and environmental conservation. However, a comprehensive understanding of this evolving landscape remains paramount. This research evaluates 344 papers from the Web of Science database to delve into sustainable agriculture's historical and current patterns in the digital era through bibliometric analysis and project future domains. Specifically, citation analysis identified influential papers, journals, institutions, and countries, while co-authorship analysis verified the interactions between authors, affiliations, and countries. Co-citation analysis found four hotspot clusters: prosperity and challenges in agricultural sustainability, digital information and agricultural development, innovations for sustainable agriculture, and geospatial analysis in environmental studies. The co-occurrence of keywords analysis revealed four main clusters for future studies: smart agriculture and biodiversity conservation, digitalization and sustainable agriculture, technologies and agricultural challenge management, and digital intelligence and farmer adoption. The study pioneers the use of bibliometric analysis to explore sustainable agriculture in the digital era. It presents invaluable insights into the evolving landscape of this field, summarizing its hotspots and suggesting future trajectories.

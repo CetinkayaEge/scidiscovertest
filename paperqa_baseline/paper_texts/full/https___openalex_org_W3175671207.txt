@@ -1,0 +1,9 @@
+Title: A circular economy model for fossil fuel sustainable decisions based on MADM techniques
+Authors: Hamidreza Hasheminasab, Sarfaraz Hashemkhani Zolfani, Edmundas Kazimieras Zavadskas, Mohammadreza Kharrazi, Marinko Škare
+Year: 2021
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2021.1926305
+Paper ID: https://openalex.org/W3175671207
+
+Abstract:
+Fossil fuels as the primary energy source create career opportunities, provide industries with vital raw material and energy resources, have harmful emissions to the environment and are also related to finite natural resources. They rely on them as the main source of energy supply is unsustainable. Sustainability assessment tools may be useful in developing a more sustainable scenario. However, the resiliency of nature is not taken into account in this linear assessment. The detrimental effect of these fuels on the environment during their life cycle would suggest transitioning from cradle-to-grave to the cradle-to-cradle lifecycle viewpoint. This study implements the Circular Economic (CE) in fossil fuel development to minimize the unsustainable effects and ensure the environment’s resiliency. In this context, three different fossil fuels are assessed based on the CE model’s proposed lifecycle phases to find out the most sustainable fossil fuel option. A case study is carried out in an industrial location with high-level decision-makers. CE criteria are evaluated based on the E-SWARA method to ensure the assessment’s reliability at this critical step. Next, a novel MCDM method, MARCOS, is applied to this study. Based on the results, gas is the most sustainable energy generation plant in the intended region.

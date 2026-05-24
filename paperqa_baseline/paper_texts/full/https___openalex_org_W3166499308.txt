@@ -1,0 +1,9 @@
+Title: Duration of post-COVID-19 symptoms are associated with sustained SARS-CoV-2 specific immune responses
+Authors: Jacob K. Files, Sanghita Sarkar, Timothy Fram, Sushma Boppana, Sarah Sterrett, Kai Qin, Anju Bansal, Dustin M. Long, Steffanie Sabbaj, James J. Kobie, Paul A. Goepfert, Nathan Erdmann
+Year: 2021
+Venue: JCI Insight
+DOI: https://doi.org/10.1172/jci.insight.151544
+Paper ID: https://openalex.org/W3166499308
+
+Abstract:
+A subset of COVID-19 patients exhibit post-acute sequelae of COVID-19 (PASC), but little is known about the immune signatures associated with these syndromes. We investigated longitudinal peripheral blood samples in 50 individuals with previously confirmed SARS-CoV-2 infection, including 20 who experienced prolonged duration of COVID-19 symptoms (lasting more than 30 days; median = 74 days) compared with 30 who had symptom resolution within 20 days. Individuals with prolonged symptom duration maintained antigen-specific T cell response magnitudes to SARS-CoV-2 spike protein in CD4+ and circulating T follicular helper cell populations during late convalescence, while those without persistent symptoms demonstrated an expected decline. The prolonged group also displayed increased IgG avidity to SARS-CoV-2 spike protein. Significant correlations between symptom duration and both SARS-CoV-2-specific T cells and antibodies were observed. Activation and exhaustion markers were evaluated in multiple immune cell types, revealing few phenotypic differences between prolonged and recovered groups, suggesting that prolonged symptom duration is not due to persistent systemic inflammation. These findings demonstrate that SARS-CoV-2-specific immune responses are maintained in patients suffering from prolonged post-COVID-19 symptom duration in contrast to those with resolved symptoms and may suggest the persistence of viral antigens as an underlying etiology.

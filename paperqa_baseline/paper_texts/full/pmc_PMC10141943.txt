@@ -1,0 +1,9 @@
+Title: IFITM2 Presents Antiviral Response through Enhancing Type I IFN Signaling Pathway
+Authors: Lei Chen, Xiangrong Li, Yingying Deng, Yingjie Bi, Zhenfang Yan, Yanmei Yang, Xiangbo Zhang, Huixia Li, Jingying Xie, Ruofei Feng
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15040866
+Paper ID: pmc_PMC10141943
+
+Abstract:
+Interferon (IFN) helps cells fight viral infections by further inducing the expression of many downstream IFN-stimulated genes (ISGs). Human interferon-inducible transmembrane proteins (IFITM) are one of these ISGs. The antiviral function of human IFITM1, IFITM2, and IFITM3 are well known. In this study, we report that IFITM can significantly inhibit EMCV infectivity in HEK293 cells. Overexpression of IFITM proteins could promote IFN-β production. Meanwhile, IFITMs facilitated type I IFN signaling pathway adaptor MDA5 expression. We detected the binding of IFITM2 to MDA5 in a co-immunoprecipitation assay. It was also found that the ability of IFITM2 to activate IFN-β was significantly inhibited after interfering with MDA5 expression, suggesting that MDA5 may play an important role in the activation of the IFN-β signaling pathway by IFITM2. Moreover, the N-terminal domain plays an active role in the antiviral activity and the activation of IFN-β by IFITM2. These findings suggest that IFITM2 plays a vital role in antiviral signaling transduction. In addition, a positive feed-forward loop between IFITM2 and type I IFN establishes a key role for IFITM2 in enforcing innate immune responses.

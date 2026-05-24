@@ -1,0 +1,9 @@
+Title: Artificial Intelligence-Assisted Transcriptomic Analysis to Advance Cancer Immunotherapy
+Authors: Yu Gui, Xiujing He, Jing Yu, Jing Jing
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041279
+Paper ID: pmc_PMC9968102
+
+Abstract:
+The emergence of immunotherapy has dramatically changed the cancer treatment paradigm and generated tremendous promise in precision medicine. However, cancer immunotherapy is greatly limited by its low response rates and immune-related adverse events. Transcriptomics technology is a promising tool for deciphering the molecular underpinnings of immunotherapy response and therapeutic toxicity. In particular, applying single-cell RNA-seq (scRNA-seq) has deepened our understanding of tumor heterogeneity and the microenvironment, providing powerful help for developing new immunotherapy strategies. Artificial intelligence (AI) technology in transcriptome analysis meets the need for efficient handling and robust results. Specifically, it further extends the application scope of transcriptomic technologies in cancer research. AI-assisted transcriptomic analysis has performed well in exploring the underlying mechanisms of drug resistance and immunotherapy toxicity and predicting therapeutic response, with profound significance in cancer treatment. In this review, we summarized emerging AI-assisted transcriptomic technologies. We then highlighted new insights into cancer immunotherapy based on AI-assisted transcriptomic analysis, focusing on tumor heterogeneity, the tumor microenvironment, immune-related adverse event pathogenesis, drug resistance, and new target discovery. This review summarizes solid evidence for immunotherapy research, which might help the cancer research community overcome the challenges faced by immunotherapy.

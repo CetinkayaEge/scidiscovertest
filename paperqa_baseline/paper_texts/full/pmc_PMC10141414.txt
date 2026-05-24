@@ -1,0 +1,9 @@
+Title: Fluorine-Free Super-Liquid-Repellent Surfaces: Pushing the Limits of PDMS
+Authors: Katharina I. Hegner, Chirag Hinduja, Hans-Jürgen Butt, Doris Vollmer
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c03779
+Paper ID: pmc_PMC10141414
+
+Abstract:
+Methods for fabricating super-liquid-repellent surfaces have typically relied on perfluoroalkyl substances. However, growing concerns about the environmental and health effects of perfluorinated compounds have caused increased interest in fluorine-free alternatives. Polydimethylsiloxane (PDMS) is most promising. In contrast to fluorinated surfaces, PDMS-coated surfaces showed only superhydrophobicity. This raises the question whether the poor liquid repellency is caused by PDMS interacting with the probe liquid or whether it results from inappropriate surface morphology. Here, we demonstrate that a well-designed two-tier structure consisting of silicon dioxide nanoparticles combined with surface-tethered PDMS chains allows super-liquid-repellency toward a range of low surface tension liquids. Drops of water–ethanol solutions with surface tensions as low as 31.0 mN m –1 easily roll and bounce off optimized surface structures. Friction force measurements demonstrate excellent surface homogeneity and easy mobility of drops. Our work shows that fluorine-free super-liquid-repellent surfaces can be achieved using scalable fabrication methods and environmentally friendly surface functionalization.

@@ -1,0 +1,9 @@
+Title: AIF-1, a potential biomarker of aggressive tumor behavior in patients with non-small cell lung cancer
+Authors: Lingling Wang, Xing Zhao, Huachuan Zheng, Cuimin Zhu, Yanhong Liu
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279211
+Paper ID: pmc_PMC9754194
+
+Abstract:
+Allogeneic inflammatory factor-1 (AIF-1) overexpression has been reported to be associated with tumorigenesis and tumor metastasis. This study aimed to investigate the role of AIF-1 in the development and progression of non-small cell lung cancer (NSCLC). AIF-1, IL-6, and VEGF expressions in human NSCLC tissue were examined by immunofluorescence staining. Bioinformatics analyses were performed to identify AIF-1-related molecules and pathways in NSCLC. Human lung cancer A549 cell proliferation was assessed by CCK-8 assay, and cell migration was evaluated with wound-healing assay. IL-6 and VEGF secretions in A549 cell culture supernatants were quantified using the Elecsys IL-6 immunoassay kit and Vascular Endothelial Growth Factor Assay Kit. RT-PCR and western blot were performed to quantify the expressions of AIF-1, IL-6, and VEGF mRNAs and proteins involved in p38-MAPK and JAK/STAT3 signaling such as p-p38 and p-STAT3. The effects of AIF-1 on A549 cell proliferation and the expressions of IL-6 and VEGF were assessed using SB203580 and ruxolitinib. The results showed that AIF-1 expression was higher in human NSCLC tissue than that in paracancer tissue. High AIF-1 expression was associated with metastasis, higher TNM stage, and poorer survival. Bioinformatics connected AIF-1 to JAK/STAT signaling in NSCLC. AIF-1 increased A549 cell proliferation, migration, IL-6 secretion and, VEGF secretion, and these effects were attenuated by inhibition of p38-MAPK or JAK/STAT3 signaling. In conclusion, AIF-1 may promote aggressive NSCLC behavior via activation of p38-MAPK and JAK/STAT signaling.

@@ -1,0 +1,9 @@
+Title: Testing the environmental kuznets curve hypothesis: The dynamic impact of nuclear energy on environmental sustainability in the context of economic globalization
+Authors: Yuanyuan Hao, Pengyu Chen, Xiangdong Li
+Year: 2022
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2022.100970
+Paper ID: https://openalex.org/W4297200328
+
+Abstract:
+This study examines the potential impact of nuclear energy consumption on environmental sustainability in the context of economic globalization using FMOLS, DOLS and panel Granger causality tests with a panel of BRICS countries data for the period 1985–2020 based on the inverted U-curve relationship of the environmental Kuznets curve (EKC) hypothesis. The findings support the panel's EKC hypothesis of an inverted U- curve relationship and suggest that economic growth exacerbates environmental pollution and is detrimental to the improvement of environmental quality in BRICS countries, while economic globalization, nuclear energy and renewable energy consumption tend to improve the environmental quality and play a leading role in reducing environmental pollution. Furthermore, panel Granger causality tests have shown the bi-directional causality of CO2 emissions and renewable energy consumption with economic growth. However, unidirectional causality exists from CO2 emissions to renewable energy consumption, nuclear energy consumption to economic growth, and renewable energy consumption to economic globalization. This study suggests that the best option for improving the environmental quality of BRICS countries to combat global warming in the light of long-term sustainable economic globalization is to achieve a mix of nuclear and renewable energy sources in order to ensure and meet the needs of economic and environmental sustainability, thereby effectively achieving the goals of “decarbonization” and “emission reduction”.

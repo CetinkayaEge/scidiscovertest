@@ -1,0 +1,9 @@
+Title: On the plasticity of amyloid formation: The impact of destabilizing small to large substitutions on islet amyloid polypeptide amyloid formation
+Authors: Lakshan Manathunga, Rehana Akter, Alexander Zhyvoloup, Carlos Simmerling, Daniel P. Raleigh
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4539
+Paper ID: pmc_PMC9847078
+
+Abstract:
+Abstract Amyloids are partially ordered, proteinaceous, β‐sheet rich deposits that have been implicated in a wide range of diseases. An even larger set of proteins that do not normally form amyloid in vivo can be induced to do so in vitro. A growing number of structures of amyloid fibrils have been reported and a common feature is the presence of a tightly packed core region in which adjacent monomers pack together in extremely tight interfaces, often referred to as steric zippers. A second common feature of many amyloid fibrils is their polymorphous nature. We examine the consequences of disrupting the tight packing in amyloid fibrils on the kinetics of their formation using the 37 residue polypeptide hormone islet amyloid polypeptide (IAPP, amylin) as a model system. IAPP forms islet amyloid in vivo and is aggressively amyloidogenic in vitro. Six Cryo‐EM structures of IAPP amyloid fibrils are available and in all Gly24 is in the core of the structured region and makes tight contacts with other residues. Calculations using the ff14SBonlysc forcefield in Amber20 show that substitutions with larger amino acids significantly disrupt close packing and are predicted to destabilize the various fibril structures. However, Gly to 2‐amino butyric acid (2‐carbon side chain) and Gly to Leu substitutions actually enhance the rate of amyloid formation. A Pro substitution slows, but does not prevent amyloid formation.

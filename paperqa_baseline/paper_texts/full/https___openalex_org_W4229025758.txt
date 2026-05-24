@@ -1,0 +1,9 @@
+Title: Perspectives on Improving the Safety and Sustainability of High Voltage Lithium‐Ion Batteries Through the Electrolyte and Separator Region
+Authors: Heather Cavers, Palanivel Molaiyan, Mozaffar Abdollahifar, Ulla Lassi, Arno Kwade
+Year: 2022
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202200147
+Paper ID: https://openalex.org/W4229025758
+
+Abstract:
+Abstract Lithium‐ion batteries (LIBs) are promising candidates within the context of the development of novel battery concepts with high energy densities. Batteries with high operating potentials or high voltage (HV) LIBs (&gt;4.2 V vs Li + /Li) can provide high energy densities and are therefore attractive in high‐performance LIBs. However, a variety of challenges (including solid electrolyte interface (SEI), lithium plating, etc.) and related safety issues (such as gas formation or thermal runaway effects) must be solved for the practical, widespread application of HV‐LIBs. Most of these challenges arise in the region between the electrodes: the electrolyte region. This review provides an overview of recent development and progress on the electrolyte region, including liquid electrolytes, ionic liquids, gel polymer electrolytes, separators, and solid electrolytes for HV‐LIBs applications. A focus on improving the safety of these systems, with some perspectives on their relative cost and environmental impact, is given. Overall, the new information is encouraging for the development of HV‐LIBs, and this review serves as a guide for potential strategies to improve their safety, allowing the development of HV‐LIBs, including solid‐state batteries, to be accelerated to practical relevance.

@@ -1,0 +1,9 @@
+Title: A Critical Review of Growth Media Recycling to Enhance the Economics and Sustainability of Algae Cultivation
+Authors: Neha Arora, Enlin Lo, Noah Legall, George P. Philippidis
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16145378
+Paper ID: https://openalex.org/W4384339005
+
+Abstract:
+Microalgae hold promise as a sustainable source of biofuels and bioproducts but their commercial development is impeded by high cultivation costs, primarily for growth nutrients, and concerns about the water-intensive nature of algae cultivation. As a result, minimizing water and nutrient input is imperative to reducing algal operating costs, while enhancing the sustainability of future algal biorefineries. However, spent media recycling often results in the accumulation of growth inhibitors, such as free fatty acids, polysaccharides, polyunsaturated aldehydes, and humic acid, which negatively affect algal growth and productivity. In this review, we critically assess media recycling research findings to assess the advantages and disadvantages of spent media reuse for a wide range of algae strains. Particular emphasis is placed on strategies to overcome growth inhibition through spent media treatment processes, such as ultraviolet oxidation, activated carbon, ultrasonication, microfiltration, crop rotation, and nutrient replenishment.

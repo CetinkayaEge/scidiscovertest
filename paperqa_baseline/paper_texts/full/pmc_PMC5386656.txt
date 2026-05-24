@@ -1,0 +1,9 @@
+Title: Identification of serum proteins and multivariate models for diagnosis and therapeutic monitoring of lung cancer
+Authors: Rong Ma, Heng Xu, Jianzhong Wu, Ashok Sharma, Shan Bai, Boying Dun, Changwen Jing, Haixia Cao, Zhuo Wang, Jin-Xiong She, Jifeng Feng
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14782
+Paper ID: pmc_PMC5386656
+
+Abstract:
+Lung cancer is one of the most prevalent cancers and has very poor treatment outcome. Biomarkers useful for screening and assessing early therapeutic response may significantly improve the therapeutic outcome but are still lacking. In this study, serum samples from 218 non-small cell lung cancer (NSCLC) patients, 34 small cell lung cancer (SCLC) patients and 171 matched healthy controls from China were analyzed for 11 proteins using the Luminex multiplex assay. Eight of the 11 proteins (OPN, SAA, CRP, CYFRA21.1, CEA, NSE, AGP and HGF) are significantly elevated in NSCLC and SCLC ( p = 10 −5 −10 −59 ). At the individual protein level, OPN has the best diagnostic value for NSCLC (AUC = 0.92), two acute phase proteins (SAA and CRP) have AUC near 0.83, while CEA and CYFRA21.1 also possess good AUC (0.81 and 0.77, respectively). More importantly, several three-protein combinations that contain OPN and CEA plus one of four proteins (CRP, SAA, CYFRA21.1 or NSE) have excellent diagnostic potential for NSCLC (AUC = 0.96). Four proteins (CYFRA21.1, CRP, SAA and NSE) are severely reduced and three proteins (OPN, MIF and NSE) are moderately decreased after platinum-based chemotherapy. Therapeutic response index (TRI) computed with 3–5 proteins suggests that approximately 25% of the NSCLC patients respond well to the therapy and TRI is significantly correlated with pre-treatment protein levels. Our data suggest that therapeutic response in NSCLC patients can be effectively measured but personalized biomarkers may be needed to monitor different subsets of patients.

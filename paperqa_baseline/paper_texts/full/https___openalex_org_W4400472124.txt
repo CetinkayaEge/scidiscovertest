@@ -1,0 +1,9 @@
+Title: Fiscal policy and public debt: Government investment is most effective to promote sustainability
+Authors: Giovanna Ciaffi, Matteo Deleidi, Lorenzo Di Domenico
+Year: 2024
+Venue: Journal of Policy Modeling
+DOI: https://doi.org/10.1016/j.jpolmod.2024.07.002
+Paper ID: https://openalex.org/W4400472124
+
+Abstract:
+This paper aims to quantify the effects of government expenditure and its components, i.e. government consumption and investment, on output and public debt sustainability. The Local Projections approach is applied to a dataset of 14 OECD countries considered for the 1981–2017 period. Fiscal policy shocks have been identified using the Blanchard and Perotti strategy and the narrative approach based on fiscal consolidation episodes. Multipliers of total government spending are above the unit and government investment multipliers are higher than consumption ones. Although all fiscal policy shocks reduce the public debt-to-GDP ratio, government investment is the most effective tool for promoting public debt sustainability.

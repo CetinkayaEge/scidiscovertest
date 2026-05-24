@@ -1,0 +1,9 @@
+Title: Semantic Network Analysis to Explore the Concept of Sustainability in the Apparel and Textile Industry
+Authors: Chorong Youn, Hye Jung Jung
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13073813
+Paper ID: https://openalex.org/W3150884387
+
+Abstract:
+Consumers are becoming increasingly aware and sensitive to the negative environmental impact caused by the fashion industry and by consumers’ high consumption of fashion. This study analyzes people’s unfiltered comments and behaviors on social media sites related to the sustainability of fashion products. Recently, the number of social media data, called big data, has exploded, transcending the level that can be analyzed with existing tools. This study aims to identify consumers’ perceptions of sustainable fashion using the search words “sustainable fashion” to examine public opinion trends found in SNS big data. Text mining was employed to extract meaningful words from the SNS texts using semantic network analysis to analyze the connectivity and propagation trends. The text data were collected from Facebook using the Google search engine to detect tendencies in the occurrence of keywords related to sustainable fashion in SNS over the past five years (2016~2020). The results revealed that the keywords “eco-friendly”, “ethical”, and “recycle” had the highest frequency and centrality. As a result of grouping the keywords based on their correlations, sustainable fashion texts from the SNS data could be classified into four groups: “supply chain of sustainable fashion”, “circular fashion”, “fashion business concepts for sustainability”, and “academic importance of sustainable fashion”. This study strengthens the extent of research by using SNS big data and provides guidelines for product development and communication strategies for a sustainable fashion industry based on customers’ meaningful opinions.

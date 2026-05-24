@@ -1,0 +1,9 @@
+Title: Enabling the twin transitions: Digital technologies support environmental sustainability through lean principles
+Authors: Xiaoxia Chen, Martin Kurdve, Björn Johansson, Mélanie Despeisse
+Year: 2023
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2023.03.020
+Paper ID: https://openalex.org/W4360836877
+
+Abstract:
+Manufacturing companies seek innovative approaches to achieve successful Green and Digital transitions, where adopting lean production is one alternative. However, further investigation is required to formulate the strategy with practical inputs and identify what digital technologies could be applied with which lean principles for environmental benefits. Therefore, this study first conducted a case study in three companies to collect practice-based data. A complementary literature review was then carried out, investigating the existing frameworks and complementing practices of digitalized lean implementations and the resulting environmental impact. Consequently, the Internet of Things and related connection-level technologies were identified as the key facilitators in lean implementations, specifically in visualization, communication, and poka-yoke, leading to environmental benefits. Furthermore, a framework of DIgitalization Supports Environmental sustainability through Lean principles (DISEL) was proposed to help manufacturing companies identify the opportunities of digitalizing lean principles for Environmental sustainability, thus enabling the twin transitions and being resilient.

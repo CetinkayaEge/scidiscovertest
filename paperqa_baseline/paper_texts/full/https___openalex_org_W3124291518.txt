@@ -1,0 +1,9 @@
+Title: SQ3370 Activates Cytotoxic Drug via Click Chemistry at Tumor and Elicits Sustained Responses in Injected and Non‐Injected Lesions
+Authors: Sangeetha Srinivasan, Nathan A. Yee, Kui Wu, Michael Zakharian, Amir Mahmoodi, Maksim Royzen, José Manuel Mejía Oneto
+Year: 2021
+Venue: Advanced Therapeutics
+DOI: https://doi.org/10.1002/adtp.202000243
+Paper ID: https://openalex.org/W3124291518
+
+Abstract:
+While systemic immuno-oncology therapies have shown remarkable success, only a limited subset of patients benefit from them. Our Click Activated Protodrugs Against Cancer (CAPAC™) Platform is a click chemistry-based approach that activates cancer drugs at a specific tumor with minimal systemic toxicity. CAPAC Platform is agnostic to tumor characteristics that can vary across patients and hence applicable to several types of tumors. We describe the benefits of SQ3370 (lead candidate of CAPAC) to achieve systemic anti-tumor responses in mice bearing two tumors. SQ3370 consists of a biopolymer, injected in a single lesion, followed by systemic doses of an attenuated protodrug™ of doxorubicin (Dox). SQ3370 was well-tolerated at 5.9-times the maximum dose of conventional Dox, increased survival by 63% and induced a systemic anti-tumor response against injected and non-injected lesions. The sustained anti-tumor response also correlated with immune activation measured at both lesions. SQ3370 could potentially benefit patients with micro-metastatic lesions.

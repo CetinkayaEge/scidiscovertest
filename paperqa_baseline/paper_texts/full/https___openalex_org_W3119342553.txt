@@ -1,0 +1,9 @@
+Title: A passively pumped vacuum package sustaining cold atoms for more than 200 days
+Authors: Bethany J. Little, Gregory W. Hoth, Justin Christensen, Chuck Walker, Dennis J. De Smet, Grant W. Biedermann, Jongmin Lee, Peter D. D. Schwindt
+Year: 2021
+Venue: AVS Quantum Science
+DOI: https://doi.org/10.1116/5.0053885
+Paper ID: https://openalex.org/W3119342553
+
+Abstract:
+Compact cold-atom sensors depend on vacuum technology. One of the major limitations to miniaturizing these sensors is the active pumps—typically ion pumps—that are required to sustain the low pressure needed for laser cooling. Although passively pumped chambers have been proposed as a solution to this problem, technical challenges have prevented successful operation at the levels needed for cold-atom experiments. The authors present the first demonstration of a vacuum package successfully independent of ion pumps for more than a week; their vacuum package is capable of sustaining a cloud of cold atoms in a magneto-optical trap (MOT) for greater than 200 days using only non-evaporable getters and a rubidium dispenser. Measurements of the MOT lifetime indicate that the package maintains a pressure of better than 2×10−7 Torr. This result will significantly enable the development of compact atomic sensors, including those sensitive to magnetic fields, where the absence of an ion pump will be advantageous.

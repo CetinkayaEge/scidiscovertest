@@ -1,0 +1,9 @@
+Title: Synergizing Renewable Energy and Circular Economy Strategies: Pioneering Pathways to Environmental Sustainability
+Authors: Yinhui Wang, Yugang He, Xiaodan Gao
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17051801
+Paper ID: https://openalex.org/W4407761600
+
+Abstract:
+This article investigates the interplay between renewable energy utilization and the implementation of circular economy frameworks and its role in shaping environmental sustainability across 30 provinces in China from 2000 to 2023. When employing panel data methodologies, including fixed effects, dynamic ordinary least squares, and fully modified ordinary least squares, the results reveal that both the circular economy strategy and renewable energy utilization play significant roles in reducing CO2 emissions. Renewable energy utilization has a strong negative association with CO2 emissions, highlighting its transformative potential to decrease the reliance on fossil fuels and advance decarbonization. The circular economy strategy effectively enhances resource efficiency and minimizes waste, underscoring the efficacy of China’s Circular Economy Promotion Law in driving sustainable practices. The inclusion of control variables—industrialization, economic growth, urbanization, population density, and foreign direct investment—provides deeper insights into the diverse regional factors influencing emissions. These findings highlight the importance of implementing region-specific policy measures that integrate renewable energy transitions and the circular economy strategy to achieve environmental sustainability. While presenting robust evidence, this study acknowledges the need for future studies to overcome its limitations, such as studies exploring the function of technological advancements and the interprovincial spillover effects of policies, to further refine the strategies for sustainable development in rapidly industrializing economies.

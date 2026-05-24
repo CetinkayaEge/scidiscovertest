@@ -1,0 +1,9 @@
+Title: Toward Sustainable Water Infrastructure: The State‐Of‐The‐Art for Modeling the Failure Probability of Water Pipes
+Authors: Ridwan Taiwo, Mohamed El Amine Ben Seghier, Tarek Zayed
+Year: 2023
+Venue: Water Resources Research
+DOI: https://doi.org/10.1029/2022wr033256
+Paper ID: https://openalex.org/W4360610226
+
+Abstract:
+Abstract Failures of water distribution networks (WDNs) are rising at an exponential rate, necessitating immediate attention. An effective way to reduce the failure rate is to develop accurate predictive models for the failure probability of water pipes, which are the most critical assets of WDNs. Despite the fact that researchers have invested efforts to develop various predictive models, the extant literature lacks a complete state‐of‐the‐art review. To fill this gap, this study employs a mixed approach (i.e., quantitative and qualitative) by providing (a) a bibliometric analysis of existing scholarly literature, (b) a systematic review of the techniques used in modeling the failure probability of water pipes, including physical, statistical, and machine‐learning (ML)‐based models, and (c) identified gaps and future research directions. The bibliometric analysis shows that ML‐based models are emerging and, hence understudied as compared to the physical and statistical‐based models. Regarding the systematic review, a proper understanding of the development of each model has been provided in addition to their advantages and critiques. Furthermore, failure probability integration methods are discussed. Findings reveal that the social and operation‐related predictors have been understudied, thereby suggesting their further exploration. This study adds to the existing body of knowledge by providing water utilities and academics with a comprehensive understanding of the probability of water pipe failure, which will be useful in the decision‐making process and network management.

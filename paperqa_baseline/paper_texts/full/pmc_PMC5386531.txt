@@ -1,0 +1,9 @@
+Title: miR-127 enhances myogenic cell differentiation by targeting S1PR3
+Authors: Lili Zhai, Rimao Wu, Wanhong Han, Yong Zhang, Dahai Zhu
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.128
+Paper ID: pmc_PMC5386531
+
+Abstract:
+MicroRNAs (miRNAs) have recently been implicated in muscle stem cell function. miR-127 is known to be predominantly expressed in skeletal muscle, but its roles in myogenic differentiation and muscle regeneration are unknown. Here, we show that miR-127 is upregulated during C2C12 and satellite cell (SC) differentiation and, by establishing C2C12 cells stably expressing miR-127, demonstrate that overexpression of miR-127 in C2C12 cells enhances myogenic cell differentiation. To investigate the function of miR-127 during muscle development and regeneration in vivo , we generated miR-127 transgenic mice. These mice exhibited remarkably accelerated muscle regeneration compared with wild-type mice by promoting SC differentiation. Mechanistically, we demonstrated that the gene encoding sphingosine-1-phosphate receptor 3 (S1PR3), a G-protein-coupled receptor for sphingosine-1-phosphate, is a target of miR-127 required for its function in promoting myogenic cell differentiation. Importantly, overexpression of miR-127 in muscular dystrophy model mdx mice considerably ameliorated the disease phenotype. Thus, our findings suggest that miR-127 may serve as a potential therapeutic target for the treatment of skeletal muscle disease in humans.

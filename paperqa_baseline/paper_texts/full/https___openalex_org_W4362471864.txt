@@ -1,0 +1,9 @@
+Title: A dataset on corporate sustainability disclosure
+Authors: Jinfang Tian, Cheng Qian, Rui Xue, Yilong Han, Yuli Shan
+Year: 2023
+Venue: Scientific Data
+DOI: https://doi.org/10.1038/s41597-023-02093-3
+Paper ID: https://openalex.org/W4362471864
+
+Abstract:
+Enterprises, as key emitters, play a vital role in promoting sustainable development. Corporate sustainability disclosure provides a key channel for stakeholders to gain insights into a company's sustainability progress. However, few studies have been conducted to measure sustainability disclosure at the firm level. In this study, we apply the machine learning techniques to listed companies' management discussion and analysis (MD&A) documents and construct a dataset on corporate sustainability disclosure, including the Corporate Sustainability Disclosure Index (CSDI), CSDI_Economic Dimension (CSDI_ECO), CSDI_Environmental Dimension (CSDI_ENV), and CSDI_Social Dimension (CSDI_SOCI). The dataset will be updated annually. To the best of our knowledge, this is the first sustainability disclosure dataset constructed at the firm level. Our dataset reflects corporate managements' sustainability attitudes and promotes the implementation of corporate sustainability strategies and subsequent sustainable economic and social outcomes.

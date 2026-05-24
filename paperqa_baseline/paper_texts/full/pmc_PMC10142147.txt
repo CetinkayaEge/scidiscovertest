@@ -1,0 +1,9 @@
+Title: A Cylindrical Near-Field Acoustical Holography Method Based on Cylindrical Translation Window Expansion and an Autoencoder Stacked with 3D-CNN Layers
+Authors: Jiaxuan Wang, Weihan Zhang, Zhifu Zhang, Yizhe Huang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084146
+Paper ID: pmc_PMC10142147
+
+Abstract:
+The performance of near-field acoustic holography (NAH) with a sparse sampling rate will be affected by spatial aliasing or inverse ill-posed equations. Through a 3D convolution neural network (CNN) and stacked autoencoder framework (CSA), the data-driven CSA-NAH method can solve this problem by utilizing the information from data in each dimension. In this paper, the cylindrical translation window (CTW) is introduced to truncate and roll out the cylindrical image to compensate for the loss of circumferential features at the truncation edge. Combined with the CSA-NAH method, a cylindrical NAH method based on stacked 3D-CNN layers (CS3C) for sparse sampling is proposed, and its feasibility is verified numerically. In addition, the planar NAH method based on the Paulis–Gerchberg extrapolation interpolation algorithm (PGa) is introduced into the cylindrical coordinate system, and compared with the proposed method. The results show that, under the same conditions, the reconstruction error rate of the CS3C-NAH method is reduced by nearly 50%, and the effect is significant.

@@ -1,0 +1,9 @@
+Title: The role of Fintech in circular economy practices to improve sustainability performance: a two-staged SEM-ANN approach
+Authors: Abu Bakkar Siddik, Yong Li, Md Nafizur Rahman
+Year: 2023
+Venue: Environmental Science and Pollution Research
+DOI: https://doi.org/10.1007/s11356-023-25576-7
+Paper ID: https://openalex.org/W4319063747
+
+Abstract:
+Coupling the practice-based view (PBV) of firms with dynamic capabilities theory (DCT), we assess the effect of Fintech adoption (FA) on organizational sustainability performance (SP) through circular economy practices (CEP). Additionally, this research examines the moderating roles of a firm's access to finance (AF) and absorptive capacity (AC) in the interplays between the constructs. Three hundred responses were collected from Bangladeshi manufacturing SMEs using a structured questionnaire. We examined our conceptual model using a two-staged structural equation modeling-artificial neural network (SEM-ANN) approach. The empirical findings unveiled that Fintech adoption significantly drives organizational CEP and SP and that CEP acts as a mediator between the FA and SP linkage. Furthermore, the findings also confirmed the moderating effect of AF on the FA and CEP association and the impact of AC on the CEP and SP association. Hence, this scholarship adds pivotal insights to the extant literature by establishing the roles of multiple mediators and moderators in the interplay of FA and firms' SP. Given the paucity of primary-data-based research, this empirical study addresses the gaps in the Fintech, CE, and sustainability literature and yields crucial implications for theory and practice.

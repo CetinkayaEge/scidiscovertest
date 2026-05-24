@@ -1,0 +1,9 @@
+Title: A Serum MicroRNA Panel as Potential Biomarkers for Hepatocellular Carcinoma Related with Hepatitis B Virus
+Authors: Youwen Tan, Guohong Ge, Tengli Pan, Danfeng Wen, Li Chen, Xuejun Yu, Xinbei Zhou, Jianhe Gan
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107986
+Paper ID: pmc_PMC4169601
+
+Abstract:
+Background The identification of new high-sensitivity and high-specificity markers for HCC are essential. We aimed to identify serum microRNAs (miRNAs) as biomarkers to be used in diagnosing hepatitis B virus (HBV) –related hepatocellular carcinoma (HCC). Methods We investigated serum miRNA expression in (261 HCC patients, 233 cirrhosis patients, and 173 healthy controls), recruited between August 2010 and June 2013. An initial screening of miRNA expression by Illumina sequencing was performed using serum samples pooled from HCC patients and controls. Quantitative reverse-transcriptase polymerase chain reaction (qRT-PCR) was used to evaluate the expression of selected miRNAs. A logistic regression model was constructed using a training cohort (n = 357) and then validated using an independent cohort (n = 241). The area under the receiver operating characteristic curve (AUC) was used to evaluate the accuracy of the use of the biomarkers for disease diagnosis. Results We identified 8 miRNAs (hsa-miR-206, hsa-miR-141-3p, hsa-miR-433-3p, hsa-miR-1228-5p, hsa-miR-199a-5p, hsa-miR-122-5p, hsa-miR-192-5p, and hsa-miR-26a-5p) and constructed an miRNA set that provided high diagnostic accuracy for HCC (AUC = 0.887 and 0.879 for training and validation sets, respectively). The miRNAs could also be used to differentiate HCC patients from healthy (AUC = 0.893) and cirrhosis (AUC = 0.892) patients. Conclusions We identified a serum of miRNA panel that has considerable clinical value in HCC diagnosis.

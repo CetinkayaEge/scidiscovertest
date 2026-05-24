@@ -1,0 +1,9 @@
+Title: Optical Tip Clearance Measurements as a Tool for Rotating Disk Characterization
+Authors: Iker García, Joseba Zubia, Josu Beloki, Jon Arrue, Gaizka Durana, Gotzon Aldabaldetreku
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010165
+Paper ID: pmc_PMC5298738
+
+Abstract:
+An experimental investigation on the vibrational behavior of a rotating disk by means of three optical fiber sensors is presented. The disk, which is a scale model of the real disk of an aircraft engine, was assembled in a wind tunnel in order to simulate real operation conditions. The pressure difference between the upstream and downstream sides of the disk causes an airflow that might force the disk to vibrate. To characterize this vibration, a set of parameters was determined by measuring the tip clearance of the disk: the amplitude, the frequency and the number of nodal diameters in the disk. All this information allowed the design of an upgraded prototype of the disk, whose performance was also characterized by the same method. An optical system was employed for the measurements, in combination with a strain gauge mounted on the disk surface, which served to confirm the results obtained. The data of the strain gauge coincided closely with those provided by the optical fiber sensors, thus demonstrating the suitability of this innovative technique to evaluate the vibrational behavior of rotating disks.

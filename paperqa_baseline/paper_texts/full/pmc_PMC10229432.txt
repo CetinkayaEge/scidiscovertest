@@ -1,0 +1,9 @@
+Title: Site-specific encoding of photoactivity and photoreactivity into antibody fragments
+Authors: Thomas Bridge, Udo Wegmann, Jason C. Crack, Kate Orman, Saher A. Shaikh, William Farndon, Carlo Martins, Gerhard Saalbach, Amit Sachdeva
+Year: 2023
+Venue: Nature Chemical Biology
+DOI: 10.1038/s41589-022-01251-9
+Paper ID: pmc_PMC10229432
+
+Abstract:
+Design of biomolecules that perform two or more distinct functions in response to light remains challenging. Here, we have introduced concurrent photoactivity and photoreactivity into an epidermal growth factor receptor (EGFR)-targeting antibody fragment, 7D12. This was achieved by site-specific incorporation of photocaged tyrosine (pcY) for photoactivity and p -benzoyl-ʟ-phenylalanine (Bpa) for photoreactivity into 7D12. We identified a position for installing Bpa in 7D12 that has minimal effect on 7D12–EGFR binding affinity in the absence of light. Upon exposure to 365-nm light, this Bpa-containing 7D12 mutant forms a covalent bond with EGFR in an antigen-specific manner. We then developed a method for site-specific incorporation of pcY and Bpa at two distinct sites in 7D12. Finally, we demonstrated that in the absence of light, this pcY- and Bpa-containing mutant of 7D12 does not bind to EGFR, but irradiation with 365-nm light activates (1) specific binding and (2) covalent bond formation with EGFR. Development of a generalized method for dual site-specific incorporation of nonnatural photocaged and photoreactive amino acids into proteins expressed in live cells enabled engineering of a photoreactive photoactive antibody fragment.

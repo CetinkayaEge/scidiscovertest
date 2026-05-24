@@ -1,0 +1,9 @@
+Title: γ‐Valerolactone as Sustainable and Low‐Toxic Solvent for Electrical Double Layer Capacitors
+Authors: Khai Shin Teoh, Massimo Melchiorre, Fabian Alexander Kreth, Annika Bothe, Lukas Köps, Francesco Ruffo, Andrea Balducci
+Year: 2022
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202201845
+Paper ID: https://openalex.org/W4309066325
+
+Abstract:
+In this work, γ-valerolactone (GVL), a green solvent based on largely available biomass (carbohydrates), highly biodegradable, and with low eco-toxicological profile, was used as electrolyte component in energy storage devices. This solvent allowed the realization of electrolytes with good transport properties and high thermal stability, which could be successfully applied in electrical double layer capacitors (EDLCs). GVL-based EDLCs could operate at 2.7-2.9 V and displayed good performance in term of capacitance, cycling stability, as well as specific energy and power. The results of this study indicate that the use of solvent obtained from largely available natural sources is a feasible strategy for the realization of sustainable and safe electrolytes for EDLCs.

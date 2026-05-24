@@ -1,0 +1,9 @@
+Title: Stochastic approximations of higher-molecular by bi-molecular reactions
+Authors: Tomislav Plesa
+Year: 2023
+Venue: Journal of Mathematical Biology
+DOI: 10.1007/s00285-022-01848-7
+Paper ID: pmc_PMC9839831
+
+Abstract:
+Reactions involving three or more reactants, called higher-molecular reactions, play an important role in mathematical modelling in systems and synthetic biology. In particular, such reactions underpin a variety of important bio-dynamical phenomena, such as multi-stability/multi-modality, oscillations, bifurcations, and noise-induced effects. However, as opposed to reactions involving at most two reactants, called bi-molecular reactions, higher-molecular reactions are biochemically improbable. To bridge the gap, in this paper we put forward an algorithm for systematically approximating arbitrary higher-molecular reactions with bi-molecular ones, while preserving the underlying stochastic dynamics. Properties of the algorithm and convergence are established via singular perturbation theory. The algorithm is applied to a variety of higher-molecular biochemical networks, and is shown to play an important role in synthetic biology.

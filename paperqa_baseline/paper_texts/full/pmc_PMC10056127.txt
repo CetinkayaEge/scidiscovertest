@@ -1,0 +1,9 @@
+Title: Steganography in IoT: Information Hiding with Joystick and Touch Sensors
+Authors: Katarzyna Koptyra, Marek R. Ogiela
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063288
+Paper ID: pmc_PMC10056127
+
+Abstract:
+This paper describes a multi-secret steganographic system for the Internet-of-Things. It uses two user-friendly sensors for data input: thumb joystick and touch sensor. These devices are not only easy to use, but also allow hidden data entry. The system conceals multiple messages into the same container, but with different algorithms. The embedding is realized with two methods of video steganography that work on mp4 files, namely, videostego and metastego. These methods were chosen because of their low complexity so that they may operate smoothly in environments with limited resources. It is possible to replace the suggested sensors with others that offer similar functionality.

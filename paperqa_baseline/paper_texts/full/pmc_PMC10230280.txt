@@ -1,0 +1,9 @@
+Title: Manganese relative oral bioavailability in electric arc furnace steel slag is influenced by high iron content and low bioaccessibility
+Authors: Deborah M Proctor, Stephanie N Vivanco, Alexander D Blanchette
+Year: 2023
+Venue: Toxicological Sciences
+DOI: 10.1093/toxsci/kfad037
+Paper ID: pmc_PMC10230280
+
+Abstract:
+Abstract Electric arc furnace (EAF) slag is a rock-like aggregate produced with carbon steel and used for construction, including residential ground cover. It is enriched with manganese (Mn) and other metals, including iron (Fe), but because metals are bound in mineral matrices, in vitro bioaccessibility (BA) is limited. We conducted a relative bioavailability (RBA) study using F344 rats to assess Mn RBA from EAF slag ingestion, compared with Mn in diet. Mn and Fe were measured in liver, and Mn in lung and striatum, the target tissue of the brain. Mn levels in each tissue were fit by dose-to-tissue concentration (D-TC) curves. The D-TC relationship was the most highly significant for the linear model using liver Mn, and the RBA was 48%. The D-TC relationship in lung showed a positive slope for chow, but that for EAF slag was slightly negative, and the RBA was 14%. In comparison, the striatum D-TC remained relatively constant, supporting that homeostasis was maintained. Increased Fe was observed in the liver of EAF slag-dosed groups, suggesting that Mn absorption was inhibited by the high Fe content of slag. Lung and striatum D-TC curves demonstrated that systemic delivery of Mn from EAF slag ingestion is limited and support an RBA of 14% for risk assessment. Although Mn levels in slag are elevated compared with health-based screening guidelines, this study supports that incidental ingestion of Mn in EAF slag is unlikely to pose a neurotoxicity hazard due to homeostatic controls, low BA, and high Fe content.

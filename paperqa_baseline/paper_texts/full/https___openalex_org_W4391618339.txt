@@ -1,0 +1,9 @@
+Title: Innovating Sustainability
+Authors: Yanyu Chen, Qian Li, Junyi Liu
+Year: 2024
+Venue: Journal of Organizational and End User Computing
+DOI: https://doi.org/10.4018/joeuc.337606
+Paper ID: https://openalex.org/W4391618339
+
+Abstract:
+In today's global society, carbon neutrality has become a focal point of concern. Greenhouse gas emissions and rising atmospheric temperatures are triggering various extreme weather events, sea level rise, and ecological imbalances. These changes not only affect the stability and sustainable development of human society but also pose a serious threat to the Earth's ecosystems and biodiversity. Faced with this global challenge, finding effective solutions has become urgent. This article aims to propose a comprehensive artificial intelligence design approach to address issues related to carbon neutrality. This method integrates technologies from fields such as computer vision, natural language processing, and deep learning to achieve a comprehensive understanding of environmental conservation and innovative solutions. Specifically, the authors first use a visual module to extract features from images, which helps capture important information in the images. Next, we employ the ALBEF model for cross-modal alignment, enabling better collaboration between images and textual information.

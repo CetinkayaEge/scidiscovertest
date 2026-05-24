@@ -1,0 +1,9 @@
+Title: Diagnostic value of circulating free DNA for the detection of EGFR mutation status in NSCLC: a systematic review and meta-analysis
+Authors: Jie Luo, Li Shen, Di Zheng
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep06269
+Paper ID: pmc_PMC5385820
+
+Abstract:
+Epidermal growth factor receptor (EGFR) mutation is a reliable and sensitive biomarker for EGFR-TKI therapy in non-small-cell lung cancer (NSCLC). However, detection of EGFR mutation in tissues has obvious limitations. Circulating free DNA (cfDNA) has been reported as an alternative approach for the detection of EGFR mutations. This systematic review and meta-analysis was designed to assess the diagnostic performance of cfDNA, compared with tissues. True-positive (TP), false-positive (FP), false-negative (FN), and true-negative (TN) values were extracted or calculated for each study. Pooled sensitivity, specificity, positive likelihood ratio (PLR), negative likelihood ratio (NLR), and diagnostic odds ratio (DOR) were calculated. A summary receiver operating characteristic curve (SROC) and area under curve (AUC) were used to evaluate the overall diagnostic performance. 20 eligible studies involving 2012 cases were included in this meta-analysis. The pooled sensitivity, specificity, PLR, NLR, andDORwere 0.674 (95%CI: 0.517–0.800), 0.935 (95%CI: 0.888–0.963), 10.307 (95%CI: 6.167–17.227), 0.348 (95%CI: 0.226–0.537), and 29.582 (95%CI: 4.582–60.012), respectively. The AUC was 0.93 (95% CI: 0.90–0.95). The meta-analysis suggests that detection of EGFR mutation by cfDNA is of adequate diagnostic accuracy and cfDNA analysis could be a promising screening test for NSCLC.

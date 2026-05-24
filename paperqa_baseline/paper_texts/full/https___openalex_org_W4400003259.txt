@@ -1,0 +1,9 @@
+Title: Microbial strategies driving low concentration substrate degradation for sustainable remediation solutions
+Authors: Qidong Yin, Kai He, Gavin Collins, Jo De Vrieze, Guangxue Wu
+Year: 2024
+Venue: npj Clean Water
+DOI: https://doi.org/10.1038/s41545-024-00348-z
+Paper ID: https://openalex.org/W4400003259
+
+Abstract:
+Abstract Microbial metabolism upholds a fundamental role in the sustainability of water ecosystems. However, how microorganisms surviving in low-concentration substrate water environments, including the existence of emerging compounds of interest, remains unclear. In this review, microbial strategies for concentrating, utilizing, and metabolizing of low concentration substrates were summarized. Microorganisms develop substrate-concentrating strategies at both the cell and aggregate levels in substrate-limited settings. Following, microbial uptake and transport of low-concentration substrates are facilitated by adjusting physiological characteristics and shifting substrate affinities. Finally, metabolic pathways, such as mixed-substrate utilization, syntrophic metabolism, dynamic response to nutrient variation, and population density-based mechanisms allow microorganisms to efficiently utilize low-concentration substrates and to adapt to challenging oligotrophic environments. All these microbial strategies will underpin devising new approaches to tackle environmental challenges and drive the sustainability of water ecosystems, particularly in managing low-concentration contaminants (i.e., micropollutants).

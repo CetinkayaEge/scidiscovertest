@@ -1,0 +1,9 @@
+Title: Assessing the United Nations sustainable development goals from the inclusive wealth perspective
+Authors: Yogi Sugiawan, Robi Kurniawan, Shunsuke Managi
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-28540-0
+Paper ID: https://openalex.org/W4318336339
+
+Abstract:
+The statement of sustainability in the sustainable development goals (SDGs) framework needs to be supplemented by a formal proof that intergenerational well-being also improves. This is the first study that aims to provide empirical evidence that links the progress of the SDGs and the changes in well-being, which are proxied by the SDG Index and the Inclusive Wealth (IW) Index, respectively. We propose an SDGs-wealth model which was analyzed using a machine learning method involving a balanced panel of 147 countries for 2000-2019. We find a strong correlation between wealth and the SDGs, with Goals 12, 13, and 7 being the most significant predictors of wealth. In contrast to Goals 12 and 13, we find a positive correlation between Goal 7 and the per capita IW Index, suggesting that promoting affordable and clean energy is beneficial for wealth accumulation. Quite the opposite, fostering responsible consumption and production and climate actions might be detrimental to wealth. We also find an alarming result for 50 countries in our study since they have deviated from the sustainable development trajectories either in the short or long run. Our study suggests that to achieve sustainable development, instead of focusing on the complex interactions among the SDGs, policymakers should put a stronger focus on improving IW.

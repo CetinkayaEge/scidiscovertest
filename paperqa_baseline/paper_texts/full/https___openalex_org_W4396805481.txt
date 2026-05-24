@@ -1,0 +1,9 @@
+Title: Enhancing Ethiopian power distribution with novel hybrid renewable energy systems for sustainable reliability and cost efficiency
+Authors: Takele Ferede Agajie, Armand Fopah‐Lele, Isaac Amoussou, Baseem Khan, Mohit Bajaj, Євген Зайцев, Emmanuel Tanyi
+Year: 2024
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-024-61413-8
+Paper ID: https://openalex.org/W4396805481
+
+Abstract:
+kg reduced, respectively. This is attributable to their thorough economic, reliability, and environmental evaluation. Finally, the forward/backward sweep load flow analysis employed during the proposed system's integration significantly reduced the impact of new energy resources on the distribution network. This was evident in the reduction of total power losses from 470.78 to 18.54 kW and voltage deviation from 6.95 to 0.35 p.u., as well as the voltage profile of the distribution system being swung between 1 and 1.0234 p.u., which now comply with the standards set by the IEEE. Besides, a comparison of the cost and GHG emission efficiency of the proposed hybrid system with existing (grid + DGs) and alternative (only DGs) scenarios was done. The findings showed that, among the scenarios examined, the proposed system is the most economical and produces the least amount of GHG emissions.

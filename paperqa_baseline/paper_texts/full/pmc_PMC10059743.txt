@@ -1,0 +1,9 @@
+Title: Change Point Detection for Fine-Grained MFR Work Modes with Multi-Head Attention-Based Bi-LSTM Network
+Authors: Yiying Fang, Qihang Zhai, Ziwei Zhang, Jing Yang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063326
+Paper ID: pmc_PMC10059743
+
+Abstract:
+Detection of the changes in Multi-Functional Radar (MFR) work modes is a critical situation assessment task for Electronic Support Measure (ESM) systems. There are two major challenges that must be addressed: (i) The received radar pulse stream may contain multiple work mode segments of unknown number and duration, which makes the Change Point Detection (CPD) difficult. (ii) Modern MFRs can produce a variety of parameter-level (fine-grained) work modes with complex and flexible patterns, which are challenging to detect through traditional statistical methods and basic learning models. To address the challenges, a deep learning framework is proposed for fine-grained work mode CPD in this paper. First, the fine-grained MFR work mode model is established. Then, a multi-head attention-based bi-directional long short-term memory network is introduced to abstract high-order relationships between successive pulses. Finally, temporal features are adopted to predict the probability of each pulse being a change point. The framework further improves the label configuration and the loss function of training to mitigate the label sparsity problem effectively. The simulation results showed that compared with existing methods, the proposed framework effectively improves the CPD performance at parameter-level. Moreover, the F1-score was increased by 4.15% under hybrid non-ideal conditions.

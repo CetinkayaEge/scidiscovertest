@@ -1,0 +1,9 @@
+Title: Sustainable Highly Selective Toluene Oxidation to Benzaldehyde
+Authors: Francesca Valentini, Giacomo Ferracci, Pierluca Galloni, Giuseppe Pomarico, Valeria Conte, Federica Sabuzi
+Year: 2021
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal11020262
+Paper ID: https://openalex.org/W3132773189
+
+Abstract:
+Thanks to the well-recognized role of benzaldehyde in industry, nowadays the research of new and sustainable approaches to selectively synthesize such an interesting product is receiving great attention from the chemists’ community. In this paper, a V-based catalytic biphasic system is adopted to perform toluene oxidation to benzaldehyde. Importantly, to pursue sustainability, organic solvents have been avoided, so toluene is used as substrate and co-solvent, together with water. Also, the use of hydrophobic ionic liquids has been explored. To perform oxidation, NH4VO3 catalyst, H2O2, and a safe and inexpensive co-catalyst are used. Among the tested co-catalysts, KF and O2 were found to be the best choice, to guarantee good yields, in mild reaction conditions. In fact, with such a sustainable method, up to 30% of benzaldehyde can be obtained at 60 °C and, more interestingly, the oxidative system can be recharged, raising-up the yield. The entire process results highly selective, since no traces of benzyl alcohol or benzoic acid are detected. Hence, it constitutes a very appealing synthetic route, even suitable to be easily scaled-up at an industrial level.

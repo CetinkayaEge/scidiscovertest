@@ -1,0 +1,9 @@
+Title: Optimized Classification of Intelligent Reflecting Surface (IRS)-Enabled GEO Satellite Signals
+Authors: Mamoona Jamil, Mubashar Sarfraz, Sajjad A. Ghauri, Muhammad Asghar Khan, Mohamed Marey, Khaled Mohamad Almustafa, Hala Mostafa
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084173
+Paper ID: pmc_PMC10142068
+
+Abstract:
+The intelligent reflecting surface (IRS) is a cutting-edge technology for cost-effectively achieving future spectrum- and energy-efficient wireless communication. In particular, an IRS comprises many low-cost passive devices that can independently reflect the incident signal with a configurable phase shift to produce three-dimensional (3D) passive beamforming without transmitting Radio-Frequency (RF) chains. Thus, the IRS can be utilized to greatly improve wireless channel conditions and increase the dependability of communication systems. This article proposes a scheme for an IRS-equipped GEO satellite signal with proper channel modeling and system characterization. Gabor filter networks (GFNs) are jointly proposed for the extraction of distinct features and the classification of these features. Hybrid optimal functions are used to solve the estimated classification problem, and a simulation setup was designed along with proper channel modeling. The experimental results show that the proposed IRS-based methodology provides higher classification accuracy than the benchmark without the IRS methodology.

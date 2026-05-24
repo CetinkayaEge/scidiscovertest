@@ -1,0 +1,9 @@
+Title: Fuzzy Analytic Hierarchal Process for Sustainable Public Transport System
+Authors: Havraz Khedhir Younis Al-Zibaree, Mine Konur
+Year: 2023
+Venue: Journal of Operations Intelligence
+DOI: https://doi.org/10.31181/jopi1120234
+Paper ID: https://openalex.org/W4387935584
+
+Abstract:
+The analytic The Analytic Hierarchy Process (AHP) is a well-established methodology for tackling complex multi-criteria decision problems in practical contexts. However, like many decision-making approaches, AHP confronts certain limitations, particularly in scenarios where evaluations are fraught with uncertainty and imprecision. This study sets out to enhance the capabilities of the AHP method and provide a comprehensive evaluation of public bus transport service quality within Budapest, Hungary. To address the inherent uncertainties in real-world decision-making, the study leverages the Fuzzy Analytic Hierarchy Process (FAHP), a fusion of Fuzzy Set Theory with the traditional AHP. This novel approach equips decision-makers with a more robust framework to handle the multifaceted nature of real-world decision problems. The study is grounded in empirical data obtained through dynamic surveys, ensuring its relevance to the actual conditions experienced in Budapest. Expert evaluators, well-versed in the field, contribute their assessments to enrich the analysis. This novel FAHP approach doesn't just promise improved decision-making outcomes; it also champions simplicity and comprehensibility. Its computational efficiency streamlines the decision-making process, providing a powerful tool for evaluating public bus transport service quality, thereby offering a significant contribution to the sustainable development of Budapest's transportation system.

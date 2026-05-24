@@ -1,0 +1,9 @@
+Title: A sustainable closed-loop location-routing-inventory problem for perishable products
+Authors: Fatemeh Navazi, Zeinab Sazvar, Reza Tavakkoli‐Moghaddam
+Year: 2021
+Venue: Scientia Iranica
+DOI: https://doi.org/10.24200/sci.2021.55642.4353
+Paper ID: https://openalex.org/W3139830902
+
+Abstract:
+Perishable products may expire if their holding time exceeds their shelf-life. In this study, along with designing a forward flow to distribute perishable products; remained perished products at retailers can be gathered for recycling during distributing fresh products. To mitigate the waste, recycled products are offered to a secondary market. A mathematical model for this Closed-Loop Location-Routing-Inventory Problem (CL-LRIP) is developed by considering multi-compartment trucks, simultaneous pickup and delivery, technology selection, and risk of urban traffic. Based on three sustainability pillars, three objective functions are considered. This way, the interests of the network's three main stakeholders are embedded. The proposed model is solved by the Torabi-Hassini method. Two evolutionary algorithms, including Non-Dominated Sorting Genetic Algorithm-II (NSGA-II) and a new hybrid one, are also developed to solve large-sized cases of the NP-complete problem. Statistical tests show the superiority of the hybrid algorithm in the computational time (CT) metric, which is about 0.4 NSGA-II’s CT. The results indicate the importance of closing the network loop for perishable products. Finally, the sensitivity analysis determined that 83.33 % decrease in recycled product’s sale price causes 9.08% increase in costs, 2.77% decrease in environmental side-effects, and 5.16% decrease in social objectives, which are significant.

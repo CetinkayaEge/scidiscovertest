@@ -1,0 +1,9 @@
+Title: Getting More Out of Less – A Quantitative Serological Screening Tool for Simultaneous Detection of Multiple Influenza A Hemagglutinin-Types in Chickens
+Authors: Gudrun S. Freidl, Erwin de Bruin, Janko van Beek, Johan Reimerink, Sjaak de Wit, Guus Koch, Lonneke Vervelde, Henk-Jan van den Ham, Marion P. G. Koopmans
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0108043
+Paper ID: pmc_PMC4172590
+
+Abstract:
+Current avian influenza surveillance in poultry primarily targets subtypes of interest for the veterinary sector (H5, H7). However, as virological and serological evidence suggest, surveillance of additional subtypes is important for public health as well as for the poultry industry. Therefore, we developed a protein microarray enabling simultaneous identification of antibodies directed against different HA-types of influenza A viruses in chickens. The assay successfully discriminated negative from experimentally and naturally infected, seropositive chickens. Sensitivity and specificity depended on the cut-off level used but ranged from 84.4% to 100% and 100%, respectively, for a cut off level of ≥1∶40, showing minimal cross reactivity. As this testing platform is also validated for the use in humans, it constitutes a surveillance tool that can be applied in human-animal interface studies.

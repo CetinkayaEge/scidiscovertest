@@ -1,0 +1,9 @@
+Title: Comparative genomic analysis uncovers candidate genes related with milk production and adaptive traits in goat breeds
+Authors: Zeinab Amiri Ghanatsaman, Ahmad Ayatolahi Mehrgardi, Hojjat Asadollahpour Nanaei, Ali Esmailizadeh
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35973-0
+Paper ID: pmc_PMC10229596
+
+Abstract:
+During the process of animal domestication, both natural and artificial selection cause variation in allele frequencies among populations. Identifying genomic areas of selection in domestic animals may aid in the detection of genomic areas linked to ecological and economic traits. We studied genomic variation in 140 worldwide goat individuals, including 75 Asian, 30 African and 35 European goats. We further carried out comparative population genomics to detect genomic regions under selection for adaptability to harsh conditions in local Asian ecotypes and also milk production traits in European commercial breeds. In addition, we estimated the genetic distances among 140 goat individuals. The results showed that among all studied goat groups, local breeds from West and South Asia emerged as an independent group. Our search for selection signatures in local goats from West and South Asia revealed candidate genes related to adaptation to hot climate ( HSPB6 , HSF4 , VPS13A and NBEA genes) and immune response ( IL7 , IL5 , IL23A and LRFN5 ) traits. Furthermore, selection signatures in European commercial goats involved several milk production related genes, such as VPS13C , NCAM2 , TMPRSS15 , CSN3 and ABCG2 . The identified candidate genes could be the fundamental genetic resource for enhancement of goat production and environmental-adaptive traits, and as such they should be used in goat breeding programs to select more efficient breeds.

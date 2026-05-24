@@ -1,0 +1,9 @@
+Title: Monitoring the environmental sustainability of countries through the strong environmental sustainability index
+Authors: Arkaitz Usubiaga‐Liaño, Paul Ekins
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.108281
+Paper ID: https://openalex.org/W3206900473
+
+Abstract:
+Countries still lack adequate metrics to monitor environmental sustainability across a range of relevant environmental and resource issues. The Strong Environmental Sustainability Index (SESI), which is based on the Environmental Sustainability Gap (ESGAP) framework, is intended to fill this gap. SESI is the result of aggregating 21 indicators across different dimensions. Each of the underlying indicators is related to the functions of natural capital and normalised using science-based targets. SESI uses the geometric mean to aggregate in order to reflect the limited substitutability between the functions of natural capital. The results of the index, which is computed for 28 European countries, show that several functions of natural capital are impaired in Europe. Countries tend to perform worse in indicators related to pollution and ecosystem health, compared to indicators that describe the provision of natural resources, and human health and welfare. Because the results are sensitive to assumptions in the normalisation, weighting and aggregation processes, the relevant choices have been aligned with the theoretical underpinnings of the ESGAP framework. SESI responds to the demands of the ‘Beyond GDP’ community on the need for a single environmental sustainability metric that can complement GDP in its (mis-)use as a headline indicator for development.

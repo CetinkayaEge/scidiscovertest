@@ -1,0 +1,9 @@
+Title: GTP energy dependence of endocytosis and autophagy in the aging brain and Alzheimer’s disease
+Authors: Ricardo A. Santana Martínez, Priyanka D. Pinky, Benjamin A. Harlan, Gregory J. Brewer
+Year: 2023
+Venue: GeroScience
+DOI: 10.1007/s11357-022-00717-x
+Paper ID: pmc_PMC9886713
+
+Abstract:
+Increased interest in the aging and Alzheimer’s disease (AD)-related impairments in autophagy in the brain raise important questions about regulation and treatment. Since many steps in endocytosis and autophagy depend on GTPases, new measures of cellular GTP levels are needed to evaluate energy regulation in aging and AD. The recent development of ratiometric GTP sensors (GEVALS) and findings that GTP levels are not homogenous inside cells raise new issues of regulation of GTPases by the local availability of GTP. In this review, we highlight the metabolism of GTP in relation to the Rab GTPases involved in formation of early endosomes, late endosomes, and lysosomal transport to execute the autophagic degradation of damaged cargo. Specific GTPases control macroautophagy (mitophagy), microautophagy, and chaperone-mediated autophagy (CMA). By inference, local GTP levels would control autophagy, if not in excess. Additional levels of control are imposed by the redox state of the cell, including thioredoxin involvement. Throughout this review, we emphasize the age-related changes that could contribute to deficits in GTP and AD. We conclude with prospects for boosting GTP levels and reversing age-related oxidative redox shift to restore autophagy. Therefore, GTP levels could regulate the numerous GTPases involved in endocytosis, autophagy, and vesicular trafficking. In aging, metabolic adaptation to a sedentary lifestyle could impair mitochondrial function generating less GTP and redox energy for healthy management of amyloid and tau proteostasis, synaptic function, and inflammation.

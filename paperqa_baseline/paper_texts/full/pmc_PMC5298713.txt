@@ -1,0 +1,9 @@
+Title: A Low Power Low Phase Noise Oscillator for MICS Transceivers
+Authors: Dawei Li, Dongsheng Liu, Chaojian Kang, Xuecheng Zou
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010140
+Paper ID: pmc_PMC5298713
+
+Abstract:
+A low-power, low-phase-noise quadrature oscillator for Medical Implantable Communications Service (MICS) transceivers is presented. The proposed quadrature oscillator generates 349~689 MHz I/Q (In-phase and Quadrature) signals covering the MICS band. The oscillator is based on a differential pair with positive feedback. Each delay cell consists of a few transistors enabling lower voltage operation. Since the oscillator is very sensitive to disturbances in the supply voltage and ground, a self-bias circuit for isolating the voltage disturbance is proposed to achieve bias voltages which can track the disturbances from the supply and ground. The oscillation frequency, which is controlled by the bias voltages, is less sensitive to the supply and ground noise, and a low phase noise is achieved. The chip is fabricated in the UMC (United Microelectronics Corporation) 0.18 μm CMOS (Complementary Metal Oxide Semiconductor) process; the core just occupies a 28.5 × 22 μm 2 area. The measured phase noise is −108.45 dBc/Hz at a 1 MHz offset with a center frequency of 540 MHz. The gain of the oscillator is 0.309 MHz/mV with a control voltage from 0 V to 1.1 V. The circuit can work with a supply voltage as low as 1.2 V and the power consumption is only 0.46 mW at a 1.8 V supply voltage.

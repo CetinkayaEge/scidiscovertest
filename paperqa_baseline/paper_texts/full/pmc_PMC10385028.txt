@@ -1,0 +1,9 @@
+Title: Fatty Liver Index and Its Association with 10-Year Atherosclerotic Cardiovascular Disease Risk: Insights from a Population-Based Cross-Sectional Study in China
+Authors: Jing Zhou, Jing Fan, Xiaoyun Zhang, Lili You, Diaozhu Lin, Chulin Huang, Feng Li, Kan Sun
+Year: 2023
+Venue: Metabolites
+DOI: 10.3390/metabo13070850
+Paper ID: pmc_PMC10385028
+
+Abstract:
+This cross-sectional study aimed to investigate the association between non-alcoholic fatty liver disease (NAFLD) and atherosclerotic cardiovascular disease (ASCVD), a global public health concern. A total of 9044 out of 10,104 adults from Guangzhou, China, were included in the analysis. We utilized the fatty liver index (FLI), a noninvasive indicator of NAFLD, and the pooled cohort equations (PCE) based on the 2013 ACC/AHA Guideline, the China-PAR model, and the Framingham Risk Score to assess the 10-year ASCVD risk. The results demonstrated a significant association between FLI and 10-year ASCVD risk ( p < 0.001). Adjusted for age, individuals with high FLI (≥60) had an odds ratio of 3.91 (95% CI 2.52–6.08) compared to those with low FLI (<30). These findings persisted after adjusting for metabolic indicators. Notably, this association was consistently observed across all three risk prediction models: the PCE model, the China-PAR model, and the Framingham Risk Score. In conclusion, our study provides evidence supporting FLI as a reliable indicator of increased 10-year ASCVD risk in Chinese NAFLD patients. FLI serves as a valuable marker for early detection of ASCVD, highlighting its potential in clinical practice for risk assessment and prevention strategies.

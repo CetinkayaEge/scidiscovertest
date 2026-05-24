@@ -1,0 +1,9 @@
+Title: Avoiding Regrettable Substitutions: Green Toxicology for Sustainable Chemistry
+Authors: Alexandra Maertens, Emily Golden, Thomas Härtung
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.0c09435
+Paper ID: https://openalex.org/W3169896430
+
+Abstract:
+Green chemistry seeks to design less hazardous chemicals, but many of the efforts to replace chemicals have resulted in so-called "Regrettable Substitutions", when a chemical with an unknown or unforeseen hazard is used to replace a chemical identified as problematic. Here, we discuss the literature on regrettable substitution and focus on an oft-mentioned case, Bisphenol A, which was replaced with Bisphenol S-and the lessons that can be learned from this history. In particular, we focus on how Green Toxicology can offer a way to make better substitutions.

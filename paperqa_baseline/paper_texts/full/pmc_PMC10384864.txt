@@ -1,0 +1,9 @@
+Title: Fermented Sprouts of Codonopsis lanceolata Suppress LPS-Induced Inflammatory Responses by Inhibiting NF-κB Signaling Pathway in RAW 264.7 Macrophages and CD1 Mice
+Authors: Seung-Hyuk Choi, So-Yeon Kim, Kyeong-Min Kim, Tamanna Jahan Mony, Ho Jung Bae, Min Seok Kim, Chan Ho Lee, Sun-Eun Choi, Sang Ho Lee, Se Jin Park
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15071793
+Paper ID: pmc_PMC10384864
+
+Abstract:
+The interest in bioconversion through fermentation of sprouts produced in smart farms is increasing due to their potential health benefits. Codonopsis lanceolata (CL) is reported to alleviate inflammatory conditions, but much research is still needed to determine which types and parts of CL are most effective. This study investigated the anti-inflammatory effects of a fermented extract of CL sprouts’ aerial part (F-CSA) against LPS-stimulated RAW 264.7 macrophages and mice. In the screening test, F-CSA showed the most substantial anti-inflammatory effect among several samples, containing the highest total flavonoids, tannins, and polyphenols. UPLC-ESI-Q/TOF-MS and HPLC analysis revealed that F-CSA had the highest amount of luteolin among all the CL samples analyzed. F-CSA reduced the release of inflammatory cytokines and mediators such as NO and PGE 2 by inhibiting the expression levels of iNOS and COX-2 in LPS-stimulated macrophages. Further, we found that the anti-inflammatory effects of F-CSA were mediated by inhibiting the JNK/NF-κB signaling pathway. Moreover, F-CSA improved survival rates and reduced plasma levels of NO and IL-6 in CD1 mice stimulated with LPS. These findings suggest that F-CSA, which contains luteolin, can alleviate inflammation in LPS-induced RAW 264.7 cells and a CD1 mouse model by inhibiting the JNK/NF-κB signaling pathways.

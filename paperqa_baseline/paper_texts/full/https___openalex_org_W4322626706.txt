@@ -1,0 +1,9 @@
+Title: Life Cycle Assessment of Metal–Organic Frameworks: Sustainability Study of Zeolitic Imidazolate Framework-67
+Authors: Harold U. Escobar-Hernandez, Yufeng Quan, Maria Papadaki, Qingsheng Wang
+Year: 2023
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c07276
+Paper ID: https://openalex.org/W4322626706
+
+Abstract:
+The transition to a more sustainable model for the US energy system has recently received significant focus in the energy transition. One of the technologies that best represent the exploration to aid in this transition is metal–organic frameworks (MOFs). MOFs have historically shown a direct use in adsorption-driven applications. Nonetheless, for a technology with more than 20 years in development, some challenges and gaps decrease the speed of implementation associated with safety and sustainability. This article focuses on identifying and studying the sustainability of MOF technology, specifically through the potential industrial production at a large scale. This work is the conclusion of a novel life cycle assessment (LCA) of MOF production, which is part of a multiscale framework for emerging technologies. The LCA applied to the case study of zeolitic imidazolate framework-67 (ZIF-67) is a comparative study of four different synthesis routes with the potential for industrial implementation. Mainly the traditional solvothermal technique is compared with the proposed reactive extrusion synthesis. By comparing the production of 1 kg ZIF-67, reactive extrusion is several orders of magnitude (∼3–5) lower than the solvothermal reaction in terms of environmental and health impacts. Using standard LCA methodology with the openLCA software, this research serves as an insightful source for MOFs and similar compounds at an early stage of development using data, information, tools, and standards.

@@ -1,0 +1,9 @@
+Title: Challenges of Robotic Technology in Sustainable Construction Practice
+Authors: R. Dindorf, Piotr Woś
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16135500
+Paper ID: https://openalex.org/W4400081892
+
+Abstract:
+This review discusses new technologies in the construction industry, such as digitalization, automation, and robotization, which have an impact on improving sustainable construction in the digital transformation in the era of Industry 4.0. This review focuses specifically on the impact of robotic technology on the triad of sustainable construction: economy, environment, and society. Current trends in the construction industry related to common data environments (CDEs), building information modeling (BIM), construction robots (CRs), and bricklaying robots (BRs) are highlighted. Robotics technology used throughout the construction industry in a sustainable construction context is presented, including bricklaying, plastering, painting, welding, prefabrication, and material handling. New trends in robotics technology with respect to robotic bricklaying are presented, and the first mobile robotic bricklaying system (RBS) in Poland, which was designed, modeled, simulated, and built from scratch, is distinguished. The RBS was tested under laboratory conditions and verified on the construction site. Included are the main factors that make it impossible to spread robotic technology on construction sites, and furthermore, many solutions are proposed to problems associated with the robotic transformation. The discussed robotic technology is not limited only to a purely technical approach but takes into account challenges corresponding to the circular economy.

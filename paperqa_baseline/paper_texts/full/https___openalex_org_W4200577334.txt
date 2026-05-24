@@ -1,0 +1,9 @@
+Title: Application of the DEMATEL Model for Assessing IT Sector’s Sustainability
+Authors: Kęstutis Peleckis
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132413866
+Paper ID: https://openalex.org/W4200577334
+
+Abstract:
+Understanding what are the IT sector’s business opportunities under distorted market conditions is a growing interest in sustainability research. This article investigates how to assess the IT sectors sustainability through a multicriterion assessment. For the assessment of the IT sector’s European and Slovenian competition policy, the DEMATEL technique was chosen. Fifteen economical performance indicators of IT sectors companies in 2015–2019 were selected for analysis. Given the multiplicity of criteria addressed in the sustainability issues, a multi-criteria analysis was used with the assistance of experts. In this research, the DEMATEL technique was developed for problem solving, for the assessment of the concentration of business entities that affect the competitive situation of economy. Results showed that comparison of the DEMATEL method with fuzzy and probability theories proved that it is possible to measure IT sector’s HHI-based performance.

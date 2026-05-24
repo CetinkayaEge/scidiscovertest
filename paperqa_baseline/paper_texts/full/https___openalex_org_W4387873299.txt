@@ -1,0 +1,9 @@
+Title: The nexus between labour force participation and environmental sustainability: Global comparative evidence
+Authors: Elvis Dze Achuo, Tii N. Nchofoung, Linda Julie Tiague Zanfack, Clovis Ekwelle Epoge
+Year: 2023
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2023.e21434
+Paper ID: https://openalex.org/W4387873299
+
+Abstract:
+The pursuit of environmental sustainability and decent employment are among the fundamental macroeconomic priorities of the 21st century. Extant studies reveal that labour market dynamics have a bearing on global greenhouse gas (GHG) emissions. Thus, this study empirically examines the effect of labour force participation on environmental sustainability from a global perspective. Employing the Driscoll-Kraay fixed effects (DKFE) and system Generalised Method of Moments (GMM) estimators for a panel of 173 countries from 1996 to 2020, we find that labour force participation (LFP) enhances environmental quality. When controlled for income differences, the study reveals that while LFP significantly reduces environmental pollution in Low-income and High-income countries, it is environment-degrading in Upper-middle-income countries. Furthermore, with regard to level of development and geographical region, rising LFP significantly reduces GHG emissions in developing countries, whereas the effect is insignificant in developed economies. Likewise, the effect of LFP is divergent across geographical regions. However, when LFP is disaggregated into the male and female components, the results show that male-LFP is environment degrading while female-LFP is environmental augmenting. Contingent on these findings, practical policy implications are discussed.

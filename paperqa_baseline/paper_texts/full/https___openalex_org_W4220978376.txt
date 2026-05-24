@@ -1,0 +1,9 @@
+Title: Evaluating the sustainability of soil improvement techniques in foundation substructures
+Authors: Antonio J. Sánchez-Garrido, Ignacio J. Navarro, Víctor Yepes
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.131463
+Paper ID: https://openalex.org/W4220978376
+
+Abstract:
+The soil is not always suitable or competent to support a direct shallow foundation in construction. In many cases, to avoid costly deep foundations, it is indicated to replace, improve, or reinforce such soil. This paper focuses on evaluating the contribution to sustainability between different soil improvement techniques and the outcome of their application to the foundation of a single-family house as an alternative to the one built. The life-cycle performance in sustainability is compared between the baseline design (without intervention), backfilling and soil compaction, soil-cement columns, rigid inclusion of micropiles, and nailing of precast joists. To characterize sustainability, a set of 37 indicators is proposed that integrate the economic or environmental aspects of each design alternative and its social impacts. A sustainability ranking is obtained for the different alternatives based on the ELECTRE IS method for multi-criteria decision-making (MCDM). The sensitivity of the obtained results is evaluated against different MCDM methods (TOPSIS, COPRAS) and different criteria weights. The evaluation provides a cross-cutting view, comparing the ability and reliability of each technique to prioritize the ground consolidation solution that best contributes to the sustainability in the design of a building's substructure.

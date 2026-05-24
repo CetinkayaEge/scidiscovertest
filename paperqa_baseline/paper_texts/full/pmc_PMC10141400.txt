@@ -1,0 +1,9 @@
+Title: Direct Observation of Grain-Boundary-Migration-Assisted Radiation Damage Healing in Ultrafine Grained Gold under Mechanical Stress
+Authors: Sandra Stangebye, Kunqing Ding, Yin Zhang, Eric Lang, Khalid Hattar, Ting Zhu, Josh Kacher, Olivier Pierron
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00180
+Paper ID: pmc_PMC10141400
+
+Abstract:
+Nanostructured metals are a promising class of radiation-tolerant materials. A large volume fraction of grain boundaries (GBs) can provide plenty of sinks for radiation damage, and understanding the underlying healing mechanisms is key to developing more effective radiation tolerant materials. Here, we observe radiation damage absorption by stress-assisted GB migration in ultrafine-grained Au thin films using a quantitative in situ transmission electron microscopy nanomechanical testing technique. We show that the GB migration rate is significantly higher in the unirradiated specimens. This behavior is attributed to the presence of smaller grains in the unirradiated specimens that are nearly absent in the irradiated specimens. Our experimental results also suggest that the GB mobility is decreased as a result of irradiation. This work implies that the deleterious effects of irradiation can be reduced by an evolving network of migrating GBs under stress.

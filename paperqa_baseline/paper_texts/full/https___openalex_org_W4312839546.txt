@@ -1,0 +1,9 @@
+Title: Practicing What We Preach? Reflections on More Sustainable and Responsible IS Research and Teaching Practices
+Authors: Johann Kranz, Roman Zeiß, Roman Beck, Roya Gholami, Saonee Sarker, Richard T. Watson, Edgar A. Whitley
+Year: 2022
+Venue: Communications of the Association for Information Systems
+DOI: https://doi.org/10.17705/1cais.05138
+Paper ID: https://openalex.org/W4312839546
+
+Abstract:
+Research on IS solutions for environmental sustainability has evolved into a modest, but a firm body of knowledge. Despite this progressive understanding of the potential of IS in enabling environmental sustainability, our academic practices seem widely unaffected by these insights. The way we research or teach is rarely influenced by consideration for sustainability. For example, before the pandemic, many of us belonged to a hypermobile group that travelled five to six times more than the average employee. Our research is also often not aligned with environmental goals. We research digital technologies without sufficiently acknowledging the significant amounts of resources they consume. Similarly, our teaching often focuses on the effective development and use of information systems; however, rebound, second order, or spillover effects are barely covered. Based on these observations we raise the question: Are we practicing enough of what we preach? While recognizing several efforts of IS researchers, we can no longer ignore the ‘environmental elephant in the room’. In our panel report, we discuss the status-quo and ideas to improve the environmental and societal impact of our academic practices and present three ideas to move forward: Leverage virtualization and limit air travel, overhaul teaching curricula, and recalibrate incentives and evaluation regimes.

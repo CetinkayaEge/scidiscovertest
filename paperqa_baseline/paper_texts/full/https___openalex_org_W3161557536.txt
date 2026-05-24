@@ -1,0 +1,9 @@
+Title: A Biomimetic Macroporous Hybrid Scaffold with Sustained Drug Delivery for Enhanced Bone Regeneration
+Authors: Seunghun S. Lee, Matthias Santschi, Stephen J. Ferguson
+Year: 2021
+Venue: Biomacromolecules
+DOI: https://doi.org/10.1021/acs.biomac.1c00241
+Paper ID: https://openalex.org/W3161557536
+
+Abstract:
+Bone regeneration is a highly complex physiological process regulated by several factors. In particular, bone-mimicking extracellular matrix and available osteogenic growth factors such as bone morphogenetic protein (BMP) have been regarded as key contributors for bone regeneration. In this study, we developed a biomimetic hybrid scaffold (CEGH) with sustained release of BMP-2 that would result in enhanced bone formation. This hybrid scaffold, composed of BMP-2-loaded cryoelectrospun poly(ε-caprolactone) (PCL) (CE) surrounded by a macroporous gelatin/heparin cryogel (GH), is designed to overcome the drawbacks of the relatively weak mechanical properties of cryogels and poor biocompatibility and hydrophobicity of electrospun PCL. The GH component of the hybrid scaffold provides a hydrophilic surface to improve the biological response of the cells, while the CE component increases the mechanical strength of the scaffold to provide enhanced mechanical support for the defect area and a stable environment for osteogenic differentiation. After analyzing characteristics of the hybrid scaffold such as hydrophilicity, pore difference, mechanical properties, and surface charge, we confirmed that the hybrid scaffold shows enhanced cell proliferation rate and apatite formation in simulated body fluid. Then, we evaluated drug release kinetics of CEGH and confirmed the sustained release of BMP-2. Finally, the enhanced osteogenic differentiation of CEGH with sustained release of BMP-2 was confirmed by Alizarin Red S staining and real-time PCR analysis.

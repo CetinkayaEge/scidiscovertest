@@ -1,0 +1,9 @@
+Title: Exploring biosurfactants as a sustainable alternative to chemical surfactants
+Authors: Yang Li, Guangze Yang, Yilun Weng, Letao Xu, Fei Hou, Shankar Raj Devkota, Chun‐Xia Zhao
+Year: 2023
+Venue: Colloids and Surfaces A Physicochemical and Engineering Aspects
+DOI: https://doi.org/10.1016/j.colsurfa.2023.132291
+Paper ID: https://openalex.org/W4386193663
+
+Abstract:
+Surfactants play critical roles in various applications including food, pharmaceuticals, cosmetics, mineral processing, wastewater treatment, etc. However, traditional chemical-based surfactants are often non-biodegradable, toxic, and persistent, leading to environmental pollution and potential health risks. To address these challenges, bio-inspired surfactants have emerged as promising alternatives owing to their well-defined compositions, biodegradability, biocompatibility, and the potential to finely tune their functionality by altering the amino acid sequence. Here, we report a comparative study of traditional foaming agents, MIBC, DPG, and DPM, and a bio-inspired peptide surfactant, AM1, and a protein surfactant, DAMP4. Furthermore, the pH- and metal ion- responsive properties of these two biosurfactants make them an innovative class of smart materials that can further expand the scope of applications. Our findings provide new insights into the potential of applying these new biosurfactants for various applications, representing a sustainable and environmentally friendly alternative approach.

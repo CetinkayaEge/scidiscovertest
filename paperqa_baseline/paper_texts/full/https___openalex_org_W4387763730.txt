@@ -1,0 +1,9 @@
+Title: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb
+Authors: Shuangshuang Ma, Min Chen, Yihao Jiang, Xinkuan Xiang, Shiqi Wang, Zuohang Wu, Shuo Li, Yihui Cui, Junying Wang, Yanqing Zhu, Yan Zhang, Huan Ma, Shumin Duan, Haohong Li, Yan Yang, Christopher J. Lingle, Hailan Hu
+Year: 2023
+Venue: Nature
+DOI: https://doi.org/10.1038/s41586-023-06624-1
+Paper ID: https://openalex.org/W4387763730
+
+Abstract:
+. This large discrepancy poses an interesting basic biological question and has strong clinical implications. Here we demonstrate that after a single systemic injection, ketamine continues to suppress burst firing and block NMDARs in the lateral habenula (LHb) for up to 24 h. This long inhibition of NMDARs is not due to endocytosis but depends on the use-dependent trapping of ketamine in NMDARs. The rate of untrapping is regulated by neural activity. Harnessing the dynamic equilibrium of ketamine-NMDAR interactions by activating the LHb and opening local NMDARs at different plasma ketamine concentrations, we were able to either shorten or prolong the antidepressant effects of ketamine in vivo. These results provide new insights into the causal mechanisms of the sustained antidepressant effects of ketamine. The ability to modulate the duration of ketamine action based on the biophysical properties of ketamine-NMDAR interactions opens up new opportunities for the therapeutic use of ketamine.

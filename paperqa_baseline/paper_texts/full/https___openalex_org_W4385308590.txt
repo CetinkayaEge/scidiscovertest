@@ -1,0 +1,9 @@
+Title: Comparative study of electroreduction of iron oxide using acidic and alkaline electrolytes for sustainable iron production
+Authors: Akmal Irfan Majid, Niels van Graefschepe, Giulia Finotello, J. van der Schaaf, N.G. Deen, Yali Tang
+Year: 2023
+Venue: Electrochimica Acta
+DOI: https://doi.org/10.1016/j.electacta.2023.142942
+Paper ID: https://openalex.org/W4385308590
+
+Abstract:
+Sustainable iron production is largely driven by the urgency to reduce the extensive energy consumption and emissions in the iron/steel sectors. Low-temperature electroreduction of iron oxide technology is thus revived since it directly utilizes (green) electrical energy with a competitive energy consumption compared to the thermochemical reduction approach. In the present work, we perform theoretical and experimental studies for comparison of electroreduction of iron oxide in aqueous alkaline and acidic electrolytes. Electrochemical reduction and deposition behavior are experimentally investigated using a lab-scale cell containing an electrolyte suspended with micron-sized Fe2O3 (hematite) powders. The effects of current density and hematite mass fraction on current efficiency are evaluated, as well as the total energy consumption. Results of chrono-potentiometry and cyclic voltammograms (CV) reveal the electrochemical properties of each system. The CV's cathodic peaks, corresponding to the reduction of iron oxides to iron, are observed only in the alkaline system where the iron oxide can be reduced at about -1.4 V (vs. Ag/AgCl). It is also found that the alkaline system has higher current efficiency (25-30% higher) and lower energy consumption (∼30% lower) than the acidic system. The cleaning of the deposit is also easier for the alkaline system, resulting in an iron product of high purity. Concerning the electrochemical performances and practicality, the alkaline electroreduction system shows promising potential for sustainable iron production.

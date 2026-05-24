@@ -1,0 +1,9 @@
+Title: NADK is activated by oncogenic signaling to sustain pancreatic ductal adenocarcinoma
+Authors: Tanya Schild, Melanie R. McReynolds, Christie Shea, Vivien Low, Bethany E. Schaffer, John M. Asara, Elena Piskounova, Noah Dephoure, Joshua D. Rabinowitz, Ana P. Gomes, John Blenis
+Year: 2021
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2021.109238
+Paper ID: https://openalex.org/W3167871404
+
+Abstract:
+Metabolic adaptations and the signaling events that control them promote the survival of pancreatic ductal adenocarcinoma (PDAC) at the fibrotic tumor site, overcoming stresses associated with nutrient and oxygen deprivation. Recently, rewiring of NADPH production has been shown to play a key role in this process. NADPH is recycled through reduction of NADP+ by several enzymatic systems in cells. However, de novo NADP+ is synthesized only through one known enzymatic reaction, catalyzed by NAD+ kinase (NADK). In this study, we show that oncogenic KRAS promotes protein kinase C (PKC)-mediated NADK phosphorylation, leading to its hyperactivation, thus sustaining both NADP+ and NADPH levels in PDAC cells. Together, our data show that increased NADK activity is an important adaptation driven by oncogenic signaling. Our findings indicate that NADK could serve as a much-needed therapeutic target for PDAC.

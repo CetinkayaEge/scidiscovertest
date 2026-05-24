@@ -1,0 +1,9 @@
+Title: Modeling the impact of sustainable aviation fuel properties on end-use performance and emissions in aircraft jet engines
+Authors: Yuri Kroyan, Michał Wojcieszyk, Ossi Kaario, Martti Larmi
+Year: 2022
+Venue: Energy
+DOI: https://doi.org/10.1016/j.energy.2022.124470
+Paper ID: https://openalex.org/W4283272980
+
+Abstract:
+The present study supports the development and testing of alternative jet fuels by introducing a state-of-the-art mathematical model that enables for the first-time accurate estimations of the fuel consumption in jet engines via employing the collective impact of the most significant fuel properties. Based on literature data the matrix with fuel properties and end-use performances was constructed. The Best Multiple Linear Regression combined with quantitative analysis was employed in the modeling procedure. The developed Jet-model contains the effects of viscosity, density, and calorific content on fuel consumption, with p-values much below 1%. The coefficient of determination R-Square of 0,993 indicates a high accuracy, that in the validation procedure translated into the error of 0,21% against internal data and 0,68% in external data. The Jet-model was applied to simulate the end-use performance of commercial sustainable aviation fuels. The results show changes in fuel consumption relative to standard kerosene oscillating between −0,85% and +3,72% and reduction in carbon dioxide emissions that vary from −3,22% to +0,42% for selected fuels. The present study shows that Sustainable Aviation Fuels have the potential to outperform their fossil counterpart not only in terms of the environmental impact but also in fuel and energy consumption.

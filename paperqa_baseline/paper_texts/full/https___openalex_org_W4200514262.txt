@@ -1,0 +1,9 @@
+Title: Towards value-creating and sustainable open data ecosystems: A comparative case study and a research agenda
+Authors: B. van Loenen, Anneke Zuiderwijk, Glenn Vancauwenberghe, Francisco J. López-Pellicer, Ingrid Mulder, Charalampos Alexopoulos, Rikke Magnussen, Mubashrah Saddiqa, Mélanie Dulong de Rosnay, Joep Crompvoets, Andrea Polini, Barbara Re, César Casiano Flores
+Year: 2021
+Venue: JeDEM - eJournal of eDemocracy and Open Government
+DOI: https://doi.org/10.29379/jedem.v13i2.644
+Paper ID: https://openalex.org/W4200514262
+
+Abstract:
+Current open data systems lag behind in their promised value creation and sustainability. The objective of the current study is twofold: 1) to investigate whether existing open data systems meet the requirements of open data ecosystems, and 2) to develop a research agenda that discusses the gaps between current open data systems on the one hand and participatory, value-creating, sustainable open data ecosystems on the other hand. The literature reveals that the main characteristics of value-creating, sustainable open data ecosystems are user-drivenness, inclusiveness, circularity, and skill-based. Our comparative case study of five open data systems in various application domains and countries highlighted that none of these systems are real open data ecosystems: they often do not balance open data supply and demand, exclude specific user groups and domains, are linear, and lack skill-training. We elaborate on a research agenda that discusses how research should address the challenge of making open data ecosystems more value-generating and sustainable.

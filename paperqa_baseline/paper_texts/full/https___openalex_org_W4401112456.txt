@@ -1,0 +1,9 @@
+Title: Practical application of graphite in lithium-ion batteries: Modification, composite, and sustainable recycling
+Authors: Hailan Zhao, Haibin Zuo, Jingxiu Wang, Shuqiang Jiao
+Year: 2024
+Venue: Journal of Energy Storage
+DOI: https://doi.org/10.1016/j.est.2024.113125
+Paper ID: https://openalex.org/W4401112456
+
+Abstract:
+Graphite has been a near-perfect and indisputable anode material in lithium-ion batteries, due to its high energy density, low embedded lithium potential, good stability, wide availability and cost-effectiveness. However, the inherent limitation in capacity of graphite anodes necessitates the exploration of efficient, controllable, safe, and environmentally friendly methods to enhance the performance for practical applications. This review highlights the historic evolution, current research status, and future development trend of graphite negative electrode materials. We summarized innovative modification strategies aiming at optimizing graphite anodes, focusing on augmenting multiplicity performance and energy density through diverse techniques and a comparative analysis of traditional modification measures. We proposed rational design of Silicon/Graphite composite electrode materials and efficient conversion pathways for waste graphite recycling into graphite negative electrode. Finally, we emphasized the challenges in technological implementation and practical applications, offering fresh perspectives for future battery material research towards waste graphite recycling. This review aims to inspire new ideas for practical applications and rational design of next-generation graphite-based electrodes, contributing to the advancement of lithium-ion battery technology and environmental sustainability.

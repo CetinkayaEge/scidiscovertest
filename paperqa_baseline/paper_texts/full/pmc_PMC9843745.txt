@@ -1,0 +1,9 @@
+Title: Agonist (P1) Antibody Converts Stem Cells into Migrating Beta-Like Cells in Pancreatic Islets
+Authors: Eun Ji Lee, Seung-Ho Baek, Chi Hun Song, Yong Hwan Choi, Kyung Ho Han
+Year: 2022
+Venue: Journal of Microbiology and Biotechnology
+DOI: 10.4014/jmb.2209.09031
+Paper ID: pmc_PMC9843745
+
+Abstract:
+Tissue regeneration is the ultimate treatment for many degenerative diseases, however, repair and regeneration of damaged organs or tissues remains a challenge. Previously, we showed that B1 Ab and H3 Ab induce stem cells to differentiate into microglia and brown adipocyte-like cells, while trafficking to the brain and heart, respectively. Here, we present data showing that another selected agonist antibody, P1 antibody, induces the migration of cells to the pancreatic islets and differentiates human stem cells into beta-like cells. Interestingly, our results suggest the purified P1 Ab induces beta-like cells from fresh, human CD34 + hematopoietic stem cells and mouse bone marrow. In addition, stem cells with P1 Ab bound to expressed periostin (POSTN), an extracellular matrix protein that regulates tissue remodeling, selectively migrate to mouse pancreatic islets. Thus, these results confirm that our in vivo selection system can be used to identify antibodies from our library which are capable of inducing stem cell differentiation and cell migration to select tissues for the purpose of regenerating and remodeling damaged organ systems.

@@ -1,0 +1,9 @@
+Title: Role of machine learning in attaining environmental sustainability
+Authors: P. Asha, Kasiprasad Mannepalli, Rashmita Khilar, N. Subbulakshmi, R V Dhanalakshmi, Vikas Tripathi, V. Mohanavel, Ravishankar Sathyamurthy, M. Sudhakar
+Year: 2022
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2022.09.206
+Paper ID: https://openalex.org/W4306895318
+
+Abstract:
+Climate change and sustainable development are significant challenges that must be addressed as soon as possible. As a result of this vision, the renewable energy (RE) industry has experienced great growth, with artificial intelligence being applied to improve its overall efficiency (AI). However, when it comes to achieving the sustainable development goals (SDGs), they are not sufficiently explored or considered. Countries all across the world are seeking to achieve 100% renewable energy by 2050, and this is a goal shared by a large number of other nations. More research is needed to evaluate whether renewable energy (RE) can assist us in meeting our sustainable development goals, given that it has lately experienced a considerable increase in popularity and is having an increasing impact on the global energy industry. In addition, an assessment of AI potential contribution to the achievement of the Sustainable Development Goals is being carried out. In this paper, we develop a machine learning model using Regression Kriging to classify the radiative energy flux at the earth surface in order of attaining environmental sustainability using solar panels. Various factors are given as input to the model that takes into account the modelling of data in obtaining the environmental sustainability. The simulation is conducted to test the efficacy of the model in obtaining the environmental sustainability and the results shows improved sustainability than other methods.

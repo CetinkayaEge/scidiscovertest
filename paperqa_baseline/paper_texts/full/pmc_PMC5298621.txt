@@ -1,0 +1,9 @@
+Title: Influence of Individual Differences on the Calculation Method for FBG-Type Blood Pressure Sensors
+Authors: Shouhei Koyama, Hiroaki Ishizawa, Keisaku Fujimoto, Shun Chino, Yuka Kobayashi
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010048
+Paper ID: pmc_PMC5298621
+
+Abstract:
+In this paper, we propose a blood pressure calculation and associated measurement method that by using a fiber Bragg grating (FBG) sensor. There are several points at which the pulse can be measured on the surface of the human body, and when a FBG sensor located at any of these points, the pulse wave signal can be measured. The measured waveform is similar to the acceleration pulse wave. The pulse wave signal changes depending on several factors, including whether or not the individual is healthy and/or elderly. The measured pulse wave signal can be used to calculate the blood pressure using a calibration curve, which is constructed by a partial least squares (PLS) regression analysis using a reference blood pressure and the pulse wave signal. In this paper, we focus on the influence of individual differences from calculated blood pressure based on each calibration curve. In our study, the calculated blood pressure from both the individual and overall calibration curves were compared, and our results show that the calculated blood pressure based on the overall calibration curve had a lower measurement accuracy than that based on an individual calibration curve. We also found that the influence of the individual differences on the calculated blood pressure when using the FBG sensor method were very low. Therefore, the FBG sensor method that we developed for measuring the blood pressure was found to be suitable for use by many people.

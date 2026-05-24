@@ -1,0 +1,9 @@
+Title: Efficiency improvement of GaN-based ultraviolet light-emitting diodes with reactive plasma deposited AlN nucleation layer on patterned sapphire substrate
+Authors: Chia-Yu Lee, An-Jye Tzou, Bing-Cheng Lin, Yu-Pin Lan, Ching-Hsueh Chiu, Gou-Chung Chi, Chi-Hsiang Chen, Hao-Chung Kuo, Ray-Ming Lin, Chun-Yen Chang
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-505
+Paper ID: pmc_PMC4174280
+
+Abstract:
+The flip chip ultraviolet light-emitting diodes (FC UV-LEDs) with a wavelength of 365 nm are developed with the ex situ reactive plasma deposited (RPD) AlN nucleation layer on patterned sapphire substrate (PSS) by an atmospheric pressure metal-organic chemical vapor deposition (AP MOCVD). The ex situ RPD AlN nucleation layer can significantly reduce dislocation density and thus improve the crystal quality of the GaN epitaxial layers. Utilizing high-resolution X-ray diffraction, the full width at half maximum of the rocking curve shows that the crystalline quality of the epitaxial layer with the (RPD) AlN nucleation layer is better than that with the low-temperature GaN (LT-GaN) nucleation layer. The threading dislocation density (TDD) is estimated by transmission electron microscopy (TEM), which shows the reduction from 6.8 × 10 7 cm −2 to 2.6 × 10 7 cm −2 . Furthermore, the light output power (LOP) of the LEDs with the RPD AlN nucleation layer has been improved up to 30 % at a forward current of 350 mA compared to that of the LEDs grown on PSS with conventional LT-GaN nucleation layer.

@@ -1,0 +1,9 @@
+Title: PPARα-UGT axis activation represses intestinal FXR-FGF15 feedback signalling and exacerbates experimental colitis
+Authors: Xueyan Zhou, Lijuan Cao, Changtao Jiang, Yang Xie, Xuefang Cheng, Kristopher W. Krausz, Yunpeng Qi, Lu Sun, Yatrik M. Shah, Frank J. Gonzalez, Guangji Wang, Haiping Hao
+Year: 2014
+Venue: Nature Communications
+DOI: 10.1038/ncomms5573
+Paper ID: pmc_PMC4164778
+
+Abstract:
+Bile acids play a pivotal role in the pathological development of inflammatory bowel disease (IBD). However, the mechanism of bile acid dysregulation in IBD remains unanswered. Here we show that intestinal peroxisome proliferator-activated receptor α (PPARα)-UDP-glucuronosyltransferases (UGTs) signalling is an important determinant of bile acid homeostasis. Dextran sulphate sodium (DSS)-induced colitis leads to accumulation of bile acids in inflamed colon tissues via activation of the intestinal peroxisome PPARα-UGTs pathway. UGTs accelerate the metabolic elimination of bile acids, and thereby decrease their intracellular levels in the small intestine. Reduced intracellular bile acids results in repressed farnesoid X receptor (FXR)-FGF15 signalling, leading to upregulation of hepatic CYP7A1, thus promoting the de novo bile acid synthesis. Both knockout of PPARα and treatment with recombinant FGF19 markedly attenuate DSS-induced colitis. Thus, we propose that intestinal PPARα-UGTs and downstream FXR-FGF15 signalling play vital roles in control of bile acid homeostasis and the pathological development of colitis. Bile acids have been linked to the development of inflammatory bowel diseases, such as colitis. Here the authors show that bile acid levels in mice are controlled by a circular feedback system involving the nuclear receptors PPARα and FXR, and that this system is dysregulated in colitis.

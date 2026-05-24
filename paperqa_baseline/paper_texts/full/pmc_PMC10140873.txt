@@ -1,0 +1,9 @@
+Title: Effect of Hypericin-Mediated Photodynamic Therapy on the Secretion of Soluble TNF Receptors by Oral Cancer Cells
+Authors: Marcin Olek, Agnieszka Machorowska-Pieniążek, Zenon P. Czuba, Grzegorz Cieślar, Aleksandra Kawczyk-Krupka
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041279
+Paper ID: pmc_PMC10140873
+
+Abstract:
+Squamous cell carcinoma is the most common cancer of the head and neck region. In addition to the classic surgical treatment method, alternative therapy methods are sought. One such method is photodynamic therapy (PDT). In addition to the direct cytotoxic effect, it is essential to determine the effect of PDT on persistent tumor cells. The study used the SCC-25 oral squamous cell carcinoma (OSCC) cell line and the HGF-1 healthy gingival fibroblast line. A compound of natural origin—hypericin (HY)—was used as a photosensitizer (PS) at concentrations of 0–1 µM. After two hours of incubation with the PS, the cells were irradiated with light doses of 0–20 J/cm 2 . The 3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyltetrazolium bromide (MTT) test was used to determine sublethal doses of PDT. Cell supernatants subjected to sublethal PDT were assessed for soluble tumor necrosis alpha receptors (sTNF-R1, sTNF-R2). The phototoxic effect was observed starting with a light dose of 5 J/cm 2 and amplified with the increase in HY concentration and light dose. A statistically significant increase in sTNF-R1 secretion by SCC-25 cells was demonstrated after the PDT with 0.5 µM HY and irradiation with 2 J/cm 2 (sTNF-R1 concentration = 189.19 pg/mL ± 2.60) compared to the control without HY and irradiated with the same dose of light (sTNF-R1 concentration = 108.94 pg/mL ± 0.99). The baseline production of sTNF-R1 was lower for HGF-1 than for SCC-25, and secretion was not affected by the PDT. The PDT had no effect on the sTNF-R2 production in the SCC-25 or HGF-1 lines.

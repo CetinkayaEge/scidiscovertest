@@ -1,0 +1,9 @@
+Title: Hsa-miR-19a is associated with lymph metastasis and mediates the TNF-α induced epithelial-to-mesenchymal transition in colorectal cancer
+Authors: Lanlan Huang, Xiaoyan Wang, Chuangyu Wen, Xiangling Yang, Minmin Song, Junxiong Chen, Chenliang Wang, Bo Zhang, Lei Wang, Aikichi Iwamoto, Jianping Wang, Huanliang Liu
+Year: 2015
+Venue: Scientific Reports
+DOI: 10.1038/srep13350
+Paper ID: pmc_PMC5388049
+
+Abstract:
+Lymph node metastasis is an important factor determining the outcome of colorectal cancer. Although epithelial-to-mesenchymal transition (EMT), TNF-α and microRNA (miRNA) have been found to play important roles in lymph node metastasis, the underlying molecular mechanism remains unclear. Here we reported that high expression of microRNA-19a (miR-19a) was associated with lymph node metastasis and played an important role in TNF-α-induced EMT in colorectal cancer (CRC) cells. We analyzed miR-19a expression in surgical tissue specimens from 11 CRC patients and 275 formalin-fixed, paraffin-embedded CRC patients. We found that miR-19a was up-regulated in CRC tissues and high expression of miR-19a was significantly associated with lymph node metastasis. We further analyzed miR-19a lymph node metastasis signature in an external validation cohort of 311 CRC cases of the TCGA. MiR-19a was found to be significantly associated with lymph node metastasis in rectal cancer. In vitro , we showed that overexpression of miR-19a in human CRC cell lines promoted cell invasion and EMT. Furthermore, miR-19a was up-regulated by TNF-α and miR-19a was required for TNF-α-induced EMT and metastasis in CRC cells. Collectively, miR-19a played an important role in mediating EMT and metastatic behavior in CRC. It may serve as a potential marker of lymph node metastasis.

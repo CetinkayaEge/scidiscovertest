@@ -1,0 +1,9 @@
+Title: Advances in Soft Materials for Sustainable Electronics
+Authors: Moon Jong Han, Dong Ki Yoon
+Year: 2021
+Venue: Engineering
+DOI: https://doi.org/10.1016/j.eng.2021.02.010
+Paper ID: https://openalex.org/W3156550660
+
+Abstract:
+In the current shift from conventional fossil-fuel-based materials to renewable energy, ecofriendly materials have attracted extensive research interest due to their sustainability and biodegradable properties. The integration of sustainable materials in electronics provides industrial benefits from wasted bio-origin resources and preserves the environment. This review covers the use of sustainable materials as components in organic electronics, such as substrates, insulators, semiconductors, and conductors. We hope this review will stimulate interest in the potential and practical applications of sustainable materials for green and sustainable industry.

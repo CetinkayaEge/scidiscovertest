@@ -1,0 +1,9 @@
+Title: Cybersecurity and Confidentiality in Smart Grid for Enhancing Sustainability and Reliability
+Authors: Rahul Jha
+Year: 2023
+Venue: Recent Research Reviews Journal
+DOI: https://doi.org/10.36548/rrrj.2023.2.001
+Paper ID: https://openalex.org/W4385307366
+
+Abstract:
+Ensuring cybersecurity and confidentiality in smart grids is crucial for enhancing sustainability and reliability in today's technology-driven world. With the increasing reliance on smart grid technologies, it is imperative to address the potential cybersecurity risks and protect the confidentiality of sensitive data. This research focuses on exploring the challenges and strategies associated with cybersecurity and confidentiality in smart grids. It examines the importance of safeguarding smart grid infrastructure from cyber threats to maintain sustainable and reliable energy delivery systems. The study investigates various techniques and technologies, including encryption, authentication, intrusion detection, and secure communication protocols, that can be employed to enhance the cybersecurity and confidentiality of smart grids. By highlighting the significance of a robust cybersecurity framework and the integration of privacy-preserving measures, this research aims to contribute to the development of secure and resilient smart grid systems. The findings and recommendations presented in this work provide valuable insights for policymakers, industry professionals, and researchers involved in the design and implementation of secure smart grid solutions, ultimately leading to the advancement of sustainable and reliable energy infrastructures.

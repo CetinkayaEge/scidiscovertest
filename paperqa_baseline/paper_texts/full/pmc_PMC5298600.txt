@@ -1,0 +1,9 @@
+Title: Node Redeployment Algorithm Based on Stratified Connected Tree for Underwater Sensor Networks
+Authors: Jun Liu, Peng Jiang, Feng Wu, Shanen Yu, Chunyue Song
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010027
+Paper ID: pmc_PMC5298600
+
+Abstract:
+During the underwater sensor networks (UWSNs) operation, node drift with water environment causes network topology changes. Periodic node location examination and adjustment are needed to maintain good network monitoring quality as long as possible. In this paper, a node redeployment algorithm based on stratified connected tree for UWSNs is proposed. At every network adjustment moment, self-examination and adjustment on node locations are performed firstly. If a node is outside the monitored space, it returns to the last location recorded in its memory along straight line. Later, the network topology is stratified into a connected tree that takes the sink node as the root node by broadcasting ready information level by level, which can improve the network connectivity rate. Finally, with synthetically considering network coverage and connectivity rates, and node movement distance, the sink node performs centralized optimization on locations of leaf nodes in the stratified connected tree. Simulation results show that the proposed redeployment algorithm can not only keep the number of nodes in the monitored space as much as possible and maintain good network coverage and connectivity rates during network operation, but also reduce node movement distance during node redeployment and prolong the network lifetime.

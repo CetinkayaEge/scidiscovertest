@@ -1,0 +1,9 @@
+Title: The Pu.1 target gene Zbtb11 regulates neutrophil development through its integrase-like HHCC zinc finger
+Authors: Maria-Cristina Keightley, Duncan P. Carradice, Judith E. Layton, Luke Pase, Julien Y. Bertrand, Johannes G. Wittig, Aleksandar Dakic, Andrew P. Badrock, Nicholas J. Cole, David Traver, Stephen L. Nutt, Julia McCoey, Ashley M. Buckle, Joan K. Heath, Graham J. Lieschke
+Year: 2017
+Venue: Nature Communications
+DOI: 10.1038/ncomms14911
+Paper ID: pmc_PMC5384227
+
+Abstract:
+In response to infection and injury, the neutrophil population rapidly expands and then quickly re-establishes the basal state when inflammation resolves. The exact pathways governing neutrophil/macrophage lineage outputs from a common granulocyte-macrophage progenitor are still not completely understood. From a forward genetic screen in zebrafish, we identify the transcriptional repressor, ZBTB11, as critical for basal and emergency granulopoiesis. ZBTB11 sits in a pathway directly downstream of master myeloid regulators including PU.1, and TP53 is one direct ZBTB11 transcriptional target. TP53 repression is dependent on ZBTB11 cys116, which is a functionally critical, metal ion-coordinating residue within a novel viral integrase-like zinc finger domain. To our knowledge, this is the first description of a function for this domain in a cellular protein. We demonstrate that the PU.1–ZBTB11–TP53 pathway is conserved from fish to mammals. Finally, Zbtb11 mutant rescue experiments point to a ZBTB11-regulated TP53 requirement in development of other organs. Neutrophils are increased in response to injury and infection but how they form from a common granulocyte-macrophage progenitor is unclear. Here, the authors identify a role for the transcriptional repressor ZBTB11 in zebrafish, which is regulated by master myeloid regulators and represses TP53 .

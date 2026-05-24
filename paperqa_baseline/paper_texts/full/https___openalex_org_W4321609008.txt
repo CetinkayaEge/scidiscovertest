@@ -1,0 +1,9 @@
+Title: Sustainable Regeneration of Spent Graphite as a Cathode Material for a High-Performance Dual-Ion Battery
+Authors: Mengting Zheng, Juncheng Wang, Shangshu Qian, Qiang Sun, Hao Chen, Liang Zhang, Zhenzhen Wu, Shanqing Zhang, Tiefeng Liu
+Year: 2023
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c05124
+Paper ID: https://openalex.org/W4321609008
+
+Abstract:
+A resource-efficient and energy-saving recycling process is vital for establishing a sustainable circular economy of lithium-ion batteries (LIBs). Herein, we propose and use a one-step water-based recycling process to recycle and regenerate the graphite anode materials from spent LIBs. This process can not only successfully regenerate graphite from a solid electrolyte interface, dead lithium, and residual electrolyte and maintain its long-range-ordered layer graphite structure but also enlarge the interlayer distance and introduce abundant oxygen-containing functional groups to the as-regenerated graphite. Our electrochemical characterization and density functional theory (DFT) calculations reveal that expanded interlayer spacing and the oxygen-containing moieties make the regenerated graphite more suitable for storing PF6– rather than Li+. As such, the as-regenerated graphite facilitates resultant graphite dual-ion batteries (GDIBs) with impressive rate performance and stability, for example, an 85.3% capacity retention even after 500 cycles at 1 A g–1. Such a simple waste-to-resource strategy proposed in this work is expected to provide a low-cost and inspiring recycling pathway for spent LIBs and enable the sustainable manufacturing of GDIBs.

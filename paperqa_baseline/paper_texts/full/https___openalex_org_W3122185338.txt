@@ -1,0 +1,9 @@
+Title: A 21st Century Warming Threshold for Sustained Greenland Ice Sheet Mass Loss
+Authors: Brice Noël, Leo van Kampenhout, Jan T. M. Lenaerts, Willem Jan van de Berg, M. R. van den Broeke
+Year: 2021
+Venue: Geophysical Research Letters
+DOI: https://doi.org/10.1029/2020gl090471
+Paper ID: https://openalex.org/W3122185338
+
+Abstract:
+Abstract Under anticipated future warming, the Greenland ice sheet (GrIS) will pass a threshold when meltwater runoff exceeds the accumulation of snow, resulting in a negative surface mass balance (SMB &lt; 0) and sustained mass loss. Here, we dynamically and statistically downscale the outputs of an Earth system model to 1 km resolution to infer that a Greenland near‐surface atmospheric warming of 4.5 ± 0.3°C—relative to preindustrial—is required for GrIS SMB to become persistently negative. Climate models from CMIP5 and CMIP6 translate this regional temperature change to a global warming threshold of 2.7 ± 0.2°C. Under a high‐end warming scenario, this threshold may be reached around 2055, while for a strong mitigation scenario it will likely not be passed. Depending on the emissions scenario taken, our method estimates 6–13 cm sea level rise from GrIS SMB by the year 2100.

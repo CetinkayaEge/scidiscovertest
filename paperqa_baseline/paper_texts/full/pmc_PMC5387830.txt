@@ -1,0 +1,9 @@
+Title: Role of Protein Kinase C and Nox2-Derived Reactive Oxygen Species Formation in the Activation and Maturation of Dendritic Cells by Phorbol Ester and Lipopolysaccharide
+Authors: Judith Stein, Sebastian Steven, Matthias Bros, Stephan Sudowe, Michael Hausding, Matthias Oelze, Thomas Münzel, Stephan Grabbe, Angelika Reske-Kunz, Andreas Daiber
+Year: 2017
+Venue: Oxidative Medicine and Cellular Longevity
+DOI: 10.1155/2017/4157213
+Paper ID: pmc_PMC5387830
+
+Abstract:
+Aims . Activation/maturation of dendritic cells (DCs) plays a central role in adaptive immune responses by antigen processing and (cross-) activation of T cells. There is ongoing discussion on the role of reactive oxygen species (ROS) in these processes and with the present study we investigated this enigmatic pathway. Methods and Results . DCs were cultured from precursors in the bone marrow of mice (BM-DCs) and analyzed for ROS formation, maturation, and T cell stimulatory capacity upon stimulation with phorbol ester (PDBu) and lipopolysaccharide (LPS). LPS stimulation of BM-DCs caused maturation with moderate intracellular ROS formation, whereas PDBu treatment resulted in maturation with significant ROS formation. The NADPH oxidase inhibitors apocynin/VAS2870 and genetic gp91phox deletion both decreased the ROS signal in PDBu-stimulated BM-DCs without affecting maturation and T cell stimulatory capacity of BM-DCs. In contrast, the protein kinase C inhibitors chelerythrine/Gö6983 decreased PDBu-stimulated ROS formation in BM-DCs as well as maturation. Conclusion . Obviously Nox2-dependent ROS formation in BM-DCs is not always required for their maturation or T cell stimulatory potential. PDBu/LPS-triggered BM-DC maturation rather relies on phosphorylation cascades. Our results question the role of oxidative stress as an essential “danger signal” for BM-DC activation, although we cannot exclude contribution by other ROS sources.

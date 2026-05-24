@@ -1,0 +1,9 @@
+Title: Measuring the economic sustainability of Italian farms using FADN data
+Authors: Adele Coppola, Mario Amato, Domenico Vistocco, Fabio Verneau
+Year: 2022
+Venue: Agricultural Economics (Zemědělská ekonomika)
+DOI: https://doi.org/10.17221/169/2022-agricecon
+Paper ID: https://openalex.org/W4296212537
+
+Abstract:
+In recent literature, the issue of sustainability and its measure has been addressed with different approaches that depend on the multidimensional nature of the concept and the specific sector and context to which it applies. The present work focuses on the economic sustainability component and suggests an operative measure at the farm level. The measure of economic sustainability has been applied to Italian family farms using Farm Accountancy Data Network (FADN). Based on this data, an efficiency indicator (EI) and two income indicators [a factor profitability indicator (FPI) and a comparable income indicator (CII)] expressing the ability to remunerate the entrepreneur's production factors at their opportunity cost and the farm's income capacity have been used in a principal component analysis (PCA) to build an economic sustainability index (SI). The index was used to describe Italian farms' economic sustainability levels but was also the cue to discuss problems related to identifying economic sustainability thresholds and the trade-off between efficiency and income components.

@@ -1,0 +1,9 @@
+Title: The pattern of coding sequences in the chloroplast genome of Atropa belladonna and a comparative analysis with other related genomes in the nightshade family
+Authors: Satyabrata Sahoo, Ria Rakshit
+Year: 2022
+Venue: Genomics & Informatics
+DOI: 10.5808/gi.22045
+Paper ID: pmc_PMC9847383
+
+Abstract:
+Atropa belladonna is a valuable medicinal plant and a commercial source of tropane alkaloids, which are frequently utilized in therapeutic practice. In this study, bioinformatic methodologies were used to examine the pattern of coding sequences and the factors that might influence codon usage bias in the chloroplast genome of Atropa belladonna and other nightshade genomes. The chloroplast engineering being a promising field in modern biotechnology, the characterization of chloroplast genome is very important. The results revealed that the chloroplast genomes of Nicotiana tabacum, Solanum lycopersicum, Capsicum frutescens, Datura stramonium, Lyciumbarbarum, Solanum melongena , and Solanum tuberosum exhibited comparable codon usage patterns. In these chloroplast genomes, we observed a weak codon usage bias. According to the correspondence analysis, the genesis of the codon use bias in these chloroplast genes might be explained by natural selection, directed mutational pressure, and other factors. GC12 and GC3S were shown to have no meaningful relationship. Further research revealed that natural selection primarily shaped the codon usage in A. belladonn a and other nightshade genomes for translational efficiency. The sequencing properties of these chloroplast genomes were also investigated by investing the occurrences of palindromes and inverted repeats, which would be useful for future research on medicinal plants.

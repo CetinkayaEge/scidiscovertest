@@ -1,0 +1,9 @@
+Title: Waste corn husk fibers for sound absorption and thermal insulation applications: A step towards sustainable buildings
+Authors: Monireh Fattahi, Ebrahim Taban, Parham Soltani, Umberto Berardi, Ali Khavanin, Vida Zaroushani
+Year: 2023
+Venue: Journal of Building Engineering
+DOI: https://doi.org/10.1016/j.jobe.2023.107468
+Paper ID: https://openalex.org/W4385430851
+
+Abstract:
+In the last decade, noise pollution and global warming and their effects on human health and the environment have received much attention. Building sectors are one of the most important areas for potential improvements. To this end, sound-absorbing and thermal insulation construction materials are being used effectively. Recently, a great deal of interest has arisen in using various natural fibers as sound-absorbing and/or thermal insulation materials . In line with these studies, this work investigates the acoustic absorption and thermal insulation characteristics of corn husk fiber (CHF). The results showed that the samples enjoy excellent noise reduction coefficients of 0.36–60 and effective thermal conductivities of 0.038–0.042 W/mK. It was found that the thermal insulation properties of CHFs are not significantly influenced by the moisture content . The Dunn and Davern (DD) model and a modified model of DD based on the Nelder-Mead simplex algorithm were also used to predict the acoustic behavior of the samples. It was found that the proposed model provides very excellent prediction accuracy. • Normal and random sound absorption coefficients of the corn husk fibers were investigated. • JCA and Attenborough models were compared with experimental data for sound absorption. • Thermal insulation properties of CHFs are partially influenced by the moisture content. • The Dunn and Davern (DD) model and the Nelder-Mead simplex algorithm were studied.

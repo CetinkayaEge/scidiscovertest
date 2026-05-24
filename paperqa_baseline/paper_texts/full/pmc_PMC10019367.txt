@@ -1,0 +1,9 @@
+Title: Endosomal escape of RNA therapeutics: How do we solve this rate-limiting problem?
+Authors: Steven F. Dowdy
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079507.122
+Paper ID: pmc_PMC10019367
+
+Abstract:
+With over 15 FDA approved drugs on the market and numerous ongoing clinical trials, RNA therapeutics, such as small interfering RNAs (siRNAs) and antisense oligonucleotides (ASOs), have shown great potential to treat human disease. Their mechanism of action is based entirely on the sequence of validated disease-causing genes without the prerequisite knowledge of protein structure, activity or cellular location. In contrast to small molecule therapeutics that passively diffuse across the cell membrane's lipid bilayer, RNA therapeutics are too large, too charged, and/or too hydrophilic to passively diffuse across the cellular membrane and instead are taken up into cells by endocytosis. However, endosomes are also composed of a lipid bilayer barrier that results in endosomal capture and retention of 99% of RNA therapeutics with 1% or less entering the cytoplasm. Although this very low level of endosomal escape has proven sufficient for liver and some CNS disorders, it is insufficient for the vast majority of extra-hepatic diseases. Unfortunately, there are currently no acceptable solutions to the endosomal escape problem. Consequently, before RNA therapeutics can be used to treat widespread human disease, the rate-limiting delivery problem of endosomal escape must be solved in a nontoxic manner.

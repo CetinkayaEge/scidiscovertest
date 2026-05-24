@@ -1,0 +1,9 @@
+Title: Automatic Discrimination of the Geographical Origins of Milks by Excitation-Emission Fluorescence Spectrometry and Chemometrics
+Authors: Lu Xu, De-Hua Deng, Chen-Bo Cai, Hong-Wei Yang
+Year: 2011
+Venue: Journal of Automated Methods and Management in Chemistry
+DOI: 10.1155/2011/323196
+Paper ID: pmc_PMC3166562
+
+Abstract:
+This paper presents the automatic discrimination of geographical origins of milks from Western Yunnan Plateau areas and eastern China by excitation-emission fluorescence spectrometry and chemometrics. Genuine plateau milks ( n = 60) and milks from eastern China ( n = 89) are scanned in the regions of 180–300 nm for excitation and 200–800 nm for emission. Different options of data analysis are investigated and compared in terms of their performance in discriminating milks of different geographical origins: (1) two-way partial least squares discriminant analysis (PLSDA) based on excitation and emission spectra, respectively; (2) two-way PLSDA based on fusion of excitation and emission spectra; (3) three-way PLSDA based on excitation-emission matrix spectra. The two-way PLSDA methods with excitation spectra, emission spectra, and fusion of excitation and emission spectra correctly classify 91.3%, 88.6%, and 95.3% of the milk samples, respectively; while the total accuracy of three-way PLSDA is 96.0%. The results demonstrate the two-way data combining excitation and emission spectra are sufficient to characterize and identify the plateau milks. Considering both model accuracy and the analytical time required, two-way PLS-DA with fusion of excitation and emission spectra is recommended as a reliable and quick method to discriminate plateau milks from ordinary milks.

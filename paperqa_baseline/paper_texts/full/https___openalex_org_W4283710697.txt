@@ -1,0 +1,9 @@
+Title: Urban Wind: An Alternative for Sustainable Cities
+Authors: Isabel C. Gil‐García, M. Socorro García‐Cascales, Ángel Molina‐García
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15134759
+Paper ID: https://openalex.org/W4283710697
+
+Abstract:
+The climate emergency has intensified the search for the generation of electricity from renewable energies in order to turn cities into sustainable cities. Small-scale wind power offers new opportunities for decentralized electricity production, avoiding dependence on the grid and transmission losses. Among viable locations within the urban environment, high-rise buildings are especially promising due to the elevated height and less turbulent wind conditions. They can also be integrated into the architecture of the building or as independent units in the urban environment. In this area, this work presents a methodology for determining the annual energy production of urban wind projects. The proposal is divided into four stages: location, wind and urban indicators, turbine selection and annual production estimation, and economic/environmental analysis. The evaluation of the solution is carried out for a Spanish case study. According to the results, more than 68,000 kWh/year can be generated with an investment recovery period of less than six years.

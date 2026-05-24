@@ -1,0 +1,9 @@
+Title: Localization of Zn 2+ ions affects the structural folding and mechanics of Nereis virens Nvjp-1 †
+Authors: Eesha Khare, Jaden Luo, Markus J. Buehler
+Year: 2023
+Venue: Soft Matter
+DOI: 10.1039/d3sm00360d
+Paper ID: pmc_PMC10230509
+
+Abstract:
+Several biological organisms utilize metal-coordination bonds to produce remarkable materials, such as the jaw of the marine worm Nereis virens , where metal-coordination bonds yield remarkable hardness without mineralization. Though the structure of a major component of the jaw, the Nvjp-1 protein, has recently been resolved, a detailed nanostructural understanding of the role of metal ions on the structural and mechanical properties of the protein is missing, especially with respect to the localization of metal ions. In this work, atomistic replica exchange molecular dynamics with explicit water and Zn 2+ ions and steered molecular dynamics simulations were used to explore how the initial localization of the Zn 2+ ions impacts the structural folding and mechanical properties of Nvjp-1. We found that the initial distribution of metal ions for Nvjp-1, and likely for other proteins with high amounts of metal-coordination, has important effects on the resulting structure, with larger metal ion quantity resulting in a more compact structure. These structural compactness trends, however, are independent from the mechanical tensile strength of the protein, which increases with greater hydrogen bond content and uniform distribution of metal ions. Our results indicate that different physical principles underlie the structure or mechanics of Nvjp-1, with broader implications in the development optimized hardened bioinspired materials and the modeling of proteins with significant metal ion content. Metal-coordination bond localization in proteins with high amounts of metal-coordination affects structural folding and tensile strength.

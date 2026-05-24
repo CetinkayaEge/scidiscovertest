@@ -1,0 +1,9 @@
+Title: High-throughput sequencing-based metagenomic and transcriptomic analysis of intestine in piglets infected with salmonella
+Authors: KyeongHye Won, Dohyun Kim, Donghyun Shin, Jin Hur, Hak-Kyo Lee, Jaeyoung Heo, Jae-Don Oh
+Year: 2022
+Venue: Journal of Animal Science and Technology
+DOI: 10.5187/jast.2022.e73
+Paper ID: pmc_PMC9890335
+
+Abstract:
+Abstract Salmonella enterica serovar Typhimurium isolate HJL777 is a virulent bacterial strain in pigs. The high rate of salmonella infection are at high risk of non-typhoidal salmonella gastroenteritis development. Salmonellosis is most common in young pigs. We investigated changes in gut microbiota and biological function in piglets infected with salmonella via analysis of rectal fecal metagenome and intestinal transcriptome using 16S rRNA and RNA sequencing. We identified a decrease in Bacteroides and increase in harmful bacteria such as Spirochaetes and Proteobacteria by microbial community analysis. We predicted that reduction of Bacteroides by salmonella infection causes proliferation of salmonella and harmful bacteria that can cause an intestinal inflammatory response. Functional profiling of microbial communities in piglets with salmonella infection showed increasing lipid metabolism associated with proliferation of harmful bacteria and inflammatory responses. Transcriptome analysis identified 31 differentially expressed genes. Using gene ontology and Innate Immune Database analysis, we identified that BGN, DCN, ZFPM2 and BPI genes were involved in extracellular and immune mechanisms, specifically salmonella adhesion to host cells and inflammatory responses during infection. We confirmed alterations in gut microbiota and biological function during salmonella infection in piglets. Our findings will help prevent disease and improve productivity in the swine industry.

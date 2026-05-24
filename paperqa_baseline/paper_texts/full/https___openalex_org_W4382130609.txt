@@ -1,0 +1,9 @@
+Title: Sustainable CO2 management through integrated CO2 capture and conversion
+Authors: Kexin Zhang, Dongfang Guo, Xiaolong Wang, Ye Qin, Lin Hu, Yujia Zhang, Ruqiang Zou, Shiwang Gao
+Year: 2023
+Venue: Journal of CO2 Utilization
+DOI: https://doi.org/10.1016/j.jcou.2023.102493
+Paper ID: https://openalex.org/W4382130609
+
+Abstract:
+The excessive emission of CO2 causes severe environmental problems. Sustainable CO2 management based on carbon capture and utilization plays important role in addressing emission-control issue. Among various routes, synergistic coupling between CO2 capture and conversion brings prospects for energy conservation by simultaneously avoiding the energy-intensive regeneration, compression and transportation steps in conventional sequential pathway. Herein, this review summarizes the state-of-the-art progress in promising materials for integrated capture and conversion of CO2 in terms of electrochemical CO2 reduction and thermochemical CO2 hydrogenation. The integrated electrochemical process eliminates the critical issues faced by CO2 gas-fed electrolysers, and integrated thermochemical process performing in a single reactor under isothermal conditions benefits from lower energy consumption and less capital investment. Rational design and precise manipulation of key adsorbents/absorbents and catalysts and the influence of interactions between them are discussed. Several considerations are put forward from industrial application perspectives and potential development directions of materials and systems that boost the high selectivity towards valuable products. This review highlights the major challenges and emerging opportunities in integrated CO2 capture and utilization systems, which provides guidance for future investigations.

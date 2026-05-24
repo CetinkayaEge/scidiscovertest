@@ -1,0 +1,9 @@
+Title: Manufacturing, Exports, and Sustainable Growth: Evidence from Developing Countries
+Authors: Xi Wan, Shehla Anjum Ajaz Kazmi, Chun Yee Wong
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031646
+Paper ID: https://openalex.org/W4210612848
+
+Abstract:
+Using data for 130 developing countries over a 24 year period from 1996 to 2019, this study investigates the role of manufacturing development in sustainable growth and how the contribution of the manufacturing sector to growth is affected by exports and the underlying export-oriented policies. By employing a vintage difference GMM estimation developed by Arellano and Bond (1991), we find that the manufacturing sector positively contributes to economic growth in developing countries, whereas exports (and thus, their related growth policies) lead to deindustrialization and are thus harmful to growth. In addition, we find that this export-led deindustrialization and the resulting negative growth effect might differ depending on a country’s stage of development measured in terms of the per capita income level. In particular, the growth of countries with lower income levels is more severely negatively impacted than in the case of the richer countries, which is consistent with the findings in the literature. Finally, our main results are robust under two alternative regression checks in which we take into account the potential endogeneity problem and additionally control for the share of imports in GDP in the model.

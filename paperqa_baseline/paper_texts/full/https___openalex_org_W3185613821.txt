@@ -1,0 +1,9 @@
+Title: Healthcare Sustainability Evaluation Using a Hybrid Fuzzy Multi-Criteria Decision-Making Model
+Authors: Asma Erjaee, Sepehr Hendiani, Shohreh Moradi, Morteza Bagherpour
+Year: 2021
+Venue: International Journal of Fuzzy Systems
+DOI: https://doi.org/10.1007/s40815-021-01128-4
+Paper ID: https://openalex.org/W3185613821
+
+Abstract:
+Abstract Developing a sustainable healthcare system directly depends on the level of maturity in environmental, social, and economic practices. Although there are huge number of researches considering environmental, social, and economic aspects, to the best of our knowledge, no approach was found which unifies these dimensions as an integrated method to assess the current status of sustainable development in healthcare organizations. In order to cope with this gap, this article suggests a method for analyzing the sustainability indicator in healthcare systems by manipulating the sustainability dimensions, criteria, and attributes. The following research has collected 62 attributes and 15 criteria for three sustainability dimensions. A new implementation method is also proposed to make this approach applicable in real-world problems. The contributions of this paper can be distinguished as the healthcare system’s sustainability level in imprecise conditions is obtained, the capability of identifying the weak points in implementing sustainability aspects is presented, and a new methodology for collecting the fundamental data for measuring the sustainability level in healthcare systems is given. The findings of this paper assist the practitioners and experts to successfully evaluate the sustainability level of healthcare systems and significantly improve the performance of them.

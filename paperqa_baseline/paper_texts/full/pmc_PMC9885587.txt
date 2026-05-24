@@ -1,0 +1,9 @@
+Title: Microbial cell factories based on filamentous bacteria, yeasts, and fungi
+Authors: Qiang Ding, Chao Ye
+Year: 2023
+Venue: Microbial Cell Factories
+DOI: 10.1186/s12934-023-02025-1
+Paper ID: pmc_PMC9885587
+
+Abstract:
+Background Advanced DNA synthesis, biosensor assembly, and genetic circuit development in synthetic biology and metabolic engineering have reinforced the application of filamentous bacteria, yeasts, and fungi as promising chassis cells for chemical production, but their industrial application remains a major challenge that needs to be solved. Results As important chassis strains, filamentous microorganisms can synthesize important enzymes, chemicals, and niche pharmaceutical products through microbial fermentation. With the aid of metabolic engineering and synthetic biology, filamentous bacteria, yeasts, and fungi can be developed into efficient microbial cell factories through genome engineering, pathway engineering, tolerance engineering, and microbial engineering. Mutant screening and metabolic engineering can be used in filamentous bacteria, filamentous yeasts ( Candida glabrata, Candida utilis ), and filamentous fungi ( Aspergillus sp., Rhizopus sp.) to greatly increase their capacity for chemical production. This review highlights the potential of using biotechnology to further develop filamentous bacteria, yeasts, and fungi as alternative chassis strains. Conclusions In this review, we recapitulate the recent progress in the application of filamentous bacteria, yeasts, and fungi as microbial cell factories. Furthermore, emphasis on metabolic engineering strategies involved in cellular tolerance, metabolic engineering, and screening are discussed. Finally, we offer an outlook on advanced techniques for the engineering of filamentous bacteria, yeasts, and fungi.

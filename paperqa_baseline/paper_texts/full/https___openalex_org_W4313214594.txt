@@ -1,0 +1,9 @@
+Title: Artificial intelligence and sustainable development goals nexus via four vantage points
+Authors: Osama Nasir, Rana Tallal Javed, Shivam Gupta, Ricardo Vinuesa, Junaid Qadir
+Year: 2022
+Venue: Technology in Society
+DOI: https://doi.org/10.1016/j.techsoc.2022.102171
+Paper ID: https://openalex.org/W4313214594
+
+Abstract:
+Artificial Intelligence (AI) should aim at benefiting society, the economy, and the environment, i.e., AI should aim to be socially good. The UN-defined Sustainable Development Goals (SDGs) are the best depiction to measure social good. For AI to be socially good, it must support all 17 UN SDGs. Our work provides a unique insight into AI on all fronts including Curricula, Frameworks, Projects, and Research papers. We then analyze these datasets to extract meaningful information for policymakers and researchers alike - shedding light on how AI is being used and can potentially be employed in the future to achieve the SDGs. To this end, we devised a methodology using keyword-matching and keyword-similarity to compute the relevance of the SDGs for a given document. SDG metadata and AI4SDG Projects (Oxford initiative on AI4SDGs) were used to validate our methodology. We find an imbalance of coverage with SDG 9 (Industry Innovation and Infrastructure) having the highest representation (with 50.3% of our data containing references to it) compared to SDGs 5, 6, 14, and 15, which have the lowest representation (5% of observed data). Findings from this study suggest that the development of AI technology is focused on improving the current economic growth, but it might neglect important societal and environmental issues.

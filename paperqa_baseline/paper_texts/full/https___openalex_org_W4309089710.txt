@@ -1,0 +1,9 @@
+Title: Sustainable Product Development Using FMEA ECQFD TRIZ and Fuzzy TOPSIS
+Authors: Abdul Zubar Hameed, Jayakrishna Kandasamy, S. Aravind Raj, Majed Abubakr Baghdadi, Muhammad Atif Shahzad
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142114345
+Paper ID: https://openalex.org/W4309089710
+
+Abstract:
+Increasing demand for simplification of frequently used products promotes innovation with simple mechanisms. In this study, an attempt is made by amalgamating FMEA, QFD, TRIZ, LCA, and fuzzy TOPSIS for the development of sustainable products. The methodology is executed to redesign a simple pressure relief valve (PRV) in an economic, sustainable, and innovative manner. The failure modes of PRV are considered in FMEA and ranked by their RPN. The environmental voice of the customer is imbibed in ECQFD to correlate with the engineering specifications and obtain the critical zones of improvement. Possible innovations of the existing design based on the design option selected from ECQFD are considered by analyzing the design feature contradictions, and solutions are addressed using the TRIZ matrix. Four CAD models of improved designs were created and subjected to sustainability analysis and fatigue life analysis. The redesigns were evaluated using fuzzy TOPSIS, an MCDM approach, to obtain an unbiased ranking based on multiple criteria supported by the result analysis and expert opinions. The final design was selected for prototyping. This approach provides a holistic approach for innovative product design and development and a simplified approach for an innovative redesign of an existing product.

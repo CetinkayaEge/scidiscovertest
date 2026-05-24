@@ -1,0 +1,9 @@
+Title: Site-directed A → I RNA editing as a therapeutic tool: moving beyond genetic mutations
+Authors: Juan F. Diaz Quiroz, Louise D. Siskel, Joshua J.C. Rosenthal
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079518.122
+Paper ID: pmc_PMC10019371
+
+Abstract:
+Adenosine deamination by the ADAR family of enzymes is a natural process that edits genetic information as it passes through messenger RNA. Adenosine is converted to inosine in mRNAs, and this base is interpreted as guanosine during translation. Realizing the potential of this activity for therapeutics, a number of researchers have developed systems that redirect ADAR activity to new targets, ones that are not normally edited. These site-directed RNA editing (SDRE) systems can be broadly classified into two categories: ones that deliver an antisense RNA oligonucleotide to bind opposite a target adenosine, creating an editable structure that endogenously expressed ADARs recognize, and ones that tether the catalytic domain of recombinant ADAR to an antisense RNA oligonucleotide that serves as a targeting mechanism, much like with CRISPR-Cas or RNAi. To date, SDRE has been used mostly to try and correct genetic mutations. Here we argue that these applications are not ideal SDRE, mostly because RNA edits are transient and genetic mutations are not. Instead, we suggest that SDRE could be used to tune cell physiology to achieve temporary outcomes that are therapeutically advantageous, particularly in the nervous system. These include manipulating excitability in nociceptive neural circuits, abolishing specific phosphorylation events to reduce protein aggregation related to neurodegeneration or reduce the glial scarring that inhibits nerve regeneration, or enhancing G protein-coupled receptor signaling to increase nerve proliferation for the treatment of sensory disorders like blindness and deafness.

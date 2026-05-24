@@ -1,0 +1,9 @@
+Title: A Review of Multilevel Inverter Topologies for Grid-Connected Sustainable Solar Photovoltaic Systems
+Authors: Shaik Nyamathulla, C. Dhanamjayulu
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151813376
+Paper ID: https://openalex.org/W4386483901
+
+Abstract:
+Solar energy is one of the most suggested sustainable energy sources due to its availability in nature, developments in power electronics, and global environmental concerns. A solar photovoltaic system is one example of a grid-connected application using multilevel inverters (MLIs). In grid-connected PV systems, the inverter’s design must be carefully considered to improve efficiency. The switched capacitor (SC) MLI is an appealing inverter over its alternatives for a variety of applications due to its inductor-less or transformer-less operation, enhanced voltage output, improved voltage regulation inside the capacitor itself, low cost, reduced circuit components, small size, and less electromagnetic interference. The reduced component counts are required to enhance efficiency, to increase power density, and to minimize device stress. This review presents a thorough analysis of MLIs and a classification of the existing MLI topologies, along with their merits and demerits. It also provides a detailed survey of reduced switch count multilevel inverter (RSC-MLI) topologies, including their designs, typical features, limitations, and criteria for selection. This paper also covers the survey of SC-MLI topologies with a qualitative assessment to aid in the direction of future research. Finally, this review will help engineers and researchers by providing a detailed look at the total number of power semiconductor switches, DC sources, passive elements, total standing voltage, reliability analysis, applications, challenges, and recommendations.

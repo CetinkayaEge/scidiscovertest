@@ -1,0 +1,9 @@
+Title: Crosslinked Chitosan Binder for Sustainable Aqueous Batteries
+Authors: Luca Bargnesi, Federica Gigli, Nicolò Albanelli, Christina Toigo, Catia Arbizzani
+Year: 2022
+Venue: Nanomaterials
+DOI: https://doi.org/10.3390/nano12020254
+Paper ID: https://openalex.org/W4205206095
+
+Abstract:
+The increased percentage of renewable power sources involved in energy production highlights the importance of developing systems for stationary energy storage that satisfy the requirements of safety and low costs. Na ion batteries can be suitable candidates, specifically if their components are economic and safe. This study focuses on the development of aqueous processes and binders to prepare electrodes for sodium ion cells operating in aqueous solutions. We demonstrated the feasibility of a chitosan-based binder to produce freestanding electrodes for Na ion cells, without the use of organic solvents and current collectors in electrode processing. To our knowledge, it is the first time that water-processed, freestanding electrodes are used in aqueous Na ion cells, which could also be extended to other types of aqueous batteries. This is a real breakthrough in terms of sustainability, taking into account low risks for health and environment and low costs.

@@ -1,0 +1,9 @@
+Title: Automation and Optimization of Rat Heart Decellularization Using a Vibrating Fluid Column
+Authors: Dumitru-Daniel Bonciog, Mihaela-Ruxandra Lascu, Liliana Mâțiu-Iovan, Valentin Laurențiu Ordodi
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084045
+Paper ID: pmc_PMC10140852
+
+Abstract:
+This paper presents the validation of a software application to optimize the discoloration process in simulated hearts and to automate and determine the final moment of decellularization in rat hearts using a vibrating fluid column. The implemented algorithm specifically for the automated verification of a simulated heart’s discoloration process was optimized in this study. Initially, we used a latex balloon containing enough dye to reach the opacity of a heart. The complete discoloration process corresponds to complete decellularization. The developed software automatically detects the complete discoloration of a simulated heart. Finally, the process stops automatically. Another goal was to optimize the Langendorff-type experimental apparatus, which is pressure-controlled and equipped with a vibrating fluid column that shortens the decellularization time by mechanically acting directly on cell membranes. Control experiments were performed with the designed experimental device and the vibrating liquid column using different decellularization protocols for hearts taken from rats. In this work, we used a commonly utilized solution based on sodium dodecyl sulfate. Ultraviolet spectrophotometry was used to measure the evolution of the dye concentration in the simulated hearts and, similarly, to determine the concentrations of deoxyribonucleic acid (DNA) and proteins in the rat hearts.

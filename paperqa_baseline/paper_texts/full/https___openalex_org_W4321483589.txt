@@ -1,0 +1,9 @@
+Title: A fuzzy DEMATEL decision modeling framework for identifying key human resources challenges in start-up companies: Implications for sustainable development
+Authors: Ramesh Priyanka, K. Ravindran, Bathrinath Sankaranarayanan, Syed Mithun Ali
+Year: 2023
+Venue: Decision Analytics Journal
+DOI: https://doi.org/10.1016/j.dajour.2023.100192
+Paper ID: https://openalex.org/W4321483589
+
+Abstract:
+Human resources (HR) management is vital in developing organizational performance and profit maximization. Small and medium-sized enterprises (SMEs) and emerging start-ups struggle to establish a functioning HR department, while larger organizations tend to reinvent their HR functions with updated visions and strategies. The role of HR practice yields more attention in SMEs and growing start-ups because of their increased failure rate. However, hindered by various challenges, selecting suitable HR practices for start-up companies has become difficult. This study investigates key challenges when choosing appropriate HR practices for start-ups based on a fuzzy decision-making trial and evaluation laboratory (DEMATEL) method. Firstly, 43 challenges were identified through a literature survey and consultation with experts. Later, considering the imprecise and subjective nature of the DEMATEL method on human judgments, the fuzzy DEMATEL approach is proposed to investigate the significance of identified challenges and the cause–effect relationships among them. From these findings, we identified that 21 challenges are causal factors that influence HR practice developments more. When selecting the best HR practices for their business, these cause factors will help management understand which challenges need to be removed and assist them in controlling their HR activities.

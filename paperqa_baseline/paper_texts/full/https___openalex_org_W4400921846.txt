@@ -1,0 +1,9 @@
+Title: Ultrahigh-nickel layered cathode with cycling stability for sustainable lithium-ion batteries
+Authors: Tonghuan Yang, Kun Zhang, Yuxuan Zuo, Song Jin, Yali Yang, Chuan Gao, Tao Chen, Hangchao Wang, Wukun Xiao, Zewen Jiang, Dingguo Xia
+Year: 2024
+Venue: Nature Sustainability
+DOI: https://doi.org/10.1038/s41893-024-01402-x
+Paper ID: https://openalex.org/W4400921846
+
+Abstract:
+Abstract Nickel-rich layered transition metal oxides are leading cathode candidates for lithium-ion batteries due to their increased capacity, low cost and enhanced environmental sustainability compared to cobalt formulations. However, the nickel enrichment comes with larger volume change during cycling as well as reduced oxygen stability, which can both incur performance degradation. Here we show an ultrahigh-nickel cathode, LiNi 0.94 Co 0.05 Te 0.01 O 2 , that addresses all of these critical issues by introducing high valent tellurium cations (Te 6+ ). The as-prepared material exhibits an initial capacity of up to 239 milliampere-hours (mAh) per gram and an impressive capacity retention of 94.5% after 200 cycles. The resulting Ah-level lithium metal battery with silicon-carbon anode achieves an extraordinary monomer energy density of 404 watt-hours (Wh) per kilogram with retention of 91.2% after 300 cycles. Advanced characterizations and theoretical calculations show that the introduction of tellurium serves to engineer the particle morphology for a microstructure to better accommodate the lattice strain and enable an intralayer Te–Ni–Ni–Te ordered superstructure, which effectively tunes the ligand energy-level structure and suppresses lattice oxygen loss. This work not only advances the energy density of nickel-based lithium-ion batteries into the realm of 400 Wh kg −1 but suggests new opportunities in structure design for cathode materials without trade-off between performance and sustainability.

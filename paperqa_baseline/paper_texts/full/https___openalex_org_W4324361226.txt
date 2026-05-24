@@ -1,0 +1,9 @@
+Title: Islamic Economy and Sustainability: A Bibliometric Analysis Using R
+Authors: Suddin Lada, Brahim Chekima, Rudy Ansar, Mohamad Isa Abdul Jalil, Lim Ming Fook, Caroline Geetha, Mohamed Bouteraa, Mohd Rahimie Abdul Karim
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15065174
+Paper ID: https://openalex.org/W4324361226
+
+Abstract:
+Using a literature review and bibliometric analysis, this research aims to analyse the relationship between the Islamic economy and sustainability. The study aimed to systematically document the intellectual structure, volume, tendencies of knowledge development, the author, and source impact. Using Microsoft Excel and R Studio, information is compiled from Scopus databases and analysed. We gathered a searchable database of the 76 most relevant papers from the last twenty-two years based on a vast amount of literature. Preliminary data suggests that between 2000 and 2022, there has been an increase in the number of works written on the Islamic economy. The bibliometric study using R identifies the subject’s most influential journals, authors, and papers. This study demonstrates that a new research topic can be derived by condensing the essential aspects of the Islamic economy and sustainability into a single concept, thereby opening up new research avenues in both the expansive field of the Islamic economy and the relatively new and hotly debated field of sustainability.

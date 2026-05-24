@@ -1,0 +1,9 @@
+Title: The Impact Mechanism of Environmental Information Disclosure on Corporate Sustainability Performance—Micro-Evidence from China
+Authors: Xiaowei Ding, Lyu Ye, Yueying Yang, Olga Efimova, Alina Steblyanskaya, Junfeng Zhang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912366
+Paper ID: https://openalex.org/W4298002379
+
+Abstract:
+As an effective regulatory tool, environmental information disclosure is significant in promoting the green upgrading of industrial structures and achieving green transformation of enterprises. In order to explore the impact mechanism of environmental information disclosure on corporate sustainability performance, this paper constructs a two-way fixed-effect model using balanced panel data of Chinese A-share listed manufacturing companies from 2015 to 2020. We find that environmental information disclosure significantly impacts green innovation, thereby improving corporate sustainability performance. Furthermore, financing constraints inhibit the impact of environmental disclosure on sustainability performance, while female directors have only symbolic effect. The reliability of the paper’s findings is verified by replacing the dependent variable and introducing instrumental variables. Heterogeneity analysis shows that the effect of environmental information disclosure on corporate sustainability performance is more substantial among non-state and eastern and heavily polluting enterprises. Comprehensive analysis from the financing perspective shows the differences in the moderating effects of debt and equity financing regarding the impact mechanism. This study enriches the theory of green innovation and provides financing strategies for enterprises to achieve green transformation, as well as suggestions for improving the government environmental information disclosure system.

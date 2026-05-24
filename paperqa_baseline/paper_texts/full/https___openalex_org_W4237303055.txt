@@ -1,0 +1,9 @@
+Title: Functional surface microstructures inspired by nature – From adhesion and wetting principles to sustainable new devices
+Authors: Eduard Arzt, Haocheng Quan, Robert M. McMeeking, René Hensel
+Year: 2021
+Venue: Progress in Materials Science
+DOI: https://doi.org/10.1016/j.pmatsci.2021.100823
+Paper ID: https://openalex.org/W4237303055
+
+Abstract:
+In the course of evolution nature has arrived at startling materials solutions to ensure survival. Investigations into biological surfaces, ranging from plants, insects and geckos to aquatic animals, have inspired the design of intricate surface patterns to create useful functionalities. This paper reviews the fundamental interaction mechanisms of such micropatterns with liquids, solids, and soft matter such as skin for control of wetting, self-cleaning, anti-fouling, adhesion, skin adherence, and sensing. Compared to conventional chemical strategies, the paradigm of micropatterning enables solutions with superior resource efficiency and sustainability. Associated applications range from water management and robotics to future health monitoring devices. We finally provide an overview of the relevant patterning methods as an appendix.

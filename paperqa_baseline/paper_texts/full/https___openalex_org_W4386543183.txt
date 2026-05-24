@@ -1,0 +1,9 @@
+Title: Initiatorless Solar Photopolymerization of Versatile and Sustainable Eutectogels as Multi‐Response and Self‐Powered Sensors for Human–Computer Interface
+Authors: Kai Xue, Changyou Shao, Jie Yu, Hongmei Zhang, Bing Wang, Wenfeng Ren, Yabin Cheng, Zixian Jin, Fei Zhang, Zuankai Wang, Run‐Cang Sun
+Year: 2023
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202305879
+Paper ID: https://openalex.org/W4386543183
+
+Abstract:
+Abstract Eutectogels are emerging as an appealing soft conductor for self‐powered sensing and the next generation of flexible human–computer interactive devices owing to their inherent mechanical elasticity and high ionic conductivity. However, it still remains a challenge to simultaneously achieve multi‐functional and multi‐response integrations through a facile and sustainable approach. Herein, a self‐healing, environment tolerant, intrinsically conductive, and recyclable eutectogel with multiple responses is developed via one‐step solar‐initiated polymerization of deep eutectic solvents (DESs) and ionic liquids (ILs). Abundant hydrogen bonds and ion‐dipole interactions impart eutectogels with high mechanical strength (8.8 MPa), ultra‐stretchability (&gt;1100%), strong self‐adhesion (≈12 MPa), recyclability, and autonomously self‐healing ability. Furthermore, the intrinsically conductive eutectogels with appealing versatile sensations on strain, temperature, and humidity can serve as wearable sensors for wireless motion recognition and human–computer interaction control. More importantly, the eutectogel‐assembled single‐electrode triboelectric nanogenerator (TENG) exhibits extreme environment‐tolerant and fast self‐healable properties that contribute to maintaining excellent and stable electrical outputs in a wide work temperature range (approximately −40–60 °C), which appear to be promising in self‐powered flexible electronics with high environmental adaptability.

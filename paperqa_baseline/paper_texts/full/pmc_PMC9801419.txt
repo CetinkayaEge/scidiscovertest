@@ -1,0 +1,9 @@
+Title: Combination of Multidimensional Instrumental Analysis and the Ames Test for the Toxicological Evaluation of Mineral Oil Aromatic Hydrocarbons
+Authors: Andrea Hochegger, Reinhard Wagenhofer, Sanja Savić, Elisa Mayrhofer, Michael Washüttl, Erich Leitner
+Year: 2022
+Venue: Journal of Agricultural and Food Chemistry
+DOI: 10.1021/acs.jafc.2c05970
+Paper ID: pmc_PMC9801419
+
+Abstract:
+Mineral oil aromatic hydrocarbons (MOAHs) include mutagenic and carcinogenic substances and are considered a potential health risk. Current methods address the total MOAH content but cannot address the actual toxicological hazard of individual components. This work presents a combined methodology closing those gaps: high-performance liquid chromatography (HPLC) coupled to gas chromatography with flame ionization detection was used to determine the MOAH content. To characterize present substance classes, comprehensive two-dimensional gas chromatography with time-of-flight mass spectrometry was applied. Preparative HPLC separated MOAHs into subgroups, which were tested with a miniaturized Ames test evaluating DNA reactivity of isolated fractions. Combining these methods allowed a correlation between present subgroups and DNA reactivity. The developed approach was applied to a mineral oil and distinguished between not DNA-reactive mono- and diaromatics and DNA-reactive tri- and polyaromatics, providing a proof of concept. Hereinafter, it will be applied to diverse sample matrices including mineral oils, food, and food contact materials.

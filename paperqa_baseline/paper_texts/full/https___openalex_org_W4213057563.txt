@@ -1,0 +1,9 @@
+Title: Financial sustainability: measurement and empirical evidence
+Authors: Werner Gleißner, Thomas Günther, Christian Walkshäusl
+Year: 2022
+Venue: Journal of Business Economics
+DOI: https://doi.org/10.1007/s11573-022-01081-0
+Paper ID: https://openalex.org/W4213057563
+
+Abstract:
+Abstract Financial sustainability is underrepresented in both the research on and practice of sustainability management and reporting. This article proposes a conceptual measure of financial sustainability and examines its association with capital market returns. The measure is positioned at the intersection of sustainability management, risk management and risk governance. Financial sustainability is regarded as a crucial control parameter complementing shareholder value and can be viewed by risk-averse investors as a secondary condition of investment decisions. It reduces refinancing and insolvency risks, leading to risk-adjusted excess returns in an imperfect capital market with financing restrictions and insolvency costs. We propose measuring a firm’s financial sustainability in terms of four conditions: (1) firm growth, (2) the company’s ability to survive, (3) an acceptable overall level of earnings risk exposure, and (4) an attractive earnings risk profile. We show that the application of a conditions-based investment strategy to European firms with high financial sustainability (i.e., firms fulfilling all four conditions) over the period from July 1990 to June 2019 results in monthly excess returns of 0.39%. This portfolio’s risk is lower than the risk of market investment. We find that the excess returns increase when incrementally adding each of the four conditions to the investment strategy.

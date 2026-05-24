@@ -1,0 +1,9 @@
+Title: Semiconducting MOFs on ultraviolet laser-induced graphene with a hierarchical pore architecture for NO 2 monitoring
+Authors: Hyeongtae Lim, Hyeokjin Kwon, Hongki Kang, Jae Eun Jang, Hyuk-Jun Kwon
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38918-3
+Paper ID: pmc_PMC10229625
+
+Abstract:
+Due to rapid urbanization worldwide, monitoring the concentration of nitrogen dioxide (NO 2 ), which causes cardiovascular and respiratory diseases, has attracted considerable attention. Developing real-time sensors to detect parts-per-billion (ppb)-level NO 2 remains challenging due to limited sensitivity, response, and recovery characteristics. Herein, we report a hybrid structure of Cu 3 HHTP 2 , 2D semiconducting metal-organic frameworks (MOFs), and laser-induced graphene (LIG) for high-performance NO 2 sensing. The unique hierarchical pore architecture of LIG@Cu 3 HHTP 2 promotes mass transport of gas molecules and takes full advantage of the large surface area and porosity of MOFs, enabling highly rapid and sensitive responses to NO 2 . Consequently, LIG@Cu 3 HHTP 2 shows one of the fastest responses and lowest limit of detection at room temperature compared with state-of-the-art NO 2 sensors. Additionally, by employing LIG as a growth platform, flexibility and patterning strategies are achieved, which are the main challenges for MOF-based electronic devices. These results provide key insight into applying MOFtronics as high-performance healthcare devices. NO 2 monitoring is important in urban areas where pollutant levels are typically higher. Here authors present a hybrid structure of laser-induced graphene and Cu 3 HHTP 2 , a 2D semiconducting MOF, for highly sensitive and rapid detection of NO 2 at the parts-per-billion level.

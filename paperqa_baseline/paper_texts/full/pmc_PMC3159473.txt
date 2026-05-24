@@ -1,0 +1,9 @@
+Title: Stabilization of unstable CGC + triplex DNA by single-walled carbon nanotubes under physiological conditions
+Authors: Yujun Song, Lingyan Feng, Jinsong Ren, Xiaogang Qu
+Year: 2011
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkr322
+Paper ID: pmc_PMC3159473
+
+Abstract:
+Triplex formation is a promising strategy for realizing artificially controlling of gene expression, reversible assembly of nanomaterials and DNA nanomachine and single-walled nanotubes (SWNTs) have been widely used as gene and drug delivery vector or as ‘building blocks’ in nano-/microelectronic devices. CGC + triplex is not as stable as TAT triplex. The poor stability of CGC + triplex limits its use in vitro and in vivo . There is no ligand that has been reported to selectively stabilize CGC + triplets rather than TAT. Here, we report that SWNTs can cause d(CT)•d(AG) duplex disproportionation into triplex d(C + T)•d(AG)•d(CT) and single-strand d(AG) under physiological conditions. SWNTs can reduce the stringency of conditions for CGC + triplex formation studied by UV–vis, CD, DNA melting, light scattering and atomic force microscopy. Further studies indicate that electrostatic interaction is crucial for d(CT)•d(AG) repartition into triplex d(C + T)•d(AG)•d(CT). Our findings may facilitate utilization of SWNTs–DNA complex in artificially controlling of gene expression, nanomaterials assembly and biosensing.

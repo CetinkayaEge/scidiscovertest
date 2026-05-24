@@ -1,0 +1,9 @@
+Title: Harnessing sensing systems towards urban sustainability transformation
+Authors: Adrienne Grêt‐Regamey, Michal Switalski, Nora Fagerholm, Silviya Korpilo, Sirkku Juhola, Marketta Kyttä, Niina Käyhkö, Timon McPhearson, Markus Nollert, Tiina Rinne, Niko Soininen, Tuuli Toivonen, Aleksi Räsänen, Elias Willberg, Christopher M. Raymond
+Year: 2021
+Venue: npj Urban Sustainability
+DOI: https://doi.org/10.1038/s42949-021-00042-w
+Paper ID: https://openalex.org/W4200070234
+
+Abstract:
+Abstract Recent years have seen a massive development of geospatial sensing systems informing the use of space. However, rarely do these sensing systems inform transformation towards urban sustainability. Drawing on four global urban case examples, we conceptualize how passive and active sensing systems should be harnessed to secure an inclusive, sustainable and resilient urban transformation. We derive principles for stakeholders highlighting the need for an iterative dialogue along a sensing loop, new modes of governance enabling direct feeding of sensed information, an account for data biases in the sensing processes and a commitment to high ethical standards, including open access data sharing.

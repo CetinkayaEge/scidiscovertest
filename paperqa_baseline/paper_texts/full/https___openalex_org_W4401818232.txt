@@ -1,0 +1,9 @@
+Title: Optimizing hybrid PV/Wind and grid systems for sustainable energy solutions at the university campus: Economic, environmental, and sensitivity analysis
+Authors: Zainullah Serat, Massoud Danishmal, Fida Mohammad Mohammadi
+Year: 2024
+Venue: Energy Conversion and Management X
+DOI: https://doi.org/10.1016/j.ecmx.2024.100691
+Paper ID: https://openalex.org/W4401818232
+
+Abstract:
+In response to the urgent need for sustainable and resilient energy solutions, Hybrid Renewable Energy Systems (HRES) offer a promising alternative to single-source energy systems, providing safer and more cost-effective power generation. This study assesses the efficiency and cost-effectiveness of a hybrid renewable energy system without energy storage, concentrating on energy, economic, and environmental performance, in urban settings where surplus renewable electricity can be sold back to the utility grid. Four scenarios were evaluated using HOMER Pro software to determine the most efficient configuration. The analysis identified the optimal setup as a PV/wind/DG/grid system without energy storage. This configuration achieves a cost of energy (COE) of $0.0172/kWh, a return on investment (ROI) of 8.8 %, and a payback period of 7.64 years. The system includes 117 kW of solar PV, 6 kW of wind capacity, a 25-kW diesel generator for backup, and minimal grid reliance, resulting in 94.8 % renewable energy penetration and annual CO2 emissions of just 7,460 kg. Sensitivity analysis indicates that increased solar and wind resources reduce costs, while higher loads and temperatures drive costs up. This study demonstrates the feasibility of providing reliable, sustainable energy without battery storage for urban campuses, showcasing significant economic and environmental benefits.

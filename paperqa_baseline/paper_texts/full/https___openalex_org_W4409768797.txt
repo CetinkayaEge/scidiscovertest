@@ -1,0 +1,9 @@
+Title: Towards a Sustainable Future in Education: A Systematic Review and Framework for Inclusive Education
+Authors: Chuang Yang, Tianjian Wang, Qi Xiu
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17093837
+Paper ID: https://openalex.org/W4409768797
+
+Abstract:
+Inclusive education has become a central issue in global educational reform, advancing the agenda for educational equity and social justice. However, despite significant theoretical and policy developments, research in this field remains fragmented, and no coherent framework currently exists. This study analyzes 3663 SSCI papers published between 2000 and 2024, using Latent Dirichlet Allocation (LDA) topic modeling to identify 15 distinct research themes in inclusive education. By combining LDA with manual coding, four key research areas emerged: concept and connotation, macro needs and support, micro-level implementation, and implementation effects and challenges. These findings highlight the interconnections between policy, practice, and environmental factors shaping inclusive education. Based on these results, an integrated input–process–outcome–feedback (IPOF) framework is proposed to advance the understanding of inclusive education’s evolution, effectiveness, and implementation. This framework offers actionable insights for policymakers and educators, helping to promote inclusive education aligned with Sustainable Development Goal 4 (SDG 4) and advancing global educational equity.

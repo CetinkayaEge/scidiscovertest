@@ -1,0 +1,9 @@
+Title: Acetyl-CoA-Carboxylase 1-mediated de novo fatty acid synthesis sustains Lgr5+ intestinal stem cell function
+Authors: Shuting Li, Chia‐Wen Lu, Elia C. Diem, Wang Li, Melanie Guderian, Marc Lindenberg, Friederike Kruse, Manuela Büettner, Stefan Floess, Markus Winny, Robert Geffers, Hans H. Richnow, Wolf‐Rainer Abraham, Guntram A. Graßl, Matthias Lochner
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-31725-2
+Paper ID: https://openalex.org/W4284969991
+
+Abstract:
+intestinal epithelial stem cells (ISC). Mechanistically, ACC1-mediated de novo FAS supports the formation of intestinal organoids and the differentiation of complex crypt structures by sustaining the nuclear accumulation of PPARδ/β-catenin in ISCs. The dependency of ISCs on cellular de novo FAS is tuned by the availability of environmental lipids, as an excess delivery of external fatty acids is sufficient to rescue the defect in crypt formation. Finally, inhibition of ACC1 reduces the formation of tumors in colitis-associated colon cancer, together highlighting the importance of cellular lipogenesis for sustaining ISC function and providing a potential perspective to colon cancer therapy.

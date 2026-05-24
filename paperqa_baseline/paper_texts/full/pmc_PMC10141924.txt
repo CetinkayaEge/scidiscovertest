@@ -1,0 +1,9 @@
+Title: Benchmarking 2D Multi-Object Detection and Tracking Algorithms in Autonomous Vehicle Driving Scenarios
+Authors: Diego Gragnaniello, Antonio Greco, Alessia Saggese, Mario Vento, Antonio Vicinanza
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084024
+Paper ID: pmc_PMC10141924
+
+Abstract:
+Self-driving vehicles must be controlled by navigation algorithms that ensure safe driving for passengers, pedestrians and other vehicle drivers. One of the key factors to achieve this goal is the availability of effective multi-object detection and tracking algorithms, which allow to estimate position, orientation and speed of pedestrians and other vehicles on the road. The experimental analyses conducted so far have not thoroughly evaluated the effectiveness of these methods in road driving scenarios. To this aim, we propose in this paper a benchmark of modern multi-object detection and tracking methods applied to image sequences acquired by a camera installed on board the vehicle, namely, on the videos available in the BDD100K dataset. The proposed experimental framework allows to evaluate 22 different combinations of multi-object detection and tracking methods using metrics that highlight the positive contribution and limitations of each module of the considered algorithms. The analysis of the experimental results points out that the best method currently available is the combination of ConvNext and QDTrack, but also that the multi-object tracking methods applied on road images must be substantially improved. Thanks to our analysis, we conclude that the evaluation metrics should be extended by considering specific aspects of the autonomous driving scenarios, such as multi-class problem formulation and distance from the targets, and that the effectiveness of the methods must be evaluated by simulating the impact of the errors on driving safety.

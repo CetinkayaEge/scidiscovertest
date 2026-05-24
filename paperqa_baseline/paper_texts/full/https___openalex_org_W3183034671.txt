@@ -1,0 +1,9 @@
+Title: Visualising plural mappings of science for Sustainable Development Goals (SDGs)
+Authors: Ismael Ràfols, Ed Noyons, Hugo Confraria, Tommaso Ciarli
+Year: 2021
+Venue: 
+DOI: https://doi.org/10.31235/osf.io/yfqbd
+Paper ID: https://openalex.org/W3183034671
+
+Abstract:
+Analysts are rapidly developing methods to map publications to SDGs in the face of policy demands. However, as reported by Armitage et al. (2020), a high degree of inconsistency is found when comparing the bibliometric corpora obtained with different approaches. These inconsistencies are not due to minor technical issues, but instead they represent different interpretations of SDGs. Given the variety of understandings regarding the relationship between research and SDGs, we propose that bibliometrics analysts should not assume that there is one single, preferred or consensus way of mapping SDGs to publications. We propose instead that, since different stakeholders have contrasting views about the relationships between science and SDGs, the contribution of bibliometrics should be to provide a plural landscape for stakeholders to explore their own views. We describe here the beta-version of an interactive platform that allows stakeholders to scrutinise in a global map of science the clusters potentially related to SDGs.

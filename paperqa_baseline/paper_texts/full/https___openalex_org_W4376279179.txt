@@ -1,0 +1,9 @@
+Title: Strategies for Sustainable Urban Renewal: Community-Scale GIS-Based Analysis for Densification Decision Making
+Authors: Jinliu Chen, Paola Pellegrini, Zhuo Yang, Haoqi Wang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15107901
+Paper ID: https://openalex.org/W4376279179
+
+Abstract:
+China is gradually shifting towards more sustainable urban development, and the local governments are increasingly promoting social and environmentally sustainable spatial planning practices. This article debates the potential contradiction between the goal of a constantly growing urban population and the limits to the consumption of land planned by this new direction of urban development. The analysis focuses on the wealthy city of Suzhou in the Yangtse River Delta region and explores the opportunities for densification of the residential areas as a possible solution for this contradiction, as already tested by some Chinese cases for land use efficiency. The research applies GIS-based spatial analysis and identifies some of the sites that can be efficiently redeveloped in the resettlement communities for their low floor area ratio (FAR) and obsolescent conditions, which do not correspond to the increasingly middle-class status of the residents in the urban region. The article investigates the different options of a densification strategy in the frame of the policies of urban renewal promoted in China in recent years for improving the quality of the built environment.

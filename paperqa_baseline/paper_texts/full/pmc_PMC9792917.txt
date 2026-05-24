@@ -1,0 +1,9 @@
+Title: Ex vivo manufacturing of platelets: beyond the first-in-human clinical trial using autologous iPSC-platelets
+Authors: Si Jing Chen, Naoshi Sugimoto, Koji Eto
+Year: 2022
+Venue: International Journal of Hematology
+DOI: 10.1007/s12185-022-03512-8
+Paper ID: pmc_PMC9792917
+
+Abstract:
+Platelet transfusion is a common clinical approach to providing platelets to patients suffering from thrombocytopenia or other ailments that require an additional platelet source. However, a stable supply of platelet products is challenged by aging societies, pandemics, and other factors. Many groups have made extensive efforts toward the in vitro generation of platelets for clinical application. We established immortalized megakaryocyte progenitor cell lines (imMKCLs) from human induced pluripotent stem cells (iPSCs) and achieved clinical-scale manufacturing of iPSC-derived platelets (iPSC-PLTs) from them by identifying turbulent flow as a key physical condition. We later completed the iPLAT1 study, the first-in-human clinical trial using autologous iPSC-PLTs. This review summarizes current findings on the ex vivo generation of iPSC-PLTs that led to the iPLAT1 study and beyond. We also discuss new insights regarding the heterogeneity of megakaryocytes and the implications for the ex vivo generation of iPSC-PLTs.

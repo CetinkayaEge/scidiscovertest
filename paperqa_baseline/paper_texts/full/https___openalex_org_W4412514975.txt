@@ -1,0 +1,9 @@
+Title: Artificial intelligence in sustainable development research
+Authors: Charlotte Gohr, Jorge Gustavo Rodríguez Aboytes, S. Belomestnykh, D. Berg-Moelleken, Neha Chauhan, John‐Oliver Engler, L. V. Heydebreck, Marie Josefine Hintz, Max-Friedemann Kretschmer, C. Krügermeier, J. Meinberg, Anna‐Lena Rau, Christoph Schwenck, I. Aoulkadi, Scott Poll, E. Frank, Felix Creutzig, Oliver Lemke, M. Maushart, Jannis Pfendtner-Heise, Julius Rathgens, Henrik von Wehrden
+Year: 2025
+Venue: Nature Sustainability
+DOI: https://doi.org/10.1038/s41893-025-01598-6
+Paper ID: https://openalex.org/W4412514975
+
+Abstract:
+Abstract Artificial intelligence (AI) holds significant potential to advance Sustainable Development Goals by enabling data-driven insights and optimizations. In this analysis, we review 792 articles that explore AI applications in Sustainable Development Goal-related research. The literature is organized along two dimensions: (1) the disciplinary spectrum, from natural sciences to the humanities, and (2) the focus, distinguishing economic from socioecological content. Deep learning and supervised machine learning were the most prominently applied algorithms for forecasting and system optimization. However, we identify a critical gap: only a few studies combine advanced AI applications with deep sustainability expertise. Sustainability needs to strike a balance between contextualization and generalizability to provide tangible knowledge that will lead to responsible change. AI must play a central role in this process. While expectations for AI’s transformative role in sustainable development are high, its full potential remains to be realized.

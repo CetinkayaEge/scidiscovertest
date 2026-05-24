@@ -1,0 +1,9 @@
+Title: Organic Cathodes, a Path toward Future Sustainable Batteries: Mirage or Realistic Future?
+Authors: Jan Bitenc, Klemen Pirnat, Olivera Lužanin, Robert Dominko
+Year: 2024
+Venue: Chemistry of Materials
+DOI: https://doi.org/10.1021/acs.chemmater.3c02408
+Paper ID: https://openalex.org/W4390903786
+
+Abstract:
+Organic active materials are seen as next-generation battery materials that could circumvent the sustainability and cost limitations connected with the current Li-ion battery technology while at the same time enabling novel battery functionalities like a bioderived feedstock, biodegradability, and mechanical flexibility. Many promising research results have recently been published. However, the reproducibility and comparison of the literature results are somehow limited due to highly variable electrode formulations and electrochemical testing conditions. In this Perspective, we provide a critical view of the organic cathode active materials and suggest future guidelines for electrochemical characterization, capacity evaluation, and mechanistic investigation to facilitate reproducibility and benchmarking of literature results, leading to the accelerated development of organic electrode active materials for practical applications.

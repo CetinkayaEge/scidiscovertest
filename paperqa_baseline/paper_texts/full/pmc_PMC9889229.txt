@@ -1,0 +1,9 @@
+Title: The Establishment and Application of a Kraken Classifier for Salmonella Plasmid Sequence Prediction
+Authors: Zhenpeng Li, Bo Pang, Xin Lu, Biao Kan
+Year: 2022
+Venue: China CDC Weekly
+DOI: 10.46234/ccdcw2022.225
+Paper ID: pmc_PMC9889229
+
+Abstract:
+Introduction Salmonella is a key intestinal pathogen of foodborne disease, and the plasmids in Salmonella are related to many biological characteristics, including virulence and drug resistance. A large number of plasmid contigs have been sequenced in bacterial draft genomes, however, these are often difficult to distinguish from chromosomal contigs. Methods In this study, three different customized Kraken databases were used to build three different Kraken classifiers. Complete genome benchmark datasets and simulated draft genome benchmark datasets were constructed. Five-fold cross-validation was used to evaluate the performance of the three different Kraken classifiers by two benchmark datasets. Results The predictive performance of the classifier based on all National Center for Biotechnology Information plasmids and Salmonella complete genomes was optimal. This optimal Kraken classifier was performed with Salmonella isolated in China. The plasmid carrying rate of Salmonella in China is 91.01%, and it was found that the Kraken classifier could find more plasmid contigs and antibiotic resistance genes (ARGs) than results derived from a plasmid replicon-based method (PlasmidFinder). Moreover, it was found that in the strains carrying ARGs, plasmids carried more ARGs [three, 95% confidence interval ( CI ): 1–14] than chromosomes (one, 95% CI : 1–7). Discussion We found building a high-quality customized database as a Kraken classifier to be ideal for the prediction of Salmonella plasmid sequences from bacterial draft genomes. In the future, the Kraken classifier established in this study will play a significant role in ARG monitoring.

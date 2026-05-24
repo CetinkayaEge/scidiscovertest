@@ -1,0 +1,9 @@
+Title: Hydrodynamic tearing of bacteria on nanotips for sustainable water disinfection
+Authors: Lu Peng, Haojie Zhu, Haobin Wang, Zhenbin Guo, Qian‐Yuan Wu, Cheng Yang, Hong‐Ying Hu
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-41490-5
+Paper ID: https://openalex.org/W4386766384
+
+Abstract:
+nanowires grown on a copper foam substrate. We show that mild water flow (e.g. driven from a storage tank) can efficiently tear up bacteria through a high dispersion force between the nanotip surface and the cell envelope. Bacterial cell rupture is due to tearing of the cell envelope rather than collisions. This mechanism produces rapid inactivation of bacteria in water, and achieved complete disinfection in a 30-day field test. Our approach exploits fluidic energy and does not require additional energy supply, thus offering an efficient and low-cost system that could potentially be incorporated in water treatment processes in wastewater facilities and rural communities.

@@ -1,0 +1,9 @@
+Title: Sustainable Aviation Fuel from Hydrothermal Liquefaction of Wet Wastes
+Authors: Dylan Cronin, Senthil Subramaniam, Casper Brady, Alan Cooper, Zhibin Yang, Joshua S. Heyne, Corinne Drennan, Karthikeyan K. Ramasamy, Michael R. Thorson
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15041306
+Paper ID: https://openalex.org/W4213116320
+
+Abstract:
+Hydrothermal liquefaction (HTL) uses heat and pressure to liquefy the organic matter in biomass/waste feedstocks to produce biocrude. When hydrotreated the biocrude is converted into transportation fuels including sustainable aviation fuel (SAF). Further, by liquifying the organic matter in wet wastes such as sewage sludge, manure, and food waste, HTL can prevent landfilling or other disposal methods such as anerobic digestion, or incineration. A significant roadblock to the development of a new route for SAF is the strict approval process, and the large volumes required (&gt;400 L) for testing. Tier α and β testing can predict some of the properties required for ASTM testing with &lt;400 mL samples. The current study is the first to investigate the potential for utilizing wet-waste HTL biocrude (WWHTLB) as an SAF feedstock. Herein, several WWHTLB samples were produced from food waste, sewage sludge, and fats, oils, and grease, and subsequently hydrotreated and distilled to produce SAF samples. The fuels (both undistilled and distilled samples) were analyzed via elemental and 2D-GC-MS. Herein, we report the Tier α and β analysis of an SAF sample derived originally from a WWHTLB. The results of this work indicate that the upgraded WWHTLB material exhibits key fuel properties, including carbon number distribution, distillation profile, surface tension, density, viscosity, heat of combustion, and flash point, which all fall within the required range for aviation fuel. WWHTLB has therefore been shown to be a promising candidate feedstock for the production of SAF.

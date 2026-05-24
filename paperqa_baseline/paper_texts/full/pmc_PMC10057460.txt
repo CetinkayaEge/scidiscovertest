@@ -1,0 +1,9 @@
+Title: Correlation of SARS-CoV-2 Neutralization with Antibody Levels in Vaccinated Individuals
+Authors: Shazeda Haque Chowdhury, Sean Riley, Riley Mikolajczyk, Lauren Smith, Lakshmanan Suresh, Amy Jacobs
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030793
+Paper ID: pmc_PMC10057460
+
+Abstract:
+Neutralizing antibody titers are an important measurement of the effectiveness of vaccination against SARS-CoV-2. Our laboratory has set out to further verify the functionality of these antibodies by measuring the neutralization capacity of patient samples against infectious SARS-CoV-2. Samples from patients from Western New York who had been vaccinated with the original Moderna and Pfizer vaccines (two doses) were tested for neutralization of both Delta (B.1.617.2) and Omicron (BA.5). Strong correlations between antibody levels and neutralization of the delta variant were attained; however, antibodies from the first two doses of the vaccines did not have good neutralization coverage of the subvariant omicron BA.5. Further studies are ongoing with local patient samples to determine correlation following updated booster administration.

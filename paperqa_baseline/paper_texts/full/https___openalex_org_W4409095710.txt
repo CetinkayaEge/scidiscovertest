@@ -1,0 +1,9 @@
+Title: Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions
+Authors: Yilong Yin, Yi Yang
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17073160
+Paper ID: https://openalex.org/W4409095710
+
+Abstract:
+The semiconductor industry is essential to information technology and the ongoing artificial intelligence transformation but also poses significant environmental challenges, including greenhouse gas emissions, air pollution, solid waste, and high water and energy consumption. This review identifies key emission sources in semiconductor manufacturing, focusing on the release of fluorinated gases from chemical-intensive processes and the sector’s substantial energy demands. We evaluate the effectiveness and limitations of current mitigation strategies, such as process optimization, clean energy adoption, and material substitution. We also examine supply chain interventions, including green procurement, logistics optimization, and intelligent management systems. While technological innovation is crucial for the sustainable transition of the global semiconductor industry, the high cost of upgrading to greener production processes remains a major obstacle. Despite progress in clean energy integration and material alternatives, significant challenges persist in reducing emissions across the entire value chain. This review underscores an urgent need for collaborative, integrated approaches to drive the sustainable transition of the semiconductor sector and its upstream supply chain.

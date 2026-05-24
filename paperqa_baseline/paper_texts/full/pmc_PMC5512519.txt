@@ -1,0 +1,9 @@
+Title: Tailorable Burning Behavior of Ti14 Alloy by Controlling Semi-Solid Forging Temperature
+Authors: Yongnan Chen, Wenqing Yang, Haifei Zhan, Fengying Zhang, Yazhou Huo, Yongqing Zhao, Xuding Song, Yuantong Gu
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080697
+Paper ID: pmc_PMC5512519
+
+Abstract:
+Semi-solid processing (SSP) is a popular near-net-shape forming technology for metals, while its application is still limited in titanium alloy mainly due to its low formability. Recent works showed that SSP could effectively enhance the formability and mechanical properties of titanium alloys. The processing parameters such as temperature and forging rate/ratio, are directly correlated with the microstructure, which endow the alloy with different chemical and physical properties. Specifically, as a key structural material for the advanced aero-engine, the burn resistant performance is a crucial requirement for the burn resistant titanium alloy. Thus, this work aims to assess the burning behavior of Ti14, a kind of burn resistant alloy, as forged at different semi-solid forging temperatures. The burning characteristics of the alloy are analyzed by a series of burning tests with different burning durations, velocities, and microstructures of burned sample. The results showed that the burning process is highly dependent on the forging temperature, due to the fact that higher temperatures would result in more Ti 2 Cu precipitate within grain and along grain boundaries. Such a microstructure hinders the transport of oxygen in the stable burning stage through the formation of a kind of oxygen isolation Cu-enriched layer under the burn product zone. This work suggests that the burning resistance of the alloy can be effectively tuned by controlling the temperature during the semi-solid forging process.

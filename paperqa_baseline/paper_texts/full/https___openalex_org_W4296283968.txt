@@ -1,0 +1,9 @@
+Title: Optimizing the Sustainable Multimodal Freight Transport and Logistics System Based on the Genetic Algorithm
+Authors: Stephen Okyere, Jiaqi Yang, Charles A. Adams
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141811577
+Paper ID: https://openalex.org/W4296283968
+
+Abstract:
+Contrasted with the unimodal road mode, multimodal transport is potentially more feasible as it saves cost and lower environmental effect. This paper investigates freight transport and logistics framework to advance sustainable multimodal freight delivery involving road, rail, and waterway in an inland transportation. We consider a genetic algorithm model comprising time, distance, and CO2 emissions. The optimal design system is modeled by adapting Genetic Algorithm (GA) and Matlab (R2016a) software to improve the existing transport split modes with high shipment cost. An optimal model is formulated to integrate the existing modes to mitigate the prevailing economic, social, and environmental issues. A case investigation of 10 regional capitals in Ghana where freights are transported to and from the main national port was useful to formulate and model an optimized sustainable multimodal freight transport and logistics system (SMFTLS). The Matlab software was used to solve containerized cargo shipment in the optimal system and compare it with the previous system. It was realized that the total cost savings achieved from the optimized system was USD 97.03 million (i.e., 4.5%) lower than the same cargo quantity shipped with the existing system. This SMFTLS model will assist governments, policy makers and investors in deciding the appropriate transport schemes that would manage their overall effects. The study recommends the development of rail and waterway infrastructures to help build the resilient sustainable system (SMFTLS) to manage the rising freight transport demands and related economic, social, and environmental issues.

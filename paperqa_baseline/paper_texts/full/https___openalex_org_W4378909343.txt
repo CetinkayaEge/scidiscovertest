@@ -1,0 +1,9 @@
+Title: Integrating Multi-Criteria Decision-Making Methods with Sustainable Engineering: A Comprehensive Review of Current Practices
+Authors: Anđelka Štilić, Adis Puška
+Year: 2023
+Venue: Eng—Advances in Engineering
+DOI: https://doi.org/10.3390/eng4020088
+Paper ID: https://openalex.org/W4378909343
+
+Abstract:
+Multi-criteria decision-making (MCDM) methods have gained increased attention in sustainable engineering, where complex decision-making problems require consideration of multiple criteria and stakeholder perspectives. This review paper provides a comprehensive overview of the different MCDM methods, their applications in sustainable engineering, and their strengths and weaknesses. The paper discusses the concept of sustainable engineering, its principles, and the different areas where MCDM methods have been applied, including energy, manufacturing, transportation, and environmental engineering. Case studies of real-world applications are presented and analyzed, highlighting the main findings and implications for engineering practice. Finally, the challenges and limitations of MCDM methods in sustainable engineering are discussed, and future research directions are proposed. This review contributes to the understanding of the role of MCDM methods in sustainable engineering and provides guidance for researchers and practitioners.

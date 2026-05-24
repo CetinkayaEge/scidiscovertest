@@ -1,0 +1,9 @@
+Title: Static and Dynamic Experimental Analysis of the Galloping Stability of Porous H-Section Beams
+Authors: F. Gandia, J. Meseguer, A. Sanz-Andrés
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/746826
+Paper ID: pmc_PMC4163349
+
+Abstract:
+The phenomenon of self-induced vibrations of prismatic beams in a cross-flow has been studied for decades, but it is still of great interest due to their important effects in many different industrial applications. This paper presents the experimental study developed on a prismatic beam with H-section. The aim of this analysis is to add some additional insight into the behaviour of the flow around this type of bodies, in order to reduce galloping and even to avoid it. The influence of some relevant geometrical parameters that define the H-section on the translational galloping behaviour of these beams has been analysed. Wind loads coefficients have been measured through static wind tunnel tests and the Den Hartog criterion applied to elucidate the influence of geometrical parameters on the galloping properties of the bodies under consideration. These results have been completed with surface pressure distribution measurements and, besides, dynamic tests have been also performed to verify the static criterion. Finally, the morphology of the flow past the tested bodies has been visualised by using smoke visualization techniques. Since the rectangular section beam is a limiting case of the H-section configuration, the results here obtained are compared with the ones published in the literature concerning rectangular configurations; the agreement is satisfactory.

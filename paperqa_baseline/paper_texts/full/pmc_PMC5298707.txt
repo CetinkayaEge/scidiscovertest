@@ -1,0 +1,9 @@
+Title: On Connectivity of Wireless Sensor Networks with Directional Antennas
+Authors: Qiu Wang, Hong-Ning Dai, Zibin Zheng, Muhammad Imran, Athanasios V. Vasilakos
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010134
+Paper ID: pmc_PMC5298707
+
+Abstract:
+In this paper, we investigate the network connectivity of wireless sensor networks with directional antennas. In particular, we establish a general framework to analyze the network connectivity while considering various antenna models and the channel randomness. Since existing directional antenna models have their pros and cons in the accuracy of reflecting realistic antennas and the computational complexity, we propose a new analytical directional antenna model called the iris model to balance the accuracy against the complexity. We conduct extensive simulations to evaluate the analytical framework. Our results show that our proposed analytical model on the network connectivity is accurate, and our iris antenna model can provide a better approximation to realistic directional antennas than other existing antenna models.

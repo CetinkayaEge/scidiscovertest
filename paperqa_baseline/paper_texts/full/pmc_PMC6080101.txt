@@ -1,0 +1,9 @@
+Title: Blood Brain Barrier and Alzheimer’s Disease: Similarity and Dissimilarity of Molecular Alerts
+Authors: Alla P. Toropova, Andrey A. Toropov, Sanija Begum, Patnala G.R. Achary
+Year: 2018
+Venue: Current Neuropharmacology
+DOI: 10.2174/1570159X15666171016163951
+Paper ID: pmc_PMC6080101
+
+Abstract:
+Background Blood brain barrier and Alzheimer’s disease are interrelated. This interrelation is detected by physicochemical methods, pharmacological and electrophysiological analyses. Nature of the phenomenon is extremely complex. The description of this interrelation in mathematical terms is a very important task. Objective The systematization of facts, which are described in the literature and related to interaction between processes, which influence Alzheimer's disease and blood brain barrier is the subject of this work. In addition, establishing of correlations between molecular features and endpoints, which are related to the treatment of Alzheimer's disease and blood brain barrier using the CORAL software are subjects of this work. Methods The information on logically structured analysis is available in the literature and building up quantitative structure – activity relationships (QSARs) by the Monte Carlo method has been used to solve the task of systematization of facts related to the “treatment of Alzheimer's disease vs. blood brain barrier”. Results Comparison of agreements and disagreements of the available published papers together with the statistical quality of built up QSARs are results of this work. Conclusion The facts from published papers and technical details of QSAR built up in this study give possibility to formulate the following rules: (i) there are molecular alerts, which are promoters to increase blood brain barrier and therapeutic activity of anti-Alzheimer disease agents; (ii) there are molecular alerts, which contradict each other.

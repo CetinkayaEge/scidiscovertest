@@ -1,0 +1,9 @@
+Title: In silico Identification of Hypoxic Signature followed by reverse transcription-quantitative PCR Validation in Cancer Cell Lines
+Authors: Sara Shayan, Golnaz Bahramali, Arash Arashkia, Kayhan Azadmanesh
+Year: 2023
+Venue: Iranian Biomedical Journal
+DOI: 10.52547/ibj.3803
+Paper ID: pmc_PMC9971715
+
+Abstract:
+Background: Hypoxic tumor microenvironment is one of the important impediments for conventional cancer therapy. This study aimed to computationally identify hypoxia-related mRNA signatures in nine hypoxic-conditioned cancer cell lines and investigate their role during hypoxia. Methods: Nine RNA-Seq expression data sets were retrieved from the Gene Expression Omnibus database. DEGs were identified in each cancer cell line. Then 23 common DEGs were selected by comparing the gene lists across the nine cancer cell lines. qRT-PCR was performed to validate the identified DEGs. Results: By comparing the data sets, GAPDH, LRP1, ALDOA, EFEMP2, PLOD2, CA9, EGLN3, HK, PDK1, KDM3A, UBC, and P4HA1 were identified as hub genes. In addition, miR-335-5p, miR-122-5p, miR-6807-5p, miR-1915-3p, miR-6764-5p, miR-92-3p, miR-23b-3p, miR-615-3p, miR-124-3p, miR-484, and miR-455-3p were determined as common miRNAs. Four DEGs were selected for mRNA expression validation in cancer cells under normoxic and hypoxic conditions with qRT-PCR. The results also showed that the expression levels determined by qRT-PCR were consistent with RNA-Seq data. Conclusion: The identified PPI network of common DEGs could serve as potential hypoxia biomarkers and might be helpful for improving therapeutic strategies.

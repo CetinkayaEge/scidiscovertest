@@ -1,0 +1,9 @@
+Title: How Renewable Energy and CO2 Emissions Contribute to Economic Growth, and Sustainability—An Extensive Analysis
+Authors: Mara Madaleno, Manuel Carlos Nogueira
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15054089
+Paper ID: https://openalex.org/W4321787242
+
+Abstract:
+Using energy efficiently is crucial for economic development and sustainability. However, excessive use of fossil fuels impedes sustainable economic growth, and the released emissions have a negative impact on the environment. Still, there is no consensus in the literature as to the side effects or even regarding the determinants used to assess this relationship. As such, this article explores the effects that CO2 (carbon dioxide) emissions and renewable energy consumption have on economic growth, using fixed assets, human capital, research and development, foreign direct investment, labor force, and international trade as controls, on a sample of 27 EU (European Union) countries between 1994 and 2019. Four different methodologies were applied to the sample, namely ordinary least squares, fixed effects, random effects, and the generalized method of moments in first differences, allowing endogeneity to be accounted for. Results show that gross fixed capital, human development, and trade contribute positively to economic growth; however, even though these contributions increase due to renewable energy consumption, that increase occurs at the expense of more CO2 emissions. This expense may be justified by the high dependency on fossil fuels in the EU 27 group. Policy implications are presented for policymakers, namely governments, in light of sustainability and climate change.

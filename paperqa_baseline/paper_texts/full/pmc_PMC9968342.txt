@@ -1,0 +1,9 @@
+Title: Composition, structure and robustness of Lichen guilds
+Authors: Salva Duran-Nebreda, Sergi Valverde
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30357-w
+Paper ID: pmc_PMC9968342
+
+Abstract:
+Symbiosis is a major engine of evolutionary innovation underlying many extant complex organisms. Lichens are a paradigmatic example that offers a unique perspective on the role of symbiosis in ecological success and evolutionary diversification. Lichen studies have produced a wealth of information regarding the importance of symbiosis, but they frequently focus on a few species, limiting our understanding of large-scale phenomena such as guilds. Guilds are groupings of lichens that assist each other’s proliferation and are intimately linked by a shared set of photobionts, constituting an extensive network of relationships. To characterize the network of lichen symbionts, we used a large data set ( \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$$n=206$$\end{document} n = 206 publications) of natural photobiont-mycobiont associations. The entire lichen network was found to be modular, but this organization does not directly match taxonomic information in the data set, prompting a reconsideration of lichen guild structure and composition. The multiscale nature of this network reveals that the major lichen guilds are better represented as clusters with several substructures rather than as monolithic communities. Heterogeneous guild structure fosters robustness, with keystone species functioning as bridges between guilds and whose extinction would endanger global stability.

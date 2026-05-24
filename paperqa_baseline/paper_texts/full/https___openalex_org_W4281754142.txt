@@ -1,0 +1,9 @@
+Title: Energy systems modeling and optimization for absolute environmental sustainability: current landscape and opportunities
+Authors: Till Weidner, Ángel Galán‐Martín, Morten Ryberg, Gonzalo Guillén‐Gosálbez
+Year: 2022
+Venue: Computers & Chemical Engineering
+DOI: https://doi.org/10.1016/j.compchemeng.2022.107883
+Paper ID: https://openalex.org/W4281754142
+
+Abstract:
+Energy systems analysis supports in designing and operating reliable and cost-effective energy solutions to a range of sectors, including power, heating, mobility, and industry. Notwithstanding the wellbeing and prosperity implications for current generations, it becomes increasingly clear that our current global energy system has profound impacts on our planet, potentially breaching the safe operating space for humanity. Life cycle assessments are broadly used to account for environmental aspects, however, this traditional approach may fall short of designing truly sustainable alternatives. Here, we review the concept of absolute sustainability and how it can be incorporated into energy systems modeling and optimization. Besides providing background, guidance, and perspective, we also discuss some challenges related to environmental and computational aspects. Although much work is still required, the absolute environmental sustainability concept can already be used in energy systems modeling and would contribute to achieving a green energy transition within planetary boundaries, ensuring sustainable development for future generations.

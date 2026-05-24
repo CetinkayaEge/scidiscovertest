@@ -1,0 +1,9 @@
+Title: Does rural industrial integration improve agricultural productivity? Implications for sustainable food production
+Authors: Feng Ye, Shengze Qin, Nimra Nisar, Qing Zhang, Ting Tong, Lang Wang
+Year: 2023
+Venue: Frontiers in Sustainable Food Systems
+DOI: https://doi.org/10.3389/fsufs.2023.1191024
+Paper ID: https://openalex.org/W4377108421
+
+Abstract:
+Although the literature demonstrates that rural industrial integration can enhance farmers' income, foster rural development, its impact on agricultural total factor productivity (ATFP), a critical aspect of sustainable food systems remains unclear. Using provincial-level data from 2008 to 2018, this paper constructs a composite index of rural industrial integration and examines its effect, heterogeneity, and spatial spillover on ATFP growth in China. The findings indicate that the levels of rural industry integration and ATFP experienced a gradual increase from 2008 to 2018. Rural industry integration promotes ATFP growth through technical progress and improved technical efficiency. An analysis of regional heterogeneity reveals that rural industry integration has the most significant impact on ATFP promotion in the western region, followed by the central region, with the least impact in the eastern region of China. Unconditional quantile regression suggests that rural industrial integration has a more considerable impact on ATFP in regions with higher ATFP. Furthermore, the spatial Durbin model results demonstrate that rural industry integration directly supports rural industry integration development in a region while simultaneously inhibiting ATFP growth in surrounding areas. Finally, the findings also reveal that enhancing rural industrial integration can have positive impacts on sustainable agricultural production in China. These findings offer valuable insights for other developing countries aiming to promote sustainable consumption and production.

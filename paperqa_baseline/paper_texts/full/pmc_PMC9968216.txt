@@ -1,0 +1,9 @@
+Title: Combining Preoperative Clinical and Imaging Characteristics to Predict MVI in Hepatitis B Virus-Related Combined Hepatocellular Carcinoma and Cholangiocarcinoma
+Authors: Si-Si Huang, Meng-Xuan Zuo, Chuan-Miao Xie
+Year: 2023
+Venue: Journal of Personalized Medicine
+DOI: 10.3390/jpm13020246
+Paper ID: pmc_PMC9968216
+
+Abstract:
+Background: Combined hepatocellular carcinoma and cholangiocarcinoma (cHCC-CCA) is a rare form of primary liver malignancy. Microvascular invasion (MVI) indicates poor postsurgical prognosis in cHCC-CCA. The objective of this study was to investigate preoperative predictors of MVI in hepatitis B virus (HBV) -related cHCC-CCA patients. Methods: A total of 69 HBV-infected patients with pathologically confirmed cHCC-CCA who underwent hepatectomy were included. Univariate and multivariate analyses were conducted to determine independent risk factors that were then incorporated into the predictive model associated with MVI. Receiver operating characteristic analysis was used to assess the predictive performance of the new model. Results: For the multivariate analysis, γ-glutamyl transpeptidase (OR, 3.69; p = 0.034), multiple nodules (OR, 4.41; p = 0.042) and peritumoral enhancement (OR, 6.16; p = 0.004) were independently associated with MVI. Active replication of HBV indicated by positive HBeAg showed no differences between MVI-positive and MVI-negative patients. The prediction score using the independent predictors achieved an area under the curve of 0.813 (95% CI 0.717–0.908). A significantly lower recurrence-free survival was observed in the high-risk group with a score of ≥1 ( p < 0.001). Conclusion: γ-glutamyl transpeptidase, peritumoral enhancement and multiple nodules were independent preoperative predictors of MVI in HBV-related cHCC-CCA patients. The established prediction score demonstrated satisfactory performance in predicting MVI pre-operatively and may facilitate prognostic stratification.

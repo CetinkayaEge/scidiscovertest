@@ -1,0 +1,9 @@
+Title: Association between medication adherence to chronic diseases and shift-work schedules in the Korean working population
+Authors: Seung-Yeon Lee, Seunghyun Lee, Wanhyung Lee
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-26618-9
+Paper ID: pmc_PMC9803658
+
+Abstract:
+Shift-working schedules are closely linked to chronic diseases, and only a few studies have investigated the association between working schedules and medication adherence in chronic diseases targeting workers. This study aimed to investigate whether shift-work schedules are associated with medication adherence in a working population with chronic conditions. The study participants (n = 11,460 person-years) were identified from the Korea Health Panel Study conducted from 2008 to 2018. Medication adherence was classified as good (2+) or poor (0 or 1) based on the 4-item Morisky Medication Adherence Scale. Work schedules were categorized as shifts and fixed daytime work. Its association with medication adherence was investigated using a generalized estimating equation model, generating odds ratios (OR) with 95% confidence intervals (CI). According to work schedules, shift workers were more likely than fixed-day workers to have poor medication adherence (adjusted OR = 1.16, 95% CI: 1.02–1.33). Regarding occupational classification, manual workers had a significantly higher risk of poor medication adherence than those in other occupational categories (adjusted OR = 1.27, 95% CI: 1.13–1.43). Among shift workers, the major reason for poor medication adherence was forgetting to take medication (SPR = 1.23, 95% CI: 1.07–1.38). Workers with irregular shift times are more vulnerable to poor medication adherence. Future studies are required to understand the mechanisms underlying this association and develop strategies to enhance medication adherence in the working population.

@@ -1,0 +1,9 @@
+Title: Spatial Modelling of Urban Wind Characteristics: Review of Contributions to Sustainable Urban Development
+Authors: Yi-Song Liu, Tan Yiğitcanlar, Mirko Guaralda, Kenan Degirmenci, Aaron Liu
+Year: 2024
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings14030737
+Paper ID: https://openalex.org/W4392601125
+
+Abstract:
+Wind, a renewable resource with growing importance in the contemporary world, is considered a capable tool for addressing some of the problems linked with rapid urbanization, unsustainable development, and climate change. As such, understanding modelling approaches to wind characteristics in cities becomes crucial. While prior reviews delve into the advancements in reduced-scale models and computational fluid dynamics simulations, there is scant literature evaluating large-scale spatial modelling of urban wind environments. This paper aims to consolidate the understanding of spatial modelling approaches to wind characteristics in cities by conducting a systematic literature review with the PRISMA protocol to capture the contributions to sustainable urban development. The reviewed articles are categorized under two distinctive approaches: (a) studies adopting the wind morphometric approach, encompassing theoretical foundations, input factors, and computation methods and (b) studies adopting the urban climate mapping approach, centering on the amalgamation of wind with urban microclimate analysis. The findings suggest that wind morphometric methodologies hold considerable promise due to their straightforward calculations and interpretability. Nonetheless, issues related to data precision and accuracy challenge the validity of these models. This review also probes into the implications of these two distinctive approaches for urban planning and policymaking, advocating for more sustainable urban development.

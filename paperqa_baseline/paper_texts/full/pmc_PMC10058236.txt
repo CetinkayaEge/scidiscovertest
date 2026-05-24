@@ -1,0 +1,9 @@
+Title: A customized MOF-polymer composite for rapid gold extraction from water matrices
+Authors: Tianwei Xue, Tao He, Li Peng, Olga A. Syzgantseva, Ruiqing Li, Chengbin Liu, Daniel T. Sun, Guangkuo Xu, Rongxing Qiu, Yanliang Wang, Shuliang Yang, Jun Li, Jian-Rong Li, Wendy L. Queen
+Year: 2023
+Venue: Science Advances
+DOI: 10.1126/sciadv.adg4923
+Paper ID: pmc_PMC10058236
+
+Abstract:
+With the fast-growing accumulation of electronic waste and rising demand for rare metals, it is compelling to develop technologies that can promotionally recover targeted metals, like gold, from waste, a process referred to as urban mining. Thus, there is increasing interest in the design of materials to achieve rapid, selective gold capture while maintaining high adsorption capacity, especially in complex aqueous-based matrices. Here, a highly porous metal-organic framework (MOF)–polymer composite, BUT-33–poly( para -phenylenediamine) (PpPD), is assessed for gold extraction from several matrices including river water, seawater, and leaching solutions from CPUs. BUT-33–PpPD exhibits a record-breaking extraction rate, with high Au 3+ removal efficiency (>99%) within seconds (less than 45 s), a competitive capacity (1600 mg/g), high selectivity, long-term stability, and recycling ability. Furthermore, the high porosity and redox adsorption mechanism were shown to be underlying reasons for the material’s excellent performance. Given the accumulation of recovered metallic gold nanoparticles inside, the material was also efficiently applied as a catalyst. A MOF-polymer composite has been synthesized for rapid gold extraction from water matrices.

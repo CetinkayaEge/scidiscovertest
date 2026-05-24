@@ -1,0 +1,9 @@
+Title: Biomass Pyrolysis Pathways for Renewable Energy and Sustainable Resource Recovery: A Critical Review of Processes, Parameters, and Product Valorization
+Authors: N. Ungureanu, V. Vlăduţ, S. Ş. Biriş, N. E. Gheorghiță, M. Ionescu
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17177806
+Paper ID: https://openalex.org/W4413824496
+
+Abstract:
+The increasing demand for renewable energy has intensified research on lignocellulosic biomass pyrolysis as a versatile route for sustainable energy and resource recovery. This study provides a comparative overview of main pyrolysis regimes (slow, intermediate, fast, and flash), emphasizing operational parameters, typical product yields, and technological readiness levels (TRLs). Reactor configurations, including fixed-bed, fluidized-bed, rotary kiln, auger, and microwave-assisted systems, are analyzed in terms of design, advantages, limitations, and TRL status. Key process parameters, such as temperature, heating rate, vapor residence time, reaction atmosphere, and catalyst type, critically influence the yields and properties of biochar, bio-oil, and syngas. Increased temperatures and fast heating rates favor liquid and gas production, whereas lower temperatures and longer residence times enhance biochar yield and carbon content. CO2 and H2O atmospheres modify product distribution, with CO2 increasing gas formation and biochar surface area and steam enhancing bio-oil yield at the expense of solid carbon. Catalytic pyrolysis improves selectivity toward target products, though trade-offs exist between char and oil yields depending on feedstock and catalyst choice. These insights underscore the interdependent effects of process parameters and reactor design, highlighting opportunities for optimizing pyrolysis pathways for energy recovery, material valorization, and sustainable bioeconomy applications.

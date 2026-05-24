@@ -1,0 +1,9 @@
+Title: Critical review of energy planning models for the sustainable development at company level
+Authors: Lorenzo Laveneziana, Matteo Prussi, David Chiaramonti
+Year: 2023
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2023.101136
+Paper ID: https://openalex.org/W4385172019
+
+Abstract:
+Companies in the manufacturing, service and transport infrastructure sectors will play a key role in the sustainable transition of the energy system implementing innovative technologies at full industrial scale. However, developing long-term investment plans is a challenging task, complicated by the volatility of energy markets and the uncertainties induced in the policy landscape by the recent energy crises. In this respect, mathematical models can support the transition of industrial systems, steering the planning process. In this work, we review and evaluate the suitability of available models to serve this purpose. The availability of modelling tools for local energy planning has already been assessed by several works. However, the tools which are most frequently employed at this scale are generally unable to characterise the evolution of the energy system in the long term, they have a focus on the operational aspects of the system, and are, in many cases, proprietary. By contrast, all the models examined in this review are open source, and the investigated set also features tools able to capture long-term dynamics. Our results provide evidence that several tools could offer valuable insights to the planning process. Nevertheless, a trade-off between the representation of long-term dynamics and the modelling of key aspects of the energy system of a company is, to date, inevitable. The best compromise is offered by a small group of multi-scale tools, able to conjugate a long-term perspective with a detailed modelling of the operational aspects of the system.

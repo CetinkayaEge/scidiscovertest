@@ -1,0 +1,9 @@
+Title: The Success of Information Systems and Sustainable Information Society: Measuring the Implementation of a Village Financial System
+Authors: Dodik Ariyanto, Ayu Aryista Dewi, Henny Triyana Hasibuan, Rizky Bagus Paramadani
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14073851
+Paper ID: https://openalex.org/W4220935917
+
+Abstract:
+The purpose of this study is to advance the information society literature research by examining and developing the adoption of information systems within the Village Financial System (SISKEUDES) to improve the sustainable information society (SIS). The models include the DeLone and McLean model and trust theory, which involves eight variables: system information quality, information quality, service quality, trust in government organizations, trust in technology, usage, user satisfaction, net benefits, and sustainable information society. A survey questionnaire was used, and data was collected from SISKEUDES users in Bali, Indonesia, which were statistically analyzed using Partial Least Square (PLS) to understand the phenomena of Information System (IS) adoption and sustainable information society. The research findings reveal that system information quality, information quality, and trust in technology have a significant impact on usage and user satisfaction, whereas service quality and trust in government organizations do not have such an effect. The usage and user satisfaction variables have a significant effect on net benefits, and they have a significant effect on the sustainability of the SIS. This study’s findings can provide e-government practitioners with deeper insights into how to overcome problems with user satisfaction and increase trust in mandatory e-government services in realizing SIS and the “smart village”.

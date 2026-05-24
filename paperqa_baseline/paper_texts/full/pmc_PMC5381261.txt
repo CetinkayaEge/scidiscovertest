@@ -1,0 +1,9 @@
+Title: HDAC6 regulates IL-17 expression in T lymphocytes: implications for HDAC6-targeted therapies
+Authors: Bing Yan, Yang Liu, Hong Bai, Miao Chen, Songbo Xie, Dengwen Li, Min Liu, Jun Zhou
+Year: 2017
+Venue: Theranostics
+DOI: 10.7150/thno.17615
+Paper ID: pmc_PMC5381261
+
+Abstract:
+The pro-inflammatory cytokine interleukin 17 (IL-17) is critically involved in immunity and inflammation. T-helper 17 and γδ T cells are the predominant sources of IL-17 in the immune system. However, the mechanisms by which the expression of IL-17 is regulated in T cells remain elusive. Here, we demonstrate that loss of histone deacetylase 6 (HDAC6) in mice does not affect the generation of CD4 + or CD8 + T cells, but stimulates the development of IL-17-producing γδ T cells. Our data further show that HDAC6 deficiency increases the production of IL-17 by Vγ4 + γδ T cells in the spleen and lymph nodes. Consistent with these observations, small-molecule inhibition of HDAC6 activity in γδ T cells promotes the expression of IL-17 in vitro . These data thus reveal that HDAC6 represses IL-17 production in T cells, providing novel insights into the role of HDAC6 in the immune system. These findings also have important implications for the clinical investigation of HDAC6-targeted therapies.

@@ -1,0 +1,9 @@
+Title: Signatures of the exciton gas phase and its condensation in monolayer 1T-ZrTe 2
+Authors: Yekai Song, Chunjing Jia, Hongyu Xiong, Binbin Wang, Zhicheng Jiang, Kui Huang, Jinwoong Hwang, Zhuojun Li, Choongyu Hwang, Zhongkai Liu, Dawei Shen, Jonathan A. Sobota, Patrick Kirchmann, Jiamin Xue, Thomas P. Devereaux, Sung-Kwan Mo, Zhi-Xun Shen, Shujie Tang
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36857-7
+Paper ID: pmc_PMC9971207
+
+Abstract:
+The excitonic insulator (EI) is a Bose-Einstein condensation (BEC) of excitons bound by electron-hole interaction in a solid, which could support high-temperature BEC transition. The material realization of EI has been challenged by the difficulty of distinguishing it from a conventional charge density wave (CDW) state. In the BEC limit, the preformed exciton gas phase is a hallmark to distinguish EI from conventional CDW, yet direct experimental evidence has been lacking. Here we report a distinct correlated phase beyond the 2×2 CDW ground state emerging in monolayer 1T-ZrTe 2 and its investigation by angle-resolved photoemission spectroscopy (ARPES) and scanning tunneling microscopy (STM). The results show novel band- and energy-dependent folding behavior in a two-step process, which is the signatures of an exciton gas phase prior to its condensation into the final CDW state. Our findings provide a versatile two-dimensional platform that allows tuning of the excitonic effect. Signatures of an excitonic insulator have been reported in several two-dimensional materials. Here the authors report electronic properties of monolayer ZrTe 2 from ARPES and STM measurements that are consistent with the preformed exciton gas phase, a precursor for the excitonic insulator.

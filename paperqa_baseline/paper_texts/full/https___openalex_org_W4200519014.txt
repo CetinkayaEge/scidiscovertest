@@ -1,0 +1,9 @@
+Title: Toward Sustainable Serverless Computing
+Authors: Panos Patros, Josef Spillner, Alessandro V. Papadopoulos, Blesson Varghese, Omer Rana, Schahram Dustdar
+Year: 2021
+Venue: IEEE Internet Computing
+DOI: https://doi.org/10.1109/mic.2021.3093105
+Paper ID: https://openalex.org/W4200519014
+
+Abstract:
+Although serverless computing generally involves executing short-lived “functions,” the increasing migration to this computing paradigm requires careful consideration of energy and power requirements. serverless computing is also viewed as an economically-driven computational approach, often influenced by the cost of computation, as users are charged for per-subsecond use of computational resources rather than the coarse-grained charging that is common with virtual machines and containers. To ensure that the startup times of serverless functions do not discourage their use, resource providers need to keep these functions hot, often by passing in synthetic data. We describe the real power consumption characteristics of serverless, based on execution traces reported in the literature, and describe potential strategies (some adopted from existing VM and container-based approaches) that can be used to reduce the energy overheads of serverless execution. Our analysis is, purposefully, biased toward the use of machine learning workloads because: (1) workloads are increasingly being used widely across different applications; (2) functions that implement machine learning algorithms can range in complexity from long-running (deep learning) versus short-running (inference only), enabling us to consider serverless across a variety of possible execution behaviors. The general findings are easily translatable to other domains.

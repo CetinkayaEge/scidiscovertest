@@ -1,0 +1,9 @@
+Title: Recent Advances in Ammonia Electrolysis for Sustainable Hydrogen Generation
+Authors: Pravin Babar, Gerardine G. Botte
+Year: 2024
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.4c02093
+Paper ID: https://openalex.org/W4400972925
+
+Abstract:
+Advancing sustainable and clean energy technology is crucial in addressing the current energy and environmental crisis. Hydrogen has garnered significant attention as an energy carrier due to its abundance, high energy density, and zero carbon emissions. Given the challenges associated with hydrogen storage and transportation, the electrolysis of ammonia presents significant potential for renewable energy. This process offers a promising solution that meets both energy supply needs and environmental protection goals as it serves as a carbon-free fuel with high hydrogen content. However, ammonia electrolysis comprises a sluggish ammonia oxidation reaction (AOR), and understanding the complex mechanisms and intermediates involved in AOR is necessary. The development of sustainable, low-cost, and efficient catalysts for AOR plays an important role in accelerating the reaction kinetics and boosting the performance of the AOR process. This review summarizes the state of the art on aqueous AOR mechanisms, heterogeneous catalysts for AOR including platinum (Pt), Pt-based alloys, and transition-metal-based catalysts, along with their performance using various strategies. Finally, perspectives and opportunities for future development of ammonia electrolysis technology are discussed.

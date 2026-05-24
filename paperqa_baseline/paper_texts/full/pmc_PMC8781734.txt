@@ -1,0 +1,9 @@
+Title: Gene Therapy Targeting PCSK9
+Authors: Julius L. Katzmann, Arjen J. Cupido, Ulrich Laufs
+Year: 2022
+Venue: Metabolites
+DOI: 10.3390/metabo12010070
+Paper ID: pmc_PMC8781734
+
+Abstract:
+The last decades of research in cardiovascular prevention have been characterized by successful bench-to-bedside developments for the treatment of low-density lipoprotein (LDL) hypercholesterolemia. Recent examples include the inhibition of proprotein convertase subtilisin/kexin type 9 (PCSK9) with monoclonal antibodies, small interfering RNA and antisense RNA drugs. The cumulative effects of LDL cholesterol on atherosclerosis make early, potent, and long-term reductions in LDL cholesterol desirable—ideally without the need of regular intake or application of medication and importantly, without side effects. Current reports show durable LDL cholesterol reductions in primates following one single treatment with PCSK9 gene or base editors. Use of the CRISPR/Cas system enables precise genome editing down to single-nucleotide changes. Provided safety and documentation of a reduction in cardiovascular events, this novel technique has the potential to fundamentally change our current concepts of cardiovascular prevention. In this review, the application of the CRISPR/Cas system is explained and the current state of in vivo approaches of PCSK9 editing is presented.

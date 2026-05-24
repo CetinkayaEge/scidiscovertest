@@ -1,0 +1,9 @@
+Title: XAI Sustainable Human in the Loop Maintenance
+Authors: Christopher Turner, Okechukwu Okorie, John Oyekan
+Year: 2022
+Venue: IFAC-PapersOnLine
+DOI: https://doi.org/10.1016/j.ifacol.2022.09.185
+Paper ID: https://openalex.org/W4312781550
+
+Abstract:
+The field of Explainable Artificial Intelligence (XAI) is a relatively new approach to AI, with the aim to provide black box algorithms with human intelligible narrative functionality. It is most often in end-of-life considerations of the asset lifecycle that sustainability issues are encountered. Modern maintenance practice requires a holistic understanding of lifecycle and options for sustainable asset treatments. human in the loop solutions offer a way to leverage both machine and human skill sets to provide the next level of automaton solutions for industrial maintenance activities. This paper presents a framework for human in the loop Intelligent and Sustainable Maintenance. In bridging the gap between machines and humans XAI leverages the best of both worlds to provide a new level of agility to cyber assisted maintenance activities and full lifecycle consideration of assets; a notion that is necessary throughout the organization in the achievement of sustainability goals set by governments around the world in the achievement of a net zero carbon emission economy.

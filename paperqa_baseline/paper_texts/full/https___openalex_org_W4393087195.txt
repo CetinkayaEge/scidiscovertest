@@ -1,0 +1,9 @@
+Title: Green AI for Sustainability: Leveraging Machine Learning to Drive a Circular Economy
+Authors: Ahmed Hussein Ali
+Year: 2023
+Venue: Babylonian Journal of Artificial Intelligence
+DOI: https://doi.org/10.58496/bjai/2023/004
+Paper ID: https://openalex.org/W4393087195
+
+Abstract:
+As artificial intelligence continues its relentless march towards advancing capability, there is surprisingly little discussion around advancing responsibility. The data centers underpinning AI research devour massive amounts of energy and contribute substantially to emissions. But what if AI could flip the script and help curb emissions instead? An emerging field known as Green AI provides solutions by building economic and environmental sustainability directly into AI systems. In a paper published this week, researchers set out an innovative framework for leveraging machine learning to accelerate the transition to a circular economy. This model moves away from the traditional linear take-make-dispose economy towards one where products, parts, and materials can be reused, remanufactured, and recycled in closed loops. AI and automation will provide the optimization backbone to make such closed-loop supply chains efficient and cost-effective.

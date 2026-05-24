@@ -1,0 +1,9 @@
+Title: Sustained amphiregulin expression in intermediate alveolar stem cells drives progressive fibrosis
+Authors: Rui Zhao, Zheng Wang, Guowu Wang, Jing Geng, Huijuan Wu, Ximing Liu, Ennan Bin, Jianhua Sui, Huaping Dai, Nan Tang
+Year: 2024
+Venue: Cell stem cell
+DOI: https://doi.org/10.1016/j.stem.2024.07.004
+Paper ID: https://openalex.org/W4401251418
+
+Abstract:
+Idiopathic pulmonary fibrosis (IPF) is a progressive and fatal fibrotic disease. Recent studies have highlighted the persistence of an intermediate state of alveolar stem cells in IPF lungs. In this study, we discovered a close correlation between the distribution pattern of intermediate alveolar stem cells and the progression of fibrotic changes. We showed that amphiregulin (AREG) expression is significantly elevated in intermediate alveolar stem cells of mouse fibrotic lungs and IPF patients. High levels of serum AREG correlate significantly with profound deteriorations in lung function in IPF patients. We demonstrated that AREG in alveolar stem cells is both required and sufficient for activating EGFR in fibroblasts, thereby driving lung fibrosis. Moreover, pharmacological inhibition of AREG using a neutralizing antibody effectively blocked the initiation and progression of lung fibrosis in mice. Our study underscores the therapeutic potential of anti-AREG antibodies in attenuating IPF progression, offering a promising strategy for treating fibrotic diseases.

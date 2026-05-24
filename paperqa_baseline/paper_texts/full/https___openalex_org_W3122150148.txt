@@ -1,0 +1,9 @@
+Title: Towards sustainable resource management: identification and quantification of human actions that compromise the accessibility of metal resources
+Authors: Jo Dewulf, Stefanie Hellweg, Stephan Pfister, María Fernanda Godoy León, Thomas Sonderegger, Cristina T. Matos, Gian Andrea Blengini, Fabrice Mathieux
+Year: 2021
+Venue: Resources Conservation and Recycling
+DOI: https://doi.org/10.1016/j.resconrec.2021.105403
+Paper ID: https://openalex.org/W3122150148
+
+Abstract:
+Although metals and minerals represent a prominent asset for sustainable development, continuous population growth and the current accelerations in energy and mobility transitions are increasing concerns regarding their accessibility for current and future generations. As recent insights have identified access rather than depletion to be the dominant factor for resources, this paper elaborates on the (in)accessibility concept of such raw materials once they have entered the technosphere. It identifies six human actions that compromise accessibility: emitting, landfilling, tailing, downcycling, hoarding and abandoning. It analyses the degree of the generated inaccessibility and proposes estimated duration of inaccessibility as a proxy. It further explores how current sustainability management tools like material flow analysis and life cycle analysis could be further developed to address resource (in)accessibility. Finally, the paper presents a case study on cobalt in the EU, where five compromising actions make 70% of the extracted cobalt inaccessible due to tailings (21.3%), landfilling (31.2%), downcycling (11.6%), dissipation (1.4%) and hoarding (4.3%); only 30% is used to expand the functional stock.

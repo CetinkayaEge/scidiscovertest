@@ -1,0 +1,9 @@
+Title: HnRNP-L promotes prostate cancer progression by enhancing cell cycling and inhibiting apoptosis
+Authors: Xumin Zhou, Qi Li, Jincan He, Liren Zhong, Fangpeng Shu, Rongwei Xing, Daojun Lv, Bin Lei, Bo Wan, Yu Yang, Huayan Wu, Xiangming Mao, Yaguang Zou
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14258
+Paper ID: pmc_PMC5386688
+
+Abstract:
+Expression of the RNA-binding protein HnRNP-L was previously shown to associate with tumorigenesis in liver and lung cancer. In this study, we examined the role of HnRNP-L in prostate cancer (Pca). We found that HnRNP-L is overexpressed in prostate tissue samples from 160 PC patients compared with tissue samples from 32 donors with cancers other than Pca. Moreover, HnRNP-L positively correlated with aggressive tumor characteristics. HnRNP-L knockdown inhibited cell proliferation and promoted cell apoptosis of Pca cell lines in vitro , and suppressed tumor growth when the cells were subcutaneously implanted in an athymic mouse model. Conversely, overexpression of HnRNP-L promoted cell proliferation and tumor growth while prohibiting cell apoptosis. HnRNP-L promoted cell proliferation and tumor growth in Pca in part by interacting with endogenous p53 mRNA, which was closely associated with cyclin p21. In addition, HnRNP-L affected cell apoptosis by directly binding the classical apoptosis protein BCL-2. These observations suggest HnRNP-L is an important regulatory factor that exerts pro-proliferation and anti-apoptosis effects in Pca through actions affecting the cell cycle and intrinsic apoptotic signaling. Thus HnRNP-L could potentially serve as a valuable molecular biomarker or therapeutic target in the treatment of Pca.

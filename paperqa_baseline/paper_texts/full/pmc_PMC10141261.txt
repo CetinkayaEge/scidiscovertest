@@ -1,0 +1,9 @@
+Title: Aqueous Cold Sintering of Li-Based Compounds
+Authors: Linhao Li, Jessica Andrews, Ria Mitchell, Daniel Button, Derek C. Sinclair, Ian M. Reaney
+Year: 2023
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.3c00392
+Paper ID: pmc_PMC10141261
+
+Abstract:
+Aqueous cold sintering of two lithium-based compounds, the electrolyte Li 6.25 La 3 Zr 2 Al 0.25 O 12 (LLZAO) and cathode material LiCoO 2 (LCO), is reported. For LLZAO, a relative density of ∼87% was achieved, whereas LCO was sintered to ∼95% with 20 wt % LLZAO as a flux/binder. As-cold sintered LLZAO exhibited a low total conductivity (10 –8 S/cm) attributed to an insulating grain boundary blocking layer of Li 2 CO 3 . The blocking layer was reduced with a post-annealing process or, more effectively, by replacing deionized water with 5 M LiCl during cold sintering to achieve a total conductivity of ∼3 × 10 –5 S/cm (similar to the bulk conductivity). For LCO-LLZAO composites, scanning electron microscopy and X-ray computer tomography indicated a continuous LCO matrix with the LLZAO phase evenly distributed but isolated throughout the ceramics. [001] texturing during cold sintering resulted in an order of magnitude difference in electronic conductivity between directions perpendicular and parallel to the c -axis at room temperature. The electronic conductivity (∼10 –2 S/cm) of cold sintered LCO-LLZAO ceramics at room temperature was comparable to that of single crystals and higher than those synthesized via either conventional sintering or hot pressing.

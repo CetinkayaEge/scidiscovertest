@@ -1,0 +1,9 @@
+Title: Sustainable interior design: A new approach to intelligent design and automated manufacturing based on Grasshopper
+Authors: Junming Chen, Zichun Shao, Han Zhu, Yilin Chen, Yutian Li, Zhengfang Zeng, Yifan Yang, Junjie Wu, Hu Bin
+Year: 2023
+Venue: Computers & Industrial Engineering
+DOI: https://doi.org/10.1016/j.cie.2023.109509
+Paper ID: https://openalex.org/W4385605034
+
+Abstract:
+The construction industry consumes a great deal of energy and causes environmental pollution, especially the interior design of the construction industry because the lower degree of automation brings more ecological problems. Thus, intelligent design and automated manufacturing are essential for interior design, as they can increase efficiency and reduce environmental pollution for sustainable development. This study proposes a new method of intelligent design and automatic manufacturing based on Grasshopper (GH) and proves its effectiveness in interior design through practice. The proposed method automatically generates suitable drawings and three-dimensional models by GH instead of manual drawing, thus improving design efficiency and quality. The construction cost calculation is conducted simultaneously with the design while the cost control is completed in the design stage. Then the design is handed over to the computer numerical control factory to realize high-precision automatic manufacturing. Automatically manufactured components are installed on-site instead of manufactured, making the process more environmentally friendly and reducing the construction period. The results show that the application of this method in interior design helps improve design efficiency and quality and has cost-saving and sustainability advantages.

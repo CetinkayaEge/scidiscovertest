@@ -1,0 +1,9 @@
+Title: Multiplex measurement of protein–peptide dissociation constants using dialysis and mass spectrometry
+Authors: Yu Zhao, Gevorg Grigoryan
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4607
+Paper ID: pmc_PMC10031237
+
+Abstract:
+Abstract We propose a high‐throughput method for quantitatively measuring hundreds of protein–peptide binding affinities in parallel. In this assay, a solution of protein is dialyzed into a buffer containing a pool of potential binding peptides, such that upon equilibration the relative abundance of a peptide species is mathematically related to that peptide's dissociation constant, K d . We use isobaric multiplexed quantitative proteomics to simultaneously determine the relative abundance, and hence the K d and its associated error, for an entire peptide library. We apply this technique, which we call PEDAL (parallel equilibrium dialysis for affinity learning), to determine accurate K d 's between a PDZ domain and hundreds of peptides, spanning an affinity range of multiple orders of magnitude in a single experiment. PEDAL is a convenient, fast, and low‐cost method for measuring large numbers of protein–peptide affinities in parallel, providing a rare combination of true in‐solution binding equilibria with the ability to multiplex.

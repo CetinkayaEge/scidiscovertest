@@ -1,0 +1,9 @@
+Title: NF-kappaB P50/P65 hetero-dimer mediates differential regulation of CD166/ALCAM expression via interaction with micoRNA-9 after serum deprivation, providing evidence for a novel negative auto-regulatory loop
+Authors: Jiayi Wang, Zhidong Gu, Peihua Ni, Yongxia Qiao, Changqiang Chen, Xiangfan Liu, Jiafei Lin, Ning Chen, Qishi Fan
+Year: 2011
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkr302
+Paper ID: pmc_PMC3159468
+
+Abstract:
+CD166/ALCAM plays an important role in tumor aggression and progression as well as protecting cancer cells against apoptosis and autophagy. However, the mechanism by which pro-cell death signals control CD166 expression remains unclear. Here we show that following serum deprivation (SD), upregulation of CD166 protein is shorter than that of CD166 mRNA. Molecular analysis revealed both CD166 and miR-9-1 as two novel NF-κB target genes in hepatoma cells. In vivo activation and translocation of the NF-κB P50/P65 hetero-dimer into the nucleus following the phosphorylation and accompanied degradation of its inhibitor, IκBα, contributes to efficient transcription of both genes following SD. We show that following serum starvation, delayed up-regulation of miR-9 represses translation of CD166 protein through its target sites in the 3′-UTR of CD166 mRNA. We also propose that miR-9 promotes cell migration largely due to inhibition of CD166. Collectively, the study elucidates a novel negative auto-regulatory loop in which NF-κB mediates differential regulation of CD166 after SD.

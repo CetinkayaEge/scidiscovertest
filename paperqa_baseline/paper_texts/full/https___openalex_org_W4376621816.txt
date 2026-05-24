@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and the Sustainable Development Goals: An Exploratory Study in the Context of the Society Domain
+Authors: David Jungwirth, Daniela Haluza
+Year: 2023
+Venue: Journal of Software Engineering and Applications
+DOI: https://doi.org/10.4236/jsea.2023.164006
+Paper ID: https://openalex.org/W4376621816
+
+Abstract:
+Artificial Intelligence (AI) experienced significant advancements in recent years, and its potential power is already recognized across various industries. Yet, the rise of AI has led to a growing concern about its impact on meeting the Sustainable Development Goals (SDGs). The aim of this paper was to evaluate contributions and the potential influence of AI to sustainable development in the society domain. Furthermore, the study analyzed GPT-3 responses, as one of the largest language models developed by OpenAI, descriptively. We conducted a set of queries on the SDGs to gather information on GPT-3’s perceptions of AI impact on sustainable development. Analysis of GPT-3’s contribution potential towards the SDGs showcased its broad range of capabilities for contributing to the SDGs in areas such as education, health, and communication. The study findings provide valuable insights into the contributions of AI to sustainable development in the society domain and highlight the importance of proper regulations to promote the responsible use of AI for sustainable development. We highlighted the potential for improvement in neural language processing skills of GPT-3 by avoiding imitating weak human writing styles with more mistakes in longer texts.

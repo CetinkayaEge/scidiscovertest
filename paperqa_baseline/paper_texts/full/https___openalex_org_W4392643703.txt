@@ -1,0 +1,9 @@
+Title: Promoting sustainability in finance with AI: A review of current practices and future potential
+Authors: Adedoyin Tolulope Oyewole, Omotayo Bukola Adeoye, Wilhelmina Afua Addy, Chinwe Chinazo Okoye, Onyeka Chrisanctus Ofodile, Chinonye Esther Ugochukwu
+Year: 2024
+Venue: World Journal of Advanced Research and Reviews
+DOI: https://doi.org/10.30574/wjarr.2024.21.3.0691
+Paper ID: https://openalex.org/W4392643703
+
+Abstract:
+This study explores the transformative integration of Artificial Intelligence (AI) into sustainable finance, highlighting its potential to redefine financial practices in alignment with Environmental, Social, and Governance (ESG) criteria. Through a systematic review of current practices and an analysis of AI's applications, challenges, and strategic frameworks, the research elucidates AI's role in enhancing financial operations' efficiency, accuracy, and sustainability. Findings indicate that AI technologies, such as the Financial Maximally Filtered Graph (FMFG) algorithm, significantly improve the processing and analysis of vast datasets, facilitating sustainable investment decisions. However, the integration of AI into sustainable finance is accompanied by ethical, regulatory, and technological challenges. The study proposes strategic recommendations for overcoming these barriers, emphasizing the development of robust policy frameworks, industry best practices, and a balanced approach to AI integration. The conclusion underscores the promise of AI in advancing sustainable finance, offering insights for stakeholders on navigating the complexities of this integration to achieve a more sustainable and resilient financial system.

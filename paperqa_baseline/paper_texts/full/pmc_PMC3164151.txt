@@ -1,0 +1,9 @@
+Title: Solexa Sequencing of Novel and Differentially Expressed MicroRNAs in Testicular and Ovarian Tissues in Holstein Cattle
+Authors: Jinming Huang, Zhihua Ju, Qiuling Li, Qinlei Hou, Changfa Wang, Jianbin Li, Rongling Li, Lingling Wang, Tao Sun, Suqin Hang, Yundong Gao, Minghai Hou, Jifeng Zhong
+Year: 2011
+Venue: International Journal of Biological Sciences
+DOI: 10.7150/ijbs.7.1016
+Paper ID: pmc_PMC3164151
+
+Abstract:
+The posttranscriptional gene regulation mediated by microRNA plays an important role in the development and function of male and female reproductive organs and germ cells in mammals, including cattle. In the present study, we identified novel and differentially expressed miRNAs in the testis and ovary in Holstein cattle by combining the Solexa sequencing with bioinformatics. In total 100 and 104 novel pre-miRNAs were identified in testicular and ovarian tissues, encoding 122 and 136 mature miRNAs, respectively. Of these, 6 miRNAs appear to be bovine-specific. A total of 246 known miRNAs were co-expressed in the testicular and ovarian tissues. Of the known miRNAs, twenty-one testis-specific and nine ovary-specific (1-23 reads) were found. Approximately 30.5% of the known bovine miRNAs in this study were found to have >2-fold differential expression within the two respective reproductive organ systems. The putative miRNA target genes of miRNAs were involved in pathways associated with reproductive physiology. Both known and novel tissue-specific miRNAs are expressed by Real-time quantitative PCR analysis in dairy cattle. This study expands the number of miRNAs known to be expressed in cattle. The patterns of miRNAs expression differed significantly between the bovine testicular and ovarian tissues, which provide important information on sex differences in miRNA expression. Diverse miRNAs may play an important regulatory role in the development of the reproductive organs in Holstein cattle.

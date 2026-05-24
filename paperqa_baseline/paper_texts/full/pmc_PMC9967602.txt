@@ -1,0 +1,9 @@
+Title: Vancomycin-Resistant Enterococcus faecium Sterilization and Conductivity Change by Impulse Voltage
+Authors: Takahisa Ueno, Takashi Furukawa, Takashi Sakugawa
+Year: 2023
+Venue: Microorganisms
+DOI: 10.3390/microorganisms11020517
+Paper ID: pmc_PMC9967602
+
+Abstract:
+Owing to the increased use of antibiotics, drug-resistant strains, including those that are resistant to the antibiotic vancomycin, have emerged, which has become a major problem. In Japan, sewage treatments consist of sterilization with chlorine; however, this may not be sufficient to inactivate these bacteria. In this study, impulse voltage was employed instead of chlorine to inactivate drug-resistant bacteria. The results showed that sterilization above 10 5 CFU/mL is possible with longer application times of applied voltages above 4.5 kV. The effectiveness of impulse-voltage-mediated sterilization increased as the temperature of the bacterial suspension increased. The number of bacteria sterilized via impulse voltage was correlated with conductivity when the number of bacteria sterilized by impulse voltage exceeded 10 5 CFU/mL. The sterilization rate achieved by the use of impulse voltage could be estimated immediately by measuring the electrical conductivity and without the need for using the culture method.

@@ -1,0 +1,9 @@
+Title: Financing sustainable entrepreneurship: ESG measurement, valuation, and performance
+Authors: Sasan Mansouri, Paul P. Momtaz
+Year: 2022
+Venue: Journal of Business Venturing
+DOI: https://doi.org/10.1016/j.jbusvent.2022.106258
+Paper ID: https://openalex.org/W4294883928
+
+Abstract:
+Sustainability orientation has a positive effect on startups' initial valuation and a negative effect on their post-funding financial performance. All else equal, improving sustainability orientation by one standard deviation increases startups' funding amount by 28 % and decreases investors' abnormal returns per post-funding year by 16 %. The results hold in a large sample of blockchain-based crowdfunding campaigns, also known as Initial Coin Offerings (ICOs) or token offerings. A key contribution is a machine-learning approach to assess startups' Environment, Society and Governance (ESG) properties from textual data, which we make readily available at www.SustainableEntrepreneurship.org.

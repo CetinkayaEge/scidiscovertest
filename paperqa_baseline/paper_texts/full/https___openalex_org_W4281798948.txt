@@ -1,0 +1,9 @@
+Title: Towards the Integration of Sustainable Transportation and Smart Grids: A Review on Electric Vehicles’ Management
+Authors: Virginia Casella, Daniel Fernandez Valderrama, Giulio Ferro, R. Minciardi, Massimo Paolucci, Luca Parodi, Michela Robba
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15114020
+Paper ID: https://openalex.org/W4281798948
+
+Abstract:
+In this paper, a survey is presented on the use of optimization models for the integration of electric vehicles (EVs) and charging stations (CSs) in the energy system, paying particular attention both to planning problems (i.e., those problems related to long term decisions such as the siting and sizing of CSs), and operational management problems (i.e., the optimal scheduling of EVs in smart grids, microgrids and buildings taking into account vehicle-to-grid (V2G) capabilities). Moreover, specific attention was dedicated to decision problems that couple transportation and electrical networks, such as the energy demand assessment for a vehicle over a path and routing and charging decision problems for goods and people transportation. Finally, an effort was dedicated to highlighting the integration and the use of EVs in very recent regulation frameworks, with specific reference to the participation in the balancing market through the figure of an aggregator and the inclusion in the management of Energy Communities (ECs) and sustainable districts.

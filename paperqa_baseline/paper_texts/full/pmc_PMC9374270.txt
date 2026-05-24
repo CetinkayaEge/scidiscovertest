@@ -1,0 +1,9 @@
+Title: Assessing the importance of sex in a hippocampus-dependent behavioral test battery in C57BL/6NTac mice
+Authors: Korey D. Stevanovic, Sydney A. Fry, Jemma M.S. DeFilipp, Nicholas Wu, Briana J. Bernstein, Jesse D. Cushman
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053599.122
+Paper ID: pmc_PMC9374270
+
+Abstract:
+Inclusion of male and female subjects in behavioral neuroscience research requires a concerted effort to characterize sex differences in standardized behavioral assays. Sex differences in hippocampus-dependent assays have been widely reported but are still poorly characterized. In the present study, we conducted a parametric analysis of spontaneous alternation, object recognition, and fear conditioning in a commonly used control strain, C57BL/6NTac. Our findings show largely similar performance between males and females across the majority of behavioral end points. However, we identified an important difference in nonassociative fear sensitization, whereby females showed an enhanced fear response to the 75-dB tone that is used as the conditional stimulus. In addition, we observed an impairment in object location performance in females that was ameliorated by more extensive habituation to handling. Together, these findings argue that sex differences in nonassociative fear responses to both novel auditory cues and novel objects need to be considered when designing and interpreting cognitive assays in C57BL/6 mice. Furthermore, this elevated fear sensitization could serve as a novel approach to model the increased incidence of anxiety disorders in women.

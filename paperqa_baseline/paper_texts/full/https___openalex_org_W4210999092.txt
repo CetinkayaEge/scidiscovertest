@@ -1,0 +1,9 @@
+Title: Developing sustainable tourism destinations through smart technologies: A system dynamics approach
+Authors: Sanaz Shafiee, Saeed Jahanyan, Ali Rajabzadeh Ghatari, Alireza Hasanzadeh
+Year: 2022
+Venue: Journal of Simulation
+DOI: https://doi.org/10.1080/17477778.2022.2030656
+Paper ID: https://openalex.org/W4210999092
+
+Abstract:
+&lt;p&gt;Smart tourism destinations can be considered as a system consisting of a complex set of variables. Developing sustainable destinations through smart technologies requires effective policies to be identified prior to any investment decision making. So, System Dynamics is a good method to see how a set of complex and dynamic variables influence each other and shape the behaviour of the system and its components over time. In this research a dynamic model is devised to simulate developing smart tourism destinations via smart technologies. The results suggest that about 10 million tourists would be expected to come by 2025 if existing situation persists. The results of this study help to make strategic decisions by policymakers by predicting the behaviour of variables of different subsystems. This study provides a reilable tool to evaluate different policies for realizing tourism sustainability.&lt;/p&gt;

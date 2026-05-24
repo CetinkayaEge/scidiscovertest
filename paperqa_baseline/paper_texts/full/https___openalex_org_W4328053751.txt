@@ -1,0 +1,9 @@
+Title: Advances in the biomass valorization in bioelectrochemical systems: A sustainable approach for microbial-aided electricity and hydrogen production
+Authors: Monika Sharma, El‐Sayed Salama, Nandini Thakur, Hisham Alghamdi, Byong‐Hun Jeon, Xiangkai Li
+Year: 2023
+Venue: Chemical Engineering Journal
+DOI: https://doi.org/10.1016/j.cej.2023.142546
+Paper ID: https://openalex.org/W4328053751
+
+Abstract:
+Availability of biomass makes biofuel from bioresources more feasible. Recently, algal biomass (AB) and lignocellulosic biomass (LB) have been widely used in bioelectrochemical systems (BESs) for bioelectricity and biohydrogen production. However, no review provides the current scenario of bioelectricity and biohydrogen generation from various biomass and biowaste in BESs. Therefore, the current review provides a recent and in-depth understanding of biomass-specific BESs including biomass selection, pretreatment approaches, dominating microbes, economic feasibility, and pilot-scale up. Biomass of E. prolifera and bamboo (hydrolysate) were reported to have a high ability for bioelectricity generation with maximum power densities of 3810 and 578 mW m−2, respectively. Biohydrogen productions were 1608 and 1017 mL H2 g−1 with fruit waste and S. Japonica, respectively. Previous studies used single biomass in BESs and almost there is no research work on mixed biomass. Co-digestion and/or mixing of biomass (such as AB and LB) or biowaste (lipid-rich and carbohydrate-rich feedstock) would enhance the accessibility of substrates to microbes which could increase the bioelectricity and biohydrogen. The integration of MFCs with primary and secondary units of wastewater treatment plants (WWTPs) is restricted to the utilization of wastewater and sludge (i.e., substrate). Thus, biomass augmentation as an external substrate in WWTP might facilitate the growth of electroactive microbes and can efficiently support the pilot-scale BESs.

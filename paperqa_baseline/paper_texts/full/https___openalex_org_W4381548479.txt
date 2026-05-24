@@ -1,0 +1,9 @@
+Title: Heterogenous influence of productive capacities pillars and natural resources on ecological sustainability in developing Belt and Road host countries
+Authors: Shu Lin, Asif Razzaq, Kefu Yi
+Year: 2023
+Venue: Resources Policy
+DOI: https://doi.org/10.1016/j.resourpol.2023.103776
+Paper ID: https://openalex.org/W4381548479
+
+Abstract:
+Global climate change and environmental pollution force humanity to create new sustainable growth models. Growth policy relies heavily on the pillars of sectoral productivity: resource efficiency and sustainable resource management. This research adds to the determination of the impact of the numerous productive capacity indices (PCI) and natural resources on the ecological sustainability of emerging Belt and Road host nations from 2000 to 2018. The study utilized the system generalized method of moments (Sys-GMM) and the Feasible generalized least squares (FGLS) estimators to analyze the association among the variables. The empirical findings suggest that cumulative PCI and technological innovation have a promising impact on emissions reduction, while natural resources positively derive emissions. Manifestly, sub-indicators of PCI offer heterogeneous outcomes. Productive capacities in human capital, ICT, energy, and governance encourage ecological sustainability, while transport, private sector development, and structural change increase emissions. Augmented Mean Group estimator also validates similar findings. This research suggests improving operational efficiencies and productive capacities leads to better ecological outcomes.

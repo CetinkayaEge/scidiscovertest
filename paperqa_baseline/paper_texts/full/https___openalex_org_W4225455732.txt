@@ -1,0 +1,9 @@
+Title: Internet of Things for Sustainable Smart Education: An Overview
+Authors: Khaula Zeeshan, Timo Hämäläinen, Pekka Neittaanmäki
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14074293
+Paper ID: https://openalex.org/W4225455732
+
+Abstract:
+In the realm of fourth-generation industrialization, there will be great demand for a skilled workforceTo produce a skilled workforce, we need sustainable education with quality and equity. Conventional ways of delivering and managing education would not fulfil the demands of the fourth industrial revolution (4IR). Disruptive technologies, such as Internet of Things (IoT), have great potential in revolutionizing the current educational setup. Therefore, this research work aims to present an overview of the capabilities of IoT applications in educational settings. Our research article digs into recent research carried out referring to IoT applications in education and provides a detailed insight into the topic from three different perspectives, i.e., from the perspective of school management, teachers, and learners. The present research explains the ways in which IoT has been applied for the benefit of school managers, teachers, and learners, showcased in the recent literature. The paper also sheds light on bottlenecks for IoT applications and explains security, privacy, scalability, reliability, and dehumanization as main constraints in IoT applications in educational settings.

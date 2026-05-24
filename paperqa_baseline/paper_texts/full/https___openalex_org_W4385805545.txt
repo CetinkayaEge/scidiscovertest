@@ -1,0 +1,9 @@
+Title: A Review of Sustainable Total Productive Maintenance (STPM)
+Authors: Anouar Hallioui, Brahim Herrou, Polinpapilinho F. Katina, Ricardo Santos, Ona Egbue, Małgorzata Jasiulewicz–Kaczmarek, José Miguel Soares, Pedro Carmona Marques
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151612362
+Paper ID: https://openalex.org/W4385805545
+
+Abstract:
+Sustainable Total Productive Maintenance (STPM) arose in 2021 as a promising, new concept to fill the lack of sustainability in Total Productive Maintenance (TPM) and allow companies to overcome its implementation barriers. It revolves around increasing the understanding of the systems approach and contributing to setting contemporary companies’ sustainable ideology by supporting orientation toward sustainability from a sustainable maintenance perspective. However, STPM is still in its infancy and is viewed as a complement to the traditional TPM approach and is based on its pillars. Moreover, there is still a dearth of literature discussing STPM. This study aims to present STPM as a novel substitute for TPM while building its unique mechanism based on re-engineered fourth generation management (R4thGM). To pursue such a goal, 94 papers from Scopus, Web of Science, and Science Direct databases published in 2008–2023 were reviewed. This study’s novelty comes from presenting STPM as the best-suited lean manufacturing and sustainability strategy for enhancing sustainable maintenance, encouraging contemporary maintenance (i.e., Industry 4.0 technology-based sustainable maintenance), and supporting second-era contemporary companies’ orientation toward sustainability. Furthermore, based on recent studies, propositions are formulated to achieve STPM. Finally, research implications and future directions are presented.

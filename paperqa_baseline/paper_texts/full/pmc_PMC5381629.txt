@@ -1,0 +1,9 @@
+Title: Massive Expansion of Gypsy -Like Retrotransposons in Microbotryum Fungi
+Authors: Felix Horns, Elsa Petit, Michael E. Hood
+Year: 2017
+Venue: Genome Biology and Evolution
+DOI: 10.1093/gbe/evx011
+Paper ID: pmc_PMC5381629
+
+Abstract:
+Transposable elements (TEs) are selfish, autonomously replicating DNA sequences that constitute a major component of eukaryotic genomes and contribute to genome evolution through their movement and amplification. Many fungal genomes, including the anther-smut fungi in the basidiomycete genus Microbotryum , have genome defense mechanisms, such as repeat-induced point mutation (RIP), which hypermutate repetitive DNA and limit TE activity. Little is known about how hypermutation affects the tempo of TE activity and their sequence evolution. Here we report the identification of a massive burst-like expansion of Gypsy -like retrotransposons in a strain of Microbotryum . This TE expansion evidently occurred in the face of RIP-like hypermutation activity. By examining the fitness of individual TE insertion variants, we found that RIP-like mutations impair TE fitness and limit proliferation. Our results provide evidence for a punctuated pattern of TE expansion in a fungal genome, similar to that observed in animals and plants. While targeted hypermutation is often thought of as an effective protection against mobile element activity, our findings suggest that active TEs can persist and undergo selection while they proliferate in genomes that have RIP-like defenses.

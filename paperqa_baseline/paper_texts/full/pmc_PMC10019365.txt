@@ -1,0 +1,9 @@
+Title: Applications and future of aptamers that achieve rapid-onset anticoagulation
+Authors: Haixiang Yu, James Frederiksen, Bruce A. Sullenger
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079503.122
+Paper ID: pmc_PMC10019365
+
+Abstract:
+In this short Perspective, we discuss the history of, and recent progress toward, the development of aptamers that can serve as rapid onset anticoagulants during cardiopulmonary bypass (CPB), extracorporeal membrane oxygenation (ECMO), and catheter-based diagnostic and interventional procedures, several million of which are performed each year worldwide. Aptamer anticoagulants provide potent and antidote-controllable anticoagulation and have low immunogenicity. New methods of aptamer isolation and engineering have not only improved the quality of aptamers, but also accelerated their development. Unfortunately, no aptamer identified to date can produce an anticoagulant effect as potent as that produced by unfractionated heparin (UFH), the standard anticoagulant for CPB. We have suggested several possible strategies to amplify the anticoagulant potency of existing aptamer anticoagulants.

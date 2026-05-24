@@ -1,0 +1,9 @@
+Title: Assessment of a New Change of Direction Detection Algorithm Based on Inertial Data
+Authors: Roberto Avilés, Diego Brito Souza, José Pino-Ortega, Julen Castellano
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063095
+Paper ID: pmc_PMC10059788
+
+Abstract:
+The purpose of this study was to study the validity and reproducibility of an algorithm capable of combining information from Inertial and Magnetic Measurement Units (IMMUs) to detect changes of direction (COD). Five participants wore three devices at the same time to perform five CODs in three different conditions: angle (45°, 90°, 135° and 180°), direction (left and right), and running speed (13 and 18 km/h). For the testing, the combination of different % of smoothing applied to the signal (20%, 30% and 40%) and minimum intensity peak (PmI) for each event (0.8 G, 0.9 G, and 1.0 G) was applied. The values recorded with the sensors were contrasted with observation and coding from video. At 13 km/h, the combination of 30% smoothing and 0.9 G PmI was the one that showed the most accurate values (IMMU1: Cohen’s d (d) = −0.29;%Diff = −4%; IMMU2: d = 0.04 %Diff = 0%, IMMU3: d = −0.27, %Diff = 13%). At 18 km/h, the 40% and 0.9 G combination was the most accurate (IMMU1: d = −0.28; %Diff = −4%; IMMU2 = d = −0.16; %Diff = −1%; IMMU3 = d = −0.26; %Diff = −2%). The results suggest the need to apply specific filters to the algorithm based on speed, in order to accurately detect COD.

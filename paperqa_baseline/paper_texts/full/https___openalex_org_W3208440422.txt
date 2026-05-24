@@ -1,0 +1,9 @@
+Title: PDMS Microfabrication and Design for Microfluidics and Sustainable Energy Application: Review
+Authors: Lin Lin, C.K. Chung
+Year: 2021
+Venue: Micromachines
+DOI: https://doi.org/10.3390/mi12111350
+Paper ID: https://openalex.org/W3208440422
+
+Abstract:
+The polydimethylsiloxane (PDMS) is popular for wide application in various fields of microfluidics, microneedles, biology, medicine, chemistry, optics, electronics, architecture, and emerging sustainable energy due to the intrinsic non-toxic, transparent, flexible, stretchable, biocompatible, hydrophobic, insulating, and negative triboelectric properties that meet different requirements. For example, the flexibility, biocompatibility, non-toxicity, good stability, and high transparency make PDMS a good candidate for the material selection of microfluidics, microneedles, biomedical, and chemistry microchips as well as for optical examination and wearable electronics. However, the hydrophobic surface and post-surface-treatment hydrophobic recovery impede the development of self-driven capillary microchips. How to develop a long-term hydrophilicity treatment for PDMS is crucial for capillary-driven microfluidics-based application. The dual-tone PDMS-to-PDMS casting for concave-and-convex microstructure without stiction is important for simplifying the process integration. The emerging triboelectric nanogenerator (TENG) uses the transparent flexible PDMS as the high negative triboelectric material to make friction with metals or other positive-triboelectric material for harvesting sustainably mechanical energy. The morphology of PDMS is related to TENG performance. This review will address the above issues in terms of PDMS microfabrication and design for the efficient micromixer, microreactor, capillary pump, microneedles, and TENG for more practical applications in the future.

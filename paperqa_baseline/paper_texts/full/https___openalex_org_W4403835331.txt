@@ -1,0 +1,9 @@
+Title: Environmental Accounting and Sustainability: A Meta-Synthesis
+Authors: Sheela Sundarasen, Usha Rajagopalan, Ahnaf Ali Alsmady
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16219341
+Paper ID: https://openalex.org/W4403835331
+
+Abstract:
+This study conducts a comprehensive meta-synthesis of review-based research on environmental accounting, spanning from 1995 to 2024. Environmental accounting, also known as green accounting, has evolved as a critical tool for integrating sustainability into corporate financial practices. Using bibliometric methods via Bibliometrix R-package (Biblioshiny—Version 4.2.0) and VOSviewer (Version 1.6.20), the research mainly examines scholarly discussion in review-based studies and identifies dominant themes. The main clusters identified are (1) environmental audits and management, (2) green accounting, financial reporting and sustainable development, (3) CSR, stakeholder engagement, and accountability, and (4) environmental accounting and protection. On the descriptive end, publication trends, prominent authors, articles, and sources are identified. The findings highlight a significant increase in review-based studies since 2022, coinciding with the growing global awareness and importance of sustainability. This study contributes to the field by consolidating fragmented research on environmental accounting, offering a framework for future academic exploration. Practically, it informs policymakers and business leaders on the importance of unified reporting standards across regions; integrating environmental considerations into financial decision-making; promoting transparency, accountability, and sustainability accounting; and disclosure across industries and regions.

@@ -1,0 +1,9 @@
+Title: Sustainable Wood-Waste-Based Thermal Insulation Foam for Building Energy Efficiency
+Authors: Amanda Pia Siciliano, Xinpeng Zhao, Rebecca Fedderwitz, Kishore Ramakrishnan, Jiaqi Dai, Amy Gong, J. Y. Zhu, Jan Kośny, Liangbing Hu
+Year: 2023
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings13040840
+Paper ID: https://openalex.org/W4360614377
+
+Abstract:
+Wood is one of the most abundant biomaterials on Earth, which has been used for centuries in construction applications including furniture, roofing, flooring, and cabinetry. However, wood chips—which are a low-quality and plentiful waste byproduct of lumber milling, woodworking, and shipping operations—have low economic value and complicated disposal methods. In this paper, we propose a strategy for wood chip reuse through the fabrication of bio-based building insulation foam. Through a high-temperature chemical treatment delignification process, we introduced additional small pores within the wood chips, effectively lowering their thermal conductivity, and used them in combination with a binding agent to produce a porous insulation foam. The porous insulation foam achieved a low thermal conductivity of 0.038 W/(m·K) and a high compressive strength of 1.1 MPa (70% strain). These characteristics demonstrate that wood waste can be repurposed into an effective building material, addressing challenges in both waste management and sustainable construction.

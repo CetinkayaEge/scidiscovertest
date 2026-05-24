@@ -1,0 +1,9 @@
+Title: The Effect of Drug Heterogeneous Distributions within Core-Sheath Nanostructures on Its Sustained Release Profiles
+Authors: Haixia Xu, Xizi Xu, Siyu Li, Wenliang Song, Deng‐Guang Yu, S. W. Annie Bligh
+Year: 2021
+Venue: Biomolecules
+DOI: https://doi.org/10.3390/biom11091330
+Paper ID: https://openalex.org/W3198101434
+
+Abstract:
+The sustained release of a water-soluble drug is always a key and important issue in pharmaceutics. In this study, using cellulose acetate (CA) as a biomacromolecular matrix, core-sheath nanofibers were developed for providing a sustained release of a model drug-metformin hydrochloride (MET). The core-sheath nanofibers were fabricated using modified tri-axial electrospinning, in which a detachable homemade spinneret was explored. A process-nanostructure-performance relationship was demonstrated through a series of characterizations. The prepared nanofibers F2 could release 95% of the loaded MET through a time period of 23.4 h and had no initial burst effect. The successful sustained release performances of MET can be attributed to the following factors: (1) the reasonable application of insoluble CA as the filament-forming carrier, which determined that the drug was released through a diffusion manner; (2) the core-sheath nanostructure provided the possibility of both encapsulating the drug completely and realizing the heterogeneous distributions of MET in the nanofibers with a higher drug load core than the sheath; (3) the thickness of the sheath sections were able to be exploited for further manipulating a better drug extended release performance. The mechanisms for manipulating the drug sustained release behaviors are proposed. The present proof-of-concept protocols can pave a new way to develop many novel biomolecule-based nanostructures for extending the release of water-soluble drugs.

@@ -1,0 +1,9 @@
+Title: A Survey on Sustainable Surrogate-Based Optimisation
+Authors: Laurens Bliek
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14073867
+Paper ID: https://openalex.org/W4220773594
+
+Abstract:
+Surrogate-based optimisation (SBO) algorithms are a powerful technique that combine machine learning and optimisation to solve expensive optimisation problems. This type of problem appears when dealing with computationally expensive simulators or algorithms. By approximating the expensive part of the optimisation problem with a surrogate, the number of expensive function evaluations can be reduced. This paper defines sustainable SBO, which consists of three aspects: applying SBO to a sustainable application, reducing the number of expensive function evaluations, and considering the computational effort of the machine learning and optimisation parts of SBO. The paper reviews sustainable applications that have successfully applied SBO over the past years, and analyses the used framework, type of surrogate used, sustainable SBO aspects, and open questions. This leads to recommendations for researchers working on sustainability-related applications who want to apply SBO, as well as recommendations for SBO researchers. It is argued that transparency of the computation resources used in the SBO framework, as well as developing SBO techniques that can deal with a large number of variables and objectives, can lead to more sustainable SBO.

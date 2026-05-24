@@ -1,0 +1,9 @@
+Title: Lignin-Based Materials for Sustainable Rechargeable Batteries
+Authors: Han Young Jung, Jeong Seok Lee, Jeong Seok Lee, Hyun Taek Han, Jaehan Jung, KwangSup Eom, Jung Tae Lee, Jung Tae Lee
+Year: 2022
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym14040673
+Paper ID: https://openalex.org/W4211040415
+
+Abstract:
+This review discusses important scientific progress, problems, and prospects of lignin-based materials in the field of rechargeable batteries. Lignin, a component of the secondary cell wall, is considered a promising source of biomass. Compared to cellulose, which is the most extensively studied biomass material, lignin has a competitive price and a variety of functional groups leading to broad utilization such as adhesive, emulsifier, pesticides, polymer composite, carbon precursor, etc. The lignin-based materials can also be applied to various components in rechargeable batteries such as the binder, separator, electrolyte, anode, and cathode. This review describes how lignin-based materials are adopted in these five components with specific examples and explains why lignin is attractive in each case. The electrochemical behaviors including charge-discharge profiles, cyclability, and rate performance are discussed between lignin-based materials and materials without lignin. Finally, current limitations and future prospects are categorized to provide design guidelines for advanced lignin-based materials.

@@ -1,0 +1,9 @@
+Title: Functional significance of vertical free moment for generation of human bipedal walking
+Authors: Takuo Negishi, Naomichi Ogihara
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-34153-4
+Paper ID: pmc_PMC10140179
+
+Abstract:
+In human bipedal walking, the plantar surface of the foot is in contact with the floor surface, so that a vertical free moment (VFM), a torque about a vertical axis acting at the centre-of-pressure due to friction between the foot and the ground, is generated and applied to the foot. The present study investigated the functional significance of the VFM in the mechanics and evolution of human bipedal walking by analysing kinematics and kinetics of human walking when the VFM is selectively eliminated using point-contact shoes. When the VFM was selectively eliminated during walking, the thorax and pelvis axially rotated in-phase, as opposed to normal out-of-phase rotation. The amplitudes of the axial rotation also significantly increased, indicating that the VFM greatly contributes to stable and efficient bipedal walking. However, such changes in the trunk movement occurred only when arm swing was restricted, suggesting that the VFM is critical only when arm swing is restrained. Therefore, the human plantigrade foot capable of generating large VFM is possibly adaptive for bipedal walking with carrying food, corroborating with the so-called provisioning hypothesis that food carrying in the early hominins is a selective pressure for the evolution of human bipedalism.

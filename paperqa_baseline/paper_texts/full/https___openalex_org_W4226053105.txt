@@ -1,0 +1,9 @@
+Title: Blockchain technology needs for sustainable mineral supply chains: A framework for responsible sourcing of Cobalt.
+Authors: Godfrey Mugurusi, Emmanuel Ahishakiye
+Year: 2022
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.01.262
+Paper ID: https://openalex.org/W4226053105
+
+Abstract:
+Blockchain technology has recently become the go-to solution for companies and industries that seek to enhance value chain traceability of their products, and transparency in their supply chains. Because of these benefits, it’s been proposed for monitoring environmental, social, and governance (ESG) performance and compliance in industries that have weak regulatory and formal structures. The cobalt mining industry especially in the Democratic Republic of Congo, the world’s biggest producer of cobalt ore used in the manufacturing of lithium-ion batteries, is one such environment that’s characterized by conflict, and serious human rights abuses. The key actors in the cobalt supply chain, therefore, face the tradeoff involving maintaining long-term supply versus reducing the risks associated with cobalt sourced from locations with poor environmental and human rights records. Most of such problems emerge from Artisanal and small-scale mining. This paper presents an attempt to tightly link existing blockchain technology frameworks in the cobalt industry with ESG performance of companies to enable them to audit the chain of custody journeys for their components and ultimately sustainability performance. We present a responsible sourcing framework to connect blockchain source data needs to ESG metrics to help companies build interoperable but understandable blockchain architectures.

@@ -1,0 +1,9 @@
+Title: Application of Fault Tree Analysis and Fuzzy Neural Networks to Fault Diagnosis in the Internet of Things (IoT) for Aquaculture
+Authors: Yingyi Chen, Zhumi Zhen, Huihui Yu, Jing Xu
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010153
+Paper ID: pmc_PMC5298726
+
+Abstract:
+In the Internet of Things (IoT) equipment used for aquaculture is often deployed in outdoor ponds located in remote areas. Faults occur frequently in these tough environments and the staff generally lack professional knowledge and pay a low degree of attention in these areas. Once faults happen, expert personnel must carry out maintenance outdoors. Therefore, this study presents an intelligent method for fault diagnosis based on fault tree analysis and a fuzzy neural network. In the proposed method, first, the fault tree presents a logic structure of fault symptoms and faults. Second, rules extracted from the fault trees avoid duplicate and redundancy. Third, the fuzzy neural network is applied to train the relationship mapping between fault symptoms and faults. In the aquaculture IoT, one fault can cause various fault symptoms, and one symptom can be caused by a variety of faults. Four fault relationships are obtained. Results show that one symptom-to-one fault, two symptoms-to-two faults, and two symptoms-to-one fault relationships can be rapidly diagnosed with high precision, while one symptom-to-two faults patterns perform not so well, but are still worth researching. This model implements diagnosis for most kinds of faults in the aquaculture IoT.

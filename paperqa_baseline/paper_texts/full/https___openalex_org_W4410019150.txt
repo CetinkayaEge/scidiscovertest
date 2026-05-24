@@ -1,0 +1,9 @@
+Title: Sustainable nickel enabled by hydrogen-based reduction
+Authors: Umair Manzoor, L. Mujica Roncery, Dierk Raabe, Isnaldi Rodrigues de Souza Filho
+Year: 2025
+Venue: Nature
+DOI: https://doi.org/10.1038/s41586-025-08901-7
+Paper ID: https://openalex.org/W4410019150
+
+Abstract:
+. Here we present a method using fossil-free hydrogen-plasma-based reduction to extract nickel from low-grade ore variants known as laterites. We bypass the traditional multistep process and combine calcination, smelting, reduction and refining into a single metallurgical step conducted in one furnace. This approach produces high-grade ferronickel alloys at fast reduction kinetics. Thermodynamic control of the atmosphere of the furnace enables selective nickel reduction, yielding an alloy with minimal impurities (<0.04 wt% silicon, approximately 0.01 wt% phosphorus and <0.09 wt% calcium), eliminating the need for further refining. The proposed method has the potential to be up to about 18% more energy efficient while cutting direct carbon dioxide emissions by up to 84% compared with current practice. Our work thus shows a sustainable approach to help resolve the contradiction between the beneficial use of nickel in sustainable energy technologies and the environmental harm caused by its production.

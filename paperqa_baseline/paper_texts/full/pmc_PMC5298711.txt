@@ -1,0 +1,9 @@
+Title: Adaptive Information Dissemination Control to Provide Diffdelay for the Internet of Things
+Authors: Xiao Liu, Anfeng Liu, Changqin Huang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010138
+Paper ID: pmc_PMC5298711
+
+Abstract:
+Applications running on the Internet of Things, such as the Wireless Sensor and Actuator Networks (WSANs) platform, generally have different quality of service (QoS) requirements. For urgent events, it is crucial that information be reported to the actuator quickly, and the communication cost is the second factor. However, for interesting events, communication costs, network lifetime and time all become important factors. In most situations, these different requirements cannot be satisfied simultaneously. In this paper, an adaptive communication control based on a differentiated delay (ACCDS) scheme is proposed to resolve this conflict. In an ACCDS, source nodes of events adaptively send various searching actuators routings (SARs) based on the degree of sensitivity to delay while maintaining the network lifetime. For a delay-sensitive event, the source node sends a large number of SARs to actuators to identify and inform the actuators in an extremely short time; thus, action can be taken quickly but at higher communication costs. For delay-insensitive events, the source node sends fewer SARs to reduce communication costs and improve network lifetime. Therefore, an ACCDS can meet the QoS requirements of different events using a differentiated delay framework. Theoretical analysis simulation results indicate that an ACCDS provides delay and communication costs and differentiated services; an ACCDS scheme can reduce the network delay by 11.111%–53.684% for a delay-sensitive event and reduce the communication costs by 5%–22.308% for interesting events, and reduce the network lifetime by about 28.713%.

@@ -1,0 +1,9 @@
+Title: SCRMS: An RFID and Sensor Web-Enabled Smart Cultural Relics Management System
+Authors: Changjiang Xiao, Nengcheng Chen, Dandan Li, You Lv, Jianya Gong
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010060
+Paper ID: pmc_PMC5298633
+
+Abstract:
+Cultural relics represent national or even global resources of inestimable value. How to efficiently manage and preserve these cultural relics is a vitally important issue. To achieve this goal, this study proposed, designed, and implemented an RFID and Sensor Web–enabled smart cultural relics management system (SCRMS). In this system, active photovoltaic subtle energy-powered Radio Frequency Identification (RFID) is used for long-range contactless identification and lifecycle management of cultural relics during their storage and circulation. In addition, different types of ambient sensors are integrated with the RFID tags and deployed around cultural relics to monitor their environmental parameters, helping to ensure that they remain in good condition. An Android-based smart mobile application, as middleware, is used in collaboration with RFID readers to collect information and provide convenient management for the circulation of cultural relics. Moreover, multiple sensing techniques are taken advantage of simultaneously for preservation of cultural relics. The proposed system was successfully applied to a museum in the Yongding District, Fujian Province, China, demonstrating its feasibility and advantages for smart and efficient management and preservation of cultural relics.

@@ -1,0 +1,9 @@
+Title: Trend of Developing Aqueous Liquid and Gel Electrolytes for Sustainable, Safe, and High-Performance Li-Ion Batteries
+Authors: Donghwan Ji, Jaeyun Kim
+Year: 2023
+Venue: Nano-Micro Letters
+DOI: https://doi.org/10.1007/s40820-023-01220-4
+Paper ID: https://openalex.org/W4388411851
+
+Abstract:
+Current lithium-ion batteries (LIBs) rely on organic liquid electrolytes that pose significant risks due to their flammability and toxicity. The potential for environmental pollution and explosions resulting from battery damage or fracture is a critical concern. Water-based (aqueous) electrolytes have been receiving attention as an alternative to organic electrolytes. However, a narrow electrochemical-stability window, water decomposition, and the consequent low battery operating voltage and energy density hinder the practical use of aqueous electrolytes. Therefore, developing novel aqueous electrolytes for sustainable, safe, high-performance LIBs remains challenging. This Review first commences by summarizing the roles and requirements of electrolytes-separators and then delineates the progression of aqueous electrolytes for LIBs, encompassing aqueous liquid and gel electrolyte development trends along with detailed principles of the electrolytes. These aqueous electrolytes are progressed based on strategies using superconcentrated salts, concentrated diluents, polymer additives, polymer networks, and artificial passivation layers, which are used for suppressing water decomposition and widening the electrochemical stability window of water of the electrolytes. In addition, this Review discusses potential strategies for the implementation of aqueous Li-metal batteries with improved electrolyte-electrode interfaces. A comprehensive understanding of each strategy in the aqueous system will assist in the design of an aqueous electrolyte and the development of sustainable and safe high-performance batteries.

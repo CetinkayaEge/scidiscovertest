@@ -1,0 +1,9 @@
+Title: Fuel Consumption Monitoring through COPERT Model—A Case Study for Urban Sustainability
+Authors: Muhammad Abu Sufyan Ali, Muhammad Daud Kamal, Ali Tahir, Salman Atif
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132111614
+Paper ID: https://openalex.org/W3206455378
+
+Abstract:
+Trackers installed in vehicles gives insights into many useful information and predict future mobility patterns and other aspects related to vehicles movement which can be used for smart and sustainable cities planning. A novel approach is used with the COPERT model to estimate fuel consumption on a huge dataset collected over a period of one year. Since the data size is enormous, Apache Spark, a big data analytical framework is used for performance gains while estimating vehicle fuel consumption with the lowest latency possible. The research presents peak and off-peak hours fuel consumption’s in three major cities, i.e., Karachi, Lahore and Islamabad. The results can assist smart city professionals to plan alternative trip routes, avoid traffic congestion in order to save fuel and time, and protect against urban pollution for effective smart city planning. The research will be a step towards Industry 5.0 by combining sustainable disruptive technologies.

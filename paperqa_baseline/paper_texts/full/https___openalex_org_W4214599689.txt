@@ -1,0 +1,9 @@
+Title: Testing an adoption model for Industry 4.0 and sustainability: A Malaysian scenario
+Authors: Sreenivasan Jayashree, Mohammad Nurul Hassan Reza, C. A. Malarvizhi, Angappa Gunasekaran, Md Abdur Rauf
+Year: 2022
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2022.02.015
+Paper ID: https://openalex.org/W4214599689
+
+Abstract:
+The fourth industrial revolution, commonly known as Industry 4.0, enables greater production efficiency, and significantly impacts economic, environmental, and social sustainability. However, Industry 4.0 adoption is relatively low in emerging countries. This study aims to understand the dynamics of Industry 4.0 adoption with regard to achieving sustainability goals. Accordingly, a comprehensive model is proposed to improve production and sustainability measures among SMEs through the digital transformation triggered by Industry 4.0. Based on simple random sampling, a quantitative study was conducted using Structural Equation Modeling (PLS-SEM) with data collected from 314 Malaysian SMEs. The results show that the effect of IT resources, management leadership, teamwork, and external support is significant with regard to Industry 4.0 adoption and sustainability, respectively. In contrast, the effect of market pressure is insignificant. Furthermore, the effect of Industry 4.0 adoption on sustainability is also significant. Finally, Industry 4.0 adoption mediates the relationships among all the success factors of Industry 4.0 and sustainability, except market pressure. The study extends the relationship between the success factors and Industry 4.0 adoption toward sustainability and empirically validates the mediating effect of Industry 4.0 adoption between the success factors and sustainability. The outcomes of the study provide valuable insights for the practitioners and policymakers and contribute to Industry 4.0 literature.

@@ -1,0 +1,9 @@
+Title: Sustainable food profiling models to inform the development of food labels that account for nutrition and the environment: a systematic review
+Authors: Anne Charlotte Bunge, Kremlin Wickramasinghe, Jessica Renzella, Michael Clark, Mike Rayner, Holly Rippin, Afton Halloran, Nia Roberts, João Breda
+Year: 2021
+Venue: The Lancet Planetary Health
+DOI: https://doi.org/10.1016/s2542-5196(21)00231-x
+Paper ID: https://openalex.org/W3211542719
+
+Abstract:
+Sustainable food profiling models (SFPMs) are the scientific basis for the labelling of food products according to their environmental and nutritional impact, allowing consumers to make informed choices. We identified ten SFPMs that score individual foods according to at least two environmental indicators, with the most common being greenhouse gas emissions (n=10) and water use (n=8). Six models additionally assessed the nutritional quality of foods and presented different methods to combine nutritional and environmental indicators. Key advantages of identified models include a wide range in system boundaries, reference units, approaches for defining cutoff values, design proposals for food labelling schemes, and the comprehensive geographical scope of the lifecycle inventory databases used in the development phase of the model. Key disadvantages of identified models include inconsistent methods for food classification and poor replicability due to unclear methods, unavailable code for environmental and nutritional impact calculation, and unclear cutoff values. We found that few SFPMs to date account for at least two environmental impact factors, and even fewer include nutritional values or other dimensions of sustainability. This systematic review highlights the need to use consistent components and to develop national and international reference values for the classification of sustainable food to enable standardised food labelling.

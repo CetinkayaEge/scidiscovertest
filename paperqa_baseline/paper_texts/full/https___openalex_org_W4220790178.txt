@@ -1,0 +1,9 @@
+Title: Carbon mechanism on sustainable multi-objective solid transportation problem for waste management in Pythagorean hesitant fuzzy environment
+Authors: Shyamali Ghosh, Karl‐Heinz Küfer, Sankar Kumar Roy, Gerhard‐Wilhelm Weber
+Year: 2022
+Venue: Complex & Intelligent Systems
+DOI: https://doi.org/10.1007/s40747-022-00686-w
+Paper ID: https://openalex.org/W4220790178
+
+Abstract:
+Abstract Waste management involved in various fields of global ecosystem that provides several positive effects for green environment and sustainable development. We devise a multi-objective solid transportation model of waste management problem in agriculture field and forest department for urban or rural development. Starting to end point of the problem covered by considering the objective functions as transportation cost, job opportunity and carbon emission. Carbon emission is restricted by the combination of several policies of carbon mechanism (carbon tax, cap-and-trade and offset policy). Various critical sitchs appear in such realistic process and uncertainty attached with related data. Here we prefer Pythagorean hesitant fuzzy environment to overcome deep uncertainty rather than single uncertainty. After that, we initiate a ranking approach to convert uncertain data into crisp data. To justify the appropriateness of the formulated model and to select the best policy of carbon mechanism, we study two industrial applications with various cases of such mechanism. To derive the Pareto-optimal solution of the problems, two fuzzy techniques, namely, fuzzy programming and Pythagorean hesitant fuzzy programming, are utilized here. Comparative study, model validation, sensitivity analysis, managerial insights and conclusions with future research scopes are outlined at last.

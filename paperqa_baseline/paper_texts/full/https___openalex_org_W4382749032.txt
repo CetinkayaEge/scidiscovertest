@@ -1,0 +1,9 @@
+Title: Changes in China’s river water quality since 1980: management implications from sustainable development
+Authors: Hanxiao Zhang, Xianghui Cao, Shouliang Huo, Chunzi Ma, Wenpan Li, Yong Liu, Yingdong Tong, Fengchang Wu
+Year: 2023
+Venue: npj Clean Water
+DOI: https://doi.org/10.1038/s41545-023-00260-y
+Paper ID: https://openalex.org/W4382749032
+
+Abstract:
+Abstract Human activities and climate change threaten water quality in China’s rivers. We simulated the monthly concentrations of riverine total nitrogen (TN), ammonia-nitrogen (NH 3 -N), total phosphorus (TP), and chemical oxygen demand (COD Mn ) in 613 sub-watersheds of the nation’s 10 major river basins during the 1980–2050 period based on a 16-year (2003–2018) monitoring dataset using the stacking machine-learning models. The results showed that water quality improved markedly, except for the TN concentration, which was probably due to the lack of a TN control target and assessment system. Quantitative analysis indicated that anthropogenic factors were the primary controls compared with climatic drivers and geographical drivers for TN, TP, and NH 3 -N concentrations. On the basis of all 17 sustainable development goals (SDGs) relevant to water quality in China, the water resources, water environment, aquatic ecology and water security should be considered collectively to achieve improvements in the ecological status of China’s rivers.

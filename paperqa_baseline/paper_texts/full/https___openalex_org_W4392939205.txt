@@ -1,0 +1,9 @@
+Title: Self-sustainable autonomous soft actuators
+Authors: Zhen‐Zhou Nie, Meng Wang, Hong Yang
+Year: 2024
+Venue: Communications Chemistry
+DOI: https://doi.org/10.1038/s42004-024-01142-1
+Paper ID: https://openalex.org/W4392939205
+
+Abstract:
+Self-sustainable autonomous locomotion is a non-equilibrium phenomenon and an advanced intelligence of soft-bodied organisms that exhibit the abilities of perception, feedback, decision-making, and self-sustainment. However, artificial self-sustaining architectures are often derived from algorithms and onboard modules of soft robots, resulting in complex fabrication, limited mobility, and low sensitivity. Self-sustainable autonomous soft actuators have emerged as naturally evolving systems that do not require human intervention. With shape-morphing materials integrating in their structural design, soft actuators can direct autonomous responses to complex environmental changes and achieve robust self-sustaining motions under sustained stimulation. This perspective article discusses the recent advances in self-sustainable autonomous soft actuators. Specifically, shape-morphing materials, motion characteristics, built-in negative feedback loops, and constant stimulus response patterns used in autonomous systems are summarized. Artificial self-sustaining autonomous concepts, modes, and deformation-induced functional applications of soft actuators are described. The current challenges and future opportunities for self-sustainable actuation systems are also discussed.

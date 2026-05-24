@@ -1,0 +1,9 @@
+Title: Insulin Receptor Tyrosine Kinase Substrate Enhances Low Levels of MDM2-Mediated p53 Ubiquitination
+Authors: Ke-Sheng Wang, Gang Chen, Hai-Lian Shen, Ting-Ting Li, Fei Chen, Qin-Wan Wang, Zhi-Qin Wang, Ze-Guang Han, Xin Zhang
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023571
+Paper ID: pmc_PMC3160901
+
+Abstract:
+The tumor suppressor p53 controls multiple cellular functions including DNA repair, cell cycle arrest and apoptosis. MDM2-mediated p53 ubiquitination affects both degradation and cytoplasmic localization of p53. Several cofactors are known to modulate MDM2-mediated p53 ubiquitination and proteasomal degradation. Here we show that IRTKS, a novel IRSp53-like protein inhibited p53-induced apoptosis and depressed its transcription activity. IRTKS bound directly to p53 and increased p53 ubiquitination and cytoplasmic localization. Further studies revealed that IRTKS interacted with MDM2 and promoted low levels of MDM2-mediated p53 ubiquitination in vitro and in vivo. In unstressed cells with low levels of MDM2, IRTKS was found to stabilize the interaction of p53 and MDM2. In stressed cells, IRTKS dissociated from p53, and high levels of MDM2 induced by p53 activation mediate IRTKS poly-ubiquitination and subsequent proteasomal degradation. These data suggest that IRTKS is a novel regulator of p53, modulating low level of MDM2-mediated p53 ubiquitination in unstressed cells.

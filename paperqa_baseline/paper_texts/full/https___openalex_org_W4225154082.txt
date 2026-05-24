@@ -1,0 +1,9 @@
+Title: Autotrophic Fe-Driven Biological Nitrogen Removal Technologies for Sustainable Wastewater Treatment
+Authors: Su–Yan Pang, Ning Li, Huan Luo, Xiaonan Luo, Tong Shen, Yanan Yang, Jin Jiang
+Year: 2022
+Venue: Frontiers in Microbiology
+DOI: https://doi.org/10.3389/fmicb.2022.895409
+Paper ID: https://openalex.org/W4225154082
+
+Abstract:
+Fe-driven biological nitrogen removal (FeBNR) has become one of the main technologies in water pollution remediation due to its economy, safety and mild reaction conditions. This paper systematically summarizes abiotic and biotic reactions in the Fe and N cycles, including nitrate/nitrite-dependent anaerobic Fe(II) oxidation (NDAFO) and anaerobic ammonium oxidation coupled with Fe(III) reduction (Feammox). The biodiversity of iron-oxidizing microorganisms for nitrate/nitrite reduction and iron-reducing microorganisms for ammonium oxidation are reviewed. The effects of environmental factors, e.g., pH, redox potential, Fe species, extracellular electron shuttles and natural organic matter, on the FeBNR reaction rate are analyzed. Current application advances in natural and artificial wastewater treatment are introduced with some typical experimental and application cases. Autotrophic FeBNR can treat low-C/N wastewater and greatly benefit the sustainable development of environmentally friendly biotechnologies for advanced nitrogen control.

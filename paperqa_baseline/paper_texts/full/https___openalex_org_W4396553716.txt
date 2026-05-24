@@ -1,0 +1,9 @@
+Title: Digital technologies for construction sustainability: Status quo, challenges, and future prospects
+Authors: Weisheng Lu, Jinfeng Lou, Benjamin Kwaku Ababio, Ray Y. Zhong, Zhikang Bao, Xiao Li, Fan Xue
+Year: 2024
+Venue: npj Materials Sustainability
+DOI: https://doi.org/10.1038/s44296-024-00010-2
+Paper ID: https://openalex.org/W4396553716
+
+Abstract:
+Abstract The nexus between digital technologies (DTs) and sustainability in the built environment has attracted increasing research interest in recent years, yet understanding DT utilization and its impact on construction processes remains fragmented. To address this gap, this study conducts a systematic review of the construction sustainability literature to analyze and synthesize research findings on the application of DTs at various stages of the construction lifecycle. We undertake an in-depth content analysis of 72 articles, with findings revealing that prominent DTs for construction sustainability include building information modeling, the Internet of Things, big data, and artificial intelligence. We also identify that the application of DTs for sustainability across the construction lifecycle is clustered in four areas: namely (1) integration and collaboration; (2) optimization, simulation, and decision-making; (3) tracking, monitoring, and control; and (4) training. Based on existing knowledge gaps, future research opportunities are identified, including the development of integrated and interoperable systems, long-term performance and resilience, and advanced simulation and modeling techniques. This study contributes to the literature on construction digitalization by offering a complete overview of research investigations in relation to construction sustainability and identifying research crucial to advancing a DT-enabled sustainable built environment.

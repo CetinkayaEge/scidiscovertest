@@ -1,0 +1,9 @@
+Title: Hybrid Water Electrolysis: A New Sustainable Avenue for Energy-Saving Hydrogen Production
+Authors: Zhijie Chen, Wei Wei, Lan Song, Bing‐Jie Ni
+Year: 2021
+Venue: Sustainable Horizons
+DOI: https://doi.org/10.1016/j.horiz.2021.100002
+Paper ID: https://openalex.org/W4200473169
+
+Abstract:
+Developing renewable energy-driven water splitting for sustainable hydrogen production plays a crucial role in achieving carbon neutrality. Nevertheless, the efficiency of traditional pure water electrolysis is severely hampered by the anodic oxygen evolution reaction (OER) due to its sluggish kinetics. In this context, replacing OER with thermodynamically more favorable oxidation reactions via hybrid water electrolysis becomes an energy-saving hydrogen production scheme. Here, the recent advances in hybrid water electrolysis are critically reviewed. First, the fundamentals of electrochemical oxidation of typical organic molecules such as urea, hydrazine, and biomass are presented. Then, the recent achievements in electrocatalysts for hybrid water electrolysis are introduced, emphasizing the outline of catalyst design strategies and the correlation between catalyst structure and performance. Finally, future perspectives for a sustainable hydrogen economy are proposed.

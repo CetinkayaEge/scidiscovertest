@@ -1,0 +1,9 @@
+Title: Slow conformational changes in the rigid and highly stable chymotrypsin inhibitor 2
+Authors: Yulian Gavrilov, Andreas Prestel, Kresten Lindorff‐Larsen, Kaare Teilum
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4604
+Paper ID: pmc_PMC10031225
+
+Abstract:
+Abstract Slow conformational changes are often directly linked to protein function. It is however less clear how such processes may perturb the overall folding stability of a protein. We previously found that the stabilizing double mutant L49I/I57V in the small protein chymotrypsin inhibitor 2 from barley led to distributed increased nanosecond and faster dynamics. Here we asked what effects the L49I and I57V substitutions, either individually or together, have on the slow conformational dynamics of CI2. We used 15 N CPMG spin relaxation dispersion experiments to measure the kinetics, thermodynamics, and structural changes associated with slow conformational change in CI2. These changes result in an excited state that is populated to 4.3% at 1°C. As the temperature is increased the population of the excited state decreases. Structural changes in the excited state are associated with residues that interact with water molecules that have well defined positions and are found at these positions in all crystal structures of CI2. The substitutions in CI2 have only little effect on the structure of the excited state whereas the stability of the excited state to some extent follows the stability of the main state. The minor state is thus most populated for the most stable CI2 variant and least populated for the least stable variant. We hypothesize that the interactions between the substituted residues and the well‐ordered water molecules links subtle structural changes around the substituted residues to the region in the protein that experience slow conformational changes.

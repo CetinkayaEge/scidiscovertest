@@ -1,0 +1,9 @@
+Title: Bipartite network models to design combination therapies in acute myeloid leukaemia
+Authors: Mohieddin Jafari, Mehdi Mirzaie, Jie Bao, Farnaz Barneh, Shuyu Zheng, Johanna Eriksson, Caroline A. Heckman, Jing Tang
+Year: 2022
+Venue: Nature Communications
+DOI: 10.1038/s41467-022-29793-5
+Paper ID: pmc_PMC9018865
+
+Abstract:
+Combination therapy is preferred over single-targeted monotherapies for cancer treatment due to its efficiency and safety. However, identifying effective drug combinations costs time and resources. We propose a method for identifying potential drug combinations by bipartite network modelling of patient-related drug response data, specifically the Beat AML dataset. The median of cell viability is used as a drug potency measurement to reconstruct a weighted bipartite network, model drug-biological sample interactions, and find the clusters of nodes inside two projected networks. Then, the clustering results are leveraged to discover effective multi-targeted drug combinations, which are also supported by more evidence using GDSC and ALMANAC databases. The potency and synergy levels of selective drug combinations are corroborated against monotherapy in three cell lines for acute myeloid leukaemia in vitro. In this study, we introduce a nominal data mining approach to improving acute myeloid leukaemia treatment through combinatorial therapy. Identifying effective drug combinations to treat cancer is a challenging task, either experimentally or computationally. Here, the authors develop a bipartite network modelling approach to propose drug combination strategies in acute myeloid leukaemia using patient and cell line drug screening data.

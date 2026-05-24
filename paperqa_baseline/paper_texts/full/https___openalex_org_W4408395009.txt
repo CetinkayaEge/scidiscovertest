@@ -1,0 +1,9 @@
+Title: The tumor microenvironment is an ecosystem sustained by metabolic interactions
+Authors: Emily Kay, Sara Zanivan
+Year: 2025
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2025.115432
+Paper ID: https://openalex.org/W4408395009
+
+Abstract:
+Cancer-associated fibroblasts (CAFs) and immune cells make up two major components of the tumor microenvironment (TME), contributing to an ecosystem that can either support or restrain cancer progression. Metabolism is a key regulator of the TME, providing a means for cells to communicate with and influence each other, modulating tumor progression and anti-tumor immunity. Cells of the TME can metabolically interact directly through metabolite secretion and consumption or by influencing other aspects of the TME that, in turn, stimulate metabolic rewiring in target cells. Recent advances in understanding the subtypes and plasticity of cells in the TME both open up new avenues and create challenges for metabolically targeting the TME to hamper tumor growth and improve response to therapy. This perspective explores ways in which the CAF and immune components of the TME could metabolically influence each other, based on current knowledge of their metabolic states, interactions, and subpopulations.

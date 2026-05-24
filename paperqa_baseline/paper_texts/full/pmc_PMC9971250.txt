@@ -1,0 +1,9 @@
+Title: Influence of carbon nanotube suspensions on Casson fluid flow over a permeable shrinking membrane: an analytical approach
+Authors: Rudraiah Mahesh, Ulavathi Shettar Mahabaleshwar, Filippos Sofos
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30482-6
+Paper ID: pmc_PMC9971250
+
+Abstract:
+The present work employs the single-wall carbon nanotube (SWCNT) and multiwall carbon nanotube (MWCNT) models on axisymmetric Casson fluid flow over a permeable shrinking sheet in the presence of an inclined magnetic field and thermal radiation. By exploiting the similarity variable, the leading nonlinear partial differential equations (PDEs) are converted into dimensionless ordinary differential equations (ODEs). The derived equations are solved analytically, and a dual solution is obtained as a result of the shrinking sheet. The dual solutions for the associated model are found to be numerically stable once the stability analysis is conducted, and the upper branch solution is more stable compared to lower branch solutions. The impact of various physical parameters on velocity and temperature distribution is graphically depicted and discussed in detail. The single wall carbon nanotubes have been found to achieve higher temperatures compared to multiwall carbon nanotubes. According to our findings, adding carbon nanotubes volume fractions to convectional fluids can significantly improve thermal conductivity, and this can find applicability in real world applications such as lubricant technology, allowing for efficient heat dissipation in high-temperatures, enhancing the load-carrying capacity and wear resistance of the machinery.

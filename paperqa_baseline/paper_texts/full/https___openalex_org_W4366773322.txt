@@ -1,0 +1,9 @@
+Title: Sustainable Maritime Freight Transportation: Current Status and Future Directions
+Authors: Suneet Singh, Ashish Dwivedi, Saurabh Pratap
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15086996
+Paper ID: https://openalex.org/W4366773322
+
+Abstract:
+Maritime freight has gained popularity among researchers and practitioners due to its cost efficiency and eco-friendly nature. It was initially developed for cargo transfer, but its widespread adoption has made it the backbone of global economy. Despite its favourable nature, some of its serious negative effects have attracted the attention of researchers and scholars. Therefore, the present study reviews the extensive literature available on maritime freight logistics, and evaluates the existing access distance between sustainability practices and maritime freight logistics. A systematic three-stage review process including review planning, review conduct and evaluation is followed in this study. VOSviewer and the R language are used to evaluate relevant issues and changes in the literature. Thereafter, the content analysis highlights the major themes of the subject. This study underscores the impact of innovative technologies discovered to make maritime freight sustainable and also examines maritime freight transport in terms of three pillars of sustainability. The result has implications for policymakers to facilitate the smooth implementation of sustainable practices in maritime freight transportation.

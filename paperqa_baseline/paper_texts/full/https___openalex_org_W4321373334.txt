@@ -1,0 +1,9 @@
+Title: Unpacking Additive Manufacturing Challenges and Opportunities in Moving towards Sustainability: An Exploratory Study
+Authors: Wen Liu, Xielin Liu, Ying Liu, Jie Wang, Steve Evans, Miying Yang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043827
+Paper ID: https://openalex.org/W4321373334
+
+Abstract:
+The global market for Additive Manufacturing (AM) is expected to grow, which may increase the prominence of sustainability aspects in the manufacturing process. A growing number of AM academics and practitioners have started to pay attention to the environmental and societal impacts of AM instead of only focusing on its economic aspect. Yet, AM is still not widely adopted, and the research on AM sustainability is still at the nascent stage. This paper aims to better understand AM’s sustainable adoption and seeks to address three questions: what the sustainability implications of AM are; what challenges may prevent the broad adoption of AM; and what opportunities can enable AM sustainability. The research adopts a multiple case study method to investigate six AM companies that play different roles in the AM ecosystem, including AM design, AM machine, AM material, AM service, AM education, and AM consulting. The results from these studies reveal that AM has the potential to reduce environmental and social impacts; however, it might also cause negative consequences and lead to some rebound effects. We identified 43 categories (synthesized from 199 examples) of key challenges for AM adoption and proposed 55 key solutions in moving AM towards sustainability. It is evident that AM acts as a promising digital technology for manufacturing and has the potential to pave the way for a new era of sustainable manufacturing.

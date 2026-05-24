@@ -1,0 +1,9 @@
+Title: Binary Chimp Optimization Algorithm with ML Based Intrusion Detection for Secure IoT-Assisted Wireless Sensor Networks
+Authors: Mohammed Aljebreen, Manal Abdullah Alohali, Muhammad Kashif Saeed, Heba Mohsen, Mesfer Al Duhayyim, Amgad Atta Abdelmageed, Suhanda Drar, Sitelbanat Abdelbagi
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084073
+Paper ID: pmc_PMC10140898
+
+Abstract:
+An Internet of Things (IoT)-assisted Wireless Sensor Network (WSNs) is a system where WSN nodes and IoT devices together work to share, collect, and process data. This incorporation aims to enhance the effectiveness and efficiency of data analysis and collection, resulting in automation and improved decision-making. Security in WSN-assisted IoT can be referred to as the measures initiated for protecting WSN linked to the IoT. This article presents a Binary Chimp Optimization Algorithm with Machine Learning based Intrusion Detection (BCOA-MLID) technique for secure IoT-WSN. The presented BCOA-MLID technique intends to effectively discriminate different types of attacks to secure the IoT-WSN. In the presented BCOA-MLID technique, data normalization is initially carried out. The BCOA is designed for the optimal selection of features to improve intrusion detection efficacy. To detect intrusions in the IoT-WSN, the BCOA-MLID technique employs a class-specific cost regulation extreme learning machine classification model with a sine cosine algorithm as a parameter optimization approach. The experimental result of the BCOA-MLID technique is tested on the Kaggle intrusion dataset, and the results showcase the significant outcomes of the BCOA-MLID technique with a maximum accuracy of 99.36%, whereas the XGBoost and KNN-AOA models obtained a reduced accuracy of 96.83% and 97.20%, respectively.

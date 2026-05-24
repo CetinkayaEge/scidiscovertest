@@ -1,0 +1,9 @@
+Title: Carbon dioxide equivalent emissions from corn silage fermentation
+Authors: Lucas A. Krueger, Lucas R. Koester, David F. Jones, David A. Spangler
+Year: 2023
+Venue: Frontiers in Microbiology
+DOI: 10.3389/fmicb.2022.1092315
+Paper ID: pmc_PMC9869070
+
+Abstract:
+The European Climate Law recently codified the goal for European climate neutrality by 2050, highlighting the need for sustainable farming practices within a robust and transparent carbon dioxide equivalent (CO 2 e) accounting system. In the present study, a series of equations were proposed for the estimation of CO 2 e emissions from corn silage fermentation. Systematic review of previous meta-analyses of corn silage fermentation identified the mean and standard deviation statistics for key model inputs of acetic acid, ethanol, lactic acid, ammonia, and volatile-corrected dry matter loss. Estimates of CO 2 e emissions were determined for a mock dataset comprising 1,000 iterations of randomly-generated values for each metric in accordance with mean and variance statistics of the source data. Estimates for CO 2 e emissions of corn silage based on meta-analysis review of laboratory experiments were 1.9 ± 5.6% (GWP 20 ) and 0.2 ± 5.5% (GWP 100 ) of silage dry matter. Furthermore, model results demonstrated a precedent for CO 2 recycling by silage microorganisms, which was supported by genome annotation of strains belonging to common silage species. Linear model equations for GWP 20 and GWP 100 with inputs and outputs in mg kg −1 silage dry matter were developed, where inputs are acetic acid (A), ethanol (E), lactic acid (L), and volatile corrected dry matter loss (D V ). Linear equations are (for GWP 20 ; Eq. 11): GWP 20 = − 3626.1 − 0.04343 A + 0.8011 E − 0.03173 L + 1.46573 D V and for GWP 100 ; Eq. 12: GWP 100 = − 8526.10 − 0.22403 A − 0.11963 E − 0.03173 L + 1.46573 D V .

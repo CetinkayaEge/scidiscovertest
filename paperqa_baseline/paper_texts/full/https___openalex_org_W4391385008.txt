@@ -1,0 +1,9 @@
+Title: Industry 4.0 Innovation: A Systematic Literature Review on the Role of Blockchain Technology in Creating Smart and Sustainable Manufacturing Facilities
+Authors: Moutaz Alazab, Salah Alhyari
+Year: 2024
+Venue: Information
+DOI: https://doi.org/10.3390/info15020078
+Paper ID: https://openalex.org/W4391385008
+
+Abstract:
+Industry 4.0 has revolutionized manufacturing processes and facilities through the creation of smart and sustainable production facilities. Blockchain technology (BCT) has emerged as an invaluable asset within Industrial Revolution 4.0 (IR4.0), offering increased transparency, security, and traceability across supply chains. This systematic literature review explores the role of BCT in creating smart and sustainable manufacturing facilities, while exploring its implications for supply chain management (SCM). Through a detailed examination of 82 research articles, this review highlights three areas where BCT can have a dramatic effect on smart and sustainable manufacturing: firstly, BCT can promote green production methods by supporting efficient resource use, waste reduction strategies and eco-friendly production methods; and secondly, it allows companies to implement smart and eco-friendly manufacturing practices through BCT solutions. BCT promotes intelligent manufacturing systems by facilitating real-time data sharing, predictive maintenance, and automated decision-making. Furthermore, BCT strengthens SCM by increasing visibility, traceability, and collaboration between partners of SC operations. The review also highlights the potential limitations of BCT, such as scalability challenges and the need for standardized protocols. Future research should focus on addressing these limitations and further exploring the potential of BCT in IR4.0.

@@ -1,0 +1,9 @@
+Title: Refrigerated Transport: State of the Art, Technical Issues, Innovations and Challenges for Sustainability
+Authors: Angelo Maiorino, Fabio Petruzziello, Ciro Aprea
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14217237
+Paper ID: https://openalex.org/W3210086992
+
+Abstract:
+The cold chain is responsible for perishable products preservation and transportation, maintaining a proper temperature to slow biological decay processes. Often the efficiency of the cold chain is less than ideal, significantly increasing food waste and energy consumption. Refrigerated transport is a critical phase of the cold chain because of its negative impact on energy consumption and greenhouse gas emissions. It is estimated that around 15% of global fossil fuel energy is used in the refrigerated transport sector, so there has been a growing interest in the last decades in the optimization of these systems in order to reduce their environmental impact. Vapor compression refrigeration units, usually powered by means of a diesel engine, are the most commonly used systems in road refrigerated transport. This paper provides a review of (a) currently used systems and alternative technologies that could reduce the environmental impacts of road refrigerated transport and (b) optimization models and methods used to minimize fuel/energy consumption and greenhouse gas emissions, focusing both on reducing the thermal loads and solving the refrigerated vehicle routing problem.

@@ -1,0 +1,9 @@
+Title: Long non-coding RNA ZFAS1 interacts with miR-150-5p to regulate Sp1 expression and ovarian cancer cell malignancy
+Authors: Bairong Xia, Yan Hou, Hong Chen, Shanshan Yang, Tianbo Liu, Mei Lin, Ge Lou
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14663
+Paper ID: pmc_PMC5386703
+
+Abstract:
+We reported that long non-coding RNA ZFAS1 was upregulated in epithelial ovarian cancer tissues, and was negatively correlated to the overall survival rate of patients with epithelial ovarian cancer in this study. While depletion of ZFAS1 inhibited proliferation, migration, and development of chemoresistance, overexpression of ZFAS1 exhibited an even higher proliferation rate, migration activity, and chemoresistance in epithelial ovarian cancer cell lines. We further found miR-150-5p was a potential target of ZFAS1, which was downregulated in epithelial ovarian cancer tissue. MiR-150-5p subsequently inhibited expression of transcription factor Sp1, as evidence by luciferase assays. Inhibition of miR-150-5p rescued the suppressed proliferation and migration induced by depletion of ZFAS1 in epithelial ovarian cancer cells, at least in part. Taken together, our findings revealed a critical role of ZFAS1/miR-150-5p/Sp1 axis in promoting proliferation rate, migration activity, and development of chemoresistance in epithelial ovarian cancer. And ZFAS1/miR-150-5p may serve as novel markers and therapeutic targets of epithelial ovarian cancer.

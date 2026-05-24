@@ -1,0 +1,9 @@
+Title: Mechano-regulated surface for manipulating liquid droplets
+Authors: Xin Tang, Pingan Zhu, Ye Tian, Xuechang Zhou, Tiantian Kong, Liqiu Wang
+Year: 2017
+Venue: Nature Communications
+DOI: 10.1038/ncomms14831
+Paper ID: pmc_PMC5382277
+
+Abstract:
+The effective transfer of tiny liquid droplets is vital for a number of processes such as chemical and biological microassays. Inspired by the tarsi of meniscus-climbing insects, which can climb menisci by deforming the water/air interface, we developed a mechano-regulated surface consisting of a background mesh and a movable microfibre array with contrastive wettability. The adhesion of this mechano-regulated surface to liquid droplets can be reversibly switched through mechanical reconfiguration of the microfibre array. The adhesive force can be tuned by varying the number and surface chemistry of the microfibres. The in situ adhesion of the mechano-regulated surface can be used to manoeuvre micro-/nanolitre liquid droplets in a nearly loss-free manner. The mechano-regulated surface can be scaled up to handle multiple droplets in parallel. Our approach offers a miniaturized mechano-device with switchable adhesion for handling micro-/nanolitre droplets, either in air or in a fluid that is immiscible with the droplets. Droplet manipulation is an essential task for designing microfluidic platforms such as lab-on-chip devices. Here Tang et al . develop a non-wettable mesh with reversible liquid adhesion controlled by mechanically inserting wettable pillars which allows for effective and rapid droplet manoeuvring.

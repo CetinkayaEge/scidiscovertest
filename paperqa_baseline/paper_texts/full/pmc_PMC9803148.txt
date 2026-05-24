@@ -1,0 +1,9 @@
+Title: Raman microspectroscopy and machine learning for use in identifying radiation-induced lung toxicity
+Authors: Ramie N. Ali-Adeeb, Phil Shreeves, Xinchen Deng, Kirsty Milligan, Alex G. Brolo, Jullian J. Lum, Christina Haston, Jeffrey L. Andrews, Andrew Jirasek
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279739
+Paper ID: pmc_PMC9803148
+
+Abstract:
+Objective In this work, we explore and develop a method that uses Raman spectroscopy to measure and differentiate radiation induced toxicity in murine lungs with the goal of setting the foundation for a predictive disease model. Methods Analysis of Raman tissue data is achieved through a combination of techniques. We first distinguish between tissue measurements and air pockets in the lung by using group and basis restricted non-negative matrix factorization. We then analyze the tissue spectra using sparse multinomial logistic regression to discriminate between fibrotic gradings. Model validation is achieved by splitting the data into a training set containing 70% of the data and a test set with the remaining 30%; classification accuracy is used as the performance metric. We also explore several other potential classification tasks wherein the response considered is the grade of pneumonitis and fibrosis sickness. Results A classification accuracy of 91.6% is achieved on the test set of fibrotic gradings, illustrating the ability of Raman measurements to detect differing levels of fibrotic disease among the murine lungs. It is also shown via further modeling that coarser consideration of fibrotic grading via binning (ie. ‘Low’, ‘Medium’, ‘High’) does not degrade performance. Finally, we consider preliminary models for pneumonitis discrimination using the same methodologies.

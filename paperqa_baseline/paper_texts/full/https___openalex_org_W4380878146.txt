@@ -1,0 +1,9 @@
+Title: Comparison of Tool Wear, Surface Roughness, Cutting Forces, Tool Tip Temperature, and Chip Shape during Sustainable Turning of Bearing Steel
+Authors: Havva Demirpolat, Rüstem Binali, Abhishek D. Patange, Sujit S. Pardeshi, Sakthivel Gnanasekaran
+Year: 2023
+Venue: Materials
+DOI: https://doi.org/10.3390/ma16124408
+Paper ID: https://openalex.org/W4380878146
+
+Abstract:
+In this study, a comparison of measured cutting parameters is discussed while machining AISI 52100 low-alloy hardened steel under two different sustainable cutting environments, those in which a dry and minimum quantity lubrication (MQL) medium are used. A two-level full factorial design method has been utilized to specify the effect of different experimental inputs on the turning trials. Experiments were carried out to investigate the effects of three basic defining parameters of turning operation which are namely cutting speed, cutting depth, feed rate effects and also the effects of the cutting environment. The trials were repeated for the combination of different cutting input parameters. The scanning electron microscopy imaging method was used to characterize the tool wear phenomenon. The macro-morphology of chips was analyzed to define the influence of cutting conditions. The optimum cutting condition for high-strength AISI 52100 bearing steel was obtained using the MQL medium. The results were evaluated with graphical representations and they indicated the superiority of the pulverized oil particles on tribological performance of the cutting process with application of the MQL system.

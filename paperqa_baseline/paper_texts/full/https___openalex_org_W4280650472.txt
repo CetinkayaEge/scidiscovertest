@@ -1,0 +1,9 @@
+Title: Searching for Sustainable Refrigerants by Bridging Molecular Modeling with Machine Learning
+Authors: Ismail I.I. Alkhatib, Carlos G. Albà, Ahmad S. Darwish, Fèlix Llovell, Lourdes F. Vega
+Year: 2022
+Venue: Industrial & Engineering Chemistry Research
+DOI: https://doi.org/10.1021/acs.iecr.2c00719
+Paper ID: https://openalex.org/W4280650472
+
+Abstract:
+We present here a novel integrated approach employing machine learning algorithms for predicting thermophysical properties of fluids. The approach allows obtaining molecular parameters to be used in the polar soft-statistical associating fluid theory (SAFT) equation of state using molecular descriptors obtained from the conductor-like screening model for real solvents (COSMO-RS). The procedure is used for modeling 18 refrigerants including hydrofluorocarbons, hydrofluoroolefins, and hydrochlorofluoroolefins. The training dataset included six inputs obtained from COSMO-RS and five outputs from polar soft-SAFT parameters, with the accurate algorithm training ensured by its high statistical accuracy. The predicted molecular parameters were used in polar soft-SAFT for evaluating the thermophysical properties of the refrigerants such as density, vapor pressure, heat capacity, enthalpy of vaporization, and speed of sound. Predictions provided a good level of accuracy (AADs = 1.3-10.5%) compared to experimental data, and within a similar level of accuracy using parameters obtained from standard fitting procedures. Moreover, the predicted parameters provided a comparable level of predictive accuracy to parameters obtained from standard procedure when extended to modeling selected binary mixtures. The proposed approach enables bridging the gap in the data of thermodynamic properties of low global warming potential refrigerants, which hinders their technical evaluation and hence their final application.

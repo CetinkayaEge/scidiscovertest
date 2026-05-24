@@ -1,0 +1,9 @@
+Title: Bridge Safety, Maintenance, Management, Life-Cycle, Resilience and Sustainability
+Authors: Joan R. Casas, Dan M. Frangopol, José Turmo
+Year: 2022
+Venue: 
+DOI: https://doi.org/10.1201/9781003322641
+Paper ID: https://openalex.org/W4312680758
+
+Abstract:
+This paper introduces a coherence-based signal processing strategy to identify the natural bridge frequency from acceleration responses of different sensors mounted on a vehicle passing through a bridge. Natural frequencies are fundamental dynamic characteristics of bridges, and it is theoretically feasible to identify natural frequencies of bridges from vehicle vibration responses. However, applying the vehicle-based measurement approach in practice still has difficulties as the vehicle responses always involve complex and varied components. In engineering practice, non-bridge frequency peaks in conjunction with a weak bridge frequency peak would be a very common scenario leading to deceptive frequency identification. The coherence index, which can be obtained using the cross-spectrum estimation, is employed in this study to represent the correlation among different vehicle signals. Instead of employing multiple vehicle systems or extremely heavy cars as ex-citation sources in previous studies, the proposed method only requires one equipped normal vehicle for the bridge frequency estimation. The effectiveness of the proposed method is validated by diverse bridge situations in an experimental environment, demonstrating good performances. The presented coherence index is sensitive to bridge frequency changes and has high recognizability, which is practically applicable to the smart monitoring system to automate the detection process.

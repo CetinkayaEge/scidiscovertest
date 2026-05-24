@@ -1,0 +1,9 @@
+Title: Sustainable wearable energy storage devices self‐charged by human‐body bioenergy
+Authors: Jian Lv, Jian Chen, Pooi See Lee
+Year: 2021
+Venue: SusMat
+DOI: https://doi.org/10.1002/sus2.14
+Paper ID: https://openalex.org/W3158409331
+
+Abstract:
+Abstract Charging wearable energy storage devices with bioenergy from human‐body motions, biofluids, and body heat holds great potential to construct self‐powered body‐worn electronics, especially considering the ceaseless nature of human metabolic activities. To bridge the gap between human‐body bioenergy and storage of energy, wearable triboelectric/piezoelectric nanogenerators (TENGs/PENGs), biofuel cells (BFCs), thermoelectric generators (TEGs) have been designed to harvest energy from body‐motions, biofluids, and body heat, respectively. Researchers have explored various strategies using bioenergy harvesters to charge wearable supercapacitors and batteries to relieve or even fully eliminate the recharging process from external power stations, thus, making wearable electronics more sustainable, autonomous, and user friendly. In this article, we review the advances in the design of sustainable energy storage devices charged by human‐body energy harvesters. The progress in multifunctional wearable energy storage devices that cater to the easy integration with human‐body energy harvesters will be summarized. Then, the focus is laid on the integrating strategies (single‐cell strategy and separated‐cell strategy), device design, materials selection, and characteristics of different self‐charging human‐body energy harvesting‐storage systems. Finally, the challenges that impede the wide application of human‐body energy harvesters charged supercapacitors/batteries and prospects will be discussed both from materials and structural design aspects.

@@ -1,0 +1,9 @@
+Title: The impact of Big Data Analytics on firm sustainable performance
+Authors: Myriam Ertz, Imen Latrous, Ahlem Dakhlaoui, Shouheng Sun
+Year: 2024
+Venue: Corporate Social Responsibility and Environmental Management
+DOI: https://doi.org/10.1002/csr.2990
+Paper ID: https://openalex.org/W4403497604
+
+Abstract:
+Abstract This study evaluates the impact of Big Data Analytics (BDA) on firm sustainable performance (FSP). BDA is conceptualized as a dual construct comprising predictive and prescriptive analytics, while FSP is considered from a triple bottom line (TBL) perspective comprising the economic, social, and environmental lines of firm performance. The study relies exclusively on independent third‐party BDA and FSP data pertaining to 522 firms from the US S&amp;P500 Index and the Canadian S&amp;P500/TSX60 Index. The data is analyzed with ordinary least squares (OLS) regression, and the findings reveal, on aggregate, that BDA has a direct, positive, and significant effect on overall FSP. The results of the piecemeal analysis show that BDA is positively related to the economic, social, and environmental dimensions. Furthermore, our distinction between predictive and prescriptive analytics suggests that prescriptive analytics outperforms the FSP results obtained with predictive analytics moderately. The study insights provide strategic knowledge for firms seeking to leverage digitalization for enhanced corporate citizenship while boosting their digital capabilities. The impact of technology, especially Big Data, on sustainability, has gained traction in the literature, yet this is the first study to delve deeper into the detailed relationships between both constructs by deciphering and quantifying the impact of BDA components on the TBL.

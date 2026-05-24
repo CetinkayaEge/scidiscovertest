@@ -1,0 +1,9 @@
+Title: Development clustering system IDX company with k-means algorithm and DBSCAN based on fundamental indicator and ESG
+Authors: Kevin Surya Pranata, Alexander A S Gunawan, Ford Lumban Gaol
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.142
+Paper ID: pmc_PMC9829420
+
+Abstract:
+The global pandemic covid-19 offer buying opportunity to buy business with discounted price. This phenomenon attracts new type of investor around the world. This novice investor may aware that there is indices that is followed as benchmark. This benchmark was used as guidance, however, fact shown that some of this indices constituent fails to adapt and survive during global pandemic. Research indicates that formulation on inclusion and exclusion an index may biased. This novice investor may also be aware of so called blue chips company. However, yesterday winner may become tomorrow losers. This biased classification is done by human. This experiment intentionally to counter this practice, by using cutting edge machine learning to cluster IDX company using K-Means and DBSCAN algorithm. This experiment dataset is using KOMPAS100 fundamental indicator and it's ESG attributes. Experiment result suggesting there is five cluster in terms of fundamental and ESG in KOMPAS100.

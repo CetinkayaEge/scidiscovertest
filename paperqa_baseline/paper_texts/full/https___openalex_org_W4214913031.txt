@@ -1,0 +1,9 @@
+Title: A Review of Sustainable Maintenance Strategies for Single Component and Multicomponent Equipment
+Authors: Jingyi Zhao, Chunhai Gao, Tao Tang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052992
+Paper ID: https://openalex.org/W4214913031
+
+Abstract:
+Contemporary industrial equipment is increasingly developing towards complexity. In order to ensure the high reliability and sustainability of industrial equipment, more flexible maintenance strategies have attracted extensive attention. In view of this, this paper aims to summarize the current situation of existing maintenance strategies, so as to enable colleagues in the industry to choose or formulate more efficient maintenance strategies. Firstly, the characteristics, application potential and limitations of single component maintenance strategies, such as corrective maintenance, preventive maintenance and predictive maintenance, are described in detail from the perspective of maintenance time. On the basis of single component maintenance and the dependency between multiple components, the advantages and disadvantages of multicomponent maintenance strategies, such as batch maintenance, opportunity maintenance and group maintenance, are summarized, and suggestions for the future maintenance of industrial equipment are proposed. Based on this, industries can select the appropriate maintenance strategy according to their equipment characteristics, or improve their existing maintenance strategies based on actual needs.

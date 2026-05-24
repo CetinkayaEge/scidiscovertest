@@ -1,0 +1,9 @@
+Title: Reliability based geometrically nonlinear bi-directional evolutionary structural optimization of elasto-plastic material
+Authors: Muayad Habashneh, Majid Movahedi Rad
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-09612-z
+Paper ID: pmc_PMC8994787
+
+Abstract:
+The aim of this paper is to integrate the reliability-based analysis into topology optimization problems. Consequently, reliability-based topology optimization (RBTO) of geometrically nonlinear elasto-plastic models is presented. For purpose of performing (RBTO), the volume fraction is considered reliable since that the application of (RBTO) gives different topology in comparison to the deterministic topology optimization. The effects of changing the prescribed total structural volume constraint for deterministic designs and changing the reliability index for probabilistic designs are considered. Reliability index works as a constraint which is related to reliability condition added into the volume fraction and it is calculated using the Monte-Carlo simulation approach in the case of probabilistic design. In addition, bi-directional evolutionary structural optimization (BESO) method is utilized to study the effect of geometrically nonlinear elasto-plastic design. The plastic behavior can be controlled by defining a limit on the plastic limit load multipliers. The suggested work's efficiency is demonstrated via a 2D benchmark problem. In case of elastic material, a 2D model of U-shape plate is used for probabilistic design of linear and geometrically nonlinear topology optimizations. Furthermore, a 2D elasto-plastic model is considered for reliability-based design to demonstrate that the suggested approach can determine the best topological solution.

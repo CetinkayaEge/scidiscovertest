@@ -1,0 +1,9 @@
+Title: Radiofrequency antenna concepts for human cardiac MR at 14.0 T
+Authors: Bilguun Nurzed, Andre Kuehne, Christoph Stefan Aigner, Sebastian Schmitter, Thoralf Niendorf, Thomas Wilhelm Eigentler
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01075-1
+Paper ID: pmc_PMC10140016
+
+Abstract:
+Objective To examine the feasibility of human cardiac MR (CMR) at 14.0 T using high-density radiofrequency (RF) dipole transceiver arrays in conjunction with static and dynamic parallel transmission (pTx). Materials and methods RF arrays comprised of self-grounded bow-tie (SGBT) antennas, bow-tie (BT) antennas, or fractionated dipole (FD) antennas were used in this simulation study. Static and dynamic pTx were applied to enhance transmission field (B 1 + ) uniformity and efficiency in the heart of the human voxel model. B 1 + distribution and maximum specific absorption rate averaged over 10 g tissue (SAR 10g ) were examined at 7.0 T and 14.0 T. Results At 14.0 T static pTx revealed a minimum B 1 + ROI efficiency of 0.91 μT/√kW (SGBT), 0.73 μT/√kW (BT), and 0.56 μT/√kW (FD) and maximum SAR 10g of 4.24 W/kg, 1.45 W/kg, and 2.04 W/kg. Dynamic pTx with 8 kT points indicate a balance between B 1 + ROI homogeneity (coefficient of variation < 14%) and efficiency (minimum B 1 + ROI > 1.11 µT/√kW) at 14.0 T with a maximum SAR 10g < 5.25 W/kg. Discussion MRI of the human heart at 14.0 T is feasible from an electrodynamic and theoretical standpoint, provided that multi-channel high-density antennas are arranged accordingly. These findings provide a technical foundation for further explorations into CMR at 14.0 T. Supplementary Information The online version contains supplementary material available at 10.1007/s10334-023-01075-1.

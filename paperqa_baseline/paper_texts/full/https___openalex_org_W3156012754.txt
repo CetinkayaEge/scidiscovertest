@@ -1,0 +1,9 @@
+Title: Artificial Intelligence and Big Data in Sustainable Entrepreneurship
+Authors: Steve J. Bickley, Alison Macintyre, Benno Torgler
+Year: 2024
+Venue: Journal of Economic Surveys
+DOI: https://doi.org/10.1111/joes.12611
+Paper ID: https://openalex.org/W3156012754
+
+Abstract:
+Abstract There is an urgent need to transition our economy, society, and culture towards systems and actions that facilitate ecological sustainability. Such radical change requires equally radical transformation of approaches to decision making and resource use. Sustainable entrepreneurship (SE) is often presented as the answer to meeting the triple‐bottom‐line challenges that businesses face; however, there are very real limits to what it can achieve. SE is in the early stages of adopting tools at the technological frontier that offer empirical guidance at every point of an entrepreneurial decision‐making process. Big Data (BD) advances the potential for artificial intelligence (AI) to inform decision making, while also charting pathways to achieve desired outcomes. So far, the interactions between AI, BD, and SE have been generally under‐studied. In this primarily conceptual paper, we address the lack of work consolidating and synthesizing these literatures. We suggest that AI and BD readily contribute to further sustainable development of the weak form, but that it also holds great promise for achieving the strong sustainability ideal. We offer two propositions regarding how the integration of AI and BD can inform/support SE. We conclude by mapping out potential avenues for future research.

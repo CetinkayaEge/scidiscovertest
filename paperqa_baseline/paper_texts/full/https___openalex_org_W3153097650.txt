@@ -1,0 +1,9 @@
+Title: Energy sustainability evaluation of 30 provinces in China using the improved entropy weight-cloud model
+Authors: Xiaoran Hou, Tao Lv, Jie Xu, Xu Deng, Feng Liu, Duyang Pi
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.107657
+Paper ID: https://openalex.org/W3153097650
+
+Abstract:
+Energy sustainability is one of the largest challenges for sustainable development. Energy sustainability in China varies by regions because of the differences in energy resources, technology and economic levels. Previous studies have assessed national energy sustainability, few to none have looked internally on a regional or provincial scale. This paper defined energy sustainability from the four dimensions of security, efficiency, cleanness and low carbon emissions, established an index system and evaluated the energy sustainability levels of 30 provinces in China by the Improved Entropy Weight-Cloud Model (IEW-CM). The results show that: (1) General energy sustainability in Chinese provinces is deficient, and energy cleanness and efficiency perform better than security and low carbon emissions. (2) Chinese energy sustainability has obvious spatial heterogeneity and within the same province, the level is unbalanced in four dimensions. The characteristics of energy sustainability exhibit significant differences in different regions. (3) Energy security and low carbon emissions play a crucial role in achieving energy sustainability. Natural gas deliverability, energy consumption elasticity coefficient, CO2 emission per unit of energy and share of fossil energy consumption are the primary factors affecting energy sustainability differences among provinces.

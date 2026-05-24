@@ -1,0 +1,9 @@
+Title: Exploring the mechanism of sustained consumer trust in AI chatbots after service failures: a perspective based on attribution and CASA theories
+Authors: Chenyu Gu, Yu Zhang, Linhao Zeng
+Year: 2024
+Venue: Humanities and Social Sciences Communications
+DOI: https://doi.org/10.1057/s41599-024-03879-5
+Paper ID: https://openalex.org/W4403637702
+
+Abstract:
+In recent years, artificial intelligence (AI) technology has been widely employed in brand customer service. However, the inherent limitations of computer-generated natural language content occasionally lead to failures in human-computer interactions, potentially damaging a company’s brand image. Therefore, it is crucial to explore how to maintain consumer trust after AI chatbots fail to provide successful service. This study constructs a model to examine the impact of social interaction cues and anthropomorphic factors on users’ sustained trust by integrating the Computers As Social Actors (CASA) theory with attribution theory. An empirical analysis of 462 survey responses reveals that CASA factors (perceived anthropomorphic characteristics, perceived empathic abilities, and perceived interaction quality) can effectively enhance user trust in AI customer service following interaction failures. This process of sustaining trust is mediated through different attributions of failure. Furthermore, AI anxiety, as a cognitive characteristic of users, not only negatively impacts sustained trust but also significantly moderates the effect of internal attributions on sustained trust. These findings expand the research domain of human-computer interaction and provide insights for the practical development of AI chatbots in communication and customer service fields.

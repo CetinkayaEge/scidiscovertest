@@ -1,0 +1,9 @@
+Title: NLRP3 inflammasome activation mediates radiation-induced pyroptosis in bone marrow-derived macrophages
+Authors: Yan-gang Liu, Ji-kuai Chen, Zi-teng Zhang, Xiu-juan Ma, Yong-chun Chen, Xiu-ming Du, Hong Liu, Ying Zong, Guo-cai Lu
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2016.460
+Paper ID: pmc_PMC5386456
+
+Abstract:
+A limit to the clinical benefit of radiotherapy is not an incapacity to eliminate tumor cells but rather a limit on its capacity to do so without destroying normal tissue and inducing inflammation. Recent evidence reveals that the inflammasome is essential for mediating radiation-induced cell and tissue damage. In this study, using primary cultured bone marrow-derived macrophages (BMDM) and a mouse radiation model, we explored the role of NLRP3 inflammasome activation and the secondary pyroptosis underlying radiation-induced immune cell death. We observed an increasing proportion of pyroptosis and elevating Caspase-1 activation in 10 and 20 Gy radiation groups. Nlrp3 knock out significantly diminished the quantity of cleaved-Caspase-1 (p10) and IL-1 β as well as the proportion of pyroptosis. Additionally, in vivo research shows that 9.5 Gy of radiation promotes Caspase-1 activation in marginal zone cells and induces death in mice, both of which can be significantly inhibited by knocking out Nlrp3 . Thus, based on these findings, we conclude that the NLRP3 inflammasome activation mediates radiation-induced pyroptosis in BMDMs. Targeting NLRP3 inflammasome and pyroptosis may serve as effective strategies to diminish injury caused by radiation.

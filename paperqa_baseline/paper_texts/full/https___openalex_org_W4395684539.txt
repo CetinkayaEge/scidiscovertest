@@ -1,0 +1,9 @@
+Title: Impact of Normalization on Entropy-Based Weights in Hellwig’s Method: A Case Study on Evaluating Sustainable Development in the Education Area
+Authors: Ewa Roszkowska, Tomasz Wachowicz
+Year: 2024
+Venue: Entropy
+DOI: https://doi.org/10.3390/e26050365
+Paper ID: https://openalex.org/W4395684539
+
+Abstract:
+Determining criteria weights plays a crucial role in multi-criteria decision analyses. Entropy is a significant measure in information science, and several multi-criteria decision-making methods utilize the entropy weight method (EWM). In the literature, two approaches for determining the entropy weight method can be found. One involves normalization before calculating the entropy values, while the second does not. This paper investigates the normalization effect for entropy-based weights and Hellwig's method. To compare the influence of various normalization methods in both the EWM and Hellwig's method, a study evaluating the sustainable development of EU countries in the education area in the year 2021 was analyzed. The study used data from Eurostat related to European countries' realization of the SDG 4 goal. It is observed that vector normalization and sum normalization did not change the entropy-based weights. In the case study, the max-min normalization influenced EWM weights. At the same time, these weights had only a very weak impact on the final rankings of countries with respect to achieving the SDG 4 goal, as determined by Hellwig's method. The results are compared with the outcome obtained by Hellwig's method with equal weights. The simulation study was conducted by modifying Eurostat data to investigate how the different normalization relationships discovered among the criteria affect entropy-based weights and Hellwig's method results.

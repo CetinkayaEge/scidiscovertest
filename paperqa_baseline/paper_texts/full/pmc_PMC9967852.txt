@@ -1,0 +1,9 @@
+Title: Damped Cantilever Microprobes for High-Speed Contact Metrology with 3D Surface Topography
+Authors: Michael Fahrbach, Min Xu, Wilson Ombati Nyang’au, Oleg Domanov, Christian H. Schwalb, Zhi Li, Christian Kuhlmann, Uwe Brand, Erwin Peiner
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042003
+Paper ID: pmc_PMC9967852
+
+Abstract:
+We addressed the coating 5 mm-long cantilever microprobes with a viscoelastic material, which was intended to considerably extend the range of the traverse speed during the measurements of the 3D surface topography by damping contact-induced oscillations. The damping material was composed of epoxy glue, isopropyl alcohol, and glycerol, and its deposition onto the cantilever is described, as well as the tests of the completed cantilevers under free-oscillating conditions and in contact during scanning on a rough surface. The amplitude and phase of the cantilever’s fundamental out-of-plane oscillation mode was investigated vs. the damping layer thickness, which was set via repeated coating steps. The resonance frequency and quality factor decreased with the increasing thickness of the damping layer for both the free-oscillating and in-contact scanning operation mode, as expected from viscoelastic theory. A very low storage modulus of E ′ ≈ 100 kPa , a loss modulus of E ″ ≈ 434 kPa , and a density of ρ ≈ 1.2 g cm − 3 were yielded for the damping composite. Almost critical damping was observed with an approximately 130 µm-thick damping layer in the free-oscillating case, which was effective at suppressing the ringing behavior during the high-speed in-contact probing of the rough surface topography.

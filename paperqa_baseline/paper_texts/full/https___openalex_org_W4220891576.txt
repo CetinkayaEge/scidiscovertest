@@ -1,0 +1,9 @@
+Title: Sustainable Solutions for Advanced Energy Management System of Campus Microgrids: Model Opportunities and Future Challenges
+Authors: Hafiz Abdul Muqeet, Haseeb Javed, Muhammad Naveed Akhter, Muhammad Shahzad, Hafiz Mudassir Munir, Muhammad Usama Nadeem, Syed Sabir Hussain Bukhari, Mikuláš Huba
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22062345
+Paper ID: https://openalex.org/W4220891576
+
+Abstract:
+Distributed generation connected with AC, DC, or hybrid loads and energy storage systems is known as a microgrid. Campus microgrids are an important load type. A university campus microgrids, usually, contains distributed generation resources, energy storage, and electric vehicles. The main aim of the microgrid is to provide sustainable, economical energy, and a reliable system. The advanced energy management system (AEMS) provides a smooth energy flow to the microgrid. Over the last few years, many studies were carried out to review various aspects such as energy sustainability, demand response strategies, control systems, energy management systems with different types of optimization techniques that are used to optimize the microgrid system. In this paper, a comprehensive review of the energy management system of campus microgrids is presented. In this survey, the existing literature review of different objective functions, renewable energy resources and solution tools are also reviewed. Furthermore, the research directions and related issues to be considered in future microgrid scheduling studies are also presented.

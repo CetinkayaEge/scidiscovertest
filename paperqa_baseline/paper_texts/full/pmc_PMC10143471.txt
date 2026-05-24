@@ -1,0 +1,9 @@
+Title: HOG1 Mitogen-Activated Protein Kinase Pathway–Related Autophagy Induced by H 2 O 2 in Lentinula edodes Mycelia
+Authors: Dong Yan, Yangyang Fan, Shuang Song, Yuan Guo, Yu Liu, Xiaoling Xu, Fang Liu, Qi Gao, Shouxian Wang
+Year: 2023
+Venue: Journal of Fungi
+DOI: 10.3390/jof9040413
+Paper ID: pmc_PMC10143471
+
+Abstract:
+Mycelial ageing is associated with ROS and autophagy in Lentinula edodes . However, the underlying cellular and molecular mechanisms between ROS and autophagy remain obscure. This study induced autophagy in L. edodes mycelia through exogenous H 2 O 2 treatment. Results showed that 100 μM H 2 O 2 treatment for 24 h significantly inhibited mycelial growth. H 2 O 2 caused the depolarisation of MMP and accumulation of TUNEL-positive nuclei, which was similar to the ageing phenotype of L. edodes mycelia. Transcriptome analysis showed that differentially expressed genes were enriched in the mitophagic, autophagic, and MAPK pathways. LeAtg8 and LeHog1 were selected as hub genes. RNA and protein levels of LeATG8 increased in the H 2 O 2 -treated mycelia. Using fluorescent labelling, we observed for the first time the classic ring structure of autophagosomes in a mushroom, while 3D imaging suggested that these autophagosomes surrounded the nuclei to degrade them at specific growth stages. Phospho-LeHOG1 protein can translocate from the cytoplasm to the nucleus to regulate mycelial cells, resisting ROS-induced oxidative stress. Furthermore, LeATG8 expression was suppressed when LeHOG1 phosphorylation was inhibited. These results suggest that the LeATG8-dependent autophagy in L. edodes mycelial is closely associated with the activity or even phosphorylation of LeHOG1.

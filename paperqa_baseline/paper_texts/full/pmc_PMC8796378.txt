@@ -1,0 +1,9 @@
+Title: nextNEOpi: a comprehensive pipeline for computational neoantigen prediction
+Authors: Dietmar Rieder, Georgios Fotakis, Markus Ausserhofer, Geyeregger René, Wolfgang Paster, Zlatko Trajanoski, Francesca Finotello
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab759
+Paper ID: pmc_PMC8796378
+
+Abstract:
+Abstract Summary Somatic mutations and gene fusions can produce immunogenic neoantigens mediating anticancer immune responses. However, their computational prediction from sequencing data requires complex computational workflows to identify tumor-specific aberrations, derive the resulting peptides, infer patients’ Human Leukocyte Antigen types and predict neoepitopes binding to them, together with a set of features underlying their immunogenicity. Here, we present nextNEOpi ( next flow NEO antigen prediction pi peline) a comprehensive and fully automated bioinformatic pipeline to predict tumor neoantigens from raw DNA and RNA sequencing data. In addition, nextNEOpi quantifies neoepitope- and patient-specific features associated with tumor immunogenicity and response to immunotherapy. Availability and implementation nextNEOpi source code and documentation are available at https://github.com/icbi-lab/nextNEOpi Contact dietmar.rieder@i-med.ac.at or francesca.finotello@uibk.ac.at Supplementary information Supplementary data are available at Bioinformatics online.

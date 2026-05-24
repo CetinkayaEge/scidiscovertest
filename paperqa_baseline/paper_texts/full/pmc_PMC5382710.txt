@@ -1,0 +1,9 @@
+Title: In situ formation of oxygen vacancy in perovskite Sr 0.95 Ti 0.8 Nb 0.1 M 0.1 O 3 (M = Mn, Cr) toward efficient carbon dioxide electrolysis
+Authors: Jun Zhang, Kui Xie, Haoshan Wei, Qingqing Qin, Wentao Qi, Liming Yang, Cong Ruan, Yucheng Wu
+Year: 2014
+Venue: Scientific Reports
+DOI: 10.1038/srep07082
+Paper ID: pmc_PMC5382710
+
+Abstract:
+In this work, redox-active Mn or Cr is introduced to the B site of redox stable perovskite Sr 0.95 Ti 0.9 Nb 0.1 O 3.00 to create oxygen vacancies in situ after reduction for high-temperature CO 2 electrolysis. Combined analysis using X-ray diffraction, X-ray photoelectron spectroscopy, transmission electron microscopy and thermogravimetric analysis confirms the change of the chemical formula from oxidized Sr 0.95 Ti 0.9 Nb 0.1 O 3.00 to reduced Sr 0.95 Ti 0.9 Nb 0.1 O 2.90 for the bare sample. By contrast, a significant concentration of oxygen vacancy is additionally formed in situ for Mn- or Cr-doped samples by reducing the oxidized Sr 0.95 Ti 0.8 Nb 0.1 M 0.1 O 3.00 (M = Mn, Cr) to Sr 0.95 Ti 0.8 Nb 0.1 M 0.1 O 2.85 . The ionic conductivities of the Mn- and Cr-doped titanate improve by approximately 2 times higher than bare titanate in an oxidizing atmosphere and 3–6 times higher in a reducing atmosphere at intermediate temperatures. A remarkable chemical accommodation of CO 2 molecules is achieved on the surface of the reduced and doped titanate, and the chemical desorption temperature reaches a common carbonate decomposition temperature. The electrical properties of the cathode materials are investigated and correlated with the electrochemical performance of the composite electrodes. Direct CO 2 electrolysis at composite cathodes is investigated in solid-oxide electrolyzers. The electrode polarizations and current efficiencies are observed to be significantly improved with the Mn- or Cr-doped titanate cathodes.

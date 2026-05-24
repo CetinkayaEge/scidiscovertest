@@ -1,0 +1,9 @@
+Title: Sustainability of the Moderating Role of Financial Development in the Determinants of Environmental Degradation: Evidence from Turkey
+Authors: Husam Rjoub, Jamiu Adetola Odugbesan, Tomiwa Sunday Adebayo, Wing‐Keung Wong
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041844
+Paper ID: https://openalex.org/W3127208098
+
+Abstract:
+One of the questions that remain unanswered in the literature on determinants of carbon emissions is the moderating effect of “financial development”. This becomes imperative, owing to the connection of carbon emissions to environmental degradation, which is considered to be one of the main challenges to sustainable development. Thus, this study investigated the moderating role of financial development in the determinants of carbon emissions for Turkey during the period of 1960 to 2016. Zivot–Andrew and Lee–Strazicich “unit root tests” were utilized to investigate the stationarity properties of the series. The cointegration among the variables employed was examined by utilizing the ARDL bounds test and Bayer–Hanck cointegration test. In contrast, the long-run causal relationship of the variables with carbon emissions was examined by using fully modified ordinary least square (FMOLS), dynamic OLS (DOLS), and Canonical Cointegrating Regression (CCR). The empirical findings reveal the significance of “economic growth”, “capital formation”, “energy consumption”, “urbanization”, and “financial development” as determinants of environmental degradation in Turkey. The study also found the significant moderating role of “financial development” in the relationship between “economic growth” and carbon emissions, capital formation and carbon emissions, and urbanization and carbon emissions. The environmental–financial related policies were suggested for the policymakers in Turkey to aid the reduction of carbon emission with the view of improving environmental quality.

@@ -1,0 +1,9 @@
+Title: Effect of profitability, audit committee, company size, activity, and board of directors on sustainability
+Authors: Nawang Kalbuana, Kusiyah Kusiyah, Supriatiningsih Supriatiningsih, Roy Budiharjo, Triyani Budyastuti, Rusdiyanto Rusdiyanto
+Year: 2022
+Venue: Cogent Business & Management
+DOI: https://doi.org/10.1080/23311975.2022.2129354
+Paper ID: https://openalex.org/W4306410899
+
+Abstract:
+This study aims to prove the consistency of Agency Theory as a solution to explain the role of the influence of Profitability Ratio, Activity, company size, audit committee and Board of Directors on Sustainability. This study uses a quantitative approach with population and research samples using companies listed in the Jakarta Islamic Index in 2017–2021. The data used in this study used panel data. One of the regression completion procedures with a high level of flexibility in research that connects theory, concepts, and data that can be done on research variables is used in this study’s data analysis method: Regression Ordinary Least Square, Fixed Effects, Random Effects, Robust with Stata Software. The first finding explains that the Profitability Ratio has a negative effect on Sustainability, the second finding explains that the Activity Ratio does not have a positive effect on Sustainability, the third finding explains that the company size has a positive effect on Sustainability, the fourth finding explains that the audit committee has a negative effect on Sustainability, while the fifth finding explains that board of directors doesn’t have a positive effect on Sustainability.

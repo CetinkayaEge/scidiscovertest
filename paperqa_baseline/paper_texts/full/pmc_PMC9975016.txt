@@ -1,0 +1,9 @@
+Title: Structures and conformational dynamics of DNA minidumbbells in pyrimidine-rich repeats associated with neurodegenerative diseases
+Authors: Yuan Liu, Liqi Wan, Cheuk Kit Ngai, Yang Wang, Sik Lok Lam, Pei Guo
+Year: 2023
+Venue: Computational and Structural Biotechnology Journal
+DOI: 10.1016/j.csbj.2023.02.010
+Paper ID: pmc_PMC9975016
+
+Abstract:
+Expansions of short tandem repeats (STRs) are associated with approximately 50 human neurodegenerative diseases. These pathogenic STRs are prone to form non-B DNA structure, which has been considered as one of the causative factors for repeat expansions. Minidumbbell (MDB) is a relatively new type of non-B DNA structure formed by pyrimidine-rich STRs. An MDB is composed of two tetraloops or pentaloops, exhibiting a highly compact conformation with extensive loop-loop interactions. The MDB structures have been found to form in CCTG tetranucleotide repeats associated with myotonic dystrophy type 2, ATTCT pentanucleotide repeats associated with spinocerebellar ataxia type 10, and the recently discovered ATTTT/ATTTC repeats associated with spinocerebellar ataxia type 37 and familial adult myoclonic epilepsy. In this review, we first introduce the structures and conformational dynamics of MDBs with a focus on the high-resolution structural information determined by nuclear magnetic resonance spectroscopy. Then we discuss the effects of sequence context, chemical environment, and nucleobase modification on the structure and thermostability of MDBs. Finally, we provide perspectives on further explorations of sequence criteria and biological functions of MDBs.

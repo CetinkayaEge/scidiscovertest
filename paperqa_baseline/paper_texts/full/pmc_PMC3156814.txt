@@ -1,0 +1,9 @@
+Title: Colossal negative thermal expansion in BiNiO 3 induced by intermetallic charge transfer
+Authors: Masaki Azuma, Wei-tin Chen, Hayato Seki, Michal Czapski, Smirnova Olga, Kengo Oka, Masaichiro Mizumaki, Tetsu Watanuki, Naoki Ishimatsu, Naomi Kawamura, Shintaro Ishiwata, Matthew G. Tucker, Yuichi Shimakawa, J. Paul Attfield
+Year: 2011
+Venue: Nature Communications
+DOI: 10.1038/ncomms1361
+Paper ID: pmc_PMC3156814
+
+Abstract:
+The unusual property of negative thermal expansion is of fundamental interest and may be used to fabricate composites with zero or other controlled thermal expansion values. Here we report that colossal negative thermal expansion (defined as linear expansion <−10 −4 K −1 over a temperature range ~100 K) is accessible in perovskite oxides showing charge-transfer transitions. BiNiO 3 shows a 2.6% volume reduction under pressure due to a Bi/Ni charge transfer that is shifted to ambient pressure through lanthanum substitution for Bi. Changing proportions of coexisting low- and high-temperature phases leads to smooth volume shrinkage on heating. The crystallographic linear expansion coefficient for Bi 0.95 La 0.05 NiO 3 is −137×10 −6 K −1 and a value of −82×10 −6 K −1 is observed between 320 and 380 K from a dilatometric measurement on a ceramic pellet. Colossal negative thermal expansion materials operating at ambient conditions may also be accessible through metal-insulator transitions driven by other phenomena such as ferroelectric orders. Negative thermal expansion—contraction upon heating—is an unusual process that may be exploited to produce materials with zero or other controlled thermal expansion values. Azuma et al . observe negative thermal expansion in BiNiO 3 which is a result of Bi/Ni charge-transfer transitions.

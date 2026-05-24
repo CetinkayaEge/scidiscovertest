@@ -1,0 +1,9 @@
+Title: Emerging organic electrode materials for sustainable batteries
+Authors: H. M., G. Malavika, Anuraj Pillai, Sachu Sadan, Zeena S. Pillai
+Year: 2024
+Venue: NPG Asia Materials
+DOI: https://doi.org/10.1038/s41427-024-00557-5
+Paper ID: https://openalex.org/W4400799505
+
+Abstract:
+Abstract Organic electrode materials (OEMs) possess low discharge potentials and charge‒discharge rates, making them suitable for use as affordable and eco-friendly rechargeable energy storage systems without needing metals such as lithium or sodium. OEMs can provide a sustainable energy economy by their development into stable and efficient next-generation high-power batteries. Despite the presence of several classes of OEMs, such as conducting polymers, 2D and 3D metal-organic frameworks, organolithium derivatives, 2D covalent organic frameworks, aromatic heterocyclic imides, and viologen derivatives, since their introduction in the 1960s, carbonyl-based molecules have maintained low discharge potentials and stable charging/discharging properties. Nevertheless, several redox-active organic molecules, including carbonyl derivatives, show poor electrochemical stability and ionic mobility in standard battery electrolytes, hampering their commercial use. Therefore, with the increased demand for renewable energy, the synthesis and testing of carbonyl-based OEMs continue to be performed in energy research. This review summarizes recent advances in developing carbonyl-based OEMs and their performance in rechargeable batteries.

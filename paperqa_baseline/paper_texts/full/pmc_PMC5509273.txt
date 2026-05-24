@@ -1,0 +1,9 @@
+Title: Acoustic Emission of Deformation Twinning in Magnesium
+Authors: Chengyang Mo, Brian Wisner, Mike Cabal, Kavan Hazeli, K. T. Ramesh, Haitham El Kadiri, Talal Al-Samman, Konstantin D. Molodov, Dmitri A. Molodov, Antonios Kontsos
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080662
+Paper ID: pmc_PMC5509273
+
+Abstract:
+The Acoustic Emission of deformation twinning in Magnesium is investigated in this article. Single crystal testing with combined full field deformation measurements, as well as polycrystalline testing inside the scanning electron microscope with simultaneous monitoring of texture evolution and twin nucleation were compared to testing at the laboratory scale with respect to recordings of Acoustic Emission activity. Single crystal testing revealed the formation of layered twin boundaries in areas of strain localization which was accompanied by distinct changes in the acoustic data. Testing inside the microscope directly showed twin nucleation, proliferation and growth as well as associated crystallographic reorientations. A post processing approach of the Acoustic Emission activity revealed the existence of a class of signals that appears in a strain range in which twinning is profuse, as validated by the in situ and ex situ microscopy observations. Features extracted from such activity were cross-correlated both with the available mechanical and microscopy data, as well as with the Acoustic Emission activity recorded at the laboratory scale for similarly prepared specimens. The overall approach demonstrates that the method of Acoustic Emission could provide real time volumetric information related to the activation of deformation twinning in Magnesium alloys, in spite of the complexity of the propagation phenomena, the possible activation of several deformation modes and the challenges posed by the sensing approach itself when applied in this type of materials evaluation approach.

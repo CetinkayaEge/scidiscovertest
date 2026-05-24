@@ -1,0 +1,9 @@
+Title: Digital trade and environmental sustainability: the role of financial development and ecological innovation for a greener revolution in China
+Authors: Haoliang Fu, Pengyu Huang, Yang Xu, Zhukai Zhang
+Year: 2022
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2022.2125889
+Paper ID: https://openalex.org/W4309112795
+
+Abstract:
+China’s government has pledged to attain net-zero emissions by 2050 and aims to create the world’s most resilient and forward-looking border by 2025. It has outlined a high-level vision for digital trade and a freeport plan and guarantees to implement new free trade agreements, develop infrastructure, and equalise the economy. Therefore, this study explores the dynamic impact of digital trade and financial development on ecological sustainability from 2000-Q1 to 2020-Q4. We apply the Bootstrap ARDL model for empirical analysis and found that digital trade in goods and services, financial development, and green innovation are conducive to long-term environmental sustainability. Similar results are also observed in the short run; however, the influence of short-run parameters is relatively lower. Moreover, the error correction term endorses convergence towards stable equilibrium with a 32.7% quarterly adjustment rate. Granger causality test report uni-direction casualty in all variables, except green innovation and carbon emissions. These findings recommend an inclusive policy for promoting digital trade, financial integration, and green innovation in China.

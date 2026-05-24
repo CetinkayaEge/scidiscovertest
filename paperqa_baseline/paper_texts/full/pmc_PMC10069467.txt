@@ -1,0 +1,9 @@
+Title: Characterization of network hierarchy reflects cell state specificity in genome organization
+Authors: Jingyao Wang, Yue Xue, Yueying He, Hui Quan, Jun Zhang, Yi Qin Gao
+Year: 2023
+Venue: Genome Research
+DOI: 10.1101/gr.277206.122
+Paper ID: pmc_PMC10069467
+
+Abstract:
+Dynamic chromatin structure acts as the regulator of transcription program in crucial processes including cancer and cell development, but a unified framework for characterizing chromatin structural evolution remains to be established. Here, we performed graph inferences on Hi-C data sets and derived the chromatin contact networks. We discovered significant decreases in information transmission efficiencies in chromatin of colorectal cancer (CRC) and T-cell acute lymphoblastic leukemia (T-ALL) compared to corresponding normal controls through graph statistics. Using network embedding in the Poincaré disk, the hierarchy depths of chromatin from CRC and T-ALL patients were found to be significantly shallower compared to their normal controls. A reverse trend of change in chromatin structure was observed during early embryo development. We found tissue-specific conservation of hierarchy order in chromatin contact networks. Our findings reveal the top-down hierarchy of chromatin organization, which is significantly attenuated in cancer.

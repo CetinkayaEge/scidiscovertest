@@ -1,0 +1,9 @@
+Title: Toward Sustainable Reconfigurable Manufacturing Systems (SRMS): Past, Present, and Future
+Authors: A. Dahmani, Lyès Benyoucef, Jean-Marc Mercantini
+Year: 2022
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.01.361
+Paper ID: https://openalex.org/W4225474865
+
+Abstract:
+In increasingly unstable political, economic, environmental, and societal environments and under the pressure of globalization, growing competition, increasingly complex manufacturing systems, services, products, and technologies with very short lifetimes, many companies are looking to rethink their production practices and philosophies. Their objective is to offer more product variants without sacrificing production efficiency. Consequently, to succeed and satisfy these challenging needs, production systems must be highly flexible and reconfigurable. In this context, the concept of the reconfigurable manufacturing system (RMS) emerged in the late 1990s to overcome the limitations of traditional manufacturing in rapidly and cost-efficiently respond to changing market and society conditions. RMS is considered as an enabler for industry 4.0 due to its core characteristics, namely scalability, convertibility, diagnosability, customization, modularity, and integrability. Moreover, due to the escalation in fuel prices, higher tariff for electrical use, and environmental legislation, reducing energy consumption and carbon footprint has become the need of the hour in the manufacturing sector. Thus, considering sustainability while designing a RMS is primordial to cope with the requirements imposed by the environmental and societal environments. This paper addresses some challenging issues toward sustainable RMS and delivers some gaps for future work directions.

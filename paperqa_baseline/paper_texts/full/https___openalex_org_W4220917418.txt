@@ -1,0 +1,9 @@
+Title: A public transport-based crowdshipping concept as a sustainable last-mile solution: Assessing user preferences with a stated choice experiment
+Authors: Andreas Fessler, Mikkel Thorhauge, Stefan Lindhard Mabit, Sonja Haustein
+Year: 2022
+Venue: Transportation Research Part A Policy and Practice
+DOI: https://doi.org/10.1016/j.tra.2022.02.005
+Paper ID: https://openalex.org/W4220917418
+
+Abstract:
+In this study, we analyse user preferences for a public transport based crowdshipping concept, where users carry parcels along on their ride. The concept offers potential economic, environmental and social benefits over other last-mile solutions. We set up a stated choice experiment in which respondents indicate whether they would be willing to bring a parcel along on their ride, while varying the number of parcels, their size, weight, the compensation and required extra time. Based on data from 524 public transport passengers in the Greater Copenhagen Area, we estimate a mixed logit model and find all main effects to be significant. Our results indicate that young(er) individuals, students and (to a lesser extent) employed and self-employed individuals are more likely to participate in the crowdshipping concept, while old(er) individuals (60 + ) are less willing to participate. Our findings further show that the marginal disutility of time spent retrieving and dropping off parcels is higher for old(er) respondents and individuals with high(er) income, while it is lower for individuals with a short-term education. Finally, we find the value of time to be slightly higher than the official Danish value for waiting time but lower than the value of travel time delay. Findings can inform the design of a crowdshipping system as well as related engagement efforts.

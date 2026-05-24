@@ -1,0 +1,9 @@
+Title: Towards Sustainable Energy Retrofitting, a Simulation for Potential Energy Use Reduction in Residential Buildings in Palestine
+Authors: Sameh Monna, Adel Juaidi, Ramez Abdallah, Aiman Albatayneh, Patrick Dutournié, Mejdi Jeguirim
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14133876
+Paper ID: https://openalex.org/W3176218189
+
+Abstract:
+Since buildings are one of the major contributors to global warming, efforts should be intensified to make them more energy-efficient, particularly existing buildings. This research intends to analyze the energy savings from a suggested retrofitting program using energy simulation for typical existing residential buildings. For the assessment of the energy retrofitting program using computer simulation, the most commonly utilized residential building types were selected. The energy consumption of those selected residential buildings was assessed, and a baseline for evaluating energy retrofitting was established. Three levels of retrofitting programs were implemented. These levels were ordered by cost, with the first level being the least costly and the third level is the most expensive. The simulation models were created for two different types of buildings in three different climatic zones in Palestine. The findings suggest that water heating, space heating, space cooling, and electric lighting are the highest energy consumers in ordinary houses. Level one measures resulted in a 19–24 percent decrease in energy consumption due to reduced heating and cooling loads. The use of a combination of levels one and two resulted in a decrease of energy consumption for heating, cooling, and lighting by 50–57%. The use of the three levels resulted in a decrease of 71–80% in total energy usage for heating, cooling, lighting, water heating, and air conditioning.

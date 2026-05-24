@@ -1,0 +1,9 @@
+Title: Sustainable Approach in IT Project Management—Methodology Choice vs. Client Satisfaction
+Authors: Monika Woźniak
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031466
+Paper ID: https://openalex.org/W3128419364
+
+Abstract:
+Major elaborations on sustainable development relating to the general economic sphere of various issue-related areas. Surprisingly little explicit guidance presenting this topic from the organizational side exists. To fill this gap, this paper attempts to propose and verify the concept of a sustainable approach to IT project management by involving the client at the stage of choosing the project management methodology. The research scope constitute IT projects, the subject of which was the development of software commissioned by the organization. The study aims to assess how the internal perspective of sustainability in IT projects, manifested in the matching of IT project management methodology to the client, affects the overall client’s satisfaction with the IT project, its products, and results. In the study, 64 IT projects implemented in Polish SME organizations were analyzed throughout their life cycle. The study has proved that introducing and improving the internal perspective of sustainability in IT projects, by matching an IT project management methodology to the client type is one of the key factors determining the level of client satisfaction and thus the assessment of the project’s success. The evaluation was made using the Servperv method by developing a measurement instrument dedicated to the IT project management area. Researches can use the proposed approach and the Servperv measuring tool to carry out similar analyses with different sample groups across other countries. The software industry can find results valuable and useful with regard to the IT project management improvement.

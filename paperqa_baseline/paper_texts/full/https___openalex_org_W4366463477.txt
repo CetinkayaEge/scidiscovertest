@@ -1,0 +1,9 @@
+Title: Quasi‐Solid Aqueous Electrolytes for Low‐Cost Sustainable Alkali‐Metal Batteries
+Authors: Xianhui Yi, Yanhong Feng, Apparao M. Rao, Jiang Zhou, Chengxin Wang, Bingan Lu
+Year: 2023
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202302280
+Paper ID: https://openalex.org/W4366463477
+
+Abstract:
+Aqueous electrolytes are highly important for batteries due to their sustainability, greenness, and low cost. However, the free water molecules react violently with alkali metals, rendering the high-capacity of alkali-metal anodes unusable. Here, water molecules are confined in a carcerand-like network to build quasi-solid aqueous electrolytes (QAEs) with reduced water molecules' freedom and matched with the low-cost chloride salts. The formed QAEs possess substantially different properties than liquid water molecules, including stable operation with alkali-metal anodes without gas evolution. Specifically, the alkali-metal anodes can directly cycle in a water-based environment with suppressed growth of dendrites, electrode dissolution, and polysulfide shuttle. Li-metal symmetric cells achieved long-term cycling over 7000 h (and over 5000/4000 h for Na/K symmetric cells), and all the Cu-based alkali-metal cells exhibited a Coulombic efficiency of over 99%. Full metal batteries, such as Li||S batteries, attained high Coulombic efficiency, long life (over 4000 cycles), and unprecedented energy density among water-based rechargeable batteries.

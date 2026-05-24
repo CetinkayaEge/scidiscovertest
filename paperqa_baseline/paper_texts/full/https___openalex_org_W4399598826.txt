@@ -1,0 +1,9 @@
+Title: High‐Energy Earth‐Abundant Cathodes with Enhanced Cationic/Anionic Redox for Sustainable and Long‐Lasting Na‐Ion Batteries
+Authors: Xu Zhang, Wenhua Zuo, Shiqi Liu, Chen Zhao, Qingtian Li, Yibo Gao, Xiang Liu, Dongdong Xiao, Inhui Hwang, Yang Ren, Cheng‐Jun Sun, Zonghai Chen, Boya Wang, Yunfa Feng, Wanli Yang, Gui‐Liang Xu, Khalil Amine, Haijun Yu
+Year: 2024
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202310659
+Paper ID: https://openalex.org/W4399598826
+
+Abstract:
+, even when operated with a high charge cut-off voltage of 4.5 V versus sodium metal. Combining a suite of cutting-edge characterizations and computational modeling, it is shown that Mg/Ti co-doping leads to stabilized surface/bulk structure at high voltage and high temperature, and more importantly, enhances cationic/anionic redox reaction reversibility over extended cycles with the suppression of other undesired oxygen activities. This work fundamentally deepens the failure mechanism of Fe/Mn-based layered cathodes and highlights the importance of dopant engineering to achieve high-energy and earth-abundant cathode material for sustainable and long-lasting NIBs.

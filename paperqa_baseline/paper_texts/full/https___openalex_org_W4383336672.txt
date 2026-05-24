@@ -1,0 +1,9 @@
+Title: Exploring the potential impact of smart urban technologies on urban sustainability using structural topic modelling: Evidence from Belgium
+Authors: Emanuele Gabriel Margherita, Stefania Denise Escobar, Giovanni Esposito, Nathalie Crutzen
+Year: 2023
+Venue: Cities
+DOI: https://doi.org/10.1016/j.cities.2023.104475
+Paper ID: https://openalex.org/W4383336672
+
+Abstract:
+This study explores the potential impact of smart urban technologies used in smart city projects on three dimensions of urban sustainability (economic, environmental and social). Although the literature notes that smart urban technologies and their capabilities are potential saviours when it comes to urban and sustainability challenges in cities, there is a lack of studies exploring the impact of smart urban technologies on urban sustainability. Thus, we address this literature gap by conducting structural topic modelling on smart city projects retrieved from the Smart Territory call for projects. In these projects, city managers' report extensively on how smart urban technologies can support urban sustainability. Our results show nine groups of smart urban technologies that will support at least two urban sustainability dimensions. Smart mobility systems can support all three dimensions of urban sustainability. Technology benefits will be realised by smart urban technology capabilities and through the involvement of the city's community in the use of technology.

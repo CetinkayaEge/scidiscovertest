@@ -1,0 +1,9 @@
+Title: Towards Monitoring Waterlogging with Remote Sensing for Sustainable Irrigated Agriculture
+Authors: Nadja den Besten, Susan Steele‐Dunne, Richard de Jeu, Pieter van der Zaag
+Year: 2021
+Venue: Remote Sensing
+DOI: https://doi.org/10.3390/rs13152929
+Paper ID: https://openalex.org/W3185807446
+
+Abstract:
+Waterlogging is an increasingly important issue in irrigated agriculture that has a detrimental impact on crop productivity. The above-ground effect of waterlogging on crops is hard to distinguish from water deficit stress with remote sensing, as responses such as stomatal closure and leaf wilting occur in both situations. Currently, waterlogging as a source of crop stress is not considered in remote sensing-based evaporation algorithms and this may therefore lead to erroneous interpretation for irrigation scheduling. Monitoring waterlogging can improve evaporation models to assist irrigation management. In addition, frequent spatial information on waterlogging will provide agriculturalists information on land trafficability, assist drainage design, and crop choice. This article provides a scientific perspective on the topic of waterlogging by consulting literature in the disciplines of agronomy, hydrology, and remote sensing. We find the solution to monitor waterlogging lies in a multi-sensor approach. Future scientific routes should focus on monitoring waterlogging by combining remote sensing and ancillary data. Here, drainage parameters deduced from high spatial resolution Digital Elevation Models (DEMs) can play a crucial role. The proposed approaches may provide a solution to monitor and prevent waterlogging in irrigated agriculture.

@@ -1,0 +1,9 @@
+Title: G 2 Retro as a two-step graph generative models for retrosynthesis prediction
+Authors: Ziqi Chen, Oluwatosin R. Ayinde, James R. Fuchs, Huan Sun, Xia Ning
+Year: 2023
+Venue: Communications Chemistry
+DOI: 10.1038/s42004-023-00897-3
+Paper ID: pmc_PMC10229662
+
+Abstract:
+Retrosynthesis is a procedure where a target molecule is transformed into potential reactants and thus the synthesis routes can be identified. Recently, computational approaches have been developed to accelerate the design of synthesis routes. In this paper,we develop a generative framework G 2 Retro for one-step retrosynthesis prediction. G 2 Retro imitates the reversed logic of synthetic reactions. It first predicts the reaction centers in the target molecules (products), identifies the synthons needed to assemble the products, and transforms these synthons into reactants. G 2 Retro defines a comprehensive set of reaction center types, and learns from the molecular graphs of the products to predict potential reaction centers. To complete synthons into reactants, G 2 Retro considers all the involved synthon structures and the product structures to identify the optimal completion paths, and accordingly attaches small substructures sequentially to the synthons. Here we show that G 2 Retro is able to better predict the reactants for given products in the benchmark dataset than the state-of-the-art methods. Deep learning-based in silico retrosynthesis prediction methods are able to accelerate retrosynthetic planning, however, their prediction performance remains limited. Here, the authors develop a semi-template-based deep generative model, G 2 Retro, that can better predict the reactants for one-step retrosyntheses.

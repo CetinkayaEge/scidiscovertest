@@ -1,0 +1,9 @@
+Title: Metal Stereogenicity in Asymmetric Transition Metal Catalysis
+Authors: Philipp S. Steinlandt, Lilu Zhang, Eric Meggers
+Year: 2023
+Venue: Chemical Reviews
+DOI: 10.1021/acs.chemrev.2c00724
+Paper ID: pmc_PMC10141360
+
+Abstract:
+Chiral transition metal catalysts represent a powerful and economic tool for implementing stereocenters in organic synthesis, with the metal center providing a strong chemical activation upon its interaction with substrates or reagents, while the overall chirality of the metal complex achieves the desired stereoselectivity. Often, the overall chiral topology of the metal complex implements a stereogenic metal center, which is then involved in the origin of the asymmetric induction. This review provides a comprehensive survey of reported chiral transition metal catalysts in which the metal formally constitutes a stereocenter. A stereogenic metal center goes along with an overall chiral topology of the metal complex, regardless of whether the ligands are chiral or achiral. Implications for the catalyst design and mechanism of asymmetric induction are discussed for half-sandwich, tetracoordinated, pentacoordinated, and hexacoordinated chiral transition metal complexes containing a stereogenic metal center. The review distinguishes between chiral metal catalysts originating from the coordination to chiral ligands and those which are solely composed of optically inactive ligands (achiral or rapidly interconverting enantiomers) prior to complexation (dubbed “chiral-at-metal” catalysts).

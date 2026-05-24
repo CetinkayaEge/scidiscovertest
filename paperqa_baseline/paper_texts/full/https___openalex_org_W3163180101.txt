@@ -1,0 +1,9 @@
+Title: Optimal Voltage–Frequency Regulation in Distributed Sustainable Energy-Based Hybrid Microgrids with Integrated Resource Planning
+Authors: Amar Kumar Barik, Dulal Chandra Das, Abdul Latif, S. M. Suhail Hussain, Taha Selim Ustun
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14102735
+Paper ID: https://openalex.org/W3163180101
+
+Abstract:
+This work is the earliest attempt to propose an integrated resource planning for distributed hybrid microgrids considering virtual-inertia support (VIS) and demand-response support (DRS) systems. Initially, three-distributed sustainable energy-based unequal hybrid microgrids are envisioned with the availability of solar/wind/bioenergy resources. In order to overcome the effects of intermittency in renewable resources and low inertia, each microgrid is incorporated with DRS and VIS units for demand- and supply-side management, respectively. The proposed system is simulated in MATLAB considering real-time recorded solar/wind data with realistic loading for 12 months. A novel quasi-oppositional chaotic selfish-herd optimization (QCSHO) algorithm is proposed by hybridizing quasi-opposition-based learning and chaotic linear search techniques into the selfish-herd optimization, for optimal regulation of voltage and frequency in microgrids. Then, the system responses are compared with 7 algorithms and 5 error functions to tune PID controllers’ gains, which confirmed the superiority of QCSHO over others. Then, the study proceeds to investigate the voltage, frequency, and tie-line power coordination in 5 extreme scenarios of source and load variations in the proposed system without retuning the controllers. Finally, the system responses are analyzed for 10 different possible allocation of VIS and DRS units in different microgrids to find the most suitable combinations, and the results are recorded.

@@ -1,0 +1,9 @@
+Title: Developing an online information portal for enhancing society awareness of RPTRA (A case study RPTRA MAYA ASRI 13)
+Authors: Yulyani Arifin, Elizabeth Paskahlia Gunawan, Margaretha Ohyver
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.121
+Paper ID: pmc_PMC9829422
+
+Abstract:
+The long COVID-19 pandemic has limited the activities of Ruang Publik Terpadu Ramah Anak (RPTRA) such as environment cleaning, repair of RPTRA infrastructure, learning and others, as well as the lack of public awareness about the existence and importance of RPTRA to the public and foreign tourists encouraging the RPTRA to make changes in the dissemination of information about the activities carried out in the RPTRA through the use of technology to survive and grow even during the Covid-19 Pandemic. The methodology used in this research is Group Discussion Forum with the administrators of the RPTRA Maya ASRI 13 to learn about the needs and expectations of the RPTRA administrators regarding the web portal to be built. Then, the implementation of the conceptual model, development, and evaluation of the effectiveness of the RPTRA information web portal was carried out. The contribution in this research is to implement a conceptual model on the information portal built on the platform of the Website with the PHP framework, which is then evaluated on the results of the pre-test and post-test about RPTRA the Wilcoxon-Signed Rank Test to test the effectiveness of the information web portal for general users. The results obtained from these tests indicate that the RPTRA Information Web Portal can help the public learn more about the existence of RPTRA Maya Asri 13.

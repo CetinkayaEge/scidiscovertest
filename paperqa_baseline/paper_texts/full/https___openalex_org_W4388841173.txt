@@ -1,0 +1,9 @@
+Title: Pathway to sustainable economic growth: Linkage among energy consumption, carbon emissions, climate change and technological innovation
+Authors: Z. Tao, ZhiXiang Ren, Yadi Chen, Xiaoyue Huang, Xiaojun Liu
+Year: 2023
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2023.101253
+Paper ID: https://openalex.org/W4388841173
+
+Abstract:
+This paper investigates the impact of climate change and technological innovation on economic growth, energy consumption, and carbon emissions by using annual observations of a wide range of variables of Asian and European countries from 1996 to 2021. The study uses a dynamic GMM model and reveals significant regional heterogeneity and time-varying effects of technological innovation on economic growth. Technological innovation plays a more substantial role in promoting sustainable economic growth in European countries compared to Asian countries. The study also uncovers a spatial linkage and dependence between climate change and technological innovation. The technological transfer from European countries has increased energy consumption and carbon emissions in Asian countries, leading to abnormal climate change. The paper underscores the importance of targeted technological innovation strategies in Asian countries to improve energy efficiency and mitigate climate change. The study also confirms the EKC hypothesis with an observed inverted U-shaped relationship between economic growth and carbon emissions.

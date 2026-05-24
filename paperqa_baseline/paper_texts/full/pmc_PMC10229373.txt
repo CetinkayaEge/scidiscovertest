@@ -1,0 +1,9 @@
+Title: ODNA: identification of organellar DNA by machine learning
+Authors: Roman Martin, Minh Kien Nguyen, Nick Lowack, Dominik Heider
+Year: 2023
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btad326
+Paper ID: pmc_PMC10229373
+
+Abstract:
+Abstract Motivation Identifying organellar DNA, such as mitochondrial or plastid sequences, inside a whole genome assembly, remains challenging and requires biological background knowledge. To address this, we developed ODNA based on genome annotation and machine learning to fulfill. Results ODNA is a software that classifies organellar DNA sequences within a genome assembly by machine learning based on a predefined genome annotation workflow. We trained our model with 829 769 DNA sequences from 405 genome assemblies and achieved high predictive performance (e.g. matthew's correlation coefficient of 0.61 for mitochondria and 0.73 for chloroplasts) on independent validation data, thus outperforming existing approaches significantly. Availability and implementation Our software ODNA is freely accessible as a web service at https://odna.mathematik.uni-marburg.de and can also be run in a docker container. The source code can be found at https://gitlab.com/mosga/odna and the processed data at Zenodo (DOI: 10.5281/zenodo.7506483).

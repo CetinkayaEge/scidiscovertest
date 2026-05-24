@@ -1,0 +1,9 @@
+Title: Genome-wide association study for loin muscle area of commercial crossbred pigs
+Authors: Menghao Luan, Donglin Ruan, Yibin Qiu, Yong Ye, Shenping Zhou, Jifei Yang, Ying Sun, Fucai Ma, Zhenfang Wu, Jie Yang, Ming Yang, Enqin Zheng, Gengyuan Cai, Sixiu Huang
+Year: 2023
+Venue: Animal Bioscience
+DOI: 10.5713/ab.22.0407
+Paper ID: pmc_PMC10164538
+
+Abstract:
+Objective Loin muscle area (LMA) is an important target trait of pig breeding. This study aimed to identify single nucleotide polymorphisms (SNPs) and genes associated with LMA in the Duroc×(Landrace×Yorkshire) crossbred pigs (DLY). Methods A genome-wide association study was performed using the Illumina 50K chip to map the genetic marker and genes associated with LMA in 511 DLY pigs (255 boars and 256 sows). Results After quality control, we detected 35,426 SNPs, including six SNPs significantly associated with LMA in pigs, with MARC0094338 and ASGA0072817 being the two key SNPs responsible for 1.77% and 2.48% of the phenotypic variance of LMA, respectively. Based on previous research, we determined two candidate genes (growth hormone receptor [ GHR ] and 3-oxoacid Co A-transferase 1 [ OXCT1 ]) that are associated with fat deposition and muscle growth and found further additional genes ( MYOCD , ARHGAP44 , ELAC2 , MAP2K4 , FBXO4 , FBLL1 , RARS1 , SLIT3 , and RANK3 ) that are presumed to have an effect on LMA. Conclusion This study contributes to the identification of the mutation that underlies quantitative trait loci associated with LMA and to future pig breeding programs based on marker-assisted selection. Further studies are needed to elucidate the role of the identified candidate genes in the physiological processes involved in LMA regulation.

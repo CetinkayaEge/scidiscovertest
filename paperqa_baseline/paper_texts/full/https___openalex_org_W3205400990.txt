@@ -1,0 +1,9 @@
+Title: Plant-protein-enabled biodegradable triboelectric nanogenerator for sustainable agriculture
+Authors: Chengmei Jiang, Qi Zhang, Chengxin He, Chi Zhang, Xiaohui Feng, Xunjia Li, Qiang Zhao, Yibin Ying, Jianfeng Ping
+Year: 2021
+Venue: Fundamental Research
+DOI: https://doi.org/10.1016/j.fmre.2021.09.010
+Paper ID: https://openalex.org/W3205400990
+
+Abstract:
+As the use of triboelectric nanogenerators (TENGs) increases, the generation of related electronic waste has been a major challenge. Therefore, the development of environmentally friendly, biodegradable, and low-cost TENGs must be prioritized. Having discovered that plant proteins, by-products of grain processing, possess excellent triboelectric properties, we explore these properties by evaluating the protein structure. The proteins are recycled to fabricate triboelectric layers, and the triboelectric series according to electrical properties is determined for the first time. Using a special structure design, we construct a plant-protein-enabled biodegradable TENG by integrating a polylactic acid film, which is used as a new type of mulch film to construct a growth-promoting system that generates space electric fields for agriculture. Thus, from the plant protein to the crop, a sustainable recycling loop is implemented. Using bean seedlings as a model to confirm the feasibility of the mulch film, we further use it in the cultivation of greenhouse vegetables. Experimental results demonstrate the applicability of the proposed plant-protein-enabled biodegradable TENG in sustainable agriculture.

@@ -1,0 +1,9 @@
+Title: High Performance CMOS Light Detector with Dark Current Suppression in Variable-Temperature Systems
+Authors: Wen-Sheng Lin, Guo-Ming Sung, Jyun-Long Lin
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010015
+Paper ID: pmc_PMC5298588
+
+Abstract:
+This paper presents a dark current suppression technique for a light detector in a variable-temperature system. The light detector architecture comprises a photodiode for sensing the ambient light, a dark current diode for conducting dark current suppression, and a current subtractor that is embedded in the current amplifier with enhanced dark current cancellation. The measured dark current of the proposed light detector is lower than that of the epichlorohydrin photoresistor or cadmium sulphide photoresistor. This is advantageous in variable-temperature systems, especially for those with many infrared light-emitting diodes. Experimental results indicate that the maximum dark current of the proposed current amplifier is approximately 135 nA at 125 °C, a near zero dark current is achieved at temperatures lower than 50 °C, and dark current and temperature exhibit an exponential relation at temperatures higher than 50 °C. The dark current of the proposed light detector is lower than 9.23 nA and the linearity is approximately 1.15 μA/lux at an external resistance R SS = 10 kΩ and environmental temperatures from 25 °C to 85 °C.

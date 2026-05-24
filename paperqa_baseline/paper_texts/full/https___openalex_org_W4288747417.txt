@@ -1,0 +1,9 @@
+Title: Adoption of green innovation technology to accelerate sustainable development among manufacturing industry
+Authors: Mohsin Shahzad, Ying Qu, Saif Ur Rehman, Abaid Ullah Zafar
+Year: 2022
+Venue: Journal of Innovation & Knowledge
+DOI: https://doi.org/10.1016/j.jik.2022.100231
+Paper ID: https://openalex.org/W4288747417
+
+Abstract:
+Recent advancements in green and innovative technologies have resulted in a number of innovations in manufacturing operations to accelerate sustainable development (SD). Despite several benefits of green innovation adoption (GIA), the adoption rate of these initiatives is still abysmal in manufacturing organisations. To fill this gap, we have developed and validated the GIA model grounded on the unified theory of acceptance and use of technology (UTAUT), which compels organisations to implement these novel technologies. Data was collected through a survey of 516 respondents from Pakistani manufacturing industries and analysed using structural equation modelling (SEM) and the artificial neural network (ANN) approach. The deliverables of SEM and ANN approaches demonstrated that all green integrated constructs of the research model, such as performance expectancy, effort expectancy, hedonic motivation, social influence, facilitating conditions, and innovation cost, predict green behavioural intention (GBI). Besides, GBI was found to have a strong direct and mediating effect among integrated constructs towards GIA. In addition, the moderation of organisational size highlighted the differentiation among small, medium and large size enterprises. Additionally, ANN specifies the robustness and relative importance of all integrated constructs, whereas green facilitating conditions have the highest relative importance value for GIA. The proposed integrated model offers novel insights for decision-makers and suggests various implications for adopting and implementing innovative green technologies to achieve SD objectives.

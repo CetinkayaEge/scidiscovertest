@@ -1,0 +1,9 @@
+Title: A Hybrid Traceability Technology Selection Approach for Sustainable Food Supply Chains
+Authors: Samantha Islam, Louise Manning, Jonathan M. Cullen
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13169385
+Paper ID: https://openalex.org/W3196078586
+
+Abstract:
+Traceability technologies have great potential to improve sustainable performance in cold food supply chains by reducing food loss. In existing approaches, traceability technologies are selected either intuitively or through a random approach, that neither considers the trade-off between multiple cost–benefit technology criteria nor systematically translates user requirements for traceability systems into the selection process. This paper presents a hybrid approach combining the fuzzy Analytic Hierarchy Process (AHP) and Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) with integer linear programming to select the optimum traceability technologies for improving sustainable performance in cold food supply chains. The proposed methodology is applied in four case studies utilising data collected from literature and expert interviews. The proposed approach can assist decision-makers, e.g., food business operators and technology companies, to identify what combination of technologies best suits a given food supply chain scenario and reduces food loss at minimum cost.

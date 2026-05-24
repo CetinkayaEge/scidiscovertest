@@ -1,0 +1,9 @@
+Title: Modeling rod and cone photoreceptor cell survival in vivo using optical coherence tomography
+Authors: S. Scott Whitmore, Adam P. DeLuca, Jeaneen L. Andorf, Justine L. Cheng, Mahsaw Mansoor, Christopher R. Fortenbach, D. Brice Critser, Jonathan F. Russell, Edwin M. Stone, Ian C. Han
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33694-y
+Paper ID: pmc_PMC10140056
+
+Abstract:
+Many retinal diseases involve the loss of light-sensing photoreceptor cells (rods and cones) over time. The severity and distribution of photoreceptor loss varies widely across diseases and affected individuals, so characterizing the degree and pattern of photoreceptor loss can clarify pathophysiology and prognosis. Currently, in vivo visualization of individual photoreceptors requires technology such as adaptive optics, which has numerous limitations and is not widely used. By contrast, optical coherence tomography (OCT) is nearly ubiquitous in daily clinical practice given its ease of image acquisition and detailed visualization of retinal structure. However, OCT cannot resolve individual photoreceptors, and no OCT-based method exists to distinguish between the loss of rods versus cones. Here, we present a computational model that quantitatively estimates rod versus cone photoreceptor loss from OCT. Using histologic data of human photoreceptor topography, we constructed an OCT-based reference model to simulate outer nuclear layer thinning caused by differential loss of rods and cones. The model was able to estimate rod and cone loss using in vivo OCT data from patients with Stargardt disease and healthy controls. Our model provides a powerful new tool to quantify photoreceptor loss using OCT data alone, with potentially broad applications for research and clinical care.

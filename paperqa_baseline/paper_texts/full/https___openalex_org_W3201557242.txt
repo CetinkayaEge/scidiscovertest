@@ -1,0 +1,9 @@
+Title: A steady-state N balance approach for sustainable smallholder farming
+Authors: Yulong Yin, Rongfang Zhao, Yi Yang, Qingfeng Meng, Hao Ying, Kenneth G. Cassman, Wen‐Feng Cong, Xingshuai Tian, Kai He, Yingcheng Wang, Zhenling Cui, Xinping Chen, Fusuo Zhang
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2106576118
+Paper ID: https://openalex.org/W3201557242
+
+Abstract:
+Hundreds of millions of smallholders in emerging countries substantially overuse nitrogen (N) fertilizers, driving local environmental pollution and global climate change. Despite local demonstration-scale successes, widespread mobilization of smallholders to adopt precise N management practices remains a challenge, largely due to associated high costs and complicated sampling and calculations. Here, we propose a long-term steady-state N balance (SSNB) approach without these complications that is suitable for sustainable smallholder farming. The hypothesis underpinning the concept of SSNB is that an intensively cultivated soil-crop system with excessive N inputs and high N losses can be transformed into a steady-state system with minimal losses while maintaining high yields. Based on SSNB, we estimate the optimized N application range across 3,824 crop counties for the three staple crops in China. We evaluated SSNB first in ca. 18,000 researcher-managed on-farm trials followed by testing in on-farm trials with 13,760 smallholders who applied SSNB-optimized N rates under the guidance of local extension staff. Results showed that SSNB could significantly reduce N fertilizer use by 21 to 28% while maintaining or increasing yields by 6 to 7%, compared to current smallholder practices. The SSNB approach could become an effective tool contributing to the global N sustainability of smallholder agriculture.

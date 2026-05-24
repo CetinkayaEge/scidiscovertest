@@ -1,0 +1,9 @@
+Title: Policy relevant health related liveability indicator datasets for addresses in Australia’s 21 largest cities
+Authors: Carl Higgs, Melanie Lowe, Paula Hooper, Suzanne Mavoa, Jonathan Arundel, Lucy Gunn, Koen Simons, Billie Giles-Corti
+Year: 2023
+Venue: Scientific Data
+DOI: 10.1038/s41597-023-02013-5
+Paper ID: pmc_PMC9968286
+
+Abstract:
+Measuring and monitoring the spatial distribution of liveability is crucial to ensure that implemented urban and transport planning decisions support health and wellbeing. Spatial liveability indicators can be used to ensure these decisions are effective, equitable and tracked across time. The 2018 Australian National Liveability Study datasets comprise a suite of policy-relevant health-related spatial indicators of local neighbourhood liveability and amenity access estimated for residential address points and administrative areas across Australia’s 21 most populous cities. The indicators and measures encompass access to community and health services, social infrastructure, employment, food, housing, public open space, transportation, walkability and overall liveability. This national ’baseline’ liveability indicators dataset for residential address points and areas can be further linked with surveys containing geocoded participant locations, as well as Census data for areas from the Australian Statistical Geography Standard. The datasets will be of interest to planners, policy makers and researchers interested in modelling and mapping the spatial distribution of urban environmental exposures and their relationship with health and other outcomes.

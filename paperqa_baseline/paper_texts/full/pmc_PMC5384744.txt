@@ -1,0 +1,9 @@
+Title: Drp1-dependent mitochondrial fission mediates osteogenic dysfunction in inflammation through elevated production of reactive oxygen species
+Authors: Ling Zhang, Xueqi Gan, Yuting He, Zhuoli Zhu, Junfei Zhu, Haiyang Yu
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175262
+Paper ID: pmc_PMC5384744
+
+Abstract:
+Although previous studies have implicated pro-inflammatory cytokines, such as tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6), to be detrimental for osteogenic activity, the related regulatory mechanisms are not yet fully validated. Since mitochondria host several essential metabolic processes and play a pivotal role in cellular functions, whether and how mitochondrial function contributes to inflammation-induced bone destruction needs further exploration. Our findings revealed that TNF-α impaired osteoblast function, including decreased mRNA levels of osteogenic markers, suppressed ALP expression and activity, and compromised cellular viability. Moreover, increased reactive oxygen species (ROS)-mediated oxidative stress in the TNF-α-treated group enhanced excessive mitochondrial fragmentation and disrupted mitochondrial function. However, treatment with antioxidant N -acetyl cysteine (NAC) or mitochondrial division inhibitor Mdivi-1 protected the cells from these adverse phenomena. These findings provide new insights into the role of the Drp1-dependent mitochondrial pathway in the osteogenic dysfunction during inflammation, indicating that this pathway may be a target for the development of new therapeutic approaches for the prevention and treatment of inflammation-induced bone destruction.

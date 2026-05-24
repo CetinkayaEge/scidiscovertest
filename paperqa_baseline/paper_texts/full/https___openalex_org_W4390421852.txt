@@ -1,0 +1,9 @@
+Title: ATOM: AI-Powered Sustainable Resource Management for Serverless Edge Computing Environments
+Authors: Muhammed Golec, Sukhpal Singh Gill, Félix Cuadrado, Ajith Kumar Parlikad, Minxian Xu, Huaming Wu, Steve Uhlig
+Year: 2023
+Venue: IEEE Transactions on Sustainable Computing
+DOI: https://doi.org/10.1109/tsusc.2023.3348157
+Paper ID: https://openalex.org/W4390421852
+
+Abstract:
+Serverless edge computing decreases unnecessary resource usage on end devices with limited processing power and storage capacity. Despite its benefits, serverless edge computing's zero scalability is the major source of the cold start delay, which is yet unsolved. This latency is unacceptable for time-sensitive Internet of Things (IoT) applications like autonomous cars. Most existing approaches need containers to idle and use extra computing resources. Edge devices have fewer resources than cloud-based systems, requiring new sustainable solutions. Therefore, we propose an AI-powered, sustainable resource management framework called ATOM for serverless edge computing. ATOM utilizes a deep reinforcement learning model to predict exactly when cold start latency will happen. We create a cold start dataset using a heart disease risk scenario and deploy using Google Cloud Functions. To demonstrate the superiority of ATOM, its performance is compared with two different baselines, which use the warm-start containers and a two-layer adaptive approach. The experimental results showed that although the ATOM required more calculation time of 118.76 seconds, it performed better in predicting cold start than baseline models with an RMSE ratio of 148.76. Additionally, the energy consumption and $CO_{2}$ emission amount of these models are evaluated and compared for the training and prediction phases.

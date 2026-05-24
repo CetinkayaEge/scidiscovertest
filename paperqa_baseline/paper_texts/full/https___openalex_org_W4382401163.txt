@@ -1,0 +1,9 @@
+Title: Sustainable Development for Mobile Health Apps Using the Human-Centered Design Process
+Authors: Qingfan An, Marjorie M. Kelley, Audra Hanners, Po‐Yin Yen
+Year: 2023
+Venue: JMIR Formative Research
+DOI: https://doi.org/10.2196/45694
+Paper ID: https://openalex.org/W4382401163
+
+Abstract:
+Well-documented scientific evidence indicates that mobile health (mHealth) apps can improve the quality of life, relieve symptoms, and restore health for patients. In addition to improving patients' health outcomes, mHealth apps reduce health care use and the cost burdens associated with disease management. Currently, patients and health care providers have a wide variety of choices among commercially available mHealth apps. However, due to the high resource costs and low user adoption of mHealth apps, the cost-benefit relationship remains controversial. When compared to traditional expert-driven approaches, applying human-centered design (HCD) may result in more useable, acceptable, and effective mHealth apps. In this paper, we summarize current HCD practices in mHealth development studies and make recommendations to improve the sustainability of mHealth. These recommendations include consideration of factors regarding culture norms, iterative evaluations on HCD practice, use of novelty in mHealth app, and consideration of privacy and reliability across the entire HCD process. Additionally, we suggest a sociotechnical lens toward HCD practices to promote the sustainability of mHealth apps. Future research should consider standardizing the HCD practice to help mHealth researchers and developers avoid barriers associated with inadequate HCD practices.

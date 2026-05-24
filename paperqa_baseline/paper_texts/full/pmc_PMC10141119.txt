@@ -1,0 +1,9 @@
+Title: Celecoxib, a Non-Steroidal Anti-Inflammatory Drug, Exerts a Toxic Effect on Human Melanoma Cells Grown as 2D and 3D Cell Cultures
+Authors: Alessandro Venuta, Rosarita Nasso, Armando Gisonna, Roberta Iuliano, Sara Montesarchio, Vittoria Acampora, Leandra Sepe, Angelica Avagliano, Rosaria Arcone, Alessandro Arcucci, Maria Rosaria Ruocco
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13041067
+Paper ID: pmc_PMC10141119
+
+Abstract:
+Cutaneous melanoma (CM) remains one of the leading causes of tumor mortality due to its high metastatic spread. CM growth is influenced by inflammation regulated by prostaglandins (PGs) whose synthesis is catalyzed by cyclooxygenases (COXs). COX inhibitors, including non-steroidal anti-inflammatory drugs (NSAIDs), can inhibit tumor development and growth. In particular, in vitro experiments have shown that celecoxib, a NSAID, inhibits the growth of some tumor cell lines. However, two-dimensional (2D) cell cultures, used in traditional in vitro anticancer assays, often show poor efficacy due to a lack of an in vivo like cellular environment. Three-dimensional (3D) cell cultures, such as spheroids, are better models because they can mimic the common features displayed by human solid tumors. Hence, in this study, we evaluated the anti-neoplastic potential of celecoxib, in both 2D and 3D cell cultures of A2058 and SAN melanoma cell lines. In particular, celecoxib reduced the cell viability and migratory capability and triggered the apoptosis of melanoma cells grown as 2D cultures. When celecoxib was tested on 3D melanoma cell cultures, the drug exerted an inhibitory effect on cell outgrowth from spheroids and reduced the invasiveness of melanoma cell spheroids into the hydrogel matrix. This work suggests that celecoxib could represent a new potential therapeutic approach in melanoma therapy.

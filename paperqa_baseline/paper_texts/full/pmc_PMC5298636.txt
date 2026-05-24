@@ -1,0 +1,9 @@
+Title: Integration of Curved D-Type Optical Fiber Sensor with Microfluidic Chip
+Authors: Yung-Shin Sun, Chang-Jyun Li, Jin-Cherng Hsu
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010063
+Paper ID: pmc_PMC5298636
+
+Abstract:
+A curved D-type optical fiber sensor (OFS) combined with a microfluidic chip is proposed. This OFS, based on surface plasmon resonance (SPR) of the Kretchmann’s configuration, is applied as a biosensor to measure the concentrations of different bio-liquids such as ethanol, methanol, and glucose solutions. The SPR phenomenon is attained by using the optical fiber to guide the light source to reach the side-polished, gold-coated region. Integrating this OFS with a polymethylmethacrylate (PMMA)-based microfluidic chip, the SPR spectra for liquids with different refractive indices are recorded. Experimentally, the sensitivity of the current biosensor was calculated to be in the order of 10 −5 RIU. This microfluidic chip-integrated OFS could be valuable for monitoring subtle changes in biological samples such as blood sugar, allergen, and biomolecular interactions.

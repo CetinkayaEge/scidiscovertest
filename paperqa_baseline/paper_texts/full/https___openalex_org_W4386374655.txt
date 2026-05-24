@@ -1,0 +1,9 @@
+Title: Sustainable Hydrogen Production: A Decision-Making Approach Using VIKOR and Intuitionistic Hypersoft Sets
+Authors: Muhammad Saqlain
+Year: 2023
+Venue: Journal of Intelligent Management Decision
+DOI: https://doi.org/10.56578/jimd020303
+Paper ID: https://openalex.org/W4386374655
+
+Abstract:
+In decision-making scenarios, challenges often arise from closely knitted criteria or inherent uncertainties. Such uncertainties prominently pervade the realm of sustainable energy, particularly concerning hydrogen generation systems. A critical need is identified to elucidate the efficiency, costs, and environmental implications of these technologies as a shift towards a low-carbon economy is pursued. In this study, the interdependencies among decision-making variables were examined, revealing their collective influence and correlations. By utilizing the framework of Intuitionistic Hypersoft Sets (IHSSs), uncertainties were addressed, multi-criteria decision-making (MCDM) was harnessed, technological selection was facilitated, resource allocation was optimized, and environmental ramifications were assessed. The primary objective of this research was to decipher the conundrum of choosing among multiple hydrogen production methodologies. Such an approach fosters the adoption of environmentally conducive hydrogen production methods, heralding a shift towards a greener energy future. Notably, further research could probe into methodologies like AHP and TOPSIS in a neutrosophic context, offering tantalizing avenues for exploration.

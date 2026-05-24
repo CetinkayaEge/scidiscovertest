@@ -1,0 +1,9 @@
+Title: Nexus between economic growth, natural resources rents, trade globalization, financial development, and carbon emissions toward environmental sustainability in Uruguay
+Authors: Asif Raihan
+Year: 2023
+Venue: Electronic Journal of Education Social Economics and Technology
+DOI: https://doi.org/10.33122/ejeset.v4i2.102
+Paper ID: https://openalex.org/W4322770033
+
+Abstract:
+There have been variances in environmental quality as the globe continues to become a globalized society, however, research including trade globalization into the environmental policy framework remains inconclusive. Using the Uruguayan time series dataset between 1990 and 2020, this study investigated the impact of economic growth, natural resource rents, trade globalization, and financial development on carbon dioxide (CO2) emissions. Using an Autoregressive Distributed Lag (ARDL) model, this inquiry quantifies short- and long-run dynamics. The results of the ARDL bounds test indicate a long-term relationship between carbon emissions and these variables. Additionally, the ARDL short-and long-run analyses demonstrated a positive and statistically significant effect of economic growth, natural resource rents, and trade globalization on Uruguay's CO2 emissions. However, both the short-run and long-run coefficients of financial development are statistically significant and negative, indicating that financial development has no effect on environmental deterioration in Uruguay. Furthermore, by using Fully Modified Ordinary Least Squares (FMOLS), Dynamic Ordinary Least Squares (DOLS), and Canonical Cointegration Regression (CCR), the findings were confirmed. Based on the findings of this study, it is recommended that international trade regulations be reevaluated and export limitations for goods with high levels of pollution are strengthened.

@@ -1,0 +1,9 @@
+Title: Application of data fusion modeling for the prediction of auxin response elements in Zea mays for food security purposes
+Authors: Nesrine Sghaier, Rayda Ben Ayed, Ahmed Rebai
+Year: 2022
+Venue: Genomics & Informatics
+DOI: 10.5808/gi.22056
+Paper ID: pmc_PMC9847374
+
+Abstract:
+Food security will be affected by climate change worldwide, particularly in the developing world, where the most important food products originate from plants. Plants are often exposed to environmental stresses that may affect their growth, development, yield, and food quality. Auxin is a hormone that plays a critical role in improving plants’ tolerance of environmental conditions. Auxin controls the expression of many stress-responsive genes in plants by interacting with specific cis-regulatory elements called auxin-responsive elements (AuxREs). In this work, we performed an in silico prediction of AuxREs in promoters of five auxin-responsive genes in Zea mays . We applied a data fusion approach based on the combined use of Dempster-Shafer evidence theory and fuzzy sets. Auxin has a direct impact on cell membrane proteins. The short-term auxin response may be represented by the regulation of transmembrane gene expression. The detection of an AuxRE in the promoter of prolyl oligopeptidase (POP) in Z. mays and the 3-fold overexpression of this gene under auxin treatment for 30 min indicated the role of POP in maize auxin response. POP is regulated by auxin to perform stress adaptation. In addition, the detection of two AuxRE TGTCTC motifs in the upstream sequence of the bx1 gene suggests that bx1 can be regulated by auxin. Auxin may also be involved in the regulation of dehydration-responsive element-binding and some members of the protein kinase superfamily.

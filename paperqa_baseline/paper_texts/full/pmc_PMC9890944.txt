@@ -1,0 +1,9 @@
+Title: Self-lubrication and tribological properties of polymer composites containing lubricant
+Authors: Sung-Jun Lee, Gang-Min Kim, Chang-Lae Kim
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra08262d
+Paper ID: pmc_PMC9890944
+
+Abstract:
+The purpose of this study was to improve the tribological properties of polydimethylsiloxane (PDMS) by mixing lubricants into it. The chemical composition, physical/chemical bonding state, and mechanical properties of the PDMS/lubricant composites (PLCs), prepared by mixing PDMS and lubricants at different ratios, were analyzed. With increasing lubricant content, the friction coefficient initially decreased, reaching a minimum value at a PDMS/lubricant ratio of 100 : 10; however, it gradually increased with a further increase in the lubricant content. The mechanical properties of PLCs with lubricant contents of 10% and higher decreased owing to the lubricant addition, so that the contact area with the sliding counter tip increased with lubricant content, but the frictional resistance was still decreased owing to the self-lubricating effect. In addition, owing to the effect of the lubricating film, there was no direct contact between the PLC surface and counter tip, and almost no damage was done to the PLC surface. Finite element analysis of the changes in stress during indentation and sliding confirmed that the stress applied to the PLCs was lower than that for bare PDMS. The purpose of this study was to improve the tribological properties of polydimethylsiloxane (PDMS) by mixing lubricants into it.

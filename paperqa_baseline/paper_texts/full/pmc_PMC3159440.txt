@@ -1,0 +1,9 @@
+Title: MicroRNA-192 targeting retinoblastoma 1 inhibits cell proliferation and induces cell apoptosis in lung cancer cells
+Authors: Shipeng Feng, Shujie Cong, Xin Zhang, Xichen Bao, Wei Wang, Huiping Li, Zhe Wang, Guoxin Wang, Jianzhen Xu, Bowen Du, Dezhong Qu, Wei Xiong, Menghui Yin, Xiaoshuai Ren, Feifei Wang, Jianxing He, Biliang Zhang
+Year: 2011
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkr232
+Paper ID: pmc_PMC3159440
+
+Abstract:
+microRNAs play an important roles in cell growth, differentiation, proliferation and apoptosis. They can function either as tumor suppressors or oncogenes. We found that the overexpression of miR-192 inhibited cell proliferation in A549, H460 and 95D cells, and inhibited tumorigenesis in a nude mouse model. Both caspase-7 and the PARP protein were activated by the overexpression of miR-192, thus suggesting that miR-192 induces cell apoptosis through the caspase pathway. Further studies showed that retinoblastoma 1 (RB1) is a direct target of miR-192. Over-expression of miR-192 decreased RB1 mRNA and protein levels and repressed RB1-3′-UTR reporter activity. Knockdown of RB1 using siRNA resulted in a similar cell morphology as that observed for overexpression of miR-192. Additionally, RB1-siRNA treatment inhibited cell proliferation and induced cell apoptosis in lung cancer cells. Analysis of miRNA expression in clinical samples showed that miR-192 is significantly downregulated in lung cancer tissues compared to adjacent non-cancerous lung tissues. In conclusion, our results demonstrate that miR-192 is a tumor suppressor that can target the RB1 gene to inhibit cell proliferation and induce cell apoptosis in lung cancer cells. Furthermore, miR-192 was expressed at low levels in lung cancer samples, indicating that it might be a promising therapeutic target for lung cancer treatment.

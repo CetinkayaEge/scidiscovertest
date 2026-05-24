@@ -1,0 +1,9 @@
+Title: Spot Detection for Laser Sensors Based on Annular Convolution Filtering
+Authors: Lingjiang Li, Maolin Li, Weijun Sun, Zhenni Li, Zuyuan Yang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083891
+Paper ID: pmc_PMC10142110
+
+Abstract:
+Spot detection has attracted continuous attention for laser sensors with applications in communication, measurement, etc. The existing methods often directly perform binarization processing on the original spot image. They suffer from the interference of the background light. To reduce this kind of interference, we propose a novel method called annular convolution filtering (ACF). In our method, the region of interest (ROI) in the spot image is first searched by using the statistical properties of pixels. Then, the annular convolution strip is constructed based on the energy attenuation property of the laser and the convolution operation is performed in the ROI of the spot image. Finally, a feature similarity index is designed to estimate the parameters of the laser spot. Experiments on three datasets with different kinds of background light show the advantages of our ACF method, with comparison to the theoretical method based on international standard, the practical method used in the market products, and the recent benchmark methods AAMED and ALS.

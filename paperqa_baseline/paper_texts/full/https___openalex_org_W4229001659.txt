@@ -1,0 +1,9 @@
+Title: Intermittent PI3Kδ inhibition sustains anti-tumour immunity and curbs irAEs
+Authors: Simon Eschweiler, Ciro Ramírez-Suástegui, Yingcong Li, Emma V. King, Lindsey Chudley, Jaya Thomas, Oliver Wood, Adrian von Witzleben, D. Lifson Jeffrey, Katy J. McCann, Hayley Simon, Monalisa Mondal, Alice Wang, Martina Dicker, Elena Lopez-Guadamillas, Ting-Fang Chou, Nicola Dobbs, Louisa Essame, Gary D Acton, Fiona Kelly, Gavin Halbert, Joseph J. Sacco, Andrew Schache, Richard Shaw, James McCaul, Claire Paterson, Joseph H. Davies, Peter A. Brennan, Rabindra Prasad Singh, Paul M. Loadman, William Wilson, Allan Hackshaw, Grégory Seumois, Klaus Okkenhaug, Gareth J. Thomas, Terry M. Jones, Ferhat Ay, Greg Friberg, Mitchell Kronenberg, Bart Vanhaesebroeck, Pandurangan Vijayanand, Christian H. Ottensmeier
+Year: 2022
+Venue: Nature
+DOI: https://doi.org/10.1038/s41586-022-04685-2
+Paper ID: https://openalex.org/W4229001659
+
+Abstract:
+17) cells, which probably contributed to toxicity; this points towards a specific mode of action for the emergence of irAEs. A modified treatment regimen with intermittent dosing of PI3Kδi in mouse models led to a significant decrease in tumour growth without inducing pathogenic T cells in colonic tissue, indicating that alternative dosing regimens might limit toxicity.

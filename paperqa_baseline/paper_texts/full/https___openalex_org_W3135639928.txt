@@ -1,0 +1,9 @@
+Title: Can Copper Nanostructures Sustain High-Quality Plasmons?
+Authors: Vahagn Mkhitaryan, Katia March, Eric Néstor Tseng, Xiaoyan Li, Leonardo Scarabelli, Luis M. Liz‐Marzán, Shih‐Yun Chen, Luiz H. G. Tizei, Odile Stéphan, Jenn‐Ming Song, Mathieu Kociak, F. Javier Garcı́a de Abajo, Alexandre Gloter
+Year: 2021
+Venue: Nano Letters
+DOI: https://doi.org/10.1021/acs.nanolett.0c04667
+Paper ID: https://openalex.org/W3135639928
+
+Abstract:
+Silver, king among plasmonic materials, features low inelastic absorption in the visible-infrared (vis-IR) spectral region compared to other metals. In contrast, copper is commonly regarded as too lossy for actual applications. Here, we demonstrate vis-IR plasmons with quality factors >60 in long copper nanowires (NWs), as determined by electron energy-loss spectroscopy. We explain this result by noticing that most of the electromagnetic energy in these plasmons lies outside the metal, thus becoming less sensitive to inelastic absorption. Measurements for silver and copper NWs of different diameters allow us to elucidate the relative importance of radiative and nonradiative losses in plasmons spanning a wide spectral range down to <20 meV. Thermal population of such low-energy modes becomes significant and generates electron energy gains associated with plasmon absorption, rendering an experimental determination of the NW temperature. Copper is therefore emerging as an attractive, cheap, abundant material platform for high-quality plasmonics in elongated nanostructures.

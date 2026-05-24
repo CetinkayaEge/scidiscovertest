@@ -1,0 +1,9 @@
+Title: Are Sustainable Companies More Likely to Default? Evidence from the Dynamics between Credit and ESG Ratings
+Authors: Aydin Aslan, Lars Poppe, Peter N. Posch
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158568
+Paper ID: https://openalex.org/W3192184657
+
+Abstract:
+We investigate the relationship between environmental, social and governance (ESG) performance and the probability of corporate credit default. By using a sample of 902 publicly-listed firms in the US from 2002 to 2017 and by converting Standard &amp; Poor’s credit ratings into default probabilities from rating transition matrices, we find the probability of corporate credit default to be significantly lower for firms with high ESG performance. Furthermore, by expanding the time window in our regression analysis, we observe that the influence of ESG and its constituents strongly varies over time. We argue that these dynamics may be due to financial and regulatory shocks. In a sector decomposition, we additionally find that the energy sector is most influenced by ESG regarding the probability of corporate credit default. We expect an increasing availability of ESG data in the future to reduce possible survivorship bias and to enhance the comparison between ESG-rated and non-ESG-rated firms.

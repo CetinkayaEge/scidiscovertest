@@ -1,0 +1,9 @@
+Title: On the transparency of large AI models
+Authors: Wanying Wang, Ge Wang, Vukosi Marivate, Andrew L. Hufton
+Year: 2023
+Venue: Patterns
+DOI: 10.1016/j.patter.2023.100797
+Paper ID: pmc_PMC10382960
+
+Abstract:
+Scientists using or developing large AI models face special challenges when trying to publish their work in an open and reproducible manner. In this editorial, our journal shares some tips to help researchers in this field understand our current policies and prepare submissions that are as transparent as possible.

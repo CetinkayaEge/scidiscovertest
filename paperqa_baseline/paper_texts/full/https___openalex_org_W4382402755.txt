@@ -1,0 +1,9 @@
+Title: Bioleaching Techniques for Sustainable Recovery of Metals from Solid Matrices
+Authors: Leidy Rendón-Castrillón, Margarita Ramírez-Carmona, Carlos Ocampo-López, Luis Gómez-Arroyave
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151310222
+Paper ID: https://openalex.org/W4382402755
+
+Abstract:
+This review paper explores the potential of bioleaching as a sustainable alternative for recovering metals from solid matrices. With over 12 billion tons of solid waste annually worldwide, bioleaching provides a promising opportunity to extract metals from solid waste, avoiding harmful chemical processes. It explains bacterial and fungal bioleaching techniques that extract copper, gold, zinc, and other metals from solid matrices. Fungal bioleaching effectively extracts a wide range of valuable metals, including nickel, vanadium, aluminium, molybdenum, cobalt, iron, manganese, silver, platinum, and palladium. The review highlights different solid matrices with metal contents that have the potential to be recovered by bioleaching, presenting promising bioprocess alternatives to current industrially available technologies for metal recovery. The optimal conditions for bioleaching, including pH, temperature, agitation–aeration, and pulp density are also discussed. The review shows that bioleaching has the potential to play a crucial role in the transition to a more sustainable and circular economy by providing an efficient, cost-effective, and environmentally friendly method for metal recovery from solid matrices.

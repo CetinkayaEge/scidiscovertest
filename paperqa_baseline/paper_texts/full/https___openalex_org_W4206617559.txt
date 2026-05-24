@@ -1,0 +1,9 @@
+Title: Deep Learning and Earth Observation to Support the Sustainable Development Goals: Current approaches, open challenges, and future opportunities
+Authors: Claudio Persello, Jan Dirk Wegner, Ronny Hänsch, Devis Tuia, Pedram Ghamisi, Mila Koeva, Gustau Camps‐Valls
+Year: 2022
+Venue: IEEE Geoscience and Remote Sensing Magazine
+DOI: https://doi.org/10.1109/mgrs.2021.3136100
+Paper ID: https://openalex.org/W4206617559
+
+Abstract:
+The synergistic combination of deep learning (DL) models and Earth observation (EO) promises significant advances to support the Sustainable Development Goals (SDGs). New developments and a plethora of applications are already changing the way humanity will face the challenges of our planet. This article reviews current DL approaches for EO data, along with their applications toward monitoring and achieving the SDGs most impacted by the rapid development of DL in EO. We systematically review case studies to achieve zero hunger, create sustainable cities, deliver tenure security, mitigate and adapt to climate change, and preserve biodiversity. Important societal, economic, and environmental implications are covered. Exciting times are coming when algorithms and Earth data can help in our endeavor to address the climate crisis and support more sustainable development.

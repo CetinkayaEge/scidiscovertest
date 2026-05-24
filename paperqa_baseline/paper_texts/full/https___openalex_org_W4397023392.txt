@@ -1,0 +1,9 @@
+Title: Sustained-release drug delivery systems
+Authors: Rachel Williams, Helen Cauldbeck, Victoria Kearns
+Year: 2024
+Venue: Eye
+DOI: https://doi.org/10.1038/s41433-024-03134-w
+Paper ID: https://openalex.org/W4397023392
+
+Abstract:
+The design and development of a sustained-release drug delivery system targeting the administration of active pharmaceutical ingredients (APIs) to the eye could overcome the limitations of topically administered eye drops. Understanding how to modify or design new materials with specific functional properties that promote the attachment and release of specific drugs over longer time periods, alongside understanding clinical needs, can lead to new strategic opportunities to improve treatment options. In this paper we discuss two approaches to the design or modification of materials to produce a sustained therapeutic effect. Firstly, we discuss how the synthesis of a peptide hydrogel from a naturally-derived antimicrobial material led to the design of a bandage contact lens which may be able to be used prophylactically to reduce post-surgery infection. Secondly, we discuss how silicone oil tamponade agents used to treat retinal detachments can have adjunctive behaviour to enhance the solubility of the anti-proliferative drug retinoic acid and produce a sustained release over several weeks. These studies are the result of close partnerships between clinical ophthalmologists, materials scientists, and chemists, and illustrate how these partnerships can lead to comprehensive understandings that have the potential to change patient outcomes.

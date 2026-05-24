@@ -1,0 +1,9 @@
+Title: Validation of Dietary Intake Estimated by Web-Based Dietary Assessment Methods and Usability Using Dietary Records or 24-h Dietary Recalls: A Scoping Review
+Authors: Utako Murai, Ryoko Tajima, Mai Matsumoto, Yoko Sato, Saki Horie, Aya Fujiwara, Emiko Koshida, Emiko Okada, Tomoko Sumikura, Tetsuji Yokoyama, Midori Ishikawa, Kayo Kurotani, Hidemi Takimoto
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15081816
+Paper ID: pmc_PMC10141001
+
+Abstract:
+The goal was to summarize studies comparing the accuracy of web-based dietary assessments with those of conventional face-to-face or paper-based assessments using 24-h dietary recall or dietary record methods in the general population. Using two databases, mean differences and correlation coefficients (CCs) for intakes of energy, macronutrients, sodium, vegetables, and fruits were extracted from each study independently by the authors. We also collected information regarding usability from articles reporting this. From 17 articles included in this review, the mean dietary intake differences in the web-based dietary assessment compared to conventional methods, were −11.5–16.1% for energy, −12.1–14.9% for protein, −16.7–17.6% for fat, −10.8–8.0% for carbohydrates, −11.2–9.6% for sodium, −27.4–3.9% for vegetables, and −5.1–47.6% for fruits. The CC was 0.17–0.88 for energy, protein, fat, carbohydrates, and sodium, and 0.23–0.85 for vegetables and fruits. In three out of four studies reporting usability, more than half of the participants preferred the web-based dietary assessment. In conclusion, % difference and CC of dietary intake were acceptable in both web-based dietary records and 24-h dietary recalls. The findings from this review highlight the possibility of wide-spread application of the web-based dietary assessment in the future.

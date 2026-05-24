@@ -1,0 +1,9 @@
+Title: A Comparative Study on the Effects of Spray Coating Methods and Substrates on Polyurethane/Carbon Nanofiber Sensors
+Authors: Mounika Chowdary Karlapudi, Mostafa Vahdani, Sheyda Mirjalali Bandari, Shuhua Peng, Shuying Wu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063245
+Paper ID: pmc_PMC10054467
+
+Abstract:
+Thermoplastic polyurethane (TPU) has been widely used as the elastic polymer substrate to be combined with conductive nanomaterials to develop stretchable strain sensors for a variety of applications such as health monitoring, smart robotics, and e-skins. However, little research has been reported on the effects of deposition methods and the form of TPU on their sensing performance. This study intends to design and fabricate a durable, stretchable sensor based on composites of thermoplastic polyurethane and carbon nanofibers (CNFs) by systematically investigating the influences of TPU substrates (i.e., either electrospun nanofibers or solid thin film) and spray coating methods (i.e., either air-spray or electro-spray). It is found that the sensors with electro-sprayed CNFs conductive sensing layers generally show a higher sensitivity, while the influence of the substrate is not significant and there is no clear and consistent trend. The sensor composed of a TPU solid thin film with electro-sprayed CNFs exhibits an optimal performance with a high sensitivity (gauge factor ~28.2) in a strain range of 0–80%, a high stretchability of up to 184%, and excellent durability. The potential application of these sensors in detecting body motions has been demonstrated, including finger and wrist-joint movements, by using a wooden hand.

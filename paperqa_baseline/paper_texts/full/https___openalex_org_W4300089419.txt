@@ -1,0 +1,9 @@
+Title: Engineering Yarrowia lipolytica for the sustainable production of β-farnesene from waste oil feedstock
+Authors: Yinghang Liu, Jin Zhang, Qingbin Li, Zhaoxuan Wang, Zhiyong Cui, Tianyuan Su, Xuemei Lu, Qingsheng Qi, Jin Hou
+Year: 2022
+Venue: Biotechnology for Biofuels and Bioproducts
+DOI: https://doi.org/10.1186/s13068-022-02201-2
+Paper ID: https://openalex.org/W4300089419
+
+Abstract:
+BACKGROUND: β-Farnesene is a sesquiterpene with versatile industrial applications. The production of β-farnesene from waste lipid feedstock is an attractive method for sustainable production and recycling waste oil. Yarrowia lipolytica is an unconventional oleaginous yeast, which can use lipid feedstock and has great potential to synthesize acetyl-CoA-derived chemicals. RESULTS: In this study, we engineered Y. lipolytica to produce β-farnesene from lipid feedstock. To direct the flux of acetyl-CoA, which is generated from lipid β-oxidation, to β-farnesene synthesis, the mevalonate synthesis pathway was compartmentalized into peroxisomes. β-Farnesene production was then engineered by the protein engineering of β-farnesene synthase and pathway engineering. The regulation of lipid metabolism by enhancing β-oxidation and eliminating intracellular lipid synthesis was further performed to improve the β-farnesene synthesis. As a result, the final β-farnesene production with bio-engineering reached 35.2 g/L and 31.9 g/L using oleic acid and waste cooking oil, respectively, which are the highest β-farnesene titers reported in Y. lipolytica. CONCLUSIONS: This study demonstrates that engineered Y. lipolytica could realize the sustainable production of value-added acetyl-CoA-derived chemicals from waste lipid feedstock.

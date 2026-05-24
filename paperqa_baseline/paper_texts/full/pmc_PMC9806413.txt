@@ -1,0 +1,9 @@
+Title: Biomaterials delivery strategies to repair spinal cord injury by modulating macrophage phenotypes
+Authors: Yuanliang Xia, Ruohan Yang, Hengyi Wang, Yulin Hou, Yuehong Li, Jianshu Zhu, Feng Xu, Changfeng Fu
+Year: 2022
+Venue: Journal of Tissue Engineering
+DOI: 10.1177/20417314221143059
+Paper ID: pmc_PMC9806413
+
+Abstract:
+Spinal cord injury (SCI) causes tremendous harm to a patient’s physical, mental, and financial health. Moreover, recovery of SCI is affected by many factors, inflammation is one of the most important as it engulfs necrotic tissue and cells during the early stages of injury. However, excessive inflammation is not conducive to damage repair. Macrophages are classified into either blood-derived macrophages or resident microglia based on their origin, their effects on SCI being two-sided. Microglia first activate and recruit blood-derived macrophages at the site of injury—blood-borne macrophages being divided into pro-inflammatory M1 phenotypes and anti-inflammatory M2 phenotypes. Among them, M1 macrophages secrete inflammatory factors such as interleukin-β (IL-β), tumor necrosis factor-α (TNF-α), IL-6, and interferon-γ (IFN-γ) at the injury site, which aggravates SCIs. M2 macrophages secrete IL-4, IL-10, IL-13, and neurotrophic factors to inhibit the inflammatory response and inhibit neuronal apoptosis. Consequently, modulating phenotypic differentiation of macrophages appears to be a meaningful therapeutic target for the treatment of SCI. Biomaterials are widely used in regenerative medicine and tissue engineering due to their targeting and bio-histocompatibility. In this review, we describe the effects of biomaterials applied to modulate macrophage phenotypes on SCI recovery and provide an outlook.

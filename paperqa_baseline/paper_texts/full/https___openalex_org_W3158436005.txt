@@ -1,0 +1,9 @@
+Title: Experimental investigation of gabion inclined drops as a sustainable solution for hydraulic energy loss
+Authors: Rasoul Daneshfaraz, Mohammad Bagherzadeh, Amir Ghaderi, Silvia Di Francesco, Mahdi Majedi Asl
+Year: 2021
+Venue: Ain Shams Engineering Journal
+DOI: https://doi.org/10.1016/j.asej.2021.03.013
+Paper ID: https://openalex.org/W3158436005
+
+Abstract:
+Gabions are structures that control the erosion and scouring whilst provide an eco-friendly and sustainable solution, used also for energy loss. Despite a wide range of previous studies, different hydraulic aspects of gabions have not yet been understood well. In that sense, this study investigates the behavior of hydraulic parameters of solid and gabion inclined drops. The results indicated that with increasing the relative critical depth in both types, the relative energy loss reduces. A comparison between solid and gabion inclined drops showed that the relative energy loss and downstream relative depth increases by 82% and 50%, respectively. In all cases, downstream Froude number of the gabion inclined drop range is reduced from 4.17–8.52 to 1.28–2.64. Finally, equations to estimate main hydraulic parameters due to the use of gabion inclined drops and proper discussions about their effect on the sustainability of water infrastructures are presented.

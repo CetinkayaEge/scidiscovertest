@@ -1,0 +1,9 @@
+Title: Sustainability in Healthcare: Methods and Tools for the Assessment
+Authors: Anna Savoldelli, Daniele Landi, Caterina Rizzi
+Year: 2023
+Venue: Studies in health technology and informatics
+DOI: https://doi.org/10.3233/shti230037
+Paper ID: https://openalex.org/W4376118009
+
+Abstract:
+BACKGROUND: Healthcare sector has a significant impact on the environment and people well-being. Therefore, it is interesting to understand how healthcare contributes to sustainable development. OBJECTIVE: The study aims to perform a literature review on the methodologies applied to quantify environmental impact in healthcare with an attention to telemedicine activities. METHODS: Scopus and PubMed databases were investigated between 2018 and 2022. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) frameworks was followed for article selection. RESULTS: From initial 183 articles, 50 full-studies were included. Life-cycle assessment method proved to be a standard for assessing the impact of devices used in clinical practice. Indeed, for the investigation of care activities a unique methodology was not defined. The assessment of telemedicine is mainly based on avoided travels, and a standard methodology is still missing. CONCLUSIONS: To move toward a sustainable development other aspects of sustainability should be investigated.

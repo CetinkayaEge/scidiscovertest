@@ -1,0 +1,9 @@
+Title: An Adaptive Hybrid Sampling Method for Free-Form Surfaces Based on Geodesic Distance
+Authors: Chen Chen, Huakun Jia, Yang Lu, Xiaodong Zhang, Haohan Chen, Liandong Yu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063224
+Paper ID: pmc_PMC10054548
+
+Abstract:
+High precision geometric measurement of free-form surfaces has become the key to high-performance manufacturing in the manufacturing industry. By designing a reasonable sampling plan, the economic measurement of free-form surfaces can be realized. This paper proposes an adaptive hybrid sampling method for free-form surfaces based on geodesic distance. The free-form surfaces are divided into segments, and the sum of the geodesic distance of each surface segment is taken as the global fluctuation index of free-form surfaces. The number and location of the sampling points for each free-form surface segment are reasonably distributed. Compared with the common methods, this method can significantly reduce the reconstruction error under the same sampling points. This method overcomes the shortcomings of the current commonly used method of taking curvature as the local fluctuation index of free-form surfaces, and provides a new perspective for the adaptive sampling of free-form surfaces.

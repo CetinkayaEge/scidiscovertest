@@ -1,0 +1,9 @@
+Title: Enhancing Microservices Security with Token-Based Access Control Method
+Authors: Algimantas Venčkauskas, Donatas Kukta, Šarūnas Grigaliūnas, Rasa Brūzgienė
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063363
+Paper ID: pmc_PMC10052058
+
+Abstract:
+Microservices are compact, independent services that work together with other microservices to support a single application function. Organizations may quickly deliver high-quality applications using the effective design pattern of the application function. Microservices allow for the alteration of one service in an application without affecting the other services. Containers and serverless functions, two cloud-native technologies, are frequently used to create microservices applications. A distributed, multi-component program has a number of advantages, but it also introduces new security risks that are not present in more conventional monolithic applications. The objective is to propose a method for access control that ensures the enhanced security of microservices. The proposed method was experimentally tested and validated in comparison to the centralized and decentralized architectures of the microservices. The obtained results showed that the proposed method enhanced the security of decentralized microservices by distributing the access control responsibility across multiple microservices within the external authentication and internal authorization processes. This allows for easy management of permissions between microservices and can help prevent unauthorized access to sensitive data and resources, as well as reduce the risk of attacks on microservices.

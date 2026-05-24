@@ -1,0 +1,9 @@
+Title: The in vivo measurement of replication fork velocity and pausing by lag-time analysis
+Authors: Dean Huang, Anna E. Johnson, Brandon S. Sim, Teresa W. Lo, Houra Merrikh, Paul A. Wiggins
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-37456-2
+Paper ID: pmc_PMC10063678
+
+Abstract:
+An important step towards understanding the mechanistic basis of the central dogma is the quantitative characterization of the dynamics of nucleic-acid-bound molecular motors in the context of the living cell. To capture these dynamics, we develop lag-time analysis, a method for measuring in vivo dynamics. Using this approach, we provide quantitative locus-specific measurements of fork velocity, in units of kilobases per second, as well as replisome pause durations, some with the precision of seconds. The measured fork velocity is observed to be both locus and time dependent, even in wild-type cells. In this work, we quantitatively characterize known phenomena, detect brief, locus-specific pauses at ribosomal DNA loci in wild-type cells, and observe temporal fork velocity oscillations in three highly-divergent bacterial species. Lag-time analysis was developed to measure in vivo replisome dynamics. Observed dynamics are both locus and cell-cycle dependent: Pauses of seconds are observed at wild-type ribosomal DNA loci, as well as temporal fork velocity oscillations.

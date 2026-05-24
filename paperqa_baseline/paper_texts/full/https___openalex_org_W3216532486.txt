@@ -1,0 +1,9 @@
+Title: LSD1 inhibition sustains T cell invigoration with a durable response to PD-1 blockade
+Authors: Yi Liu, Brian Debo, Mingfeng Li, Zhennan Shi, Wanqiang Sheng, Yang Shi
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-27179-7
+Paper ID: https://openalex.org/W3216532486
+
+Abstract:
+T cells, which provide a sustained source for the proliferative conversion to numerically larger terminally exhausted T cells with tumor-killing cytotoxicity, thereby leading to effective and durable responses to anti-PD1 therapy. Collectively, our findings provide important insights into epigenetic mechanisms that regulate T cell exhaustion and have important implications for durable immunotherapy.

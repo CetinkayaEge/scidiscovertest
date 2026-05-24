@@ -1,0 +1,9 @@
+Title: Towards a prioritization of alternative energy sources for sustainable shipping
+Authors: Ziaul Haque Munim, Mohammed Mojahid Hossain Chowdhury, Hasan Mahbub Tusher, Theo Notteboom
+Year: 2023
+Venue: Marine Policy
+DOI: https://doi.org/10.1016/j.marpol.2023.105579
+Paper ID: https://openalex.org/W4362510572
+
+Abstract:
+Studies on the prospects of the use of alternative fuels in the maritime industry have rarely been assessed in the context of developing countries. This study assesses seven energy sources for shipping in the context of Bangladesh with a view to ranking their prospects based on sustainability as well as identifying the energy transition criteria. Data were collected from maritime industry experts, including seafarers, shipping company executives, government representatives, and academics. The Bayesian Best-Worst Method (BWM) was used for ranking nine criteria related to the suitability and viability of the considered alternative energy sources. Next, the PROMETHEE-GAIA method is applied for priority analysis of the seven energy alternatives. The findings reveal that capital cost, alternative energy price, and safety are the most important factors for alternative energy transition in Bangladesh. Apart from the benchmark HFO, Liquified Natural Gas (LNG), HFO-Wind, and LNG-Wind hybrids are considered the most viable alternatives. The findings of the study can guide policymakers in Bangladesh in terms of promoting viable energy sources for sustainable shipping.

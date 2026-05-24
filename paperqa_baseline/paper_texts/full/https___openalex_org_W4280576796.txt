@@ -1,0 +1,9 @@
+Title: A Theory for Self-Sustained Multicentennial Oscillation of the Atlantic Meridional Overturning Circulation
+Authors: Yang Li, Haijun Yang
+Year: 2022
+Venue: Journal of Climate
+DOI: https://doi.org/10.1175/jcli-d-21-0685.1
+Paper ID: https://openalex.org/W4280576796
+
+Abstract:
+Abstract In this work, a single-hemisphere 4-box model is used to study the low-frequency variability of the Atlantic meridional overturning circulation (AMOC). We introduce an enhanced mixing mechanism in the subpolar ocean to balance the positive salinity advection feedback, so that the AMOC in the 4-box model exhibits a self-sustained multicentennial oscillation. The enhanced mixing mechanism is proposed based on results from a coupled climate model, which show that the eddy-induced mixing or diffusion in the subpolar ocean is always enhanced when the AMOC anomaly is large; namely, the enhancement is due to weak stratification when the AMOC is strong, and is due to mesoscale and submesoscale eddies when the AMOC is weak. Without the enhanced mixing, the 4-box model system can be either stable or unstable, but cannot realize a self-sustained stable oscillation. With the enhanced mixing, the 4-box model can be interpreted approximately as a reduced 3-box model, so that the theoretical solution to the multicentennial oscillation can be obtained. The oscillation period is determined by the eigenvalue of the system, which is fundamentally controlled by the turnover time of the upper ocean. We also illustrate that the multicentennial oscillation can be excited by stochastic freshwater forcing. This study suggests that the Atlantic Ocean has an intrinsic multicentennial mode, which may help us understand this class of variability identified in paleoclimatic proxy data.

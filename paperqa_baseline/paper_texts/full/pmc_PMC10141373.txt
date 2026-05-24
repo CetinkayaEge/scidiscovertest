@@ -1,0 +1,9 @@
+Title: Lignin-Based Catalysts for C–C Bond-Forming Reactions
+Authors: Cristina del Mar García Martín, José Ignacio Hernández García, Sebastián Bonardd, David Díaz Díaz
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083513
+Paper ID: pmc_PMC10141373
+
+Abstract:
+Carbon–carbon (C–C) bond formation is the key reaction in organic synthesis to construct the carbon framework of organic molecules. The continuous shift of science and technology toward eco-friendly and sustainable resources and processes has stimulated the development of catalytic processes for C–C bond formation based on the use of renewable resources. In this context, and among other biopolymer-based materials, lignin has attracted scientific attention in the field of catalysis during the last decade, either through its acid form or as a support for metal ions and metal nanoparticles that drive the catalytic activity. Its heterogeneous nature, as well as its facile preparation and low cost, provide competitive advantages over other homogeneous catalysts. In this review, we have summarized a variety of C–C formation reactions, such as condensations, Michael additions of indoles, and Pd-mediated cross-coupling reactions that were successfully carried out in the presence of lignin-based catalysts. These examples also involve the successful recovery and reuse of the catalyst after the reaction.

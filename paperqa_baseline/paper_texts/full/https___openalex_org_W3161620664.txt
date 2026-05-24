@@ -1,0 +1,9 @@
+Title: Formulation of Sustainable Water-Based Cutting Fluids with Polyol Esters for Machining Titanium Alloys
+Authors: Elisabet Benedicto, Eva María Rubio, Laurent Aubouy, María Ana Sáenz Nuño
+Year: 2021
+Venue: Metals
+DOI: https://doi.org/10.3390/met11050773
+Paper ID: https://openalex.org/W3161620664
+
+Abstract:
+The machinability of titanium alloys still represents a demanding challenge and the development of new clean technologies to lubricate and cool is greatly needed. As a sustainable alternative to mineral oil, esters have shown excellent performance during machining. Herein, the aim of this work is to investigate the influence of esters’ molecular structure in oil-in-water emulsions and their interaction with the surface to form a lubricating film, thus improving the efficiency of the cutting fluid. The lubricity performance and tool wear protection are studied through film formation analysis and the tapping process on Ti6Al4V. The results show that the lubricity performance is improved by increasing the formation of the organic film on the metal surface, which depends on the ester’s molecular structure and its ability to adsorb on the surface against other surface-active compounds. Among the cutting fluids, noteworthy results are obtained using trimethylolpropane trioleate, which increases the lubricating film formation (containing 62% ester), thus improving the lubricity by up to 12% and reducing the torque increase due to tool wear by 26.8%. This work could be very useful for fields where often use difficult-to-machine materials—such as Ti6Al4V or γ-TiAl—which require large amounts of cutting fluids, since the formulation developed will allow the processes to be more efficient and sustainable.

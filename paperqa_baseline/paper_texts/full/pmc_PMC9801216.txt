@@ -1,0 +1,9 @@
+Title: Implementation of an ERAS program in patients undergoing thoracic surgery at a third-level university hospital: an ambispective cohort study
+Authors: Soledad Bellas-Cot.ín, Rub..n Casans-Franc..s, Cristina Ib.í..ez, Ignacio Muguruza, Luis E. Mu..oz-Alameda
+Year: 2023
+Venue: Brazilian Journal of Anesthesiology
+DOI: 10.1016/j.bjane.2021.04.014
+Paper ID: pmc_PMC9801216
+
+Abstract:
+Objective To analyze the effects of an ERAS program on complication rates, readmission, and length of stay in patients undergoing pulmonary resection in a tertiary university hospital. Methods Ambispective cohort study with a prospective arm of 50 patients undergoing thoracic surgery within an ERAS program (ERAS group) versus a retrospective arm of 50 patients undergoing surgery before the protocol was implemented (Standard group). The primary outcome was the number of patients with 30-day surgical complications. Secondary outcomes included ERAS adherence, non-surgical complications, mortality, readmission, reintervention rate, pain, and hospital length of stay. We performed a multivariate logistic analysis to study the correlation between outcomes and ERAS adherence. Results In the univariate analysis, we found no difference between the two groups in terms of surgical complications (Standard 18 [36%] vs. ERAS 12 [24%], p = 0.19). In the ERAS group, only the readmission rate was significantly lower (Standard 15 [30%] vs. ERAS 6 [12%], p = 0.03). In the multivariate analysis, ERAS adherence was the only factor associated with a reduction in surgical complications (OR [95% CI] = 0.02 [0.00, 0.59], p = 0.03) and length of stay (HR [95% CI] = 18.5 [4.39, 78.4], p < 0.001). Conclusions The ERAS program significantly reduced the readmission rate at our hospital. Adherence to the ERAS protocol reduced surgical complications and length of stay.

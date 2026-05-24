@@ -1,0 +1,9 @@
+Title: Joint Clustering and Resource Allocation Optimization in Ultra-Dense Networks with Multiple Drones as Small Cells Using Game Theory †
+Authors: Tinh T. Bui, Long D. Nguyen, Ha Hoang Kha, Nguyen-Son Vo, Trung Q. Duong
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083899
+Paper ID: pmc_PMC10140860
+
+Abstract:
+In this study, we consider the combination of clustering and resource allocation based on game theory in ultra-dense networks that consist of multiple macrocells using massive multiple-input multiple-output and a vast number of randomly distributed drones serving as small-cell base stations. In particular, to mitigate the intercell interference, we propose a coalition game for clustering small cells, with the utility function being the ratio of signal to interference. Then, the optimization problem of resource allocation is divided into two subproblems: subchannel allocation and power allocation. We use the Hungarian method, which is efficient for solving binary optimization problems, to assign the subchannels to users in each cluster of small cells. Additionally, a centralized algorithm with low computational complexity and a distributed algorithm based on the Stackelberg game are provided to maximize the network energy efficiency (EE). The numerical results demonstrate that the game-based method outperforms the centralized method in terms of execution time in small cells and is better than traditional clustering in terms of EE.

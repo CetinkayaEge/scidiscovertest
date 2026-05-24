@@ -1,0 +1,9 @@
+Title: Prospects for global sustainable development through integrating the environmental impacts of economic activities
+Authors: Siqi Han, Chunding Li, Mengyu Li, Manfred Lenzen, Xiuzhi Chen, Yuqian Zhang, Mo Li, Tuo Yin, Yingjie Li, Juan Li, Jianguo Liu, Yunkai Li
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-52854-w
+Paper ID: https://openalex.org/W4402942837
+
+Abstract:
+Human economic activities drive the production and consumption of goods and services, contribute to the achievement of the United Nations Sustainable Development Goals (SDGs). However, the extent of economic growth's influence on the SDGs remains unclear. To fill this knowledge gap, here, we quantified the environmental effects of economic activities and explored correlations between environmental effect and achieving SDGs. We developed six Environmental Footprint Indices, with a higher score indicating better efficiency or lower burden. Here we show that the various Environmental Footprint Indices had synergistic and trade-off effects on most SDG targets indices, but the synergistic effects prevailed. As income increased, the correlation between Environmental Footprint Indices and SDG target indices gradually strengthened. improved production efficiency and consumption changes notably advance SDGs, especially in low-income group countries. Our work provides scientific insights into the impact and prospects of environmental regulation required for achieving the SDGs by 2030.

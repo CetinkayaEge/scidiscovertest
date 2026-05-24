@@ -1,0 +1,9 @@
+Title: Social Sustainability in Production Planning: A Systematic Literature Review
+Authors: Marco Trost, Thorsten Claus, Frank Herrmann
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14138198
+Paper ID: https://openalex.org/W4284882367
+
+Abstract:
+Sustainable production includes economic, environmental, and social aspects. However, social sustainability has received less attention, especially compared to the economic aspects. Next to technical and organizational measures, social improvements within supply chains can also be achieved through suitable production planning. Within production planning, production programs are determined, and the assignment of available resources (e.g., employees) is specified. Thus, the utilization and workload of employees are defined. This systematic literature review investigates to what extent such employee-related social aspects are reflected in production planning and discusses whether economic aspects dominate them. For this, a Scopus database search was carried out and 76 identified approaches were analyzed and categorized regarding the occurring employee-related social aspects and their implementation. Thus far, the approaches mainly consider single aspects on single planning levels. A consideration of a broad set of aspects along the entire production planning has rarely been studied. In particular, health and safety aspects are considered on the levels of assembly line balancing and job rotation. However, their impact is primarily determined by the specific settings of the decision-maker. To support decision-makers, only a few studies have investigated the effects based on real application scenarios. Further potential might be an extended modeling of social and economic interdependencies and a consideration of employee-related social aspects in medium- to long-term production planning.

@@ -1,0 +1,9 @@
+Title: Bidirectional transcription of Linc00441 and RB1 via H3K27 modification-dependent way promotes hepatocellular carcinoma
+Authors: Junwei Tang, Yu Xie, Xiaoliang Xu, Yin Yin, Runqiu Jiang, Lei Deng, Zhongming Tan, Venkatanarayana Gangarapu, Jinhai Tang, Beicheng Sun
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.81
+Paper ID: pmc_PMC5386573
+
+Abstract:
+The retinoblastoma gene (RB1), a known tumor-suppressor gene (TSG), was decreased in multiple cancers including hepatocellular carcinoma (HCC). Here we focused on the bidirectional transcripted long noncoding RNA (Linc00441) with neighbor gene RB1 to investigate whether Linc00441 is involved in the suppression of RB1 in HCC. We found that aberrant upregulated intranuclear Linc00441 was reversely correlated with RB1 expression in human HCC samples. The gain- and loss-of-function investigation revealed that Linc00441 could promote the proliferation of HCC cells in vitro and in vivo with an apoptosis suppression and cell cycle rearrangement. Furthermore, RNA pull-down assay indicated the decreased level of RB1 induced by Linc00441 was associated with the incidental methylation by DNMT3A recruited by Linc00441. On the contrary, the transcription factor (TCF-4) enhanced H3K27 acetylation and direct transcription factor for Linc00441 was responsible for the upregulation of Linc00441 in HCC. In conclusion, the epigenetic interaction between Linc00441 and bidirectional transcripted neighbor RB1 may be a de novo theory cutting-point for the inactivation of RB1 in HCC and may serve as targeting site for tumor therapy in the future.

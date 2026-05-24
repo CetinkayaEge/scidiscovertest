@@ -1,0 +1,9 @@
+Title: Polycomb condensates can promote epigenetic marks but are not required for sustained chromatin compaction
+Authors: Jorine M. Eeftens, Manya Kapoor, Davide Michieletto, Clifford P. Brangwynne
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-26147-5
+Paper ID: https://openalex.org/W3203089164
+
+Abstract:
+Organization of the genome into transcriptionally active euchromatin and silenced heterochromatin is essential for eukaryotic cell function. Phase-separation has been implicated in heterochromatin formation, but it is unclear how phase-separated condensates can contribute to stable repression, particularly for heritable epigenetic changes. Polycomb complex PRC1 is key for heterochromatin formation, but the multitude of Polycomb proteins has hindered our understanding of their collective contribution to chromatin repression. Here, we show that PRC1 forms multicomponent condensates through hetero-oligomerization. They preferentially seed at H3K27me3 marks, and subsequently write H2AK119Ub marks. We show that inducing Polycomb phase-separation can cause chromatin compaction, but polycomb condensates are dispensable for maintenance of the compacted state. Our data and simulations are consistent with a model in which the time integral of Polycomb phase-separation is progressively recorded in repressive histone marks, which subsequently drive compaction. These findings link the equilibrium thermodynamics of phase-separation with the fundamentally non-equilibrium concept of epigenetic memory.

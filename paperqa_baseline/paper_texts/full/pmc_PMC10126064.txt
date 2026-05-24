@@ -1,0 +1,9 @@
+Title: Can Extracellular Vesicles as Drug Delivery Systems Be a Game Changer in Cardiac Disease?
+Authors: Akihiko Okamura, Yusuke Yoshioka, Yoshihiko Saito, Takahiro Ochiya
+Year: 2022
+Venue: Pharmaceutical Research
+DOI: 10.1007/s11095-022-03463-z
+Paper ID: pmc_PMC10126064
+
+Abstract:
+Cardiac diseases such as myocardial infarction and heart failure have been the leading cause of death worldwide for more than 20 years, and new treatments continue to be investigated. Heart transplantation, a curative treatment for severe cardiac dysfunction, is available to only a small number of patients due to the rarity of donors and high costs. Cardiac regenerative medicine using embryonic stem cells and induced pluripotent stem cells is expected to be a new alternative to heart transplantation, but it has problems such as induction of immune response, tumor formation, and low survival rate of transplanted cells. On the other hand, there has been a focus on cell-free therapy using extracellular vesicles (EVs) due to their high biocompatibility and target specificity. Exosomes, one type of EV, play a role in the molecular transport system in vivo and can be considered a drug delivery system (DDS) innate to all living things. Exosomes contain nucleic acids and proteins, which are transported from secretory cells to recipient cells. Molecules in exosomes are encapsulated in a lipid bilayer, which allows them to exist stably in body fluids without being affected by nuclease degradation enzymes. Therefore, the therapeutic use of exosomes as DDSs has been widely explored and is being used in clinical trials and other clinical settings. This review summarizes the current topics of EVs as DDSs in cardiac disease.

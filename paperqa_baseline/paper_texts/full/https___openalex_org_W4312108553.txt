@@ -1,0 +1,9 @@
+Title: SEER: Sustainable E-commerce with Environmental-impact Rating
+Authors: Md. Saiful Islam, Adiba Mahbub Proma, Caleb Wohn, Karen Berger, Serena Uong, Varun Kumar, Katrina Smith Korfmacher, Ehsan Hoque
+Year: 2022
+Venue: Cleaner Environmental Systems
+DOI: https://doi.org/10.1016/j.cesys.2022.100104
+Paper ID: https://openalex.org/W4312108553
+
+Abstract:
+With online shopping gaining massive popularity over the past few years, this study identifies a promising opportunity for E-commerce platforms to tackle climate change and other environmental problems. This study investigates a redesign of E-commerce platforms to bridge the existing “attitude-behavior gap” regarding environmental sustainability in online shopping. It introduces a concept design named Sustainable E-commerce with Environmental-impact Rating (SEER) – a way of communicating products’ environmental impact when displaying them on E-commerce platforms. A quasi-randomized case-control experiment with 98 subjects demonstrates the efficacy and user-friendliness of the proposed concept design. The case group using SEER showed significantly more eco-friendly behavior than the control group (p < 0.005) and reported that the components introduced in SEER made finding eco-friendly products more convenient, simultaneously increasing their trust in the labels because of the provided explanation. In addition, SEER has been rated highly in terms of usability, with a System Usability Scale (SUS) score of 79.18. By shaping the behavior of climate-concerned online shoppers, SEER could significantly reduce total carbon emissions of online products, which are currently estimated to exceed 2.88 million tonnes (yearly) in the United States alone.

@@ -1,0 +1,9 @@
+Title: Multi-Objective Optimization for Sustainable Supply Chain and Logistics: A Review
+Authors: Chamari Pamoshika Jayarathna, Duzgun Agdas, Les Dawes, Tan Yiğitcanlar
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132413617
+Paper ID: https://openalex.org/W4200439521
+
+Abstract:
+There are several methods available for modeling sustainable supply chain and logistics (SSCL) issues. Multi-objective optimization (MOO) has been a widely used method in SSCL modeling (SSCLM), nonetheless selecting a suitable optimization technique and solution method is still of interest as model performance is highly dependent on decision-making variables of the model development process. This study provides insights from the analysis of 95 scholarly articles to identify research gaps in the MOO for SSCLM and to assist decision-makers in selecting suitable MOO techniques and solution methods. The results of the analysis indicate that economic and environmental aspects of sustainability are the main context of SSCLM, where the social aspect is still limited. More SSCLMs for sourcing, distribution, and transportation phases of the supply chain are required. Additionally, more sophisticated techniques and solution methods, including hybrid metaheuristics approaches, are needed in SSCLM.

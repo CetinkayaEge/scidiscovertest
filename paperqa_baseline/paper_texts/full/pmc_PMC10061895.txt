@@ -1,0 +1,9 @@
+Title: Effects of major depression and bipolar disorder on erectile dysfunction: a two-sample mendelian randomization study
+Authors: Wei-Kang Chen, Tao Zhou, Dong-Dong Yu, Jing-Ping Li, Jing-Gen Wu, Le-Jun Li, Zhong-Yan Liang, Feng-Bin Zhang
+Year: 2023
+Venue: BMC Medical Genomics
+DOI: 10.1186/s12920-023-01498-8
+Paper ID: pmc_PMC10061895
+
+Abstract:
+Background and Aims There are currently no clear conclusions about whether major depression (MD) and bipolar disorder (BD) increase the risk of erectile dysfunction (ED). In our study, we used a Mendelian randomization (MR) analysis to discover the causal associations between MD, BD and ED. Methods We got single-nucleotide polymorphisms (SNPs) related to MD, BD and ED from the MRC IEU Open genome-wide association study (GWAS) datasets. After a series of selection, SNPs left were selected as instrumental variables (IVs) of MD and BD for the following MR test to evaluate the relationship of genetically predicted MD or BD with the incidence of ED. Among them, we used the random-effects inverse-variance weighted (IVW) method as the main analysis. Finally, sensitivity analyses were further performed using Cochran’s Q test, funnel plots, MR-Egger regression, Leave-one-out method and MR- pleiotropy residual sum and outlier (PRESSO). Results Genetically-predicted MD was causally related to the incidence of ED in the IVW methods (odds ratio (OR), 1.53; 95% confidence interval (CI), 1.19–1.96; p = 0.001), while no causal impact of BD on the risk of ED (OR = 0.95, 95% CI 0.87–1.04; p = 0.306). The results of sensitivity analyses supported our conclusion, and no directional pleiotropy were found. Conclusion The findings of this research found evidence of a causal relationship between MD and ED. However, we did not find a causal relationship between BD and ED in European populations. Supplementary Information The online version contains supplementary material available at 10.1186/s12920-023-01498-8.

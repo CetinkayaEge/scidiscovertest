@@ -1,0 +1,9 @@
+Title: Warehouse Management Systems for Social and Environmental Sustainability: A Systematic Literature Review and Bibliometric Analysis
+Authors: Daria Minashkina, Ari Happonen
+Year: 2023
+Venue: Logistics
+DOI: https://doi.org/10.3390/logistics7030040
+Paper ID: https://openalex.org/W4383722043
+
+Abstract:
+Background: With the continuing growth of warehouses globally, there is an increasing need for sustainable logistics solutions in warehousing, but research linking warehouse management systems (WMS) and sustainability is lacking. Methods: A systematic literature review and bibliometric analysis were conducted in Scopus and Web of Science databases from 2006 to 2022 to investigate academic knowledge of WMS contributing to warehouses’ social and environmental sustainability. Results: Findings revealed only 12 topic-relevant articles from 2013 to 2022, primarily published recently. More recent articles have received more citations than earlier published works. The articles were from multiple research fields, such as business economics, engineering, computer science, and social sciences, with only one article on environmentally sustainable technologies. The top keywords were “warehouse management system”, “internet of things”, “industry 4.0” and “supply chain”. Only six articles had environmental sustainability terms in the keywords. Findings show more discussions about social rather than environmental sustainability. Most studies suggest integrating WMS with other systems to support sustainability efforts in warehousing. Conclusions: The study addressed a gap in academic literature regarding WMS and sustainability. Research findings added knowledge of practical activities to achieve warehouse operations and performance sustainability and proactively reduce warehouse operations’ environmental and social impacts.

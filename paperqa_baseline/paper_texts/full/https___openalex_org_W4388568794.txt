@@ -1,0 +1,9 @@
+Title: Analysis and evaluation of fuel cell technologies for sustainable ship power: Energy efficiency and environmental impact
+Authors: Zhe Wang, Bo Dong, Yifu Wang, Mingyu Li, Han Liu, Fenghui Han
+Year: 2023
+Venue: Energy Conversion and Management X
+DOI: https://doi.org/10.1016/j.ecmx.2023.100482
+Paper ID: https://openalex.org/W4388568794
+
+Abstract:
+Amid growing emphasis on achieving carbon neutrality, this study conducts a thorough assessment of different fuel cell technologies for their suitability as primary ship power sources. The primary goal is to evaluate the energy efficiency and carbon footprint impacts associated with adopting fuel cells for ship propulsion. The analysis employs simulation modeling and comparative evaluation to establish key indices: energy efficiency design index (EEDI), energy efficiency operational index (EEOI), and carbon footprint design index (CFDI). These indices consider factors like system weight, maintenance cycle, and fuel economy, ensuring a comprehensive comparison under consistent ship design parameters. Results reveal that liquefied natural gas fuel cells, direct methanol fuel cells, and low-temperature proton exchange membrane fuel cells (LT-PEMFC) outperform other fuel cell systems in terms of energy efficiency and carbon emissions reduction. Their respective EEDI values stand at 11.62, 12.72, and 10.05 g CO2/ton·km, accompanied by corresponding EEOI values of 0.10, 0.13, and 0.11 g CO2/ton·km. Additionally, CFDI values are calculated as 39.10%, 19.45%, and 11.64%, respectively. Notably, the comprehensive assessment underscores LT-PEMFC as the most viable option for ship propulsion, offering improved energy utilization, reduced carbon impact, and decreased operational expenses. These findings contribute valuable insights into the appropriateness of diverse fuel cell technologies for ship power applications, considering both their energy efficiency and environmental implications.

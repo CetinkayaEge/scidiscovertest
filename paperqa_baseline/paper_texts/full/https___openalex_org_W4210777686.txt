@@ -1,0 +1,9 @@
+Title: Sustained released of bioactive mesenchymal stromal cell‐derived extracellular vesicles from 3D‐printed gelatin methacrylate hydrogels
+Authors: Louis J. Born, Shannon T. McLoughlin, Dipankar Dutta, Bhushan Mahadik, Xiaofeng Jia, John P. Fisher, Steven M. Jay
+Year: 2022
+Venue: Journal of Biomedical Materials Research Part A
+DOI: https://doi.org/10.1002/jbm.a.37362
+Paper ID: https://openalex.org/W4210777686
+
+Abstract:
+Extracellular vesicles (EVs) represent an emerging class of therapeutics with significant potential and broad applicability. However, a general limitation is their rapid clearance after administration. Thus, methods to enable sustained EV release are of great potential value. Here, we demonstrate that EVs from mesenchymal stem/stromal cells (MSCs) can be incorporated into 3D-printed gelatin methacrylate (GelMA) hydrogel bioink, and that the initial burst release of EVs can be reduced by increasing the concentration of crosslinker during gelation. Further, the data show that MSC EV bioactivity in an endothelial gap closure assay is retained after the 3D printing and photocrosslinking processes. Our group previously showed that MSC EV bioactivity in this assay correlates with pro-angiogenic bioactivity in vivo, thus these results indicate the therapeutic potential of MSC EV-laden GelMA bioinks.

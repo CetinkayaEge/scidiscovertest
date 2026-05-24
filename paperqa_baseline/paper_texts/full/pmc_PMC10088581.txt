@@ -1,0 +1,9 @@
+Title: A Model-Based Estimate of the Cost-Effectiveness Threshold in Germany
+Authors: Afschin Gandjour
+Year: 2023
+Venue: Applied Health Economics and Health Policy
+DOI: 10.1007/s40258-023-00803-x
+Paper ID: pmc_PMC10088581
+
+Abstract:
+Purpose Value-based pricing of new, innovative health technologies defined as pricing through economic evaluation requires the use of a basic cost-effectiveness threshold. This study presents a cost-effectiveness model that determines the cost-effectiveness threshold for life-extending new, innovative technologies based on health system opportunity costs. Methods To estimate health system opportunity costs, the study used German data and examined the period between 1896 and 2014. To this end, it determined intertemporal differences in the remaining lifetime spending and life expectancy by age and gender. To account for the age composition of the population, it weighted age-specific intertemporal changes in the remaining lifetime spending and life expectancy by the age-specific population size. To estimate life expectancy gains solely attributable to the health care system, it used aggregated data on amenable mortality. It calculated the cost-effectiveness ratio of health care spending in the German health care system on average and at the margin. Results Based on the cost-effectiveness ratio of health care spending at the margin, the threshold value for life-prolonging new, innovative technologies was at least €42,634 per life-year gained, with a point estimate of €88,107 per life-year gained. Based on the average ratio, the threshold value dropped below €34,000 per life-year gained. Conclusion This study provides new evidence on the cost-effectiveness threshold for value-based pricing of new, innovative technologies. Data from Germany suggest that a threshold value based on health care spending at the margin is considerably higher than that based on the average ratio.

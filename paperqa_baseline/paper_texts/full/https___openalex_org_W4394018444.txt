@@ -1,0 +1,9 @@
+Title: Research priorities to leverage smart digital technologies for sustainable crop production
+Authors: Hugo Storm, Sabine J. Seidel, Lasse Klingbeil, Frank Ewert, Harry Vereecken, Wulf Amelung, Sven Behnke, Maren Bennewitz, Jan Börner, Thomas Döring, Jüergen Gall, Anne‐Katrin Mahlein, Chris McCool, Uwe Rascher, Stefan Wrobel, Andrea Schnepf, Cyrill Stachniss, Heiner Kuhlmann
+Year: 2024
+Venue: European Journal of Agronomy
+DOI: https://doi.org/10.1016/j.eja.2024.127178
+Paper ID: https://openalex.org/W4394018444
+
+Abstract:
+Agriculture faces several challenges including climate change and biodiversity loss while, at the same time, the demand for food, feed, biofuels, and fiber is increasing. Sustainable intensification aims to increase productivity and input-use efficiency while enhancing the resilience of agricultural systems to adverse environmental conditions through improved management and technology. Recent advances in sensing, machine learning, modeling, and robotics offer opportunities for novel smart digital technologies to enable sustainable intensification. However, developing smart digital technologies and putting them into agricultural practice, requires closing major research gaps, related in particular to (1) the utilization of multi-scale multi-sensor monitoring in space and time, (2) using artificial intelligence for linking process and data-driven methods, (3) improving decision making and intervention in plant production, and finally (4) modeling conditions and consequences of farmers acceptance. Closing these gaps requires an interdisciplinary approach. Here, we present a research agenda and steps forward to steer research efforts, highlighting research priorities, and identifying required interdisciplinary research collaboration. Following this agenda will leverage the full potential of smart digital technologies for sustainable crop production.

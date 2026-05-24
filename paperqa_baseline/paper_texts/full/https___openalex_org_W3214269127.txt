@@ -1,0 +1,9 @@
+Title: Does freight and passenger transportation industries are sustainable in BRICS countries? Evidence from advance panel estimations
+Authors: Huixin Zhang, Asif Razzaq, İrem PELİT, Esma IRMAK
+Year: 2021
+Venue: Economic Research-Ekonomska Istraživanja
+DOI: https://doi.org/10.1080/1331677x.2021.2002708
+Paper ID: https://openalex.org/W3214269127
+
+Abstract:
+Freight and passenger transportation profoundly impacts environmental degradation due to the higher fossil fuel consumption and respective emissions. Therefore, this study explores the impact of freight and passenger transportation on environmental pollution (particulate matter 2.5(PM 2.5)) in BRICS countries using annual data from 1990 to 2018. We employed various advanced econometric approaches to handle issues arising from panel data, such as the presence of unit root, cross-sectional dependency, structural break, and parameters heterogeneity. The overall results show that freight and passenger transportation significantly contribute to a higher concentration of PM 2.5; however, the impact of freight transportation is almost double that of passenger transportation. Similarly, economic growth also caused higher environmental pollution. Moreover, this study confirms the presence of the Environmental Kuznets Curve hypothesis in the long run. These results provide valuable suggestions to achieve a sustainable environment.

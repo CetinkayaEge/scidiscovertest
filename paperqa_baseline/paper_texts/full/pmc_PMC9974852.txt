@@ -1,0 +1,9 @@
+Title: Triphenyl phosphate-induced pericardial edema in zebrafish embryos is dependent on the ionic strength of exposure media
+Authors: Jenna Wiegand, Sarah Avila-Barnard, Charvita Nemarugommula, David Lyons, Sharon Zhang, Heather M. Stapleton, David C. Volz
+Year: 2023
+Venue: Environment international
+DOI: 10.1016/j.envint.2023.107757
+Paper ID: pmc_PMC9974852
+
+Abstract:
+Pericardial edema is commonly observed in zebrafish embryo-based chemical toxicity screens, and a mechanism underlying edema may be disruption of embryonic osmoregulation. Therefore, the objective of this study was to identify whether triphenyl phosphate (TPHP) – a widely used aryl phosphate ester-based flame retardant – induces pericardial edema via impacts on osmoregulation within embryonic zebrafish. In addition to an increase in TPHP-induced microridges in the embryonic yolk sac epithelium, an increase in ionic strength of exposure media exacerbated TPHP-induced pericardial edema when embryos were exposed from 24 to 72 h post-fertilization (hpf). However, there was no difference in embryonic sodium concentrations in situ within TPHP-exposed embryos relative to embryos exposed to vehicle (0.1% DMSO) from 24 to 72 hpf. Interestingly, increasing the osmolarity of exposure media with mannitol (an osmotic diuretic which mitigates TPHP-induced pericardial edema) and increasing the ionic strength of the exposure media (which exacerbates TPHP-induced pericardial edema) did not affect embryonic doses of TPHP, suggesting that TPHP uptake was not altered under these varying experimental conditions. Overall, our findings suggest that TPHP-induced pericardial edema within zebrafish embryos is dependent on the ionic strength of exposure media, underscoring the importance of further standardization of exposure media and embryo rearing protocols in zebrafish-based chemical toxicity screening assays.

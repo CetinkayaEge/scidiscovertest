@@ -1,0 +1,9 @@
+Title: Fuzzy set theory driven maintenance sustainability performance assessment model: a multiple criteria approach
+Authors: Małgorzata Jasiulewicz–Kaczmarek, Patryk Żywica, Arkadiusz Gola
+Year: 2021
+Venue: Journal of Intelligent Manufacturing
+DOI: https://doi.org/10.1007/s10845-020-01734-3
+Paper ID: https://openalex.org/W3124215134
+
+Abstract:
+Abstract During the last five decades, manufacturing has radically changed not only due to the technology development but also because of the new market and environmental requirements. Nowadays, companies are focused not only on cost-reduction and effectiveness or realized processes but also on reducing the negative impact on natural and social environment. Therefore, the maintenance is also transforming its role in order to better support value creation, both contributing to the economic dimension as well as extending its care for the environmental and social aspects. The paper presents a new method to solve the problem of the initial maintenance indicator merge into a new synthetic index that allows measuring the level of maintenance sustainability. The proposed approach allows to look at the process of combining indicators from a different perspective (i.e. through interactions between criteria) to help decision-makers in improving economic, social and environmental results of maintenance system. To justify effectiveness of proposed approach, it was applied to Composite Maintenance Sustainability Indicator, which was therefore generalized and expanded, so that it could be used in decision support system. The included case study shows the real benefit of using the proposed approach to analyse the actual results of maintenance system from sustainability point of view and forecasting future actions.

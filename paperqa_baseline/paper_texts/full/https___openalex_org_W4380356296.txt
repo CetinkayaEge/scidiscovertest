@@ -1,0 +1,9 @@
+Title: A Model for Evaluating Inequalities in Sustainability
+Authors: Ida Camminatiello, Rosaria Lombardo, Mario Musella, Gianmarco Borrata
+Year: 2023
+Venue: Social Indicators Research
+DOI: https://doi.org/10.1007/s11205-023-03152-3
+Paper ID: https://openalex.org/W4380356296
+
+Abstract:
+Abstract On 25 September 2015, the United Nations General Assembly adopted the 2030 Agenda for sustainable development, which includes seventeen Sustainable Development Goals, among them the 10th Goal aims to reduce inequalities. Convinced of the importance of this goal, in this paper we propose to study the socio-economic determinants which affect the inequalities among the 20 Italian regions by applying a suitable regression model. The socio-economic literature suggests that the most important determinants of inequalities are government spending, income, employment and educational attainment, so we focus our attention on the indicators of the Sustainable Development Goals related to these determinant factors. Given that the number of indicators is extremely high, while the number of observations is low, we consider the partial least squares regression as the most suitable statistical methodology to deal with this dependence modeling.

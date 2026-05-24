@@ -1,0 +1,9 @@
+Title: Toward Assessing Absolute Environmental Sustainability of Chemical Pollution
+Authors: Marissa B. Kosnik, Michael Zwicky Hauschild, Peter Fantke
+Year: 2022
+Venue: Environmental Science & Technology
+DOI: https://doi.org/10.1021/acs.est.1c06098
+Paper ID: https://openalex.org/W4220877147
+
+Abstract:
+Chemicals are widely used in modern society, which can lead to negative impacts on ecosystems. Despite the urgent relevance for global policy setting, there are no established methods to assess the absolute sustainability of chemical pressure at relevant spatiotemporal scales. We propose an absolute environmental sustainability framework (AESA) for chemical pollution where (1) the chemical pressure on ecosystems is quantified, (2) the ability for ecosystems to withstand chemical pressure (i.e., their carrying capacity) is determined, and (3) the "safe space" is derived, wherein chemical pressure is within the carrying capacity and hence does not lead to irreversible adverse ecological effects. This space is then allocated to entities contributing to the chemical pressure. We discuss examples involving pesticide use in Europe to explore the associated challenges in implementing this framework (e.g., identifying relevant chemicals, conducting analyses at appropriate spatiotemporal scales) and ways forward (e.g., chemical prioritization approaches, data integration). The proposed framework is the first step toward understanding where and how much chemical pressure exceeds related ecological limits and which sources and actors are contributing to the chemical pressure. This can inform sustainable levels of chemical use and help policy makers establish relevant and science-based protection goals from regional to global scale.

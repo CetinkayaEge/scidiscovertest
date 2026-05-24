@@ -1,0 +1,9 @@
+Title: Improvements in piezoelectric and energy harvesting properties with a slight change in depolarization temperature in modified BNKT ceramics by a simple technique †
+Authors: Pharatree Jaita, Kamonporn Saenkam, Gobwute Rujijanagul
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07587c
+Paper ID: pmc_PMC9890930
+
+Abstract:
+For many BNT-based ceramics, an attempt to increase the piezoelectric properties usually results in a decrease in depolarization temperature ( T d ). This trend limits the applications of the materials. Many previous experiments have used different methods to enhance the piezoelectric properties and improve the T d characteristic. In this study, we demonstrated a simple technique (thermal annealing) to enhance the piezoelectric properties with a very slight decrease in T d by ∼2 °C for a modified BNKT ceramic (BNKT doped with ZnO). Other phase transition characteristic temperatures of the studied ceramics were also slightly changed. The optimum dielectric ( ε r = 651, tan δ = 0.0503, T F–R = 167.38 °C, T m = 305.41 °C, ε max = 5551, T B = 367.15 °C, T d = 155.98 °C, and γ = 1.43), ferroelectric ( P max = 41.28 μC cm −2 , P r = 35.85 μC cm −2 , E c = 42.60 kV cm −1 and R sq = 1.42), piezoelectric ( d 33 = 198 pC N −1 , k p = 0.598, and g 33 = 34.35 × 10 −3 Vm N −1 ), and energy harvesting (FoM = 6.80 pm 2 N −1 ) were obtained for the 8 h annealed ceramic. Furthermore, higher energy harvesting properties (which were 32% higher than that of the unannealed ceramic) were obtained after employing this technique. In this study, we demonstrated a simple technique (thermal annealing) to enhance the piezoelectricity with a very slight decrease in T d by ∼2 °C for a modified BNKT ceramic (BNKT doped with ZnO).

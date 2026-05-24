@@ -1,0 +1,9 @@
+Title: Pulsed Electrochemical Exfoliation for an HF‐Free Sustainable MXene Synthesis
+Authors: Markus Ostermann, Marko Piljević, Elahe Akbari, Prathamesh Patil, Veronika Zahorodna, Ivan Baginskiy, Oleksiy Gogotsi, Carsten Gachot, Manel Rodríguez Ripoll, Markus Valtiner, Pierluigi Bilotto
+Year: 2025
+Venue: Small
+DOI: https://doi.org/10.1002/smll.202500807
+Paper ID: https://openalex.org/W4409018079
+
+Abstract:
+/HCl) electrolyte and increases etching efficiency by applying cathodic pulsing via pulse voltammetry. Hydrogen bubble formation restores electrochemical activity, and effectively supports 2D-sheet removal, allowing continuous etching at higher yields in situ. In detail, yields of up to 60% electrochemical MXene (EC-MXene) with no byproducts from a single exfoliation cycle are achieved. EC-MXene had an excellent quality with high purity as assessed using chemical mapping by scanning electron microscopy with energy dispersive electron spectroscopy (SEM/EDX) and surface termination analysis performed with X-ray photoelectron spectroscopy (XPS) and, for the first time, with low energy ion scattering (LEIS). Further properties of EC-MXenes such as dimensions and adhesion energy of single flakes, vibrational peaks, and interlayer spacing are provided by atomic force microscopy (AFM), X-ray diffraction (XRD), Raman spectroscopy (Raman), and transmission electron microscopy (TEM) respectively. Pulsed electrochemical synthesis is key to surface reactivation at the electrodes' interface, which results in improved exfoliation and quality of EC-MXenes. This paves the way for scaling up and green industrialization of MXenes.

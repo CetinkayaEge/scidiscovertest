@@ -1,0 +1,9 @@
+Title: A permissive chromatin state regulated by ZFP281-AFF3 in controlling the imprinted Meg3 polycistron
+Authors: Yan Wang, Yang Shen, Qian Dai, Qian Yang, Yue Zhang, Xin Wang, Wei Xie, Zhuojuan Luo, Chengqi Lin
+Year: 2017
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkw1051
+Paper ID: pmc_PMC5388394
+
+Abstract:
+Abstract Genomic imprinting is an epigenetic regulation that leads to gene expression in a parent-of-origin specific manner. AFF3, the central component of the Super Elongation Complex-like 3 (SEC-L3), is enriched at both the intergenic-differentially methylated region (IG-DMR) and the Meg3 enhancer within the imprinted Dlk1-Dio3 locus to regulate the allele-specific gene expression in this locus. The localization of AFF3 to IG-DMR requires ZFP57. However, how AFF3 functions at the Meg3 enhancer in maintaining allele-specific gene expression remains unclear. Here, we demonstrate that AFF3 is associated with the Krüppel-like zinc finger protein ZFP281 in mouse embryonic stem (ES) cells. ZFP281 recruits AFF3 to the Meg3 enhancer within the imprinted Dlk1-Dio3 locus, thus regulating the allele-specific expression of the Meg3 polycistron. Our genome-wide analyses further identify ZFP281 as a critical factor generally associating with AFF3 at enhancers and functioning together with AFF3 in regulating the expression of a subset of genes. Our study suggests that different zinc finger proteins can recruit AFF3 to different regulatory elements and differentially regulate the function of AFF3 in a context-dependent manner.

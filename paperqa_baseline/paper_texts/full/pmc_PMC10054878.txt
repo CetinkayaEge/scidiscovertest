@@ -1,0 +1,9 @@
+Title: Object Detection for UAV Aerial Scenarios Based on Vectorized IOU
+Authors: Shun Lu, Hanyu Lu, Jun Dong, Shuang Wu
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063061
+Paper ID: pmc_PMC10054878
+
+Abstract:
+Object detection in unmanned aerial vehicle (UAV) images is an extremely challenging task and involves problems such as multi-scale objects, a high proportion of small objects, and high overlap between objects. To address these issues, first, we design a Vectorized Intersection Over Union (VIOU) loss based on YOLOv5s. This loss uses the width and height of the bounding box as a vector to construct a cosine function that corresponds to the size of the box and the aspect ratio and directly compares the center point value of the box to improve the accuracy of the bounding box regression. Second, we propose a Progressive Feature Fusion Network (PFFN) that addresses the issue of insufficient semantic extraction of shallow features by Panet. This allows each node of the network to fuse semantic information from deep layers with features from the current layer, thus significantly improving the detection ability of small objects in multi-scale scenes. Finally, we propose an Asymmetric Decoupled (AD) head, which separates the classification network from the regression network and improves the classification and regression capabilities of the network. Our proposed method results in significant improvements on two benchmark datasets compared to YOLOv5s. On the VisDrone 2019 dataset, the performance increased by 9.7% from 34.9% to 44.6%, and on the DOTA dataset, the performance increased by 2.1%.

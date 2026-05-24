@@ -1,0 +1,9 @@
+Title: Disassembly of Amyloid Fibril with Infrared Free Electron Laser
+Authors: Takayasu Kawasaki, Koichi Tsukiyama, Phuong H. Nguyen
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043686
+Paper ID: pmc_PMC9967569
+
+Abstract:
+Amyloid fibril causes serious amyloidosis such as neurodegenerative diseases. The structure is composed of rigid β-sheet stacking conformation which makes it hard to disassemble the fibril state without denaturants. Infrared free electron laser (IR-FEL) is an intense picosecond pulsed laser that is oscillated through a linear accelerator, and the oscillation wavelengths are tunable from 3 μm to 100 μm. Many biological and organic compounds can be structurally altered by the mode-selective vibrational excitations due to the wavelength variability and the high-power oscillation energy (10–50 mJ/cm 2 ). We have found that several different kinds of amyloid fibrils in amino acid sequences were commonly disassembled by the irradiation tuned to amide I (6.1–6.2 μm) where the abundance of β-sheet decreased while that of α-helix increased by the vibrational excitation of amide bonds. In this review, we would like to introduce the IR-FEL oscillation system briefly and describe combination studies of experiments and molecular dynamics simulations on disassembling amyloid fibrils of a short peptide (GNNQQNY) from yeast prion and 11-residue peptide (NFLNCYVSGFH) from β2-microglobulin as representative models. Finally, possible applications of IR-FEL for amyloid research can be proposed as a future outlook.

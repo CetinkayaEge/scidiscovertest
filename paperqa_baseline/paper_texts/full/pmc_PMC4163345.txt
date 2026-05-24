@@ -1,0 +1,9 @@
+Title: Estimation of Biomass Burning Influence on Air Pollution around Beijing from an Aerosol Retrieval Model
+Authors: Sonoyo Mukai, Masayoshi Yasumoto, Makiko Nakata
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/649648
+Paper ID: pmc_PMC4163345
+
+Abstract:
+We investigate heavy haze episodes (with dense concentrations of atmospheric aerosols) occurring around Beijing in June, when serious air pollution was detected by both satellite and ground measurements. Aerosol retrieval is achieved by radiative transfer simulation in an Earth atmosphere model. We solve the radiative transfer problem in the case of haze episodes by successive order of scattering. We conclude that air pollution around Beijing in June is mainly due to increased emissions of anthropogenic aerosols and that carbonaceous aerosols from agriculture biomass burning in Southeast Asia also contribute to pollution.

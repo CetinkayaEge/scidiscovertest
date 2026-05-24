@@ -1,0 +1,9 @@
+Title: Towards Understanding Sustained Neural Activity Across Syntactic Dependencies
+Authors: Aura A. L. Cruz Heredia, Bethany Dickerson, Ellen Lau
+Year: 2021
+Venue: Neurobiology of Language
+DOI: https://doi.org/10.1162/nol_a_00050
+Paper ID: https://openalex.org/W3180208560
+
+Abstract:
+) that do not. We find no SAN associated with subordinating adverbials, contra the syntactic prediction hypothesis. More surprisingly, we observe SANs across matrix questions but not embedded questions. Since both involved identical long-distance dependencies, these results are also inconsistent with the traditional syntactic working memory account of the SAN. We suggest that a more general hypothesis that sustained neural activity supports working memory can be maintained, however, if the sustained anterior negativity reflects working memory encoding at the non-linguistic discourse representation level, rather than at the sentence level.

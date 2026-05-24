@@ -1,0 +1,9 @@
+Title: Cost Estimation of the Production of MIL-100(Fe) at Industrial Scale from Two Upscaled Sustainable Synthesis Routes
+Authors: Maria Inês Severino, Cátia Freitas, Vanessa Pimenta, Farid Nouar, Moisés L. Pinto, Christian Serre
+Year: 2025
+Venue: Industrial & Engineering Chemistry Research
+DOI: https://doi.org/10.1021/acs.iecr.4c02618
+Paper ID: https://openalex.org/W4406715346
+
+Abstract:
+Understanding the impact of MOF synthesis conditions on the production cost is vital in order to have a competitive product with a view toward industrial applications. Here, considering the benchmark mesoporous iron(III) trimesate MIL-100(Fe) as a prototypical example, we show that the production cost can reach <30 $/kg if a careful selection of the synthetic route is made. Two routes were considered in the analysis, using sulfate and nitrate as iron sources. A new optimized synthesis protocol in a 5 L laboratory pilot-scale reactor based on iron sulfate was developed using optimized sustainable aqueous ambient pressure conditions, leading to larger particles and a higher space-time yield. Based on reliable pilot-scale data and established chemical engineering estimation methods, this leads to a significantly lower production cost of high-quality MIL-100(Fe), achieving a potential competitive product.

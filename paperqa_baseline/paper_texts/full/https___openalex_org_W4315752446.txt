@@ -1,0 +1,9 @@
+Title: The Digital Supply Chain Twin paradigm for enhancing resilience and sustainability against COVID-like crises
+Authors: Francesco Longo, Giovanni Mirabelli, Antonio Padovano, Vittorio Solina
+Year: 2023
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.12.394
+Paper ID: https://openalex.org/W4315752446
+
+Abstract:
+In recent years, scientific interest in the concepts of sustainability and resilience has grown considerably. The Covid-19 pandemic has indeed emphasized all the fragility of manufacturing systems and supply chains both globally and locally. The disruptive effects of the outbreak on production systems, warehouses and distribution networks are evidence of the urgent need for digital twins, which are able to reproduce supply chains behavior and guarantee adequate levels of performance. In this paper, a Simulation-Based Decision-Making Framework, which exploits the Digital Supply Chain Twin paradigm to enhance resilience and sustainability in the face of COVID-like crises, is proposed. Preliminary computational tests, carried out on a real agri-food supply chain, show that the framework is extremely promising for evaluating the validity of multiple response strategies, based on resilience and sustainability indicators. The research represents a first significant step in the design and development of a ready-to-use decision support tool, based on simulation principles and the novel concept of Digital Supply Chain Twin.

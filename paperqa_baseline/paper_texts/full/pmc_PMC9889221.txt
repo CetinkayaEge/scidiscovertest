@@ -1,0 +1,9 @@
+Title: Assessment of POC CD4 Detecting Mode in District or County Labs — Jiangsu Province, China, 2021
+Authors: Zhi Zhang, Xiaoqin Xu, Chengqing Sun, Jing Lu, Haiyang Hu, Ying Zhou, Gengfeng Fu
+Year: 2022
+Venue: China CDC Weekly
+DOI: 10.46234/ccdcw2022.213
+Paper ID: pmc_PMC9889221
+
+Abstract:
+Objective This study seeks to explore efficient and multiple-item detection modes in new-style HIV labs, as well as access the accuracy and reliability of CD4 cell count detected by point of care (POC) to analyze POC work feasibility in district or county labs. Methods POC devices adopted in grassroots-level labs and flow cytometers adopted in prefecture-level labs were used to analyze the same group of blood samples. The individual results were collected and compared for parametric tests in correlation and consistency. Results The Pearson correlation coefficients (r) between results detected by FACSPresto and those by FACSCalibur, FACSVia, FACSCantoII, and EPICSXL were 0.922, 0.938, 0.914, and 0.823, respectively; the average deviations were −25.64, 24.68, 3.05, and 70.97 cells/μL, respectively; the Pearson correlation coefficient (r) between results by Pima and FACSCalibur, FACSVia, FACSCantoII, and EPICSXL were 0.900, 0.950, 0.954, and 0.876, respectively; and the average deviations were −73.99, −40.78, −29.32, and −22.75 cells/μL, respectively. Discussion Strong positive correlations and good consistency were observed between the CD4 count tested by POC and flow cytometers. These findings provide theoretical support for new-style HIV labs and one-stop services, which can provide shorter testing duration and simpler testing processes, so that the most comprehensive testing results can be obtained in the shortest amount of time.

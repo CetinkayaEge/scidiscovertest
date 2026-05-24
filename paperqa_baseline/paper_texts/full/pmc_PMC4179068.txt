@@ -1,0 +1,9 @@
+Title: Minimum Time Search in Uncertain Dynamic Domains with Complex Sensorial Platforms
+Authors: Pablo Lanillos, Eva Besada-Portas, Jose Antonio Lopez-Orozco, Jesus Manuel de la Cruz
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140814131
+Paper ID: pmc_PMC4179068
+
+Abstract:
+The minimum time search in uncertain domains is a searching task, which appears in real world problems such as natural disasters and sea rescue operations, where a target has to be found, as soon as possible, by a set of sensor-equipped searchers. The automation of this task, where the time to detect the target is critical, can be achieved by new probabilistic techniques that directly minimize the Expected Time (ET) to detect a dynamic target using the observation probability models and actual observations collected by the sensors on board the searchers. The selected technique, described in algorithmic form in this paper for completeness, has only been previously partially tested with an ideal binary detection model, in spite of being designed to deal with complex non-linear/non-differential sensorial models. This paper covers the gap, testing its performance and applicability over different searching tasks with searchers equipped with different complex sensors. The sensorial models under test vary from stepped detection probabilities to continuous/discontinuous differentiable/non-differentiable detection probabilities dependent on distance, orientation, and structured maps. The analysis of the simulated results of several static and dynamic scenarios performed in this paper validates the applicability of the technique with different types of sensor models.

@@ -1,0 +1,9 @@
+Title: Sustainable AI and Intergenerational Justice
+Authors: Aurélie Halsband
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14073922
+Paper ID: https://openalex.org/W4220935479
+
+Abstract:
+Recently, attention has been drawn to the sustainability of artificial intelligence (AI) in terms of environmental costs. However, sustainability is not tantamount to the reduction of environmental costs. By shifting the focus to intergenerational justice as one of the constitutive normative pillars of sustainability, the paper identifies a reductionist view on the sustainability of AI and constructively contributes a conceptual extension. It further develops a framework that establishes normative issues of intergenerational justice raised by the uses of AI. The framework reveals how using AI for decision support to policies with long-term impacts can negatively affect future persons. In particular, the analysis demonstrates that uses of AI for decision support to policies of environmental protection or climate mitigation include assumptions about social discounting and future persons’ preferences. These assumptions are highly controversial and have a significant influence on the weight assigned to the potentially detrimental impacts of a policy on future persons. Furthermore, these underlying assumptions are seldom transparent within AI. Subsequently, the analysis provides a list of assessment questions that constitutes a guideline for the revision of AI techniques in this regard. In so doing, insights about how AI can be made more sustainable become apparent.

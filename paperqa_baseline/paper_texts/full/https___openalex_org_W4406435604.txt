@@ -1,0 +1,9 @@
+Title: Exploring the Mediating Role of Information Security Culture in Enhancing Sustainable Practices Through Integrated Systems Infrastructure
+Authors: Yasir Hassan, Taher M. Ghazal, Saleha Yasir, Ahmad Samed Al‐Adwan, Sayed S. Younes, Marwan Ali Albahar, Munir Ahmad, Atif Ikram
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17020687
+Paper ID: https://openalex.org/W4406435604
+
+Abstract:
+The need for sustainable development, coupled with the growth in industrialization, creates a complex environment in which businesses strive to achieve and maintain a competitive advantage. Information now forms a vital part of how firms perform in today’s globalized corporate world. This paper explores the impact of information systems on sustainable organizational operations. Furthermore, it observes how IT infrastructure and information security policy (ISP) play vital roles in the changing business environment. The importance of information security culture (ISC) as a mediator in developing the association between the independent and dependent variables is also investigated. Reviewing these categories’ interactions within the context of transitional economics is the main goal. To assess and predict the impact of ISs, ISP, ITI, and ISC on sustainable organizational performance (SOP), 214 businesses took part in a structured survey. For data cleaning and reliability analysis, SPSS software was used; for mediation analysis, the Preacher and Hayes approach was applied; and, for multiple linear regression analysis, Python was applied. The study is significant for developing countries in the role of IS for the effectiveness of IT governance and strategic integration. The findings indicate that organizational performance is substantially impacted by information security policy (ISP), IT infrastructure (ITI), and information security culture (ISC).

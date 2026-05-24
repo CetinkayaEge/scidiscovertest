@@ -1,0 +1,9 @@
+Title: Quantitative Singlet Fission in Solution-Processable Dithienohexatrienes
+Authors: Kealan J. Fallon, Nipun Sawhney, Daniel T. W. Toolan, Ashish Sharma, Weixuan Zeng, Stephanie Montanaro, Anastasia Leventis, Simon Dowland, Oliver Millington, Daniel Congrave, Andrew Bond, Richard Friend, Akshay Rao, Hugo Bronstein
+Year: 2022
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.2c10254
+Paper ID: pmc_PMC9801381
+
+Abstract:
+Singlet fission (SF) is a promising strategy to overcome thermalization losses and enhance the efficiency of single junction photovoltaics (PVs). The development of this field has been strongly material-limited, with a paucity of materials able to undergo SF. Rarer still are examples that can produce excitons of sufficient energy to be coupled to silicon PVs (>1.1 eV). Herein, we examine a series of a short-chain polyene, dithienohexatriene (DTH), with tailored material properties and triplet (T 1 ) energy levels greater than 1.1 eV. We find that these highly soluble materials can be easily spin-cast to create thin films of high crystallinity that exhibit ultrafast singlet fission with near perfect triplet yields of up to 192%. We believe that these materials are the first solution-processable singlet fission materials with quantitative triplet formation and energy levels appropriate for use in conjunction with silicon PVs.

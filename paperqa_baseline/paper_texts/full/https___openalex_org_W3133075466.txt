@@ -1,0 +1,9 @@
+Title: The Sustainable Role of Human Factor in I4.0 scenarios
+Authors: Sotirios Panagou, Fabio Fruggiero, Alfredo Lambiase
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.01.354
+Paper ID: https://openalex.org/W3133075466
+
+Abstract:
+The ageing of working population is the byproduct of the global recognized trend of the general population ageing. The decline of elder human operators’ capabilities is a main subject concerning industrial engineering and management in the ongoing 4th Industrial revolution and the introduced new technologies. In this paper, the concept of human factor sustainability inside manufacturing line is explored. It is discussing the theoretical fundamentals of a complexity based states loop to be tested inside 4.0 frame. This is pointing on advanced ICT technologies for ageing workforce management in manufacturing lines. The paper starts with a systematic literature review on the ageing workforce inside industries highlights the human capabilities deterioration, knowledge and experience management of ageing workers. The review is used as the key trace of the modified human factor sustainability concept including Physical, Behavioural, Mental and Psychosocial dimensions. Those are related with the age factor while discussing about traits and entropy based information probability. Furthermore, the proposed formula of Human Factor (HF) probability with a context based application is discussed. Finally, some conclusion remarks will be given, and the future agenda will be proposed based on the collaborative work scenarios.

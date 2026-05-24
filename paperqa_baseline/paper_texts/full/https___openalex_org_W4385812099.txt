@@ -1,0 +1,9 @@
+Title: Roles of Artificial Intelligence and Machine Learning in Enhancing Construction Processes and Sustainable Communities
+Authors: Kayode O. Kazeem, Timothy O. Olawumi, Temidayo Oluwasola Osunsanmi
+Year: 2023
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings13082061
+Paper ID: https://openalex.org/W4385812099
+
+Abstract:
+Machine Learning (ML), a subset of Artificial Intelligence (AI), is gaining popularity in the architectural, engineering, and construction (AEC) sector. This systematic study aims to investigate the roles of AI and ML in improving construction processes and developing more sustainable communities. This study intends to determine the various roles played by AI and ML in the development of sustainable communities and construction practices via an in-depth assessment of the current literature. Furthermore, it intends to predict future research trends and practical applications of AI and ML in the built environment. Following the Preferred Reporting Items for Systematic Reviews (PRISMA) guidelines, this study highlights the roles that AI and ML technologies play in building sustainable communities, both indoors and out. In the interior environment, they contribute to energy management by optimizing energy usage, finding inefficiencies, and recommending modifications to minimize consumption. This contributes to reducing the environmental effect of energy generation. Similarly, AI and ML technologies aid in addressing environmental challenges. They can monitor air quality, noise levels, and waste management systems to quickly discover and minimize pollution sources. Likewise, AI and ML applications in construction processes enhance planning, scheduling, and facility management.

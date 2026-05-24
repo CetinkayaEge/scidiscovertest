@@ -1,0 +1,9 @@
+Title: Fixational eye movements in passive versus active sustained fixation tasks
+Authors: Norick R. Bowers, Josselin Gautier, Samantha Lin, Austin Roorda
+Year: 2021
+Venue: Journal of Vision
+DOI: https://doi.org/10.1167/jov.21.11.16
+Paper ID: https://openalex.org/W3205635612
+
+Abstract:
+Human fixational eye movements are so small and precise that high-speed, accurate tools are needed to fully reveal their properties and functional roles. Where the fixated image lands on the retina and how it moves for different levels of visually demanding tasks is the subject of the current study. An Adaptive Optics Scanning Laser Ophthalmoscope (AOSLO) was used to image, track and present a variety of fixation targets (Maltese cross, disk, concentric circles, Vernier and tumbling-E letter) to healthy subjects. During these different passive (static) or active (discriminating) tasks under natural eye motion, the landing position of the target on the retina was tracked in space and time over the retinal image directly with high spatial (<1 arcmin) and temporal (960 Hz) resolution. We computed both the eye motion and the exact trajectory of the fixated target's motion over the retina. We confirmed that compared to passive tasks, active tasks elicited a partial inhibition of microsaccades, leading to longer drift periods compensated by larger corrective saccades. Consequently, the overall fixation stability during active tasks was on average 57% larger than during passive tasks. The preferred retinal locus of fixation was the same for each task and did not coincide with the location of the peak cone density.

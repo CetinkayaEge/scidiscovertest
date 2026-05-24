@@ -1,0 +1,9 @@
+Title: Estimation of Left and Right Ventricular Ejection Fractions from cine-MRI Using 3D-CNN
+Authors: Soichiro Inomata, Takaaki Yoshimura, Minghui Tang, Shota Ichikawa, Hiroyuki Sugimori
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23146580
+Paper ID: pmc_PMC10384911
+
+Abstract:
+Cardiac function indices must be calculated using tracing from short-axis images in cine-MRI. A 3D-CNN (convolutional neural network) that adds time series information to images can estimate cardiac function indices without tracing using images with known values and cardiac cycles as the input. Since the short-axis image depicts the left and right ventricles, it is unclear which motion feature is captured. This study aims to estimate the indices by learning the short-axis images and the known left and right ventricular ejection fractions and to confirm the accuracy and whether each index is captured as a feature. A total of 100 patients with publicly available short-axis cine images were used. The dataset was divided into training:test = 8:2, and a regression model was built by training with the 3D-ResNet50. Accuracy was assessed using a five-fold cross-validation. The correlation coefficient, MAE (mean absolute error), and RMSE (root mean squared error) were determined as indices of accuracy evaluation. The mean correlation coefficient of the left ventricular ejection fraction was 0.80, MAE was 9.41, and RMSE was 12.26. The mean correlation coefficient of the right ventricular ejection fraction was 0.56, MAE was 11.35, and RMSE was 14.95. The correlation coefficient was considerably higher for the left ventricular ejection fraction. Regression modeling using the 3D-CNN indicated that the left ventricular ejection fraction was estimated more accurately, and left ventricular systolic function was captured as a feature.

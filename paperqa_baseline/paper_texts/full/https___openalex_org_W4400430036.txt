@@ -1,0 +1,9 @@
+Title: Digital product passport for sustainable and circular supply chain management: a structured review of use cases
+Authors: Abraham Zhang, Stefan Seuring
+Year: 2024
+Venue: International Journal of Logistics Research and Applications
+DOI: https://doi.org/10.1080/13675567.2024.2374256
+Paper ID: https://openalex.org/W4400430036
+
+Abstract:
+Digital product passport (DPP) is a key regulatory element of the latest European Union’s Circular Economy Action Plan. By enhancing product traceability and supply chain transparency, its upcoming mandatory implementation aspires to improve resource circularity, cut emissions, and strengthen supply chain governance. However, the extant literature lacks a comprehensive understanding of DPP use cases in the supply chain and how they enable sustainable and circular supply chain management (SCM). To address this knowledge gap, this study first provides an overview of the current state of DPP in policy and practice. Based on a structured review of 82 DPP supply chain use cases in academic literature, we synthesise the functional areas that DPP can add value to improving supply chain sustainability and circularity. Informed by the review findings, we first discuss theoretical and practical implications of DPP-enabled sustainable and circular SCM, and then prioritise research needs in the emerging research domain.

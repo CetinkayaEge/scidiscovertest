@@ -1,0 +1,9 @@
+Title: The preclinical and clinical progress of cell sheet engineering in regenerative medicine
+Authors: Danping Hu, Xinyu Li, Jie Li, Pei Tong, Zhe Li, Ge Lin, Yi Sun, Juan Wang
+Year: 2023
+Venue: Stem Cell Research & Therapy
+DOI: 10.1186/s13287-023-03340-5
+Paper ID: pmc_PMC10136407
+
+Abstract:
+Cell therapy is an accessible method for curing damaged organs or tissues. Yet, this approach is limited by the delivery efficiency of cell suspension injection. Over recent years, biological scaffolds have emerged as carriers of delivering therapeutic cells to the target sites. Although they can be regarded as revolutionary research output and promote the development of tissue engineering, the defect of biological scaffolds in repairing cell-dense tissues is apparent. Cell sheet engineering (CSE) is a novel technique that supports enzyme-free cell detachment in the shape of a sheet-like structure. Compared with the traditional method of enzymatic digestion, products harvested by this technique retain extracellular matrix (ECM) secreted by cells as well as cell-matrix and intercellular junctions established during in vitro culture. Herein, we discussed the current status and recent progress of CSE in basic research and clinical application by reviewing relevant articles that have been published, hoping to provide a reference for the development of CSE in the field of stem cells and regenerative medicine.

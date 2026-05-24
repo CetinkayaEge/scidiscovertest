@@ -1,0 +1,9 @@
+Title: The Impact of Green Labels on Time Slot Choice and Operational Sustainability
+Authors: Niels Agatz, Yingjie Fan, Daan Stam
+Year: 2021
+Venue: Production and Operations Management
+DOI: https://doi.org/10.1111/poms.13368
+Paper ID: https://openalex.org/W3121355093
+
+Abstract:
+In this paper, we study the effectiveness of incentives on delivery service time slot choices. In particular, we focus on the use of green labels that specify time slots as environmentally friendly and that intrinsically motivate customers to choose a specific delivery time slot in lieu of price incentives based on extrinsic motivation. We argue that this is important since green labels’ intrinsic nature affects costumer choice in fundamentally different ways than price incentives. We conduct two experiments and two simulation studies to study the effects of using green labels. Our experimental findings suggest that: (i) green labels are an effective tool to steer shoppers toward a certain delivery option, (ii) green labels are more effective for people who are more eco‐conscious, (iii) green labels remain effective in the presence of price incentives, while price incentives offer little added value beyond that of just green labels, and (iv) the effectiveness of green labels vs. price discounts remains high when time slots are less appealing (i.e., longer). Our simulation findings suggest that green slots, compared to price incentives or no incentives, offer providers a way to effectively steer consumer time slot choices to yield shorter routes, fewer delivery vehicles used, and more per‐customer revenue. We thus conclude that steering individuals to select delivery time slots through intrinsic motivation via green labels may be a promising, no‐cost direction for (online) retailers and an important topic for further research.

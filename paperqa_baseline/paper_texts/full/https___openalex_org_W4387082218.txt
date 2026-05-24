@@ -1,0 +1,9 @@
+Title: Photocatalysis coupling with membrane technology for sustainable and continuous purification of wastewater
+Authors: Jinqiang Zhang, Hong Wu, Lei Shi, Zhentao Wu, Shu Zhang, Shaobin Wang, Hongqi Sun
+Year: 2023
+Venue: Separation and Purification Technology
+DOI: https://doi.org/10.1016/j.seppur.2023.125225
+Paper ID: https://openalex.org/W4387082218
+
+Abstract:
+Membrane separation and photocatalytic degradation are two important technologies for wastewater purification. However, practical applications are hindered by membrane fouling in membrane separation and the low efficiency of photocatalysis. A promising solution lies in the fusion of photocatalysis and membrane technology, capitalizing on their respective strengths and addressing their weaknesses. This comprehensive review endeavours to present a thorough examination of recent advancements in photocatalytic membrane materials and reactors for wastewater treatment. Key facets encompass the fundamentals of photodegradation, the contributions of different light bands to waste removal, various fabrication techniques for diverse types of photocatalytic membrane reactors, and the optimization of operational parameters. Notably, the innovative incorporation of the emerging photothermal effect into photocatalytic membrane technology has significantly augmented its efficiency and longevity in wastewater treatment. Furthermore, insightful commentary will be provided to assess the progress made in utilizing this cutting-edge technology for pollutant removal. Ultimately, the paper will conclude by summarizing key findings and addressing emerging challenges associated with the integration of these processes. The implementation of this advanced technology has the potential to revolutionize conventional wastewater treatment, offering a sustainable and environmentally friendly approach to large-scale wastewater purification.

@@ -1,0 +1,9 @@
+Title: Determination of Munsell Soil Colour Using Smartphones
+Authors: Sadia Sabrin Nodi, Manoranjan Paul, Nathan Robinson, Liang Wang, Sabih ur Rehman
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063181
+Paper ID: pmc_PMC10058488
+
+Abstract:
+Soil colour is one of the most important factors in agriculture for monitoring soil health and determining its properties. For this purpose, Munsell soil colour charts are widely used by archaeologists, scientists, and farmers. The process of determining soil colour from the chart is subjective and error-prone. In this study, we used popular smartphones to capture soil colours from images in the Munsell Soil Colour Book (MSCB) to determine the colour digitally. These captured soil colours are then compared with the true colour determined using a commonly used sensor (Nix Pro-2). We have observed that there are colour reading discrepancies between smartphone and Nix Pro-provided readings. To address this issue, we investigated different colour models and finally introduced a colour-intensity relationship between the images captured by Nix Pro and smartphones by exploring different distance functions. Thus, the aim of this study is to determine the Munsell soil colour accurately from the MSCB by adjusting the pixel intensity of the smartphone-captured images. Without any adjustment when the accuracy of individual Munsell soil colour determination is only 9 % for the top 5 predictions, the accuracy of the proposed method is 74 % , which is significant.

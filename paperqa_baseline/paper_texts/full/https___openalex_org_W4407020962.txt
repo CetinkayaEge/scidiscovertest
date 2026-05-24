@@ -1,0 +1,9 @@
+Title: Artificial Intelligence (AI)-driven approach to climate action and sustainable development
+Authors: Haein Cho, Emmanuel Ackom
+Year: 2025
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-53956-1
+Paper ID: https://openalex.org/W4407020962
+
+Abstract:
+Countries have pledged commitment to the 2030 Sustainable Development Goal (SDGs) and the Paris Agreement to combat climate change. To maximize synergies between SDGs and climate actions (CAs), we evaluate the alignment of national commitment to SDGs and emissions reduction targets by comparing action plans embodied in Voluntary National Review (VNR) reports and the Nationally Determined Contributions (NDCs) across 67 countries. An Artificial Intelligence (AI)-based approach is proposed in this study to explore the interconnectedness by applying machine learning classifier and natural language processing. Middle- and low-income countries with high emissions tend to have low NDC targets and contain similar information in VNR reports. High-income countries show less alignment between their NDCs and VNRs. The economic status of countries is found to be connected to their climate actions and SDGs alignment. Here, we demonstrate utility and promise in using AI techniques to unravel interactions between CA and SDG.

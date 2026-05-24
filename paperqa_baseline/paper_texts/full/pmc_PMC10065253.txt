@@ -1,0 +1,9 @@
+Title: Information accessibility, accounting manipulation, and sustainable development of digital enterprises: Based on double moderating effect model and panel PSM-DID method
+Authors: Shujuan Wu, Minmin Li, Jianhua Xiao, Jianhua Tang
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283843
+Paper ID: pmc_PMC10065253
+
+Abstract:
+A theoretical mechanism was analyzed from the micro perspective of the enterprise to explore how information accessibility moderates the effect of accounting manipulation on the sustainable development of digital enterprises. Using data from 1200 listing digital enterprises in China and the DEA-Malmquist index method, the efficiency value of digital enterprises in 2007–2021 was estimated to represent the index of sustainable development of digital enterprises. The accounting manipulation was detected using the panel PSM-DID method based on the Administrative Measures for the Recognition of High-tech Enterprise’s policy. The information accessibility value was estimated based on the MDA method. Empirical studies were conducted using text analysis, the panel PSM-DID method, and the double moderating effect model. The results showed that: (1) Accounting manipulation had a negative impact on the sustainable development of "true" digital enterprises and the "fake" digital enterprises. (2) Information accessibility directly and positively enhanced the technological progress and scale efficiency of digital enterprises, and its moderating effect was heterogeneous, with a significant moderating effect on the "true" digital enterprises and a negative effect on the "fake" ones.

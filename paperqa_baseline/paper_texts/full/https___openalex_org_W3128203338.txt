@@ -1,0 +1,9 @@
+Title: The efficiency in meeting measurable sustainable development goals
+Authors: Ladislava Grochová, Marek Litzman
+Year: 2021
+Venue: International Journal of Sustainable Development & World Ecology
+DOI: https://doi.org/10.1080/13504509.2021.1882606
+Paper ID: https://openalex.org/W3128203338
+
+Abstract:
+The recent challenges of the contemporary world have brought into question the long-term sustainability of human activities. In 2015, all the countries of the UN General Assembly made a commitment to promote sustainability in the Agenda 2030, which introduced a worldwide concept of 17 main goals in achieving sustainable development – Sustainable Development Goals (SDGs). To become successful in meeting the SDGs, the necessity of measuring, evaluating and controlling the goals emerges. The aim of our study is to enrich this area of research by introducing Data Envelopment Analysis (DEA) into the assessment of the level of the SDGs achievement and the measurement of the countries’ progress. We apply the DEA to compute the relative efficiency of the individual countries in fulfilling their commitment. The best performers that we identify are Finland, Japan and Iceland. Next, we estimate a year in which the individual countries may be able to achieve the SDGs if they continue with their current strategies. Following the actual pace of the improvements, we find that only five countries are on track to become relatively efficient by or around 2030.

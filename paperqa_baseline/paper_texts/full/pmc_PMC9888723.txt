@@ -1,0 +1,9 @@
+Title: Interactive multi-model fault diagnosis method of switched reluctance motor based on low delay anti-interference
+Authors: Yongqin Zhou, Chongchong Wang, Yongchao Wang, Yubin Wang, Yujia Chang
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0270536
+Paper ID: pmc_PMC9888723
+
+Abstract:
+Given fault false alarm and fault control failure caused by the decrease of fault identification accuracy and fault delay of Switched Reluctance Motor (SRM) power converter in complex working conditions, a method based on the Interactive Multi-Model (IMM) algorithm was proposed in this paper. Besides, the corresponding equivalent circuit models were established according to the different working states of the SRM power converter. The Kalman filter was employed to estimate the state of the model, and the fault detection and location were realized depending on the residual signal. Additionally, a transition probability correction function of the IMM was constructed using the difference of the n-th order to suppress the influence of external disturbance on the fault diagnosis accuracy. Concurrently, a model jump threshold was introduced to reduce delay when the matched model was switched, so as to realize the rapid separation of faults and effective fault control. The simulation and experiment results demonstrate that the IMM algorithm based on low delay anti-interference can effectively reduce the influence of complex working conditions, improve the anti-interference ability of SRM power converter fault diagnosis, and identify fault information accurately and quickly.

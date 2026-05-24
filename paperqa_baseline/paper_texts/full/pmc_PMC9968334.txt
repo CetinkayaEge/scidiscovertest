@@ -1,0 +1,9 @@
+Title: Real-time automatic temperature regulation during in vivo MRI-guided laser-induced thermotherapy (MR-LITT)
+Authors: Manon Desclides, Valéry Ozenne, Pierre Bour, Thibaut Faller, Guillaume Machinet, Christophe Pierre, Stéphane Chemouny, Bruno Quesson
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-29818-z
+Paper ID: pmc_PMC9968334
+
+Abstract:
+Precise control of tissue temperature during Laser-Induced Thermotherapy (LITT) procedures has the potential to improve the clinical efficiency and safety of such minimally invasive therapies. We present a method to automatically regulate in vivo the temperature increase during LITT using real-time rapid volumetric Magnetic Resonance thermometry (8 slices acquired every second, with an in-plane resolution of 1.4 mmx1.4 mm and a slice thickness of 3 mm) using the proton-resonance frequency (PRF) shift technique. The laser output power is adjusted every second using a feedback control algorithm (proportional-integral-derivative controller) to force maximal tissue temperature in the targeted region to follow a predefined temperature–time profile. The root-mean-square of the difference between the target temperature and the measured temperature ranged between 0.5 °C and 1.4 °C, for temperature increases between + 5 °C to + 30 °C above body temperature and a long heating duration (up to 15 min), showing excellent accuracy and stability of the method. These results were obtained on a 1.5 T clinical MRI scanner, showing a potential immediate clinical application of such a temperature controller during MR-guided LITT.

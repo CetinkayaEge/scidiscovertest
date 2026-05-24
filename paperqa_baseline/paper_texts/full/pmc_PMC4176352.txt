@@ -1,0 +1,9 @@
+Title: Essential role of eIF5-mimic protein in animal development is linked to control of ATF4 expression
+Authors: Hiroyuki Hiraishi, Jamie Oatman, Sherry L. Haller, Logan Blunk, Benton McGivern, Jacob Morris, Evangelos Papadopoulos, Wade Gutierrez, Michelle Gordon, Wahaj Bokhari, Yuka Ikeda, David Miles, John Fellers, Masayo Asano, Gerhard Wagner, Loubna Tazi, Stefan Rothenburg, Susan J. Brown, Katsura Asano
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku670
+Paper ID: pmc_PMC4176352
+
+Abstract:
+Translational control of transcription factor ATF4 through paired upstream ORFs (uORFs) plays an important role in eukaryotic gene regulation. While it is typically induced by phosphorylation of eIF2α, ATF4 translation can be also induced by expression of a translational inhibitor protein, eIF5-mimic protein 1 (5MP1, also known as BZW2) in mammals. Here we show that the 5MP gene is maintained in eukaryotes under strong purifying selection, but is uniquely missing in two major phyla, nematoda and ascomycota. The common function of 5MP from protozoa, plants, fungi and insects is to control translation by inhibiting eIF2. The affinity of human 5MP1 to eIF2β was measured as being equivalent to the published value of human eIF5 to eIF2β, in agreement with effective competition of 5MP with eIF5 for the main substrate, eIF2. In the red flour beetle, Tribolium castaneum , RNA interference studies indicate that 5MP facilitates expression of GADD34, a downstream target of ATF4. Furthermore, both 5MP and ATF4 are essential for larval development. Finally, 5MP and the paired uORFs allowing ATF4 control are conserved in the entire metazoa except nematoda. Based on these findings, we discuss the phylogenetic and functional linkage between ATF4 regulation and 5MP expression in this group of eukaryotes.

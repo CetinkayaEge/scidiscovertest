@@ -1,0 +1,9 @@
+Title: Visualizing Heterogeneous Protein Conformations with Multi-Tilt Nanoparticle-Aided Cryo-Electron Microscopy Sampling
+Authors: Changin Kim, Yeeun Kim, Sang Jin Lee, So Ri Yun, Jungkweon Choi, Seong Ok Kim, Yongsoo Yang, Hyotcherl Ihee
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00313
+Paper ID: pmc_PMC10141564
+
+Abstract:
+Obtaining the heterogeneous conformation of small proteins is important for understanding their biological role, but it is still challenging. Here, we developed a multi-tilt nanoparticle-aided cryo-electron microscopy sampling (MT-NACS) technique that enables the observation of heterogeneous conformations of small proteins and applied it to calmodulin. By imaging the proteins labeled by two gold nanoparticles at multiple tilt angles and analyzing the projected positions of the nanoparticles, the distributions of 3D interparticle distances were obtained. From the measured distance distributions, the conformational changes associated with Ca 2+ binding and salt concentration were determined. MT-NACS was also used to track the structural change accompanied by the interaction between amyloid-beta and calmodulin, which has never been observed experimentally. This work offers an alternative platform for studying the functional flexibility of small proteins.

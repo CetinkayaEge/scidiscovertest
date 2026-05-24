@@ -1,0 +1,9 @@
+Title: Modelling mood updating: a proof of principle study
+Authors: James E. Clark, Stuart Watson
+Year: 2023
+Venue: The British Journal of Psychiatry
+DOI: 10.1192/bjp.2022.175
+Paper ID: pmc_PMC9929713
+
+Abstract:
+Background Recent developments in computational psychiatry have led to the hypothesis that mood represents an expectation (prior belief) on the likely interoceptive consequences of action (i.e. emotion). This stems from ideas about how the brain navigates its external world by minimising an upper bound on surprisal (free energy) of sensory information and echoes developments in other perceptual domains. Aims In this paper we aim to present a simple partial observable Markov decision process that models mood updating in response to stressful or non-stressful environmental fluctuations while seeking to minimise surprisal in relation to prior beliefs about the likely interoceptive signals experienced with specific actions (attenuating or amplifying stress and pleasure signals). Method We examine how, by altering these prior beliefs we can model mood updating in depression, mania and anxiety. Results We discuss how these models provide a computational account of mood and its related psychopathology and relate it to previous research in reward processing. Conclusions Models such as this can provide hypotheses for experimental work and also open up the potential modelling of predicted disease trajectories in individual patients.

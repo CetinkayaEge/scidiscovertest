@@ -1,0 +1,9 @@
+Title: The use of artificial intelligence applications in medicine and the standard required for healthcare provider-patient briefings—an exploratory study
+Authors: Jeffrey David Iqbal, Markus Christen
+Year: 2022
+Venue: Digital Health
+DOI: 10.1177/20552076221147423
+Paper ID: pmc_PMC9806394
+
+Abstract:
+Introduction Digital Health Technologies (DHTs) are currently being funneled through legacy regulatory processes that are not adapted to the unique particularities of this new technology class. In the absence of adequate regulation of DHTs, the briefing of a patient by their healthcare provider (HCP) as a component of informed consent can present the last line of defense before potentially harmful technologies are employed on a patient. Methods This exploratory study utilizes a case vignette of a machine learning-based technology for the diagnosis of ischemic heart disease that is presented to a group of medical students, physicians, and bioethicists. What constitutes the necessary standard and content of the HCP–patient briefings is explored using a survey ( N = 34). Whether participants actually provide a sufficient HCP–patient briefing is evaluated based on audio recordings. Results and Conclusions We find that participants deem artificial intelligence use in medical context should be declared to patients and argue that the explanation should currently follow the standard required of other experimental procedures. Further, since our study provides indications that implementation of HCP–patient briefings lacks behind the identified standard, opportunities for incorporation of training on the use of DHTs into medical curricula and continuous training schedules should be considered.

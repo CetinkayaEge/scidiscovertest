@@ -1,0 +1,9 @@
+Title: The Role of Artificial Intelligence in Sustainable Agriculture and Waste Management: Towards a Green Future
+Authors: Daniel Hernandez, Lukita Pasha, David Arian Yusuf, Rifky Nurfaizi, Dwi Julianingsih
+Year: 2024
+Venue: International Transactions on Artificial Intelligence (ITALIC)
+DOI: https://doi.org/10.33050/italic.v2i2.552
+Paper ID: https://openalex.org/W4401830906
+
+Abstract:
+This study explores the application of artificial intelligence (AI) in achieving sustainable development goals, focusing on sustainable agriculture and waste management. Using a mixed-methods approach, we analyzed data from various case studies and conducted a comprehensive literature review. Our findings reveal that AI significantly enhances operational efficiency, resource optimization, and cost reduction across these sectors. For instance, AI-powered smart irrigation systems in India have reduced water usage by 30% while increasing crop yields, and AI applications in Singapore's waste management have improved recycling rates by 25%. Despite these benefits, challenges such as infrastructure limitations, the need for specialized technical skills, and societal resistance persist. By conducting in-depth interviews with experts and surveys with practitioners, we gathered extensive data that underscores the need for supportive policies, infrastructure investment, and comprehensive training programs to maximize AI's potential. Our research provides practical recommendations to overcome these challenges, aiming to fully leverage AI's capabilities for a greener, more sustainable future.

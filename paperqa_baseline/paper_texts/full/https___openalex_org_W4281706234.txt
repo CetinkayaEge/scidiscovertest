@@ -1,0 +1,9 @@
+Title: Neutral lightweight engineering: a holistic approach towards sustainability driven engineering
+Authors: Robert Kupfer, Levin Schilling, Sebastian Spitzer, M. Zichner, Μaik Gude
+Year: 2022
+Venue: Discover Sustainability
+DOI: https://doi.org/10.1007/s43621-022-00084-9
+Paper ID: https://openalex.org/W4281706234
+
+Abstract:
+Abstract The continuously growing social and political pressure to provide sustainable products is forcing also the lightweight industry to rethink current development and manufacturing processes. While established development approaches in lightweight engineering mainly focus on technical and economical product requirements they usually do not consider sustainability criteria. To address these challenges, a new class within the lightweight disciplines is proposed—the Neutral Lightweight Engineering . Its basic goal is to integrate sustainability criteria in all decisions along the development chain of a lightweight component. The decision makers in lightweight engineering thereby have to consider the whole life cycle of a product system from material sourcing to end-of-life part management. To implement this idea, advanced development methods are necessary, using established and emerging materials as well as efficient production and end-of-life strategies. This concept article introduces the idea of Neutral Lightweight Engineering and exemplary highlights some of its aspects before the background of scientific literature.

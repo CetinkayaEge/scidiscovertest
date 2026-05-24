@@ -1,0 +1,9 @@
+Title: SARS-CoV-2-Neutralizing Antibody Response and Correlation of Two Serological Assays with Microneutralization
+Authors: Amal Souiri, Sanaâ Lemriss, Bouchra El Maliki, Hamadi Falahi, Elmostafa El Fahime, Saâd El Kabbaj
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030590
+Paper ID: pmc_PMC10054367
+
+Abstract:
+SARS-CoV-2 has caused a huge pandemic affecting millions of people and resulting innumerous deaths. A better understanding of the correlation between binding antibodies and neutralizing antibodies is necessary to address protective immunity post-infection or vaccination. Here, we investigate the humoral immune response and the seroprevalence of neutralizing antibodies following vaccination with adenovirus-based vector in 177 serum samples. A Microneutralization (MN) assay was used as a reference method to assess whether neutralizing antibody titers correlated with a positive signal in two commercially available serological tests:a rapid lateral flow immune-chromatographic assay (LFIA) and an enzyme-linked Fluorescence Assay (ELFA). Neutralizing antibodies were detected in most serum samples (84%). COVID-19 convalescent individuals showed high antibody titers and significant neutralizing activity. Spearman correlation coefficients between the serological and neutralization results ranged from 0.8 to 0.9, suggesting a moderate to strong correlation between commercial immunoassays test results (LFIA and ELFA) and virus neutralization.

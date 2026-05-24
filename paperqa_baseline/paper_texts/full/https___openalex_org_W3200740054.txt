@@ -1,0 +1,9 @@
+Title: Bottom-up energy system models applied to sustainable islands
+Authors: Matteo Giacomo Prina, Daniele Groppi, Benedetto Nastasi, Davide Astiaso Garcia
+Year: 2021
+Venue: Renewable and Sustainable Energy Reviews
+DOI: https://doi.org/10.1016/j.rser.2021.111625
+Paper ID: https://openalex.org/W3200740054
+
+Abstract:
+This paper reviews the existing bottom-up energy system models applied at island level. The aim of the paper is to answer the following research questions: i) which energy system models are mostly used at island level? ii) Are national scale models also used for island applications? If yes, which type of additional constraints or adaptations are implemented? iii) A classification of these constraints will be provided in the paper. iv) Which are the main challenges of energy system models applied at insular level? The mostly used bottom-up energy system models are EnergyPLAN, unit commitment models and HOMER. Almost 37% of the analysed studies present models specifically designed for insular applications. The remaining part utilizes models originally designed for Country (47%) or micro-grid (16%) level applications. The additional constraints required by insular applications have been identified to be: reliability and robustness of the power grid, water desalination, vehicle to grid, demand response and maritime transport. The results have shown that the identified additional constraints are more frequently implemented by models that are specifically designed for insular applications. In particular, unit commitment models are capable to take directly into account reliability and robustness of the power grid constraints while models such as EnergyPLAN, HOMER and H2RES have to use alternative simplified methods based on the use of indicators to account for them.

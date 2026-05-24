@@ -1,0 +1,9 @@
+Title: A Comparison of Multi-Criteria Decision Analysis Methods for Sustainability Assessment of District Heating Systems
+Authors: Jānis Daugavietis, Raimonda Soloha, Elīna Dāce, Jeļena Ziemele
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15072411
+Paper ID: https://openalex.org/W4220986058
+
+Abstract:
+The sustainability of energy systems is increasingly assessed for development of more resilient, greener district heating (DH) systems. That requires compiling technological, environmental, and economic indicators in a social, political, and institutional context. This work investigates DH system sustainability analysis by five frequently applied multi-criteria decision analysis (MCDA) methods—WSM, TOPSIS, PROMETHEE, ELECTRE and DEA. To compare the sustainability assessment results, a selection of 8 criteria describing 12 DH companies (DHC) was examined. Sensitivity analysis was performed to determine the most credible MCDA method. Criteria weights were changed: (1) individually for evaluation of the range of stability for alternatives (score of DHC performance); (2) individually by a fixed value to compare how each criterion weight change affected the average score of a result; and (3) to compare the AHP weighting method to an equal weight scenario. The results of sensitivity analysis along with literature investigation shows that all methods are suitable for sustainability analyses of DH systems while also having differences in the calculation process and in the interpretation of results. The generalized algorithm for sustainability analysis in the energy sector outlined in this study along with the documented features of the main MCDA methods can be used as a guide for future assessment of energy systems by researchers and industry professionals.

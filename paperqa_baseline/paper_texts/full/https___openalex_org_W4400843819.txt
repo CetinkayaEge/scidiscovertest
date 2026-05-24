@@ -1,0 +1,9 @@
+Title: FinTech and sustainable development: A systematic thematic analysis using human- and machine-generated processing
+Authors: Morshadul Hasan, Ariful Hoque, Mohammad Zoynul Abedin, Dominic Gasbarro
+Year: 2024
+Venue: International Review of Financial Analysis
+DOI: https://doi.org/10.1016/j.irfa.2024.103473
+Paper ID: https://openalex.org/W4400843819
+
+Abstract:
+We conducted a systematic literature review (SLR) by integrating FinTech with the the United Nations' (UN) Sustainable Development Goals (SDGs). By focusing on three dimensions (inclusive finance, economy, and environment), we identify how FinTech may influence sustainable development. We innovate using human- and machine-generated processing to develop themes, making systematic literature reviews more objective and advancing replicability and reproducibility. This study demonstrates the contribution of FinTech in expanding the investment opportunity set by including environmental projects and increasing the diversity and participation rates of savers and lenders. Through this process, FinTech increases its market completeness. Accordingly, FinTech can increase economic growth by achieving higher productivity and sustainable growth through diversification, technological upgrades, entrepreneurship, creativity, and innovation. Additionally, FinTech can accelerate investments in poverty eradication and reduce income inequality. These contributions are aligned with specific SDGs and show that FinTech is an appropriate new technology for financial services.

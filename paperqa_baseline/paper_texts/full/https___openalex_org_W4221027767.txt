@@ -1,0 +1,9 @@
+Title: Environmental sustainability technologies in biodiversity, energy, transportation and water management using artificial intelligence: A systematic review
+Authors: Emmanuel Kwame Nti, Samuel Jerry Cobbina, Eunice Efua Attafuah, Evelyn Opoku, Michael Amoah Gyan
+Year: 2022
+Venue: Sustainable Futures
+DOI: https://doi.org/10.1016/j.sftr.2022.100068
+Paper ID: https://openalex.org/W4221027767
+
+Abstract:
+Artificial Intelligence (AI) has become an important area to tackle most environmental sustainability issues such as biodiversity, energy, transportation and water management. Biodiversity research has developed machine learning or natural language processing solutions to predict ecosystem services. Artificial intelligence applications and machine learning models have been increasingly used for predicting and optimizing water resource conservation. Area neural network, expert systems, pattern recognition, and fuzzy logic models are the main focus areas in energy. Applications of computer vision and decision support were found in transportation. Timely monitoring of interventions is required to improve environmental sustainability.

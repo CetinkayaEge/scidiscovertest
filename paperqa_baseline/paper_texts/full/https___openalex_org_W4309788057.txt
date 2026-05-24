@@ -1,0 +1,9 @@
+Title: An Empirical Framework for Assessment of the Effects of Digital Technologies on Sustainability Accounting and Reporting in the European Union
+Authors: Anca Antoaneta Vărzaru
+Year: 2022
+Venue: Electronics
+DOI: https://doi.org/10.3390/electronics11223812
+Paper ID: https://openalex.org/W4309788057
+
+Abstract:
+Sustainability accounting and reporting is an emerging area of accounting that is receiving increasing attention as a result of sustainability requirements. In this paper, we examine the effects of implementing digital technology on sustainability accounting and reporting. This research consists of an empirical study at the level of 21 European Union countries using data provided by Eurostat. Transversal research emphasizes the impact of digital technologies (cloud computing, Big Data, the Internet of things, and artificial intelligence) on sustainability accounting and reporting. In this paper, we highlight the relationships between variables using artificial neural network analysis and cluster analysis. The study findings indicate that digital technologies significantly influence the sustainability accounting and reporting and sustainability-oriented culture of the countries included in the empirical study. A cluster analysis reveals a group of countries at the top of the sustainability reporting rankings as a result of advances in digital technologies. This study demonstrates that the digital transformation produced by Industry 4.0 contributes to the potential improvement of sustainability accounting and reporting, with significant links between sustainability and digitization.

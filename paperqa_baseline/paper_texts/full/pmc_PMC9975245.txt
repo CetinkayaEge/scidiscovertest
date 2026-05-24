@@ -1,0 +1,9 @@
+Title: Explicating the recognition phenomenon of hazardous nitro-aromatic compound from contaminated environmental and cellular matrices by rationally designed pyridine-functionalized molecular probes
+Authors: Amita Mondal, Abhijit Hazra, Mohit Kumar Chattopadhyay, Debojyoti Kundu, Swarup Kumar Tarai, Pritam Biswas, Ashish Bhattacharjee, Sukdeb Mandal, Priyabrata Banerjee
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13620
+Paper ID: pmc_PMC9975245
+
+Abstract:
+In the quest of recognizing hazardous nitro-aromatic compounds in water, two pyridine-functionalized Schiff-base chemosensors, DMP ((E)-N-(3,4-dimethoxybenzylidene)(pyridin-2-yl)methanamine)) and MP (4-((E)-((pyridin-2-yl)methylimino)methyl)-2-ethoxyphenol) have been synthesized to detect mutagenic 2,4,6-Trinitrophenol (TNP) in soil, water as well as cellular matrices by producing turn-off emission responses as a combined consequence of PET and RET processes. Several experimental analyses including ESI-MS, FT-IR, photoluminescence, 1 H NMR titration, and the theoretical calculations ascertained the formation and sensing efficacies of the chemosensors. The analytical substantiations revealed that structural variation of the chemosensors played a significant role in improving the sensing efficiency, which would certainly be worthwhile in developing small molecular TNP sensors. The present work depicted that the electron density within the MP framework was more than that of DMP due to the intentional incorporation of –OEt and –OH groups. As a result, MP represented a strong interaction mode towards the electron-deficient TNP with a detection limit of 39 μM. Graphical abstract Image 1

@@ -1,0 +1,9 @@
+Title: Development of a Computational Pregnant Female Phantom and Calculation of Fetal Dose During a Photon Breast Radiotherapy
+Authors: Vjekoslav Kopacin, Mladen Kasabasic, Dario Faj, Marijke de Saint Hubert, Stipe Galic, Ana Ivkovic, Marija Majer, Hrvoje Brkic
+Year: 2022
+Venue: Radiology and Oncology
+DOI: 10.2478/raon-2022-0039
+Paper ID: pmc_PMC9784366
+
+Abstract:
+Abstract Background The incidence of carcinoma during pregnancy is reported to be 1:1000–1:1500 pregnancies with the breast carcinoma being the most commonly diagnosed. Since the fetus is most sensitive to ionizing radiation during the first two trimesters, there are mixed clinical opinions and no uniform guidelines on the use of radiotherapy during pregnancy. Within this study the pregnant female phantom in the second trimester, that can be used for radiotherapy treatment planning (as DICOM data), Monte Carlo simulations (as voxelized geometry) and experimental dosimetry utilizing 3D printing of the molds (as .STL files), was developed. Materials and methods The developed phantom is based on MRI images of a female patient in her 18th week of pregnancy and CT images after childbirth. Phantom was developed in such a manner that a pregnant female was scanned “ in vivo ” using MRI during pregnancy and CT after childbirth. For the treatment of left breast carcinoma, 3D conformal radiotherapy was used. The voxelized geometry of the phantom was used for Monte Carlo (MC) simulations using Monte Carlo N-Particle transport code TM 6.2 (MCNP). Conclusions The modeled photon breast radiotherapy plan, applied to the phantom, indicated that the fetus dose is 59 mGy for 50 Gy prescribed to the breast. The results clearly indicate that only 9.5% of the fetal dose is caused by photons that are generated in the accelerator head through scattering and leakage, but the dominant component is scattered radiation from the patient’s body.

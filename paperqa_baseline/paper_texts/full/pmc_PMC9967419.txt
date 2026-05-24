@@ -1,0 +1,9 @@
+Title: Untargeted Metabolomics Based Prediction of Therapeutic Potential for Apigenin and Chrysin
+Authors: Cole Cochran, Katelyn Martin, Daniel Rafferty, Jennifer Choi, Angela Leontyev, Akanksh Shetty, Sonali Kurup, Prasanth Puthanveetil
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24044066
+Paper ID: pmc_PMC9967419
+
+Abstract:
+The prominent flavonoids apigenin and chrysin have been demonstrated to have systemic benefits. Our previous work was first to establish the impact of apigenin and chrysin on cellular transcriptome. In the current study, we have revealed the ability of apigenin and chrysin to alter the cellular metabolome based on our untargeted metabolomics. Based on our metabolomics data, both these structurally related flavonoids demonstrate diverging and converging properties. Apigenin demonstrated the potential to possess anti-inflammatory and vasorelaxant properties through the upregulation of intermediate metabolites of alpha-linolenic acid and linoleic acid pathways. Chrysin, on the other hand, exhibited abilities to inhibit protein and pyrimidine synthesis along with downregulation of gluconeogenesis pathways based on the altered metabolites detected. Chrysin-mediated metabolite changes are mostly due to its ability to modulate L-alanine metabolism and the urea cycle. On the other hand, both the flavonoids also demonstrated converging properties. Apigenin and chrysin were able to downregulate metabolites involved in cholesterol biosynthesis and uric acid synthesis, namely 7-dehydrocholesterol and xanthosine, respectively. This work will provide understanding regarding the diverse therapeutic potential of these naturally occurring flavonoids and help us in curbing an array of metabolic complications.

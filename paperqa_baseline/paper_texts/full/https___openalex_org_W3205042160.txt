@@ -1,0 +1,9 @@
+Title: GIS-based for prediction and prevention of environmental geological disaster susceptibility: From a perspective of sustainable development
+Authors: Xuedong Wang, Chaobiao Zhang, Cui Wang, Guangwei Liu, Hanxi Wang
+Year: 2021
+Venue: Ecotoxicology and Environmental Safety
+DOI: https://doi.org/10.1016/j.ecoenv.2021.112881
+Paper ID: https://openalex.org/W3205042160
+
+Abstract:
+Geological disasters seriously threaten the safety of human life, property, ecological resources, and the environment. Effective control of geological disasters is the focus of achieving sustainable social development. The Helong City (Jilin Province, China) was selected as the case study. Combined with GIS technology, a new integrated prediction model of geological disaster susceptibility was developed to improve the accuracy of geological disaster assessment, reduce the cost of geological disaster treatment, and ensure the sustainable development of ecological environment. The research results showed that elevation and normalized difference vegetation index (NDVI) were the key factors affecting susceptibility. Compared with the conventional model, the accuracy of the developing integrated model FR-DT and FR-RF was improved by more than 6%, and the disaster points were more concentrated in the high susceptibility zone. Statistical results of disaster treatment cost estimation and gross domestic product (GDP) value showed that the integrated model can save about 10% of treatment cost, and the ratio of total GDP/disaster governance cost was higher. The performance of the integrated model FR-DT and FR-RF had obvious advantages over the conventional model in terms of prediction accuracy, prevention pertinence, and prevention cost. These research results promote the advancement of geological disaster prevention and control technology, ensure the safety of the geological environment, and are of great significance to the sustainable development of the regional economy.

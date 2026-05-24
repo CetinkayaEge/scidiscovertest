@@ -1,0 +1,9 @@
+Title: AMIGOS III: pseudo-torsion angle visualization and motif-based structure comparison of nucleic acids
+Authors: Morgan Shine, Chengxin Zhang, Anna Marie Pyle
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btac207
+Paper ID: pmc_PMC9113296
+
+Abstract:
+Abstract Motivation The full description of nucleic acid conformation involves eight torsion angles per nucleotide. To simplify this description, we previously developed a representation of the nucleic acid backbone that assigns each nucleotide a pair of pseudo-torsion angles (eta and theta defined by P and C4ʹ atoms; or etaʹ and thetaʹ defined by P and C1ʹ atoms). A Java program, AMIGOS II, is currently available for calculating eta and theta angles for RNA and for performing motif searches based on eta and theta angles. However, AMIGOS II lacks the ability to parse DNA structures and to calculate etaʹ and thetaʹ angles. It also has little visualization capacity for 3D structure, making it difficult for users to interpret the computational results. Results We present AMIGOS III, a PyMOL plugin that calculates the pseudo-torsion angles eta, theta, etaʹ and thetaʹ for both DNA and RNA structures and performs motif searching based on these angles. Compared to AMIGOS II, AMIGOS III offers improved pseudo-torsion angle visualization for RNA and faster nucleic acid worm database generation; it also introduces pseudo-torsion angle visualization for DNA and nucleic acid worm visualization. Its integration into PyMOL enables easy preparation of tertiary structure inputs and intuitive visualization of involved structures. Availability and implementation https://github.com/pylelab/AMIGOSIII . Supplementary information Supplementary data are available at Bioinformatics online.

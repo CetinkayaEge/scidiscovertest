@@ -1,0 +1,9 @@
+Title: Crucial Role of Lysine-Specific Histone Demethylase 1 in RANKL-Mediated Osteoclast Differentiation
+Authors: Mina Ding, Zhihao Chen, Eunjin Cho, Sang-Wook Park, Tae-Hoon Lee
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043605
+Paper ID: pmc_PMC9967819
+
+Abstract:
+Epigenetic regulators are involved in osteoclast differentiation. This study proposes that the inhibitors of epigenetic regulators could be effective in the treatment of osteoporosis. This study identified GSK2879552, a lysine-specific histone demethylase 1 (LSD1) inhibitor, as a candidate for the treatment of osteoporosis from epigenetic modulator inhibitors. We investigate the function of LSD1 during RANKL-induced osteoclast formation. LSD1 small-molecule inhibitors effectively inhibit the RANKL-induced osteoclast differentiation in a dose-dependent manner. LSD1 gene knockout in macrophage cell line Raw 264.7 also inhibits RANKL-mediated osteoclastogenesis. LSD1-inhibitor-treated primary macrophage cells and LSD1 gene knockout Raw 264.7 cells failed to show actin ring formation. LSD1 inhibitors prevent the expression of RANKL-induced osteoclast-specific genes. They also downregulated the protein expression of osteoclast-related markers in osteoclastogeneses, such as Cathepsin K, c-Src, and NFATc1. Although LSD1 inhibitors were shown to reduce the in vitro demethylation activity of LSD1, they did not modulate the methylation of Histone 3 K4 and K9 during osteoclastogenesis. The ovariectomy (OVX)-induced osteoporosis model revealed that GSK2879552 slightly restores OVX-induced cortical bone loss. LSD1 can be employed as a positive regulator to promote osteoclast formation. Hence, inhibition of LSD1 activities is a potential target for preventing bone diseases characterized by excessive osteoclast activities.

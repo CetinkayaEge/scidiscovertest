@@ -1,0 +1,9 @@
+Title: Measurement of Simple Reaction Time of the Cyclist in the Laboratory and Natural Environment Condition
+Authors: Michał Żak, Grzegorz Mikrut, Grzegorz Sobota
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083898
+Paper ID: pmc_PMC10142047
+
+Abstract:
+The most commonly used reaction time tests within the athlete community require appropriate testing conditions and equipment, most frequently laboratory ones, which are not suitable for testing athletes in their natural environment and do not fully represent athletes’ natural capabilities and the influence of the surrounding environment. Therefore, this study’s goal is to compare the simple reaction times (SRTs) of cyclists during tests in laboratory conditions and in natural cycling surroundings. The young cyclists (55 participants) took part in the study. The SRT was measured in a quiet laboratory room with the use of the special device. During riding and standing with a bike outdoors, the necessary signal was captured and transmitted by a folic tactile sensor (FTS) and an extra intermediary circuit (both invented by our team member) connected to a muscle activity measurement system (Noraxon DTS Desktop, Scottsdale, AZ, USA). The results showed that external conditions significantly affect the SRT, with it being the longest when riding and the shortest if measured in an isolated laboratory room, but without an effect of gender. Typically, men have a shorter reaction time, but our result supports other observations, where people with an active lifestyle show no sex differentiation in SRT. The proposed FTS with an intermediary circuit allowed us to measure SRT with the use of non-dedicated equipment and avoid buying a new one for a single specific use.

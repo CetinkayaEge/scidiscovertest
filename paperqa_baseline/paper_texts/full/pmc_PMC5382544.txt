@@ -1,0 +1,9 @@
+Title: Integrating uniform design and response surface methodology to optimize thiacloprid suspension
+Authors: Bei-xing Li, Wei-chang Wang, Xian-peng Zhang, Da-xia Zhang, Wei Mu, Feng Liu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46018
+Paper ID: pmc_PMC5382544
+
+Abstract:
+A model 25% suspension concentrate (SC) of thiacloprid was adopted to evaluate an integrative approach of uniform design and response surface methodology. Tersperse2700, PE1601, xanthan gum and veegum were the four experimental factors, and the aqueous separation ratio and viscosity were the two dependent variables. Linear and quadratic polynomial models of stepwise regression and partial least squares were adopted to test the fit of the experimental data. Verification tests revealed satisfactory agreement between the experimental and predicted data. The measured values for the aqueous separation ratio and viscosity were 3.45% and 278.8 mPa·s, respectively, and the relative errors of the predicted values were 9.57% and 2.65%, respectively (prepared under the proposed conditions). Comprehensive benefits could also be obtained by appropriately adjusting the amount of certain adjuvants based on practical requirements. Integrating uniform design and response surface methodology is an effective strategy for optimizing SC formulas.

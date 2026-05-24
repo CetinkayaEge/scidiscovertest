@@ -1,0 +1,9 @@
+Title: Business angels and firm performance: First evidence from population data
+Authors: Magnus Lodefalk, Fredrik W. Andersson
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283690
+Paper ID: pmc_PMC10062610
+
+Abstract:
+Business angels dominate early-stage investment in firms, but research on their effects on firms is scarce and limited by sample selection. To address sample selection, we propose using population data and we develop an algorithm for identifying business angel investments in such data. We illustrate this novel approach by applying it to detailed and longitudinal total population data for individuals and firms in Sweden. In our application, we focus on a subset of business angels—active business angels who are themselves successful entrepreneurs with a profitable exit. We then study active business angels’ effects on firm performance, using population data. Employing a quasi-experimental estimator, we find that the business angels invest in firms that already perform above par. There is also a positive effect on subsequent growth compared with control firms. However, contrary to previous research on business angels, we cannot find any impact on firm survival. Overall, the paper underlines the need to address sample selection when studying business angels and suggests using population data for identification.

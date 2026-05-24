@@ -1,0 +1,9 @@
+Title: Does institutional quality matter for environmental sustainability?
+Authors: Dezhen Li, Yuting Bai, Yu Pingping, Muhammad Saeed Meo, Alvena Anees, Saif Ur Rahman
+Year: 2022
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2022.966762
+Paper ID: https://openalex.org/W4286560712
+
+Abstract:
+The prime objective of the study is to examine the asymmetric effect of institutional quality and other control variables on environmental sustainability in G7 economies. The study examined data from 1986 to 2020 using a nonlinear ARDL (NARDL) technique. The outcomes of the study show heterogeneous results for the sampled economies. The findings confirm the asymmetric relationship between institutional quality, foreign direct investment, trade openness, and economic growth, and environmental sustainability in G7 countries. Furthermore, the study finds that neglecting the series’ inherent nonlinearities may lead to misleading inferences. The findings suggest that policies should be based on individual country characteristics and that no single policy can be a good fit for devising environmental sustainability measures.

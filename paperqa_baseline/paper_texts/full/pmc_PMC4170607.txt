@@ -1,0 +1,9 @@
+Title: HERG1 functions as an oncogene in pancreatic cancer and is downregulated by miR-96
+Authors: Jin Feng, Junbo Yu, Xiaolin Pan, Zengliang Li, Zheng Chen, Wenjie Zhang, Bin Wang, Li Yang, Hao Xu, Guoxin Zhang, Zekuan Xu
+Year: 2014
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.2200
+Paper ID: pmc_PMC4170607
+
+Abstract:
+Pancreatic cancer is an aggressive malignancy with an extremely poor prognosis. The human ether-a-go-go-related potassium channel (HERG1) is a human rapid delayed rectifier, which is involved in many crucial cellular events. In this article, we find that HERG1 expression is dramatically increased both in pancreatic cancer tissues and cell lines, and that increased HERG1 expression is significantly related to the development of pancreatic cancer. HERG1 silencing in pancreatic cancer-derived cell lines PANC-1 and CFPAC-1 strongly inhibits their malignant capacity in vitro as well as tumorigenicity and metastasis in nude mice. In addition, HERG1 is identified as a direct target of miR-96, which is downregulated in pancreatic cancer tissues and cell lines. Ectopic expression of miR-96 represses the HERG1 expression in pancreatic cancer and significantly inhibits malignant behavior of pancreatic cancer cells in vitro and in vivo . Collectively, our findings suggest that miR-96 acts as a tumor suppressor in pancreatic cancer and may therefore serve as a useful therapeutic target for the development of new anticancer therapy.

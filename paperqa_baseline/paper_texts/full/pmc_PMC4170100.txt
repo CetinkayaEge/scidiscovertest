@@ -1,0 +1,9 @@
+Title: From dusk till dawn: the Arabidopsis thaliana sugar starving responsive network
+Authors: Maria C. Arias, Sandra Pelletier, Frédérique Hilliou, Fabrice Wattebled, Jean-Pierre Renou, Christophe D'Hulst
+Year: 2014
+Venue: Frontiers in Plant Science
+DOI: 10.3389/fpls.2014.00482
+Paper ID: pmc_PMC4170100
+
+Abstract:
+Plant growth and development are tightly controlled by photosynthetic carbon availability. The understanding of mechanisms governing carbon partitioning in plants will be a valuable tool in order to satisfy the rising global demand for food and biofuel. The goal of this study was to determine if sugar starvation responses were transcriptionally coordinated in Arabidopsis thaliana . A set of sugar-starvation responsive (SSR) genes was selected to perform a co-expression network analysis. Posteriorly, a guided-gene approach was used to identify the SSR-network from public data and to discover candidate regulators of this network. In order to validate the SSR network, a global transcriptome analysis was realized on three A. thaliana starch-deficient mutants. The starch-deficient phenotype in leaves induces sugar starvation syndrome at the end of the night due to the absence of photosynthesis. Promoter sequences of genes belonging to the SSR-network were analyzed in silico reveling over-represented motifs implicated in light, abscisic acid, and sugar responses. A small cluster of protein encoding genes belonging to different metabolic pathways, including three regulatory proteins, a protein kinase, a transcription factor, and a blue light receptor, were identified as the cornerstones of the SSR co-expression network. In summary, a large transcriptionally coordinated SSR network was identified and was validated with transcriptional data from three starch-deficient mutant lines. Candidate master regulators of this network were point out.

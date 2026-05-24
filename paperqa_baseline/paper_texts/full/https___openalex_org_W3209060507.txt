@@ -1,0 +1,9 @@
+Title: Second life and recycling: Energy and environmental sustainability perspectives for high-performance lithium-ion batteries
+Authors: Yanqiu Tao, Christopher D. Rahn, Lynden A. Archer, Fengqi You
+Year: 2021
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abi7633
+Paper ID: https://openalex.org/W3209060507
+
+Abstract:
+Second life and recycling of retired automotive lithium-ion batteries (LIBs) have drawn growing attention, as large volumes of LIBs will retire in the coming decade. Here, we illustrate how battery chemistry, use, and recycling can influence the energy and environmental sustainability of LIBs. We find that LIBs with higher specific energy show better life cycle environmental performances, but their environmental benefits from second life application are less pronounced. Direct cathode recycling is found to be the most effective in reducing life cycle environmental impacts, while hydrometallurgical recycling provides limited sustainability benefits for high-performance LIBs. Battery design with less aluminum and alternative anode materials, such as silicon-based anode, could enable more sustainable LIB recycling. Compared to directly recycling LIBs after their electric vehicle use, carbon footprint and energy use of LIBs recycled after their second life can be reduced by 8 to 17% and 2 to 6%, respectively.

@@ -1,0 +1,9 @@
+Title: Multi-Scenario Simulation of Land Use for Sustainable Development Goals
+Authors: Min Cao, Lijiao Chang, Shangjing Ma, Zijun Zhao, Kai Wu, Xue Hu, Qiushi Gu, Guonian Lü, Min Chen
+Year: 2022
+Venue: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+DOI: https://doi.org/10.1109/jstars.2022.3152904
+Paper ID: https://openalex.org/W4226500185
+
+Abstract:
+Considering the UN sustainable development goals (SDGs) released in 2015, this article constructed an SDG-oriented land use simulation (SDG-LUS) model incorporating SDG-oriented system dynamics (SDG-SD) and SDG-oriented cellular automata (SDG-CA), and utilized it to simulate land use changes in the Yangtze river delta region. The SDG-SD model was developed to predict the land use demands from 2021 to 2030 under the constraints of multiple SDG indicators, including economic indicators (SDG2.3.1 and SDG8.1.1), social indicators (SDG3.c.1, SDG4.1.2, SDG5.b.1, SDG9.C.1, SDG 9.1.2, SDG11.2.1, and SDG11.7.1) and environmental indicators (SDG6.3.1 and SDG11.6.2). Four sustainable development scenarios, including reference, economic development, environmental protection and social progress scenarios, were established by utilizing the index and indicator board of the SDG indicators in 2030. Then, the SDG-CA model was applied to spatialize and simulate the land use evolution from 2021 to 2030 under different sustainable development scenarios. The results validate the applicability of the SDG-LUS model, and confirm that scenario simulations of different sustainability levels are conducive to supporting the formulation of sustainable land use plans.

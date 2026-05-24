@@ -1,0 +1,9 @@
+Title: A high-efficiency discretized immersed boundary method for moving boundaries in incompressible flows
+Authors: Dong Xu, Jianing Liu, Yunfeng Wu, Chunning Ji
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28878-5
+Paper ID: pmc_PMC9887058
+
+Abstract:
+The Immersed Boundary Method (IBM) has an advantage in simulating fluid–structure interaction, owning to its simplicity, intuitiveness, and ease of handling complex object boundaries. The interpolation function plays a vital role in IBM and it is usually computationally intensive. For moving or deforming solids, the interpolation weights of all the immersed boundary points ought to be updated every time step, which takes quite a lot CPU time. Since the interpolation procedure within all uniform structured grids is highly repetitive and very similar, we propose a simple and generalized Discretized Immersed Boundary Method (DIBM), which significantly improves efficiency by discretizing the interpolation functions onto subgrid points within each control volume and reusing a predefined universal interpolation stencil. The accuracy and performance of DIBM are analyzed using both theoretical estimation and simulation tests. The results show speedup ratios of 30–40 or even higher using DIBM when compared with conventional IBM for typical moving boundary simulations like particle-laden flows, while the error is estimated to be under 1% and can be further decreased by using finer subgrid stencils. By balancing the performance and accuracy demands, DIBM provides an efficient alternative framework for handling moving boundaries in incompressible viscous flows.

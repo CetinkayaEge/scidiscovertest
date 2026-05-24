@@ -1,0 +1,9 @@
+Title: An Innovative and Interactive Teaching Model for Cultivating Talent’s Digital Literacy in Decision Making, Sustainability, and Computational Thinking
+Authors: Yu‐Hsi Yuan, Chia‐Hui Liu, Szu-Sheng Kuang
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13095117
+Paper ID: https://openalex.org/W3157666632
+
+Abstract:
+In the modern era, talent cultivation plays an essential role in the transition process to sustainable development. The emerging direction of talent cultivation is intended to achieve global competence in computational thinking and digital literacy; however, there is still a gap in Taiwan. Scholars and educators have identified the contents of digital literacy, which include statistical concepts, data analysis skills, and critical thinking. To fill this gap, this study proposed an innovative educational teaching method that integrates data visualization techniques and critical thinking training to improve students’ decision-making literacy. An experiment on the curriculum with a one-group pre-test and post-test design was conducted for 79 participants. The data consisted of a geographical data map, visualized data diagrams, and a statistical test; the scores for critical thinking, academic self-confidence, and academic performance were separated into high, middle, and low achievement groups. For data analysis, the bootstrapping method (resampled 1000 times), paired sample t-test, and ANCOVA were applied for data analysis to compare the difference between each independent group. The results showed that the post-test scores (statistic test M = 9.59, infographic test M = 6.09, map test M = 5.02) were higher than the pre-test scores (statistic test M = 7.15, infographic test M = 3.46, map test M = 3.13). The most significant implication is the innovative teaching approach based on integrated data visualization and critical thinking. It plays a very significant role in enhancing decision-making abilities.

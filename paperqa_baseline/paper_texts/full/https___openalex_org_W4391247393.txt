@@ -1,0 +1,9 @@
+Title: Sustainable CNC machining operations, a review
+Authors: Mohsen Soori, Fooad Karımı Ghaleh Jough, Roza Dastres, Behrooz Arezoo
+Year: 2024
+Venue: Sustainable Operations and Computers
+DOI: https://doi.org/10.1016/j.susoc.2024.01.001
+Paper ID: https://openalex.org/W4391247393
+
+Abstract:
+To minimize the quantities of carbon emissions produced by the production process, sustainable manufacturing should be implemented. CNC machining operations can be made more sustainable by optimizing machining parameters to reduce material waste and energy consumption. In order to achieve sustainable CNC machining operations, cutting tool paths can be optimized. Investing in energy-efficient CNC machines can significantly reduce energy consumption to minimize the negative impact of CNC machining operations. Virtual simulation and analysis of CNC machining operations can be used to identify areas where sustainable practices can be implemented in order to reduce waste and improve efficiency during machining operations. The study aims to provide a comprehensive overview of the current state of sustainable CNC machining practices by summarizing the latest research and developments in this field. It identifies the economic and environmental benefits of sustainable CNC machining, such as reduced operational costs, improved resource utilization, and compliance with environmental regulations. It offers insights into the latest advancements, practices, and future prospects, encouraging manufacturers to embrace sustainable CNC machining as a pivotal step towards a greener and more efficient manufacturing ecosystem. Thus, the efficiency and product safety of the process of producing parts with CNC machine tools can be improved.

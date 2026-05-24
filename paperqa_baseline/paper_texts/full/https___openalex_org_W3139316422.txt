@@ -1,0 +1,9 @@
+Title: Detecting Effect of Levodopa in Parkinson’s Disease Patients Using Sustained Phonemes
+Authors: Nemuel D. Pah, Mohammod A. Motin, Peter Kempster, Dinesh K. Kumar
+Year: 2021
+Venue: IEEE Journal of Translational Engineering in Health and Medicine
+DOI: https://doi.org/10.1109/jtehm.2021.3066800
+Paper ID: https://openalex.org/W3139316422
+
+Abstract:
+BACKGROUND: Parkinson's disease (PD) is a multi-symptom neurodegenerative disease generally managed with medications, of which levodopa is the most effective. Determining the dosage of levodopa requires regular meetings where motor function can be observed. Speech impairment is an early symptom in PD and has been proposed for early detection and monitoring of the disease. However, findings from previous research on the effect of levodopa on speech have not shown a consistent picture. METHOD: stages, and from 22 healthy participants. The differences were statistically investigated, and the features were classified using Support Vector Machine (SVM). RESULTS: achieved an AUC of 0.81. CONCLUSION: Studies of phonation by computerized voice analysis in PD should employ recordings of multiple phonemes. Our findings are potentially relevant in research to identify early parkinsonian dysarthria, and to tele-monitoring of the levodopa response in patients with established PD.

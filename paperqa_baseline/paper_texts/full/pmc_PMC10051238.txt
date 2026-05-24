@@ -1,0 +1,9 @@
+Title: Deep Mutational Scanning to Predict Escape from Bebtelovimab in SARS-CoV-2 Omicron Subvariants
+Authors: Mellissa C. Alcantara, Yusuke Higuchi, Yuhei Kirita, Satoaki Matoba, Atsushi Hoshino
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030711
+Paper ID: pmc_PMC10051238
+
+Abstract:
+The major concern with COVID-19 therapeutic monoclonal antibodies is the loss of efficacy against continuously emerging variants of SARS-CoV-2. To predict antibody efficacy against future Omicron subvariants, we conducted deep mutational scanning (DMS) encompassing all single mutations of the receptor-binding domain of the BA.2 strain utilizing an inverted infection assay with an ACE2-harboring virus and library spike-expressing cells. In the case of bebtelovimab, which preserves neutralization activity against BA.2 and BA.5, a broad range of amino acid substitutions at K444, V445, and G446, and some substitutions at P499 and T500, were indicated to achieve the antibody escape. Among subvariants with current rises in case numbers, BA2.75 with G446S partially evaded neutralization by bebtelovimab, while complete evasion was observed in XBB with V445P and BQ.1 with K444T. This is consistent with the DMS results against BA.2, highlighting the potential of DMS as a predictive tool for antibody escape.

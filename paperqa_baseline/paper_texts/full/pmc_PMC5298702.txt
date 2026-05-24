@@ -1,0 +1,9 @@
+Title: Epipolar Resampling of Cross-Track Pushbroom Satellite Imagery Using the Rigorous Sensor Model
+Authors: Mojtaba Jannati, Mohammad Javad Valadan Zoej, Mehdi Mokhtarzade
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010129
+Paper ID: pmc_PMC5298702
+
+Abstract:
+Epipolar resampling aims to eliminate the vertical parallax of stereo images. Due to the dynamic nature of the exterior orientation parameters of linear pushbroom satellite imagery and the complexity of reconstructing the epipolar geometry using rigorous sensor models, so far, no epipolar resampling approach has been proposed based on these models. In this paper for the first time it is shown that the orientation of the instantaneous baseline (IB) of conjugate image points (CIPs) in the linear pushbroom satellite imagery can be modeled with high precision in terms of the rows- and the columns-number of CIPs. Taking advantage of this feature, a novel approach is then presented for epipolar resampling of cross-track linear pushbroom satellite imagery. The proposed method is based on the rigorous sensor model. As the instantaneous position of sensors remains fixed, the digital elevation model of the area of interest is not required in the resampling process. Experimental results obtained from two pairs of SPOT and one pair of RapidEye stereo imagery with different terrain conditions shows that the proposed epipolar resampling approach benefits from a superior accuracy, as the remained vertical parallaxes of all CIPs in the normalized images are close to zero.

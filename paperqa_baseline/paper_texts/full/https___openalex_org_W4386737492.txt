@@ -1,0 +1,9 @@
+Title: Sustainable supplier selection based on VIKOR with single-valued neutrosophic sets
+Authors: Xiaochun Luo, Zilong Wang, Liguo Yang, Lin Lu, Song Hu
+Year: 2023
+Venue: PLoS ONE
+DOI: https://doi.org/10.1371/journal.pone.0290093
+Paper ID: https://openalex.org/W4386737492
+
+Abstract:
+Considering economic, environmental, and social issues, the sustainability of the supply chain has drawn considerable attention due to societal and environmental changes within the supply chain network. The strategic study of the entire supply chain process and maximizing an organization's competitive advantage depend heavily on supplier selection based on sustainable indicators. Selecting sustainable suppliers for the supply chain is challenging since it is a multi-criteria decision-making (MCDM) problem with significant uncertainty in the decision-making process. This study uses the VlseKriterijumska Optimizacija I Kompromisno Resenje (VIKOR) technique and single-valued neutrosophic sets (SVNS) to deal with the challenge of choosing a sustainable supplier with insufficient information. This method reduces the influence of personal experience and preference on the final evaluation results and the problem of excessive individual regret caused by factor correlation and improves the consistency of evaluation results. Finally, the method's success and adaptability are demonstrated by sensitivity analysis and additional comparison analysis, and the benefits and drawbacks of the suggested framework are examined. Compared to other approaches, it can assist decision-makers in communicating fuzzy and uncertain information, offering a perspective and approach for MCDM in the face of such situations, and helping them select suppliers of high caliber and who practice sustainable business practices.

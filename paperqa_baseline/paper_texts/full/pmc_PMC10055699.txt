@@ -1,0 +1,9 @@
+Title: Wide-Angular Tolerance Optical Filter Design and Its Application to Green Pepper Segmentation †
+Authors: Jun Yu, Shu Zhan, Toru Kurihara
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062981
+Paper ID: pmc_PMC10055699
+
+Abstract:
+The optical filter is critical in many applications requiring wide-angle imaging perception. However, the transmission curve of the typical optical filter will change at an oblique incident angle due to the optical path of the incident light change. In this study, we propose a wide-angular tolerance optical filter design method based on the transfer matrix method and automatic differentiation. A novel optical merit function is proposed for simultaneous optimization at normal and oblique incidents. The simulation results demonstrate that such a wide-angular tolerance design can realize a similar transmittance curve at an oblique incident angle compared to a normal incident angle. Furthermore, how much improvement in a wide-angular optical filter design for oblique incident contributes to image segmentation remains unclear. Therefore, we evaluate several transmittance curves along with the U-Net structure for green pepper segmentation. Although our proposed method is not perfectly equal to the target design, it can achieve an average 50% smaller mean absolute error (MAE) than the original design at 20 ∘ oblique incident angle. In addition, the green pepper segmentation results show that wide-angular tolerance optical filter design improves the segmentation of the near-color object about 0.3% at 20 ∘ oblique incident angle compared to the previous design.

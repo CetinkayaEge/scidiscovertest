@@ -1,0 +1,9 @@
+Title: Multifunctional MOF@COF Nanoparticles Mediated Perovskite Films Management Toward Sustainable Perovskite Solar Cells
+Authors: Yayu Dong, Jian Zhang, Hongyu Zhang, Wei Wang, Boyuan Hu, Debin Xia, Kaifeng Lin, Lin Geng, Yulin Yang
+Year: 2024
+Venue: Nano-Micro Letters
+DOI: https://doi.org/10.1007/s40820-024-01390-9
+Paper ID: https://openalex.org/W4394726160
+
+Abstract:
+Although covalent organic frameworks (COFs) with high π-conjugation have recently exhibited great prospects in perovskite solar cells (PSCs), their further application in PSCs is still hindered by face-to-face stacking and aggregation issues. Herein, metal-organic framework (MOF-808) is selected as an ideal platform for the in situ homogeneous growth of a COF to construct a core-shell MOF@COF nanoparticle, which could effectively inhibit COF stacking and aggregation. The synergistic intrinsic mechanisms induced by the MOF@COF nanoparticles for reinforcing intrinsic stability and mitigating lead leakage in PSCs have been explored. The complementary utilization of π-conjugated skeletons and nanopores could optimize the crystallization of large-grained perovskite films and eliminate defects. The resulting PSCs achieve an impressive power conversion efficiency of 23.61% with superior open circuit voltage (1.20 V) and maintained approximately 90% of the original power conversion efficiency after 2000 h (30-50% RH and 25-30 °C). Benefiting from the synergistic effects of the in situ chemical fixation and adsorption abilities of the MOF@COF nanoparticles, the amount of lead leakage from unpackaged PSCs soaked in water (< 5 ppm) satisfies the laboratory assessment required for the Resource Conservation and Recovery Act Regulation.

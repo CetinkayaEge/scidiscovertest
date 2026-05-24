@@ -1,0 +1,9 @@
+Title: Machinery Lean Manufacturing Tools for Improved Sustainability: The Mexican Maquiladora Industry Experience
+Authors: Jorge Luis García-Alcaráz, Adrián Salvador Morales García, José Roberto Díaz Reza, Julio Blanco‐Fernández, Emilio Jiménez Macías, Rita Puig
+Year: 2022
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math10091468
+Paper ID: https://openalex.org/W4225001648
+
+Abstract:
+This paper reports a structural equation model (SEM) to quantify the relationship between Lean Manufacturing (LM) tools associated with machinery and sustainability. The LM tools are independent variables and include Total Productive Maintenance (TPM), Jidoka, and overall equipment effectiveness (OEE), whereas dependent sustainability variables comprise environmental, social, and economic sustainability. The SEM proposes ten hypotheses, tested statistically using information from 239 responses to a questionnaire applied to the Mexican maquiladora industry and the Partial Least Squares (PLS) technique for quantifying relationships among variables. Additionally, we discuss conditional probabilities to explain how low and high levels of TPM, Jidoka, and OEE impact sustainability. Findings reveal that TPM, Jidoka, and OEE directly impact social, environmental, and economic sustainability, thus indicating that safe workplaces improve employee commitment, safety, delivery time, and morale.

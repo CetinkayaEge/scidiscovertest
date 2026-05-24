@@ -1,0 +1,9 @@
+Title: Big Data Analytics: Driving Project Success, Continuity, and Sustainability
+Authors: Amani Abu Rumman, Ala’ Mahmoud Aljundi, Rasha Mohammad Rath’an Al-Raqqad
+Year: 2024
+Venue: International Journal of Analysis and Applications
+DOI: https://doi.org/10.28924/2291-8639-22-2024-167
+Paper ID: https://openalex.org/W4402877857
+
+Abstract:
+This study examines the impact of Big Data applications on various facets of organizational performance, specifically focusing on Business Success, Business Continuity, and Organization Sustainability. Data was collected through self-reported questionnaires and analyzed using SPSS AMOS, incorporating Pearson correlation tests and regression analyses. The results demonstrate that Big Data has a positive but generally weak correlation with these organizational aspects. Notably, mitigating risks and identifying hidden market trends stand out as the most significant factors for Business Success. Business continuity during unexpected disruptions and efficient resource allocation are crucial for Business Continuity. For Organization Sustainability, the direct impact of retrieved data on sustainable decisions and Big Data analytics for planning eco-sustainable futures are key. These findings underscore the potential of Big Data in enhancing organizational performance, suggesting areas where organizations can harness data for strategic advantages. Further research and broader datasets may offer deeper insights into these relationships.

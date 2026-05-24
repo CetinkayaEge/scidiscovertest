@@ -1,0 +1,9 @@
+Title: Novel Fuzzy Composite Indicators for Locating a Logistics Platform under Sustainability Perspectives
+Authors: Hana Ayadi, Nadia Hamani, Lyes Kermad, Mounir Benaissa
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13073891
+Paper ID: https://openalex.org/W3147814070
+
+Abstract:
+The purpose of this paper is to help decision-makers choose the location of a logistics platform with sustainability perspectives. This study presents a compensatory and partially compensatory approach to build composite indicators, using mainly fuzzy multi-criteria decision-making methods. In the first instance, the fuzzy full consistency method (F-FUCOM) was used to calculate the weight of the criteria and sub-criteria. In the second instance, two aggregation methods, namely the fuzzy multi-attribute ideal-real comparative analysis (F-MAIRCA) and the fuzzy preference ranking organization method for enrichment evaluation (F-PROMETHEE), were used to rank the location of a logistics platform. The novelty of the work lays in studying the impact of limited sustainability and weak sustainability on the location of a logistics platform. In this respect, the aggregation of various sustainability criterion in fuzzy compensatory and partially compensatory composite indicators is an innovative and interesting approach used to locate a logistics platform. The obtained results show that economic sustainability is the most important criterion for the selection of a logistics platform, followed by the environmental criterion. Obviously, the F-MAIRCA and F-PROMETHEE methods provided the same ranking orders. Finally, sensitivity analyses were performed to validate the robustness of the proposed approach.

@@ -1,0 +1,9 @@
+Title: The Moderating Role of Ownership Concentration on Financing Decisions and Firm’s Sustainability: Evidence from China
+Authors: Kankan Wen, Andrew Osei Agyemang, Noha Alessa, Inusah Sulemana, Abednego Osei
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151813385
+Paper ID: https://openalex.org/W4386525868
+
+Abstract:
+We examined the impact of financing decisions on a firm’s sustainability in China as it aspires to achieve carbon neutrality. To proxy firms’ sustainability performance, we proposed an index for environmental, social, and governance (ESG) performance. The financing decision was proxied by debt funding and equity funding. Using secondary data from China Stock Market Accounting Data from 2016 to 2022, we utilize the fixed effect and fully modified ordinary least squares estimators for the empirical analysis. The analysis indicated a favorable link between debt funding and ESG performance. We uncovered an inconsistent association between equity funding and ESG performance. Moreover, ownership concentration revealed a significant role in moderating the impact of debt financing and ESG performance in China. The findings affirm that firms should rely on debt funding rather than equity funding to enhance their ESG performance. Hence, policymakers should enact laws allowing easy access to debt funding for companies to ensure higher ESG performance. This, in the long term, will contribute to the Chinese dream of carbon neutrality.

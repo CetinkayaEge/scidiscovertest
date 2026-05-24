@@ -1,0 +1,9 @@
+Title: Investigation on mechanical properties deterioration of concrete subjected to freeze–thaw cycles
+Authors: Ruifeng Xie, Jianlin Yang, Enpu Xie
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27122-w
+Paper ID: pmc_PMC9803639
+
+Abstract:
+Concrete structures in cold regions are usually suffer from froze and thaw action. A combined investigation of nanoindentation technique and X-ray diffraction were adopted to demonstrate the microstructure change and micromechanical properties deterioration of concrete subjected to freeze–thaw (F-T) cycles in this study. The results showed that the indentation modulus and hardness of the main compositions in mortar, such as calcium-silicate-hydrates and calcium hydroxide, both gradually decreases as the F–T cycles increase, with the greatest reduction approximate 38% after 1500 F–T cycles, while the corresponding greatest reduction of the main compositions in interfacial transition zone (ITZ) is close to 50%. In addition, the micropores in mortar and ITZ both gradually converge and connect to form larger diameter pores, and the thickness of ITZ increased rapidly from 25 to 50 μm after 1500 F–T cycles. On this basis, the effective modulus of elasticity under different F–T cycles are analyzed through Mori–Tanaka scheme with consistent variation tendency of dynamic modulus of elasticity test. Subsequently, the mechanical properties deterioration of concrete under F–T cycles is mainly attributed to the decrease of mechanical properties (such as modulus and hardness) of microscopic components, and the increase and propagation of the internal micropores especially for micropores in ITZ.

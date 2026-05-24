@@ -1,0 +1,9 @@
+Title: Artificial Intelligence Algorithm-Based Economic Denial of Sustainability Attack Detection Systems: Cloud Computing Environments
+Authors: Theyazn H. H. Aldhyani, Hasan Alkahtani
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22134685
+Paper ID: https://openalex.org/W4283365061
+
+Abstract:
+level of 89.35% with a multi-classification dataset. The findings of the proposed system were compared with different existing EDoS attack detection systems. The proposed attack mitigation algorithms, which were developed based on artificial intelligence, outperformed the few existing systems. The goal of this research is to enable the detection and effective mitigation of EDoS attacks.

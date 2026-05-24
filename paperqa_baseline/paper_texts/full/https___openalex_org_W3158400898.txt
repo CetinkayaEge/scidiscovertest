@@ -1,0 +1,9 @@
+Title: Conceptual and normative approaches to AI governance for a global digital ecosystem supportive of the UN Sustainable Development Goals (SDGs)
+Authors: Amandeep S. Gill, Stefan Germann
+Year: 2021
+Venue: AI and Ethics
+DOI: https://doi.org/10.1007/s43681-021-00058-z
+Paper ID: https://openalex.org/W3158400898
+
+Abstract:
+AI governance is like one of those mythical creatures that everyone speaks of but which no one has seen. Sometimes, it is reduced to a list of shared principles such as transparency, non-discrimination, and sustainability; at other times, it is conflated with specific mechanisms for certification of algorithmic solutions or ways to protect the privacy of personal data. We suggest a conceptual and normative approach to AI governance in the context of a global digital public goods ecosystem to enable progress on the UN Sustainable Development Goals (SDGs). Conceptually, we propose rooting this approach in the human capability concept-what people are able to do and to be, and in a layered governance framework connecting the local to the global. Normatively, we suggest the following six irreducibles: a. human rights first; b. multi-stakeholder smart regulation; c. privacy and protection of personal data; d. a holistic approach to data use captured by the 3Ms-misuse of data, missed use of data and missing data; e. global collaboration ('digital cooperation'); f. basing governance more in practice, in particular, thinking separately and together about data and algorithms. Throughout the article, we use examples from the health domain particularly in the current context of the Covid-19 pandemic. We conclude by arguing that taking a distributed but coordinated global digital commons approach to the governance of AI is the best guarantee of citizen-centered and societally beneficial use of digital technologies for the SDGs.

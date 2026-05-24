@@ -1,0 +1,9 @@
+Title: Relationship between mortality and health care expenditure: Sustainable assessment of health care system
+Authors: Phebe Asantewaa Owusu, Samuel Asumadu Sarkodie, Pål Andreas Pedersen
+Year: 2021
+Venue: PLoS ONE
+DOI: https://doi.org/10.1371/journal.pone.0247413
+Paper ID: https://openalex.org/W3132507003
+
+Abstract:
+Infant and maternal mortality are important indicators for assessing the quality of healthcare systems. The World Health Organization underscores the importance of proper health care system in reducing preventable mortality through early intervention. Early intervention includes availability, accessibility and affordability of health care systems for children and mothers. While there are several studies that assess the immediate and underlying drivers of child mortality, literature on the role of policy measures are limited and inconsistent. Thus, robust empirical analysis of the determinants of maternal and infant mortality remains inconclusive in the era of achieving the Sustainable Development Goals (SDG). Here, we examined the influence of health expenditure on infant and maternal deaths for the period 2000-2015 across 177 countries. Using panel Quantile Regression with bootstrapping, this study accounted for the 2007-2008 financial crisis in an empirical relationship between health outcome and health expenditure. We found a negative effect of health expenditure on mortality across all percentiles. Infant mortality rate declines between 0.19% - 1.45% while maternal mortality rate declines ranging from 0.09% - 1.91%. To attain the goal of ensuring healthy lives and wellbeing of all people (SDG 3), this study infers that health expenditure potentially reduces maternal and infant mortality across lower and middle income countries. We highlight the need for an enhanced health care expenditure, especially in developing countries to curb the levels of infant and maternal deaths.

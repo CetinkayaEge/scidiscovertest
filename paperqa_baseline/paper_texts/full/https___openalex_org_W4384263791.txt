@@ -1,0 +1,9 @@
+Title: Efficient treatment of bio-contaminated wastewater using plasma technology for its reuse in sustainable agriculture
+Authors: Saeed Kooshki, Pankaj Pareek, Robin Mentheour, Mário Janda, Zdenko Machala
+Year: 2023
+Venue: Environmental Technology & Innovation
+DOI: https://doi.org/10.1016/j.eti.2023.103287
+Paper ID: https://openalex.org/W4384263791
+
+Abstract:
+Water-related crisis represents one of the significant challenges of the rapidly growing world population. This study demonstrates an example of the novel technology of Non-Thermal Plasma (NTP) wastewater treatment for its sustainable recovery and reuse in agriculture. NTP treatment of wastewater not only causes microbial decontamination but produces Reactive Oxygen and Nitrogen Species (RONS), which can consequently improve seed germination and plant growth. We focused on the effects of the new Fountain Dielectric Barrier Discharge air plasma reactor for the treatment of bulk quantity water contaminated by Staphylococcus epidermidis or Escherichia coli bacteria. Then, using the treated water for barley seed germination shows >20% enhancement compared to using tap water. The inactivation of bacteria in water was determined in dependence on pH, Oxidation-Reduction Potential, and correlated with chemical RONS produced in the water (hydrogen peroxide, nitrites, and especially nitrates). By utilizing the Responses Surface Methodology, we identified the optimal plasma treatment time per litre required for efficient RONS production and bactericidal effect in the wastewater treatment, which was linearly scalable with water volume. After the optimum plasma treatment time, a sharp drop in pH, and the concentrations of nitrites and hydrogen peroxide were observed, which is related to the peroxynitrite formation leading to the significant bacterial reduction up to 7-log.

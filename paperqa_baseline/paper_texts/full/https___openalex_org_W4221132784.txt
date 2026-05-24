@@ -1,0 +1,9 @@
+Title: Process parameters effect on environmental sustainability of composites FFF technology
+Authors: Iacopo Bianchi, Archimede Forcellese, Tommaso Mancia, Michela Simoncini, Alessio Vita
+Year: 2022
+Venue: Materials and Manufacturing Processes
+DOI: https://doi.org/10.1080/10426914.2022.2049300
+Paper ID: https://openalex.org/W4221132784
+
+Abstract:
+The present study aims at investigating the effect of process parameters on environmental sustainability of 3D printing of short fiber-reinforced polymer composites. A preliminary study allowed defining the printing parameters, in terms of printing speed, extrusion temperature and layer thickness, which guarantee low energy consumption. Then, the environmental behavior of two 3D printable composite materials, glass fiber-reinforced (GlassPA) and carbon fiber-reinforced (CarbonPA) polyamide, was investigated using the Life Cycle Assessment methodology, to provide a comprehensive overview of the considered materials and to support the sustainable development of industrial additive manufacturing processes. The functional unit was chosen taking into account the mechanical properties of the two short fiber-reinforced composites. To this purpose, tensile and flexural tests were performed on specimens produced by Fused Filament Fabrication process to evaluate the mechanical properties of printed materials. Scanning electron microscopy was used to observe the different filament morphology affecting the materials performances. Experimental tests showed that CarbonPA exhibits mechanical performances higher than those of GlassPA. Due to the weight reduction that can be accomplished by means of carbon fibers, CarbonPA results the most environmentally friendly alternative in tensile loads applications. On the contrary, for flexural loads applications, GlassPA exhibits lower environmental footprint.

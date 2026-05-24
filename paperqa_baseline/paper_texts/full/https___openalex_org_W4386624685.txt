@@ -1,0 +1,9 @@
+Title: Engineering of Local Coordination Microenvironment in Single‐Atom Catalysts Enabling Sustainable Conversion of Biomass into a Broad Range of Amines
+Authors: Wu‐Jun Liu, Xiao Zhou, Yuan Min, Jiawei Huang, Jie‐Jie Chen, Yuen Wu, Han‐Qing Yu
+Year: 2023
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202305924
+Paper ID: https://openalex.org/W4386624685
+
+Abstract:
+/BNC catalyst exhibits remarkable conversion capability for a wide range of biomass-derived aldehydes/ketones. Thorough characterizations and density functional theory calculations reveal that the highly polar metal-N-B site, formed between the central Pd single atom and its adjacent N and B atoms, promotes hydrogen activation from the donor (reductants) and hydrogen transfer to the acceptor (C═O group), consequently leading to exceptional selectivity. This system can be further extended to directly synthesize various aromatic and furonic amines from renewable lignocellulosic biomass, with their greenhouse gas emission potentials being negative in comparison to those of fossil-fuel resource-based amines. This research presents a highly effective and sustainable methodology for constructing C─N bonds, enabling the production of a diverse array of amines from carbon-neutral biomass resources.

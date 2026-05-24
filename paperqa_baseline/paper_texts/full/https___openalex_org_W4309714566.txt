@@ -1,0 +1,9 @@
+Title: Analyzing the Effects of Renewable and Nonrenewable Energy Usage and Technological Innovation on Environmental Sustainability: Evidence from QUAD Economies
+Authors: Muhammad Imran, Sajid Ali, Yousef Shahwan, Jijian Zhang, Issa Ahmad Al-Swiety
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142315552
+Paper ID: https://openalex.org/W4309714566
+
+Abstract:
+The following study examined how energy use and technological advancement impacted environmental sustainability in QUAD (US, Japan, Australia, and India) economies between 1991 and 2021. The study considers the generation of renewable energy, fossil fuel use, and the effects of economic expansion on environmental sustainability. The research used the moment quantile regression technique based on the outcomes of slope heterogeneity, cross-sectional dependence, and the order of the unit-root by the using second-generation method of cross-sectional augmented Im, Pesaran, and Shin tests. The study discovered that renewable energy production and technological innovation enhances environmental sustainability, whereas the use of nonrenewable energy and economic growth worsen it. When implementing policies regarding the environment, energy, and the growth of QUAD economies based on concrete evidence, policy makers and environmentalists in QUAD countries should also take into account the asymmetrical performance of efficiency in energy production, technological innovation, and economic growth.

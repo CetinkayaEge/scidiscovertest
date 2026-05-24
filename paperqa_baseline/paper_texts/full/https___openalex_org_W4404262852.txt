@@ -1,0 +1,9 @@
+Title: Hermetic hydrovoltaic cell sustained by internal water circulation
+Authors: Renxuan Yuan, Huizeng Li, Zhipeng Zhao, An Li, Luanluan Xue, Kaixuan Li, Xiao Deng, Xinye Yu, Rujun Li, Quan Liu, Yanlin Song
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-54216-y
+Paper ID: https://openalex.org/W4404262852
+
+Abstract:
+Numerous efforts have been devoted to harvesting sustainable energy from environment. Among the promising renewable resources, ambient heat exhibits attractive prospects due to its ubiquity and inexhaustibility, and has been converted into electricity through water evaporation-induced hydrovoltaic approaches. However, current hydrovoltaic approaches function only in low-humidity environments and continuously consume water. Herein, we fabricate a hermetic hydrovoltaic cell (HHC) to harvest ambient heat, and have fully addressed the limitations posed by environmental conditions. Meanwhile, for the first time we develop an internal circulation hydrovoltaic mechanism. Taking advantage of the heterogeneous wicking bilayer structure, we verify that inside the hermetic cell, the ambient temperature fluctuation-induced evaporation and further the water circulation can persist, which sustains the hydrovoltaic effect to convert ambient heat into electricity. More importantly, the hermetic design enables the cell to work continuously and reliably for 160 h with negligible water consumption, unaffected by external influences such as wind and light, making it an excellent candidate for extreme situations such as water-scarce deserts, highly humid tropical rain forests, rainy days, and dark underground engineering. These findings provide an easily accessible and widely applicable route for stably harnessing renewable energy, and more notably, offer a novel paradigm toward leveraging low-grade ambient heat energy via circulation design.

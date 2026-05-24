@@ -1,0 +1,9 @@
+Title: Exploring the Use of Virtual Reality to Support Environmentally Sustainable Behavior: A Framework to Design Experiences
+Authors: Giulia Wally Scurati, Marco Bertoni, Serena Graziosi, Francesco Ferrise
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020943
+Paper ID: https://openalex.org/W3125511839
+
+Abstract:
+The current and future challenges of sustainable development require a massive transformation of habits and behaviors in the whole society at many levels. This demands a change of perspectives, priorities, and practices that can only result from the development of more aware, informed, and instructed communities and individuals. The field of design for sustainable behavior is answering this need through the development of products, systems, and services to support the change of people’s habits and decision-making processes. In this regard, Virtual Reality (VR) is a promising tool: it has already been explored to drive sustainable behavior change in several situations, through a wide range of devices, technologies, and modalities. This variety provides uncountable opportunities to designers, but it comes with a series of ethical, psychological, and technical questions. Hence, VR developers should be able to distinguish and identify possible strategies, delivering suitable solutions for each case study. In this work, we present a framework for the development of VR experiences to support sustainable behavior change, based on a systematic review. We consider the various features to manage and possible alternatives when creating a VR experience, linking them to the behavioral aspects that can be addressed according to the project’s aim. The framework will provide designers with a tool to explore and orient themselves towards possible sets of optimal choices generating tailored solutions.

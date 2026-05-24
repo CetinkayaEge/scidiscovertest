@@ -1,0 +1,9 @@
+Title: AI-Driven Future Farming: Achieving Climate-Smart and Sustainable Agriculture
+Authors: Karishma Kumari, Ali Mirzakhani Nafchi, Salman Mirzaee, Ahmed Abdalla
+Year: 2025
+Venue: AgriEngineering
+DOI: https://doi.org/10.3390/agriengineering7030089
+Paper ID: https://openalex.org/W4408658486
+
+Abstract:
+Agriculture, an essential driver of economic expansion, is faced by the issue of sustaining an increasing global population in the context of climatic uncertainty and limited resources. As a result, “Smart Farming”, which uses cutting-edge artificial intelligence (AI) to support autonomous decision-making, has become more popular. This article explores how the Internet of Things (IoT), AI, machine learning (ML), remote sensing, and variable-rate technology (VRT) work together to transform agriculture. Using sophisticated algorithms to predict soil conditions, improving agricultural yield projections, diagnosing water stress from sensor data, and identifying plant diseases and weeds through image recognition, crop mapping, and AI-guided crop selection are some of the main applications investigated. Furthermore, the precision with which VRT applies water, pesticides, and fertilizers optimizes resource utilization, enhancing sustainability and efficiency. To effectively meet the world’s food demands, this study forecasts a sustainable agricultural future that combines AI-driven approaches with conventional methods.

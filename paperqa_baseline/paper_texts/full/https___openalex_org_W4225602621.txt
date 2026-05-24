@@ -1,0 +1,9 @@
+Title: Software tools for green and sustainable chemistry
+Authors: I. N. Derbenev, James Dowden, Jamie Twycross, Jonathan D. Hirst
+Year: 2022
+Venue: Current Opinion in Green and Sustainable Chemistry
+DOI: https://doi.org/10.1016/j.cogsc.2022.100623
+Paper ID: https://openalex.org/W4225602621
+
+Abstract:
+In this review, we consider green chemistry metrics, related software tools, and the opportunities and challenges for their use in research laboratories. We provide an overview of state-of-the-art software designed both to aid researchers in planning and conducting chemical experiments and to assess sustainability of individual reactions and synthetic routes. The increasing digitalisation of research means that there is great opportunity for more extensive use of computational tools by synthetic chemists and for closer integration of green chemistry principles into the routine work of chemical laboratories. We discuss the scope for using software tools in the laboratory and assisting synthetic chemists in the adoption of green and sustainable chemistry approaches that are suitable for their specific purposes.

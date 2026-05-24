@@ -1,0 +1,9 @@
+Title: Dijkstra's algorithm to find the nearest vaccine location
+Authors: Jason, Melvin Siever, Alvin Valentino, Kristien Margi Suryaningrum, Rezki Yunanda
+Year: 2023
+Venue: Procedia Computer Science
+DOI: 10.1016/j.procs.2022.12.105
+Paper ID: pmc_PMC9829424
+
+Abstract:
+Since the start of Covid-19 pandemic has made many people look for vaccine locations. In general, Dijkstra algorithm is used to find the shortest path. The shortest path problem concentrates on finding the path with the minimum distance. The Dijkstra algorithm was chosen because it has several advantages other than advantageous in terms of running time to find the shortest path. This research focuses on calculation and implementation of Dijkstra algorithm that will result the shortest path with visual by Google Maps API. The project is tested with manual calculation first by using graph explanation. The graph is obtained based on route data obtained with the help of google maps then it is tested by implementing the Dijkstra algorithm using HTML, JavaScript and also Google Maps API to visualize the nearest vaccine location. From the research founded that there were shortcomings problem where program had to enter each road turn as a vertex and an edge, If not including the entire path that was formed, it would pass through buildings or structures that should not be passed. The results that will be displayed on the website based on the purpose of the research.

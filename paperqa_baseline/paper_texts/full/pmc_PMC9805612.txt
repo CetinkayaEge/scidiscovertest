@@ -1,0 +1,9 @@
+Title: The effect of Vitamins C and E on clinical outcomes of patients with severe traumatic brain injury: A propensity score matching study
+Authors: Hosseinali Khalili, Saeed Abdollahifard, Amin Niakan, Mohammad Aryaie
+Year: 2022
+Venue: Surgical Neurology International
+DOI: 10.25259/SNI_932_2022
+Paper ID: pmc_PMC9805612
+
+Abstract:
+Background: The aim of this study was to assess the effect of Vitamins C and E on mortality, intensive care unit (ICU) length of stay, and Glasgow Outcome Scale-Extended (GOS-E) score of traumatic brain injury (TBI) patients. Methods: Using data from records of patients in a retrospective cohort study, we included 1321 TBI patients, 269 treated and 1052 untreated, aged over 18 years with information on exposure (i.e., Vitamins C and E) and confounders. Age, Glasgow Coma Scale, pupil status, Rotterdam classification, blood sugar, blood pressure, international normalized ratio, and comorbidity of patients were considered as the confounding factors. Endpoints were GOS-E on follow-up, mortality, and ICU length of stay. Propensity score matching was performed to adjust the confounders. Results: Based on the average treatment effect estimates, the use of Vitamins C and E reduced the risk of mortality (risk difference [RD]: −0.07; 95% confidence interval [CI]: −0.14–−0.003) and reduced the length of ICU stay (RD -1.77 95% CI:-3.71-0.16). Furthermore, our results showed that GOS-E was improved significantly (RD: 0.09, 95% CI : 0.03-0.16). Conclusion: Our study suggests that using Vitamins C and E could decrease mortality and length of ICU stay and improve the GOS-E score and functions of the patients with severe TBI. As they are safe and inexpensive medications, they can be used in routine practice in ICUs to improve the outcomes of TBI patients.

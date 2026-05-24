@@ -1,0 +1,9 @@
+Title: Sustainable Morphing Matter: Design and Engineering Practices
+Authors: Dinesh K. Patel, Ke Zhong, Haiqing Xu, Mohammad F. Islam, Lining Yao
+Year: 2023
+Venue: Advanced Materials Technologies
+DOI: https://doi.org/10.1002/admt.202300678
+Paper ID: https://openalex.org/W4386000426
+
+Abstract:
+Abstract Morphing matter that change shapes and properties in response to external stimuli have gained significant interests in material science, robotics, biomedical engineering, wearables, architecture, and design. Along with functional advances, there is growing pressure and interest in considering the environmental impact of morphing matter during its life cycle. The unique manufacturing and usage of morphing matter means that existing sustainable design frameworks and principles for general physical products may not apply directly. For example, manufacturing morphing matter often requires designing and predicting materials' behaviors over time, and using devices fabricated with morphing matter often involves harnessing renewable energy and self‐reconfiguration, which pose unique sustainability opportunities and challenges. This study reflects and summarizes the field's practice in sustainable manufacturing, transport, use, and end‐of‐life handling of morphing matter. The term “sustainable morphing matter” (SMM) is coined, suggesting that sustainability‐conscious factors can become an integral component of morphing matter. In addition, ways to apply sustainability‐conscious factors to augment the existing design pipeline of morphing matter are presented, and more quantitative and algorithmic‐level developments are needed to apply these factors rigorously to the design process.

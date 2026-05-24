@@ -1,0 +1,9 @@
+Title: The Effects of Digital Transformation, IT Innovation, and Sustainability Strategies on Firms’ Performances: An Empirical Study
+Authors: Andrea Billi, Alessandro Bernardo
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17030823
+Paper ID: https://openalex.org/W4406674651
+
+Abstract:
+This paper examines the intertwined dynamics among digital transformation, IT innovation, and sustainability and their collective influence on firm performance in response to the evolving business landscape characterized by digitalization, IT innovation, and sustainability concerns. The study investigates how these factors collectively impact firm performance by analyzing a panel dataset of 1510 global companies from 2013–2023. The model utilizes a multiple linear regression analysis to incorporate firm performance scores as the dependent variable. At the same time, digital transformation, IT innovation, and sustainability factors are the independent variables, alongside firm-level control variables. The results reveal that digital transformation positively influences IT innovation and strategic business model (BM) development, confirming its direct impact on firm performance. Additionally, firms with simpler and younger structures achieve better outcomes than larger and more established ones. However, the study has limitations, as it is based on a panel dataset spanning 11 years; extending the analysis to a different and longer period could provide insights into the evolving nature of digital transformation, which is inherently dynamic. This study is groundbreaking in exploring these factors, offering a unique perspective through its analysis of an 11-year panel and its focus on assessing dynamic business models.

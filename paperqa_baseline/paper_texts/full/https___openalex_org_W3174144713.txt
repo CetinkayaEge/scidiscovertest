@@ -1,0 +1,9 @@
+Title: Using Big Data for Sustainability in Supply Chain Management
+Authors: Ricardo Chalmeta, José-Eduardo Barqueros-Muñoz
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13137004
+Paper ID: https://openalex.org/W3174144713
+
+Abstract:
+In the literature, several frameworks have been proposed to help sustainability management in supply chains. Nevertheless, they present a number of shortcomings. With the aim of overcoming these shortcomings, this paper proposes a framework for sustainable supply chain management composed of six dimensions: methodology, organization, stakeholders, maturity model, human resources, and technology. The main innovations of the framework are that (1) it includes a methodology that acts as a guide to sustainability management and improvement in a holistic way by using a balanced scorecard for any type of supply chain and covering the whole project life cycle; (2) it combines quantitative and qualitative methods for sustainability assessment; (3) it describes the techniques and technology to be used in each task of the methodology; and (4) it identifies the past impact of SC sustainability, as well as predicting its future impact, using Big Data analytics. The practical utility, completeness, and level of detail of the framework were validated through questionnaires answered by both five academics and three professionals. In addition, the framework was applied to a case study to (1) validate its usefulness and (2) to improve it with the feedback obtained.

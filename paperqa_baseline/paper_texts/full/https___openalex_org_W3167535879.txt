@@ -1,0 +1,9 @@
+Title: Emerging Indoor Photovoltaic Technologies for Sustainable Internet of Things
+Authors: Vincenzo Pecunia, Luigi G. Occhipinti, Robert L. Z. Hoye
+Year: 2021
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202100698
+Paper ID: https://openalex.org/W3167535879
+
+Abstract:
+Abstract The Internet of Things (IoT) provides everyday objects and environments with “intelligence” and data connectivity to improve quality of life and the efficiency of a wide range of human activities. However, the ongoing exponential growth of the IoT device ecosystem—up to tens of billions of units to date—poses a challenge regarding how to power such devices. This Progress Report discusses how energy harvesting can address this challenge. It then discusses how indoor photovoltaics (IPV) constitutes an attractive energy harvesting solution, given its deployability, reliability, and power density. For IPV to provide an eco‐friendly route to powering IoT devices, it is crucial that its underlying materials and fabrication processes are low‐toxicity and not harmful to the environment over the product life cycle. A range of IPV technologies—both incumbent and emerging—developed to date is discussed, with an emphasis on their environmental sustainability. Finally, IPV based on emerging lead‐free perovskite‐inspired absorbers are examined, highlighting their status and prospects for low‐cost, durable, and efficient energy harvesting that is not harmful to the end user and environment. By examining emerging avenues for eco‐friendly IPV, timely insight is provided into promising directions toward IPV that can sustainably power the IoT revolution.

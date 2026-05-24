@@ -1,0 +1,9 @@
+Title: Stress Relaxation and Grain Growth Behaviors of (111)-Preferred Nanotwinned Copper during Annealing
+Authors: Jyun-Yu Lai, Dinh-Phuc Tran, Shih-Chi Yang, I-Hsin Tseng, Kai-Cheng Shie, Jihperng Leu, Chih Chen
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13040709
+Paper ID: pmc_PMC9967451
+
+Abstract:
+Highly (111)-oriented nanotwinned Cu (nt-Cu) films were fabricated on silicon wafers for thermal-stress characterization. We tailored the microstructural features (grain scale and orientation) of the films by tuning the electroplating parameters. The films were heat-treated and the relaxation behaviors of thermal stresses in the films were explored using a bending beam system. Focused ion beam (FIB) and electron back-scattered diffraction (EBSD) were then employed to characterize the transformations of the microstructure, grain size, and orientation degree of the films. The results indicated that the degree of (111)-preferred orientation and grain size significantly decrease with increasing the current density. The nt-Cu films with a higher degree of (111)-preferred orientation and larger grains exhibit the slower rates of stress relaxation. The film with larger grains possesses a smaller grain boundary area; thus, the grain boundary diffusion for the thermal-stress release is suppressed. In addition, the induced tensile stress in the films with larger grains is smaller leading to the difference in microstructural changes under annealing.

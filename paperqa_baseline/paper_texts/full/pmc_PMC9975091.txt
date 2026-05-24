@@ -1,0 +1,9 @@
+Title: Design, synthesis, and cytotoxic evaluation of quinazoline derivatives bearing triazole-acetamides
+Authors: Keyvan Pedrood, Fahimeh Taayoshi, Ali Moazzam, Aida Iraji, Ali Yavari, Samira Ansari, Sayed Mahmoud Sajjadi-Jazi, Mohammad Reza Mohajeri-Tehrani, Nadia Garmsiri, Vahid Haghpanah, Meysam Soleymanibadi, Bagher Larijani, Haleh Hamedifar, Neda Adibpour, Mohammad Mahdavi
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13528
+Paper ID: pmc_PMC9975091
+
+Abstract:
+A novel series of quinazoline-based agents bearing triazole-acetamides 8a-l were designed and synthesized. All the obtained compounds were tested for in vitro cytotoxic activities against three human cancer cell lines named HCT-116, MCF-7, and HepG2, as well as a normal cell line WRL-68 after 48 and 72 h. The results implied that quinazoline-oxymethyltriazole compounds exhibited moderate to good anticancer potential. The most potent derivative against HCT-116 was 8a (X = 4-OCH 3 and R = H) with IC 50 values of 10.72 and 5.33 μM after 48 and 72 h compared with doxorubicin with IC 50 values of 1.66 and 1.21 μM, respectively. The same trend was seen in the HepG2 cancerous cell line in which 8a recorded the best results with IC 50 values of 17.48 and 7.94 after 48 and 72 h, respectively. The cytotoxic analysis against MCF-7 showed that 8f with IC 50 = 21.29 μM (48 h) exhibited the best activity, while compounds 8k (IC 50 = 11.32 μM) and 8a (IC 50 = 12.96 μM), known as the most effective cytotoxic agents after 72 h. Doxorubicin as positive control exhibited IC 50 values of 1.15 and 0.82 μM after 48 and 72 h, respectively. Noteworthy, all derivatives showed limited toxicity against the normal cell line. Moreover, docking studies were also presented to understand the interactions between these novel derivatives and possible targets.

@@ -1,0 +1,9 @@
+Title: Sustainable Agro-Food Supply Chain in E-Commerce: Towards the Circular Economy
+Authors: Dhirendra Prajapati, Fuli Zhou, Ashish Dwivedi, Tripti Singh, Lakshay Lakshay, Saurabh Pratap
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14148698
+Paper ID: https://openalex.org/W4285733742
+
+Abstract:
+The continuous decline in the sustainable agro-food supply chain (AFSC) towards a Circular Economy (CE) has become a matter of great concern for the key stakeholders, including government organizations, businesses, end-users, and farmers. In line with this, the main purpose of this study is to develop a sustainable food Supply Chain Network (SCN). The SCN enables the collection of agro-food grains from different farmers’ locations and delivers the same to food processing units. To design an efficient and effective sustainable pickup and delivery network, a Mixed-Integer Non-Linear Programming (MINLP) mathematical model is formulated. The proposed model achieves the sustainability goal by minimizing the collection costs. The developed MINLP model is solved by using an exact optimization approach in LINGO 18 software. Further, to test the efficacy of the developed model, various computational experiments are performed, varying from small to large size data. The results of these experiments reflect that our model can support businesses in designing an efficient and effective sustainable pickup and delivery network. Lastly, it has been shown that innovative packaging materials can help to minimize the wastage of food.

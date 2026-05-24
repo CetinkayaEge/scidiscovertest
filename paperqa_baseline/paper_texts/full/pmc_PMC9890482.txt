@@ -1,0 +1,9 @@
+Title: Accurate Prediction of Vertical Ionization Potentials and Electron Affinities from Spin-Component Scaled CC2 and ADC(2) Models
+Authors: Ahmed Shaalan Alag, Dávid P. Jelenfi, Attila Tajti, Péter G. Szalay
+Year: 2022
+Venue: Journal of Chemical Theory and Computation
+DOI: 10.1021/acs.jctc.2c00624
+Paper ID: pmc_PMC9890482
+
+Abstract:
+The CC2 and ADC(2) wave function models and their spin-component scaled modifications are adopted for predicting vertical ionization potentials (VIPs) and electron affinities (VEAs). The ionic solutions are obtained as electronic excitations in the continuum orbital formalism, making possible the use of existing, widespread quantum chemistry codes with minimal modifications, in full consistency with the treatment of charge transfer excitations. The performance of different variants is evaluated via benchmark calculations on various sets from previous works, containing small- and medium-sized systems, including the nucleobases. It is shown that with the spin-scaled approximate methods, in particular the scaled opposite-spin variant of the ADC(2) method, the accuracy of EOM-CCSD is achievable at a fraction of the computational cost, also outperforming many common electron propagator approaches.

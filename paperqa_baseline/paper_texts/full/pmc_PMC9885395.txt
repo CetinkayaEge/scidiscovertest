@@ -1,0 +1,9 @@
+Title: A new YOLO-based method for real-time crowd detection from video and performance analysis of YOLO models
+Authors: Mehmet Şirin Gündüz, Gültekin Işık
+Year: 2023
+Venue: Journal of Real-Time Image Processing
+DOI: 10.1007/s11554-023-01276-w
+Paper ID: pmc_PMC9885395
+
+Abstract:
+As seen in the COVID-19 pandemic, one of the most important measures is physical distance in viruses transmitted from person to person. According to the World Health Organization (WHO), it is mandatory to have a limited number of people in indoor spaces. Depending on the size of the indoors, the number of persons that can fit in that area varies. Then, the size of the indoor area should be measured and the maximum number of people should be calculated accordingly. Computers can be used to ensure the correct application of the capacity rule in indoors monitored by cameras. In this study, a method is proposed to measure the size of a prespecified region in the video and count the people there in real time. According to this method: (1) predetermining the borders of a region on the video, (2) identification and counting of people in this specified region, (3) it is aimed to estimate the size of the specified area and to find the maximum number of people it can take. For this purpose, the You Only Look Once (YOLO) object detection model was used. In addition, Microsoft COCO dataset pre-trained weights were used to identify and label persons. YOLO models were tested separately in the proposed method and their performances were analyzed. Mean average precision (mAP), frame per second (fps), and accuracy rate metrics were found for the detection of persons in the specified region. While the YOLO v3 model achieved the highest value in accuracy rate and mAP (both 0.50 and 0.75) metrics, the YOLO v5s model achieved the highest fps rate among non-Tiny models.

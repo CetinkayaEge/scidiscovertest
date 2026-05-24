@@ -1,0 +1,9 @@
+Title: Impact of green entrepreneurship on sustainable development: An ex-post empirical analysis
+Authors: Thomas Neumann
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.134317
+Paper ID: https://openalex.org/W4298396249
+
+Abstract:
+This paper contributes to the recent stream of econometric entrepreneurship research by introducing the environmental orientation of new ventures as a key factor for sustainable development. It empirically assesses whether relationships exist between national shares of green entrepreneurial activity (GEA) and economic, social, and environmental development. Theory and first empirical evidence suggest that – compared to conventional new ventures – new green ventures have a more positive economic and social impact and are less harmful or even beneficial to environmental quality. OLS regressions were estimated to empirically test the impact of GEA rates (share of total entrepreneurial activity) on GDP, the modified HDI, and CO2 emissions. For this purpose, Global Entrepreneurship Monitor data for 11,909 early-stage entrepreneurs was aggregated to the macro-level of 53 countries and merged with further international datasets. The results confirmed that higher shares of GEA are positively related to economic and social development but not to environmental development. Additional tests proved the robustness of the results for different economic development levels, time-lag variations, and different measurements of dependent and independent variables. The identified economic and social importance of GEA warrants intensified policy efforts to support the discovery, creation, and exploitation of green business opportunities. Potential explanations for the counterintuitive non-significant environmental impact are discussed, leading to new research avenues.

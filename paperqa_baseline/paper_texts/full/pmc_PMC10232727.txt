@@ -1,0 +1,9 @@
+Title: Insights into electron wind force by a helical dislocation reconfiguration
+Authors: Chang Zhou, Lihua Zhan, Chunhui Liu, Minghui Huang
+Year: 2023
+Venue: iScience
+DOI: 10.1016/j.isci.2023.106870
+Paper ID: pmc_PMC10232727
+
+Abstract:
+Summary Many efforts for decades have been made to explore electron wind force, produced by electric current itself under electropulsing treatment. However, the clear evidence of this force is hard to separate from Joule heating. Here we study a helical dislocation within quenched Al-Cu-Li alloy when subjected to a pulsed current. Such a helical configuration is quite suited for uncoupling this force from Joule heating effect because, contrary to general dislocations, it can take a unique reconfiguration under a driving force parallel to its Burgers vector. We find that within the pulsed samples, an initial helix happens to reconfigure, evolving into a line morphology. Therefore, it is this electron wind force F ew , which parallel to the Burgers vector, would result in such novel helix reconfiguration when compared to the absence of this force. This is the first study to verify electron wind force by a helical dislocation reconfiguration. Graphical abstract Highlights • An innovative experiment design and obtained results first verify electron wind force • Our findings exhibit a significant reconfiguration of an initial helix under EPT • Revealing the kinematics of an “opened out” process of a dislocation helix under Few Condensed matter physics; Electromagnetics; Materials property

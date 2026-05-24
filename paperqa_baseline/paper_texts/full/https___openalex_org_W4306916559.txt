@@ -1,0 +1,9 @@
+Title: Sustainable Energy in European Countries: Analysis of Sustainable Development Goal 7 Using the Dynamic Time Warping Method
+Authors: Krzysztof Dmytrów, Beata Bieszk‐Stolorz, Joanna Landmesser
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15207756
+Paper ID: https://openalex.org/W4306916559
+
+Abstract:
+At a time of rapid climate change and an uncertain geopolitical situation caused by the war in Ukraine, the problem of access to energy is a serious issue. The use of renewable energy sources and ensuring the highest possible energy independence are becoming important. They are in line with the seventh Sustainable Development Goal (SDG7). The aim of our research is to compare European countries in terms of the degree of SDG7 implementation and its dynamics from 2005 to 2020. We assess the SDG7 implementation using the COPRAS method and compare its dynamics using the Dynamic Time Warping (DTW) and hierarchical clustering. In years 2005, 2009 and 2020, we present rankings of countries in terms of the SDG7 implementation. Norway, Denmark, Sweden, Croatia, and Estonia were ranked the best, and Luxembourg, Belgium, Bulgaria, Lithuania, Iceland, and Cyprus—the worst. We obtained eight clusters with respect to dynamics of the degree of SDG7 implementation. In Poland, Romania, Belgium, Luxembourg, Latvia, and Ireland, the relative dynamics was increasing, while in the Nordic and South European countries, it was decreasing. The novelty of our research is combining the COPRAS (assessment of SDG7 implementation) and DTW methods (selection of similar countries with respect to its dynamics).

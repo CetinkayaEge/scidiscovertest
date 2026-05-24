@@ -1,0 +1,9 @@
+Title: Serum Saturated Fatty Acids including Very Long-Chain Saturated Fatty Acids and Colorectal Cancer Risk among Chinese Population
+Authors: Qixin Wu, Dandan Shi, Ting Dong, Zhuolin Zhang, Qingjian Ou, Yujing Fang, Caixia Zhang
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15081917
+Paper ID: pmc_PMC10141165
+
+Abstract:
+The association between circulating saturated fatty acids (SFAs) including very long-chain SFAs (VLCSFAs) and colorectal cancer (CRC) risk has not been clearly established. To investigate the association between serum SFAs and CRC risk in Chinese population, 680 CRC cases and 680 sex and age-matched (5-year interval) controls were recruited in our study. Serum levels of SFAs were detected by gas chromatography. Unconditional logistic regression models were used to estimate odds ratios (ORs) and 95% confidence intervals (CIs) for the association between serum SFAs and CRC risk. Results showed that total SFAs were positively associated with the risk of CRC (adjusted OR quartile 4 vs. 1 = 2.64, 95%CI: 1.47–4.74). However, VLCSFAs were inversely associated with CRC risk (adjusted OR quartile 4 vs. 1 = 0.51, 95%CI: 0.36–0.72). Specifically, lauric acid, myristic acid, palmitic acid, heptadecanoic acid, and arachidic acid were positively associated with CRC risk, while behenic acid and lignoceric acid were inversely associated with CRC risk. This study indicates that higher levels of total serum SFAs and lower levels of serum VLCSFAs were associated with an increased risk of CRC in Chinese population. To reduce the risk of CRC, we recommend reducing the intake of foods containing palmitic acid and heptadecanoic acid such as animal products and dairy products, and moderately increasing the intake of foods containing VLCSFAs such as peanuts and canola oil.

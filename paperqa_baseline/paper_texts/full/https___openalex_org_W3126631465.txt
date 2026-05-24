@@ -1,0 +1,9 @@
+Title: Sustainable Waste Management for a City Multifloor Manufacturing Cluster: A Framework for Designing a Smart Supply Chain
+Authors: Tygran Dzhuguryan, Agnieszka Deja
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13031540
+Paper ID: https://openalex.org/W3126631465
+
+Abstract:
+This study focuses on integrated sustainable waste management (ISWM) within a city multifloor manufacturing (MFM) cluster. Manufacturing activities in residential areas of the urban environment and the associated generation of municipal production waste (MPW) are serious problems. The primary goal of this study is to design smart supply chain (SSC) scenarios for the shipment of MPW from a city MFM cluster under uncertainty. This paper presents a new model of the finite MPW generation capacity for a city MFM cluster on the basis of an analysis of its finite production capacity using the material flow analysis (MFA) methodology. The proposed model allows us to determine the number of transport fleet units needed for the implementation of various supply chain (SC) scenarios of MPW. To select the best scenario for MPW shipment in real time, the application of SSC and SSC management (SSCM) technologies is proposed. SSCM performance indicators are proposed which allow us to evaluate the efficiency of using vehicles for cluster MPW transportation. The numerical values of the SSCM performance indicators for various options regarding the handling of city MFM buildings using trucks are obtained. These evaluations form the basis for the decision-making and planning associated with the SSCs of MPW.

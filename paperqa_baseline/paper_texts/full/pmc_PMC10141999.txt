@@ -1,0 +1,9 @@
+Title: Effects of Law Enforcement Load Carriage Systems on Muscle Activity and Coordination during Walking: An Exploratory Study
+Authors: Joel Martin, Megan Sax van der Weyden, Marcie Fyock-Martin
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084052
+Paper ID: pmc_PMC10141999
+
+Abstract:
+Law enforcement officers (LEOs) commonly wear a duty belt (DB) or tactical vest (TV) and from prior findings, these forms of load carriage (LC) likely alter muscular activity. However, studies on the effects of LEO LC on muscular activity and coordination are limited in the current literature. The present study examined the effects of LEO load carriage on muscular activity and coordination. Twenty-four volunteers participated in the study (male = 13, age = 24.5 ± 6.0 years). Surface electromyography (sEMG) sensors were placed on the vastus lateralis, biceps femoris, multifidus, and lower rectus abdominus. Participants completed treadmill walking for two load carriage conditions (duty belt and tactical vest) and a control condition. Mean activity, sample entropy and Pearson correlation coefficients were computed for each muscle pair during the trials. The duty belt and tactical vest resulted in an increase in muscle activity in several muscles; however, no differences between the duty belt and tactical vest were found. Consistently across the conditions, the largest correlations were observed between the left and right multifidus (r = 0.33–0.68) and rectus abdominus muscles (0.34–0.55). There were statistically small effects ( p < 0.05, η 2 = 0.031 to 0.076) of the LC on intermuscular coordination. No effect ( p > 0.05) of the LC on sample entropy was found for any muscle. The findings indicate that LEO LC causes small differences in muscular activity and coordination during walking. Future research should incorporate heavier loads and longer durations.

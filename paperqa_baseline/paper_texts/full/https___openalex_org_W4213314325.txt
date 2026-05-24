@@ -1,0 +1,9 @@
+Title: Global Challenges and Responses: Agriculture, Economic Globalization, and Environmental Sustainability in Central Asia
+Authors: Altanshagai Batmunkh, Agus Dwi Nugroho, Mária Fekete‐Farkas, Zoltán Lakner
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14042455
+Paper ID: https://openalex.org/W4213314325
+
+Abstract:
+Economic globalization (EG) accelerates very fast in Central Asia. This could cause environmental degradation, according to the environmental Kuznets curve (EKC) hypothesis. The study aims to determine how the EG of agriculture impacts environmental sustainability, and to test the EKC hypothesis on the agricultural sector in six Central Asian countries. Particularly, some main hypotheses were proposed using secondary data from Kazakhstan, Kyrgyzstan, Mongolia, Tajikistan, Turkmenistan, and Uzbekistan from 1994 to 2019. This study uses five explanatory variables: agricultural exports value (EXP), agriculture forestry and fishing value-added (AVA), the exchange rate (EXR), total natural resource rents (RENT), and external debt stocks (DEBT), while the dependent variable in this study is the CO2 emissions from on-farm energy use (EMS), temperature changes (TEMP), and forest fires (FIRE). These data are analyzed using panel data regression. As a result, AVA and RENT raise EMS; EXC raises TEMP but lowers EMS; DEBT raises TEMP but can lower FIRE. Hence, we propose recommendations to improve this condition, including a clear roadmap, enhanced partnerships, and regional and international support.

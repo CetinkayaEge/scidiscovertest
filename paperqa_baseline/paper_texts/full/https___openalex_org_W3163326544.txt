@@ -1,0 +1,9 @@
+Title: The Enabling Role of Digital Technologies in Sustainability Accounting: Findings from Norwegian Manufacturing Companies
+Authors: Olena Klymenko, Lise Lillebrygfjeld Halse, Bjørn Jæger
+Year: 2021
+Venue: Systems
+DOI: https://doi.org/10.3390/systems9020033
+Paper ID: https://openalex.org/W3163326544
+
+Abstract:
+Sustainability accounting is an emerging research area receiving growing awareness. This study examines the role of digital technology in manufacturing companies’ sustainability accounting. To guide the research, we use a triple layered business model canvas, which supports the accounting of a manufacturer’s performance for the economic, environmental, and social aspects of sustainability. We present an explorative case study of four Norwegian manufacturing companies representing different industries. The findings from the study indicate that while accounting for economic values is well taken care of, companies do not perform comprehensive environmental and social accounting. Furthermore, we observed a shift from a focus on sustainability issues related to the internal manufacturing process to a focus on sustainability issues for the life cycle of the product. Even though the manufacturers are at the forefront with regard to automation and control of production, with extensive use of robots giving a large amount of data, these data are not utilized towards sustainability accounting, showing that sustainability and digitalization are seen as two separate phenomena. This study sheds light on how digital data available from applied Industry 4.0 technologies could enhance sustainability accounting with limited efforts, linking sustainability and digitalization. The results provide insights for manufacturers and researchers in moving towards more sustainable operations and products.

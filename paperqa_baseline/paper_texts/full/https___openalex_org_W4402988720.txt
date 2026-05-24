@@ -1,0 +1,9 @@
+Title: Alternative Fuels in Sustainable Logistics—Applications, Challenges, and Solutions
+Authors: Abdulla Al-Mohannadi, Kadir Ertoğral, Murat Erkoc
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16198484
+Paper ID: https://openalex.org/W4402988720
+
+Abstract:
+Logistics is becoming more cost competitive while customers and regulatory bodies pressure businesses to disclose their carbon footprints, creating interest in alternative fuels as a decarbonization strategy. This paper provides a thematic review of the role of alternative fuels in sustainable air, land, and sea logistics, their challenges, and potential mitigations. Through an extensive literature survey, we determined that biofuels, synthetic kerosene, natural gas, ammonia, alcohols, hydrogen, and electricity are the primary alternative fuels of interest in terms of environmental sustainability and techno-economic feasibility. In air logistics, synthetic kerosene from hydrogenated esters and fatty acids is the most promising route due to its high technical maturity, although it is limited by biomass sourcing. Electrical vehicles are favorable in road logistics due to cheaper green power and efficient vehicle designs, although they are constrained by recharging infrastructure deployment. In sea logistics, liquified natural gas is advantageous owing to its supply chain maturity, but it is limited by methane slip control and storage requirements. Overall, our examination indicates that alternative fuels will play a pivotal role in the logistics networks of the future.

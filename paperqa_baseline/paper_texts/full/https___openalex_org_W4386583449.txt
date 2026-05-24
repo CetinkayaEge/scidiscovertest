@@ -1,0 +1,9 @@
+Title: Modelling the relationship between digital twins implementation barriers and sustainability pillars: Insights from building and construction sector
+Authors: Ahmed Farouk Kineber, Atul Kumar Singh, Abdulwahed Fazeli, Saeed Reza Mohandes, Clara Cheung, Mehrdad Arashpour, Obuks Ejohwomu, Tarek Zayed
+Year: 2023
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2023.104930
+Paper ID: https://openalex.org/W4386583449
+
+Abstract:
+A Digital Twin (DT) is a digital copy of a real-world object or process. Although DT has gained traction in construction, its relationship with sustainable success remains insufficiently studied. This research addresses this gap by investigating barriers to implementing DT in sustainable construction. The study employs a hybrid approach involving literature review, expert interviews, and modeling techniques, with data collected from 108 construction experts based on a number of criteria, including the experience, degree, and familiarity of the experts about the Hong Kong building and construction sector Hong Kong. The findings reveal 45 barriers categorized into six clusters, including notable obstacles such as "legacy systems," "data uncertainties," and "connectivity." The key clusters identified are "performance" and "security," while the "social" aspect of sustainable success is least supported. Recognising these challenges assists decision-makers in navigating obstacles and utilising DT for environmentally conscious construction, streamlined processes, and positive societal impacts. Future research could delve into integrating sustainability throughout the project lifecycle using technology adoption theories.

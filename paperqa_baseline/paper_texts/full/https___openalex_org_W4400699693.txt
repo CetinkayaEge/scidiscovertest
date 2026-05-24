@@ -1,0 +1,9 @@
+Title: A review on the current status of dye‐sensitized solar cells: Toward sustainable energy
+Authors: Benjamin K. Korir, Joshua K. Kibet, Silas M. Ngari
+Year: 2024
+Venue: Energy Science & Engineering
+DOI: https://doi.org/10.1002/ese3.1815
+Paper ID: https://openalex.org/W4400699693
+
+Abstract:
+Abstract Dye‐sensitized solar cells (DSSCs) are among the most attractive third‐generation photovoltaic technologies due to their low toxicity, versatility, roll‐to‐roll compatibility, ultralightness, and attractive power conversion efficiencies (PCEs). However, their transition from the laboratory scale to the industrial scale has been slow due to their inability to compete with silicon‐based cells in terms of efficiencies and stabilities. Research activities on DSSCs have been ongoing for several decades to improve the efficiency and cost‐effectiveness of photovoltaics but these attempts are still inadequate. Their chemical and physical properties must be refined to increase efficiency and commercialization. This review provides a concise overview of the recent advances taking place in the DSSCs research field, including molecular engineering technologies, the quest for superior carrier transport materials (CTMs), efficient sensitizers, and better electrodes. Also, this review compiles knowledge of the historical development of DSSCs, the current advancements such as control of surface morphologies, doping strategies, modeling and simulation, characterization, and recent cutting‐edge research happenings in photovoltaic research. Finally, nanostructured materials that have been used as photoelectrodes and the practical applications of DSSCs in internet of things (IoT) and portable electronics are examined to identify challenges and future advancements. The main aim of this work is to be a pathfinder for scientific researchers in this field exploring various energy harvesting materials and optimization strategies of different components of DSSCs.

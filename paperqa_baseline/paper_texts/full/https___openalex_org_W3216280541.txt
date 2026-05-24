@@ -1,0 +1,9 @@
+Title: A review on sustainable production of graphene and related life cycle assessment
+Authors: Jose Munuera, L. Britnell, Carlo Santoro, Rosa M. Cuéllar-Franca, Cinzia Casiraghi
+Year: 2021
+Venue: 2D Materials
+DOI: https://doi.org/10.1088/2053-1583/ac3f23
+Paper ID: https://openalex.org/W3216280541
+
+Abstract:
+Abstract Advanced materials such as graphene and the family of two-dimensional crystals are very attractive because of the myriad of applications that could be developed based on their outstanding properties. However, as soon as material development reaches enough maturity for production to be scaled up and to enter the market within products, it is crucial to place the technology in the context of possible risks to economic well-being, social equity and environmental harm. This review aims at highlighting the current state of art on sustainable development of graphene-related materials and related environmental impact assessment studies using life cycle assessment (LCA). We show that sustainable development has focused mostly on the use of waste or low cost materials as precursors. However, the findings from relevant LCA studies reveals the limits of this approach, which does not take into account that waste recycling is often very energy intensive. We provide an overview on the life cycle environmental impact assessment, with a focus on global warming potential and energy demand, carried out on different graphene productions methods for specific applications, ranging from composites to electronics. Finally, an outlook is given focussing on the comparison of the different production routes and the results from the LCA.

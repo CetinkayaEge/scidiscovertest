@@ -1,0 +1,9 @@
+Title: Readability of Sustainability Reports: A Bibliometric Analysis and Systematic Literature Review
+Authors: Miguel Pombinho, Ana Fialho, Jorge Casas Novas
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16010260
+Paper ID: https://openalex.org/W4390267129
+
+Abstract:
+This paper aims to investigate the latest scientific developments, map research networks and topics, and present a critical analysis of the gaps and future opportunities in the literature on the readability of sustainability reports. Through data collection and filtering processes, the final sample included 10 articles. Then, a bibliometric analysis was developed using Scopus metrics and AJG classification. VOSviewer software (Version 1.6.18) was used to develop bibliometric networks. Finally, we developed a systematic review analysis to answer our third objective. The results show that most studies on the readability of non-financial reports come from Europe and Oceania; the sample’s co-citations per author were classified into three clusters; most of the sample was linked to analyzing the quality and effectiveness of sustainability reports; and organizations tend to use low readability in sustainability reports. This study contributes to further scientific knowledge about the readability of sustainability reports and impression management techniques and to the research into the importance of sustainability reporting for managing stakeholder impressions. A wide range of implications for the academic community, regulatory bodies, organizations, and all users of the information disclosed through sustainability reports were identified. The main limitations may have been created by the sample’s size, exclusion criteria, and keywords selected.

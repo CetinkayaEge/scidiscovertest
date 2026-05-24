@@ -1,0 +1,9 @@
+Title: Repeatability and reproducibility of cardiac manganese-enhanced magnetic resonance imaging
+Authors: T. Singh, S. Joshi, M. N. Meah, N. B. Spath, G. Papanastasiou, L. E. Kershaw, A. H. Baker, M. R. Dweck, D. E. Newby, S. I. Semple
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-29591-z
+Paper ID: pmc_PMC9971197
+
+Abstract:
+Manganese-enhanced magnetic resonance imaging can provide a surrogate measure of myocardial calcium handling. Its repeatability and reproducibility are currently unknown. Sixty-eight participants: 20 healthy volunteers, 20 with acute myocardial infarction, 18 with hypertrophic and 10 with non-ischemic dilated cardiomyopathy underwent manganese-enhanced magnetic resonance imaging. Ten healthy volunteers were re-scanned at 3 months. Native T1 values and myocardial manganese uptake were assessed for intra and inter-observer repeatability. Scan-rescan reproducibility was assessed in ten healthy volunteers. Intra-observer and inter-observer correlation was excellent in healthy volunteers for mean native T1 mapping [Lin’s correlation coefficient (LCC) 0.97 and 0.97 respectively] and myocardial manganese uptake (LCC: 0.99 and 0.96 respectively). Scan-rescan correlation for native T1 and myocardial manganese uptake was also excellent. Similarly, intra-observer correlations for native T1 and myocardial manganese uptake in patients with acute myocardial infarction (LCC: 0.97 and 0.97 respectively), hypertrophic (LCC: 0.98 and 0.97 respectively) and dilated cardiomyopathy (LCC: 0.99 and 0.95 respectively) were excellent. Limits of agreement were broader in patients with dilated cardiomyopathy. Manganese-enhanced magnetic resonance imaging has high repeatability and reproducibility in healthy myocardium and high repeatability in diseased myocardium. However, further study is needed to establish robustness in pathologies with diffuse myocardial fibrosis.

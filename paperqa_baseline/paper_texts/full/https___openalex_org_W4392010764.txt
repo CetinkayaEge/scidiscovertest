@@ -1,0 +1,9 @@
+Title: Fresh and strength properties of 3D printable concrete mixtures utilising a high volume of sustainable alternative binders
+Authors: Markus Colyn, Gideon van Zijl, Adewumi John Babafemi
+Year: 2024
+Venue: Construction and Building Materials
+DOI: https://doi.org/10.1016/j.conbuildmat.2024.135474
+Paper ID: https://openalex.org/W4392010764
+
+Abstract:
+Most 3D printable concrete (3DPC) mixtures currently found in literature and the construction industry contain a high volume of ordinary Portland cement (OPC) which contributes to 10% of the global CO2 emissions. In this study, the volume fraction of OPC in 3DPC is significantly reduced by using fly ash (FA), silica fume (SF), slag (GGBS) and metakaolin (MK60) as alternative binders and increasing the aggregate-to-binder mass ratio from 1.6 to 1.75. The experimental programme is planned considering the evaluation of pumpability, extrudability and buildability requirements. Mechanical characterisation in the form of compression tests and modulus of elasticity are conducted. Three mixtures incorporating alternative binders, constituting 60% of the total binder volume, are developed. These mixtures have appropriate rheological properties for 3D printing, 28-day compressive strengths of between 31 and 55 MPa and elastic moduli of 29–37 GPa. Printed structures using any one of the three mixes had uniform, smooth surfaces with no visual indication of surface cracking. The findings of this study demonstrate the potential for incorporating FA, SF, GGBS, and MK60 in high quantities as alternative binders in 3DPC. This approach enhances the sustainability of 3DPC, indicating a positive feasibility in terms of performance and environmental impact.

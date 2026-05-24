@@ -1,0 +1,9 @@
+Title: Towards a sustainable future: The role of energy efficiency, renewable energy, and urbanization in limiting CO2 emissions in Sweden
+Authors: Tomiwa Sunday Adebayo, Sami Ullah
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2658
+Paper ID: https://openalex.org/W4382797786
+
+Abstract:
+Abstract The curtailment of carbon dioxide (CO 2 ) emissions plays a pivotal role in realizing sustainable development goals, protecting the environment, mitigating climate change, and preserving biodiversity for a cleaner and more resilient future. Thus, it is essential to adopt comprehensive approaches that prioritize energy efficiency, renewable energy, and sustainable urbanization to achieve a sustainable and prosperous future. This study employs wavelet analysis methods, involving Wavelet correlation and covariance, Wavelet coherence (WTC), Wavelet cohesion (WC), and Wavelet‐based Granger causality (WCT), to examine the time and frequency‐based interactions between the variables over the period of 1990–2020. The empirical analysis reveals a significant and negative correlation among CO 2 emissions and energy efficiency measures such as coal and gas in the short‐, medium‐, and long‐term frequency domains. Similarly, renewable energy usage and urbanization also exhibit negative correlation with CO 2 emissions during analyzed years in the short‐ and medium‐term. Furthermore, the intensity of the correlations among considered variables varies across time and frequency domains. The study recommends to implement such policies that enhance the energy efficiency, renewable energy use, and sustainable urbanization to achieve the net‐zero goal and fostering sustainable development in Sweden.

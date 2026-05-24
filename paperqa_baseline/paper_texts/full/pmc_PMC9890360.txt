@@ -1,0 +1,9 @@
+Title: Utilization of Electrical Conductivity to Improve Prediction Accuracy of Cooking Loss of Pork Loin
+Authors: Kyung Jo, Seonmin Lee, Hyun Gyung Jeong, Dae-Hyun Lee, Sangwon Yoon, Yoonji Chung, Samooel Jung
+Year: 2023
+Venue: Food Science of Animal Resources
+DOI: 10.5851/kosfa.2022.e64
+Paper ID: pmc_PMC9890360
+
+Abstract:
+Abstract This study investigated the predictability of cooking loss of pork loin through relatively easy and quick measurable quality properties. The pH, color, moisture, protein content, and cooking loss of 100 pork loins were measured. The explanatory variables included in all linear regression models with an adjust-r 2 value of ≥0.5 were pH and the protein content. In the linear regression model predicting cooking loss, the highest adjust-r 2 value was 0.7, with pH, CIE L*, CIE b*, moisture, and protein content as the explanatory variables. In 30 pork loins, electrical conductivity was additionally measured, and as a result of linear regression analysis for predicting cooking loss, the highest adjust-r 2 value was 0.646 with electrical conductivity measured at 40 Hz, with pH and color as the explanatory variables. Ordinal logistic regression analysis was performed to predict the three grades (low, middle, and high) of loin cooking loss using pH, color, and 40 Hz electrical conductivity as the explanatory variables, and the percent concordance was 93.8%. In conclusion, the addition of electrical conductivity as an explanatory variable did not increase the prediction accuracy of the linear regression model for predicting cooking loss; however, it was demonstrated that it is possible to predict and classify the cooking loss grade of pork loin through quality properties that can be measured quickly and easily.

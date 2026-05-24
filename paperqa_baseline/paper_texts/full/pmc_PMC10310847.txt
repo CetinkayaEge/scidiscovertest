@@ -1,0 +1,9 @@
+Title: Divalent cations in human liver pyruvate kinase exemplify the combined effects of complex-equilibrium and allosteric regulation
+Authors: Tyler A. Martin, Aron W. Fenton
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-36943-2
+Paper ID: pmc_PMC10310847
+
+Abstract:
+There is growing recognition that the functional outcome of binding of an allosteric regulator to a protein/enzyme is influenced by the presence of other ligands. Here, this complexity is exemplified in the allosteric regulation of human liver pyruvate kinase (hLPYK) that is influenced by the presence of a range of divalent cation types and concentrations. For this system, fructose-1,6-bisphosphate (activator) and alanine (inhibitor) both influence the protein’s affinity for the substrate, phosphoenolpyruvate (PEP). Mg 2+ , Mn 2+ , Ni 2+ , and Co 2+ were the primary divalent cations evaluated, although Zn 2+ , Cd 2+ , V 2+ , Pb 2+ , Fe 2+ , and Cu 2+ also supported activity. Allosteric coupling between Fru-1,6-BP and PEP and between Ala and PEP varied depending on divalent cation type and concentration. Due to complicating interactions among small molecules, we did not attempt the fitting of response trends and instead we discuss a range of potential mechanisms that may explain those observed trends. Specifically, observed “substrate inhibition” may result from substrate A in one active site acting as an allosteric regulator for the affinity for substrate B in a second active site of a multimer. We also discuss apparent changes in allosteric coupling that can result from a sub-saturating concentration of a third allosteric ligand.

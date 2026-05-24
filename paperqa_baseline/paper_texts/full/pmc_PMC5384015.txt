@@ -1,0 +1,9 @@
+Title: The apoptotic mechanisms of MT-6, a mitotic arrest inducer, in human ovarian cancer cells
+Authors: Mei-Chuan Chen, Yi-Chiu Kuo, Chia-Ming Hsu, Yi-Lin Chen, Chien-Chang Shen, Che-Ming Teng, Shiow-Lin Pan
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46149
+Paper ID: pmc_PMC5384015
+
+Abstract:
+Patients with ovarian cancer are typically diagnosed at an advanced stage, resulting in poor prognosis since there are currently no effective early-detection screening tests for women at average-risk for ovarian cancer. Here, we investigated the effects of MT-6, a derivative of moscatilin, in ovarian cancer cells. Our investigation showed that MT-6 inhibited the proliferation and viability of ovarian cancer cells with submicromolar IC 50 values. MT-6–treated SKOV3 cells showed significant cell cycle arrest at G2/M phase, followed by an increase in the proportion of cells in a sub-G1 phase. In addition, MT-6 induced a concentration-dependent increase in mitotic markers, mitotic kinases, cell cycle regulators of G2/M transition, and apoptosis-related markers in ovarian cancer cells. MT-6 treatment also induced mitochondrial membrane potential loss, JNK activation, and DR5 expression. Cotreatment of cells with the JNK inhibitor SP600125 considerably attenuated MT-6–induced apoptosis, mitochondria membrane potential loss, DR5 upregulation, and suppression of cell viability. MT-6 also inhibited tumor growth in an SKOV3 xenograft model without significant body weight loss. Together, our findings suggest that MT-6 is a potent anticancer agent with tumor-suppressive activity in vitro and in vivo that could be further investigated for ovarian cancer therapy in the future.

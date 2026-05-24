@@ -1,0 +1,9 @@
+Title: Association between myopia progression and quantity of laser treatment for retinopathy of prematurity
+Authors: Eileen S. Hwang, Iris S. Kassem, Rawan Allozi, Sasha Kravets, Khalid Y. Al-Kirwi, Joelle A. Hallak, Deborah M. Costakos
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279898
+Paper ID: pmc_PMC9803142
+
+Abstract:
+Background Previous studies found that infants with retinopathy of prematurity (ROP) who were treated for more posterior disease with a greater number of laser spots developed higher myopia. These studies included multiple physicians with variations in laser density. In treatments by a single physician, laser spot count is a better surrogate for area of avascular retina and anterior-posterior location of disease, so that the relationship with myopia can be better assessed. Methods Our retrospective study included infants treated with laser for ROP by a single surgeon at a single center. Exclusion criteria were irregularities during laser and additional treatment for ROP. We assessed correlation between laser spot count and change in refractive error over time using a linear mixed effects model. Results We studied 153 eyes from 78 subjects treated with laser for ROP. The average gestational age at birth was 25.3±1.8 weeks, birth weight 737±248 grams, laser spot count 1793±728, and post-treatment follow up 37±29 months. Between corrected ages 0–1 years, the mean spherical equivalent was +0.4±2.3 diopters; between ages 1–2, it was -1.3±3.2D; and ages 2–3 was -0.8±3.1D. Eyes that received more laser spots had significantly greater change in refractive error over time (0.30D more myopia per year per 1000 spots). None of the eyes with hyperopia before 18 months developed myopia during the follow-up period. Conclusions Greater myopia developed over time in infants with ROP treated by laser to a larger area of avascular retina.

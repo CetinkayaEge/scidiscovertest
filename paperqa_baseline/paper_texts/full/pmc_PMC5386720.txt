@@ -1,0 +1,9 @@
+Title: CDCA2 promotes lung adenocarcinoma cell proliferation and predicts poor survival in lung adenocarcinoma patients
+Authors: Run Shi, Chunrong Zhang, Yaqin Wu, Xin Wang, Qi Sun, Jing Sun, Wenjie Xia, Gaochao Dong, Anpeng Wang, Feng Jiang, Lin Xu
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15519
+Paper ID: pmc_PMC5386720
+
+Abstract:
+Cell division cycle associated 2(CDCA2) is overexpressed in neuroblastoma and oral squamous cell carcinoma, and its overexpression positively correlates to tumor progression. However, the biological and clinical significance of CDCA2 in lung adenocarcinoma(LAC) has never been investigated. We determined the expression profile and clinical significance of CDCA2 using The Cancer Genome Atlas(TCGA) and tissue microarray(TMA). Furthermore, we explored the biological function of CDCA2 both in vitro and in vivo . A great upregulation of CDCA2 was observed in LAC tissues compared with adjacent normal tissues. Importantly, Cox regression analysis indicated that high level of CDCA2 was an independent risk factor for overall survival(OS) in LAC patients (TCGA: HR = 1.720, p = 0.004; TMA: HR = 1.971, p = 0.023). Inhibition of CDCA2 suppressed the proliferation of LAC cells via G1 phase arrest by downregulating cyclin E1(CCNE1), while overexpression of CDCA2 promoted LAC cells proliferation by upregulating CCNE1. Moreover, the oncogenic activity of CDCA2 was also confirmed in vivo . In conclusion, CDCA2 promotes proliferation of LAC cells and predicts poor prognosis in LAC patients. CDCA2 might play a significant role in LAC progression.

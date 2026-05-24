@@ -1,0 +1,9 @@
+Title: WNT5A Signaling Contributes to Aβ-Induced Neuroinflammation and Neurotoxicity
+Authors: Bei Li, Ling Zhong, Xiangling Yang, Tommy Andersson, Min Huang, Shao-Jun Tang
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0022920
+Paper ID: pmc_PMC3157339
+
+Abstract:
+Neurodegenration is a pathological hallmark of Alzheimer's disease (AD), but the underlying molecular mechanism remains elusive. Here, we present evidence that reveals a crucial role of Wnt5a signaling in this process. We showed that Wnt5a and its receptor Frizzled-5 (Fz5) were up-regulated in the AD mouse brain, and that beta-amyloid peptide (Aβ), a major constituent of amyloid plaques, stimulated Wnt5a and Fz5 expression in primary cortical cultures; these observations indicate that Wnt5a signaling could be aberrantly activated during AD pathogenesis. In support of such a possibility, we observed that inhibition of Wnt5a signaling attenuated while activation of Wnt5a signaling enhanced Aβ-evoked neurotoxicity, suggesting a role of Wnt5a signaling in AD-related neurodegeneration. Furthermore, we also demonstrated that Aβ-induced neurotoxicity depends on inflammatory processes, and that activation of Wnt5a signaling elicited the expression of proinflammatory cytokines IL-1β and TNF-α whereas inhibition of Wnt5a signaling attenuated the Aβ-induced expression of the cytokines in cortical cultures. Our findings collectively suggest that aberrantly up-regulated Wnt5a signaling is a crucial pathological step that contributes to AD-related neurodegeneration by regulating neuroinflammation.

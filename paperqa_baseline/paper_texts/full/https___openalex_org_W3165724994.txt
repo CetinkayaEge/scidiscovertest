@@ -1,0 +1,9 @@
+Title: Monitoring Landsat Based Burned Area as an Indicator of Sustainable Development Goals
+Authors: Mingyue Wei, Zhaoming Zhang, Tengfei Long, Guojin He, Guizhou Wang
+Year: 2021
+Venue: Earth s Future
+DOI: https://doi.org/10.1029/2020ef001960
+Paper ID: https://openalex.org/W3165724994
+
+Abstract:
+Abstract The “United Nations 2030 Agenda for Sustainable Development” adopted in 2015 covers 17 Sustainable Development Goals (SDGs). Fire is a common form of disaster and has a wide range of impacts on climate, biogeochemical cycle and human health, highly related to the SDGs. Satellite remote sensing technology provides an effective way for the dynamic monitoring of global burned area (BA). However, the existing global BA products are mainly at low and medium spatial resolution, which is difficult for detecting small fires, and also has large errors in calculating area of burned land. Based on Landsat 8 surface reflectance data and Google Earth Engine platform, a novel multi‐year (from the starting year of SDGs [2015] to the nearest year [2019]) 30 m resolution global BA products were generated. Based on these products, spatial distribution, influencing factors and change characteristics of BA were analyzed. The results show that from 2015 to 2019 the total area of BA in the world was 365.27, 368.56, 374.56, 345.55, and 363.09 × 10 6 ha. From 2015 to 2019, the total area of global BA was relatively stable, however there were significant differences among various continents and regions. During the study period, BA in the Amazon and Australia changed dramatically. The huge Amazon fire in 2019 caused a reduction of 4.67 × 10 6 ha of vegetated area in the Amazon basin, an increase in BA of 119.25% compared with 2018. In 2019, BA on the eastern and southeastern coasts of Australia increased abnormally. The possible reasons for these changes were comprehensively discussed and analyzed.

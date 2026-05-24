@@ -1,0 +1,9 @@
+Title: Dynamic Polymer Networks: A New Avenue towards Sustainable and Advanced Soft Machines
+Authors: Alan M. Wemyss, Christopher Ellingford, Yoshihiro Morishita, Chris Bowen, Chaoying Wan
+Year: 2021
+Venue: Angewandte Chemie International Edition
+DOI: https://doi.org/10.1002/anie.202013254
+Paper ID: https://openalex.org/W3120434948
+
+Abstract:
+While the fascinating field of soft machines has grown rapidly over the last two decades, the materials they are constructed from have remained largely unchanged during this time. Parallel activities have led to significant advances in the field of dynamic polymer networks, leading to the design of three-dimensionally cross-linked polymeric materials that are able to adapt and transform through stimuli-induced bond exchange. Recent work has begun to merge these two fields of research by incorporating the stimuli-responsive properties of dynamic polymer networks into soft machine components. These include dielectric elastomers, stretchable electrodes, nanogenerators, and energy storage devices. In this Minireview, we outline recent progress made in this emerging research area and discuss future directions for the field.

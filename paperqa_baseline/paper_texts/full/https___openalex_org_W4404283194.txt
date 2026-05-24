@@ -1,0 +1,9 @@
+Title: The NHGRI-EBI GWAS Catalog: standards for reusability, sustainability and diversity
+Authors: María Cerezo, Elliot Sollis, Yue Ji, Elizabeth Lewis, Ala Abid, Karatuğ Ozan Bircan, Peggy Hall, James Hayhurst, Sajo John, Abayomi Mosaku, Santhi Ramachandran, Amy Foreman, Arwa Ibrahim, James Alastair McLaughlin, Zoë May Pendlington, Ray Stefancsik, Samuel A. Lambert, Aoife McMahon, Joannella Morales, Thomas Keane, Michael Inouye, Helen Parkinson, Laura W. Harris
+Year: 2024
+Venue: Nucleic Acids Research
+DOI: https://doi.org/10.1093/nar/gkae1070
+Paper ID: https://openalex.org/W4404283194
+
+Abstract:
+The NHGRI-EBI GWAS Catalog serves as a vital resource for the genetic research community, providing access to the most comprehensive database of human GWAS results. Currently, it contains close to 7 000 publications for >15 000 traits, from which more than 625 000 lead associations have been curated. Additionally, 85 000 full genome-wide summary statistics datasets-containing association data for all variants in the analysis-are available for downstream analyses such as meta-analysis, fine-mapping, Mendelian randomisation or development of polygenic risk scores. As a centralised repository for GWAS results, the GWAS Catalog sets and implements standards for data submission and harmonisation, and encourages the use of consistent descriptors for traits, samples and methodologies. We share processes and vocabulary with the PGS Catalog, improving interoperability for a growing user group. Here, we describe the latest changes in data content, improvements in our user interface, and the implementation of the GWAS-SSF standard format for summary statistics. We address the challenges of handling the rapid increase in large-scale molecular quantitative trait GWAS and the need for sensitivity in the use of population and cohort descriptors while maintaining data interoperability and reusability.

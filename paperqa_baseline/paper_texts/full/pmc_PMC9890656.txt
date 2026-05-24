@@ -1,0 +1,9 @@
+Title: Revealing the alloying and dealloying behaviours in AuAg nanorods by thermal stimulus †
+Authors: Long-Bing He, Lei Shangguan, Ya-Ting Ran, Chao Zhu, Zi-Yu Lu, Jiong-Hao Zhu, Dao-Jiang Yu, Cai-Xia Kan, Li-Tao Sun
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00746k
+Paper ID: pmc_PMC9890656
+
+Abstract:
+Binary metallic nanocrystals are attractive as they offer an extra degree of freedom for structure and phase modulation to generate synergistic effects and extraordinary properties. However, whether the binary structures and phases at the nanoscale still follow the rules established on the bulk counterparts remains unclear. In this work, AuAg nanorods were used as a sample to probe into this issue. An in situ heating method by combining aberration-corrected transmission electron microscopes with a chip-based heating holder was employed to perform the heating experiments. It was found that the AuAg nanorods, which initially possessed heterostructures, can be designed and engineered to be gradient phase alloys with thermal pulses over 350 °C. Atomic diffusion inside the rod structures did not alter the shape of the rods but provided a route to fine-tune their properties. At higher temperatures, the discrepant sublimation behaviours between Au and Ag lead to dealloying of the nanorods. Durative sublimation of the Ag element can continuously tailor the lengths of the nanorods while concentrating the Au composition simultaneously. Especially, nearly pure Au nanocrystals can be obtained with the depletion of Ag by sublimation. These findings give insights into the nanoscale structure and phase behaviours in binary alloys and provide an alternative way to fine-tune their structure, phase, and properties. The alloying and dealloying processes of AuAg nanorods are revealed from an atomistic view. The findings provide a delicate approach to fine-tune the nanorod structure, phase, and property for functional applications.

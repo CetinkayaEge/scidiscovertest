@@ -1,0 +1,9 @@
+Title: Thousands of human mutation clusters are explained by short-range template switching
+Authors: Ari Löytynoja
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276478.121
+Paper ID: pmc_PMC9435742
+
+Abstract:
+Variation within human genomes is unevenly distributed, and variants show spatial clustering. DNA replication–related template switching is a poorly known mutational mechanism capable of causing major chromosomal rearrangements as well as creating short inverted sequence copies that appear as local mutation clusters in sequence comparisons. In this study, haplotype-resolved genome assemblies representing 25 human populations and multinucleotide variants aggregated from 140,000 human sequencing experiments were reanalyzed. Local template switching could explain thousands of complex mutation clusters across the human genome, the loci segregating within and between populations. During the study, computational tools were developed for identification of template switch events using both short-read sequencing data and genotype data, and for genotyping candidate loci using short-read data. The characteristics of template-switch mutations complicate their detection, and widely used analysis pipelines for short-read sequencing data, normally capable of identifying single nucleotide changes, were found to miss template-switch mutations of tens of base pairs, potentially invalidating medical genetic studies searching for a causative allele behind genetic diseases. Combined with the massive sequencing data now available for humans, the novel tools described here enable building catalogs of affected loci and studying the cellular mechanisms behind template switching in both healthy organisms and disease.

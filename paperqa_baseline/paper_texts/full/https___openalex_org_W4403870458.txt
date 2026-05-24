@@ -1,0 +1,9 @@
+Title: Assessing and gauging the carbon emission efficiency in China in accordance with the sustainable development goals
+Authors: Yuhan Zhang, Yirui Yang, Wei Ye, Mo Chen, Xinchen Gu, Xue Li, Pan Jiang, Liang Liu
+Year: 2024
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-024-75903-2
+Paper ID: https://openalex.org/W4403870458
+
+Abstract:
+In light of the growing urgency of climate change, carbon emissions reduction has emerged as a pivotal concern within global governance. In this paper, we take carbon emission efficiency (CEE) as the research object to characterize the relationship between economic, social, and environmental development in the context of the Sustainable Development Goals (SDGs). According to the regional division standard of eight comprehensive economic zones in China, this paper analyzed the spatial differences, evolutionary characteristics, and influencing factors of CEE in 257 Chinese cities over the period 2003-2019. The analysis conducted the Dagum Gini Coefficient, Markov Transition Probability Matrix, and geographically and temporally weighted regression model (GTWR). The results demonstrate that: (1) The CEE of Chinese cities exhibits an upward trajectory. (2) The inter-differences among the eight comprehensive economic zones represent the primary spatial source of CEE divergence. (3) The CEE of Chinese cities is a staged process of gradual enhancement with spatial spillover effects. (4) Environmental regulation, energy consumption intensity, and green finances are significant factors affecting CEE, and the direction and intensity of their influence have distinct spatial heterogeneity. Ultimately, this paper proposes measures to narrow the development gap between regions and enhance the CEE across the region. Meanwhile, implementing regional refinement management and formulating differentiated regional sustainable development planning.

@@ -1,0 +1,9 @@
+Title: Lighting the future of sustainable cities with energy communities: An economic analysis for incentive policy
+Authors: Idiano D’Adamo, Massimo Gastaldi, S.C. Lenny Koh, Alessandro Vigiano
+Year: 2024
+Venue: Cities
+DOI: https://doi.org/10.1016/j.cities.2024.104828
+Paper ID: https://openalex.org/W4391461028
+
+Abstract:
+Inland areas are suffering from depopulation and a lack of services, with many citizens deciding to move to the city. Smart cities require a decentralised and collective energy model in the form of renewable energy communities (RECs). This work aims to propose an economic analysis of residential photovoltaic systems within a REC according to different incentive and market scenarios. For this scope, the Net Present Value (NPV) is used in both baseline and alternative scenarios showing a very good profitability, confirmed by sensitivity, scenario and risk analysis. It is therefore evident how the avoided cost in the bill has a decisive impact on the result and how this is amplified by virtuous behaviour in consumption synchronous to the production phase. Subsequent analyses concern how the profits obtained are divided among the prosumers and it is shown that revenues shared according to a partial energy consumption profile may be the right compromise. In order to consider a more realistic case an additional consumer is analysed within REC. The proposed analyses show interesting policy implications: the subsidies and citizens behaviour are key factors for sustainable cities based on green energy production and consumption.

@@ -1,0 +1,9 @@
+Title: Biobased Vitrimers: A Sustainable Future
+Authors: Baoming Zhao, Tuan Liu, Mingen Fei, Cheng Hao, Brian J. Bliss, Yiding Cao, Jinwen Zhang
+Year: 2024
+Venue: Sustainable polymer & energy
+DOI: https://doi.org/10.35534/spe.2024.10007
+Paper ID: https://openalex.org/W4399756784
+
+Abstract:
+Vitrimers are crosslinked polymers containing dynamic covalent linkages. Because of their crosslinked structure, they are stable as thermosets at their service temperatures. At high enough temperatures, dynamic exchange reactions occur and rearrange the polymer network, thus vitrimers become malleable and reprocessable like thermoplastics. The dynamic covalent bonds can also undergo dissociative cleavage reactions under specific conditions, so vitrimers are inherently degradable. To achieve a sustainable future, various biomass resources have been used as raw materials in vitrimer preparation. This review summarizes recent developments in biobased vitrimers and highlights their preparation methods. The limitations of current biobased vitrimers are also discussed.

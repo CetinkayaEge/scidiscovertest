@@ -1,0 +1,9 @@
+Title: Quantifying the impacts of COVID-19 on Sustainable Development Goals using machine learning models
+Authors: Chenyang Shuai, Bu Zhao, Xi Chen, Jianguo Liu, Chunmiao Zheng, Shen Qu, Jian‐Ping Zou, Ming Xu
+Year: 2022
+Venue: Fundamental Research
+DOI: https://doi.org/10.1016/j.fmre.2022.06.016
+Paper ID: https://openalex.org/W4283812302
+
+Abstract:
+The COVID-19 pandemic has posed severe threats to global sustainable development. However, a comprehensive quantitative assessment of the impacts of COVID-19 on Sustainable Development Goals (SDGs) is still lacking. This research quantified the post-COVID-19 SDG progress from 2020 to 2024 using projected GDP growth and population and machine learning models including support vector machine, random forest, and extreme gradient boosting. The results show that the overall SDG performance declined by 7.7% in 2020 at the global scale, with 12 socioeconomic SDG performance decreasing by 3.0%-22.3% and 4 environmental SDG performance increasing by 1.6%-9.2%. By 2024, the progress of 12 SDGs will lag behind for one to eight years compared to their pre-COVID-19 trajectories, while extra time will be gained for 4 environment-related SDGs. Furthermore, the pandemic will cause more impacts on countries in emerging markets and developing economies than those on advanced economies, and the latter will recover more quickly to be closer to their pre-COVID-19 trajectories by 2024. Post-COVID-19 economic recovery should emphasize in areas that can help decouple economic growth from negative environmental impacts. The results can help government and non-state stakeholders identify critical areas for targeted policy to resume and speed up the progress to achieve SDGs by 2030.

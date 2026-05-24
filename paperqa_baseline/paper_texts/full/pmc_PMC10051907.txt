@@ -1,0 +1,9 @@
+Title: Energy Harvesting and Task-Aware Multi-Robot Task Allocation in Robotic Wireless Sensor Networks
+Authors: Omer Melih Gul
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063284
+Paper ID: pmc_PMC10051907
+
+Abstract:
+In this work, we investigate an energy-aware multi-robot task-allocation (MRTA) problem in a cluster of the robot network that consists of a base station and several clusters of energy-harvesting (EH) robots. It is assumed that there are M + 1 robots in the cluster and M tasks exist in each round. In the cluster, a robot is elected as the cluster head, which assigns one task to each robot in that round. Its responsibility (or task) is to collect the resultant data from the remaining M robots to aggregate and transmit directly to the BS. This paper aims to allocate the M tasks to the remaining M robots optimally or near optimally by considering the distance to be traveled by each node, the energy required for executing each task, the battery level at each node, and the energy-harvesting capabilities of the nodes. Then, this work presents three algorithms: Classical MRTA Approach, Task-aware MRTA Approach, EH and Task-aware MRTA Approach. The performances of the proposed MRTA algorithms are evaluated under both independent and identically distributed (i.i.d.) and Markovian energy-harvesting processes for different scenarios with five robots and 10 robots (with the same number of tasks). EH and Task-aware MRTA Approach shows the best performance among all MRTA approaches by keeping up to 100% more energy in the battery than the Classical MRTA Approach and keeping up to 20% more energy in the battery than the Task-aware MRTA Approach.

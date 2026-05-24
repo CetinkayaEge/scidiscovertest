@@ -1,0 +1,9 @@
+Title: The influence of board interlocks and sustainability experience on transparent sustainability disclosure
+Authors: Jing Lu, Dongning Yu, Fereshteh Mahmoudian, Jamal A. Nazari, Irene M. Herremans
+Year: 2024
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3678
+Paper ID: https://openalex.org/W4390839566
+
+Abstract:
+Abstract We investigate board interlocks and their relationship to the transparency of sustainability disclosure, drawing on the theoretical perspectives of resource dependence theory and agency theory. We ascertain that board members who gain sustainability experience by serving on another board will influence the transparency of sustainability disclosure for the focal firm. The study analyzes data from S&amp;P 1500 firms in the U.S. from 2009 to 2018, using ordinary least squares regressions. Our findings demonstrate that the focal firms' sustainability disclosure will be more transparent if their boards have interlocking directors with experience gained from other boards in current or prior years. Furthermore, we find that the sustainability experience of interlocked firms interacts with both gender diversity and board independence, leading to an enhancement in the transparency of sustainability disclosure. In addition, we conduct robustness tests such as performing propensity score matching, controlling for firm fixed effects, and applying entropy matching. These additional tests provide consistent results to confirm and strengthen our findings.

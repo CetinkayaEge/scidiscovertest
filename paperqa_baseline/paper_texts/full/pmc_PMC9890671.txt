@@ -1,0 +1,9 @@
+Title: Thermal analysis of novel third-generation phase-change materials with zinc as a chemical modifier
+Authors: Vishnu Saraswat, Shiv Kumar Pal, N. Mehta, Arun Kumar, M. M. A. Imran
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07041c
+Paper ID: pmc_PMC9890671
+
+Abstract:
+The thermal analysis in the present work is done to analyze the glass/crystal phase transformation in a newly synthesized glassy system ( i.e. , glassy SeTeSnZn alloys) consisting of chalcogenides Se and Te as major elements, Sn as a third element of the parent alloy and Zn as a chemical modifier. The role of increasing the Zn concentration at the cost of Se has been understood by correlating the kinematics of structural relaxation during the glass transition phenomenon and devitrification during the crystallization phenomenon in the chalcogenide glasses (ChGs) of the quaternary STSZ [ i.e. , Se 78− x Zn x Te 20 Sn 2 (0 ≤ x ≤ 6)] system and their different physicochemical properties. A noticeable rise in the crystallization rate is observed after the addition of Zn in the parent SeTeSn glass. With the rise in the zinc content, the values of average heat of atomization and overall mean bond energy are found to be decreased with the decrease in cohesive energy of samples. An inverse correlation is observed between the thermal stability parameter and the enthalpy released during the glass/crystalline phase transformation. XRD patterns of the as-prepared samples indicate the glassy nature with evidence of some crystallites embedded in the glass matrix of the samples.

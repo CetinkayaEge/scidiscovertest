@@ -1,0 +1,9 @@
+Title: The Sustainability Dimensions in Intelligent Urban Transportation: A Paradigm for Smart Cities
+Authors: Lorena Reyes-Rubiano, Adrián Serrano-Hernández, Jairo R. Montoya‐Torres, Javier Faulín
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su131910653
+Paper ID: https://openalex.org/W3204694606
+
+Abstract:
+The transportation sector has traditionally been considered essential for commercial activities, although nowadays, it presents clear negative impacts on the environment and can reduce social welfare. Thus, advanced optimization techniques are required to design sustainable routes with low logistic costs. Moreover, these negative impacts may be significantly increased as a consequence of the lack of synergy between the sustainability objectives. Correspondingly, the concept of transport optimization in smart cities is becoming popular in both the real world and academia when public decision making is lit by operations research models. In this paper, however, we argue that the level of urban smartness depends on its sustainability and on the level of information and communication technologies developed in the city. Therefore, the operations research models seek to achieve a higher threshold in the sustainable transport standards in smart cities. Thus, we present a generic definition of smart city, which includes the triple bottom line of sustainability, with the purpose of analyzing its effects on city performance. Finally, this work provides a consolidate study about urban freight transport problems, which show that sustainability is only one facet of the diamond of characteristics that depict a real smart city.

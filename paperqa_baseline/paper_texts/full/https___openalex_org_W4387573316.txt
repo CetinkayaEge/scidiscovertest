@@ -1,0 +1,9 @@
+Title: Predictive Analytics for Sustainable E-Learning: Tracking Student Behaviors
+Authors: Naif Al Mudawi, Mahwish Pervaiz, Bayan Alabduallah, Abdulwahab Alazeb, Abdullah Alshahrani, Saud S. Alotaibi, Ahmad Jalal
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su152014780
+Paper ID: https://openalex.org/W4387573316
+
+Abstract:
+The COVID-19 pandemic has sped up the acceptance of online education as a substitute for conventional classroom instruction. E-Learning emerged as an instant solution to avoid academic loss for students. As a result, educators and academics are becoming more and more interested in comprehending how students behave in e-learning settings. Behavior analysis of students in an e-learning environment can provide vision and influential factors that can improve learning outcomes and guide the creation of efficient interventions. The main objective of this work is to provide a system that analyzes the behavior and actions of students during e-learning which can help instructors to identify and track student attention levels so that they can design their content accordingly. This study has presented a fresh method for examining student behavior. Viola–Jones was used to recognize the student using the object’s movement factor, and a region-shrinking technique was used to isolate occluded items. Each object has been checked by a human using a template-matching approach, and for each object that has been confirmed, features are computed at the skeleton and silhouette levels. A genetic algorithm was used to categorize the behavior. Using this system, instructors can spot kids who might be failing or uninterested in learning and offer them specific interventions to enhance their learning environment. The average attained accuracy for the MED and Edu-Net datasets are 90.5% and 85.7%, respectively. These results are more accurate when compared to other methods currently in use.

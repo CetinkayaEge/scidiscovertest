@@ -1,0 +1,9 @@
+Title: Techno-economic assessment and comparison of Fischer–Tropsch and Methanol-to-Jet processes to produce sustainable aviation fuel via Power-to-Liquid
+Authors: Vincent Eyberg, Vincent Dieterich, Sebastian Bastek, Marcel Dossow, H. Spliethoff, Sebastian Fendt
+Year: 2024
+Venue: Energy Conversion and Management
+DOI: https://doi.org/10.1016/j.enconman.2024.118728
+Paper ID: https://openalex.org/W4400280629
+
+Abstract:
+The aviation sector accounts for about 3% of global CO2 emissions and aviation emissions will further increase as air travel is predicted to grow in the future. Planes are difficult to electrify, therefore sustainable aviation fuel (SAF) will be an option to defossilize aviation. In this study, Power-to-Liquid (PtL) routes with Fischer–Tropsch (FT) and Methanol-to-Jet (MtJ) fuel synthesis are considered as SAF production pathways, with CO2 from Direct Air Capture (DAC) and H2 from Solid Oxide Electrolysis (SOEL) as educts. The processes are modeled in Aspen Plus V12, optimized configurations are developed and the routes are techno-economically assessed. Process options with reforming and recycling of gaseous products are identified as beneficial. MtJ and FT routes show different advantages and disadvantages, but the main technical and economical results indicate that the routes are similarly suitable for the synthesis of SAF. Comparing the base cases to the optimal configurations, the energy and carbon efficiencies are increased from 30% to 40% and 60% to 90%, respectively. With the baseline economic parameters, the Levelized Cost of Production (LCOP) is . In an optimistic estimation with SOEL cost projection for 2050 and electricity costs of , the LCOP is lowered to about , which is about three times higher as today’s costs of fossil jet fuel.

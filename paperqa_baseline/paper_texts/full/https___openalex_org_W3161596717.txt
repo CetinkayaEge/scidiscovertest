@@ -1,0 +1,9 @@
+Title: Shaping a Smart Transportation System for Sustainable Value Co-Creation
+Authors: Jun Zhang, Shuyang Li, Yichuan Wang
+Year: 2021
+Venue: Information Systems Frontiers
+DOI: https://doi.org/10.1007/s10796-021-10139-3
+Paper ID: https://openalex.org/W3161596717
+
+Abstract:
+Abstract The smart transportation system (STS) leverages ubiquitous and networked computing to improve the efficiency of urban mobility. Whilst existing IS work has explored various factors influencing STS development, there is a lack of consideration of how value can be created for building a more sustainable STS. Drawing upon the value co-creation theory and stakeholder theory, we seek to understand the socio-technical shaping of the STS ecosystem and how government, firms and citizens collaboratively create sustainable value for designing and implementing STS initiatives. To reach this aim, we carry out a longitudinal case study over 2016–2018 in Shijiazhuang, China. We offer both theoretical and practical explanations on (i) key value facets with regard to sustainable STS design and implementation; and (ii) a holistic view of iterative value co-creation process pushed by key stakeholders. This study makes particular contributions to the IS, marketing and transportation literature by offering a critical understanding of the social dynamics for shaping a big data-driven STS ecosystem.

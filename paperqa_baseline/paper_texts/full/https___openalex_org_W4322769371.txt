@@ -1,0 +1,9 @@
+Title: Reducing carbon emissions of a multi-stage smart production for biofuel towards sustainable development
+Authors: Andreas Se Ho Kugele, Biswajit Sarkar
+Year: 2023
+Venue: Alexandria Engineering Journal
+DOI: https://doi.org/10.1016/j.aej.2023.01.003
+Paper ID: https://openalex.org/W4322769371
+
+Abstract:
+Governmental mandates and financial benefits are the leading factors that encourage any industrialist to adopt sustainable practices and environmental measures. Carbon emissions and waste occur at several stages during the manufacturing process of biofuel, and it requires a thorough inspection and an accurate strategy for each stage. Using smart technologies in multi-stage production, a sustainable model is developed for the biofuel manufacturing industry to reduce carbon emissions and waste from an economical perspective. Impurities due to unreliability are removed from the biofuel at each stage of the production process. A mathematical model is provided to obtain the optimum production policy for biofuel using renewable energy. During transportation, fuel consumption is one of the most significant sources of carbon emissions, which makes optimizing fuel consumption necessary to minimize these emissions. The fuel consumption of biofuel-related freight transportation is minimized under an integrated scheduling policy. The suggestions in this study enable the manufacturer to reduce the total cost by 11.13%, while increasing sustainability and controlling carbon emissions. The biggest impact originates from the considered transportation policy. Implementing an optimized transportation policy is less complicated and financially more accessible for the management with substantial environmental and greater economical benefits compared to smart production.

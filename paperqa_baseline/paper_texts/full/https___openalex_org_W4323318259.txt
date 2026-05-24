@@ -1,0 +1,9 @@
+Title: A Hybrid Multi-Criteria Decision-Making Model Combining DANP with VIKOR for Sustainable Supplier Selection in Electronics Industry
+Authors: Benedictus Rahardjo, Fu‐Kwun Wang, Shih‐Che Lo, Jia‐Hong Chou
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15054588
+Paper ID: https://openalex.org/W4323318259
+
+Abstract:
+Sustainability in operations and supply chains is becoming more popular among academics and practitioners through Sustainable Supplier Selection (SSS). In addition to balancing economic, social, and environmental factors, the awareness of the United Nations Sustainable Development Goals 2030 has affected the selection of long-term suppliers, ensuring green operations and sustainable supply chains. The criteria for SSS have multiple dimensions and are interdependent; this mimics the real-world scenario rather than assuming independently from an analytic hierarchy process. We use the multi-criteria decision-making (MCDM) model, combining DEMATEL-based on ANP (called DANP) with VIKOR, to solve the SSS problem. The DANP method is used to model and assess the interdependent relationships between criteria. Then, ranking the available alternatives and selecting the best one can be accomplished using the VIKOR method. We consider the electronic manufacturing industry in Taiwan as an empirical case. This study, in addition to selecting the best sustainable supplier, demonstrates the use of influential network relationship maps to analyze and improve the gaps in each dimension and criterion.

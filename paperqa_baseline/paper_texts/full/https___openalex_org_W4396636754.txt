@@ -1,0 +1,9 @@
+Title: Sustainable LiFePO4 and LiMnxFe1-xPO4 (x=0.1–1) cathode materials for lithium-ion batteries: A systematic review from mine to chassis
+Authors: Atiyeh Nekahi, Anil Kumar M R, Xia Li, Sixu Deng, Karim Zaghib
+Year: 2024
+Venue: Materials Science and Engineering R Reports
+DOI: https://doi.org/10.1016/j.mser.2024.100797
+Paper ID: https://openalex.org/W4396636754
+
+Abstract:
+We conducted a comprehensive literature review of LiFePO4 (LFP) and LiMnxFe1-xPO4 (x=0.1–1) (LMFP)-based lithium-ion batteries (LIBs), focusing mostly on electric vehicles (EVs) as a primary application of LIBs. Although numerous individual research studies exist, a unified and coordinated review covering the subject from mine to chassis has not yet been presented. Accordingly, our review encompasses the entire LIB development process. I) Initial resources, including lithium, iron, manganese, and phosphorous; their global reserves; mining procedures; and the demand for LIB production. II) The main Fe- and Mn-containing precursors, Fe0, FexOy, FePO4, FeSO4, and MnSO4, focusing on their preparation methods, use in LIBs, and their effect on the electrochemical performance of the final active cathode materials. III) Use of the precursors in the synthesis of active cathode materials and pioneering synthesis methods for olivine production lines, particularly hydrothermal liquid-state synthesis, molten-state synthesis, and solid-state synthesis. IV) Electrode engineering and the design and optimization of electrolytes. V) Production of cells, modules, and packs. (VI) Highlights of the challenges associated with the widespread utilization of olivines in LIBs, emphasizing their safety, cost, energy efficiency, and carbon emissions. In conclusion, our review offers a comprehensive overview of the entire process involved in the fabrication of LFP/LMFP-based LIBs, from the initial elements in the mine to the assembly of the final packs that power EVs.

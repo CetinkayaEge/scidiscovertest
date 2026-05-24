@@ -1,0 +1,9 @@
+Title: A Liquid Level Measurement Technique Outside a Sealed Metal Container Based on Ultrasonic Impedance and Echo Energy
+Authors: Bin Zhang, Yue-Juan Wei, Wen-Yi Liu, Yan-Jun Zhang, Zong Yao, Li-Hui Zhao, Ji-Jun Xiong
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010185
+Paper ID: pmc_PMC5298758
+
+Abstract:
+The proposed method for measuring the liquid level focuses on the ultrasonic impedance and echo energy inside a metal wall, to which the sensor is attached directly, not on ultrasonic waves that penetrate the gas–liquid medium of a container. Firstly, by analyzing the sound field distribution characteristics of the sensor in a metal wall, this paper proposes the concept of an "energy circle" and discusses how to calculate echo energy under three different states in detail. Meanwhile, an ultrasonic transmitting and receiving circuit is designed to convert the echo energy inside the energy circle into its equivalent electric power. Secondly, in order to find the two critical states of the energy circle in the process of liquid level detection, a program is designed to help with calculating two critical positions automatically. Finally, the proposed method is evaluated through a series of experiments, and the experimental results indicate that the proposed method is effective and accurate in calibration of the liquid level outside a sealed metal container.

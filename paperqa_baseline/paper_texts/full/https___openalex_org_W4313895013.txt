@@ -1,0 +1,9 @@
+Title: Self-Sustained Euler Buckling of an Optically Responsive Rod with Different Boundary Constraints
+Authors: Dali Ge, Yuntong Dai, Kai Li
+Year: 2023
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym15020316
+Paper ID: https://openalex.org/W4313895013
+
+Abstract:
+Self-sustained oscillations can directly absorb energy from the constant environment to maintain its periodic motion by self-regulating. As a classical mechanical instability phenomenon, the Euler compression rod can rapidly release elastic strain energy and undergo large displacement during buckling. In addition, its boundary configuration is usually easy to be modulated. In this paper, we develop a self-sustained Euler buckling system based on optically responsive liquid crystal elastomer (LCE) rod with different boundary constraints. The buckling of LCE rod results from the light-induced expansion and compressive force, and the self-buckling is maintained by the energy competition between the damping dissipation and the net work done by the effective elastic force. Based on the dynamic LCE model, the governing equations for dynamic Euler buckling of the LCE rod is formulated, and the approximate admissible trigonometric functions and Runge-Kutta method are used to solve the dynamic Euler buckling. Under different illumination parameters, there exists two motion modes of the Euler rod: the static mode and the self-buckling mode, including alternating and unilateral self-buckling modes. The triggering conditions, frequency, and amplitude of the self-sustained Euler buckling can be modulated by several system parameters and boundary constraints. Results indicate that strengthening the boundary constraint can increase the frequency and reduce the amplitude. It is anticipated that this system may open new avenues for energy harvesters, signal sensors, mechano-logistic devices, and autonomous robots.

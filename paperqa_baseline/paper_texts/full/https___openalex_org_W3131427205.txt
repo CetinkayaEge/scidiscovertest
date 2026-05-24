@@ -1,0 +1,9 @@
+Title: The Sustainable Energy Development Index—An Application for European Union Member States
+Authors: Magdalena Ligus, Piotr Peternek
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14041117
+Paper ID: https://openalex.org/W3131427205
+
+Abstract:
+The development of a complete system of indicators and a composite sustainable energy index could prove useful to evaluate both the state of the art and the progress of national energy towards sustainable development. However, in the case of energy sustainability, a knowledge gap arises due to incomplete coverage and lack of systematic focus on sustainability components. The objective of our research is to obtain Sustainable Energy Development Aggregated Index to rank the EU Member States on the path to sustainable energy. We propose a set of indicators related to sustainable development in energy policy in the EU-28, grouped in three dimensions: social, economic and environmental and apply the standardized sums method in order to obtain the dimensional and aggregated indexes. The countries on the podium are Denmark, The Netherlands and Austria. The worst-performing countries (with index values below the first quartile) are Estonia, Malta, Slovakia, Poland, Greece, Cyprus and Bulgaria. A comparative analysis of the outcome with a few existing indexes for the EU Member States shows how large an impact on the index values and the ranking obtained does the selection of indicators and the methodology used have. The refinement of the set of energy indicators is necessary for the context where they will be applied to ensure their policy relevance and usefulness. It is also necessary to conduct a sensitivity analysis each time in the study.

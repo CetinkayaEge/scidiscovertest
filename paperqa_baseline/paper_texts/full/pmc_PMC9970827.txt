@@ -1,0 +1,9 @@
+Title: Regulation of cardiac function by cAMP nanodomains
+Authors: Milda Folkmanaite, Manuela Zaccolo
+Year: 2023
+Venue: Bioscience Reports
+DOI: 10.1042/BSR20220953
+Paper ID: pmc_PMC9970827
+
+Abstract:
+Abstract Cyclic adenosine monophosphate (cAMP) is a diffusible intracellular second messenger that plays a key role in the regulation of cardiac function. In response to the release of catecholamines from sympathetic terminals, cAMP modulates heart rate and the strength of contraction and ease of relaxation of each heartbeat. At the same time, cAMP is involved in the response to a multitude of other hormones and neurotransmitters. A sophisticated network of regulatory mechanisms controls the temporal and spatial propagation of cAMP, resulting in the generation of signaling nanodomains that enable the second messenger to match each extracellular stimulus with the appropriate cellular response. Multiple proteins contribute to this spatiotemporal regulation, including the cAMP-hydrolyzing phosphodiesterases (PDEs). By breaking down cAMP to a different extent at different locations, these enzymes generate subcellular cAMP gradients. As a result, only a subset of the downstream effectors is activated and a specific response is executed. Dysregulation of cAMP compartmentalization has been observed in cardiovascular diseases, highlighting the importance of appropriate control of local cAMP signaling. Current research is unveiling the molecular organization underpinning cAMP compartmentalization, providing original insight into the physiology of cardiac myocytes and the alteration associated with disease, with the potential to uncover novel therapeutic targets. Here, we present an overview of the mechanisms that are currently understood to be involved in generating cAMP nanodomains and we highlight the questions that remain to be answered.

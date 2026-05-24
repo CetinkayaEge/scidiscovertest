@@ -1,0 +1,9 @@
+Title: Assessing the Sustainable Development and Renewable Energy Sources Relationship in EU Countries
+Authors: Bogdan Włodarczyk, Daniela Firoiu, George H. Ionescu, Florin Ghiocel, Marek Szturo, Lesław Markowski
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14082323
+Paper ID: https://openalex.org/W3155658069
+
+Abstract:
+In the context of the 2030 Agenda for Sustainable Development, by adopting the EU Renewable Energy Directive and the European Green Deal, the European Union aims at an extremely ambitious goal to become climate neutral by 2050. This goal involves a massive investment plan to support this initiative, but also to reduce disparities between Member States, in order to transform the Union into a modern, resource-efficient, and competitive economy. The main objective of this paper is to investigate the sustainable development and renewable energy sources relationship in EU countries from a new perspective. Based on Eurostat available data and with the help of hierarchical clustering analysis, the Member States were divided in 2019 into five clusters, highlighting the key characteristics of the selected variables. The results of this research revealed high-performing groups of countries, as well as countries that need increased attention and additional support to become more efficient in achieving their sustainable development goals and renewable energy source targets.

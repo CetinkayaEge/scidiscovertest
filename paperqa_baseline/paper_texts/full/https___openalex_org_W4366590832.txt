@@ -1,0 +1,9 @@
+Title: HCI for Climate Change: Imagining Sustainable Futures
+Authors: Eleonora Mencarini, Christina Bremer, Chiara Leonardi, Jen Liu, Valentina Nisi, Nuno Nunes, Robert Soden
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.1145/3544549.3573833
+Paper ID: https://openalex.org/W4366590832
+
+Abstract:
+As the climate crisis is turning into one of the most critical issues of our time, HCI researchers keep reflecting on the role their work can play in reducing the impact of adverse environmental changes. Suggestions have been made to expand Sustainable HCI (SHCI)’s intervention area to policy design to have a larger impact, consider non-human actors’ perspective to incorporate the value of biodiversity, develop multidisciplinary competencies and work across disciplines to understand climate change, and finally make it understandable to citizens and pave the way for their action. This workshop calls to discuss the different angles from which the problem of climate change has been addressed by the CHI community so far. We believe these different angles have several contact points, and the convergence of these different perspectives would help HCI researchers better imagine sustainable futures.

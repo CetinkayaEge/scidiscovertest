@@ -1,0 +1,9 @@
+Title: Life-Cycle Greenhouse Gas Emissions of Sustainable Aviation Fuel through a Net-Zero Carbon Biofuel Plant Design
+Authors: Eunji Yoo, Uisung Lee, Michael Wang
+Year: 2022
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c00977
+Paper ID: https://openalex.org/W4283712979
+
+Abstract:
+Sustainable aviation fuels (SAFs) are being promoted to mitigate greenhouse gas (GHG) emissions in the aviation sector. Gevo, Inc. is designing a new biorefinery to produce net-zero-emission jet fuel and gasoline from corn feedstock by replacing conventional energy sources with renewable energy sources along with carbon capture and storage (CCS). In this study, we analyze the GHG reduction of the plant design for Gevo’s Net-Zero 1 plant on a life-cycle basis. The lifecycle GHG emissions [also called carbon intensity (CI)] of Gevo’s facility base case are estimated at 70.4 gCO2e/MJ when using conventional energy sources. Using four deep-decarbonization strategies to be deployed in the plant, GHG emissions can be reduced by 3.7, 11.5, 24.8, and 34 gCO2e/MJ through renewable hydrogen, renewable electricity, renewable heat sources, and CCS, respectively. Furthermore, sustainable and precision farming practices with increased yield would reduce the CI value further, to –34.6 gCO2e/ MJ. Given its design capacity, the operation of the Net-Zero 1 plant will result in a GHG reduction of 514,000 metric tons per year compared to the reference petroleum jet fuel and gasoline, while generating 170 million liters of SAFs and renewable gasoline a year with a CI of –3.5 gCO2e/MJ.

@@ -1,0 +1,9 @@
+Title: Comparative Analysis of Different Inbred Chicken Lines Highlights How a Hereditary Inflammatory State Affects Susceptibility to Avian Influenza Virus
+Authors: Karen J. Bryson, Samantha Sives, Hui-Min Lee, Dominika Borowska, Jacqueline Smith, Paul Digard, Lonneke Vervelde
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030591
+Paper ID: pmc_PMC10052641
+
+Abstract:
+Evidence suggests that susceptibility to avian influenza A virus in chickens is influenced by host genetics, but the mechanisms are poorly understood. A previous study demonstrated that inbred line 0 chickens are more resistant to low-pathogenicity avian influenza (LPAI) infection than line CB.12 birds based on viral shedding, but the resistance was not associated with higher AIV-specific IFNγ responses or antibody titres. In this study, we investigated the proportions and cytotoxic capacity of T-cell subpopulations in the spleen and the early immune responses in the respiratory tract, analysing the innate immune transcriptome of lung-derived macrophages following in vitro stimulation with LPAI H7N1 or the TLR7 agonist R848. The more susceptible C.B12 line had a higher proportion of CD8αβ + γδ and CD4 + CD8αα + αVβ 1 T cells, and a significantly higher proportion of the CD8αβ + γδ and CD8αβ + αVβ 1 T cells expressed CD107a, a surrogate marker of degranulation. Lung macrophages isolated from line C.B12 birds expressed higher levels of the negative regulator genes TRIM29 and IL17REL, whereas macrophages from line 0 birds expressed higher levels of antiviral genes including IRF10 and IRG1 . After stimulation with R848, the macrophages from line 0 birds mounted a higher response compared to line C.B12 cells. Together, the higher proportion of unconventional T cells, the higher level of cytotoxic cell degranulation ex vivo and post-stimulation and the lower levels of antiviral gene expression suggest a potential role of immunopathology in mediating susceptibility in C.B12 birds.

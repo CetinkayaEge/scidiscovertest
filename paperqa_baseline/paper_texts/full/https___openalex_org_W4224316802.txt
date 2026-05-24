@@ -1,0 +1,9 @@
+Title: Solar Fertigation: A Sustainable and Smart IoT-Based Irrigation and Fertilization System for Efficient Water and Nutrient Management
+Authors: Uzair Ahmad, A. Alvino, Stefano Marino
+Year: 2022
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy12051012
+Paper ID: https://openalex.org/W4224316802
+
+Abstract:
+The agricultural sector is one of the major users of water resources. Water is an important asset that needs to be preserved using the latest available technologies. Modern technologies and digital tools can transform the agricultural domain from being manual and static to intelligent and dynamic leading to higher production with lesser human supervision. This study describe the agronomic models that should be integrated with the intelligent system which schedule the irrigation and fertilization according to the plant needs, and monitors and maintains the desired soil moisture content via automatic watering. Solar fertigation is a fertigation support system based on photovoltaic solar power energy and an IoT system for precision irrigation purposes. The system monitors the temperature, radiation, humidity, soil moisture, and other physical parameters. An agronomic DSS platform based on the integration of soil, weather, and plant data and sensors was described. Furthermore, a three-year study on seven ETo models, such as three temperature-, three radiation-, and a combination-based models were tested to evaluate the sustainable ETo estimation and irrigation scheduling in a Mediterranean environment. Results showed that solar fertigation and Hargreaves–Samani (H-S) equation represented a nearby correlation to the standard FAO P–M and does offer a small increase in accuracy of ETo estimates. Furthermore, the hybrid agronomic DSS is suitable for smart fertigation scheduling.

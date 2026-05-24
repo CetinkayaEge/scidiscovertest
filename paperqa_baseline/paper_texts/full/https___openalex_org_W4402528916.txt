@@ -1,0 +1,9 @@
+Title: Reviewing and conceptualising the role of 4.0 technologies for sustainable warehousing
+Authors: Sara Perotti, Luca Cannava, J. M. Ries, Eric H. Grosse
+Year: 2024
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2024.2396015
+Paper ID: https://openalex.org/W4402528916
+
+Abstract:
+In recent years, various 4.0 technologies have been implemented to support or automate manual warehouse activities to meet the ever-increasing demands for lead time, service quality, productivity, and efficiency. In terms of sustainability, however, the impact of these 4.0 technologies remains unexplored. This study aims to address this gap by developing a conceptual framework for sustainable warehousing in the context of Industry 4.0, thereby focusing on the Triple Bottom Line (economic, environmental, social) and the United Nations Sustainable Development Goals. The framework is facilitated through a systematic review and classification of the literature based on warehouse processes—receiving, storage, order picking, packing and shipping, production logistics, and cross-docking. It enables the systematic evaluation of existing research, while considering 4.0 technology applications and their sustainability impact. The study also aims to identify opportunities for advancing intelligent, sustainable warehousing and discusses implications for researchers and managers.

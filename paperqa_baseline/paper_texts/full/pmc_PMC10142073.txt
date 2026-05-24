@@ -1,0 +1,9 @@
+Title: Rapid Assembly of Pyrrole-Ligated 1,3,4-Oxadiazoles and Excellent Antibacterial Activity of Iodophenol Substituents
+Authors: Hyein Kim, Lina Gu, Huisu Yeo, Umji Choi, Chang-Ro Lee, Haiyang Yu, Sangho Koo
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083638
+Paper ID: pmc_PMC10142073
+
+Abstract:
+Pyrrole-ligated 1,3,4-oxadiazole is a very important pharmacophore which exhibits broad therapeutic effects such as anti-tuberculosis, anti-epileptic, anti-HIV, anti-cancer, anti-inflammatory, antioxidant, and antibacterial activities. A one-pot Maillard reaction between D-Ribose and an L-amino methyl ester in DMSO with oxalic acid at 2.5 atm and 80 °C expeditiously produced pyrrole-2-carbaldehyde platform chemicals in reasonable yields, which were utilized for the synthesis of pyrrole-ligated 1,3,4-oxadiazoles. Benzohydrazide reacted with the formyl group of the pyrrole platforms to provide the corresponding imine intermediates, which underwent I 2 -mediated oxidative cyclization to the pyrrole-ligated 1,3,4-oxadiazole skeleton. The structure and activity relationship (SAR) of the target compounds with varying alkyl or aryl substituents of the amino acids and electron-withdrawing or electron-donating substituents on the phenyl ring of benzohydrazide were evaluated for antibacterial activity against Escherichia coli , Staphylococcus aureus , and Acinetobacter baumannii as representative Gram(–) and Gram(+) bacteria. Branched alkyl groups from the amino acid showed better antibacterial activities. Absolutely superior activities were observed for 5f-1 with an iodophenol substituent against A. baumannii (MIC < 2 μg/mL), a bacterial pathogen that displays a high resistance to commonly used antibiotics.

@@ -1,0 +1,9 @@
+Title: Sustainable Government Enterprise Architecture Framework
+Authors: Montree Thirasakthana, Supaporn Kiattisin
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020879
+Paper ID: https://openalex.org/W3124444076
+
+Abstract:
+The suitable utility of driving the enterprise architecture exercise is to utilize the enterprise architecture framework as the fundamental guidance. But there are some challenges of applying those frameworks for government and their agencies because most of the frameworks have concentrated focus for the private sector which some fundamentally requirement of government would be specifically different. This paper aims to propose that the sustainable government enterprise architecture framework specifically applies for the national strategic planning in the optimum exercise process and clarity guidance for the information technology organization being able to transform and improve their services for an achievable adaptation efficiency, simplification, cost management, collaboration, shareability, and standardization which accommodate the rapidly changing service usability on digitalization known as “e-Government.” The fundamental design idea of this proposed framework has identified five keys principles, which are (1) legislation support, (2) top-down target architecture, (3) architecture governance, (4) shared services, and (5) cross-organization collaboration that would be considered as the key critical success factors for achieving the exercise. The overall response of the specific expert survey of this proposed framework has demonstrated the consensus responded at 90 percentage agreeable, which would strongly consider this framework applicable for groups of developing countries as the baseline framework for their digitalized transformation.

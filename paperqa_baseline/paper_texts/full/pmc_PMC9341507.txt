@@ -1,0 +1,9 @@
+Title: Dynamics of broad H3K4me3 domains uncover an epigenetic switch between cell identity and cancer-related genes
+Authors: Mohamed Belhocine, Mathieu Simonin, José David Abad Flores, Agata Cieslak, Iris Manosalva, Lydie Pradel, Charlotte Smith, Eve-Lyne Mathieu, Guillaume Charbonnier, Joost H.A. Martens, Hendrik G. Stunnenberg, Muhammad Ahmad Maqbool, Aneta Mikulasova, Lisa J. Russell, Daniel Rico, Denis Puthier, Pierre Ferrier, Vahid Asnafi, Salvatore Spicuglia
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.266924.120
+Paper ID: pmc_PMC9341507
+
+Abstract:
+Broad domains of H3K4 methylation have been associated with consistent expression of tissue-specific, cell identity, and tumor suppressor genes. Here, we identified broad domain–associated genes in healthy human thymic T cell populations and a collection of T cell acute lymphoblastic leukemia (T-ALL) primary samples and cell lines. We found that broad domains are highly dynamic throughout T cell differentiation, and their varying breadth allows the distinction between normal and neoplastic cells. Although broad domains preferentially associate with cell identity and tumor suppressor genes in normal thymocytes, they flag key oncogenes in T-ALL samples. Moreover, the expression of broad domain–associated genes, both coding and noncoding, is frequently deregulated in T-ALL. Using two distinct leukemic models, we showed that the ectopic expression of T-ALL oncogenic transcription factor preferentially impacts the expression of broad domain–associated genes in preleukemic cells. Finally, an H3K4me3 demethylase inhibitor differentially targets T-ALL cell lines depending on the extent and number of broad domains. Our results show that the regulation of broad H3K4me3 domains is associated with leukemogenesis, and suggest that the presence of these structures might be used for epigenetic prioritization of cancer-relevant genes, including long noncoding RNAs.

@@ -1,0 +1,9 @@
+Title: Product outsourcing policy for a sustainable flexible manufacturing system with reworking and green investment
+Authors: Raj Kumar Bachar, Shaktipada Bhuniya, Santanu Kumar Ghosh, Ali AlArjani, El-Awady Attia, Md. Sharif Uddin, Biswajit Sarkar
+Year: 2022
+Venue: Mathematical Biosciences & Engineering
+DOI: https://doi.org/10.3934/mbe.2023062
+Paper ID: https://openalex.org/W4312278778
+
+Abstract:
+Production of defective products is a very general phenomenon. But backorder and shortages occur due to this defective product, and it hampers the manufacturer's reputation along with customer satisfaction. That is why, these outsourced products supply, a portion of required products for in-line production. This study develops a flexible production model that reworks repairable defective products and outsources products to prevent backlogging. A percentage of total in-line production is defective products, which is random, and those defective products are repairable. A green investment helps the reworking process, which has a direct impact on the market demand for products. A classical optimization solves the profit maximization model, and a numerical method proves the global optimal solutions. Sensitivity analysis, managerial insights, and discussions provide the highlights and decision-making strategies for the applicability of this model.

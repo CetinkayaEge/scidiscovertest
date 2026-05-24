@@ -1,0 +1,9 @@
+Title: Optical Gas Sensing of Ammonia and Amines Based on Protonated Porphyrin/TiO 2 Composite Thin Films
+Authors: Pedro Castillero, Javier Roales, Tânia Lopes-Costa, Juan R. Sánchez-Valencia, Angel Barranco, Agustín R. González-Elipe, José M. Pedrosa
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010024
+Paper ID: pmc_PMC5298597
+
+Abstract:
+Open porous and transparent microcolumnar structures of TiO 2 prepared by physical vapour deposition in glancing angle configuration (GLAD-PVD) have been used as host matrices for two different fluorescent cationic porphyrins, 5-( N -methyl 4-pyridyl)-10,15,20-triphenyl porphine chloride (MMPyP) and meso-tetra ( N -methyl 4-pyridyl) porphine tetrachloride (TMPyP). The porphyrins have been anchored by electrostatic interactions to the microcolumns by self-assembly through the dip-coating method. These porphyrin/TiO 2 composites have been used as gas sensors for ammonia and amines through previous protonation of the porphyrin with HCl followed by subsequent exposure to the basic analyte. UV–vis absorption, emission, and time-resolved spectroscopies have been used to confirm the protonation–deprotonation of the two porphyrins and to follow their spectral changes in the presence of the analytes. The monocationic porphyrin has been found to be more sensible (up to 10 times) than its tetracationic counterpart. This result has been attributed to the different anchoring arrangements of the two porphyrins to the TiO 2 surface and their different states of aggregation within the film. Finally, there was an observed decrease of the emission fluorescence intensity in consecutive cycles of exposure and recovery due to the formation of ammonium chloride inside the film.

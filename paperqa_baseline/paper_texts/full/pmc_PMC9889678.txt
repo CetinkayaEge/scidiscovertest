@@ -1,0 +1,9 @@
+Title: LncRNA TCF7 contributes to high glucose‐induced damage in human podocytes by up‐regulating SEMA3A via sponging miR ‐16‐5p
+Authors: Zhenzhen Jiang, Lijie Qian, Ruifeng Yang, Yan Wu, Yongping Guo, Tingfang Chen
+Year: 2022
+Venue: Journal of Diabetes Investigation
+DOI: 10.1111/jdi.13904
+Paper ID: pmc_PMC9889678
+
+Abstract:
+Abstract Aims/Introduction Long non‐coding RNAs (lncRNAs) exert essential functions in the pathogenesis of diabetic nephropathy (DN). LncRNA T‐cell factor 7 (TCF7) and semaphorin‐3A (SEMA3A) have been found to be involved in the progression of diabetic nephropathy. However, whether the effect of TCF7 on the pathogenesis of diabetic nephropathy is mediated by SEMA3A remains unclear. Materials and Methods TCF7, miR‐16‐5p, and SEMA3A were quantified by a qRT‐PCR or immunoblotting method. A CCK‐8 assay gauged the cell viability. Measurement of cell apoptosis was done using flow cytometry. RNA immunoprecipitation (RIP), dual‐luciferase reporter, and RNA pull‐down assays were utilized to assay the targeted interactions among the variables. Results The TCF7 and SEMA3A levels were elevated in serum from patients with diabetic nephropathy. TCF7 silencing or SEMA3A depletion ameliorated high glucose (HG)‐induced podocyte injury. Moreover, TCF7 silencing protected against HG‐induced podocyte injury by down‐regulating SEMA3A. TCF7 targeted miR‐16‐5p, and miR‐16‐5p targeted SEMA3A. Furthermore, TCF7 affected the expression of SEMA3A by competing specifically for shared miR‐16‐5p. Conclusions These findings suggested that TCF7 silencing attenuated high glucose‐induced podocyte damage partially through the miR‐16‐5p/SEMA3A regulation cascade. our current work indicated that the silencing of TCF7 attenuated HG‐induced injury in human podocytes at least in part through regulating SEMA3A expression via sponging miR‐16‐5p. These findings provided a new insight into the molecular mechanism for HG‐induced podocyte damage.

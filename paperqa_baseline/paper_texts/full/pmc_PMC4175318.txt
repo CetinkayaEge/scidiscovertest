@@ -1,0 +1,9 @@
+Title: Nuclear Factor of Activated T Cells Regulates the Expression of Interleukin-4 in Th2 Cells in an All-or-none Fashion *
+Authors: Juliana Köck, Stephan Kreher, Katrin Lehmann, René Riedel, Markus Bardua, Timo Lischke, Manja Jargosch, Claudia Haftmann, Hanna Bendfeldt, Farahnaz Hatam, Mir-Farzin Mashreghi, Ria Baumgrass, Andreas Radbruch, Hyun-Dong Chang
+Year: 2014
+Venue: The Journal of Biological Chemistry
+DOI: 10.1074/jbc.M114.587865
+Paper ID: pmc_PMC4175318
+
+Abstract:
+Background: Not every T helper type 2 (Th2) lymphocyte imprinted to express interleukin-4 (IL-4) does so when activated. Results: Preventing nuclear translocation of the nuclear factor of activated T cells (NFAT) reduces the number of Th2 lymphocytes reexpressing IL-4. Conclusion: NFAT is the limiting factor determining digital IL-4 expression in Th2 lymphocytes. Significance: This might help us to understand the regulation of immunopathology in allergy and asthma. Th2 memory lymphocytes have imprinted their Il4 genes epigenetically for expression in dependence of T cell receptor restimulation. However, in a given restimulation, not all Th cells with a memory for IL-4 expression express IL-4. Here, we show that in reactivated Th2 cells, the transcription factors NFATc2, NF-kB p65, c-Maf, p300, Brg1, STAT6, and GATA-3 assemble at the Il4 promoter in Th2 cells expressing IL-4 but not in Th2 cells not expressing it. NFATc2 is critical for assembly of this transcription factor complex. Because NFATc2 translocation into the nucleus occurs in an all-or-none fashion, dependent on complete dephosphorylation by calcineurin, NFATc2 controls the frequencies of cells reexpressing Il4 , translates analog differences in T cell receptor stimulation into a digital decision for Il4 reexpression, and instructs all reexpressing cells to express the same amount of IL-4. This analog-to-digital conversion may be critical for the immune system to respond to low concentrations of antigens.

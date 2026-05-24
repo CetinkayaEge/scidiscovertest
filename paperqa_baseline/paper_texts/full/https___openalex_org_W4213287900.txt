@@ -1,0 +1,9 @@
+Title: Evaluating Barriers and Drivers to Sustainable Food Supply Chains
+Authors: Siyavash Mohseni, Komeyl Baghizadeh, Julia Pahl
+Year: 2022
+Venue: Mathematical Problems in Engineering
+DOI: https://doi.org/10.1155/2022/4486132
+Paper ID: https://openalex.org/W4213287900
+
+Abstract:
+Today, with the daily increase in population, the demand for agricultural and/or, in general, food products continuously raises and so does the natural resources consumption which induces challenges to the supply chain management of important food products. In the present study, drivers as well as barriers of the agriculture sustainable supply chain are identified and ranked with the help of multicriteria decision-making (MCDM) techniques. We identify six drivers and seven barriers with the help of experts’ opinions in the field and apply ranking methods including TOPSIS-AHP, AHP, and COPRAS-AHP as well as Borda rule and Copeland method to merge the ratings. The results highlight that the economic dimension of sustainability is more important than the environmental and social dimension. Distrust of consumers, lack of understanding and awareness of managers, and performance appraisal problems were found to be the most important barriers. Furthermore, informing the community by the media, entering the global market, exporting products, and producing sustainable products as a competitive advantage were identified to be the most important drivers. The study also shows that public awareness and demands can push the food supply chains toward sustainability goals with the cooperation of governments and suppliers.

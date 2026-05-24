@@ -1,0 +1,9 @@
+Title: Sustainable Lithium‐Ion Battery Separator Membranes Based on Carrageenan Biopolymer
+Authors: João P. Serra, Arkaitz Fidalgo-Marijuán, João Teixeira, Loïc Hilliou, Renato Gonçalves, M. Karmele Urtiaga, A. Gutiérrez‐Pardo, Frédéric Aguesse, S. Lanceros‐Méndez, Carlos M. Costa
+Year: 2022
+Venue: Advanced Sustainable Systems
+DOI: https://doi.org/10.1002/adsu.202200279
+Paper ID: https://openalex.org/W4293701694
+
+Abstract:
+Aiming to improve the sustainability of materials for lithium‐ion batteries (LIBs), this work reports on the development of novel membranes based on iota‐carrageenan biopolymer and their suitability as separator in LIBs applications. The membranes are prepared by freeze‐drying and its morphology, thermal, mechanical, and electrochemical properties are evaluated as a function of polymer concentration in the solution. Porous membranes with a degree of porosity above 90% and different interconnected pore sizes between 50 and 70 µm for both polymer concentrations are obtained. The electrochemical parameters of the membranes are influenced by the carrageenan polymer concentration, being 1.34 mS cm ‐1 , 3, 7, and 0.48 for ionic conductivity, tortuosity, MacMullin number, and lithium transference number, respectively, for the membrane prepared from the 4 wt% carrageenan content solution. The half‐cells cathodic prepared with the developed membranes show good cyclability and rate capability. The discharge capacity values obtained with the membrane prepared from 4 wt% carrageenan content are 145 and 25 mAh g ‐1 at C/10‐ and 1C‐rates, respectively, demonstrating excellent battery cycling performance and long‐term stability. Thus, this work demonstrates that iota‐carrageenan biopolymer membranes developed by freeze‐drying can be used as separators for a next generation of more sustainable batteries.

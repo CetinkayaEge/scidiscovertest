@@ -1,0 +1,9 @@
+Title: Agricultural Robotics: A Technical Review Addressing Challenges in Sustainable Crop Production
+Authors: Maria Spagnuolo, Giuseppe Todde, Maria Caria, Nicola Furnitto, G. Schillaci, S. Failla
+Year: 2025
+Venue: Robotics
+DOI: https://doi.org/10.3390/robotics14020009
+Paper ID: https://openalex.org/W4406780167
+
+Abstract:
+The adoption of agricultural robots is revolutionizing the agricultural sector, offering innovative solutions to optimize production and reduce environmental impact. This review examines the main functions and applications of agricultural robots, with a focus on the crops handled and the technologies employed. The study analyzes the current state of the art regarding the market trend of agricultural robots used in field and greenhouse operations. Several solutions are emerging, some already implemented and others still in the prototype or project stage. These solutions are beginning to spread, though they may still seem far from widespread field application, particularly given the peculiarities and heterogeneity of the global agricultural landscape. In the face of the many benefits associated with the use of agricultural robots, even today some technical bottlenecks and costs limit their widespread use by farmers. The review provides a fairly comprehensive and up-to-date overview of current trends in agricultural automation, suggesting new areas of research to improve the efficiency and adaptability of robotic systems to different types of crops and environments.

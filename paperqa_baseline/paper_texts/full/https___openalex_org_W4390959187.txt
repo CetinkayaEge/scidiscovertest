@@ -1,0 +1,9 @@
+Title: Non-fungible tokens: The missing ingredient for sustainable supply chains in the metaverse age?
+Authors: Jennifer Davies, Hossein Sharifi, Andrew C. Lyons, Rick Forster, Omar Khaled Shokry Mohamed Elsayed
+Year: 2024
+Venue: Transportation Research Part E Logistics and Transportation Review
+DOI: https://doi.org/10.1016/j.tre.2024.103412
+Paper ID: https://openalex.org/W4390959187
+
+Abstract:
+Non-fungible tokens (NFTs), unique digital assets on a blockchain that can represent ownership of digital or physical items, are potentially ground-breaking in their capacity for transforming the sustainability of supply chains. This paper explores and discusses how NFTs, analysed through the lens of the Technology Organisation Environment (TOE) framework, can drive supply chain sustainability and overcome the barriers to Blockchain Technology (BCT) adoption. We elucidate the unique value proposition of NFTs and explore the potential of ‘phygital products’ for linking digital NFTs to physical goods. Based on the existing literature and a review of real-world case studies, we propose that NFTs can (1) incentivise supply chain stakeholders to engage in more sustainable practices; (2) enhance customer willingness to pay for sustainable products; (3) provide anti-counterfeit measures; (4) support circular business model growth. A sustainable 'Mint-to-Order' production strategy starting with the creation (minting) of an NFT is proposed based on a synthesis of the findings. The use of NFTs has significant implications for both digital and physical product offerings and sustainable supply chain management (SSCM) practice making a compelling case for adoption. This paper is one of the first to explore the potential of using NFTs to drive sustainability in supply chains forming an essential component of a metaverse nexus and delineating a future research agenda.

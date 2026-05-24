@@ -1,0 +1,9 @@
+Title: Investigating Digital Intensity and E-Commerce as Drivers for Sustainability and Economic Growth in the EU Countries
+Authors: Maria Magdalena Criveanu
+Year: 2023
+Venue: Electronics
+DOI: https://doi.org/10.3390/electronics12102318
+Paper ID: https://openalex.org/W4377293870
+
+Abstract:
+Digital technology development caused the digital transformation of the economy and society. E-commerce, the most widespread among digital innovations, reached a significant share, particularly during the COVID-19 pandemic, impacting economic growth. The progress of digital technologies and the evolution of e-commerce can contribute to the more sustainable development of organizations and worldwide economies. This paper analyzed the influences of digital transformation and e-commerce on GDP and sustainable development. The study used the Eurostat database to gather the research variables for the EU countries. The paper used artificial neural networks and cluster analysis to reveal the significant influence of digital transformation and e-commerce on GDP and sustainable organizational development. Countries with a low level of digital transformation and e-commerce should propel these activities to increase economic performance sustainably.

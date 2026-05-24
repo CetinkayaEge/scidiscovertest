@@ -1,0 +1,9 @@
+Title: Lysyl oxidase-like 3 restrains mitochondrial ferroptosis to promote liver cancer chemoresistance by stabilizing dihydroorotate dehydrogenase
+Authors: Meixiao Zhan, Yufeng Ding, Shanzhou Huang, Yuhang Liu, Jing Xiao, Hua Yu, Ligong Lu, Xiongjun Wang
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38753-6
+Paper ID: pmc_PMC10229567
+
+Abstract:
+To overcome chemotherapy resistance, novel strategies sensitizing cancer cells to chemotherapy are required. Here, we screen the lysyl-oxidase (LOX) family to clarify its contribution to chemotherapy resistance in liver cancer. LOXL3 depletion significantly sensitizes liver cancer cells to Oxaliplatin by inducing ferroptosis. Chemotherapy-activated EGFR signaling drives LOXL3 to interact with TOM20, causing it to be hijacked into mitochondria, where LOXL3 lysyl-oxidase activity is reinforced by phosphorylation at S704. Metabolic adenylate kinase 2 (AK2) directly phosphorylates LOXL3-S704. Phosphorylated LOXL3-S704 targets dihydroorotate dehydrogenase (DHODH) and stabilizes it by preventing its ubiquitin-mediated proteasomal degradation. K344-deubiquitinated DHODH accumulates in mitochondria, in turn inhibiting chemotherapy-induced mitochondrial ferroptosis. CRISPR-Cas9-mediated site-mutation of mouse LOXL3-S704 to D704 causes a reduction in lipid peroxidation. Using an advanced liver cancer mouse model, we further reveal that low-dose Oxaliplatin in combination with the DHODH-inhibitor Leflunomide effectively inhibit liver cancer progression by inducing ferroptosis, with increased chemotherapy sensitivity and decreased chemotherapy toxicity. Novel strategies are needed to overcome chemotherapy resistance. Here the authors report chemotherapy induces the phosphorylation of Lysyl oxidase-like 3, which in turn stabilizes dihydroorotate dehydrogenase (DHODH) and that DHODH inhibitor sensitizes tumor cells to oxaliplatin treatment by inducing ferroptosis in liver cancer.

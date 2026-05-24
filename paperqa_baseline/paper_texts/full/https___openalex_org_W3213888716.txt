@@ -1,0 +1,9 @@
+Title: Achieving Resilience and Business Sustainability during COVID-19: The Role of Lean Supply Chain Practices and Digitalization
+Authors: Matteo Trabucco, Pietro De Giovanni
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132212369
+Paper ID: https://openalex.org/W3213888716
+
+Abstract:
+This paper investigates how firms can enjoy a sustainable business even during the COVID-19 pandemic. The adoption of lean coordination mechanisms over the supply chain (SC) and lean approaches in omnichannel strategies can guarantee the business sustainability and resilience. Furthermore, we investigate whether business sustainability, along with digitalization through mobile apps, Artificial Intelligence systems, and Big Data and Machine Learning enable firms’ resilience. We first explore the background on the subject, identify the research gap, and develop some research hypotheses to be tested. Then, we present the data collection process and the sample, which finally consists of firms from different sectors, including retailing, electronics, pharmaceutics, and agriculture. Several logistic regression models are developed and estimated to generate findings and managerial insights. Our results show that a lean omnichannel approach is an effective practice to preserve production costs, SC visibility, inventory available over the SC, and sales. Furthermore, lean coordination with contracts can make a business sustainable by preserving quality, ROI, production costs, customer service, and inventory availability. Finally, firms can be highly sustainable through resilience when they engage in sustainable ROI, SC visibility, and sales; in contrast, the adoption of mobile apps worsens firms’ resilience, which is not influenced by Artificial Intelligence and Big Data and Machine Learning.

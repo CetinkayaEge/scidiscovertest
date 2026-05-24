@@ -1,0 +1,9 @@
+Title: The Development of Sustainable Agriculture in EU Countries and the Potential Achievement of Sustainable Development Goals Specific Targets (SDG 2)
+Authors: Gheorghe Hurduzeu, R. L. Pânzaru, D. M. Medelete, A. Ciobanu, Constanţa Enea
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142315798
+Paper ID: https://openalex.org/W4310211457
+
+Abstract:
+The development of sustainable agriculture is treated as a priority at the EU level, and the importance and role of agriculture, in general, and sustainable agriculture, in particular, is undeniable. The European Commission pushes for sustainability in agriculture in rural areas across the EU through the common agricultural policy (CAP), and the achievement of the 2030 Agenda for Sustainable Development targets becomes essential. Through our research, we aimed to investigate the status of sustainable agriculture development in EU Member States by assessing the current level of the achievement of SDG 2 targets, as well as the potential achievement of these targets by 2030. Based on data collected from Eurostat, we forecast the evolution of indicators for each country considered until 2030 using the ARIMA model and dynamic indicator analysis. The results obtained suggest, on the one hand, the existence of positive developments at the level of European countries, but also highlight a number of existing disparities, together with evidence of potentially significant deviations from the targets assumed by the 2030 Agenda.

@@ -1,0 +1,9 @@
+Title: Analyzing rare mutations in metagenomes assembled using long and accurate reads
+Authors: Marcus W. Fedarko, Mikhail Kolmogorov, Pavel A. Pevzner
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276917.122
+Paper ID: pmc_PMC9808630
+
+Abstract:
+The advent of long and accurate “HiFi” reads has greatly improved our ability to generate complete metagenome-assembled genomes (MAGs), enabling “complete metagenomics” studies that were nearly impossible to conduct with short reads. In particular, HiFi reads simplify the identification and phasing of mutations in MAGs: It is increasingly feasible to distinguish between positions that are prone to mutations and positions that rarely ever mutate, and to identify co-occurring groups of mutations. However, the problems of identifying rare mutations in MAGs, estimating the false-discovery rate (FDR) of these identifications, and phasing identified mutations remain open in the context of HiFi data. We present strainFlye, a pipeline for the FDR-controlled identification and analysis of rare mutations in MAGs assembled using HiFi reads. We show that deep HiFi sequencing has the potential to reveal and phase tens of thousands of rare mutations in a single MAG, identify hotspots and coldspots of these mutations, and detail MAGs’ growth dynamics.

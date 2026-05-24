@@ -1,0 +1,9 @@
+Title: Digital brains, green gains: Artificial intelligence's path to sustainable transformation
+Authors: Miaomiao Tao
+Year: 2024
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2024.122679
+Paper ID: https://openalex.org/W4403076844
+
+Abstract:
+The environmental impacts of artificial intelligence on a global scale remain underexplored. This study utilizes a balanced panel dataset to examine artificial intelligence's complex role in enhancing global green productivity between 2008 and 2019. The findings indicate that artificial intelligence robustly boosts green productivity, even after correcting for potential endogeneity using the legal system's origin as an instrument. A detailed mediation analysis underscores that artificial intelligence indirectly promotes green productivity by increasing renewable energy use, attracting skilled labor, and dampening stock market performance. Additional analysis confirms that financial development generally amplifies artificial intelligence's favorable effects on green productivity. However, the combined impact of financial institution access and artificial intelligence on green productivity initially appears hostile, an effect that can be reversed when financial access exceeds a certain threshold. These results offer valuable insights into the interconnection between artificial intelligence and the global shift towards greener practices.

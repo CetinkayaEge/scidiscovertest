@@ -1,0 +1,9 @@
+Title: Green Human Resource Management: Mapping the Research Trends for Sustainable and Agile Human Resources in SMEs
+Authors: Christos Papademetriou, Konstantina Ragazou, Alexandros Garefalakis, Ioannis Passas
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15075636
+Paper ID: https://openalex.org/W4360860149
+
+Abstract:
+While individual SMEs may have a minor environmental footprint, their collective influence is characterized as significant. Through the dynamics of their employees, green human resource management can help SMEs reduce their environmental footprint. However, SMEs face difficulties in implementing such strategies and achieving sustainable business continuity. The current research aims to propose the theoretical framework of a business model that will help SMEs adjust to the new environment, address their sustainable goals and gaps in the field, and build a resilient, agile business ecosystem. To approach the research issue, we used the R-based Bibliometrix tool. Using the Scopus database, 368 papers were selected and analyzed as part of the study’s five steps. Bibliometric tools such as Biblioshiny, VOSviewer, and R Studio have been used to illustrate the findings. The study’s findings highlight a few different factors that will serve as the foundation for the proposed model. Green competencies, both natural and acquired, as well as the requirement to provide green motivation, are identified as critical for the development of the new business model. Furthermore, the combination of this set of factors contributes to the achievement of green organizational citizenship behavior, which is one of the most important factors in helping SMEs adopt green human resource management methods. Finally, all the above factors are under the wing of the principles of environmental management, which drive businesses to enhance and boost their environmental performance.

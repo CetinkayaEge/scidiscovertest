@@ -1,0 +1,9 @@
+Title: Effectiveness, Immunogenicity and Harms of Additional SARS-CoV-2 Vaccine Doses in Kidney Transplant Recipients: A Systematic Review
+Authors: Renate Ilona Hausinger, Quirin Bachmann, Timotius Crone-Rawe, Nora Hannane, Ina Monsef, Bernhard Haller, Uwe Heemann, Nicole Skoetz, Nina Kreuzberger, Christoph Schmaderer
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040863
+Paper ID: pmc_PMC10141039
+
+Abstract:
+Background: Kidney transplant recipients (KTRs) who have a highly impaired immune response are in need of intensified and safe vaccination strategies to achieve seroconversion and prevent severe disease. Methods: We searched the Web of Science Core Collection, the Cochrane COVID-19 Study Register and the WHO COVID-19 global literature on coronavirus disease from January 2020 to 22 July 2022 for prospective studies that assessed immunogenicity and efficacy after three or more SARS-CoV-2 vaccine doses. Results: In 37 studies on 3429 patients, de novo seroconversion after three and four vaccine doses ranged from 32 to 60% and 25 to 37%. Variant-specific neutralization was 59 to 70% for Delta and 12 to 52% for Omicron. Severe disease after infection was rarely reported but all concerned KTRs lacked immune responses after vaccination. Studies investigating the clinical course of COVID-19 found remarkably higher rates of severe disease than in the general population. Serious adverse events and acute graft rejections were very rare. Substantial heterogeneity between the studies limited their comparability and summary. Conclusion: Additional SARS-CoV-2 vaccine doses are potent and safe in general terms as well as regarding transplant-specific outcomes whilst the Omicron wave remains a significant threat to KTRs without adequate immune responses.

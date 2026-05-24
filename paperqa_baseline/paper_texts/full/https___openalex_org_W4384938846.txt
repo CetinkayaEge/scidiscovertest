@@ -1,0 +1,9 @@
+Title: Emerging self-sustained electricity generation enabled by moisture
+Authors: Pengfei Wang, Jiaxing Xu, R.Z. Wang, Tingxian Li
+Year: 2023
+Venue: Cell Reports Physical Science
+DOI: https://doi.org/10.1016/j.xcrp.2023.101517
+Paper ID: https://openalex.org/W4384938846
+
+Abstract:
+Moisture-involved electricity generation (MIEG) can harvest electricity from the natural hydrological process by spontaneous moisture sorption or water evaporation and thus exhibits high adaptability in various environmental and regional conditions. However, owing to the absence of sustainable and bulk water-free energy-harvesting mechanisms and structures, MIEG devices are limited by discontinuous and unscalable electricity generation for practical application. Through the combination of spontaneous moisture sorption and evaporation, the emergence of self-sustained moisture-involved electricity generation (SMIEG) presents the potential to address these challenges. In this perspective, we first introduce the operating modes and underlying mechanisms of SMIEG. Subsequently, we systematically summarize the progress of SMIEG, and emphasize some potential strategies for constructing high-performance SMIEG in terms of hygroscopicity, surface property, and geometry structure. Furthermore, we discuss the challenges and opportunities and envision the pathways for next-generation SMIEG systems through synergistic reinforcement of mechanisms, materials, and devices.

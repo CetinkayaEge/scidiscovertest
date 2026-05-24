@@ -1,0 +1,9 @@
+Title: Investigating the mechanisms of sustainable urban land renewal: A perspective of spatial development rights
+Authors: He Zhu, Xing Gao, Weiyi Tian, Meiyu Wei, Xingman Zhang, Yiyuan Chen
+Year: 2024
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2024.105536
+Paper ID: https://openalex.org/W4397289175
+
+Abstract:
+Urban renewal, as an important means of promoting sustainable urbanization in the stock era, is essentially a process of redistributing land appreciation benefits caused by spatial development rights. However, current literature mostly analyzes the traditional two-dimensional renewal model from the perspective of market mechanisms, which leads to the inability of urban land renewal mechanisms to adapt to sustainable urban development. Therefore, taking Shenzhen as an example, our study aims to understand the spatial mechanism of urban land renewal from a three-dimensional perspective of spatial development rights. Using geographically weighted regression and two-stage least squares regression, we found that the objective of value analysis has shifted from the common minimum unit of land to local space. Moreover, affected by the surrounding environment and various supporting public service facilities, the existence of spatial heterogeneity leads to significant differences in the value of the different functional space within same geographical ranges. The influence intensity of economy, society, and environment shows a decreasing pattern in space from the center of the region to the outer circle of the region. We not only construct a sustainable urban land renewal framework based on three-dimensional spatial property rights, but also distinguish the mechanisms and endogenous issues for different functional spaces. Our study could make a great difference in adjustment of urban land development rights and value acquisition.

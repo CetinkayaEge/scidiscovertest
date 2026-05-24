@@ -1,0 +1,9 @@
+Title: Data-driven direct diagnosis of Li-ion batteries connected to photovoltaics
+Authors: Matthieu Dubarry, Nahuel Costa, Dax Matthews
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38895-7
+Paper ID: pmc_PMC10229535
+
+Abstract:
+Photovoltaics supply a growing share of power to the electric grid worldwide. To mitigate resource intermittency issues, these systems are increasingly being paired with electrochemical energy storage devices, e.g., Li-ion batteries, for which ensuring long and safe operation is critical. However, in this operation framework, secondary Li-ion batteries undergo sporadic usage, which prevents the application of standard diagnostic methods. Here, we propose a diagnostic methodology that uses machine learning algorithms trained directly on data obtained from photovoltaic charging of Li-ion batteries. The training is carried out on synthetic voltage data at various degradation conditions calculated from clear sky model irradiance data. The method is validated using synthetic voltage responses calculated from plane of array irradiance observations for a photovoltaic system located in Maui, HI, USA. We report an average root mean square error of 2.75% obtained for more than 10,000 different degradation paths with 25% or less degradation on the Li-ion cells. Li-ion batteries are used to store energy harvested from photovoltaics. However, battery use is sporadic and standard diagnostic methods cannot be applied. Here, the authors propose a methodology for diagnosing photovoltaics-connected Li-ion batteries that use trained machine learning algorithms.

@@ -1,0 +1,9 @@
+Title: Analysis of fractional order model on higher institution students’ anxiety towards mathematics with optimal control theory
+Authors: Shewafera Wondimagegnhu Teklu
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33961-y
+Paper ID: pmc_PMC10140381
+
+Abstract:
+Anxiety towards mathematics is the most common problem throughout nations in the world. In this study, we have mainly formulated and analyzed a Caputo fractional order mathematical model with optimal control strategies on higher institution students’ anxiety towards mathematics. The non-negativity and boundedness of the fractional order dynamical system solutions have been analysed. Both the anxiety-free and anxiety endemic equilibrium points of the Caputo fractional order model are found, and the local stability analysis of the anxiety-free and anxiety endemic equilibrium points are examined. Conditions for Caputo fractional order model backward bifurcation are analyzed whenever the anxiety effective reproduction number is less than one. We have shown the global asymptotic stability of the endemic equilibrium point. Moreover, we have carried out the optimal control strategy analysis of the fractional order model. Eventually, we have established the analytical results through numerical simulations to investigate the memory effect of the fractional order derivative approach, the behavior of the model solutions and the effects of parameters on the students anxiety towards mathematics in the community. Protection and treatment of anxiety infectious students have fundamental roles to minimize and possibly to eradicate mathematics anxiety from the higher institutions.

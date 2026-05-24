@@ -1,0 +1,9 @@
+Title: Heteroclinic cycling and extinction in May–Leonard models with demographic stochasticity
+Authors: Nicholas W. Barendregt, Peter J. Thomas
+Year: 2023
+Venue: Journal of Mathematical Biology
+DOI: 10.1007/s00285-022-01859-4
+Paper ID: pmc_PMC9839821
+
+Abstract:
+May and Leonard (SIAM J Appl Math 29:243–253, 1975) introduced a three-species Lotka–Volterra type population model that exhibits heteroclinic cycling. Rather than producing a periodic limit cycle, the trajectory takes longer and longer to complete each “cycle”, passing closer and closer to unstable fixed points in which one population dominates and the others approach zero. Aperiodic heteroclinic dynamics have subsequently been studied in ecological systems (side-blotched lizards; colicinogenic Escherichia coli ), in the immune system, in neural information processing models (“winnerless competition”), and in models of neural central pattern generators. Yet as May and Leonard observed “Biologically, the behavior (produced by the model) is nonsense. Once it is conceded that the variables represent animals, and therefore cannot fall below unity, it is clear that the system will, after a few cycles, converge on some single population, extinguishing the other two.” Here, we explore different ways of introducing discrete stochastic dynamics based on May and Leonard’s ODE model, with application to ecological population dynamics, and to a neuromotor central pattern generator system. We study examples of several quantitatively distinct asymptotic behaviors, including total extinction of all species, extinction to a single species, and persistent cyclic dominance with finite mean cycle length.

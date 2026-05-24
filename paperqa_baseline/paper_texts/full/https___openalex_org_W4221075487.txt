@@ -1,0 +1,9 @@
+Title: Towards a cyber-physical system for sustainable and smart building: a use case for optimising water consumption on a SmartCampus
+Authors: Sergio Barroso, Pablo Bustos, Pedro Núñez
+Year: 2022
+Venue: Journal of Ambient Intelligence and Humanized Computing
+DOI: https://doi.org/10.1007/s12652-021-03656-1
+Paper ID: https://openalex.org/W4221075487
+
+Abstract:
+Abstract In recent years, the joint advance of the Internet of Things and Artificial Intelligence is enabling challenging developments for Smart Cities and Communities (S&amp;CC). In particular, the SmartCampus, as an essential part of S&amp;CC, acquires a transverse protagonism. On the one hand, SmartCampuses are a realistic representation of more complex systems (i.e., intelligent cities or territories) where to deploy sensors and plan specific goals. Nevertheless, on the other hand, Smartcampuses allow the coexistence of different technologies and networks of experts that facilitate the development, testing, and evolution of technologies. This paper describes the Cyber-Physical System SmartPoliTech, an Internet of Things Framework, as part of a future smart campus. SmartPoliTech develops an innovative framework that facilitates communication between different systems, data visualization, consumption modeling, alert generation, and the awareness of sustainability and environmental issues. This framework is based on a Service-Oriented Architecture to control all processes, from hardware to decision-making systems. This paper provides a sustainable and intelligent water management system to predict water consumption using Gaussian Mixture Models as day-, month- and even hour-dependent functions based on this Cyber-Physical System. The proposed solution can be used in any facility, with significant benefits being foreseen in metrics such as the minimization of water wastage.

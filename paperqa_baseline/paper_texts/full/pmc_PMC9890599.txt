@@ -1,0 +1,9 @@
+Title: A versatile strategy for the formation of hydride-bridged actinide–iridium multimetallics †
+Authors: Christopher Z. Ye, Iker Del Rosal, Michael A. Boreen, Erik T. Ouellette, Dominic R. Russo, Laurent Maron, John Arnold, Clément Camp
+Year: 2022
+Venue: Chemical Science
+DOI: 10.1039/d2sc04903a
+Paper ID: pmc_PMC9890599
+
+Abstract:
+Reaction of the potassium pentamethylcyclopentadienyl iridate tris-hydride K[IrCp*H 3 ] with UCl 4 and ThCl 4 (DME) 2 led to the complete replacement of the halide ligands to generate multimetallic complexes U{(μ-H) 3 IrCp*} 4 (1) and Th{[(μ-H 2 )(H)IrCp*] 2 [(μ-H) 3 IrCp*] 2 } (2), respectively. These analogues feature a significant discrepancy in hydride bonding modes; 1 contains twelve bridging hydrides while 2 contains ten bridging hydrides and two terminal, Ir-bound hydrides. Use of a U( iii ) starting material, UI 3 (1,4-dioxane) 1.5 , resulted in the octanuclear complex {U[(μ 2 -H 3 )IrCp*] 2 [(μ 3 -H 2 )IrCp*]} 2 (3). Computational studies indicate significant bonding character between U/Th and Ir in 1 and 2, with f-orbital involvement in the singly-occupied molecular orbitals of the uranium species 1. In addition, these studies attribute the variation in hydride bonding between 1 and 2 to differences in dispersion effects. Uranium- and thorium-iridium multimetallic species with unprecedented actinide–iridium interactions are prepared via salt-elimination reactions between U/Th halides and K[IrCp*H 3 ].

@@ -1,0 +1,9 @@
+Title: One-pot synthesis of NiFe nanoarrays under an external magnetic field as an efficient oxygen evolution reaction catalyst †
+Authors: Yujie Miao, Qiuping Huang, Dan Wen, Dongling Xie, Bo Huang, Dunmin Lin, Chenggang Xu, Wen Zeng, Fengyu Xie
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07666g
+Paper ID: pmc_PMC9890666
+
+Abstract:
+Designing and developing earth-abundant electrocatalysts for the oxygen evolution reaction (OER) in alkaline media is a critical element in the societal development of sustainable energy. MIL-53(Fe–Ni)/NF-2200Gs was synthesized under an external magnetic field. Such MIL-53(Fe–Ni)/NF-2200Gs show exceptionally high catalytic activity and require an overpotential of only 174 mV to drive a geometrical catalytic current density of 10 mA cm −2 in 1.0 M KOH, superior to RuO 2 and most Fe, Ni-based electrocatalysts. Our work emphasizes the optimization of catalytic activity originating from the improvement of the magnetic properties of the catalyst, which enhances the spin polarization and tailors the d-electron structure of cations, leading to outstanding OER activity. This work would open new opportunities to design and develop transition-metal-based nanometer arrays toward efficient and stable water oxidation in alkaline media for applications. The NiFe nanoarrays MIL-53(Fe–Ni)/NF-2200Gs was synthesized using a one-pot approach under external magnetic field, and investigated as an efficient OER catalyst in alkaline medium.

@@ -1,0 +1,9 @@
+Title: Fluorescent chemosensors facilitate the visualization of plant health and their living environment in sustainable agriculture
+Authors: Yang-Yang Gao, Jie He, Xiao-Hong Li, Jian-Hong Li, Jian-Hong Li, Hong Wu, Ting Wen, Jun Li, Jun Li, Ge‐Fei Hao, Juyoung Yoon
+Year: 2024
+Venue: Chemical Society Reviews
+DOI: https://doi.org/10.1039/d3cs00504f
+Paper ID: https://openalex.org/W4399401408
+
+Abstract:
+Globally, 91% of plant production encounters diverse environmental stresses that adversely affect their growth, leading to severe yield losses of 50-60%. In this case, monitoring the connection between the environment and plant health can balance population demands with environmental protection and resource distribution. Fluorescent chemosensors have shown great progress in monitoring the health and environment of plants due to their high sensitivity and biocompatibility. However, to date, no comprehensive analysis and systematic summary of fluorescent chemosensors used in monitoring the correlation between plant health and their environment have been reported. Thus, herein, we summarize the current fluorescent chemosensors ranging from their design strategies to applications in monitoring plant-environment interaction processes. First, we highlight the types of fluorescent chemosensors with design strategies to resolve the bottlenecks encountered in monitoring the health and living environment of plants. In addition, the applications of fluorescent small-molecule, nano and supramolecular chemosensors in the visualization of the health and living environment of plants are discussed. Finally, the major challenges and perspectives in this field are presented. This work will provide guidance for the design of efficient fluorescent chemosensors to monitor plant health, and then promote sustainable agricultural development.

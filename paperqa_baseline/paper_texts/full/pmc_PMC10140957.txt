@@ -1,0 +1,9 @@
+Title: Mathematical Modeling of the Influence of the Karman Vortex Street on Mass Transfer in Electromembrane Systems
+Authors: Aminat Uzdenova, Anna Kovalenko, Evgeniy Prosviryakov, Makhamet Urtenov
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13040394
+Paper ID: pmc_PMC10140957
+
+Abstract:
+In electromembrane systems, the transfer of ions near ion-exchange membranes causes concentration polarization, which significantly complicates mass transfer. Spacers are used to reduce the effect of concentration polarization and increase mass transfer. In this article, for the first time, a theoretical study is carried out, using a two-dimensional mathematical model, of the effect of spacers on the mass transfer process in the desalination channel formed by anion-exchange and cation-exchange membranes under conditions when they cause a developed Karman vortex street. The main idea is that, when the separation of vortices occurs on both sides in turn from the spacer located in the core of the flow where the concentration is maximum, the developed non-stationary Karman vortex street ensures the flow of the solution from the core of the flow alternately into the depleted diffusion layers near the ion-exchange membranes. This reduces the concentration polarization and, accordingly, increases the transport of salt ions. The mathematical model is a boundary value problem for the coupled system of Nernst–Planck–Poisson and Navier–Stokes equations for the potentiodynamic regime. The comparison of the current–voltage characteristics calculated for the desalination channel with and without a spacer showed a significant increase in the intensity of mass transfer due to the development of the Karman vortex street behind the spacer.

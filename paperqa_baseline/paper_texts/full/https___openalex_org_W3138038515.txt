@@ -1,0 +1,9 @@
+Title: Designing business model development tools for sustainability—a design science study
+Authors: Thorsten Schoormann, Maren Stadtländer, Ralf Knackstedt
+Year: 2021
+Venue: Electronic Markets
+DOI: https://doi.org/10.1007/s12525-021-00466-3
+Paper ID: https://openalex.org/W3138038515
+
+Abstract:
+Abstract The development of business models that boost fundamental changes in behavior to act more economically, ecologically, and socially is a challenging task because the consideration of sustainability is a multidimensional problem characterized by uncertainty and value conflicts. In order to deal with such complex tasks, methodological and technical tool support is required. Even though tools for business model development are well-established, they typically focus on economic obligations and pay little attention to ecological and social concerns. To bridge this gap, we shed light on the question of how functions for software can be designed to respect sustainability in business models. We present a software prototype and prescriptive design knowledge in the form of design principles and features, and thereby aim to contribute to the information systems body of knowledge by providing guidance to software designers and business model developers on how to reflect on sustainability.

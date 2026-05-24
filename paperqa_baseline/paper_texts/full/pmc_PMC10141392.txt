@@ -1,0 +1,9 @@
+Title: Review on Sensor Array-Based Analytical Technologies for Quality Control of Food and Beverages
+Authors: Abhishek Kumar, Mickael Castro, Jean-François Feller
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23084017
+Paper ID: pmc_PMC10141392
+
+Abstract:
+Food quality control is an important area to address, as it directly impacts the health of the whole population. To evaluate the food authenticity and quality, the organoleptic feature of the food aroma is very important, such that the composition of volatile organic compounds (VOC) is unique in each aroma, providing a basis to predict the food quality. Different types of analytical approaches have been used to assess the VOC biomarkers and other parameters in the food. The conventional approaches are based on targeted analyses using chromatography and spectroscopies coupled with chemometrics, which are highly sensitive, selective, and accurate to predict food authenticity, ageing, and geographical origin. However, these methods require passive sampling, are expensive, time-consuming, and lack real-time measurements. Alternately, gas sensor-based devices, such as the electronic nose (e-nose), bring a potential solution for the existing limitations of conventional methods, offering a real-time and cheaper point-of-care analysis of food quality assessment. Currently, research advancement in this field involves mainly metal oxide semiconductor-based chemiresistive gas sensors, which are highly sensitive, partially selective, have a short response time, and utilize diverse pattern recognition methods for the classification and identification of biomarkers. Further research interests are emerging in the use of organic nanomaterials in e-noses, which are cheaper and operable at room temperature.

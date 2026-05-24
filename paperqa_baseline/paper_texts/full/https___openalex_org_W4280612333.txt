@@ -1,0 +1,9 @@
+Title: Systems Thinking Accident Analysis Models: A Systematic Review for Sustainable Safety Management
+Authors: Mahdieh Delikhoon, Esmaeil Zarei, Osiris A. Valdez Banda, Mohammad Faridan, Ehsanollah Habibi
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14105869
+Paper ID: https://openalex.org/W4280612333
+
+Abstract:
+Accident models are mental models that make it possible to understand the causality of adverse events. This research was conducted based on five major objectives: (i) to systematically review the relevant literature about AcciMap, STAMP, and FRAM models and synthesize the theoretical and experimental findings, as well as the main research flows; (ii) to examine the standalone and hybrid applications for modeling the leading factors of the accident and the behavior of sociotechnical systems; (iii) to highlight the strengths and weaknesses of exploring the research opportunities; (iv) to describe the safety and accident models in terms of safety-I-II-III; and finally, to investigate the impact of the systemic models’ applications in enhancing the system’s sustainability. The systematic models can identify contributory factors, functions, and relationships in different system levels which helps to increase the awareness of systems and enhance the sustainability of safety management. Furthermore, their hybrid extensions can significantly overcome the limitations of these models and provide more reliable information. Applying the safety II and III concepts and their approaches in the system can also progress their safety levels. Finally, the ethical control of sophisticated systems suggests that further research utilizing these methodologies should be conducted to enhance system analysis and safety evaluations.

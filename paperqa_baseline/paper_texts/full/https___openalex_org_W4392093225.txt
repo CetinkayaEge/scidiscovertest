@@ -1,0 +1,9 @@
+Title: The double sustainability: The link between government debt and renewable energy
+Authors: Monica Auteri, Marco Mele, Isabella Ruble, Cosimo Magazzino
+Year: 2024
+Venue: The Journal of Economic Asymmetries
+DOI: https://doi.org/10.1016/j.jeca.2024.e00356
+Paper ID: https://openalex.org/W4392093225
+
+Abstract:
+This paper innovatively explores the relationship between a country’s government debt and the use of renewable energy. Incorporating key socio-economic and financial variables, critical to the United Nations SDG-7, we build a panel dataset for G7 countries from 1990-2021. Using cointegrating regression methods (FMOLS and DOLS), Quantile Regressions (QR) and pairwise panel causality tests, we find bidirectional causality between government debt and renewable energy consumption (REC). The empirical findings emphasize the important policy implications for sustainable economic development. Escalating government debt can hinder investment in renewable energy infrastructure, while increased renewable energy has a positive impact on government debt dynamics. Policymakers are encouraged to prioritize fiscal responsibility to secure resources for renewable energy investments. Moreover, incentivizing renewable energy deployment promotes long-term fiscal benefits and creates a positive feedback loop. In fact, a comprehensive understanding of the relationship between government finances and environmental sustainability is crucial for an optimal balance.

@@ -1,0 +1,9 @@
+Title: Foodomics: A Data-Driven Approach to Revolutionize Nutrition and Sustainable Diets
+Authors: Selena Ahmed, John de la Parra, Ismahane Elouafi, Bruce German, Andy Jarvis, Vincent Lal, Anna Lartey, T. Longvah, Carlos Malpica, Natalia Vázquez-Manjarrez, Jessica E. Prenni, Carlos A. Aguilar‐Salinas, Warangkana Srichamnong, Maya Rajasekharan, Tracy Shafizadeh, Justin B. Siegel, Roy Steiner, Joe Tohmé, Steve E. Watkins
+Year: 2022
+Venue: Frontiers in Nutrition
+DOI: https://doi.org/10.3389/fnut.2022.874312
+Paper ID: https://openalex.org/W4225296651
+
+Abstract:
+Globally, we are failing to meet numerous nutritional, health, and environmental targets linked to food. Defining food composition in its full chemical and quantitative diversity is central to data-driven decision making for supporting nutrition and sustainable diets. "Foodomics"-the application of omics-technology to characterize and quantify biomolecules to improve wellbeing-has the potential to comprehensively elucidate what is in food, how this composition varies across the food system, and how diet composition as an ensemble of foods guides outcomes for nutrition, health, and sustainability. Here, we outline: (i) challenges of evaluating food composition; (ii) state-of-the-art omics technology and innovations for the analysis of food; and (iii) application of foodomics as a complementary data-driven approach to revolutionize nutrition and sustainable diets. Featuring efforts of the Periodic Table of Food Initiative, a participatory effort to create a globally shared foodomics platform, we conclude with recommendations to accelerate foodomics in ways that strengthen the capacity of scientists and benefit all people.

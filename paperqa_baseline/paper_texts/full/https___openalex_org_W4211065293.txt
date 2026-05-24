@@ -1,0 +1,9 @@
+Title: Unpacking the ‘15-Minute City’ via 6G, IoT, and Digital Twins: Towards a New Narrative for Increasing Urban Efficiency, Resilience, and Sustainability
+Authors: Zaheer Allam, Simon Elias Bibri, David S. Jones, Didier Chabaud, Carlos Moreno
+Year: 2022
+Venue: Sensors
+DOI: https://doi.org/10.3390/s22041369
+Paper ID: https://openalex.org/W4211065293
+
+Abstract:
+The '15-minute city' concept is emerging as a potent urban regeneration model in post-pandemic cities, offering new vantage points on liveability and urban health. While the concept is primarily geared towards rethinking urban morphologies, it can be furthered via the adoption of Smart Cities network technologies to provide tailored pathways to respond to contextualised challenges through the advent of data mining and processing to better inform urban decision-making processes. We argue that the '15-minute city' concept can value-add from Smart City network technologies in particular through Digital Twins, Internet of Things (IoT), and 6G. The data gathered by these technologies, and processed via Machine Learning techniques, can unveil new patterns to understand the characteristics of urban fabrics. Collectively, those dimensions, unpacked to support the '15-minute city' concept, can provide new opportunities to redefine agendas to better respond to economic and societal needs as well as align more closely with environmental commitments, including the United Nations' Sustainable Development Goal 11 and the New Urban Agenda. This perspective paper presents new sets of opportunities for cities arguing that these new connectivities should be explored now so that appropriate protocols can be devised and so that urban agendas can be recalibrated to prepare for upcoming technology advances, opening new pathways for urban regeneration and resilience crafting.

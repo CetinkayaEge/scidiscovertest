@@ -1,0 +1,9 @@
+Title: Correlating the differences in the receptor binding domain of SARS-CoV-2 spike variants on their interactions with human ACE2 receptor
+Authors: Gokulnath Mahalingam, Porkizhi Arjunan, Yogapriya Periyasami, Ajay Kumar Dhyani, Nivedita Devaraju, Vignesh Rajendiran, Abisha Crystal Christopher, Ramya Devi KT, Immanuel Dhanasingh, Saravanabhavan Thangavel, Mohankumar Murugesan, Mahesh Moorthy, Alok Srivastava, Srujan Marepally
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35070-2
+Paper ID: pmc_PMC10227802
+
+Abstract:
+Spike glycoprotein of SARS-CoV-2 variants plays a critical role in infection and transmission through its interaction with human angiotensin converting enzyme 2 (hACE2) receptors. Prior findings using molecular docking and biomolecular studies reported varied findings on the difference in the interactions among the spike variants with the hACE2 receptors. Hence, it is a prerequisite to understand these interactions in a more precise manner. To this end, firstly, we performed ELISA with trimeric spike glycoproteins of SARS-CoV-2 variants including Wuhan Hu-1(Wild), Delta, C.1.2 and Omicron. Further, to study the interactions in a more specific manner by mimicking the natural infection, we developed hACE2 receptors expressing HEK-293T cell line, evaluated their binding efficiencies and competitive binding of spike variants with D614G spike pseudotyped virus. In line with the existing findings, we observed that Omicron had higher binding efficiency compared to Delta in both ELISA and Cellular models. Intriguingly, we found that cellular models could differentiate the subtle differences between the closely related C.1.2 and Delta in their binding to hACE2 receptors. Our study using the cellular model provides a precise method to evaluate the binding interactions between spike sub-lineages to hACE2 receptors.

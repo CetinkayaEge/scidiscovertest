@@ -1,0 +1,9 @@
+Title: Band Gaps and Optical Properties of RE NiO 3 upon Strain: Combining First-Principles Calculations and Machine Learning
+Authors: Xuchang Tang, Zhaokai Luo, Yuanyuan Cui
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083070
+Paper ID: pmc_PMC10140892
+
+Abstract:
+Rare earth nickel-based perovskite oxides ( RE NiO 3 ) have been widely studied over recent decades because of their unique properties. In the synthesis of RE NiO 3 thin films, a lattice mismatch frequently exists between the substrates and the thin films, which may affect the optical properties of RE NiO 3 . In this paper, the first-principles calculations were employed to study the electronic and optical properties of RE NiO 3 under strain. The results showed that with the increase in tensile strength, the band gap generally shows a widening trend. For optical properties, the absorption coefficients increase with the enhancement of photon energies in the far-infrared range. The compressive strain increases the light absorption, while the tensile strain suppresses it. For the reflectivity spectrum in the far-infrared range, a minimum reflectivity displays around the photon energy of 0.3 eV. The tensile strain enhances the reflectivity in the range of 0.05–0.3 eV, whereas it decreases it when the photon energies are larger than 0.3 eV. Furthermore, machine learning algorithms were applied and found that the planar epitaxial strain, electronegativity, volume of supercells, and rare earth element ion radius play key roles in the band gaps. Photon energy, electronegativity, band gap, the ionic radius of the rare earth element, and the tolerance factor are key parameters significantly influencing the optical properties.

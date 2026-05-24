@@ -1,0 +1,9 @@
+Title: Biochar: A Sustainable Alternative in the Development of Electrochemical Printed Platforms
+Authors: Rocco Cancelliere, Miriam Cianciaruso, Katya Carbone, Laura Micheli
+Year: 2022
+Venue: Chemosensors
+DOI: https://doi.org/10.3390/chemosensors10080344
+Paper ID: https://openalex.org/W4292693903
+
+Abstract:
+Biochar is a pyrolytic material with several environmental benefits such as reducing greenhouse gas emissions, sequestering atmospheric carbon and contrasting global warming. However, nowadays, it has moved to the forefront for its conductivity and electron transfer properties, finding applications in the fabrication of electrochemical platforms. In this field, researchers have focused on low-cost biomass capable of replacing more popular and expensive carbonaceous nanomaterials (i.e., graphene, nanotubes and quantum dots) in the realization of sensitive cost-effectiveness and eco-friendly electrochemical tools. This review discusses recent developments of biochar-modified screen-printed electrodes (SPEs). Special attention has been paid to biochar’s manufacturing processes, electron-donating capabilities and sensing applications. Examples of representative works are introduced to explain the distinct roles of biochar in several electro-bioanalytical strategies.

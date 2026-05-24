@@ -1,0 +1,9 @@
+Title: Towards sustainability with self-healing and recyclable perovskite solar cells
+Authors: Hui Zhang, Nam‐Gyu Park
+Year: 2022
+Venue: eScience
+DOI: https://doi.org/10.1016/j.esci.2022.11.001
+Paper ID: https://openalex.org/W4309340434
+
+Abstract:
+Lead halide perovskite solar cells (PSCs) have been considered one of the most promising candidates for future energy supply, whereas just solar cell does not guarantee sustainability. Owing to the ionic nature and constituent heavy metals, perovskite materials are prone to decay under operating conditions and pose a threat to ecosystems and human health, seriously restricting their practical deployment. Herein, we briefly review safe-by-design strategies to heal failed PSCs and thereby extend their operational lifetime and to recycle lead perovskites at the end of their lifespan for cyclic utilization. From the point of view of processability, scalability, and universality, we recommend future approaches for the further development of PSCs towards sustainable photovoltaics, taking into consideration materials selection, device design, and process optimization.

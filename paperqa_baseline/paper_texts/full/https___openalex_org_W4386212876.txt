@@ -1,0 +1,9 @@
+Title: An Integrated Fuzzy MCDM and Trend Analysis Approach for Financial Performance Evaluation of Energy Companies in Borsa Istanbul Sustainability Index
+Authors: Hakan Ayhan Dağıstanlı
+Year: 2023
+Venue: Journal of Soft Computing and Decision Analytics
+DOI: https://doi.org/10.31181/jscda1120233
+Paper ID: https://openalex.org/W4386212876
+
+Abstract:
+Financial performance evaluation is a great importance for companies. The aim of this study is to analyze the financial performances of energy companies traded in the Borsa Istanbul Sustainability Index in Turkey comparatively using trend analysis and multi-criteria decision making (MCDM). For this purpose, the changing values of accounting-based performance indicators over the years have been compiled from financial reports. The data were first evaluated by it was analyzed by Hesitant Fuzzy Technique for Order Preference by Similarity to Ideal Solution (HFTOPSIS). Then, it was analyzed by trend analysis for each variable separately. Comparative results show that MCDM rankings based on fuzzy set theory are different from analyzes performed alone. In addition, there is no study in the literature examining the financial performance of energy companies in Turkey based on the sustainability index.

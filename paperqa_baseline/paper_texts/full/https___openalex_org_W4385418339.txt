@@ -1,0 +1,9 @@
+Title: Challenging AI for Sustainability: what ought it mean?
+Authors: S. Falk, Aimee van Wynsberghe
+Year: 2023
+Venue: AI and Ethics
+DOI: https://doi.org/10.1007/s43681-023-00323-3
+Paper ID: https://openalex.org/W4385418339
+
+Abstract:
+Abstract This paper argues that the terms ‘Sustainable artificial intelligence (AI)’ in general and ‘Sustainability of AI’ in particular are overused to the extent that they have lost their meaning. The AI for (social) good movement is a manifestation of this trend in which almost any application used in the context of healthcare or agriculture can be classified as AI for good regardless of whether such applications have been evaluated from a broader perspective. In this paper, we aim to create a common understanding of what the ‘AI for Sustainability’ movement ought to mean. We distinguish between two possible AI for Sustainability applications, namely those that fulfill the necessary conditions and those that fulfill the sufficient conditions. The former are purely predictive systems that serve as information providers. The latter are directly involved in an activity that contributes to a sustainability goal. We argue that taking action is a key element in distinguishing between these two application groups, as inaction is the key bottleneck in effectively tackling climate change. Furthermore, we question how effective the use of AI applications can be for sustainability when the systems themselves are inherently unsustainable. Hence, AI for Sustainability should include both an action that contributes to a sustainable end goal as well as an investigation of the sustainability issues of the AI system itself. Following that, Sustainable AI research can be on a gradient: AI in an application domain, AI towards sustainability, and AI for Sustainability.

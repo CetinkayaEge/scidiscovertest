@@ -1,0 +1,9 @@
+Title: Multi-Camera-Based Sorting System for Surface Defects of Apples
+Authors: Ju-Hwan Lee, Hoang-Trong Vo, Gyeong-Ju Kwon, Hyoung-Gook Kim, Jin-Young Kim
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083968
+Paper ID: pmc_PMC10141532
+
+Abstract:
+In this paper, we addressed the challenges in sorting high-yield apple cultivars that traditionally relied on manual labor or system-based defect detection. Existing single-camera methods failed to uniformly capture the entire surface of apples, potentially leading to misclassification due to defects in unscanned areas. Various methods were proposed where apples were rotated using rollers on a conveyor. However, since the rotation was highly random, it was difficult to scan the apples uniformly for accurate classification. To overcome these limitations, we proposed a multi-camera-based apple sorting system with a rotation mechanism that ensured uniform and accurate surface imaging. The proposed system applied a rotation mechanism to individual apples while simultaneously utilizing three cameras to capture the entire surface of the apples. This method offered the advantage of quickly and uniformly acquiring the entire surface compared to single-camera and random rotation conveyor setups. The images captured by the system were analyzed using a CNN classifier deployed on embedded hardware. To maintain excellent CNN classifier performance while reducing its size and inference time, we employed knowledge distillation techniques. The CNN classifier demonstrated an inference speed of 0.069 s and an accuracy of 93.83% based on 300 apple samples. The integrated system, which included the proposed rotation mechanism and multi-camera setup, took a total of 2.84 s to sort one apple. Our proposed system provided an efficient and precise solution for detecting defects on the entire surface of apples, improving the sorting process with high reliability.

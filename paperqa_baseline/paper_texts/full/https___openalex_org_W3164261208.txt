@@ -1,0 +1,9 @@
+Title: Many-Objective Optimization of Sustainable Drainage Systems in Urban Areas with Different Surface Slopes
+Authors: Omid Seyedashraf, Andrea Bottacin‐Busolin, Julien Harou
+Year: 2021
+Venue: Water Resources Management
+DOI: https://doi.org/10.1007/s11269-021-02840-4
+Paper ID: https://openalex.org/W3164261208
+
+Abstract:
+Abstract Sustainable urban drainage systems are multi-functional nature-based solutions that can facilitate flood management in urban catchments while improving stormwater runoff quality. Traditionally, the evaluation of the performance of sustainable drainage infrastructure has been limited to a narrow set of design objectives to simplify their implementation and decision-making process. In this study, the spatial design of sustainable urban drainage systems is optimized considering five objective functions, including minimization of flood volume, flood duration, average peak runoff, total suspended solids, and capital cost. This allows selecting an ensemble of admissible portfolios that best trade-off capital costs and the other important urban drainage services. The impact of the average surface slope of the urban catchment on the optimal design solutions is discussed in terms of spatial distribution of sustainable drainage types. Results show that different subcatchment slopes result in non-uniform distributional designs of sustainable urban drainage systems, with higher capital costs and larger surface areas of green assets associated with steeper slopes. This has two implications. First, urban areas with different surface slopes should not have a one-size-fits-all design policy. Second, spatial equality must be taken into account when applying optimization models to urban subcatchments with different surface slopes to avoid unequal distribution of environmental and human health co-benefits associated with green drainage infrastructure.

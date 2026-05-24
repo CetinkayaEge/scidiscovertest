@@ -1,0 +1,9 @@
+Title: Testosterone levels mediate the dynamics of motor oscillatory coding and behavior in developing youth
+Authors: Abraham D. Killanin, Brittany K. Taylor, Christine M. Embury, Giorgia Picci, Yu-Ping Wang, Vince D. Calhoun, Julia M. Stephen, Elizabeth Heinrichs-Graham, Tony W. Wilson
+Year: 2023
+Venue: Developmental Cognitive Neuroscience
+DOI: 10.1016/j.dcn.2023.101257
+Paper ID: pmc_PMC10232658
+
+Abstract:
+Recent investigations have studied the development of motor-related oscillatory responses to delineate maturational changes from childhood to young adulthood. While these studies included youth during the pubertal transition period, none have probed the impact of testosterone levels on motor cortical dynamics and performance. We collected salivary testosterone samples and recorded magnetoencephalography during a complex motor sequencing task in 58 youth aged 9–15 years old. The relationships between testosterone, age, task behavior, and beta (15–23 Hz) oscillatory dynamics were examined using multiple mediation modeling. We found that testosterone mediated the effect of age on movement-related beta activity. We also found that the effect of age on movement duration was mediated by testosterone and reaction time. Interestingly, the relationships between testosterone and motor performance were not mediated by beta activity in the left primary motor cortex, which may indicate the importance of higher-order motor regions. Overall, our results suggest that testosterone has unique associations with neural and behavioral indices of complex motor performance, beyond those already characterized in the literature. These findings are the first to link developmental changes in testosterone levels to maturation of beta oscillatory dynamics serving complex motor planning and execution, and specific measures of motor performance.

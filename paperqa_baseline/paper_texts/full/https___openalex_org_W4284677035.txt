@@ -1,0 +1,9 @@
+Title: Micro-hub location selection for sustainable last-mile delivery
+Authors: Michaela Novotná, Libor Švadlenka, Stefan Jovčić, Vladimir Šimić
+Year: 2022
+Venue: PLoS ONE
+DOI: https://doi.org/10.1371/journal.pone.0270926
+Paper ID: https://openalex.org/W4284677035
+
+Abstract:
+Sustainable Last-Mile Delivery (LMD) is one of the key phases in city logistics. Micro-hubs in cities are new emerging solutions for an easier and viable last-mile delivery process. The important question in smart and modern cities is the determination of the best micro-hub location for the LMD. This paper solves the micro-hub location selection for sustainable LMD using the multi-criteria decision-making (MCDM) techniques. The main reason for solving the micro-hub location selection is to make the last-mile delivery process in Pardubice as easier and effortless as possible. The Best-Worst Method (BWM), Criteria Importance Through Intercriteria Correlation (CRITIC) method, and Weighted Aggregated Sum Product Assessment (WASPAS) method are coupled to solve the micro-hub location selection for sustainable LMD. First, five criteria and alternatives are identified and discussed with the experts. Second, the hybrid criteria importance is determined by combining the BWM and CRITIC methods. Third, the obtained hybrid weights are integrated within the WASPAS method to rank the micro-hub locations. The findings of the Hybrid BWM-CRITIC-WASPAS model show the Alternative 2 ("Hůrka") as the best possible location for Pardubice in the context of the LMD. In addition, a comparative analysis with some of the existing MCDM approaches is conducted for the same problem and its results show a high level of matching with the applied hybrid BWM-CRITIC-WASPAS method, which means that Alternative 2 ("Hůrka") is strongly recommended as a micro-hub location for sustainable LMD in Pardubice.

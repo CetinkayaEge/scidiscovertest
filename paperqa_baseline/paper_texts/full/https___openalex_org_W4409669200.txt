@@ -1,0 +1,9 @@
+Title: Smart Grids and Sustainability: The Impact of Digital Technologies on the Energy Transition
+Authors: Paola Campana, Riccardo Censi, Roberto Ruggieri, Carlo Amendola
+Year: 2025
+Venue: Energies
+DOI: https://doi.org/10.3390/en18092149
+Paper ID: https://openalex.org/W4409669200
+
+Abstract:
+Smart Grids (SG) represent a key element in the energy transition, facilitating the integration of renewable and conventional energy sources through the use of advanced digital technologies. This study analyzes the main research trends related to SG, energy efficiency, and the role of Artificial Intelligence (AI) and the Internet of Things (IoT) in smart energy management. Following the PRISMA protocol, 179 relevant academic articles indexed in the Scopus database were selected and analyzed using VOSviewer software, version 1.6.20, to identify the main thematic clusters. The results reveal a converging research focus on energy flow optimization, renewable energy integration, and the adoption of digital technologies—including cybersecurity solutions—to ensure grid efficiency, security, and resilience. The study confirms that digitalization acts as a key enabler for building a more sustainable and reliable energy system, aligned with the objectives of the European Union and the United Nations 2030 Agenda. The contribution of this work lies in its integrated approach to the analysis of digital technologies, linking the themes of efficiency, resilience, and infrastructure security, in order to provide valuable insights for future research and sustainable energy policy development.

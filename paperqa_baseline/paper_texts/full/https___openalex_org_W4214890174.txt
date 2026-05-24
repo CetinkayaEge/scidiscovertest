@@ -1,0 +1,9 @@
+Title: Sustainable task offloading decision using genetic algorithm in sensor mobile edge computing
+Authors: Sheuli Chakraborty, Kaushik Mazumdar
+Year: 2022
+Venue: Journal of King Saud University - Computer and Information Sciences
+DOI: https://doi.org/10.1016/j.jksuci.2022.02.014
+Paper ID: https://openalex.org/W4214890174
+
+Abstract:
+Propelling energy-constrained sensor tasks to edge servers in Sensor Mobile Edge Computing (SMEC) subjugates Mobile Devices' (MDs) resource limitation menace. Most of the existing studies focused only on the offloading issues. However, a task may hinge on some allied tasks executed in the prior edge server in the trajectory of MDs. Task execution accomplishes by the assemblage of dependent data. This study imparts the dynamic selection of edge cloud for offloading tasks and checks the task’s dependencies in a multiuser, multichannel environment. The proposed dynamic edge server selection for the inter-edge dependent task scheme piles up data from multiple allied edge nodes to finish the execution. This paper employs a Genetic Algorithm (GA) based optimization technique in the SMEC environment (GAME) to discern the optimal solution. The performance of our proposal is analyzed and compared with the other offloading policies exerting standard datasets. The result of this study manifests with the depletion of energy consumption and computational delay within the allowable range of transmission latency, despite appraising multiple task dependencies.

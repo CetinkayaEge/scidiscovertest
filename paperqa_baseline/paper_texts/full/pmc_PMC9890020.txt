@@ -1,0 +1,9 @@
+Title: ARID5B influences B-cell development and function in mouse
+Authors: Charnise Goodings, Xujie Zhao, Shannon McKinney-Freeman, Hui Zhang, Jun J. Yang
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.281157
+Paper ID: pmc_PMC9890020
+
+Abstract:
+There is growing evidence for an inherited basis of susceptibility to childhood acute lymphoblastic leukemia. Genome-wide association studies by us and others have identified non-coding acute lymphoblastic leukemia risk variants at the ARID5B gene locus, but the molecular mechanisms linking ARID5B to normal and malignant hematopoiesis remain largely unknown. Using a Vav1 -driven transgenic mouse model, we characterized the role of Arid5b in hematopoiesis in vivo . Arid5b overexpression resulted in a dramatic reduction in the proportion of circulating B cells, immature, and mature B-cell fractions in the peripheral blood and the bone marrow, and also a decrease of follicular B cells in the spleen. There were significant defects in B-cell activation upon Arid5b overexpression in vitro with hyperactivation of B-cell receptor signaling at baseline. In addition, increased mitochondrial oxygen consumption rate of naïve or stimulated B cells of Arid5b -overexpressing mice was observed, compared to the rate of wild-type counterparts. Taken together, our results indicate that ARID5B may play an important role in B-cell development and function.

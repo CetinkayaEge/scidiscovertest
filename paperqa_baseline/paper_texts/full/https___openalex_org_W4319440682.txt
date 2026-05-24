@@ -1,0 +1,9 @@
+Title: A Meta-Analysis and Systematic Review of the Effect of Chatbot Technology Use in Sustainable Education
+Authors: Xinjie Deng, Zhonggen Yu
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15042940
+Paper ID: https://openalex.org/W4319440682
+
+Abstract:
+The development of artificial intelligence in recent years has promoted the use of chatbot technology in sustainable education. Many studies examined the effect of chatbots on learning outcomes. However, scant studies summarized the effectiveness of chatbots in education. The aim of the study is to investigate the effect of chatbot-assisted learning on various components and how different moderator variables influenced the effectiveness. This study, through a meta-analysis, reviewed 32 empirical studies with 2201 participants published between 2010 and 2022. The results showed that chatbot technology exerted a medium-to-high effect on overall learning outcomes regardless of moderator variables, i.e., intervention duration, chatbot roles, and learning content. In terms of learning components, chatbots could significantly improve explicit reasoning, learning achievement, knowledge retention, and learning interest despite negative findings in critical thinking, learning engagement, and motivation. Future research could expand chatbot research by including different learning components.

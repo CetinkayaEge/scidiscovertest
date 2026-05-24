@@ -1,0 +1,9 @@
+Title: An Open Soil Health Assessment Framework Facilitating Sustainable Soil Management
+Authors: Gerard H. Ros, Sven Verweij, Sander Janssen, J.J. de Haan, Yuki Fujita
+Year: 2022
+Venue: Environmental Science & Technology
+DOI: https://doi.org/10.1021/acs.est.2c04516
+Paper ID: https://openalex.org/W4309413411
+
+Abstract:
+The crucial role of healthy soil in achieving sustainable food production and environment is increasingly recognized, as is the importance of proper assessment of soil quality. We introduce a new framework, open soil index (OSI), which integrally evaluates soil health of agricultural fields and provides recommendation for farming practices. The OSI is an open-source modular framework in which soil properties, functions, indicators and scores, and management advice are linked hierarchically. Soil health is evaluated with respect to sustainable crop production but can be extended to other ecosystem functions. The OSI leverages the existing knowledge base of agronomic research and routine laboratory data, enabling its application with limited cost. The OSI is a generic framework that can be adopted for specific regions with specific objectives. As a proof of concept, the OSI is implemented for all (>700,000) Dutch agricultural fields and illustrated with 11 pairs ("good" and "poor") of local fields and 32 fields where soil quality and crop yield have been monitored. The OSI produced reasonable evaluation for most pairs when soil physical functions were refined with on-site soil visual assessment. The soil functions are sufficiently independent and yet together reflect complex multidimensionality of soil quality. The framework can facilitate designing sustainable soil management programs by bridging regional targets to field-level actions.

@@ -1,0 +1,9 @@
+Title: Selection of Shear Horizontal Wave Transducers for Robotic Nondestructive Inspection in Harsh Environments
+Authors: Sungho Choi, Hwanjeong Cho, Cliff J. Lissenden
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010005
+Paper ID: pmc_PMC5298578
+
+Abstract:
+Harsh environments and confined spaces require that nondestructive inspections be conducted with robotic systems. Ultrasonic guided waves are well suited for robotic systems because they can provide efficient volumetric coverage when inspecting for various types of damage, including cracks and corrosion. Shear horizontal guided waves are especially well suited for robotic inspection because they are sensitive to cracks oriented perpendicular or parallel to the wave propagation direction and can be generated with electromagnetic acoustic transducers (EMATs) and magnetostrictive transducers (MSTs). Both types of transducers are investigated for crack detection in a stainless steel plate. The MSTs require the robot to apply a compressive normal force that creates frictional force coupling. However, the coupling is observed to be very dependent upon surface roughness and surface debris. The EMATs are coupled through the Lorentz force and are thus noncontact, although they depend on the lift off between transducer and substrate. After comparing advantages and disadvantages of each transducer for robotic inspection the EMATs are selected for application to canisters that store used nuclear fuel.

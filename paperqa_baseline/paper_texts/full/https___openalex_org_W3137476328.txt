@@ -1,0 +1,9 @@
+Title: A cross-talk between CAR T cell subsets and the tumor microenvironment is essential for sustained cytotoxic activity
+Authors: Morgane Boulch, Marine Cazaux, Yann Loe-Mie, Ronan Thibaut, Béatrice Corre, Fabrice Lemaı̂tre, Capucine L. Grandjean, Zacarias Garcia, Philippe Bousso
+Year: 2021
+Venue: Science Immunology
+DOI: https://doi.org/10.1126/sciimmunol.abd4344
+Paper ID: https://openalex.org/W3137476328
+
+Abstract:
+CAR T cells were more efficient at host immune activation but less capable of direct tumor killing. In summary, CAR T cells do not act independently in vivo but rely instead on cytokine-mediated cross-talk with the TME for optimal activity. Invigorating CAR T cell interplay with the host represents an attractive strategy to prevent relapses after therapy.

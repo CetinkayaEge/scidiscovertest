@@ -1,0 +1,9 @@
+Title: Towards Sustainable Distributed Sensor Networks: An Approach for Addressing Power Limitation Issues in WSNs
+Authors: Alaa Alaerjan
+Year: 2023
+Venue: Sensors
+DOI: https://doi.org/10.3390/s23020975
+Paper ID: https://openalex.org/W4316468946
+
+Abstract:
+Distributed wireless sensor networks (WSNs) have been implemented in multiple applications. Those networks are intended to support the quality of operations and enhance applications' productivity and safety. WSNs are constructed of a large amount of sensor nodes that are battery powered. Typically, wireless sensors are deployed in complex terrain which makes battery replacement extremely difficult. Therefore, it is critical to adopt an energy sustainability approach to enhance the lifetime of each sensor node since each node contributes to the lifetime of the entire WSN. In this work, we propose an approach to reduce power consumption in wireless sensors. The approach addresses power reduction in a sensor node at the sensing level, as well as the communication level. First, we propose configuring the microcontroller of the sensor to conserve energy based on the performed tasks. Then, we implement an interface to reduce consumed power by the radio module. Based on the approach, we carried out field experiments and we measure the improvement of power-consumption reduction. The results show that the approach contributes to saving up to 50% of the wasted energy at the sensor node and it improves communication reliability especially when the number of sensors in a network scales.

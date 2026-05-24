@@ -1,0 +1,9 @@
+Title: An integrated best–worst method and fuzzy TOPSIS for resilient-sustainable supplier selection
+Authors: Sahar Varchandi, Ashkan Memari, Mohammad Reza Akbari Jokar
+Year: 2024
+Venue: Decision Analytics Journal
+DOI: https://doi.org/10.1016/j.dajour.2024.100488
+Paper ID: https://openalex.org/W4399264039
+
+Abstract:
+Achieving a balance between economic, environmental, and social factors in supplier selection while prioritizing business continuity poses a considerable challenge. It is imperative to guarantee that selected suppliers adhere to sustainability and resilience requirements while supporting the company’s economic advancement. This study addresses this challenge through a novel approach that combines the Best-Worst Method (BWM) with the Fuzzy Technique Order of Preference by Similarity to Ideal Solution (F-TOPSIS). Integrating these methodologies reduces the burden of pairwise comparisons, a common challenge in supplier selection using multi-criteria decision-making, thereby streamlining the evaluation process. To assess the effectiveness of the proposed model, we implemented our method on an actual case study of e-commerce and conducted a sensitivity analysis of the results. The findings suggest that the proposed method offers improved consistency in rankings across criteria compared to traditional BWM. It also makes a balance between simplicity and accuracy, ensuring that selected suppliers are equipped to handle disruptions and uncertainties. This aligns practical simplicity with theoretical rigor which makes the proposed method more accessible and manageable for practitioners in real-world settings.

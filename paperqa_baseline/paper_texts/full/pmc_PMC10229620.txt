@@ -1,0 +1,9 @@
+Title: The SWine IMputation (SWIM) haplotype reference panel enables nucleotide resolution genetic mapping in pigs
+Authors: Rongrong Ding, Rodrigo Savegnago, Jinding Liu, Nanye Long, Cheng Tan, Gengyuan Cai, Zhanwei Zhuang, Jie Wu, Ming Yang, Yibin Qiu, Donglin Ruan, Jianping Quan, Enqin Zheng, Huaqiang Yang, Zicong Li, Suxu Tan, Mohammed Bedhane, Robert Schnabel, Juan Steibel, Cedric Gondro, Jie Yang, Wen Huang, Zhenfang Wu
+Year: 2023
+Venue: Communications Biology
+DOI: 10.1038/s42003-023-04933-9
+Paper ID: pmc_PMC10229620
+
+Abstract:
+Genetic mapping to identify genes and alleles associated with or causing economically important quantitative trait variation in livestock animals such as pigs is a major goal in animal genetic improvement. Despite recent advances in high-throughput genotyping technologies, the resolution of genetic mapping in pigs remains poor due in part to the low density of genotyped variant sites. In this study, we overcame this limitation by developing a reference haplotype panel for pigs based on 2259 whole genome-sequenced animals representing 44 pig breeds. We evaluated software combinations and breed composition to optimize the imputation procedure and achieved an average concordance rate in excess of 96%, a non-reference concordance rate of 88%, and an r 2 of 0.85. We demonstrated in two case studies that genotype imputation using this resource can dramatically improve the resolution of genetic mapping. A public web server has been developed to allow the pig genetics community to fully utilize this resource. We expect this resource to facilitate genetic mapping and accelerate genetic improvement in pigs. The SWine IMputation (SWIM) haplotype reference panel and web server offer a vast public resource to improve sequence-level imputation and genetic discoveries in pigs.

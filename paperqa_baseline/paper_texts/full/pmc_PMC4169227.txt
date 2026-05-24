@@ -1,0 +1,9 @@
+Title: MicroRNA-107 promotes proliferation of gastric cancer cells by targeting cyclin dependent kinase 8
+Authors: Yan-qiang Song, Xu-hui Ma, Gui-liang Ma, Bin Lin, Chao Liu, Quan-jiang Deng, Wen-ping Lv
+Year: 2014
+Venue: Diagnostic Pathology
+DOI: 10.1186/s13000-014-0164-1
+Paper ID: pmc_PMC4169227
+
+Abstract:
+Background The biological processes and molecular mechanisms underlying miR-107 remain unclear in gastric cancer(GC). In this study, we aimed to investigate the expression, biological functions and mechanisms of miR-107 in GC. Methods Quantitative real-time RT-PCR was used to test miR-107 expression. MTT and colony formation assays were conducted to explore the potential function of miR-107 in human GC cell line SGC7901. The target gene was determined by bioinformatic algorithms, dual luciferase reporter assay, RT-PCR and Western blot. Results Expression of miR-107 was significantly elevated in GC cell line than that in gastric epithelial cell line(p = 0.012). We found that miR-107 inhibitor transfection significantly decreased the proliferation of GC cell line, and clone formation rate of miR-107 inhibitor transfected group was significantly lower than that of control group. Luciferase assays using a reporter carrying a putative miR-107 target site in the 3′untranslated region (3′-UTR) of cyclin dependent kinase 8 (CDK8) revealed that miR-107 directly targets CDK8. The expression level of CDK8 mRNA and protein in miR-107 inhibitor transfected GC cell line was significantly decreased compared with control group. Conclusion Our findings indicate that miR-107 is upregulated in GC and affects the proliferation of GC cells, partially through the regulation of CDK8. Virtual Slides The virtual slide(s) for this article can be found here: http://www.diagnosticpathology.diagnomx.eu/vs/13000_2014_164

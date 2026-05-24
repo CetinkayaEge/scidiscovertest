@@ -1,0 +1,9 @@
+Title: S-Scheme 2D/2D Heterojunction of ZnTiO 3 Nanosheets/Bi 2 WO 6 Nanosheets with Enhanced Photoelectrocatalytic Activity for Phenol Wastewater under Visible Light
+Authors: Cheng Zuo, Xishi Tai, Zaiyong Jiang, Meifang Liu, Jinhe Jiang, Qian Su, Xueyuan Yan
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083495
+Paper ID: pmc_PMC10141558
+
+Abstract:
+The pollution of phenol wastewater is becoming worse. In this paper, a 2D/2D nanosheet-like ZnTiO 3 /Bi 2 WO 6 S-Scheme heterojunction was synthesized for the first time through a two-step calcination method and a hydrothermal method. In order to improve the separation efficiency of photogenerated carriers, the S-Scheme heterojunction charge-transfer path was designed and constructed, the photoelectrocatalytic effect of the applied electric field was utilized, and the photoelectric coupling catalytic degradation performance was greatly enhanced. When the applied voltage was +0.5 V, the ZnTiO 3 /Bi 2 WO 6 molar ratio of 1.5:1 had highest degradation rate under visible light: the degradation rate was 93%, and the kinetic rate was 3.6 times higher than that of pure Bi 2 WO 6 . Moreover, the stability of the composite photoelectrocatalyst was excellent: the photoelectrocatalytic degradation rate of the photoelectrocatalyst remained above 90% after five cycles. In addition, through electrochemical analysis, XRD, XPS, TEM, radical trapping experiments, and valence band spectroscopy, we found that the S-scheme heterojunction was constructed between the two semiconductors, which effectively retained the redox ability of the two semiconductors. This provides new insights for the construction of a two-component direct S-scheme heterojunction as well as a feasible new solution for the treatment of phenol wastewater pollution.

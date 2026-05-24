@@ -1,0 +1,9 @@
+Title: Mechanical Force-Induced Color-Variable Luminescence of Carbon Dots in Boric Acid Matrix
+Authors: Shuai Meng, Dengke Cheng, Hailing Gu, Yuchen Li, Yukun Qin, Jing Tan, Qijun Li
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083388
+Paper ID: pmc_PMC10141381
+
+Abstract:
+Mechano-luminescent materials that exhibit distinct luminescence responses to force stimuli are urgently anticipated in view of application needs in the fields of sensing, anti-counterfeiting, optoelectronic devices, etc. However, most of the reported materials normally exhibit force-induced changes in luminescent intensity, whereas materials that possess force-induced color-variable luminescence remain rarely reported. Herein, for the first time, a novel mechanical force-induced color-variable luminescence material from carbon dots (CDs) in boric acid (CD@BA) is reported. At low CDs concentration, the luminescence of CD@BA exhibits a grinding-induced color variable from white to blue. This grinding-induced color variable can be switched to yellow-to-white changing by increasing the CDs concentration in BA. The grinding-induced color-variable luminescence originates from dynamic variation in emission ratio of fluorescence and room temperature phosphorescence, due to the influence of oxygen and water vapor in the air. At high CDs concentration, short-wavelength fluorescence undergoes more severe reabsorption compared to room temperature phosphorescence, leading to grinding-induced color-variable switching from white-to-blue to yellow-to-white. Based on the unique properties of CD@BA powder, the applications of recognizing and visualizing fingerprints on the surfaces of various of materials are demonstrated.

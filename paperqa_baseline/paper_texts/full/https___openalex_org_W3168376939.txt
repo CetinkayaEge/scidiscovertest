@@ -1,0 +1,9 @@
+Title: Projection of Water Availability and Sustainability in Nigeria Due to Climate Change
+Authors: Mohammed Sanusi Shiru, Shamsuddin Shahid, Inhwan Park
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13116284
+Paper ID: https://openalex.org/W3168376939
+
+Abstract:
+This study projects water availability and sustainability in Nigeria due to climate change. This study used Gravity Recovery and Climate Experiment (GRACE) terrestrial water storage data (TWS), Global Precipitation Climatology Center (GPCC) precipitation data and Climate Research Unit (CRU) temperature data. Four general circulation models (GCMs) of the Coupled Model Intercomparison Project 5 were downscaled using the best of four downscaling methods. Two machine learning (ML) models, RF and SVM, were developed to simulate GRACE TWS data for the period 2002–2016 and were then used for the projection of spatiotemporal changes in TWS. The projected TWS data were used to assess the spatiotemporal changes in water availability and sustainability based on the reliability–resiliency–vulnerability (RRV) concept. This study revealed that linear scaling was the best for downscaling over Nigeria. RF had better performance than SVM in modeling TWS for the study area. This study also revealed there would be decreases in water storage during the wet season (June–September) and increases in the dry season (January–May). Decreases in projected water availability were in the range of 0–12 mm for the periods 2010–2039, 2040–2069, and 2070–2099 under RCP2.6 and in the range of 0–17 mm under RCP8.5 during the wet season. Spatially, annual changes in water storage are expected to increase in the northern part and decrease in the south, particularly in the country’s southeast. Groundwater sustainability was higher during the period 2070–2099 under all RCPs compared to the other periods and this can be attributed to the expected increases in rainfall during this period.

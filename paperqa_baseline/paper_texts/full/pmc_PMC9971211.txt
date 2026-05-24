@@ -1,0 +1,9 @@
+Title: Re-analysis of publicly available methylomes using signal detection yields new information
+Authors: Alenka Hafner, Sally Mackenzie
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30422-4
+Paper ID: pmc_PMC9971211
+
+Abstract:
+Cytosine methylation is an epigenetic mark that participates in regulation of gene expression and chromatin stability in plants. Advancements in whole genome sequencing technologies have enabled investigation of methylome dynamics under different conditions. However, the computational methods for analyzing bisulfite sequence data have not been unified. Contention remains in the correlation of differentially methylated positions with the investigated treatment and exclusion of noise, inherent to these stochastic datasets. The prevalent approaches apply Fisher’s exact test, logistic, or beta regression, followed by an arbitrary cut-off for differences in methylation levels. A different strategy, the MethylIT pipeline, utilizes signal detection to determine cut-off based on a fitted generalized gamma probability distribution of methylation divergence. Re-analysis of publicly available BS-seq data from two epigenetic studies in Arabidopsis and applying MethylIT revealed additional, previously unreported results. Methylome repatterning in response to phosphate starvation was confirmed to be tissue-specific and included phosphate assimilation genes in addition to sulfate metabolism genes not implicated in the original study. During seed germination plants undergo major methylome reprogramming and use of MethylIT allowed us to identify stage-specific gene networks. We surmise from these comparative studies that robust methylome experiments must account for data stochasticity to achieve meaningful functional analyses.

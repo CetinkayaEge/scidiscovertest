@@ -1,0 +1,9 @@
+Title: Dynamics of Correlated Double-Ionization of Two-Electron Quantum Dots in Laser Fields
+Authors: Adam Prior, Lampros A. A. Nikolopoulos
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16041405
+Paper ID: pmc_PMC9967998
+
+Abstract:
+Using an ab initio, time-dependent calculational method, we study the non-linear dynamics of a two-electron quantum dot in the presence of ultrashort Thz laser pulses. The analysis of the contribution of the various partial waves to two-electron joint radial and energy distribution patterns revealed strongly correlated electron ejection channels. In the double-ionization process, regardless of the photon energy, the two-electron wave packets are born and remain concentrated until the pulse’s peak; at later times, and depending on the photon energy of the field, distinctly different patterns emerge. Our calculations also showed the gradual transition of the radial and energy patterns from a single-peak to a doubly peaked structure, associated with the direct and the sequential double-ionization mechanisms, respectively.

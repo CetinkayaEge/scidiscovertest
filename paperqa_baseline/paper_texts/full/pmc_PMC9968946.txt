@@ -1,0 +1,9 @@
+Title: Negative self-regulation of transient receptor potential canonical 4 by the specific interaction with phospholipase C-δ1
+Authors: Juyeon Ko, Jinhyeong Kim, Jongyun Myeong, Misun Kwak, Insuk So
+Year: 2023
+Venue: The Korean Journal of Physiology & Pharmacology : Official Journal of the Korean Physiological Society and the Korean Society of Pharmacology
+DOI: 10.4196/kjpp.2023.27.2.187
+Paper ID: pmc_PMC9968946
+
+Abstract:
+Transient receptor potential canonical (TRPC) channels are non-selective calcium-permeable cation channels. It is suggested that TRPC4β is regulated by phospholipase C (PLC) signaling and is especially maintained by phosphatidylinositol 4,5-bisphosphate (PIP 2 ). In this study, we present the regulation mechanism of the TRPC4 channel with PIP 2 hydrolysis which is mediated by a channel-bound PLCδ1 but not by the G q PCR signaling pathway. Our electrophysiological recordings demonstrate that the Ca 2+ via an open TRPC4 channel activates PLCδ1 in the physiological range, and it causes the decrease of current amplitude. The existence of PLCδ1 accelerated PIP 2 depletion when the channel was activated by an agonist. Interestingly, PLCδ1 mutants which have lost the ability to regulate PIP 2 level failed to reduce the TRPC4 current amplitude. Our results demonstrate that TRPC4 self-regulates its activity by allowing Ca 2+ ions into the cell and promoting the PIP 2 hydrolyzing activity of PLCδ1.

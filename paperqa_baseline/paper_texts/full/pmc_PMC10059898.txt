@@ -1,0 +1,9 @@
+Title: Validity and Reliability of a Wearable Goniometer Sensor Controlled by a Mobile Application for Measuring Knee Flexion/Extension Angle during the Gait Cycle
+Authors: Tomoya Ishida, Mina Samukawa
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063266
+Paper ID: pmc_PMC10059898
+
+Abstract:
+Knee kinematics during gait is an important assessment tool in health-promotion and clinical fields. This study aimed to determine the validity and reliability of a wearable goniometer sensor for measuring knee flexion angles throughout the gait cycle. Twenty-two and seventeen participants were enrolled in the validation and reliability study, respectively. The knee flexion angle during gait was assessed using a wearable goniometer sensor and a standard optical motion analysis system. The coefficient of multiple correlation (CMC) between the two measurement systems was 0.992 ± 0.008. Absolute error (AE) was 3.3 ± 1.5° (range: 1.3–6.2°) for the entire gait cycle. An acceptable AE (<5°) was observed during 0–65% and 87–100% of the gait cycle. Discrete analysis revealed a significant correlation between the two systems (R = 0.608–0.904, p ≤ 0.001). The CMC between the two measurement days with a 1-week interval was 0.988 ± 0.024, and the AE was 2.5 ± 1.2° (range: 1.1–4.5°). A good-to-acceptable AE (<5°) was observed throughout the gait cycle. These results indicate that the wearable goniometer sensor is useful for assessing knee flexion angle during the stance phase of the gait cycle.

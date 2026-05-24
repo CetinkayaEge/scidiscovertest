@@ -1,0 +1,9 @@
+Title: Biocompatible Drug Delivery System Based on a MOF Platform for a Sustained and Controlled Release of the Poorly Soluble Drug Norfloxacin
+Authors: Preety Yadav, Sarita Kumari, Anand Mohan Yadav, Priya Bhardwaj, Mulaka Maruthi, Anindita Chakraborty, Prakash Kanoo
+Year: 2023
+Venue: ACS Omega
+DOI: https://doi.org/10.1021/acsomega.3c02418
+Paper ID: https://openalex.org/W4385324937
+
+Abstract:
+Norfloxacin (NFX), an important antibacterial fluoroquinolone, is a class IV drug according to the biopharmaceutics classification system (BCS) and has low solubility and permeability issues. Such poor physicochemical properties of drug molecules lead to poor delivery and are of serious concern to the pharmaceutical industry for clinical development. We present here a conceptually new approach to deliver NFX, by loading the drug molecule on the porous platform of a biocompatible metal-organic framework (MOF), MIL-100(Fe). The loading of the drug on the MOF leading to NFX@MIL-100(Fe) was characterized by Fourier transform infrared (FTIR), UV-visible spectroscopy, thermogravimetric analyses (TGA), and nitrogen adsorption studies. Controlled experiments resulted in the high loading of the drug molecule (∼20 wt %) along with the desired sustained release. We could further control the release of norfloxacin by coating drug-loaded MIL-100(Fe) with PEG, PEG{NFX@MIL-100(Fe)}. Both drug delivery systems (DDSs), NFX@MIL-100(Fe) and PEG{NFX@MIL-100(Fe)}, were tested for their biocompatibility through toxicity studies. The DDSs are biocompatible and show insignificant cytotoxicity, as revealed by cell viability studies through the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay.

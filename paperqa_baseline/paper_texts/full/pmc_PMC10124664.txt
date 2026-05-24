@@ -1,0 +1,9 @@
+Title: Trends in and Risk Factors for Recurrent Clostridioides difficile Infection, New Haven County, Connecticut, USA, 2015–2020
+Authors: Chinenye M. Okafor, Paula Clogher, Danyel Olson, Linda Niccolai, James Hadler
+Year: 2023
+Venue: Emerging Infectious Diseases
+DOI: 10.3201/eid2905.221294
+Paper ID: pmc_PMC10124664
+
+Abstract:
+Recurrent Clostridioides difficile infection (RCDI) causes an increased burden on the healthcare system. We calculated RCDI incidence and identified factors associated with RCDI cases in New Haven County, Connecticut, USA, during 2015–2020 by using data from population-based laboratory surveillance. A subset of C. difficile cases had complete chart reviews conducted for RCDI and potentially associated variables. RCDI was defined as a positive C. difficile specimen occurring 2–8 weeks after incident C. difficile infection. We compared cases with and without RCDI by using multiple regression. RCDI occurred in 12.0% of 4,301 chart-reviewed C. difficile cases, showing a U-shaped time trend with a sharp increase in 2020, mostly because of an increase in hospital-onset cases. Malignancy (odds ratio 1.51 [95% CI 1.11–2.07]) and antecedent nitrofurantoin use (odds ratio 2.37 [95% CI 1.23–4.58]) were medical risk factors for RCDI. The 2020 increase may reflect the impact of the COVID-19 pandemic.

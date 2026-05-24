@@ -1,0 +1,9 @@
+Title: Advanced industrial informatics towards smart, safe and sustainable roads: A state of the art
+Authors: Hui Yao, Zijin Xu, Yue Hou, Qiao Dong, Pengfei Liu, Zhoujing Ye, Xin Pei, Markus Oeser, Linbing Wang, Dawei Wang
+Year: 2023
+Venue: Journal of Traffic and Transportation Engineering (English Edition)
+DOI: https://doi.org/10.1016/j.jtte.2023.02.001
+Paper ID: https://openalex.org/W4360839306
+
+Abstract:
+The road is one of the most important civil infrastructures for serving society, where its service quality and life have direct impacts on the safety and comfort of users. Therefore, road construction, condition detection and monitoring, and timely maintenance are particularly important for engineers. Many engineering applications of industrial informatics approaches, like image processing technology, widely used computer-based algorithms, and advanced sensors, have been initially and gradually applied to roads. This state-of-the-art review first summarized the research on industrial applications of advanced information technologies in recent years, while analyzing and comparing the advantages and disadvantages of each technology. Especially, five topics were focused on road construction, road maintenance with decision strategy, road structure evaluation, smart sensing in the road, and cooperative vehicle infrastructure system. It is expected that advanced industrial informatics can help engineers promote the development of smart, safe, and sustainable roads.

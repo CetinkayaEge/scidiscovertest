@@ -1,0 +1,9 @@
+Title: Irrigation intensification impacts sustainability of streamflow in the Western United States
+Authors: David Ketchum, Zachary Hoylman, Justin Huntington, Douglas Brinkerhoff, Kelsey Jencso
+Year: 2023
+Venue: Communications Earth & Environment
+DOI: https://doi.org/10.1038/s43247-023-01152-2
+Paper ID: https://openalex.org/W4389792097
+
+Abstract:
+Abstract Quantifying the interconnected impacts of climate change and irrigation on surface water flows is critical for the proactive management of our water resources and the ecosystem services they provide. Changes in streamflow across the Western U.S. have generally been attributed to an aridifying climate, but in many basins flows can also be highly impacted by irrigation. We developed a 35-year dataset consisting of streamflow, climate, irrigated area, and crop water use to quantify the effects of both climate change and irrigation water use on streamflow across 221 basins in the Colorado, Columbia, and Missouri River systems. We demonstrate that flows have been altered beyond observed climate-related changes and that many of these changes are attributable to irrigation. Further, our results indicate that increases in irrigation water use have occurred over much of the study area, a finding that contradicts government-reported irrigation statistics. Increases in crop consumption have enhanced fall and winter flows in some portions of the Upper Missouri and northern Columbia River basins, and have exacerbated climate change-induced flow declines in parts of the Colorado basin. We classify each basin’s water resources sustainability in terms of flow and irrigation trends and link irrigation-induced flow changes to irrigation infrastructure modernization and differences in basin physiographic setting. These results provide a basis for determining where modern irrigation systems benefit basin water supply, and where less efficient systems contribute to return flows and relieve ecological stress.

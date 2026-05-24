@@ -1,0 +1,9 @@
+Title: Balancing act of a leading strand DNA polymerase-specific domain and its exonuclease domain promotes genome-wide sister replication fork symmetry
+Authors: Xiangzhou Meng, Clémence Claussin, Gemma Regan-Mochrie, Iestyn Whitehouse, Xiaolan Zhao
+Year: 2023
+Venue: Genes & Development
+DOI: 10.1101/gad.350054.122
+Paper ID: pmc_PMC10069448
+
+Abstract:
+In this study, Meng et al. describe an antagonism between the conserved POPS and exonuclease domains of the yeast Pol2 polymerase and its importance in processive DNA synthesis and sister fork symmetry. They show that multiple defects caused by POPS mutations were rescued by exonuclease inactivation, including impaired growth and DNA synthesis, genome instability, and reliance on other genome maintenance factors, and single-molecule data revealed that the rescue stemmed from allowing sister replication forks to progress at equal rates. Pol2 is the leading-strand DNA polymerase in budding yeast. Here we describe an antagonism between its conserved POPS (Pol2 family-specific catalytic core peripheral subdomain) and exonuclease domain and the importance of this antagonism in genome replication. We show that multiple defects caused by POPS mutations, including impaired growth and DNA synthesis, genome instability, and reliance on other genome maintenance factors, were rescued by exonuclease inactivation. Single-molecule data revealed that the rescue stemmed from allowing sister replication forks to progress at equal rates. Our data suggest that balanced activity of Pol2's POPS and exonuclease domains is vital for genome replication and stability.

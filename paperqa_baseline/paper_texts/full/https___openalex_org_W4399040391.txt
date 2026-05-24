@@ -1,0 +1,9 @@
+Title: Bacterial cellulose cookbook: A systematic review on sustainable and cost-effective substrates
+Authors: Luis Quijano, Raquel Rodrigues, Dagmar Fischer, Jorge David Tovar-Castro, Alice Payne, Laura Navone, Yating Hu, Hao Yan, Phitsanu Pinmanee, Edgar Poon, Jinghe Yang, Eve Barro
+Year: 2024
+Venue: Journal of Bioresources and Bioproducts
+DOI: https://doi.org/10.1016/j.jobab.2024.05.003
+Paper ID: https://openalex.org/W4399040391
+
+Abstract:
+Bacterial cellulose is a versatile material with applications in many industries. However, the widespread uptake of bacterial cellulose faces challenges including high production costs and lack of scalability. One approach to address these obstacles is the use of alternative substrates and media, compared to the Hestrin-Schramm (HS) media. By evaluating and selecting appropriate media and substrates, the production of bacterial cellulose can be more efficient: enabling sustainable systems and supply chains where less energy and materials are lost, and the output production is increased. The purpose of this paper is to analyze the current landscape of bacterial cellulose alternative media and substrates (ingredients). Through a systematic review of 198 papers, this review identifies 299 alternative substrates from 12 industries and 101 bacterial cellulose-producing strains, which were systematically compared. This review also finds that there are methodological gaps in this field such as data variability, papers mislabelling the HS media or not using a comparison media, and a lack of strain names. This alternative substrate analysis for bacterial cellulose production demonstrates that overall, for some applications alternative substrates can be taken into consideration that are not only cheaper, but also produce higher yields than HS media.

@@ -1,0 +1,9 @@
+Title: Open government geospatial data on buildings for planning sustainable and resilient cities
+Authors: Filip Biljecki, Lawrence Zheng Xiong Chew, Nikola Milojevic-Dupont, Felix Creutzig
+Year: 2021
+Venue: arXiv (Cornell University)
+DOI: https://doi.org/10.48550/arxiv.2107.04023
+Paper ID: https://openalex.org/W3177594876
+
+Abstract:
+As buildings are central to the social and environmental sustainability of human settlements, high-quality geospatial data are necessary to support their management and planning. Authorities around the world are increasingly collecting and releasing such data openly, but these are mostly disconnected initiatives, making it challenging for users to fully leverage their potential for urban sustainability. We conduct a global study of 2D geospatial data on buildings that are released by governments for free access, ranging from individual cities to whole countries. We identify and benchmark more than 140 releases from 28 countries containing above 100 million buildings, based on five dimensions: accessibility, richness, data quality, harmonisation, and relationships with other actors. We find that much building data released by governments is valuable for spatial analyses, but there are large disparities among them and not all instances are of high quality, harmonised, and rich in descriptive information. Our study also compares authoritative data to OpenStreetMap, a crowdsourced counterpart, suggesting a mutually beneficial and complementary relationship.

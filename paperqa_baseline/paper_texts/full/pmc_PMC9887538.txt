@@ -1,0 +1,9 @@
+Title: CNVRanger: association analysis of CNVs with gene expression and quantitative phenotypes
+Authors: Vinicius da Silva, Marcel Ramos, Martien Groenen, Richard Crooijmans, Anna Johansson, Luciana Regitano, Luiz Coutinho, Ralf Zimmer, Levi Waldron, Ludwig Geistlinger
+Year: 2020
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz632
+Paper ID: pmc_PMC9887538
+
+Abstract:
+Abstract Summary Copy number variation (CNV) is a major type of structural genomic variation that is increasingly studied across different species for association with diseases and production traits. Established protocols for experimental detection and computational inference of CNVs from SNP array and next-generation sequencing data are available. We present the CNVRanger R/Bioconductor package which implements a comprehensive toolbox for structured downstream analysis of CNVs. This includes functionality for summarizing individual CNV calls across a population, assessing overlap with functional genomic regions, and genome-wide association analysis with gene expression and quantitative phenotypes. Availability and implementation http://bioconductor.org/packages/CNVRanger .

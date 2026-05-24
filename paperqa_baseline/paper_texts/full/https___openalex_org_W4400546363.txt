@@ -1,0 +1,9 @@
+Title: Feasibility evaluation of wind energy as a sustainable energy resource
+Authors: Faouzi H. Ouerghi, Mohamed Omri, Amir Abdel Menaem, Ahmed I. Taloba, Rasha M. Abd El-Aziz
+Year: 2024
+Venue: Alexandria Engineering Journal
+DOI: https://doi.org/10.1016/j.aej.2024.06.055
+Paper ID: https://openalex.org/W4400546363
+
+Abstract:
+In many different places, wind energy has the potential to solve many challenges. Reducing dependency on distant power networks increases energy security, provides an alternative to energy independence, and advances environmental sustainability as a renewable energy source. Furthermore, the development of wind energy established in these regions improves regional economies and creates possibilities for employment in manufacturing, construction, maintenance, and operation. Landowners might receive more revenue from wind farms through land leasing agreements. Furthermore, wind energy diversifies the energy mix, reducing its vulnerability to fluctuations in energy prices and environmental degradation and decreasing energy expenditures for individuals and companies. Sustainable energy sources are crucial to solving communities' unique energy problems. This study aims to assess Saudi Arabia's wind energy potential. It completes assessments of wind resource availability, site suitability, wind turbine technology, energy output, environmental impact, and economic viability. Statistical techniques such as time series analysis, regression analysis, and probability distributions are utilized to understand and improve wind farm efficiency.

@@ -1,0 +1,9 @@
+Title: Optimizing the electron transport chain to sustainably improve photosynthesis
+Authors: Lianhong Gu
+Year: 2023
+Venue: PLANT PHYSIOLOGY
+DOI: https://doi.org/10.1093/plphys/kiad490
+Paper ID: https://openalex.org/W4386467348
+
+Abstract:
+Genetically improving photosynthesis is a key strategy to boosting crop production to meet the rising demand for food and fuel by a rapidly growing global population in a warming climate. Many components of the photosynthetic apparatus have been targeted for genetic modification for improving photosynthesis. Successful translation of these modifications into increased plant productivity in fluctuating environments will depend on whether the electron transport chain (ETC) can support the increased electron transport rate without risking overreduction and photodamage. At present atmospheric conditions, the ETC appears suboptimal and will likely need to be modified to support proposed photosynthetic improvements and to maintain energy balance. Here, I derive photochemical equations to quantify the transport capacity and the corresponding reduction level based on the kinetics of redox reactions along the ETC. Using these theoretical equations and measurements from diverse C3/C4 species across environments, I identify several strategies that can simultaneously increase the transport capacity and decrease the reduction level of the ETC. These strategies include increasing the abundances of reaction centers, cytochrome b6f complexes, and mobile electron carriers, improving their redox kinetics, and decreasing the fraction of secondary quinone-nonreducing photosystem II reaction centers. I also shed light on several previously unexplained experimental findings regarding the physiological impacts of the abundances of the cytochrome b6f complex and plastoquinone. The model developed, and the insights generated from it facilitate the development of sustainable photosynthetic systems for greater crop yields.

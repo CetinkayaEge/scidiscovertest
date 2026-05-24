@@ -1,0 +1,9 @@
+Title: A sustainable natural clam shell derived photocatalyst for the effective adsorption and photodegradation of organic dyes
+Authors: Ting Qu, Xinxin Yao, Gary Owens, Liangjun Gao, Hailong Zhang
+Year: 2022
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-022-06981-3
+Paper ID: https://openalex.org/W4220752333
+
+Abstract:
+In response to an increasing desire for modern industries to be both green and sustainable, there has been increasing research focus on the reutilization of natural waste materials to effectively remove and degrade toxic wastewater effluents. One interesting food industry waste product is clam shell. Here a new photocatalytic nanomaterial derived from marine clam shells was successfully prepared and characterized. Thereafter the material was applied for the removal of two target dyes from aqueous solution, where the effect of both catalyst dose and initial dye concentration on adsorption and photocatalysis was investigated. The maximum adsorption capacities of methylene blue (100 mg/L) and Congo red (500 mg/L) were 123.45 mg/g and 679.91 mg/g, respectively, where adsorption followed pseudo second order kinetics predominantly via a chemical adsorption process. The photodegradation removal efficiencies of the two dye solutions under visible light irradiation were 99.6% and 83.3% for MB and CR, respectively. The excellent degradation performance in a mixed dye solution, with strong degradation capability and low cost, demonstrated that the clam shell catalyst material was a good candidate for practical field remediation of dye contaminated wastewater.

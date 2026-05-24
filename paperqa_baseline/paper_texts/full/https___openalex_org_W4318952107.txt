@@ -1,0 +1,9 @@
+Title: Sustainability assessment of alternative waste-to-energy technologies for the management of sewage sludge
+Authors: A. Ronda, Pedro Haro, Alberto Gómez‐Barea
+Year: 2023
+Venue: Waste Management
+DOI: https://doi.org/10.1016/j.wasman.2023.01.025
+Paper ID: https://openalex.org/W4318952107
+
+Abstract:
+The management of sewage sludge still represents a challenge in the EU sustainability plan for biowaste. Although there are consolidated alternatives for the valorization of sewage sludge (incineration, pyrolysis and gasification), technical issues related to heavy metals and other pollutants are not sufficiently understood considering the whole waste-to-energy process. In addition, societal-economic and environmental aspects are usually not included in the evaluation of these conversion technologies. In this study, we propose an integrated assessment from a sustainability perspective to evaluate the valorization of sewage sludge by thermal conversion, comparing different alternatives based on existing Waste-to-energy (WtE) technologies. The results provide an insightful vision on the challenges to manage the sewage sludge disposal and to transform the obtained waste into new raw materials with added value. In addition, the evaluation of the WtE alternatives shows that they face important challenges preventing their application, being the gasification the best performing technology according to the sustainability assessment. Finally, a decentralized scheme based on sewage sludge gasification is further evaluated using real data from wastewater treatment plants in Andalusia.

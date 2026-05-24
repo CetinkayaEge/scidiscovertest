@@ -1,0 +1,9 @@
+Title: Sustainable Electric Vehicle Batteries for a Sustainable World: Perspectives on Battery Cathodes, Environment, Supply Chain, Manufacturing, Life Cycle, and Policy
+Authors: Zhijie Yang, Haibo Huang, Feng Lin
+Year: 2022
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202200383
+Paper ID: https://openalex.org/W4229451246
+
+Abstract:
+Abstract Li‐ion batteries (LIBs) can reduce carbon emissions by powering electric vehicles (EVs) and promoting renewable energy development with grid‐scale energy storage. However, LIB production and electricity generation still heavily rely on fossil fuels at present, resulting in major environmental concerns. Are LIBs as environmentally friendly and sustainable as expected at the current stage? In the past 5 years, a skyrocketing growth of the EV market has been witnessed. LIBs have garnered huge attention from academia, industry, government, non‐governmental organizations, investors, and the general public. Tremendous volumes of LIBs are already implemented in EVs today, with a continuing, exponential growth expected for the years to come. When LIBs reach their end‐of‐life in the next decades, what technologies can be in place to enable second‐life or recycling of batteries? Herein, life cycle assessment studies are examined to evaluate the environmental impact of LIBs, and EVs are compared with internal combustion engine vehicles regarding environmental sustainability. To provide a holistic view of the LIB development, this Perspective provides insights into materials development, manufacturing, recycling, legislation and policy, and beyond. Last but not least, the future development of LIBs and charging infrastructures in light of emerging technologies are envisioned.

@@ -1,0 +1,9 @@
+Title: MycelioTronics: Fungal mycelium skin for sustainable electronics
+Authors: Doris Danninger, Roland Pruckner, Laura Holzinger, Robert A. Koeppe, Martin Kaltenbrunner
+Year: 2022
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.add7118
+Paper ID: https://openalex.org/W4308914262
+
+Abstract:
+used to power autonomous sensing devices including a Bluetooth module and humidity and proximity sensor.

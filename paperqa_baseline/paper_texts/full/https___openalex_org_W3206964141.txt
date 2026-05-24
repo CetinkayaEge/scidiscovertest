@@ -1,0 +1,9 @@
+Title: Synthesis of covalent organic frameworks using sustainable solvents and machine learning
+Authors: Sushil Kumar, Gergő Ignácz, György Székely
+Year: 2021
+Venue: Green Chemistry
+DOI: https://doi.org/10.1039/d1gc02796d
+Paper ID: https://openalex.org/W3206964141
+
+Abstract:
+Covalent organic frameworks have been prepared in sustainable solvents by a solvothermal method, and their porosity and crystallinity were predicted using QSPR and machine learning approaches.

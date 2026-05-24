@@ -1,0 +1,9 @@
+Title: Isoform-level quantification for single-cell RNA sequencing
+Authors: Lu Pan, Huy Q Dinh, Yudi Pawitan, Trung Nghia Vu
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btab807
+Paper ID: pmc_PMC8826380
+
+Abstract:
+Abstract Motivation RNA expression at isoform level is biologically more informative than at gene level and can potentially reveal cellular subsets and corresponding biomarkers that are not visible at gene level. However, due to the strong 3ʹ bias sequencing protocol, mRNA quantification for high-throughput single-cell RNA sequencing such as Chromium Single Cell 3ʹ 10× Genomics is currently performed at the gene level. Results We have developed an isoform-level quantification method for high-throughput single-cell RNA sequencing by exploiting the concepts of transcription clusters and isoform paralogs. The method, called Scasa, compares well in simulations against competing approaches including Alevin, Cellranger, Kallisto, Salmon, Terminus and STARsolo at both isoform- and gene-level expression. The reanalysis of a CITE-Seq dataset with isoform-based Scasa reveals a subgroup of CD14 monocytes missed by gene-based methods. Availability and implementation Implementation of Scasa including source code, documentation, tutorials and test data supporting this study is available at Github: https://github.com/eudoraleer/scasa and Zenodo: https://doi.org/10.5281/zenodo.5712503 . Supplementary information Supplementary data are available at Bioinformatics online.

@@ -1,0 +1,9 @@
+Title: On the Determination of Magnesium Degradation Rates under Physiological Conditions
+Authors: Eshwara Phani Shubhakar Nidadavolu, Frank Feyerabend, Thomas Ebel, Regine Willumeit-Römer, Michael Dahms
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080627
+Paper ID: pmc_PMC5509045
+
+Abstract:
+The current physiological in vitro tests of Mg degradation follow the procedure stated according to the ASTM standard. This standard, although useful in predicting the initial degradation behavior of an alloy, has its limitations in interpreting the same for longer periods of immersion in cell culture media. This is an important consequence as the alloy’s degradation is time dependent. Even if two different alloys show similar corrosion rates in a short term experiment, their degradation characteristics might differ with increased immersion times. Furthermore, studies concerning Mg corrosion extrapolate the corrosion rate from a single time point measurement to the order of a year (mm/y), which might not be appropriate because of time dependent degradation behavior. In this work, the above issues are addressed and a new methodology of performing long-term immersion tests in determining the degradation rates of Mg alloys was put forth. For this purpose, cast and extruded Mg-2Ag and powder pressed and sintered Mg-0.3Ca alloy systems were chosen. DMEM Glutamax +10% FBS (Fetal Bovine Serum) +1% Penicillin streptomycin was used as cell culture medium. The advantages of such a method in predicting the degradation rates in vivo deduced from in vitro experiments are discussed.

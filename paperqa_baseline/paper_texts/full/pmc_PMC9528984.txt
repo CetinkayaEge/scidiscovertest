@@ -1,0 +1,9 @@
+Title: Assembler artifacts include misassembly because of unsafe unitigs and underassembly because of bidirected graphs
+Authors: Amatur Rahman, Paul Medvedev
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276601.122
+Paper ID: pmc_PMC9528984
+
+Abstract:
+Recent assemblies by the T2T and VGP consortia have achieved significant accuracy but required a tremendous amount of effort and resources. More typical assembly efforts, on the other hand, still suffer both from misassemblies (joining sequences that should not be adjacent) and from underassemblies (not joining sequences that should be adjacent). To better understand the common algorithm-driven causes of these limitations, we investigated the unitig algorithm, which is a core algorithm at the heart of most assemblers. We prove that, contrary to popular belief, even when there are no sequencing errors, unitigs are not always safe (i.e., they are not guaranteed to be substrings of the sequenced genome). We also prove that the unitigs of a bidirected de Bruijn graph are different from those of a doubled de Bruijn graph and, contrary to our expectations, result in underassembly. Using experimental simulations, we then confirm that these two artifacts exist not only in theory but also in the output of widely used assemblers. In particular, when coverage is low, then even error-free data result in unsafe unitigs; also, unitigs may unnecessarily split palindromes in half if special care is not taken. To the best of our knowledge, this paper is the first to theoretically predict the existence of these assembler artifacts and confirm and measure the extent of their occurrence in practice.

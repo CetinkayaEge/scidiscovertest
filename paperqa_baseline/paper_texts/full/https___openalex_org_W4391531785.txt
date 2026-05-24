@@ -1,0 +1,9 @@
+Title: Recent Technological Advancements in BIM and LCA Integration for Sustainable Construction: A Review
+Authors: Zhonghao Chen, Lin Chen, Xingyang Zhou, Lepeng Huang, Malindu Sandanayake, Pow‐Seng Yap
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16031340
+Paper ID: https://openalex.org/W4391531785
+
+Abstract:
+In the high-energy, high-carbon landscape of the construction industry, a detailed and precise life cycle assessment (LCA) is essential. This review examines the role of building information modeling (BIM) software in streamlining the LCA process to enhance efficiency and accuracy. Despite its potential, challenges such as software interoperability and compatibility persist, with no unified standard for choosing BIM-integrated LCA software. Besides, the review explores the capabilities and limitations of various BIM software, LCA tools, and energy consumption tools, and presents characteristics of BIM-LCA integration cases. It critically discusses BIM-LCA integration methods and data exchange techniques, including bill of quantities import, Industry Foundation Classes (IFC) import, BIM viewer usage, direct LCA calculations with BIM plugins, and LCA plugin calculations. Finally, concluding with future perspectives, the study aims to guide the development of advanced LCA tools for better integration with BIM software, addressing a vital need in sustainable construction practices.

@@ -1,0 +1,9 @@
+Title: Sustainable nanofiltration membranes enable ultrafast water purification
+Authors: Junhui Huang, Mu Yuan, Yanqiu Zhang, Jing Guo, Luqiao Feng, Shan Shan Qiu, Cher Hon Lau, Lu Shao, Huanting Wang
+Year: 2025
+Venue: Nature Water
+DOI: https://doi.org/10.1038/s44221-025-00492-x
+Paper ID: https://openalex.org/W4414292817
+
+Abstract:
+Abstract Nanofiltration membranes with confined nanopores are vital for energy-efficient molecular and ionic sieving towards sustainable ecosystems. However, the production of contemporary nanofiltration membranes still relies on hazardous petrochemical-based chemicals, raising serious water contamination concerns and complicating after-usage disposal. This phenomenon contradicts the sustainability of membranes derived from green chemistry principles, emphasizing not only their eco-friendly application but also their preparation and end of life. Here we report the synthesis of a sustainable nanofiltration membrane (SNFM) with superior performance for water treatment and an inherent natural soil degradation mechanism through a safer approach utilizing integrated low-hazard chemicals. Experiments and simulations confirmed that our SNFM can be fabricated in an environmentally friendly manner and decomposed by natural soil microorganisms, contributing to its distinctive eco-friendliness. Notably, the SNFM demonstrated both exceptional water permeance and molecular and ionic sieving capability, outperforming commercial and state-of-the-art membranes. This approach establishes a new paradigm for next-generation water recycling and sustainable chemical processes.

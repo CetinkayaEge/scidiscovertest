@@ -1,0 +1,9 @@
+Title: Smart Triboelectric Nanogenerators Based on Stimulus-Response Materials: From Intelligent Applications to Self-Powered Systems
+Authors: Xueqing Wang, Qinghao Qin, Yin Lu, Yajun Mi, Jiajing Meng, Zequan Zhao, Han Wu, Xia Cao, Ning Wang
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13081316
+Paper ID: pmc_PMC10141953
+
+Abstract:
+Smart responsive materials can react to external stimuli via a reversible mechanism and can be directly combined with a triboelectric nanogenerator (TENG) to deliver various intelligent applications, such as sensors, actuators, robots, artificial muscles, and controlled drug delivery. Not only that, mechanical energy in the reversible response of innovative materials can be scavenged and transformed into decipherable electrical signals. Because of the high dependence of amplitude and frequency on environmental stimuli, self-powered intelligent systems may be thus built and present an immediate response to stress, electrical current, temperature, magnetic field, or even chemical compounds. This review summarizes the recent research progress of smart TENGs based on stimulus-response materials. After briefly introducing the working principle of TENG, we discuss the implementation of smart materials in TENGs with a classification of several sub-groups: shape-memory alloy, piezoelectric materials, magneto-rheological, and electro-rheological materials. While we focus on their design strategy and function collaboration, applications in robots, clinical treatment, and sensors are described in detail to show the versatility and promising future of smart TNEGs. In the end, challenges and outlooks in this field are highlighted, with an aim to promote the integration of varied advanced intelligent technologies into compact, diverse functional packages in a self-powered mode.

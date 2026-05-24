@@ -1,0 +1,9 @@
+Title: Nonlinear Optical Signal Generation Mediated by a Plasmonic Azimuthally Chirped Grating
+Authors: Parijat Barman, Abhik Chakraborty, Denis A. Akimov, Ankit Kumar Singh, Tobias Meyer-Zedler, Xiaofei Wu, Carsten Ronning, Michael Schmitt, Jürgen Popp, Jer-Shing Huang
+Year: 2022
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c03348
+Paper ID: pmc_PMC9801425
+
+Abstract:
+Plasmonic gratings are simple and effective platforms for nonlinear signal generation since they provide a well-defined momentum for photon–plasmon coupling and local hot spots for frequency conversion. Here, a plasmonic azimuthally chirped grating (ACG), which provides spatially resolved broadband momentum for photon–plasmon coupling, was exploited to investigate the plasmonic enhancement effect in two nonlinear optical processes, namely two-photon photoluminescence (TPPL) and second harmonic generation (SHG). The spatial distributions of the nonlinear signals were determined experimentally by hyperspectral mapping with ultrashort pulsed excitation. The experimental spatial distributions of nonlinear signals agree very well with the analytical prediction based on photon–plasmon coupling with the momentum of the ACG, revealing the “antenna” function of the grating in plasmonic nonlinear signal generation. This work highlights the importance of the antenna effect of the gratings for nonlinear signal generation and provides insight into the enhancement mechanism of plasmonic gratings in addition to local hot spot engineering.

@@ -1,0 +1,9 @@
+Title: One-pot synthesis of monolithic silica-cellulose aerogel applying a sustainable sodium silicate precursor
+Authors: Yuxuan Chen, S. Sepahvand, Florent Gauvin, Katrin Schollbach, H.J.H. Brouwers, Qingliang Yu
+Year: 2021
+Venue: Construction and Building Materials
+DOI: https://doi.org/10.1016/j.conbuildmat.2021.123289
+Paper ID: https://openalex.org/W3160620106
+
+Abstract:
+Cellulose aerogel is an advanced thermal insulating biomaterial. However, the application of cellulose aerogel in thermal insulation still faces critical problems, for instance, the relatively low strength and large pore size without Knudsen effect. In this study, a silica areogel made from olivine silica rather than traditional tetraethoxysilane or water glass is employed to synthesize silica-cellulose composite aerogel applying a facile one-pot synthesis method. The silica aerogel nanoparticles are formed inside the cellulose nanofibrils by using sol-gel method and freeze-drying. The developed silica-cellulose composite aerogel has an obviosuly lowered thermal conductivity and is significantly stronger compared to plain cellulose aerogel. The microstructure of silica-cellulose aerogel was characterized by SEM, TGA, FTIR and N2 physisorption tests. The developed silica-cellulose aerogel had a bulk density of 0.055 ~ 0.06 g/cm3, compressive strength of 95.4 kPa, surface area of 900 m2/g and thermal conductivity of 0.023 W/(m·K). The thermal stability of the composite aerogel was also improved and showed the higher cellulose decomposition temperature. Furthermore, the composite aerogel is modified by trimethylchlorosilane making it hydrophobic, reaching a water contact angle of ~ 140°, enhancing its volumetric and thermo-phycial stability when applied in a humid environment. In conclusion, the resulting green silica-cellulose aerogel is a promising candidate for utilization as a high performance insulation material.

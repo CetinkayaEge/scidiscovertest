@@ -1,0 +1,9 @@
+Title: Molecular Dynamics Simulation of the Complex of PDE5 and Evodiamine
+Authors: Ayame Kobayashi, Motokuni Nakajima, Yoh Noguchi, Ryota Morikawa, Yukiko Matsuo, Masako Takasu
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13020578
+Paper ID: pmc_PMC9968203
+
+Abstract:
+Alzheimer’s disease is an irreversible neurological disorder for which there are no effective small molecule therapeutics. A phosphodiesterase 5 (PDE5) inhibitor is a candidate medicine for the treatment of Alzheimer’s disease. Rutaecarpine, an indole alkaloid found in Euodiae Fructus , has inhibitory activity for PDE5. Euodiae Fructus contains more evodiamine than rutaecarpine. Therefore, we performed molecular dynamics simulations of the complex of PDE5 and evodiamine. The results showed that the PDE5 and (−)-evodiamine complexes were placed inside the reaction center compared to the case of PDE5 and (+)-evodiamine complex. The binding of (−)-evodiamine to PDE5 increased the root-mean-square deviation and radius of gyration of PDE5. In the PDE5 with (−)-evodiamine complex, the value of the root-mean-square fluctuation of the M-loop, which is thought to be important for activity, increased. This result suggests that (−)-evodiamine may have inhibitory activity.

@@ -1,0 +1,9 @@
+Title: Itaconic-Acid-Based Sustainable Poly(ester amide) Resin for Stereolithography
+Authors: Veronica Vetri Buratti, Alberto Sanz de León, Mirko Maturi, Letizia Sambri, Sergio I. Molina, Mauro Comes Franchini
+Year: 2022
+Venue: Macromolecules
+DOI: https://doi.org/10.1021/acs.macromol.1c02525
+Paper ID: https://openalex.org/W4229035955
+
+Abstract:
+Material science is recognized as a frontrunner in achieving a sustainable future, owing to its primary reliance upon petroleum-based chemical raw materials. Several efforts are made to implement common renewable feedstocks as an alternative to common fossil resources. For this purpose, additive manufacturing (AM) represents promising and effective know-how for the replacement of high energy- and resource-demanding processes with more environmentally friendly practices. This work presents a novel biobased ink for stereolithography, which has been formulated by mixing a photocurable poly(ester amide) (PEA) obtained from renewable resources with citrate and itaconate cross-linkers and appropriate photopolymerization initiators, terminators, and dyes. The mechanical features and the relative biocompatibility of 3D-printed objects have been carefully studied to evaluate the possible resin implementation in the field of the textile fashion industry.

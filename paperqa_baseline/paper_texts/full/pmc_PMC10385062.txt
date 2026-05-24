@@ -1,0 +1,9 @@
+Title: Frugal Heart Rate Correction Method for Scalable Health and Safety Monitoring in Construction Sites
+Authors: Piotr Sowiński, Kajetan Rachwał, Anastasiya Danilenka, Karolina Bogacka, Monika Kobus, Anna Dąbrowska, Andrzej Paszkiewicz, Marek Bolanowski, Maria Ganzha, Marcin Paprzycki
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23146464
+Paper ID: pmc_PMC10385062
+
+Abstract:
+Continuous, real-time monitoring of occupational health and safety in high-risk workplaces such as construction sites can substantially improve the safety of workers. However, introducing such systems in practice is associated with a number of challenges, such as scaling up the solution while keeping its cost low. In this context, this work investigates the use of an off-the-shelf, low-cost smartwatch to detect health issues based on heart rate monitoring in a privacy-preserving manner. To improve the smartwatch’s low measurement quality, a novel, frugal machine learning method is proposed that corrects measurement errors, along with a new dataset for this task. This method’s integration with the smartwatch and the remaining parts of the health and safety monitoring system (built on the ASSIST-IoT reference architecture) are presented. This method was evaluated in a laboratory environment in terms of its accuracy, computational requirements, and frugality. With an experimentally established mean absolute error of 8.19 BPM, only 880 bytes of required memory, and a negligible impact on the performance of the device, this method meets all relevant requirements and is expected to be field-tested in the coming months. To support reproducibility and to encourage alternative approaches, the dataset, the trained model, and its implementation on the smartwatch were published under free licenses.

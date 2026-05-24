@@ -1,0 +1,9 @@
+Title: Traceability of Sustainability and Safety in Fishery Supply Chain Management Systems Using Radio Frequency Identification Technology
+Authors: Labonnah Farzana Rahman, Lubna Alam, Mohammad Marufuzzaman, U. Rashid Sumaila
+Year: 2021
+Venue: Foods
+DOI: https://doi.org/10.3390/foods10102265
+Paper ID: https://openalex.org/W3204204887
+
+Abstract:
+At present, sustainability and emerging technology are the main issues in any supply chain management (SCM) sector. At the same time, the ongoing pandemic is increasing consumers' concerns about food safety, processing, and distribution, which should meet sustainability requirements. Thus, supervision and monitoring of product quality with symmetric information traceability are important in fresh food and fishery SCM. Food safety and traceability systems based on blockchain, Internet of Things (IoT), wireless sensor networks (WSN), and radio frequency identification (RFID) provide reliability from production to consumption. This review focuses on RFID-based traceability systems in fisheries' SCM, which have been employed globally to ensure fish quality and security, and summarizes their advantages in real-time applications. The results of this study will help future researchers to improve consumers' trust in fisheries SCM. Thus, this review aims to provide guidelines and solutions for enhancing the reliability of RFID-based traceability in food SCM systems so to ensure the integrity and transparency of product information.

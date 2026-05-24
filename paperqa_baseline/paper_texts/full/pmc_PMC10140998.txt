@@ -1,0 +1,9 @@
+Title: Enhancing the Effectiveness of Oligonucleotide Therapeutics Using Cell-Penetrating Peptide Conjugation, Chemical Modification, and Carrier-Based Delivery Strategies
+Authors: Saeed Anwar, Farin Mir, Toshifumi Yokota
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041130
+Paper ID: pmc_PMC10140998
+
+Abstract:
+Oligonucleotide-based therapies are a promising approach for treating a wide range of hard-to-treat diseases, particularly genetic and rare diseases. These therapies involve the use of short synthetic sequences of DNA or RNA that can modulate gene expression or inhibit proteins through various mechanisms. Despite the potential of these therapies, a significant barrier to their widespread use is the difficulty in ensuring their uptake by target cells/tissues. Strategies to overcome this challenge include cell-penetrating peptide conjugation, chemical modification, nanoparticle formulation, and the use of endogenous vesicles, spherical nucleic acids, and smart material-based delivery vehicles. This article provides an overview of these strategies and their potential for the efficient delivery of oligonucleotide drugs, as well as the safety and toxicity considerations, regulatory requirements, and challenges in translating these therapies from the laboratory to the clinic.

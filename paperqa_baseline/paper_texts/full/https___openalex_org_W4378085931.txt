@@ -1,0 +1,9 @@
+Title: A Sustainable Supply Chain Framework for Dairy Farming Operations: A System Dynamics Approach
+Authors: Mohammad Shamsuddoha, Tasnuba Nasir, Niamat Ullah Ibne Hossain
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15108417
+Paper ID: https://openalex.org/W4378085931
+
+Abstract:
+The dairy industry plays a significant role in the global food system, providing essential nutrients for human consumption and creating rural employment. A small-scale dairy can assist a family in maintaining their livelihoods in Bangladesh. However, it is also associated with various environmental and social impacts, making it crucial for achieving sustainability. The triple bottom line of sustainability intends to achieve sustainability through improving productivity, implementing sustainable practices, and incorporating waste management. The dairy industry can continue to provide nutritious diets, ensuring sustainability practices. This research is a follow-up paper of Nasir et al. to find better sustainable results. It considers the triple bottom line of sustainability theory to improve the farm environment by reducing waste, managing resources efficiently, and promoting environmentally friendly practices. This paper is a case study on a dairy farm of 400 cattle in Bangladesh. The system dynamics method and simulation modeling were employed to draw dairy supply chain networks and examine the existing dataset to find better utilization of the dairy waste produced on the farm. Consequently, the simulation model incorporates waste management and value addition concepts to find better resource exploitation for gaining sustainable outcomes. Finally, this paper summarizes the simulation outcomes and articulates possible extensions for achieving further economic, social, and environmental benefits for the industry and surrounding community.

@@ -1,0 +1,9 @@
+Title: RF_phage virion: Classification of phage virion proteins with a random forest model
+Authors: Yanqin Zhang, Zhiyuan Li
+Year: 2023
+Venue: Frontiers in Genetics
+DOI: 10.3389/fgene.2022.1103783
+Paper ID: pmc_PMC9945117
+
+Abstract:
+Introduction: Phages play essential roles in biological procession, and the virion proteins encoded by the phage genome constitute critical elements of the assembled phage particle. Methods: This study uses machine learning methods to classify phage virion proteins. We proposed a novel approach, RF_phage virion, for the effective classification of the virion and non-virion proteins. The model uses four protein sequence coding methods as features, and the random forest algorithm was employed to solve the classification problem. Results: The performance of the RF_phage virion model was analyzed by comparing the performance of this algorithm with that of classical machine learning methods. The proposed method achieved a specificity (Sp) of 93.37%%, sensitivity (Sn) of 90.30%, accuracy (Acc) of 91.84%, Matthews correlation coefficient (MCC) of .8371, and an F1 score of .9196.

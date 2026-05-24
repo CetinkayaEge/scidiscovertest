@@ -1,0 +1,9 @@
+Title: Sustainable Business Practices and the Role of Digital Technologies: A Cross-Regional Analysis
+Authors: Samuel Plečko, Barbara Bradač Hojnik
+Year: 2024
+Venue: Systems
+DOI: https://doi.org/10.3390/systems12030097
+Paper ID: https://openalex.org/W4392862061
+
+Abstract:
+This study examines the relationship between digital transformation and sustainable practices within enterprises against the backdrop of global transformative forces framed within the holistic paradigm of systems thinking. It examines the extent to which digital advances either facilitate or impede the sustainable development of companies, while also considering the systemic impact of demographic variables (such as gender, age, education), national income levels, and geographical regions on business sustainability. Using data from the Global Entrepreneurship Monitor (GEM), which encompasses 26,790 entrepreneurs in 47 countries, this research uses multinomial regression to assess how these factors influence companies’ commitment to social and environmental goals. A key finding is that the strategic use of digital technologies in sales processes significantly increases the likelihood that entrepreneurs will integrate social and environmental considerations into their decision-making. Notably, this conscientious approach to business is most prevalent among entrepreneurs in Latin America and the Caribbean. Our findings underscore the central role of digital technologies in driving sustainable business transformation while also highlighting the significant influence of regional socio-environmental contexts on business sustainability orientations.

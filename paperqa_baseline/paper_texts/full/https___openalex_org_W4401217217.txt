@@ -1,0 +1,9 @@
+Title: Hydrogel‐Based Artificial Synapses for Sustainable Neuromorphic Electronics
+Authors: Jiongyi Yan, James P. K. Armstrong, Fabrizio Scarpa, Adam W. Perriman
+Year: 2024
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202403937
+Paper ID: https://openalex.org/W4401217217
+
+Abstract:
+Hydrogels find widespread applications in biomedicine because of their outstanding biocompatibility, biodegradability, and tunable material properties. Hydrogels can be chemically functionalized or reinforced to respond to physical or chemical stimulation, which opens up new possibilities in the emerging field of intelligent bioelectronics. Here, the state-of-the-art in functional hydrogel-based transistors and memristors is reviewed as potential artificial synapses. Within these systems, hydrogels can serve as semisolid dielectric electrolytes in transistors and as switching layers in memristors. These synaptic devices with volatile and non-volatile resistive switching show good adaptability to external stimuli for short-term and long-term synaptic memory effects, some of which are integrated into synaptic arrays as artificial neurons; although, there are discrepancies in switching performance and efficacy. By comparing different hydrogels and their respective properties, an outlook is provided on a new range of biocompatible, environment-friendly, and sustainable neuromorphic hardware. How potential energy-efficient information storage and processing can be achieved using artificial neural networks with brain-inspired architecture for neuromorphic computing is described. The development of hydrogel-based artificial synapses can significantly impact the fields of neuromorphic bionics, biometrics, and biosensing.

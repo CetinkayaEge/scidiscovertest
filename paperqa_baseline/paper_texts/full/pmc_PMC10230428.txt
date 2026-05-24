@@ -1,0 +1,9 @@
+Title: Molecular response in newly diagnosed chronic-phase chronic myeloid leukemia: prediction modeling and pathway analysis
+Authors: Jerald P. Radich, Matthew Wall, Susan Branford, Catarina D. Campbell, Shalini Chaturvedi, Daniel J. DeAngelo, Michael W. Deininger, Justin Guinney, Andreas Hochhaus, Timothy P. Hughes, Hagop M. Kantarjian, Richard A. Larson, Sai Li, Rodrigo Maegawa, Kaushal Mishra, Vanessa Obourn, Javier Pinilla-Ibarz, Das Purkayastha, Islam Sadek, Giuseppe Saglio, Alok Shrestha, Brian S. White, Brian J. Druker
+Year: 2023
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.281878
+Paper ID: pmc_PMC10230428
+
+Abstract:
+Tyrosine kinase inhibitor therapy revolutionized chronic myeloid leukemia treatment and showed how targeted therapy and molecular monitoring could be used to substantially improve survival outcomes. We used chronic myeloid leukemia as a model to understand a critical question: why do some patients have an excellent response to therapy, while others have a poor response? We studied gene expression in whole blood samples from 112 patients from a large phase III randomized trial ( clinicaltrials gov. Identifier: NCT00471497 ), dichotomizing cases into good responders ( BCR::ABL1 ≤10% on the International Scale by 3 and 6 months and ≤0.1% by 12 months) and poor responders (failure to meet these criteria). Predictive models based on gene expression demonstrated the best performance (area under the curve =0.76, standard deviation =0.07). All of the top 20 pathways overexpressed in good responders involved immune regulation, a finding validated in an independent data set. This study emphasizes the importance of pretreatment adaptive immune response in treatment efficacy and suggests biological pathways that can be targeted to improve response.

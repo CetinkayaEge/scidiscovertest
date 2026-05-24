@@ -1,0 +1,9 @@
+Title: Tidal energy-path towards sustainable energy: A technical review
+Authors: Vikas Khare, Miraj Ahmed Bhuiyan
+Year: 2022
+Venue: Cleaner Energy Systems
+DOI: https://doi.org/10.1016/j.cles.2022.100041
+Paper ID: https://openalex.org/W4308388500
+
+Abstract:
+The continuous demand for electricity, greenhouse gas emission, and diminution of fossil fuels have led to increased electricity production through renewable energy sources. The challenges of solar and wind energy systems have mostly shown unpredictable nature, so some countries are going towards electricity generation through the tidal energy system. Another advantage of the tidal energy system is that it can be used without requiring lavish grid updates. It demonstrates that increasing the generation duration at the fastest flow velocities while limiting the tidal device's capacity increases the installed system's capacity factor. The economic viability and market competitiveness of tidal energy are also attractive for electricity generation. This paper offers a review of several aspects of the tidal energy system. The assessment is done based on the resource allocation, modeling of the tidal energy system, control system of the tidal energy system, reliability assessment of tidal energy system, and application of optimization techniques in the area of the tidal energy system. Now a day's, reliability assessment is most important to identify the tidal energy system's maintainability, availability and fault rate. This paper also shows future assessment aspects of the tidal energy system and identifies stochastic turbulence, wave speed, sea depth, wave height, and peak wave period directly affecting the tidal current speed and indirectly it effects to the modelling, controlling and reliability mechanism of the system. It is also identifying; optimization technique can have used to find out the optimal value of each parameter of tidal energy system.

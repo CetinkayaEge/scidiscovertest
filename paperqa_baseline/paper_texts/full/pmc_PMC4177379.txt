@@ -1,0 +1,9 @@
+Title: Optimization of the dye-sensitized solar cell performance by mechanical compression
+Authors: Teen Hang Meen, Jenn Kai Tsai, Yu Shin Tu, Tian Chiuan Wu, Wen Dung Hsu, Shoou-Jinn Chang
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-523
+Paper ID: pmc_PMC4177379
+
+Abstract:
+In this study, the P25 titanium dioxide (TiO 2 ) nanoparticle (NP) thin film was coated on the fluorine-doped tin oxide (FTO) glass substrate by a doctor blade method. The film then compressed mechanically to be the photoanode of dye-sensitized solar cells (DSSCs). Various compression pressures on TiO 2 NP film were tested to optimize the performance of DSSCs. The mechanical compression reduces TiO 2 inter-particle distance improving the electron transport efficiency. The UV–vis spectrophotometer and electrochemical impedance spectroscopy (EIS) were employed to quantify the light-harvesting efficiency and the charge transport impedance at various interfaces in DSSC, respectively. The incident photon-to-current conversion efficiency was also monitored. The results show that when the DSSC fabricated by the TiO 2 NP thin film compressed at pressure of 279 kg/cm 2 , the minimum resistance of 9.38 Ω at dye/TiO 2 NP/electrolyte interfaces, the maximum short-circuit photocurrent density of 15.11 mA/cm 2 , and the photoelectric conversion efficiency of 5.94% were observed. Compared to the DSSC fabricated by the non-compression of TiO 2 NP thin film, the overall conversion efficiency is improved over 19.5%. The study proves that under suitable compression pressure the performance of DSSC can be optimized.

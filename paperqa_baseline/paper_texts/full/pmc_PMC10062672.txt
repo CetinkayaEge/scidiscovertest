@@ -1,0 +1,9 @@
+Title: Exact solutions of (1 + 1)-dimensional integro-differential Ito, KP hierarchy, CBS, MCBS and modified KdV-CBS equations
+Authors: Amina Amin, Imran Naeem, Adnan Khan
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0283569
+Paper ID: pmc_PMC10062672
+
+Abstract:
+The present study computes the Lie symmetries and exact solutions of some problems modeled by nonlinear partial differential equations. The (1 + 1)-dimensional integro-differential Ito, the first integro-differential KP hierarchy, the Calogero-Bogoyavlenskii-Schiff (CBS), the modified Calogero-Bogoyavlenskii-Schiff (CBS), and the modified KdV-CBS equations are some of the problems for which we want to find new exact solutions. We employ similarity variables to reduce the number of independent variables and inverse similarity transformations to obtain exact solutions to the equations under consideration. The sine-cosine method is then utilized to determine the exact solutions.

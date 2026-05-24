@@ -1,0 +1,9 @@
+Title: The Sustainable Development of Financial Topic Detection and Trend Prediction by Data Mining
+Authors: Yunmei Liu, Shuai Zhang, Min Chen, Yenchun Jim Wu, Zhengxian Chen
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13147585
+Paper ID: https://openalex.org/W3177505727
+
+Abstract:
+Blockchain technology is the most cutting-edge technology in the field of financial technology, which has attracted extensive attention from governments, financial institutions and investors of various countries. Blockchain and finance, as an interdisciplinary, cross-technology and cross-field topic, has certain limitations in both theory and application. Based on the bibliometrics data of Web of Science, this paper conducts data mining on 759 papers related to blockchain technology in the financial field by means of co-word analysis, bi-clustering algorithm and strategic coordinate analysis, so as to explore hot topics in this field and predict the future development trend. The experimental results found ten research topics in the field of blockchain combined with finance, including blockchain crowdfunding, Fintech, encryption currency, consensus mechanism, the Internet of Things, digital financial, medical insurance, supply chain finance, intelligent contract and financial innovation. Among them, blockchain crowdfunding, Fintech, encryption currency and supply chain finance are the key research directions in this research field. Finally, this paper also analyzes the opportunities and risks of blockchain development in the financial field and puts forward targeted suggestions for the government and financial institutions.

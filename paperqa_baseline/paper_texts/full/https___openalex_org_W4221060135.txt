@@ -1,0 +1,9 @@
+Title: SeisTutor: A Custom-Tailored Intelligent Tutoring System and Sustainable Education
+Authors: Ninni Singh, Vinit Kumar Gunjan, Amit Kumar Mishra, Ram Krishn Mishra, Nishad Nawaz
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14074167
+Paper ID: https://openalex.org/W4221060135
+
+Abstract:
+Education is the cornerstone of improving people’s lives and achieving global sustainability. Intelligent systems assist sustainable education with various benefits, including recommending a personalized learning environment to learners. The classroom learning environment facilitates human tutors to interact with every learner and obtain the opportunity to understand the learner’s psychology and then provide learning material (access learner previous knowledge and well-align the learning material as per learner requirement) to them accordingly. Implementing this cognitive intelligence in Intelligent Tutoring System is quite tricky. This research focused on mimicking human tutor cognitive intelligence in the computer-aided system of offering an exclusive curriculum or quality education for sustainable learners. The prime focus of this research article was to evaluate the proposed SeisTutor using Kirkpatrick four-phase evaluation model. The experimental results depict the enhanced learning gained through intelligence incorporated SeisTutor against the intelligence absence, as demonstrated.

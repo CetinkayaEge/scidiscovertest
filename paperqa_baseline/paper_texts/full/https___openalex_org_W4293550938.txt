@@ -1,0 +1,9 @@
+Title: Measuring sustainability of Russian largest companies
+Authors: А.О. Вереникин, Natalia A. Makhankova, Central Bank of Russian Federation, Anna Y. Verenikina
+Year: 2021
+Venue: Russian Management Journal
+DOI: https://doi.org/10.21638/spbu18.2021.301
+Paper ID: https://openalex.org/W4293550938
+
+Abstract:
+Prolonged and uncertain sustainable development routes provoke an urgent need for companies, investors and counterparties for assessment of efficiency of pursued business strategies, opportunity costs and long run benefits. However a unified algorithm is lacking and it makes compatible and impartial assessment of business performance rather complicated. The study develops and applies an automated adaptive methodology for calculating the integral indicator of company sustainability based on the generalized modified principal component analysis. The study is based on data from 23 Russian companies with maximum disclosure of sustainability indicators. The companies’ integral indicators generate sustainable development rating. It can be updated automatically with a new wave of the companies’ financial and non-financial reports. The proposed algorithm exceeds alternative methods of comparison of business models based on principles of sustainable development because it does not assume any expert assessments of companies’ activities and provides distinct ranking of companies. In contrast to the traditional principal component analysis the method developed in the article avoids any loss of variation of the initial data. Decomposition of the integral indicator identifies financial, socio-economic and environmental determinants for companies’ sustainability. The study examines the relationship between the ownership and management structure of the company and its achievements on sustainable development path.

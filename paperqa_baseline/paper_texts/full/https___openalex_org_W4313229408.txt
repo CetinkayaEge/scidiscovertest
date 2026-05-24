@@ -1,0 +1,9 @@
+Title: Design and Fabrication of a Plastic-Free Antenna on a Sustainable Chitosan Substrate
+Authors: Ilaria Marasco, Giovanni Niro, Gaia de Marzo, Francesco Rizzi, A. D’Orazio, Marco Grande, Massimo De Vittorio
+Year: 2022
+Venue: IEEE Electron Device Letters
+DOI: https://doi.org/10.1109/led.2022.3232986
+Paper ID: https://openalex.org/W4313229408
+
+Abstract:
+The majority of wearable and flexible 5G and 6G devices are based on plastic substrates, that are harmful to the environment. Therefore, the development of sustainable and plastic-free radio frequency (RF) devices becomes a crucial issue. In this regard, we present a fully biocompatible Planar Inverted-F Antenna (PIFA), fabricated on a $55 ~\mu \text{m}$ -thick chitosan substrate. Chitosan has a relative dielectric constant of 5. This antenna is working at 4.5 GHz in the sub-6 GHz band of the 5G spectrum. It has a very compact footprint of $14\times23$ mm2 and a Specific Absorption Rate (SAR) of 0.41 W/kg. The prototype has been fabricated using an innovative fabrication protocol. A very good agreement between numerical and experimental results has been obtained. The measured realized gain is equal to 1 dBi at the resonant frequency. Our results demonstrate the suitability of chitosan as a dielectric substrate for the fabrication of plastic-free antennas and paves the way for the development of sustainable wearable devices for the Internet of Healthcare Things (IoHT) applications.

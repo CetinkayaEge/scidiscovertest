@@ -1,0 +1,9 @@
+Title: Genomic Characterization of a Relative of Mumps Virus in Lesser Dawn Bats of Southeast Asia
+Authors: Adrian C. Paskey, Xiao Fang Lim, Justin H. J. Ng, Gregory K. Rice, Wan Ni Chia, Casandra W. Philipson, Randy Foo, Regina Z. Cer, Kyle A. Long, Matthew R. Lueder, Lindsay Glang, Kenneth G. Frey, Theron Hamilton, Ian H. Mendenhall, Gavin J. Smith, Danielle E. Anderson, Lin-Fa Wang, Kimberly A. Bishop-Lilly
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030659
+Paper ID: pmc_PMC10053730
+
+Abstract:
+The importance of genomic surveillance on emerging diseases continues to be highlighted with the ongoing SARS-CoV-2 pandemic. Here, we present an analysis of a new bat-borne mumps virus (MuV) in a captive colony of lesser dawn bats ( Eonycteris spelaea ). This report describes an investigation of MuV-specific data originally collected as part of a longitudinal virome study of apparently healthy, captive lesser dawn bats in Southeast Asia (BioProject ID PRJNA561193) which was the first report of a MuV-like virus, named dawn bat paramyxovirus (DbPV), in bats outside of Africa. More in-depth analysis of these original RNA sequences in the current report reveals that the new DbPV genome shares only 86% amino acid identity with the RNA-dependent RNA polymerase of its closest relative, the African bat-borne mumps virus (AbMuV). While there is no obvious immediate cause for concern, it is important to continue investigating and monitoring bat-borne MuVs to determine the risk of human infection.

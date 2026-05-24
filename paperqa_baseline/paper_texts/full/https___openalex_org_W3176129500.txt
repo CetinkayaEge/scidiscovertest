@@ -1,0 +1,9 @@
+Title: Analysis of the Forecast Price as a Factor of Sustainable Development of Agriculture
+Authors: Maksim Tatarintsev, Sergey Korchagin, Petr Nikitin, Rimma Gorokhova, Irina Bystrenina, Denis Serdechnyy
+Year: 2021
+Venue: Agronomy
+DOI: https://doi.org/10.3390/agronomy11061235
+Paper ID: https://openalex.org/W3176129500
+
+Abstract:
+Analysis of the rise in prices for consumer goods is a state’s priority task. The state assumes the obligation to regulate pricing in all spheres of consumption. First of all, the prices for essential commodities to which agricultural products belong are analyzed. The article shows the changes in prices for consumer goods of agricultural products (sugar) during a pandemic. The analysis of forecasting prices for sugar and its impact on the development of its production is carried out. The construction of the forecast model was based on extrapolation. The structure of a forecast model for price changes was based on the analysis of the time series of the Autoregressive Integrated Moving Average (ARIMA) class. This model consists of an autoregressive model and a moving average model. A forecast of the volume of domestic sugar transportation by rail has been completed. The algorithms implemented this model for searching for initial approximations and optimal parameters for the predictive model. The Hirotsugu Akaike Information Criterion (AIC) was used to select the best model. The algorithms were implemented in the Python programming language. The quality check of the description was performed with a predictive model of actual data. An economic interpretation of the rise in sugar prices and proof of the forecast’s truth obtained from a financial point of view were carried out.

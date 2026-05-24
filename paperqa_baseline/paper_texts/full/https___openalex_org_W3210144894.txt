@@ -1,0 +1,9 @@
+Title: Recruitment of dendritic cell progenitors to foci of influenza A virus infection sustains immunity
+Authors: Mar Cabeza-Cabrerizo, Carlos M. Minutti, Mariana Pereira da Costa, Ana Cardoso, Robert P. Jenkins, Justina Kulikauskaite, Michael D. Buck, Cécile Piot, Neil C. Rogers, Stefania Crotta, Lynne Whittaker, Hector Huerga Encabo, John W. McCauley, Judith E. Allen, Manolis Pasparakis, Andreas Wack, Erik Sahai, Caetano Reis e Sousa
+Year: 2021
+Venue: Science Immunology
+DOI: https://doi.org/10.1126/sciimmunol.abi9331
+Paper ID: https://openalex.org/W3210144894
+
+Abstract:
+Protection from infection with respiratory viruses such as influenza A virus (IAV) requires T cell–mediated immune responses initiated by conventional dendritic cells (cDCs) that reside in the respiratory tract. Here, we show that effective induction of T cell responses against IAV in mice requires reinforcement of the resident lung cDC network by cDC progenitors. We found that CCR2-binding chemokines produced during IAV infection recruit pre-cDCs from blood and direct them to foci of infection, increasing the number of progeny cDCs next to sites of viral replication. Ablation of CCR2 in the cDC lineage prevented this increase and resulted in a deficit in IAV-specific T cell responses and diminished resistance to reinfection. These data suggest that the homeostatic network of cDCs in tissues is insufficient for immunity and reveal a chemokine-driven mechanism of expansion of lung cDC numbers that amplifies T cell responses against respiratory viruses.

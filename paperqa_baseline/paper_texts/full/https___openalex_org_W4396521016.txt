@@ -1,0 +1,9 @@
+Title: A cyclic and holistic methodology to exploit the Supply Chain Digital Twin concept towards a more resilient and sustainable future
+Authors: Antonio Cimino, Francesco Longo, Giovanni Mirabelli, Vittorio Solina
+Year: 2024
+Venue: Cleaner Logistics and Supply Chain
+DOI: https://doi.org/10.1016/j.clscn.2024.100154
+Paper ID: https://openalex.org/W4396521016
+
+Abstract:
+Recent major disruptions such as natural disasters, geopolitical tensions, Covid-19 pandemic have led supply chain managers to rethink strategies for achieving significant levels of sustainability and resilience. At the same time, new digital technologies are offering significant opportunities to increase company performance, while maintaining a high level of customer service. In this challenging context, the Supply Chain Digital Twin (SCDT) represents an emerging and promising concept, which deserves to be explored. In this paper, a holistic and cyclical methodology, based on simulation, is proposed to enable and exploit the SCDT Paradigm, with the main aim to increase sustainability and resilience of the chains. The proposed methodology is successfully tested and validated on a real case study in the agri-food sector, through the use of the anyLogistix software. The results return valuable information on the level of resilience of the supply chain in the face of any considered disruption and provide useful managerial insights on the actions to be taken to improve some performance indicators.

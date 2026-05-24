@@ -1,0 +1,9 @@
+Title: Transgenic Zebrafish Expressing Rat Cytochrome P450 2E1 (CYP2E1): Augmentation of Acetaminophen-Induced Toxicity in the Liver and Retina
+Authors: Yoshinori Sato, Wenjing Dong, Tatsuro Nakamura, Naohiro Mizoguchi, Tasuku Nawaji, Miyu Nishikawa, Takenori Onaga, Shinichi Ikushiro, Makoto Kobayashi, Hiroki Teraoka
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24044013
+Paper ID: pmc_PMC9968093
+
+Abstract:
+Metabolic activation is the primary cause of chemical toxicity including hepatotoxicity. Cytochrome P450 2E (CYP2E) is involved in this process for many hepatotoxicants, including acetaminophen (APAP), one of the most common analgesics and antipyretics. Although the zebrafish is now used as a model for toxicology and toxicity tests, the CYP2E homologue in zebrafish has not been identified yet. In this study, we prepared transgenic zebrafish embryos/larvae expressing rat CYP2E1 and enhanced green fluorescent protein (EGFP) using a β-actin promoter. Rat CYP2E1 activity was confirmed by the fluorescence of 7-hydroxycoumarin (7-HC), a metabolite of 7-methoxycoumarin that was specific for CYP2 in transgenic larvae with EGFP fluorescence (EGFP [+]) but not in transgenic larvae without EGFP fluorescence (EGFP [−]). APAP (2.5 mM) caused reduction in the size of the retina in EGFP [+] larvae but not in EGFP [−] larvae, while APAP similarly reduced pigmentation in both larvae. APAP at even 1 mM reduced the liver size in EGFP [+] larvae but not in EGFP [−] larvae. APAP-induced reduction of liver size was inhibited by N -acetylcysteine. These results suggest that rat CYP2E1 is involved in some APAP-induced toxicological endpoints in the retina and liver but not in melanogenesis of the developing zebrafish.

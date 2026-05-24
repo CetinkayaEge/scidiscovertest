@@ -1,0 +1,9 @@
+Title: Digital financial inclusion, financial stability, and sustainable development: Evidence from a quantile‐on‐quantile regression and wavelet coherence
+Authors: Tran Thi Kim Oanh, Dinh Le Quoc
+Year: 2024
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.3021
+Paper ID: https://openalex.org/W4396654316
+
+Abstract:
+Abstract The current research examines the influence of digital financial inclusion (DFI) and financial stability (FS) on sustainable development in Vietnam through a dataset spanning during 2004–2022. Non‐parametric methods, such as quantile regression, Granger tests in different quantiles, and wavelet analysis were employed to elucidate the effect of different quantiles of FS and DFI on various quantiles of sustainable development. Our primary contribution lies in integrating three research domains to examine the relationships among all three factors simultaneously, all within the framework of one of the biggest developing economies. Our findings exhibit the strongly positive influence of FS and DFI on sustainable development in Vietnam across various quantiles and frequencies. This suggests that FS and DFI support the transition of country toward sustainable development.

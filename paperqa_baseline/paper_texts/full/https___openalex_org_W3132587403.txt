@@ -1,0 +1,9 @@
+Title: Using Natural Language Processing and Artificial Intelligence to Explore the Nutrition and Sustainability of Recipes and Food
+Authors: Marieke van Erp, Christian Reynolds, Diana Maynard, Alain D. Starke, Rebeca Ibáñez Martín, Frédéric Andrès, Maria C. A. Leite, Damien Alvarez de Toledo, Ximena Schmidt Rivera, Christoph Trattner, Steven Brewer, Carla Adriano Martins, Alana Kluczkovski, Angelina Frankowska, Sarah Bridle, Renata Bertazzi Levy, Fernanda Rauber, Jacqueline Tereza da Silva, Ulbe Bosma
+Year: 2021
+Venue: Frontiers in Artificial Intelligence
+DOI: https://doi.org/10.3389/frai.2020.621577
+Paper ID: https://openalex.org/W3132587403
+
+Abstract:
+In this paper, we discuss the use of natural language processing and artificial intelligence to analyze nutritional and sustainability aspects of recipes and food. We present the state-of-the-art and some use cases, followed by a discussion of challenges. Our perspective on addressing these is that while they typically have a technical nature, they nevertheless require an interdisciplinary approach combining natural language processing and artificial intelligence with expert domain knowledge to create practical tools and comprehensive analysis for the food domain.

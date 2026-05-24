@@ -1,0 +1,9 @@
+Title: The Prosumer: A Systematic Review of the New Paradigm in Energy and Sustainable Development
+Authors: Javier Parra-Domínguez, Esteban Hernández, Ángel Ordóñez
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151310552
+Paper ID: https://openalex.org/W4383262621
+
+Abstract:
+The deployment of distributed and affordable renewable energy has led to the development of the prosumer concept in the field of energy. To better understand its relevance and to analyse the main trends and research developments, a systematic literature review was performed. This work gathered 1673 articles related to this topic that were analysed following the PRISMA methodology with the help of VOSviewer 1.6.18 bibliometric software. These papers are classified into four clusters: smart grids, microgrids, peer to peer networks, and prosumers. The first two clusters show a certain degree of maturity, while the latter maintain a growing interest. The analysis of the articles provides a broad view of the prosumer’s role in energy and its potential, which is not limited to simple energy exchanges. Furthermore, this systematic review highlights the challenges, not only technical but also in terms of electricity market design and social aspects. The latter require further research, as society is undergoing a paradigm shift in the way in which energy is produced and used. How this shift occurred will determine whether it can lead to true prosumer empowerment and a fairer energy transition.

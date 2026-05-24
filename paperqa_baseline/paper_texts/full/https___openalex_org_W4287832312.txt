@@ -1,0 +1,9 @@
+Title: Sustainable Mobility as a Service: Dynamic Models for Agenda 2030 Policies
+Authors: Francesco Russo
+Year: 2022
+Venue: Information
+DOI: https://doi.org/10.3390/info13080355
+Paper ID: https://openalex.org/W4287832312
+
+Abstract:
+Growth trends in passenger transport demand and gross domestic product have so far been similar. The increase in mobility in one area is connected with the increase in GDP in the same area. This increase is representative of the economic and social development of the area. At the same time, the increase in mobility produces one of the most negative environmental impacts, mainly determined by the growth of mobility of private cars. International attention is given to the possibilities of increasing mobility and, therefore, social and economic development without increasing environmental impacts. One of the most promising fields is that of MaaS: Mobility as a Service. MaaS arises from the interaction of new user behavioral models (demand) and new decision-making models on services (supply). Advanced interaction arises from the potentialities allowed by emerging ICT technologies. There is a delay in the advancement of transport system models that consider the updating of utility and choice for the user by means of updated information. The paper introduces sustainability as defined by Agenda 2030 with respect to urban passenger transport, then examines the role of ICT in the development of MaaS formalizing a dynamic model of demand–supply interaction explicating ICT. Finally, the advanced Sustainable MaaS, defined SMaaS, is analyzed, evidencing the contribution to achieving the goals of Agenda 2030.

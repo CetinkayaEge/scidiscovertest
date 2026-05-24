@@ -1,0 +1,9 @@
+Title: Implementation of Synchronous Telemedicine into Clinical Practice
+Authors: Seema Khosla
+Year: 2020
+Venue: Sleep Medicine Clinics
+DOI: 10.1016/j.jsmc.2020.05.002
+Paper ID: pmc_PMC7398868
+
+Abstract:
+Synchronous telemedicine allows clinicians to expand their reach by using technology to take care of patients who otherwise may not be seen. Establishing a telemedicine practice can be daunting. This article outlines how to implement a synchronous telemedicine practice into an existing workflow. Telemedicine-specific considerations are discussed, as well as guidance regarding practice assessment, financial feasibility, technical considerations, and clinical guidance to translate in-person visit skills into an effective virtual visit.

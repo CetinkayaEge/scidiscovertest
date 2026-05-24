@@ -1,0 +1,9 @@
+Title: Effect of pulse-current-based protocols on the lithium dendrite formation and evolution in all-solid-state batteries
+Authors: V. Reisecker, F. Flatscher, L. Porz, C. Fincher, J. Todt, I. Hanghofer, V. Hennige, M. Linares-Moreau, P. Falcaro, S. Ganschow, S. Wenner, Y.-M. Chiang, J. Keckes, J. Fleig, D. Rettenwander
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-37476-y
+Paper ID: pmc_PMC10140044
+
+Abstract:
+Understanding the cause of lithium dendrites formation and propagation is essential for developing practical all-solid-state batteries. Li dendrites are associated with mechanical stress accumulation and can cause cell failure at current densities below the threshold suggested by industry research (i.e., >5 mA/cm 2 ). Here, we apply a MHz-pulse-current protocol to circumvent low-current cell failure for developing all-solid-state Li metal cells operating up to a current density of 6.5 mA/cm 2 . Additionally, we propose a mechanistic analysis of the experimental results to prove that lithium activity near solid-state electrolyte defect tips is critical for reliable cell cycling. It is demonstrated that when lithium is geometrically constrained and local current plating rates exceed the exchange current density, the electrolyte region close to the defect releases the accumulated elastic energy favouring fracturing. As the build-up of this critical activity requires a certain period, applying current pulses of shorter duration can thus improve the cycling performance of all-solid-solid-state lithium batteries. The practical use of all-solid-state batteries is hindered by lithium dendrites formed at current densities lower than the threshold suggested by industry research. Here, the authors propose a MHz-pulse-current protocol to circumvent the low-current cell failure and provide mechanistic analyses.

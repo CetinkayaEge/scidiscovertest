@@ -1,0 +1,9 @@
+Title: Development of tailored splice-switching oligonucleotides for progressive brain disorders in Europe: development, regulation, and implementation considerations
+Authors: Annemieke Aartsma-Rus, Willeke van Roon-Mom, Marlen Lauffer, Christine Siezen, Britt Duijndam, Tineke Coenen-de Roo, Rebecca Schüle, Matthis Synofzik, Holm Graessner
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079540.122
+Paper ID: pmc_PMC10019362
+
+Abstract:
+Splice-modulating antisense oligonucleotides (ASOs) offer treatment options for rare neurological diseases, including those with very rare mutations, where patient-specific, individualized ASOs have to be developed. Inspired by the development of milasen, the 1 Mutation 1 Medicine (1M1M) and Dutch Center for RNA Therapeutics (DCRT) aim to develop patient-specific ASOs and treat eligible patients within Europe and the Netherlands, respectively. Treatment will be provided under a named patient setting. Our initiatives benefited from regulatory advice from the European Medicines Agency (EMA) with regard to preclinical proof-of-concept studies, safety studies, compounding and measuring benefit and safety in treated patients. We here outline the most important considerations from these interactions and how we implemented this advice into our plan to develop and treat eligible patients within Europe.

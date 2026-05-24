@@ -1,0 +1,9 @@
+Title: A Review of the Sustainable Siting of Offshore Wind Farms
+Authors: Pandora Gkeka-Serpetsidaki, Georgia Skiniti, Stavroula Tournaki, Theocharis Tsoutsos
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16146036
+Paper ID: https://openalex.org/W4400668257
+
+Abstract:
+The continued technical and economic development of offshore wind farms needs to match their sustainable siting transparently and fairly. Aiming to assess existing methodologies widely used in the field of OWFs spatial planning, as well as to identify the proposed enhancements for the improvement of such methods, this study examines 80 peer-reviewed papers over the past eight years. The analysis encompasses articles from 34 scientific journals, with a notable concentration in the journals Renewable Energy, Renewable and Sustainable Energy Reviews, and Energies, and it sheds light on geographical distribution, journal classification, funding sources, and the various methodological approaches. Most of the studies were conducted in Turkey, China, and Greece; half of the surveyed papers utilize multi-criteria decision-making approaches, predominantly addressing bottom-fixed technologies for offshore wind farms, which currently dominate the field. The 80 papers are categorized into five methodological domains: Marine Spatial Planning, Feasibility Analysis, Probabilistic Methods, Meteorological Data, and Multi-Criteria Decision Making. One hundred and seventy criteria were identified and condensed into a final set of 41 critical criteria. This article provided an overview of the site selection process and the most crucial findings and recommendations.

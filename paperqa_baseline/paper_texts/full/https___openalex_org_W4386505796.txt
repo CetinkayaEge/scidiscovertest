@@ -1,0 +1,9 @@
+Title: A systematic literature review on current application of life cycle sustainability assessment: A focus on economic dimension and emerging technologies
+Authors: Alejandro Padilla‐Rivera, Marwa Hannouf, Getachew Assefa, Ian D. Gates
+Year: 2023
+Venue: Environmental Impact Assessment Review
+DOI: https://doi.org/10.1016/j.eiar.2023.107268
+Paper ID: https://openalex.org/W4386505796
+
+Abstract:
+Previous literature reviews on life cycle sustainability assessment (LCSA) have delved into methodology, case studies, reviews, and discussions on indicators and integration. However, there has been a limited focus on redefining the economic dimension of the LCSA framework and addressing challenges at lower technological readiness levels (TRL) for emerging technologies. This study fills this gap by concentrating on the economic dimension of LCSA and its application to emerging technologies. We introduce innovative suggestions for expanding the traditional Life Cycle Costing (LCC) method to incorporate costs concerning various stakeholders and introduce tangible indicators suitable for diverse stakeholder groups. Our research also categorizes emerging technologies based on TRL within LCSA, highlighting the significant impacts and data sources. Two primary areas of recommendations emerged: 1) For emerging technologies, we emphasize using diverse data sources, the importance of uncertainty and sensitivity analyses, and the need for accurate characterization factors. 2) On the economic front, we advocate for an expanded LCC approach, the potential of Cost-Benefit Analysis (CBA), and the exploration of ties between micro and macroeconomic dimensions.

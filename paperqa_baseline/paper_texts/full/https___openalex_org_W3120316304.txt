@@ -1,0 +1,9 @@
+Title: Massive Wireless Energy Transfer: Enabling Sustainable IoT Toward 6G Era
+Authors: Onel L. Alcaraz López, Hirley Alves, Richard Demo Souza, Samuel Montejo‐Sánchez, Evelio Fernández, Matti Latva‐aho
+Year: 2021
+Venue: IEEE Internet of Things Journal
+DOI: https://doi.org/10.1109/jiot.2021.3050612
+Paper ID: https://openalex.org/W3120316304
+
+Abstract:
+Recent advances on wireless energy transfer (WET) make it a promising solution for powering future Internet-of-Things (IoT) devices enabled by the upcoming sixth-generation (6G) era. The main architectures, challenges and techniques for efficient and scalable wireless powering are overviewed in this article. Candidates enablers, such as energy beamforming (EB), distributed antenna systems (DASs), advances on devices' hardware and programmable medium, new spectrum opportunities, resource scheduling, and distributed ledger technology are outlined. Special emphasis is placed on discussing the suitability of channel state information (CSI)-limited/free strategies when powering simultaneously a massive number of devices. The benefits from combining DAS and EB, and from using average CSI whenever available, are numerically illustrated. The pros and cons of the state-of-the-art CSI-free WET techniques in ultralow power setups are thoroughly revised, and some possible future enhancements are outlined. Finally, key research directions toward realizing WET-enabled massive IoT networks in the 6G era are identified and discussed in detail.

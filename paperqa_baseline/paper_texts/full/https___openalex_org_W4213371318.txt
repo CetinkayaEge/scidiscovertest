@@ -1,0 +1,9 @@
+Title: A Review of Polymer-Based Materials for Fused Filament Fabrication (FFF): Focus on Sustainability and Recycled Materials
+Authors: Daniela Fico, Daniela Rizzo, Raffaele Casciaro, Carola Esposito Corcione
+Year: 2022
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym14030465
+Paper ID: https://openalex.org/W4213371318
+
+Abstract:
+Recently, Fused Filament Fabrication (FFF), one of the most encouraging additive manufacturing (AM) techniques, has fascinated great attention. Although FFF is growing into a manufacturing device with considerable technological and material innovations, there still is a challenge to convert FFF-printed prototypes into functional objects for industrial applications. Polymer components manufactured by FFF process possess, in fact, low and anisotropic mechanical properties, compared to the same parts, obtained by using traditional building methods. The poor mechanical properties of the FFF-printed objects could be attributed to the weak interlayer bond interface that develops during the layer deposition process and to the commercial thermoplastic materials used. In order to increase the final properties of the 3D printed models, several polymer-based composites and nanocomposites have been proposed for FFF process. However, even if the mechanical properties greatly increase, these materials are not all biodegradable. Consequently, their waste disposal represents an important issue that needs an urgent solution. Several scientific researchers have therefore moved towards the development of natural or recyclable materials for FFF techniques. This review details current progress on innovative green materials for FFF, referring to all kinds of possible industrial applications, and in particular to the field of Cultural Heritage.

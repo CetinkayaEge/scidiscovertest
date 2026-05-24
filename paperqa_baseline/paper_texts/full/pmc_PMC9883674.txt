@@ -1,0 +1,9 @@
+Title: CROSSalive : a web server for predicting the in vivo structure of RNA molecules
+Authors: Riccardo Delli Ponti, Alexandros Armaos, Andrea Vandelli, Gian Gaetano Tartaglia
+Year: 2020
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btz666
+Paper ID: pmc_PMC9883674
+
+Abstract:
+Abstract Motivation RNA structure is difficult to predict in vivo due to interactions with enzymes and other molecules. Here we introduce CROSSalive , an algorithm to predict the single- and double-stranded regions of RNAs in vivo using predictions of protein interactions. Results Trained on icSHAPE data in presence (m6a+) and absence of N6 methyladenosine modification (m6a-), CROSSalive achieves cross-validation accuracies between 0.70 and 0.88 in identifying high-confidence single- and double-stranded regions. The algorithm was applied to the long non-coding RNA Xist (17 900 nt, not present in the training) and shows an Area under the ROC curve of 0.83 in predicting structured regions. Availability and implementation CROSSalive webserver is freely accessible at http://service.tartaglialab.com/new_submission/crossalive Supplementary information Supplementary data are available at Bioinformatics online.

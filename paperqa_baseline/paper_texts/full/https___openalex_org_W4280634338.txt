@@ -1,0 +1,9 @@
+Title: RETRACTED: The Nexus Between Fiscal Decentralization and Environmental Sustainability in Japan
+Authors: Runsen Yuan, Chunling Li, Javed Ahmed Memon, Minhaj Ali, Muhammad Atif Nawaz
+Year: 2022
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2022.905461
+Paper ID: https://openalex.org/W4280634338
+
+Abstract:
+This paper adds to the existing body of knowledge by incorporating the role of fiscal decentralization (FD) in influencing CO 2 emissions. Therefore, this study looked at the effect of FD on CO 2 emissions in the presence of nonrenewable energy consumption (NRE), renewable energy consumption (REN), gross domestic product (GDP), and trade openness (TOP) for the period 1994–2018 in Japan. Thus, the current work intends to fill this knowledge gap by employing econometric techniques such as Bayer and Hanck cointegration, dynamic ordinary least squares (DOLS), fully modified ordinary least squares (FMOLS), and canonical cointegration regression (CCR). Additionally, the frequency domain causality analysis is used in the investigation to determine the causal impact of FD, NRE, REN, GDP, and TOP on CO2 emissions. The novelty of the frequency-domain approach is that it can differentiate between nonlinearity and causality levels and show causality among parameters with different frequencies. The DOLS, FMOLS, and CCR results reveal that NRE, GDP, and TOP augment CO 2 emissions in Japan, whereas FD and REN increase the quality of the atmosphere. Furthermore, the frequency causality test results show that FD, REN, GDP, and TOP have implications for CO 2 emissions in the long run, while NRE raises CO 2 emissions in the medium run. As a policy direction, the current study suggests expanding renewable energy consumption in Japan by emphasizing more on Sustainable Development Goals (7, 8, and 13).

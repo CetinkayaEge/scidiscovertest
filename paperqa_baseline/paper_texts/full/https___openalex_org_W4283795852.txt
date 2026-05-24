@@ -1,0 +1,9 @@
+Title: Determinants of corporate carbon disclosure: A step towards sustainability reporting
+Authors: Rajesh Desai
+Year: 2022
+Venue: Borsa Istanbul Review
+DOI: https://doi.org/10.1016/j.bir.2022.06.007
+Paper ID: https://openalex.org/W4283795852
+
+Abstract:
+Present research is aimed to examine the factors affecting the disclosure of corporate carbon emission. Investors, especially shareholders, largely rely upon the disclosure of financial and other data to determine the firm value. However, disclosure of environmental performance such as carbon emission is still underdeveloped in many emerging economies including India. Using data of 141 Indian companies for a period of seven years (2014–2020), the study examines the effect of financial, industrial, and market-based factors on disclosure of carbon emission with the help of binary logistic regression. Further, the results are also checked for robustness using generalised method of moments (GMM) estimates to control endogeneity. Results convey that size, profitability, leverage, and market value are major determinants of carbon disclosure for the sample firms. Further, it is also found that propositions of legitimacy and information asymmetry theory are partly applicable in emerging context. Present research will assist managers and practitioners to devise their disclosure policy and it will also add value to the existing environmental research, especially in emerging economies.

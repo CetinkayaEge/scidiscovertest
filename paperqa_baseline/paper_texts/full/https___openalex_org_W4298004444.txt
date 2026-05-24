@@ -1,0 +1,9 @@
+Title: Passenger Dimensions in Sustainable Multimodal Mobility Services
+Authors: G Duca, Barbara Trincone, Margarita Bagamanova, Peter Meincke, Raffaella Russo, Vittorio Sangermano
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912254
+Paper ID: https://openalex.org/W4298004444
+
+Abstract:
+Seamless integration of air segment in the overall multimodal mobility chain is a key challenge to provide more efficient and sustainable transport services. Technology advances offer a unique opportunity to build a new generation of transport services able to match the evolving expectations and needs of society as a whole. In this context, the passenger-centric approach represents a method to inform the design of future mobility services, supporting quality of life, security and services to citizens traveling across Europe. Relying on the concepts of inclusive design, context of use and task analysis, in this article, we present a comprehensive methodological framework for the analysis of passenger characteristics to elicit features and requirements for future multimodal mobility services, including air leg, that are relevant from the perspective of passengers. The proposed methodology was applied to a series of specific use cases envisaged for three time horizons, 2025, 2035 and 2050, in the context of a European research project. Then, passenger-focused key performance indicators and related metrics were derived to be included in a validation step, with the aim of assessing the extent of benefit for passengers that can be achieved in the forecasted scenarios. The results of the study demonstrate the relevance of human variability in the design of public services, as well as the feasibility of personalized performance assessment of mobility services.

@@ -1,0 +1,9 @@
+Title: Passive Exoskeletons to Enhance Workforce Sustainability: Literature Review and Future Research Agenda
+Authors: Gjulio Ashta, Serena Finco, Daria Battini, Alessandro Persona
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097339
+Paper ID: https://openalex.org/W4367315119
+
+Abstract:
+The human-centered workplace design philosophy and the operator 5.0 concepts are gaining ground in modern industries moving through the personalization of the operators’ workplace for improving workforce well being and capabilities. In such a context, new assistive technologies, such as passive exoskeletons, are good candidates to be wisely adopted in manufacturing and logistics systems. A growing interest in these devices has been detected over the last years, both from an academic and company perspective, with an increasing number of design solutions and tests according to their field of application. Aiming to investigate the current state of the art, we propose a literature review focused on passive exoskeletons for manufacturing and logistics (M&amp;L) systems. We categorize the exoskeletons assessment in relation to the M&amp;L tasks in which they are applied to give the reader an easy and direct insight into the exoskeleton performance in real settings. Further, the impact of the exoskeleton deployment from an efficiency perspective and its cost-effectiveness evaluation are provided. Finally, a maturity heat map is proposed to track the maturity level of different exoskeletons by focusing on a set of scientific and industrial domains. A discussion and a future research agenda are also provided by focusing on the managerial implications of investing in these devices.

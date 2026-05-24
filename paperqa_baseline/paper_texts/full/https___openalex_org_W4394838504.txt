@@ -1,0 +1,9 @@
+Title: The impact of geopolitical risk on sustainable markets: A quantile-time-frequency analysis
+Authors: Mohamad Husam Helmi, Ahmed H. Elsayed, Rabeh Khalfaoui
+Year: 2024
+Venue: Finance research letters
+DOI: https://doi.org/10.1016/j.frl.2024.105380
+Paper ID: https://openalex.org/W4394838504
+
+Abstract:
+We examine the impact of Geopolitical Risk (GPR) on green, clean, and socially responsible markets by employing the newly proposed Wavelet Quantile Correlation, Cross-quantilogram and Causality-in-quantiles. Unlike earlier studies, we incorporate the GPR index to encompass the risk linked to conflict, acts of terrorism, and political tensions. In brief, our findings show that GPR emerges as a significant factor influencing market behavior, with distinct patterns observed across different time scales and trading horizons. Our results are beneficial for investors and portfolio managers to adopt more rational investment strategies and for policymakers to make appropriate policy arrangements.1

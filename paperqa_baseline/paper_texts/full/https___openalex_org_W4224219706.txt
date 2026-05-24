@@ -1,0 +1,9 @@
+Title: MEMS cantilever–controlled plasmonic colors for sustainable optical displays
+Authors: Zhengli Han, Christian Frydendahl, Noa Mazurski, Uriel Levy
+Year: 2022
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abn0889
+Paper ID: https://openalex.org/W4224219706
+
+Abstract:
+Conventional optical displays using indium tin oxide and liquid crystal materials present challenges for long-term sustainability. We show here a cost-effective and complementary metal-oxide semiconductor (CMOS)-compatible fast and full-range electrically controlled RGB color display. This is achieved by combining transmission-based plasmonic metasurfaces with MEMS (microelectromechanical systems) technology, using only two common materials: aluminum and silicon oxide. White light is filtered into RGB components by plasmonic metasurfaces made of aluminum nanohole arrays. The transmission through each color filter is modulated by MEMS miniaturized cantilevers fabricated with aluminum and silicon oxide on top of the color filters. We show that the relative transmission of a color subpixel can be freely modulated from 35 to 100%. The pixels can also operate well above 800 Hz for future ultrafast displays. Our work provides a road to future circular economic goals by exploiting advances in structural colors and MEMS technologies to innovate optical displays.

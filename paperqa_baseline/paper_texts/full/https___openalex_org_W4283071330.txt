@@ -1,0 +1,9 @@
+Title: Co-recycling of natural and synthetic carbon materials for a sustainable circular economy
+Authors: Isabel Cañete Vela, Teresa Berdugo Vilches, Göran Berndes, Filip Johnsson, Henrik Thunman
+Year: 2022
+Venue: Journal of Cleaner Production
+DOI: https://doi.org/10.1016/j.jclepro.2022.132674
+Paper ID: https://openalex.org/W4283071330
+
+Abstract:
+Circular economy approaches are commonly depicted by two cycles, where the biological cycle is associated with regeneration in the biosphere and the technical cycle with reuse, refurbishment, and recycling to maintain value and maximize material recovery. This work, instead, presents an alternative vision to the management of carbon-based materials that integrates the two cycles and enables the phasing-out of fossil carbon from the material system. The aim is to investigate the benefits and global potential of a co-recycling system, as an alternative to conventional recycling systems that separate biomass-based materials (e.g., wood, paper) from fossil-based materials (e.g., plastics). Thermochemical recycling technologies enable the conversion of carbon-based waste materials into high-quality synthetic products, promoting circularity and avoiding carbon losses such as carbon emissions and waste accumulation in landfills and nature. Here, the construction and analysis of co-recycling scenarios show how the deployment of thermochemical recycling technologies can decouple the material system from fossil resource extraction. Furthermore, energy use is reduced if pyrolysis and/or gasification are included in the portfolio of recycling technologies. In a decarbonized energy system, deployment of co-recycling can lead to near-zero carbon emissions, while in more carbon-intensive energy systems the choice of thermochemical recycling route is key to limiting carbon emissions.

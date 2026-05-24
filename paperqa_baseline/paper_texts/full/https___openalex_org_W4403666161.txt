@@ -1,0 +1,9 @@
+Title: The role of polymers in enabling RNAi-based technology for sustainable pest management
+Authors: Ana Isabel Quilez‐Molina, Jonatan Niño‐Sánchez, Danila Merino
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-53468-y
+Paper ID: https://openalex.org/W4403666161
+
+Abstract:
+The growing global food demand, coupled with the limitations of traditional pest control methods, has driven the search for innovative and sustainable solutions in agricultural pest management. In this review, we highlight polymeric nanocarriers for their potential to deliver double-stranded RNA (dsRNA) and control pests through the gene-silencing mechanism of RNA interference (RNAi). Polymer-dsRNA systems have shown promise in protecting dsRNA, facilitating cellular uptake, and ensuring precise release. Despite these advances, challenges such as scalability, cost-efficiency, regulatory approval, and public acceptance persist, necessitating further research to overcome these obstacles and fully unlock the potential of RNAi in sustainable agriculture.

@@ -1,0 +1,9 @@
+Title: The Role of Information Management for the Sustainable Conservation of Cultural Heritage
+Authors: Jaione Korro Bañuelos, Álvaro Rodríguez Miranda, José Manuel Valle Melón, Ainara Zornoza-Indart, Manuel Castellano Román, Roque Angulo Fornos, Francisco Sebastián Pinto Puerto, Pilar Ibáñez, Patricia Ferreira-Lopes
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084325
+Paper ID: https://openalex.org/W3153444664
+
+Abstract:
+Central to the entire discipline of heritage restoration and conservation is the concept of information management. Nevertheless, traditionally, conservation and restoration has been a poorly documented discipline, which has led not only to a lack of standardization and awareness about the processes carried out in the past, but also poses problems both when new restoration works are necessary and for the preventive conservation of the elements of heritage. This study sets out to propose a conceptual framework to explore the relationship between conservation of heritage and information management on the basis of case studies; in particular: a spatial data infrastructure (SDI) of a regional government concerning an endangered plant (wild grapevine) with an important potential for cultural and touristic uses in a wine-making region; an open data guide—the Digital Guide of Andalusian Cultural Heritage; a university repository connected to Europeana, which contains reports and outcomes of projects of geometric documentation of elements of heritage; a repository of an organization in charge of the protection and care of the heritage; and finally, two examples of the use of heritage building information models (HBIM) in complex monuments. After discussing the characteristics of each case, this paper concludes that, although the availability of information and tools is growing, further progress is still necessary concerning the interoperability, outreach and reuse of the different solutions.

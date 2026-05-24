@@ -1,0 +1,9 @@
+Title: Molecular Determinants of the Early Life Immune Response to COVID-19 Infection and Immunization
+Authors: Elisabeth M. S. Beijnen, Oludare A. Odumade, Simon D. van Haren
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030509
+Paper ID: pmc_PMC10052886
+
+Abstract:
+Clinical manifestations from primary COVID infection in children are generally less severe as compared to adults, and severe pediatric cases occur predominantly in children with underlying medical conditions. However, despite the lower incidence of disease severity, the burden of COVID-19 in children is not negligible. Throughout the course of the pandemic, the case incidence in children has substantially increased, with estimated cumulative rates of SARS-CoV-2 infection and COVID-19 symptomatic illness in children comparable to those in adults. Vaccination is a key approach to enhance immunogenicity and protection against SARS-CoV-2. Although the immune system of children is functionally distinct from that of other age groups, vaccine development specific for the pediatric population has mostly been limited to dose-titration of formulations that were developed primarily for adults. In this review, we summarize the literature pertaining to age-specific differences in COVID-19 pathogenesis and clinical manifestation. In addition, we review molecular distinctions in how the early life immune system responds to infection and vaccination. Finally, we discuss recent advances in development of pediatric COVID-19 vaccines and provide future directions for basic and translational research in this area.

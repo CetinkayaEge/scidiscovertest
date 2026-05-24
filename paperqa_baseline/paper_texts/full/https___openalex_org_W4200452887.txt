@@ -1,0 +1,9 @@
+Title: Opportunities and Challenges in Triboelectric Nanogenerator (TENG) based Sustainable Energy Generation Technologies: A Mini-Review
+Authors: Ryan Walden, Charchit Kumar, Daniel M. Mulvihill, Suresh C. Pillai
+Year: 2021
+Venue: Chemical Engineering Journal Advances
+DOI: https://doi.org/10.1016/j.ceja.2021.100237
+Paper ID: https://openalex.org/W4200452887
+
+Abstract:
+Almost ten years after the publication of the first triboelectric nanogenerator (TENG) paper in 2012, this review gives a brief overview of recent technological advances in applying TENG technology to key sustainable and renewable energy applications. The paper examines progress of TENG applications in four key areas such as wearables, wave, wind and transport. TENGs have advanced hugely since its inception and approaches to apply them to a host of freely available sources of kinetic energy have been developed. However, electrical output remains low (mostly less than 500 W/m2) compared to some other forms of energy generation and the main challenges for the future appear to be further boosting output power and current, fabricating advanced TENGs economically and designing TENGs for lifetime survival in various practical environments. It concludes with a discussion of pressing challenges for realizing the full potential of TENGs in these application areas particularly from the perspective of materials and fabrication. It is noted that considerable research and development should be required to enable large-scale manufacture of TENG based devices. TENGs will be instrumental in the future evolution of the Internet of Things (IoTs), human-machine interfacing, machine learning applications and ‘net-zero emission’ technologies.

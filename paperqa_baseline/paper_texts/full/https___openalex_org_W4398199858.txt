@@ -1,0 +1,9 @@
+Title: Economic complexity and the sustainability transition: a review of data, methods, and literature
+Authors: Bernardo Caldarola, Dario Mazzilli, Lorenzo Napolitano, Aurelio Patelli, Angelica Sbardella
+Year: 2024
+Venue: Journal of Physics Complexity
+DOI: https://doi.org/10.1088/2632-072x/ad4f3d
+Paper ID: https://openalex.org/W4398199858
+
+Abstract:
+Abstract Economic Complexity (EC) methods have gained increasing popularity across fields and disciplines. In particular, the EC toolbox has proved particularly promising in the study of complex and interrelated phenomena, such as the transition towards a more sustainable economy. Using the EC approach, scholars have been investigating the relationship between EC and sustainability, and identifying the distinguishing characteristics of green activities and to assess the readiness of productive and technological structures for the sustainability transition. This article proposes to review and summarize the data, methods, and empirical literature that are relevant to the study of the sustainability transition from an EC perspective. We review three distinct but connected blocks of literature on EC and environmental sustainability. First, we survey the evidence linking measures of EC to indicators related to environmental sustainability. Second, we review articles that strive to assess the green competitiveness of productive systems. Third, we examine evidence on green technological development and its connection to non-green knowledge bases. Finally, we summarize the findings for each block, while identifying criticalities and avenues for further research in this recent and growing body of empirical literature.

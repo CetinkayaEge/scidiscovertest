@@ -1,0 +1,9 @@
+Title: Plant microbiome technology for sustainable agriculture
+Authors: Muhammad Sajid Hanif, Muhammad Tayyab, Elamin Hafiz Baillo, Maidul Islam, Waqar Islam, Xiaofang Li
+Year: 2024
+Venue: Frontiers in Microbiology
+DOI: https://doi.org/10.3389/fmicb.2024.1500260
+Paper ID: https://openalex.org/W4404332059
+
+Abstract:
+Plants establish specific interactions with microorganisms, which are vital for promoting growth and resilience. Although advancements in microbiome modulation technologies show great potential for sustainable agriculture, several challenges have hindered the wider application of plant microbiomes in the field. These challenges may include inconsistent microbial colonization, competition with native microbiota, and environmental variability. Current strategies, while promising, often yield inconsistent results in real-world agricultural settings, highlighting the need for more refined approaches. Agricultural practices and plant genotypes significantly influence the composition and function of plant-associated microbiota. A data-driven strategy that incorporates genomic profiling, environmental assessments, and optimized delivery systems is essential for selecting effective microbial strains. Additionally, refining farming practices, such as crop rotation, intercropping, and reduced tillage, along with robust plant breeding programs, can greatly enhance crop health and productivity.

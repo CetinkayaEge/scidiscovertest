@@ -1,0 +1,9 @@
+Title: Recent progress on BIM-based sustainable buildings: State of the art review
+Authors: Nathalia Fonseca Arenas, Muhammad Shafique
+Year: 2023
+Venue: Developments in the Built Environment
+DOI: https://doi.org/10.1016/j.dibe.2023.100176
+Paper ID: https://openalex.org/W4381926410
+
+Abstract:
+In recent decades, the planet has been negatively impacted by the construction industry due to the development of various infrastructures. Thus, it became one of the most polluting sectors that have required increasing the environmental awareness of public and private entities. Under these circumstances, there are urgent efforts required to mitigate these negative impacts. Different approaches have been made for sustainable buildings based on construction technologies, where sustainability must be included as the main premise from the initial stage of the project. Through a systematic literature review, different methodologies are analyzed such as Building Information Modeling (BIM), Life Cycle Assessment (LCA), and Building Energy Modeling (BEM) based on the existing regulations and standards of each country. The existing digital tools allow for the development of various low-carbon technologies, including sustainable materials and new integrations between them to find sustainable solutions and reduce carbon emissions from buildings. Several limitations exist as Building Information Modeling (BIM) software does not have all the green applications. Therefore, clear results are needed for effective indicators to help interested parties appropriate these technologies and invest time and money in projects based on Building Information Modeling (BIM) and learn a useful lesson for future projects from these technological tools.

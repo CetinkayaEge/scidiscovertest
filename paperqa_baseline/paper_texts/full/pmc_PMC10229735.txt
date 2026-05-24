@@ -1,0 +1,9 @@
+Title: Identification of a Novel Cuproptosis-Related Gene Signature in Eutopic Endometrium of Women with Endometriosis
+Authors: Jiahui Wei, Baoyi Huang, Yingqi Nong, Qianyu Zhang, Wenjuan Liu, Yanni Xie, Tong Peng, Wei Wang, Xiangping Liang, Qiuyun Li, Fenghua Liu
+Year: 2022
+Venue: Reproductive Sciences
+DOI: 10.1007/s43032-022-01130-7
+Paper ID: pmc_PMC10229735
+
+Abstract:
+Endometriosis (EMs) is a life-long endocrine disorder and a common cause for female infertility and pelvic pain. The key characteristics of eutopic endometrium of EMs patients are high proliferative and migratory potentials. Cuproptosis is a recently identified copper- and-mitochondrial-dependent regulated cell death. Regretfully, its role in EMs remains unclear. In this study, Kyoto Encyclopedia of Genes and Genomes analyses of differentially expressed genes (DEGs) indicated strong activation of the PI3K-Akt-mTOR pathway and biological process analysis reported positive regulation of kinase activity. Next, we screened 11 cuproptosis-related DEGs and found all of them were downregulated in the EMs group, which indicated the suppression of cuproptosis in EMs. One key cuproptosis-related gene, PDHA1 , was selected via support vector machine, random forest algorithm and lasso regularization to build a risk-scoring model, which was tested in both internal and external validations. In conclusion, the downregulation and kinase activity of PDHA1 may function with the PI3K-Akt-mTOR pathway in some way, which could suppress the cuproptosis level and account for the cancer-like pathology in EMs. Supplementary Information The online version contains supplementary material available at 10.1007/s43032-022-01130-7.

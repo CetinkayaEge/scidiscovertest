@@ -1,0 +1,9 @@
+Title: Bioinspired hierarchical evaporator via cell wall engineering for highly efficient and sustainable solar desalination
+Authors: Haotian Zhang, Lin Li, Nan He, Haonan Wang, Bingsen Wang, Tongyu Dong, Bo Jiang, Dawei Tang
+Year: 2022
+Venue: EcoMat
+DOI: https://doi.org/10.1002/eom2.12216
+Paper ID: https://openalex.org/W4224435813
+
+Abstract:
+Abstract Solar interfacial evaporation holds great potential for desalination. Currently, abundant and renewable biomass appears to be the most sustainable evaporator candidate for addressing environmental and energy challenges. However, the widespread use of biomass‐based evaporators is hampered by the formation and deposition of salt on the evaporation surface. Herein, we present a hierarchical photothermal aerogel inspired by the leaves‐on‐stems architecture in pristine plants. It is formed with microchannels severing as stems and nanospikes as leaves. Microchannels with large pores enable quick brine replenishment, while numerous nanospikes increase the available surface area for vapor generation. In contrast to the macro‐scale salt‐resistant design, which ruins the overall structure of the evaporator, we modified the microchannel structure within the biomass, allowing the biomass evaporator to effectively resist salt while maintaining efficient evaporation performance. The unique hierarchical micro‐nano structure of this photothermal aerogel allows it to achieve a high evaporation rate of 1.78 kg m −2 h −1 under 1 sun and a continuous evaporation time of 100 h without salt deposition in a high‐salinity brine (15 wt%), outperforming most previously reported evaporators derived from biomass. Additionally, the anti‐biofouling capacity of the evaporator is effectively demonstrated for long‐term operation through the development of an enhanced freshwater collection prototype, highlighting the potential for sustainable off‐grid solar desalination. image

@@ -1,0 +1,9 @@
+Title: A safety supervision tool toward digitalization of maritime HRA applications: the case of MMOHRA
+Authors: Cagatay Kandemir, Metin Celik
+Year: 2022
+Venue: Journal of Marine Science and Technology
+DOI: 10.1007/s00773-022-00911-8
+Paper ID: pmc_PMC9628432
+
+Abstract:
+This study proposed a safety supervision tool to HRA-based monitoring of ship maintenance operations via a digital platform. It is conceptualized to assist safety supervisors in the best proactive measures along with maintenance works onboard ships. The tool refers the marine maintenance and operations human reliability analysis (MMOHRA) concept. Moreover, it facilitates the timely and consistently practice of MMOHRA. Indeed, it accurately identifies critical tasks and associate recovery acts. Fundamentally, a rule-based mechanism supported with relation matrix response to general task type selection, EPCs’ assignment, and human error probability (HEP) calculation, respectively. Then, the system automatically calculates, visualizes and manages HEP values of operation steps. Consequently, this study digitalizes maritime HRA investigations particular to maintenance operations. The proposed tool, compliance with the relevant sections of updated inspection regimes such as SIRE 2.0 and DryBms, has very high utility to effectively control human element onboard. This study also enables a further research potential to conduct an extended human reliability database in ship fleet level.

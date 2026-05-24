@@ -1,0 +1,9 @@
+Title: Agrivoltaic systems for sustainable energy and agriculture integration in Turkey
+Authors: Atıl Emre Coşgun, Mustafa Sacid Endiz, Hasan Demir, Muciz Özcan
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e32300
+Paper ID: https://openalex.org/W4399253817
+
+Abstract:
+In recent years, the use of solar photovoltaic (PV) energy, which is one of the leading renewable energy sources, has become increasingly widespread around the world due to its numerous advantages. However, PV-based electricity generation necessitates a large amount of land. Agrivoltaic (AV) systems, an innovative approach to combining agricultural and electricity production in the same area through solar modules positioned several meters above the surface of the ground, are growing rapidly in renewable energy and farming communities. This study explores Turkey's solar power generation and agricultural activities, combining crop cultivation and electricity generation for sustainable development on the same land. Furthermore, the AV potential for the most agriculture ten cities in different climate zones in Turkey is investigated using the PVsyst program. A list of the most commonly grown crops in the ten selected cities and the types of AV systems that can be employed with these crops is provided. The results show that AV systems present a great opportunity for the optimal integration of solar power generation with food production, especially for the cities of Konya, Kayseri, and Manisa, with the most ideal conditions for agricultural and solar power production. By combining the solar power potential of the country with the production capacity of arable lands, the increasing energy needs can be met and more efficient agricultural production can be provided. This study is expected to demonstrate that in specific regions of Turkey, AV farming will be suitable for certain crops.

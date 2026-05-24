@@ -1,0 +1,9 @@
+Title: Sustainability considerations for organic electronic products
+Authors: Iain McCulloch, Michael L. Chabinyc, Christoph J. Brabec, Christian B. Nielsen, Scott E. Watkins
+Year: 2023
+Venue: Nature Materials
+DOI: https://doi.org/10.1038/s41563-023-01579-0
+Paper ID: https://openalex.org/W4381189818
+
+Abstract:
+The development of organic electronic applications has reached a critical point. While markets, including the Internet of Things, transparent solar and flexible displays, gain momentum, organic light-emitting diode displays lead the way, with a current market size of over $25 billion, helping to create the infrastructure and ecosystem for other applications to follow. It is imperative to design built-in sustainability into the materials selection, processing and device architectures of all of these emerging applications, and to close the loop for a circular approach. In this Perspective, we evaluate the status of embedded carbon in organic electronics, as well as options for more sustainable materials and manufacturing, including engineered recycling solutions that can be applied within the product architecture and at the end of life. This emerging industry has a responsibility to ensure a 'cradle-to-cradle' approach. We highlight that ease of dismantling and recycling needs to closely relate to the product lifetime, and that regeneration should be facilitated in product design. Materials choices should consider the environmental effects of synthesis, processing and end-product recycling as well as performance.

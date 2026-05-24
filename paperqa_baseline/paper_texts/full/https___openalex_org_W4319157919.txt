@@ -1,0 +1,9 @@
+Title: Sustainability in Blockchain: A Systematic Literature Review on Scalability and Power Consumption Issues
+Authors: Hani Alshahrani, Noman Islam, Darakhshan Syed, Adel Sulaiman, Mana Saleh Al Reshan, Khairan Rajab, Asadullah Shaikh, Jaweed Shuja-Uddin, Aadar Soomro
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16031510
+Paper ID: https://openalex.org/W4319157919
+
+Abstract:
+Blockchain is a peer-to-peer trustless network that keeps records of digital assets without any central authority. With the passage of time, the sustainability issue of blockchain is rising. This paper discusses two major sustainability issues of blockchain: power consumption and scalability. It discusses the challenge of power consumption by analyzing various approaches to estimating power consumption in the literature. A case study of bitcoin is presented for this purpose. The study presents a review of the growing energy consumption of bitcoin along with a solution for immersion cooling in blockchain mining. The second challenge addressed in this research is scalability. With the increase in network size, scalability issues are also increasing as the number of transactions per second is decreasing. In other words, blockchain is observing low throughput with its increase in size. The paper discusses research studies and techniques proposed in the literature. The paper then investigates how to scale blockchain for better performance.

@@ -1,0 +1,9 @@
+Title: A novel Time-resolved Fluoroimmunoassay for the quantitative detection of Antibodies against the Phospholipase A2 Receptor
+Authors: Biao Huang, Liang Wang, Yi Zhang, Jue Zhang, Qiuhua Zhang, Hualong Xiao, Bin Zhou, Zhuxing Sun, Ya-nan Cao, Yu Chen, Zhigang Hu, Huiming Sheng
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46096
+Paper ID: pmc_PMC5387400
+
+Abstract:
+A highly sensitive time-resolved fluoroimmunoassay (TRFIA) was developed to quantify serum antibodies against the phospholipase A2 receptor (anti-PLA2R-IgG) for differential diagnosis of membranous nephropathy. Recombinant PLA2R (rPLA2R) was coated onto 96-well plates as a capture. A goat-anti-human IgG tracer was prepared with europium-chelate for detection. After bound/free separation by washing, the fluorescence counts of bound tracer were measured for quantifying serum anti-PLA2R-IgG concentration. A purified anti-PLA2R-IgG calibrator was first prepared for ensuring that consistent quantitative results could be obtained. The assay detection limit was 0.03 mg/L with linear measurement range of 0.03–340 mg/L. The intra- and inter-assay coefficients of variation (CVs) were 3.8% and 6.2%, respectively. The average serum anti-PLA2R-IgG concentration in 45 healthy volunteers, 31 IgA nephropathy, 9 lupus nephropathy, and 52 idiopathic membranous nephropathy patients was 0.53 ± 0.18 mg/L, 0.70 ± 0.41 mg/L, 1.08 ± 0.65 mg/L, and 9.00 ± 11.82 mg/L, respectively. The cut-off point for an abnormal anti-PLA2R-IgG concentration was defined as >0.89 mg/L. The positive rates in serum from patients with IgA nephropathy, lupus nephropathy, and idiopathic membranous nephropathy were 29.0%, 44.4%, and 88.5%, respectively. The availability of this quantitation method will facilitate the use of serum anti-PLA2R-IgG for diagnosing idiopathic membranous nephropathy.

@@ -1,0 +1,9 @@
+Title: Historical patterns and sustainability implications of worldwide bicycle ownership and use
+Authors: Wu Chen, Trine Agervig Carstensen, Ranran Wang, Sybil Derrible, David Rojas‐Rueda, Mark Nieuwenhuijsen, Gang Liu
+Year: 2022
+Venue: Communications Earth & Environment
+DOI: https://doi.org/10.1038/s43247-022-00497-4
+Paper ID: https://openalex.org/W4292223757
+
+Abstract:
+Abstract Bicycles are widely recognized as an effective solution for reducing short-distance trip-related climate impacts and addressing sedentary lifestyle-caused chronic diseases. Yet, the historical patterns of global bicycle production, trade, stock, and use remain poorly characterized, preventing thorough investigation of its role in sustainable road transport transition. Here, based on a dynamic model and various data sources, we have compiled, to our knowledge, the first global dataset for bicycle ownership and use by country from 1962 to 2015. Our comparison between the historical development of per-capita bicycle ownership and car ownership reveals five varying types in an S-curve among different countries. High bicycle ownership does not necessarily lead to high bicycle use, which is instead still marginal in daily trips worldwide (&lt;5% for most countries). A worldwide pro-bicycle policy and infrastructure development enabled modal shift like the Netherlands and Denmark can lead to significant untapped climate and health benefits.

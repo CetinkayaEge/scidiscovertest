@@ -1,0 +1,9 @@
+Title: Hemagglutinin destabilization in H3N2 vaccine reference viruses skews antigenicity and prevents airborne transmission in ferrets
+Authors: Meng Hu, Christina Kackos, Balaji Banoth, Chet Raj Ojha, Jeremy C. Jones, Shaohua Lei, Lei Li, Lisa Kercher, Richard J. Webby, Charles J. Russell
+Year: 2023
+Venue: Science Advances
+DOI: 10.1126/sciadv.adf5182
+Paper ID: pmc_PMC10058244
+
+Abstract:
+During influenza virus entry, the hemagglutinin (HA) protein binds receptors and causes membrane fusion after endosomal acid activation. To improve vaccine efficiency and pandemic risk assessment for currently-dominant H3N2 influenza viruses, we investigated HA stability of 6 vaccine reference viruses and 42 circulating viruses. Recent vaccine reference viruses had destabilized HA proteins due to egg-adaptive mutation HA1-L194P. Virus growth in cell culture was independent of HA stability. In ferrets, the vaccine reference viruses and circulating viruses required a relatively stable HA (activation and inactivation pH < 5.5) for airborne transmissibility. The recent vaccine reference viruses with destabilized HA proteins had reduced infectivity, had no airborne transmissibility unless reversion to HA1-P194L occurred, and had skewed antigenicity away from the studied viruses and circulating H3N2 viruses. Other vaccine reference viruses with stabilized HAs retained infectivity, transmissibility, and antigenicity. Therefore, HA stabilization should be prioritized over destabilization in vaccine reference virus selection to reduce mismatches between vaccine and circulating viruses. Stabilized hemagglutinin proteins should be prioritized over destabilized ones in influenza vaccine reference virus selection.

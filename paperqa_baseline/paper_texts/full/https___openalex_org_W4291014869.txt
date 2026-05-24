@@ -1,0 +1,9 @@
+Title: Sustainable computing in smart agriculture: survey and challenges
+Authors: Jing Nie, Yi Wang, Yang Li, Xuewei Chao
+Year: 2022
+Venue: TURKISH JOURNAL OF AGRICULTURE AND FORESTRY
+DOI: https://doi.org/10.55730/1300-011x.3025
+Paper ID: https://openalex.org/W4291014869
+
+Abstract:
+Research on sustainable computing in agriculture has a great potential as an effective way to solve most agricultural technology bottlenecks, save resource costs, and drive sustainable agricultural development. This paper provides a systematic introduction to the data collection, data mining and evaluation, classification and application of sustainable algorithms involved in the field of sustainable computing in agriculture. At the same time, the paper provides an insightful discussion on its challenges and future trends. The purpose of this work is to help researchers review the current status and pressing issues of sustainable algorithms in agriculture, and to provide a referenceable direction for future research development.

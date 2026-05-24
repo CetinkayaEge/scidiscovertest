@@ -1,0 +1,9 @@
+Title: In vivo delivery of CRISPR-Cas9 using lipid nanoparticles enables antithrombin gene editing for sustainable hemophilia A and B therapy
+Authors: Jeong Pil Han, M. Kim, Beom Seok Choi, Jeong Hyeon Lee, Geon Seong Lee, Michaela Jeong, Yeji Lee, Eun-Ah Kim, Hye-Kyung Oh, Nanyeong Go, Hye-Rim Lee, Hye-Rim Lee, Kyu Jun Lee, Un Gi Kim, Jae Young Lee, Seokjoong Kim, Jun Chang, Hyukjin Lee, Hyukjin Lee, Dong Woo Song, Su Cheong Yeom
+Year: 2022
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abj6901
+Paper ID: https://openalex.org/W4205811598
+
+Abstract:
+Hemophilia is a hereditary disease that remains incurable. Although innovative treatments such as gene therapy or bispecific antibody therapy have been introduced, substantial unmet needs still exist with respect to achieving long-lasting therapeutic effects and treatment options for inhibitor patients. Antithrombin (AT), an endogenous negative regulator of thrombin generation, is a potent genome editing target for sustainable treatment of patients with hemophilia A and B. In this study, we developed and optimized lipid nanoparticles (LNPs) to deliver Cas9 mRNA along with single guide RNA that targeted AT in the mouse liver. The LNP-mediated CRISPR-Cas9 delivery resulted in the inhibition of AT that led to improvement in thrombin generation. Bleeding-associated phenotypes were recovered in both hemophilia A and B mice. No active off-targets, liver-induced toxicity, and substantial anti-Cas9 immune responses were detected, indicating that the LNP-mediated CRISPR-Cas9 delivery was a safe and efficient approach for hemophilia therapy.

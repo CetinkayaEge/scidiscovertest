@@ -1,0 +1,9 @@
+Title: Digital Twins in agriculture: challenges and opportunities for environmental sustainability
+Authors: Warren Purcell, Thomas Neubauer, Kevin Mallinger
+Year: 2023
+Venue: Current Opinion in Environmental Sustainability
+DOI: https://doi.org/10.1016/j.cosust.2022.101252
+Paper ID: https://openalex.org/W4317937897
+
+Abstract:
+Food security, land degradation, climate change, and a growing population are interconnected challenges and key issues for sustainable agriculture. In this context, the Digital Twin (DT) is uniquely positioned to overcome these challenges and support the goals of sustainability. Through the use of state-of-the-art technologies, increased information availability can empower stakeholders to pursue sustainable objectives and production methods. However, if these benefits are to be fully leveraged, the potential negative technical and social–ecological effects of the technology must be assessed and mitigated. Therefore, an exploratory review is conducted, outlining the progress of current examples toward the aims of sustainable agriculture. Additionally, the social–ecological and technological dangers of the concept are investigated, culminating in a high-level roadmap that highlights necessary milestones required to support the open and sustainable development of DTs in agriculture.

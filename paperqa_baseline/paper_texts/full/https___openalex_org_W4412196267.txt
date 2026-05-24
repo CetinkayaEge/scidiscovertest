@@ -1,0 +1,9 @@
+Title: Emerging technologies for smart and sustainable precision agriculture
+Authors: Mrutyunjay Padhiary, Avinash Kumar, Laxmi Narayan Sethi
+Year: 2025
+Venue: Discover Robotics
+DOI: https://doi.org/10.1007/s44430-025-00006-0
+Paper ID: https://openalex.org/W4412196267
+
+Abstract:
+To maximize agricultural operations and ensure increased productivity, sustainability, and efficiency, precision agriculture makes use of innovative technologies. This review article examines the incorporation of artificial intelligence, machine learning, automation, cloud computing, and Internet of Things sensors as they relate to agrarian engineering. IoT sensors are essential to the collection of real-time data because they offer insightful information about crop status, weather patterns, and soil health. The efficient data processing, storage, and accessibility made possible by cloud computing make scalable and real-time analytics possible. While automation technologies, like robotics and autonomous systems, improve operational efficiency and save labor costs, AI and ML help with predictive analytics, illness diagnosis, and fertilization process optimization. This study showcases case studies that demonstrate how these technologies have been successfully implemented, emphasizing the observable advantages in terms of increased yield, reduced costs, and resource conservation. It also goes into the technological, financial, and privacy issues that come with combining various technologies, it provides information on existing constraints and possible workarounds. In addition, the assessment points out new directions for research, including the deployment of 5G, developments in edge computing, and the creation of increasingly complex AI algorithms.

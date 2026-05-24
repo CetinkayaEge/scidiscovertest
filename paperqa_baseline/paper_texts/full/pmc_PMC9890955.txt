@@ -1,0 +1,9 @@
+Title: A critical review of silicon nanowire electrodes and their energy storage capacities in Li-ion cells
+Authors: C. Yang, K. S. Ravi Chandran
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07326a
+Paper ID: pmc_PMC9890955
+
+Abstract:
+The electrochemical performances of silicon nanowire (SiNW) electrodes with various nanowire forms, intended as potential negative electrodes for Li-ion batteries, are critically reviewed. The lithium storage capacities, cycling performance, and how the volume expansion is possibly accommodated in these structures are discussed. The SiNW morphology can have a greater impact on the energy storage capacity and cycling performance if the parameters affecting the performance are clearly identified, which is the objective of this review. It is shown that the specific capacity measure is not adequate to truly assess the potential of an electrode and the necessity of the areal capacity measure is highlighted. It is shown that both measures are essential for the assessment of the true potential of a SiNW electrode relative to competing electrodes. Si mass loading in SiNWs has been found to be important for areal and specific capacities. An increase of mass loading of SiNWs is shown to increase the areal capacity significantly, but the specific capacity is found to decrease in thicker Si electrodes. Further, modifications of SiNW electrodes, with coating and doping, have shown significant increases in the performance of these electrodes in Li-ion batteries. The SiNW electrodes, to date, are far below the areal capacity of 3 mA h cm −2 , which may be the minimum threshold capacity for a promising SiNW electrode with respect to Li-ion batteries. Si nanowire electrodes have great potential as high-capacity anodes for Li-ion batteries. This review provides a comprehensive evaluation of the Li-storage capacity of various Si nanowire electrodes based on both specific and areal capacity.

@@ -1,0 +1,9 @@
+Title: The Danish Heart Failure Registry: A Validation Study of Content
+Authors: Christina Andersen, Inge Schjødt, Anne Nakano, Søren Paaske Johnsen, Kenneth Egstrup, Brian B Løgstrup
+Year: 2022
+Venue: Clinical Epidemiology
+DOI: 10.2147/CLEP.S390898
+Paper ID: pmc_PMC9805713
+
+Abstract:
+Background The Danish Heart Failure Registry (DHFR) is a clinical quality database established to monitor and improve the quality of heart failure (HF) care in Denmark. Objective We examined the validity of the content of the DHFR. Methods In a random sample of patients registered in DHFR between the 1st of January 2016 to the 31st of December 2018, we determined the agreement between the information entered in the database and information in the medical records regarding 1) content; 2) sensitivity; 3) specificity; 4) positive predictive values (PPV) as well as negative predictive values (NPV) of all patient characteristics and performance measures obtained in the DHFR. Results The study population included 453 patients. In general, the content of the DHFR was accurate. Patient characteristics showed high PPV between 93.0% and 99.5% for all variables. Sensitivity ranged from 81.0% to 95.2%, specificity from 79.8% to 99.5% and NPV ranged from 81.4% to 99.0%. The pharmacological performance measures showed high agreement regarding sensitivity (77.4% to 98.6%) and PPV (84.0% to 94.0%). Further, the specificity ranged from 66.7% to 98.0% and NPP ranged from 90.1% to 96.5%. For the non-pharmacological performance measures, patient education showed high sensitivity (98.0%, 95% CI 96.1–99.1) and PPV (94.9% CI: 93.0–96.3), whereas referral to exercise training had a lower sensitivity of 77.8% (CI: 71.6–83.1) and a PPV of 74.5% (CI: 69.6–78.6). Conclusion Overall, the Danish Heart Failure Registry have a high degree of completeness and validity, making it a valuable tool for clinical epidemiological research in HF.

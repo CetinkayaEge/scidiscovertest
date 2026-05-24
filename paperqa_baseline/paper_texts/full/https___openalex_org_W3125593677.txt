@@ -1,0 +1,9 @@
+Title: Ammonium Utilization in Microalgae: A Sustainable Method for Wastewater Treatment
+Authors: Giovanna Salbitani, Simona Carfagna
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020956
+Paper ID: https://openalex.org/W3125593677
+
+Abstract:
+In plant cells, ammonium is considered the most convenient nitrogen source for cell metabolism. However, despite ammonium being the preferred N form for microalgae, at higher concentrations, it can be toxic, and can cause growth inhibition. Microalgae’s tolerance to ammonium depends on the species, with various taxa showing different thresholds of tolerability and symptoms of toxicity. In the environment, ammonium at high concentrations represents a dangerous pollutant. It can affect water quality, causing numerous environmental problems, including eutrophication of downstream waters. For this reason, it is important to treat wastewater and remove nutrients before discharging it into rivers, lakes, or seas. A valid and sustainable alternative to conventional treatments could be provided by microalgae, coupling the nutrient removal from wastewater with the production of valuable biomass. This review is focused on ammonium and its importance in algal nutrition, but also on its problematic presence in aquatic systems such as wastewaters. The aim of this work is to provide recent information on the exploitation of microalgae in ammonium removal and the role of ammonium in microalgae metabolism.

@@ -1,0 +1,9 @@
+Title: Sustainable Aqueous Phase Separation membranes prepared through mild pH shift induced polyelectrolyte complexation of PSS and PEI
+Authors: Muhammad Irshad Baig, Putu Putri Indira Sari, Jiaying Li, Joshua D. Willott, Wiebe M. de Vos
+Year: 2021
+Venue: Journal of Membrane Science
+DOI: https://doi.org/10.1016/j.memsci.2021.119114
+Paper ID: https://openalex.org/W3128028802
+
+Abstract:
+pH shift induced Aqueous phase separation (APS) is a novel and more sustainable water-based approach to create microfiltration, ultrafiltration, and nanofiltration membranes. APS allows for control over membrane pore size and structure in ways analogous to traditional non-solvent induced phase separation (NIPS). Unfortunately, existing APS approaches require extreme pH shifts (from pH 14 to pH 1) to obtain successful membranes, limiting their applicability for large scale production. Here we demonstrate that APS membranes, with tunable pore sizes ranging from ~80 nm to dense nanofiltration type, can be prepared using a mild pH shift (pH 12 to pH 4) based on the complexation of poly(styrene sulfonate) (PSS) and branched polyethyleneimine (PEI) in acetate buffer coagulation baths. The molecular weight of PEI, the concentration and the pH value of the buffer solution, and the concentration of glutaraldehyde cross-linking agent were systematically varied to control and optimize the membrane fabrication conditions. It was found that tight nanofiltration membranes having a molecular weight cut-off of ~200 g mol−1 and excellent salt (97% MgCl2) and micropollutant retentions (~96%) could be prepared alongside ultra/microfiltration type membranes with an average pore size of ~60 nm. These results indicate that APS membranes with tunable pore sizes can be prepared under mild pH conditions with excellent control over separation properties.

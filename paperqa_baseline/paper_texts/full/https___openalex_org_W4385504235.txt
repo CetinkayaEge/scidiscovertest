@@ -1,0 +1,9 @@
+Title: Revolutionizing sustainable supply chain management: A review of metaheuristics
+Authors: Laith Abualigah, Essam Said Hanandeh, Raed Abu Zitar, Thanh Cuong‐Le, Samir Khatir, Amir H. Gandomi
+Year: 2023
+Venue: Engineering Applications of Artificial Intelligence
+DOI: https://doi.org/10.1016/j.engappai.2023.106839
+Paper ID: https://openalex.org/W4385504235
+
+Abstract:
+This paper reviews the application of metaheuristics for optimized sustainable supply chain management (SSCM). This paper explores the potential of metaheuristics to improve the supply chain’s sustainability while enhancing its efficiency and competitiveness. The paper provides an overview of the principles of SSCM and the challenges businesses face in achieving sustainable supply chain management. It then introduces the concept of metaheuristics and describes their use in solving complex optimization problems. The paper reviews various metaheuristics algorithms applied to sustainable supply chain management and analyzes their effectiveness in addressing the challenges of SSCM. The paper also identifies the key factors that influence the success of using metaheuristics for SSCM, such as the choice of algorithm, problem complexity, and data quality. Finally, the paper provides recommendations for future research in this area and highlights the potential of metaheuristics to promote sustainable supply chain management. The review suggests that metaheuristics can be a valuable tool for optimizing sustainable supply chain management and improving supply chain operations’ sustainability, efficiency, and competitiveness.

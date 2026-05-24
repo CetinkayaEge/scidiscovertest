@@ -1,0 +1,9 @@
+Title: Towards Sustainable Fuel Cells and Batteries with an AI Perspective
+Authors: R. Brindha, R. Prasada Rao, Vijila Chellappan, Seeram Ramakrishna
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142316001
+Paper ID: https://openalex.org/W4311011927
+
+Abstract:
+With growing environmental and ecological concerns, innovative energy storage systems are urgently required to develop smart grids and electric vehicles (EVs). Since their invention in the 1970s, rechargeable lithium-ion batteries (LIBs) have risen as a revolutionary innovation due to their superior benefits of high operating potential and energy density. Similarly, fuel cells, especially Proton Exchange Membrane Fuel Cells (PEMFC) and Solid-Oxide Fuel Cells (SOFC), have been developed as an energy storage system for EVs due to their compactness and high-temperature stability, respectively. Various attempts have been made to explore novel materials to enhance existing energy storage technologies. Materials design and development are significantly based on trial-and-error techniques and require substantial human effort and time. Additionally, researchers work on individual materials for specific applications. As a viewpoint, we present the available sustainable routes for electrochemical energy storage, highlighting the use of (i) green materials and processes, (ii) renewables, (iii) the circular economy approach, (iv) regulatory policies, and (v) the data driven approach to find the best materials from several databases with minimal human involvement and time. Finally, we provide an example of a high throughput and machine learning assisted approach for optimizing the properties of several sustainable carbon materials and applying them to energy storage devices. This study can prompt researchers to think, advance, and develop opportunities for future sustainable materials selection, optimization, and application in various electrochemical energy devices utilizing ML.

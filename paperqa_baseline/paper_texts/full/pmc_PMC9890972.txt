@@ -1,0 +1,9 @@
+Title: A novel hierarchical book-like structured sodium manganite for high-stable sodium-ion batteries †
+Authors: Yue Zhang, Hang Wang, Yakun Tang, Yudai Huang, Dianzeng Jia
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra05524d
+Paper ID: pmc_PMC9890972
+
+Abstract:
+As one of the most promising cathodes for rechargeable sodium-ion batteries (SIBs), Layered transition metal oxides with high energy density show poor cycling stability. Judicious design/construction of electrode materials plays a very important role in cycling performance. Herein, a P2-Na 0.7 MnO 2.05 cathode material with hierarchical book-like morphology combining exposed (100) active crystal facets is synthesized by hydrothermal method. Owing to the superiority of the unique hierarchical structure, the electrode delivers a high reversible capacity of 163 mA h g −1 at 0.2C and remarkable high-rate cyclability (88.8% capacity retention after 300 cycles at 10C). Its unique oriented stacking nanosheet constructed hierarchical book-like structure is the origin of the high electrochemical performance, which is able to shorten the diffusion distances of Na + and electrons, and a certain gap between the nanosheets can also relieve the stress and strain of volume generated during the cycle. In addition, the exposed (100) active crystal facets can provide more channels for the efficient transfer of Na + . Our strategy reported here opens a door to the development of high-stable oxide cathodes for high energy density SIBs. A P2-Na 0.7 MnO 2.05 cathode with hierarchical book-like morphology combining exposed (100) active crystal facets is prepared. Owing to the superiority of its unique structure, the electrode delivers excellent rate performance and cycling stability.

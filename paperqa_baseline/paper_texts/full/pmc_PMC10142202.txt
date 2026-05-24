@@ -1,0 +1,9 @@
+Title: Research Progress on Propylene Preparation by Propane Dehydrogenation
+Authors: Cheng Zuo, Qian Su
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083594
+Paper ID: pmc_PMC10142202
+
+Abstract:
+At present, the production of propylene falls short of the demand, and, as the global economy grows, the demand for propylene is anticipated to increase even further. As such, there is an urgent requirement to identify a novel method for producing propylene that is both practical and reliable. The primary approaches for preparing propylene are anaerobic and oxidative dehydrogenation, both of which present issues that are challenging to overcome. In contrast, chemical looping oxidative dehydrogenation circumvents the limitations of the aforementioned methods, and the performance of the oxygen carrier cycle in this method is superior and meets the criteria for industrialization. Consequently, there is considerable potential for the development of propylene production by means of chemical looping oxidative dehydrogenation. This paper provides a review of the catalysts and oxygen carriers employed in anaerobic dehydrogenation, oxidative dehydrogenation, and chemical looping oxidative dehydrogenation. Additionally, it outlines current directions and future opportunities for the advancement of oxygen carriers.

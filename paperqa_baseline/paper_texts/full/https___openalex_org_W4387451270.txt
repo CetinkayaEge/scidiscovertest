@@ -1,0 +1,9 @@
+Title: Crop switching for water sustainability in India’s food bowl yields co-benefits for food security and farmers’ profits
+Authors: Ruparati Chakraborti, Kyle Frankel Davis, Ruth DeFries, Narasimha D. Rao, Jisha Joseph, Subimal Ghosh
+Year: 2023
+Venue: Nature Water
+DOI: https://doi.org/10.1038/s44221-023-00135-z
+Paper ID: https://openalex.org/W4387451270
+
+Abstract:
+Abstract Groundwater depletion due to agricultural intensification is a major threat to water and food security in the Indo-Gangetic Plain (IGP), a critical food bowl, home to 400 million people and currently producing 135 million metric tonnes of cereals. Among the solutions proposed to address this unsustainable water consumption, crop switching has received growing attention, yet its potential to produce co-benefits or trade-offs for other dimensions of sustainability (for example, food supply and farmers’ profits) remains largely unquantified. In this study, we developed and applied a crop switching optimization model for cereals in the IGP to maximize calorie production and farmers’ profits and minimize water consumption. We found that switching from rice to millets (pearl millet) and sorghum in the Kharif (monsoon) season and from wheat to sorghum in the Rabi (winter) season could potentially reduce water consumption by 32%, improve calorie production by 39% and increase farmers’ profits by 140%. We also found that switching crops offers a larger reduction in groundwater depletion and energy savings than improving irrigation efficiency (that is, from flood to drip irrigation). Our findings demonstrate the potential for crop switching to address the multidimensional sustainability challenges of the IGP, with possible application to other regions facing similar issues.

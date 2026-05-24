@@ -1,0 +1,9 @@
+Title: Solving data quality issues of fundus images in real-world settings by ophthalmic AI
+Authors: Zhongwen Li, Wei Chen
+Year: 2023
+Venue: Cell Reports Medicine
+DOI: 10.1016/j.xcrm.2023.100951
+Paper ID: pmc_PMC9975325
+
+Abstract:
+Liu et al. 1 develop a deep-learning-based flow cytometry-like image quality classifier, DeepFundus, for the automated, high-throughput, and multidimensional classification of fundus image quality. DeepFundus significantly improves the real-world performance of established artificial intelligence diagnostics in detecting multiple retinopathies. Liu et al. 1 develop a deep-learning-based flow cytometry-like image quality classifier, DeepFundus, for the automated, high-throughput, and multidimensional classification of fundus image quality. DeepFundus significantly improves the real-world performance of established artificial intelligence diagnostics in detecting multiple retinopathies.

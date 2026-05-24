@@ -1,0 +1,9 @@
+Title: An interaction and feedback mechanism-based group decision-making for emergency medical supplies supplier selection using T-spherical fuzzy information
+Authors: Shahid Hussain Gurmani, Zhao Zhang, Rana Muhammad Zulqarnain, Sameh Askar
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35909-8
+Paper ID: pmc_PMC10227412
+
+Abstract:
+Selecting a supplier for emergency medical supplies during disasters can be considered a typical multiple attribute group decision-making (MAGDM) problem. MAGDM is an intriguing common problem that is rife with ambiguity and uncertainty. It becomes much more challenging when governments and medical care enterprises adjust their priorities in response to the escalating problems and the effectiveness of the actions taken in different countries. As decision-making problems become increasingly complicated nowadays, a growing number of experts are likely to use T-spherical fuzzy sets (T-SFSs) rather than exact numbers. T-SFS is a novel extension of fuzzy sets that can fully convey ambiguous and complicated information in MAGDM. The objective of this paper is to propose a MAGDM methodology based on interaction and feedback mechanism (IFM) and T-SFS theory. In it, we first introduce T-SF partitioned Bonferroni mean (T-SFPBM) and T-SF weighted partitioned Bonferroni mean (T-SFWPBM) operators to fuse the evaluation information provided by experts. Then, an IFM is designed to achieve a consensus between multiple experts. In the meantime, we also find the weights of experts by using T-SF information. Furthermore, in light of the combination of IFM and T-SFWPBM operator, an MAGDM algorithm is designed. Finally, an example of supplier selection for emergency medical supplies is provided to demonstrate the viability of the suggested approach. The influence of parameters on decision results and comparative analysis with the existing methods confirmed the reliability and accuracy of the suggested approach.

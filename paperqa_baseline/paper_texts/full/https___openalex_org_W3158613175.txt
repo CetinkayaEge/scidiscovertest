@@ -1,0 +1,9 @@
+Title: Machine learning applications for sustainable manufacturing: a bibliometric-based review for future research
+Authors: Anbesh Jamwal, Rajeev Agrawal, Monica Sharma, Anil Kumar, Vikas Kumar, Jose Arturo Garza‐Reyes
+Year: 2021
+Venue: Journal of Enterprise Information Management
+DOI: https://doi.org/10.1108/jeim-09-2020-0361
+Paper ID: https://openalex.org/W3158613175
+
+Abstract:
+Purpose The role of data analytics is significantly important in manufacturing industries as it holds the key to address sustainability challenges and handle the large amount of data generated from different types of manufacturing operations. The present study, therefore, aims to conduct a systematic and bibliometric-based review in the applications of machine learning (ML) techniques for sustainable manufacturing (SM). Design/methodology/approach In the present study, the authors use a bibliometric review approach that is focused on the statistical analysis of published scientific documents with an unbiased objective of the current status and future research potential of ML applications in sustainable manufacturing. Findings The present study highlights how manufacturing industries can benefit from ML techniques when applied to address SM issues. Based on the findings, a ML-SM framework is proposed. The framework will be helpful to researchers, policymakers and practitioners to provide guidelines on the successful management of SM practices. Originality/value A comprehensive and bibliometric review of opportunities for ML techniques in SM with a framework is still limited in the available literature. This study addresses the bibliometric analysis of ML applications in SM, which further adds to the originality.

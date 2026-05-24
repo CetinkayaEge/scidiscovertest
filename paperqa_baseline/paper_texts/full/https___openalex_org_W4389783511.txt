@@ -1,0 +1,9 @@
+Title: Assessing Fiscal Sustainability in the Landscape of Economics Research
+Authors: Nini Johana Marín‐Rodríguez, Juan David González-Ruíz, Sergio Botero-Botero
+Year: 2023
+Venue: Economies
+DOI: https://doi.org/10.3390/economies11120300
+Paper ID: https://openalex.org/W4389783511
+
+Abstract:
+This scientometric analysis delves into the current trajectory and anticipated prospects of assessing fiscal sustainability, emphasizing methodologies, trends, and pivotal literature in this critical economic realm. This study analyzed 324 studies from Scopus and Web of Science databases to generate the dataset through scientometric networks, using VOSviewer and Bibliometrix tools. Through a comprehensive review of scientific literature, this research traces the developmental trajectory of fiscal sustainability, trend topics, influential studies, and key contributors employing bibliometric and scientometric tools. The study maps the landscape of fiscal sustainability exploration, underscoring an evolving shift towards interdisciplinary methods encompassing environmental, social, and political factors. Furthermore, the keywords analysis accentuates three emergent trends, mainly (i) the relation between fiscal sustainability and economic growth, (ii) the methodologies and models for assessing fiscal sustainability, and (iii) demographic concerns and their impact on fiscal sustainability. This research provides insights into the evolving terrain of fiscal sustainability exploration and anticipates promising avenues for further studies. The examination reveals the significance of methodologies such as panel data, multicointegration analysis, probabilistic debt analysis, Markov-switching models, and wavelets analysis in assessing fiscal sustainability. By offering a comprehensive overview, this analysis aspires to direct forthcoming inquiries and contribute to the ongoing discussion surrounding the assessment of fiscal stability.

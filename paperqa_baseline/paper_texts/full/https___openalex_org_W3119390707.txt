@@ -1,0 +1,9 @@
+Title: Construction of macroporous magnesium phosphate-based bone cement with sustained drug release
+Authors: Yanan Zhao, Suchun Yu, Xiaopei Wu, Honglian Dai, Wenbin Liu, Rong Tu, Takashi Goto
+Year: 2021
+Venue: Materials & Design
+DOI: https://doi.org/10.1016/j.matdes.2021.109466
+Paper ID: https://openalex.org/W3119390707
+
+Abstract:
+Magnesium phosphate-based bone cements (MPBCs) have been widely applied in orthopedic and dental fields owing to their excellent self-setting ability and high strength. However, their lack of macroporosity and poor drug release properties restrict their use. In this study, we incorporated various degrees of cross-linking of gelatine microspheres (GM) into MPBC and improved the physicochemical and biocompatible properties, biodegradation and drug release behaviour of the composites. Diclofenac sodium (DS) was utilized as a model drug. Through experiments and observations, we found that the GM induced an adjustable setting time (12 min–16 min), high compression strength (23 MPa–58 MPa), abundant macropores (30.2%–37.8%) and sustained DS release with the double exponential biphasic kinetic model (more than 2 months) into the MPBC composites. Moreover, the sustained release of magnesium and calcium ions had a synergistic effect with GM on the proliferation, osteogenesis differentiation, mineralization ability and gene expression (COL I, OPN, and Runx2) of MC3T3-E1 cells. Subcutaneous implantation and histological analyses indicated that the MPBC-GM composites activated angiogenesis without inducing severe inflammatory reactions. In brief, we prepared biocompatible MPBC composites with adjustable physicochemical properties, formation of macropores, degradation and drug release behaviour.

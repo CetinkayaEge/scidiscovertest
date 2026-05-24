@@ -1,0 +1,9 @@
+Title: Modulation of fatty acid elongation in cockroaches sustains sexually dimorphic hydrocarbons and female attractiveness
+Authors: Xiao‐Jin Pei, Yongliang Fan, Yu Bai, Tian‐Tian Bai, Coby Schal, Zhan-Feng Zhang, Nan Chen, Sheng Li, Tong‐Xian Liu
+Year: 2021
+Venue: PLoS Biology
+DOI: https://doi.org/10.1371/journal.pbio.3001330
+Paper ID: https://openalex.org/W3184234799
+
+Abstract:
+Insect cuticular hydrocarbons (CHCs) serve as important intersexual signaling chemicals and generally show variation between the sexes, but little is known about the generation of sexually dimorphic hydrocarbons (SDHCs) in insects. In this study, we report the molecular mechanism and biological significance that underlie the generation of SDHC in the German cockroach Blattella germanica. Sexually mature females possess more C29 CHCs, especially the contact sex pheromone precursor 3,11-DimeC29. RNA interference (RNAi) screen against the fatty acid elongase family members combined with heterologous expression of the genes in yeast revealed that both BgElo12 and BgElo24 were involved in hydrocarbon (HC) production, but BgElo24 is of wide catalytic activities and is able to provide substrates for BgElo12, and only the female-enriched BgElo12 is responsible for sustaining female-specific HC profile. Repressing BgElo12 masculinized the female CHC profile, decreased contact sex pheromone level, and consequently reduced the sexual attractiveness of female cockroaches. Moreover, the asymmetric expression of BgElo12 between the sexes is modulated by sex differentiation cascade. Specifically, male-specific BgDsx represses the transcription of BgElo12 in males, while BgTra is able to remove this effect in females. Our study reveals a novel molecular mechanism responsible for the formation of SDHCs and also provide evidences on shaping of the SDHCs by sexual selection, as females use them to generate high levels of contact sex pheromone.

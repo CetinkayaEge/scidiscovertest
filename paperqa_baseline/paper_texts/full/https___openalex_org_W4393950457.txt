@@ -1,0 +1,9 @@
+Title: Data-Driven Decision Making for Sustainable IT Project Management Excellence
+Authors: Vladan Pantović, Dejan Vidojević, Slađana Vujičić, Svetozar Sofijanić, Marina Jovanović-Milenković
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16073014
+Paper ID: https://openalex.org/W4393950457
+
+Abstract:
+In today’s rapidly evolving technological landscape, effective management of information technology (IT) projects is paramount for organizational success. However, ensuring sustainability in IT project management remains a persistent challenge. This paper proposes a novel approach centered on data-driven strategies to enhance sustainability and excellence in IT project management. By harnessing the power of data analytics, organizations can derive actionable insights to optimize resource allocation, mitigate risks, and streamline project workflows. The integration of data-driven decision making processes enables project managers to make informed choices, fostering adaptability and resilience in the face of dynamic project environments. This research explores the utilization of IT software project performance metrics and historical project data to fuel analysis of how strategies drive business sustainability. Moreover, this paper examined these dimensions with the help of advanced analytics techniques such as multiple linear regression. By aligning IT project management practices with business sustainability objectives, organizations can enhance project success rates, while minimizing adverse environmental impacts and resource consumption. Prospectively, this kind of research should expand to determining factors for the adoption of data-driven strategies to empower organizations to achieve sustainable IT project management excellence, ensuring long-term competitiveness and value creation in a digitalized world.

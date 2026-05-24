@@ -1,0 +1,9 @@
+Title: Static Loads Influence on Modal Properties of the Composite Cylindrical Shells with Integrated Sensor Network
+Authors: Aleksey Mironov, Andrejs Kovalovs, Andris Chate, Aleksejs Safonovs
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063327
+Paper ID: pmc_PMC10054144
+
+Abstract:
+This paper presents the results of experimental and numerical studies of the dynamic parameters of composite cylindrical shells loaded under axial tension. Five composite structures were manufactured and loaded up to 4817 N. The static load test was carried out by hanging the load to the lower part of a cylinder. The natural frequencies and mode shapes were measured during testing using a network of 48 piezoelectric sensors that measure the strains of composite shells. The primary modal estimates were calculated with ARTeMIS Modal 7 software using test data. The methods of modal passport, including modal enhancement, were used to improve the accuracy of the primary estimates and reduce the influence of random factors. To estimate the effect of a static load on the modal properties of a composite structure, a numerical calculation and a comparative analysis of experimental and numerical data was carried out. The results of the numerical study confirmed that natural frequency increases with increasing tensile load. The data obtained from experimental results were not fully consistent with the results of numerical analysis, but showed a consistent pattern, repeating for all samples.

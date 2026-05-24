@@ -1,0 +1,9 @@
+Title: Innovative approaches to the Sustainable Development Goals using Big Earth Data
+Authors: Huadong Guo, Dong Liang, Fang Chen, Zeeshan Shirazi
+Year: 2021
+Venue: Big Earth Data
+DOI: https://doi.org/10.1080/20964471.2021.1939989
+Paper ID: https://openalex.org/W3194112386
+
+Abstract:
+A persistent challenge for the Sustainable Development Goals (SDGs) has been a lack of data for indicators to assess progress towards each goal and varying capacities among nations to conduct these assessments. Rapid developments in big data, however, are facilitating a global approach to the SDGs. Tools and data products are emerging that can be extended to and leveraged by nations that do not yet have the capacity to measure SDG indicators. Big Earth Data, a special class of big data, integrates multi-source data within a geographic context, utilizing the principles and methodologies of the established literature on big data science, applied specifically to Earth system science. This paper discusses the research challenges related to Big Earth Data and the concerted efforts and investments required to make and measure progress towards the SDGs. As an example, the Big Earth Data Science Engineering Program (CASEarth) of the Chinese Academy of Sciences is presented along with other case studies on Big Earth Data in support of the SDGs. Lastly, the paper proposes future priorities for developments in Big Earth Data, such as human resource capacity, digital infrastructure, interoperability, and environmental considerations.

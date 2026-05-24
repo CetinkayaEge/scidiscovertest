@@ -1,0 +1,9 @@
+Title: Heat transfer of generalized second grade fluid with MHD, radiation and exponential heating using Caputo–Fabrizio fractional derivatives approach
+Authors: Sehra Sehra, Afshan Noor, Sami Ul Haq, Saeed Ullah Jan, Ilyas Khan, Abdullah Mohamed
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-22665-4
+Paper ID: pmc_PMC10063610
+
+Abstract:
+The aim of the present work is to apply the Caputo–Fabrizio fractional derivative to the heat transformation of unsteady incompressible second grade fluid. The effects of magneto hydro dynamic and radiation are analyzed. In governing equation of heat transfer nonlinear radiative heat is examined. Exponential heating phenomena is considered at boundary. Firstly, the dimensional governing equations with the initial & boundary conditions are converted into non-dimensional form. Exact analytical solutions are obtained for dimensionless fractional governing equations which consist of momentum and energy equations by using Laplace transform method. Special cases are investigated of the obtained solutions and it is noticed that some well-known results are achieved published in literature from these special cases. At the end, for graphical illustration the influences of different physical parameters like radiation, Prandtl, fractional parameter, Grashof numbers and Magneto hydro dynamic are checked graphically.

@@ -1,0 +1,9 @@
+Title: Advancements in combined electrocoagulation processes for sustainable wastewater treatment: A comprehensive review of mechanisms, performance, and emerging applications
+Authors: Aatif Ali Shah, Sunil Walia, Hossein Kazemian
+Year: 2024
+Venue: Water Research
+DOI: https://doi.org/10.1016/j.watres.2024.121248
+Paper ID: https://openalex.org/W4391672446
+
+Abstract:
+This review explores the potential and challenges of combining electrochemical, especially electrocoagulation (EC) process, with various - wastewater treatment methods such as membranes, chemical treatments, biological methods, and oxidation processes to enhance pollutant removal and reduce costs. It emphasizes the advantages of using electrochemical processes as a pretreatment step, including increased volume and improved quality of permeate water, mitigation of membrane fouling, and lower environmental impact. Pilot-scale studies are discussed to validate the effectiveness of combined EC processes, particularly for industrial wastewater. Factors such as electrode materials, coating materials, and the integration of a third process are discussed as potential avenues for improving the environmental sustainability and cost-effectiveness of the combined EC processes. This review also discusses factors for improvement and explores the EC process combined with Advanced Oxidation Processes (AOP). The conclusion highlights the need for combined EC processes, which include reducing electrode consumption, evaluating energy efficiency, and conducting pilot-scale investigations under continuous flow conditions. Furthermore, it emphasizes future research on electrode materials and technology commercialization. Overall, this review underscores the importance of combined EC processes in meeting the demand for clean water resources and emphasizes the need for further optimization and implementation in industrial applications.

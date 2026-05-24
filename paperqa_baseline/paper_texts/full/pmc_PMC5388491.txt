@@ -1,0 +1,9 @@
+Title: Structure based comprehensive modelling, spatial fingerprints mapping and ADME screening of curcumin analogues as novel ALR2 inhibitors
+Authors: Sant Kumar Verma, Suresh Thareja
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175318
+Paper ID: pmc_PMC5388491
+
+Abstract:
+Aldose reductase (ALR2) inhibition is the most legitimate approach for the management of diabetic complications. The limited triumph in the drug development against ALR2 is mainly because of its close structural similarity with the other members of aldo-keto reductase (AKR) superfamily viz . ALR1, AKR1B10; and lipophilicity problem i . e . poor diffusion of synthetic aldose reductase inhibitors (ARIs) to target tissues. The literature evidenced that naturally occurring curcumin demonstrates relatively specific and non-competitive inhibition towards human recombinant ALR2 over ALR1 and AKR1B10; however β-diketone moiety of curcumin is a specific substrate for liver AKRs and accountable for it’s rapid in vivo metabolism. In the present study, structure based comprehensive modelling studies were used to map the pharmacophoric features/spatial fingerprints of curcumin analogues responsible for their ALR2 specificity along with potency on a data set of synthetic curcumin analogues and naturally occurring curcuminoids. The data set molecules were also screened for drug-likeness or ADME parameters, and the screening data strongly support that curcumin analogues could be proposed as a good drug candidate for the development of ALR2 inhibitors with improved pharmacokinetic profile compared to curcuminoids due to the absence of β-diketone moiety in their structural framework.

@@ -1,0 +1,9 @@
+Title: Sustainability Assessment of Energy Storage Technologies Based on Commercialization Viability: MCDM Model
+Authors: Xiaoyang Shu, Raman Kumar, Rajeev Saha, Nikhil Dev, Željko Stević, Shubham Sharma, Mohammad Rafıghı
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15064707
+Paper ID: https://openalex.org/W4323361955
+
+Abstract:
+Advances in developed and developing countries are more attributable to growth in industrial activities that directly impact increasing energy demand. Energy availability has been inconsistent globally, necessitating energy storage (ES) for use as per requirement. Various energy storage technologies (ESTs) are available in mechanical, electrochemical, electrical, chemical, and thermal forms to fulfil the energy demand of a user as and when required. The factors responsible for making a commercially viable energy storage product are further being researched for an eco-friendly and optimal solution to store energy for a longer duration. Researchers are employing different strategies to evaluate the energy efficiency of storage technologies. This paper uses the VIKOR technique to analyze ESTs while assigning objective weights with the entropy weights method based on identified energy performance indicators and ranking them according to their commercialization viability. The method helps a consumer choose better ESTs as per their requirement while manufacturers compete with each other to enhance the commercial value of their energy storage products. Sensitivity analysis has been performed to understand the uncertainties, pros, and cons with the limitations and scope of using the decision model and thus taking an informed decision. The analysis of different energy storage technologies has indicated Hydrogen Fuel Cells (HFC) to be impressive and promising for the future.

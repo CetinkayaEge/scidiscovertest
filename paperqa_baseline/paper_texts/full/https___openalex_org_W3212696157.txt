@@ -1,0 +1,9 @@
+Title: PD-L1 sustains chronic, cancer cell–intrinsic responses to type I interferon, enhancing resistance to DNA damage
+Authors: HyeonJoo Cheon, Elise Holvey-Bates, Daniel J. McGrail, George R. Stark
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2112258118
+Paper ID: https://openalex.org/W3212696157
+
+Abstract:
+Programmed death ligand 1 (PD-L1), an immune-checkpoint protein expressed on cancer cells, also functions independently of the immune system. We found that PD-L1 inhibits the killing of cancer cells in response to DNA damage in an immune-independent manner by suppressing their acute response to type I interferon (IFN; IFN-I). In addition, PD-L1 plays a critical role in sustaining high levels of constitutive expression in cancer cells of a subset of IFN-induced genes, the IFN-related DNA damage resistance signature (IRDS) which, paradoxically, protects cancer cells. The cyclic GMP-AMP synthase-stimulator of the IFN genes (cGAS-STING) pathway is constitutively activated in a subset of cancer cells in the presence of high levels of PD-L1, thus leading to a constitutive, low level of IFN-β expression, which in turn increases IRDS expression. The constitutive low level of IFN-β expression is critical for the survival of cancer cells addicted to self-produced IFN-β. Our study reveals immune-independent functions of PD-L1 that inhibit cytotoxic acute responses to IFN-I and promote protective IRDS expression by supporting protective chronic IFN-I responses, both of which enhance the resistance of cancer cells to DNA damage.

@@ -1,0 +1,9 @@
+Title: How Internet of Things can influence the sustainability performance of logistics industries – A Chinese case study
+Authors: Suiting Ding, Hauke Ward, Arnold Tukker
+Year: 2023
+Venue: Cleaner Logistics and Supply Chain
+DOI: https://doi.org/10.1016/j.clscn.2023.100094
+Paper ID: https://openalex.org/W4321019995
+
+Abstract:
+The introduction of new information technologies has started reshaping global industrial sectors and supply chains. Due to the introduction of the Internet of Things (IoT) real-time management strategies have been adopted by the global logistics industry, turning the branch into an intelligent service supplier. This paper assesses the influence of IoT on the Chinese logistics sector and related environmental performance between 2011 and 2018. This paper establishes an evaluation framework for the logistics performance under social, economic and environmental dimensions by using time entropy weighting. Using a grey correlation approach, we identify a strong positive correlation between the logistics performance and the IoT market scale. We further find a significant and increasing correlation trend for an expansion of the IoT market and the reduction of carbon and PM 2.5 intensity. The environmental regulation though positively correlated with logistics sustainability, shows less potential to directly improve economic and social performance. It also indirectly promotes sustainability performance of the logistics industry through support for technological innovation. High investment in IoT is estimated to limit the potential of small and medium-sized enterprises to increase their labor compensation and expand the scale of employment. Finally, we project China’s IoT market developments for 2021–2025 using a grey forecasting model considering the influence of investment confidence and COVID-19. The results indicate that China’s share of the global IoT market will likely rise from 18% to 30% by 2025.

@@ -1,0 +1,9 @@
+Title: New design for control cage to enhance coverage and uniformity of shot blasting and its validation using DEM and experiment
+Authors: Hyeryeon Seo, Taehyung Kim, Chulho Yang, Junyoung Park
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-32563-y
+Paper ID: pmc_PMC10063654
+
+Abstract:
+Unlike shot peening, shot blasting is a process that primarily uses shot balls to remove foreign substances from metal surfaces. Shot blasting is classified into air-blowing and impeller-impact types. The latter is widely used in commercial large-scale shot blasting. This study proposes a new control cage with a concave or convex shape to improve coverage and uniformity in the impeller-impact type shot blaster. The effectiveness of the proposed control cage is verified using discrete element methods and experiments. Moreover, the optimal design in terms of mass flow, coverage, and uniformity is confirmed. Additionally, the distribution of marks on the surface is analyzed through experiments and simulations. Further, the shot ball is projected over a wider area on the surface when the new concave and convex model is employed at the control cage. Consequently, we confirm that the control cage with a concave shape forms approximately a 5-% higher coverage than the conventional model and uniform shot marks while using a low mass flow rate.

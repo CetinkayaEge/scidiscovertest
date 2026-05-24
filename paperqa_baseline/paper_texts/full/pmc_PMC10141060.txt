@@ -1,0 +1,9 @@
+Title: 4D-Flow Cardiovascular Magnetic Resonance Sequence for Aortic Assessment: Multi-Vendor and Multi-Magnetic Field Reproducibility in Healthy Volunteers
+Authors: Bruna Punzo, Brigida Ranieri, Liberatore Tramontano, Ornella Affinito, Monica Franzese, Eduardo Bossone, Luca Saba, Carlo Cavaliere, Filippo Cademartiri
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12082960
+Paper ID: pmc_PMC10141060
+
+Abstract:
+Objectives: Four-dimensional (4D) flow cardiac magnetic resonance (CMR) represents an emerging technique for non-invasive evaluation of the aortic flow. The aim of this study was to investigate a 4D-flow CMR sequence for the assessment of thoracic aorta comparing different vendors and different magnetic fields of MR scanner in fifteen healthy volunteers. Methods: CMR was performed on three different MRI scanners: one at 1.5 T and two at 3 T. Flow parameters and planar wall shear stress (WSS) were extracted from six transversal planes along the full thoracic aorta by three operators. Inter-vendor comparability as well as scan–rescan, intra- and interobserver reproducibility were examined. Results: A high heterogeneity was found in the comparisons for each operator and for each scanner in the six transversal planes analysis (Friedman rank-sum test; p -value ≤ 0.05). Among all, the most reproducible measures were extracted for the sinotubular junction plane and for the flow parameters. Conclusions: Our results suggest that standardized procedures have to be defined to make more comparable and reproducible 4D-flow parameters and mainly, clinical impactfulness. Further studies on sequences development are needed to validate 4D-flow MRI assessment across vendors and magnetic fields also compared to a missing gold standard.

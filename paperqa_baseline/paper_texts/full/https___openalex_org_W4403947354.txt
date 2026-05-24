@@ -1,0 +1,9 @@
+Title: The implications of blockchain for logistics operations and sustainability
+Authors: Javed Aslam, Kee‐hung Lai, Yun Bae Kim, Horst Treiblmaier
+Year: 2024
+Venue: Journal of Innovation & Knowledge
+DOI: https://doi.org/10.1016/j.jik.2024.100611
+Paper ID: https://openalex.org/W4403947354
+
+Abstract:
+Empirical studies based on detailed, theory-based analyses are essential for a deep understanding of technology adoption. This study provides an overview of blockchain applications in logistics management, employing a comprehensive theoretical framework. Blockchain is considered a critical digital infrastructure for logistics operations due to its distinctive characteristics, including decentralization, transparency, immutability, real-time information sharing, reliability, and end-to-end visibility. These characteristics address many contemporary logistics challenges. The study introduces a research model that integrates the fit-viability model (FVM) and task technology fit theory (TTF), demonstrating blockchain's suitability for enhancing logistics operational functions and sustainability performance. To validate the model, data were collected from logistics managers of 576 companies and analyzed using partial least squares (PLS) regression. This research offers valuable insights for managers, policymakers, and decision-makers on practical challenges and potential solutions in logistics through the application of blockchain. Furthermore, the study demonstrates that the implementation of blockchain can improve the alignment, resilience, transparency, integration, and sustainability of logistics tasks.

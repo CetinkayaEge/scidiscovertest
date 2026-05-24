@@ -1,0 +1,9 @@
+Title: Artificial Intelligence for Sustainability: A Systematic Review and Critical Analysis of AI Applications, Challenges, and Future Directions
+Authors: Mihaela Toderaş
+Year: 2025
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su17178049
+Paper ID: https://openalex.org/W4414098400
+
+Abstract:
+This comprehensive review critically analyzes the multifaceted role of artificial intelligence (AI) in advancing global sustainability and achieving the Sustainable Development Goals (SDGs). While AI offers powerful solutions for climate action, resource management, and other challenges, its own significant ecological footprint and potential for bias present critical risks that must be proactively managed. This study provides a synthesis of the recent literature (published between 2018 and 2024) to address three primary research questions: (1) What are the main applications of AI for sustainability and their contribution to specific SDGs? (2) What are the primary ecological, socio-economic, and ethical risks of AI adoption? (3) What are the key research gaps and future directions for more sustainable and responsible AI application? A key contribution is a comprehensive, multi-dimensional framework that connects AI applications with an in-depth analysis of their interconnected ecological, algorithmic, and socio-economic risks. This framework, along with a synthesized risk matrix, offers a structured tool for future governance and research, highlighting the need for responsible development to fully leverage AI’s potential for a sustainable future.

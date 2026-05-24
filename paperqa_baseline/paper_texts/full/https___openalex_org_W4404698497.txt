@@ -1,0 +1,9 @@
+Title: Harnessing Deep Learning for Real-Time Water Quality Assessment: A Sustainable Solution
+Authors: Selma Toumi, Sabrina Lekmine, Nabil Touzout, Hamza Moussa, Noureddine Elboughdiri, Reguia Boudraa, Ouided Benslama, Mohammed Kebir, Subhan Danish, Jie Zhang, Abdeltif Amrane, Hichem Tahraoui
+Year: 2024
+Venue: Water
+DOI: https://doi.org/10.3390/w16233380
+Paper ID: https://openalex.org/W4404698497
+
+Abstract:
+This study presents an innovative approach utilizing artificial intelligence (AI) for the prediction and classification of water quality parameters based on physico-chemical measurements. The primary objective was to enhance the accuracy, speed, and accessibility of water quality monitoring. Data collected from various water samples in Algeria were analyzed to determine key parameters such as conductivity, turbidity, pH, and total dissolved solids (TDS). These measurements were integrated into deep neural networks (DNNs) to predict indices such as the sodium adsorption ratio (SAR), magnesium hazard (MH), sodium percentage (SP), Kelley’s ratio (KR), potential salinity (PS), exchangeable sodium percentage (ESP), as well as Water Quality Index (WQI) and Irrigation Water Quality Index (IWQI). The DNNs model, optimized through the selection of various activation functions and hidden layers, demonstrated high precision, with a correlation coefficient (R) of 0.9994 and a low root mean square error (RMSE) of 0.0020. This AI-driven methodology significantly reduces the reliance on traditional laboratory analyses, offering real-time water quality assessments that are adaptable to local conditions and environmentally sustainable. This approach provides a practical solution for water resource managers, particularly in resource-limited regions, to efficiently monitor water quality and make informed decisions for public health and agricultural applications.

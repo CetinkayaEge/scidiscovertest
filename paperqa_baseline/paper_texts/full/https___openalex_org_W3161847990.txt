@@ -1,0 +1,9 @@
+Title: Assessment of Land Degradation in Semiarid Tanzania—Using Multiscale Remote Sensing Datasets to Support Sustainable Development Goal 15.3
+Authors: Jonathan Reith, Gohar Ghazaryan, Francis Muthoni, Olena Dubovyk
+Year: 2021
+Venue: Remote Sensing
+DOI: https://doi.org/10.3390/rs13091754
+Paper ID: https://openalex.org/W3161847990
+
+Abstract:
+Monitoring land degradation (LD) to improve the measurement of the sustainable development goal (SDG) 15.3.1 indicator (“proportion of land that is degraded over a total land area”) is key to ensure a more sustainable future. Current frameworks rely on default medium-resolution remote sensing datasets available to assess LD and cannot identify subtle changes at the sub-national scale. This study is the first to adapt local datasets in interplay with high-resolution imagery to monitor the extent of LD in the semiarid Kiteto and Kongwa (KK) districts of Tanzania from 2000–2019. It incorporates freely available datasets such as Landsat time series and customized land cover and uses open-source software and cloud-computing. Further, we compared our results of the LD assessment based on the adopted high-resolution data and methodology (AM) with the default medium-resolution data and methodology (DM) suggested by the United Nations Convention to Combat Desertification. According to AM, 16% of the area in KK districts was degraded during 2000–2015, whereas DM revealed total LD on 70% of the area. Furthermore, based on the AM, overall, 27% of the land was degraded from 2000–2019. To achieve LD neutrality until 2030, spatial planning should focus on hotspot areas and implement sustainable land management practices based on these fine resolution results.

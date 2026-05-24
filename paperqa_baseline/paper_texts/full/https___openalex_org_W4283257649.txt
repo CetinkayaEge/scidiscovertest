@@ -1,0 +1,9 @@
+Title: Sustained delivery approaches to improving adaptive immune responses
+Authors: Ben S. Ou, Olivia M. Saouaf, Julie Baillet, Eric A. Appel
+Year: 2022
+Venue: Advanced Drug Delivery Reviews
+DOI: https://doi.org/10.1016/j.addr.2022.114401
+Paper ID: https://openalex.org/W4283257649
+
+Abstract:
+The immune system is one of the most important, complex biological networks regulating and protecting human health. Its precise modulation can prevent deadly infections and fight cancer. Accordingly, prophylactic vaccines and cancer immunotherapies are some of the most powerful technologies to protect against potential dangers through training of the immune system. Upon immunization, activation and maturation of B and T cells of the adaptive immune system are necessary for development of proper humoral and cellular protection. Yet, the exquisite organization of the immune system requires spatiotemporal control over the exposure of immunomodulatory signals. For example, while the human immune system has evolved to develop immunity to natural pathogenic infections that often last for weeks, current prophylactic vaccination technologies only expose the immune system to immunomodulatory signals for hours to days. It has become clear that leveraging sustained release technologies to prolong immunogen and adjuvant exposure can increase the potency, durability, and quality of adaptive immune responses. Over the past several years, tremendous breakthroughs have been made in the design of novel biomaterials such as nanoparticles, microparticles, hydrogels, and microneedles that can precisely control the presentation of immunomodulatory signals to the immune system. In this review, we discuss relevant sustained release strategies and their corresponding benefits to cellular and humoral responses.

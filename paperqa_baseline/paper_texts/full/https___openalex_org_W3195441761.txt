@@ -1,0 +1,9 @@
+Title: Ultra‐Thin Protective Coatings for Sustained Photoelectrochemical Water Oxidation with Mo:BiVO4
+Authors: Michael Beetz, Sebastian Häringer, Patrick Elsäßer, Jonathan Kampmann, Lena Sauerland, Florian Wolf, Marcella Günther, Anna Fischer, Thomas Bein
+Year: 2021
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202011210
+Paper ID: https://openalex.org/W3195441761
+
+Abstract:
+Abstract As global warming caused by the greenhouse effect is becoming one of the major issues of the 21st century, hydrogen as an alternative to fossil‐based fuels and other energy carriers has gained importance in current research. One promising approach to produce hydrogen is photoelectrochemical water splitting, which uses solar energy combined with suitable semiconducting photoabsorber electrodes to generate hydrogen and oxygen from water. However, most water splitting applications reported to date suffer from degradation of the photoabsorber, resulting in a loss of activity after just a few seconds or minutes. Here, a new approach using conformal ultra‐thin and oxidation‐stable protective layers is presented on Mo:BiVO 4 thin films combined with a thin Fe 0.1 Ni 0.9 O water oxidation co‐catalyst, applied by electrochemical deposition, to achieve unprecedented photocurrent densities of up to 5.6 mA cm −2 under simulated AM1.5G illumination and a neutral pH while providing more stable electrodes for water oxidation.

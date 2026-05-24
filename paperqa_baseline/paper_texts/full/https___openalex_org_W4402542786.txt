@@ -1,0 +1,9 @@
+Title: The automated sustainability auditor: Does artificial intelligence curtail greenwashing behavior in Chinese firms?
+Authors: Muhammad Kaleem Khan, Chunhui Huo, R. M. Ammar Zahid, Umer Sahil Maqsood
+Year: 2024
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3961
+Paper ID: https://openalex.org/W4402542786
+
+Abstract:
+Abstract Corporate stakeholders are intrigued by the potential collaboration between AI and environmental reporting to maintain competitiveness in the digital and sustainable economy. This exploration is crucial given the persistent pressures driving companies to engage in greenwashing practices for legitimacy. Aiming to shed light on the function of AI in reducing the prevalence of greenwashing by Chinese businesses, the findings, derived from panel data estimation of Chinese A‐share firms, suggest that the implementation of AI has a positive impact on the fight against greenwashing. The investigation presents compelling evidence that greenwashing mechanism control can be accelerated by AI technologies. Organizations that invest strategically in artificial intelligence exhibit a diminished propensity to obfuscate environmental performance by means of AI‐enabled automation and enhanced data‐driven decision‐making. Intriguingly, the study demonstrates that the substantial disparate greenwashing impact of AI depends on ownership structure. In comparison to non‐SOEs, state‐owned enterprises (SOEs) demonstrate diminished AI control over greenwashing. Significantly, the research utilizes a variety of validation methods, such as instrumental variable approach, propensity score matching, and two‐stage least squares, to ensure the validity of the primary findings.

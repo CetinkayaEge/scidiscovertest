@@ -1,0 +1,9 @@
+Title: A systematic scoping review of the sustainability of vertical farming, plant-based alternatives, food delivery services and blockchain in food systems
+Authors: Anne Charlotte Bunge, Amanda Wood, Afton Halloran, Line Gordon
+Year: 2022
+Venue: Nature Food
+DOI: https://doi.org/10.1038/s43016-022-00622-8
+Paper ID: https://openalex.org/W4308483074
+
+Abstract:
+Food system technologies (FSTs) are being developed to accelerate the transformation towards sustainable food systems. Here we conducted a systematic scoping review that accounts for multiple dimensions of sustainability to describe the extent, range and nature of peer-reviewed literature that assesses the sustainability performance of four FSTs: plant-based alternatives, vertical farming, food deliveries and blockchain technology. Included literature had a dominant focus on environmental sustainability and less on public health and socio-economic sustainability. Gaps in the literature include empirical assessments on the sustainability of blockchain technology, plant-based seafood alternatives, public health consequences of food deliveries and socio-economic consequences of vertical farming. The development of a holistic sustainability assessment framework that demonstrates the impact of deploying FSTs is needed to guide investments in and the development of sustainable food innovation.

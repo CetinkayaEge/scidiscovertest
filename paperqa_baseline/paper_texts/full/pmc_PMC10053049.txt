@@ -1,0 +1,9 @@
+Title: Gaussian Mixture Cardinalized Probability Hypothesis Density(GM-CPHD): A Distributed Filter Based on the Intersection of Parallel Inverse Covariances
+Authors: Liu Wang, Guifen Chen, Guangjiao Chen
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062921
+Paper ID: pmc_PMC10053049
+
+Abstract:
+A distributed GM-CPHD filter based on parallel inverse covariance crossover is designed to attenuate the local filtering and uncertain time-varying noise affecting the accuracy of sensor signals. First, the GM-CPHD filter is identified as the module for subsystem filtering and estimation due to its high stability under Gaussian distribution. Second, the signals of each subsystem are fused by invoking the inverse covariance cross-fusion algorithm, and the convex optimization problem with high-dimensional weight coefficients is solved. At the same time, the algorithm reduces the burden of data computation, and data fusion time is saved. Finally, the GM-CPHD filter is added to the conventional ICI structure, and the generalization capability of the parallel inverse covariance intersection Gaussian mixture cardinalized probability hypothesis density (PICI-GM-CPHD) algorithm reduces the nonlinear complexity of the system. An experiment on the stability of Gaussian fusion models is organized and linear and nonlinear signals are compared by simulating the metrics of different algorithms, and the results show that the improved algorithm has a smaller metric OSPA error than other mainstream algorithms. Compared with other algorithms, the improved algorithm improves the signal processing accuracy and reduces the running time. The improved algorithm is practical and advanced in terms of multisensor data processing.

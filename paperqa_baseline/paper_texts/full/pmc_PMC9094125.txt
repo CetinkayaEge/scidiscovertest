@@ -1,0 +1,9 @@
+Title: Recent advances in metal-organic framework-based materials for anti-staphylococcus aureus infection
+Authors: Mei Yang, Jin Zhang, Yinhao Wei, Jie Zhang, Chuanmin Tao
+Year: 2022
+Venue: Nano Research
+DOI: 10.1007/s12274-022-4302-x
+Paper ID: pmc_PMC9094125
+
+Abstract:
+The rapid spread of staphylococcus aureus ( S. aureus ) causes an increased morbidity and mortality, as well as great economic losses in the world. Anti- S. aureus infection becomes a major challenge for clinicians and nursing professionals to address drug resistance. Hence, it is urgent to explore high efficiency, low toxicity, and environmental-friendly methods against S. aureus . Metal-organic frameworks (MOFs) represent great potential in treating S. aureus infection due to the unique features of MOFs including tunable chemical constitute, open crystalline structure, and high specific surface area. Especially, these properties endow MOF-based materials outstanding antibacterial effect, which can be mainly attributed to the continuously released active components and the exerted catalytic activity to fight bacterial infection. Herein, the structural characteristics of MOFs and evaluation method of antimicrobial activity are briefly summarized. Then we systematically give an overview on their recent progress on antibacterial mechanisms, metal ion sustained-release system, controlled delivery system, catalytic system, and energy conversion system based on MOF materials. Finally, suggestions and direction for future research to develop and mechanism understand MOF-based materials are discussed in antibacterial application.

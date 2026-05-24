@@ -1,0 +1,9 @@
+Title: Sustained oxygenation accelerates diabetic wound healing by promoting epithelialization and angiogenesis and decreasing inflammation
+Authors: Ya Guan, Hong Niu, Zhongting Liu, Yu Dang, Jie Shen, Mohamed A. Zayed, Liang Ma, Jianjun Guan
+Year: 2021
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abj0153
+Paper ID: https://openalex.org/W3195672774
+
+Abstract:
+Nonhealing diabetic wounds are common complications for diabetic patients. Because chronic hypoxia prominently delays wound healing, sustained oxygenation to alleviate hypoxia is hypothesized to promote diabetic wound healing. However, sustained oxygenation cannot be achieved by current clinical approaches, including hyperbaric oxygen therapy. Here, we present a sustained oxygenation system consisting of oxygen-release microspheres and a reactive oxygen species (ROS)-scavenging hydrogel. The hydrogel captures the naturally elevated ROS in diabetic wounds, which may be further elevated by the oxygen released from the administered microspheres. The sustained release of oxygen augmented the survival and migration of keratinocytes and dermal fibroblasts, promoted angiogenic growth factor expression and angiogenesis in diabetic wounds, and decreased the proinflammatory cytokine expression. These effects significantly increased the wound closure rate. Our findings demonstrate that sustained oxygenation alone, without using drugs, can heal diabetic wounds.

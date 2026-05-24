@@ -1,0 +1,9 @@
+Title: Current advancements in fungal engineering technologies for Sustainable Development Goals
+Authors: Shilpa Garg, Minji Kim, David Romero-Suarez
+Year: 2024
+Venue: Trends in Microbiology
+DOI: https://doi.org/10.1016/j.tim.2024.11.001
+Paper ID: https://openalex.org/W4405099066
+
+Abstract:
+Fungi are emerging as key organisms in tackling global challenges related to agricultural and food productivity, environmental sustainability, and climate change. This review delves into the transformative potential of fungal genomics and metabolic engineering, two forefront fields in modern biotechnology. Fungal genomics entails the thorough analysis and manipulation of fungal genetic material to enhance desirable traits, such as pest resistance, nutrient absorption, and stress tolerance. Metabolic engineering focuses on altering the biochemical pathways within fungi to optimize the production of valuable compounds, including biofuels, pharmaceuticals, and industrial enzymes. By artificial intelligence (AI)-driven integration of genetic and metabolic engineering techniques, we can harness the unique capabilities of both filamentous and mycorrhizal fungi to develop sustainable agricultural practices, enhance soil health, and promote ecosystem restoration. This review explores the current state of research, technological advancements, and practical applications, offering insights into scalability challenges on how integrative fungal genomics and metabolic engineering can deliver innovative solutions for a sustainable future.

@@ -1,0 +1,9 @@
+Title: Towards the smart and sustainable transformation of Reverse Logistics 4.0: a conceptualization and research agenda
+Authors: Xu Sun, Hao Yu, Wei Deng Solvang
+Year: 2022
+Venue: Environmental Science and Pollution Research
+DOI: https://doi.org/10.1007/s11356-022-22473-3
+Paper ID: https://openalex.org/W4291824679
+
+Abstract:
+The recent advancement of digitalization and information and communication technology (ICT) has not only shifted the manufacturing paradigm towards the Fourth Industrial Revolution, namely Industry 4.0, but also provided opportunities for a smart logistics transformation. Despite studies have focused on improving the smartness, connectivity, and autonomy of isolated logistics operations with a primary focus on the forward channels, there is still a lack of a systematic conceptualization to guide the coming paradigm shift of reverse logistics, for instance, how "individualization" and "service innovation" should be interpreted in a smart reverse logistics context? To fill this gap, Reverse logistics 4.0 is defined, from a holistic perspective, in this paper to offer a systematic analysis of the technological impact of Industry 4.0 on reverse logistics. Based on the reported research and case studies from the literature, the conceptual framework of smart reverse logistics transformation is proposed to link Industry 4.0 enablers, smart service and operation transformation, and targeted sustainability goals. A smart reverse logistics architecture is also given to allow a high level of system integration enabled by intelligent devices and smart portals, autonomous robots, and advanced analytical tools, where the value of technological innovations can be exploited to solve various reverse logistics problems. Thus, the contribution of this research lies, through conceptual development, in presenting a clear roadmap and research agenda for the reverse logistics transformation in Industry 4.0.

@@ -1,0 +1,9 @@
+Title: Modeling and theorizing with agent-based sustainable development
+Authors: Davide Secchi, Volker Grimm, Dinuka B. Herath, Fabian Homberg
+Year: 2023
+Venue: Environmental Modelling & Software
+DOI: https://doi.org/10.1016/j.envsoft.2023.105891
+Paper ID: https://openalex.org/W4388764598
+
+Abstract:
+Sustainable development is an expression that permeates large areas of knowledge. For it to be meaningful, environmental aspects must be considered as intertwined with economic and social aspects. This is a multidisciplinary effort that is made challenging by the task of synthesizing the many emerging contributions. This has limited theory development where the definition of mechanisms, assumptions, dynamics and the determination of the entities involved are largely left to the reader’s imagination. We suggest to engage with the rationale of agent-based modeling to better define the assumptions, mechanisms, and boundaries of sustainable development. For this, the O-part of the widely used ODD protocol for describing agent-based models (ABM) provides a standardized structure, which we here augment to OsDD to specifically take into account sustainability issues. Even without formulating and implementing the full ABM, using OsDD requires to be explicit about the mechanisms, assumptions, dynamics and the entities involved and thereby provides a common language for theory development.

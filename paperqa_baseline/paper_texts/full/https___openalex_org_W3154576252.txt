@@ -1,0 +1,9 @@
+Title: Sustainability in additive manufacturing: Exploring the mechanical potential of recycled PET filaments
+Authors: Helge Schneevogt, Kevin Stelzner, Buket Yılmaz, Bilen Emek Abali, André Klunker, Christina Völlmecke
+Year: 2021
+Venue: Composites and Advanced Materials
+DOI: https://doi.org/10.1177/26349833211000063
+Paper ID: https://openalex.org/W3154576252
+
+Abstract:
+Herein, the effects of recycled polymers on the mechanical properties of additively manufactured specimens, specifically those derived by fused deposition modelling, are determined. The intention is to investigate how 3D-printing can be more sustainable and how recycled polymers compare against conventional ones. Initially, sustainability is discussed in general and more sustainable materials such as recycled filaments and biodegradable filaments are introduced. Subsequently, a comparison of the recycled filament recycled Polyethylene terephthalate (rePET) and a conventional Polyethylene terephthalate with glycol (PETG) filament is drawn upon their mechanical performance under tension, and the geometry and slicing strategy for the 3D-printed specimens is discussed. Finally, the outcomes from the experiments are compared against numerically determined results and conclusions are drawn.

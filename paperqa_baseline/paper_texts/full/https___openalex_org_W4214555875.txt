@@ -1,0 +1,9 @@
+Title: Sustained Exosome‐Guided Macrophage Polarization Using Hydrolytically Degradable PEG Hydrogels for Cutaneous Wound Healing: Identification of Key Proteins and MiRNAs, and Sustained Release Formulation
+Authors: Gijung Kwak, Jing Cheng, Hyo‐Suk Kim, Sukyung Song, Su Jin Lee, Yoosoo Yang, Ji Hoon Jeong, Ji Eun Lee, Phillip B. Messersmith, Sun Hwa Kim
+Year: 2022
+Venue: Small
+DOI: https://doi.org/10.1002/smll.202200060
+Paper ID: https://openalex.org/W4214555875
+
+Abstract:
+Macrophages (Mφs) are characterized by remarkable plasticity, an essential component of chronic inflammation. Thus, an appropriate and timely transition from proinflammatory (M1) to anti-inflammatory (M2) Mφs during wound healing is vital to promoting resolution of acute inflammation and enhancing tissue repair. Herein, exosomes derived from M2-Mφs (M2-Exos), which contain putative key regulators driving Mφ polarization, are used as local microenvironmental cues to induce reprogramming of M1-Mφs toward M2-Mφs for effective wound management. As an injectable controlled release depot for exosomes, hydrolytically degradable poly(ethylene glycol) (PEG) hydrogels (Exogels) are designed and employed for encapsulating M2-Exos to maximize their therapeutic effects in cutaneous wound healing. The degradation time of the hydrogels is adjustable from 6 days or up to 27 days by controlling the crosslinking density and tightness. The localization of M2-Exos leads to a successful local transition from M1-Mφs to M2-Mφs within the lesion for more than 6 days, followed by enhanced therapeutic effects including rapid wound closure and increased healing quality in an animal model for cutaneous wound healing. Collectively, the hydrolytically degradable PEG hydrogel-based exosome delivery system may serve as a potential tool in regulating local polarization state of Mφs, which is crucial for tissue homeostasis and wound repair.

@@ -1,0 +1,9 @@
+Title: Employing active learning in the optimization of culture medium for mammalian cells
+Authors: Takamasa Hashizume, Yuki Ozawa, Bei-Wen Ying
+Year: 2023
+Venue: NPJ Systems Biology and Applications
+DOI: 10.1038/s41540-023-00284-7
+Paper ID: pmc_PMC10229643
+
+Abstract:
+Medium optimization is a crucial step during cell culture for biopharmaceutics and regenerative medicine; however, this step remains challenging, as both media and cells are highly complex systems. Here, we addressed this issue by employing active learning. Specifically, we introduced machine learning to cell culture experiments to optimize culture medium. The cell line HeLa-S3 and the gradient-boosting decision tree algorithm were used to find optimized media as pilot studies. To acquire the training data, cell culture was performed in a large variety of medium combinations. The cellular NAD(P)H abundance, represented as A450, was used to indicate the goodness of culture media. In active learning, regular and time-saving modes were developed using culture data at 168 h and 96 h, respectively. Both modes successfully fine-tuned 29 components to generate a medium for improved cell culture. Intriguingly, the two modes provided different predictions for the concentrations of vitamins and amino acids, and a significant decrease was commonly predicted for fetal bovine serum (FBS) compared to the commercial medium. In addition, active learning-assisted medium optimization significantly increased the cellular concentration of NAD(P)H, an active chemical with a constant abundance in living cells. Our study demonstrated the efficiency and practicality of active learning for medium optimization and provided valuable information for employing machine learning technology in cell biology experiments.

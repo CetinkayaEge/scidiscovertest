@@ -1,0 +1,9 @@
+Title: Managing the Development of a Sustainable Digital Village
+Authors: Yudi Agusta
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097575
+Paper ID: https://openalex.org/W4381704959
+
+Abstract:
+Area development is a critical issue that has a strong relation to economic, social, and environmental performances in an area. Boosting area development can be achieved using digitalization. However, digitalization is predominantly available for city life. Rural areas or villages are often left out, because of infrastructure deficits. With enough infrastructure support, rural areas in developed countries have also faced social problems such as population drops. Therefore, a comprehensive solution regarding the use of digitalization to boost rural area development is needed. This concept is often called the digital village. This paper proposes a concept for managing and evaluating the development of a sustainable digital village. The concept is developed based on the reviewed aims, expected deliverables, and existing concerns in previous digital village implementations. To justify the model, management theories, practices and available technologies are also reviewed. The proposed concept for digital village management is also compared to the concepts of enterprise architecture and project management, to evaluate its usability. Sustainability evaluations are performed regarding the three-bottom line of evaluation and the use of ICT resources in the integration of ICT into human resource management (HRM) and supply chain management (SCM). A development model and evaluation method are also proposed to make sure that digital village development and evaluation can be conducted efficiently.

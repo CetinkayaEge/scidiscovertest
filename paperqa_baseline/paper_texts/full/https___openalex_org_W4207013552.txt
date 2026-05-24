@@ -1,0 +1,9 @@
+Title: External Environmental Analysis for Sustainable Bike-Sharing System Development
+Authors: Elżbieta Macioszek, M. Cieśla
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15030791
+Paper ID: https://openalex.org/W4207013552
+
+Abstract:
+The paper introduces a discussion regarding the development of a public bike-sharing system, considering random factors, based on selected external environmental analysis methods. The global energy crisis is forcing scientists to continuously improve energy-efficient sustainable methods and scientific solutions. It is particularly important in transportation since transport activities and the constant increase in the number of vehicles have a large share in global energy consumption. The following study investigates the social, technological, economic, environmental, and political aspects of bike-sharing systems in cities. The research purpose of the article is to select the most important macro-environmental factors and their mutual interaction influencing the sustainable development of bike-sharing systems based on the Polish cities case study. The evaluation was carried out through expert methods with STEEP environmental analysis, evaluation of factors with the weighted score, and structural analysis method with MICMAC computer application. The classification of key factors influencing the development of a bike-sharing system has divided them into five groups. It can support public transport service providers and organizers. This can optimize the planning process with decision-making based on future environmental trends.

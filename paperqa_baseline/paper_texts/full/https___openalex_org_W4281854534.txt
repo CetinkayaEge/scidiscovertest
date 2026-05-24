@@ -1,0 +1,9 @@
+Title: Optimal Waste-to-Energy Strategy Assisted by Fuzzy MCDM Model for Sustainable Solid Waste Management
+Authors: Nguyễn Văn Thành
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14116565
+Paper ID: https://openalex.org/W4281854534
+
+Abstract:
+In Vietnam, rapid population and economic growth are responsible for the recent increase in solid waste. Energy production from waste is now becoming an effective solution around the world, especially in Vietnam, to solve environmental challenges while contributing to the country’s sustainable energy production. Waste-to-energy production has become a solution to the municipal solid waste problem, which is projected to increase by 10–16%. In this study, the author proposed a fuzzy MCDM model to assess and select a solid-waste-to-energy plant location in Vietnam. In the first stage, the fuzzy analytic hierarchy process (FAHP) technique is utilized to analyze the relative weight of the primary and secondary evaluation elements, and a combined compromise solution (CoCoSo) model is used to rank the candidates in the final stage. This is the first solid-waste-to-energy plant location evaluation and selection model used in a renewable energy project in Vietnam based on expert interviews and a literature review. This study’s contribution can be a significant guide in analyzing and selecting appropriate locations for solid-waste-to-energy projects, as well as for decision makers and investors in other renewable energy projects in Vietnam and throughout the world.

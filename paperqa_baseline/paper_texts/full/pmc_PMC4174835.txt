@@ -1,0 +1,9 @@
+Title: Comparison of Trichothecene Biosynthetic Gene Expression between Fusarium graminearum and Fusarium asiaticum
+Authors: Theresa Lee, Seung-Ho Lee, Jean Young Shin, Hee-Kyoung Kim, Sung-Hwan Yun, Hwang-Yong Kim, Soohyung Lee, Jae-Gee Ryu
+Year: 2014
+Venue: The Plant Pathology Journal
+DOI: 10.5423/PPJ.OA.11.2013.0107
+Paper ID: pmc_PMC4174835
+
+Abstract:
+Nivalenol (NIV) and deoxynivalenol (DON) are predominant Fusarium- producing mycotoxins found in grains, which are mainly produced by Fusarium asiaticum and F. graminearum. NIV is found in most of cereals grown in Korea, but the genetic basis for NIV production by F. asiaticum has not been extensively explored. In this study, 12 genes belonging to the trichothecene biosynthetic gene cluster were compared at the transcriptional level between two NIV-producing F. asiaticum and four DON-producing F. graminearum strains. Chemical analysis revealed that time-course toxin production patterns over 14 days did not differ between NIV and DON strains, excluding F. asiaticum R308, which was a low NIV producer. Both quantitative real-time polymerase chain reaction and Northern analysis revealed that the majority of TRI gene transcripts peaked at day 2 in both NIV and DON producers, which is 2 days earlier than trichothecene accumulation in liquid medium. Comparison of the gene expression profiles identified an NIV-specific pattern in two transcription factor-encoding TRI genes ( TRI6 and TRI10 ) and TRI101 , which showed two gene expression peaks during both the early and late incubation periods. In addition, the amount of trichothecenes produced by both DON and NIV producers were correlated with the expression levels of TRI genes, regardless of the trichothecene chemotypes. Therefore, the reduced production of NIV by R308 compared to NIV or DON by the other strains may be attributable to the significantly lower expression levels of the TRI genes, which showed early expression patterns.

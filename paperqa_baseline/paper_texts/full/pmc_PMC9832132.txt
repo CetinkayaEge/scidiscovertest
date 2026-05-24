@@ -1,0 +1,9 @@
+Title: Optimal vaccination: various (counter) intuitive examples
+Authors: Jean-François Delmas, Dylan Dronnier, Pierre-André Zitt
+Year: 2023
+Venue: Journal of Mathematical Biology
+DOI: 10.1007/s00285-022-01858-5
+Paper ID: pmc_PMC9832132
+
+Abstract:
+In previous articles, we formalized the problem of optimal allocation strategies for a (perfect) vaccine in an infinite-dimensional metapopulation model. The aim of the current paper is to illustrate this theoretical framework with multiple examples where one can derive the analytic expression of the optimal strategies. We discuss in particular the following points: whether or not it is possible to vaccinate optimally when the vaccine doses are given one at a time (greedy vaccination strategies); the effect of assortativity (that is, the tendency to have more contacts with similar individuals) on the shape of optimal vaccination strategies; the particular case where everybody has the same number of neighbors.

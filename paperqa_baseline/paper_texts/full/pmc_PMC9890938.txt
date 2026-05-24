@@ -1,0 +1,9 @@
+Title: Construction of multiphasic membraneless organelles towards spontaneous spatial segregation and directional flow of biochemical reactions †
+Authors: Fariza Zhorabek, Manisha Sandupama Abesekara, Jianhui Liu, Xin Dai, Jinqing Huang, Ying Chau
+Year: 2023
+Venue: Chemical Science
+DOI: 10.1039/d2sc05438h
+Paper ID: pmc_PMC9890938
+
+Abstract:
+Many intracellular membraneless organelles (MLOs) appear to adapt a hierarchical multicompartment organization for efficient coordination of highly complex reaction networks. Recapitulating such an internal architecture in biomimetic platforms is, therefore, an important step to facilitate the functional understanding of MLOs and to enable the design of advanced microreactors. Herein, we present a modular bottom-up approach for building synthetic multiphasic condensates using a set of engineered multivalent polymer–oligopeptide hybrids. These hybrid constructs exhibit dynamic phase separation behaviour generating membraneless droplets with a subdivided interior featuring distinct chemical and physical properties, whereby a range of functional biomolecules can be spontaneously enriched and spatially segregated. The platform also attains separated confinement of transcription and translation reactions in proximal compartments, while allowing inter-compartment communication via a directional flow of reactants. With advanced structural and functional features attained, this system can be of great value as a MLO model and as a cell-free system for multiplex chemical biosynthesis. The bottom-up construction of multiphase droplets with structural and functional mimicry of intracellular organelles, capable of spatiotemporal confinement and coordination of complex reaction networks.

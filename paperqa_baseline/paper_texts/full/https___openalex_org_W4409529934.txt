@@ -1,0 +1,9 @@
+Title: Advancements in Biochar as a Sustainable Adsorbent for Water Pollution Mitigation
+Authors: Devika Laishram, S. N. Kim, Seul‐Yi Lee, Soo‐Jin Park
+Year: 2025
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202410383
+Paper ID: https://openalex.org/W4409529934
+
+Abstract:
+Biochar, a carbon-rich material produced from the partial combustion of biomass wastes is often termed "black gold" for its potential in water pollution mitigation and carbon sequestration. By customizing biomass feedstock and optimizing preparation strategies, biochar can be engineered with specific physicochemical properties to enhance its effectiveness in removing contaminants from wastewater. Recent studies demonstrate that biochar can achieve > 90% removal efficiency for heavy metals such as lead and cadmium, > 85% adsorption capacity for organic pollutants such as dyes and phenols, and > 80% reduction in microplastics and nanoplastics. This review explores recent advancements in biochar preparation technologies, such as pyrolysis, carbonization, gasification, torrefaction, and rectification, along with physical, chemical, and biological modifications that are crucial for efficient pollutant removal. The core of this review focuses on biochar's applications in removing a wide range of pollutants from wastewater, detailing mechanisms for organic pollutants, inorganic salts, pharmaceutical contaminants, microplastics, nanoplastics, and volatile organic compounds. In addition, the review introduces machine learning as a key technique for optimizing biochar production and functionality, showcasing its potential in advancing biochar technology. The conclusion provides a comprehensive outlook on biochar's future, emphasizing ongoing research and its role in sustainable environmental management.

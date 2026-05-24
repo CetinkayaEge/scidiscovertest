@@ -1,0 +1,9 @@
+Title: Radical ring-opening polymerization of sustainably-derived thionoisochromanone
+Authors: Emily A. Prebihalo, Anna M. Luke, Yernaidu Reddi, Christopher J. LaSalle, Vijay M. Shah, Christopher J. Cramer, Theresa M. Reineke
+Year: 2023
+Venue: Chemical Science
+DOI: https://doi.org/10.1039/d2sc06040j
+Paper ID: https://openalex.org/W4379094150
+
+Abstract:
+-orthoester intermediate that leads to a sustained chain-end. This sustained chain-end allowed for the synthesis of a block copolymer of TIC and styrene under entirely free radical conditions without explicit radical control methods such as reversible addition-fragmentation chain transfer polymerization (RAFT). We also report the statistical copolymerization of ring-retained TIC and styrene, confirmed by elemental analysis and energy-dispersive X-ray spectroscopy (EDX). Computations into the energetic details of copolymerization indicate kinetic drivers for ring-retaining behavior. This work provides the first example of a sustainable feedstock for rROP and provides the field with the first six-membered monomer susceptible to rROP, expanding the monomer scope to aid our fundamental understanding of thionolactone rROP behavior.

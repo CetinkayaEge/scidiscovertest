@@ -1,0 +1,9 @@
+Title: A Kalman Filter-Based Short Baseline RTK Algorithm for Single-Frequency Combination of GPS and BDS
+Authors: Sihao Zhao, Xiaowei Cui, Feng Guan, Mingquan Lu
+Year: 2014
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s140815415
+Paper ID: pmc_PMC4178979
+
+Abstract:
+The emerging Global Navigation Satellite Systems (GNSS) including the BeiDou Navigation Satellite System (BDS) offer more visible satellites for positioning users. To employ those new satellites in a real-time kinematic (RTK) algorithm to enhance positioning precision and availability, a data processing model for the dual constellation of GPS and BDS is proposed and analyzed. A Kalman filter-based algorithm is developed to estimate the float ambiguities for short baseline scenarios. The entire work process of the high-precision algorithm based on the proposed model is deeply investigated in detail. The model is validated with real GPS and BDS data recorded from one zero and two short baseline experiments. Results show that the proposed algorithm can generate fixed baseline output with the same precision level as that of either a single GPS or BDS RTK algorithm. The significantly improved fixed rate and time to first fix of the proposed method demonstrates a better availability and effectiveness on processing multi-GNSSs.

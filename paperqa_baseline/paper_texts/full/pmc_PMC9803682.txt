@@ -1,0 +1,9 @@
+Title: Experimental demonstration of classical analogous time-dependent superposition of states
+Authors: Kazi T. Mahmood, M. Arif Hasan
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27239-y
+Paper ID: pmc_PMC9803682
+
+Abstract:
+One of the quantum theory concepts on which quantum information processing stands is superposition. Here we provide experimental evidence for the existence of classical analogues to the coherent superposition of energy states, which is made possible by the Hertz-type nonlinearity of the granules together with the external driving field. The granules’ nonlinear vibrations are projected into the linear modes of vibration, which depend on one another through the phase and form a coherent superposition. We show that the amplitudes of the coherent states form the components of a state vector that spans a two-dimensional Hilbert space, and time enables the system to span its Hilbert space parametrically. Thus, the superposition of states can be exploited in two-state quantum-like computations without decoherence and wave function collapse. Finally, we demonstrate the experimental realization of applying a reversible Hadamard gate to a pure base state that brings the state into a superposition.

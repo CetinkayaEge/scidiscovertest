@@ -1,0 +1,9 @@
+Title: Stock assessment models overstate sustainability of the world’s fisheries
+Authors: Graham J. Edgar, Amanda E. Bates, Nils C. Krueck, Susan C. Baker, Rick D. Stuart‐Smith, Christopher J. Brown
+Year: 2024
+Venue: Science
+DOI: https://doi.org/10.1126/science.adl6282
+Paper ID: https://openalex.org/W4401751614
+
+Abstract:
+Effective fisheries management requires accurate estimates of stock biomass and trends; yet, assumptions in stock assessment models generate high levels of uncertainty and error. For 230 fisheries worldwide, we contrasted stock biomass estimates at the time of assessment with updated hindcast estimates modeled for the same year in later assessments to evaluate systematic over- or underestimation. For stocks that were overfished, low value, or located in regions with rising temperatures, historical biomass estimates were generally overstated compared with updated assessments. Moreover, rising trends reported for overfished stocks were often inaccurate. With consideration of bias identified retrospectively, 85% more stocks than currently recognized have likely collapsed below 10% of maximum historical biomass. The high uncertainty and bias in modeled stock estimates warrants much greater precaution by managers.

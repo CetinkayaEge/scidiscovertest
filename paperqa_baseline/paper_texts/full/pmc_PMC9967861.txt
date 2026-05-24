@@ -1,0 +1,9 @@
+Title: Nanoparticle Printing for Microfluidic Applications: Bipolar Electrochemistry and Localized Raman Sensing Spots
+Authors: Alessia Broccoli, Anke R. Vollertsen, Pauline Roels, Aaike van Vugt, Albert van den Berg, Mathieu Odijk
+Year: 2023
+Venue: Micromachines
+DOI: 10.3390/mi14020453
+Paper ID: pmc_PMC9967861
+
+Abstract:
+The local integration of metal nanoparticle films on 3D-structured polydimethylsiloxane (PDMS)-based microfluidic devices is of high importance for applications including electronics, electrochemistry, electrocatalysis, and localized Raman sensing. Conventional processes to locally deposit and pattern metal nanoparticles require multiple steps and shadow masks, or access to cleanroom facilities, and therefore, are relatively imprecise, or time and cost-ineffective. As an alternative, we present an aerosol-based direct-write method, in which patterns of nanoparticles generated via spark ablation are locally printed with sub-mm size and precision inside of microfluidic structures without the use of lithography or other masking methods. As proof of principle, films of Pt or Ag nanoparticles were printed in the chambers of a multiplexed microfluidic device and successfully used for two different applications: Screening electrochemical activity in a high-throughput fashion, and localized sensing of chemicals via surface-enhanced Raman spectroscopy (SERS). The versatility of the approach will enable the generation of functional microfluidic devices for applications that include sensing, high-throughput screening platforms, and microreactors using catalytically driven chemical conversions.

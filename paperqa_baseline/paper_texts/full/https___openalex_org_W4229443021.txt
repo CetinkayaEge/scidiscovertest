@@ -1,0 +1,9 @@
+Title: Corporate Sustainability and Risk Management—The U-Shaped Relationships of Disaggregated ESG Rating Scores and Risk in the German Capital Market
+Authors: Fabio Korinth, Rainer Lueg
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14095735
+Paper ID: https://openalex.org/W4229443021
+
+Abstract:
+This study addresses the relationship between the (dis)aggregated ESG rating and different types of risk (i.e., market risk, idiosyncratic risk, total risk) in the German stock market. We investigate not only the overall ESG rating and the E, S, and G pillar scores but also all the underlying category scores. Thereby, we provide in-depth insight into diverse CS operations. We cover 454 firm years (2012–2019) using ordinary least squares regression with firm and year fixed effects. Our main insights are the U-shaped relationships between CS and risk: Ecological investments first decrease systematic risk (beta), while overinvestment increases systematic risk again. Likewise, social investments initially decrease idiosyncratic risk, while overinvestment increases idiosyncratic risk again. Further findings suggest only one linkage between systematic risk and the social pillar score. In the category scores, a few more relevant linkages were identified, which indicates that disaggregation of the ESG ratings increases the explanatory power of models. In respect to findings from other capital markets, it appears that the effects of the ESG ratings on risk may depend on the existing level of sustainability in the capital market. Last, our study provides insights into the nonlinearity of the CS–risk relationships.

@@ -1,0 +1,9 @@
+Title: Investigation of variables affecting the immunogenicity of blood group antigens using a calculation formula
+Authors: Yousun Chung, Han Joo Kim, Hyungsuk Kim, Sang-Hyun Hwang, Heung-Bum Oh, Dae-Hyun Ko
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-36078-4
+Paper ID: pmc_PMC10229618
+
+Abstract:
+Previous studies on the immunogenicity of blood group antigens have utilized a formula incorporating antigen frequencies and relative frequencies of unexpected antibodies to the corresponding antigens. This study was aimed at investigating other variables potentially affecting the estimation of immunogenicity using this formula. We examined the effect of multiple transfusions, as there are more chance for a recipient to receive repeated transfusions rather than only once; the effect of antigen density, which may vary depending on homozygote/heterozygote; and the effect of unreliability of the observed frequency of rare antibodies and antigens. For multiple transfusions, the expected antibody frequency increased as the number of transfusions increased. For antigen density, the immunogenicity was falsely low for the low-prevalence antigen, and this tendency intensified as the effect of antigen density increased. Expected antibody frequencies were significantly affected by the uncertainties caused by estimation of small numbers. This study showed that the effects of various factors on the immunogenicity of blood group antigens depended on the antigen frequency. Estimating the immunogenicity of blood group antigens requires acknowledging the diverse factors that can affect it and interpreting the findings with caution.

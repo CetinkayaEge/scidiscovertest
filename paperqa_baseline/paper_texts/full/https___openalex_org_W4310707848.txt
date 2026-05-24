@@ -1,0 +1,9 @@
+Title: Waste-Derived Catalysts for Water Electrolysis: Circular Economy-Driven Sustainable Green Hydrogen Energy
+Authors: Zhijie Chen, Sining Yun, Lan Wu, Jiaqi Zhang, Xingdong Shi, Wei Wei, Yiwen Liu, Renji Zheng, Ning Han, Bing‐Jie Ni
+Year: 2022
+Venue: Nano-Micro Letters
+DOI: https://doi.org/10.1007/s40820-022-00974-7
+Paper ID: https://openalex.org/W4310707848
+
+Abstract:
+The sustainable production of green hydrogen via water electrolysis necessitates cost-effective electrocatalysts. By following the circular economy principle, the utilization of waste-derived catalysts significantly promotes the sustainable development of green hydrogen energy. Currently, diverse waste-derived catalysts have exhibited excellent catalytic performance toward hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and overall water electrolysis (OWE). Herein, we systematically examine recent achievements in waste-derived electrocatalysts for water electrolysis. The general principles of water electrolysis and design principles of efficient electrocatalysts are discussed, followed by the illustration of current strategies for transforming wastes into electrocatalysts. Then, applications of waste-derived catalysts (i.e., carbon-based catalysts, transitional metal-based catalysts, and carbon-based heterostructure catalysts) in HER, OER, and OWE are reviewed successively. An emphasis is put on correlating the catalysts' structure-performance relationship. Also, challenges and research directions in this booming field are finally highlighted. This review would provide useful insights into the design, synthesis, and applications of waste-derived electrocatalysts, and thus accelerate the development of the circular economy-driven green hydrogen energy scheme.

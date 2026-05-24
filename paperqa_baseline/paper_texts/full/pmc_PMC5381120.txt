@@ -1,0 +1,9 @@
+Title: Low-intensity pulsed ultrasound (LIPUS) prevents periprosthetic inflammatory loosening through FBXL2-TRAF6 ubiquitination pathway
+Authors: Xiang Zhao, Gangsheng Zhao, Zhongli Shi, Chenhe Zhou, Yunlin Chen, Bin Hu, Shigui Yan
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45779
+Paper ID: pmc_PMC5381120
+
+Abstract:
+Previous studies have shown that Low intensity pulsed ultrasound(LIPUS) prevents polyethylene-debris-induced periprosthetic loosening in vivo , but the details of the mechanism by which it does so remain unclear. In this article, we used polyethylene debris induced RAW 264.7 cells as the in vitro model, and tested the effect of LIPUS on this model. Changes in the level of inflammatory cytokines, cell proliferation, and apoptosis were assessed. Gene overexpression and siRNA technique were applied, and the levels of expression of FBXL2, TRAF6, ERK, and related inflammatory cytokines were also measured. Results indicated that FBXL2-mediated TRAF6 ubiquitination and degradation also plays an important role in aseptic periprosthetic loosening process, and LIPUS prevents such loosening by strengthening this pathway.

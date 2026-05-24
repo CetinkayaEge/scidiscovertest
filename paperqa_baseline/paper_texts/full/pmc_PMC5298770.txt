@@ -1,0 +1,9 @@
+Title: Entropy-Based Registration of Point Clouds Using Terrestrial Laser Scanning and Smartphone GPS
+Authors: Maolin Chen, Siying Wang, Mingwei Wang, Youchuan Wan, Peipei He
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010197
+Paper ID: pmc_PMC5298770
+
+Abstract:
+Automatic registration of terrestrial laser scanning point clouds is a crucial but unresolved topic that is of great interest in many domains. This study combines terrestrial laser scanner with a smartphone for the coarse registration of leveled point clouds with small roll and pitch angles and height differences, which is a novel sensor combination mode for terrestrial laser scanning. The approximate distance between two neighboring scan positions is firstly calculated with smartphone GPS coordinates. Then, 2D distribution entropy is used to measure the distribution coherence between the two scans and search for the optimal initial transformation parameters. To this end, we propose a method called Iterative Minimum Entropy (IME) to correct initial transformation parameters based on two criteria: the difference between the average and minimum entropy and the deviation from the minimum entropy to the expected entropy. Finally, the presented method is evaluated using two data sets that contain tens of millions of points from panoramic and non-panoramic, vegetation-dominated and building-dominated cases and can achieve high accuracy and efficiency.

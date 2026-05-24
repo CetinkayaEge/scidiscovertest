@@ -1,0 +1,9 @@
+Title: Towards sustainable horizons: A comprehensive blueprint for Mars colonization
+Authors: Florian Neukart
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e26180
+Paper ID: https://openalex.org/W4391849124
+
+Abstract:
+This paper thoroughly explores the feasibility, challenges, and proposed solutions for establishing a sustainable human colony on Mars. We quantitatively and qualitatively analyze the Martian environment, highlighting key challenges such as radiation exposure, which astronauts could experience at minimum levels of 0.66 sieverts during a round trip, and the complications arising from Mars' thin atmosphere and extreme temperature variations. Technological advancements are examined, including developing Martian concrete, which utilizes sulfur as a binding agent, and innovative life support strategies like aeroponics and algae bioreactors. The human aspect of colonization is addressed, focusing on long-term space habitation's psychological and physiological impacts. We also present a cost-benefit analysis of in-situ resource utilization versus Earth-based supply missions, emphasizing economic viability with the potential reduction in launch costs through reusable rocket technology. A timeline for the colonization process is suggested, spanning preliminary unmanned missions for resource assessment, followed by short-term manned missions leading to sustainable settlements over several decades. The paper concludes with recommendations for future research, particularly in refining resource utilization techniques and advancing health and life support systems, to solidify the foundation for Mars colonization. This comprehensive assessment aims to guide researchers, policymakers, and stakeholders in planning and executing a strategic and informed approach to making Mars colonization a reality.

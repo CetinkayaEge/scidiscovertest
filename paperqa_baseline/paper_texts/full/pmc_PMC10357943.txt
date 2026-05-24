@@ -1,0 +1,9 @@
+Title: Shining a light on the dark proteome: Non‐canonical open reading frames and their encoded miniproteins as a new frontier in cancer biology
+Authors: Zoe Posner, Ian Yannuzzi, John R. Prensner
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4708
+Paper ID: pmc_PMC10357943
+
+Abstract:
+Abstract In the decades following the discovery that genes encode proteins, scientists have tried to exhaustively and comprehensively characterize the human genome. Recent advances in computational methods along with transcriptomic and proteomic techniques have now shown that historically non‐coding genomic regions may contain non‐canonical open reading frames (ncORFs), which may encode functional miniproteins or otherwise exert regulatory activity through coding‐independent functions. Increasingly, it is clear that these ncORFs may play critical roles in major human diseases such as cancer. In this review, we summarize the history and current progress of ncORF research and explore the known functions of ncORFs and the miniproteins they may encode. We particularly highlight the emerging body of evidence supporting a role for ncORFs and miniproteins contributions in cancer. Finally, we provide a blueprint for high‐priority areas of future research for ncORFs in cancer, focusing on ncORF detection, functional characterization, and therapeutic intervention.

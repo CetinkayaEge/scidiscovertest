@@ -1,0 +1,9 @@
+Title: Engineered Living Materials For Sustainability
+Authors: Bolin An, Yan‐Yi Wang, Yuan‐Yuan Huang, Xinyu Wang, Yuzhu Liu, Dongmin Xun, George M. Church, Zhuojun Dai, Xiao Yi, Tzu‐Chieh Tang, Chao Zhong
+Year: 2022
+Venue: Chemical Reviews
+DOI: https://doi.org/10.1021/acs.chemrev.2c00512
+Paper ID: https://openalex.org/W4311314067
+
+Abstract:
+Recent advances in synthetic biology and materials science have given rise to a new form of materials, namely engineered living materials (ELMs), which are composed of living matter or cell communities embedded in self-regenerating matrices of their own or artificial scaffolds. Like natural materials such as bone, wood, and skin, ELMs, which possess the functional capabilities of living organisms, can grow, self-organize, and self-repair when needed. They also spontaneously perform programmed biological functions upon sensing external cues. Currently, ELMs show promise for green energy production, bioremediation, disease treatment, and fabricating advanced smart materials. This review first introduces the dynamic features of natural living systems and their potential for developing novel materials. We then summarize the recent research progress on living materials and emerging design strategies from both synthetic biology and materials science perspectives. Finally, we discuss the positive impacts of living materials on promoting sustainability and key future research directions.

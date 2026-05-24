@@ -1,0 +1,9 @@
+Title: Sustainable, walkable cities for the elderly: Identification of the built environment for walkability by activity purpose
+Authors: Yujin Kim, Hwasoo Yeo, Lisa Lim
+Year: 2023
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2023.105004
+Paper ID: https://openalex.org/W4387747712
+
+Abstract:
+This study investigates the relationship between the built environment and walking behavior for socially resilient urban design to promote walking in the aging population. We used a total of 117,259 GPS points and 160 person-day data points for elderly individuals living in Uijeongbu-si, Gyeonggi-do, Korea. The differences in the walking environments selected based on the walking purpose were analyzed using a random forest method, and the nonlinear relationship was investigated. In addition, an in-depth analysis was performed by adopting an interpretation approach from global and local perspectives. The findings highlight the significance of walking street pleasure and network properties for leisure walking. Specifically, a green area ratio of 15% or more positively relationship path choice for leisure, underscoring the importance of sufficient green space. Conversely, the high proportion of green areas typically has negative implications for commercial walking. Road connectivity and integration are predominantly negatively associated with route choice for leisure, indicating a decreased preference for highly integrated roads during leisure walking activities. These findings provide valuable insights for an evidence-based urban design strategy to make walkable environments. It can contribute to urban planning and policy, particularly the development of tailored walkable environments for the older population.

@@ -1,0 +1,9 @@
+Title: Trehalose dimycolate interferes with FcγR-mediated phagosome maturation through Mincle, SHP-1 and FcγRIIB signalling
+Authors: Emmanuel C. Patin, Anna C. Geffken, Sam Willcocks, Christoph Leschczyk, Albert Haas, Falk Nimmerjahn, Roland Lang, Theresa H. Ward, Ulrich E. Schaible
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0174973
+Paper ID: pmc_PMC5383150
+
+Abstract:
+The causative agent of tuberculosis, Mycobacterium tuberculosis (M . tuberculosis) , contains an abundant cell wall glycolipid and a crucial virulence factor, trehalose-6,6’-dimycolate (TDM). TDM causes delay of phagosome maturation and thus promotes survival of mycobacteria inside host macrophages by a not fully understood mechanism. TDM signals through the Monocyte-INducible C-type LEctin (Mincle), a recently identified pattern recognition receptor. Here we show that recruitment of Mincle by TDM coupled to immunoglobulin (Ig)G-opsonised beads during Fcγ receptor (FcγR)-mediated phagocytosis interferes with phagosome maturation. In addition, modulation of phagosome maturation by TDM requires SH2-domain-containing inositol polyphosphate 5’ phosphatase (SHP-1) and the FcγRIIB, which strongly suggests inhibitory downstream signalling of Mincle during phagosome formation. Overall, our study reveals important mechanisms contributing to the virulence of TDM.

@@ -1,0 +1,9 @@
+Title: Liposome Deformation Induced by Membrane-Binding Peptides
+Authors: Kayano Izumi, Chihiro Saito, Ryuji Kawano
+Year: 2023
+Venue: Micromachines
+DOI: 10.3390/mi14020373
+Paper ID: pmc_PMC9967443
+
+Abstract:
+This paper presents an investigation of liposome deformation and shape distortion using four membrane-binding peptides: TAT and C105Y as cell-penetrating peptides (CPPs), and melittin and ovispirin as antimicrobial peptides (AMPs). Liposome deformation was monitored utilizing fluorescent microscopy, while the binding of peptides to the DOPC membrane was estimated through capacitance measurements. The degree of liposome deformation and shape distortion was found to be higher for the CPPs compared to the AMPs. Additionally, it was observed that C105Y did not induce liposome rupture, unlike the other three peptides. We propose that these variations in liposome distortion may be attributed to differences in secondary structure, specifically the presence of an α-helix or random coil. Our studies offer insight into the use of peptides to elicit control of liposome architecture and may offer a promising approach for regulating the bodies of liposomal molecular robots.

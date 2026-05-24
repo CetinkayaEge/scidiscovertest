@@ -1,0 +1,9 @@
+Title: Cancer Immunotherapy with CAR T Cells: Well-trodden Paths and Journey Along Lesser-known Routes
+Authors: Anze Smole
+Year: 2022
+Venue: Radiology and Oncology
+DOI: 10.2478/raon-2022-0049
+Paper ID: pmc_PMC9784369
+
+Abstract:
+Abstract Background Chimeric antigen receptor (CAR) T cell therapy is a clinically approved cancer immunotherapy approach using genetically engineered T cells. The success of CAR T cells has been met with challenges regarding efficacy and safety. Although a broad spectrum of CAR T cell variants and applications is emerging, this review focuses on CAR T cells for the treatment of cancer. In the first part, the general principles of adoptive cell transfer, the architecture of the CAR molecule, and the effects of design on function are presented. The second part describes five conceptual challenges that hinder the success of CAR T cells; immunosuppressive tumour microenvironment, T cell intrinsic properties, tumour targeting, manufacturing cellular product, and immune-related adverse events. Throughout the review, selected current approaches to address these issues are presented. Conclusions Cancer immunotherapy with CAR T cells represents a paradigm shift in the treatment of certain blood cancers that do not respond to other available treatment options. Well-trodden paths taken by pioneers led to the first clinical approval, and now the journey continues down lesser-known paths to treat a variety of cancers and other serious diseases with CAR T cells.

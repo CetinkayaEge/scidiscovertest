@@ -1,0 +1,9 @@
+Title: ROA and ROE Forecasting in Iron and Steel Industry Using Machine Learning Techniques for Sustainable Profitability
+Authors: Mehmet Kayakuş, Burçin Tutcu, Mustafa Terzioğlu, Hasan Talaş, Güler Ferhan Ünal Uyar
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097389
+Paper ID: https://openalex.org/W4367599097
+
+Abstract:
+Return on equity (ROE) and return on assets (ROA) are important indicators that reveal the sustainability of a company’s profitability performance for both managers and investors. The correct prediction of these indicators will provide a basis for the strategic decisions made by the company managers. The estimation of these signs is a significant factor in supporting the decisions and up-to-date knowledge of potential investors. In this study, return on equity and return on assets were estimated using artificial neural networks (ANNs), multiple linear regression (MLR), and support vector regression (SVR) on the financial data of thirteen companies operating in the iron and steel sector. The success of predicting ROA in the designed model was 86.4% for ANN, 79.9% for SVR, and 74% for MLR. The success of estimating the ROE of the same model was 85.8% for ANN, 80.9% for SVR, and 63.8% for MLR. It is concluded that ANN and SVR can produce successful prediction results for ROA and ROE both accurately and reasonably.

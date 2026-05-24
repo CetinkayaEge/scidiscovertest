@@ -1,0 +1,9 @@
+Title: Business Models and Sustainability Plans in the FinTech, InsurTech, and PropTech Industry: Evidence from Spain
+Authors: Javier Sada Bittini, Salvador Cruz Rambaud, Joaquín López Pascual, Roberto Moro Visconti
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912088
+Paper ID: https://openalex.org/W4297227002
+
+Abstract:
+After describing the main features of the Spanish companies belonging to the FinTech, InsurTech, and PropTech sectors, the main objective of this study is to analyze whether their B2B/B2C business models are related to the existence of sustainability plans. Specifically, this paper analyzes whether the existence of a sustainability department is a determining factor for the business model adopted by the Spanish FinTechs, InsurTechs, and PropTechs. By using the multinomial logit regression, other factors such as the current closeness of companies to the sustainable development goals (SDGs), the sensitivity to domestic and European FinTech/InsurTech regulations, and the perception of FinTechs about such European regulations are debated before conclusions are drawn for a future research agenda.

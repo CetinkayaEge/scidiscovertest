@@ -1,0 +1,9 @@
+Title: Loss of BRG1 induces CRC cell senescence by regulating p53/p21 pathway
+Authors: Guihua Wang, Yinjia Fu, Fuqing Hu, Jinqing Lan, Feng Xu, Xi Yang, Xuelai Luo, Jing Wang, Junbo Hu
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.1
+Paper ID: pmc_PMC5386468
+
+Abstract:
+Brahma-related gene-1 (BRG1) is the specific ATPase of switch/sucrose nonfermentable chromatin-remodeling complex that is aberrantly expressed or mutated in various cancers. However, the exact role of BRG1 in oncogenesis remains unknown. In this study, we demonstrate that the knockdown (KD) of BRG1 promotes cellular senescence by influencing the SIRT1/p53/p21 signal axis in colorectal cancer (CRC). In particular, we reveal that the expression level of BRG1 is inversely correlated with p21, one of the classic senescence regulators, and is decreased in senescent CRC cells. KD of BRG1 promoting senescence is indicated by the increase of senescence-associated β -galactosidase (SA- β -gal) activity, inhibition of cell proliferation, induction of cell cycle arrest, and formation of senescence-associated heterochromatin foci. BRG1 binds to SIRT1 and interferes with SIRT1-mediated deacetylation of p53 at K382. Rescue experiments by co-silencing p53 or treatment with EX527, a SIRT1-specific inhibitor, abrogated the cellular senescence induced by KD of BRG1. BRG1 KD cells resulted in smaller tumor formation than that in control cells in vivo . Collectively, our study shows that BRG1 has an important role in cellular senescence and tumor growth. The BRG1/SIRT1/p53 signal axis is a novel mechanism of cell senescence in CRC and is a new potential target for cancer therapy.

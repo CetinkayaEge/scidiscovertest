@@ -1,0 +1,9 @@
+Title: Low T-cell proportion in the tumor microenvironment is associated with immune escape and poor survival in diffuse large B-cell lymphoma
+Authors: Joo Y. Song, Mary Nwangwu, Ting-Fang He, Weiwei Zhang, Hany Meawad, Victoria Bedell, Joyce Murata-Collins, Pamela Skrabek, Michel R. Nasr, David Scott, James Godfrey, Peter Lee, Wing C. Chan, Dennis D. Weisenburger, Anamarija M. Perry, Alex F. Herrera
+Year: 2023
+Venue: Haematologica
+DOI: 10.3324/haematol.2022.282265
+Paper ID: pmc_PMC10388272
+
+Abstract:
+The tumor microenvironment (TME) is important in the pathogenesis and prognosis of lymphoma. Previous studies have demonstrated that features of the diffuse large B-cell lymphoma (DLBCL) TME can be associated with prognosis, but questions remain about the mechanisms underlying these TME features, and the interplay between tumor cells and the local TME. Therefore, we performed multispectral immunofluorescence (mIF) using two 6-color panels to interrogate the cellular proportions of T-cell subsets, macrophages, and natural killer cells in 57 cases of de novo DLBCL treated with R-CHOP chemotherapy. We found that very low CD3 + T-cell proportion and low CD4 + PD1 + and CD8 + PD1 + T cells have poor survival compared to those with a high T-cell proportion. Also, cases with concurrently low TIM3 and PD1 have a poor prognosis. This poor prognosis with low T-cell proportion was validated using immune deconvolution of gene expression profiling data from 351 cases of DLBCL and an additional cohort of 53 cases of DLBCL using routine immunohistochemistry. In addition, cases with loss of B2M, HLA I and/or HLA II protein expression on the tumor cells also had a low T-cell proportion, providing evidence that lack of these proteins allows for immune evasion. Overall, our results show that patients with DLBCL with a low T-cell proportion in the TME have a poor survival when treated with R-CHOP and exhibit mechanisms of immune escape.

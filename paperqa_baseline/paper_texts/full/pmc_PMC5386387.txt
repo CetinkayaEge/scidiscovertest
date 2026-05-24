@@ -1,0 +1,9 @@
+Title: Tsc1 expression by dendritic cells is required to preserve T-cell homeostasis and response
+Authors: Yuechen Luo, Wenwen Li, Gang Yu, Juan Yu, Ling Han, Ting Xue, Zhina Sun, Song Chen, Chunming Fang, Chunxiao Zhao, Qing Niu, Fei Yang, Zhongchao Han, Tao Cheng, Yun Zeng, Fang Liao, Guogang Xu, Xiaoming Feng
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2016.487
+Paper ID: pmc_PMC5386387
+
+Abstract:
+Dendritic cells (DCs) are pivotal to the induction of adaptive T-cell immune responses. Recent evidence highlights a critical role of tuberous sclerosis complex 1 (Tsc1), a primarily upstream negative regulator of mammalian target of rapamycin (mTOR), in DC development, but whether and how Tsc1 directly regulate mature DC function in vivo remains elusive. Here we show that selective disruption of Tsc1 in DCs results in a lymphoproliferative disorder with the spontaneous activation of T cells. Tsc1 deficiency results in the activation of mTORC1-PPAR γ pathway, which leads to the upregulation of neuropilin-1 (Nrp1) expression on DCs to stimulate naive T-cell proliferation. However, Tsc1-deficient DCs have defects in the ability to induce antigen-specific T-cell responses in vitro and in vivo owing to impaired survival during antigen transportation and presentation. Indeed, Tsc1 promotes DC survival through restraining independent mTORC1 and ROS-Bim pathways. Our study identifies Tsc1 as a crucial signaling checkpoint in DCs essential for preserving T-cell homeostasis and response.

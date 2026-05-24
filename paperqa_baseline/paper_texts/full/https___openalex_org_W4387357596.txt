@@ -1,0 +1,9 @@
+Title: Burning question: Are there sustainable strategies to prevent microbial metal corrosion?
+Authors: Di Wang, Enze Zhou, Dake Xu, Derek R. Lovley
+Year: 2023
+Venue: Microbial Biotechnology
+DOI: https://doi.org/10.1111/1751-7915.14347
+Paper ID: https://openalex.org/W4387357596
+
+Abstract:
+oxidation. Traditional strategies for curbing microbial metal corrosion include cathodic protection, scrapping, a diversity of biocides, alloys that form protective layers or release toxic metal ions, and polymer coatings. However, these approaches are typically expensive and/or of limited applicability and not environmentally friendly. Biotechnology may provide more effective and sustainable solutions. Biocides produced with microbes can be less toxic to eukaryotes, expanding the environments for potential application. Microbially produced surfactants can diminish biofilm formation by corrosive microbes, as can quorum-sensing inhibitors. Amendments of phages or predatory bacteria have been successful in attacking corrosive microbes in laboratory studies. Poorly corrosive microbes can form biofilms and/or deposit extracellular polysaccharides and minerals that protect the metal surface from corrosive microbes and their metabolites. Nitrate amendments permit nitrate reducers to outcompete highly corrosive sulphate-reducing microbes, reducing corrosion. Investigation of all these more sustainable corrosion mitigation strategies is in its infancy. More study, especially under environmentally relevant conditions, including diverse microbial communities, is warranted.

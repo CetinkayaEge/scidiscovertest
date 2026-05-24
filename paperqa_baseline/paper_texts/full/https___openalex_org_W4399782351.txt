@@ -1,0 +1,9 @@
+Title: Towards Sustainable Materials: A Review of Acylhydrazone Chemistry for Reversible Polymers
+Authors: Donya Ramimoghadam, Daniel J. Eyckens, Richard A. Evans, Graeme Moad, Susan Holmes, Ranya Simons
+Year: 2024
+Venue: Chemistry - A European Journal
+DOI: https://doi.org/10.1002/chem.202401728
+Paper ID: https://openalex.org/W4399782351
+
+Abstract:
+Transitioning towards a circular economy, extensive research has focused on dynamic covalent bonds (DCBs) to pave the way for more sustainable materials. These bonds enable debonding and rebonding on demand, as well as facilitating end-of-life recycling. Acylhydrazone/hydrazone chemistry offers a material with high stability under neutral and basic conditions making it a promising candidate for materials research, though the material is susceptible to acid degradation. However, this degradation under acidic conditions can be exploited, making it widely applicable in self-healing and biomedical fields, with potential for reprocessing and recycling. This review highlights studies exploring the reversibility of acylhydrazone/hydrazone bonds in various polymers, altering their properties, and utilizing them in applications such as self-healing, reprocessing, and recycling. The review also focuses on how the mechanical properties are affected by the presence of dynamic linkages, and methods to improve the mechanical performance.

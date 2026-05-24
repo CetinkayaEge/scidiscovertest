@@ -1,0 +1,9 @@
+Title: Impacts of COVID-19 on Transport Modes and Mobility Behavior: Analysis of Public Discourse in Twitter
+Authors: Muhammad Ahsanul Habib, Md Asif Hasan Anik
+Year: 2021
+Venue: Transportation Research Record
+DOI: 10.1177/03611981211029926
+Paper ID: pmc_PMC10149523
+
+Abstract:
+This study proposes a framework to analyze public discourse in Twitter to understand the impacts of COVID-19 on transport modes and mobility behavior. It also identifies reopening challenges and potential reopening strategies that are discussed by the public. First, the study collects 15,776 tweets that relate to personal opinions on transportation services posted between May 15 and June 15, 2020. Next, it applies text mining and topic modeling techniques to the tweets to determine the prominent themes, terms, and topics in those discussions to understand public feelings, behavior, and broader sentiments about the changes brought about by COVID-19 on transportation systems. Results reveal that people are avoiding public transport and shifting to using private car, bicycle, or walking. Bicycle sales have increased remarkably but car sales have declined. Cycling and walking, telecommuting, and online schools are identified as possible solutions to COVID-19 mobility problems and to reduce car usage with an aim to tackle traffic congestion in the post-pandemic world. People appreciated government decisions for funding allocation to public transport, and asked for the reshaping, restoring, and safe reopening of transit systems. Protecting transit workers, riders, shop customers and staff, and office employees is identified as a crucial reopening challenge, whereas mask wearing, phased reopening, and social distancing are proposed as effective reopening strategies. This framework can be used as a tool by decision makers to enable a holistic understanding of public opinions on transportation services during COVID-19 and formulate policies for a safe reopening.

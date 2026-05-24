@@ -1,0 +1,9 @@
+Title: Inhibitors of the Ubiquitin-Mediated Signaling Pathway Exhibit Broad-Spectrum Antiviral Activities against New World Alphaviruses
+Authors: Niloufar A. Boghdeh, Brittany McGraw, Michael D. Barrera, Carol Anderson, Haseebullah Baha, Kenneth H. Risner, Ifedayo V. Ogungbe, Farhang Alem, Aarthi Narayanan
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030655
+Paper ID: pmc_PMC10059822
+
+Abstract:
+New World alphaviruses including Venezuelan Equine Encephalitis Virus (VEEV) and Eastern Equine Encephalitis Virus (EEEV) are mosquito-transmitted viruses that cause disease in humans and equines. There are currently no FDA-approved therapeutics or vaccines to treat or prevent exposure-associated encephalitic disease. The ubiquitin proteasome system (UPS)-associated signaling events are known to play an important role in the establishment of a productive infection for several acutely infectious viruses. The critical engagement of the UPS-associated signaling mechanisms by many viruses as host–pathogen interaction hubs led us to hypothesize that small molecule inhibitors that interfere with these signaling pathways will exert broad-spectrum inhibitory activity against alphaviruses. We queried eight inhibitors of the UPS signaling pathway for antiviral outcomes against VEEV. Three of the tested inhibitors, namely NSC697923 (NSC), bardoxolone methyl (BARM) and omaveloxolone (OMA) demonstrated broad-spectrum antiviral activity against VEEV and EEEV. Dose dependency and time of addition studies suggest that BARM and OMA exhibit intracellular and post-entry viral inhibition. Cumulatively, our studies indicate that inhibitors of the UPS-associated signaling pathways exert broad-spectrum antiviral outcomes in the context of VEEV and EEEV infection, supporting their translational application as therapeutic candidates to treat alphavirus infections.

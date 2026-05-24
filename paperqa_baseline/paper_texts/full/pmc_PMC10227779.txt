@@ -1,0 +1,9 @@
+Title: Severe SARS-CoV-2 infection as a marker of undiagnosed cancer: a population-based study
+Authors: Adeline Dugerdil, Laura Semenzato, Alain Weill, Mahmoud Zureik, Antoine Flahault
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-36013-7
+Paper ID: pmc_PMC10227779
+
+Abstract:
+No study has yet investigated if a severe SARS-CoV-2 infection represents a marker of an undiagnosed cancer. This population-based study, using the SNDS database, identified from 02/15/2020 to 08/31/2021, 41,302 individuals hospitalized in intensive care unit due to SARS-CoV-2 (ICU-gr) and 713,670 control individuals not hospitalized for SARS-CoV-2 (C-gr). Individuals were matched according to year of birth, sex and French department. The cancer incidence was compared in the two groups during the follow-up period (index date-12/31/2021), using Cox proportional hazards models adjusted on matching variables, socioeconomic characteristics and comorbidities. In the ICU-gr, 2.2% (n = 897) was diagnosed with a cancer in the following months, compared to 1.5% (n = 10,944) in the C-gr. The ICU-gr had a 1.31 higher risk of being diagnosed with a cancer following hospital discharge compared to the C-gr (aHR 1.31, 95% CI 1.22–1.41). A global similar trend was found when competing risk of death was taken into account (aHR 1.25, 95% CI 1.16–1.34). A significant higher risk was found concerning renal (aHR 3.16, 95% CI 2.33–4.27), hematological (aHR 2.54, 95% CI 2.07–3.12), colon (aHR 1.72, 95% CI 1.34–2.21), and lung (aHR 1.70, 95% CI 1.39–2.08) cancers. This suggests that a severe SARS-CoV-2 infection may represent a marker of an undiagnosed cancer.

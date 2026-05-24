@@ -1,0 +1,9 @@
+Title: Towards Sustainable and Smart Cities: Replicable and KPI-Driven Evaluation Framework
+Authors: Ana Quijano, José L. Hernández, Pierre Nouaille, Mikko J. Virtanen, Beatriz Sánchez-Sarachu, Francesc Pardo-Bosch, Jörg Knieilng
+Year: 2022
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings12020233
+Paper ID: https://openalex.org/W4220951322
+
+Abstract:
+Sustainability is pivotal in the urban transformation strategy in order to reach more resource-efficient, resilient and smarter cities. The goal of being a sustainable city should drive the decisions for city interventions, and measuring city progress is a key step for this process. There are many initiatives aiming at defining indicators and assessment procedures, but there is no convergence in the definition of terms and application methodologies, making their real implementation complex. Within mySMARTLife project (GA#731297), a KPI-driven evaluation framework has been defined with the aim of covering the multiple pillars of a smart and sustainable city (i.e., environment, energy, mobility, ICT, citizens, economy, governance) in a holistic way. This methodology also defines the concepts and terms to guide urban planners and/or experts at the time of implementing the framework for any specific city. The evaluation framework has been deployed in the cities of Nantes, Hamburg and Helsinki, and some lessons have been learned, such as the necessity of providing a definition of measurement boundary to avoid biased interpretations. Due to a co-creation strategy, the main issues from the cities have been taken into consideration in order to increase the replicability of the results.

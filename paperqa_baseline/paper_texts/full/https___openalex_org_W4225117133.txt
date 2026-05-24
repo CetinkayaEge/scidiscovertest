@@ -1,0 +1,9 @@
+Title: A Tale of Two Mice: Sustainable Electronics Design and Prototyping
+Authors: Vicente Arroyos, Maria Viitaniemi, Nicholas Keehn, Vaidehi Oruganti, Winston A. Saunders, Karin Strauß, Vikram Iyer, Bichlien H. Nguyen
+Year: 2022
+Venue: CHI Conference on Human Factors in Computing Systems Extended Abstracts
+DOI: https://doi.org/10.1145/3491101.3519823
+Paper ID: https://openalex.org/W4225117133
+
+Abstract:
+Electronics have become integral to all aspects of life and form the physical foundation of computing; however electronic waste (e-waste) is among the fastest growing global waste streams and poses significant health and climate implications. We present a design guideline for sustainable electronics and use it to build a functional computer mouse with a biodegradable printed circuit board and case. We develop an end-to-end digital fabrication process using accessible maker tools to build circuits on biodegradable substrates that reduce embodied carbon and toxic waste. Our biodegradable circuit board sends data over USB at 800 kbps and generates 12 MHz signals without distortion. Our circuit board dissolves in water (in 5.5 min at 100 °C, 5 hrs at 20 °C) and we successfully recover and reuse two types of chips after dissolving. We also present an environmental assessment showing our design reduces the environmental carbon impact (kg CO2e) by 60.2% compared to a traditional mouse.

@@ -1,0 +1,9 @@
+Title: Optimal selection and investment-allocation decisions for sustainable supplier development practices
+Authors: Chunguang Bai, Kannan Govindan, Dileep G. Dhavale
+Year: 2023
+Venue: Annals of Operations Research
+DOI: https://doi.org/10.1007/s10479-023-05367-6
+Paper ID: https://openalex.org/W4381463317
+
+Abstract:
+Abstract Organization’s sustainability performance is influenced by its suppliers’ sustainability performance. This relationship makes sustainable supplier development a strategic competitive option for a buyer or focal organization. When considering sustainable supplier development practices (SSDPs) adoption, organizations have to balance and consider their limited financial resources and operational constraints. It becomes necessary to both select the best SSDPs set and investment allocation among the selected SSDP set such that the organization can maximize overall sustainability performance level. In this paper, an integrated formal modeling methodology using DEMATEL, the NK model, and multi-objective linear programming model is used support this objective. The proposed methodology is evaluated in a practical sustainable supply chain field study of an equipment manufacturing company in China. Through case study, we found that the interdependency among SSDPs must be considered in SSDPs selection and investment allocation problem. Theoretical, managerial and methodology implications, conclusions, and directions for future research are also presented.

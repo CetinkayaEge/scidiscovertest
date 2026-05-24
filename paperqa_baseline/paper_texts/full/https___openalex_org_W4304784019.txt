@@ -1,0 +1,9 @@
+Title: Combining Green Metrics and Digital Twins for Sustainability Planning and Governance of Smart Buildings and Cities
+Authors: Casey Corrado, Suzanne M. DeLong, E. G. Holt, Edward Y. Hua, Andreas Tolk
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142012988
+Paper ID: https://openalex.org/W4304784019
+
+Abstract:
+Creating a more sustainable world will require a coordinated effort to address the rise of social, economic, and environmental concerns resulting from the continuous growth of cities. Supporting planners with tools to address them is pivotal, and sustainability is one of the main objectives. Modeling and simulation augmenting digital twins can play an important role to implement these tools. Although various green best practices have been utilized over time and there are related attempts at measuring green success, works in the published literature tend to focus on addressing a single problem (e.g., energy efficiency), and a comprehensive approach that takes the multiple facets of sustainable urban planning into consideration has not yet been identified. This paper begins with a review of recent research efforts in green metrics and digital twins. This leads to developing an approach that evaluates organizational green best practices to derive metrics, which are used for computational decision support by digital twins. Furthermore, it leverages these research results and proposes a metric-driven framework for sustainability planning that understands a city as a sociotechnical complex system. Such a framework allows the practitioner to take advantage of recent developments and provides computational decision support for the complex challenge of sustainability planning at the various levels of urban planning and governance.

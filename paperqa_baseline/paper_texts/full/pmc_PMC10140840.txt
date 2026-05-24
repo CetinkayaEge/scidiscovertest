@@ -1,0 +1,9 @@
+Title: Implementation of a Hybrid Intelligence System Enabling the Effectiveness Assessment of Interaction Channels Use in HMI
+Authors: Arkadiusz Gardecki, Joanna Rut, Bartlomiej Klin, Michal Podpora, Ryszard Beniak
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083826
+Paper ID: pmc_PMC10140840
+
+Abstract:
+The article presents a novel idea of Interaction Quality Sensor (IQS), introduced in the complete solution of Hybrid INTelligence (HINT) architecture for intelligent control systems. The proposed system is designed to use and prioritize multiple information channels (speech, images, videos) in order to optimize the information flow efficiency of interaction in HMI systems. The proposed architecture is implemented and validated in a real-world application of training unskilled workers—new employees (with lower competencies and/or a language barrier). With the help of the HINT system, the man–machine communication information channels are deliberately chosen based on IQS readouts to enable an untrained, inexperienced, foreign employee candidate to become a good worker, while not requiring the presence of either an interpreter or an expert during training. The proposed implementation is in line with the labor market trend, which displays significant fluctuations. The HINT system is designed to activate human resources and support organizations/enterprises in the effective assimilation of employees to the tasks performed on the production assembly line. The market need of solving this noticeable problem was caused by a large migration of employees within (and between) enterprises. The research results presented in the work show significant benefits of the methods used, while supporting multilingualism and optimizing the preselection of information channels.

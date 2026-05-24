@@ -1,0 +1,9 @@
+Title: Blockchain and Sustainability Disclosure: A Scenario-Based Application for Supply Chains
+Authors: Laura Corazza, Junru Zhang, Dilhani Kapu Arachchilage, Simone Domenico Scagnelli
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010571
+Paper ID: https://openalex.org/W4313328539
+
+Abstract:
+This paper presents the implications of blockchain technologies on sustainability reporting and disclosure, and specifically proposes blockchain use-cases as a possible solution for problems experienced in the field of supply chain carbon information. This study addresses how the reliability of supply chains’ carbon-related information can become more transparent and reliable through a decentralized approach based on blockchain thinking (BT), issues that have been identified as a gap in the literature and in the practice. Scenario analysis and design science research (DSR) are used as a methodological driver to conceptualize over the nature of practical solutions using unified modeling language (UML) diagrams. The resulting use-case focuses on data retrieval in the supply chain. The paper also presents implications for the audit industry and their role in the assurance of such technological architecture implementations. The study is visionary as it offers a conceptualization based on scenario analysis. Developing a scenario enables researchers to depict a prospective situation, develop ability to solve future problems, and to back cast them in current policies, technologies, and actions.

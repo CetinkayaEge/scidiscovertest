@@ -1,0 +1,9 @@
+Title: Sustainable hydrogen production by plasmonic thermophotocatalysis
+Authors: Kamil Czelej, Juan Carlos Colmenares, Katarzyna Jabłczyńska, Karol Ćwieka, Łukasz Werner, Leon Gradoń
+Year: 2021
+Venue: Catalysis Today
+DOI: https://doi.org/10.1016/j.cattod.2021.02.004
+Paper ID: https://openalex.org/W3130671319
+
+Abstract:
+A vision of hydrogen based economy and clean, sustainable, fossil fuels-free world inspires the scientific community to put much effort into the development of visible-light-driven photochemistry and efficient solar energy harvesting. The unique features of plasmonic nanomaterials such as capability of significant electric field amplification, an extreme local heating, generation of high energy charge carriers and broad tunability of optical properties coupled to catalytically active surfaces provide an exciting opportunity for hydrogen production with solar photochemistry. This review sums up recent progress in the development of plasmonic thermophotocatalysis paying particular attention to sustainable production of hydrogen. We approach the subject from a broad bottom-up perspective, beginning with the brief description of plasmon-related phenomena and plasmon-assisted photochemistry, through the demonstration of various plasmonic nanostructures, their synthesis and hydrogen production efficiency, ending with the idea of continuous-flow reactors and their future implementation in hydrogen production by plasmonic thermophotocatalysis. Finally, we summarize the review and highlight the remaining challenges that have to be faced before the widespread commercialization of this technology.

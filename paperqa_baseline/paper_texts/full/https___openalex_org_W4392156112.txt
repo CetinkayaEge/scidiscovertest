@@ -1,0 +1,9 @@
+Title: Sustainable geopolymers from polyethylene terephthalate waste and industrial by-products: a comprehensive characterisation and performance predictions
+Authors: Md. Zia Ul Haq, Hemant Sood, Rajesh Kumar, Laura Ricciotti
+Year: 2024
+Venue: Journal of Materials Science
+DOI: https://doi.org/10.1007/s10853-024-09447-1
+Paper ID: https://openalex.org/W4392156112
+
+Abstract:
+Abstract Several researchers have recently worked to create sustainable building materials. One of the fundamental prerequisites for sustainable construction methods and environmental impact assessments is the use of green building materials and manufacturing processes. In this research study, geopolymer bricks were developed using polyethylene terephthalate waste and different industrial by-products (rice husk ash, ground granulated blast furnace slag, red mud, construction, and demolition waste) and investigated their performances. The polyethylene terephthalate waste was used as a replacement for sand filler in the geopolymer brick up to 100%. Key findings include a workability decrease of 14.75% and a compressive strength reduction of up to 75% with 100% plastic waste replacement, attributed to increased voids and weak geopolymer matrix interaction. Dry density consistently decreases, and water absorption rises to 13.73% with full sand replacement, indicating a porous structure. Impact resistance improves with plastic waste inclusion, enhancing ductility and thermal conductivity by 57% at full replacement. Microstructural analyses reveal correlations between physical–mechanical properties and changes in porosity, microcracks, and bond strength. Machine learning, especially linear regression, proves effective for strength parameter prediction (up to 100% efficacy, R-square of 0.998). The promising results obtained could offer a substantial environmentally friendly solution to the building and construction industry in line with Circular Economy principles.

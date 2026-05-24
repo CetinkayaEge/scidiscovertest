@@ -1,0 +1,9 @@
+Title: Towards Achieving Environmental Sustainability: The Role of Nuclear Energy, Renewable Energy, and ICT in the Top-Five Carbon Emitting Countries
+Authors: Anam Azam, Muhammad Rafiq, Muhammad Shafique, Jiahai Yuan
+Year: 2022
+Venue: Frontiers in Energy Research
+DOI: https://doi.org/10.3389/fenrg.2021.804706
+Paper ID: https://openalex.org/W4221057193
+
+Abstract:
+In the era of globalization, the incidence of global warming emerges from the issue of climate change, which attracts the attention of several scholars to attain sustainability with respect to ensuring sufficient energy access and diminishing environmental adversities. However, in view of these circumstances, this study examines the heterogenous impacts of nuclear energy, renewable energy, and information and communication technologies (ICTs) on pollution emissions reduction for the top-five emitter countries, covering the data from the period from 1995–2017. This study employs an advanced panel quantile regression model that takes into account both unobserved individual heterogeneity and distributional heterogeneity. The findings illustrate that the effect of all the selected explanatory variables on CO 2 emissions is heterogenous along the quantiles. Our outcome supports the notion that nuclear energy consumption is insignificant in contributing to lower environmental pollution. Renewable energy consumption and ICT significantly decrease the carbon emissions of emitter economies, but the negative influence is more robust at the quantiles level (0.30–0.80) and (0.10, 0.20), both factors correct the environmental pollution in the five emitter countries. Finally, the findings of the study provide crucial policy recommendations to policymakers.

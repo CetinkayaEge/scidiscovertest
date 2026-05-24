@@ -1,0 +1,9 @@
+Title: Resilience of Smart Cities to the Consequences of the COVID-19 Pandemic in the Context of Sustainable Development
+Authors: Aleksandra Kuzior, Dariusz Krawczyk, Paulina Brożek, Олена Пахненко, Tetiana Vasylieva, Serhiy Lyeonov
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912645
+Paper ID: https://openalex.org/W4304172532
+
+Abstract:
+The development of digital technologies is one of the factors influencing the cities’ readiness for the COVID-19 breakout. The purpose of this article is to assess cities’ resilience to the COVID-19 pandemic depending on the “smart” level criteria. The article uses the following research methods: (1) bibliometric analysis to identify the main directions of scientific research regarding “COVID-19” and “smart city” in Scopus publications for 2019–2022; (2) k-means clustering method to identify common patterns among smart cities regarding their readiness and responsiveness to COVID-19; (3) correlation analysis to identify the relationships between smart city performance indicators and COVID-19 severity in these cities. The Smart City Index 2021 was a key criterion for classifying a city as smart for this study. The correlation analysis included two stages: (1) correlation analysis of the Smart City Rank and indicators of COVID-19 readiness and responsiveness; (2) correlation analysis of the Smart City Rank and its health care components and COVID-19 severity indicators. According to the study results, smart cities demonstrated higher COVID-19 readiness and lower COVID-19 fatality rates. However, they lag behind in terms of resilience and sustainability of their health care systems.

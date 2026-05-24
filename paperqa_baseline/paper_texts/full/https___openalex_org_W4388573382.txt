@@ -1,0 +1,9 @@
+Title: Digital Revolution, Sustainability, and Government Revenues: A Transversal Analysis of How Digital Transformation and Sustainable Practices Impact Sustainable Government Revenues
+Authors: Anca Antoaneta Vărzaru, Claudiu George Bocean, Dalia Simion, Dorel Berceanu, Mădălina Giorgiana Mangra
+Year: 2023
+Venue: Systems
+DOI: https://doi.org/10.3390/systems11110546
+Paper ID: https://openalex.org/W4388573382
+
+Abstract:
+In recent decades, digital transformation and sustainability have become two crucial aspects of economic and social development in the European Union (EU), improving government tax collection and other government incomes. This paper investigates the interplay between digital transformation and sustainability and their impact on total general government revenue (TGGR) in the European Union (EU). The study uses quantitative research methods to analyze relationships among variables, including artificial neural networks and cluster analyses. The variables considered in this research are the Digital Economy and Society Index (DESI), the Sustainable Development Goals (SDG) index, and TGGR. Our findings reveal intricate connections between digital transformation, sustainability, and TGGR across EU member states. The DESI score measures the level of digitalization within each country, while the SDG Index assesses sustainability performance. The study demonstrates that countries with higher DESI scores tend to experience increased TGGR, indicating that a more robust digital economy contributes positively to government revenue, among other elements. The research identifies clusters of EU member states with similar patterns of digital transformation, sustainability, and TGGR. These clusters highlight challenges and opportunities, guiding policymakers in tailoring strategies to boost digitalization and government revenue sustainably.

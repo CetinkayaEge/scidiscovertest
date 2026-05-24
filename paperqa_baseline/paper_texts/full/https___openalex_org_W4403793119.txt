@@ -1,0 +1,9 @@
+Title: Paper‐Based Electronics: Toward Sustainable Electronics
+Authors: Sonia Gómez‐Gijón, Inmaculada Ortiz‐Gómez, Almudena Rivadeneyra
+Year: 2024
+Venue: Advanced Sustainable Systems
+DOI: https://doi.org/10.1002/adsu.202400486
+Paper ID: https://openalex.org/W4403793119
+
+Abstract:
+Abstract The emergence of paper‐based electronic devices marks a significant leap forward in the design of flexible, lightweight, and eco‐friendly electronics. Paper‐based electronic sensors represent a transformative approach to creating flexible, lightweight, and environmentally friendly electronics. This review will discuss recent applications of paper‐based electronics, mainly in exploring emergent technologies employed in developing innovative sensors for chemical analysis. Furthermore, the role of paper‐based electronics in electrochemical, and physical sensing, specifically addressing relative humidity, temperature, pressure, and strain sensors will be commented. In addition, the integration of paper electronics in energy harvesting and storage is discussed, covering solar cells, tribogenerators, antennas, and supercapacitors. These advancements underscore the versatility and potential of paper‐based electronics in diverse applications, from wearable health monitors to sustainable energy solutions, paving the way for the future of recyclable and biodegradable electronic devices.

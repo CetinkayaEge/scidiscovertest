@@ -1,0 +1,9 @@
+Title: Mapping the sustainable development goals (SDGs) in science, technology and innovation: application of machine learning in SDG-oriented artefact detection
+Authors: Arash Hajikhani, Arho Suominen
+Year: 2022
+Venue: Scientometrics
+DOI: https://doi.org/10.1007/s11192-022-04358-x
+Paper ID: https://openalex.org/W4226397061
+
+Abstract:
+Abstract The sustainable development goals (SDGs) are a blueprint for achieving a better and more sustainable future for all by defining priorities and aspirations for 2030. This paper attempts to expand on the United Nations SDGs definition by leveraging the interrelationship between science and technology. We utilize SDG classification of scientific publications to compile a machine learning (ML) model to classify the SDG relevancy in patent documents, used as a proxy of technology development. The ML model was used to classify a sample of patent families registered in the European Patent Office (EPO). The analysis revealed the extent to which SDGs were addressed in patents. We also performed a case study to identify the offered extension of ML model detection regarding the SDG orientation of patents. In response to global goals and sustainable development initiatives, the findings can advance the identification challenges of science and technology artefacts. Furthermore, we offer input towards the alignment of R&amp;D efforts and patenting strategies as well as measurement and management of their contribution to the realization of SDGs.

@@ -1,0 +1,9 @@
+Title: Single-molecule identification of the target RNAs of different RNA binding proteins simultaneously in cells
+Authors: Mathieu N. Flamand, Ke Ke, Renee Tamming, Kate D. Meyer
+Year: 2022
+Venue: Genes & Development
+DOI: 10.1101/gad.349983.122
+Paper ID: pmc_PMC9732904
+
+Abstract:
+In this Resource/Methodology, Flamand et al. developed TRIBE-STAMP, an approach for single-molecule detection of the target RNAs of two RNA binding proteins simultaneously in cells. Their data reveal shared single-molecule RNA targets of the YTHDF proteins and support a model in which YTHDF1 and YTHDF3 are unlikely to promote rapid mRNA decay. RNA-binding proteins (RBPs) regulate nearly every aspect of mRNA processing and are important regulators of gene expression in cells. However, current methods for transcriptome-wide identification of RBP targets are limited, since they examine only a single RBP at a time and do not provide information on the individual RNA molecules that are bound by a given RBP. Here, we overcome these limitations by developing TRIBE-STAMP, an approach for single-molecule detection of the target RNAs of two RNA binding proteins simultaneously in cells. We applied TRIBE-STAMP to the cytoplasmic m 6 A reader proteins YTHDF1, YTHDF2, and YTHDF3 and discovered that individual mRNA molecules can be bound by more than one YTHDF protein throughout their lifetime, providing new insights into the function of YTHDF proteins in cells. TRIBE-STAMP is a highly versatile approach that enables single-molecule analysis of the targets of RBP pairs simultaneously in the same cells.

@@ -1,0 +1,9 @@
+Title: A Deep Learning and Social IoT Approach for Plants Disease Prediction Toward a Sustainable Agriculture
+Authors: Giovanni Delnevo, Roberto Girau, Chiara Ceccarini, Catia Prandi
+Year: 2021
+Venue: IEEE Internet of Things Journal
+DOI: https://doi.org/10.1109/jiot.2021.3097379
+Paper ID: https://openalex.org/W3195666380
+
+Abstract:
+As the world becomes increasingly interconnected, emerging and innovative sensing technologies are shaping the future of agriculture, with a special focus on sustainability-related issues. In this context, we envision the possibility to exploit Social Internet of Things for sensing of environmental conditions (solar radiation, humidity, air temperature, and soil moisture) and communications, deep learning for plant disease detection, and crowdsourcing for images collection and classification, engaging farmers and community garden owners and experts. Through, data fusion and deep learning, the designed system can exploit the collected data and predict when a plant would (or not) get a disease, with a specific degree of precision, with the final purpose to render agriculture more sustainable. We here present the architecture, the deep learning model, and the responsive Web app. Finally, some experimental evaluations and usability/engagement tests are reported and discussed, together with final remarks, limitations, and future work.

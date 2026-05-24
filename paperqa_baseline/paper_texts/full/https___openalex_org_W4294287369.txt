@@ -1,0 +1,9 @@
+Title: Logistics performance and environmental sustainability: Do green innovation, renewable energy, and economic globalization matter?
+Authors: Bin Wan, Weiqing Wan, Nadia Hanif, Zahoor Ahmed
+Year: 2022
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2022.996341
+Paper ID: https://openalex.org/W4294287369
+
+Abstract:
+The logistics sector plays an imperative role in the economic development of a country. However, it can also affect environmental quality as it the viewed as a major energy-consuming sector. The current literature on the relationship between logistics performance and environmental quality is scant and most studies neglect its environmental impact in the context of emerging countries. In this context, this study investigates the impact of logistics performance index (LPI), green innovation, renewable energy, and economic globalization on the environmental quality in the 22 emerging countries. Using the panel data from 2007 to 2018, we employed the Method of Moments Quantile Regression (MM-QR) for empirical analysis. The empirical results show that LPI deteriorates the environmental quality by increasing CO 2 emissions across all quantiles (10th–90th). Moreover, green innovation is significantly and negatively related to CO 2 emission in all the quantiles except at the 10th quantiles, while renewable energy use significantly improves the environmental quality across all quantiles (10th–90th). Economic globalization shows a significant and negative impact on CO 2 emission across quantiles (10th–90th) in emerging countries. Based on these findings, this study proposes that emerging countries need to align their logistics sector policies with sustainable development goals. At the same time, more resources should be allocated for green innovation and the renewable energy sector and promote economic globalization to foster sustainable development.

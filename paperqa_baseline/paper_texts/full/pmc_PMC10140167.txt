@@ -1,0 +1,9 @@
+Title: Structures of calmodulin–melittin complexes show multiple binding modes lacking classical anchoring interactions
+Authors: Zsolt Dürvanger, Tünde Juhász, Károly Liliom, Veronika Harmat
+Year: 2023
+Venue: The Journal of Biological Chemistry
+DOI: 10.1016/j.jbc.2023.104596
+Paper ID: pmc_PMC10140167
+
+Abstract:
+Calmodulin (CaM) is a Ca 2+ sensor protein found in all eukaryotic cells that regulates a large number of target proteins in a Ca 2+ concentration-dependent manner. As a transient-type hub protein, it recognizes linear motifs of its targets, though for the Ca 2+ -dependent binding, no consensus sequence was identified. Its complex with melittin, a major component of bee venom, is often used as a model system of protein–protein complexes. Yet, the structural aspects of the binding are not well understood, as only diverse, low-resolution data are available concerning the association. We present the crystal structure of melittin in complex with Ca 2+ -saturated CaMs from two, evolutionarily distant species, Homo sapiens and Plasmodium falciparum , representing three binding modes of the peptide. Results—augmented by molecular dynamics simulations—indicate that multiple binding modes can exist for CaM–melittin complexes, as an intrinsic characteristic of the binding. While the helical structure of melittin remains, swapping of its salt bridges and partial unfolding of its C-terminal segment can occur. In contrast to the classical way of target recognition by CaM, we found that different sets of residues can anchor at the hydrophobic pockets of CaM, which were considered as main recognition sites. Finally, the nanomolar binding affinity of the CaM–melittin complex is created by an ensemble of arrangements of similar stability—tight binding is achieved not by optimized specific interactions but by simultaneously satisfying less optimal interaction patterns in co-existing different conformers.

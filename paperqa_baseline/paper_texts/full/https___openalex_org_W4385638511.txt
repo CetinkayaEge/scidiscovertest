@@ -1,0 +1,9 @@
+Title: Transforming sustainable plant proteins into high performance lubricating microgels
+Authors: Ben Kew, Melvin Holmes, Evangelos Liamas, Rammile Ettelaie, Simon D. Connell, Daniele Dini, Anwesha Sarkar
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-40414-7
+Paper ID: https://openalex.org/W4385638511
+
+Abstract:
+With the resource-intensive meat industry accounting for over 50% of food-linked emissions, plant protein consumption is an inevitable need of the hour. Despite its significance, the key barrier to adoption of plant proteins is their astringent off-sensation, typically associated with high friction and consequently poor lubrication performance. Herein, we demonstrate that by transforming plant proteins into physically cross-linked microgels, it is possible to improve their lubricity remarkably, dependent on their volume fractions, as evidenced by combining tribology using biomimetic tongue-like surface with atomic force microscopy, dynamic light scattering, rheology and adsorption measurements. Experimental findings which are fully supported by numerical modelling reveal that these non-lipidic microgels not only decrease boundary friction by an order of magnitude as compared to native protein but also replicate the lubrication performance of a 20:80 oil/water emulsion. These plant protein microgels offer a much-needed platform to design the next-generation of healthy, palatable and sustainable foods.

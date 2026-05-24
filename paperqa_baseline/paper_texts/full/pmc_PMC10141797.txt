@@ -1,0 +1,9 @@
+Title: Tuning PVDF Membrane Porosity and Wettability Resistance via Varying Substrate Morphology for the Desalination of Highly Saline Water
+Authors: Turki N. Baroud
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13040395
+Paper ID: pmc_PMC10141797
+
+Abstract:
+Here, we report the fabrication of a series of highly efficient polyvinylidene fluoride (PVDF) membranes via substrate morphology variations. A wide range of sandpaper grit sizes (150–1200) were utilized as casting substrates. The effect of the penetration of abrasive particles present on the sandpapers on the casted polymer solution was tuned, and the impact of these particles on porosity, surface wettability, liquid entry pressure and morphology were investigated. The membrane distillation performance of the developed membrane on sandpapers was evaluated for the desalination of highly saline water (70,000 ppm). Interestingly, the utilization of cheap and widely available sandpapers as a substrate for casting can not only help in tuning the MD performance, but also in producing highly efficient membranes with stable salt rejection (up to 100%) and a 210% increase in the permeate flux over 24 h. The findings in this study will help in delineating the role of substrate nature in controlling the produced membrane characteristics and performance.

@@ -1,0 +1,9 @@
+Title: Business Performance and Sustainability in Cultural and Rural Tourism Destinations
+Authors: Laura Parte Esteban, Pilar Alberca
+Year: 2021
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math9080892
+Paper ID: https://openalex.org/W3154585498
+
+Abstract:
+This study analyzes business performance through efficiency score estimation in two sustainable tourism models: cultural tourism and rural tourism. The study uses microeconomic data (microdata) of Spanish firms with different characteristics in terms of size, region, location and financial variables. Using multistage modeling (Data envelopment analysis, DEA, non-parametric frontier and non-parametric tests), the main results show that the average efficiency is higher for rural tourism destinations than for cultural tourism destinations. Similar to other tourism industries, efficiency results by geographical and regional destination confirm that location is a driver of the efficiency levels in rural and cultural tourism destinations. Furthermore, the results do not support the scale economies hypothesis: the average efficiency is higher for very small firms compared to other firm sizes, although the average efficiency for large firms is higher than that for medium-size firms. Regarding dynamic efficiency, the results reveal slight variations among the years examined, but the differences are not statistically significant. Finally, the study sheds light on the link between the efficiency of rural tourism and sustainable practices as the investment in environmental protection developed by regions during the period.

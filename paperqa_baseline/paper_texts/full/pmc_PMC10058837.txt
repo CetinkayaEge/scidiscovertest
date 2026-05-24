@@ -1,0 +1,9 @@
+Title: Domain Adaptation with Contrastive Simultaneous Multi-Loss Training for Hand Gesture Recognition
+Authors: Joel Baptista, Vítor Santos, Filipe Silva, Diogo Pinho
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063332
+Paper ID: pmc_PMC10058837
+
+Abstract:
+Hand gesture recognition from images is a critical task with various real-world applications, particularly in the field of human–robot interaction. Industrial environments, where non-verbal communication is preferred, are significant areas of application for gesture recognition. However, these environments are often unstructured and noisy, with complex and dynamic backgrounds, making accurate hand segmentation a challenging task. Currently, most solutions employ heavy preprocessing to segment the hand, followed by the application of deep learning models to classify the gestures. To address this challenge and develop a more robust and generalizable classification model, we propose a new form of domain adaptation using multi-loss training and contrastive learning. Our approach is particularly relevant in industrial collaborative scenarios, where hand segmentation is difficult and context-dependent. In this paper, we present an innovative solution that further challenges the existing approach by testing the model on an entirely unrelated dataset with different users. We use a dataset for training and validation and demonstrate that contrastive learning techniques in simultaneous multi-loss functions provide superior performance in hand gesture recognition compared to conventional approaches in similar conditions.

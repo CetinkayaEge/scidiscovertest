@@ -1,0 +1,9 @@
+Title: Digital Twins in the Sustainable Construction Industry
+Authors: Foad Zahedi, Hamidreza Alavi, Javad Majrouhi Sardroud, Hongtao Dang
+Year: 2024
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings14113613
+Paper ID: https://openalex.org/W4404357750
+
+Abstract:
+Digital Twin (DT) technology, as the evolution of Building Information Modeling (BIM), has emerged to address global concerns regarding the environmental impacts of the construction industry and to meet sustainability indicators. Despite numerous studies targeting the integration of DT and sustainability, there is a noticeable gap in creating a comprehensive overview of the efforts and future directions in this field. Therefore, this research aims to provide both a scientometric analysis and a thematic review of 235 papers extracted from the Scopus database. These papers, all published between 2017 and 2024, focus on previous efforts, current trends, and future directions of using the Digital Twin for construction sustainability. In addition, 34 papers that were cited more than 20 times were classified by the application into four categories: simulation, technology integration, smart systems, and literature review. Furthermore, regarding the application of smart systems in sustainability, the authors discussed applications of BIM-DT in smart construction, smart buildings, smart infrastructures, and smart cities based on the most-cited papers. Subsequently, five research gaps were identified and suggested for future investigation. The research gives a holistic insight into the current trend of DT among researchers, previous achievements, and future directions.

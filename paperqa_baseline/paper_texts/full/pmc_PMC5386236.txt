@@ -1,0 +1,9 @@
+Title: High-resolution data on the impact of warming on soil CO 2 efflux from an Asian monsoon forest
+Authors: Naishen Liang, Munemasa Teramoto, Masahiro Takagi, Jiye Zeng
+Year: 2017
+Venue: Scientific Data
+DOI: 10.1038/sdata.2017.26
+Paper ID: pmc_PMC5386236
+
+Abstract:
+This paper describes a project for evaluation of global warming’s impacts on soil carbon dynamics in Japanese forest ecosystems. We started a soil warming experiment in late 2008 in a 55-year-old evergreen broad-leaved forest at the boundary between the subtropical and warm-temperate biomes in southern Japan. We used infrared carbon-filament heat lamps to increase soil temperature by about 2.5 °C at a depth of 5 cm and continuously recorded CO 2 emission from the soil surface using a multichannel automated chamber system. Here, we present details of the experimental processes and datasets for the CO 2 emission rate, soil temperature, and soil moisture from control, trenched, and warmed trenched plots. The long term of the study and its high resolution make the datasets meaningful for use in or development of coupled climate-ecosystem models to tune their dynamic behaviour as well as to provide mean parameters for decomposition of soil organic carbon to support future predictions of soil carbon sequestration.

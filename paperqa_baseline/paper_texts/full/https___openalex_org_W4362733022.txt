@@ -1,0 +1,9 @@
+Title: AI and Expert Insights for Sustainable Energy Future
+Authors: Mir Sayed Shah Danish
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16083309
+Paper ID: https://openalex.org/W4362733022
+
+Abstract:
+This study presents an innovative framework for leveraging the potential of AI in energy systems through a multidimensional approach. Despite the increasing importance of sustainable energy systems in addressing global climate change, comprehensive frameworks for effectively integrating artificial intelligence (AI) and machine learning (ML) techniques into these systems are lacking. The challenge is to develop an innovative, multidimensional approach that evaluates the feasibility of integrating AI and ML into the energy landscape, to identify the most promising AI and ML techniques for energy systems, and to provide actionable insights for performance enhancements while remaining accessible to a varied audience across disciplines. This study also covers the domains where AI can augment contemporary and future energy systems. It also offers a novel framework without echoing established literature by employing a flexible and multicriteria methodology to rank energy systems based on their AI integration prospects. The research also delineates AI integration processes and technique categorizations for energy systems. The findings provide insight into attainable performance enhancements through AI integration and underscore the most promising AI and ML techniques for energy systems via a pioneering framework. This interdisciplinary research connects AI applications in energy and addresses a varied audience through an accessible methodology.

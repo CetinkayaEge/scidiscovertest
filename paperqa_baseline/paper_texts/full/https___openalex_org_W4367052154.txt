@@ -1,0 +1,9 @@
+Title: Investigation of Degradation of Solar Photovoltaics: A Review of Aging Factors, Impacts, and Future Directions toward Sustainable Energy Management
+Authors: Tuhibur Rahman, Ahmed Al Mansur, Molla Shahadat Hossain Lipu, Md. Siddikur Rahman, Ratil H. Ashique, Mohamad Abou Houran, Rajvikram Madurai Elavarasan, Eklas Hossain
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16093706
+Paper ID: https://openalex.org/W4367052154
+
+Abstract:
+The degradation of solar photovoltaic (PV) modules is caused by a number of factors that have an impact on their effectiveness, performance, and lifetime. One of the reasons contributing to the decline in solar PV performance is the aging issue. This study comprehensively examines the effects and difficulties associated with aging and degradation in solar PV applications. In light of this, this article examines and analyzes many aging factors, including temperature, humidity, dust, discoloration, cracks, and delamination. Additionally, the effects of aging factors on solar PV performance, including the lifetime, efficiency, material degradation, overheating, and mismatching, are critically investigated. Furthermore, the main drawbacks, issues, and challenges associated with solar PV aging are addressed to identify any unfulfilled research needs. Finally, this paper provides new directions for future research, best practices, and recommendations to overcome aging issues and achieve the sustainable management and operation of solar energy systems. For PV engineers, manufacturers, and industrialists, this review’s critical analysis, evaluation, and future research directions will be useful in paving the way for conducting additional research and development on aging issues to increase the lifespan and efficiency of solar PV.

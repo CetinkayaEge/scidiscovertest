@@ -1,0 +1,9 @@
+Title: Comparison of Three Low-Molecular-Weight Fluorescent Probes for Measuring Free Zinc Levels in Cultured Mammary Cells
+Authors: Christopher Hübner, Claudia Keil, Anton Jürgensen, Lars Barthel, Hajo Haase
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15081873
+Paper ID: pmc_PMC10141224
+
+Abstract:
+Free zinc is a critical regulator in signal transduction and affects many cellular processes relevant to cancer, including proliferation and cell death. Acting as a second messenger, altered free intracellular zinc has fundamental effects on regulating enzymes such as phosphatases and caspases. Therefore, the determination of free intracellular zinc levels is essential to assess its influence on the signaling processes involved in cancer development and progression. In this study, we compare three low-molecular-weight fluorescent probes, ZinPyr-1, TSQ, and FluoZin-3, for measuring free zinc in different mammary cell lines (MCF10A, MCF7, T47D, and MDA-MB-231). In summary, ZinPyr-1 is the most suitable probe for free Zn quantification. It responds well to calibration based on minimal fluorescence in the presence of the chelator TPEN ( N , N , N ′, N ′-Tetrakis(2-pyridylmethyl)ethylenediamine) and maximal fluorescence by saturation with ZnSO 4 , resulting in the detection of free intracellular zinc in breast cancer subtypes ranging from 0.62 nM to 1.25 nM. It also allows for measuring the zinc fluxes resulting from incubation with extracellular zinc, showing differences in the zinc uptake between the non-malignant MCF10A cell line and the other cell lines. Finally, ZinPyr-1 enables the monitoring of sub-cellular distributions by fluorescence microscopy. Altogether, these properties provide a basis for the further exploration of free zinc in order to realize its full potential as a possible biomarker or even therapeutic target in breast cancer.

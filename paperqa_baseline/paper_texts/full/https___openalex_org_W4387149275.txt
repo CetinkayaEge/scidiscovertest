@@ -1,0 +1,9 @@
+Title: Global value chains and energy-related sustainable practices. Evidence from Enterprise Survey data
+Authors: Mariarosaria Agostino, Anna Giunta, Sabrina Ruberto, Domenico Scalera
+Year: 2023
+Venue: Energy Economics
+DOI: https://doi.org/10.1016/j.eneco.2023.107068
+Paper ID: https://openalex.org/W4387149275
+
+Abstract:
+Participation in global value chains (GVCs) can affect the deployment of clean energy technologies and influence firm-level energy management. However, the sign of this influence is debated, especially for less developed economies, since GVCs can favor the absorption of more advanced technologies and the adoption of greener energy practices, but on the other hand they can help export polluting productions from countries with strict environmental regulations to weakly regulated developing countries. Drawing on Enterprise Surveys conducted in 2018–2020 on a large cross-section of firms operating in different industries and countries, and applying regression analyses and propensity score matching, this is the first firm-level study aiming to shed light on the relationship between firm participation in GVCs and the adoption of energy-related sustainable practices. In addition, the analysis allows for a heterogeneous impact of GVCs, conditional on firms' characteristics and external conditions, such as institutional quality. Overall, we find that participation in GVCs is positively associated with firm propensity to adopt green energy practices. For smaller and younger firms, operating in poorer institutional contexts, and/or less endowed in terms of human capital or financial resources, being engaged in GVCs has milder effects on the adoption of greener practices. By contrast, manufacturing companies located in high-income countries are those showing the strongest impact of GVCs on energy management.

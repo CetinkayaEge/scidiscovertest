@@ -1,0 +1,9 @@
+Title: The Conservation of the Germline Multipotency Program, from Sponges to Vertebrates: A Stepping Stone to Understanding the Somatic and Germline Origins
+Authors: Laura Fierro-Constaín, Quentin Schenkelaars, Eve Gazave, Anne Haguenauer, Caroline Rocher, Alexander Ereskovsky, Carole Borchiellini, Emmanuelle Renard
+Year: 2017
+Venue: Genome Biology and Evolution
+DOI: 10.1093/gbe/evw289
+Paper ID: pmc_PMC5381599
+
+Abstract:
+The germline definition in metazoans was first based on few bilaterian models. As a result, gene function interpretations were often based on phenotypes observed in those models and led to the definition of a set of genes, considered as specific of the germline, named the “germline core”. However, some of these genes were shown to also be involved in somatic stem cells, thus leading to the notion of germline multipotency program (GMP). Because Porifera and Ctenophora are currently the best candidates to be the sister-group to all other animals, the comparative analysis of gene contents and functions between these phyla, Cnidaria and Bilateria is expected to provide clues on early animal evolution and on the links between somatic and germ lineages. Our present bioinformatic analyses at the metazoan scale show that a set of 18 GMP genes was already present in the last common ancestor of metazoans and indicate more precisely the evolution of some of them in the animal lineage. The expression patterns and levels of 11 of these genes in the homoscleromorph sponge Oscarella lobularis show that they are expressed throughout their life cycle, in pluri/multipotent progenitors, during gametogenesis, embryogenesis and during wound healing. This new study in a nonbilaterian species reinforces the hypothesis of an ancestral multipotency program.

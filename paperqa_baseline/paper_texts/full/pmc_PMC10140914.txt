@@ -1,0 +1,9 @@
+Title: Hyperbranched Copolymers of Methacrylic Acid and Lauryl Methacrylate H-P(MAA-co-LMA): Synthetic Aspects and Interactions with Biorelevant Compounds
+Authors: Anastasia Balafouti, Stergios Pispas
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041198
+Paper ID: pmc_PMC10140914
+
+Abstract:
+The synthesis of novel copolymers using one-step reversible addition-fragmentation chain transfer (RAFT) copolymerization of biocompatible methacrylic acid (MAA), lauryl methacrylate (LMA), and difunctional ethylene glycol dimethacrylate (EGDMA) as a branching agent is reported. The obtained amphiphilic hyperbranched H-P(MAA-co-LMA) copolymers are molecularly characterized by size exclusion chromatography (SEC), FTIR, and 1 H-NMR spectroscopy, and subsequently investigated in terms of their self-assembly behavior in aqueous media. The formation of nanoaggregates of varying size, mass, and homogeneity, depending on the copolymer composition and solution conditions such as concentration or pH variation, is demonstrated by light scattering and spectroscopic techniques. Furthermore, drug encapsulation properties are studied by incorporating the low bioavailability drug, curcumin, in the nano-aggregate hydrophobic domains, which can also act as a bioimaging agent. The interaction of polyelectrolyte MAA units with model proteins is described to examine protein complexation capacity relevant to enzyme immobilization strategies, as well as explore copolymer self-assembly in simulated physiological media. The results confirm that these copolymer nanosystems could provide competent biocarriers for imaging and drug or protein delivery/enzyme immobilization applications.

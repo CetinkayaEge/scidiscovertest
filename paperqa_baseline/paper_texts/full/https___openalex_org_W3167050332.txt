@@ -1,0 +1,9 @@
+Title: How Sustainable is the Smart Farm?
+Authors: Adam Streed, Michael B. Kantar, Bill Tomlinson, Barath Raghavan
+Year: 2021
+Venue: 
+DOI: https://doi.org/10.21428/bf6fb269.f2d0adaf
+Paper ID: https://openalex.org/W3167050332
+
+Abstract:
+Computer-controlled hydroponics, vertical farms, and IoT-based precision agriculture are claimed to be sustainable, healthful, and humane methods of producing food. These so-called âsmartâ farming methods have arisen over the past decade and have received little scrutiny from a sustainability perspective. Meanwhile, they are attracting vast sums of both research and investment funding. We ask a simple question: how sustainable is the âsmart farmâ? We take a technical, ecological, and social view of the systems that comprise a smart farm. Our aim is to tease apart which, if any, of the practices are actually beneficial, and which are simply a substitution of resources or a mere shifting of (human and/or ecological) externalities in time or space. To evaluate the smart farm concept, we focus on two scenarios: indoor smart farms (controlledenvironment agriculture such as vertical farms), and outdoor smart farms (in which the environment is less controlled, but managed via precision agriculture). We also provide examples of the values that smart farms embody, who stands to gain from their operation, and what better alternatives might exist.

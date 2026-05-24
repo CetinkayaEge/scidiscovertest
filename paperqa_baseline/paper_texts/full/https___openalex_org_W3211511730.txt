@@ -1,0 +1,9 @@
+Title: Gamma Oscillations Index Sustained Attention in a Brief Vigilance Task
+Authors: Lorraine Borghetti, Megan B. Morris, L. Jack Rhodes, Ashley Haubert, Bella Z. Veksler
+Year: 2021
+Venue: Proceedings of the Human Factors and Ergonomics Society Annual Meeting
+DOI: https://doi.org/10.1177/1071181321651122
+Paper ID: https://openalex.org/W3211511730
+
+Abstract:
+Sustained attention is an essential behavior in life, but often leads to performance decrements with time. Computational accounts of sustained attention suggest this is due to brief disruptions in goal-directed processing, or microlapses. Decreases in gamma spectral power are a potential candidate for indexing microlapses and discriminating between low and high performers in sustained attention tasks, while increases in beta, alpha, and theta power are expected to exhibit compensatory effort to offset fatigue. The current study tests these hypotheses in a 10-minute Psychomotor Vigilance Test, a context that eliminates confounds with measuring gamma frequencies. 34 participants ( Mage = 22.60; SDage = 4.08) volunteered in the study. Results suggested frontal gamma power declined with time-on-task, indicating reduction in central cognition. Beta power increased with time-on-task, suggesting compensatory effort; however, alpha and theta power did not increase. Additionally, gamma power discriminated between low and high performers, potentially suggesting motivational differences between the groups.

@@ -1,0 +1,9 @@
+Title: Mixed approach to assess urban sustainability and resilience – A spatio-temporal perspective
+Authors: Attila Buzási, Bettina Szimonetta Beszedics-Jäger, Olivér Hortay
+Year: 2022
+Venue: City and Environment Interactions
+DOI: https://doi.org/10.1016/j.cacint.2022.100088
+Paper ID: https://openalex.org/W4296121149
+
+Abstract:
+Urban sustainability and urban resilience are at the forefront of current urban studies since cities play a crucial role in sustainability and climate-related transformations. Hungarian cities face almost the same challenges regarding climate change as their European counterparts; however, their considerable socio-economic sensitivity makes them highly vulnerable. This study aims to comparatively analyze urban sustainability and heatwave vulnerability in the case of Hungarian cities by applying a mixed approach - min–max feature scaling and fuzzy method. In order to reveal the hidden relationships between the highly interconnected aspects of sustainability and vulnerability dimensions, min–max feature scaling and fuzzy logic have been applied. The selected set of indicators encompasses statistical data regarding socio-economic aspects, moreover as relevant climate change and environmental issues, namely heatwave duration predictions and imperviousness density. The applied fuzzy logic approach reveals interdependencies between the analyzed aspects and maps spatial characteristics regarding the evaluated cities. Applying the min–max feature scaling method shows high sustainability scores regarding Budapest and Western regions, while overall vulnerability performances were lower in cities from less developed regions. However, the applied fuzzy methodology contributes to defining more homogenous performances by distinguishing only two sustainability categories and reducing variability in the case of heatwave vulnerability.

@@ -1,0 +1,9 @@
+Title: Land Use Efficiency Assessment under Sustainable Development Goals: A Systematic Review
+Authors: Yin Ma, Minrui Zheng, Xinqi Zheng, Yi Huang, Feng Xu, Xiaoli Wang, Jiantao Liu, Yongqiang Lv, Wenchao Liu
+Year: 2023
+Venue: Land
+DOI: https://doi.org/10.3390/land12040894
+Paper ID: https://openalex.org/W4366222331
+
+Abstract:
+Improvements in and the assessment of land use efficiency are crucial pillars for achieving the Sustainable Development Goals (SDGs). This study reviews 208 representative papers, oral reports, and project reports to provide a systematic and comprehensive understanding of the current status and future trends of research on land use efficiency assessment. The findings reveal that (1) the number of papers on land use efficiency assessment is rapidly increasing, with research primarily focused on environmental science and ecology (n = 157, 75.48%). (2) Quantitative models are gaining popularity for land use efficiency assessment, with more than 46.63% of the studies adopting the data envelopment analysis (DEA) model. (3) The definition and analysis perspectives of land use efficiency are diverse, but research on relative land use efficiency and comprehensive analysis perspectives accounts for a significant proportion. (4) Constructing a large and complex model that incorporates geospatial effects, big data, and computer technology is a hot topic for future research methods. On the other hand, conducting land use efficiency research on a global scale is more conducive to achieving the SDGs. (5) The core to improving land use efficiency lies in the joint implementation of multi-pronged measures.

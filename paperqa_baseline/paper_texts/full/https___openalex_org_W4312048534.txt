@@ -1,0 +1,9 @@
+Title: Performance Measurement of the Sustainable Supply Chain During the COVID-19 Pandemic: A real-life case study
+Authors: Sina Abbasi, Hossein Amoozad Khalili, Maryam Daneshmand-Mehr, Mostafa Hajiaghaei–Keshteli
+Year: 2022
+Venue: Foundations of Computing and Decision Sciences
+DOI: https://doi.org/10.2478/fcds-2022-0018
+Paper ID: https://openalex.org/W4312048534
+
+Abstract:
+Abstract This paper aims to introduce a framework to measure the sustainable performance of the supply chain (SC) during the COVID-19 pandemic. The SC stakeholders in this investigation are Suppliers, Production / Remanufacturing / Refurbishing Centers (Factories), Collection / Distribution Centers, Recycling / Landfill Centers, and Customers. The suggested sustainable supply chain (SSC) performance measurement included three pillars with 23 indicators. To evaluate the overall sustainability of the SC understudy, a composite index has been developed that combines all the indicators to reflect the sustainability performance of the SC. Four steps are involved in creating a composite index:1) measuring the value of indicators, 2) weighing indicators, 3) Using the normalization technique, and 4) Evaluating the overall SSC indicator. The real case in Iran is selected as an illustrative case. Our research contributions are: We suggested a novelty indicator of SSC to better show the economic, environmental, and social tradeoffs during the COVID-19 pandemic and lockdowns. We have found and measured the negative and positive impacts of COVID-19 on aspects of sustainability in SC. Based on the achieved data of the real case study, a numerical example is represented to explain how to calculate the composite index. The main contribution of this paper is the development of SSC indicators during the COVID-19 epidemic.

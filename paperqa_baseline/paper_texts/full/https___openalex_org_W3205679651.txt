@@ -1,0 +1,9 @@
+Title: Interoperable Permissioned-Blockchain with Sustainable Performance
+Authors: Swathi Punathumkandi, Venkatesan Meenakshi Sundaram, Prabhavathy Panneer
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132011132
+Paper ID: https://openalex.org/W3205679651
+
+Abstract:
+Bitcoin is an innovative and path-breaking technology that has influenced numerous industries across the globe. It is a form of digital currency (cryptocurrency) that can be used for trading and has the potential to replace fiat money, where the underlying infrastructure is called Blockchain. The Blockchain is an open ledger that provides decentralization, transparency, immutability, and confidentiality. Blockchain can be used in enormous applications, such as healthcare, logistics, supply chain management, the IoT, and so forth. Most of the industrial applications rely on the permissioned blockchain. However, the permissioned blockchain fails in some aspects, such as interoperability among different platforms. This paper suggests a sustainable system to solve the interoperability issue of the permissioned blockchain by designing a new infrastructure. This work has been tested in ethereum and hyperledger frameworks, which obtained a success rate of 100 percent.

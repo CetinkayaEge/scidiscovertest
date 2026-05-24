@@ -1,0 +1,9 @@
+Title: Empathy Cannot Sustain Action in Technology Accessibility
+Authors: Sarah Horton
+Year: 2021
+Venue: Frontiers in Computer Science
+DOI: https://doi.org/10.3389/fcomp.2021.617044
+Paper ID: https://openalex.org/W3158643346
+
+Abstract:
+Accessibility programs and advocates use a range of approaches to persuade people to prioritize accessibility in technology design and development. Two common methods are empathy and inclusive design, aimed at making accessibility relatable and urgent. An empathy design practice involves intentionally seeking to understand accessibility needs by learning from people with disabilities. Inclusive design starts with broadening the definition of accessibility to include people who may not be defined as having a disability but who share similar characteristics and needs. Both inclusive design and empathy are design practices that help answer the question of how to design accessible technology. Neither is strong enough to sustain the necessary level of commitment and prioritization to achieve accessible outcomes. To resolve the question of why we must design accessible technology, we need requirements and professionalism. Through reviews of research and current practices, this opinion article explores the use of empathy and inclusive design for technology accessibility, highlights fundamental gaps, and proposes ways toward sustainable attention to accessibility and disability inclusion in our digital world.

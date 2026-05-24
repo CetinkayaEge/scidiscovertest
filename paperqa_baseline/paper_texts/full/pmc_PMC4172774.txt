@@ -1,0 +1,9 @@
+Title: Familial Correlations of Onset Age of Hepatocellular Carcinoma: A Population-Based Case-Control Family Study
+Authors: Li Liu, Lixia Li, Shudong Zhou, Qingwu Jiang, Sidong Chen, Yanhui Gao, Yue Chen
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0108391
+Paper ID: pmc_PMC4172774
+
+Abstract:
+Background There was lack of evidence for familial aggregation in onset age of hepatocellular carcinoma (HCC) in Chinese population. We conducted a population-based case-control family study to examine familial correlation of age of HCC onset in Taixing, China. Methods A total of 202 cases and 202 matched controls as well as their relatives were included in the study. Lifetime cumulative risks of HCC were estimated using the Kaplan-Meier approach. Cross ratios (CRs) were obtained from stratified Cox proportional hazard models, to assess the familial correlation of onset age. Results The mean age of HCC onset was decreased as increasing number of HCC cases in a family. The onset age was the earliest for first-degree relatives, intermediate for second-degree relatives, and latest for non-blood relatives (spouse) (log-rank test, P <0.01). The onset age was significantly correlated between probands and their relatives. In stratified Cox proportional hazard models, the CRs for the probands versus their fathers, mothers, siblings and uncles/aunts were 6.25 (95% confidence interval (CI): 1.84–21.25), 9.81 (95% CI: 1.24–77.56), 6.22 (95% CI: 1.37–28.36) and 3.24 (95% CI: 1.26–8.33), respectively. After adjustment for hepatitis B virus infection, the CRs remained significant. Conclusion This current study suggested a significant correlation of onset age for HCC among blood relatives. Familial HCC cases yielded earlier age of onset and their relatives have higher HCC risk in early age, highlighting intensive surveillance should be start at an earlier age for individuals with family history of HCC.

@@ -1,0 +1,9 @@
+Title: COVID-19 cases reported in Colorado following screening at selected US airports, January – July 2020
+Authors: Anna Shaum, Tye Harlow, Reena K. Gulati, Andre Berro, Jennifer House
+Year: 2023
+Venue: BMC Research Notes
+DOI: 10.1186/s13104-023-06339-6
+Paper ID: pmc_PMC10139659
+
+Abstract:
+Objective We sought to estimate the proportion of air travelers who may have been infected with SARS-CoV-2 upon arrival to Colorado by comparing data on Colorado residents screened upon entering the US to COVID-19 cases reported in the state. Data on Colorado’s screened passengers arriving into the US between January 17 and July 30, 2020 were compared to Colorado’s Electronic Disease Reporting System. We conducted a descriptive analysis of true matches, including age, gender, case status, symptom status, time from arrival to symptom onset (days), and time from arrival to specimen collection date (days). Results Fourteen confirmed COVID-19 cases in travelers who were diagnosed within 14 days after arriving in Colorado were matched to the 8,272 travelers who underwent screening at 15 designated airports with a recorded destination of Colorado, or 0.2%. Most (N = 13/14 or 93%) of these infected travelers arrived in Colorado in March 2020; 12 (86%) of them were symptomatic. Entry screening for COVID-19 and the sharing of traveler information with the Colorado Department of Public Health and Environment appeared to identify few cases early in the pandemic. Symptom-based entry screening and sharing of traveler information was minimally effective at decreasing travel-associated COVID-19 transmission.

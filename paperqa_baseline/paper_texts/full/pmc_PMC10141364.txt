@@ -1,0 +1,9 @@
+Title: Prenatal Exposure to Metabolism-Disrupting Chemicals, Cord Blood Transcriptome Perturbations, and Birth Weight in a Belgian Birth Cohort
+Authors: Anran Cai, Lützen Portengen, Gökhan Ertaylan, Juliette Legler, Roel Vermeulen, Virissa Lenters, Sylvie Remy
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087607
+Paper ID: pmc_PMC10141364
+
+Abstract:
+Prenatal exposure to metabolism-disrupting chemicals (MDCs) has been linked to birth weight, but the molecular mechanisms remain largely unknown. In this study, we investigated gene expressions and biological pathways underlying the associations between MDCs and birth weight, using microarray transcriptomics, in a Belgian birth cohort. Whole cord blood measurements of dichlorodiphenyldichloroethylene ( p,p’ -DDE), polychlorinated biphenyls 153 (PCB-153), perfluorooctanoic acid (PFOA), perfluorooctane sulfonic acid (PFOS), and transcriptome profiling were conducted in 192 mother–child pairs. A workflow including a transcriptome-wide association study, pathway enrichment analysis with a meet-in-the-middle approach, and mediation analysis was performed to characterize the biological pathways and intermediate gene expressions of the MDC–birth weight relationship. Among 26,170 transcriptomic features, we successfully annotated five overlapping metabolism-related gene expressions associated with both an MDC and birth weight, comprising BCAT2 , IVD , SLC25a16 , HAS3 , and MBOAT2 . We found 11 overlapping pathways, and they are mostly related to genetic information processing. We found no evidence of any significant mediating effect. In conclusion, this exploratory study provides insights into transcriptome perturbations that may be involved in MDC-induced altered birth weight.

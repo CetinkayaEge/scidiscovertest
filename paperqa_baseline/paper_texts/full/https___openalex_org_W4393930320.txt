@@ -1,0 +1,9 @@
+Title: The role of digital technologies in production systems for achieving sustainable development goals
+Authors: Vincenzo Varriale, Antonello Cammarano, Francesca Michelino, Mauro Caputo
+Year: 2024
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2024.03.035
+Paper ID: https://openalex.org/W4393930320
+
+Abstract:
+Recently, the academic and scientific debate has been strongly focused on the use of digital technologies to address sustainability issues. In particular, the use of digital technologies could be the key to achieving the Sustainable Development Goals (SDGs) declared in the 2030 Agenda. Although several studies have focused on the combination of digital technologies and SDGs, current research has less analyzed them considering specific business functions and processes. Hence, this article aims to provide a comprehensive overview of the triple link “digital technologies - business functions and processes - SDGs” in production systems. The article proposes a mixed approach based on an extensive literature review and the application of the association rules technique. Specifically, the study collected 2496 sustainable business practices supported by 11 digital technologies within 42 business processes for the achievement of the 17 SDGs. Then, this paper employed the Apriori algorithm to intercept the main combinations between digital technologies, business processes, and SDGs. The results suggest that artificial intelligence, geospatial technologies, blockchain, Internet of Things, and 3D printing can contribute to the achievement of SDGs 6,7, 12, and 13 in different business processes. The study provides several implications for managers and policymakers to direct their business strategy and technological choices in the adoption of digital technologies geared toward achieving the SDGs.

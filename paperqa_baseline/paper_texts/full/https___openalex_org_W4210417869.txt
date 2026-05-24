@@ -1,0 +1,9 @@
+Title: Solar Selective Absorber for Emerging Sustainable Applications
+Authors: Jing Zhang, Chengbing Wang, Jing Shi, Dan Wei, Heng Zhao, Chuang Ma
+Year: 2022
+Venue: Advanced Energy and Sustainability Research
+DOI: https://doi.org/10.1002/aesr.202100195
+Paper ID: https://openalex.org/W4210417869
+
+Abstract:
+Solar selective absorbers (SSAs) possess high sunlight absorption (300–2500 nm) and low infrared thermal radiative losses (2.5–25 μm), which are undoubtedly the best choice for photothermal conversion process, and SSAs have been widely used in concentrating solar power, solar water heating, and solar drying. Recently, to promote the realization of “double carbon” goal, SSAs have received widespread attentions, many emerging sustainable applications have been developed. In this review, the recent developments of SSAs and their latest sustainable applications in solar‐driven seawater desalination, multistage solar desalination, atmospheric water harvesting (AWH), wastewater treatment, solar thermophotovoltaics (STPVs), hybrid photovoltaic‐thermal (HPVT), solar‐thermoelectric generators (STEG), personal thermal management (PTM), photothermal catalysis, photothermal deicing, and photothermal sterilization, etc. are systematically summarized. Also, the challenges as well as future opportunities of SSAs are discussion. It is expected that this review will effectively complement the published comments on SSAs and provide more inspirations on sustainable applications of SSAs in the future.

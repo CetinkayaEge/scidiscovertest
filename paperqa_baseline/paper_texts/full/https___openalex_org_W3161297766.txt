@@ -1,0 +1,9 @@
+Title: Investigation of life cycle assessment barriers for sustainable development in manufacturing using grey relational analysis and best worst method
+Authors: Mahender Singh Kaswan, Rajeev Rathi
+Year: 2021
+Venue: International Journal of Sustainable Engineering
+DOI: https://doi.org/10.1080/19397038.2021.1929550
+Paper ID: https://openalex.org/W3161297766
+
+Abstract:
+Over the last few decades, there has been increasing pressure on manufacturing organisations to reduce their current level of emissions due to governmental policies on climate change and increased awareness of sustainability. To mitigate these challenges, there is a need for industries to measure and analyse environmental wastes using tools like life cycle assessment (LCA). But, to implement LCA comprehensively, it is indispensable to look at barriers that deter successful implementation of this assessment tool. The present work deals with the identification, investigation, and prioritisation of LCA barriers in the manufacturing sector of India using advanced decision-making tool: Grey Relational Analysis (GRA) and further validation using Best Worst Method (BWM). It has been found that lack of top management support, lack of education and training of employee on environmental management, and lack of team effort across supply chain partners to collect effective data as key barriers to LCA implementation with grey relational grades 0.8296, 0.6294, and 0.6219, respectively. The corresponding BWM weights have been found as 0.3232, 0.1534, and 0.1039. The present work will enable the manufacturing organisations and practitioners to apply LCA through comprehensive understanding of barriers for improved organisational sustainability.

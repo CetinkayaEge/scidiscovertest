@@ -1,0 +1,9 @@
+Title: Comparison of Kinetic Models Applied for Transport Description in Polymer Inclusion Membranes
+Authors: Piotr Szczepański
+Year: 2023
+Venue: Membranes
+DOI: 10.3390/membranes13020236
+Paper ID: pmc_PMC9967031
+
+Abstract:
+Five mathematical models for transport description in polymer inclusion membranes (PIMs) were presented and compared via regression analysis. The applicability of the models was estimated through the examination of experimental data of Zn(II), Cd(II), Pb(II), and Cu(II) ions transported by typical carriers. In four kinetic models, a change in the feed and stripping solution volume was taken into account. The goodness of fit was compared using the standard error of the regression, Akaike information criterion (AIC), Bayesian (Schwarz) information criterion (BIC), and Hannan–Quinn information criterion (HQC). The randomness distribution in the data was confirmed via a nonparametric runs test. Based on these quantities, appropriate models were selected.

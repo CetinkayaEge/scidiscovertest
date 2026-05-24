@@ -1,0 +1,9 @@
+Title: Perirenal adipose afferent nerves sustain pathological high blood pressure in rats
+Authors: Peng Li, Boxun Liu, Xiaoguang Wu, Yan Lu, Ming Qiu, Yihui Shen, Yunfan Tian, Chi Liu, Xiru Chen, Chuanxi Yang, Mengqing Deng, Yaqing Wang, Jia Gu, Zhongping Su, Xuguan Chen, Kun Zhao, Yanhui Sheng, Shijiang Zhang, Wei Sun, Xiangqing Kong
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-30868-6
+Paper ID: https://openalex.org/W4281679797
+
+Abstract:
+Hypertension is a pathological condition of persistent high blood pressure (BP) of which the underlying neural mechanisms remain obscure. Here, we show that the afferent nerves in perirenal adipose tissue (PRAT) contribute to maintain pathological high BP, without affecting physiological BP. Bilateral PRAT ablation or denervation leads to a long-term reduction of high BP in spontaneous hypertensive rats (SHR), but has no effect on normal BP in control rats. Further, gain- and loss-of-function and neuron transcriptomics studies show that augmented activities and remodeling of L1-L2 dorsal root ganglia neurons are responsible for hypertension in SHR. Moreover, we went on to show that calcitonin gene-related peptide (CGRP) is a key endogenous suppressor of hypertension that is sequestered by pro-hypertensive PRAT in SHRs. Taken together, we identify PRAT afferent nerves as a pro-hypertensive node that sustains high BP via suppressing CGRP, thereby providing a therapeutic target to tackle primary hypertension.

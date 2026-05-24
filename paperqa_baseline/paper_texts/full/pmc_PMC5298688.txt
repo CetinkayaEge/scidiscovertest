@@ -1,0 +1,9 @@
+Title: Software Defined Doppler Radar as a Contactless Multipurpose Microwave Sensor for Vibrations Monitoring
+Authors: Antonio Raffo, Sandra Costanzo, Giuseppe Di Massa
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010115
+Paper ID: pmc_PMC5298688
+
+Abstract:
+A vibration sensor based on the use of a Software-Defined Radio (SDR) platform is adopted in this work to provide a contactless and multipurpose solution for low-cost real-time vibrations monitoring. In order to test the vibration detection ability of the proposed non-contact method, a 1 GHz Doppler radar sensor is simulated and successfully assessed on targets at various distances, with various oscillation frequencies and amplitudes. Furthermore, an SDR Doppler platform is practically realized, and preliminary experimental validations on a device able to produce a harmonic motion are illustrated to prove the effectiveness of the proposed approach.

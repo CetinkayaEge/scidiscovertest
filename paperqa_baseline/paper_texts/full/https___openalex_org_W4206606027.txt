@@ -1,0 +1,9 @@
+Title: A Symmetry and Asymmetry Investigation of the Nexus Between Environmental Sustainability, Renewable Energy, Energy Innovation, and Trade: Evidence From Environmental Kuznets Curve Hypothesis in Selected MENA Countries
+Authors: Anselme Andriamahery, Md. Qamruzzaman
+Year: 2022
+Venue: Frontiers in Energy Research
+DOI: https://doi.org/10.3389/fenrg.2021.778202
+Paper ID: https://openalex.org/W4206606027
+
+Abstract:
+The motivation of the study is to gauge the role of renewable energy consumption (REC), energy innovation (EI), and total trade (TR) on environmental sustainability (ES) in selected MENA (Middle East and North Africa) countries for the period 1980–2018 under the assumption of environmental Kuznets curve (EKC). The study implemented several econometrical tools, including structural break unit root test, Bayer–Hanck combined cointegration test, autoregressive distributed lag (ARDL), nonlinear ARDL, and Granger causality test under error correction term. Variables properties test detected that all the variables are stationary after the first difference but neither exposed to stationary after the second difference. The test statistics of the combined cointegration test documented a long-run association between ES, RE, EI, and TR, which is valid for both countries concerned. Regarding EKC concern, study findings with ARDL and nonlinear ARDL validated the EKC hypothesis for Tunisia and Morocco. Finally, the direction causality test documented unidirectional causality between renewable energy and ES, trade and ES, but the feedback hypothesis holds between EI and ES. We can advocate for specific sectoral environmental reforms in Tunisia and Morocco and suggest continuous environmentally friendly technologies by combining study findings. At the same time, subsidies on nonrenewable energy should be reduced, and green trade policies to help advance sustainable development should be implemented.

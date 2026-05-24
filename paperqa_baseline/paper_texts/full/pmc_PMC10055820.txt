@@ -1,0 +1,9 @@
+Title: Feature-Based Occupancy Map-Merging for Collaborative SLAM
+Authors: Sooraj Sunil, Saeed Mozaffari, Rajmeet Singh, Behnam Shahrrava, Shahpour Alirezaee
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063114
+Paper ID: pmc_PMC10055820
+
+Abstract:
+One of the most frequently used approaches to represent collaborative mapping are probabilistic occupancy grid maps. These maps can be exchanged and integrated among robots to reduce the overall exploration time, which is the main advantage of the collaborative systems. Such map fusion requires solving the unknown initial correspondence problem. This article presents an effective feature-based map fusion approach that includes processing the spatial occupancy probabilities and detecting features based on locally adaptive nonlinear diffusion filtering. We also present a procedure to verify and accept the correct transformation to avoid ambiguous map merging. Further, a global grid fusion strategy based on the Bayesian inference, which is independent of the order of merging, is also provided. It is shown that the presented method is suitable for identifying geometrically consistent features across various mapping conditions, such as low overlapping and different grid resolutions. We also present the results based on hierarchical map fusion to merge six individual maps at once in order to constrict a consistent global map for SLAM.

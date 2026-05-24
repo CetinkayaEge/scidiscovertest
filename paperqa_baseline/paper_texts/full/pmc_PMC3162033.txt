@@ -1,0 +1,9 @@
+Title: Asymmetry in Species Regional Dispersal Ability and the Neutral Theory
+Authors: Jiajia Liu, Shurong Zhou
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024128
+Paper ID: pmc_PMC3162033
+
+Abstract:
+The neutral assumption that individuals of either the same or different species share exactly the same birth, death, migration, and speciation probabilities is fundamental yet controversial to the neutral theory. Several theoretical studies have demonstrated that a slight difference in species per capita birth or death rates can have a profound consequence on species coexistence and community structure. Whether asymmetry in migration, a vital demographic parameter in the neutral model, plays an important role in community assembly still remains unknown. In this paper, we relaxed the ecological equivalence assumption of the neutral model by introducing differences into species regional dispersal ability. We investigated the effect of asymmetric dispersal on the neutral local community structure. We found that per capita asymmetric dispersal among species could reduce species richness of the local community and result in deviations of species abundance distributions from those predicted by the neutral model. But the effect was moderate compared with that of asymmetries in birth or death rates, unless very large asymmetries in dispersal were assumed. A large difference in species dispersal ability, if there is, can overwhelm the role of random drift and make local community dynamics deterministic. In this case, species with higher regional dispersal abilities tended to dominate in the local community. However, the species abundance distribution of the local community under asymmetric dispersal could be well fitted by the neutral model, but the neutral model generally underestimated the fundamental biodiversity number but overestimated the migration rate in such communities.

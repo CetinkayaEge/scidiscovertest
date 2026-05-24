@@ -1,0 +1,9 @@
+Title: Population-based sero-epidemiological investigation of SARS-CoV-2 infection in Somalia
+Authors: Md Shajib Hossain, Mohamed Mohamud Derrow, Sahra Isse Mohamed, Hasan Mukhtar Abukar, Mohamed G. Qayad, Sk Md Mamunur Rahman Malik, Kumlachew Fikremariam Mengistu, Ali Abdilahi Ali Obsie, Iqbal Anwar
+Year: 2023
+Venue: Journal of Infection and Public Health
+DOI: 10.1016/j.jiph.2023.04.016
+Paper ID: pmc_PMC10105620
+
+Abstract:
+Objectives To explore the burden of coronavirus disease 2019 (COVID-19) in Somalia by measuring the seroprevalence of antibodies to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the general population. Methods We recruited a convenience sample of 2751 participants from among individuals attending outpatient and inpatient departments of public health facilities, or their accompanying family members. Participants were interviewed to collect sociodemographic data and provided a blood sample. We calculated seropositivity rates overall and by sex, age group, state, residence, education and marital status. We used logistic regression analysis – odds ratios and 95% confidence intervals (CI) – to investigate sociodemographic correlates of seropositivity. Results The overall seropositivity rate was 56.4% (95% CI 54.5–58.3%), while 8.8% of participants reported being previously diagnosed with COVID-19 by July 2021. In the regression analysis, after controlling for covariates, urban residence was significantly asscoiated with seropositivity: OR = 1.74 (95% CI: 1.19–2.55). Conclusions Our results show a high seroprevalence rate of SARS-CoV-2 in the Somali population (56.4%), and indicate that many infections have not been captured by the country’s surveillance system resulting in considerable under-reporting.

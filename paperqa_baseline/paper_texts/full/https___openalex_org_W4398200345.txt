@@ -1,0 +1,9 @@
+Title: Recent developments in solar-powered membrane distillation for sustainable desalination
+Authors: Ahmad S. Jawed, Lobna Nassar, Hanaa M. Hegab, Riaan van der Merwe, Faisal Al Marzooqi, Fawzi Banat, Shadi W. Hasan
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e31656
+Paper ID: https://openalex.org/W4398200345
+
+Abstract:
+The freshwater shortage continues to be one of the greatest challenges affecting our planet. Although traditional membrane distillation (MD) can produce clean water regardless of climatic conditions, the process wastes a lot of energy. The technique of solar-powered membrane distillation (SPMD) has received a lot of interest in the past decade, thanks to the development of photothermal materials. SPMD is a promising replacement for the traditional MD based on fossil fuels, as it can prevent the harmful effects of emissions on the environment. Integrating green solar energy with MD can reduce the cost of the water purification process and secure freshwater production in remote areas. At this point, it is important to consider the most current progress of the SPMD system and highlight the challenges and prospects of this technology. Based on this, the background, recent advances, and principles of MD and SPMD, their configurations and mechanisms, fabrication methods, advantages, and current limitations are discussed. Detailed comparisons between SPMD and traditional MD, assessments of various standards for incorporating photothermal materials with desirable properties, discussions of desalination and other applications of SPMD and MD, and energy consumption rates are also covered. The final section addresses the potential of SPMD to outperform traditional desalination technology while improving water production without requiring a significant amount of electrical or high-grade thermal energy.

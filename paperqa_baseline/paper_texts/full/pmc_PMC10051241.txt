@@ -1,0 +1,9 @@
+Title: Prototyping a Chatbot for Site Managers Using Building Information Modeling (BIM) and Natural Language Understanding (NLU) Techniques
+Authors: Will Y. Lin
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062942
+Paper ID: pmc_PMC10051241
+
+Abstract:
+Amidst the domestic labor shortage and worldwide pandemic in recent years, there has been an urgent need for a digital means that allows construction site workers, particularly site managers, to obtain information more efficiently in support of their daily managerial tasks. For workers who move around the site, traditional software applications that rely on a form-based interface and require multiple finger movements such as key hits and clicks can be inconvenient and reduce their willingness to use such applications. Conversational AI, also known as a chatbot, can improve the ease of use and usability of a system by providing an intuitive interface for user input. This study presents a demonstrative Natural Language Understanding (NLU) model and prototypes an AI-based chatbot for site managers to inquire about building component dimensions during their daily routines. Building Information Modeling (BIM) techniques are also applied to implement the answering module of the chatbot. The preliminary testing results show that the chatbot can successfully predict the intents and entities behind the inquiries raised by site managers with satisfactory accuracy for both intent prediction and the answer. These results provide site managers with alternative means to retrieve the information they need.

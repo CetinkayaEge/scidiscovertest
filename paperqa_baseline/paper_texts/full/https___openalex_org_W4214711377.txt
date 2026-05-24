@@ -1,0 +1,9 @@
+Title: Deep Learning-Based Defect Detection for Sustainable Smart Manufacturing
+Authors: Sang-Hyun Park, Kang-Hee Lee, Ji Su Park, Youn-Soon Shin
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052697
+Paper ID: https://openalex.org/W4214711377
+
+Abstract:
+In manufacturing a product, product defects occur at several stages. This study makes the case that one can build a smart factory by introducing it into the manufacturing process of small-scale scarce products, which mainly solves the defect problem through visual inspection. By introducing an intelligent manufacturing process, defects can be minimized, and human costs can be lowered to enable sustainable growth. In this paper, in order to easily detect defects occurring in the manufacturing process, we studied a deep learning-based automatic defect detection model that can train product characteristics and determine defects using open sources. To verify the performance of this model, it was applied to the disposable gas lighter manufacturing process to detect the liquefied gas volume defect of the lighter, and it was confirmed that the detection accuracy and processing time were sufficient to apply to the manufacturing process.

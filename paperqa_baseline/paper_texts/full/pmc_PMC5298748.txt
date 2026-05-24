@@ -1,0 +1,9 @@
+Title: Opportunistic Capacity-Based Resource Allocation for Chunk-Based Multi-Carrier Cognitive Radio Sensor Networks
+Authors: Jie Huang, Xiaoping Zeng, Xin Jian, Xiaoheng Tan, Qi Zhang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010175
+Paper ID: pmc_PMC5298748
+
+Abstract:
+The spectrum allocation for cognitive radio sensor networks (CRSNs) has received considerable research attention under the assumption that the spectrum environment is static. However, in practice, the spectrum environment varies over time due to primary user/secondary user (PU/SU) activity and mobility, resulting in time-varied spectrum resources. This paper studies resource allocation for chunk-based multi-carrier CRSNs with time-varied spectrum resources. We present a novel opportunistic capacity model through a continuous time semi-Markov chain (CTSMC) to describe the time-varied spectrum resources of chunks and, based on this, a joint power and chunk allocation model by considering the opportunistically available capacity of chunks is proposed. To reduce the computational complexity, we split this model into two sub-problems and solve them via the Lagrangian dual method. Simulation results illustrate that the proposed opportunistic capacity-based resource allocation algorithm can achieve better performance compared with traditional algorithms when the spectrum environment is time-varied.

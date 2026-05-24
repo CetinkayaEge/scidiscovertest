@@ -1,0 +1,9 @@
+Title: Does government spending efficiency improve fiscal sustainability?
+Authors: António Afonso, José Alves
+Year: 2023
+Venue: European Journal of Political Economy
+DOI: https://doi.org/10.1016/j.ejpoleco.2023.102403
+Paper ID: https://openalex.org/W4378072168
+
+Abstract:
+We evaluate the impact of government spending efficiency on fiscal sustainability and fiscal reaction function coefficients for a panel of 35 OECD countries during the period of 2007–2020. To answer our research question, we first compute the magnitude of the responses of government revenues to changes in government spending as well as the coefficients of the cyclically adjusted primary balance as function of one-period lagged government debt. Next, we make use of so-called government spending efficiency scores, which efficiently indicate how governments can maintain their level of performance whilst using fewer inputs. Our results show that for the input efficiency scores obtained, countries’ fiscal balance and fiscal sustainability is directly improved by the use of less public resources, whilst maintaining the same level of output. In the cases of the output efficiency scores, the commitment of increased government outputs can lead to higher economic growth and the generation of additional government revenues, which also improves fiscal sustainability. Specifically, rationalising public expenditures without jeopardising the actual level of public goods and provision of services is a stronger determinant of fiscal sustainability, as well as for the improvement of the primary budget balance.

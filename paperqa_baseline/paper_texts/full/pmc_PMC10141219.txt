@@ -1,0 +1,9 @@
+Title: Gadolinium-Cyclic 1,4,7,10-Tetraazacyclododecane-1,4,7,10-Tetraacetic Acid-Click-Sulfonyl Fluoride for Probing Serine Protease Activity in Magnetic Resonance Imaging
+Authors: Phuong Tu Huynh, Huy Duc Vu, Junghwa Ryu, Hee Su Kim, Hoesu Jung, Sung Won Youn
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083538
+Paper ID: pmc_PMC10141219
+
+Abstract:
+Serine protease is linked to a wide range of diseases, prompting the development of robust, selective, and sensitive protease assays and sensing methods. However, the clinical needs for serine protease activity imaging have not yet been met, and the efficient in vivo detection and imaging of serine protease remain challenging. Here, we report the development of the gadolinium-cyclic 1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid-click-Sulfonyl Fluoride (Gd-DOTA-click-SF) MRI contrast agent targeting serine protease. The HR-FAB mass spectrum confirmed the successful formation of our designed chelate. The molar longitudinal relaxivity (r 1 ) of the Gd-DOTA-click-SF probe (r 1 = 6.82 mM −1 s −1 ) was significantly higher than that of Dotarem (r 1 = 4.63 mM −1 s −1 ), in the range of 0.01–0.64 mM at 9.4 T. The in vitro cellular study and the transmetallation kinetics study showed that the safety and stability of this probe are comparable to those of conventional Dotarem. Ex vivo abdominal aortic aneurysm (AAA) MRI revealed that this probe has a contrast-agent-to-noise ratio (CNR) that is approximately 51 ± 23 times greater than that of Dotarem. This study of superior visualization of AAA suggests that it has the potential to detect elastase in vivo and supports the feasibility of probing serine protease activity in T1-weighted MRI.

@@ -1,0 +1,9 @@
+Title: Information flow and COVID-19 recovery
+Authors: Radeef Chundakkadan, Rekha Ravindran
+Year: 2020
+Venue: World Development
+DOI: 10.1016/j.worlddev.2020.105112
+Paper ID: pmc_PMC7383142
+
+Abstract:
+This study examines whether the flow of information pertaining to COVID-19 helps to contain the pandemic. We capture the information flow of the pandemic using the Google Search Volume Index for the keyword coronavirus+covid in 33 states and union territories in India. We find that the information flow is inversely related to positive cases reported in these regions. This result suggests that internet inclusion is a relevant factor in the fight against the pandemic.

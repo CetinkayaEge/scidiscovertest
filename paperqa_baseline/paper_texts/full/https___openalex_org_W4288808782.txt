@@ -1,0 +1,9 @@
+Title: Narratives of sustainability in digital media: An observatory for digital narratives
+Authors: Jennifer Helgeson, Pierre D. Glynn, Ilan Chabay
+Year: 2022
+Venue: Futures
+DOI: https://doi.org/10.1016/j.futures.2022.103016
+Paper ID: https://openalex.org/W4288808782
+
+Abstract:
+Making the profound societal transitions and transformations called for in the UN Sustainable Development Goals for 2030 (UN, 2019) and beyond is a critical and urgent challenge for humanity. We propose the collection and analysis of digital narratives (DNs) to observe and assess significant concerns about sustainability and resilience (e.g., as reflected by social movements and interests). Observing temporal changes, globally, in the frequency, sources, and content of DNs can illuminate emerging trends in perceptions, attitudes, norms, hopes or fears of individuals and groups. Of particular interest are movements towards acceptance of, or resistance to, locally adaptive pathways to sustainable futures. We propose forming a Digital Observatory of Narratives of Sustainability (DONS) as a collaborative platform with associated open-source tools for analyzing and representing the societal landscape and its dynamics, thereby providing data to help model future societal trajectories and develop approaches to cope with systemic risks. The DONS opens a rich field for inter- and trans-disciplinary research on sustainability through narratives and their dynamics in different contexts and cultures.

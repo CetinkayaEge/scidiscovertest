@@ -1,0 +1,9 @@
+Title: Bioimpedance basics and phase angle fundamentals
+Authors: Leigh C. Ward, Steven Brantlov
+Year: 2023
+Venue: Reviews in Endocrine & Metabolic Disorders
+DOI: 10.1007/s11154-022-09780-3
+Paper ID: pmc_PMC10140124
+
+Abstract:
+Measurement of phase angle using bioimpedance analysis (BIA) has become popular as an index of so-called “cellular health”. What precisely is meant by this term is not always clear but strong relationships have been found between cellular water status (the relative amounts of extra- and intracellular water), cell membrane integrity and cellular mass. Much of the current research is empirical observation and frequently pays little regard to the underlying biophysical models that underpin the BIA technique or attempts to provide mechanistic explanations for the observations. This brief review seeks to provide a basic understanding of the electrical models frequently used to describe the passive electrical properties of tissues with particular focus on phase angle. In addition, it draws attention to some practical concerns in the measurement of phase angle and notes the additional understanding that can be gained when phase angle are obtained with bioimpedance spectroscopy (BIS) rather than single frequency BIA (SFBIA) along with the potential for simulation modelling.

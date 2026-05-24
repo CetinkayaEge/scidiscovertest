@@ -1,0 +1,9 @@
+Title: Accounting for Carbon Emissions—Current State of Sustainability Reporting Practice under the GHG Protocol
+Authors: Rainer Kasperzak, Marko Kureljusic, Lucas Reisch, Simon Thies
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15020994
+Paper ID: https://openalex.org/W4313558701
+
+Abstract:
+Climate-related reporting has become an integral part of firms’ disclosure. In this context, firms’ greenhouse gas (GHG) emissions are of major importance to stakeholders and management. For measuring GHG emissions, a global standard has been established with the GHG Protocol. This standard contains an important accounting policy option that significantly affects firms’ reported emissions by allowing them to use different consolidation approaches: the equity share, operational control, and financial control approach. However, there is limited evidence on firms’ use of these approaches, resulting in a lack of foundation for discussing the approaches’ sufficiency to support achieving environmental sustainability. Therefore, this paper aims to close this research gap by empirically investigating the approaches’ relevance using 16,604 firm-year observations between 2009 and 2019. We demonstrate that the operational control approach is used by most firms and that its predominance substantially increased during the last decade. However, the predominant use of the operational control approach is not fully compatible with societal and political sustainability goals as expressed in recent sustainability regulations. Therefore, policy makers need to critically assess whether current GHG reporting supports achieving their goals. Furthermore, we develop a research agenda to encourage future researchers to contribute to improvements in GHG reporting.

@@ -1,0 +1,9 @@
+Title: Hyperbolic band topology with non-trivial second Chern numbers
+Authors: Weixuan Zhang, Fengxiao Di, Xingen Zheng, Houjun Sun, Xiangdong Zhang
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36767-8
+Paper ID: pmc_PMC9968300
+
+Abstract:
+Topological band theory establishes a standardized framework for classifying different types of topological matters. Recent investigations have shown that hyperbolic lattices in non-Euclidean space can also be characterized by hyperbolic Bloch theorem. This theory promotes the investigation of hyperbolic band topology, where hyperbolic topological band insulators protected by first Chern numbers have been proposed. Here, we report a new finding on the construction of hyperbolic topological band insulators with a vanished first Chern number but a non-trivial second Chern number. Our model possesses the non-abelian translational symmetry of {8,8} hyperbolic tiling. By engineering intercell couplings and onsite potentials of sublattices in each unit cell, the non-trivial bandgaps with quantized second Chern numbers can appear. In experiments, we fabricate two types of finite hyperbolic circuit networks with periodic boundary conditions and partially open boundary conditions to detect hyperbolic topological band insulators. Our work suggests a new way to engineer hyperbolic topological states with higher-order topological invariants. To date, studies of topological band theory have mostly dealt with Euclidean space. Here, the authors use classical electric-circuit networks to realize topological insulators in 2D negatively-curved (hyperbolic) space with non-trivial second Chern number.

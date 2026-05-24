@@ -1,0 +1,9 @@
+Title: Mathematical model analysis of effective intervention strategies on transmission dynamics of hepatitis B virus
+Authors: Firaol Asfaw Wodajo, Dawit Melesse Gebru, Haileyesus Tessema Alemneh
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-35815-z
+Paper ID: pmc_PMC10227825
+
+Abstract:
+Hepatitis B is one of the world’s most common and severe infectious diseases. Worldwide, over 350 million people are currently estimated to be persistent carriers of the hepatitis B virus (HBV), with the death of 1 million people from the chronic stage of HBV infection. In this work, developed a nonlinear mathematical model for the transmission dynamics of HBV. We constructed the mathematical model by considering vaccination, treatment, migration, and screening effects. We calculated both disease-free and endemic equilibrium points for our model. Using the next-generation matrix, an effective reproduction number for the model is calculated. We also proved the asymptotic stability of both local and global asymptotically stability of disease-free and endemic equilibrium points. By calculating the sensitivity indices, the most sensitive parameters that are most likely to affect the disease’s endemicity are identified. From the findings of this work, we recommend vaccination of the entire population and screening all the exposed and migrants. Additionally, early treatment of both the exposed class after screening and the chronically infected class is vital to decreasing the transmission of HBV in the community.

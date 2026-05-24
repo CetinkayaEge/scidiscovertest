@@ -1,0 +1,9 @@
+Title: Design, Characterisation and Performance of an Improved Portable and Sustainable Low-Field MRI System
+Authors: Bart de Vos, Javad Parsa, Zaynab Abdulrazaq, Wouter M. Teeuwisse, C.D.E. Van Speybroeck, Danny H. de Gans, Rob Remis, Thomas O’Reilly, Andrew Webb
+Year: 2021
+Venue: Frontiers in Physics
+DOI: https://doi.org/10.3389/fphy.2021.701157
+Paper ID: https://openalex.org/W3185097708
+
+Abstract:
+Low-field permanent magnet-based MRI systems are finding increasing use in portable, sustainable and point-of-care applications. In order to maximize performance while minimizing cost many components of such a system should ideally be designed specifically for low frequency operation. In this paper we describe recent developments in constructing and characterising a low-field portable MRI system for in vivo imaging at 50 mT. These developments include the design of i) high-linearity gradient coils using a modified volume-based target field approach, ii) phased-array receive coils, and iii) a battery-operated three-axis gradient amplifier for improved portability and sustainability. In addition, we report performance characterisation of the RF amplifier, the gradient amplifier, eddy currents from the gradient coils, and describe a quality control protocol for the overall system.

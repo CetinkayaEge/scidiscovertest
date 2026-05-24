@@ -1,0 +1,9 @@
+Title: Age differences in sustained attention tasks: A meta-analysis
+Authors: Antonino Vallesi, Virginia Tronelli, Francesco Lomi, Rachele Pezzetta
+Year: 2021
+Venue: Psychonomic Bulletin & Review
+DOI: https://doi.org/10.3758/s13423-021-01908-x
+Paper ID: https://openalex.org/W3137988731
+
+Abstract:
+Many aspects of attention decline with aging. There is a current debate on how aging also affects sustained attention. In this study, we contribute to this debate by meta-analytically comparing performance on the go/no-go Sustained Attention to Response Task (SART) in younger and older adults. We included only studies in which the SART had a low proportion of no-go trials (5%-30%), there was a random or quasirandom stimulus presentation, and data on both healthy younger and older adults were available. A total of 12 studies were suitable with 832 younger adults and 690 older adults. Results showed that older adults were slower than younger adults on go trials (g = 1, 95% CI [.72, 1.27]) and more accurate than younger adults on no-go trials (g = .59, 95% CI [.32, .85]). Moreover, older adults were slower after a no-go error than younger adults (g = .79, 95% CI [.60, .99]). These results are compatible with an age-related processing speed deficit, mostly suggested by longer go RTs, but also with an increased preference for a prudent strategy, as demonstrated by fewer no-go errors and greater posterror slowing in older adults. An inhibitory deficit account could not explain these findings, as older adults actually outperformed younger adults by producing fewer false alarms to no-go stimuli. These findings point to a more prudent strategy when using attentional resources in aging that allows reducing the false-alarm rate in tasks producing a tendency for automatic responding.

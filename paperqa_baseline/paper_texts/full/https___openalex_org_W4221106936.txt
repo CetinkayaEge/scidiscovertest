@@ -1,0 +1,9 @@
+Title: Can Digital Finance Contribute to the Promotion of Financial Sustainability? A Financial Efficiency Perspective
+Authors: Dan Luo, Man Luo, Jiamin Lv
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14073979
+Paper ID: https://openalex.org/W4221106936
+
+Abstract:
+The research first summarizes the theoretical mechanism of digital finance to improve financial efficiency and sustainability; then, it proposes three hypotheses. After that, a DEA-BCC model and a super-efficiency DEA model are constructed to estimate a series of financial efficiency levels in 31 Chinese provinces. Utilizing the estimated financial efficiency values, this paper further tests each of the three hypotheses using both a random effects model controlling for cross-sectional correlation problems and an LSDV model, respectively. The findings show that (i) technological advance is the main driver of financial efficiency improvement in each region in China, while the role of scale effect in improving financial efficiency is weakening; (ii) the development of digital finance does significantly contribute to the improvement of regional financial efficiency; and (iii) the increase in both the breadth of coverage and depth of adoption of digital finance are core driving forces for the promotion of financial efficiency, with the breadth of digital financial coverage a stronger positive effect. Hence, this study can provide an important reference for policymakers and financial institutions to better understand the relationship amongst digital finance, financial efficiency, and sustainability as well as achieve sustainable financial inclusion.

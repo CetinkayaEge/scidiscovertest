@@ -1,0 +1,9 @@
+Title: Strategies for Improving the Sustainability of Data Centers via Energy Mix, Energy Conservation, and Circular Energy
+Authors: Matteo Manganelli, Alessandro Soldati, Luigi Martirano, Seeram Ramakrishna
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13116114
+Paper ID: https://openalex.org/W3172706057
+
+Abstract:
+Information and communication technologies (ICT) are increasingly permeating our daily life and we ever more commit our data to the cloud. Events like the COVID-19 pandemic put an exceptional burden upon ICT. This involves increasing implementation and use of data centers, which increased energy use and environmental impact. The scope of this work is to summarize the present situation on data centers as to environmental impact and opportunities for improvement. First, we introduce the topic, presenting estimated energy use and emissions. Then, we review proposed strategies for energy efficiency and conservation in data centers. Energy uses pertain to power distribution, ICT, and non-ICT equipment (e.g., cooling). Existing and prospected strategies and initiatives in these sectors are identified. Among key elements are innovative cooling techniques, natural resources, automation, low-power electronics, and equipment with extended thermal limits. Research perspectives are identified and estimates of improvement opportunities are mentioned. Finally, we present an overview on existing metrics, regulatory framework, and bodies concerned.

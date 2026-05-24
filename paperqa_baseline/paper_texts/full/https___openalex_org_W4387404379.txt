@@ -1,0 +1,9 @@
+Title: Improving Student Retention in Institutions of Higher Education through Machine Learning: A Sustainable Approach
+Authors: William Villegas-Ch, Jaime Govea, Solange Revelo-Tapia
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151914512
+Paper ID: https://openalex.org/W4387404379
+
+Abstract:
+Effective student retention in higher education represents a critical challenge to institutional stability and educational quality. This study addresses this challenge by integrating machine learning and artificial intelligence techniques in the context of sustainability education. To achieve this, data are collected from a representative cohort of students undergoing extensive cleaning and pre-processing. Additionally, a pre-trained neural network model is implemented, adjusting key parameters. The model evaluation was based on relevant metrics and error analysis, demonstrating that integrating machine learning and artificial intelligence allows early identification of at-risk students and the provision of personalized interventions. This study addresses contemporary student retention challenges in three critical areas: the transition to online education, student mental health and well-being, and equity and diversity in access to higher education. These challenges are addressed through specific strategies based on data analysis and machine learning, thus contributing to overcoming them in the context of higher education. Additionally, this study prioritizes ethical concerns when applying these technologies, ensuring integrity and equity in decision-making related to student retention. Together, this work presents an innovative approach that uses machine learning and artificial intelligence to improve student retention within the framework of educational sustainability, highlighting its transformative potential in higher education.

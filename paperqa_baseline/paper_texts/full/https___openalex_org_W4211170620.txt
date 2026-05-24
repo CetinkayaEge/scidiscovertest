@@ -1,0 +1,9 @@
+Title: Does Accounting-based Financial Performance Value Environmental, Social and Governance (ESG) Disclosures? A detailed note on a corporate sustainability perspective
+Authors: Praveen Kumar, Mohammad Firoz
+Year: 2022
+Venue: Australasian Accounting Business and Finance Journal
+DOI: https://doi.org/10.14453/aabfj.v16i1.4
+Paper ID: https://openalex.org/W4211170620
+
+Abstract:
+In this article, we explore the connection between Environmental, Social and Governance (ESG) disclosures and Corporate Financial Performance (CFP) in the Indian context. For this purpose, the CFP is measured by ROCE and ROA. The ESG overall disclosure and factor scores are obtained from Bloomberg Terminals. The final dataset includes 77 companies for the sample period of 2015-2019. Eight different OLS multivariate regression analyses are performed. The first two is for overall ESG disclosure score, and then six different regressions are for each of E, S, and G factors with control variables such as company size, leverage, BTMV, age, growth, ownership and industry. The findings of this examination confirmed our hypothesis that better ESG disclosures practices positively and significantly affect CFP. Regression results found that there is a positive relationship between the ESG disclosure scores and CFP as well as the individual ESG factor scores except for social disclosures. The better ESG disclosures help the companies to improve their CFP and create a good image, credibility, and promote corporate ethical practices. Moreover, in all eight regression models organizations' leverage and growth was found statistically positively and significantly linkage with CFP. However, this paper did not find any evidence to support that sample firms’ size, BTMV, age, industry, and ownership affect CFP. This study provides managers and other stakeholders with important implications of corporate sustainability in the best interests of the long-term survival of an enterprise.

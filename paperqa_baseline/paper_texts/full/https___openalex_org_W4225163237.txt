@@ -1,0 +1,9 @@
+Title: Regulation of chromatin accessibility by the histone chaperone CAF-1 sustains lineage fidelity
+Authors: Reuben Franklin, Yiming Guo, Shiyang He, Meijuan Chen, Fei Ji, Xinyue Zhou, David Frankhouser, T. Brian, Carmen Chiem, MiHyun Jang, M. Andrés Blanco, Matthew G. Vander Heiden, Russell C. Rockne, Maria Ninova, David B. Sykes, Konrad Hochedlinger, Rui Lu, Ruslan I. Sadreyev, Jernej Murn, Andrew Volk, Sihem Cheloufi
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-29730-6
+Paper ID: https://openalex.org/W4225163237
+
+Abstract:
+Cell fate commitment is driven by dynamic changes in chromatin architecture and activity of lineage-specific transcription factors (TFs). The chromatin assembly factor-1 (CAF-1) is a histone chaperone that regulates chromatin architecture by facilitating nucleosome assembly during DNA replication. Accumulating evidence supports a substantial role of CAF-1 in cell fate maintenance, but the mechanisms by which CAF-1 restricts lineage choice remain poorly understood. Here, we investigate how CAF-1 influences chromatin dynamics and TF activity during lineage differentiation. We show that CAF-1 suppression triggers rapid differentiation of myeloid stem and progenitor cells into a mixed lineage state. We find that CAF-1 sustains lineage fidelity by controlling chromatin accessibility at specific loci, and limiting the binding of ELF1 TF at newly-accessible diverging regulatory elements. Together, our findings decipher key traits of chromatin accessibility that sustain lineage integrity and point to a powerful strategy for dissecting transcriptional circuits central to cell fate commitment.

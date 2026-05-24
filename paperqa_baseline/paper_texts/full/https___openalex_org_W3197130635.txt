@@ -1,0 +1,9 @@
+Title: Sustainability in drug discovery
+Authors: Evelien Wynendaele, Christophe Furman, Bartosz Wielgomas, Per Larsson, Eelko Hak, Thomas Block, Serge Van Calenbergh, Nicolas Willand, Michał J. Markuszewski, Luke R. Odell, Gerrit J. Poelarends, Bart De Spiegeleer
+Year: 2021
+Venue: Medicine in Drug Discovery
+DOI: https://doi.org/10.1016/j.medidd.2021.100107
+Paper ID: https://openalex.org/W3197130635
+
+Abstract:
+Due to the expanding and ageing world population, the importance and use of medicines is expected to increase. However, this will lead to a greater impact on the ecosystem and our health in the long term. The concept of sustainability is rather slowly gaining traction and is currently still fragmented in the pharmaceutical field. A consortium of researchers from five European universities therefore advocates a global, systematic approach and places the emphasis on sustainability already in early stages of drug development, i.e. drug discovery. According to the researchers, the competent authorities, universities, research institutions and industrial organizations all need to take sustainability more into account. They summarized the most important opportunities on the basis of ten sustainability principles.

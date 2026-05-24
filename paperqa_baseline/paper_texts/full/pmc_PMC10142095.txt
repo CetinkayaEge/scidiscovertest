@@ -1,0 +1,9 @@
+Title: Some Critical Reflections on the SEM-EDS Microanalysis of the Hydrotalcite-like Phase in Slag Cement Paste
+Authors: Yu Zhang, Karthikeyan Saravanakumar, Oğuzhan Çopuroğlu
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083143
+Paper ID: pmc_PMC10142095
+
+Abstract:
+For a better understanding of the hydrotalcite-like phase with SEM-EDS microanalysis, the present research paid special attention to the data acquisition and interpretation of this technique. A lower Mg/Al ratio was obtained when using a higher accelerating voltage, and a beam energy of 10 kV was more appropriate than 15 kV for investigation when the slag rim was thin, to compromise to meet the requirements of obtaining an adequate overvoltage ratio and minimizing the interference. Additionally, it was noted that the Mg/Al ratio decreased from zones rich in hydrotalcite-like phase to zones rich in the C−S−H gel phase, and indiscriminately fitting scatter points selected from the slag rim would bias the Mg/Al ratio of the hydrotalcite-like phase. According to the standard-based microanalysis, it was concluded that the analysis total of the hydrates within the slag rim was in the range of 30–40%, lower than that located in the cement matrix. Besides the water chemically bound in the C−S−H gel phase, the hydrotalcite-like phase also contained a certain amount of hydroxide ions and chemically bound water.

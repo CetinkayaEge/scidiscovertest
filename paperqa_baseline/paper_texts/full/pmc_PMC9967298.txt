@@ -1,0 +1,9 @@
+Title: Porous Polymer Materials for CO 2 Capture and Electrocatalytic Reduction
+Authors: Hui Wang, Genyuan Wang, Liang Hu, Bingcheng Ge, Xiaoliang Yu, Jiaojiao Deng
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16041630
+Paper ID: pmc_PMC9967298
+
+Abstract:
+Efficient capture of CO 2 and its conversion into other high value-added compounds by electrochemical methods is an effective way to reduce excess CO 2 in the atmosphere. Porous polymeric materials hold great promise for selective adsorption and electrocatalytic reduction of CO 2 due to their high specific surface area, tunable porosity, structural diversity, and chemical stability. Here, we review recent research advances in this field, including design of porous organic polymers (POPs), porous coordination polymers (PCPs), covalent organic frameworks (COFs), and functional nitrogen-containing polymers for capture and electrocatalytic reduction of CO 2 . In addition, key issues and prospects for the optimal design of porous polymers for future development are elucidated. This review is expected to shed new light on the development of advanced porous polymer electrocatalysts for efficient CO 2 reduction.

@@ -1,0 +1,9 @@
+Title: New Developed Cylindrical TM 010 Mode EPR Cavity for X-Band In Vivo Tooth Dosimetry
+Authors: Guo Junwang, Yuan Qingquan, Cong Jianbo, Ma Lei, Dong Guofu, Yang Guoshan, Wu Ke
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0106587
+Paper ID: pmc_PMC4164439
+
+Abstract:
+EPR tooth in vivo dosimetry is an attractive approach for initial triage after unexpected nuclear events. An X-band cylindrical TM010 mode resonant cavity was developed for in vivo tooth dosimetry and used in EPR applications for the first time. The cavity had a trapezoidal measuring aperture at the exact position of the cavity’s cylindrical wall where strong microwave magnetic field H1 concentrated and weak microwave electric field E1 distributed. Theoretical calculations and simulations were used to design and optimize the cavity parameters. The cavity features were evaluated by measuring DPPH sample, intact incisor samples embed in a gum model and the rhesus monkey teeth. The results showed that the cavity worked at designed frequency and had the ability to make EPR spectroscopy in relative high sensitivity. Sufficient modulation amplitude and microwave power could be applied into the aperture. Radiation induced EPR signal could be observed remarkably from 1 Gy irradiated intact incisor within only 30 seconds, which was among the best in scan time and detection limit. The in vivo spectroscopy was also realized by acquiring the radiation induced EPR signal from teeth of rhesus monkey whose teeth was irradiated by dose of 2 Gy. The results suggested that the cavity was sensitive to meet the demand to assess doses of significant level in short time. This cavity provided a very potential option for the development of X-band in vivo dosimetry.

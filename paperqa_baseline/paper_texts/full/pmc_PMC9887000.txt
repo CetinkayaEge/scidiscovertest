@@ -1,0 +1,9 @@
+Title: B1 SINE-binding ZFP266 impedes mouse iPSC generation through suppression of chromatin opening mediated by reprogramming factors
+Authors: Daniel F. Kaemena, Masahito Yoshihara, Meryam Beniazza, James Ashmore, Suling Zhao, Mårten Bertenstam, Victor Olariu, Shintaro Katayama, Keisuke Okita, Simon R. Tomlinson, Kosuke Yusa, Keisuke Kaji
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36097-9
+Paper ID: pmc_PMC9887000
+
+Abstract:
+Induced pluripotent stem cell (iPSC) reprogramming is inefficient and understanding the molecular mechanisms underlying this inefficiency holds the key to successfully control cellular identity. Here, we report 24 reprogramming roadblock genes identified by CRISPR/Cas9-mediated genome-wide knockout (KO) screening. Of these, depletion of the predicted KRAB zinc finger protein (KRAB-ZFP) Zfp266 strongly and consistently enhances murine iPSC generation in several reprogramming settings, emerging as the most robust roadblock. We show that ZFP266 binds Short Interspersed Nuclear Elements (SINEs) adjacent to binding sites of pioneering factors, OCT4 (POU5F1), SOX2, and KLF4, and impedes chromatin opening. Replacing the KRAB co-suppressor with co-activator domains converts ZFP266 from an inhibitor to a potent facilitator of iPSC reprogramming. We propose that the SINE-KRAB-ZFP interaction is a critical regulator of chromatin accessibility at regulatory elements required for efficient cellular identity changes. In addition, this work serves as a resource to further illuminate molecular mechanisms hindering reprogramming. Induced pluripotent stem cell (iPSC) reprogramming is inherently inefficient. Here the authors identify 24 reprogramming roadblock genes through a CRISPR/Cas9-mediated genome-wide knockout screen including a KRAB-ZFP Zfp266, knockout of which consistently enhances murine iPSC generation.

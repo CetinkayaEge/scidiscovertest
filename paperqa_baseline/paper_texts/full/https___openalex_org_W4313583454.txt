@@ -1,0 +1,9 @@
+Title: Evaluation of the Sustainable Development of Macau, Based on the BP Neural Network
+Authors: Yue Huang, Youping Teng, Shuai Yang
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15010879
+Paper ID: https://openalex.org/W4313583454
+
+Abstract:
+(1) Background: the rapid development of cities and the process of industrialization has improved the level of economic development for all humanity, accompanied by a series of problems, such as the waste of ecological resources and the environmental destruction. Macau has long been one of the regions with the most active economic activities. However, the phenomenon of economic recession, unreasonable land use, and frequent flood disasters have appeared in the past few decades, which violate the concept of sustainable development; (2) Methods: this paper uses the BP neural network model to evaluate the sustainable development of Macau; (3) Results: the weight ranking of sustainable development is: economic &gt; social &gt; ecological environment. A correlation analysis shows that ecology and economy have a significant negative correlation; (4) Conclusions: In Macau, economic growth is given priority while social and ecological environment development lags behind. Macau has problems, such as a unitary economic structure and a high population density. This paper advocates that investment in ecological protection should be increased, environmental resources should be optimized and saved, and the concept of sustainable development should be strengthened in the application of Macau’s urban development.

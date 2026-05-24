@@ -1,0 +1,9 @@
+Title: Identification and Immune Functional Characterization of Pigeon TLR7
+Authors: Dan Xiong, Li Song, Zhiming Pan, Xiang Chen, Shizhong Geng, Xinan Jiao
+Year: 2015
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms16048364
+Paper ID: pmc_PMC4425086
+
+Abstract:
+Toll-like receptor 7 (TLR7) is activated by single-stranded RNA and synthetic imidazoquinoline components, and induces interferon production. In this study, we cloned the TLR7 gene from King pigeon ( Columba livia ). The TLR7 open reading frame is 3144 bp and encodes a 1047-amino acid protein, consisting of a canonical TLR composition with 15 leucine-rich repeats (LRRs). Amino acid-inserting modifications were found at position 15 of LRR2, LRR11, LRR13, and LRR14 and position 10 of LRR10. The tissue distribution of pigeon TLR7 suggests that immune-associated tissues, especially the spleen and liver, have high TLR7 expression. HEK293T cells transfected with pigeon TLR7 plasmid responded to the agonist R848, indicating a functional TLR7 homolog. Following R848 stimulation of pigeon peripheral blood mononuclear cells, the levels of IFN- γ , IL -6 , IL -8 , CCL5 , and IL -10 mRNA, assessed using quantitative real-time PCR, were significantly up-regulated. After Newcastle disease virus vaccine strain LaSota inoculation and agonist R848 injection, the level of TLR7 mRNA in the spleen of pigeons increased significantly in the R848-injected group, but decreased in the LaSota-inoculated group at three day post-infection (d.p.i.). The mRNA levels of inflammatory cytokines and chemokines were significantly upregulated in both LaSota-inoculated and R848-injected groups. Triggering pigeon TLR7 leads to robust up-regulation of inflammatory cytokines and chemokines, suggesting an important role in the innate immune response.

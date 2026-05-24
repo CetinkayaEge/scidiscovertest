@@ -1,0 +1,9 @@
+Title: Split Tensile Strength Prediction of Recycled Aggregate-Based Sustainable Concrete Using Artificial Intelligence Methods
+Authors: Muhammad Nasir Amin, Ayaz Ahmad, Kaffayatullah Khan, Waqas Ahmad, Sohaib Nazar, Muhammad Iftikhar Faraz, Anas Abdulalim Alabdullah
+Year: 2022
+Venue: Materials
+DOI: https://doi.org/10.3390/ma15124296
+Paper ID: https://openalex.org/W4283031888
+
+Abstract:
+Sustainable concrete is gaining in popularity as a result of research into waste materials, such as recycled aggregate (RA). This strategy not only protects the environment, but also meets the demand for concrete materials. Using advanced artificial intelligence (AI) approaches, this study anticipates the split tensile strength (STS) of concrete samples incorporating RA. Three machine-learning techniques, artificial neural network (ANN), decision tree (DT), and random forest (RF), were examined for the specified database. The results suggest that the RF model shows high precision compared with the DT and ANN models at predicting the STS of RA-based concrete. The high value of the coefficient of determination and the low error values of the mean absolute error (MAE), mean square error (MSE), and root mean square error (RMSE) provided significant evidence for the accuracy and precision of the RF model. Furthermore, statistical tests and the k-fold cross-validation technique were used to validate the models. The importance of the input parameters and their contribution levels was also investigated using sensitivity analysis and SHAP analysis.

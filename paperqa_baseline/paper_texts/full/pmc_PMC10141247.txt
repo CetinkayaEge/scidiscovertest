@@ -1,0 +1,9 @@
+Title: Mitigating First-Cycle Capacity Losses in NMC811 via Lithicone Layers Grown by Molecular Layer Deposition
+Authors: Konstantin Egorov, Wengao Zhao, Kristian Knemeyer, Alejandro Nico Filippin, Andrea Giraldo, Corsin Battaglia
+Year: 2023
+Venue: ACS Applied Materials & Interfaces
+DOI: 10.1021/acsami.2c23158
+Paper ID: pmc_PMC10141247
+
+Abstract:
+Nickel-rich LiNi 1– x – y Mn x Co y O 2 (NMC, 1 – x – y ≥ 0.8) is currently considered one of the most promising cathode materials for high-energy-density automotive lithium-ion batteries. Here, we show that capacity losses occurring in balanced NMC811||graphite cells can be mitigated by lithicone layers grown by molecular layer deposition directly onto porous NMC811 particle electrodes. Lithicone layers with a stoichiometry of LiOC 0.5 H 0.3 as determined by elastic recoil detection analysis and a nominal thickness of 20 nm determined by ellipsometry on a flat reference substrate improve the overall NMC811||graphite cell capacity by ∼5% without negatively affecting the rate capability and long-term cycling stability.

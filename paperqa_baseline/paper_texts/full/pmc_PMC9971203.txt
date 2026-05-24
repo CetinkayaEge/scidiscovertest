@@ -1,0 +1,9 @@
+Title: Development of evaluation system for cerebral artery occlusion in emergency medical services: noninvasive measurement and utilization of pulse waves
+Authors: Takuma Shimada, Kazumasa Matsubara, Daisuke Koyama, Mami Matsukawa, Miho Ohsaki, Yasuyo Kobayashi, Kozue Saito, Hiroshi Yamagami
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-30229-3
+Paper ID: pmc_PMC9971203
+
+Abstract:
+Rapid reperfusion therapy can reduce disability and death in patients with large vessel occlusion strokes (LVOS). It is crucial for emergency medical services to identify LVOS and transport patients directly to a comprehensive stroke center. Our ultimate goal is to develop a non-invasive, accurate, portable, inexpensive, and legally employable in vivo screening system for cerebral artery occlusion. As a first step towards this goal, we propose a method for detecting carotid artery occlusion using pulse wave measurements at the left and right carotid arteries, feature extraction from the pulse waves, and occlusion inference using these features. To meet all of these requirements, we use a piezoelectric sensor. We hypothesize that the difference in the left and right pulse waves caused by reflection is informative, as LVOS is typically caused by unilateral artery occlusion. Therefore, we extracted three features that only represented the physical effects of occlusion based on the difference. For inference, we considered that the logistic regression, a machine learning technique with no complex feature conversion, is a reasonable method for clarifying the contribution of each feature. We tested our hypothesis and conducted an experiment to evaluate the effectiveness and performance of the proposed method. The method achieved a diagnostic accuracy of 0.65, which is higher than the chance level of 0.43. The results indicate that the proposed method has potential for identifying carotid artery occlusions.

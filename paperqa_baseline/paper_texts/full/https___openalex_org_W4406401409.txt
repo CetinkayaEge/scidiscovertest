@@ -1,0 +1,9 @@
+Title: Towards sustainable perovskite light-emitting diodes
+Authors: Muyi Zhang, Xiaotian Ma, John Laurence Esguerra, Hongling Yu, Olof Hjelm, Jiashuo Li, Feng Gao
+Year: 2025
+Venue: Nature Sustainability
+DOI: https://doi.org/10.1038/s41893-024-01503-7
+Paper ID: https://openalex.org/W4406401409
+
+Abstract:
+Abstract Perovskite light-emitting diodes (PeLEDs) are advancing to become the frontrunner candidates for the next generation of lighting and display technologies. However, despite rapid technical development, a thorough understanding of PeLEDs’ environmental and economic impacts—essential information for future commercialization—is currently lacking. Here we assess the environmental and economic performance of 18 representative PeLEDs, aiming to identify effective industrial techniques to develop sustainable PeLEDs from a life-cycle perspective. We find that, like mature organic LEDs, PeLEDs show excellent environmental performance. In addition, we demonstrate that lead is not a major source of toxicity from PeLEDs. We estimate that, to commercialize PeLEDs and improve their sustainability, their lifetime should reach the order of 10,000 hours to compensate for the relative environmental impacts. The techno-economic assessment indicates that the cost of future PeLEDs will probably be in the vicinity of US$100 m –2 , comparable to that of commercial organic LED panels. Overall, this study shows the potential of PeLEDs as next-generation lighting technology from environmental, economic and technical perspectives, providing insights relevant to their future development.

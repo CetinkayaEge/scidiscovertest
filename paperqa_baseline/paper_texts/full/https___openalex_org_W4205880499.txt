@@ -1,0 +1,9 @@
+Title: Sustainability, resilience and complexity in supply networks: A literature review and a proposal for an integrated agent-based approach
+Authors: Gustavo Larrea‐Gallegos, Enrico Benetto, Antonino Marvuglia, Tomás Navarrete Gutiérrez
+Year: 2022
+Venue: Sustainable Production and Consumption
+DOI: https://doi.org/10.1016/j.spc.2022.01.009
+Paper ID: https://openalex.org/W4205880499
+
+Abstract:
+Supply Networks (SN) can be seriously affected by unplanned disruptions producing important consequences on system’s functioning. These alterations may have implications over dimensions of sustainability due to the re-adaptation of the network to cope with the disruptive event. In this sense, it is relevant to understand how sustainability can be measured while considering aspects like resilience and network’s dynamism. This article presents a critical review to enhance the understanding of sustainability assessment of supply networks affected by disruptions under a CAS perspective. A non-systematic literature search was conducted where relevant studies were identified. The dissociation between sustainability and resilience observed in literature was discussed from motivational, temporal and methodological perspectives. The review led to the proposition of four principles that underpin the conceptual foundations that should guide the development of any complexity-driven sustainability assessment methodology (SAM). Moreover, using agent-based modelling as the core computational paradigm, a SAM framework was outlined as a first step to implement a functioning tool that embeds the new assessment approach. Finally, the article concludes that sustainability should adopt a complexity-oriented approach when analysing disruptions. Challenges for future research such as delimitation of sustainability boundaries and validation of models are also discussed.

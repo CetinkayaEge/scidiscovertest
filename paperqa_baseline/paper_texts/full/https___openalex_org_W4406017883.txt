@@ -1,0 +1,9 @@
+Title: Organic ionic plastic crystals having colossal barocaloric effects for sustainable refrigeration
+Authors: Samantha L. Piper, Leena Melag, Mega Kar, Azra Sourjah, Xiong Xiao, Eric F. May, Kondo‐François Aguey‐Zinsou, Douglas R. MacFarlane, Jennifer M. Pringle
+Year: 2025
+Venue: Science
+DOI: https://doi.org/10.1126/science.adq8396
+Paper ID: https://openalex.org/W4406017883
+
+Abstract:
+Barocaloric (BC) materials offer the potential for highly energy-efficient refrigeration by generating heat absorption through the effect of pressure on a solid-solid phase transition. However, very few of the known materials have the required phase transition in the temperature regions necessary for domestic refrigeration or air conditioning. We introduce organic ionic plastic crystals (OIPCs) as a new family of BC materials. OIPCs display subambient transition temperatures, so-called "colossal" entropy changes (92 to 240 joules per kilogram per kelvin), and a high sensitivity to pressure, up to 23.7 kelvin per kilobar. The BC responses achieved with these prototype OIPC-BCs are tunable through structural modification of the ions; this wide matrix of possible combinations of structure and function indicates the scope of OIPCs as a new class of material for efficient and sustainable cooling technologies.

@@ -1,0 +1,9 @@
+Title: CASPER: Covert Channel Using Internal Speakers
+Authors: Hyeongjun Choi, Ji Hyuk Jung, Ji Won Yoon
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062970
+Paper ID: pmc_PMC10054247
+
+Abstract:
+In recent years, researchers have studied various methods for transferring data in a network-separated environment, and the most representative method is the use of inaudible frequency signals like ultrasonic waves. This method has the advantage of being able to transfer data without other people noticing, but it has the disadvantage that speakers must exist. In a laboratory or company, external speakers may not be attached to each computer. Therefore, this paper presents a new covert channel attack that transfers data using internal speakers on the computer’s motherboard. The internal speaker can also produce a sound of the desired frequency, and, therefore, data can be transferred using high frequency sounds. We encode data into Morse code or binary code and transfer it. Then we record it using a smartphone. At this time, the location of the smartphone can be any distance within 1.5 m when the length per bit is longer than 50 ms, such as on the computer body or on the desk. Data are obtained by analyzing the recorded file. Our results show that data is transferred from a network-separated computer using an internal speaker with 20 bits/s in maximum.

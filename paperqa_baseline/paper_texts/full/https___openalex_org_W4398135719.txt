@@ -1,0 +1,9 @@
+Title: Toward Sustainable Lithium Iron Phosphate in Lithium‐Ion Batteries: Regeneration Strategies and Their Challenges
+Authors: Jin Yan, Ji Qian, Yu Li, Li Li, Feng Wu, Renjie Chen
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202405055
+Paper ID: https://openalex.org/W4398135719
+
+Abstract:
+Abstract In recent years, the penetration rate of lithium iron phosphate batteries in the energy storage field has surged, underscoring the pressing need to recycle retired LiFePO 4 (LFP) batteries within the framework of low carbon and sustainable development. This review first introduces the economic benefits of regenerating LFP power batteries and the development history of LFP, to establish the necessity of LFP recycling. Then, the entire life cycle process and failure mechanism of LFP are outlined. The focus is on highlighting the advantages of direct recycling technology for LFP materials. Directly regenerating LFP materials is a very promising solution. Directly regenerating spent LFP (S‐LFP) materials can not only protect the environment and save resources, but also directly add lithium atoms to the vacancies of missing lithium atoms to repair S‐LFP materials. At the same time, simply supplementing lithium to repair S‐LFP simplifies the recovery process and improves economic benefits. The status of various direct recycling methods is then reviewed in terms of the regeneration process, principles, advantages, and challenges. Additionally, it is noted that direct recycling is currently in its early stages, and there are challenges and alternative directions for its development.

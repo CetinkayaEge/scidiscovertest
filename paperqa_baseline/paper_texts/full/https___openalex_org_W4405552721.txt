@@ -1,0 +1,9 @@
+Title: An Overview of Digital Transformation and Environmental Sustainability: Threats, Opportunities, and Solutions
+Authors: Apurva Goel, Snehal Masurkar, G.R. Pathade
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su162411079
+Paper ID: https://openalex.org/W4405552721
+
+Abstract:
+Digital transformation, powered by technologies like AI, IoT, and big data, is reshaping industries and societies at an unprecedented pace. While these innovations promise smarter energy management, precision agriculture, and efficient resource utilization, they also introduce serious environmental challenges. This paper examines the dual impact of digital technologies, highlighting key threats such as rising energy consumption, growing e-waste, and the increased extraction of raw materials. By synthesizing the existing literature, this study highlights mitigation strategies that include adopting energy-efficient practices, integrating renewable energy, and implementing circular economy principles. It emphasizes the need for a balanced approach—making the most of technological advances while protecting the environment. By identifying gaps in the current research, this paper also suggests future areas to explore to ensure that digital progress does not come at the expense of our planet. This review advocates for an integrated strategy to achieve sustainable digital growth aligned with global climate goals.

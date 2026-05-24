@@ -1,0 +1,9 @@
+Title: Sustainable Ammonia Production Processes
+Authors: Seyedehhoma Ghavam, Maria Vahdati, Grant Wilson, Peter Styring
+Year: 2021
+Venue: Frontiers in Energy Research
+DOI: https://doi.org/10.3389/fenrg.2021.580808
+Paper ID: https://openalex.org/W3150551333
+
+Abstract:
+Due to the important role of ammonia as a fertilizer in the agricultural industry and its promising prospects as an energy carrier, many studies have recently attempted to find the most environmentally benign, energy efficient, and economically viable production process for ammonia synthesis. The most commonly utilized ammonia production method is the Haber-Bosch process. The downside to this technology is the high greenhouse gas emissions, surpassing 2.16 kgCO 2 -eq/kg NH 3 and high amounts of energy usage of over 30 GJ/tonne NH3 mainly due to the strict operational conditions at high temperature and pressure. The most widely adopted technology for sustainable hydrogen production used for ammonia synthesis is water electrolysis coupled with renewable technologies such as wind and solar. In general, a water electrolyzer requires a continuous supply of pretreated water with high purity levels for its operation. Moreover, for production of 1 tonne of hydrogen, 9 tonnes of water is required. Based on this data, for the production of the same amount of ammonia through water electrolysis, 233.6 million tonnes/yr of water is required. In this paper, a critical review of different sustainable hydrogen production processes and emerging technologies for sustainable ammonia synthesis along with a comparative life cycle assessment of various ammonia production methods has been carried out. We find that through the review of each of the studied technologies, either large amounts of GHG emissions are produced or high volumes of pretreated water is required or a combination of both these factors occur.

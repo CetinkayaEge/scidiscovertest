@@ -1,0 +1,9 @@
+Title: Iridium‐based electrocatalysts toward sustainable energy conversion
+Authors: Bo Huang, Yulong Zhao
+Year: 2022
+Venue: EcoMat
+DOI: https://doi.org/10.1002/eom2.12176
+Paper ID: https://openalex.org/W4206736692
+
+Abstract:
+Abstract Electrocatalysis is an important branch in electrochemistry and also has a significant position in energy storage/conversion. Iridium (Ir)‐based electrocatalysts show promise because of the inherent redox property. Considering the abundance and expensive cost of such noble metal, significant efforts have been made to rationally improve the electrochemical performance of Ir‐based electrocatalysts during these years from the viewpoints of structural design and kinetic analysis. Most of the reports may aim to achieve high Ir atomic utilization with more exposed active sites, and both high electrochemical activity and durable stability are expected. In this case, Ir‐based single atoms, nanostructures, and composites are reported with various electrocatalytic applications of water splitting (involving hydrogen evolution and oxygen evolution reaction) and other electrocatalytic oxidation reactions (involving hydrogen oxidation reaction, methanol oxidation reaction, ammonia oxidation reaction, and formic acid oxidation reaction) as well as other electrocatalytic reduction reactions (involving oxygen reduction reaction, carbon dioxide reduction reaction, and nitrogen reduction reaction). These works deserve to be discussed and this review article comprehensively summarized the most significant reports. We analyzed Ir‐based electrocatalysts from the viewpoints of synthesis, structure, electrochemical property, and reaction mechanism. The challenges and outlooks in the future were also provided from the aspects of fundamental studies and industrial applications, which may attract more attention and provide new insight into the design of advanced Ir‐based electrocatalysts with high performance. image

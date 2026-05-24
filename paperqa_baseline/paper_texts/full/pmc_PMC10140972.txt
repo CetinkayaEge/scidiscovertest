@@ -1,0 +1,9 @@
+Title: The Molecular Biology of Prostate Cancer Stem Cells: From the Past to the Future
+Authors: Yong Zhou, Tian Li, Man Jia, Rongyang Dai, Ronghao Wang
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087482
+Paper ID: pmc_PMC10140972
+
+Abstract:
+Prostate cancer (PCa) continues to rank as the second leading cause of cancer-related mortality in western countries, despite the golden treatment using androgen deprivation therapy (ADT) or anti-androgen therapy. With decades of research, scientists have gradually realized that the existence of prostate cancer stem cells (PCSCs) successfully explains tumor recurrence, metastasis and therapeutic failure of PCa. Theoretically, eradication of this small population may improve the efficacy of current therapeutic approaches and prolong PCa survival. However, several characteristics of PCSCs make their diminishment extremely challenging: inherent resistance to anti-androgen and chemotherapy treatment, over-activation of the survival pathway, adaptation to tumor micro-environments, escape from immune attack and being easier to metastasize. For this end, a better understanding of PCSC biology at the molecular level will definitely inspire us to develop PCSC targeted approaches. In this review, we comprehensively summarize signaling pathways responsible for homeostatic regulation of PCSCs and discuss how to eliminate these fractional cells in clinical practice. Overall, this study deeply pinpoints PCSC biology at the molecular level and provides us some research perspectives.

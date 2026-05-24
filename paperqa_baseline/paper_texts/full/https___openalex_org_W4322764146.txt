@@ -1,0 +1,9 @@
+Title: Biobased 2,5-Bis(hydroxymethyl)furan as a Versatile Building Block for Sustainable Polymeric Materials
+Authors: Cornelis Post, Dina Maniar, Vincent S. D. Voet, Rudy Folkersma, Katja Loos
+Year: 2023
+Venue: ACS Omega
+DOI: https://doi.org/10.1021/acsomega.2c07629
+Paper ID: https://openalex.org/W4322764146
+
+Abstract:
+Furanic polymers, currently mainly represented by polyethylene 2,5-furandicarboxylate (PEF), also known as polyethylene furanoate, have a fantastic potential to replace fossil-based polymers: for example, polyethylene terephthalate (PET). While 2,5-furandicarboxylic acid (FDCA), a precursor of PEF, and its derived polymers have been studied extensively, 2,5-bis(hydroxymethyl)furan (BHMF) has received relatively little attention so far. Similarly to FDCA, BHMF is a biobased platform chemical derived from renewable sources such as sugars. This review highlights different polymerization techniques for BHMF-based polyesters and addresses BHMF's relative instability during the synthesis of BHMF-derived polymers, including polycarbonates and polyurethanes. Furthermore, the degradability of furanic polyesters is discussed and BHMF's toxicity is briefly elaborated.

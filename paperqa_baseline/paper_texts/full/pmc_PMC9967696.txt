@@ -1,0 +1,9 @@
+Title: Impulse Oscillometry as a Diagnostic Test for Pulmonary Emphysema in a Clinical Setting
+Authors: Allan Klitgaard, Anders Løkke, Ole Hilberg
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12041547
+Paper ID: pmc_PMC9967696
+
+Abstract:
+Body plethysmography (BP) is the standard pulmonary function test (PFT) in pulmonary emphysema diagnosis, but not all patients can cooperate to this procedure. An alternative PFT, impulse oscillometry (IOS), has not been investigated in emphysema diagnosis. We investigated the diagnostic accuracy of IOS in the diagnosis of emphysema. Eighty-eight patients from the pulmonary outpatient clinic at Lillebaelt Hospital, Vejle, Denmark, were included in this cross-sectional study. A BP and an IOS were performed in all patients. Computed tomography scan verified presence of emphysema in 20 patients. The diagnostic accuracy of BP and IOS for emphysema was evaluated with two multivariable logistic regression models: Model 1 (BP variables) and Model 2 (IOS variables). Model 1 had a cross-validated area under the ROC curve (CV-AUC) = 0.892 (95% CI: 0.654–0.943), a positive predictive value (PPV) = 59.3%, and a negative predictive value (NPV) = 95.0%. Model 2 had a CV-AUC = 0.839 (95% CI: 0.688–0.931), a PPV = 55.2%, and an NPV = 93.7%. We found no statistically significant difference between the AUC of the two models. IOS is quick and easy to perform, and it can be used as a reliable rule-out method for emphysema.

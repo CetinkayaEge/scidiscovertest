@@ -1,0 +1,9 @@
+Title: Prioritizing Indicators for Sustainability Assessment in Manufacturing Process: An Integrated Approach
+Authors: Vikas Swarnakar, A.R. Singh, Jiju Antony, Raja Jayaraman, Anil Kumar Tiwari, Rajeev Rathi, Elizabeth A. Cudney
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14063264
+Paper ID: https://openalex.org/W4220842959
+
+Abstract:
+Sustainable manufacturing has renewed attention among researchers to address various sustainability challenges in manufacturing industries. Sustainability assessments of manufacturing organizations help minimize the negative environmental impact and enhance reputation among public and regulatory agencies. To assess the sustainability of the manufacturing process; it is indispensable to investigate the structured set of triple bottom line (3BL) indicators. Moreover, there is no comprehensive and structured set of 3BL indicators that can effectively assess the sustainability of any organization’s manufacturing process. This research aims to identify and prioritize experts’ consensus structured set of 3BL indicators. The 3BL indicators were identified through an open-ended questionnaire. The prioritization was performed through the Best-Worst Scaling (BWS) approach. Further, Multi-Criteria Decision Analysis (MCDA) method was utilized to draw the consensus ranking of sustainability indicators in manufacturing. The findings indicated that the release of greenhouse/harmful gas is the best indicator in the perspective of environmental criteria followed by the rate of contribution to society and operational cost are the most important critical indicator in the case of social and economic sustainability criteria. The outcome of the present study will facilitate researchers and practitioners in developing suitable readiness and operational plans for the sustainability assessment of the manufacturing process.

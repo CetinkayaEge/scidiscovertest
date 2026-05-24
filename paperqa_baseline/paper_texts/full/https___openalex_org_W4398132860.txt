@@ -1,0 +1,9 @@
+Title: Recent progress in metal oxide-based electrode materials for safe and sustainable variants of supercapacitors
+Authors: Asghar Ali, Karim Khan, Othman Hakami, Waleed M. Alamier, Syed Kashif Ali, Taharh Zelai, Muhammad Shahid Rashid, Ayesha Khan Tareen, Enaam A. Al-Harthi
+Year: 2024
+Venue: Frontiers in Chemistry
+DOI: https://doi.org/10.3389/fchem.2024.1402563
+Paper ID: https://openalex.org/W4398132860
+
+Abstract:
+A significant amount of energy can be produced using renewable energy sources; however, storing massive amounts of energy poses a substantial obstacle to energy production. Economic crisis has led to rapid developments in electrochemical (EC) energy storage devices (EESDs), especially rechargeable batteries, fuel cells, and supercapacitors (SCs), which are effective for energy storage systems. Researchers have lately suggested that among the various EESDs, the SC is an effective alternate for energy storage due to the presence of the following characteristics: SCs offer high-power density (PD), improvable energy density (ED), fast charging/discharging, and good cyclic stability. This review highlighted and analyzed the concepts of supercapacitors and types of supercapacitors on the basis of electrode materials, highlighted the several feasible synthesis processes for preparation of metal oxide (MO) nanoparticles, and discussed the morphological effects of MOs on the electrochemical performance of the devices. In this review, we primarily focus on pseudo-capacitors for SCs, which mainly contain MOs and their composite materials, and also highlight their future possibilities as a useful application of MO-based materials in supercapacitors. The novelty of MO's electrode materials is primarily due to the presence of synergistic effects in the hybrid materials, rich redox activity, excellent conductivity, and chemical stability, making them excellent for SC applications.

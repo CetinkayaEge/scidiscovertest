@@ -1,0 +1,9 @@
+Title: One-Step Construction of Tryptophan-Derived Small Molecule Hydrogels for Antibacterial Materials
+Authors: Xianwen Song, Shunmei He, Jun Zheng, Shutong Yang, Qiang Li, Yi Zhang
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083334
+Paper ID: pmc_PMC10141015
+
+Abstract:
+Amino acid-based hydrogels have received widespread attention because of their wide range of sources, biodegradability, and biocompatibility. Despite considerable progress, the development of such hydrogels has been limited by critical problems such as bacterial infection and complex preparation. Herein, by using the non-toxic gluconolactone (GDL) to adjust the pH of the solution to induce the rapid self-assembly of N-[(benzyloxy)carbonyl]-L-tryptophan (ZW) to form a three-dimensional (3D) gel network, we developed a stable and effective self-assembled small-molecule hydrogel. Characterization assays and molecular dynamics studies indicate that π–π stacking and hydrogen bonding are the main drivers of self-assembly between ZW molecules. In vitro experiments further confirmed this material’s sustained release properties, low cytotoxicity, and excellent antibacterial activity, particularly against Gram-negative Escherichia coli and Gram-positive Staphylococcus aureus . This study provides a different and innovative perspective for the further development of antibacterial materials based on amino acid derivatives.

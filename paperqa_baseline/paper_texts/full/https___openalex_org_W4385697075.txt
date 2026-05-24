@@ -1,0 +1,9 @@
+Title: Analyzing the contribution of renewable energy and natural resources for sustainability in G-20 countries: How gross capital formation impacts ecological footprints
+Authors: Ying Li, Xiaoyu Wang, Ali Imran, Muhammad Umar Aslam, Usman Mehmood
+Year: 2023
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2023.e18882
+Paper ID: https://openalex.org/W4385697075
+
+Abstract:
+Sustainability ensures well-being for people and communities worldwide and helps shape the world's present and future. A global transformation is required by adopting renewable energy sources to achieve sustainability. Sustainability trends have been examined using this study for the period 1992-2018 for G20 countries. The study uses indicators like ecological footprints, natural resources, renewable energy (RE), and non-renewable energy (NRE), along with gross domestic product (GDP) and capital formation. A cross-sectional-ARDL approach has been used to examine short- and long-term relationships. The presence of stationarity property, cross-sectional dependence, panel cointegration, and slope heterogeneity have been confirmed during initial testing. The empirical result confirms that using renewable energy impacts environmental sustainability in the long run and causes a decrease in ecological footprints. On the contrary, non-renewable energy and natural resources contribute to the negative shift in sustainable development. The consistency of results has also been confirmed using robustness checks under the AMG and FMOLS approaches. The study concludes that G20 countries should promote renewable energy to empower the United Nations' agenda for sustainable development.

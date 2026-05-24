@@ -1,0 +1,9 @@
+Title: A Population Genomics Approach to Assessing the Genetic Basis of Within-Host Microevolution Underlying Recurrent Cryptococcal Meningitis Infection
+Authors: Johanna Rhodes, Mathew A. Beale, Mathieu Vanhove, Joseph N. Jarvis, Shichina Kannambath, John A. Simpson, Anthea Ryan, Graeme Meintjes, Thomas S. Harrison, Matthew C. Fisher, Tihana Bicanic
+Year: 2017
+Venue: G3: Genes|Genomes|Genetics
+DOI: 10.1534/g3.116.037499
+Paper ID: pmc_PMC5386865
+
+Abstract:
+Recurrence of meningitis due to Cryptococcus neoformans after treatment causes substantial mortality in HIV/AIDS patients across sub-Saharan Africa. In order to determine whether recurrence occurred due to relapse of the original infecting isolate or reinfection with a different isolate weeks or months after initial treatment, we used whole-genome sequencing (WGS) to assess the genetic basis of infection in 17 HIV-infected individuals with recurrent cryptococcal meningitis (CM). Comparisons revealed a clonal relationship for 15 pairs of isolates recovered before and after recurrence showing relapse of the original infection. The two remaining pairs showed high levels of genetic heterogeneity; in one pair we found this to be a result of infection by mixed genotypes, while the second was a result of nonsense mutations in the gene encoding the DNA mismatch repair proteins MSH2 , MSH5 , and RAD5 . These nonsense mutations led to a hypermutator state, leading to dramatically elevated rates of synonymous and nonsynonymous substitutions. Hypermutator phenotypes owing to nonsense mutations in these genes have not previously been reported in C. neoformans , and represent a novel pathway for rapid within-host adaptation and evolution of resistance to first-line antifungal drugs.

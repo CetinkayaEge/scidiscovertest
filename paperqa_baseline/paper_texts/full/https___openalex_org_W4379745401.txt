@@ -1,0 +1,9 @@
+Title: Solid implantable devices for sustained drug delivery
+Authors: Elizabeth Magill, Sara Demartis, Elisabetta Gavini, Andi Dian Permana, Raghu Raj Singh Thakur, Muhammad Faris Adrianto, David Waite, Katie Glover, Camila J. Picco, Anna Korelidou, Usanee Detamornrat, Lalitkumar K. Vora, Linlin Li, Qonita Kurnia Anjani, Ryan F. Donnelly, Juan Domínguez‐Robles, Eneko Larrañeta
+Year: 2023
+Venue: Advanced Drug Delivery Reviews
+DOI: https://doi.org/10.1016/j.addr.2023.114950
+Paper ID: https://openalex.org/W4379745401
+
+Abstract:
+Implantable drug delivery systems (IDDS) are an attractive alternative to conventional drug administration routes. Oral and injectable drug administration are the most common routes for drug delivery providing peaks of drug concentrations in blood after administration followed by concentration decay after a few hours. Therefore, constant drug administration is required to keep drug levels within the therapeutic window of the drug. Moreover, oral drug delivery presents alternative challenges due to drug degradation within the gastrointestinal tract or first pass metabolism. IDDS can be used to provide sustained drug delivery for prolonged periods of time. The use of this type of systems is especially interesting for the treatment of chronic conditions where patient adherence to conventional treatments can be challenging. These systems are normally used for systemic drug delivery. However, IDDS can be used for localised administration to maximise the amount of drug delivered within the active site while reducing systemic exposure. This review will cover current applications of IDDS focusing on the materials used to prepare this type of systems and the main therapeutic areas of application.

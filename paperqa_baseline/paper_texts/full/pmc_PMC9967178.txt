@@ -1,0 +1,9 @@
+Title: Unveiling the Machinery behind Chromosome Folding by Polymer Physics Modeling
+Authors: Mattia Conte, Andrea Esposito, Francesca Vercellone, Alex Abraham, Simona Bianco
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043660
+Paper ID: pmc_PMC9967178
+
+Abstract:
+Understanding the mechanisms underlying the complex 3D architecture of mammalian genomes poses, at a more fundamental level, the problem of how two or multiple genomic sites can establish physical contacts in the nucleus of the cells. Beyond stochastic and fleeting encounters related to the polymeric nature of chromatin, experiments have revealed specific, privileged patterns of interactions that suggest the existence of basic organizing principles of folding. In this review, we focus on two major and recently proposed physical processes of chromatin organization: loop-extrusion and polymer phase-separation, both supported by increasing experimental evidence. We discuss their implementation into polymer physics models, which we test against available single-cell super-resolution imaging data, showing that both mechanisms can cooperate to shape chromatin structure at the single-molecule level. Next, by exploiting the comprehension of the underlying molecular mechanisms, we illustrate how such polymer models can be used as powerful tools to make predictions in silico that can complement experiments in understanding genome folding. To this aim, we focus on recent key applications, such as the prediction of chromatin structure rearrangements upon disease-associated mutations and the identification of the putative chromatin organizing factors that orchestrate the specificity of DNA regulatory contacts genome-wide.

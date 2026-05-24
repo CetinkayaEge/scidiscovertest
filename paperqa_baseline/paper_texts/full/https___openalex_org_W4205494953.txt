@@ -1,0 +1,9 @@
+Title: Endothelial Piezo1 sustains muscle capillary density and contributes to physical activity
+Authors: Fiona Bartoli, Marjolaine Debant, Eulashini Chuntharpursat-Bon, Elizabeth L. Evans, Katie E. Musialowski, Gregory Parsonage, Lara C. Morley, T. Simon Futers, Piruthivi Sukumar, T. Scott Bowen, Mark T. Kearney, Laeticia Lichtenstein, Lee D. Roberts, David J. Beech
+Year: 2022
+Venue: Journal of Clinical Investigation
+DOI: https://doi.org/10.1172/jci141775
+Paper ID: https://openalex.org/W4205494953
+
+Abstract:
+Piezo1 forms mechanically activated nonselective cation channels that contribute to endothelial response to fluid flow. Here we reveal an important role in the control of capillary density. Conditional endothelial cell-specific deletion of Piezo1 in adult mice depressed physical performance. Muscle microvascular endothelial cell apoptosis and capillary rarefaction were evident and sufficient to account for the effect on performance. There was selective upregulation of thrombospondin-2 (TSP2), an inducer of endothelial cell apoptosis, with no effect on TSP1, a related important player in muscle physiology. TSP2 was poorly expressed in muscle endothelial cells but robustly expressed in muscle pericytes, in which nitric oxide (NO) repressed the Tsp2 gene without an effect on Tsp1. In endothelial cells, Piezo1 was required for normal expression of endothelial NO synthase. The data suggest an endothelial cell-pericyte partnership of muscle in which endothelial Piezo1 senses blood flow to sustain capillary density and thereby maintain physical capability.

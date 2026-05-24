@@ -1,0 +1,9 @@
+Title: miR-1827 inhibits osteogenic differentiation by targeting IGF1 in MSMSCs
+Authors: ShuangXi Zhu, Wei Peng, Xiang Li, JunQuan Weng, Xing Zhang, JunBing Guo, DaiYing Huang, Qiong Rong, SongLing Chen
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46136
+Paper ID: pmc_PMC5384002
+
+Abstract:
+We recently reported that maxillary sinus membrane stem cells (MSMSCs) have osteogenic potential. However, the biological mechanisms of bone formation remain unclear. In this study, we investigated the role and mechanisms of microRNAs (miRNAs) in the osteogenic differentiation of MSMSCs. The expression of miRNAs was determined in differentiated MSMSCs by comprehensive miRNA microarray analysis and quantitative RT-PCR (qRT-PCR). We selected miR-1827 for functional follow-up studies to explore its significance in MSMSCs. Here, miR-1827 was found to be up-regulated during osteogenic differentiation of MSMSCs. Over expression of miR-1827 inhibited osteogenic differentiation of MSMSCs in vitro , whereas the repression of miR-1827 greatly promoted cell differentiation. Further experiments confirmed that insulin-like growth factor 1 (IGF1) is a direct target of miR-1827. miR-1827 inhibited osteogenic differentiation partially via IGF1, which in turn is a positive regulator of osteogenic differentiation. Moreover, miR-1827 suppressed ectopic bone formation and silencing of miR-1827 led to increased bone formation in vivo. In summary, this study is the first to demonstrate that miR-1827 can regulate osteogenic differentiation. The increase in miR-1827 expression observed during osteogenesis is likely a negative feedback mechanism, thus offering a potential therapeutic target to address inadequate bone volume for dental implantation through inhibiting miR-1827.

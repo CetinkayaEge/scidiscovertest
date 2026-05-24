@@ -1,0 +1,9 @@
+Title: Sustainable Strategies for the Exploitation of End-of-Life Permanent Magnets
+Authors: Alessandro Becci, Francesca Beolchini, Alessia Amato
+Year: 2021
+Venue: Processes
+DOI: https://doi.org/10.3390/pr9050857
+Paper ID: https://openalex.org/W3161711494
+
+Abstract:
+The growing production of green technologies (such as electric vehicles and systems for renewable electricity production, e.g., wind turbine) is increasing the rare earth element (REE) demands. These metals are considered critical for Europe for their economic relevance and the supply risk. The end-of-life permanent magnets are considered a potential secondary resource of REEs thanks to their content of neodymium (Nd), praseodymium (Pr) or dysprosium (Dy). The scientific literature reports many techniques for permanent magnet recovery. This work used a life cycle assessment (LCA) to identify the most sustainable choice, suggesting the possible improvements to reduce the environmental load. Three different processes are considered: two hydrometallurgical treatments (the first one with HCl and the other one with solid-state chlorination), and a pyrometallurgical technique. The present paper aims to push the stakeholders towards the implementation of sustainable processes for end-of-life permanent magnet exploitation at industrial scale.

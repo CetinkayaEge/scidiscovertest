@@ -1,0 +1,9 @@
+Title: Design of Functional RGD Peptide-Based Biomaterials for Tissue Engineering
+Authors: Vijay Bhooshan Kumar, Om Shanker Tiwari, Gal Finkelstein-Zuta, Sigal Rencus-Lazar, Ehud Gazit
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020345
+Paper ID: pmc_PMC9967156
+
+Abstract:
+Tissue engineering (TE) is a rapidly expanding field aimed at restoring or replacing damaged tissues. In spite of significant advancements, the implementation of TE technologies requires the development of novel, highly biocompatible three-dimensional tissue structures. In this regard, the use of peptide self-assembly is an effective method for developing various tissue structures and surface functionalities. Specifically, the arginine–glycine–aspartic acid (RGD) family of peptides is known to be the most prominent ligand for extracellular integrin receptors. Due to their specific expression patterns in various human tissues and their tight association with various pathophysiological conditions, RGD peptides are suitable targets for tissue regeneration and treatment as well as organ replacement. Therefore, RGD-based ligands have been widely used in biomedical research. This review article summarizes the progress made in the application of RGD for tissue and organ development. Furthermore, we examine the effect of RGD peptide structure and sequence on the efficacy of TE in clinical and preclinical studies. Additionally, we outline the recent advancement in the use of RGD functionalized biomaterials for the regeneration of various tissues, including corneal repair, artificial neovascularization, and bone TE.

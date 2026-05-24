@@ -1,0 +1,9 @@
+Title: Cell microencapsulation technologies for sustained drug delivery: Latest advances in efficacy and biosafety
+Authors: Tania B. López-Méndez, Edorta Santos‐Vizcaíno, José Luís Pedraz, Gorka Orive, Rosa Marı́a Hernández
+Year: 2021
+Venue: Journal of Controlled Release
+DOI: https://doi.org/10.1016/j.jconrel.2021.06.006
+Paper ID: https://openalex.org/W3172324106
+
+Abstract:
+The development of cell microencapsulation systems began several decades ago. However, today few systems have been tested in clinical trials. For this reason, in the last years, researchers have directed efforts towards trying to solve some of the key aspects that still limit efficacy and biosafety, the two major criteria that must be satisfied to reach the clinical practice. Regarding the efficacy, which is closely related to biocompatibility, substantial improvements have been made, such as the purification or chemical modification of the alginates that normally form the microspheres. Each of the components that make up the microcapsules has been carefully selected to avoid toxicities that can damage the encapsulated cells or generate an immune response leading to pericapsular fibrosis. As for the biosafety, researchers have developed biological circuits capable of actively responding to the needs of the patients to precisely and accurately release the demanded drug dose. Furthermore, the structure of the devices has been subject of study to adequately protect the encapsulated cells and prevent their spread in the body. The objective of this review is to describe the latest advances made by scientist to improve the efficacy and biosafety of cell microencapsulation systems for sustained drug delivery, also highlighting those points that still need to be optimized.

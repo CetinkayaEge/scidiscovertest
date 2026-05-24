@@ -1,0 +1,9 @@
+Title: Characterization of lab-based swarms of Anopheles gambiae mosquitoes using 3D-video tracking
+Authors: Andrea Cavagna, Irene Giardina, Michela Anna Gucciardino, Gloria Iacomelli, Max Lombardi, Stefania Melillo, Giulia Monacchia, Leonardo Parisi, Matthew J. Peirce, Roberta Spaccapelo
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-34842-0
+Paper ID: pmc_PMC10229557
+
+Abstract:
+Mosquito copulation is a crucial determinant of its capacity to transmit malaria-causing Plasmodium parasites as well as underpinning several highly-anticipated vector control methodologies such as gene drive and sterile insect technique. For the anopheline mosquitoes responsible for African malaria transmission, mating takes place within crepuscular male swarms which females enter solely to mate. However, the mechanisms that regulate swarm structure or that govern mate choice remain opaque. We used 3D-video tracking approaches and computer vision algorithms developed for the study of other complex biological systems to document swarming behavior of a lab-adapted Anopheles gambiae line in a lab-based setting. By reconstructing trajectories of individual mosquitoes lasting up to 15.88 s, in swarms containing upwards of 200 participants, we documented swarm-like behavior in both males and females. In single sex swarms, encounters between individuals were fleeting (< 0.75 s). By contrast, in mixed swarms, we were able to detect 79 ‘brief encounters’ (> 0.75 s; < 2.5 s) and 17 longer-lived encounters (> 2.5 s). We also documented several examples of apparent male-male mating competition. These findings represent the first steps towards a more detailed and quantitative description of swarming and courtship behavior in one of the most important vectors of malaria.

@@ -1,0 +1,9 @@
+Title: Towards developing novel and sustainable molecular light-to-heat converters
+Authors: Temitope T. Abiola, Benjamin Rioux, Josene M. Toldo, Jimmy Alarcan, Jack M. Woolley, Matthew A. P. Turner, Daniel J. L. Coxon, Mariana T. do Casal, Cédric Peyrot, Matthieu M. Mention, Wybren Jan Buma, Michael N. R. Ashfold, Albert Braeuning, Mario Barbatti, Vasilios G. Stavros, Florent Allais
+Year: 2021
+Venue: Chemical Science
+DOI: https://doi.org/10.1039/d1sc05077j
+Paper ID: https://openalex.org/W3205471046
+
+Abstract:
+studies. Following photoexcitation to the lowest singlet excited state, these barbituric absorbers repopulate the electronic ground state with high fidelity on an ultrafast time scale (within a few picoseconds). The energy relaxation pathway includes a twisted intramolecular charge-transfer state as the system evolves out of the Franck-Condon region, internal conversion to the ground electronic state, and subsequent vibrational cooling. These barbituric absorbers display promising light-to-heat conversion capabilities, are predicted to be non-toxic, and demand further study within neighbouring application-based fields.

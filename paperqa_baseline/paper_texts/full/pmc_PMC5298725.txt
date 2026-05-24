@@ -1,0 +1,9 @@
+Title: Rapid Transfer Alignment of MEMS SINS Based on Adaptive Incremental Kalman Filter
+Authors: Hairong Chu, Tingting Sun, Baiqiang Zhang, Hongwei Zhang, Yang Chen
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010152
+Paper ID: pmc_PMC5298725
+
+Abstract:
+In airborne MEMS SINS transfer alignment, the error of MEMS IMU is highly environment-dependent and the parameters of the system model are also uncertain, which may lead to large error and bad convergence of the Kalman filter. In order to solve this problem, an improved adaptive incremental Kalman filter (AIKF) algorithm is proposed. First, the model of SINS transfer alignment is defined based on the “Velocity and Attitude” matching method. Then the detailed algorithm progress of AIKF and its recurrence formulas are presented. The performance and calculation amount of AKF and AIKF are also compared. Finally, a simulation test is designed to verify the accuracy and the rapidity of the AIKF algorithm by comparing it with KF and AKF. The results show that the AIKF algorithm has better estimation accuracy and shorter convergence time, especially for the bias of the gyroscope and the accelerometer, which can meet the accuracy and rapidity requirement of transfer alignment.

@@ -1,0 +1,9 @@
+Title: A sustainable smart mobility? Opportunities and challenges from a big data use perspective
+Authors: Riccardo D’Alberto, Henri Giudici
+Year: 2023
+Venue: Sustainable Futures
+DOI: https://doi.org/10.1016/j.sftr.2023.100118
+Paper ID: https://openalex.org/W4382789605
+
+Abstract:
+This paper discusses the recent insights on the Big Data role in the sustainability of smart mobility. Systematic Literature Review is applied to scientific publications web repositories retrieving 2,000+ records (years 2010–2022). 83 selected publications are analyzed and discussed in detail considering methods, tools, pros, cons, solved challenges, and pending limitations. The final picture shows significant attention given to Big Data handling/modeling, while yet there is marginal consideration of how such solutions effectively consider the environmental concerns. These, instead, represent the leading priority for improving and ameliorating the smart mobility system sustainably. In this regard, possible research directions are proposed.

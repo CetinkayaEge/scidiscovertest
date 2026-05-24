@@ -1,0 +1,9 @@
+Title: System-driven longitudinal follow-up of incidental imaging findings
+Authors: Tianyuan Fu, Donna Plecha, Jennifer Sommer
+Year: 2023
+Venue: The British Journal of Radiology
+DOI: 10.1259/bjr.20220573
+Paper ID: pmc_PMC9975520
+
+Abstract:
+Increasing utilization of cross-sectional imaging has resulted in more clinically significant incidental findings being discovered. However, the current approach for handling these findings is commonly inconsistent and relies greatly on the efforts of individual clinicians. Making sure every actionable incidental finding is handled in a consistent and reliable manner can be difficult, especially for a large health system. We propose an approach to handling incidental findings aimed at improving patient follow-up rates, which involves implementing system-level processes that standardize the reporting of incidental findings, notification of clinicians and the patient, and centralized monitoring of longitudinal patient follow-up. We will lay out a general framework for standardized reporting of incidental findings by the radiologist using software integrated into the daily workflow. This should enable simultaneous notification of the ordering clinician, the patient’s primary-care provider, and an incidental findings navigator. The navigator will “close the loop” by working with clinicians to notify the patient of the finding, coordinate patient follow-up, and document the finding and long-term follow-up. We hope this can serve as a basic framework to help large health systems design an incidental findings workflow to improve follow-up rates and reduce patient harm.

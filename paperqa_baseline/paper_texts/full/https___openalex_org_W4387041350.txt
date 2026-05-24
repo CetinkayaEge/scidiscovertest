@@ -1,0 +1,9 @@
+Title: Progress on pulsed electrocatalysis for sustainable energy and environmental applications
+Authors: Zubair Masaud, Guohua Liu, Lars Eric Roseng, Kaiying Wang
+Year: 2023
+Venue: Chemical Engineering Journal
+DOI: https://doi.org/10.1016/j.cej.2023.145882
+Paper ID: https://openalex.org/W4387041350
+
+Abstract:
+Electrocatalysis processes play an important role in the research and development of sustainable energy and environmental applications. However, the utilization of a constant voltage in steady-state operations can sometimes limit the current electrocatalysis process due to unsatisfactory efficiency and limited selectivity behaviors. In comparison, dynamically tuneable pulsed electrocatalysis presents a promising alternative for achieving higher process control, enhanced efficiency, and improved selectivity during certain electrochemical processes when compared to its constant current counterpart. This article presents a comprehensive overview of pulsed electrocatalysis as a valuable tool within electrocatalysis. This includes an overview of the mechanistic details along with a thorough discussion regarding the facile process parameter optimization. Moreover, the contemporary catalyst manipulation and unique electrolytic conditions offered by pulsed electrocatalysis are demonstrated in tandem with other considerations such as mass transfer, long-term stability, and system designs. The potential of it is manifested in cutting-edge applications such as CO2 conversion, water splitting, and other environmental and biomedical applications. It appears that we are entering a new era in electrocatalysis, where adjustable pulse patterns can be employed to achieve enhanced efficiency and unmatched selectivity.

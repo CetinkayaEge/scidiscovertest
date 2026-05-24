@@ -1,0 +1,9 @@
+Title: Design, Synthesis, and Evaluation of Nonretinoid Retinol Binding Protein 4 Antagonists for the Potential Treatment of Atrophic Age-Related Macular Degeneration and Stargardt Disease
+Authors: Christopher L. Cioffi, Nicoleta Dobri, Emily E. Freeman, Michael P. Conlon, Ping Chen, Douglas G. Stafford, Daniel M. C. Schwarz, Kathy C. Golden, Lei Zhu, Douglas B. Kitchen, Keith D. Barnes, Boglarka Racz, Qiong Qin, Enrique Michelotti, Charles L. Cywin, William H. Martin, Paul G. Pearson, Graham Johnson, Konstantin Petrukhin
+Year: 2014
+Venue: Journal of Medicinal Chemistry
+DOI: 10.1021/jm5010013
+Paper ID: pmc_PMC4174998
+
+Abstract:
+Accumulation of lipofuscin in the retina is associated with pathogenesis of atrophic age-related macular degeneration and Stargardt disease. Lipofuscin bisretinoids (exemplified by N -retinylidene- N -retinylethanolamine) seem to mediate lipofuscin toxicity. Synthesis of lipofuscin bisretinoids depends on the influx of retinol from serum to the retina. Compounds antagonizing the retinol-dependent interaction of retinol-binding protein 4 (RBP4) with transthyretin in the serum would reduce serum RBP4 and retinol and inhibit bisretinoid formation. We recently showed that A1120 ( 3 ), a potent carboxylic acid based RBP4 antagonist, can significantly reduce lipofuscin bisretinoid formation in the retinas of Abca4 –/– mice. As part of the NIH Blueprint Neurotherapeutics Network project we undertook the in vitro exploration to identify novel conformationally flexible and constrained RBP4 antagonists with improved potency and metabolic stability. We also demonstrate that upon acute and chronic dosing in rats, 43 , a potent cyclopentyl fused pyrrolidine antagonist, reduced circulating plasma RBP4 protein levels by approximately 60%.

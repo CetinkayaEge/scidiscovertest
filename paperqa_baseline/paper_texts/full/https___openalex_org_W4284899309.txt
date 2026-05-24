@@ -1,0 +1,9 @@
+Title: Sustainable Building Design Development Knowledge Map: A Visual Analysis Using CiteSpace
+Authors: Yanlong Guo, Xinlei Geng, Denghang Chen, Yufei Chen
+Year: 2022
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings12070969
+Paper ID: https://openalex.org/W4284899309
+
+Abstract:
+Based on the Web of Science (WoS) core collection database, this article compares the research results in this subject area since 2000 with the literature data on the theme of sustainable architectural design and conducts an in-depth investigation into the research themes, basic literature, development trends, and research frontiers. Qualitative and quantitative analyses were conducted through the CiteSpace scientific visualization software, and the degree of collaboration between authors, institutions, and countries was analysed through research power. The topical research hotspots and their evolution were explored through a word frequency analysis, cluster analysis, and timeline analysis; the origins and development of a particular issue in sustainable building design were explored in conjunction with mutation analysis; and the frontier hotspots were explored. The analysis of co-citations was used to identify important knowledge bases in the field; the flow of knowledge between disciplines was explored through biplot overlay analysis. By interpreting the scientific visualization knowledge map, it was concluded that the research trends in sustainable building design are mainly in the areas of resource control, energy consumption, renewable building materials, evaluation systems, and computer-aided tools, and so on. The major topics of future research related to sustainable building design are discussed and summarized.

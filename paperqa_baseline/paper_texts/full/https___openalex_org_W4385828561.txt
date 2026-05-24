@@ -1,0 +1,9 @@
+Title: Intelligent automation for sustainable tourism: a systematic review
+Authors: Gilang Maulana Majid, Iis Tussyadiah, Yoo Ri Kim, Anjan Pal
+Year: 2023
+Venue: Journal of Sustainable Tourism
+DOI: https://doi.org/10.1080/09669582.2023.2246681
+Paper ID: https://openalex.org/W4385828561
+
+Abstract:
+The growing interest in intelligent automation adoption and development in tourism presents many potential solutions for sustainable tourism issues. To map the current landscape of research on intelligent automation in sustainable tourism, a systematic review was conducted of 213 scholarly articles. Five major themes were identified: intelligent automation to enhance tourist experience, preserve heritage, promote quality of life, measure tourist experience, and conserve the environment. Scholarly work on this topic has paid more attention to the economic and sociocultural aspects of sustainability but less to addressing environmental issues. To uncover further research gaps, this study outlines sustainability transition pathways using two dimensions: sustainability inclusion and tourist involvement. Twenty-three distinct AI-based innovations were mapped onto the pathways to reveal future research directions. The findings explain the lack of AI-based solutions that offer high levels of sustainability inclusion and tourist involvement. Thus, this study proposes the “AI4GoodTourism” framework, inferring that intelligent automation with high sustainability inclusion levels can scale up the marginal contributions that tourists provide collectively. This framework serves to guide future research and development for various stakeholders who are progressing sustainable tourism agendas through intelligent automation.

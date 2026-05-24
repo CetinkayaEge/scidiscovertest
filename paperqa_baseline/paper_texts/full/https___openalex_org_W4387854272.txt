@@ -1,0 +1,9 @@
+Title: Mobility Control Centre and Artificial Intelligence for Sustainable Urban Districts
+Authors: Francis Cirianni, Antonio Comi, Agata Quattrone
+Year: 2023
+Venue: Information
+DOI: https://doi.org/10.3390/info14100581
+Paper ID: https://openalex.org/W4387854272
+
+Abstract:
+The application of artificial intelligence (AI) to dynamic mobility management can support the achievement of efficiency and sustainability goals. AI can help to model alternative mobility system scenarios in real time (by processing big data from heterogeneous sources in a very short time) and to identify network and service configurations by comparing phenomena in similar contexts, as well as support the implementation of measures for managing demand that achieve sustainable goals. In this paper, an in-depth analysis of scenarios, with an IT (Information Technology) framework based on emerging technologies and AI to support sustainable and cooperative digital mobility, is provided. Therefore, the definition of the functional architecture of an AI-based mobility control centre is defined, and the process that has been implemented in a medium-large city is presented.

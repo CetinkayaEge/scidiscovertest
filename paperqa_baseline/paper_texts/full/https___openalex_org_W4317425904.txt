@@ -1,0 +1,9 @@
+Title: Policy Impacts of High-Standard Farmland Construction on Agricultural Sustainability: Total Factor Productivity-Based Analysis
+Authors: Feng Ye, Lang Wang, Amar Razzaq, Ting Tong, Qing Zhang, Azhar Abbas
+Year: 2023
+Venue: Land
+DOI: https://doi.org/10.3390/land12020283
+Paper ID: https://openalex.org/W4317425904
+
+Abstract:
+High-standard farmland construction is an important initiative in China that promotes sustainable agricultural development and ensures food security through land consolidation. This study measures the growth of agricultural total factor productivity (ATFP) in China, which is used to characterize the sustainable development of agriculture. Using provincial panel data from China and a continuous difference-in-difference (DID) model, the study examines the impact of high-standard farmland construction policy on ATFP growth. Results show that ATFP in China has an increasing trend with an average annual growth rate of 3.6%. The average enhancement effect of high-standard farmland construction policy on ATFP is 1.0%, which remains significant after various robustness tests. The positive effect of the policy on ATFP becomes apparent in the third year of implementation and shows a gradually increasing trend. The study also finds that the impact of high-standard farmland construction on ATFP is more pronounced in the central regions of China, the main grain-producing regions, and the regions with higher ATFP. High-standard farmland construction policy enhances ATFP by promoting agricultural technology change and technical efficiency. To promote the growth of ATFP and achieve sustainable agricultural development, China should continue to promote the construction of high-standard farmland and explore suitable construction models for different regions.

@@ -1,0 +1,9 @@
+Title: Endogenous Reverse Transcriptase Inhibition Attenuates TLR5-Mediated Inflammation
+Authors: Nicholas Dopkins, Bhavya Singh, Stephanie Michael, Morgan M. O’Mara, Jez L. Marston, Tongyi Fei, Matthew L. Bendall, Douglas F. Nixon
+Year: 2023
+Venue: mBio
+DOI: 10.1128/mbio.03280-22
+Paper ID: pmc_PMC9973353
+
+Abstract:
+ABSTRACT Transposable elements (TEs) are mobile genomic sequences that encompass roughly 50% of the human genome. Class 1 TEs, or “retrotransposons,” mobilize through the production of an RNA intermediate that is then reverse transcribed to form complementary DNA (cDNA) molecules capable of genomic reinsertion. While TEs are traditionally silenced to maintain genomic integrity, the recognition of immunostimulatory cues, such as those provided by microorganisms, drastically alters host transcription to induce the differential expression of TEs. Emerging evidence demonstrates that the inducible production of TE cDNA is not an inert phenomenon but instead has been coopted by host immunity to facilitate cross talk between host and constituents of the microbiota by agonizing intrinsic antiviral receptors. Here, we demonstrate that immunostimulation of toll-like receptor 4 (TLR4) with lipopolysaccharide (LPS) and TLR5 with bacterial flagella (FLA) alters the expression of retrotransposons, such as human endogenous retroviruses (HERVs) and long interspersed nuclear elements (LINEs). Next, we demonstrate that reverse transcriptase inhibitor (RTi) delivery ameliorates the acute production of the proinflammatory cytokine “tumor necrosis factor alpha” (TNF-α) in response to FLA in a monocytic cell line (THP-1). Collectively, our findings demonstrate that TLR5-mediated cross talk between the host and microbiota is partially dependent on the reverse transcription (RT) of retrotransposons.

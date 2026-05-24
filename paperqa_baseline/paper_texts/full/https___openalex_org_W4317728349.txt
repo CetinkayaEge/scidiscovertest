@@ -1,0 +1,9 @@
+Title: Renewable Energies and Sustainable Development: A Bibliometric Overview
+Authors: Francisco García Lillo, Eduardo Sánchez‐García, Bartolomé Marco‐Lajara, Pedro Seva‐Larrosa
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16031211
+Paper ID: https://openalex.org/W4317728349
+
+Abstract:
+Sustainable development has positioned itself as a fundamental element of a transversal nature, being linked to the energy transition. In this sense, it must be included as a mainstream objective of all actions and strategies developed at the social, academic, business, and political levels. However, to the best of our knowledge, no bibliometric work has been carried out to date to analyze the main contributions to the literature focused on the concepts of renewable energy and sustainable development. The main aim of this paper is to establish the key trends and academic contributions made in the field of renewable energies and sustainable development. For this purpose, a bibliometric and co-citation analysis has been carried out using the Bibliometrix® tool, an open-source R package. The results show that this is a field of study that has significantly increased its importance in recent years, which is illustrated using different indicators. We conclude that research trends seem to be directed towards managing the transition to a new, more sustainable energy model composed of renewable energy production systems, in addition to the adoption of new technologies to increase the efficiency of products and power transmission systems. In this respect, the transition towards a new, more sustainable energy model seems to be a fundamental step to guarantee the sustainability of human action.

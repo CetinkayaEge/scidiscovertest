@@ -1,0 +1,9 @@
+Title: The fecal bacterial microbiota of healthy and sick newborn foals
+Authors: Diego E. Gomez, David Wong, Jennifer MacNicol, Katarzyna Dembek
+Year: 2022
+Venue: Journal of Veterinary Internal Medicine
+DOI: 10.1111/jvim.16596
+Paper ID: pmc_PMC9889700
+
+Abstract:
+Abstract Background The fecal bacterial microbiota of normal foals and foals with enterocolitis has been characterized using next‐generation sequencing technology; however, there are no reports investigating the gut microbiota in foals hospitalized for other perinatal diseases. Objective To describe and compare the fecal bacterial microbiota in healthy and sick foals using next‐generation sequencing techniques. Animals Hospitalized (17) and healthy foals (21). Methods Case‐control study. Fecal samples were collected from healthy and sick foals on admission. Sick foals were further divided into sick nonseptic (SNS, n = 9) and septic (n = 8) foals. After extraction of DNA, the V4 region of the 16 S rRNA gene was amplified using a PCR assay, and the final product was sequenced with an Illumina MiSeq. Results Diversity was significantly lower in healthy than sick foals ( P < .05). The bacterial membership (Jaccard index) and structure (Yue & Clayton index) of the fecal microbiota of healthy, septic, and SNS foals were similar (AMOVA, P > .05). Bacterial membership (AMOVA, P = .06) and structure (AMOVA, P = .33) were not different between healthy and sick foals. Enterobacteriaceae, Enterococcus , and Streptococcus were among the 5 more abundant taxa identified in both groups. Conclusion and Clinical Importance Higher fecal microbiota diversity in sick than healthy foals might suggest a high exposure to environmental microorganisms or an unstable colonic microbiota. The presence of microorganisms causing bacteremia in foals in a high relative abundance in the feces of foals suggests the intestine might play an essential role in the causation of bacteremia in foals.

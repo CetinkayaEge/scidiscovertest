@@ -1,0 +1,9 @@
+Title: In-Mould OCT Sensors Combined with Piezo-Actuated Positioning Devices for Compensating for Displacement in Injection Overmoulding of Optoelectronic Parts
+Authors: Günther Hannesschläger, Martin Schwarze, Elisabeth Leiss-Holzinger, Christian Rankl
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063242
+Paper ID: pmc_PMC10056768
+
+Abstract:
+When overmoulding optoelectronic devices with optical elements, precise alignment of the overmoulded part and the mould is of great importance. However, mould-integrated positioning sensors and actuators are not yet available as standard components. As a solution, we present a mould-integrated optical coherence tomography (OCT) device that is combined with a piezo-driven mechatronic actuator, which is capable of performing the necessary displacement correction. Because of the complex geometric structure optoelectronic devices may have, a 3D imaging method was preferable, so OCT was chosen. It is shown that the overall concept leads to sufficient alignment accuracy and, apart from compensating for the in-plane position error, provides valuable additional information about the sample both before and after the injection process. The increased alignment accuracy leads to better energy efficiency, improved overall performance and less scrap parts, and thus even a zero-waste production process might be feasible.

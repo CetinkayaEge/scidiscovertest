@@ -1,0 +1,9 @@
+Title: Prognostic value of serum cytokeratin 19 fragments (Cyfra 21-1) in patients with non-small cell lung cancer
+Authors: Youtao Xu, Lei Xu, Mantang Qiu, Jie Wang, Qing Zhou, Lin Xu, Jian Wang, Rong Yin
+Year: 2015
+Venue: Scientific Reports
+DOI: 10.1038/srep09444
+Paper ID: pmc_PMC5386115
+
+Abstract:
+The role of serum CYFRA 21-1 level in patients with non-small cell lung cancer (NSCLC) remains to be defined. To re-evaluate the impact of serum CYFRA 21-1 in NSCLC survival, we performed this meta-analysis. Databases were searched to identify relevant studies reported after the publication of a meta-analysis in 2004. Totally, 31 studies with 6394 patients were included in this meta-analysis. The pooled Hazard ratios (HRs) indicated that high CYFRA 21-1 level was associated with poor prognosis on overall survival (OS) in patients with NSCLC (HR = 1.60; 95%CI = 1.36–1.89; P < 0.001). The pooled HRs were 2.18 (95%CI = 1.70, 2.80; P = 0.347) for patients at stage I–IIIA and 1.47 (95%CI = 1.02, 2.11; P < 0.001) for stage IIIB–IV. When stratified by surgical intervention, pooled HRs were 1.94 (95%CI = 1.42–2.67; P < 0.001) for studies with surgery and 1.24 (95%CI = 0.79–1.95; P < 0.001) for studies without surgery. Significant associations were also found in the patients treated with EGFR-TKIs (HR = 1.83; 95%CI = 1.31–2.58; P = 0.011) and platinum-based regimen (HR = 1.53; 95%CI = 1.18–1.99; P = 0.001). Meta-analysis of CYFRA 21-1 related to PFS was performed and pooled HR was 1.41 (95%CI = 1.19–1.69; P < 0.001). Our results indicate that high level of serum CYFRA 21-1 is a negative prognostic indicator of patients with NSCLC.

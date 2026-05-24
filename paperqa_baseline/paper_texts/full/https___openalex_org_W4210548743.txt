@@ -1,0 +1,9 @@
+Title: Pakistan's electrical energy crises, a way forward towards 50% of sustain clean and green electricity generation
+Authors: Jinsong Tao, Muhammad Waqas, Muhammad Ali, Muhammad Umair, Wangwei Gan, Hussain Haider
+Year: 2022
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2022.100813
+Paper ID: https://openalex.org/W4210548743
+
+Abstract:
+Electrical sustainability is a foundation for urbanization and industrialization. Over the past three decades, Pakistan has been convulsed by electricity shortages that at times have reached over 10–15% of total demand; Therefore, we initiated an effort to explore and understand recurrent energy crises using ANN, Stochastic Time Series (STS), and regression forecasting techniques. In order to determine electricity-influencing factors, the assumptions were analyzed using multiple (weather and time, seasonal and economic factors) factors, for the short, medium, and long terms respectively finding that Pakistan's power system will likely demand 192.64 TWh, 346.31 TWh, 600.08 TWh, and 2299.59 TWh of electricity by 2025, 2030, 2035, and 2050 respectively. Additionally, we explored economic indicators to develop a comprehensive electricity generation plan using the Long-Term Alternative Energy Modeling Tool (LEAP) under diverse (Current Government Policy (CGP), Renewable Energy Generation (REG) and Green, Clean, and Sustainable (GCS)) electricity generation scenarios. Among these scenarios, we conclude that the GCS scenario will enable Pakistan's power system to generate 50% of its electricity using sustainable, clean, and green energy technologies, thus ensuring power and economic sustainability in Pakistan.

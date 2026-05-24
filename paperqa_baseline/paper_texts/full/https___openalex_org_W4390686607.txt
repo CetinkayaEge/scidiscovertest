@@ -1,0 +1,9 @@
+Title: Sustainable agriculture with LEAFS: a low-cost electrochemical analyzer of foliage stress
+Authors: Sina Khazaee Nejad, Haozheng Ma, Abdulrahman Al‐Shami, Ali Soleimani, Mona A. Mohamed, Preston Dankwah, Hannah J. Lee, Maral P. S. Mousavi
+Year: 2024
+Venue: Sensors & Diagnostics
+DOI: https://doi.org/10.1039/d3sd00296a
+Paper ID: https://openalex.org/W4390686607
+
+Abstract:
+Sustainable agricultural practices are vital to meet the needs of a rapidly growing global demand for food. Monitoring plant health is crucial for enhancing crop yields. Salicylic acid (SA) is a plant hormone that plays a key role in the defense mechanisms plants employ against various stress factors. Changes in SA levels serve as an indicator that a plant is experiencing stress. Here, we present a low-cost electrochemical sensor fabricated using porous laser-induced graphene material for the measurement of plant stress. It employs square wave voltammetry to monitor SA levels using a wireless potentiostat. The sensor shows a high sensitivity of 144.28 μA/mM to SA, with a linear detection range of 6.6 μM to 200 μM and a limit of detection of 1.44 μM. The surface of the working electrode was modified with Nafion to enable continuous in-situ stress monitoring. The sensor's practicality has been demonstrated through real-time stress monitoring in aloe vera and philodendron hederaceum plant species.

@@ -1,0 +1,9 @@
+Title: Optimized river diversion scenarios promote sustainability of urbanized deltas
+Authors: Andrew J. Moodie, Jeffrey A. Nittrouer
+Year: 2021
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2101649118
+Paper ID: https://openalex.org/W3176777612
+
+Abstract:
+Socioeconomic viability of fluvial-deltaic systems is limited by natural processes of these dynamic landforms. An especially impactful occurrence is avulsion, whereby channels unpredictably shift course. We construct a numerical model to simulate artificial diversions, which are engineered to prevent channel avulsion, and direct sediment-laden water to the coastline, thus mitigating land loss. We provide a framework that identifies the optimal balance between river diversion cost and civil disruption by flooding. Diversions near the river outlet are not sustainable, because they neither reduce avulsion frequency nor effectively deliver sediment to the coast; alternatively, diversions located halfway to the delta apex maximize landscape stability while minimizing costs. We determine that delta urbanization generates a positive feedback: infrastructure development justifies sustainability and enhanced landform preservation vis-à-vis diversions.

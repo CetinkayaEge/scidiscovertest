@@ -1,0 +1,9 @@
+Title: An ECG Stitching Scheme for Driver Arrhythmia Classification Based on Deep Learning
+Authors: Do Hoon Kim, Gwangjin Lee, Seong Han Kim
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063257
+Paper ID: pmc_PMC10059278
+
+Abstract:
+This study proposes an electrocardiogram (ECG) signal stitching scheme to detect arrhythmias in drivers during driving. When the ECG is measured through the steering wheel during driving, the data are always exposed to noise caused by vehicle vibrations, bumpy road conditions, and the driver’s steering wheel gripping force. The proposed scheme extracts stable ECG signals and transforms them into full 10 s ECG signals to classify arrhythmias using convolutional neural networks (CNN). Before the ECG stitching algorithm is applied, data preprocessing is performed. To extract the cycle from the collected ECG data, the R peaks are found and the TP interval segmentation is applied. An abnormal P peak is very difficult to find. Therefore, this study also introduces a P peak estimation method. Finally, 4 × 2.5 s ECG segments are collected. To classify arrhythmias with stitched ECG data, each time series’ ECG signal is transformed via the continuous wavelet transform (CWT) and short-time Fourier transform (STFT), and transfer learning is performed for classification using CNNs. Finally, the parameters of the networks that provide the best performance are investigated. According to the classification accuracy, GoogleNet with the CWT image set shows the best results. The classification accuracy is 82.39% for the stitched ECG data, while it is 88.99% for the original ECG data.

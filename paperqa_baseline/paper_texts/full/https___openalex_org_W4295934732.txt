@@ -1,0 +1,9 @@
+Title: Sustainable Satellite Communications in the 6G Era: A European View for Multi-Layer Systems and Space Safety
+Authors: H\"oyhty\"a, Marko, Sandrine Boumard, Anastasia Yastrebova, J\"arvensivu, Pertti, Markku Kiviranta, Antti Anttonen
+Year: 2022
+Venue: arXiv (Cornell University)
+DOI: https://doi.org/10.1109/access.2022.3206862
+Paper ID: https://openalex.org/W4295934732
+
+Abstract:
+During the New Space era small countries are becoming important players in the space business. While space activities are rapidly increasing globally, it is important to make operations in a sustainable and safe way in order to preserve satellite services for future generations. Unfortunately, the sustainability aspect has been largely overlooked in the existing surveys on space technologies. As a result, in this survey paper, we discuss the multi-layer networking approaches in the 6G era specifically from the sustainability perspective. Moreover, our comprehensive survey includes aspects of some interesting industrial, proprietary, and standardization views. We review the most important regulations and international guidelines and revisit a three-dimensional architecture vision to support the sustainability target for a variety of application areas. We then classify and discuss space safety paradigms that are important sustainability enablers of future satellite communications. These include space traffic management, debris detection, environmental impacts, spectrum sharing, and cyber security aspects. The paper also discusses advances towards a planned European connectivity constellation that could become a third flagship infrastructure along with the Galileo and Copernicus systems. Finally, we define potential research directions into the 2030s.

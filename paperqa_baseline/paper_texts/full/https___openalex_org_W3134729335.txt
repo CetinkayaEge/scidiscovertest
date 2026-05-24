@@ -1,0 +1,9 @@
+Title: Evaluating Environmentally Sustainable Development Based on the PSR Framework and Variable Weigh Analytic Hierarchy Process
+Authors: Fan Wang, Yao Lu, Jin Li, Juan Ni
+Year: 2021
+Venue: International Journal of Environmental Research and Public Health
+DOI: https://doi.org/10.3390/ijerph18062836
+Paper ID: https://openalex.org/W3134729335
+
+Abstract:
+Environmentally sustainable development is a multidimensional concept that emphasizes the integration of economy, society and environment within a region and the realization of dynamic balance. How to objectively environmentally sustainable development has been a major concern for scholars and policy makers. To address this problem effectively, we first obtain the indicators of environmentally sustainable development based on the pressure-state-response (PSR) framework. Then, we introduce variable weight factors in the traditional analytic hierarchy process (AHP), so that the weights assigned by experts to sustainable development indicators can change with time or space. In this way, we propose a new and improved weight distribution method called variable weigh analytic hierarchy process. Finally, we employ indicators of environmentally sustainable development based on PSR and variable weigh analytic hierarchy process to evaluate the sustainable development of cities in a case country. Our study found that: (1) indicators of environmentally sustainable development should consist of three parts: pressure indicators of environmentally sustainable development, state indicators of environmentally sustainable development, and response indicators of sustainable development; (2) with the variable weigh analytic hierarchy process, our ranking hierarchy process can handle dynamic changes among indicators better than the traditional AHP method and better reflect the true states of indicators.

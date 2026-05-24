@@ -1,0 +1,9 @@
+Title: Microbial enzymes catalyzing keratin degradation: Classification, structure, function
+Authors: Jingwen Qiu, Casper Wilkens, Kristian Barrett, Anne S. Meyer
+Year: 2020
+Venue: Biotechnology Advances
+DOI: 10.1016/j.biotechadv.2020.107607
+Paper ID: pmc_PMC7405893
+
+Abstract:
+Keratin is an insoluble and protein-rich epidermal material found in e.g. feather, wool, hair. It is produced in substantial amounts as co-product from poultry processing plants and pig slaughterhouses. Keratin is packed by disulfide bonds and hydrogen bonds. Based on the secondary structure, keratin can be classified into α-keratin and β-keratin. Keratinases (EC 3.4.-.- peptide hydrolases) have major potential to degrade keratin for sustainable recycling of the protein and amino acids. Currently, the known keratinolytic enzymes belong to at least 14 different protease families: S1, S8, S9, S10, S16, M3, M4, M14, M16, M28, M32, M36, M38, M55 (MEROPS database). The various keratinolytic enzymes act via endo -attack (proteases in families S1, S8, S16, M4, M16, M36), exo -attack (proteases in families S9, S10, M14, M28, M38, M55) or by action only on oligopeptides (proteases in families M3, M32), respectively. Other enzymes, particularly disulfide reductases, also play a key role in keratin degradation as they catalyze the breakage of disulfide bonds for better keratinase catalysis. This review aims to contribute an overview of keratin biomass as an enzyme substrate and a systematic analysis of currently sequenced keratinolytic enzymes and their classification and reaction mechanisms. We also summarize and discuss keratinase assays, available keratinase structures and finally examine the available data on uses of keratinases in practical biorefinery protein upcycling applications.

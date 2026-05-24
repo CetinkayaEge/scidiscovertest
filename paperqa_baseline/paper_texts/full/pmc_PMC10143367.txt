@@ -1,0 +1,9 @@
+Title: Impact of the Anatomical Accelerometer Placement on Vertical Jump Performance Characteristics
+Authors: Damjana V. Cabarkapa, Dimitrije Cabarkapa, Nicolas M. Philipp, Andrew C. Fry
+Year: 2023
+Venue: Sports
+DOI: 10.3390/sports11040092
+Paper ID: pmc_PMC10143367
+
+Abstract:
+With rapid technological development over recent years, the use of wearable athlete monitoring devices has substantially gained popularity. Thus, the purpose of the present study was to examine the impact of the anatomical placement of an accelerometer on biomechanical characteristics of countermovement vertical jump with and without an arm swing when compared to the force plate as a criterion measure. Seventeen recreationally active individuals (ten males and seven females) volunteered to participate in the present study. Four identical accelerometers sampling at 100 Hz were placed at the following anatomical locations: upper-back (UB), chest (CH), abdomen (AB), and hip (HP). While standing on a uni-axial force plate system sampling at 1000 Hz, each participant completed three non-sequential maximal countermovement vertical jumps with and without an arm swing. All devices recorded the data simultaneously. The following variables of interest were obtained from ground reaction force curves: peak concentric force (PCF), peak landing force (PLF), and vertical jump height (VJH). The findings of the present study reveal that the most appropriate anatomical locations to place the accelerometer device when attempting to estimate PCF, PLF, and VJH during a countermovement vertical jump with no arm swing are CH, AB, and UB, and during a countermovement vertical jump with an arm swing are UB, HP, and UB, respectively. Overall, these findings may help strength and conditioning professionals and sports scientists to select appropriate anatomical locations when using innovative accelerometer technology to monitor vertical jump performance characteristics.

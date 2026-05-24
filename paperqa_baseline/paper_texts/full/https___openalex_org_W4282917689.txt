@@ -1,0 +1,9 @@
+Title: Highly reversible Zn metal anode enabled by sustainable hydroxyl chemistry
+Authors: Lin Ma, Jenel Vatamanu, Nathan Hahn, Travis P. Pollard, Oleg Borodin, Valeri Petkov, Marshall A. Schroeder, Yang Ren, Michael S. Ding, Chao Luo, Jan L. Allen, Chunsheng Wang, Kang Xu
+Year: 2022
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2121138119
+Paper ID: https://openalex.org/W4282917689
+
+Abstract:
+Rechargeable Zn metal batteries (RZMBs) may provide a more sustainable and lower-cost alternative to established battery technologies in meeting energy storage applications of the future. However, the most promising electrolytes for RZMBs are generally aqueous and require high concentrations of salt(s) to bring efficiencies toward commercially viable levels and mitigate water-originated parasitic reactions including hydrogen evolution and corrosion. Electrolytes based on nonaqueous solvents are promising for avoiding these issues, but full cell performance demonstrations with solvents other than water have been very limited. To address these challenges, we investigated MeOH as an alternative electrolyte solvent. These MeOH-based electrolytes exhibited exceptional Zn reversibility over a wide temperature range, with a Coulombic efficiency &gt; 99.5% at 50% Zn utilization without cell short-circuit behavior for &gt; 1,800 h. More important, this remarkable performance translates well to Zn || metal-free organic cathode full cells, supporting &lt; 6% capacity decay after &gt; 800 cycles at −40 °C.

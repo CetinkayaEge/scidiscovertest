@@ -1,0 +1,9 @@
+Title: The Successive Next Network as Augmented Regularization for Deformable Brain MR Image Registration
+Authors: Meng Li, Shunbo Hu, Guoqiang Li, Fuchun Zhang, Jitao Li, Yue Yang, Lintao Zhang, Mingtao Liu, Yan Xu, Deqian Fu, Wenyin Zhang, Xing Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063208
+Paper ID: pmc_PMC10058981
+
+Abstract:
+Deep-learning-based registration methods can not only save time but also automatically extract deep features from images. In order to obtain better registration performance, many scholars use cascade networks to realize a coarse-to-fine registration progress. However, such cascade networks will increase network parameters by an n-times multiplication factor and entail long training and testing stages. In this paper, we only use a cascade network in the training stage. Unlike others, the role of the second network is to improve the registration performance of the first network and function as an augmented regularization term in the whole process. In the training stage, the mean squared error loss function between the dense deformation field (DDF) with which the second network has been trained and the zero field is added to constrain the learned DDF such that it tends to 0 at each position and to compel the first network to conceive of a better deformation field and improve the network’s registration performance. In the testing stage, only the first network is used to estimate a better DDF; the second network is not used again. The advantages of this kind of design are reflected in two aspects: (1) it retains the good registration performance of the cascade network; (2) it retains the time efficiency of the single network in the testing stage. The experimental results show that the proposed method effectively improves the network’s registration performance compared to other state-of-the-art methods.

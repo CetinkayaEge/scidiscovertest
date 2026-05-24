@@ -1,0 +1,9 @@
+Title: Digitalization Capabilities for Sustainable Cyber Resilience: A Conceptual Framework
+Authors: Alessandro Annarelli, Giulia Palombi
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132313065
+Paper ID: https://openalex.org/W3215618166
+
+Abstract:
+Digital transformation is currently an essential condition for companies to operate in most markets, since it provides a whole new set of competitive skills and strategic tools. On the other hand, the same digitalization puts companies in the face of a whole new series of threats coming from the cyber space. The foundation of business sustainability, which is the maintenance of competitiveness while securing business, is no longer a “plus” feature or a captivating sentence but a true and consistent need for all organizations. This article provides a literature analysis on approaches and models for cyber resilience, digitalization capabilities, and a conceptual framework showing how digitalization capabilities drive cyber resilience. Digitalization capabilities are involved in the plan/prepare phase and in the adaptation phase of the cyber resilience process. In particular, online informational capabilities can drive both these phases. Other capabilities such as the employment of heterogeneous resources and the promotion of continuous learning drive the plan/prepare phase, while the scanning of the evolution of the digital environment and a timely reconfiguration of resources drive the adaptation phase.

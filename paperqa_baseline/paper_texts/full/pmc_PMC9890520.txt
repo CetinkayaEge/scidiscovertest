@@ -1,0 +1,9 @@
+Title: Labeling Cell Surface Receptors with Ligand.BirA* Bispecifics
+Authors: Mays Alwash, Jean Gariépy
+Year: 2022
+Venue: ACS Pharmacology & Translational Science
+DOI: 10.1021/acsptsci.1c00192
+Paper ID: pmc_PMC9890520
+
+Abstract:
+BirA*, a mutant form of the biotinylating enzyme BirA, can nonspecifically biotinylate ε-amino groups on lysines of proteins. Based on the promiscuous labeling nature of BirA*, plasmids expressing fusion constructs of BirA* to a given ligand have been used to transfect eukaryotic cells, leading to the biotinylation of intracellular proteins interacting or in close proximity to such Ligand.BirA* constructs. Mass spectrometry performed on the recovered biotinylated partners allows one to map intracellular protein interactors, a technique known as BioID. In contrast, the expression and purification of recombinant Ligand.BirA* constructs could serve as a powerful tool for labeling and detecting cell surface receptors. Here, we report the design and expression of recombinant Affibody.BirA* constructs, Z EGFR:1907 .BirA* and Z HER2:243 .BirA*, as protein bispecifics able to biotinylate their respective receptors EGFR and HER2 on the surface of MDA-MB-231 (EGFR + , EpCaM + , and CD44 + ) and SK-OV-3 (HER2 ++ , EGFR + , EpCaM + , and CD44 + ) cancer cells. These Affibody.BirA* constructs retain both their BirA* enzymatic activity as well as their receptor-binding function. Importantly, MDA-MB-231 and SK-OV-3 cells biotinylated with Affibody.BirA* constructs did label their receptors EGFR and HER2 but did not biotinylate irrelevant antigens such as EpCaM or CD44 present on the surface of both cell lines. Ligand.BirA* bispecifics may represent a promising class of agents to identify unknown receptors on cell surfaces.

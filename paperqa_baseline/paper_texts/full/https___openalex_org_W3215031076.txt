@@ -1,0 +1,9 @@
+Title: Pathway towards Sustainability in Selected Asian Countries: Influence of Green Investment, Technology Innovations, and Economic Growth on CO2 Emission
+Authors: Rundong Luo, Sami Ullah, Kishwar Ali
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su132212873
+Paper ID: https://openalex.org/W3215031076
+
+Abstract:
+Green investment and technology innovations are generally considered as an effective factor to mitigate CO2 emissions as these enhance cleaner production and energy efficacy. Thus, this study investigated the influence of green investment, technology innovations, and economic growth on CO2 emissions in selected Asian countries for the period 2001 to 2019. The Cross-Section dependency (CSD) signified the cross-section dependence in the panel countries, whereas CIPS and CADF testing affirmed the stationarity of all variables at the first difference. Consequently, the Westerlund cointegration method recognized a long-term association among variables. The outcomes of Panel Fully Modified OLS and Panel Dynamic OLS results indicated that green investment and technology innovations are helpful in mitigating CO2 emissions in selected Asian countries. In addition, the Environmental Kuznets Curve (EKC) postulate is validated for the given time period and indicated inverted U-shaped linkages between the economic growth and CO2 emission. The outcomes of the remaining variables, including population growth, energy consumption, FDI inflow, and trade, are estimated to have an augmenting influence on CO2 emission. Our results regarding the FDI–CO2 emissions nexus support the presence of the pollution-haven hypothesis. Moreover, the estimated results from PFMOLS and PDOLS are validated by Granger Causality, and AMG and CCEMG tests. The study suggests the adoption of renewable sources as energy input and the promotion of innovations for energy efficiencies to reduce CO2 emissions in Asian economies.

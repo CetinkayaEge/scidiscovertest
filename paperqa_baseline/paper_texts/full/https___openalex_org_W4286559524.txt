@@ -1,0 +1,9 @@
+Title: The impact of the Sustainable Development Goals on a network of 276 international organizations
+Authors: Maya Bogers, Frank Biermann, Agni Kalfagianni, Rakhyun E. Kim, Jelle Treep, Martine G. de Vos
+Year: 2022
+Venue: Global Environmental Change
+DOI: https://doi.org/10.1016/j.gloenvcha.2022.102567
+Paper ID: https://openalex.org/W4286559524
+
+Abstract:
+Global sustainability governance is marked by a highly fragmented system of distinct clusters of international organizations, along with states and other actors. Enhancing inter-organizational coordination and cooperation is thus often recognized as an important reform challenge in global sustainability governance. The 17 Sustainable Development Goals, agreed by the United Nations in 2015, thus explicitly aim at advancing policy coherence and institutional integration among the myriad international institutions. Yet, have these goals been effective in this regard? We assess here the impact of the Sustainable Development Goals on the network structure of 276 international organizations in the period 2012–2019, that is, four years before and four years after the launch of the Sustainable Development Goals. The network structure was approximated by analyzing data from the websites of these 276 international organizations that were joined by more than 1.5 million hyperlinks, which we collected using a custom-made web crawler. Our findings are contrary to what is widely expected from the Sustainable Development Goals: we find that fragmentation has in fact increased after the Sustainable Development Goals came into effect. In addition, silos are increasing around the 17 SDGs as well as around the social, economic, and environmental dimensions of sustainable development.

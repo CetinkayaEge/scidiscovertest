@@ -1,0 +1,9 @@
+Title: Concrete 3D printing technology for sustainable construction: A review on raw material, concrete type and performance
+Authors: Xiaonan Wang, Wengui Li, Yipu Guo, Alireza Kashani, Kejin Wang, Liberato Ferrara, Isabel Agudelo
+Year: 2024
+Venue: Developments in the Built Environment
+DOI: https://doi.org/10.1016/j.dibe.2024.100378
+Paper ID: https://openalex.org/W4392106453
+
+Abstract:
+This paper reviews recent developments and proposes perspectives for future research on three-dimensional printing concrete (3DPC). This review originally analyses the 3DP applications combined with concrete types that are classified into three groups: functional concrete, sustainable concrete, and special concrete. The 3DP technique shows different effects on concrete types due to various modification methods (e.g., nano-additive, fibre addition, and chemical reagent) and challenging requirements (e.g., anisotropy exploit and defect). Summarily, the oriented fibre of 3DPC is a double-edged sword, asking for optimal structural design for engineered cementitious composite (ECC), ultra-high-performance concrete (UHPC), and most fibre-improved concrete. The 3DP technique is not propitious to all concrete types, such as foam concrete, because the additional pressure in the printing process poses a huge disadvantage to foam stability. This paper also proposes the 3DPC protentional from the view of concrete features, which represents a contribution to advanced concrete technology and 3DPC development direction.

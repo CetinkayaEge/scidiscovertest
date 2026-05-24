@@ -1,0 +1,9 @@
+Title: Crystallographic Texturing of Electrodeposits for Sustainable Zn Anodes
+Authors: Xiaomeng Tian, Ying Sun, Hui Li, Xiaoguang Duan, Qin Zhao, Tianyi Ma
+Year: 2024
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202403995
+Paper ID: https://openalex.org/W4404222208
+
+Abstract:
+Abstract Aqueous Zn metal batteries (AZMBs) offer a promising solution for grid‐scale energy storage. Nonetheless, their commercial deployment is hindered by pivotal challenges related to the Zn metal anode, particularly the morphological heterogeneity of electrodeposits and interfacial chemical instability arising from irreversible and uneven electrodeposition. Crystallographic texturing during Zn electrodeposition emerges as a robust approach to achieve grain‐refinement and chemically stable electrodeposits, thereby promoting the sustainable cycling of the Zn anode. Despite substantial progress in Zn texturing, a comprehensive review that systematically elucidates the principles and mechanisms underlying irregular morphological evolution and crystallographic texturing is still lacking. Therefore, this review addresses this gap by first examining the formation of these issues from a crystallographic perspective. The review then categorizes and details five distinct induction mechanisms for crystallographic texturing in Zn electrodeposits. Eventually, the review offers future perspectives on crystallographic texturing, aiming to advance the transition from academic research to industrial application of AZMBs.

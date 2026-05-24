@@ -1,0 +1,9 @@
+Title: Lipid synthesis, triggered by PPARγ T166 dephosphorylation, sustains reparative function of macrophages during tissue repair
+Authors: Shiman Zuo, Yuxin Wang, Hanjing Bao, Zehui Zhang, Nanfei Yang, Jia Meng, Qing Zhang, Ani Jian, Rong Ji, Lidan Zhang, Yan Lü, Yahong Huang, Pingping Shen
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-51736-5
+Paper ID: https://openalex.org/W4401808797
+
+Abstract:
+Macrophages may acquire a reparative phenotype that supports tissue repair and remodeling in response to tissue injury. However, the metabolic requirements underpinning this process are incompletely understood. Here, we show that posttranslational modification (PTM) of PPARγ regulates lipid synthesis in response to wound microenvironmental cues and that metabolic rewiring orchestrates function of reparative macrophages. In injured tissues, repair signaling leads to decreased macrophage PPARγ threonine 166 (T166) phosphorylation, which results in a partially active PPARγ transcriptional program comprised of increased binding activity to the regulator regions of lipid synthesis-associated genes, thereby increased lipogenesis. The accumulated lipids serve as signaling molecules, triggering STAT3-mediated growth factor expression, and supporting the synthesis of phospholipids for the expansion of the endoplasmic reticulum (ER), which is required for protein secretion. Genetic or pharmacological inhibition of PPARγ T166 phosphorylation promotes the reparative function of macrophages and facilitates tissue regeneration. In summary, our work identifies PPARγ T166-regulated lipid biosynthesis as an essential pathway for meeting the anabolic demands of the activation and function of macrophages and provides a rationale for potential therapeutic targeting of tissue repair.

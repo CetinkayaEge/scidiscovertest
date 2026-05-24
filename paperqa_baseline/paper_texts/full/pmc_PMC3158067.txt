@@ -1,0 +1,9 @@
+Title: Phosphorylated CpxR Restricts Production of the RovA Global Regulator in Yersinia pseudotuberculosis
+Authors: Junfa Liu, Ikenna R. Obi, Edvin J. Thanikkal, Thomas Kieselbach, Matthew S. Francis
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023314
+Paper ID: pmc_PMC3158067
+
+Abstract:
+Background RovA is a global transcriptional regulator of gene expression in pathogenic Yersinia . RovA levels are kept in check by a sophisticated layering of distinct transcriptional and post-transcriptional regulatory mechanisms. In the enteropathogen Y. pseudotuberculosis , we have previously reported that the extracytoplasmic stress sensing CpxA-CpxR two-component regulatory system modulates rovA expression. Methodology/Principal Findings In this study, we characterized CpxR phosphorylation (CpxR∼P) in vitro , and determined that phosphorylation was necessary for CpxR to efficiently bind to the PCR-amplified upstream regulatory region of rovA . The precise CpxR∼P binding site was mapped by a nuclease protection assay and directed mutagenesis confirmed that in vivo binding to the rovA promoter inhibits transcription. Reduced RovA production was most pronounced following CpxR∼P accumulation in the Yersinia cytoplasm during chronic Cpx pathway activation and by the indiscriminate phosphodonor action of acetyl phosphate. Conclusions/Significance Cpx pathway activation restricts levels of the RovA global regulator. The regulatory influence of CpxR∼P must therefore extend well beyond periplasmic quality control in the Yersinia envelope, to include genes involved in environmental survival and pathogenicity.

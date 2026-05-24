@@ -1,0 +1,9 @@
+Title: Digital Twin for Accelerating Sustainability in Positive Energy District: A Review of Simulation Tools and Applications
+Authors: Xingxing Zhang, Jingchun Shen, Puneet Saini, Marco Lovati, Mengjie Han, Pei Huang, Zhihua Huang
+Year: 2021
+Venue: Frontiers in Sustainable Cities
+DOI: https://doi.org/10.3389/frsc.2021.663269
+Paper ID: https://openalex.org/W3174171722
+
+Abstract:
+A digital twin is regarded as a potential solution to optimize positive energy districts (PED). This paper presents a compact review about digital twins for PED from aspects of concepts, working principles, tools/platforms, and applications, in order to address the issues of both how a digital PED twin is made and what tools can be used for a digital PED twin. Four key components of digital PED twin are identified, i.e., a virtual model, sensor network integration, data analytics, and a stakeholder layer. Very few available tools now have full functions for digital PED twin, while most tools either have a focus on industrial applications or are designed for data collection, communication and visualization based on building information models (BIM) or geographical information system (GIS). Several observations gained from successful application are that current digital PED twins can be categorized into three tiers: (1) an enhanced version of BIM model only, (2) semantic platforms for data flow, and (3) big data analysis and feedback operation. Further challenges and opportunities are found in areas of data analysis and semantic interoperability, business models, data security, and management. The outcome of the review is expected to provide useful information for further development of digital PED twins and optimizing its sustainability.

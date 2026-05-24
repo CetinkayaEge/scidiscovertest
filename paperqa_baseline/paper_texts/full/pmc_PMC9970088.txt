@@ -1,0 +1,9 @@
+Title: Novel in-frame duplication variant characterization in late infantile metachromatic leukodystrophy using whole-exome sequencing and molecular dynamics simulation
+Authors: Zahra Ataei, Zahra Nouri, Farial Tavakoli, Mohammad Reza Pourreza, Sina Narrei, Mohammad Amin Tabatabaiefar
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0282304
+Paper ID: pmc_PMC9970088
+
+Abstract:
+Metachromatic leukodystrophy (MLD) is a neurodegenerative lysosomal storage disease caused by a deficiency in the arylsulfatase A (ARSA). ARSA deficiency leads to sulfatide accumulation, which involves progressive demyelination. The profound impact of early diagnosis on MLD treatment options necessitates the development of new or updated analysis tools and approaches. In this study, to identify the genetic etiology in a proband from a consanguineous family with MLD presentation and low ARSA activity, we employed Whole-Exome Sequencing (WES) followed by co-segregation analysis using Sanger sequencing. Also, MD simulation was utilized to study how the variant alters the structural behavior and function of the ARSA protein. GROMACS was applied and the data was analyzed by RMSD, RMSF, Rg, SASA, HB, atomic distance, PCA, and FEL. Variant interpretation was done based on the American College of Medical Genetics and Genomics (ACMG) guidelines. WES results showed a novel homozygous insertion mutation, c.109_126dup (p.Asp37_Gly42dup), in the ARSA gene. This variant is located in the first exon of ARSA , fulfilling the criteria of being categorized as likely pathogenic, according to the ACMG guidelines and it was also found to be co-segregating in the family. The MD simulation analysis revealed this mutation influenced the structure and the stabilization of ARSA and led to the protein function impairment. Here, we report a useful application of WES and MD to identify the causes of a neurometabolic disorder.

@@ -1,0 +1,9 @@
+Title: 3D printed parts and mechanical properties: Influencing parameters, sustainability aspects, global market scenario, challenges and applications
+Authors: Saquib Rouf, Ankush Raina, Mir Irfan Ul Haq, Nida Naveed, Sudhanraj Jeganmohan, Aysha Farzana Kichloo
+Year: 2022
+Venue: Advanced Industrial and Engineering Polymer Research
+DOI: https://doi.org/10.1016/j.aiepr.2022.02.001
+Paper ID: https://openalex.org/W4214689439
+
+Abstract:
+3D printing has evolved as a disruptive technology for fabrication of industrial components, however due to the intrinsic nature of the process, the mechanical strength of the parts developed by 3D printing is a subject of research. The economic and technical advantages offered by 3D printing makes it as a potential replacement for the conventional manufacturing processes, particularly for developing complex and optimized products. The current paper is structured to focus on the various processes of 3D printing used for the development of industrial products, the various process parameters involved in each process and their effect on the mechanical properties of these parts particularly fatigue, tensile, bending strength, etc. primarily focusing on polymeric materials. Further an important aspect of 3D printed parts i'e tribological properties have been highlighted. A systemic literature review related to these aspects has also been presented. A section highlights the various applications of these 3D printed parts particularly in medical, aerospace and automotive. A section also highlights the sustainability aspects of these 3D printed parts. The paper also highlights the possible future research areas, recommendations and challenges involved in developing 3D printed parts.

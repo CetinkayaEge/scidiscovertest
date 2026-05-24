@@ -1,0 +1,9 @@
+Title: Anionic Synthetic Polymers Prevent Bacteriophage Infection
+Authors: Huba L. Marton, Peter Kilbride, Ashfaq Ahmad, Antonia P. Sagona, Matthew I. Gibson
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c01874
+Paper ID: pmc_PMC10141250
+
+Abstract:
+Bioprocessing and biotechnology exploit microorganisms (such as bacteria) for the production of chemicals, biologics, therapies, and food. A major unmet challenge is that bacteriophage (phage) contamination compromises products and necessitates shut-downs and extensive decontamination using nonspecific disinfectants. Here we demonstrate that poly(acrylic acid) prevents phage-induced killing of bacterial hosts, prevents phage replication, and that induction of recombinant protein expression is not affected by the presence of the polymer. Poly(acrylic acid) was more active than poly(methacrylic acid), and poly(styrenesulfonate) had no activity showing the importance of the carboxylic acids. Initial evidence supported a virustatic, not virucidal, mechanism of action. This simple, low-cost, mass-produced additive offers a practical, scalable, and easy to implement solution to reduce phage contamination.

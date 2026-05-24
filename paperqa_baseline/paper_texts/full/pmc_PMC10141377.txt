@@ -1,0 +1,9 @@
+Title: A Novel Aldisine Derivative Exhibits Potential Antitumor Effects by Targeting JAK/STAT3 Signaling
+Authors: Dong-Ping Wang, Li-Hong Wu, Rui Li, Na He, Qian-Yue Zhang, Chen-Yang Zhao, Tao Jiang
+Year: 2023
+Venue: Marine Drugs
+DOI: 10.3390/md21040218
+Paper ID: pmc_PMC10141377
+
+Abstract:
+The JAK/STAT3 signaling pathway is aberrantly hyperactivated in many cancers, promoting cell proliferation, survival, invasiveness, and metastasis. Thus, inhibitors targeting JAK/STAT3 have enormous potential for cancer treatment. Herein, we modified aldisine derivatives by introducing the isothiouronium group, which can improve the antitumor activity of the compounds. We performed a high-throughput screen of 3157 compounds and identified compounds 11a , 11b , and 11c , which contain a pyrrole [2,3-c] azepine structure linked to an isothiouronium group through different lengths of carbon alkyl chains and significantly inhibited JAK/STAT3 activities. Further results showed that compound 11c exhibited the optimal antiproliferative activity and was a pan-JAKs inhibitor capable of inhibiting constitutive and IL-6-induced STAT3 activation. In addition, compound 11c influenced STAT3 downstream gene expression (Bcl-xl, C-Myc, and Cyclin D1) and induced the apoptosis of A549 and DU145 cells in a dose-dependent manner. The antitumor effects of 11c were further demonstrated in an in vivo subcutaneous tumor xenograft experiment with DU145 cells. Taken together, we designed and synthesized a novel small molecule JAKs inhibitor targeting the JAK/STAT3 signaling pathway, which has predicted therapeutic potential for JAK/STAT3 overactivated cancer treatment.

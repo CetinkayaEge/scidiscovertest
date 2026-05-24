@@ -1,0 +1,9 @@
+Title: Interactions between Economic Growth and Environmental Degradation toward Sustainable Development
+Authors: Mingxia Zhang, Yang Chen, Oleksii Lyulyov, Tetyana Pimonenko
+Year: 2022
+Venue: Systems
+DOI: https://doi.org/10.3390/systems11010013
+Paper ID: https://openalex.org/W4313361820
+
+Abstract:
+Ongoing environmental issues and degradation provoke the implementation of relevant incentives to overcome them without restrictions of economic growth. Considering the Chinese sustainable development policy, each province should provide the effective ecological regulations that consider the dynamic changes of the economic and ecological indicators of the province’s development. In this case, the paper aims to analyze the relationship between economic growth and environmental quality. The object of the investigation is the Henan provinces of China from 1994 to 2020. The study applied a vector autoregression model between the one-way and two-way relationship analysis, Granger causality test, cointegration test, and impulse response function. The findings confirm that GDP growth causes exhaust gas production and that SO2 will also influence wastewater. The results of the co-consolidation analysis showed that if the production of industrial solid waste gas and SO2 volume increased by 1% each, GDP per capita would increase by 0.22% and 0.35%, respectively. The findings of the variance decomposition of the GDP per capita in the first phase are all due to their perturbation term. The other influencing factors have no influence. Over time, GDP per capita is less and less affected and significantly enhanced by wastewater, exhaust gas, and SO2.

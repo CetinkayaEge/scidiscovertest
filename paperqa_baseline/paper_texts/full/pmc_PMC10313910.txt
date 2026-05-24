@@ -1,0 +1,9 @@
+Title: Designing and developing a digital equity dashboard for the emergency department
+Authors: Sojung Yi, Caroline Burke, Amanda Reilly, Steven Straube, Joseph Graterol, Christopher R. Peabody
+Year: 2023
+Venue: Journal of the American College of Emergency Physicians Open
+DOI: 10.1002/emp2.12997
+Paper ID: pmc_PMC10313910
+
+Abstract:
+Abstract Disparities in diagnosis, treatment, and health outcomes of racial minorities are well documented in the emergency department (ED). Although EDs may provide broad departmental feedback on clinical metrics, lack of up‐to‐date monitoring and data availability present significant challenges to identifying and addressing patterns of inequitable care. To address this issue, we developed an online “Equity Dashboard,” incorporating data that is updated daily from our electronic medical record to highlight demographic, clinical, and operational variables, stratified by age, race, ethnicity, and language, and sexual orientation, gender identity. Through an iterative design thinking process, we created data visualizations for an interactive interface that tells a story about the ED patient's experience and enables any staff to explore up‐to‐date trends in patient care. To assess and improve usability of the dashboard, we conducted a survey of end‐users using custom questions, as well as the System Usability Scale and Net Promoter Score, both of which are validated health technology use instruments. The Equity Dashboard is of particular use for quality improvement initiatives, as it reflects common departmental challenges including delays in clinician events, inpatient boarding, and throughput metrics. This digital tool further helps demonstrate how these operational factors differentially affect our diverse patient population. The dashboard ultimately enables the ED team to measure current performance, to identify our vulnerabilities, and to design targeted interventions to address disparities in clinical care.

@@ -1,0 +1,9 @@
+Title: Recyclebot – using robots for sustainable plastic recycling
+Authors: Doris Aschenbrenner, Jakob Gros, Nicole Fangerow, Teresa Werner, Cecilia Colloseus, Iman Taha
+Year: 2023
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2023.02.047
+Paper ID: https://openalex.org/W4366316422
+
+Abstract:
+Artificial Intelligence has massive potential for improving recycling processes. This mini-review article investigates how robots and artificial intelligence can be used to sort plastics for improved recycling processes. The first focus is identifying plastic from municipal waste (from household and household-type industries) through the integration of computer vision and sensor fusion. The next step uses this data to increase the yield of already existing automated sorting plants. The second focus addresses the processes. Here, classic methods of automation analysis are applied to develop micro-automation solutions for the plastic recycling industry, for example, by using collaborative robots. As manual sorting stations are currently part of the plant, the project targets the intelligent assistance of human workers by directly highlighting relevant objects through data in the sorting process. Finally, as a third focus, a “cockpit” for the data in the entire process is envisioned to facilitate human supervision and informed decision-making. This paper provides an overview of the current state of the art and formulates concrete usage scenarios. When real applications are built for developed scenarios, the development and implementation steps must be accompanied by a continuous life cycle and cost analysis to evaluate the ecological and economic impact. As part of an overall responsible research and innovation approach, social aspects and rebound effects need also be the subjects of investigation.

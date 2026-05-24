@@ -1,0 +1,9 @@
+Title: The residual structure of acid‐denatured β 2 ‐microglobulin is relevant to an ordered fibril morphology
+Authors: Ryosuke Tomiyama, Masatomo So, Keiichi Yamaguchi, Yohei Miyanoiri, Kazumasa Sakurai
+Year: 2023
+Venue: Protein Science : A Publication of the Protein Society
+DOI: 10.1002/pro.4487
+Paper ID: pmc_PMC9793977
+
+Abstract:
+Abstract β 2 ‐Microglobulin (β2m) forms amyloid fibrils in vitro under acidic conditions. Under these conditions, the residual structure of acid‐denatured β2m is relevant to seeding and fibril extension processes. Disulfide (SS) bond‐oxidized β2m has been shown to form rigid, ordered fibrils, whereas SS bond‐reduced β2m forms curvy, less‐ordered fibrils. These findings suggest that the presence of an SS bond affects the residual structure of the monomer, which subsequently influences the fibril morphology. To clarify this process, we herein performed NMR experiments. The results obtained revealed that oxidized β2m contained a residual structure throughout the molecule, including the N‐ and C‐termini, whereas the residual structure of the reduced form was localized and other regions had a random coil structure. The range of the residual structure in the oxidized form was wider than that of the fibril core. These results indicate that acid‐denatured β2m has variable conformations. Most conformations in the ensemble cannot participate in fibril formation because their core residues are hidden by residual structures. However, when hydrophobic residues are exposed, polypeptides competently form an ordered fibril. This conformational selection phase may be needed for the ordered assembly of amyloid fibrils.

@@ -1,0 +1,9 @@
+Title: Multiple Criteria Decision Analysis of Sustainable Urban Public Transport Systems
+Authors: Alberto Romero-Ania, Lourdes Rivero Gutiérrez, María A. de Vicente y Oliva
+Year: 2021
+Venue: Mathematics
+DOI: https://doi.org/10.3390/math9161844
+Paper ID: https://openalex.org/W3188525568
+
+Abstract:
+Urban public transport systems must be economically efficient and additionally environmentally sustainable. Available decision support systems, including multiple criteria decision models, allow identifying which urban public transport vehicles are acceptable and those that should no longer be used in efficient and environmentally friendly cities. Previous research has ranked urban public transport vehicles by applying analytic hierarchy process multi-criteria decision-making models, from economic and non-polluting perspectives. However, until now, the types of vehicles acceptable for fleet renewal have not been identified. This study proposes a consistent combination of the ELECTRE TRI multiple criteria decision sorting method and the DELPHI procedure, the objective of which is to identify which urban public transport vehicles are acceptable, taking into consideration a suggested sustainable threshold, which includes economic and environmental strict requirements. The proposed model is based on 2020 Madrid urban public road transport data, published by Madrid City Council, which were compiled by the authors, and assessed by a panel of 20 experts to identify criteria and factors included in the model. Findings help local administrations to identify which urban public transport vehicles should be progressively replaced by those classified as economically efficient and additionally environmentally sustainable.

@@ -1,0 +1,9 @@
+Title: The alignment of companies' sustainability behavior and emissions with global climate targets
+Authors: Simone Cenci, Matteo Burato, Marek Rei, Maurizio Zollo
+Year: 2023
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-023-43116-2
+Paper ID: https://openalex.org/W4389339114
+
+Abstract:
+Climate actions by the private sector are crucial to cutting global emissions and meeting the climate targets set by the Paris Agreement. However, despite an increasing number of climate pledges, the emissions pathways of most companies are still misaligned with the Paris targets. To identify the causes of this discrepancy between effort and outcome, we developed a systematic approach, based on extensive analyses of textual data, to track the actions implemented by major public corporations to reduce their emissions. Our findings suggest that the misalignment between companies' climate goals, actions, and outcomes is due to a widespread over-investment in risk mitigation actions as opposed to innovation and cooperation activities to foster energy goals. Overall, we provide a systematic framework to track companies' climate actions. Our approach can be used by investors and policymakers to redirect capital towards its most sustainable use and to design behaviourally founded climate policy interventions.

@@ -1,0 +1,9 @@
+Title: SNORA74B gene silencing inhibits gallbladder cancer cells by inducing PHLPP and suppressing Akt/mTOR signaling
+Authors: Yiyu Qin, Li Meng, Yang Fu, Zhiwei Quan, Mingzhe Ma, Mingzhe Weng, Zhengdong Zhang, Cuixiang Gao, Xinghua Shi, Koulan Han
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15301
+Paper ID: pmc_PMC5386738
+
+Abstract:
+Small nucleolar RNAs (snoRNAs) have been implicated in the development of many cancers. We therefore examined the differential expression of snoRNAs between gallbladder cancer (GBC) tissues and matched adjacent non-tumor tissues using expression microarray analysis with confirmation by quantitative real-time PCR (qRT-PCR). Western blot analysis showed that SNORA74B levels were higher in GBC than non-tumor tissues. SNORA74B expression was positively associated with local invasion, advanced TNM stage, CA19-9 level, and Ki67 expression in patients with GBC, while it was negatively associated with expression of PHLPP, an endogenous Akt inhibitor. Moreover, SNORA74B expression was prognostic for overall survival (OS) and disease-free survival (DFS). Functional studies revealed that silencing SNORA74B in GBC cells using sh-SNORA74B suppressed cell proliferation, induced G1 arrest, and promoted apoptosis. Preliminary molecular investigation revealed that SNORA74B silencing inhibited activation of the AKT/mTOR signaling pathway, while increasing PHLPP expression. PHLPP depletion using shRNA abrogated sh-SNORA74B suppression of GBC cell proliferation, indicating that the antitumor effects of SNORA74B silencing were mediated by PHLPP. These findings define the important role of SNORA74B in cell proliferation, cell cycle, and apoptosis of GBC, and suggest that it may serve as a novel target for GBC treatment.

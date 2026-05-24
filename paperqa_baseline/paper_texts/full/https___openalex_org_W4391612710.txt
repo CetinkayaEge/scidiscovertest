@@ -1,0 +1,9 @@
+Title: Robust design of hybrid solar power systems: Sustainable integration of concentrated solar power and photovoltaic technologies
+Authors: Gabriele Furlan, Fengqi You
+Year: 2024
+Venue: Advances in Applied Energy
+DOI: https://doi.org/10.1016/j.adapen.2024.100164
+Paper ID: https://openalex.org/W4391612710
+
+Abstract:
+The global energy sector is now transitioning its structure towards carbon neutrality aided by renewable resource use. Despite its immense potential, solar energy contributes minimally to the global energy mix due to its intermittent nature and challenges with power demand fluctuations. Increased use of distributed solar sources alters market dynamics, necessitating conventional power plants to ramp up output during lower renewable energy production times and manage oversupply risks. Concentrated solar power (CSP) can contribute to grid decarbonization, but its high levelized cost of electricity (LCOE) impedes widespread adoption. This study proposes hybridizing CSP and photovoltaic (PV) technologies, aiming to leverage their synergy to maximize economic benefits. We develop a comprehensive process design framework that utilizes a robust multi-objective optimization (MOO) approach, which factors in techno-economic and environmental objectives while accounting for model uncertainty from resource prices and life cycle assessment indicators. Optimization results reveal that in Ivanpah, California, hybrid CSP + PV can reduce 41% of LCOE and limit environmental impacts compared to standalone CSP plants. This robust framework also identifies design trends, such as a constant dependence on the PV field, and a trade-off between the installed area of the solar concentrators and the backup boiler operation. The optimal unit sizes, less susceptible to future market fluctuations and potential changes in the global warming potential (GWP) of technologies, contribute significantly to robust and sustainable energy planning decisions.

@@ -1,0 +1,9 @@
+Title: Sustainable Additive Manufacturing: Mechanical Response of High-Density Polyethylene over Multiple Recycling Processes
+Authors: Nectarios Vidakis, Markos Petousis, Athena Maniadi
+Year: 2021
+Venue: Recycling
+DOI: https://doi.org/10.3390/recycling6010004
+Paper ID: https://openalex.org/W3120189929
+
+Abstract:
+Polymer recycling is nowadays in high-demand due to an increase in polymers demand and production. Recycling of such materials is mostly a thermomechanical process that modifies their overall mechanical behavior. The present research work focuses on the recyclability of high-density polyethylene (HDPE), one of the most recycled materials globally, for use in additive manufacturing (AM). A thorough investigation was carried out to determine the effect of the continuous recycling on mechanical, structural, and thermal responses of HDPE polymer via a process that isolates the thermomechanical treatment from other parameters such as aging, contamination, etc. Fused filament fabrication (FFF) specimens were produced from virgin and recycled materials and were experimentally tested and evaluated in tension, flexion, impact, and micro-hardness. A thorough thermal and morphological analysis was also performed. The overall results of this study show that the mechanical properties of the recycled HDPE polymer were generally improved over the recycling repetitions for a certain number of recycling steps, making the HDPE recycling a viable option for circular use. Repetitions two to five had the optimum overall mechanical behavior, indicating a significant positive impact of the HDPE polymer recycling aside from the environmental one.

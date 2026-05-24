@@ -1,0 +1,9 @@
+Title: MRTF-A steers an epigenetic complex to activate endothelin-induced pro-inflammatory transcription in vascular smooth muscle cells
+Authors: Yuyu Yang, Xian Cheng, Wenfang Tian, Bisheng Zhou, Xiaoyan Wu, Huihui Xu, Fei Fang, Mingming Fang, Yong Xu
+Year: 2014
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gku776
+Paper ID: pmc_PMC4176337
+
+Abstract:
+Endothelin (ET-1) was initially identified as a potent vasoconstrictor contributing to the maintenance of vascular rhythm. Later studies have implicated ET-1, when aberrantly up-regulated within the vasculature, in a range of human pathologies associated with disruption of vascular homeostasis. ET-1 has been shown to invoke strong pro-inflammatory response in vascular smooth muscle cells (VSMCs); the underlying mechanism, however, remains elusive. Here, we report that the transcriptional modulator MRTF-A mediates the activation of pro-inflammatory mediators by ET-1 in VSMCs. ET-1 increased nuclear enrichment and activity of MRTF-A in cultured VSMCs. MRTF-A silencing attenuated ET-1 induced synthesis and release of pro-inflammatory mediators including IL-6, MCP-1 and IL-1 likely as a result of diminished NF-κB activity. In addition, MRTF-A was indispensible for the accumulation of active histone modifications on the gene promoters. Of intrigue, MRTF-A interacted with and recruited ASH2, a component of the mammalian histone methyltransferase complex, to transactivate pro-inflammatory genes in response to ET-1 treatment. The chromatin remodeling proteins BRG1 and BRM were also required for ET-1-dependent induction of pro-inflammatory mediators by communicating with ASH2, a process dependent on MRTF-A. In conclusion, our data have identified a novel epigenetic complex responsible for vascular inflammation inflicted by ET-1.

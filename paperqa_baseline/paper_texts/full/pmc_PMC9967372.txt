@@ -1,0 +1,9 @@
+Title: Drug Delivery Systems in Regenerative Medicine: An Updated Review
+Authors: Alaa Mansour, Maya Romani, Anirudh Balakrishna Acharya, Betul Rahman, Elise Verron, Zahi Badran
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15020695
+Paper ID: pmc_PMC9967372
+
+Abstract:
+Modern drug discovery methods led to evolving new agents with significant therapeutic potential. However, their properties, such as solubility and administration-related challenges, may hinder their benefits. Moreover, advances in biotechnology resulted in the development of a new generation of molecules with a short half-life that necessitates frequent administration. In this context, controlled release systems are required to enhance treatment efficacy and improve patient compliance. Innovative drug delivery systems are promising tools that protect therapeutic proteins and peptides against proteolytic degradation where controlled delivery is achievable. The present review provides an overview of different approaches used for drug delivery.

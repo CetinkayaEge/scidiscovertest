@@ -1,0 +1,9 @@
+Title: Sustainable Aviation Electrification: A Comprehensive Review of Electric Propulsion System Architectures, Energy Management, and Control
+Authors: Jinning Zhang, Ioannis Roumeliotis, Argyrios Zolotas
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14105880
+Paper ID: https://openalex.org/W4280496754
+
+Abstract:
+The civil aviation sector plays an increasingly significant role in transportation sustainability in the environmental, economic, and social dimensions. Driven by the concerns of sustainability in the aviation sector, more electrified aircraft propulsion technologies have emerged and form a very promising approach to future sustainable and decarbonized aviation. This review paper aims to provide a comprehensive and broad-scope survey of the recent progress and development trends in sustainable aviation electrification. Firstly, the architectures of electrified aircraft propulsion are presented with a detailed analysis of the benefits, challenges, and studies/applications to date. Then, the challenges and technical barriers of electrified aircraft propulsion control system design are discussed, followed by a summary of the control methods frequently used in aircraft propulsion systems. Next, the mainstream energy management strategies are investigated and further utilized to minimize the block fuel burn, emissions, and economic cost. Finally, an overview of the development trends of aviation electrification is provided.

@@ -1,0 +1,9 @@
+Title: Edge AI and Blockchain for Smart Sustainable Cities: Promise and Potential
+Authors: Elarbi Badidi
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14137609
+Paper ID: https://openalex.org/W4283323042
+
+Abstract:
+Modern cities worldwide are undergoing radical changes to foster a clean, sustainable and secure environment, install smart infrastructures, deliver intelligent services to residents, and facilitate access for vulnerable groups. The adoption of new technologies is at the heart of implementing many initiatives to address critical concerns in urban mobility, healthcare, water management, clean energy production and consumption, energy saving, housing, safety, and accessibility. Given the advancements in sensing and communication technologies over the past few decades, exploring the adoption of recent and innovative technologies is critical to addressing these concerns and making cities more innovative, sustainable, and safer. This article provides a broad understanding of the current urban challenges faced by smart cities. It highlights two new technological advances, edge artificial intelligence (edge AI) and Blockchain, and analyzes their transformative potential to make our cities smarter. In addition, it explores the multiple uses of edge AI and Blockchain technologies in the fields of smart mobility and smart energy and reviews relevant research efforts in these two critical areas of modern smart cities. It highlights the various algorithms to handle vehicle detection, counting, speed identification to address the problem of traffic congestion and the different use-cases of Blockchain in terms of trustworthy communications and trading between vehicles and smart energy trading. This review paper is expected to serve as a guideline for future research on adopting edge AI and Blockchain in other smart city domains.

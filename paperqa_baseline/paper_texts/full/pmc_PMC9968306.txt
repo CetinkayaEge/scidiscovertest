@@ -1,0 +1,9 @@
+Title: Atroposelective desymmetrization of 2-arylresorcinols via Tsuji-Trost allylation
+Authors: Sangji Kim, Aram Kim, Chanhee Lee, Junsoo Moon, Eun Jeong Hong, Duck-Hyung Lee, Yongseok Kwon
+Year: 2023
+Venue: Communications Chemistry
+DOI: 10.1038/s42004-023-00839-z
+Paper ID: pmc_PMC9968306
+
+Abstract:
+Palladium-catalyzed asymmetric allylic alkylation has proven to be a powerful method for the preparation of a wide variety of chiral molecules. However, the catalytic and atroposelective allylic alkylation is still rare and challenging, especially for biaryl substrates. Herein, we report the palladium-catalyzed desymmetric and atroposelective allylation, in which the palladium complex with a chiral phosphoramidite ligand enables desymmetrization of nucleophilic 2-arylresorcinols in a highly enantioselective manner. With the aid of the secondary kinetic resolution effect, a wide variety of substrates containing a hydroxymethyl group at the bottom aromatic ring are able to provide O -allylated products up to 98:2 er. Computational studies show an accessible quadrant of the allylpalladium complex and provide three plausible transition states with intra- or intermolecular hydrogen bonding. The energetically favorable transition state is in good agreement with the observed enantioselectivity and suggests that the catalytic reaction would proceed with an intramolecular hydrogen bond. Desymmetrization of symmetric biaryls is an efficient but underexplored way to approach axially chiral molecules. Here, the authors report the atroposelective desymmetrization of 2- arylresorcinols via chiral palladium complex-catalyzed allylic alkylation.

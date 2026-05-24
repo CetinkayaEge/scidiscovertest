@@ -1,0 +1,9 @@
+Title: How tech companies advance sustainability through artificial intelligence: Developing and evaluating an AI x Sustainability strategy framework
+Authors: Felix Zechiel, Marah Blaurock, Ellen Weber, Marion Büttgen, Kristof Coussement
+Year: 2024
+Venue: Industrial Marketing Management
+DOI: https://doi.org/10.1016/j.indmarman.2024.03.010
+Paper ID: https://openalex.org/W4394903761
+
+Abstract:
+Sustainability is at the top of the agenda of most tech companies. Specifically, tech companies increasingly utilize artificial intelligence (AI) to meet their sustainability goals. However, little is known about how tech companies can leverage AI to accelerate sustainability by formulating and implementing appropriate strategies. To better understand the intertwined nature of AI and sustainability from a strategy perspective, this research conceptually develops a novel AI x Sustainability framework by drawing from the nested sustainability model and integrating insights from different literature streams. It then applies this framework to six leading Big Tech companies (i.e., Amazon, Google, IBM, Meta, Microsoft, and SAP) by conducting a comprehensive document analysis of 69 documents describing 244 individual AI x Sustainability initiatives to reveal whether and how these companies appear to follow specific AI x Sustainability strategies. Lastly, an exploratory survey with potential tech companies' clients (N = 192) sheds light on how clients perceive tech companies' communicated strategic positioning based on the framework. The research provides new theoretical insights, serves as a blueprint for other tech companies, including implications for their AI x Sustainability positioning, and offers a variety of future research directions.

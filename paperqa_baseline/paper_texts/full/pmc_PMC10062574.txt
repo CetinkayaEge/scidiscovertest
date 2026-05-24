@@ -1,0 +1,9 @@
+Title: Same, same but different: Exploring Plasmodium cell division during liver stage development
+Authors: Magali Roques, Annina Bindschedler, Raphael Beyeler, Volker T. Heussler
+Year: 2023
+Venue: PLOS Pathogens
+DOI: 10.1371/journal.ppat.1011210
+Paper ID: pmc_PMC10062574
+
+Abstract:
+Plasmodium parasites have a complex life cycle alternating between a mosquito and a vertebrate host. Following the bite of an Anopheles female mosquito, Plasmodium sporozoites are transmitted from the skin to the liver; their first place of replication within the host. Successfully invaded sporozoites undergo a massive replication and growth involving asynchronous DNA replication and division that results in the generation of tens of thousands or even hundreds of thousands of merozoites depending on the Plasmodium species. The generation of a high number of daughter parasites requires biogenesis and segregation of organelles to finally reach a relatively synchronous cytokinesis event. At the end of liver stage (LS) development, merozoites are packed into merosomes and released into the bloodstream. They are then liberated and infect red blood cells to again produce merozoites by schizogony for the erythrocytic stage of the life cycle. Although parasite LS and asexual blood stage (ABS) differ in many respects, important similarities exist between the two. This review focuses on the cell division of Plasmodium parasite LS in comparison with other life cycle stages especially the parasite blood stage.

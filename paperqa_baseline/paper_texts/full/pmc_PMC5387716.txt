@@ -1,0 +1,9 @@
+Title: Discovery of monocarbonyl curcumin-BTP hybrids as STAT3 inhibitors for drug-sensitive and drug-resistant breast cancer therapy
+Authors: Wenda Zhang, Jianpeng Guo, Shanshan Li, Ting Ma, Dingqiao Xu, Chao Han, Feiyan Liu, Wenying Yu, Lingyi Kong
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46352
+Paper ID: pmc_PMC5387716
+
+Abstract:
+Signal transducer and activator of transcription 3 (STAT3) is a well-known antitumor target. Exogenous ROS insult can lead to selective cytotoxicity against cancer cells. A combination of STAT3 inhibition and “oxidation therapy” may be a new strategy to address the multidrug-resistance issue due to their important roles in the survival and drug resistance of cancer cells. Here, a series of novel curcumin-BTP hybrids were designed and evaluated as STAT3 inhibitors with ROS production activity. Compound 6b exerted the best antitumor activity and selectivity for MCF-7 and MCF-7/DOX cells (IC 50 = 0.52 μM and 0.40 μM, respectively), while its IC 50 value for MCF-10A breast epithelial cells was 7.72 μM. Furthermore, compound 6b suppressed STAT3 phosphorylation, nuclear translocation and DNA-binding activity and the expression of STAT3 specific oncogenes. Increases in the level of IL-6-induced p-STAT3 were also inhibited by 6b without influencing IFN-γ-induced p-STAT1 expression. Additionally, 6b effectively promoted intracellular ROS accumulation, induced cancer cell apoptosis and cell cycle arrest, abolished the colony formation ability of breast cancer cells, and inhibited P-gp expression in MCF-7/DOX cells. Finally, 6b suppressed the growth of implanted human breast cancer in vivo . Our findings highlight that 6b may be a promising therapeutic agent for drug-sensitive and drug-resistant breast cancers.

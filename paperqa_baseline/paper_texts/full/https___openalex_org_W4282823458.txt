@@ -1,0 +1,9 @@
+Title: A framework to assess the local implementation of Sustainable Development Goal 11
+Authors: Kurumi Yamasaki, Takashi Yamada
+Year: 2022
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2022.104002
+Paper ID: https://openalex.org/W4282823458
+
+Abstract:
+How should local governments guide their efforts toward realizing the Sustainable Development Goals (SDGs) when the statistical data describing SDG indicators do not directly inform the prioritization of specific issues? This study considered the current status of efforts toward achieving SDG 11 on the local government level in Japan to construct frameworks that can be applied to evaluate the strengths and weaknesses of these efforts. Key elements of the SDG 11 local indicators—related to sustainable urban living—were identified by the principal component analysis, and prefectural progress was classified by cluster analysis. The correlations of SDG 11 progress to quality of life and fiscal capacity index (FCI) were then respectively evaluated using binomial logistic regression and multiple regression analyses. Finally, the causal relationships among SDG 11 indicators were determined using structural equation modeling to consider related indicators together in policy formulation. For example, the identified correlation between “high urbanization,” high quality of life, and high FCI helps governments to focus efforts on urbanization to achieve SDG 11. The proposed method can thus inform a simpler understanding of global and local indicators to promote the realization of SDGs in Japan or any other country.

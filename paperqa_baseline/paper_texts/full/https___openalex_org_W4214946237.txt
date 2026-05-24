@@ -1,0 +1,9 @@
+Title: An Integrated Adoption Model to Manage Blockchain-Driven Business Innovation in a Sustainable Way
+Authors: Nusi Drljevic, Daniel Arias Aranda, Vladimir Stantchev
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052873
+Paper ID: https://openalex.org/W4214946237
+
+Abstract:
+Blockchain technology has the potential to drive innovations across various industries, businesses, and use cases. It is broadly recognized that innovation is a vital source of competitive advantage in a rapidly changing environment. High expectations surround blockchain’s potential for contributing to sustainable economic and social development. However, current blockchain projects still show high failure rates. The associated side effects of such failure rates generate a negative impact on economic and social sustainability performances such as corporate governance, risk management, finance management, human resources and culture management, and competitiveness. This paper assesses adoption models and their risk and success factors. Building on a novel, integrated adoption model to operationalize, measure and manage blockchain-driven business innovation in a sustainable way, we assessed its applicability with an empirical study across 20 industry sectors and 125 business leaders. The results reveal that the developed adoption model holds the potential to support the sustainable usage of blockchain technology for business innovations, not limited to a specific industry or use case. Further case studies and industry activities can be carried out to continue its validation in future works.

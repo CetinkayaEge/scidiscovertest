@@ -1,0 +1,9 @@
+Title: Unlocking the magic in mycelium: Using synthetic biology to optimize filamentous fungi for biomanufacturing and sustainability
+Authors: Charles Jo, Jing Zhang, Jenny M. Tam, George M. Church, Ahmad S. Khalil, Daniel Segrè, Tzu‐Chieh Tang
+Year: 2023
+Venue: Materials Today Bio
+DOI: https://doi.org/10.1016/j.mtbio.2023.100560
+Paper ID: https://openalex.org/W4317666111
+
+Abstract:
+In this review, we summarize a suite of synthetic biology and computational tools for the mining, engineering and optimization of filamentous fungi as a bioproduction chassis. A combination of methods across genetic engineering, mutagenesis, experimental evolution, and computational modeling can be used to address strain development bottlenecks in established and emerging industries. These include slow mycelium growth rate, low production yields, non-optimal growth in alternative feedstocks, and difficulties in downstream purification. In the scope of biomanufacturing, we then detail previous efforts in improving key bottlenecks by targeting protein processing and secretion pathways, hyphae morphogenesis, and transcriptional control. Bringing synthetic biology practices into the hidden world of molds and mushrooms will serve to expand the limited panel of host organisms that allow for commercially-feasible and environmentally-sustainable bioproduction of enzymes, chemicals, therapeutics, foods, and materials of the future.

@@ -1,0 +1,9 @@
+Title: Modeling YAP fusions: a paradigm for investigating rare cancers?
+Authors: Solmaz Sahebjam, Mark R. Gilbert
+Year: 2022
+Venue: Genes & Development
+DOI: 10.1101/gad.350069.122
+Paper ID: pmc_PMC9575698
+
+Abstract:
+In this Outlook, Sahebjam and Gilbert discuss a study published in the July issue of Genes & Development from Szulzewsky et al., who show that TEAD-dependent YAP1 activity by either the loss of the NF2 gene or YAP1-MAML2 fusion is an oncogenic process promoting meningioma tumorigenesis. Loss of the NF2 tumor suppressor gene is a common finding in meningiomas, and more recently YAP1 fusions have been found in a subset of pediatric NF2 wild-type meningiomas. In the previous issue of Genes & Development , Szulzewsky and colleagues (pp. 857–870) showed that TEAD-dependent YAP1 activity by either the loss of the NF2 gene or YAP1-MAML2 fusion is an oncogenic process promoting meningioma tumorigenesis. Furthermore, pharmacological inhibition of YAP1-TEAD resulted in antitumor activity in both YAP1 fusion-positive and NF2 mutant meningiomas. Together, these data indicate that disruption of the YAP1-TEAD interaction raises a potential therapeutic option for these tumors that requires future investigation.

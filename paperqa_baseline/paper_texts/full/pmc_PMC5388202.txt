@@ -1,0 +1,9 @@
+Title: Detection of influenza viruses by coupling multiplex reverse-transcription loop-mediated isothermal amplification with cascade invasive reaction using nanoparticles as a sensor
+Authors: Yiyue Ge, Qiang Zhou, Kangchen Zhao, Ying Chi, Bin Liu, Xiaoyan Min, Zhiyang Shi, Bingjie Zou, Lunbiao Cui
+Year: 2017
+Venue: International Journal of Nanomedicine
+DOI: 10.2147/IJN.S132670
+Paper ID: pmc_PMC5388202
+
+Abstract:
+Influenza virus infections represent a worldwide public health and economic problem due to the significant morbidity and mortality caused by seasonal epidemics and pandemics. Sensitive and convenient methodologies for detection of influenza viruses are essential for further disease control. Loop-mediated isothermal amplification (LAMP) is the most commonly used method of nucleic acid isothermal amplification. However, with regard to multiplex LAMP, differentiating the ladder-like LAMP products derived from multiple targets is still challenging today. The requirement of specialized instruments has further hindered the on-site application of multiplex LAMP. We have developed an integrated assay coupling multiplex reverse transcription LAMP with cascade invasive reaction using nanoparticles (mRT-LAMP-CIRN) as a sensor for the detection of three subtypes of influenza viruses: A/H1N1pdm09, A/H3 and influenza B. The analytic sensitivities of the mRT-LAMP-CIRN assay were 10 1 copies of RNA for both A/H1N1pdm09 and A/H3, and 10 2 copies of RNA for influenza B. This assay demonstrated highly specific detection of target viruses and could differentiate them from other genetically or clinically related viruses. Clinical specimen analysis showed the mRT-LAMP-CIRN assay had an overall sensitivity and specificity of 98.3% and 100%, respectively. In summary, the mRT-LAMP-CIRN assay is highly sensitive and specific, and can be used as a cost-saving and instrument-free method for the detection of influenza viruses, especially for on-site use.

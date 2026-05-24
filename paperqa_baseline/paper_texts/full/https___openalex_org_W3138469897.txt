@@ -1,0 +1,9 @@
+Title: SARS-CoV-2 infection induces sustained humoral immune responses in convalescent patients following symptomatic COVID-19
+Authors: Jun Wu, Boyun Liang, Cunrong Chen, Hua Wang, Yaohui Fang, Shū Shěn, Xiaoli Yang, Baoju Wang, Liangkai Chen, Qi Chen, Yang Wu, Jia Liu, Xuecheng Yang, Wei Li, Bin Zhu, Wenqing Zhou, Huan Wang, Sumeng Li, Sihong Lu, Di Liu, Huadong Li, Adalbert Krawczyk, Mengji Lu, Dongliang Yang, Fēi Dèng, Ulf Dittmer, Mirko Trilling, Xin Zheng
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-22034-1
+Paper ID: https://openalex.org/W3138469897
+
+Abstract:
+Long-term antibody responses and neutralizing activities in response to SARS-CoV-2 infection are not yet clear. Here we quantify immunoglobulin M (IgM) and G (IgG) antibodies recognizing the SARS-CoV-2 receptor-binding domain (RBD) of the spike (S) or the nucleocapsid (N) protein, and neutralizing antibodies during a period of 6 months from COVID-19 disease onset in 349 symptomatic COVID-19 patients who were among the first be infected world-wide. The positivity rate and magnitude of IgM-S and IgG-N responses increase rapidly. High levels of IgM-S/N and IgG-S/N at 2-3 weeks after disease onset are associated with virus control and IgG-S titers correlate closely with the capacity to neutralize SARS-CoV-2. Although specific IgM-S/N become undetectable 12 weeks after disease onset in most patients, IgG-S/N titers have an intermediate contraction phase, but stabilize at relatively high levels over the 6 month observation period. At late time points, the positivity rates for binding and neutralizing SARS-CoV-2-specific antibodies are still >70%. These data indicate sustained humoral immunity in recovered patients who had symptomatic COVID-19, suggesting prolonged immunity.

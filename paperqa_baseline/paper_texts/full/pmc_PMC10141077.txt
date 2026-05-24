@@ -1,0 +1,9 @@
+Title: Ventilators, Settings, Autotitration Algorithms
+Authors: Manel Luján, Cristina Lalmolda
+Year: 2023
+Venue: Journal of Clinical Medicine
+DOI: 10.3390/jcm12082942
+Paper ID: pmc_PMC10141077
+
+Abstract:
+The choice of a ventilator model for a single patient is usually based on parameters such as size (portability), presence or absence of battery and ventilatory modes. However, there are many details within each ventilator model about triggering, pressurisation or autotitration algorithms that may go unnoticed, but may be important or may justify some drawbacks that may occur during their use in individual patients. This review is intended to emphasize these differences. Guidance is also provided on the operation of autotitration algorithms, in which the ventilator is able to take decisions based on a measured or estimated parameter. It is important to know how they work and their potential sources of error. Current evidence on their use is also provided.

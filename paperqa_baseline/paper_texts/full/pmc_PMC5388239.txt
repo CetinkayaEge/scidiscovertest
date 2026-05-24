@@ -1,0 +1,9 @@
+Title: Redox-sensitive Pluronic F127-tocopherol micelles: synthesis, characterization, and cytotoxicity evaluation
+Authors: Yuling Liu, Sai Fu, Longfei Lin, Yuhong Cao, Xi Xie, Hua Yu, Meiwan Chen, Hui Li
+Year: 2017
+Venue: International Journal of Nanomedicine
+DOI: 10.2147/IJN.S122746
+Paper ID: pmc_PMC5388239
+
+Abstract:
+Pluronic F127 (F127), an amphiphilic triblock copolymer, has been shown to have significant potential for drug delivery, as it is able to incorporate hydrophobic drugs and self-assemble into nanosize micelles. However, it suffers from dissociation upon dilution owing to the relatively high critical micelle concentration and lack of stimuli-responsive behavior. Here, we synthesized the α-tocopherol (TOC) modified F127 polymer (F127-SS-TOC) via a redox-sensitive disulfide bond between F127 and TOC, which formed stable micelles at relatively low critical micelle concentration and was sensitive to the intracellular redox environment. The particle size and zeta potential of the F127-SS-TOC micelles were 51.87±6.39 nm and -8.43±2.27 mV, respectively, and little changes in both particle size and zeta potential were observed within 7 days at room temperature. With 10 mM dithiothreitol stimulation, the F127-SS-TOC micelles rapidly dissociated followed by a significant change in size, which demonstrated a high reduction sensitivity of the micelles. In addition, the micelles showed a high hemocompatibility even at a high micelle concentration (1,000 μg/mL). Low cytotoxicity of the F127-SS-TOC micelles at concentrations ranging from 12.5 μg/mL to 200 μg/mL was also found on both Bel 7402 and L02 cells. Overall, our results demonstrated F127-SS-TOC micelles as a stable and safe aqueous formulation with a considerable potential for drug delivery.

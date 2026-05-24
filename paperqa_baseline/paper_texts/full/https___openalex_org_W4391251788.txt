@@ -1,0 +1,9 @@
+Title: Enzymatic biofuel cell: A potential power source for self-sustained smart textiles
+Authors: Jingsheng Cai, Fei Shen, Jianqing Zhao, Xinxin Xiao
+Year: 2024
+Venue: iScience
+DOI: https://doi.org/10.1016/j.isci.2024.108998
+Paper ID: https://openalex.org/W4391251788
+
+Abstract:
+Self-sustained smart textiles require a miniaturized and flexible power source, while the state-of-the-art lithium-ion battery cannot be seamlessly integrated into smart textiles. Enzymatic biofuel cells (EBFC), utilizing physiological glucose or lactate as fuels to convert chemical energy into electricity, are a potential alternative power source. In comparison to other proposed energy harvesters relying on solar and biomechanical energy, EBFCs feature several key properties, including continuous power generation, biocompatible interfaces without using toxic elements, simple configuration without extra packaging, and biodegradability. There is an urgent need to introduce EBFCs to the researchers working on smart textiles, who typically are not expert on bioelectrochemistry. This minireview first introduces the working principle of EBFC and then summarizes its recent progress on fibers, yarns, and textiles. It's expected that this review can help to bridge the knowledge gap and provide the community of smart textiles with information on both the strengths and limitations of EBFCs.

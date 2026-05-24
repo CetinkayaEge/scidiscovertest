@@ -1,0 +1,9 @@
+Title: Affordance, usefulness, enjoyment, and aesthetics in sustaining virtual reality engagement
+Authors: Hyeon Jo, Do-Hyung Park
+Year: 2023
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-023-42113-1
+Paper ID: https://openalex.org/W4386634137
+
+Abstract:
+As virtual reality (VR) continues to develop, it's attracting an increasing number of consumers who are seeking more diverse functions and experiences. This study presents a theoretical model designed to identify predictors of VR users' continuance intentions. Data was collected from VR users who had firsthand experiences with the technology, and partial least squares structural equation modeling was employed to analyze this data. The results showed a significant correlation between functional affordance and perceived usefulness. Cognitive affordance was found to have a significant association with perceived usefulness, but it also influenced perceived enjoyment. Moreover, physical affordance significantly related to both perceived usefulness and enjoyment. Perceived usefulness was found to directly affect both attitude and continuance intention, while empirical results validated the impact of perceived enjoyment on attitude. The element of shape showed a significant correlation with attitude. Finally, attitude was found to have a significant association with continuance intention. The findings from this study will provide valuable insights for VR companies, developers, and consumers.

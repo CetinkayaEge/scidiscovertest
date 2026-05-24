@@ -1,0 +1,9 @@
+Title: Boosting the lifespan of magneto-mechano-electric generator via vertical installation for sustainable powering of Internet of Things sensor
+Authors: Min Sub Kwak, Mahesh Peddigari, Yuho Min, Jong‐Jin Choi, Jong‐Hyun Kim, Michael Abraham Listyawan, Jungho Ryu, Geon‐Tae Hwang, Woon‐Ha Yoon, Jongmoon Jang
+Year: 2022
+Venue: Nano Energy
+DOI: https://doi.org/10.1016/j.nanoen.2022.107567
+Paper ID: https://openalex.org/W4283800077
+
+Abstract:
+Sustainability is essential for magneto-mechano-electric (MME) energy harvesters that convert low-frequency magnetic noise into useful electrical energy to be considered a practical power source for implementing real-life Internet of Things (IoT) sensor networks. In this study, we propose a vertically installed MME energy harvester based on a piezoelectric lead magnesium niobate-lead zirconate titanate (Pb(Mn1/3Nb2/3)O3-Pb(Zr,Ti)O3, PMN-PZT) single-crystal macro fiber composite cantilever. The MME harvester generates 12.2 mW output power from a low-amplitude stray magnetic field of 2.5 Oe and exhibits a long-term usable lifetime of 2.5 × 109 cycles while maintaining over 90 % of its output. An accelerated life test method is employed to predict the usable lifetime of the MME harvester using an inverse power law-Weibull model with accelerating stress of magneto-mechanical vibration-induced strain. In addition, a standalone wireless environmental monitoring system is demonstrated to operate for 10 weeks by exploiting the harvested power from stray magnetic fields (~2.2 Oe) near the power cables of home appliances. This study paves the way for lifetime assessment and prediction of sustainable MME harvesters to increase the practicability of self-powered IoT devices in smart infrastructures.

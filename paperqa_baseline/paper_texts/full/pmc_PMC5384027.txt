@@ -1,0 +1,9 @@
+Title: The emerging role of RNAs in DNA damage repair
+Authors: Ben R Hawley, Wei-Ting Lu, Ania Wilczynska, Martin Bushell
+Year: 2017
+Venue: Cell Death and Differentiation
+DOI: 10.1038/cdd.2017.16
+Paper ID: pmc_PMC5384027
+
+Abstract:
+Many surveillance and repair mechanisms exist to maintain the integrity of our genome. All of the pathways described to date are controlled exclusively by proteins, which through their enzymatic activities identify breaks, propagate the damage signal, recruit further protein factors and ultimately resolve the break with little to no loss of genetic information. RNA is known to have an integral role in many cellular pathways, but, until very recently, was not considered to take part in the DNA repair process. Several reports demonstrated a conserved critical role for RNA-processing enzymes and RNA molecules in DNA repair, but the biogenesis of these damage-related RNAs and their mechanisms of action remain unknown. We will explore how these new findings challenge the idea of proteins being the sole participants in the response to DNA damage and reveal a new and exciting aspect of both DNA repair and RNA biology.

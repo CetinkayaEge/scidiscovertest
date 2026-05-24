@@ -1,0 +1,9 @@
+Title: Design of Friction Stir Spot Welding Tools by Using a Novel Thermal-Mechanical Approach
+Authors: Zheng-Ming Su, Qi-Hong Qiu, Pai-Chen Lin
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080677
+Paper ID: pmc_PMC5510734
+
+Abstract:
+A simple thermal-mechanical model for friction stir spot welding (FSSW) was developed to obtain similar weld performance for different weld tools. Use of the thermal-mechanical model and a combined approach enabled the design of weld tools for various sizes but similar qualities. Three weld tools for weld radii of 4, 5, and 6 mm were made to join 6061-T6 aluminum sheets. Performance evaluations of the three weld tools compared fracture behavior, microstructure, micro-hardness distribution, and welding temperature of welds in lap-shear specimens. For welds made by the three weld tools under identical processing conditions, failure loads were approximately proportional to tool size. Failure modes, microstructures, and micro-hardness distributions were similar. Welding temperatures correlated with frictional heat generation rate densities. Because the three weld tools sufficiently met all design objectives, the proposed approach is considered a simple and feasible guideline for preliminary tool design.

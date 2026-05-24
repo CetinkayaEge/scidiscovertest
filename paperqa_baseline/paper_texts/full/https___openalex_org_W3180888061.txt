@@ -1,0 +1,9 @@
+Title: A Review on Li+/H+ Exchange in Garnet Solid Electrolytes: From Instability against Humidity to Sustainable Processing in Water
+Authors: Ruijie Ye, Martin Ihrig, Nobuyuki Imanishi, Martin Finsterbusch, Egbert Figgemeier
+Year: 2021
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202101178
+Paper ID: https://openalex.org/W3180888061
+
+Abstract:
+exchange (LHX) reaction with most protic solvents used in component manufacturing routes and even with moisture in ambient air. These protonated garnets show a lower Li-ionic conductivity, and even if only the surface is protonated, this degraded layer hinders the Li-ion exchange with, for example, a metallic Li anode. Furthermore, the resulting unstable surface properties during the processing in air lead to challenges with respect to reproducibility of the final component performance, limiting their commercial applicability. However, in recent years, the knowledge about the underlying chemical mechanisms has led to the development of mitigation strategies and enabled a push of this promising material class towards sustainable and scalable fabrication routes. This Minireview covers the following four aspects, which are relevant for a comprehensive understanding of these developments: (1) reports of LHX phenomenon in garnets exposed to air and solvents; (2) recent understandings of the fundamentals and properties of LHX; (3) strategies to prevent LHX and to recover garnets; and (4) sustainable application of LHX for material processing and energy-related devices.

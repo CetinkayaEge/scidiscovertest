@@ -1,0 +1,9 @@
+Title: AI-driven optimization of agricultural water management for enhanced sustainability
+Authors: Zhigang Ye, Shan Yin, Yiying Cao, Yong Wang
+Year: 2024
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-024-76915-8
+Paper ID: https://openalex.org/W4403843038
+
+Abstract:
+compared to existing methods, reaching 0.927 on the MODIS dataset and 0.935 on the GLDAS dataset. This approach highlights the potential of AI and remote sensing technologies in addressing critical challenges in agricultural water management, contributing to more sustainable and efficient food production systems.

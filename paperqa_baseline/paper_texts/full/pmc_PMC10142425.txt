@@ -1,0 +1,9 @@
+Title: Development and Utility of Practical Indicators of Critical Outcomes in Dengue Patients Presenting to Hospital: A Retrospective Cross-Sectional Study
+Authors: Chia-Yu Chi, Tzu-Ching Sung, Ko Chang, Yu-Wen Chien, Hsiang-Chin Hsu, Yi-Fang Tu, Yi-Ting Huang, Hsin-I Shih
+Year: 2023
+Venue: Tropical Medicine and Infectious Disease
+DOI: 10.3390/tropicalmed8040188
+Paper ID: pmc_PMC10142425
+
+Abstract:
+Global travel and climate change have drastically increased the number of countries with endemic or epidemic dengue. The largest dengue outbreak in Taiwan, with 43,419 cases and 228 deaths, occurred in 2015. Practical and cost-effective tools for early prediction of clinical outcomes in dengue patients, especially the elderly, are limited. This study identified the clinical profile and prognostic indicators of critical outcomes in dengue patients on the basis of clinical parameters and comorbidities. A retrospective cross-sectional study was conducted in a tertiary hospital from 1 July 2015 to 30 November 2015. Patients diagnosed with dengue were enrolled, and the initial clinical presentations, diagnostic laboratory data, details of the underlying comorbidities, and initial management recommendations based on 2009 World Health Organization (WHO) guidelines were used to evaluate prognostic indicators of critical outcomes in dengue patients. Dengue patients from another regional hospital were used to evaluate accuracy. A group B (4 points) classification, temperature < 38.5 °C (1 point), lower diastolic blood pressure (1 point), prolonged activated partial thromboplastin time (aPTT) (2 points), and elevated liver enzymes (1 point) were included in the scoring system. The area under the receiver operating characteristic curve of the clinical model was 0.933 (95% confidence interval [CI]: 0.905–0.960). The tool had good predictive value and clinical applicability for identifying patients with critical outcomes.

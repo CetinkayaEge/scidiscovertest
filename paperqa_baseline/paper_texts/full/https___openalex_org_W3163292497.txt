@@ -1,0 +1,9 @@
+Title: Measuring Sustainability with Unweighted TOPSIS: An Application to Sustainable Tourism in Spain
+Authors: José Vicens-Colom, Joe Holles, Vicente Liern
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13095283
+Paper ID: https://openalex.org/W3163292497
+
+Abstract:
+The measurement of sustainability is complex due to its multiple dimensions of different relative importance and different natures. From the perspective of sustainability, three types of tourism can be established: traditional tourism, sustainable tourism, and sustainable impact tourism. In the context of multiple-criteria decision analysis, this paper presents a flexible method for assess and rank decision alternatives based on their sustainability. The proposal does not require the relative importance of each criterion to be precisely assigned beforehand, which reduces the subjectivity of the decision making and yields results that can be of interest for decision makers. To show the difference between these three sustainability options in tourism and the benefits of the method, the proposal is applied to public and private tourism management in Spain—in particular, to hotel booking and the evaluation and management of sustainability in the autonomous regions.

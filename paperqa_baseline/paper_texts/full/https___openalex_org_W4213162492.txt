@@ -1,0 +1,9 @@
+Title: Designing a sustainable freight transportation network with cross-docks
+Authors: D. G. Mogale, Arijit De, Abhijeet Ghadge, Manoj Kumar Tiwari
+Year: 2022
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2022.2037777
+Paper ID: https://openalex.org/W4213162492
+
+Abstract:
+This study aims to develop a sustainable freight transportation network considering capacitated cross-docks for minimising the overall supply chain costs, including carbon emission cost. The problem is inspired by a major retail company based in India, which would like to expand its product portfolio in the new region. A mathematical model is developed to minimise total costs encompassing transportation cost, pipeline and retailers inventory cost, fixed cost of cross-dock and carbon emission costs. The deterministic time dependant demand, multiple products and multiple sourcing and distribution are some of the challenges faced by the retail industry. A two-level self-adaptive variable neighbourhood search algorithm is applied to solve a computationally complex problem. The results based on a two-level self-adaptive variable neighbourhood search algorithm are compared with the variable neighbourhood search algorithm to test the robustness of the developed model. Results reveal that an increase in retailers over suppliers significantly influences the number of open cross-docks. A multiple-case scenario approach captures the implications of varying capacity on the number of open cross-docks; thus, supporting the freight distribution managers in making sustainability-driven decisions.

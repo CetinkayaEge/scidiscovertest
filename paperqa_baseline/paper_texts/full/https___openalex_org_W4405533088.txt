@@ -1,0 +1,9 @@
+Title: Thin-Film Technologies for Sustainable Building-Integrated Photovoltaics
+Authors: Andrew R. Smith, Mehrdad Ghamari, Sasireka Velusamy, Senthilarasu Sundaram
+Year: 2024
+Venue: Energies
+DOI: https://doi.org/10.3390/en17246363
+Paper ID: https://openalex.org/W4405533088
+
+Abstract:
+This study investigates the incorporation of thin-film photovoltaic (TFPV) technologies in building-integrated photovoltaics (BIPV) and their contribution to sustainable architecture. The research focuses on three key TFPV materials: amorphous silicon (a-Si), cadmium telluride (CdTe), and copper indium gallium selenide (CIGS), examining their composition, efficiency, and BIPV applications. Recent advancements have yielded impressive results, with CdTe and CIGS achieving laboratory efficiencies of 22.10% and 23.35%, respectively. The study also explores the implementation of building energy management systems (BEMS) for optimizing energy use in BIPV-equipped buildings. Financial analysis indicates that despite 10.00–30.00% higher initial costs compared to conventional materials, BIPV systems can generate 50–150 kWh/m2 annually, with simple payback periods of 5–15 years. The research emphasizes the role of government incentives and innovative financing in promoting BIPV adoption. As BIPV technology progresses, it offers a promising solution for transforming buildings from energy consumers to producers, significantly contributing to sustainable urban development and climate change mitigation.

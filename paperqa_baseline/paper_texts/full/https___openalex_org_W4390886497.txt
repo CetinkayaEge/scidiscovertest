@@ -1,0 +1,9 @@
+Title: Systematic assessment of wastewater resource circularity and sustainable value creation
+Authors: D. Renfrew, V. Vasilaki, E. Nika, Georgios Archimidis Tsalidis, Edgar Alonso Salazar Marín, Evina Katsou
+Year: 2024
+Venue: Water Research
+DOI: https://doi.org/10.1016/j.watres.2024.121141
+Paper ID: https://openalex.org/W4390886497
+
+Abstract:
+The circular use of wastewater has attracted significant attention in recent years. However, there is a lack of universal definitions and measurement tools that are required to achieve the circular economy's full potential. Therefore, a methodology was developed using three indicator typologies, namely resource flow, circular action, and sustainability indicators, to facilitate a robust and holistic circularity assessment. The method uses value propositions to integrate the assessment of intrinsic circularity performance with consequential circularity impacts, by quantifying sustainable value creation (using techniques such as life cycle assessment or cost-benefit analysis). Assessment method capabilities were exhibited by applying the defined steps to a wastewater treatment plant, comparing conventional and novel photobioreactor technologies. The resource flow indicator taxonomy results highlight improved outflow circularity, renewable energy usage, and economic efficiency of the novel system. Action indicators revealed that the photobioreactor technology was successful at achieving its defined circular goals. Lastly, sustainability indicators quantified a reduction of carbon footprint by two thirds and eutrophication by 41%, a M€ 0.5 per year increase of economic value, and that disability adjusted life year impacts are 58% lower. This supports that improving wastewater system circularity using photobioreactor technology results in environmental, economic, and social value for stakeholders.

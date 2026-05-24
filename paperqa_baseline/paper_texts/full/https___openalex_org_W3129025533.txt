@@ -1,0 +1,9 @@
+Title: Multi-objective cutting parameter optimization model of multi-pass turning in CNC machines for sustainable manufacturing
+Authors: Phengky Pangestu, Eko Pujiyanto, Cucuk Nur Rosyidi
+Year: 2021
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2021.e06043
+Paper ID: https://openalex.org/W3129025533
+
+Abstract:
+Sustainable manufacturing has grown widely owing to recent environmental issues. This study aims to develop a multi-objective multi-pass turning optimization model to determine the optimal cutting parameters, including spindle rotation speed, feed rate, depth of cut, and number of roughing passes. The optimization model considers several criteria in the key metrics of sustainable manufacturing, i.e., energy consumption, carbon emissions, production time, and production cost. A numerical example is provided to show the application of the model, including sensitivity analysis, to study the effects of several cutting parameters on the objective functions. The model can be used by manufacturing industries to improve their manufacturing process efficiency and simultaneously produce products that support sustainable manufacturing.

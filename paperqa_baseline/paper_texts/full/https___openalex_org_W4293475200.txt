@@ -1,0 +1,9 @@
+Title: Environmental sustainability and biobanking: a pilot study of the field
+Authors: Gabrielle Samuel, Faranak Hardcastle, Anneke Lucassen
+Year: 2022
+Venue: New Genetics and Society
+DOI: https://doi.org/10.1080/14636778.2022.2093707
+Paper ID: https://openalex.org/W4293475200
+
+Abstract:
+Biobanks have expanded dramatically over the past few decades, as have their storage and computational requirements. These requirements have environmental impacts, including mineral extraction and manufacturing processes associated with digital infrastructures, carbon emissions related to sample storage and data storage and analysis, and associated waste. Here we analyse whether biobanks have any specific policies about these environmental impacts. We also explore the ethical assumptions associated with how people with a professional stake in these discussions - those researchers using biobank resources, digital sustainability experts – think about these issues, and the implications embedded within them. Biobanks we spoke to had no specific relevant policies and researchers reported little awareness of issues. When researchers did discuss the issues, they often drew on consequentialist narratives and/or appealing to worse problems. Some researchers and digital sustainability experts suggested approaches to improving existing and future biobanking practices, though not in a standardised way.

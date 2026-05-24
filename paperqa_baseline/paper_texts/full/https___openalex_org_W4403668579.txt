@@ -1,0 +1,9 @@
+Title: Nexus of economic, social, and environmental factors on sustainable development goals: The moderating role of technological advancement and green innovation
+Authors: Hasibul Islam
+Year: 2024
+Venue: Innovation and Green Development
+DOI: https://doi.org/10.1016/j.igd.2024.100183
+Paper ID: https://openalex.org/W4403668579
+
+Abstract:
+Sustainability relies on economic, social, and environmental factors. This study investigates their impact on Sustainable Development Goals (SDGs) in G7 countries from 2002 to 2020, employing the IV-GMM model. The empirical result found that economic, social factors and technological advancements positively affected SDGs. However, this study also identifies a negative correlation between green innovation and SDGs, suggesting potential tradeoffs and unintended consequences. Robustness checks using alternative dependent variables and panel quantile regression confirm the reliability of the findings. Both linear and nonlinear models found a significant relationship. Furthermore, the analysis underscores the moderating role of technological advancement and green innovation, revealing the nuanced effects of the three pillars on SDGs. The analysis reveals that technological advancements positively moderate the relationship between economic and environmental factors with SDGs. At the same time, green innovation's moderation leads to a negative relationship between economic factors and SDGs but a positive association between social factors and SDGs, highlighting the complexities in achieving sustainable development. Overall, this study provides valuable insights into the complex dynamics of sustainable development, emphasizing the need for holistic strategies to tackle global challenges effectively.

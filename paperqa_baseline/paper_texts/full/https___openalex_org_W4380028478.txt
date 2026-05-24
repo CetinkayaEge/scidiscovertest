@@ -1,0 +1,9 @@
+Title: Porous Organic Polymers‐Based Single‐Atom Catalysts for Sustainable Energy‐Related Electrocatalysis
+Authors: Haoyang Li, Fuping Pan, Qin Chen, Ting Wang, Kai‐Jie Chen
+Year: 2023
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202301378
+Paper ID: https://openalex.org/W4380028478
+
+Abstract:
+Abstract Single‐atom catalysts (SACs) have been emerging as attractive catalytic materials in electrocatalysis for sustainable energy storage and conversion. To realize the practical implementation of SACs, reliable support is highly imperative to stabilize atomically dispersed metals with strong metal–support interaction, tunable local electronic environment, and favorable electron/mass transport. Thanks to great designability and tunability of composition, structure, and morphology, porous organic polymers (POPs) have demonstrated grand promise as appropriate support platforms toward the design of SACs at the molecular level and the fabrication of SACs in a controlled manner. Herein, a comprehensive overview of recent advances toward the elucidation of general design principles, effective synthesis approaches, and fundamental catalytic mechanisms for boosting the development of high‐performance POPs‐based SACs in electrocatalytic transformations is provided. The authors first outline rationales for using POPs‐based supports to stabilize SACs and design principles for electrocatalysis, followed by discussing fabrication approaches of utilizing POPs and POPs‐derived nanocarbons to host single‐atom metals. Then, state‐of‐the‐art POPs‐based SACs and their applications in heterogeneous electrocatalysis (ORR, OER, HER, CO 2 RR, and NRR) are discussed, of which the focus is on revealing the structure–performance correlation and catalytic mechanisms. Finally, challenges and strategies associated with the rational design of high‐performance SACs are suggested.

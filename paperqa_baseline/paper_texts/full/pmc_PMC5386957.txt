@@ -1,0 +1,9 @@
+Title: MiR-186 Inhibited Migration of NSCLC via Targeting cdc42 and Effecting EMT Process
+Authors: Ying Dong, Xintian Jin, Zhiqiang Sun, Yueming Zhao, Xianjing Song
+Year: 2017
+Venue: Molecules and Cells
+DOI: 10.14348/molcells.2017.2291
+Paper ID: pmc_PMC5386957
+
+Abstract:
+In this study, qRT-PCR was employed to identify that miR-186 expression level in NSCLC tissues are highly associated with lymph node metastasis. In addition, through the application of western blotting, luciferase assay and qRT-PCR, it was found that miR-186 targeted 3′UTR of cdc42 mRNA and down-regulated cdc42 protein level in a post-transcriptional manner. Transwell assay indicated that cdc42 partially reversed the effect of miR-186 mimics. Besides, miR-186 was proved to regulate EMT by influencing biomarkers of this process and cell adhesion ability. Thus, miR-186 is a potential target for NSCLC therapy. miR-186 is proposed to be one of tumor-suppressors and may serve as a therapeutic target in NSCLC treatment.

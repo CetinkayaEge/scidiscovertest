@@ -1,0 +1,9 @@
+Title: Dynamic root microbiome sustains soybean productivity under unbalanced fertilization
+Authors: Mingxing Wang, An‐Hui Ge, Xingzhu Ma, Xiaolin Wang, Qiujin Xie, Like Wang, Xianwei Song, Mengchen Jiang, Weibing Yang, Jeremy D. Murray, Yayu Wang, Huan Liu, Xiaofeng Cao, Ertao Wang
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-45925-5
+Paper ID: https://openalex.org/W4392124947
+
+Abstract:
+Root-associated microbiomes contribute to plant growth and health, and are dynamically affected by plant development and changes in the soil environment. However, how different fertilizer regimes affect quantitative changes in microbial assembly to effect plant growth remains obscure. Here, we explore the temporal dynamics of the root-associated bacteria of soybean using quantitative microbiome profiling (QMP) to examine its response to unbalanced fertilizer treatments (i.e., lacking either N, P or K) and its role in sustaining plant growth after four decades of unbalanced fertilization. We show that the root-associated bacteria exhibit strong succession during plant development, and bacterial loads largely increase at later stages, particularly for Bacteroidetes. Unbalanced fertilization has a significant effect on the assembly of the soybean rhizosphere bacteria, and in the absence of N fertilizer the bacterial community diverges from that of fertilized plants, while lacking P fertilizer impedes the total load and turnover of rhizosphere bacteria. Importantly, a SynCom derived from the low-nitrogen-enriched cluster is capable of stimulating plant growth, corresponding with the stabilized soybean productivity in the absence of N fertilizer. These findings provide new insights in the quantitative dynamics of the root-associated microbiome and highlight a key ecological cluster with prospects for sustainable agricultural management.

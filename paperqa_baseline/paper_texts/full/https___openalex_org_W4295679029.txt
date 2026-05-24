@@ -1,0 +1,9 @@
+Title: Sustained TNF signaling is required for the synaptic and anxiety-like behavioral response to acute stress
+Authors: Gina M. Kemp, Haider F. Altimimi, Yoonmi Nho, Renu Heir, Adam Klyczek, David Stellwagen
+Year: 2022
+Venue: Molecular Psychiatry
+DOI: https://doi.org/10.1038/s41380-022-01737-x
+Paper ID: https://openalex.org/W4295679029
+
+Abstract:
+Acute stress triggers plasticity of forebrain synapses as well as behavioral changes. Here we reveal that Tumor Necrosis Factor α (TNF) is a required downstream mediator of the stress response in mice, necessary for stress-induced synaptic potentiation in the ventral hippocampus and for an increase in anxiety-like behaviour. Acute stress is sufficient to activate microglia, triggering the long-term release of TNF. Critically, on-going TNF signaling specifically in the ventral hippocampus is necessary to sustain both the stress-induced synaptic and behavioral changes, as these could be reversed hours after induction by antagonizing TNF signaling. This demonstrates that TNF maintains the synaptic and behavioral stress response in vivo, making TNF a potential novel therapeutic target for stress disorders.

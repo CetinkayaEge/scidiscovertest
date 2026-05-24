@@ -1,0 +1,9 @@
+Title: Design and Execution of Sustainable Decentralized Clinical Trials
+Authors: Pritibha Singh, Andrea M. Burden, Fanni Natanegara, Robert A. Beckman
+Year: 2023
+Venue: Clinical Pharmacology & Therapeutics
+DOI: https://doi.org/10.1002/cpt.3009
+Paper ID: https://openalex.org/W4385230989
+
+Abstract:
+The decentralized clinical trial (DCT) approach is increasingly recognized as a means to accelerate the development of potential therapeutic interventions. DCTs have a crucial advantage over traditional clinical trials: patients are monitored in their environment using technology (e.g., wearables), that capture data as they continue in daily life. This narrative review outlines a gap analysis focused on the frameworks and guidance from expert working groups and regulatory agencies for the design and execution of DCTs. Eight DCT elements guided the analysis and summarized the frameworks and guidance: (1) suitability, (2) protocol, (3) investigational medicinal product (IMP) supply, (4) investigators and health care providers, (5) safety, (6) regulatory and ethics, (7) data and technology, and (8) engagement, communication, and advocacy. Based on the gap analysis, two key takeaways were identified: (1) a need for a comprehensive sustainability assessment of each DCT element; and (2) current frameworks and guidance provide recommendations on social sustainability and some on economic sustainability. DCTs are an essential evolution in healthcare research; however, more guidance related to a comprehensive assessment of designing and executing sustainable DCTs is needed. This is especially the case for environmental sustainability, including, for example, carbon footprint and disposal of IMPs and sensors.

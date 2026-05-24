@@ -1,0 +1,9 @@
+Title: Towards sustainable AI: a comprehensive framework for Green AI
+Authors: Abdulaziz Tabbakh, Al Amin, Mahbubul Islam, Golam Mahmud, Imranul Kabir Chowdhury, Md. Saddam Hossain Mukta
+Year: 2024
+Venue: Discover Sustainability
+DOI: https://doi.org/10.1007/s43621-024-00641-4
+Paper ID: https://openalex.org/W4404391248
+
+Abstract:
+The rapid advancement of artificial intelligence (AI) has brought significant benefits across various domains, yet it has also led to increased energy consumption and environmental impact. This paper positions Green AI as a crucial direction for future research and development. It proposes a comprehensive framework for understanding, implementing, and advancing sustainable AI practices. We provide an overview of Green AI, highlighting its significance and current state regarding AI’s energy consumption and environmental impact. The paper explores sustainable AI techniques, such as model optimization methods, and the development of efficient algorithms. Additionally, we review energy-efficient hardware alternatives like tensor processing units (TPUs) and field-programmable gate arrays (FPGAs), and discuss strategies for designing and operating energy-efficient data centers. Case studies in natural language processing (NLP) and Computer Vision illustrate successful implementations of Green AI practices. Through these efforts, we aim to balance the performance and resource efficiency of AI technologies, aligning them with global sustainability goals.

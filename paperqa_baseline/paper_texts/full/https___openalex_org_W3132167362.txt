@@ -1,0 +1,9 @@
+Title: Minicell‐based fungal RNAi delivery for sustainable crop protection
+Authors: Md Tabibul Islam, Zachery Davis, Lisa Chen, Jacob A. Englaender, Sepehr Zomorodi, Joseph A. Frank, Kira Bartlett, Elisabeth Somers, Sergio Madrigal‐Carballo, Mark Kester, Ameer Shakeel, Payam Pourtaheri, Sherif M. Sherif
+Year: 2021
+Venue: Microbial Biotechnology
+DOI: https://doi.org/10.1111/1751-7915.13699
+Paper ID: https://openalex.org/W3132167362
+
+Abstract:
+Spray-induced gene silencing (SIGS) using topical dsRNA applications has risen as a promising, target-specific, and environmentally friendly disease management strategy against phytopathogenic fungi. However, dsRNA stability, efficacy, and scalability are still the main constraints facing SIGS broader application. Here we show that Escherichia coli-derived anucleated minicells can be utilized as a cost-effective, scalable platform for dsRNA production and encapsulation. We demonstrated that minicell-encapsulated dsRNA (ME-dsRNA) was shielded from RNase degradation and stabilized on strawberry surfaces, allowing dsRNA persistence in field-like conditions. ME-dsRNAs targeting chitin synthase class III (Chs3a, Chs3b) and DICER-like proteins (DCL1 and DCL2) genes of Botryotinia fuckeliana selectively knocked-down the target genes and led to significant fungal growth inhibition in vitro. We also observed a compensatory relationship between DCL1 and DCL2 gene transcripts, where the silencing of one gene upregulated the expression of the other. Contrary to naked-dsRNAs, ME-dsRNAs halted disease progression in strawberries for 12 days under greenhouse conditions. These results elucidate the potential of ME-dsRNAs to enable the commercial application of RNAi-based, species-specific biocontrols comparable in efficacy to conventional synthetics. ME-dsRNAs offer a platform that can readily be translated to large-scale production and deployed in open-field applications to control grey mould in strawberries.

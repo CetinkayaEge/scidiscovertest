@@ -1,0 +1,9 @@
+Title: Is achieving environmental sustainability dependent on information communication technology and globalization? Evidence from selected OECD countries
+Authors: Maaz Ahmad, Zebo Kuldasheva, Fazliddin Nasriddinov, Muhammad Eid Balbaa, Mochammad Fahlevi
+Year: 2023
+Venue: Environmental Technology & Innovation
+DOI: https://doi.org/10.1016/j.eti.2023.103178
+Paper ID: https://openalex.org/W4381432453
+
+Abstract:
+Environmental degradation is one of the major global problems. This is because, like many other regions in the world, OECD countries also contribute to global warming by using non-renewable energy sources to speed up economic growth. Although ICT promotes globalization, no prior research has examined how this trend may affect CO2 emissions in OECD countries. Given this scenario, the current study aims to examine the impact of Information communication technology, human capital, and globalization on environmental degradation in OECD economies from 1990 to 2018. The present study employs second-generation panel econometric techniques, i.e., panel unit root tests (CADF and CIPS), Westerlund co-integration technique, cross-sectional ARDL, and AMG. The results confirm that ICT, renewable energy consumption, and human capital help to bring environmental sustainability in OECD countries. However, the variables globalization, economic growth, and non-renewable energy consumption lead to increase environmental degradation. Finally, it is suggested that investments in the ICT sector must be subsidized to promote online businesses and incentivized through heavy tax relief.

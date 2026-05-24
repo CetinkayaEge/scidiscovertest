@@ -1,0 +1,9 @@
+Title: Optimization Approaches for Multiple Conflicting Objectives in Sustainable Green Supply Chain Management
+Authors: Labiba Noshin Asha, Arup Dey, Nita Yodo, Lucy G. Aragon
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su141912790
+Paper ID: https://openalex.org/W4304183034
+
+Abstract:
+Over the years, the global supply chain has evolved into a more extensive interconnected complex network with multiple suppliers, manufacturers, and customers. Since environmental issues have become a burning question in recent years, the focus has shifted to attaining sustainability in supply chain management. The green supply chain or sustainable network is a concept to reduce environmental impacts in the life cycle of a product. However, green supply chain management is often challenged with additional operating costs and difficulty monitoring the implications within the complex network system. Additionally, many stakeholders are unaware of the importance of sustainability analysis, which eventually complicates adopting green cultures in actual applications. Since green supply chain management deals with multiple aspects, such as cost and carbon emission, the multiobjective optimization method is widely used to evaluate supply chain performance. This paper intensively reviews the state-of-the-art literature on applying multiobjective optimization techniques in green supply chain management. The study highlights aspects of green supply chain structures, model formulation techniques considering multiple objectives simultaneously, and solution methods for multiobjective optimization problems. Finally, a conclusion is drawn with the scope of the potential research opportunities for integrating economic and environmental considerations in sustainable supply chain management practice.

@@ -1,0 +1,9 @@
+Title: High-Performance Multiband Ambient RF Energy Harvesting Front-End System for Sustainable IoT Applications—A Review
+Authors: Yi Chen Lee, Harikrishnan Ramiah, Alexander Choo, Kishore Kumar Pakkirisami Churchill, Nai Shyan Lai, Chee Cheow Lim, Yong Chen, Pui‐In Mak, Rui P. Martins
+Year: 2023
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2023.3241458
+Paper ID: https://openalex.org/W4318828854
+
+Abstract:
+The increasing demand for wireless Internet of Things (IoT) calls for power efficient RF energy harvesting approach. The current dominant single-band RF energy harvesting front-end system restricts itself to a single frequency, which is at the risk of ineffective operation when the harvesting frequency is unavailable. This paper reviews and explores the alternative approach of a multiband RF energy-harvesting front-end system. It covers all essential circuitry of a multiband RF energy harvesting front-end system, starting from the recent RF surveys which investigate the typical, usable, and high-strength RF input, to the overview of the state-of-the-art antenna, impedance matching network (IMN), and RF-DC rectifier. The recent advancement of the multiple RF input harvesting abilities, reflection loss minimization, and performance improvement are comprehensively reviewed for different operating conditions, and this review also presents the advantages and disadvantages of the different circuit architecture combinations for multiband RF energy harvesting front-end systems. In summary, this review aims to fill the research gap in the further advancement of multiband RF energy harvesting towards enhancing its performance through optimal circuit integration of the front-end system.

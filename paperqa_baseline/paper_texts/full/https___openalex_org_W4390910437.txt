@@ -1,0 +1,9 @@
+Title: Advances, Synergy, and Perspectives of Machine Learning and Biobased Polymers for Energy, Fuels, and Biochemicals for a Sustainable Future
+Authors: Abu Danish Aiman Bin Abu Sofian, Xun Sun, Vijai Kumar Gupta, Aydin Berenjian, Ao Xia, Zengling Ma, Pau Loke Show
+Year: 2024
+Venue: Energy & Fuels
+DOI: https://doi.org/10.1021/acs.energyfuels.3c03842
+Paper ID: https://openalex.org/W4390910437
+
+Abstract:
+This review illuminates the pivotal synergy between machine learning (ML) and biopolymers, spotlighting their combined potential to reshape sustainable energy, fuels, and biochemicals. Biobased polymers, derived from renewable sources, have garnered attention for their roles in sustainable energy and fuel sectors. These polymers, when integrated with ML techniques, exhibit enhanced functionalities, optimizing renewable energy systems, storage, and conversion. Detailed case studies reveal the potential of biobased polymers in energy applications and the fuel industry, further showcasing how ML bolsters fuel efficiency and innovation. The intersection of biobased polymers and ML also marks advancements in biochemical production, emphasizing innovations in drug delivery and medical device development. This review underscores the imperative of harnessing the convergence of ML and biobased polymers for future global sustainability endeavors in energy, fuels, and biochemicals. The collective evidence presented asserts the immense promise this union holds for steering a sustainable and innovative trajectory.

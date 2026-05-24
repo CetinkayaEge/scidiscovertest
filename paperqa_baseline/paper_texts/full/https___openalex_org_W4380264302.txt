@@ -1,0 +1,9 @@
+Title: Biodegradable, Sustainable Hydrogel Actuators with Shape and Stiffness Morphing Capabilities via Embedded 3D Printing
+Authors: W. Sun, Avery Williamson, Ravesh Sukhnandan, Carmel Majidi, Lining Yao, Adam W. Feinberg, Victoria A. Webster‐Wood
+Year: 2023
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202303659
+Paper ID: https://openalex.org/W4380264302
+
+Abstract:
+Abstract Despite the impressive performance of recent marine robots, many of their components are non‐biodegradable or even toxic and may negatively impact sensitive ecosystems. To overcome these limitations, biologically‐sourced hydrogels are a candidate material for marine robotics. Recent advances in embedded 3D printing have expanded the design freedom of hydrogel additive manufacturing. However, 3D printing small‐scale hydrogel‐based actuators remains challenging. In this study, Free form reversible embedding of suspended hydrogels (FRESH) printing is applied to fabricate small‐scale biologically‐derived, marine‐sourced hydraulic actuators by printing thin‐wall structures that are water‐tight and pressurizable. Calcium‐alginate hydrogels are used, a sustainable biomaterial sourced from brown seaweed. This process allows actuators to have complex shapes and internal cavities that are difficult to achieve with traditional fabrication techniques. Furthermore, it demonstrates that fabricated components are biodegradable, safely edible, and digestible by marine organisms. Finally, a reversible chelation‐crosslinking mechanism is implemented to dynamically modify alginate actuators' structural stiffness and morphology. This study expands the possible design space for biodegradable marine robots by improving the manufacturability of complex soft devices using biologically‐sourced materials.

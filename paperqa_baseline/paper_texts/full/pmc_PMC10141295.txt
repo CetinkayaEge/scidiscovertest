@@ -1,0 +1,9 @@
+Title: A Catalytic Asymmetric Hydrolactonization
+Authors: Rajat Maji, Santanu Ghosh, Oleg Grossmann, Pinglu Zhang, Markus Leutzsch, Nobuya Tsuji, Benjamin List
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c01404
+Paper ID: pmc_PMC10141295
+
+Abstract:
+Despite recent advancements in the development of catalytic asymmetric electrophile induced lactonization reactions of olefinic carboxylic acids, the archetypical hydrolactonization has long remained an unsolved and well-recognized challenge. Here, we report the realization of a catalytic asymmetric hydrolactonization using a confined imidodiphosphorimidate (IDPi) Brønsted acid catalyst. The method is operationally simple, scalable, and compatible with a wide variety of substrates. Its potential is showcased with concise syntheses of the sesquiterpenes (−)-boivinianin A and (+)-gossonorol. Through in-depth physicochemical and DFT analyses, we derive a nuanced picture of the mechanism and enantioselectivity of this reaction.

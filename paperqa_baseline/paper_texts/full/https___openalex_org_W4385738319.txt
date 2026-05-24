@@ -1,0 +1,9 @@
+Title: A Systematic Literature Review of Fashion, Sustainability, and Consumption Using a Mixed Methods Approach
+Authors: Osmud Rahman, Dingtao Hu, Benjamin C. M. Fung
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151612213
+Paper ID: https://openalex.org/W4385738319
+
+Abstract:
+With the growing global awareness of the environmental impact of clothing consumption, there has been a notable surge in the publication of journal articles dedicated to “fashion sustainability” in the past decade, specifically from 2010 to 2020. However, despite this wealth of research, many studies remain disconnected and fragmented due to varying research objectives, focuses, and approaches. Conducting a systematic literature review with a mixed methods research approach can help identify key research themes, trends, and developmental patterns, while also shedding light on the complexity of fashion, sustainability, and consumption. To enhance the literature review and analytical process, the current systematic literature review employed text mining techniques and bibliometric visualization tools, including RAKE, VOSviewer, and CitNetExplorer. The findings revealed an increase in the number of publications focusing on “fashion and sustainability” between 2010 and 2021. Most studies were predominantly conducted in the United States, with a specific focus on female consumers. Moreover, a greater emphasis was placed on non-sustainable cues rather than the sustainable cues. Additionally, a higher number of case studies was undertaken to investigate three fast-fashion companies. To enhance our knowledge and understanding of this subject, this article highlights several valuable contributions and provides recommendations for future research.

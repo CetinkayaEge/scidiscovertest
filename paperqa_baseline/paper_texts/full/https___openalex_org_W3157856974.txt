@@ -1,0 +1,9 @@
+Title: The Role of Time in Risk and Risk Analysis: Implications for Resilience, Sustainability, and Management
+Authors: Tom Logan, Terje Aven, Seth D. Guikema, Roger Flage
+Year: 2021
+Venue: Risk Analysis
+DOI: https://doi.org/10.1111/risa.13733
+Paper ID: https://openalex.org/W3157856974
+
+Abstract:
+There is a persistent misconception that risk analysis is only suited for considering the immediate consequences of an event. Such a limitation would make risk analysis unsuitable for many challenges, including resilience, sustainability, and adaptation. Fortunately, there is no such limitation. However, this notion has stemmed from a lack of clarity regarding how time is considered in risk analysis and risk characterization. In this article, we discuss this issue and show that risk science provides concepts and frameworks that can appropriately address time. Ultimately, we propose an adjusted nomenclature for explicitly reflecting time in risk conceptualization and characterizations.

@@ -1,0 +1,9 @@
+Title: Optimization model for sustainable food supply chains: An application to Norwegian salmon
+Authors: Arijit De, Matthew Gorton, Carmen Hubbard, Paulus Aditjandra
+Year: 2022
+Venue: Transportation Research Part E Logistics and Transportation Review
+DOI: https://doi.org/10.1016/j.tre.2022.102723
+Paper ID: https://openalex.org/W4225139325
+
+Abstract:
+Food supply chains encompass multiple actors and simultaneously produce multiple products that require transportation using various modes or networks before arriving on consumers’ tables. Transportation costs and related carbon emissions along a supply chain, however, can be high, prompting a search for efficient management solutions. This paper proposes a mathematical formulation in the form of a mixed-integer linear programming model, drawing on evidence from a Norwegian salmon supply chain network. The model addresses environmental aspects by aiming to minimize the fuel cost component from various transportation modes and considers carbon emissions related restrictions. Testing using various problem instances highlights the robustness of the proposed mathematical formulation and models. Moreover, a real-world case study of a Norwegian salmon exporter helps understand the applicability of the proposed model. The paper discusses the impact of different supply chain arrangements regarding their overall cost, including fuel cost, and carbon emissions to understand the need for holistic optimization of food supply chains. Sensitivity analysis regarding demand variability allows the proposed mathematical model to restructure the Norwegian salmon supply chain network to meet fluctuating retail demand. Transportation scenario analysis emphasizes the importance of shifting from road to maritime transportation for certain routes to achieve financial and environmental gains.

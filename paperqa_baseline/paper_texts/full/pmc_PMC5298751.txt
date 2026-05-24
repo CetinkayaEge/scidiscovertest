@@ -1,0 +1,9 @@
+Title: A Differential Resonant Accelerometer with Low Cross-Interference and Temperature Drift
+Authors: Bo Li, Yulong Zhao, Cun Li, Rongjun Cheng, Dengqiang Sun, Songli Wang
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010178
+Paper ID: pmc_PMC5298751
+
+Abstract:
+Presented in this paper is a high-performance resonant accelerometer with low cross-interference, low temperature drift and digital output. The sensor consists of two quartz double-ended tuning forks (DETFs) and a silicon substrate. A new differential silicon substrate is proposed to reduce the temperature drift and cross-interference from the undesirable direction significantly. The natural frequency of the quartz DETF is theoretically calculated, and then the axial stress on the vibration beams is verified through finite element method (FEM) under a 100 g acceleration which is loaded on x -axis, y -axis and z -axis, respectively. Moreover, sensor chip is wire-bonded to a printed circuit board (PCB) which contains two identical oscillating circuits. In addition, a steel shell is selected to package the sensor for experiments. Benefiting from the distinctive configuration of the differential structure, the accelerometer characteristics such as temperature drift and cross-interface are improved. The experimental results demonstrate that the cross-interference is lower than 0.03% and the temperature drift is about 18.16 ppm/°C.

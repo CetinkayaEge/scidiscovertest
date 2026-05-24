@@ -1,0 +1,9 @@
+Title: Seasonal Oscillation of Human Infection with Influenza A/H5N1 in Egypt and Indonesia
+Authors: Eleanor J. Murray, Stephen S. Morse
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024042
+Paper ID: pmc_PMC3164700
+
+Abstract:
+As of June 22, 2011, influenza A/H5N1 has caused a reported 329 deaths and 562 cases in humans, typically attributed to contact with infected poultry. Influenza H5N1 has been described as seasonal. Although several studies have evaluated environmental risk factors for H5N1 in poultry, none have considered seasonality of H5N1 in humans. In addition, temperature and humidity are suspected to drive influenza in temperate regions, but drivers in the tropics are unknown, for H5N1 as well as other influenza viruses. An analysis was conducted to determine whether human H5N1 cases occur seasonally in association with changes in temperature, precipitation and humidity. Data analyzed were H5N1 human cases in Indonesia (n = 135) and Egypt (n = 50), from January 1, 2005 (Indonesia) or 2006 (Egypt) through May 1, 2008 obtained from WHO case reports, and average daily weather conditions obtained from NOAA's National Climatic Data Center. Fourier time series analysis was used to determine seasonality of cases and associations between weather conditions and human H5N1 incidence. Human H5N1 cases in Indonesia occurred with a period of 1.67 years/cycle (p<0.05) and in Egypt, a period of 1.18 years/cycle (p≅0.10). Human H5N1 incidence in Egypt, but not Indonesia, was strongly associated with meteorological variables (κ 2 ≥0.94) and peaked in Egypt when precipitation was low, and temperature, absolute humidity and relative humidity were moderate compared to the average daily conditions in Egypt. Weather conditions coinciding with peak human H5N1 incidence in Egypt suggest that human infection may be occurring primarily via droplet transmission from close contact with infected poultry.

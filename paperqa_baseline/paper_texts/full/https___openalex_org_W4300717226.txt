@@ -1,0 +1,9 @@
+Title: Sustainable Thermoelectric Materials Predicted by Machine Learning
+Authors: Dmitry Chernyavsky, Jeroen van den Brink, Gyu Hyeon Park, Kornelius Nielsch, Andy Thomas
+Year: 2022
+Venue: Advanced Theory and Simulations
+DOI: https://doi.org/10.1002/adts.202200351
+Paper ID: https://openalex.org/W4300717226
+
+Abstract:
+Abstract Using datasets from several sources, a list of more than 450 materials is generated and related them with their thermoelectric properties. This is obtained by generating a set of features using only the molecular formula. Subsequently, a machine learning algorithm classifies the materials in specific, binary classes, for example, possessing high or low Seebeck coefficients or electrical conductivity. After adjusting the threshold values and grouping the materials into clusters, the thermoelectric performance of more than 25k materials is predicted. Finally, the results are filtered to obtain only the sustainable materials, that is, neither toxic nor critical, (ideally) inexpensive, and isotropic with regard to their transport properties to simplify the preparation procedure.

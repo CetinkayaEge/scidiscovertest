@@ -1,0 +1,9 @@
+Title: Global Agricultural Land Resources – A High Resolution Suitability Evaluation and Its Perspectives until 2100 under Climate Change Conditions
+Authors: Florian Zabel, Birgitta Putzenlechner, Wolfram Mauser
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107522
+Paper ID: pmc_PMC4167994
+
+Abstract:
+Changing natural conditions determine the land's suitability for agriculture. The growing demand for food, feed, fiber and bioenergy increases pressure on land and causes trade-offs between different uses of land and ecosystem services. Accordingly, an inventory is required on the changing potentially suitable areas for agriculture under changing climate conditions. We applied a fuzzy logic approach to compute global agricultural suitability to grow the 16 most important food and energy crops according to the climatic, soil and topographic conditions at a spatial resolution of 30 arc seconds. We present our results for current climate conditions (1981–2010), considering today's irrigated areas and separately investigate the suitability of densely forested as well as protected areas, in order to investigate their potentials for agriculture. The impact of climate change under SRES A1B conditions, as simulated by the global climate model ECHAM5, on agricultural suitability is shown by comparing the time-period 2071–2100 with 1981–2010. Our results show that climate change will expand suitable cropland by additionally 5.6 million km 2 , particularly in the Northern high latitudes (mainly in Canada, China and Russia). Most sensitive regions with decreasing suitability are found in the Global South, mainly in tropical regions, where also the suitability for multiple cropping decreases.

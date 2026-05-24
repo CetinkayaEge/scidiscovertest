@@ -1,0 +1,9 @@
+Title: Seasonal Methods of Demand Forecasting in the Supply Chain as Support for the Company’s Sustainable Growth
+Authors: Anna Borucka
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097399
+Paper ID: https://openalex.org/W4367598870
+
+Abstract:
+Demand forecasting plays a key role in supply chain planning, management and its sustainable development, but it is a challenging process as demand depends on numerous, often unidentified or unknown factors that are seasonal in nature. Another problem is limited availability of information. Specifically, companies lacking modern IT systems are constrained to rely on historical sales observation as their sole source of information. This paper employs and contrasts a selection of mathematical models for short-term demand forecasting for products whose sales are characterized by high seasonal variations and a development trend. The aim of this publication is to demonstrate that even when only limited empirical data is available, while other factors influencing demand are unknown, it is possible to identify a time series that describes the sales of a product characterized by strong seasonal fluctuations and a trend, using selected mathematical methods. This study uses the seasonal ARIMA (autoregressive integrated moving average) model, ARIMA with Fourier terms model, ETS (exponential smoothing) model, and TBATS (Trigonometric Exponential Smoothing State Space Model with Box–Cox transformation, ARMA errors, Trend and Seasonal component). The models are presented as an alternative to popular machine learning models, which are more complicated to interpret, while their effectiveness is often similar. The selected methods were presented using a case study. The results obtained were compared and the best solution was identified, while emphasizing that each of the methods used could improve demand forecasting in the supply chain.

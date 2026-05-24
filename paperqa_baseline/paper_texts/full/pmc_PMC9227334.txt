@@ -1,0 +1,9 @@
+Title: BNT162b2 Booster Vaccination Induced Immunity against SARS-CoV-2 Variants among Hemodialysis Patients
+Authors: Michal Herman-Edelstein, Naomi Ben-Dor, Timna Agur, Tali Guetta, Annat Raiter, Eshcar Meisel, Weaam Alkeesh, Yaacov Ori, Benaya Rozen-Zvi, Boris Zingerman
+Year: 2022
+Venue: Vaccines
+DOI: 10.3390/vaccines10060967
+Paper ID: pmc_PMC9227334
+
+Abstract:
+Abstract Background: The emergence of new SARS-CoV-2 variants, which evade immunity, has raised the urgent need for multiple vaccine booster doses for vulnerable populations. In this study, we aimed to estimate the BNT162b2 booster effectiveness against the spread of coronavirus variants in a hemodialysis population. Methods: We compared humoral and cell-mediated immunity in 100 dialysis patients and 66 age-matched volunteers, before and 2–3 weeks following the first booster vaccine dose. Participants were assessed for anti-spike (RBD) antibody titer, neutralizing antibodies against B.1.617.2 (Delta) and B.1.1.529 (Omicron) variants, spike-specific T-cell responses by FACS and infection outbreak after the first and second booster. Results: Anti-spike antibody titer was significantly increased following the booster, with reduced humoral and cellular response in the dialysis patients. Neutralizing antibody levels increased significantly after the booster dose, with an inferior effect (≤2 fold) against Omicron compared with the Delta variant. Furthermore, CD4+ and CD8+ T-cell activation by Delta spike protein was preserved in 70% of PBMCs from the dialysis patients. A second booster dose tended to reduce breakthrough infections in the dialysis patients. Conclusions: Until the release of an updated vaccine, BNT162b2 booster doses will improve the humoral and cell-mediated immunity against variants. These findings support the importance of repetitive booster doses for hemodialysis patients.

@@ -1,0 +1,9 @@
+Title: Exploring the Sustainability of the Intermediary Role in Blockchain
+Authors: Cheng-Te Tseng, Shari S. C. Shang
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041936
+Paper ID: https://openalex.org/W3128321370
+
+Abstract:
+Traditional business models involve cost, market development, distribution channels, business partnerships, and supply chain management. The development of the digital economy and digital network technology has engendered a shift away from the traditional model of operation. Intermediaries have long played an essential role in promoting the benefits of economic activities, but new technology is increasingly replacing intermediaries in their roles of connecting players, such as, involving, committing, and mobilizing players. Potential conflicts of interest must therefore be further resolved, avoided, or mitigated. Blockchain technology, as a tool for keeping immutable and digital records, can address increasingly complex issues in global value chains to pursue sustainable development. It attempts to realize the trust mechanism and has been redefining the function of intermediaries. This study used a multiple-case study approach to examine how blockchain technology affects intermediate functionality. We evaluated the industry’s use of blockchains to assess how the processes were reshaped and how the intermediary roles were refined. On the basis of the findings, we propose three potential changes for the roles of intermediaries to improve operational efficiency.

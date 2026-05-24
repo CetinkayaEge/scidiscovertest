@@ -1,0 +1,9 @@
+Title: Understanding the impact of knowledge management factors on the sustainable use of AI-based chatbots for educational purposes using a hybrid SEM-ANN approach
+Authors: Mohammed A. Al‐Sharafi, Mostafa Al‐Emran, Mohammad Iranmanesh, Noor Al-Qaysi, Noorminshah A. Iahad, İbrahim Arpacı
+Year: 2022
+Venue: Interactive Learning Environments
+DOI: https://doi.org/10.1080/10494820.2022.2075014
+Paper ID: https://openalex.org/W4280572555
+
+Abstract:
+Artificial intelligence (AI)-based chatbots have received considerable attention during the last few years. However, little is known concerning what affects their use for educational purposes. This research, therefore, develops a theoretical model based on extracting constructs from the expectation confirmation model (ECM) (expectation confirmation, perceived usefulness, and satisfaction), combined with the knowledge management (KM) factors (knowledge sharing, knowledge acquisition, and knowledge application) to understand the sustainable use of chatbots. The developed model was then tested based on data collected through an online survey from 448 university students who used chatbots for learning purposes. Contrary to the prior literature that mainly relied on structural equation modeling (SEM) techniques, the empirical data were analyzed using a hybrid SEM-artificial neural network (SEM-ANN) approach. The hypotheses testing results reinforced all the suggested hypotheses in the developed model. The sensitivity analysis results revealed that knowledge application has the most considerable effect on the sustainable use of chatbots with 96.9% normalized importance, followed by perceived usefulness (70.7%), knowledge acquisition (69.3%), satisfaction (61%), and knowledge sharing (19.6%). Deriving from these results, the study highlighted a number of practical implications that benefit developers, designers, service providers, and instructors.

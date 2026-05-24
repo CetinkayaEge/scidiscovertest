@@ -1,0 +1,9 @@
+Title: A vision of precision agriculture: Balance between agricultural sustainability and environmental stewardship
+Authors: Soumitra Nath
+Year: 2023
+Venue: Agronomy Journal
+DOI: https://doi.org/10.1002/agj2.21405
+Paper ID: https://openalex.org/W4379645913
+
+Abstract:
+Abstract Precision agriculture (PA) has become an increasingly popular approach to sustainable intensification in agriculture, with the intent of a balance between agricultural productivity and environmental stewardship. Sustainable intensification aims to increase agricultural productivity while minimizing negative environmental impacts. To assist this, PA has been enabled through the use of advanced technologies such as the Internet of Things, global positioning system, geographic information systems, sensors, drones, and machine learning. These technologies have enabled farmers to practice more efficient and precise farming techniques. This review provides a vision of sustainable intensification and explores the potential of PA to contribute to this goal. This review emphasizes various PA practices, such as precise irrigation and fertilizer management, accurate pest and disease management, and precise livestock farming. PA is also explored for its role in addressing climate change through mitigation and adaptation, while proactively addressing the barriers and challenges that may arise in implementing sustainable PA. Therefore, the future of sustainable precision agriculture lies in technological innovation, sustainable farming practices, data analytics, and policy interventions.

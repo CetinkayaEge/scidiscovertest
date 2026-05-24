@@ -1,0 +1,9 @@
+Title: A Hyperspectral Image Classification Method Based on the Nonlocal Attention Mechanism of a Multiscale Convolutional Neural Network
+Authors: Mingtian Li, Yu Lu, Shixian Cao, Xinyu Wang, Shanjuan Xie
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063190
+Paper ID: pmc_PMC10052326
+
+Abstract:
+Recently, convolution neural networks have been widely used in hyperspectral image classification and have achieved excellent performance. However, the fixed convolution kernel receptive field often leads to incomplete feature extraction, and the high redundancy of spectral information leads to difficulties in spectral feature extraction. To solve these problems, we propose a nonlocal attention mechanism of a 2D–3D hybrid CNN (2-3D-NL CNN), which includes an inception block and a nonlocal attention module. The inception block uses convolution kernels of different sizes to equip the network with multiscale receptive fields to extract the multiscale spatial features of ground objects. The nonlocal attention module enables the network to obtain a more comprehensive receptive field in the spatial and spectral dimensions while suppressing the information redundancy of the spectral dimension, making the extraction of spectral features easier. Experiments on two hyperspectral datasets, Pavia University and Salians, validate the effectiveness of the inception block and the nonlocal attention module. The results show that our model achieves an overall classification accuracy of 99.81% and 99.42% on the two datasets, respectively, which is higher than the accuracy of the existing model.

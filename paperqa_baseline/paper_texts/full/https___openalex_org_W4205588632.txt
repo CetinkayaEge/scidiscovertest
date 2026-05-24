@@ -1,0 +1,9 @@
+Title: Sustainable Project Management: Reducing the Risk of Cost Inaccuracy Using a PLS-SEM Approach
+Authors: Ali Foroutan Mirhosseini, Kelly Pitera, James Odeck, Morten Welde
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14020960
+Paper ID: https://openalex.org/W4205588632
+
+Abstract:
+Determining the factors leading to cost inaccuracy in infrastructure projects relates to sustainability by improving the cost performance of the projects (economic sustainability) and reducing the waste of available resources (environmental sustainability). This study investigates the effects of various factors affecting the cost performance of large-scale road projects in Norway in both the planning and construction phases. To this aim, a quantitative approach using a questionnaire survey was employed to understand the attitude of practitioners towards various factors causing cost increases. An advanced multivariate statistical approach of Partial Least Square Structural Equation Modeling (PLS-SEM) and Relative Importance Index (RII) was utilized to analyze the questionnaire responses. The results of the RII analysis show that local wishes, defective estimations, and long processing times had the most impact on the cost increase during the planning phase. At the same time, scope changes, market conditions, and unforeseen ground conditions were the most influential parameters in the construction phase. Moreover, the results obtained from PLS-SEM reveal that external related factors had the most influence among the other grouped factors (i.e., pre-construction, project management and contractual relationship, contractor’s site management, and external) on cost overrun during the construction phase. Increasing the knowledge of these factors will allow for developing relevant project management approaches targeted at improving economic and environmental sustainability within both the planning and construction phases.

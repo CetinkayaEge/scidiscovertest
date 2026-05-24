@@ -1,0 +1,9 @@
+Title: Magic Leap 1 versus Microsoft HoloLens 2 for the Visualization of 3D Content Obtained from Radiological Images
+Authors: Giulia Zari, Sara Condino, Fabrizio Cutolo, Vincenzo Ferrari
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063040
+Paper ID: pmc_PMC10054537
+
+Abstract:
+The adoption of extended reality solutions is growing rapidly in the healthcare world. Augmented reality (AR) and virtual reality (VR) interfaces can bring advantages in various medical-health sectors; it is thus not surprising that the medical MR market is among the fastest-growing ones. The present study reports on a comparison between two of the most popular MR head-mounted displays, Magic Leap 1 and Microsoft HoloLens 2, for the visualization of 3D medical imaging data. We evaluate the functionalities and performance of both devices through a user-study in which surgeons and residents assessed the visualization of 3D computer-generated anatomical models. The digital content is obtained through a dedicated medical imaging suite (Verima imaging suite) developed by the Italian start-up company (Witapp s.r.l.). According to our performance analysis in terms of frame rate, there are no significant differences between the two devices. The surgical staff expressed a clear preference for Magic Leap 1, particularly for the better visualization quality and the ease of interaction with the 3D virtual content. Nonetheless, even though the results of the questionnaire were slightly more positive for Magic Leap 1, the spatial understanding of the 3D anatomical model in terms of depth relations and spatial arrangement was positively evaluated for both devices.

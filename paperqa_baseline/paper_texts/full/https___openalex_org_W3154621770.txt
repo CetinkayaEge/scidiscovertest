@@ -1,0 +1,9 @@
+Title: Enhancing Coffee Supply Chain towards Sustainable Growth with Big Data and Modern Agricultural Technologies
+Authors: Yotsaphat Kittichotsatsawat, Varattaya Jangkrajarng, Korrakot Yaibuathet Tippayawong
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13084593
+Paper ID: https://openalex.org/W3154621770
+
+Abstract:
+Modern agricultural technology management is nowadays crucial in terms of the economy and the global market, while food safety, quality control, and environmentally friendly practices should not be neglected. This review aims to give perspectives on applying big data analytic and modern technologies to increase the efficacy and effectiveness of the coffee supply chain throughout the process. It was revealed that several tools such as wireless sensor networks, cloud computing, Internet of Things (IoT), image processing, convolutional neural networks (CNN), and remote sensing could be implemented in and used to improve the coffee supply chain. Those tools could help in reducing cost as well as time for entrepreneurs and create a reliable service for the customer. It can be summarized that in the long term, these modern technologies will be able to assist coffee business management and ensure the sustainable growth for the coffee industry.

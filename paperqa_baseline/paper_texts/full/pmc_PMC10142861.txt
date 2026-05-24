@@ -1,0 +1,9 @@
+Title: Synthesis, Antiproliferative Effect and In Silico LogP Prediction of BIM-23052 Analogs Containing Tyr Instead of Phe
+Authors: Dancho Danalev, Ivan Iliev, Stefan Dobrev, Silvia Angelova, Stoiko Petrin, Tatyana Dzimbova, Elena Ivanova, Dessislava Borisova, Emilia Naydenova
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041123
+Paper ID: pmc_PMC10142861
+
+Abstract:
+(1) Background: Hydrophobicity (or lipophilicity) is a limiting factor in the ability of molecules to pass through cell membranes and to perform their function. The ability to efficiently access cytosol is especially important when a synthetic compound has the potential to become a drug substance. D-Phe-Phe-Phe-D-Trp-Lys-Thr-Phe-Thr-NH 2 (BIM-23052) is a linear analog of somatostatin with established in vitro GH-inhibitory activity in nanomolar (nm) concentrations and high affinity to different somatostatin receptors. (2) Methods: Series of analogs of BIM-23052 were synthesized where Phe residue(s) in the BIM-23052 molecule were replaced with Tyr using standard SPPS, Fmoc/t-Bu strategy. Analyses of target compounds were performed using HPLC/MS technique. Toxicity and antiproliferative activity were studied using in vitro NRU and MTT assays. The values of logP (partition coefficient in octanol/water) for BIM-23052 and its analogs were calculated. (3) Results: The obtained data show the best antiproliferative effect against studied cancer cells for compound D-Phe-Phe-Phe-D-Trp-Lys-Thr-Tyr 7 -Thr-NH 2 (DD8), the most lipophilic compound according to the predicted logP values. (4) Conclusions: Multiple analyses of the obtained data reveal that compound D-Phe-Phe-Phe-D-Trp-Lys-Thr-Tyr 7 -Thr-NH 2 (DD8) where one Phe is replaced by Tyr has the best combination of cytotoxicity, antiproliferative effect and hydrolytic stability.

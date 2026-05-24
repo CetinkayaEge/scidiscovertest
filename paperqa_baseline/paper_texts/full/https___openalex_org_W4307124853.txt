@@ -1,0 +1,9 @@
+Title: Machine learning in sustainable ship design and operation: A review
+Authors: Luofeng Huang, Blanca Peña, Yuanchang Liu, Enrico Anderlini
+Year: 2022
+Venue: Ocean Engineering
+DOI: https://doi.org/10.1016/j.oceaneng.2022.112907
+Paper ID: https://openalex.org/W4307124853
+
+Abstract:
+The shipping industry faces a large challenge as it needs to significantly lower the amounts of Green House Gas emissions. Traditionally, reducing the fuel consumption for ships has been achieved during the design stage and, after building a ship, through optimisation of ship operations. In recent years, ship efficiency improvements using Machine Learning (ML) methods are quickly progressing, facilitated by available data from remote sensing, experiments and high-fidelity simulations. The data have been successfully applied to extract intricate empirical rules that can reduce emissions thereby helping achieve green shipping. This article presents an overview of applying ML techniques to enhance ships’ sustainability. The work covers the ML fundamentals and applications in relevant areas: ship design, operational performance, and voyage planning. Suitable ML approaches are analysed and compared on a scenario basis, with their space for improvements also discussed. Meanwhile, a reminder is given that ML has many inherent uncertainties and hence should be used with caution.

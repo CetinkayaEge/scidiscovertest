@@ -1,0 +1,9 @@
+Title: Mapping the functional interactions at the tumor-immune checkpoint interface
+Authors: Behnaz Bozorgui, Elisabeth K. Kong, Augustin Luna, Anil Korkut
+Year: 2023
+Venue: Communications Biology
+DOI: 10.1038/s42003-023-04777-3
+Paper ID: pmc_PMC10140040
+
+Abstract:
+The interactions between tumor intrinsic processes and immune checkpoints can mediate immune evasion by cancer cells and responses to immunotherapy. It is, however, challenging to identify functional interactions due to the prohibitively complex molecular landscape of the tumor-immune interfaces. We address this challenge with a statistical analysis framework, immuno-oncology gene interaction maps (ImogiMap). ImogiMap quantifies and statistically validates tumor-immune checkpoint interactions based on their co-associations with immune-associated phenotypes. The outcome is a catalog of tumor-immune checkpoint interaction maps for diverse immune-associated phenotypes. Applications of ImogiMap recapitulate the interaction of SERPINB9 and immune checkpoints with interferon gamma (IFNγ) expression. Our analyses suggest that CD86-CD70 and CD274-CD70 immunoregulatory interactions are significantly associated with IFNγ expression in uterine corpus endometrial carcinoma and basal-like breast cancer, respectively. The open-source ImogiMap software and user-friendly web application will enable future applications of ImogiMap. Such applications may guide the discovery of previously unknown tumor-immune interactions and immunotherapy targets. A statistical analysis framework, termed immuno-oncology gene interaction maps (ImogiMap) provides insights into the tumor immune environment.

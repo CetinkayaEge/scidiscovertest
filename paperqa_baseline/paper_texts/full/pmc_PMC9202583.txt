@@ -1,0 +1,9 @@
+Title: Metal content and kinetic properties of yeast RNA lariat debranching enzyme Dbr1
+Authors: Nathaniel E. Clark, Adam Katolik, Allison J. Taggart, Luke Buerer, Stephen P. Holloway, Nathaniel Miller, John D. Phillips, Colin P. Farrell, Masad J. Damha, William G. Fairbrother
+Year: 2022
+Venue: RNA
+DOI: 10.1261/rna.079159.122
+Paper ID: pmc_PMC9202583
+
+Abstract:
+In eukaryotic cells, intron lariats produced by the spliceosome contain a 2′5′ phosphodiester linkage. The RNA lariat debranching enzyme, Dbr1, is the only enzyme known to hydrolyze this bond. Dbr1 is a member of the metallophosphoesterase (MPE) family of enzymes, and recent X-ray crystal structures and biochemistry data demonstrate that Dbr1 from Entamoeba histolytica uses combinations of Mn 2+ , Zn 2+ , and Fe 2+ as enzymatic cofactors. Here, we examine the kinetic properties and metal dependence of the Dbr1 homolog from Saccharomyces cerevisiae (yDbr1). Elemental analysis measured stoichiometric quantities of Fe and Zn in yDbr1 purified following heterologous expression E. coli . We analyzed the ability of Fe 2+ , Zn 2+ , and Mn 2+ to reconstitute activity in metal-free apoenzyme. Purified yDbr1 was highly active, turning over substrate at 5.6 sec −1 , and apo-yDbr1 reconstituted with Fe 2+ was the most active species, turning over at 9.2 sec −1 . We treated human lymphoblastoid cells with the iron-chelator deferoxamine and measured a twofold increase in cellular lariats. These data suggest that Fe is an important biological cofactor for Dbr1 enzymes.

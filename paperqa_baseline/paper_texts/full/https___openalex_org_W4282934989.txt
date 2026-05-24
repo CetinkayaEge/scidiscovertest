@@ -1,0 +1,9 @@
+Title: Linking institutional quality to environmental sustainability
+Authors: Atif Jahanger, Muhammad Usman, Daniel Balsalobre‐Lorente
+Year: 2022
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2345
+Paper ID: https://openalex.org/W4282934989
+
+Abstract:
+Abstract This study investigates the influence of democracy, autocracy, and globalization on carbon dioxide (CO 2 ) emissions in 69 developing countries from 1990 to 2018. We used the unit root approaches to scrutinize the level of stationarity and recognize that all concern variables were unified at first difference. Pedroni and the Kao cointegration methodologies were employed for the detection of long‐run cointegration, and the conclusions discovered the presence of long‐run relationships among variables. Furthermore, this study applied a fully modified ordinary least square (FMOLS) approach to estimate the long‐run elasticity/coefficients. The outcomes showed that democracy and renewable energy significantly overcome the pressure on the environment. However, financial development and globalization significantly increase environmental damage. Besides, the findings of an interaction term between democracy and globalization significantly reduce the pollution level, and the dampening effect of autocracy and globalization does a similar effect on environmental damage. Besides, an Inverted U‐shaped environmental Kuznets curve (EKC) hypothesis was verified across the developing world. Additionally, the Feedback hypothesis is discovered between autocracy, democracy, and CO 2 emissions. However, the growth hypothesis is revealed from CO 2 emissions and globalization to democracy. Finally, this study also suggests some valuable policy suggestions to the governments/policymakers in general/specific regarding the developing world for endorsing their environmental sustainability.

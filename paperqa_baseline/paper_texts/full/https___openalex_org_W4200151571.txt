@@ -1,0 +1,9 @@
+Title: Identifying spatial similarities and mismatches between supply and demand of ecosystem services for sustainable Northeast China
+Authors: Hengxing Xiang, Jian Zhang, Dehua Mao, Zongming Wang, Zhiqiang Qiu, Hengqi Yan
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.108501
+Paper ID: https://openalex.org/W4200151571
+
+Abstract:
+Ecosystem service (ES) supply and demand, as well as their interactions, are vital aspects of ES research in the context of sustainable ecosystem management. In this study, we assessed the supply-demand relationships of four provisioning and regulating services in Northeast China based on the InVEST model and multi-resource data. Then, we examined the spatial similarities and mismatches of selected ESs via correlation analyses and local indicators of spatial association. The results reveal that Northeast China is, in general, self-sufficient in terms of supply and demand for the estimated four ESs. Interactions among ES supplies were similar, whereas those among ES demands and ecological supply-demand ratio varied from case to case. Spatially-aligned supply and demand of water yield, soil conservation, and food provision were evident, whereas spatially-mismatched carbon sequestration supply and demand were dominant in Northeast China. Our study identifies significant high-low or low-high spatial mismatches for four ESs. Locations for these mismatches suggested that these areas should be prioritized for socio-ecological management. Balance between ES supply and demand recognized in this study could support comprehensive decision-making for sustainable spatial management of ecosystems in Northeast China.

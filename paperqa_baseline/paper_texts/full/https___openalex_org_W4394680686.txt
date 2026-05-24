@@ -1,0 +1,9 @@
+Title: Zn-based batteries for sustainable energy storage: strategies and mechanisms
+Authors: Lei Tang, Haojia Peng, Jiarui Kang, Han Chen, Mingyue Zhang, Yan Liu, Yan Liu, Dong Ha Kim, Yijiang Liu, Yijiang Liu, Zhiqun Lin
+Year: 2024
+Venue: Chemical Society Reviews
+DOI: https://doi.org/10.1039/d3cs00295k
+Paper ID: https://openalex.org/W4394680686
+
+Abstract:
+Batteries play a pivotal role in various electrochemical energy storage systems, functioning as essential components to enhance energy utilization efficiency and expedite the realization of energy and environmental sustainability. Zn-based batteries have attracted increasing attention as a promising alternative to lithium-ion batteries owing to their cost effectiveness, enhanced intrinsic safety, and favorable electrochemical performance. In this context, substantial endeavors have been dedicated to crafting and advancing high-performance Zn-based batteries. However, some challenges, including limited discharging capacity, low operating voltage, low energy density, short cycle life, and complicated energy storage mechanism, need to be addressed in order to render large-scale practical applications. In this review, we comprehensively present recent advances in designing high-performance Zn-based batteries and in elucidating energy storage mechanisms. First, various redox mechanisms in Zn-based batteries are systematically summarized, including insertion-type, conversion-type, coordination-type, and catalysis-type mechanisms. Subsequently, the design strategies aiming at enhancing the electrochemical performance of Zn-based batteries are underscored, focusing on several aspects, including output voltage, capacity, energy density, and cycle life. Finally, challenges and future prospects of Zn-based batteries are discussed.

@@ -1,0 +1,9 @@
+Title: Sustainability implications of artificial intelligence in the chemical industry: A conceptual framework
+Authors: Mochen Liao, Kai Lan, Yuan Yao
+Year: 2021
+Venue: Journal of Industrial Ecology
+DOI: https://doi.org/10.1111/jiec.13214
+Paper ID: https://openalex.org/W3214529957
+
+Abstract:
+Abstract Artificial intelligence (AI) is an emerging technology that has great potential in reducing energy consumption, environmental burdens, and operational risks of chemical production. However, large‐scale applications of AI are still limited. One barrier is the lack of quantitative understandings of the potential benefits and risks of different AI applications. This study reviewed relevant AI literature and categorized those case studies by application types, impact categories, and application modes. Most studies assessed the energy, economic, and safety implications of AI applications, while few of them have evaluated the environmental impacts of AI, given the large data gaps and difficulties in choosing appropriate assessment methods. Based on the reviewed case studies in the chemical industry, we proposed a conceptual framework that encompasses approaches from industrial ecology, economics, and engineering to guide the selection of performance indicators and evaluation methods for a holistic assessment of AI's impacts. This framework could be a valuable tool to support the decision‐making related to AI in the fundamental research and practical production of chemicals. Although this study focuses on the chemical industry, the insights of the literature review and the proposed framework could be applied to AI applications in other industries and broad industrial ecology fields. In the end, this study highlights future research directions for addressing the data challenges in assessing AI's impacts and developing AI‐enhanced tools to support the sustainable development of the chemical industry.

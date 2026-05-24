@@ -1,0 +1,9 @@
+Title: Synthesis of hierarchically structured Fe 3 C/CNTs composites in a FeNC matrix for use as efficient ORR electrocatalysts †
+Authors: Tanlun Wang, Lincheng Xu, Chenxiang Sun, Xiyuan Li, Yong Yan, Fan Li
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra07848a
+Paper ID: pmc_PMC9890648
+
+Abstract:
+Fe–N–C has a high number of FeN x active sites and has thus been regarded as a high-performance oxygen reduction reaction (ORR) catalyst, and combining Fe 3 C with Fe–N–C typically boosts ORR activity. However, the catalytic mechanism remains unknown, limiting further research and development. In this study, a precipitation-solvothermal process was used in conjunction with pyrolysis to produce a series of Fe–N–C catalysts derived from a zeolitic imidazolate framework (ZIF) that was composited with Fe 3 C. The prepared catalysts had a multiscale structure of ZIF-like carbon particles and rod-like structures, as well as bamboo-like carbon nanotubes (CNTs) and carbon layers wrapped with Fe 3 C particles while a series of studies revealed the origin of the rod-like structures and Fe 3 C phase. The hierarchical structure was beneficial to the enhanced electrocatalytic performance of catalysts for ORR. The optimal sample had the highest half-wave potential of 0.878 V vs. RHE, which was higher than that of commercial Pt/C (0.861 V vs. RHE). The ECSA of the optimal sample was 1.08 cm 2 μg −1 , with an electron transfer number close to 4, and functioning kinetics. The optimal sample exhibited high durability and methanol tolerance for the ORR. Finally, blocking different Fe active sites with coordination ions demonstrated that Fe( ii ) was the main active site, indicating that Fe 3 C primarily served as a cocatalyst to optimize the electron structure of Fe–N–C, thereby synergistically improving the ORR activity. The synthesis of an FeNC catalyst with an Fe 3 C phase and the important active site was Fe( ii).

@@ -1,0 +1,9 @@
+Title: State of the Art of Research towards Sustainable Power Electronics
+Authors: Florentin Salomez, Hugo Helbling, Morgan Almanza, Ulrich Soupremanien, Guillaume Viné, Adrien Voldoire, Bruno Allard, Hamid Ben Ahmed, Daniel Chatroux, Antoine Cizeron, Mylène Delhommais, Murielle Fayolle-Lecocq, Vincent Grennerat, Pierre‐Olivier Jeannin, Lionel Laudebat, Boubakr Rahmani, Paul-Étienne Vidal, Luiz Fernando Lavado Villa, Laurent Dupont, Jean-Christophe Crébier
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16052221
+Paper ID: https://openalex.org/W4392553601
+
+Abstract:
+Sustainability in power electronics is a recent research topic. It takes place among current actions to grasp design choices that enable eco-design and circular economy in the domain. This paper shows the results and analysis of a literature review at the intersection of power electronics and sustainability without considering the reliability study of the power electronics systems. The first part explains the scope of the study. The second part shows a bibliometric analysis of the collected publications that underlines a pioneering position at the European level. The third part details the state-of-the-art and its analysis over four investigation topics which are: tools and methods, indicators, circularity and materials. This paper and the work behind are the results of collaboration at the French national level, as part of the workgroup CEPPS (Convertisseurs Electronique de Puissance Plus Soutenables—More Sustainable Power Electronics Converters) supported by the CNRS (Centre National de la Recherche Scientifique—French National Centre for Scientific Research) research group SEEDS (Systèmes d’énergie électrique dans leurs dimensions sociétales—Societal dimensions of electrical energy systems).

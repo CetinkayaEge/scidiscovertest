@@ -1,0 +1,9 @@
+Title: Sustainable Financing and Financial Risk Management of Financial Institutions—Case Study on Chinese Banks
+Authors: Hao Liu, Weilun Huang
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14159786
+Paper ID: https://openalex.org/W4296450967
+
+Abstract:
+This study examines the relationship between sustainable financing and financial risk management of Chinese financial institutions, using data from Chinese banks. Financial risk management is a comprehensive measure of operating performance, asset quality and capital adequacy ratio. The structural vector auto-regression model determines the relationship between two variables. The positive shock of sustainable financing business negatively impacts the financial risk management of banks. In contrast, positive shock of banks’ financial risk management positively affects sustainable financing. Further subdivision of the sample revealed that sustainable financing does not always negatively impact the financial risk management of large state-owned banks. However, the positive shock of financial risk management reduces urban banks’ green credit proportions. The results are consistent whenever compared between the empirical outcome of the entire sample and the sample consisting of national joint stock bank accounts. This comparison helps eliminate the possibility of a biased outcome as a major portion of the sample is from a national joint-stock bank account. Apart from data limitations, the results of the sub-sample test are influenced due to the difference in deposit and loan interest rates, as well as different ownership structures of banks.

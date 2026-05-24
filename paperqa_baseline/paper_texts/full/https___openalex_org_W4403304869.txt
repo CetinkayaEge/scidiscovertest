@@ -1,0 +1,9 @@
+Title: Sustainability assessment of seawater splitting: Prospects, challenges, and future directions
+Authors: Hicham Meskher, Abebe Reda Woldu, Paul K. Chu, Fushen Lu, Liangsheng Hu
+Year: 2024
+Venue: EcoEnergy
+DOI: https://doi.org/10.1002/ece2.68
+Paper ID: https://openalex.org/W4403304869
+
+Abstract:
+Abstract Seawater splitting is one of the desirable techniques for producing green hydrogen from the vast natural resource. Several reports about designing and fabricating efficient electrocatalysts to boost the oxygen evolution reaction and hydrogen evolution reaction have been published. However, they mainly focus on the electrodes, electrocatalysts, cost, and system stability. This article presents an overview of seawater splitting by highlighting the most challenging issues that complicate seawater electrolysis, such as durability, to guide future research in this important area. The strategy to launch life cycle assessments is described to evaluate the short and long‐term impacts. Finally, the current challenges and prospective solutions are discussed.

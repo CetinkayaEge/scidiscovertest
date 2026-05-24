@@ -1,0 +1,9 @@
+Title: Performance assessment of sustainable transportation in the shipping industry using a q-rung orthopair fuzzy rough sets-based decision making methodology
+Authors: Sarah Qahtan, Hassan A. Alsattar, A. A. Zaidan, Muhammet Deveci, Dragan Pamučar, Dursun Delen
+Year: 2023
+Venue: Expert Systems with Applications
+DOI: https://doi.org/10.1016/j.eswa.2023.119958
+Paper ID: https://openalex.org/W4360840075
+
+Abstract:
+This paper proposes a novel ship energy systems (SESs) benchmarking model for performance measurement of sustainable transportation based on the extension of q-rung orthopair fuzzy rough sets (q-ROFRS) and multicriteria decision-making (MCDM) methods. The underlying research methodology consists of two main stages: (i) Formulation of the SES decision matrix between SESs and the sustainability , (ii) Development of a q-ROFRS and fuzzy-weighted zero-inconsistency (q-ROFRS–FWZIC) model to determine the weights of each criterion. The integrated model of the q-ROFRS and fuzzy decision by the opinion score method (q-ROFRS-FDOSM) is offered as a tool for benchmarking the SESs. Sixty-two SESs are evaluated and benchmarked according to the three layers of criteria concerning the five design alternatives. The analysis of the proposed q-ROFRS–FWZIC methodology revealed that decision support methods (C2) is the most important criterion with a weight of 0.4174, followed by gas emissions (C1.1.2) and economic criterion (C1.1.1) with weights of 0.1661 and 0.1498, respectively; and energy efficiency design index (C1.2.1) is the least important. Furthermore, the results from q-ROFRS-FDOSM reveal that SES62 is the most suitable SES followed by SES60, whereas SES37 is the least suitable. Finally, the robustness of the proposed method is assessed by conducting a sensitivity analysis.

@@ -1,0 +1,9 @@
+Title: Diagnostic Accuracy of Ber-EP4 for Metastatic Adenocarcinoma in Serous Effusions: A Meta-Analysis
+Authors: Bo Wang, Diandian Li, Xuemei Ou, Qun Yi, Yulin Feng
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0107741
+Paper ID: pmc_PMC4168227
+
+Abstract:
+Numerous studies have investigated the utility of Ber-EP4 in differentiating metastatic adenocarcinoma (MAC) from malignant epithelial mesothelioma (MM) and/or reactive mesothelial cells (RM) in serous effusions. However, the results remain controversial. The aim of this study is to determine the overall accuracy of Ber-EP4 in serous effusions for MAC through a meta-analysis of published studies. Publications addressing the accuracy of Ber-EP4 in the diagnosis of MAC were selected from the Pubmed, Embase and Cochrane Library. Data from selected studies were pooled to yield summary sensitivity, specificity, positive and negative likelihood ratio (LR), diagnostic odds ratio (DOR), and receiver operating characteristic (SROC) curve. Statistical analysis was performed by Meta-Disc 1.4 and STATA 12.0 softwares. 29 studies, based on 2646 patients, met the inclusion criteria and the summary estimating for Ber-EP4 in the diagnosis of MAC were: sensitivity 0.8 (95% CI : 0.78–0.82), specificity 0.94 (95% CI : 0.93–0.96), positive likelihood ratio (PLR) 12.72 (95% CI : 8.66–18.7), negative likelihood ratio (NLR) 0.18 (95% CI : 0.12–0.26) and diagnostic odds ratio 95.05 (95% CI : 57.26–157.77). The SROC curve indicated that the maximum joint sensitivity and specificity (Q-value) was 0.91; the area under the curve was 0.96. Our findings suggest that BER-EP4 may be a useful diagnostic adjunctive tool for confirming MAC in serous effusions.

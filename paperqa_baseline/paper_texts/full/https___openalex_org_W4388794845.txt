@@ -1,0 +1,9 @@
+Title: A novel parsimonious spherical fuzzy analytic hierarchy process for sustainable urban transport solutions
+Authors: Sarbast Moslem
+Year: 2023
+Venue: Engineering Applications of Artificial Intelligence
+DOI: https://doi.org/10.1016/j.engappai.2023.107447
+Paper ID: https://openalex.org/W4388794845
+
+Abstract:
+Sustainable urban transport is the key factor for surviving the cities and developing the supply quality of the urban transport system has been esteemed in sustainable improvement for the cities. This work attempts to provide a sustainable and efficient solutions for ameliorating public bus transport system in Dublin city, Ireland. The developed system will attract private car users, which interns will achieve detract CO2 emissions, minimize traffic congestions and maximize commuter satisfaction. To evaluate this complex problem, the novel Parsimonious Analytic Hierarchy Process (P-AHP) is structured in a spherical fuzzy environment. The parsimonious spherical fuzzy analytic hierarchy process (P– SF-AHP) model considers as an efficient solution not only for evaluating a large number of alternatives or criteria when using AHP, however, it esteems the hesitant scoring of the decision maker. The results are demonstrated and analyzed in detail and the step-by-step description of the procedure might foment other applications of the model. The unique process for evaluating the supply quality of urban transport system consumes less time and effort during estimating the survey, moreover, it provides more consistent and reliable outcomes through avoiding the uncertainty and ambiguity of decision makers during evaluation process.

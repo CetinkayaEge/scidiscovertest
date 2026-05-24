@@ -1,0 +1,9 @@
+Title: 4D Printing of Magnetically Responsive Shape Memory Polymers: Toward Sustainable Solutions in Soft Robotics, Wearables, and Biomedical Devices
+Authors: Kiandokht Mirasadi, Mohammad Amin Yousefi, Liuchao Jin, Davood Rahmatabadi, Majid Baniassadi, Wei‐Hsin Liao, Mahdi Bodaghi, Mostafa Baghani
+Year: 2025
+Venue: Advanced Science
+DOI: https://doi.org/10.1002/advs.202513091
+Paper ID: https://openalex.org/W4413442968
+
+Abstract:
+, carbonyl iron powder (CIP), and neodymium magnet (NdFeB), to evaluate their effects on thermal, mechanical, and functional properties. The review also explores key application areas, such as biomedical engineering, soft robotics, and advanced wearable technology. Challenges related to material stability, actuation speed, and multi-functional integration are discussed, along with emerging strategies to enhance performance and scalability. This work serves as a timely and in-depth resource for researchers and engineers aiming to advance magnetic-responsive materials in 4D printing toward sustainable soft robotic systems, biomedical devices, and flexible electronics.

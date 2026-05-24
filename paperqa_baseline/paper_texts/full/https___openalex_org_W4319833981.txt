@@ -1,0 +1,9 @@
+Title: A review of the efficiency of self-healing concrete technologies for durable and sustainable concrete under realistic conditions
+Authors: Vanessa Giaretton Cappellesso, Davide di Summa, Pardis Pourhaji, Niranjan Prabhu Kannikachalam, Kiran Dabral, Liberato Ferrara, C. Alonso, Esteban Camacho, Elke Gruyaert, Nele De Belie
+Year: 2023
+Venue: International Materials Reviews
+DOI: https://doi.org/10.1080/09506608.2022.2145747
+Paper ID: https://openalex.org/W4319833981
+
+Abstract:
+Self-healing is recognized as a promising technique for increasing the durability of concrete structures by healing cracks, thereby reducing the need for maintenance activities over the service life and decreasing the environmental impact. Various self-healing technologies have been applied to a wide range of cementitious materials, and the performance has generally been assessed under ‘ideal’ laboratory conditions. Performance tests under ideal conditions, tailored to the self-healing mechanism, can demonstrate the self-healing potential. However, there is an urgent need to prove the robustness and reliability of self-healing under realistic simulated conditions and in real applications before entering the market. This review focuses on the influence of cracks on degradation phenomena in reinforced concrete structures, the efficiency of different healing agents in various realistic (aggressive) scenarios, test methods for evaluating self-healing efficiency, and provides a pathway for integrating self-healing performance into a life-cycle encompassing durability-based design.

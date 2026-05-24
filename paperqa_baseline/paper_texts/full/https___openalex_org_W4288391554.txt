@@ -1,0 +1,9 @@
+Title: On Machine Learning-Based Techniques for Future Sustainable and Resilient Energy Systems
+Authors: Jiawei Wang, Pierre Pinson, Spyros Chatzivasileiadis, Mathaios Panteli, Goran Štrbac, Vladimir Terzija
+Year: 2022
+Venue: IEEE Transactions on Sustainable Energy
+DOI: https://doi.org/10.1109/tste.2022.3194728
+Paper ID: https://openalex.org/W4288391554
+
+Abstract:
+Permanently increasing penetration of converter-interfaced generation and renewable energy sources (RESs) makes modern electrical power systems more vulnerable to low probability and high impact events, such as extreme weather, which could lead to severe contingencies, even blackouts. These contingencies can be further propagated to neighboring energy systems over coupling components/technologies and consequently negatively influence the entire multi-energy system (MES) (such as gas, heating and electricity) operation and its resilience. In recent years, machine learning-based techniques (MLBTs) have been intensively applied to solve various power system problems, including system planning, or security and reliability assessment. This paper aims to review MES resilience quantification methods and the application of MLBTs to assess the resilience level of future sustainable energy systems. The open research questions are identified and discussed, whereas the future research directions are identified.

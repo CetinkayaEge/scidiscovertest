@@ -1,0 +1,9 @@
+Title: A Bibliometric Analysis of Consumer Neuroscience towards Sustainable Consumption
+Authors: Yan Liu, Rui Zhao, Xin Xiong, Xinyun Ren
+Year: 2023
+Venue: Behavioral Sciences
+DOI: https://doi.org/10.3390/bs13040298
+Paper ID: https://openalex.org/W4362471090
+
+Abstract:
+Consumer neuroscience is a new paradigm for studying consumer behavior, focusing on neuroscientific tools to explore the underlying neural processes and behavioral implications of consumption. Based on the bibliometric analysis tools, this paper provides a review of progress in research on consumer neuroscience during 2000-2021. In this paper, we identify research hotspots and frontiers in the field through a statistical analysis of bibliometric indicators, including the number of publications, countries, institutions, and keywords. Aiming at facilitating carbon neutrality via sustainable consumption, this paper discusses the prospects of applying neuroscience to sustainable consumption. The results show 364 publications in the field during 2000-2021, showing a rapid upward trend, indicating that consumer neuroscience research is gaining ground. The majority of these consumer neuroscience studies chose to use electroencephalogram tools, accounting for 63.8% of the total publications; the cutting-edge research mainly involved event-related potential (ERP) studies of various marketing stimuli interventions, functional magnetic resonance imaging (fMRI)-based studies of consumer decision-making and emotion-specific brain regions, and machine-learning-based studies of consumer decision-making optimization models.

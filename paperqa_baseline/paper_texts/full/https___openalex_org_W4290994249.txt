@@ -1,0 +1,9 @@
+Title: Sustainable Development Goal for Quality Education (SDG 4): A study on SDG 4 to extract the pattern of association among the indicators of SDG 4 employing a genetic algorithm
+Authors: Munish Saini, Eshan Sengupta, Madanjit Singh, Harnoor Singh, Jaswinder Singh
+Year: 2022
+Venue: Education and Information Technologies
+DOI: https://doi.org/10.1007/s10639-022-11265-4
+Paper ID: https://openalex.org/W4290994249
+
+Abstract:
+Sustainable Development Goals (SDG) are at the forefront of government initiatives across the world. The SDGs are primarily concerned with promoting sustainable growth via ensuring wellbeing, economic growth, environmental legislation, and academic advancement. One of the most prominent goals of the SDG is to provide learners with high-quality education (SDG 4). This paper aims to look at the perspectives of the Sustainable Development Goals improvised to provide quality education. We also analyze the existing state of multiple initiatives implemented by the Indian government in the pathway to achieving objectives of quality education (SDG 4). Additionally, a case study is considered for understanding the association among the observed indicators of SDG4. For this purpose, exploratory data analysis, and numerical association rule mining in combination with QuantMiner genetic algorithm approaches have been applied. The outcomes reveal the presence of a significant degree of association among these parameters pointing out the fact that understanding the impact of one (or more) indicator on other related indicators is critical for achieving SDG 4 goals (or factors). These findings will assist governing bodies in taking preventive measures while modifying existing policies and ensuring the effective enactment of SDG 4 goals, which also will subsequently aid in the resolution of issues related to other SDGs.

@@ -1,0 +1,9 @@
+Title: Viral suppression and associated factors among children tested for HIV viral load at Amhara Public Health Institute, Dessie Branch, Ethiopia: a cross-sectional study
+Authors: Hailu Berihun, Getaw Walle Bazie, Altaseb Beyene, Amare Zewdie, Natnael Kebede
+Year: 2023
+Venue: BMJ Open
+DOI: 10.1136/bmjopen-2022-068792
+Paper ID: pmc_PMC9890760
+
+Abstract:
+Objective This study aims to assess viral suppression and associated factors among children tested for HIV viral load at the Amhara Public Health Institute, Dessie Branch, Ethiopia. Design An institutional cross-sectional study was conducted. An observational checklist was used to collect the data. Data were entered into EpiData and analysed using SPSS (V.25). The data were analysed descriptively. Variables with p=0.25 from the bivariable analysis were entered into a multivariable logistic regression model, and significant variables (p=0.05) were retained in the multivariable model. Setting and participants This cross-sectional study was conducted among 522 randomly selected children tested for HIV viral load at the Amhara Public Health Institute, Dessie Branch, Ethiopia. The study included children under the age of 15 years with complete records. Results Viral suppression was 73% (95% CI: 60.41% to 77.63%). Treatment duration on antiretroviral therapy (adjusted OR (AOR)=0.207; 95% CI: 0.094 to 0.456) and regimen substitution (AOR=0.490; 95% CI: 0.306 to 0.784) were significantly associated with viral suppression rate. Conclusions In this study, the overall magnitude of viral suppression in Amhara Public Health Institute, Dessie Branch is low as compared with the WHO’s 95% viral suppression target. Viral suppression was significantly associated with antiretroviral therapy duration and regimen substitution.

@@ -1,0 +1,9 @@
+Title: Hybrid Project Management between Traditional Software Development Lifecycle and Agile Based Product Development for Future Sustainability
+Authors: Jason Leong, Kiu May Yee, Onalethata Baitsegi, Lingesvaran Palanisamy, R Kanesaraj Ramasamy
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15021121
+Paper ID: https://openalex.org/W4313823945
+
+Abstract:
+The purpose of this review is to look at the future sustainability of project management by combining agile methodology and product management. Digital transformation is evolving rapidly, and the question is whether traditional project management is sustainable. To ensure sustainability, a hybrid approach is taken by combining agile methodology to ensure the latest trend in software development approaches are maintained. Agile methodologies were crafted in 2000, but it has only been widely used since 2011 for software development. This paper will focus on the types of agile requirements engineering methods used in the agile framework, used and described in various articles, journals, and studies over the last six years, and how this can be applied together with traditional project management.

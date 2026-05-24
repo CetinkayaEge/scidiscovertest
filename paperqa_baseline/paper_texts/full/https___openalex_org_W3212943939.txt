@@ -1,0 +1,9 @@
+Title: Amino Acid-Based Cholinium Ionic Liquids as Sustainable Catalysts for PET Depolymerization
+Authors: Salvatore Marullo, Carla Rizzo, Nadka Tzankova Dintcheva, Francesca D’Anna
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.1c04060
+Paper ID: https://openalex.org/W3212943939
+
+Abstract:
+Chemical recycling to monomers is one of the key strategies in tackling the issues deriving from persistent plastic pollution in the environment, and poly(ethylene terephthalate) (PET) is among the most used polymers in modern society. In this context, we herein describe the glycolysis of PET to bis-hydroxyethyl terephthalate (BHET), promoted by basic cholinium salts differing for the anions, also comprising amino acid anions. We investigated the optimal reaction conditions, finding that the best-performing catalyst is [Ch][Gly], in the presence of which a conversion of 85% and a yield of 51% are achieved at 150 °C after 6 h, from PET deriving from a clear water bottle. We used our protocol to carry out the glycolysis of PET deriving from different postconsumer waste, like opaque and colored bottles and food packages, finding that the performance is better in the former compared with the latter starting materials.

@@ -1,0 +1,9 @@
+Title: Real-Time Detection of Seedling Maize Weeds in Sustainable Agriculture
+Authors: Siqi Liu, Yishu Jin, Zhiwen Ruan, Zheng Ma, Rui Gao, Zhongbin Su
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142215088
+Paper ID: https://openalex.org/W4309210551
+
+Abstract:
+In recent years, automatic weed control has emerged as a promising alternative for reducing the amount of herbicide applied to the field, instead of conventional spraying. This method is beneficial to reduce environmental pollution and to achieve sustainable agricultural development. Achieving a rapid and accurate detection of weeds in maize seedling stage in natural environments is the key to ensuring maize yield and the development of automatic weeding machines. Based on the lightweight YOLO v4-tiny model, a maize weed detection model which combined an attention mechanism and a spatial pyramid pooling structure was proposed. To verify the effectiveness of the proposed method, five different deep-learning algorithms, including the Faster R-CNN, the SSD 300, the YOLO v3, the YOLO v3-tiny, and the YOLO v4-tiny, were compared to the proposed method. The comparative results showed that the mAP (Mean Average Precision) of maize seedlings and its associated weed detection using the proposed method was 86.69%; the detection speed was 57.33 f/s; and the model size was 34.08 MB. Furthermore, the detection performance of weeds under different weather conditions was discussed. The results indicated that the proposed method had strong robustness to the changes in weather, and it was feasible to apply the proposed method for the real-time and accurate detection of weeds.

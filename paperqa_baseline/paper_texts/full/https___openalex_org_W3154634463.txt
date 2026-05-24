@@ -1,0 +1,9 @@
+Title: AHP-TOPSIS social sustainability approach for selecting supplier in construction supply chain
+Authors: Mohamed Marzouk, Marwa Sabbah
+Year: 2021
+Venue: Cleaner Environmental Systems
+DOI: https://doi.org/10.1016/j.cesys.2021.100034
+Paper ID: https://openalex.org/W3154634463
+
+Abstract:
+Prequalification of suppliers in the Construction Supply Chain is considered a crucial step to assure to their ability to deliver socially sustainable projects. This research identifies the most important social sustainability prequalification criteria for supplier selection in Construction Supply Chain. Additionally, a Multi-Criteria Decision Making (MCDM) model based on social indicators of sustainability is proposed in this research. Structured interviews were organized with experienced practitioners to define the relative importance weights of criteria that have collected in the first phase using Analytic Hierarchy Process (AHP). As such, the AHP is applied to develop mathematical determination to achieve the weights of social indicators. Technique for Order Preference by Similarity to the Ideal Solution (TOPSIS) method is used to evaluate the different suppliers in the construction supply chain against 17 identified attributes. Ultimately, the closeness coefficients of the suppliers are estimated in order to identify social performance. The research aims at proposing a computational model of MCDM in order to introduce it to the construction organizations to utilize in the supplier prequalification process. A computational model is developed and a case study is worked out to illustrate the proposed methodology in supplier selection to ensure sustainable construction projects. Afterwards, the model is validated and a sensitivity analysis is conducted to analyze the impact of changing the weights of the considered attributes in the model outputs.

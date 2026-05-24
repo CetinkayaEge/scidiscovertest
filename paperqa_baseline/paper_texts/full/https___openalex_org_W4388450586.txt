@@ -1,0 +1,9 @@
+Title: Do environmental taxes, environmental innovation, and energy resources matter for environmental sustainability: Evidence of five sustainable economies
+Authors: Kishwar Ali, Jianguo Du, Derviş Kırıkkaleli, Judit Oláh, Satar Bakhsh
+Year: 2023
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2023.e21577
+Paper ID: https://openalex.org/W4388450586
+
+Abstract:
+This study explores the relationship between environmental taxation, environmental technologies, energy resources, and consumption-based carbon emissions in five leading green economies from 2000 to 2019. The study applied the Cross-Sectional Auto-Regressive Distributed Lag (CS-ARDL) model to derive benchmark results, with Augmented Mean Group (AMG) and Common Correlated Effect Mean Group (CCEMG) techniques being utilized for conducting robustness analyses. The empirical findings suggest that environmental taxation, environmental innovations, and the consumption of renewable energy are associated with a reduction in consumption-based carbon emissions, thereby contributing to enhanced environmental sustainability. Conversely, the utilization of non-renewable energy is linked to an increase in consumption-based carbon emissions. These results align with the objectives outlined in the Sustainable Development Goals' 2030 agenda, particularly SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation, and Infrastructure), and SDG 13 (Climate Action), offering valuable policy implications.

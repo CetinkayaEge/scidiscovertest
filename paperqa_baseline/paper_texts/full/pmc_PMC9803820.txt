@@ -1,0 +1,9 @@
+Title: An optimized disulfide cross-linking protocol to determine interactions of proteins produced in Escherichia coli
+Authors: Sandra Olenic, Lee Kroos
+Year: 2023
+Venue: STAR Protocols
+DOI: 10.1016/j.xpro.2022.101962
+Paper ID: pmc_PMC9803820
+
+Abstract:
+Summary Protein-protein interactions play important roles in regulating cellular functions. We present an optimized disulfide cross-linking protocol for testing predicted interactions of soluble or membrane proteins. Coexpression in E. coli of proteins with a single cysteine residue results in disulfide bond formation upon treating the cells with oxidants if the two proteins interact and the cysteine residues are near each other. Quantification of cross-linked proteins after immunoblot sensitively and reproducibly measures the interaction. For complete details on the use and execution of this protocol, please refer to Olenic et al. (2022). 1 Graphical abstract Highlights • Disulfide cross-linking in vivo allows determination of protein-protein interactions • Applicable to predicted interactions of soluble or membrane proteins in E. coli • Cells coexpressing proteins with a single cysteine residue are treated with oxidants • Cross-linked proteins are separated by SDS-PAGE and detected by immunoblot Publisher’s note: Undertaking any experimental protocol requires adherence to local institutional guidelines for laboratory safety and ethics. Protein-protein interactions play important roles in regulating cellular functions. We present an optimized disulfide cross-linking protocol for testing predicted interactions of soluble or membrane proteins. Coexpression in E. coli of proteins with a single cysteine residue results in disulfide bond formation upon treating the cells with oxidants if the two proteins interact and the cysteine residues are near each other. Quantification of cross-linked proteins after immunoblot sensitively and reproducibly measures the interaction.

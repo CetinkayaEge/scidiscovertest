@@ -1,0 +1,9 @@
+Title: A holistic approach to environmentally sustainable computing
+Authors: Andrea Pazienza, Giovanni Baselli, Daniele Carlo Vinci, Maria Vittoria Trussoni
+Year: 2024
+Venue: Innovations in Systems and Software Engineering
+DOI: https://doi.org/10.1007/s11334-023-00548-9
+Paper ID: https://openalex.org/W4391566264
+
+Abstract:
+Abstract Placing sustainability at the core of computing practices, the industry is poised to pioneer positive changes and create a cleaner and more sustainable world for future generations. The environmentally sustainable computing (ESC) framework is introduced in this paper as an innovative solution to revolutionize sustainability practices across various computing domains and cover multiple aspects of sustainable information technology (IT). The ESC framework includes the entire lifecycle of computing systems, including critical stages such as design, development, monitoring, refactoring, and regulatory compliance. Through the adoption of the ESC framework, academia and industry stakeholders can gain a powerful tool to evaluate and measure sustainability factors across different computing domains and can integrate eco-friendly computing principles and patterns throughout their products and services. This can significantly reduce their carbon footprint while complying with environmental regulations. In addition to presenting the ESC framework, the paper showcases real-world use cases. The first involves a leading Italian bank, emphasizing the significance of monitoring and compliance in achieving sustainable solutions within carbon-aware computing. The second use case explores resource efficiency optimization in Kubernetes clusters, illustrating how the ESC framework aligns with cloud infrastructure management trends.

@@ -1,0 +1,9 @@
+Title: External quantum efficiency response of thin silicon solar cell based on plasmonic scattering of indium and silver nanoparticles
+Authors: Wen-Jeng Ho, Yi-Yu Lee, Shih-Ya Su
+Year: 2014
+Venue: Nanoscale Research Letters
+DOI: 10.1186/1556-276X-9-483
+Paper ID: pmc_PMC4163624
+
+Abstract:
+This study characterized the plasmonic scattering effects of indium nanoparticles (In NPs) on the front surface and silver nanoparticles (Ag NPs) on the rear surface of a thin silicon solar cell according to external quantum efficiency (EQE) and photovoltaic current–voltage. The EQE response indicates that, at wavelengths of 300 to 800 nm, the ratio of the number of photo-carriers collected to the number of incident photons shining on a thin Si solar cell was enhanced by the In NPs, and at wavelengths of 1,000 to 1,200 nm, by the Ag NPs. These results demonstrate the effectiveness of combining the broadband plasmonic scattering of two metals in enhancing the overall photovoltaic performance of a thin silicon solar cell. Short-circuit current was increased by 31.88% (from 2.98 to 3.93 mA) and conversion efficiency was increased by 32.72% (from 9.81% to 13.02%), compared to bare thin Si solar cells.

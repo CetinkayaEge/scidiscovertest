@@ -1,0 +1,9 @@
+Title: Dynamic sustainable productivity growth of Dutch dairy farming
+Authors: Liyun Zhu, Alfons Oude Lansink
+Year: 2022
+Venue: PLoS ONE
+DOI: https://doi.org/10.1371/journal.pone.0264410
+Paper ID: https://openalex.org/W4214494775
+
+Abstract:
+The economic, environmental and social sustainability of Dutch dairy farms have attracted increasing societal concern in the past decades. In this paper, we propose a recently developed dynamic Luenberger indicator based on the by-production model to measure dynamic productivity growth in the economic, environmental and social dimensions of sustainability of Dutch dairy farms. Subsequently, we investigate the statistical associations between productivity growth and socio-economic factors using the OLS bootstrap regression model. We find that dairy farms have suffered a decline in dynamic sustainable productivity growth, especially in the environmental dimension where it is more pronounced than in the economic and social dimensions. Furthermore, we find that both technical and scale inefficiency change contribute to the decline of environmental productivity growth. Specialization and government support are associated with a higher economic and environmental sustainability productivity growth, and with, a decreased growth of social sustainable productivity. We found no significant association between the age of the oldest entrepreneur, financial structure, farm size or cost of advisory service and dynamic productivity growth in the three sustainability dimensions. The results provide insights into potential pathways towards improving the three pillars of sustainability.

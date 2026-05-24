@@ -1,0 +1,9 @@
+Title: Data Driven Approaches for Sustainable Development of E-Mobility in Urban Areas
+Authors: Marialisa Nigro, Marina Ferrara, Rosita De Vincentis, Carlo Liberto, Gaetano Valenti
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14133949
+Paper ID: https://openalex.org/W3175937034
+
+Abstract:
+This study focuses on a modeling framework to support mobility planners and energy providers in the sustainable development of electric mobility in urban areas. Specifically, models are provided to simulate measures for the optimal management of energy demand and thoughtful planning of charging infrastructures in order to avoid congestion on the power grid. The measures, and consequently the models, are classified according to short-term initiatives based on multimodality between electric vehicles and public transport (Park and Ride), as well as medium to long-term initiatives based on the development of an energy-oriented land use of the city. All the models are data-driven, and different sets of floating car data available for the city of Rome (Italy) have been exploited for this aim. The models are currently being implemented in an agent-based simulator for electric urban mobility adopted by the National Agency for Energy and Environment in Italy (ENEA).

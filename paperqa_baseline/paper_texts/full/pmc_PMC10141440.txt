@@ -1,0 +1,9 @@
+Title: Thickness-Dependent Interface Polarity in Infinite-Layer Nickelate Superlattices
+Authors: Chao Yang, Roberto A. Ortiz, Yi Wang, Wilfried Sigle, Hongguang Wang, Eva Benckiser, Bernhard Keimer, Peter A. van Aken
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00192
+Paper ID: pmc_PMC10141440
+
+Abstract:
+The interface polarity plays a vital role in the physical properties of oxide heterointerfaces because it can cause specific modifications of the electronic and atomic structure. Reconstruction due to the strong polarity of the NdNiO 2 /SrTiO 3 interface in recently discovered superconducting nickelate films may play an important role, as no superconductivity has been observed in the bulk. By employing four-dimensional scanning transmission electron microscopy and electron energy-loss spectroscopy, we studied effects of oxygen distribution, polyhedral distortion, elemental intermixing, and dimensionality in NdNiO 2 /SrTiO 3 superlattices grown on SrTiO 3 (001) substrates. Oxygen distribution maps show a gradual variation of the oxygen content in the nickelate layer. Remarkably, we demonstrate thickness-dependent interface reconstruction due to a polar discontinuity. An average cation displacement of ∼0.025 nm at interfaces in 8NdNiO 2 /4SrTiO 3 superlattices is twice larger than that in 4NdNiO 2 /2SrTiO 3 superlattices. Our results provide insights into the understanding of reconstructions at NdNiO 2 /SrTiO 3 polar interfaces.

@@ -1,0 +1,9 @@
+Title: Mixed Graph Neural Network-Based Fake News Detection for Sustainable Vehicular Social Networks
+Authors: Zhiwei Guo, Keping Yu, Alireza Jolfaei, Gang Li, Feng Ding, Amin Beheshti
+Year: 2022
+Venue: IEEE Transactions on Intelligent Transportation Systems
+DOI: https://doi.org/10.1109/tits.2022.3185013
+Paper ID: https://openalex.org/W4285142610
+
+Abstract:
+The rapid development of the Internet of Vehicles has substantially boosted the prevalence of vehicular social networks (VSN). However, content security has gradually been a latent threat to the stable operation of VSN. The VSN is a time-varying environment and mixed with various real or fake contents, which brings great challenges to the sustainability of VSN. To establish a sustainable VSN, it is of practical value to possess a strong ability for fake content detection. Related works can be divided into the global semantics-based approaches and the local semantics-based approaches, though both with limitations. Leveraging these two different approaches, this paper proposes a fake content detection model based on the mixed graph neural networks (GNN) for sustainable VSN. It takes GNN as the bottom architecture and integrates both convolution neural networks and recurrent neural networks to capture two aspects of semantics. Such a mixed detection framework is expected to possess a better detection effect. A number of experiments were conducted on two social network datasets for evaluation, and the results indicated that the detection effect can be improved by about 5%-15% compared with baseline methods.

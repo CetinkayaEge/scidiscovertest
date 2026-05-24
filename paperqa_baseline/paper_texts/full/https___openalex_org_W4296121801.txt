@@ -1,0 +1,9 @@
+Title: Rechargeable Dual‐Carbon Batteries: A Sustainable Battery Technology
+Authors: Mike Tebyetekerwa, Timothy T. Duignan, Zhen Xu, Xin Zhao
+Year: 2022
+Venue: Advanced Energy Materials
+DOI: https://doi.org/10.1002/aenm.202202450
+Paper ID: https://openalex.org/W4296121801
+
+Abstract:
+Abstract Dual‐carbon batteries (DCBs) with both electrodes composed of carbon materials are currently at the forefront of industrial consideration. This is due to their low cost, safety, sustainability, fast charging, and simpler electrochemistry than lithium and other post‐lithium metal‐ion batteries. This article provides an overview of the past lessons on rechargeable DCBs and their future promises. In brief, it introduces the reader to DCBs as one of the most promising energy storage solutions for balancing sustainability, cost and performance, their history, electrochemistry and associated charge storage mechanisms. Then, the past lessons with respect to their ion intercalation are provided. These include DCB mechanisms during different anion/cation intercalation in layered carbons and their intercalation compounds and electrode structures versus electrochemical performance. This is followed by a description of the current issues affecting DCBs like capacity fading and self‐discharging, electrolyte instability, low energy densities and electrode exfoliation, together with their remedies. Finally, an insightful perspective proposing key areas requiring significant research efforts toward the success of DCBs is provided responsible for accelerating the commercialization and adoption of DCBs toward a sustainable and circular economy. This article is a simplified guide to understanding the current state and future research needed to develop sustainable DCBs.

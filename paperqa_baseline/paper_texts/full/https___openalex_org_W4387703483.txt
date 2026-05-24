@@ -1,0 +1,9 @@
+Title: Wirelessly Powered Sensing Fertilizer for Precision and Sustainable Agriculture
+Authors: Takaaki Kasuga, Ami Mizui, Hirotaka Koga, Masaya Nogi
+Year: 2023
+Venue: Advanced Sustainable Systems
+DOI: https://doi.org/10.1002/adsu.202300314
+Paper ID: https://openalex.org/W4387703483
+
+Abstract:
+Abstract Sensor networks comprising small wireless sensor devices facilitate the collection of environmental information and increase the efficiency of outdoor practices, including agriculture. However, the sensor‐device installation density of a network is limited because conventional sensor devices must be removed after use. In this study, a sustainable dense sensing system that combines simplified degradable sensor devices, wireless power supply, and thermal‐camera image‐based information recognition is proposed. The proposed wireless‐power‐driven sensor device comprises a biodegradable nanopaper substrate, natural wax, and an eco‐friendly tin conductive line. The sensor device emits a thermal signal based on the soil moisture content. The thermal camera simultaneously acquires the soil moisture‐content data and sensor‐device location. The majority of the sensor‐device components are biodegradable, and the residual components have a minimal adverse impact on the environment. Additionally, the fertilizer component in the substrate promotes plant growth. The proposed sensing concept introduces a novel direction for realizing hyperdense sensor networks and contributes to the development of social systems that combine sustainability with meticulous environmental management.

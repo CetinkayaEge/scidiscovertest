@@ -1,0 +1,9 @@
+Title: Genome of the epiphytic bacterium Achromobacter denitrificans strain EPI24, isolated from a macroalga located in the Colombian Caribbean
+Authors: Albert Nicolás Niño Corredor, Natalia Beatriz Comba González, Mauricio Acelas, Dolly Montoya Castaño
+Year: 2023
+Venue: Biotechnology Reports
+DOI: 10.1016/j.btre.2023.e00788
+Paper ID: pmc_PMC9974418
+
+Abstract:
+Highligths • Achromobacter denitrificans strain EPI24 genome was studied. • The genome of A. denitrificans strain EPI24 is ∼6.95 Mb long, has a G + C content of 67.33%. • A total of 6603 protein-coding genes were predicted. • A. denitrificans strain EPI24 genome confirmed the presence of genes encoding for laccases, demonstrating the potential of epiphytic bacteria from U. lactuca in the laccase production. • Enzyme repertoire of A. denitrificans may have promising biotechnological applications. Marine macroalgae are being recognized as reservoirs of biologically active compounds, as their surfaces are susceptible to the colonization of microorganisms which can produce enzymes with a wide range of molecular architectures. Among these bacteria, Achromobacter is responsible for the biosynthesis of laccases. In this research, we performed a bioinformatic pipeline to annotate the sequenced complete genome of the epiphytic bacterium Achromobacter denitrificans strain EPI24, from the macroalgal surface of the Ulva lactuca species; this strain showed laccase activity which has been previously assessed on plate assays. The genome of A. denitrificans strain EPI24 has a size of ∼6.95 Mb, a GC content of 67.33%, and 6,603 protein-coding genes. The functional annotation of the A. denitrificans strain EPI24 genome confirmed the presence of genes encoding for laccases, which could have functional properties of interest in processes such as the biodegradation of phenolic compounds under versatile and efficient conditions.

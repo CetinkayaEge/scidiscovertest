@@ -1,0 +1,9 @@
+Title: Applicability of automated tractography during acute care stroke rehabilitation
+Authors: Midori Mochizuki, Yuki Uchiyama, Kazuhisa Domen, Tetsuo Koyama
+Year: 2023
+Venue: Journal of Physical Therapy Science
+DOI: 10.1589/jpts.35.156
+Paper ID: pmc_PMC9889207
+
+Abstract:
+[Purpose] To assess the clinical applicability of a novel automated tractography tool named XTRACT during acute stroke rehabilitation. [Participants and Methods] Three patients with left hemisphere stroke were sampled. Diffusion tensor images were acquired on the second week, and automated tractography was then applied. Tractography images and fractional anisotropy (FA) values in the corticospinal tract (CST) and arcuate fasciculus (AF) were assessed in relation to hemiparesis and aphasia. [Results] Patient 1 was nearly asymptomatic; FA in the left CST was 0.610 and that in the AF was 0.509. Patient 2 had severe hemiparesis and mild motor aphasia. Tractography images of the CST and AF were blurred; FA in the left CST was 0.295 and that in the AF was 0.304. Patient 3 showed no hemiparesis or aphasia at initial assessment. Tractography image of the CST was intact but that of the AF was less clear; FA in the left CST was 0.586 and that in the AF was 0.338. Considering the less clear images of the AF and lower FA value in Patients 2 and 3, further examinations for aphasia were performed, which revealed agraphia. [Conclusion] Visualization and quantification of neural fibers using automated tractography promoted planning acute care rehabilitative treatment in patients with stroke.

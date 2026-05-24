@@ -1,0 +1,9 @@
+Title: Application of artificial intelligence for resilient and sustainable healthcare system: systematic literature review and future research directions
+Authors: Laxmi Pandit Vishwakarma, Rajesh Kumar Singh, Ruchi Mishra, Archana Kumari
+Year: 2023
+Venue: International Journal of Production Research
+DOI: https://doi.org/10.1080/00207543.2023.2188101
+Paper ID: https://openalex.org/W4324046738
+
+Abstract:
+Recent years have witnessed increased pressure across the global healthcare system during the COVID-19 pandemic. The COVID-19 pandemic shattered existing healthcare operations and taught us the importance of a resilient and sustainable healthcare system. Digitisation, specifically adoption of Artificial Intelligence (AI) has positively contributed to developing a resilient healthcare system in recent past. To understand how AI contributes to building a resilient and sustainable healthcare system, this study based on systematic literature review of 89 articles extracted from Scopus and Web of Science databases is conducted. The study is organised around several key themes such as applications, benefits, and challenges of using AI technology in healthcare sector. It is observed that AI has wide applications in radiology, surgery, medical, research, and development of healthcare sector. Based on the analysis, a research framework is proposed using an extended Antecedents, Practices, and Outcomes (APO) framework. This framework comprises AI applications’ antecedents, practices, and outcomes for building a resilient and sustainable healthcare system. Consequently, three propositions are drawn in this study. Furthermore, our study has adopted the theory, context and methodology (TCM) framework to provide future research directions, which can be used as a reference point for future studies.

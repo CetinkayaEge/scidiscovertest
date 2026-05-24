@@ -1,0 +1,9 @@
+Title: An Improved Differential Evolution Adaptive Fuzzy PID Control Method for Gravity Measurement Stable Platform
+Authors: Xin Chen, Hongwei Bian, Hongyang He, Fangneng Li
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063172
+Paper ID: pmc_PMC10052071
+
+Abstract:
+In the platform gravimeter, the stabilization accuracy of the gravimetric stabilization platform is crucial to improve the accuracy of gravity value measurements due to its uncertainties, such as mechanical friction, inter-device coupling interference, and nonlinear disturbances. These cause fluctuations in the gravimetric stabilization platform system parameters and present nonlinear characteristics. To resolve the impact of the above problems on the control performance of the stabilization platform, an improved differential evolutionary adaptive fuzzy PID control (IDEAFC) algorithm is proposed. The proposed enhanced differential evolution algorithm is used to optimize the initial control parameters of the system adaptive fuzzy PID control algorithm to achieve accurate online adjustments of the gravimetric stabilization platform’s control parameters when it is subject to external disturbances or state changes and attain a high level of stabilization accuracy. The results of simulation tests, static stability experiments, and swaying experiments on the platform under laboratory conditions, as well as on-board experiments and shipboard experiments, all show that the improved differential evolution adaptive fuzzy PID control algorithm has a higher stability accuracy compared with the conventional control PID algorithm and traditional fuzzy control algorithm, proving the superiority, availability, and effectiveness of the algorithm.

@@ -1,0 +1,9 @@
+Title: Sustainable supply chain evaluation with supplier sustainability in terms of reliability
+Authors: Kuan‐Yu Lin, Yi‐Kuei Lin
+Year: 2024
+Venue: Annals of Operations Research
+DOI: https://doi.org/10.1007/s10479-024-05970-1
+Paper ID: https://openalex.org/W4394723845
+
+Abstract:
+Abstract Amidst the rising global recognition of sustainability and the United Nations' sustainable development goals, enhancing the sustainability of the supply chain while properly distributing orders has become a key point. In contrast to the previous research, this research involves supplier sustainability in reliability evaluation and proposes a new algorithm for computing reliability. In the constructed supply chain network, a node represents a supplier, assembly plant, or customer, and an arc connecting the nodes. For each arc, it has a carrier whose available carrying capacity for demand transmission. The capacity of each carrier, represented by the available delivery containers, should not be deterministic as they may be partially reserved by other customers. Under these conditions, such a supply chain network is regarded as a stochastic supply chain network (SSCN). The reliability for an SSCN is defined as the probability that the SSCN can successfully transport a specific amount of goods to a customer under supplier sustainability level, supplier production capacity, and budget. Reliability is also regarded as a performance indicator for supply chain capability when managers makes decisions under supplier sustainability consideration.

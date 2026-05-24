@@ -1,0 +1,9 @@
+Title: MXene‐Based Soft Actuators With Phototropic Self‐Sustained Oscillation for Versatile Applications in Micro Robotics
+Authors: Liangliang Xu, Yingqi Xu, Lin Li, Changwen Qiu, Ye Ling, Ying Hu, Longfei Chang, Qingyu Peng, Xiaodong He
+Year: 2024
+Venue: Advanced Functional Materials
+DOI: https://doi.org/10.1002/adfm.202414338
+Paper ID: https://openalex.org/W4403566710
+
+Abstract:
+Abstract The efforts in soft materials actuators that can generate driving deformation under external energy stimulation have promoted the rapid development in miniature sized robotics. Recently, soft actuators with continuous and autonomous actuation behavior under constant stimulation are highly sought after. Light‐fueled self‐oscillators based on self‐shadowing effect triggered by their light‐induced actuation deformation provide an effective scheme. However, grand challenges remain in light‐driven self‐actuators that are multi‐directional controllable and can operate in low power density in air. Here, this study reports a MXene‐based multilayer actuator that generates self‐sustained robotic motion upon low light intensity– 50 mW cm −2 (half Sun). The actuator can self‐track the light sources and continuously oscillate while the incident angle is changed. The self‐sustained actuator exhibits high adaptation to types of light sources, including inherence and coherence light sources with different wavelengths. Diverse applications are demonstrated, including autonomous signal transmitter based on beam reflection, self‐propelled sailboat, light‐to‐mechanical motor, and soft robots with biomimetic movements. The results offer new insights for light‐fueled self‐oscillators with multi‐directional controllability and low‐intensity requirement and its potential application prospect.

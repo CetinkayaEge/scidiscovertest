@@ -1,0 +1,9 @@
+Title: Sequencing and de novo transcriptome assembly of the Chinese giant salamander ( Andrias davidianus )
+Authors: Yong Huang, Xiao Chan Gao, Jian Li Xiong, Hong Tao Ren, Xi Hong Sun
+Year: 2017
+Venue: Genomics Data
+DOI: 10.1016/j.gdata.2017.03.011
+Paper ID: pmc_PMC5384290
+
+Abstract:
+Next-generation technologies for determination of genomics and transcriptomics composition have a wide range of applications. Andrias davidianus , has become an endangered amphibian species of salamander endemic in China. However, there is a lack of the molecular information. In this study, we obtained the RNA-Seq data from a pool of A. davidianus tissue including spleen, liver, muscle, kidney, skin, testis, gut and heart using Illumina HiSeq 2500 platform. A total of 15,398,997,600 bp were obtained, corresponding to 102,659,984 raw reads. A total of 102,659,984 reads were filtered after removing low-quality reads and trimming the adapter sequences. The Trinity program was used to de novo assemble 132,912 unigenes with an average length of 690 bp and N50 of 1263 bp. Unigenes were annotated through number of databases. These transcriptomic data of A. davidianus should open the door to molecular evolution studies based on the entire transcriptome or targeted genes of interest to sequence. The raw data in this study can be available in NCBI SRA database with accession number of SRP099564.

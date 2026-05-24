@@ -1,0 +1,9 @@
+Title: The global regulator Ncb2 escapes from the core promoter and impacts transcription in response to drug stress in Candida albicans
+Authors: Mohd Shariq, Sanjiveeni Dhamgaye, Remya Nair, Neha Goyal, Vaibhav Jain, Arnab Mukhopadhyay, Alok K. Mondal, Gauranga Mukhopadhyay, Rajendra Prasad
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46084
+Paper ID: pmc_PMC5382705
+
+Abstract:
+Ncb2, the β subunit of NC2 complex, a heterodimeric regulator of transcription was earlier shown to be involved in the activated transcription of CDR1 gene in azole resistant isolate (AR) of Candida albicans . This study examines its genome-wide role by profiling Ncb2 occupancy between genetically matched pair of azole sensitive (AS) and AR clinical isolates. A comparison of Ncb2 recruitment between the two isolates displayed that 29 genes had higher promoter occupancy of Ncb2 in the AR isolate. Additionally, a host of genes exhibited exclusive occupancy of Ncb2 at promoters of either AR or AS isolate. The analysis also divulged new actors of multi-drug resistance, whose transcription was activated owing to the differential occupancy of Ncb2. The conditional, sequence-specific positional escape of Ncb2 from the core promoter in AS isolate and its preferential recruitment to the core promoter of certain genes in AR isolates was most noteworthy means of transcription regulation. Together, we show that positional rearrangement of Ncb2 resulting in either activation or repression of gene expression in response to drug-induced stress, represents a novel regulatory mechanism that opens new opportunities for therapeutic intervention to prevent development of drug tolerance in C. albicans cells.

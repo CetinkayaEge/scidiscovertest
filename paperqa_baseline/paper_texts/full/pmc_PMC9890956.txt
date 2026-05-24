@@ -1,0 +1,9 @@
+Title: Nanoscale electrochemical charge transfer kinetics investigated by electrochemical scanning microwave microscopy †
+Authors: Mohamed Awadein, Maxwell Sparey, Simon Grall, Ferry Kienberger, Nicolas Clement, Georg Gramse
+Year: 2022
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00671e
+Paper ID: pmc_PMC9890956
+
+Abstract:
+We show how microwave microscopy can be used to probe local charge transfer reactions with unprecedented sensitivity, visualizing surface reactions with only a few hundred molecules involved. While microwaves are too fast under classical conditions to interact and sense electrochemical processes, this is different at the nanoscale, where our heterodyne microwave sensing method allows for highly sensitive local cyclic voltammetry (LCV) and local electrochemical impedance spectroscopy (LEIS). LCV and LEIS allow for precise measurement of the localized charge transfer kinetics, as illustrated in this study for a ferrocene self-assembled monolayer immersed in an electrolyte. The theoretical analysis presented here enables a consistent mapping of the faradaic kinetics and the parasitic contributions (nonfaradaic) to be spectrally resolved and subtracted. In particular, this methodology reveals an undistorted assessment of accessible redox site density of states associated with faradaic capacitance, fractional surface coverage and electron transfer kinetics at the nanoscale. The developed methodology opens a new perspective on comprehending electrochemical reactivity at the nanoscale. EC-SMM is a powerful technique in nano-electrochemistry. It allows for local cyclic voltammetry (LCV) and electrochemical impedance spectroscopy (LEIS) quantifying nanoscale redox reaction with atto-Ampere sensitivity.

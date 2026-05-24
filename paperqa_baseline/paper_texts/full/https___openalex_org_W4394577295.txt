@@ -1,0 +1,9 @@
+Title: Machine learning for sustainable organic waste treatment: a critical review
+Authors: Rohit Gupta, Zahra Hajabdollahi Ouderji, Uzma Uzma, Zhibin Yu, William T. Sloan, Siming You
+Year: 2024
+Venue: npj Materials Sustainability
+DOI: https://doi.org/10.1038/s44296-024-00009-9
+Paper ID: https://openalex.org/W4394577295
+
+Abstract:
+-nearest neighbors. The application of these techniques is explored in terms of their capacity for optimizing complex processes. Additionally, the study delves into physics-informed neural networks, highlighting the significance of integrating domain knowledge for improved model consistency. Comparative analyses are carried out to provide insights into the strengths and weaknesses of each technique, aiding practitioners in selecting appropriate models for diverse applications. Transfer learning and specialized neural network variants are also discussed, offering avenues for enhancing predictive capabilities. This work contributes valuable insights to the field of data-driven modeling, emphasizing the importance of understanding the nuances of each technique for informed decision-making in various organic waste treatment scenarios.

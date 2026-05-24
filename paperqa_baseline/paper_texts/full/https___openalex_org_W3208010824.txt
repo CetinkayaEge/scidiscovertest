@@ -1,0 +1,9 @@
+Title: COVID-19 and Greenhouse Gas Emission Mitigation: Modeling the Impact on Environmental Sustainability and Policies
+Authors: Muhammad Mohsin, Sobia Naseem, Muddassar Sarfraz, Larisa Ivaşcu, Gadah Albasher
+Year: 2021
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2021.764294
+Paper ID: https://openalex.org/W3208010824
+
+Abstract:
+The COVID-19 pandemic has compelled countries worldwide to enforce stringent measures to maintain social distancing, by locking down populations and restricting all kinds of transport. Besides their impact on the virus, these dramatic changes may also have positively contributed to a sustainable environment. The study aims to measure the effect of COVID-19 on environmental sustainability by employing the autoregressive distributed lag (ARDL) model. The study is based on the daily data of COVID-19 confirmed cases; confirmed deaths; manually generated lockdown data by the indexing method; and NO 2 , NH 3 , SO 2 , and CO levels from March 3, 2020, to July 27, 2021. This research study investigates the long- and short-term relationship between COVID-19 and the aforementioned greenhouse gases. The findings suggest conclusively that NO 2 , SO 2 , and CO declined during the COVID-19 period in India because these gases are anthropologically emitted by transport, industries, and fossil fuel burning. On the other hand, the evolving NH 3 is not related to COVID-19 confirmed cases and deaths but is impacted by lockdown because ammonia emission is directly related to agricultural activities. Therefore, a decline in pollutants such as greenhouse gases during the COVID-19 period until July 2021 was observed. This means the prioritized control of human activities can be helpful to enhance the quality of the environment.

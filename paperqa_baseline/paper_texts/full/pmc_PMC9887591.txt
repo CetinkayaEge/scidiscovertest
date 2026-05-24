@@ -1,0 +1,9 @@
+Title: Advanced Flow Cytometry Using the SYTO-13 Dye for the Assessment of Platelet Reactivity and Maturity in Whole Blood
+Authors: Oliver Buchhave Pedersen, Leonardo Pasalic, Erik Lerkevang Grove, Steen Dalby Kristensen, Anne-Mette Hvas, Peter H. Nissen
+Year: 2023
+Venue: Methods and Protocols
+DOI: 10.3390/mps6010008
+Paper ID: pmc_PMC9887591
+
+Abstract:
+Newly produced immature platelets are larger, contain higher amounts of residual RNA, and are more reactive than mature platelets. Flow cytometry using the SYTO-13 dye is a method for the subdivision of immature platelets from mature platelets based on the labelling of intracellular platelet RNA, enabling the simultaneous investigation of the reactivity of each platelet population. This method provides detailed information on several aspects of platelet physiology using a combination of platelet surface markers and agonists. Currently, no standardized protocol exists across laboratories. Here, we describe a flow cytometry protocol in detail to investigate platelet reactivity and its relation to platelet maturity. We analyzed 20 healthy individuals with the protocol and compared the platelet subpopulation with the highest SYTO-13 labelling (in the first quintile, “SYTO-high”) corresponding to the most immature platelets (highest RNA content) with the platelet subpopulation with the lowest SYTO-13 labelling (in the fifth quintile, “SYTO-low”) corresponding to the mature platelets with the lowest RNA content. SYTO-high platelets had overall significantly increased platelet reactivity compared with that of SYTO-low platelets. The presented method may be a valuable research tool for the analysis of platelet reactivity and its relation to platelet maturity.

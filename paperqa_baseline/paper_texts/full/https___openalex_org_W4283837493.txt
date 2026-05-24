@@ -1,0 +1,9 @@
+Title: Effective pathogen removal in sustainable natural fiber Moringa filters
+Authors: Laxmicharan Samineni, Sophie De Respino, Yuming Tu, Ratul Chowdhury, R. Mohanty, Hyeonji Oh, Michael Geitner, Claire Hartwig Alberg, Abigail Roman-White, Sarine McKinzie, Camila Lemus, Joy Massey, Debadyuti Ghosh, Thomas M. Truskett, Stephanie Velegol, Manish Kumar
+Year: 2022
+Venue: npj Clean Water
+DOI: https://doi.org/10.1038/s41545-022-00170-5
+Paper ID: https://openalex.org/W4283837493
+
+Abstract:
+Abstract Pathogen contamination of water has a massive impact on global human health. In particular, viruses pose unique challenges to water treatment techniques due to their small size and presence in water as both individual virions and when absorbed onto larger particles. Low-energy water treatment processes such as media filtration are not capable of completely removing viruses owing to their small size. Hence, less sustainable processes with high chemical or energy consumption such as chemical disinfection, ultraviolet irradiation, and membrane filtration are usually required. To overcome high energy and/or chemical requirements for virus treatment, designs for sustainable fiber filters fabricated from minimally processed natural materials for efficient virus (MS2) and bacteria ( E. coli ) removal are presented in this work. These filters were created by functionalizing readily accessible natural fibers including cotton, silk, and flax with a simple aqueous extract containing cationic proteins from Moringa oleifera seeds. The proposed filters offer a comprehensive low cost, low energy, and low environmental impact solution for pathogen removal from water with removals of &gt;7log 10 (99.99999%) for viruses and bacteria.

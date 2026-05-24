@@ -1,0 +1,9 @@
+Title: Latest advancements in imaging techniques in OA
+Authors: Daichi Hayashi, Frank W. Roemer, Thomas Link, Xiaojuan Li, Feliks Kogan, Neil A. Segal, Patrick Omoumi, Ali Guermazi
+Year: 2022
+Venue: Therapeutic Advances in Musculoskeletal Disease
+DOI: 10.1177/1759720X221146621
+Paper ID: pmc_PMC9806406
+
+Abstract:
+The osteoarthritis (OA) research community has been advocating a shift from radiography-based screening criteria and outcome measures in OA clinical trials to a magnetic resonance imaging (MRI)-based definition of eligibility and endpoint. For conventional morphological MRI, various semiquantitative evaluation tools are available. We have lately witnessed a remarkable technological advance in MRI techniques, including compositional/physiologic imaging and automated quantitative analyses of articular and periarticular structures. More recently, additional technologies were introduced, including positron emission tomography (PET)-MRI, weight-bearing computed tomography (CT), photon-counting spectral CT, shear wave elastography, contrast-enhanced ultrasound, multiscale X-ray phase contrast imaging, and spectroscopic photoacoustic imaging of cartilage. On top of these, we now live in an era in which artificial intelligence is increasingly utilized in medicine. Osteoarthritis imaging is no exception. Successful implementation of artificial intelligence (AI) will hopefully improve the workflow of radiologists, as well as the level of precision and reproducibility in the interpretation of images.

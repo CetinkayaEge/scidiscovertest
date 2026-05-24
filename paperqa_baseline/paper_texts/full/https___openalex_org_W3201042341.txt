@@ -1,0 +1,9 @@
+Title: Sustainable irrigation based on co-regulation of soil water supply and atmospheric evaporative demand
+Authors: Jingwen Zhang, Kaiyu Guan, Bin Peng, Ming Pan, Wang Zhou, Chongya Jiang, Hyungsuk Kimm, Trenton E. Franz, R. F. Grant, Yi Yang, Daran R. Rudnick, Derek M. Heeren, Andrew E. Suyker, William L. Bauerle, Grace L. Miner
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-25254-7
+Paper ID: https://openalex.org/W3201042341
+
+Abstract:
+Irrigation is an important adaptation to reduce crop yield loss due to water stress from both soil water deficit (low soil moisture) and atmospheric aridity (high vapor pressure deficit, VPD). Traditionally, irrigation has primarily focused on soil water deficit. Observational evidence demonstrates that stomatal conductance is co-regulated by soil moisture and VPD from water supply and demand aspects. Here we use a validated hydraulically-driven ecosystem model to reproduce the co-regulation pattern. Specifically, we propose a plant-centric irrigation scheme considering water supply-demand dynamics (SDD), and compare it with soil-moisture-based irrigation scheme (management allowable depletion, MAD) for continuous maize cropping systems in Nebraska, United States. We find that, under current climate conditions, the plant-centric SDD irrigation scheme combining soil moisture and VPD, could significantly reduce irrigation water use (-24.0%) while maintaining crop yields, and increase economic profits (+11.2%) and irrigation water productivity (+25.2%) compared with MAD, thus SDD could significantly improve water sustainability.

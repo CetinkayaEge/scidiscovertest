@@ -1,0 +1,9 @@
+Title: Sunflower-like self-sustainable plant-wearable sensing probe
+Authors: Shuang Wang, Yangfan Chai, Huiwen Sa, W Ye, Qian Wang, Yu Zou, Xuan Luo, Lijuan Xie, Xiangjiang Liu
+Year: 2024
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.ads1136
+Paper ID: https://openalex.org/W4405022561
+
+Abstract:
+Powering and communicating with wearable devices on bio-interfaces is challenging due to strict weight, size, and resource constraints. This study presents a sunflower-like plant-wearable sensing device that harnesses solar energy, achieving complete energy self-sustainability for long-term monitoring of plant sap flow, a crucial indicator of plant health. It features foldable solar panels along with all essential flexible electronic components, resulting in a compact system that is lightweight enough for small plants. To tackle the low-energy density of solar power, we developed an ultralow-energy light communication mechanism inspired by fireflies. Together with unmanned aerial vehicles and deep learning algorithms, this approach enables efficient data retrieval from multiple devices across large agricultural fields. With its simple deployment, it shows great potential as a low-cost plant phenotyping tool. We believe our energy and communication solution for wearable devices can be extended to similar resource-limited and challenging scenarios, leading to exciting applications.

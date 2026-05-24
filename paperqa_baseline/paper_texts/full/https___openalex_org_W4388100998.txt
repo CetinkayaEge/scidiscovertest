@@ -1,0 +1,9 @@
+Title: Recommender systems for sustainability: overview and research issues
+Authors: Alexander Felfernig, Manfred Wundara, Thi Ngoc Trang Tran, Seda Polat-Erdeniz, Sebastian Lubos, Merfat El Mansi, Damian Garber, Viet-Man Le
+Year: 2023
+Venue: Frontiers in Big Data
+DOI: https://doi.org/10.3389/fdata.2023.1284511
+Paper ID: https://openalex.org/W4388100998
+
+Abstract:
+Sustainability development goals (SDGs) are regarded as a universal call to action with the overall objectives of planet protection, ending of poverty, and ensuring peace and prosperity for all people. In order to achieve these objectives, different AI technologies play a major role. Specifically, recommender systems can provide support for organizations and individuals to achieve the defined goals. Recommender systems integrate AI technologies such as machine learning, explainable AI (XAI), case-based reasoning, and constraint solving in order to find and explain user-relevant alternatives from a potentially large set of options. In this article, we summarize the state of the art in applying recommender systems to support the achievement of sustainability development goals. In this context, we discuss open issues for future research.

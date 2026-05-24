@@ -1,0 +1,9 @@
+Title: Sustainable Lactic Acid Production from Lignocellulosic Biomass
+Authors: Yalin Li, Sarang S. Bhagwat, Yoel R. Cortés‐Peña, Dongwon Ki, Christopher V. Rao, Yong‐Su Jin, Jeremy S. Guest
+Year: 2021
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.0c08055
+Paper ID: https://openalex.org/W3119429603
+
+Abstract:
+Lignocellulosic biomass is a promising feedstock for sustainable biofuels and bioproducts. Among emerging bioproducts, lactic acid has attracted significant interest because of its growing application in many industries (e.g., packaging, medical, and pharmaceutical). In this study, BioSTEAM—an open-source platform—was leveraged for the design, simulation, and evaluation (via techno-economic analysis, TEA, and life cycle assessment, LCA) of lignocellulosic lactic acid biorefineries. With a minimum product selling price (MPSP) between 1.38 and 1.91 kg–1 (5th–95th percentiles, baseline at 1.57 kg–1), the biorefinery was capable of producing market-competitive lactic acid (market price between 1.7 and 2.1 kg–1), and its performance could be further enhanced (e.g., MPSP down to 1.09 kg–1, global warming potential of 2.79 kg CO2-eq·kg–1, and fossil energy consumption of 31.7 MJ·kg–1) with advancements in key technological parameters (fermentation yield and separation process conversions) and optimization in process operation. Sensitivity analyses focused on the fermentation unit (across titer, yield, and productivity; neutral vs low-pH fermentation) and feedstock characteristics (carbohydrate content and price) were also included to quantify their impact on the sustainability of the biorefinery. Overall, this research highlights the ability of agile TEA/LCA to screen promising biorefinery designs, prioritize research needs, and establish a road map for the continued development of bioproducts and biofuels.

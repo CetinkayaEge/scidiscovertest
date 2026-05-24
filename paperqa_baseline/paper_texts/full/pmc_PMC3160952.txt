@@ -1,0 +1,9 @@
+Title: Development of small interfering RNA delivery system using PEI-PEG-APRPG polymer for antiangiogenic vascular endothelial growth factor tumor-targeted therapy
+Authors: Zong-Xia Lu, Li-Ting Liu, Xian-Rong Qi
+Year: 2011
+Venue: International Journal of Nanomedicine
+DOI: 10.2147/IJN.S22293
+Paper ID: pmc_PMC3160952
+
+Abstract:
+Background Small interfering RNA (siRNA) can silence target genes in the cytoplasm and be a major tool in gene therapy. Vascular endothelial growth factor (VEGF), a potent regulator of angiogenesis, is overexpressed in most tumors and is closely associated with tumor growth and metastasis. It has been shown that inhibition of VEGF expression by siRNA is an effective and useful method for antiangiogenic tumor therapy. Methods In the present study, we synthesized a targeted delivery system of PEI-PEG-APRPG incorporating angiogenic vessel-homing Ala-Pro-Arg-Pro-Gly (APRPG) peptide into cationic polyethylenimine (PEI) via a hydrophilic poly(ethylene glycol) (PEG) spacer. Results PEI-PEG-APRPG effectively condensed siRNA into 20–50 nm nanoparticles with a positive surface charge using a suitable N/P ratio. The siRNA/PEI-PEG-APRPG complex effectively enhanced the stability of siRNA in RNase A, and improved the proliferation-inhibiting ability and transfection efficiency of siRNA in vitro and tumor accumulation in vivo. In addition, the siRNA/PEI-PEG-APRPG complex exhibited high efficiency as antitumor therapy with regard to tumor growth, microvessel density, and VEGF protein and mRNA levels. Conclusion These findings suggest that PEI-PEG-APRPG effectively delivers siRNA to tumors overexpressing VEGF and thereby inhibits tumor growth.

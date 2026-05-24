@@ -1,0 +1,9 @@
+Title: Fault Detection and Diagnosis for Gas Turbines Based on a Kernelized Information Entropy Model
+Authors: Weiying Wang, Zhiqiang Xu, Rui Tang, Shuying Li, Wei Wu
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/617162
+Paper ID: pmc_PMC4167449
+
+Abstract:
+Gas turbines are considered as one kind of the most important devices in power engineering and have been widely used in power generation, airplanes, and naval ships and also in oil drilling platforms. However, they are monitored without man on duty in the most cases. It is highly desirable to develop techniques and systems to remotely monitor their conditions and analyze their faults. In this work, we introduce a remote system for online condition monitoring and fault diagnosis of gas turbine on offshore oil well drilling platforms based on a kernelized information entropy model. Shannon information entropy is generalized for measuring the uniformity of exhaust temperatures, which reflect the overall states of the gas paths of gas turbine. In addition, we also extend the entropy to compute the information quantity of features in kernel spaces, which help to select the informative features for a certain recognition task. Finally, we introduce the information entropy based decision tree algorithm to extract rules from fault samples. The experiments on some real-world data show the effectiveness of the proposed algorithms.

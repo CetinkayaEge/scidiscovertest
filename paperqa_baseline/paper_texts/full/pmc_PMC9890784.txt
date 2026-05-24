@@ -1,0 +1,9 @@
+Title: Commonalities of optic nerve injury and glaucoma-induced neurodegeneration: Insights from transcriptome-wide studies ☆
+Authors: Jiaxing Wang, Felix L. Struebing, Eldon E. Geisert
+Year: 2021
+Venue: Experimental eye research
+DOI: 10.1016/j.exer.2021.108571
+Paper ID: pmc_PMC9890784
+
+Abstract:
+Glaucoma is a collection of diseases that lead to an irreversible vision loss due to damage of retinal ganglion cells (RGCs). Although the underlying events leading to RGC death are not fully understood, recent research efforts are beginning to define the genetic changes that play a critical role in the initiation and progression of glaucomatous injury and RGC death. Several genetic and experimental animal models have been developed to mimic glaucomatous neurodegeneration. These models differ in many respects but all result in the loss of RGCs. Assessing transcriptional changes across different models could provide a more complete perspective on the molecular drivers of RGC degeneration. For the past several decades, changes in the retinal transcriptome during neurodegeneration process were defined using microarray methods, RNA sequencing and now single cell RNA sequencing. It is understood that these methods have strengths and weaknesses due to technical differences and variations in the analytical tools used. In this review, we focus on the use of transcriptome-wide expression profiling of the changes occurring as RGCs are lost across different glaucoma models. Commonalities of optic nerve crush and glaucoma-induced neurodegeneration are identified and discussed.

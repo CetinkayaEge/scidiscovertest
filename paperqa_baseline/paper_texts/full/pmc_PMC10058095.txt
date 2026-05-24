@@ -1,0 +1,9 @@
+Title: Examining the Results of Virtual Reality-Based Egocentric Distance Estimation Tests Based on Immersion Level
+Authors: Tibor Guzsvinecz, Erika Perge, Judit Szűcs
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063138
+Paper ID: pmc_PMC10058095
+
+Abstract:
+Depth perception as well as egocentric distance estimation can be trained in virtual spaces, although incorrect estimates can occur in these environments. To understand this phenomenon, a virtual environment with 11 changeable factors was created. Egocentric distance estimation skills of 239 participants were assessed with it in the range [25 cm, 160 cm]. One hundred fifty-seven people used a desktop display and seventy-two the Gear VR. According to the results, these investigated factors can have various effects combined with the two display devices on distance estimation and its time. Overall, desktop display users are more likely to accurately estimate or overestimate distances, and significant overestimations occur at 130 and 160 cm. With the Gear VR, distances in the range [40 cm, 130 cm] are significantly underestimated, while at 25 cm, they are significantly overestimated. Estimation times are significantly decreased with the Gear VR. When developing future virtual environments that require depth perception skills, developers should take these results into account.

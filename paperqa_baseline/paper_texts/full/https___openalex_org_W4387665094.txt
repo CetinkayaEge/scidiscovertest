@@ -1,0 +1,9 @@
+Title: Mining in space could spur sustainable growth
+Authors: Maxwell Fleming, Ian Lange, Sayeh Shojaeinia, Martin Stuermer
+Year: 2023
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2221345120
+Paper ID: https://openalex.org/W4387665094
+
+Abstract:
+Growth models with resources and environmental externalities typically assume that planet Earth is a closed economy. However, private firms like Blue Origin and SpaceX have reduced the cost of rocket launches by a factor of 20 over the last decade. What if these costs continue to decline, making mining from asteroids or the moon feasible? What would be the implications for economic growth and the environment? This paper provides stylized facts about cost trends, geology, and the environmental impact of mining on Earth and potentially in Space. We extend a neoclassical growth model to investigate the transition from mining on Earth to Space. We find that such a transition could potentially allow for continued growth of metal use, while limiting environmental and social costs on Earth. Acknowledging the high uncertainty around the topic, our paper provides a starting point for research on how Space mining could contribute to sustainable growth on Earth.

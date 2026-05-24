@@ -1,0 +1,9 @@
+Title: Early expression of CD94 and loss of CD96 on CD8+ T cells after allogeneic stem cell tranplantation is predictive of subsequent relapse and survival
+Authors: Kriti Verma, Wayne Croft, Hayden Pearce, Jianmin Zuo, Christine Stephens, Jane Nunnick, Francesca AM Kinsella, Ram Malladi, Paul Moss
+Year: 2022
+Venue: Haematologica
+DOI: 10.3324/haematol.2021.280497
+Paper ID: pmc_PMC9890008
+
+Abstract:
+Allogeneic stem cell transplantation is used widely in the treatment of hematopoietic malignancy. However, relapse of malignant disease is the primary cause of treatment failure and reflects loss of immunological graft- versus -leukemia effect. We studied the transcriptional and phenotypic profile of CD8+ T cells in the first month following transplantation and related this to risk of subsequent relapse. Single cell transcriptional profiling identified five discrete CD8+ T-cell clusters. High levels of T-cell activation and acquisition of a regulatory transcriptome were apparent in patients who went on to suffer disease relapse. A relapse-associated gene signature of 47 genes was then assessed in a confirmation cohort of 34 patients. High expression of the inhibitory receptor CD94/NKG2A on CD8+ T cells within the first month was associated with 4.8 fold increased risk of relapse and 2.7 fold reduction in survival. Furthermore, reduced expression of the ac-tivatory molecule CD96 was associated with 2.2 fold increased risk of relapse and 1.9 fold reduction in survival. This work identifies CD94 and CD96 as potential targets for CD8-directed immunotherapy in the very early phase following allogeneic transplantation with the potential to reduce long term relapse rates and improve patient survival.

@@ -1,0 +1,9 @@
+Title: A theoretical framework for the design of molecular crystal engines †
+Authors: Cameron J. Cook, Wangxiang Li, Brandon F. Lui, Thomas J. Gately, Rabih O. Al-Kaysi, Leonard J. Mueller, Christopher J. Bardeen, Gregory J. O. Beran
+Year: 2022
+Venue: Chemical Science
+DOI: 10.1039/d2sc05549j
+Paper ID: pmc_PMC9890974
+
+Abstract:
+Photomechanical molecular crystals have garnered attention for their ability to transform light into mechanical work, but difficulties in characterizing the structural changes and mechanical responses experimentally have hindered the development of practical organic crystal engines. This study proposes a new computational framework for predicting the solid-state crystal-to-crystal photochemical transformations entirely from first principles, and it establishes a photomechanical engine cycle that quantifies the anisotropic mechanical performance resulting from the transformation. The approach relies on crystal structure prediction, solid-state topochemical principles, and high-quality electronic structure methods. After validating the framework on the well-studied [4 + 4] cycloadditions in 9-methyl anthracene and 9- tert -butyl anthracene ester, the experimentally-unknown solid-state transformation of 9-carboxylic acid anthracene is predicted for the first time. The results illustrate how the mechanical work is done by relaxation of the crystal lattice to accommodate the photoproduct, rather than by the photochemistry itself. The large ∼10 7 J m −3 work densities computed for all three systems highlight the promise of photomechanical crystal engines. This study demonstrates the importance of crystal packing in determining molecular crystal engine performance and provides tools and insights to design improved materials in silico . An approach for predicting photomechanical organic crystal engine performance is proposed based on first-principles crystal structure prediction and topochemical principles.

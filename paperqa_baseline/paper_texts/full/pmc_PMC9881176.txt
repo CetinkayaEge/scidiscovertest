@@ -1,0 +1,9 @@
+Title: The S. cerevisiae m 6 A-reader Pho92 promotes timely meiotic recombination by controlling key methylated transcripts
+Authors: Jérémy Scutenaire, Damien Plassard, Mélody Matelot, Tommaso Villa, Julie Zumsteg, Domenico Libri, Bertrand Séraphin
+Year: 2023
+Venue: Nucleic Acids Research
+DOI: 10.1093/nar/gkac640
+Paper ID: pmc_PMC9881176
+
+Abstract:
+Abstract N 6 -Methyladenosine (m 6 A), one of the most abundant internal modification of eukaryotic mRNAs, participates in the post-transcriptional control of gene expression through recruitment of specific m 6 A readers. In Saccharomyces cerevisiae , the m 6 A methyltransferase Ime4 is expressed only during meiosis and its deletion impairs this process. To elucidate how m 6 A control gene expression, we investigated the function of the budding yeast m 6 A reader Pho92. We show that Pho92 is an early meiotic factor that promotes timely meiotic progression. High-throughput RNA sequencing and mapping of Pho92-binding sites following UV-crosslinking reveal that Pho92 is recruited to specific mRNAs in an m 6 A-dependent manner during the meiotic prophase, preceding their down-regulation. Strikingly, point mutations altering m 6 A sites in mRNAs targeted by Pho92 are sufficient to delay their down-regulation and, in one case, to slow down meiotic progression. Altogether, our results indicate that Pho92 facilitate the meiotic progression by accelerating the down-regulation of timely-regulated mRNAs during meiotic recombination. Graphical Abstract Graphical Abstract Pho92 accelerates yeast meiosis by promoting meiotic recombination through the control of key methylated transcripts.

@@ -1,0 +1,9 @@
+Title: Association between Depression and Mortality in Patients with Pain Conditions: A South Korean Nationwide Cohort Study
+Authors: Tak Kyu Oh, Hye Yoon Park, In-Ae Song
+Year: 2023
+Venue: Yonsei Medical Journal
+DOI: 10.3349/ymj.2023.0121
+Paper ID: pmc_PMC10375244
+
+Abstract:
+Purpose Patients with pain conditions may experience depression that greatly complicates treatment. In this study, we examined risk factors for depression in patients with pain conditions and associations between depression and long-term mortality in such patients. Materials and Methods Data from the National Health Insurance Service database in South Korea were used in this cohort study. A total of 2.5% of adult patients diagnosed with pain conditions in 2010 were selected using a stratified random sampling technique and included for analysis. We performed multivariate logistic regression modelling to identify risk factors associated with depression and multivariate Cox regression modelling to determine whether depression is associated with 10-year survival outcomes in patients with pain conditions. Results In total, data from 1808043 patients with pain conditions in 2010 were analyzed. Among them, 70148 (3.9%) patients had depression. Multivariate logistic regression modelling identified older age, comorbidities, analgesics, female sex, living in an urban area, and other underlying psychiatric morbidities as potential risk factors for depression in patients with pain conditions. Multivariate Cox regression revealed that 10-year all-cause mortality in patients with depression was 1.13-fold (hazard ratio, 1.13; 95% confidence interval, 1.11–1.16; p <0.001) higher than that in patients without depression and pain conditions. Conclusion We identified a few potential risk factors for depression among South Korean patients with pain conditions. Depression was associated with elevated 10-year all-cause mortality in patients with pain conditions. Graphical Abstract

@@ -1,0 +1,9 @@
+Title: Statistical Modeling of Indirect Paths for UWB Sensors in an Indoor Environment
+Authors: Moona Lee, Joon-Yong Lee
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010043
+Paper ID: pmc_PMC5298616
+
+Abstract:
+In this paper, we present a statistical model of an indirect path generated in an ultra-wideband (UWB) human tracking scenario. When performing moving target detection, an indirect path signal can generate ghost targets that may cause a false alarm. For this purpose, we performed radar measurements in an indoor environment and established a statistical model of an indirect path based on the measurement data. The proposed model takes the form of a modified Saleh–Valenzuela model, which is used in a UWB channel model. An application example of the proposed model for mitigating false alarms is also presented.

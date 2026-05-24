@@ -1,0 +1,9 @@
+Title: Turning Enantiomeric Relationships into Diastereomeric Ones: Self-Resolving α-Ureidophosphonates and Their Organocatalytic Enantioselective Synthesis
+Authors: Vanda Dašková, Damián Padín, Ben L. Feringa
+Year: 2022
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.2c10911
+Paper ID: pmc_PMC9801384
+
+Abstract:
+Controlling chiral recognition and chiral information transfer has major implications in areas ranging from drug design and asymmetric catalysis to supra- and macromolecular chemistry. Especially intriguing are phenomena associated with chiral self-recognition. The design of systems that show self-induced recognition of enantiomers, i.e., involving homochiral versus heterochiral dimers, is particularly challenging. Here, we report the chiral self-recognition of α-ureidophosphonates and its application as both a powerful analytical tool for enantiomeric ratio determination by NMR and as a convenient way to increase their enantiomeric purity by simple achiral column chromatography or fractional precipitation. A combination of NMR, X-ray, and DFT studies indicates that the formation of homo- and heterochiral dimers involving self-complementary intermolecular hydrogen bonds is responsible for their self-resolving properties. It is also shown that these often unnoticed chiral recognition phenomena can facilitate the stereochemical analysis during the development of new asymmetric transformations. As a proof of concept, the enantioselective organocatalytic hydrophosphonylation of alkylidene ureas toward self-resolving α-ureidophosphonates is presented, which also led us to the discovery of the largest family of self-resolving compounds reported to date.

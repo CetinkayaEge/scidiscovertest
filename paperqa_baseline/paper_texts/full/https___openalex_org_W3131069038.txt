@@ -1,0 +1,9 @@
+Title: Renaissance of ammonia synthesis for sustainable production of energy and fertilizers
+Authors: Jimmy Faria
+Year: 2021
+Venue: Current Opinion in Green and Sustainable Chemistry
+DOI: https://doi.org/10.1016/j.cogsc.2021.100466
+Paper ID: https://openalex.org/W3131069038
+
+Abstract:
+Green ammonia synthesis via the Haber–Bosch (HB) process has become a major field of research in the recent years for production of fertilizers and seasonal energy storage due to drastic drop in cost of renewable hydrogen. While the field of catalysis and engineering has worked on this subject for many years, the current process of ammonia synthesis remains essentially unaltered. As a result, current industrial developments on green ammonia are based on the HB process, which can only be economical at exceptionally large scales, limiting implementation on financially strained economies. For green ammonia to become an economic “equalizer” that supports the energy transition around the world, it is essential to facilitate the downscalability and operational robustness of the process. This contribution briefly discusses the main scientific and engineering findings that have paved the way of low-temperature and pressure ammonia synthesis using heterogeneous catalysts.

@@ -1,0 +1,9 @@
+Title: Lignin: A Sustainable Antiviral Coating Material
+Authors: Alice Boarino, Heyun Wang, Francesca Olgiati, Fiora Artusio, Melis Özkan, Stefania Bertella, Nicolò Razza, Valeria Cagno, Jeremy S. Luterbacher, Harm‐Anton Klok, Francesco Stellacci
+Year: 2022
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c04284
+Paper ID: https://openalex.org/W4305072044
+
+Abstract:
+Transmission of viruses through contact with contaminated surfaces is an important pathway for the spread of infections. Antiviral surface coatings are useful to minimize such risks. Current state-of-the-art approaches toward antiviral surface coatings either involve metal-based materials or complex synthetic polymers. These approaches, however, even if successful, will have to face great challenges when it comes to large-scale applications and their environmental sustainability. Here, an antiviral surface coating was prepared by spin-coating lignin, a natural biomass residue of the paper production industry. We show effective inactivation of herpes simplex virus type 2 (>99% after 30 min) on a surface coating that is low-cost and environmentally sustainable. The antiviral mechanism of the lignin surface was investigated and is attributed to reactive oxygen species generated upon oxidation of lignin phenols. This mechanism does not consume the surface coating (as opposed to the release of a specific antiviral agent) and does not require regeneration. The coating is stable in ambient conditions, as demonstrated in a 6 month aging study that did not reveal any decrease in antiviral activity. This research suggests that natural compounds may be used for the development of affordable and sustainable antiviral coatings.

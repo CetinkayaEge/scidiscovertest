@@ -1,0 +1,9 @@
+Title: Sustainable high-entropy materials?
+Authors: Liuliu Han, Wangzhong Mu, Shaolou Wei, Peter K. Liaw, Dierk Raabe
+Year: 2024
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.ads3926
+Paper ID: https://openalex.org/W4405280442
+
+Abstract:
+High-entropy materials (HEMs) show inspiring structural and functional properties due to their multi-elemental compositions. However, most HEMs are burdened by cost-, energy-, and carbon-intensive extraction, synthesis, and manufacturing protocols. Recycling and reusing HEMs are challenging because their design relies on high fractions of expensive and limited-supply elements in massive solid solutions. Therefore, we review the basic sustainability aspects of HEMs. Solutions include using feedstock with lower carbon and energy footprints, sustainable primary synthesis routes from minerals, attenuation of the equimolar alloying rule, and a preference for scrap and dumped waste for secondary and tertiary synthesis. The high solubility, compositional flexibility, and chemical robustness of HEMs offer pathways for using higher fractions of mixed and contaminated scrap and waste feedstocks, which are not admissible for synthesizing conventional materials. We also discuss thermodynamic and kinetic design strategies to reconcile good material properties with high impurity tolerance and variable compositions.

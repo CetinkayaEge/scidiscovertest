@@ -1,0 +1,9 @@
+Title: Materials Advances in Photocatalytic Solar Hydrogen Production: Integrating Systems and Economics for a Sustainable Future
+Authors: Denny Gunawan, Jiajun Zhang, Qiyuan Li, Cui Ying Toe, Jason Scott, Markus Antonietti, Jinghua Guo, Rose Amal
+Year: 2024
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202404618
+Paper ID: https://openalex.org/W4399508803
+
+Abstract:
+Photocatalytic solar hydrogen generation, encompassing both overall water splitting and organic reforming, presents a promising avenue for green hydrogen production. This technology holds the potential for reduced capital costs in comparison to competing methods like photovoltaic-electrocatalysis and photoelectrocatalysis, owing to its simplicity and fewer auxiliary components. However, the current solar-to-hydrogen efficiency of photocatalytic solar hydrogen production has predominantly remained low at ≈1-2% or lower, mainly due to curtailed access to the entire solar spectrum, thus impeding practical application of photocatalytic solar hydrogen production. This review offers an integrated, multidisciplinary perspective on photocatalytic solar hydrogen production. Specifically, the review presents the existing approaches in photocatalyst and system designs aimed at significantly boosting the solar-to-hydrogen efficiency, while also considering factors of cost and scalability of each approach. In-depth discussions extending beyond the efficacy of material and system design strategies are particularly vital to identify potential hurdles in translating photocatalysis research to large-scale applications. Ultimately, this review aims to provide understanding and perspective of feasible pathways for commercializing photocatalytic solar hydrogen production technology, considering both engineering and economic standpoints.

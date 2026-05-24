@@ -1,0 +1,9 @@
+Title: Reprogramming the immunosuppressive tumor microenvironment: exploiting angiogenesis and thrombosis to enhance immunotherapy
+Authors: Areez Shafqat, Mohamed H. Omer, Eman Nayaz Ahmed, Ali Mushtaq, Eman Ijaz, Zara Ahmed, Khaled Alkattan, Ahmed Yaqinuddin
+Year: 2023
+Venue: Frontiers in Immunology
+DOI: 10.3389/fimmu.2023.1200941
+Paper ID: pmc_PMC10374407
+
+Abstract:
+This review focuses on the immunosuppressive effects of tumor angiogenesis and coagulation on the tumor microenvironment (TME). We summarize previous research efforts leveraging these observations and targeting these processes to enhance immunotherapy outcomes. Clinical trials have documented improved outcomes when combining anti-angiogenic agents and immunotherapy. However, their overall survival benefit over conventional therapy remains limited and certain tumors exhibit poor response to anti-angiogenic therapy. Additionally, whilst preclinical studies have shown several components of the tumor coagulome to curb effective anti-tumor immune responses, the clinical studies reporting combinations of anticoagulants with immunotherapies have demonstrated variable treatment outcomes. By reviewing the current state of the literature on this topic, we address the key questions and future directions in the field, the answers of which are crucial for developing effective strategies to reprogram the TME in order to further the field of cancer immunotherapy.

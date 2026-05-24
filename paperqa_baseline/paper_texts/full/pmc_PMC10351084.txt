@@ -1,0 +1,9 @@
+Title: Fc fragment of IgG binding protein is correlated with immune infiltration levels in hepatocellular carcinoma
+Authors: Yuhong Suo, Chunyu Hou, Guang Yang, Hongfeng Yuan, Lina Zhao, Yufei Wang, Ningning Zhang, Xiaodong Zhang, Wei Lu
+Year: 2023
+Venue: Biomolecules and Biomedicine
+DOI: 10.17305/bb.2022.8586
+Paper ID: pmc_PMC10351084
+
+Abstract:
+The Fc fragment of IgG binding protein (FCGBP) has been confirmed to play an important role in various cancers. However, the specific role of FCGBP in hepatocellular carcinoma (HCC) remains undefined. Thus, in this study, the enrichment analyses (Gene Ontology [GO], Kyoto Encyclopedia of Genes and Genomes [KEGG], and Gene Set Enrichment Analysis [GSEA]) of FCGBP in HCC and extensive bioinformatic analyses using data of clinicopathologic characteristics, genetic expression and alterations, and immune cell infiltration were perfomed. Quantitative real-time polymerase chain reaction (qRT-PCR) was used to verify the expression of FCGBP in both HCC tissues and cell lines. The subsequent results confirmed that FCGBP overexpression positively correlated with poor prognosis in patients with HCC. Additionally, FCGBP expression could effectively distinguish tumor tissues from normal tissues, which was verified by qRT-PCR. The result was further confirmed by using HCC cell lines. The time-dependent survival receiver operator characteristic curve exhibited the strong ability of FCGBP to predict survival in patients with HCC. Additionally, we revealed the strong relationship between FCGBP expression and a number of classic regulatory targets and classical oncogenic signaling pathways of tumors. Finally, FCGBP was involved in the regulation of immune infiltration in HCC. Therefore, FCGBP has potential value in the diagnosis, treatment, and prognosis of HCC and may be a potential biomarker or therapeutic target.

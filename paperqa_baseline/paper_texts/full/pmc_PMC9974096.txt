@@ -1,0 +1,9 @@
+Title: A TRPV4-dependent neuroimmune axis in the spinal cord promotes neuropathic pain
+Authors: Xueming Hu, Lixia Du, Shenbin Liu, Zhou Lan, Kaikai Zang, Jing Feng, Yonghui Zhao, Xingliang Yang, Zili Xie, Peter L. Wang, Aaron M. Ver Heul, Lvyi Chen, Vijay K. Samineni, Yan-Qing Wang, Kory J. Lavine, Robert W. Gereau, Gregory F. Wu, Hongzhen Hu
+Year: 2023
+Venue: The Journal of Clinical Investigation
+DOI: 10.1172/JCI161507
+Paper ID: pmc_PMC9974096
+
+Abstract:
+Microglia, resident macrophages of the CNS, are essential to brain development, homeostasis, and disease. Microglial activation and proliferation are hallmarks of many CNS diseases, including neuropathic pain. However, molecular mechanisms that govern the spinal neuroimmune axis in the setting of neuropathic pain remain incompletely understood. Here, we show that genetic ablation or pharmacological blockade of transient receptor potential vanilloid type 4 (TRPV4) markedly attenuated neuropathic pain-like behaviors in a mouse model of spared nerve injury. Mechanistically, microglia-expressed TRPV4 mediated microglial activation and proliferation and promoted functional and structural plasticity of excitatory spinal neurons through release of lipocalin-2. Our results suggest that microglial TRPV4 channels reside at the center of the neuroimmune axis in the spinal cord, which transforms peripheral nerve injury into central sensitization and neuropathic pain, thereby identifying TRPV4 as a potential new target for the treatment of chronic pain.

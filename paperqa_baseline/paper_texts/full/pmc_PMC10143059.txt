@@ -1,0 +1,9 @@
+Title: Poly( l -Ornithine)-Based Polymeric Micelles as pH-Responsive Macromolecular Anticancer Agents
+Authors: Miao Pan, Chao Lu, Wancong Zhang, Huan Huang, Xingyu Shi, Shijie Tang, Daojun Liu
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041307
+Paper ID: pmc_PMC10143059
+
+Abstract:
+Anticancer peptides and polymers represent an emerging field of tumor treatment and can physically interact with tumor cells to address the problem of multidrug resistance. In the present study, poly( l -ornithine)- b -poly( l -phenylalanine) (PLO- b -PLF) block copolypeptides were prepared and evaluated as macromolecular anticancer agents. Amphiphilic PLO- b -PLF self-assembles into nanosized polymeric micelles in aqueous solution. Cationic PLO- b -PLF micelles interact steadily with the negatively charged surfaces of cancer cells via electrostatic interactions and kill the cancer cells via membrane lysis. To alleviate the cytotoxicity of PLO- b -PLF, 1,2-dicarboxylic-cyclohexene anhydride (DCA) was anchored to the side chains of PLO via an acid-labile β -amide bond to fabricate PLO(DCA)- b -PLF. Anionic PLO(DCA)- b -PLF showed negligible hemolysis and cytotoxicity under neutral physiological conditions but recovered cytotoxicity (anticancer activity) upon charge reversal in the weakly acidic microenvironment of the tumor. PLO-based polypeptides might have potential applications in the emerging field of drug-free tumor treatment.

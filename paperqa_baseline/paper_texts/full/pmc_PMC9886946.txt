@@ -1,0 +1,9 @@
+Title: Learning on tree architectures outperforms a convolutional feedforward network
+Authors: Yuval Meir, Itamar Ben-Noam, Yarden Tzach, Shiri Hodassman, Ido Kanter
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-27986-6
+Paper ID: pmc_PMC9886946
+
+Abstract:
+Advanced deep learning architectures consist of tens of fully connected and convolutional hidden layers, currently extended to hundreds, are far from their biological realization. Their implausible biological dynamics relies on changing a weight in a non-local manner, as the number of routes between an output unit and a weight is typically large, using the backpropagation technique. Here, a 3-layer tree architecture inspired by experimental-based dendritic tree adaptations is developed and applied to the offline and online learning of the CIFAR-10 database. The proposed architecture outperforms the achievable success rates of the 5-layer convolutional LeNet. Moreover, the highly pruned tree backpropagation approach of the proposed architecture, where a single route connects an output unit and a weight, represents an efficient dendritic deep learning.

@@ -1,0 +1,9 @@
+Title: Comparative Transcriptome Analyses Indicate Molecular Homology of Zebrafish Swimbladder and Mammalian Lung
+Authors: Weiling Zheng, Zhengyuan Wang, John E. Collins, Robert M. Andrews, Derek Stemple, Zhiyuan Gong
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024019
+Paper ID: pmc_PMC3162596
+
+Abstract:
+The fish swimbladder is a unique organ in vertebrate evolution and it functions for regulating buoyancy in most teleost species. It has long been postulated as a homolog of the tetrapod lung, but the molecular evidence is scarce. In order to understand the molecular function of swimbladder as well as its relationship with lungs in tetrapods, transcriptomic analyses of zebrafish swimbladder were carried out by RNA-seq. Gene ontology classification showed that genes in cytoskeleton and endoplasmic reticulum were enriched in the swimbladder. Further analyses depicted gene sets and pathways closely related to cytoskeleton constitution and regulation, cell adhesion, and extracellular matrix. Several prominent transcription factor genes in the swimbladder including hoxc4a , hoxc6a , hoxc8a and foxf1 were identified and their expressions in developing swimbladder during embryogenesis were confirmed. By comparison of enriched transcripts in the swimbladder with those in human and mouse lungs, we established the resemblance of transcriptome of the zebrafish swimbladder and mammalian lungs. Based on the transcriptomic data of zebrafish swimbladder, the predominant functions of swimbladder are in its epithelial and muscular tissues. Our comparative analyses also provide molecular evidence of the relatedness of the fish swimbladder and mammalian lung.

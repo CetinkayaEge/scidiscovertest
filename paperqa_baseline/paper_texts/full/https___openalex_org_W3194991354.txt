@@ -1,0 +1,9 @@
+Title: Sustainability forecasting for Apache incubator projects
+Authors: Likang Yin, Zhuangzhi Chen, Qi Xuan, Vladimir Filkov
+Year: 2021
+Venue: 
+DOI: https://doi.org/10.1145/3468264.3468563
+Paper ID: https://openalex.org/W3194991354
+
+Abstract:
+Although OSS development is very popular, ultimately more than 80% of OSS projects fail. Identifying the factors associated with OSS success can help in devising interventions when a project takes a downturn. OSS success has been studied from a variety of angles, more recently in empirical studies of large numbers of diverse projects, using proxies for sustainability, e.g., internal metrics related to productivity and external ones, related to community popularity. The internal socio-technical structure of projects has also been shown important, especially their dynamics. This points to another angle on evaluating software success, from the perspective of self-sustaining and self-governing communities.

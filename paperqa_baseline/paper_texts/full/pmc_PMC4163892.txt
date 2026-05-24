@@ -1,0 +1,9 @@
+Title: Characterization of a novel posttranslational modification in polypyrimidine tract-binding proteins by SUMO1
+Authors: Wei Han, Lin Wang, Bin Yin, Xiaozhong Peng
+Year: 2014
+Venue: BMB Reports
+DOI: 10.5483/BMBRep.2014.47.4.140
+Paper ID: pmc_PMC4163892
+
+Abstract:
+Polypyrimidine tract-binding protein 1 (PTBP1) and its brainspecific homologue, PTBP2, are associated with pre-mRNAs and influence pre-mRNA processing, as well as mRNA metabolism and transport. They play important roles in neural differentiation and glioma development. In our study, we detected the expression of the two proteins in glioma cells and predicted that they may be sumoylated using SUMOplot analyses. We confirmed that PTBP1 and PTBP2 can be modified by SUMO1 with co-immunoprecipitation experiments using 293ET cells transiently co-expressing SUMO1 and either PTBP1 or PTBP2. We also found that SUMO1 modification of PTBP2 was enhanced by Ubc9 (E2). The mutation of the sumoylation site (Lys137) of PTBP2 markedly inhibited its modification by SUMO1. Interestingly, in T98G glioma cells, the level of sumoylated PTBP2 was reduced compared to that of normal brain cells. Overall, this study shows that PTBP2 is posttranslationally modified by SUMO1. [BMB Reports 2014; 47(4): 233-238]

@@ -1,0 +1,9 @@
+Title: Development of a Decision Support System for Sustainable Environmental Management and Stakeholder Engagement
+Authors: Angelos Alamanos, Alec Rolston, George Papaioannou
+Year: 2021
+Venue: Hydrology
+DOI: https://doi.org/10.3390/hydrology8010040
+Paper ID: https://openalex.org/W3134561471
+
+Abstract:
+Undertaking integrated and sustainable water resources management (ISWRM) and providing socially acceptable solutions with scientifically solid bases is a dynamic and challenging process. Two basic pillars–umbrellas can be identified in the literature: stakeholder engagement and analysis; and integrated monitoring–modelling in the form of a decision support system (DSS) that can assess, evaluate and rank the management options. This study presents a framework that can be used as a good-practice example of successful stakeholder engagement (public engagement and collaboration with local communities towards shared visions) and an integrated DSS for ISWRM (including characterisation at catchment and local scales, programmes of measures and their evaluation): the Framework for Integrated Land and Landscape Management (FILLM), developed by an Irish multi-disciplinary and multi-stakeholder platform, the Water Forum. The fundamental theoretical principles and practical aspects of the FILLM are analysed. A step-by-step guide is proposed for its application, bridging the above pillars, using examples, reviewing methods and software, and analysing challenges and trends. It can help both socio-economic and environmental scientists (modellers) understand each other’s roles and find reviews of useful tools and methods for their work. This work can be a reference point for future ISWRM and environment management and can contribute to holistic education on such topics.

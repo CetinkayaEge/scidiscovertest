@@ -1,0 +1,9 @@
+Title: Waste Management in a Sustainable Circular Economy as a Part of Design of Construction
+Authors: Marcela Spišáková, Tomáš Mandičák, Peter Mésároš, Matej Špak
+Year: 2022
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app12094553
+Paper ID: https://openalex.org/W4225128170
+
+Abstract:
+The Architecture, Engineering, and Construction (AEC) industries are the producers of the most significant waste stream in the European Union. Known EU initiatives propose to deal with the issue of construction and demolition waste (CDW) according to the principles of a circular economy: the 3Rs (reduce, reuse, and recycle). CDW is generated during the whole life cycle of construction. The lack of information about the quantity of CDW during the design phase of building needed for sustainable design of construction was identified as a research gap. The aim of our research is to quantify construction and demolition waste during the construction design phase in a circular economy. The proposed method is based on the generation rate calculation method. This paper describes the proposed methodology for quantifying selected types of construction waste: excavated soil, concrete, and masonry. This information is essential from the point of view of a sustainable circular economy. The main contributions of the paper were identified during the decision-making process of sustainable building design, during the audit of CDW management, and during building information modelling as a support tool for CDW management. As early as the construction design phase, there is the possibility of choosing technologies, construction processes, and materials that have a higher degree of circularity in the economy.

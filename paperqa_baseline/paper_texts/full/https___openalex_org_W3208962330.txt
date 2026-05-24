@@ -1,0 +1,9 @@
+Title: Seasonal hydrogen storage for sustainable renewable energy integration in the electricity sector: A case study of Finland
+Authors: Ahmed M. Elberry, Jagruti Thakur, Jason Veysey
+Year: 2021
+Venue: Journal of Energy Storage
+DOI: https://doi.org/10.1016/j.est.2021.103474
+Paper ID: https://openalex.org/W3208962330
+
+Abstract:
+Wind power is rapidly growing in the Finnish grid, and Finland's electricity consumption is low in the summer compared to the winter. Hence, there is a need for storage that can absorb a large amount of energy during summer and discharge it during winter. This study examines one such storage technology, geological hydrogen storage, which has the potential to store energy on a GWh scale and also over longer periods of time. Finland's electricity generation system was modelled with and without hydrogen storage using the LEAP-NEMO modeling toolkit. The results showed about 69% decline in carbon dioxide emissions as well as a decline in the fossil fuel-based power accompanied with a higher capability to meet demand with less imports in both scenarios. Finally, a critical analysis of the Finnish electricity mix with and without hydrogen storage is presented.

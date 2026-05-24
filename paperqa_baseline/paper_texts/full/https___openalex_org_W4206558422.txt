@@ -1,0 +1,9 @@
+Title: Bioprocess intensification: A route to efficient and sustainable biocatalytic transformations for the future
+Authors: Kamelia Boodhoo, Michael C. Flickinger, John M. Woodley, Emma A. C. Emanuelsson
+Year: 2022
+Venue: Chemical Engineering and Processing - Process Intensification
+DOI: https://doi.org/10.1016/j.cep.2022.108793
+Paper ID: https://openalex.org/W4206558422
+
+Abstract:
+With the current pressing need to rise to the ambition of net zero targets to mitigate carbon emissions and climate change impacts, sustainable processing has never been more critical. Bioprocessing has all the desirable attributes to respond to the sustainable processing challenge: use of cheap, renewable resources, nature-inspired, highly selective biocatalysts operating optimally under mild conditions and reduced energy consumption/carbon footprint. With bioprocessing productivity being far from ideal to meet the large-scale need for food, drugs, biofuels and bio-based chemicals, there has been tremendous interest of late in developing intensified bioprocesses, with significant advancement achieved in tailoring and utilising the technologies in the toolbox traditionally applied in chemical process intensification. This review highlights the wide range of activities currently on-going in bioprocess intensification, focusing on upstream, bioreactor/fermentation and downstream separation steps. Great strides have been made in biocatalyst engineering and high density cell immobilisation for significant productivity enhancement, which, in conjunction with elegant process innovations such as novel bioreactor technologies and in-situ product separations, are enabling bioprocesses to become more competitive than ever before. The future prospects of bioprocess intensification are promising but there are still challenges that need to be overcome to fully exploit this technology.

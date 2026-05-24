@@ -1,0 +1,9 @@
+Title: Urban Sustainability Observatories: Leveraging Urban Experimentation for Sustainability Science and Policy
+Authors: Harvey J. Miller, Kelly J. Clifton, Gulsah Akar, Kristen Tufte, Sathya Gopalakrishnan, John MacArthur, Elena G. Irwin
+Year: 2021
+Venue: Harvard Data Science Review
+DOI: https://doi.org/10.1162/99608f92.2025202b
+Paper ID: https://openalex.org/W3156853665
+
+Abstract:
+Humanity is experiencing revolutionary changes in the 21st century, including accelerating urbanization, the introduction of disruptive mobility technology services, and new sources of data generated and consumed by urban and mobility processes. However, the environmental, social, and economic sustainability implications of these new mobility services are unclear given the complex nature of urban systems and the multifaceted, contested nature of sustainability goals. In this article, we discuss the concept of urban sustainability observatories that leverage urban experimentation through ongoing data collection and analysis capabilities. The goal is to generate new scientific insights and design effective policies to meet sustainability goals for cities. We outline their functional requirements and related research challenges. We also discuss challenges in building and sustaining these observatories and how university, community, and industry partnerships may establish successful observatories that serve as critical drivers of research, technology transfer, and commercialization.

@@ -1,0 +1,9 @@
+Title: Osteopontin Enhances the Expression and Activity of MMP-2 via the SDF-1/CXCR4 Axis in Hepatocellular Carcinoma Cell Lines
+Authors: Rihua Zhang, Xiaolin Pan, Zuhu Huang, Georg F. Weber, Guoxin Zhang
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023831
+Paper ID: pmc_PMC3166084
+
+Abstract:
+Background and Aims Osteopontin, SDF-1α, and MMP-2 are important secreted molecules involved in the pathophysiology of human hepatocellular carcinoma (HCC). This study investigates the effect of the SDF-1α/CXCR4 axis on expression and activity of MMP-2 induced by osteopontin. Methods The expression of CXCR4, SDF-1α, MMP-2 and their associated cellular signaling cascades, involving Akt and MAP Kinases, were determined by Western blotting. The activities of MMP-2 and MMP-9 were assayed by gel zymography. The role of the osteopontin receptors integrin α v β 3 and CD44v6 was evaluated using neutralizing antibodies. We also established CXCR4-deficient SMMC7721 cell lines by transfection with miRNA-CXCR4 plasmids and determined cell invasion activity in a transwell assay. Results In comparison with untreated cells, recombinant human osteopontin (rhOPN) up-regulated CXCR4, SDF-1α, and MMP-2 expression about 5-, 4-, and 6-fold on the protein levels through binding to integrin α v β 3 and CD44v6 in hepatocellular carcinoma cells (SMMC7721 and HepG2). Inhibition of the SDF-1α/CXCR4 axis down-regulated the rhOPN-induced MMP-2 expression and activity. rhOPN also activated Akt, p38 and JNK. Down-regulation of CXCR4 decreased the rhOPN-induced invasion in SMMC7721 cells. Conclusion These results indicate that rhOPN up-regulates MMP-2 through the SDF-1α/CXCR4 axis, mediated by binding to integrin α v β 3 and CD44v6 and activating the PI-3K/Akt and JNK pathways in HepG2 and SMMC7721 cells. Therefore, the osteopontin-SDF-1α/CXCR4-MMP-2 system may be a new therapeutic target for treating HCC progression.

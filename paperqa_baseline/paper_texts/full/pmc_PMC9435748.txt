@@ -1,0 +1,9 @@
+Title: Proactive functional classification of all possible missense single-nucleotide variants in KCNQ4
+Authors: Honglan Zheng, Xinhao Yan, Guanluan Li, Hengwei Lin, Siqi Deng, Wenhui Zhuang, Fuqiang Yao, Yu Lu, Xin Xia, Huijun Yuan, Li Jin, Zhiqiang Yan
+Year: 2022
+Venue: Genome Research
+DOI: 10.1101/gr.276562.122
+Paper ID: pmc_PMC9435748
+
+Abstract:
+Clinical exome sequencing has yielded extensive disease-related missense single-nucleotide variants (SNVs) of uncertain significance, leading to diagnostic uncertainty. KCNQ4 is one of the most commonly responsible genes for autosomal dominant nonsyndromic hearing loss. According to the gnomAD cohort, approximately one in 100 people harbors missense variants in KCNQ4 (missense variants with minor allele frequency > 0.1% were excluded), but most are of unknown consequence. To prospectively characterize the function of all 4085 possible missense SNVs of human KCNQ4 , we recorded the whole-cell currents using the patch-clamp technique and categorized 1068 missense SNVs as loss of function, as well as 728 loss-of-function SNVs located in the transmembrane domains. Further, to mimic the heterozygous condition in Deafness nonsyndromic autosomal dominant 2 (DFNA2) patients caused by KCNQ4 variants, we coexpressed loss-of-function variants with wild-type KCNQ4 and found 516 variants showed impaired or only partially rescued heterogeneous channel function. Overall, our functional classification is highly concordant with the auditory phenotypes in Kcnq4 mutant mice and the assessments of pathogenicity in clinical variant interpretations. Taken together, our results provide strong functional evidence to support the pathogenicity classification of newly discovered KCNQ4 missense variants in clinical genetic testing.

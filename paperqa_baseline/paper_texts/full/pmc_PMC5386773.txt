@@ -1,0 +1,9 @@
+Title: The best strategy for HCC patients at each BCLC stage: a network meta-analysis of observational studies
+Authors: Lei Chang, Yitao Wang, Jibo Zhang, Tao Guo
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14668
+Paper ID: pmc_PMC5386773
+
+Abstract:
+Background and Aims Currently, the Barcelona Clinic Liver Cancer staging system remains huge controversies in the management of hepatocellular carcinoma. To determine the best therapeutic strategy for patients at each stage, we conducted a network meta-analysis and aimed to provide a new treatment concept. Materials and Methods PubMed, Embase and Cochrane Library database were searched for observational studies up to August 31, 2016. We extracted data on overall survival rate from studies that compared various strategies for use with patients at different stages. Network meta-analysis was conducted by evaluating the different overall survival rate of each stage. Cumulative probability value was utilized to rank the strategies under examination. A node-splitting model was employed to assess consistency and inconsistency. Results A total of 198 observational studies were included in the network meta-analysis with a focus on Stages 0-D. By comparing the overall survival rate of each stage, the results revealed that liver transplantation and liver transplantation plus transcatheter arterial chemoembolization were the best options for patients with Stages 0 and A. The applications of surgical resection plus transcatheter arterial chemoembolization and surgical resection plus sorafenib were the best strategies for Stages B and C. For Stage D, whole net connection could not be established, but intra-arterial infusion chemotherapy and liver transplantation could be potential primary options. Conclusions The existing therapeutic flowchart needs to be updated. Potential best strategies relating to all stages were identified and should be used as references for clinical treatments.

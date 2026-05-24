@@ -1,0 +1,9 @@
+Title: Task Switching: On the Relation of Cognitive Flexibility with Cognitive Capacity
+Authors: Florian Schmitz, Raimund J. Krämer
+Year: 2023
+Venue: Journal of Intelligence
+DOI: 10.3390/jintelligence11040068
+Paper ID: pmc_PMC10140903
+
+Abstract:
+The task-switching paradigm is deemed a measure of cognitive flexibility. Previous research has demonstrated that individual differences in task-switch costs are moderately inversely related to cognitive ability. However, current theories emphasize multiple component processes of task switching, such as task-set preparation and task-set inertia. The relations of task-switching processes with cognitive ability were investigated in the current study. Participants completed a task-switching paradigm with geometric forms and a visuospatial working memory capacity (WMC) task. The task-switch effect was decomposed with the diffusion model. Effects of task-switching and response congruency were estimated as latent differences using structural equation modeling. Their magnitudes and relations with visuospatial WMC were investigated. Effects in the means of parameter estimates replicated previous findings, namely increased non-decision time in task-switch trials. Further, task switches and response incongruency had independent effects on drift rates, reflecting their differential effects on task readiness. Findings obtained with the figural tasks employed in this study revealed that WMC was inversely related to the task-switch effect in non-decision time. Relations with drift rates were inconsistent. Finally, WMC was moderately inversely related to response caution. These findings suggest that more able participants either needed less time for task-set preparation or that they invested less time for task-set preparation.

@@ -1,0 +1,9 @@
+Title: ADE-CycleGAN: A Detail Enhanced Image Dehazing CycleGAN Network
+Authors: Bingnan Yan, Zhaozhao Yang, Huizhu Sun, Conghui Wang
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063294
+Paper ID: pmc_PMC10054719
+
+Abstract:
+The preservation of image details in the defogging process is still one key challenge in the field of deep learning. The network uses the generation of confrontation loss and cyclic consistency loss to ensure that the generated defog image is similar to the original image, but it cannot retain the details of the image. To this end, we propose a detail enhanced image CycleGAN to retain the detail information during the process of defogging. Firstly, the algorithm uses the CycleGAN network as the basic framework and combines the U-Net network’s idea with this framework to extract visual information features in different spaces of the image in multiple parallel branches, and it introduces Dep residual blocks to learn deeper feature information. Secondly, a multi-head attention mechanism is introduced in the generator to strengthen the expressive ability of features and balance the deviation produced by the same attention mechanism. Finally, experiments are carried out on the public data set D-Hazy. Compared with the CycleGAN network, the network structure of this paper improves the SSIM and PSNR of the image dehazing effect by 12.2% and 8.1% compared with the network and can retain image dehazing details.

@@ -1,0 +1,9 @@
+Title: How Does the Digital Economy Affect Sustainable Urban Development? Empirical Evidence from Chinese Cities
+Authors: Qiuqiu Guo, Xiaoyu Ma
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15054098
+Paper ID: https://openalex.org/W4321787839
+
+Abstract:
+The rapid development of modern information technology has promoted the emergence of a new economic form: the digital economy, which has effectively changed economic development patterns and has become an important engine for economic growth in the new era. At the same time, sustainable development is the focus of the world today. Based on the panel data of 280 Chinese cities from 2011 to 2019, this study used the entropy method to measure levels of sustainable urban development while constructing an evaluation system for sustainable urban development levels. In addition, various econometric models were used to empirically analyze the impact, influence mechanisms and spatial effect of the digital economy on sustainable urban development. The results show that (1) the development of the digital economy has effectively promoted the level of sustainable urban development by enhancing the level of green technology innovation and accelerating the upgrading of industrial structures; (2) spatial econometrics regression results indicate that the development of the digital economy is not only an important boost to the sustainable development of local cities, but it also effectively promotes the sustainable development process of surrounding areas; (3) heterogeneity analysis shows that the promoting effect of the digital economy on sustainable urban development is more prominent in the eastern region, in cities larger than medium-size and in non-resource-based cities.

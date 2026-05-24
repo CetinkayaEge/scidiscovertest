@@ -1,0 +1,9 @@
+Title: Smart Retrofit: An Innovative and Sustainable Solution
+Authors: Ilaria Pietrangeli, Giovanni Mazzuto, Filippo Emanuele Ciarapica, Maurizio Bevilacqua
+Year: 2023
+Venue: Machines
+DOI: https://doi.org/10.3390/machines11050523
+Paper ID: https://openalex.org/W4367598787
+
+Abstract:
+Recovering old machinery, once it reaches its end of life, allows companies to be sustainable. Several strategies are available for this purpose, both from the point of view of hardware and software modifications. Especially in the industrial sector, these strategies are classified as revamping, remanufacturing and retrofitting. Machinery revamping, retrofitting and remanufacturing are all used to improve industrial equipment performance, efficiency and sustainability. Each approach has unique benefits and trade-offs, depending on the specific needs and requirements of the equipment and business. Moreover, according to Industry 4.0 principles, it is also possible to talk about smart retrofitting, involving the integration of various technologies such as sensors, automation systems, Digital Twins, artificial intelligence and data analytics software to control and optimise the operation of the machinery. Digital Twins, in particular, have been widely used among smart retrofit solutions and can integrate several innovative aspects of dated systems. However, a literature review needs to clarify their meaning and specific characteristics. For this reason, this paper aims to distinguish different strategies and find a correct definition of smart retrofitting, highlighting its relevance, benefits and sustainability in the industrial sector, focusing more on Digital Twin solutions for smart retrofitting.

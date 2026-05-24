@@ -1,0 +1,9 @@
+Title: Exploring the Structural, Electronic, Magnetic, and Transport Properties of 2D Cr, Fe, and Zr Monoborides
+Authors: Isabel M. Arias-Camacho, Nevill Gonzalez Szwacki
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16145104
+Paper ID: pmc_PMC10385091
+
+Abstract:
+Compared to other 2D materials, MBenes are at an early stage of investigation in terms of both experimental and theoretical approaches. However, their wide range of possible 2D structures leads to novel and challenging properties and consequent applications. From all the possible stoichiometries, we performed a theoretical study of orthorhombic and hexagonal M 2 B 2 MBenes within the framework of density functional theory. We found that both symmetries of Cr 2 B 2 , Fe 2 B 2 , and Zr 2 B 2 show metallic behavior and could be grown under certain conditions as they were demonstrated to be dynamically stable. Moreover, the values of the magnetic moment observed, in specific ferromagnetic cases exceeding 2.5 μ B /M 2 B 2 , make them suitable as robust 2D magnets. Our findings represent an important step in the understanding of MBenes and open several windows to future research in fields like energy conversion and storage, sensing, catalysis, biochemistry, and nanotechnology, among others.

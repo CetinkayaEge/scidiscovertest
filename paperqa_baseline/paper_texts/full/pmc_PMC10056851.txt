@@ -1,0 +1,9 @@
+Title: A New Acoustical Autonomous Method for Identifying Endangered Whale Calls: A Case Study of Blue Whale and Fin Whale
+Authors: Farook Sattar
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063048
+Paper ID: pmc_PMC10056851
+
+Abstract:
+In this paper, we study to improve acoustical methods to identify endangered whale calls with emphasis on the blue whale ( Balaenoptera musculus ) and fin whale ( Balaenoptera physalus ). A promising method using wavelet scattering transform and deep learning is proposed here to detect/classify the whale calls quite precisely in the increasingly noisy ocean with a small dataset. The performances shown in terms of classification accuracy (>97%) demonstrate the efficiency of the proposed method which outperforms the relevant state-of-the-art methods. In this way, passive acoustic technology can be enhanced to monitor endangered whale calls. Efficient tracking of their numbers, migration paths and habitat become vital to whale conservation by lowering the number of preventable injuries and deaths while making progress in their recovery.

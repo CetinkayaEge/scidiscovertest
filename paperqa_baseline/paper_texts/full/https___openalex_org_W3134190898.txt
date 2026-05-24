@@ -1,0 +1,9 @@
+Title: Machine Learning‐Based Modeling with Optimization Algorithm for Predicting Mechanical Properties of Sustainable Concrete
+Authors: Muhammad Izhar Shah, Shazim Ali Memon, Muhammad Sohaib Khan Niazi, Muhammad Nasir Amin, Fahid Aslam, Muhammad Faisal Javed
+Year: 2021
+Venue: Advances in Civil Engineering
+DOI: https://doi.org/10.1155/2021/6682283
+Paper ID: https://openalex.org/W3134190898
+
+Abstract:
+In this research, multiexpression programming (MEP) has been employed to model the compressive strength, splitting tensile strength, and flexural strength of waste sugarcane bagasse ash (SCBA) concrete. Particle swarm optimization (PSO) algorithm was used to fine‐tune the hyperparameter of the proposed MEP. The formulation of SCBA concrete was correlated with five input parameters. To train and test the proposed model, a large number of data were collected from the published literature. Afterward, waste SCBA was collected, processed, and characterized for partial replacement of cement in concrete. Concrete specimens with varying proportion of SCBA were prepared in the laboratory, and results were used for model validation. The performance of the developed models was then evaluated by statistical criteria and error assessment tests. The result shows that the performance of MEP with PSO algorithm significantly enhanced its accuracy. The essential input variables affecting the output were revealed, and the parametric analysis confirms that the models are accurate and have captured the essential properties of SCBA. Finally, the cross validation ensured the generalized capacity and robustness of the models. Hence, the adopted approach, i.e., MEP‐based modeling with PSO, could be an effective tool for accurate modeling of the concrete properties, thus directly contributing to the construction sector by consuming waste and protecting the environment.

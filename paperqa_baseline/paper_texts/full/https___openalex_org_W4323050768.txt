@@ -1,0 +1,9 @@
+Title: A sustainable route for the recovery of metals from waste printed circuit boards using methanesulfonic acid
+Authors: Prashant Ram Jadhao, Snigdha Mishra, Aditya Singh, Kamal Kishore Pant, K.D.P. Nigam
+Year: 2023
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2023.117581
+Paper ID: https://openalex.org/W4323050768
+
+Abstract:
+concentration, stirring speed, liquid to solid ratio, time, and temperature) was investigated on metal extraction to optimize the process. At the optimized process conditions, 100% extraction of Cu and Zn was achieved, while Ni extraction was around 90%. The kinetic study for metal extraction was performed using a shrinking core model and findings showed that MSA-aided metal extraction is a diffusion-controlled process. Activation energies were found to be 9.35, 10.89, and 18.86 kJ/mol for Cu, Zn, and Ni extraction, respectively. Furthermore, the individual recovery of Cu and Zn was achieved using the combination of cementation and electrowinning, which resulted in 99.9% purity of Cu and Zn. The current study proposes a sustainable solution for the selective recovery of Cu and Zn from WPCB.

@@ -1,0 +1,9 @@
+Title: GABA transporter sustains IL-1β production in macrophages
+Authors: Yaoyao Xia, Fang He, Xiaoyan Wu, Bie Tan, Siyuan Chen, Yuexia Liao, Ming Qi, Shuai Chen, Yuanyi Peng, Yulong Yin, Wenkai Ren
+Year: 2021
+Venue: Science Advances
+DOI: https://doi.org/10.1126/sciadv.abe9274
+Paper ID: https://openalex.org/W3144702937
+
+Abstract:
+Accumulating evidence shows that nervous system governs host immune responses; however, how γ-aminobutyric acid (GABA)ergic system shapes the function of innate immune cells is poorly defined. Here, we demonstrate that GABA transporter (GAT2) modulates the macrophage function. GAT2 deficiency lowers the production of interleukin-1β (IL-1β) in proinflammatory macrophages. Mechanistically, GAT2 deficiency boosts the betaine/S-adenosylmethionine (SAM)/hypoxanthine metabolic pathway to inhibit transcription factor KID3 expression through the increased DNA methylation in its promoter region. KID3 regulates oxidative phosphorylation (OXPHOS) via targeting the expression of OXPHOS-related genes and is also critical for NLRP3-ASC-caspase-1 complex formation. Likewise, GAT2 deficiency attenuates macrophage-mediated inflammatory responses in vivo, including lipopolysaccharide-induced sepsis, infection-induced pneumonia, and high-fat diet-induced obesity. Together, we propose that targeting GABAergic system (e.g., GABA transporter) could provide previously unidentified therapeutic opportunities for the macrophage-associated diseases.

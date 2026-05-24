@@ -1,0 +1,9 @@
+Title: Saccade rate is associated with recall of items in working memory
+Authors: Sock Ching Low, Paul F.M.J. Verschure, Diogo Santos-Pata
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053522.121
+Paper ID: pmc_PMC9126081
+
+Abstract:
+Working memory has been shown to rely on theta oscillations’ phase synchronicity for item encoding and recall. At the same time, saccadic eye movements during visual exploration have been observed to trigger theta-phase resets, raising the question of whether the neuronal substrates of mnemonic processing rely on motor-evoked responses. To quantify the relationship between saccades and working memory load, we recorded eye tracking and behavioral data from human participants simultaneously performing an n-back Sternberg auditory task and a hue-based catch detection task. In addition to task-specific interference in performance, we also found that saccade rate was modulated by working memory load in the Sternberg task's preresponse stage. Our results support the possibility of interplay between saccades and hippocampal theta during working memory retrieval of items.

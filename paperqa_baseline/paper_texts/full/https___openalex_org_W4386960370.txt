@@ -1,0 +1,9 @@
+Title: Microbial Desalination Cell for Sustainable Water Treatment: A Critical Review
+Authors: Soheil Aber, Zhining Shi, Ke Xing, Raufdeen Rameezdeen, Christopher W.K. Chow, Dharmappa Hagare, Tanu Jindal
+Year: 2023
+Venue: Global Challenges
+DOI: https://doi.org/10.1002/gch2.202300138
+Paper ID: https://openalex.org/W4386960370
+
+Abstract:
+In view of increasing threats arising from the shortage of fresh water, there is an urgent need to propose sustainable technologies for the exploitation of unconventional water sources. As a derivative of microbial fuel cells (MFCs), microbial desalination cell (MDC) has the potential of desalinating saline/brackish water while simultaneously generating electricity, as well as treating wastewater. Therefore, it is worth investigating its practicability as a potential sustainable desalination technology. This review article first introduces the fundamentals and annual trends of MDCs. The desalination of diverse types of solutions using MDCs along with their life cycle impact assessment (LCIA) and economic analysis is studied later. Finally, limitations and areas for improvement, prospects, and potential applications of this technology are discussed. Due to the great advantages of MDCs, improving their design, building materials, efficiency, and throughput will offer them as a significant alternative to the current desalination technologies.

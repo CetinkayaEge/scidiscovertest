@@ -1,0 +1,9 @@
+Title: Blockchain-enabled Sustainability Labeling in the Fashion Industry
+Authors: Anne-Marthe Rekdal Remme, Stine-Mari Stange, Asle Fagerstrøm, Lester Allan Lasrado
+Year: 2022
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.12.015
+Paper ID: https://openalex.org/W4205908905
+
+Abstract:
+This study explores the relative impact of blockchain-enabled sustainability labeling on consumers purchasing behavior when shopping for fashion products. A conjoint experiment was conducted where participants (n=84) assigned scores to stimuli cards according to preference in a specific shopping scenario. Results showed that “blockchain trademarked” did not have much impact relative to “low price” and “high product rating”. Further analysis showed that “blockchain trademarked” had a relatively stronger impact towards those participants (n=22) who indicated that living a sustainable lifestyle is important. Our findings show that there is a need for educating consumers about blockchain and the associated benefits for improving future transparency in sustainability in the fashion industry. Overall, these findings provide valuable grounds for further research on how blockchain-enabled sustainability labeling can create value for both consumers and companies within the fashion industry.

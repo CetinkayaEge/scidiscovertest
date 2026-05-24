@@ -1,0 +1,9 @@
+Title: Difficulty suppressing visual distraction while dual tasking
+Authors: John J. McDonald, John M. Gaspar, Hayley E. P. Lagroix, Pierre Jolicœur
+Year: 2022
+Venue: Psychonomic Bulletin & Review
+DOI: 10.3758/s13423-022-02165-2
+Paper ID: pmc_PMC9971087
+
+Abstract:
+Human beings must often perform multiple tasks concurrently or in rapid succession. Laboratory research has revealed striking limitations in the ability to dual task by asking participants to identify two target objects that are inserted into a rapid stream of irrelevant items. Under a variety of conditions, identification of the second target (T2) is impaired for a short period of time following presentation of the first target (T1). Several theories have been developed to account for this “attentional blink” (AB), but none makes a specific prediction about how processing of T1 might impact an observer’s ability to ignore a salient distractor that accompanies T2. Using event-related potentials (ERPs) to track target and distractor processing, we show that healthy young adults are capable of suppressing a salient visual-search distractor (D2) while dual tasking (as measured by the P D component, which has been associated with suppression) but struggle to do so shortly after the appearance of T1. In fact, the impairment was more severe for distractor processing than it was for target processing (as measured by the N2pc component). Whereas, the T2-elicited N2pc was merely delayed during the AB, the distractor P D was reduced in magnitude and was found to be statistically absent. We conclude that the inhibitory control processes that are typically engaged to prevent distraction are unavailable while an observer is busy processing a target that appeared earlier. Supplementary Information The online version contains supplementary material available at 10.3758/s13423-022-02165-2.

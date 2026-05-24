@@ -1,0 +1,9 @@
+Title: Synthesis and characterization of a glycine-modified heptamethine indocyanine dye for in vivo cancer-targeted near-infrared imaging
+Authors: Tao Liu, Shenglin Luo, Yang Wang, Xu Tan, Qingrong Qi, Chunmeng Shi
+Year: 2014
+Venue: Drug Design, Development and Therapy
+DOI: 10.2147/DDDT.S65696
+Paper ID: pmc_PMC4166911
+
+Abstract:
+Near-infrared (NIR) fluorescent sensors have emerged as promising molecular tools for cancer imaging and detection in living systems. However, cancer NIR fluorescent sensors are very challenging to develop because they are required to exhibit good specificity and low toxicity as an eligible contrast agent. Here, we describe the synthesis of a new heptamethine indocyanine dye (NIR-27) modified with a glycine at the end of each N-alkyl side chain, and its biological characterization for in vivo cancer-targeted NIR imaging. In addition to its high specificity, NIR-27 also shows lower cytotoxicity than indocyanine green, a nonspecific NIR probe widely used in clinic. These characteristics suggest that NIR-27 is a promising prospect as a new NIR fluorescent sensor for sensitive cancer detection.

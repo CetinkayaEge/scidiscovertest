@@ -1,0 +1,9 @@
+Title: Demonstration of a Plasmonic Nonlinear Pseudodiode
+Authors: Sergejs Boroviks, Andrei Kiselev, Karim Achouri, Olivier J. F. Martin
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.3c00367
+Paper ID: pmc_PMC10141562
+
+Abstract:
+We demonstrate a nonlinear plasmonic metasurface that exhibits strongly asymmetric second-harmonic generation: nonlinear scattering is efficient upon excitation in one direction, and it is substantially suppressed when the excitation direction is reversed, thus enabling a diode-like functionality. A significant (approximately 10 dB) extinction ratio of SHG upon opposite excitations is measured experimentally, and those findings are substantiated with full-wave simulations. This effect is achieved by employing a combination of two commonly used metals—aluminum and silver—producing a material composition asymmetry that results in a bianisotropic response of the system, as confirmed by performing homogenization analysis and extracting an effective susceptibility tensor. Finally, we discuss the implications of our results from the more fundamental perspectives of reciprocity and time-reversal asymmetry.

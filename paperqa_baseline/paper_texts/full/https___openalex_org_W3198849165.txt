@@ -1,0 +1,9 @@
+Title: Influence of Sustainable Aviation Fuels on the Formation of Contrails and Their Properties
+Authors: Mafalda Narciso, J. M. M. Sousa
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14175557
+Paper ID: https://openalex.org/W3198849165
+
+Abstract:
+Condensation trails and contrail cirrus are currently responsible for the largest contribution to radiative forcing in the aviation sector, yet they have lifetimes of only a few hours. Their much shorter lifetimes when compared to long-lived greenhouse gases makes them ideal for the implementation of short-term mitigation measures. The use of Sustainable Aviation Fuel (SAF) instead of regular jet fuel has been associated to a reduction in soot particle emissions, leading to a decrease in initial ice crystal numbers in contrails, but also to a possible increase in contrail frequency and contrail ice mass due to higher water vapor emissions. A computational model was used to explore the influence of the variations of soot and water vapor emissions when using SAF and SAF blends in the formation of contrails, their ensuing optical depth, and their lifespan. An increase in frequency of contrails was found in cases where regular jet fuel emissions were close to threshold conditions. Reductions in contrail lifetime of up to 76% were found for contrails with lifetimes of over 30 min, while decreases in optical depth of up to 37% were found for contrails formed in air with a relative humidity of 42% or above. This work provides a better understanding of the potential of SAF as a mitigation measure against the impact of contrails on global warming.

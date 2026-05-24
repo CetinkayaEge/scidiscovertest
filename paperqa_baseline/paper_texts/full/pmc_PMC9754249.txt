@@ -1,0 +1,9 @@
+Title: Comparative transcriptome analysis of Liriomyza trifolii (Burgess) and Liriomyza sativae (Blanchard) (Diptera: Agromyzidae) in response to rapid cold hardening
+Authors: Junaid Iqbal, Xiao-Xiang Zhang, Ya-Wen Chang, Yu-Zhou Du
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279254
+Paper ID: pmc_PMC9754249
+
+Abstract:
+The ability of insets to react efficiently to fluctuation in temperature is crucial for them to survive in variable surroundings. Rapid cold hardening (RCH) is a process that increase cold tolerance in most insect species. The molecular mechanisms of RCH remain largely unknown, and whether it is associated with transcriptional changes is unclear. In this study, we compared the transcriptomes of Liriomyza trifolii and L . sativae exposed to RCH to investigate the transcript abundance due to RCH in both species. RNA-seq revealed 93,166 assembled unigenes, and 34,303 of these were annotated in the L . trifolii and L . sativae transcriptome libraries. After a 4-h treatment at 1°C (RCH) compared with control, 268 and 606 unigenes were differentially expressed in L . trifolii and L . sativae , respectively. When comparing pupae exposed to 2h cold shock directly with pupae went through 4h acclimation prior to 2h cold shock, 60 and 399 unigenes were differentially expressed in L trifolii and L sativae , respectively. Genes that were commonly expressed in both L . trifolii and L . sativae , included cytochrome P450, cuticular protein, glucose dehydrogenase, solute carrier family 22 and cationic amino acid transporter. Additionally, several pathways including galactose metabolism and peroxisome were significantly enriched during RCH. Our results show that the transcriptional response is correlated with RCH in the pupal stage of the two Liriomyza species, but more transcriptional changes were identified in L sativae than in L . trifolii .

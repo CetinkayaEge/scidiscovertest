@@ -1,0 +1,9 @@
+Title: Assessing Handrail-Use Behavior during Stair Ascent or Descent Using Ambient Sensing Technology
+Authors: Yusuke Miyazaki, Kohei Shoda, Koji Kitamura, Yoshifumi Nishida
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042236
+Paper ID: pmc_PMC9967829
+
+Abstract:
+The increasing geriatric population across the world has necessitated the early detection of frailty through the analysis of daily-life behavioral patterns. This paper presents a system for ambient, automatic, and the continuous measurement and analysis of ascent and descent motions and long-term handrail-use behaviors of participants in their homes using an RGB-D camera. The system automatically stores information regarding the environment and three-dimensional skeletal coordinates of the participant only when they appear within the camera’s angle of view. Daily stair ascent and descent motions were measured in two houses: one house with two participants in their 20s and two in their 50s, and another with two participants in their 70s. The recorded behaviors were analyzed in terms of the stair ascent/descent speed, handrail grasping points, and frequency determined using the decision tree algorithm. The participants in their 70s exhibited a decreased stair ascent/descent speed compared to other participants; those in their 50s and 70s exhibited increased handrail usage area and frequency. The outcomes of the study indicate the system’s ability to accurately detect a decline in physical function through the continuous measurement of daily stair ascent and descent motions.

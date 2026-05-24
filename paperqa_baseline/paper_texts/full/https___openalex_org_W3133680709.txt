@@ -1,0 +1,9 @@
+Title: A Systematic Review on Social Sustainability of Artificial Intelligence in Product Design
+Authors: Keeheon Lee
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13052668
+Paper ID: https://openalex.org/W3133680709
+
+Abstract:
+Emerging technologies such as artificial intelligence help operations management achieve sustainability. However, in sustainable operations management studies, scholars pay less attention to product design, which can be highly affected by artificial intelligence. In addition, sustainability is perceived as maintaining economic development while limiting environmental harm caused by human activity. Therefore, social sustainability is treated as peripheral compared to economic and environmental sustainability. However, social sustainability now has gained more attention because it is the basis on which meaningful economic and environmental sustainability can be valid. Thus, I systematically reviewed present studies on product design considering artificial intelligence to understand what types of social sustainability are achieved when applying artificial intelligence to product design. This study discovered artificial intelligence can improve social sustainability in product design, but social sustainability diversity is necessary. These findings can contribute to the inclusion of different types of social sustainability in product design when using artificial intelligence.

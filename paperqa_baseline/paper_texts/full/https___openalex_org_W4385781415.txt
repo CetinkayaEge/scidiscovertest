@@ -1,0 +1,9 @@
+Title: Sustainable assessment of concrete structures using BIM–LCA–AHP integrated approach
+Authors: Mohamed A. Abdelaal, Samer M. Seif, Menna M. El-Tafesh, Noha Bahnas, Mohamed M. Elserafy, Emad S. Bakhoum
+Year: 2023
+Venue: Environment Development and Sustainability
+DOI: https://doi.org/10.1007/s10668-023-03701-3
+Paper ID: https://openalex.org/W4385781415
+
+Abstract:
+Abstract Recently, sustainability has become one of the most critical goals to be accomplished in the construction industry to mitigate its environmental impacts, energy consumption, waste, and cost. Therefore, this research aims to assess the sustainability of concrete structures using the Building Information Modeling and Life Cycle Assessment (BIM–LCA) approach. It can aid to rank and select the type of concrete based on sustainability criteria including CO 2 emissions, embodied energy, and cost using analytical hierarchy process (AHP) method. One-Click LCA tool has been used for the recognition of the distinctions in the LCA results by adopting different environmental product declaration databases. HBERT is used as a verification tool for One-Click LCA results. A comparative study is applied to a multi-story car park concrete structure using both traditional concrete and green concrete that includes supplementary waste materials. Three different models of concrete that have the same compressive strength are selected: traditional concrete, green concrete using 30% fly ash, and green concrete using 50% ground granulated blast-furnace slag (GGBFS). The results showed that using 50% GGBFS in the concrete mix is the most sustainable alternative in terms of CO 2 emissions and embodied energy. Finally, it is concluded that using BIM–LCA–AHP integrated approach can help engineers to design computerized models that improve the sustainability of construction by evaluation based on sustainable objectives.

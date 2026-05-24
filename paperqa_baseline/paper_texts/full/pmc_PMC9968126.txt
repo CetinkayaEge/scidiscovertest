@@ -1,0 +1,9 @@
+Title: Application of the Variational Method to the Large Deformation Problem of Thin Cylindrical Shells with Different Moduli in Tension and Compression
+Authors: Xiao-Ting He, Xiao-Guang Wang, Jun-Yi Sun
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16041686
+Paper ID: pmc_PMC9968126
+
+Abstract:
+In this study, the variational method concerning displacement components is applied to solve the large deformation problem of a thin cylindrical shell with its four sides fully fixed and under uniformly distributed loads, in which the material that constitutes the shell has a bimodular effect, in comparison to traditional materials, that is, the material will present different moduli of elasticity when it is in tension and compression. For the purpose of the use of the displacement variational method, the physical equations on the bimodular material model and the geometrical equation under large deformation are derived first. Thereafter, the total strain potential energy is expressed in terms of the displacement component, thus bringing the possibilities for the classical Ritz method. Finally, the relationship between load and central deflection is obtained, which is validated with the numerical simulation, and the jumping phenomenon of thin cylindrical shell with a bimodular effect is analyzed. The results indicate that the bimodular effect will change the stiffness of the shell, thus resulting in the corresponding change in the deformation magnitude. When the shell is relatively thin, the bimodular effect will influence the occurrence of the jumping phenomenon of the cylindrical shell.

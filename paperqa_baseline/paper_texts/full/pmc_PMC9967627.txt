@@ -1,0 +1,9 @@
+Title: Factors Influencing Antibody Response to SARS-CoV-2 Vaccination
+Authors: Cathrin Kodde, Sascha Tafelski, Efthimia Balamitsa, Irit Nachtigall, Marzia Bonsignore
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11020451
+Paper ID: pmc_PMC9967627
+
+Abstract:
+Vaccination plays a key role in tackling the ongoing SARS-CoV-2 pandemic but data regarding the individual’s protective antibody level are still pending. Our aim is to identify factors that influence antibody response following vaccination in healthcare workers. This single-center study was conducted at Evangelische Kliniken Gelsenkirchen, Germany. Healthcare workers were invited to answer a questionnaire about their vaccinations and adverse reactions. Subsequently, the level of anti-receptor binding domain (RBD) IgG antibody against SARS-CoV-2′s spike protein through blood samples was measured. For statistics, we used a defined correlation of protection (CoP) and examined risk factors associated with being below the given CoP. A total of 645 employees were included and most were female (n = 481, 77.2%). A total of 94.2% participants had received two doses of vaccines (n = 587) and 12.4% (n = 720) had been infected at least once. Most common prime-boost regimen was BNT162b2 + BNT162b2 (57.9%, n = 361). Age ( p < 0.001), days since vaccination ( p = 0.007), and the homologous vaccination regimen with ChAdOx + ChAdOx ( p = 0.004) were risk factors for the antibody level being below the CoP, whereas any previous COVID-19 infection ( p < 0.001), the number of vaccines ( p = 0.016), and physical complaints after vaccination ( p = 0.01) were associated with an antibody level above the CoP. Thus, age, vaccination regimen, days since vaccination, and previous infection influence the antibody level. These risk factors should be considered for booster and vaccinations guidelines.

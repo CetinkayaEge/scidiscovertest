@@ -1,0 +1,9 @@
+Title: Why Corporate Sustainability Is Not Yet Measured
+Authors: Mariapia Pazienza, Martin de Jong, Dirk Schoenmaker
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15076275
+Paper ID: https://openalex.org/W4362669396
+
+Abstract:
+Measuring Corporate Sustainability (CS) has been identified as an important enabler for integrating sustainability into corporate practices. Different methodologies and frameworks for measuring CS have been developed in the literature with limited success, as reflected by the lack of application in the real world. Among practitioners, the effort has been on developing frameworks that provide useful indicators of the different items that need to be considered for integrating sustainability. Notwithstanding the increasing attention and progress on the subject, a cohesive and applicable measure of CS across firms, industries and geographies is still missing. This paper provides an examination of the different methodologies for measuring CS, with an analysis of their merits and limitations, as well as guidance for future research focus. The findings show a failure to coherently link the mathematical measurement and data aggregation methodologies to a well-constructed concept where the linkage between the defining features and causal relations are appropriately identified. The proposed models and mathematical techniques are not able to inform on the extent to which a corporation acts sustainably because sustainability is not being measured in its highest extension, making the results narrow, non-referential and non-comparable. Furthermore, there is confusion between developing the indicators of CS, providing their measurement and enabling their integration.

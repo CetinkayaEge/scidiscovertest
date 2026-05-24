@@ -1,0 +1,9 @@
+Title: Evolutionary scaling of maximum growth rate with organism size
+Authors: Michael Lynch, Bogi Trickovic, Christopher P. Kempes
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-23626-7
+Paper ID: pmc_PMC9803686
+
+Abstract:
+Data from nearly 1000 species reveal the upper bound to rates of biomass production achievable by natural selection across the Tree of Life. For heterotrophs, maximum growth rates scale positively with organism size in bacteria but negatively in eukaryotes, whereas for phototrophs, the scaling is negligible for cyanobacteria and weakly negative for eukaryotes. These results have significant implications for understanding the bioenergetic consequences of the transition from prokaryotes to eukaryotes, and of the expansion of some groups of the latter into multicellularity. The magnitudes of the scaling coefficients for eukaryotes are significantly lower than expected under any proposed physical-constraint model. Supported by genomic, bioenergetic, and population-genetic data and theory, an alternative hypothesis for the observed negative scaling in eukaryotes postulates that growth-diminishing mutations with small effects passively accumulate with increasing organism size as a consequence of associated increases in the power of random genetic drift. In contrast, conditional on the structural and functional features of ribosomes, natural selection has been able to promote bacteria with the fastest possible growth rates, implying minimal conflicts with both bioenergetic constraints and random genetic drift. If this extension of the drift-barrier hypothesis is correct, the interpretations of comparative studies of biological traits that have traditionally ignored differences in population-genetic environments will require revisiting.

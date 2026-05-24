@@ -1,0 +1,9 @@
+Title: Optical transitions and radiative properties of green emitting Ho 3+ :YVO 4 phosphor
+Authors: Vijay Singh, M. Seshadri, Deepak Taikar, S. J. Dhoble, R. S. Yadav
+Year: 2023
+Venue: RSC Advances
+DOI: 10.1039/d2ra06287a
+Paper ID: pmc_PMC9890808
+
+Abstract:
+The Ho 3+ -doped YVO 4 phosphors were successfully prepared via a sol–gel process in which citric acid was used as a chelating agent. X-ray diffraction (XRD) confirmed the effective inclusion of Ho 3+ ions into the host matrix with the formation of single phase YVO 4 . The surface morphology was observed using SEM, the results of which showed a grain growth propensity and the agglomeration of prepared phosphors. The V–O (VO 4 3− ) vibration mode was analyzed through Fourier transform infrared (FTIR) spectra. The spectroscopic properties were reported through UV-vis-NIR diffuse reflectance and photoluminescence (PL) spectra. The Judd–Ofelt (J–O) intensity parameters Ω 2 = 0.03 × 10 −20 cm 2 , Ω 4 = 0.22 × 10 −20 cm 2 , and Ω 6 = 0.23 × 10 −20 cm 2 obtained for the Y 0.97 VO 4 :0.03Ho 3+ phosphors were used to obtain the total transition probabilities ( A T ), radiative lifetimes ( τ rad ) and branching ratios ( β ) for the certain transitions of Ho 3+ ions. Under 310 nm UV excitation, the visible emission spectra were measured, and an intense emission was observed around 541 nm (green region) for all the samples. The emission cross-section σ P ( λ ) was 3.22 × 10 −21 cm 2 and the branching ratio ( β ) was 0.816; these were investigated to capture the optimal concentration of the Y 0.97 VO 4 :0.03Ho 3+ phosphor. The estimated color coordinates were observed in the green region of CIE diagram. Ultimately, the superior properties ( σ P ( λ ), β , and color purity) of Y 0.97 VO 4 :0.03Ho 3+ phosphor may make it suitable for green emitting devices. Ho 3+ -doped YVO 4 phosphors were successfully prepared via a sol–gel process in which citric acid was used as a chelating agent.

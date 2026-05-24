@@ -1,0 +1,9 @@
+Title: Multicomponent Lipid Nanoparticles for RNA Transfection
+Authors: Nataliya Gretskaya, Mikhail Akimov, Dmitry Andreev, Anton Zalygin, Ekaterina Belitskaya, Galina Zinchenko, Elena Fomina-Ageeva, Ilya Mikhalyov, Elena Vodovozova, Vladimir Bezuglov
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041289
+Paper ID: pmc_PMC10141487
+
+Abstract:
+Despite the wide variety of available cationic lipid platforms for the delivery of nucleic acids into cells, the optimization of their composition has not lost its relevance. The purpose of this work was to develop multi-component cationic lipid nanoparticles (LNPs) with or without a hydrophobic core from natural lipids in order to evaluate the efficiency of LNPs with the widely used cationic lipoid DOTAP (1,2-dioleoyloxy-3-[trimethylammonium]-propane) and the previously unstudied oleoylcholine (Ol-Ch), as well as the ability of LNPs containing GM3 gangliosides to transfect cells with mRNA and siRNA. LNPs containing cationic lipids, phospholipids and cholesterol, and surfactants were prepared according to a three-stage procedure. The average size of the resulting LNPs was 176 nm (PDI 0.18). LNPs with DOTAP mesylate were more effective than those with Ol-Ch. Core LNPs demonstrated low transfection activity compared with bilayer LNPs. The type of phospholipid in LNPs was significant for the transfection of MDA-MB-231 and SW 620 cancer cells but not HEK 293T cells. LNPs with GM3 gangliosides were the most efficient for the delivery of mRNA to MDA-MB-231 cells and siRNA to SW620 cells. Thus, we developed a new lipid platform for the efficient delivery of RNA of various sizes to mammalian cells.

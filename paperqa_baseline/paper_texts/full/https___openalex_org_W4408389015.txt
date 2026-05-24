@@ -1,0 +1,9 @@
+Title: Sustainable bioactive hydrogels for organic contaminant elimination in wastewater
+Authors: Jinlong Zhang, Jason C. White, Jinglei He, Xue‐Feng Yu, Chuanhao Yan, Liang Dong, Shu Tao, Xilong Wang
+Year: 2025
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-025-57720-x
+Paper ID: https://openalex.org/W4408389015
+
+Abstract:
+Immobilized enzyme bioremediation is a promising technique for eliminating pollutants to alleviate water scarcity pressure but is severely hindered by poor enzymatic activity and stability. An effective charge-assisted H-bonding approach is developed to achieve high laccase loading and enzymatic activity on bio(cellulose)-based hydrogels. Notably, this strategy can be readily extended to lipase and catalase. The bio-based hydrogels are synthesized by grafting deoxyribonucleic acid onto the cellulose backbone through a one-step structural regulation, achieving high mechanical strength, enzyme loading and contaminant capture for degradation. The biocompatible laccase-immobilized hydrogels exhibit significant removal and degradation performance for diverse organic micropollutants, including parent and substituted polycyclic aromatic hydrocarbons, per- and polyfluoroalkyl substances, antibiotics and organic dyes. Further testing focused on parent and substituted polycyclic aromatic hydrocarbons shows minimal influence of various co-existing interfering substances on performance of the laccase-immobilized bioactive hydrogel, with its contaminant removal and degradation efficiency in authentic wastewater being 93.0- and 64.3-fold that of commercial free laccase, respectively. This work provides an effective strategy for sustainable bioremediation of wastewater and other pollutant streams, while simultaneously enabling the development of innovative enzyme catalysts.

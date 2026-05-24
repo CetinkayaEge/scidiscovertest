@@ -1,0 +1,9 @@
+Title: Sustainable mechanochemical synthesis of β-cyclodextrin polymers by twin screw extrusion
+Authors: Alberto Rubin Pedrazzo, Francesco Trotta, Gjylije Hoti, Federico Cesano, Marco Zanetti
+Year: 2021
+Venue: Environmental Science and Pollution Research
+DOI: https://doi.org/10.1007/s11356-021-15187-5
+Paper ID: https://openalex.org/W3193513444
+
+Abstract:
+Cyclodextrin nanosponges (CD-NS) are cross-linked cyclodextrin polymers characterized by a nanostructured three-dimensional network. CD-NSs in the last years found many different applications in the pharmaceutical field for the controlled release of drugs and for the absorption of undesired substances from physiological media, food, and wastewater. Most of CD-NS syntheses involve the solubilization of the chosen CD in closed batch, using a suitable organic polar aprotic liquid, which may affect potential environmental or biomedical applications. Since the research is now moving towards more sustainable approaches, new and greener syntheses of CD-NS are now being developed. Here, it is reported a new eco-friendly and efficient synthesis of nanosponges through mechanochemistry. Mechanochemistry involves the application of mechanical forces to drive and control chemical reactions by transferring energy to chemical bonds. The mechanochemical approach involves the use of a twin-screw extruder (TSE) as a chemical reactor: TSE are capable of fine temperature control and, furthermore, TS Extrusion is a continuous process and not a batch process. Among the many available CD-NS syntheses, we tested our solvent-free approach on a β-CD/citric acid (CA) system. Moreover, using TSE, the same polymer was obtained in a considerably shorter time. The so obtained NSs were used for the adsorption and removal of probe molecules, in comparison with NSs prepared by cross-linking β-CD with CA in batch.

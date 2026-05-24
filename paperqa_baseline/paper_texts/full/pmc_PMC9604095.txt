@@ -1,0 +1,9 @@
+Title: Assessing T-Cell Immunity in Kidney Transplant Recipients with Absent Antibody Production after a 3rd Dose of the mRNA-1273 Vaccine
+Authors: Maria Infantino, Aris Tsalouchos, Edda Russo, Selene Laudicina, Valentina Grossi, Barbara Lari, Maurizio Benucci, Lorenzo Stacchini, Amedeo Amedei, Patrizia Casprini, Danilo Villalta, Pietro Claudio Dattolo, Mariangela Manfredi
+Year: 2022
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms232012333
+Paper ID: pmc_PMC9604095
+
+Abstract:
+The vulnerable population of kidney transplant recipients (KTRs) are low responders to COVID-19 vaccines, so specific immune surveillance is needed. The interferon-gamma (IFN-γ) release assay (IGRA) is effective in assessing T cell-mediated immunity. We assessed SARS-CoV-2-directed T cell responses in KTRs with absent antibody production after a third dose of the mRNA-1273 vaccine, using two different IGRAs. A cohort of 57 KTRs, who were actively followed up, received a third dose of the mRNA-1273 vaccine. After the evaluation of humoral immunity to SARS-CoV-2, 14 seronegative patients were tested with two commercial IGRAs (SD Biosensor and Euroimmun). Out of 14 patients, one and three samples were positive by IGRAs with Euroimmun and SD Biosensor, respectively. The overall agreement between the two assays was 85.7% (κ = 0.444). In addition, multivariate linear regression analysis showed no statistically significant association between the IFN-γ concentration, and the independent variables analyzed (age, gender, years since transplant, total lymphocytes cells/mcl, CD3+ cells/mcl, CD3+ CD4+ cells/mcl, CD3+ CD8+ cells/mcl, CD19+ cells/mcl, CD3-CD16+CD56+ cells/mcl) ( p > 0.01). In a vulnerable setting, assessing cellular immune response to complement the humoral response may be advantageous. Since the two commercial IGRAs showed a good agreement on negative samples, the three discordant samples highlight the need for further investigations.

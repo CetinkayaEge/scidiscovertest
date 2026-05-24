@@ -1,0 +1,9 @@
+Title: A density functional theory for ecology across scales
+Authors: Martin-I. Trappe, Ryan A. Chisholm
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36628-4
+Paper ID: pmc_PMC9968302
+
+Abstract:
+Ecology lacks a holistic approach that can model phenomena across temporal and spatial scales, largely because of the challenges in modelling systems with a large number of interacting constituents. This hampers our understanding of complex ecosystems and the impact that human interventions (e.g., deforestation, wildlife harvesting and climate change) have on them. Here we use density functional theory, a computational method for many-body problems in physics, to develop a computational framework for ecosystem modelling. Our methods accurately fit experimental and synthetic data of interacting multi-species communities across spatial scales and can project to unseen data. As the key concept we establish and validate a cost function that encodes the trade-offs between the various ecosystem components. We show how this single general modelling framework delivers predictions on par with established, but specialised, approaches for systems from predatory microbes to territorial flies to tropical tree communities. Our density functional framework thus provides a promising avenue for advancing our understanding of ecological systems. Modelling diverse ecological phenomena across scales with a single mathematical framework is challenging. Here, the authors draw on density functional theory to develop a framework that bridges between mechanistic theories at fine scales and statistical models at large scales.

@@ -1,0 +1,9 @@
+Title: Quantum phase synchronization via exciton-vibrational energy dissipation sustains long-lived coherence in photosynthetic antennas
+Authors: Ruidan Zhu, Wenjun Li, Zhanghe Zhen, Jiading Zou, G. R. Liao, Jiayu Wang, Zhuan Wang, Hailong Chen, Song Qin, Yuxiang Weng
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-47560-6
+Paper ID: https://openalex.org/W4394755930
+
+Abstract:
+The lifetime of electronic coherences found in photosynthetic antennas is known to be too short to match the energy transfer time, rendering the coherent energy transfer mechanism inactive. Exciton-vibrational coherence time in excitonic dimers which consist of two chromophores coupled by excitation transfer interaction, can however be much longer. Uncovering the mechanism for sustained coherences in a noisy biological environment is challenging, requiring the use of simpler model systems as proxies. Here, via two-dimensional electronic spectroscopy experiments, we present compelling evidence for longer exciton-vibrational coherence time in the allophycocyanin trimer, containing excitonic dimers, compared to isolated pigments. This is attributed to the quantum phase synchronization of the resonant vibrational collective modes of the dimer, where the anti-symmetric modes, coupled to excitonic states with fast dephasing, are dissipated. The decoupled symmetric counterparts are subject to slower energy dissipation. The resonant modes have a predicted nearly 50% reduction in the vibrational amplitudes, and almost zero amplitude in the corresponding dynamical Stokes shift spectrum compared to the isolated pigments. Our findings provide insights into the mechanisms for protecting coherences against the noisy environment.

@@ -1,0 +1,9 @@
+Title: Predicting sustainable arsenic mitigation using machine learning techniques
+Authors: Sushant K. Singh, Robert W. Taylor, Biswajeet Pradhan, Ataollah Shirzadi, Binh Thai Pham
+Year: 2022
+Venue: Ecotoxicology and Environmental Safety
+DOI: https://doi.org/10.1016/j.ecoenv.2022.113271
+Paper ID: https://openalex.org/W4210289137
+
+Abstract:
+This study evaluates state-of-the-art machine learning models in predicting the most sustainable arsenic mitigation preference. A Gaussian distribution-based Naïve Bayes (NB) classifier scored the highest Area Under the Curve (AUC) of the Receiver Operating Characteristic curve (0.82), followed by Nu Support Vector Classification (0.80), and K-Neighbors (0.79). Ensemble classifiers scored higher than 70% AUC, with Random Forest being the top performer (0.77), and Decision Tree model ranked fourth with an AUC of 0.77. The multilayer perceptron model also achieved high performance (AUC=0.75). Most linear classifiers underperformed, with the Ridge classifier at the top (AUC=0.73) and perceptron at the bottom (AUC=0.57). A Bernoulli distribution-based Naïve Bayes classifier was the poorest model (AUC=0.50). The Gaussian NB was also the most robust ML model with the slightest variation of Kappa score on training (0.58) and test data (0.64). The results suggest that nonlinear or ensemble classifiers could more accurately understand the complex relationships of socio-environmental data and help develop accurate and robust prediction models of sustainable arsenic mitigation. Furthermore, Gaussian NB is the best option when data is scarce.

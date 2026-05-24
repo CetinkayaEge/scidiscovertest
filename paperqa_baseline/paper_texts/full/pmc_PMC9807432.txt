@@ -1,0 +1,9 @@
+Title: Recent advances in selective and targeted drug/gene delivery systems using cell-penetrating peptides
+Authors: So Hee Nam, Joonhyuck Park, Heebeom Koo
+Year: 2023
+Venue: Archives of Pharmacal Research
+DOI: 10.1007/s12272-022-01425-y
+Paper ID: pmc_PMC9807432
+
+Abstract:
+Biological cell membranes are a natural barrier for living cells. In the last few decades, the cell membrane has been the main hurdle in the efficient delivery of bioactive and therapeutic agents. To increase the drug efficacy of these agents, additional mediators have been considered. Cell-penetrating peptides (CPPs), a series of oligopeptides composed of mostly hydrophobic and/or positively charged side chains, can increase the interaction with the cell membrane. CPP-based delivery platforms have shown great potential for the efficient and direct cytosol delivery of various cargos, including genes, proteins, and small molecule drugs. Bypassing endocytosis allows the CPP-based delivery systems greater defense against the degradation of protein-based drugs than other drug delivery systems. However, the delivery of CPPs exhibits intrinsically non-specific targeting, which limits their medical applications. To endow CPPs with specific targeting ability, the conjugation of pH-sensitive, enzyme-specific cleavable, and multiple targeting ligands has been reported. Optimization of the length and sequence of CPPs is still needed for various drugs of different sizes and surface charges. Toxicity issues in CPP-based delivery systems should be addressed carefully before clinical use.

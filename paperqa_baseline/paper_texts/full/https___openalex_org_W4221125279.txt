@@ -1,0 +1,9 @@
+Title: Life cycle assessment‐based Absolute Environmental Sustainability Assessment is also relative
+Authors: Jeroen B. Guinée, Arjan de Koning, Reinout Heijungs
+Year: 2022
+Venue: Journal of Industrial Ecology
+DOI: https://doi.org/10.1111/jiec.13260
+Paper ID: https://openalex.org/W4221125279
+
+Abstract:
+Abstract Over the past years, an increasing number of scholarly papers have used the planetary boundaries (PBs) within life cycle assessment (LCA) to determine if the life cycle impacts of a product system fit within those PBs and thereby establish the absolute sustainability of the product system. This type of LCA is nowadays coined as LCA‐based Absolute Environmental Sustainability Assessment (AESA). “Absolute” thereby refers to methods enabling the comparison of environmental impacts of products, companies, nations, and so on, with an assigned share of environmental carrying capacity for various impact categories. A recent review of LCA‐based AESA methods and their applications characterized 47 studies “according to their intended application, impact categories, basis of carrying capacity estimates, spatial differentiation of environmental model and principles for assigning carrying capacity.” However, the review and the majority of studies reviewed did not, or only to a limited extent, discuss potential temporal issues of assigning carrying capacity to product systems. Several of the carrying capacity estimates have a time dimension while LCA results lack a time dimension. In this article, we show that assigning PBs to product systems is only technically possible when adopting several fundamental though unrealistic assumptions, and conclude that even product LCA‐based AESA is relative. This should not withhold scholars from developing approaches applying the PBs in LCA, but it should prevent them from claiming and using the term “absolute.”

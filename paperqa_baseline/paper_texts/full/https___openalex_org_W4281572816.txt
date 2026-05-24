@@ -1,0 +1,9 @@
+Title: Smart Agriculture for Sustainable Food Security Using Internet of Things (IoT)
+Authors: Taimoor Qureshi, Muhammad Arif Saeed, Kamran Ahsan, Ashfaq Ahmad Malik, Shah Muhammad Emaduddin, Nasir Touheed
+Year: 2022
+Venue: Wireless Communications and Mobile Computing
+DOI: https://doi.org/10.1155/2022/9608394
+Paper ID: https://openalex.org/W4281572816
+
+Abstract:
+Internet of Things (IoT) is being used in various parts of human life (domestic and commercial) to provide ease in living, safety, increase productivity, monitoring, and resource optimization in various industries. Agriculture is one of them, where IoT and robots are being used before and after the cultivation process, from preparing land for cultivation to supplying them to the consumer market. These domains include crop monitoring, smart irrigation, pest monitoring, and smart pest control, harvesting, and safely supplying them in the consumer market by maintaining the quality and integrity of the final product. Pakistan is an agricultural country, where it stands in terms of advanced agriculture technology. In this review, we discussed the major IoT ecosystem components. What are the most practiced smart agriculture techniques and their benefits and some widely used applications of IoT in agriculture? Through this overview, we are trying to highlight the potential of IoT in agriculture for sustainable food security for Pakistan.

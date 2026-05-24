@@ -1,0 +1,9 @@
+Title: Beyond the Limits of Light: An Application of Super-Resolution Confocal Microscopy (sCLSM) to Investigate Eocene Amber Microfossils
+Authors: Dmitry D. Vorontsov, Vasiliy B. Kolesnikov, Elena E. Voronezhskaya, Evgeny E. Perkovsky, Marielle M. Berto, Joseph Mowery, Ronald Ochoa, Pavel B. Klimov
+Year: 2023
+Venue: Life
+DOI: 10.3390/life13040865
+Paper ID: pmc_PMC10142905
+
+Abstract:
+Amber is known as one of the best sources of fossil organisms preserved with exceptional fidelity. Historically, different methods of imaging have been applied to amber, including optical microscopy and microtomography. These methods are sufficient to resolve millimeter-scaled fossils. However, microfossils, such as microarthropods, require another resolution. Here, we describe a non-destructive method of super resolution confocal microscopy (sCLSM) to study amber-preserved microfossils, using a novel astigmatid mite species (genus Histiogaster , Acaridae) from Eocene Rovno amber as a model. We show that the resolution obtained with sCLSM is comparable to that of scanning electron microscopy (SEM) routinely used to study modern mites. We compare sCLSM imaging to other methods that are used to study amber inclusions and emphasize its advantages in examination of unique fossil specimens. Furthermore, we show that the deterioration of amber, which manifests in its darkening, positively correlates with its increased fluorescence. Our results demonstrate a great potential of the sCLSM method for imaging of the tiniest organisms preserved in amber.

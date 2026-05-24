@@ -1,0 +1,9 @@
+Title: Rhodium-Catalyzed Trans -Bis-Silylation Reactions of 2-Ethynyl-3-pentamethyldisilanylpyridines
+Authors: Akinobu Naka, Hisayoshi Kobayashi
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28083284
+Paper ID: pmc_PMC10142085
+
+Abstract:
+Rhodium-catalyzed reactions of 2-ethynyl-3-pentamethyldisilanylpyridine derivatives ( 1 and 2 ) are reported. The reactions of compounds 1 and 2 in the presence of catalytic amounts of rhodium complexes at 110 °C gave the corresponding pyridine-fused siloles ( 3 ) and ( 4 ) through intramolecular trans -bis-silylation cyclization. The reaction of 2-bromo-3-(1,1,2,2,2-pentamethyldisilanyl)pyridine with 3-phenyl-1-propyne in the presence of PdCl 2 (PPh 3 ) 2 -CuI catalysts afforded 1:2 bis-silylation adduct 6 . DFT calculations were also performed to understand the reaction mechanism for the production of compound 3 from compound 1 .

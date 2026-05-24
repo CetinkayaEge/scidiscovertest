@@ -1,0 +1,9 @@
+Title: Development of Furanopyrimidine-Based Orally Active Third-Generation EGFR Inhibitors for the Treatment of Non-Small Cell Lung Cancer
+Authors: Mu-Chun Li, Mohane Selvaraj Coumar, Shu-Yu Lin, Yih-Shyan Lin, Guan-Lin Huang, Chun-Hwa Chen, Tzu-Wen Lien, Yi-Wen Wu, Yen-Ting Chen, Ching-Ping Chen, Yu-Chen Huang, Kai-Chia Yeh, Chen-Ming Yang, Bikashita Kalita, Shiow-Lin Pan, Tsu-An Hsu, Teng-Kuang Yeh, Chiung-Tong Chen, Hsing-Pang Hsieh
+Year: 2023
+Venue: Journal of Medicinal Chemistry
+DOI: 10.1021/acs.jmedchem.2c01434
+Paper ID: pmc_PMC9969398
+
+Abstract:
+The development of orally bioavailable, furanopyrimidine-based double-mutant (L858R/T790M) EGFR inhibitors is described. First, selectivity for mutant EGFR was accomplished by replacing the ( S )-2-phenylglycinol moiety of 12 with either an ethanol or an alkyl substituent. Then, the cellular potency and physicochemical properties were optimized through insights from molecular modeling studies by implanting various solubilizing groups in phenyl rings A and B. Optimized lead 52 shows 8-fold selective inhibition of H1975 (EGFR L858R/T790M overexpressing) cancer cells over A431 (EGFR WT overexpressing) cancer cells; western blot analysis further confirmed EGFR mutant-selective target modulation inside the cancer cells by 52 . Notably, 52 displayed in vivo antitumor effects in two different mouse xenograft models (BaF3 transfected with mutant EGFR and H1975 tumors) with TGI = 74.9 and 97.5% after oral administration ( F = 27%), respectively. With an extraordinary kinome selectivity ( S (10) score of 0.017), 52 undergoes detailed preclinical development.

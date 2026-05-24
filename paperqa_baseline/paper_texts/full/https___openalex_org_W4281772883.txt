@@ -1,0 +1,9 @@
+Title: Sustained Trem2 stabilization accelerates microglia heterogeneity and Aβ pathology in a mouse model of Alzheimer’s disease
+Authors: Rahul Dhandapani, Marilisa Neri, Mario Bernhard, Irena Brzak, Tatjana Schweizer, Stefan Rudin, Stefanie Joller, Ramon Berth, Jasmin Kernen, Anna Neuhaus, Annick Waldt, Rachel Cuttat, Ulrike Naumann, Caroline Gubser Keller, Guglielmo Roma, Dominik Feuerbach, Derya R. Shimshek, Ulf Neumann, F. Gasparini, Ivan Galimberti
+Year: 2022
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2022.110883
+Paper ID: https://openalex.org/W4281772883
+
+Abstract:
+TREM2 is a transmembrane protein expressed exclusively in microglia in the brain that regulates inflammatory responses to pathological conditions. Proteolytic cleavage of membrane TREM2 affects microglial function and is associated with Alzheimer's disease, but the consequence of reduced TREM2 proteolytic cleavage has not been determined. Here, we generate a transgenic mouse model of reduced Trem2 shedding (Trem2-Ile-Pro-Asp [IPD]) through amino-acid substitution of an ADAM-protease recognition site. We show that Trem2-IPD mice display increased Trem2 cell-surface-receptor load, survival, and function in myeloid cells. Using single-cell transcriptomic profiling of mouse cortex, we show that sustained Trem2 stabilization induces a shift of fate in microglial maturation and accelerates microglial responses to Aβ pathology in a mouse model of Alzheimer's disease. Our data indicate that reduction of Trem2 proteolytic cleavage aggravates neuroinflammation during the course of Alzheimer's disease pathology, suggesting that TREM2 shedding is a critical regulator of microglial activity in pathological states.

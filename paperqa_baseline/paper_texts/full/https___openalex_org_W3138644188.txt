@@ -1,0 +1,9 @@
+Title: A Sustainable Reverse Engineering Process
+Authors: Katsuhiro Saiga, AMM Sharif Ullah, Akihiko Kubo, Tashi
+Year: 2021
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2021.01.144
+Paper ID: https://openalex.org/W3138644188
+
+Abstract:
+Reverse engineering mimics critical features of an existing object to create its accurate or enhanced virtual/physical models. It is thus useful in creating the digital footprints of an object. It requires sophisticated devices, computing facilities, and high human skills. Thus, a reverse engineering process becomes sustainable if it is less dependent on sophisticated devices, computations, and human skills. From this point of view, this study presents a sustainable reverse engineering process consisting of five steps. The first step describes a given object using some elementary geometric shapes. The second step represents the elementary geometric shapes using some simulated planner point clouds. The third step creates coordinated point clouds by combining the point clouds of the second step. The fourth step creates a solid model using an off-the-shelf CAD package. The fifth step creates a 3D printed prototype using the solid CAD model. The process is compared with the traditional scanned point cloud-based reverse engineering. The comparison shows that it is free from computational complexity, creates comparatively accurate models, and works very fast. Integrating the presented reverse engineering process with a product life cycle engineering can contribute to sustainable product development.

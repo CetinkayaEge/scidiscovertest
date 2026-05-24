@@ -1,0 +1,9 @@
+Title: Novel sustainable cryo-lubrication strategies for reducing tool wear during ultrasonic-assisted turning of Inconel 718
+Authors: Navneet Khanna, Jay Airao, Chandrakant K. Nirala, Grzegorz Królczyk
+Year: 2022
+Venue: Tribology International
+DOI: https://doi.org/10.1016/j.triboint.2022.107728
+Paper ID: https://openalex.org/W4283266386
+
+Abstract:
+This paper deals with the concerns of industrial demand for enhancing the machinability of Inconel 718. In this regard, sustainable cooling strategies, i.e., minimum quantity lubrication (MQL), electrostatic minimum quantity lubrication (EMQL), and liquid carbon dioxide (LCO2), in combination with ultrasonic-assisted turning, are used to reduce the tool wear in the machining of Inconel 718. An in-house developed ultrasonic-assisted turning setup is used to perform the experiments. Six different combinations of cooling strategies are used to perform the experiments. These cooling strategies are LCO2 +MQL (in this case LCO2 is used on the rake face and MQL on the flank face of the tooling), MQL+LCO2, EMQL+LCO2, LCO2+EMQL, EMQL+MQL, and MQL+EMQL. The results show that the electrostatic minimum quantity lubrication provided on the flank face and the liquid carbon dioxide provided on the rake face considerably reduce the tool wear, power consumption, and specific cutting energy without hindering the surface quality. Thus, the novel combination of liquid carbon dioxide and electrostatic minimum quantity lubrication attains sustainability in machining Inconel 718.

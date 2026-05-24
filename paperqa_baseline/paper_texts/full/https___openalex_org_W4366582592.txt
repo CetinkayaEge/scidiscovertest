@@ -1,0 +1,9 @@
+Title: Conformal, Seamless, Sustainable: Multimorphic Textile-forms as a Material-Driven Design Approach for HCI
+Authors: Holly McQuillan, Elvin Karana
+Year: 2023
+Venue: 
+DOI: https://doi.org/10.1145/3544548.3581156
+Paper ID: https://openalex.org/W4366582592
+
+Abstract:
+Technology embeddedness in HCI textiles has great potential for enabling novel interactions and enriched experiences, but unless carefully designed, could inadvertently worsen HCI’s sustainability problem. In an attempt to bridge sustainable debates and practical material-driven scholarship in HCI, we propose Multimorphic Textile-forms (MMTF), as a design approach developed through a lens of multiplicity and extended life cycles, that facilitate change in both design/production and use-time via the simultaneous thinking of the qualities and behaviour of material and form. We provide a number of cases, textile-form methods and vocabulary to enable exploration in this emerging design space. MMTF grants insights into textiles as complex material systems whose behaviour can be tuned across material, interaction and ecological scales for conformal, seamless, and sustainable outcomes.

@@ -1,0 +1,9 @@
+Title: First Ex Vivo Animal Study of a Biological Heart Valve Prosthesis Sensorized with Intravalvular Impedance
+Authors: Laura Cercenelli, Camilla Gironi, Barbara Bortolani, Emanuela Marcelli
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23083829
+Paper ID: pmc_PMC10141024
+
+Abstract:
+IntraValvular Impedance (IVI) sensing is an innovative concept for monitoring heart valve prostheses after implant. We recently demonstrated IVI sensing feasible in vitro for biological heart valves (BHVs). In this study, for the first time, we investigate ex vivo the IVI sensing applied to a BHV when it is surrounded by biological tissue, similar to a real implant condition. A commercial model of BHV was sensorized with three miniaturized electrodes embedded in the commissures of the valve leaflets and connected to an external impedance measurement unit. To perform ex vivo animal tests, the sensorized BHV was implanted in the aortic position of an explanted porcine heart, which was connected to a cardiac BioSimulator platform. The IVI signal was recorded in different dynamic cardiac conditions reproduced with the BioSimulator, varying the cardiac cycle rate and the stroke volume. For each condition, the maximum percent variation in the IVI signal was evaluated and compared. The IVI signal was also processed to calculate its first derivative (dIVI/dt), which should reflect the rate of the valve leaflets opening/closing. The results demonstrated that the IVI signal is well detectable when the sensorized BHV is surrounded by biological tissue, maintaining the similar increasing/decreasing trend that was found during in vitro experiments. The signal can also be informative on the rate of valve opening/closing, as indicated by the changes in dIVI/dt in different dynamic cardiac conditions.

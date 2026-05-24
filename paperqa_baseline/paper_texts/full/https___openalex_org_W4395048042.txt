@@ -1,0 +1,9 @@
+Title: How to Improve Sustainability in Fused Filament Fabrication (3D Printing) Research?
+Authors: Cristiane Kalinke, Robert D. Crapnell, Paulo Roberto de Oliveira, Bruno C. Janegitz, Juliano Alves Bonacin, Craig E. Banks
+Year: 2024
+Venue: Global Challenges
+DOI: https://doi.org/10.1002/gch2.202300408
+Paper ID: https://openalex.org/W4395048042
+
+Abstract:
+This review aims to provide an overview of sustainable approaches that can be incorporated into well-known procedures for the development of materials, pre- and post-treatments, modifications, and applications of 3D-printed objects, especially for fused filament fabrication (FFF). Different examples of conductive and non-conductive bespoke filaments using renewable biopolymers, bioplasticizers, and recycled materials are presented and discussed. The main final characteristics of the polymeric materials achieved according to the feedstock, preparation, extrusion, and treatments are also covered. In addition to recycling and remanufacturing, this review also explores other alternative approaches that can be adopted to enhance the sustainability of methods, aiming to produce efficient and environmentally friendly 3D printed products. Adjusting printing parameters and miniaturizing systems are also highlighted in this regard. All these recommended strategies are employed to minimize environmental damage, while also enabling the production of high-quality, economical materials and 3D printed systems. These efforts align with the principles of Green Chemistry, Sustainable Development Goals (SDGs), 3Rs (Reduce, Reuse, Recycle), and Circular Economy concepts.

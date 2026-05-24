@@ -1,0 +1,9 @@
+Title: The Current Status, Challenges, and Future Potential of Therapeutic Vaccination in Glioblastoma
+Authors: Bryan J. Neth, Mason J. Webb, Ian F. Parney, Ugur T. Sener
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041134
+Paper ID: pmc_PMC10141140
+
+Abstract:
+Glioblastoma (GBM) is the most common malignant primary brain tumor and confers a dismal prognosis. With only two FDA-approved therapeutics showing modest survival gains since 2005, there is a great need for the development of other disease-targeted therapies. Due, in part, to the profound immunosuppressive microenvironment seen in GBMs, there has been a broad interest in immunotherapy. In both GBMs and other cancers, therapeutic vaccines have generally yielded limited efficacy, despite their theoretical basis. However, recent results from the DCVax-L trial provide some promise for vaccine therapy in GBMs. There is also the potential that future combination therapies with vaccines and adjuvant immunomodulating agents may greatly enhance antitumor immune responses. Clinicians must remain open to novel therapeutic strategies, such as vaccinations, and carefully await the results of ongoing and future trials. In this review of GBM management, the promise and challenges of immunotherapy with a focus on therapeutic vaccinations are discussed. Additionally, adjuvant therapies, logistical considerations, and future directions are discussed.

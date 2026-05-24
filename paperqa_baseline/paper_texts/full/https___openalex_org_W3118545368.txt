@@ -1,0 +1,9 @@
+Title: A Systematic Literature Review of Multi-Criteria Decision-Making Methods for Sustainable Selection of Insulation Materials in Buildings
+Authors: Indrė Šikšnelytė-Butkienė, Dalia Štreimikienė, Tomas Baležentis, Virgilijus Skulskis
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13020737
+Paper ID: https://openalex.org/W3118545368
+
+Abstract:
+The European Commission has recently adopted the Renovation Wave Strategy, aiming at the improvement of the energy performance of buildings. The strategy aims to at least double renovation rates in the next ten years and make sure that renovations lead to higher energy and resource efficiency. The choice of appropriate thermal insulation materials is one of the simplest and, at the same time, the most popular strategies that effectively reduce the energy demand of buildings. Today, the spectrum of insulation materials is quite wide, and each material has its own specific characteristics. It is recognized that the selection of materials is one of the most challenging and difficult steps of a building project. This paper aims to give an in-depth view of existing multi-criteria decision-making (MCDM) applications for the selection of insulation materials and to provide major insights in order to simplify the process of methods and criteria selection for future research. A systematic literature review is performed based on the Search, Appraisal, Synthesis and Analysis (SALSA) framework and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. In order to determine which MCDM method is the most appropriate for different questions, the main advantages and disadvantages of different methods are provided.

@@ -1,0 +1,9 @@
+Title: Age groups that sustain resurging COVID-19 epidemics in the United States
+Authors: Mélodie Monod, Alexandra Blenkinsop, Xiaoyue Xi, Daniel J. Hebert, Sivan Bershan, Simon Tietze, Marc Baguelin, Valerie C. Bradley, Yu Chen, Helen Coupland, Sarah Filippi, Jonathan Ish-Horowicz, Martin McManus, Thomas A. Mellan, Axel Gandy, Michael Hutchinson, H. Juliette T. Unwin, Sabine van Elsland, Michaela Vollmer, Sebastian Weber, Hong Zhu, Anne Bezancon, Neil M. Ferguson, Swapnil Mishra, Seth Flaxman, Samir Bhatt, Oliver Ratmann
+Year: 2021
+Venue: Science
+DOI: https://doi.org/10.1126/science.abe8372
+Paper ID: https://openalex.org/W3129149202
+
+Abstract:
+After initial declines, in mid-2020 a resurgence in transmission of novel coronavirus disease (COVID-19) occurred in the United States and Europe. As efforts to control COVID-19 disease are reintensified, understanding the age demographics driving transmission and how these affect the loosening of interventions is crucial. We analyze aggregated, age-specific mobility trends from more than 10 million individuals in the United States and link these mechanistically to age-specific COVID-19 mortality data. We estimate that as of October 2020, individuals aged 20 to 49 are the only age groups sustaining resurgent SARS-CoV-2 transmission with reproduction numbers well above one and that at least 65 of 100 COVID-19 infections originate from individuals aged 20 to 49 in the United States. Targeting interventions-including transmission-blocking vaccines-to adults aged 20 to 49 is an important consideration in halting resurgent epidemics and preventing COVID-19-attributable deaths.

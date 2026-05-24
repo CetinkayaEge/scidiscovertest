@@ -1,0 +1,9 @@
+Title: Designing Sustainable Mobility: Understanding Users’ Behavior
+Authors: Shadan Sadeghian, Philipp Wintersberger, Matthias Laschke, Marc Hassenzahl
+Year: 2022
+Venue: 
+DOI: https://doi.org/10.1145/3543174.3546833
+Paper ID: https://openalex.org/W4296306246
+
+Abstract:
+Sustainable mobility not only requires eco-friendly transportation systems, but humans to fundamentally change their mobility behaviors. One way to instill change is designing technologies that incorporate sustainability goals and shape use towards these goals. This, however, requires acceptance. This study aims to understand people’s behaviors towards sustainable mobility and the factors influencing mobility choices. We analyzed 1150 Reddit comments from both climate-related and car-enthusiastic subreddits and coded them along the ”stages of behavior change” and ”theory of planned behavior” components applying a-priori and emergent coding methods. The results show that a behavioral change is not based on an information deficit, but on attitudes and control beliefs towards sustainable mobility. Despite a willingness to change, most remain in a state where no concrete action is taken. Based on this we recommend designs that influence people’s attitude or social behavior at earlier stages, and their control beliefs at later stages of change.

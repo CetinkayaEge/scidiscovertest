@@ -1,0 +1,9 @@
+Title: Exploring Dimensionality Reduction Techniques for Deep Learning Driven QSAR Models of Mutagenicity
+Authors: Alexander D. Kalian, Emilio Benfenati, Olivia J. Osborne, David Gott, Claire Potter, Jean-Lou C. M. Dorne, Miao Guo, Christer Hogstrand
+Year: 2023
+Venue: Toxics
+DOI: 10.3390/toxics11070572
+Paper ID: pmc_PMC10384850
+
+Abstract:
+Dimensionality reduction techniques are crucial for enabling deep learning driven quantitative structure-activity relationship (QSAR) models to navigate higher dimensional toxicological spaces, however the use of specific techniques is often arbitrary and poorly explored. Six dimensionality techniques (both linear and non-linear) were hence applied to a higher dimensionality mutagenicity dataset and compared in their ability to power a simple deep learning driven QSAR model, following grid searches for optimal hyperparameter values. It was found that comparatively simpler linear techniques, such as principal component analysis (PCA), were sufficient for enabling optimal QSAR model performances, which indicated that the original dataset was at least approximately linearly separable (in accordance with Cover’s theorem). However certain non-linear techniques such as kernel PCA and autoencoders performed at closely comparable levels, while (especially in the case of autoencoders) being more widely applicable to potentially non-linearly separable datasets. Analysis of the chemical space, in terms of XLogP and molecular weight, uncovered that the vast majority of testing data occurred within the defined applicability domain, as well as that certain regions were measurably more problematic and antagonised performances. It was however indicated that certain dimensionality reduction techniques were able to facilitate uniquely beneficial navigations of the chemical space.

@@ -1,0 +1,9 @@
+Title: Establishment of an In Vitro Model of Pseudorabies Virus Latency and Reactivation and Identification of Key Viral Latency-Associated Genes
+Authors: Li Pan, Mingzhi Li, Xinyu Zhang, Yu Xia, Assad Moon Mian, Hongxia Wu, Yuan Sun, Hua-Ji Qiu
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030808
+Paper ID: pmc_PMC10056777
+
+Abstract:
+Alphaherpesviruses infect humans and most animals. They can cause severe morbidity and mortality. The pseudorabies virus (PRV) is a neurotropic alphaherpesvirus that can infect most mammals. The PRV persists in the host by establishing a latent infection, and stressful stimuli can induce the latent viruses to reactivate and cause recurrent diseases. The current strategies of antiviral drug therapy and vaccine immunization are ineffective in eliminating these viruses from the infected host. Moreover, overspecialized and complex models are also a major obstacle to the elucidation of the mechanisms involved in the latency and reactivation of the PRV. Here, we present a streamlined model of the latent infection and reactivation of the PRV. A latent infection established in N2a cells infected with the PRV at a low multiplicity of infection (MOI) and maintained at 42 °C. The latent PRV was reactivated when the infected cells were transferred to 37 °C for 12 to 72 h. When the above process was repeated with a UL54 -deleted PRV mutant, it was observed that the UL54 deletion did not affect viral latency. However, viral reactivation was limited and delayed. This study establishes a powerful and streamlined model to simulate PRV latency and reveals the potential role of temperature in PRV reactivation and disease. Meanwhile, the key role of the early gene UL54 in the latency and reactivation of PRV was initially elucidated.

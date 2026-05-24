@@ -1,0 +1,9 @@
+Title: Sustainability reports: Differences between developing and developed countries
+Authors: Lucie Kvasničková Stanislavská, Ladislav Pilař, Martin Fridrich, Roman Kvasnička, Lucie Pilařová, Bilal Afsar, Matthew Gorton
+Year: 2023
+Venue: Frontiers in Environmental Science
+DOI: https://doi.org/10.3389/fenvs.2023.1085936
+Paper ID: https://openalex.org/W4361202528
+
+Abstract:
+Achieving sustainability is a major challenge faced by many societies. The increasing moral consciousness of stakeholders has put pressure on companies, forcing these companies to include long-term policies that reflect the regionally specific needs of stakeholders. Using a structural topic model, this study identified differences between developing and developed countries with respect to sustainability disclosures. Data were obtained from 2100 sustainability reports published in the United Nations Global Compact database for the year 2020. In global terms, these sustainability reports addressed three main topics: 1) human rights, 2) diversity, equity, and inclusion, and 3) sustainable production. Moreover, the sustainability reports from developing and developed countries incorporated different communication strategies. Based on the prevalence (rate of occurrence) of content, sustainability reports from developed countries predominantly communicated issues related to “sustainable production” and “supply chain emissions”, whereas sustainability reports from developing countries more frequently communicated issues related to “education” and “human rights".

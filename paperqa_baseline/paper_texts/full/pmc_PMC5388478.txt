@@ -1,0 +1,9 @@
+Title: MiR-150 regulates human keratinocyte proliferation in hypoxic conditions through targeting HIF-1α and VEGFA: Implications for psoriasis treatment
+Authors: Yongjian Li, Juan Su, Fangfang Li, Xiang Chen, Guiying Zhang
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175459
+Paper ID: pmc_PMC5388478
+
+Abstract:
+Psoriasis is a common and chronic autoimmune skin disease which affects 2 to 3% of the world population. Abnormal proliferation of human keratinocytes is an important feature of psoriasis, along with local hypoxia and vascular abnormal growth. To leverage recent molecular findings into the personalized treatment of psoriasis, we need a strategy that integrates clinical stratification with molecular phenotyping. MicroRNAs (miRNAs) are a large family of small non-coding RNA which regulates diverse biological process, including cell proliferation, by modulating gene expression at the posttranscriptional level. In the present study, we indicated that miR-150 specifically down-regulated expressed in psoriatic skin lesions, and could inhibit HaCaT cells and primary adult human keratinocytes (HKCs)’ proliferation in either normal or hypoxia conditions; by direct targeting, miR-150 could also regulate the expression of hypoxia-inducible factor-1α (HIF-1α) and vascular endothelial growth factor A (VEGFA). In addition, we found that HIF-1α and VEGFA were highly expressed in the lesional psoriatic skin compared with the non-lesional psoriatic skin, and negatively correlated with miR-150 expression. Taken together, we indicated miR-150 regulates human keratinocytes’ proliferation in hypoxic conditions through targeting HIF-1α and VEGFA in psoriasis for the first time, and provide diagnostic markers and a novel target for psoriasis treatment.

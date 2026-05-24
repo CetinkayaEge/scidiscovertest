@@ -1,0 +1,9 @@
+Title: Multi-Objective Optimization for Healthcare Waste Management Network Design with Sustainability Perspective
+Authors: Ali Ebadi Torkayesh, Hadi Rezaei Vandchali, Erfan Babaee Tırkolaee
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13158279
+Paper ID: https://openalex.org/W3183836649
+
+Abstract:
+Healthcare Waste Management (HWM) is considered as one of the important urban decision-making problems due to its potential environmental, economic, and social risks and damages. The network of the HWM system involves important decisions such as facility locating, inventory management, and transportation management. Moreover, with growing concerns towards sustainable development objectives, HWM systems should address its environmental and social aspects as well as its economic and technical characteristics. In this regard, this paper formulates a novel multi-objective optimization model to empower companies in making optimized decisions considering the economic, environmental, and social aspects. Within the proposed model, the first objective function aims to minimize the transportation costs, processing costs, and establishment costs. The second objective function aims to minimize environmental risks and emissions related to the transportation of waste between facilities. The third objective function aims to maximize job creation opportunities. Formulating these three functions, an Improved Multi-Choice Goal Programing (IMCGP) approach is proposed to solve the multi-objective optimization model, which is then compared with the Goal Attainment Method (GAM). Finally, to show the applicability and feasibility of the proposed model, an illustrative example of healthcare waste management is analyzed, and the results are discussed.

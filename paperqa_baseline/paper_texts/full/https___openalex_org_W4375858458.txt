@@ -1,0 +1,9 @@
+Title: The impact of sustainable energy technologies and demand response programs on the hub’s planning by the practical consideration of tidal turbines as a novel option
+Authors: Mahmoud Zadehbagheri, Mohammad Javad Kiani, Sasan Pirouzi, Mehrdad Movahedpour, Sirus Mohammadi
+Year: 2023
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2023.04.377
+Paper ID: https://openalex.org/W4375858458
+
+Abstract:
+This paper investigates a multi-objective optimal energy planning strategy for a hub, incorporating renewable and non-renewable resources, like PV, tidal turbine, fuel-cell, CHP, boiler, micro-turbine, reactor, reformer, electrolyzer, and energy storage by utilizing the time of use program (TOU). In this strategy, tidal turbine, fuel-cell, and reformer technologies are considered novel technologies that simultaneously reduce the proposed hub’s cost and pollution. The hub’s total cost and pollution are considered objective functions. To make the results more realistic, characteristics of the tidal turbine are investigated by utilizing the manufactory’s company information. The problem is then modeled as real mixed integer programming (RMIP) and is solved in GAMS software using a CPLEX solver. Epsilon constraints method and fuzzy satisfying approach are used to select the optimal solution based on the proposed model. Finally, a sensitivity analysis is performed to assess the effective parameters that affect the planning’s results. The results show that the overall pollution is reduced by about 9% by assuming the proposed planning, and the total profit is increased by about 30%.

@@ -1,0 +1,9 @@
+Title: Circulating microRNA Biomarker for Detecting Breast Cancer in High-Risk Benign Breast Tumors
+Authors: Vedbar S. Khadka, Masaki Nasu, Youping Deng, Mayumi Jijiwa
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24087553
+Paper ID: pmc_PMC10142546
+
+Abstract:
+High-risk benign breast tumors are known to develop breast cancer at high rates. However, it is still controversial whether they should be removed during diagnosis or followed up until cancer development becomes evident. Therefore, this study sought to identify circulating microRNAs (miRNAs) that could serve as detection markers of cancers arising from high-risk benign tumors. Small RNA-seq was performed using plasma samples collected from patients with early-stage breast cancer (CA) and high-risk (HB), moderate-risk (MB), and no-risk (Be) benign breast tumors. Proteomic profiling of CA and HB plasma was performed to investigate the underlying functions of the identified miRNAs. Our findings revealed that four miRNAs, hsa-mir-128-3p, hsa-mir-421, hsa-mir-130b-5p, and hsa-mir-28-5p, were differentially expressed in CA vs. HB and had diagnostic power to discriminate CA from HB with AUC scores greater than 0.7. Enriched pathways based on the target genes of these miRNAs indicated their association with IGF-1. Furthermore, the Ingenuity Pathway Analysis performed on the proteomic data revealed that the IGF-1 signaling pathway was significantly enriched in CA vs. HB. In conclusion, these findings suggest that these miRNAs could potentially serve as biomarkers for detecting early-stage breast cancer from high-risk benign tumors by monitoring IGF signaling-induced malignant transformation.

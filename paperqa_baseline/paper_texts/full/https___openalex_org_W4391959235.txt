@@ -1,0 +1,9 @@
+Title: Effective green treatment of sewage sludge from Fenton reactions: Utilizing MoS 2 for sustainable resource recovery
+Authors: Zhiyan Liang, Qingyun Yan, Huase Ou, Da‐Wei Li, Yayun Zhang, Jinlong Zhang, Lixi Zeng, Mingyang Xing
+Year: 2024
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2317394121
+Paper ID: https://openalex.org/W4391959235
+
+Abstract:
+-modified iron sludge exhibits outstanding (>95%) phenol and pollutant degradation in hydrogen peroxide and peroxymonosulfate-based Fenton systems, unlike unmodified sludge. This modified sludge maintains excellent Fenton activity in various water conditions and with multiple anions, allowing extended phenol degradation for over 14 d. Notably, the generated chemical oxygen demand (COD) in sludge modification process can be efficiently eliminated through the Fenton reaction, ensuring effluent COD compliance and enabling eco-friendly sewage sludge resource utilization.

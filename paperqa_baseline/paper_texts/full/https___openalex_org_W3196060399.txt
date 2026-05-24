@@ -1,0 +1,9 @@
+Title: A Comparative Evaluation of Multi-Criteria Analysis Methods for Sustainable Transport
+Authors: Elżbieta Broniewicz, Karolina Ogrodnik
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14165100
+Paper ID: https://openalex.org/W3196060399
+
+Abstract:
+The article pertains to the utilization of the application potential of MCDM/MCDA (Multi-Criteria Decision Making/Multi-Criteria Decision Analysis) methods in decision-making problems in the field of transport in light of sustainable development. The article consists of a theoretical and an empirical part. As part of the literature studies, a review was carried out on the latest applications of MCDM/MCDA methods for decision-making problems in the field of transport. In the empirical part, a multi-criteria analysis of the placement selection for a strip of expressway located in north-eastern Poland was carried out. For this purpose, a hybrid approach was used, consisting of three selected MCDM/MCDA methods: DEMATEL, REMBRANDT, and VIKOR. The ranking was compared with the results achieved in the EIA report of the investment and the results were obtained by using a different set of MCDM/MCDA methods that were proposed in the first part of the research, i.e., AHP, Fuzzy AHP, TOPSIS, and PROMETHEE. The performed multi-criteria analyses allowed for an eventual multi-dimensional evaluation of the most popular MCDM/MCDA methods currently applied in the field of transport.

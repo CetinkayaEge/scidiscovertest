@@ -1,0 +1,9 @@
+Title: Financial Strategies for Sustainability: Examining the Circular Economy Perspective
+Authors: Ionela Munteanu, Liliana Ionescu-Feleagă, Bogdan Ștefan Ionescu
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16208942
+Paper ID: https://openalex.org/W4403449992
+
+Abstract:
+Circular economy (CE) research has advanced significantly in recent years in areas like environmental science, engineering, and technology. Governance presents CE strategies as imperative and compelling, often linked to efforts to achieve sustainable business development. However, the financial quantification of a CE is still underexplored and heterogeneous, with multiple research streams exploring the financial dimension. The aims of this study are twofold: (i) to analyze the productivity of the scientific literature and the conceptual evolution of circularity as it relates to financial strategies; and (ii) to formulate future research directions addressing a CE in close connection with financial sustainability knowledge. Bilbiometrix R-package 2023.12.1 and VOSviewer version 1.6.20 were used to analyze a sample of 279 articles retrieved from WoS and Scopus using the PRISMA protocol. The analysis covered the period 2010–2023, with the diachronic thematic analysis revealing four key themes: (1) CE and green financial performance; (2) environmental impact of CE; (3) performance approach of CE and metrics; (4) CE and sustainable development. Building on previous knowledge, we developed an integrated and multidisciplinary framework of CE embedded in financial performance. Future research agenda shaped by the emerging themes and research gaps can support managers, shareholders, or governance in incorporating CE policies into operational activities and strengthening sustainable circularity knowledge.

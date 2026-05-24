@@ -1,0 +1,9 @@
+Title: A Quality, Size and Time Assessment of the Binarization of Documents Photographed by Smartphones
+Authors: Rodrigo Bernardino, Rafael Dueire Lins, Ricardo da Silva Barboza
+Year: 2023
+Venue: Journal of Imaging
+DOI: 10.3390/jimaging9020041
+Paper ID: pmc_PMC9967561
+
+Abstract:
+Smartphones with an in-built camera are omnipresent today in the life of over eighty percent of the world’s population. They are very often used to photograph documents. Document binarization is a key process in many document processing platforms. This paper assesses the quality, file size and time performance of sixty-eight binarization algorithms using five different versions of the input images. The evaluation dataset is composed of deskjet, laser and offset printed documents, photographed using six widely-used mobile devices with the strobe flash off and on, under two different angles and four shots with small variations in the position. Besides that, this paper also pinpoints the algorithms per device that may provide the best visual quality-time, document transcription accuracy-time, and size-time trade-offs. Furthermore, an indication is also given on the “overall winner” that would be the algorithm of choice if one has to use one algorithm for a smartphone-embedded application.

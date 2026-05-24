@@ -1,0 +1,9 @@
+Title: Integrating Absolute Sustainability and Social Sustainability in the Digital Product Passport to Promote Industry 5.0
+Authors: Luigi Panza, Giulia Bruno, Franco Lombardi
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su151612552
+Paper ID: https://openalex.org/W4385979354
+
+Abstract:
+The establishment of the digital product passport is regarded to be a prominent tool to promote environmental and social sustainability, thus enabling the transition towards Industry 5.0. In this way, it represents a holistic tool for the decision-making process of several actors of a product’s value chain. However, its development is still ongoing and the absolute perspective of environmental sustainability and the social sustainability have been overlooked. The present work aims to fill these gaps and complement the literature currently available on the digital product passport with a threefold purpose. Firstly, by referring to social life cycle assessment methodologies, useful social indicators to include in the digital product passport are discussed and proposed. Secondly, the need for an absolute perspective of environmental sustainability that respects the natural limits of our planet is presented; based on the LCA methodology and the Planetary Boundaries framework, environmental attributes and environmental impact indicators with the corresponding threshold are proposed to be included in the passport and enable the so-called absolute environmental sustainability assessment of products. Finally, a framework based on a cyber-physical system for filling in the digital product passport throughout a product lifecycle is conceived. This work represents an example of how the hallmark technologies of Industry 4.0 can be used towards Industry 5.0.

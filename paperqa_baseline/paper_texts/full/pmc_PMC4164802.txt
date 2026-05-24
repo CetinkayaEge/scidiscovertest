@@ -1,0 +1,9 @@
+Title: Development and Application of a ZigBee-Based Building Energy Monitoring and Control System
+Authors: Changhai Peng, Kun Qian
+Year: 2014
+Venue: The Scientific World Journal
+DOI: 10.1155/2014/528410
+Paper ID: pmc_PMC4164802
+
+Abstract:
+Increasing in energy consumption, particularly with the ever-increasing growth and development of urban systems, has become a major concern in most countries. In this paper, the authors propose a cost-effective ZigBee-based building energy monitoring and control system (ZBEMCS), which is composed of a gateway, a base station, and sensors. Specifically, a new hardware platform for power sensor nodes is developed to perform both local/remote power parameter measurement and power on/off switching for electric appliances. The experimental results show that the ZBEMCS can easily monitor energy usage with a high level of accuracy. Two typical applications of ZBEMCS such as subentry metering and household metering of building energy are presented. The former includes lighting socket electricity, HVAC electricity, power electricity and special electricity. The latter includes household metering according to the campus's main function zone and each college or department. Therefore, this system can be used for energy consumption monitoring, long-term energy conservation planning, and the development of automated energy conservation for building applications.

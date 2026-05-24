@@ -1,0 +1,9 @@
+Title: Accelerating UN Sustainable Development Goals with AI-Driven Technologies: A Systematic Literature Review of Women’s Healthcare
+Authors: Pin Lean Lau, Monomita Nandy, Sushmita Chakraborty
+Year: 2023
+Venue: Healthcare
+DOI: https://doi.org/10.3390/healthcare11030401
+Paper ID: https://openalex.org/W4318705125
+
+Abstract:
+In this paper, we critically examine if the contributions of artificial intelligence (AI) in healthcare adequately represent the realm of women's healthcare. This would be relevant for achieving and accelerating the gender equality and health sustainability goals (SDGs) defined by the United Nations. Following a systematic literature review (SLR), we examine if AI applications in health and biomedicine adequately represent women's health in the larger scheme of healthcare provision. Our findings are divided into clusters based on thematic markers for women's health that are commensurate with the hypotheses that AI-driven technologies in women's health still remain underrepresented, but that emphasis on its future deployment can increase efficiency in informed health choices and be particularly accessible to women in small or underrepresented communities. Contemporaneously, these findings can assist and influence the shape of governmental policies, accessibility, and the regulatory environment in achieving the SDGs. On a larger scale, in the near future, we will extend the extant literature on applications of AI-driven technologies in health SDGs and set the agenda for future research.

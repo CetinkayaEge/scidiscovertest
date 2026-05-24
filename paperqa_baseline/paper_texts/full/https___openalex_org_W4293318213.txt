@@ -1,0 +1,9 @@
+Title: Precision Agriculture for Sustainable Soil and Crop Management
+Authors: Md Rayhan Shaheb, Ayesha Sarker, S. A. Shearer
+Year: 2022
+Venue: IntechOpen eBooks
+DOI: https://doi.org/10.5772/intechopen.101759
+Paper ID: https://openalex.org/W4293318213
+
+Abstract:
+Precision agriculture (PA) transforms traditional practices into a new world of production of agriculture. It uses a range of technologies or diagnostic tools such as global navigation satellite system (GNSS), geographic information systems (GIS), yield monitors, near-infrared reflectance sensing, and remote sensing in collecting and analyzing the in-field spatial variability data, thereby enabling farmers to monitor and make site-specific management decisions for soils and crops. PA technology enables visualization of spatial and temporal variations of production resources and supports spatially varying treatments using variable rate application technologies installed on farm agricultural field machinery. The demand for PA is driven by recognition within-field variability and opportunities for treating areas within a field or production unit differently. PA can be applied to multiple cultural practices including tillage, precision seeding, variable rate fertilizer application, precision irrigation and selective pesticide application; and facilitates other management decisions making, for example, site-specific deep tillage to remove soil compaction. PA technology ensures optimal use of production inputs and contributes to a significant increase in farm profitability. By reducing crop production inputs and managing farmland in an environmentally sensible manner, PA technology plays a vital role in sustainable soil and crop management in modern agriculture.

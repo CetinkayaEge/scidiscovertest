@@ -1,0 +1,9 @@
+Title: Workplace 4.0: Exploring the Implications of Technology Adoption in Digital Manufacturing on a Sustainable Workforce
+Authors: Natalie Leesakul, Anne‐Marie Oostveen, Iveta Eimontaite, Max L. Wilson, Richard Hyde
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14063311
+Paper ID: https://openalex.org/W4220761540
+
+Abstract:
+As part of the Industry 4.0 movement, the introduction of digital manufacturing technologies (DMTs) poses various concerns, particularly the impact of technology adoption on the workforce. In consideration of adoption challenges and implications, various studies explore the topic from the perspective of safety, socio-economic impact, technical readiness, and risk assessment. This paper presents mixed methods research to explore the challenges and acceptance factors of the adoption of human-robot collaboration (HRC) applications and other digital manufacturing technologies from the perspective of different stakeholders: from manufacturing employees at all levels to legal experts to consultants to ethicists. We found that some of the prominent challenges and tensions inherent in technology adoption are job displacement, employee’s acceptance, trust, and privacy. This paper argues that it is crucial to understand the wider human factors implications to better strategize technology adoption; therefore, it recommends interventions targeted at individual employees and at the organisational level. This paper contributes to the roadmap of responsible DMT and HRC implementation to encourage a sustainable workforce in digital manufacturing.

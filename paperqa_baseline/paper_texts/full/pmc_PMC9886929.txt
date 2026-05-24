@@ -1,0 +1,9 @@
+Title: Split luciferase-based assay to detect botulinum neurotoxins using hiPSC-derived motor neurons
+Authors: Laurent Cotter, Feifan Yu, Sylvain Roqueviere, Juliette Duchesne de Lamotte, Johannes Krupp, Min Dong, Camille Nicoleau
+Year: 2023
+Venue: Communications Biology
+DOI: 10.1038/s42003-023-04495-w
+Paper ID: pmc_PMC9886929
+
+Abstract:
+Botulinum neurotoxins (BoNTs) have been widely used clinically as a muscle relaxant. These toxins target motor neurons and cleave proteins essential for neurotransmitter release like Synaptosomal-associated protein of 25 kDa (SNAP-25). In vitro assays for BoNT testing using rodent cells or immortalized cell lines showed limitations in accuracy and physiological relevance. Here, we report a cell-based assay for detecting SNAP-25-cleaving BoNTs by combining human induced Pluripotent Stem Cells (hiPSC)-derived motor neurons and a luminescent detection system based on split NanoLuc luciferase. This assay is convenient, rapid, free-of-specialized antibodies, with a detection sensitivity of femtomolar concentrations of toxin, and can be used to study the different steps of BoNT intoxication. A cell-based assay for detecting SNAP25-cleaving Botulinum neurotoxins (BoNTs) is developed by combining hiPSC-derived motor neurons and a luminescent detection system based on split NanoLuc luciferase.

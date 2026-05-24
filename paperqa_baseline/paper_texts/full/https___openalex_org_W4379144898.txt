@@ -1,0 +1,9 @@
+Title: A Brief Review on Flexible Electronics for IoT: Solutions for Sustainability and New Perspectives for Designers
+Authors: Graziella Scandurra, Antonella Arena, C. Ciofi
+Year: 2023
+Venue: Sensors
+DOI: https://doi.org/10.3390/s23115264
+Paper ID: https://openalex.org/W4379144898
+
+Abstract:
+The Internet of Things (IoT) is gaining more and more popularity and it is establishing itself in all areas, from industry to everyday life. Given its pervasiveness and considering the problems that afflict today's world, that must be carefully monitored and addressed to guarantee a future for the new generations, the sustainability of technological solutions must be a focal point in the activities of researchers in the field. Many of these solutions are based on flexible, printed or wearable electronics. The choice of materials therefore becomes fundamental, just as it is crucial to provide the necessary power supply in a green way. In this paper we want to analyze the state of the art of flexible electronics for the IoT, paying particular attention to the issue of sustainability. Furthermore, considerations will be made on how the skills required for the designers of such flexible circuits, the features required to the new design tools and the characterization of electronic circuits are changing.

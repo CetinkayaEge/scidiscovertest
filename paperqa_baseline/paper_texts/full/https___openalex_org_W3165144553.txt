@@ -1,0 +1,9 @@
+Title: An overview to process design, simulation and sustainability evaluation of biodiesel production
+Authors: Mustafa Kamal Pasha, Lingmei Dai, Dehua Liu, Miao Guo, Wei Du
+Year: 2021
+Venue: Biotechnology for Biofuels
+DOI: https://doi.org/10.1186/s13068-021-01977-z
+Paper ID: https://openalex.org/W3165144553
+
+Abstract:
+The overwhelming concerns due to over exploitation of fossil resources necessitate the utilization of alternative energy resources. Biodiesel has been considered as one of the most adaptable alternative to fossil-derived diesel with similar properties and numerous environmental benefits. Although there are various approaches for biodiesel production, development of cost-effective and robust catalyst with efficient production methods and utilization of a variety of feedstock could be the optimum solution to bring down the production cost. Considering the complexity of biodiesel production processes, process design, quantitative evaluation and optimization of the biodiesel from whole systems perspectives is essential for unlocking the complexity and enhancing the system performances. Process systems engineering offers an efficient approach to design and optimize biodiesel manufacturing systems by using a variety of tools. This review reflects state-of-the-art biodiesel research in the field of process systems engineering with a particular focus on biodiesel production including process design and simulation, sustainability evaluation, optimization and supply chain management. This review also highlights the challenges and opportunities for the development of potentially sustainable and eco-friendly enzymatic biodiesel technology.

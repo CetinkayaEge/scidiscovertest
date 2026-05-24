@@ -1,0 +1,9 @@
+Title: Age-dependent attenuation of spatial memory deficits by the histone acetyltransferase p300/CBP-associated factor (PCAF) in 3xTG Alzheimer's disease mice
+Authors: Samantha D. Creighton, Kristen H. Jardine, Alexa Desimone, Megan Zmetana, Sabrina Castellano, Ciro Milite, Gianluca Sbardella, Boyer D. Winters
+Year: 2022
+Venue: Learning & Memory
+DOI: 10.1101/lm.053536.121
+Paper ID: pmc_PMC8852226
+
+Abstract:
+Histone acetylation, catalyzed by histone acetyltransferases, has emerged as a promising therapeutic strategy in Alzheimer's disease (AD). By longitudinally characterizing spatial memory at 3, 6, and 9 mo of age, we show that acute activation and inhibition of the histone acetyltransferase PCAF remediated memory impairments in 3xTG-AD mice in an age-related bidirectional manner. At 3 and 6 mo of age, PCAF activation ameliorated memory deficits. At 9 mo of age, PCAF activation had no effect on spatial memory, whereas PCAF inhibition improved memory deficits in females. This work reveals a complex potential therapeutic role for PCAF in AD, initially benefitting memory but becoming detrimental as the disease progresses.

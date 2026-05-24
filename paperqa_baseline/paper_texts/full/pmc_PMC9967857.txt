@@ -1,0 +1,9 @@
+Title: A Benzothiadiazole-Based Self-Assembled Cage for Cadmium Detection
+Authors: Zong-Cheng Wang, Ying-Zi Tan, Hui Yu, Wen-Hu Bao, Lin-Li Tang, Fei Zeng
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28041841
+Paper ID: pmc_PMC9967857
+
+Abstract:
+A turn-on fluorescent probe, cage 1 , was efficiently self-assembled by condensing 4,4′-(benzothiadiazole-4,7-diyl)dibenzaldehyde and TREN in chloroform. The formation of cage 1 was characterized and confirmed by NMR spectroscopy, mass spectrometry, and theoretical calculations. The yield of cage 1 could be controlled by tuning the reaction conditions, such as the precursor concentration. Interestingly, the addition of 10 equiv of Cd 2+ relative to cage 1 could increase the fluorescence almost seven-fold. 1 H NMR and fluorescence experiments indicating fluorescence enhancement may be caused by the decomposition of cage 1 . Such a high selectivity toward Cd 2+ implies that the cage could potentially be employed in cadmium detection.

@@ -1,0 +1,9 @@
+Title: HILI destabilizes microtubules by suppressing phosphorylation and Gigaxonin-mediated degradation of TBCB
+Authors: Hao Tan, Hua Liao, Lianfang Zhao, Yilu Lu, Siyuan Jiang, Dachang Tao, Yunqiang Liu, Yongxin Ma
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46376
+Paper ID: pmc_PMC5385498
+
+Abstract:
+Human PIWIL2, aka HILI, is a member of PIWI protein family and overexpresses in various tumors. However, the underlying mechanisms of HILI in tumorigenesis remain largely unknown. TBCB has a critical role in regulating microtubule dynamics and is overexpressed in many cancers. Here we report that HILI inhibits Gigaxonin-mediated TBCB ubiquitination and degradation by interacting with TBCB, promoting the binding between HSP90 and TBCB, and suppressing the interaction between Gigaxonin and TBCB. Meanwhile, HILI can also reduce phosphorylation level of TBCB induced by PAK1. Our results showed that HILI suppresses microtubule polymerization and promotes cell proliferation, migration and invasion via TBCB for the first time, revealing a novel mechanism for HILI in tumorigenesis.

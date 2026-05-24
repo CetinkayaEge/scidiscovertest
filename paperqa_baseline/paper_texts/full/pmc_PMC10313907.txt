@@ -1,0 +1,9 @@
+Title: Oxygen-Carrying Capacity of Perfluorohexyloctane, a Novel Eye Drop for Dry Eye Disease
+Authors: Neal Stolowich, Jason Vittitow, Robert Kissling, Douglas Borchman
+Year: 2023
+Venue: Current Therapeutic Research, Clinical and Experimental
+DOI: 10.1016/j.curtheres.2023.100705
+Paper ID: pmc_PMC10313907
+
+Abstract:
+Objective One-hundred percent perfluorohexyloctane (PFHO) is a water-free, preservative-free eye drop approved by the Food and Drug Administration in the United States for the treatment of dry eye disease. PFHO has shown relief of dry eye signs and symptoms in clinical trials and has potent antievaporative action in vitro. The objective of this study was to measure the level of oxygen in PFHO. Methods T1 relaxation times (time taken for proton spins to translate from a random alignment to an alignment with the main magnetic field) for fluorine-19 in perfluorohexyloctane were measured using fluorine-19 nuclear magnetic resonance spectroscopy. The level of oxygen was interpolated from published data. Results The hydrogen-1 and fluorine-19 nuclear magnetic resonance spectra of PFHO were well resolved and the resonance assignments and intensities were as expected. The T1 values calculated for the CF 3 group resonance in the current study was 0.901 seconds and 1.12 seconds at 25 °C and 37 °C, respectively. The T1 values for the CF 2 group resonances increased by 17% to 24% with an increase in temperature from 25 °C to 37 °C. The mean (SD) partial pressure of oxygen in PFHO was calculated to be 257 (36) mm Hg and 270 (38) mm Hg at 25 °C and 37 °C, respectively. Conclusions The current study confirms that PFHO contains a significant amount of oxygen, more so than that calculated for tears in equilibrium with air. Once instilled on the eye, PFHO is not expected to be a barrier to the oxygen necessary for a healthy cornea and may in fact deliver nonreactive oxygen to the cornea to facilitate healing in patients with dry eye disease.

@@ -1,0 +1,9 @@
+Title: CVD Growth of Hematite Thin Films for Photoelectrochemical Water Splitting: Effect of Precursor-Substrate Distance on Their Final Properties
+Authors: Leunam Fernandez-Izquierdo, Enzo Luigi Spera, Boris Durán, Ricardo Enrique Marotti, Enrique Ariel Dalchiele, Rodrigo del Rio, Samuel A. Hevia
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28041954
+Paper ID: pmc_PMC9967862
+
+Abstract:
+The development of photoelectrode materials for efficient water splitting using solar energy is a crucial research topic for green hydrogen production. These materials need to be abundant, fabricated on a large scale, and at low cost. In this context, hematite is a promising material that has been widely studied. However, it is a huge challenge to achieve high-efficiency performance as a photoelectrode in water splitting. This paper reports a study of chemical vapor deposition (CVD) growth of hematite nanocrystalline thin films on fluorine-doped tin oxide as a photoanode for photoelectrochemical water splitting, with a particular focus on the effect of the precursor–substrate distance in the CVD system. A full morphological, structural, and optical characterization of hematite nanocrystalline thin films was performed, revealing that no change occurred in the structure of the films as a function of the previously mentioned distance. However, it was found that the thickness of the hematite film, which is a critical parameter in the photoelectrochemical performance, linearly depends on the precursor–substrate distance; however, the electrochemical response exhibits a nonmonotonic behavior. A maximum photocurrent value close to 2.5 mA/cm 2 was obtained for a film with a thickness of around 220 nm under solar irradiation.

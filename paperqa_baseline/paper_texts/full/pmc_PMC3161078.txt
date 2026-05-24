@@ -1,0 +1,9 @@
+Title: Sustained Negative BOLD Response in Human fMRI Finger Tapping Task
+Authors: Yadong Liu, Hui Shen, Zongtan Zhou, Dewen Hu
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023839
+Paper ID: pmc_PMC3161078
+
+Abstract:
+In this work, we investigated the sustained negative blood oxygen level-dependent (BOLD) response (sNBR) using functional magnetic resonance imaging during a finger tapping task. We observed that the sNBR for this task was more extensive than has previously been reported. The cortical regions involved in sNBR are divided into the following three groups: frontal, somatosensory and occipital. By investigating the spatial structure, area, amplitude, and dynamics of the sNBR in comparison with those of its positive BOLD response (PBR) counterpart, we made the following observations. First, among the three groups, the somatosensory group contained the greatest number of activated voxels and the fewest deactivated voxels. In addition, the amplitude of the sNBR in this group was the smallest among the three groups. Second, the onset and peak time of the sNBR are both larger than those of the PBR, whereas the falling edge time of the sNBR is less than that of the PBR. Third, the long distance between most sNBR foci and their corresponding PBR foci makes it unlikely that they share the same blood supply artery. Fourth, the couplings between the sNBR and its PBR counterpart are distinct among different regions and thus should be investigated separately. These findings imply that the origin of most sNBR foci in the finger-tapping task is much more likely to be neuronal activity suppression rather than “blood steal.”

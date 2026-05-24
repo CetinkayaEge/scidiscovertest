@@ -1,0 +1,9 @@
+Title: Regulation of Lysozyme Activity by Human Hormones
+Authors: Timofei A. Pankratov, Andrey V. Gannesen, Yuri A. Nikolaev
+Year: 2023
+Venue: Iranian Biomedical Journal
+DOI: 10.52547/ibj.3614
+Paper ID: pmc_PMC9971709
+
+Abstract:
+Background: Lysozyme is a part of human and animal noncellular immunity. The regulation of its activity by hormones is poorly studied. The aim of this study was to test the in vitro activity of lysozyme in the presence of catecholamines, natriuretic hormones, and E2. Methods: Hormones were incubated with lysozyme, and the activity of lysozome was further determined using a test culture of Micrococcus luteus in the early exponential growth stage. The activity of lysozyme was assessed based on the rate of change in the OD of the test culture. Molecular docking was performed using SwissDock server (http://www.swissdock.ch/docking), and molecular structures were further analyzed and visualized in the UCSF Chimera 1.15rc software. Results: According to the results, EPN and NE increased lysozyme activity up to 180% compared to the hormone-free enzyme. Changing the pH of the medium from 6.3 to 5.5, increased the lysozyme activity in the presence of E2 up to 150-200 %. The results also showed that exposure to hormones could modify lysozyme activity, and this effect depends on the temperature and pH value. The molecular docking revealed a decrease in the activation energy of the active site of enzyme during the interaction of catecholamines with the amino acid residues, asp52 and glu35 of the active site. Conclusion: Our findings demonstrate an additional mechanism for the involvement of lysozyme in humoral regulation of nonspecific immunity with respect to human pathogenic microflora and bacterial skin commensals by direct modulation of its activity using human hormones.

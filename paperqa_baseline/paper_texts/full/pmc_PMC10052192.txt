@@ -1,0 +1,9 @@
+Title: A Cost-Effective Lightning Current Measuring Instrument with Wide Current Range Detection Using Dual Signal Conditioning Circuits
+Authors: Youngjun Lee, Young Sam Lee
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063349
+Paper ID: pmc_PMC10052192
+
+Abstract:
+Lightning strikes can cause significant damage to critical infrastructure and pose a serious threat to public safety. To ensure the safety of facilities and investigate the causes of lightning accidents, we propose a cost-effective design method for a lightning current measuring instrument that uses a Rogowski coil and dual signal conditioning circuits to detect a wide range of lightning currents, ranging from hundreds of A to hundreds of kA. To implement the proposed lightning current measuring instrument, we design signal conditioning circuits and software capable of detecting and analyzing lightning currents from ±500 A to ±100 kA. By employing dual signal conditioning circuits, it offers the advantage of detecting a wide range of lightning currents compared to existing lightning current measuring instruments. The proposed instrument has the following features: First, the peak current, polarity, T 1 (front time), T 2 (time to half value), and Q (amount of energy of the lightning current) can be analyzed and measured with a fast sampling time of 380 ns. Second, it can distinguish whether a lightning current is induced or direct. Third, a built-in SD card is provided to save the detected lightning data. Finally, it provides Ethernet communication capability for remote monitoring. The performance of the proposed instrument is evaluated and validated by applying induced and direct lightning using a lightning current generator.

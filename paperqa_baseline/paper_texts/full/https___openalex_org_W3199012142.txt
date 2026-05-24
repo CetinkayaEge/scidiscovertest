@@ -1,0 +1,9 @@
+Title: A Process-Planning Framework for Sustainable Manufacturing
+Authors: Colin Reiff, Matthias Buser, Thomas Betten, Volkher Onuseit, Max Hoßfeld, Daniel Wehner, Oliver Riedel
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14185811
+Paper ID: https://openalex.org/W3199012142
+
+Abstract:
+Process planning in manufacturing today focuses on optimizing the conflicting targets of cost, quality, and time. Due to increasing social awareness and subsequent governmental regulation, environmental impact becomes a fourth major aspect. Eventually, sustainability in manufacturing ensures future competitiveness. In this paper, a framework for the planning of sustainable manufacturing is proposed. It is based on the abstraction and generalization of manufacturing resources and part descriptions, which are matched and ranked using a multi-criteria decision analysis method. Manufacturing resources provide values for cost, quality, time and environmental impacts, which multiply with their usage within a manufacturing task for a specific part. The framework is validated with a detailed modeling of a laser machine as a resource revealing benefits and optimization potential of the underlying data model. Finally, the framework is applied to a use case of a flange part with two different manufacturing strategies, i.e., laser metal-wire deposition and conventional milling. The most influential parameters regarding the environmental impacts are the raw material input, the manufacturing energy consumption and the machine production itself. In general, the framework enabled the identification of non-predetermined manufacturing possibilities and the comprehensive comparison of production resources.

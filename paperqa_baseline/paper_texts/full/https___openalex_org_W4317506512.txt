@@ -1,0 +1,9 @@
+Title: Emerging Cybersecurity and Privacy Threats to Electric Vehicles and Their Impact on Human and Environmental Sustainability
+Authors: Zia Muhammad, Zahid Anwar, Bilal Saleem, Jahanzeb Shahid
+Year: 2023
+Venue: Energies
+DOI: https://doi.org/10.3390/en16031113
+Paper ID: https://openalex.org/W4317506512
+
+Abstract:
+With the global energy crisis, increasing demand, and a national-level emphasis on electric vehicles (EVs), numerous innovations are being witnessed throughout the EV industry. EVs are equipped with sensors that maintain a sustainable environment for the betterment of society and enhance human sustainability. However, at the same time, as is the case for any new digital technology, they are susceptible to threats to security and privacy. Recent incidents demonstrate that these sensors have been misused for car and energy theft, financial fraud, data compromise, and have caused severe health and safety problems, amongst other things. To the best of our knowledge, this paper provides a first systematic analysis of EV sustainability, digital technologies that enhance sustainability, their potential cybersecurity threats, and corresponding defense. Firstly, three robust taxonomies have been presented to identify the dangers that can affect long-term sustainability domains, including (1) life and well-being, (2) safe environment, and (3) innovation and development. Second, this research measures the impact of cybersecurity threats on EVs and correspondingly to their sustainability goals. Third, it details the extent to which specific security controls can mitigate these threats, thereby allowing for a smooth transition toward secure and sustainable future smart cities.

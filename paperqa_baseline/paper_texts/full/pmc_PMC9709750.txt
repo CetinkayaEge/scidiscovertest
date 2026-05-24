@@ -1,0 +1,9 @@
+Title: The effect of the COVID-19 pandemic on deceased and living organ donors in the United States of America
+Authors: Mireille Hantouche, Libia Lara Carrion, Emilio Porcu, Katrina A. Bramstedt
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-24351-x
+Paper ID: pmc_PMC9709750
+
+Abstract:
+A life-saving treatment, solid organ transplantation (SOT) has transformed the survival and quality of life of patients with end-organ dysfunction. The coronavirus disease (COVID-19) pandemic has impacted the practice of deceased and living donations worldwide by various resource shifting, including healthcare personnel and equipment such as ventilators and bed space. Our work explores the COVID-19 pandemic and global transplant data to create a statistical model for deducing the impact of COVID-19 on living donor and deceased donor transplants in the United States of America (USA). In severely impacted regions, transplant centers need to carefully balance the risks and benefits of performing a transplant during the COVID-19 pandemic. In our statistical model, the COVID cases are used as an explanatory variable (input) to living or deceased donor transplants (output). The model is shown to be statistically accurate for both estimation of the correlation structure, and prediction of future donors. The provided predictions are to be taken as probabilistic assertions, so that for each instant where the prediction is calculated, a statistical measure of accuracy (confidence interval) is provided. The method is tested on both low and high frequency data, that notoriously exhibit a different behavior.

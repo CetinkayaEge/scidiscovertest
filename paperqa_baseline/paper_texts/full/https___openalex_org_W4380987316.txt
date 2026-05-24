@@ -1,0 +1,9 @@
+Title: Review and Perspectives of sustainable, biodegradable, eco-friendly and flexible electronic devices and (Bio)sensors
+Authors: Samiris Côcco Teixeira, Nathalia O. Gomes, Taíla Veloso de Oliveira, Paulo Fortes-Da-Silva, Nilda de Fátima Ferreira Soares, Paulo A. Raymundo‐Pereira
+Year: 2023
+Venue: Biosensors and Bioelectronics X
+DOI: https://doi.org/10.1016/j.biosx.2023.100371
+Paper ID: https://openalex.org/W4380987316
+
+Abstract:
+The demand for increasingly advanced bioelectronic devices with smart functions, long-term stability, and the ability to operate outdoors for extended periods of time has been growing rapidly in modern society. In addition, excellent flexibility, biocompatibility, lightweight design, sustainability, biodegradability and environmental friendliness are equally important considerations when choosing mobile electronics. To meet these requirements, flexible bioelectronic devices need to be equipped with efficient portable tasks. However, most of these devices are currently manufactured using plastic substrates/supports, which is not environmentally sustainable. This review is focused on research attempts to shift biodegradable polymeric materials toward flexible and sustainable components. We present recent scientific achievements in the strategies to obtain eco-friendly polymers for flexible substrates/support to fabrication of bioelectronic devices. We summarize the introduction of biodegradable polymers and techniques to fabrication of portable bioelectronic devices as components to provide flexible and sustainable substrates/support. Lastly, we summarized the few applications reported on biodegradable polymeric films toward flexible bioelectronic devices and commented on the challenges and future prospects for unexplored sensing and biosensing.

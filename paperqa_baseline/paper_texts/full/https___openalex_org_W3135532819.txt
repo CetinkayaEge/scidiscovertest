@@ -1,0 +1,9 @@
+Title: Sustained delivery of MMP-9 siRNA via thermosensitive hydrogel accelerates diabetic wound healing
+Authors: Biyun Lan, Liming Zhang, Liqun Yang, Junfeng Wu, Na Li, Chenglin Pan, Xiaoyi Wang, Lexiang Zeng, Yan Li, Chuan Yang, Meng Ren
+Year: 2021
+Venue: Journal of Nanobiotechnology
+DOI: https://doi.org/10.1186/s12951-021-00869-6
+Paper ID: https://openalex.org/W3135532819
+
+Abstract:
+Excessive expression of matrix metalloproteinase 9 (MMP-9) impedes healing of diabetic chronic wounds, thus wound dressing that could effectively inhibit the expression of MMP-9 offers significant clinical translation for diabetic wound healing. Herein, a hybrid hydrogel dressing was developed for localized and sustained delivery of MMP-9 siRNA (siMMP-9). siMMP-9 was complexed with Gly-TETA (GT), the GT/siMMP9 complex was then loaded into a thermosensitive hydrogel based on Pluronic F-127 (PF) and methylcellulose (MC). In vitro, this hybrid hydrogel dressing exhibited negligible cytotoxicity, prolonged the release of GT/siMMP-9 for up to 7 days, and significantly reduced MMP-9 expression. In vivo assessment in diabetic rats demonstrated that hydrogel provided localized and sustained delivery via the thermosensitive controlled release of entrapped GT/siMMP-9 into wound tissues for 7 days, resulting in dramatic MMP-9 silencing which significantly improved diabetic wound closure. This hybrid hydrogel dressing exhibited excellent biocompatibility, with no observed systemic toxicity in rats. Taken together, the hybrid hydrogel dressing may constitute an effective and biocompatible means of enhancing diabetic wound healing through effective silencing of the MMP-9 gene, and this hydrogel delivery system also offers a platform for in vivo delivery of siRNA for the treatment of other diseases.

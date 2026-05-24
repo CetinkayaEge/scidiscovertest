@@ -1,0 +1,9 @@
+Title: Sustainable electronic biomaterials for body-compliant devices: Challenges and perspectives for wearable bio-mechanical sensors and body energy harvesters
+Authors: Gaia de Marzo, Vincenzo Mastronardi, Maria Teresa Todaro, Laura Blasi, Valentina Antonaci, Luciana Algieri, Michele Scaraggi, Massimo De Vittorio
+Year: 2024
+Venue: Nano Energy
+DOI: https://doi.org/10.1016/j.nanoen.2024.109336
+Paper ID: https://openalex.org/W4391247449
+
+Abstract:
+Flexible and body-compliant devices -based on eco-friendly materials represent one of the most challenging needs to monitor human health continuously and seamlessly, while reducing the environmentally burden of electronic waste. In this respect, biomaterials are the preferred choice to develop sustainable wearable and implantable systems thanks to their advantages over most synthetic materials: Biocompatibility, biodegradability, tailored and reversible adherence to tissues, and low environmental footprint. In this review, the focus is on flexible bio-mechanical sensors and body energy harvesters based on sustainable active materials and, in particular, on their performance analysis related to different healthcare applications. Thus, the applicability potential of biomaterials extracted from bio-sustainable sources is critically discussed in the framework of developing the next generation of fully sustainable and portable health monitoring systems. © 2017 Elsevier Inc. All rights reserved.

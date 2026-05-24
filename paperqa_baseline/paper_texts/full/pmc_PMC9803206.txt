@@ -1,0 +1,9 @@
+Title: A novel RP-HPLC method for quantification of cholinesterase activity in human blood: An application for assessing organophosphate and carbamate insecticide exposure
+Authors: Sukesh Narayan Sinha, Ramakrishna Ungarala, Dileshwar Kumar, Rajendra Sangaraju, Sarita Kumar
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0279287
+Paper ID: pmc_PMC9803206
+
+Abstract:
+Several methods have been reported to estimate Acetylcholinesterase (AChE) enzyme activity in blood samples. The Ellman assay is the most important among all but with several shortcomings, and there is a need to develop a method which is accurate, sensitive and quick for analyzing AChE. Therefore, we have developed an assay utilizing RP-HPLC with UV detection for the determination of AChE activity. This method measured the conversion of 1-naphthol acetate to 1-naphthol to estimate AChE activity in blood samples. Performance was judged on the basis of reproducibility, sensitivity, accuracy, and the ability to screen enzyme activity within 20minutes. A series of experiments were performed, varying the concentration of blood and substrate, with optimal sensitivity using 50 μM substrate and 10μL blood. The validation parameters such as linearity (R 2 of ≥ 0.9842 for 1-naphthol and ≥ 0.9897 for 1-naphthol acetate), precision (94.21–96.41%), accuracy (85.2%–99.6% and 82.6%–99.3% for 1-naphthol and 1-naphthol acetate respectively), and robustness were validated according to International Conference on Harmonization (ICH) guidelines. Blood samples were collected from healthy people, farmers exposed to spraying of pesticides, and suicidal patients who ingested pesticides and were hospitalized and were analyzed by the developed method. The AChE level was approximately 21 units/mL compared to 24units/mL in controls, whereas suicidal patients showed the least AChE levels of 1 unit/mL. The employment of this method is recommended for estimating AChE level on various matrices.

@@ -1,0 +1,9 @@
+Title: Exploring the Potential and Challenges of Electrochemical Processes for Sustainable Waste Water Remediation and Treatment
+Authors: Olusola D. Ogundele, David Adeniran Oyegoke, Temitope E. Anaun
+Year: 2023
+Venue: Acadlore Transactions on Geosciences
+DOI: https://doi.org/10.56578/atg020203
+Paper ID: https://openalex.org/W4382560153
+
+Abstract:
+Emerging as an efficient, cost-effective, and environmentally sound approach, electrochemical treatment methods hold significant promise for sustainable remediation and wastewater treatment. This review elucidates recent progress in electrochemical techniques used for site decontamination and wastewater management. It elucidates the fundamental electrochemical processes, detailing the principles of electrocoagulation, electroflocculation, electrochemical membranes, electrochemical oxidation (EO), and advanced oxidation processes (AOPs). The broad applicability of these methods for contaminant removal, inclusive of heavy metals, organic pollutants, complex organic compounds, and suspended particulate matter, is underscored. Notwithstanding, the adoption of these techniques encounters notable challenges. These involve the heterogeneity of soil conditions, the presence of intricate contaminant mixtures, and the risk of electrode fouling and degradation. Suggestions for overcoming such challenges include refining the comprehension of electrochemical treatment processes in field-scale applications, investigating innovative electrode materials, and developing advanced modeling and simulation tools. This review offers a robust overview of electrochemical treatment strategies for sustainable wastewater management and can guide researchers, engineers, and policymakers towards the successful adoption and implementation of these techniques to meet environmental challenges and foster sustainable water management.

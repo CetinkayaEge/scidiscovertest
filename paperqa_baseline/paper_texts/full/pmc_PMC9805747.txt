@@ -1,0 +1,9 @@
+Title: Combination Use of First-Line Afatinib and Proton-Pump Inhibitors Reduces Overall Survival Among Patients with EGFFR Mutant Lung Cancer
+Authors: Meng-Chin Ho, Ying-Shan Chung, Yu-Ching Lin, Ming-Szu Hung, Yu-Hung Fang
+Year: 2022
+Venue: OncoTargets and Therapy
+DOI: 10.2147/OTT.S387165
+Paper ID: pmc_PMC9805747
+
+Abstract:
+Purpose Previous retrospective studies reported that proton-pump inhibitors (PPIs) may decrease the efficacy of first-generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) including gefitinib and erlotinib. Afatinib had a wider soluble pH range, with possible fewer interactions with antacids. However, clinical data were limited. Thus, this study aimed to evaluate the negative impact of PPIs on afatinib. Patients and Methods This retrospective cohort study included patients who are newly diagnosed with non-small cell lung cancer (NSCLC) from 2014 to 2019 using the Chang Gung Research Database. We identified patients who were treated with first-line afatinib and analyzed the association between the PPI and afatinib treatment outcomes. Results A total of 1418 patients were treated with first-line afatinib and followed up for 6 years. First-line afatinib was administered to 918 eligible patients, and 330 had afatinib with PPIs. The combination use of PPIs and afatinib significantly decreased the overall survival (OS) compared with that of patients using afatinib only (median OS: 33.2 and 25.1 months, p < 0.01) and multivariate analyses (Combination use: hazard ratio: 1.29; 1.05–1.59, p = 0.01). The percentages of patients who were able to receive 2nd line therapy also significantly decreased in afatinib with PPI cohort. Conclusion The concurrent use of PPIs was associated with lower OS in patients with EGFR-mutant lung cancer under the first-line afatinib treatment but not associated with TTF.

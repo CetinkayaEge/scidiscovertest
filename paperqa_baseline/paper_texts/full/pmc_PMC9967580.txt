@@ -1,0 +1,9 @@
+Title: The Non-JAZ TIFY Protein TIFY8 of Arabidopsis thaliana Interacts with the HD-ZIP III Transcription Factor REVOLUTA and Regulates Leaf Senescence
+Authors: Ana Gabriela Andrade Galan, Jasmin Doll, Svenja Corina Saile, Marieluise Wünsch, Edda von Roepenack-Lahaye, Laurens Pauwels, Alain Goossens, Justine Bresson, Ulrike Zentgraf
+Year: 2023
+Venue: International Journal of Molecular Sciences
+DOI: 10.3390/ijms24043079
+Paper ID: pmc_PMC9967580
+
+Abstract:
+The HD-ZIP III transcription factor REVOLUTA (REV) is involved in early leaf development, as well as in leaf senescence. REV directly binds to the promoters of senescence-associated genes, including the central regulator WRKY53 . As this direct regulation appears to be restricted to senescence, we aimed to characterize protein-interaction partners of REV which could mediate this senescence-specificity. The interaction between REV and the TIFY family member TIFY8 was confirmed by yeast two-hybrid assays, as well as by bimolecular fluorescence complementation in planta. This interaction inhibited REV’s function as an activator of WRKY53 expression. Mutation or overexpression of TIFY8 accelerated or delayed senescence, respectively, but did not significantly alter early leaf development. Jasmonic acid (JA) had only a limited effect on TIFY8 expression or function; however, REV appears to be under the control of JA signaling. Accordingly, REV also interacted with many other members of the TIFY family, namely the PEAPODs and several JAZ proteins in the yeast system, which could potentially mediate the JA-response. Therefore, REV appears to be under the control of the TIFY family in two different ways: a JA-independent way through TIFY8, which controls REV function in senescence, and a JA-dependent way through PEAPODs and JAZ proteins.

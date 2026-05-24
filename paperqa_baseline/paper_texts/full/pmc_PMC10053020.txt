@@ -1,0 +1,9 @@
+Title: Investigation on Modulation-Based Straightness Measurement
+Authors: Andrea Egidi, Alessandro Balsamo, Davide Corona, Marco Pisani
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23062912
+Paper ID: pmc_PMC10053020
+
+Abstract:
+The concept of a novel non-contacting technique for measuring straightness and its practical realization in a mechanical device are presented in this article. The device, called InPlanT, is based on the acquisition of the luminous signal retroreflected by a spherical glass target and impinged on a photodiode after mechanical modulation. The received signal is reduced to the sought straightness profile using dedicated software. The system was characterized with a high-accuracy CMM and the maximum error of indication was derived.

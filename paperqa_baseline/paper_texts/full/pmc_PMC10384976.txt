@@ -1,0 +1,9 @@
+Title: Chitosan Scaffolds as Microcarriers for Dynamic Culture of Human Neural Stem Cells
+Authors: Yoshiki Ando, Fei-Chien Chang, Matthew James, Yang Zhou, Miqin Zhang
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15071957
+Paper ID: pmc_PMC10384976
+
+Abstract:
+Human neural stem cells (hNSCs) possess remarkable potential for regenerative medicine in the treatment of presently incurable diseases. However, a key challenge lies in producing sufficient quantities of hNSCs, which is necessary for effective treatment. Dynamic culture systems are recognized as a powerful approach to producing large quantities of hNSCs required, where microcarriers play a critical role in supporting cell expansion. Nevertheless, the currently available microcarriers have limitations, including a lack of appropriate surface chemistry to promote cell adhesion, inadequate mechanical properties to protect cells from dynamic forces, and poor suitability for mass production. Here, we present the development of three-dimensional (3D) chitosan scaffolds as microcarriers for hNSC expansion under defined conditions in bioreactors. We demonstrate that chitosan scaffolds with a concentration of 4 wt% (4CS scaffolds) exhibit desirable microstructural characteristics and mechanical properties suited for hNSC expansion. Furthermore, they could also withstand degradation in dynamic conditions. The 4CS scaffold condition yields optimal metabolic activity, cell adhesion, and protein expression, enabling sustained hNSC expansion for up to three weeks in a dynamic culture. Our study introduces an effective microcarrier approach for prolonged expansion of hNSCs, which has the potential for mass production in a three-dimensional setting.

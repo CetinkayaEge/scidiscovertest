@@ -1,0 +1,9 @@
+Title: Lesion follows function: video-oculography compared with MRI to diagnose internuclear ophthalmoplegia in patients with multiple sclerosis
+Authors: Rawan Omary, Christopher J. Bockisch, Anthony De Vere-Tyndall, Shila Pazahr, Krisztina Baráth, Konrad P. Weber
+Year: 2022
+Venue: Journal of Neurology
+DOI: 10.1007/s00415-022-11428-w
+Paper ID: pmc_PMC9886641
+
+Abstract:
+Background Video-oculography (VOG) is used to quantify functional deficits in internuclear ophthalmoplegia (INO), whereas MRI can detect the corresponding structural lesions in the medial longitudinal fasciculus (MLF). This study investigates the diagnostic agreement of MRI compared to VOG measurements. Methods We prospectively compared structural MRI findings and functional VOG measures of 63 MS patients to assess their diagnostic agreement for INO. Results MRI detected 12 true-positive and 92 true-negative MLF lesions for INO compared to VOG (12 true-positive and 38 true-negative patients) but identified one-third of the MLF lesions on the wrong side. MRI ratings were specific (92.0%) to detect MLF lesions but not sensitive (46.2%) for diagnosing INO (86.4% and 63.2% by patient). Accordingly, MRI has a high positive likelihood ratio of 5.77 but a modest negative likelihood ratio of 0.59 for the probability of INO (4.63 and 0.43) with an accuracy of 82.5% (79.4%). Conclusion MRI assessments are highly specific but not sensitive for detecting INO compared to VOG. While MRI identifies MLF lesions in INO, VOG quantifies the deficit. As a simple, quick, and non-invasive test for diagnosing and tracking functional INO deficits, it will hopefully find its place in the diagnostic and therapeutic pathways of MS.

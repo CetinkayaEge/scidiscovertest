@@ -1,0 +1,9 @@
+Title: Achieving energy sustainability by using solar PV: System modelling and comprehensive techno-economic-environmental analysis
+Authors: Aamir Mehmood, Jingzheng Ren, Long Zhang
+Year: 2023
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2023.101126
+Paper ID: https://openalex.org/W4383806034
+
+Abstract:
+The integration of renewable energy into existing energy infrastructure plays a significant role for promoting sustainable development, but it lacks the certain facets of comprehensive feasibility analysis regarding technical, economic, and environmental aspects. This study focuses on integrating solar photovoltaic (PV) energy into the residential sector using a decision tree and design parameters (DPs) optimisation to assess sustainability and meet the electrification requirements of water, energy, and food elements in the residential sector. In this study, we first quantify the synergies and trade-offs between DPs using a statistical method, and identify influential DPs for solar PV integration using the information gain ratio method. Then, we evaluate the impact of solar PV systems on energy sustainability by considering optimised DPs and energy-economic-environmental decision indicators. Finally, the competitiveness of various solar PV integrated energy systems is analysed using energy, economic, and environmental indicators. The findings suggest that combining solar PV systems with grid power has a greater impact, whereas combining them with battery energy storage systems is more competitive. This study provides valuable insights for decision-making organisations to encourage renewable solar integration in the residential sector, resulting in energy sustainability.

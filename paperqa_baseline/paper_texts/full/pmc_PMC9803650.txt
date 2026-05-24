@@ -1,0 +1,9 @@
+Title: Development of InDel markers for interspecific hybridization between hill pigeons and feral pigeons based on whole-genome re-sequencing
+Authors: Jin-Yong Kim, Jung Eun Hwang, Soo Hyung Eo, Seung-Gu Kang, Jeong Chan Moon, Jung A Kim, Jin-Young Park, Junghwa An, Yonggu Yeo, Jongmin Yoon
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27147-1
+Paper ID: pmc_PMC9803650
+
+Abstract:
+Interspecific hybridization occurs among birds, and closely related sister taxa tend to hybridize at a high rate. Genomic hybridization markers are useful for understanding the patterns and processes of hybridization and for conserving endangered species in captivity and the wild. In this study, we developed genomic hybridization markers for the F1 progeny of the sister taxa feral pigeons ( Columba livia var . domestica ) and endangered hill pigeons ( Columba rupestris ) (family Columbidae). Using whole-genome re-sequencing data, we performed genome-wide analysis for insertion/deletion (InDel) polymorphisms and validated using primers. We conducted polymerase chain reaction (PCR) and agarose gel electrophoresis to identify species-specific InDels. We produced eight F1 hybrids of hill and feral pigeons, and their samples were tested by re-performing analyses and sequencing using 11 species-specific InDel polymorphisms. Eight InDel markers simultaneously amplified two DNA fragments from all F1 hybrids, and there was no abnormality in the sequencing results. The application of genomic tools to detect hybrids can play a crucial role in the assessment of hybridization frequency in the wild. Moreover, systematic captive propagation efforts with hybrids can help control the population decline of hill pigeons.

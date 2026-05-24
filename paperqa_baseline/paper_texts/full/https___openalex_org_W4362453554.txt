@@ -1,0 +1,9 @@
+Title: Sustainable machining of additive manufactured SS-316L underpinning low carbon manufacturing goal
+Authors: Muhammad Umar Farooq, Saqib Anwar, Rizwan Ullah, Rodolfo E. Haber
+Year: 2023
+Venue: Journal of Materials Research and Technology
+DOI: https://doi.org/10.1016/j.jmrt.2023.03.122
+Paper ID: https://openalex.org/W4362453554
+
+Abstract:
+Among recent developments in manufacturing industries, the laser-powder bed fusion process (L-PBF) is gaining attention for manufacturing complex and functional parts through the selective melting of powders. However, post-processing is required to improve further the quality of L-PBF parts which corresponds to machinability challenges. In this study, stainless steel grade SS 316L manufactured through L-PBF is subjected to high-speed turning to explore the influence of process variables. The cutting speed, CS (125 m/min, 175 , and 225 m/min), depth of cut, DOC (0.45 and 0.90 mm), and feed rate, FR (0.225 and 0.337 mm/rev) are used for process analysis. Machining performance (surface roughness and tool life) and sustainability aspects (energy consumption, carbon emissions, economics) are taken as response metrics. Parametric optimization to achieve desired response characteristics is carried out. The optimized parametric levels achieved an 87.66% goal of lowering machining cost, 80.94% goal of minimizing carbon emissions, 99.25% goal of decreasing specific energy, 100% goal of enhancing tool life, and 98.95% goal of reducing surface roughness. The present research can be used as a basis for comparative analysis of sustainable machining routes (lubrication-based or production tooling) and as a fundamental guideline for machinists in the metal processing industry.

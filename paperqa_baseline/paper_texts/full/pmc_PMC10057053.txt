@@ -1,0 +1,9 @@
+Title: In Vivo Analysis of a Biodegradable Magnesium Alloy Implant in an Animal Model Using Near-Infrared Spectroscopy
+Authors: Anna Mathew, Hafiz Wajahat Hassan, Olga Korostynska, Frank Westad, Eduarda Mota-Silva, Luca Menichetti, Peyman Mirtaheri
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063063
+Paper ID: pmc_PMC10057053
+
+Abstract:
+Biodegradable magnesium-based implants offer mechanical properties similar to natural bone, making them advantageous over nonbiodegradable metallic implants. However, monitoring the interaction between magnesium and tissue over time without interference is difficult. A noninvasive method, optical near-infrared spectroscopy, can be used to monitor tissue’s functional and structural properties. In this paper, we collected optical data from an in vitro cell culture medium and in vivo studies using a specialized optical probe. Spectroscopic data were acquired over two weeks to study the combined effect of biodegradable Mg-based implant disks on the cell culture medium in vivo. Principal component analysis (PCA) was used for data analysis. In the in vivo study, we evaluated the feasibility of using the near-infrared (NIR) spectra to understand physiological events in response to magnesium alloy implantation at specific time points (Day 0, 3, 7, and 14) after surgery. Our results show that the optical probe can detect variations in vivo from biological tissues of rats with biodegradable magnesium alloy “WE43” implants, and the analysis identified a trend in the optical data over two weeks. The primary challenge of in vivo data analysis is the complexity of the implant interaction near the interface with the biological medium.

@@ -1,0 +1,9 @@
+Title: A Perspective on Sustainable Computational Chemistry Software Development and Integration
+Authors: Rosa Di Felice, Maricris L. Mayes, Ryan M. Richard, David B. Williams‐Young, Garnet Kin‐Lic Chan, Wibe A. de Jong, Niranjan Govind, Martin Head‐Gordon, Matthew R. Hermes, Karol Kowalski, Xiaosong Li, Hans Lischka, Karl T. Mueller, Erdal Mutlu, Anders M. N. Niklasson, Mark R. Pederson, Bo Peng, Ron Shepard, Edward F. Valeev, Mark van Schilfgaarde, Bess Vlaisavljevich, Theresa L. Windus, Sotiris S. Xantheas, Xing Zhang, Paul M. Zimmerman
+Year: 2023
+Venue: Journal of Chemical Theory and Computation
+DOI: https://doi.org/10.1021/acs.jctc.3c00419
+Paper ID: https://openalex.org/W4387127592
+
+Abstract:
+The power of quantum chemistry to predict the ground and excited state properties of complex chemical systems has driven the development of computational quantum chemistry software, integrating advances in theory, applied mathematics, and computer science. The emergence of new computational paradigms associated with exascale technologies also poses significant challenges that require a flexible forward strategy to take full advantage of existing and forthcoming computational resources. In this context, the sustainability and interoperability of computational chemistry software development are among the most pressing issues. In this perspective, we discuss software infrastructure needs and investments with an eye to fully utilize exascale resources and provide unique computational tools for next-generation science problems and scientific discoveries.

@@ -1,0 +1,9 @@
+Title: A Strategy for Precise Treatment of Cardiac Malignant Neoplasms
+Authors: Wenshuo Wang, Jinqiang Shen, Hongyue Tao, Yun Zhao, Hui Nian, Lai Wei, Xiaoyuan Ling, Ye Yang, Limin Xia
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46168
+Paper ID: pmc_PMC5385561
+
+Abstract:
+The prevalence of cardiac malignant neoplasms in the general population has been shown to be significant higher than what was previously estimated, yet their treatment has remained difficult and effective therapies are lacking. In the current study, we developed a novel thermotherapy in which PEG-functionalized carbon nanotubes were injected into the tumor regions to assist in the targeted delivery of infrared radiation energy with minimal hyperthermic damage to the surrounding normal tissues. In a mouse model of cardiac malignant neoplasms, the injected carbon nanotubes could rapidly induce coagulative necrosis of tumor tissues when exposed to infrared irradiation. In accordance, the treatment was also found to result in a restoration of heart functions and a concomitant increase of survival rate in mice. Taken together, our carbon nanotube-based thermotherapy successfully addressed the difficulty facing conventional laser ablation methods with regard to off-target thermal injury, and could pave the way for the development of more effective therapies against cardiac malignant neoplasms.

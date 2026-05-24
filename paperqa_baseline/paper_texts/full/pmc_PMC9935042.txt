@@ -1,0 +1,9 @@
+Title: Prognostic implication of premature ventricular contractions in patients without structural heart disease
+Authors: Raffaele Scorza, Martin Jonsson, Leif Friberg, Mårten Rosenqvist, Viveka Frykman
+Year: 2023
+Venue: Europace
+DOI: 10.1093/europace/euac184
+Paper ID: pmc_PMC9935042
+
+Abstract:
+Abstract Aims Premature ventricular contractions (PVCs) are a common form of arrhythmia associated with an unfavourable prognosis in patients with structural heart disease. However, the prognostic significance in absence of heart disease is debated. With this study, we aim to investigate whether subjects with PVC, without structural heart disease, have a worse prognosis than the general population. Methods and results Patients evaluated for PVC at a secondary care centre in Stockholm County from January 2010 to December 2016 were identified. We included patients without history of previous heart disease who had undergone echocardiography and exercise test with normal findings. Based on sex and age, we matched the PVC cohort to a four times bigger control group from the general population and compared the outcome in terms of mortality and cardiovascular morbidity during a median follow-up time of 5.2 years. We included 820 patients and 3,264 controls. Based on a non-inferiority analysis, the PVC group did not have a higher mortality than the control group (0.44, CI 0.27–0.72). Sensitivity analysis with propensity score matching confirmed this result. Conclusions PVC patients, who after thorough evaluation showed no signs of structural heart disease, did not have a worse prognosis when compared to an age- and sex- control group based on the general population.

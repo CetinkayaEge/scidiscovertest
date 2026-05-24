@@ -1,0 +1,9 @@
+Title: Forecasting Energy Consumption of Wastewater Treatment Plants with a Transfer Learning Approach for Sustainable Cities
+Authors: Pedro Oliveira, Bruno Fernandes, César Analide, Paulo Nováis
+Year: 2021
+Venue: Electronics
+DOI: https://doi.org/10.3390/electronics10101149
+Paper ID: https://openalex.org/W3163271609
+
+Abstract:
+A major challenge of today’s society is to make large urban centres more sustainable. Improving the energy efficiency of the various infrastructures that make up cities is one aspect being considered when improving their sustainability, with Wastewater Treatment Plants (WWTPs) being one of them. Consequently, this study aims to conceive, tune, and evaluate a set of candidate deep learning models with the goal being to forecast the energy consumption of a WWTP, following a recursive multi-step approach. Three distinct types of models were experimented, in particular, Long Short-Term Memory networks (LSTMs), Gated Recurrent Units (GRUs), and uni-dimensional Convolutional Neural Networks (CNNs). Uni- and multi-variate settings were evaluated, as well as different methods for handling outliers. Promising forecasting results were obtained by CNN-based models, being this difference statistically significant when compared to LSTMs and GRUs, with the best model presenting an approximate overall error of 630 kWh when on a multi-variate setting. Finally, to overcome the problem of data scarcity in WWTPs, transfer learning processes were implemented, with promising results being achieved when using a pre-trained uni-variate CNN model, with the overall error reducing to 325 kWh.

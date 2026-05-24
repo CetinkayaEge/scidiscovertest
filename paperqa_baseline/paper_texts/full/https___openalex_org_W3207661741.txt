@@ -1,0 +1,9 @@
+Title: Reduction of Nonvolatile Particulate Matter Emissions of a Commercial Turbofan Engine at the Ground Level from the Use of a Sustainable Aviation Fuel Blend
+Authors: Lukáš Ďurdina, Benjamin T. Brem, Miriam Elser, David Schönenberger, Frithjof Siegerist, Julien Anet
+Year: 2021
+Venue: Environmental Science & Technology
+DOI: https://doi.org/10.1021/acs.est.1c04744
+Paper ID: https://openalex.org/W3207661741
+
+Abstract:
+Nonvolatile particulate matter (nvPM) emissions from aircraft turbine engines deteriorate air quality and contribute to climate change. These emissions can be reduced using sustainable aviation fuels (SAFs). Here, we investigate the effects of a 32% SAF blend with fossil fuel on particle size distributions and nvPM emission indices of a widely used turbofan engine. The experiments were conducted in a test cell using a standardized sampling and measurement system. The geometric mean diameter (GMD) increased with thrust from ∼8 nm at idle to ∼40 nm at take-off, and the geometric standard deviation (GSD) was in the range of 1.74-2.01. The SAF blend reduced the GMD and GSD at each test point. The nvPM emission indices were reduced most markedly at idle by 70% in terms of nvPM mass and 60% in terms of nvPM number. The relative reduction of nvPM emissions decreased with the increasing thrust. The SAF blend reduced the nvPM emissions from the standardized landing and take-off cycle by 20% in terms of nvPM mass and 25% in terms of nvPM number. This work will help develop standardized models of fuel composition effects on nvPM emissions and evaluate the impacts of SAF on air quality and climate.

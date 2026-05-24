@@ -1,0 +1,9 @@
+Title: Nematode gene annotation by machine-learning-assisted proteotranscriptomics enables proteome-wide evolutionary analysis
+Authors: Alejandro Ceron-Noriega, Miguel V. Almeida, Michal Levin, Falk Butter
+Year: 2023
+Venue: Genome Research
+DOI: 10.1101/gr.277070.122
+Paper ID: pmc_PMC9977148
+
+Abstract:
+Nematodes encompass more than 24,000 described species, which were discovered in almost every ecological habitat, and make up >80% of metazoan taxonomic diversity in soils. The last common ancestor of nematodes is believed to date back to ∼650–750 million years, generating a large and phylogenetically diverse group to be explored. However, for most species high-quality gene annotations are incomprehensive or missing. Combining short-read RNA sequencing with mass spectrometry–based proteomics and machine-learning quality control in an approach called proteotranscriptomics, we improve gene annotations for nine genome-sequenced nematode species and provide new gene annotations for three additional species without genome assemblies. Emphasizing the sensitivity of our methodology, we provide evidence for two hitherto undescribed genes in the model organism Caenorhabditis elegans . Extensive phylogenetic systems analysis using this comprehensive proteome annotation provides new insights into evolutionary processes of this metazoan group.

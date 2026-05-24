@@ -1,0 +1,9 @@
+Title: Circular Economy Sustainability Analysis Framework for Plastics: Application for Poly(ethylene Terephthalate) (PET)
+Authors: Ulises R. Gracida-Alvarez, Xu Hui, Pahola Thathiana Benavides, Michael Wang, Troy R. Hawkins
+Year: 2023
+Venue: ACS Sustainable Chemistry & Engineering
+DOI: https://doi.org/10.1021/acssuschemeng.2c04626
+Paper ID: https://openalex.org/W4313649433
+
+Abstract:
+The establishment of the circular economy (CE) for plastics aims to reduce material losses and dependence on virgin materials; however, this practice does not necessarily imply reduction of life-cycle impacts. In this study, a CE sustainability analysis framework combining life-cycle assessment (LCA) and material flow analysis (MFA) was developed to simultaneously evaluate the life-cycle impacts and circularity metrics of implementing different CE strategies of production of plastic packaging, using poly(ethylene terephthalate) (PET) bottles as an example. The strategies included increasing the recycling rate of PET bottles and integrating two chemical recycling technologies in industrial development: enzymatic hydrolysis and methanolysis. The energy use of enzymatic hydrolysis and methanolysis was estimated to be 57 and 38 MJ/kg PET, respectively, while the two technologies accounted for greenhouse gas (GHG) emissions of 3.0 and 2.0 kg CO2 e/kg PET, respectively. The analysis at the system level demonstrated that compared to the current practice, relying on 97% virgin PET resin, the joint implementation of these strategies generated similar GHG emissions (3.2 kg CO2 e/kg bottle) but reduced virgin material use and solid waste generation by 56 and 64%, respectively. Based on present technology development, increasing the share of mechanically recycled resin in bottle manufacturing and using a decarbonized electricity grid resulted in 14 and 9% lower GHG emissions, respectively, than the current supply chain.

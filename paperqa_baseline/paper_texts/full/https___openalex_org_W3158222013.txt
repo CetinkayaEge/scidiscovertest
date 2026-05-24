@@ -1,0 +1,9 @@
+Title: Sustainability footprints of a renewable carbon transition for the petrochemical sector within planetary boundaries
+Authors: Ángel Galán‐Martín, Víctor Tulus, Ismael Díaz, Carlos Pozo, Javier Pérez‐Ramírez, Gonzalo Guillén‐Gosálbez
+Year: 2021
+Venue: One Earth
+DOI: https://doi.org/10.1016/j.oneear.2021.04.001
+Paper ID: https://openalex.org/W3158222013
+
+Abstract:
+The petrochemical sector will play a crucial role in developing low-carbon transition technologies, but the industry also contributes a significant proportion of greenhouse gas emissions. Momentum is building to help reduce the carbon footprint of this hard-to-abate sector, particularly through replacing fossil carbon feed-stocks with carbon from biomass, captured CO2, and other recycled resources, but the broader implications of these so-called solutions'' remain unclear. Here, we assess the overall sustainability of such renewable carbon pathways'' by quantifying their life-cycle environmental footprints with respect to the previously defined nine planetary boundaries. We show that although a shift toward renewable carbon pathways could indeed reduce CO2 emissions by 25% to over 100%, the scenario with the lowest carbon footprint could exceed the biodiversity planetary boundary by at least 30%. Our work highlights the potential pitfalls of overlooking global environmental guardrails beyond greenhouse gas emissions reduction and identifies new avenues for quantifying the environmental footprint of decarbonization solutions for hard-to-abate sectors.

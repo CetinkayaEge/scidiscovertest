@@ -1,0 +1,9 @@
+Title: A smart aeroponic system for sustainable indoor farming
+Authors: Benedetta Fasciolo, Ahmed Awouda, Giulia Bruno, Franco Lombardi
+Year: 2023
+Venue: Procedia CIRP
+DOI: https://doi.org/10.1016/j.procir.2023.02.107
+Paper ID: https://openalex.org/W4366316467
+
+Abstract:
+Population growth requires a significant increase in agricultural production to ensure food security. However, the further increase in such production is limited by the environmental crises and by the negative impacts of open-field agricultural practices. Vertical farming techniques, such as aeroponics, can be exploited to optimize the use of resources. This paper presents a methodology for developing a smart aeroponic systems, based on IoT and artificial intelligence algorithms. The proposed methodology is used to identify the parameters that affect plant growth and their correlations with the plant performance indicators. The obtained smart aeroponic system will be able to automatically balance resource utilization (e.g., water, nutrients, energy) and crop productivity.

@@ -1,0 +1,9 @@
+Title: Do sustainability practices contribute to the financial performance of banks? An analysis of banks in Southeast Asia
+Authors: Herenia Gutiérrez Ponce, Sigit Arie Wibowo
+Year: 2023
+Venue: Corporate Social Responsibility and Environmental Management
+DOI: https://doi.org/10.1002/csr.2641
+Paper ID: https://openalex.org/W4387776621
+
+Abstract:
+Abstract In response to the need to deepen research on the impact of corporate ESG (environmental, social, and governance) pillars on the financial performance (FP) of banks, this study analyzes the relationship between ESG and FP in banks from emerging countries in Southeast Asia during the period 2010–2020. Using a sample of 19 banks from five countries with emerging economies, this article examines the level of information on ESG activities that banks report in each of their pillars and these pillars' impact on the FP. The research was conducted through an exploratory study using panel data (Thomson Reuters ESG data), parametric correlations, and regression models. FP is measured by return on assets (ROA), return on equity (ROE), and Tobin's Q (TQ), or the prevailing market price for exchanging assets divided by the market price of the goods newly produced. The findings show that ESG has a significant negative effect on all measures of FP (ROA, ROE, and TQ). However, analysis of the relationship of each individual ESG pillar to FP obtains different findings for each. Our study also shows differences in the level of ESG information in each country as a result of their specific economic characteristics. This study has limitations due to the limited ESG, bank, and country data that Thomson Reuters contains on banks in this region of Asia. In future research, more banks and more countries can be added to the analysis, as well as other control variables related to FP.

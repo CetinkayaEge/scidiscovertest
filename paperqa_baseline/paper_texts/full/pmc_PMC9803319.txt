@@ -1,0 +1,9 @@
+Title: Different structural variant prediction tools yield considerably different results in Caenorhabditis elegans
+Authors: Kyle Lesack, Grace M. Mariene, Erik C. Andersen, James D. Wasmuth
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0278424
+Paper ID: pmc_PMC9803319
+
+Abstract:
+The accurate characterization of structural variation is crucial for our understanding of how large chromosomal alterations affect phenotypic differences and contribute to genome evolution. Whole-genome sequencing is a popular approach for identifying structural variants, but the accuracy of popular tools remains unclear due to the limitations of existing benchmarks. Moreover, the performance of these tools for predicting variants in non-human genomes is less certain, as most tools were developed and benchmarked using data from the human genome. To evaluate the use of long-read data for the validation of short-read structural variant calls, the agreement between predictions from a short-read ensemble learning method and long-read tools were compared using real and simulated data from Caenorhabditis elegans . The results obtained from simulated data indicate that the best performing tool is contingent on the type and size of the variant, as well as the sequencing depth of coverage. These results also highlight the need for reference datasets generated from real data that can be used as ‘ground truth’ in benchmarks.

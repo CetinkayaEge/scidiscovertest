@@ -1,0 +1,9 @@
+Title: The dynamical study of O( 1 D) + HCl(v = 0, j = 0) reaction at hyperthermal collision energies
+Authors: Meihua Ge, Huan Yang, Yujun Zheng
+Year: 2013
+Venue: Chemistry Central Journal
+DOI: 10.1186/1752-153X-7-177
+Paper ID: pmc_PMC4176982
+
+Abstract:
+Backgrounds The quasi-classical trajectory calculations for O( 1 D) + HCl → OH + Cl (R1) and O( 1 D) + HCl → ClO + H (R2) reactions have been performed at hyperthermal collision energies (60.0, 90.0, and 120.0 kal/mol) on the 1 A' state. Reaction probabilities and integral cross sections are calculated. The product rotational distributions for the two channels, and the product rotational alignment parameters are investigated. Also, the alignment and the orientation of the products have been predicted through the angular distribution functions (concerning the initial/final velocity vector, and the product rotational angular momentum vector). To have a deeper understanding of the natures of the vector correlation between reagent and product relative velocities, a natural generalization of the differential cross section __PDDCS 00 , is calculated. Results The OH + Cl channel is the main product channel and is observed to have essentially isotropic rotational distributions. The ClO + H channel is found to be clearly rotationally polarized. Conclusions The dynamical, especially the stereodynamical characters are quite different for the two channels of the title reaction. Most reactions occur directly, except for R2 reaction at the collision energies of 60.0 and 120.0 kcal/mol. The alignment and orientation effects are weak/strong for R1/R2 reaction. The well structure on the potential energy surface and hyperthermal collision energies might result in the dynamical effects.

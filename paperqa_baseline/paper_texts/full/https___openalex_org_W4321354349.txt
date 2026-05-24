@@ -1,0 +1,9 @@
+Title: Disaggregated energy use and socioeconomic sustainability within OECD countries
+Authors: Ioannis Kostakis, Dimıtrios Paparas, Konstantinos P. Tsagarakis
+Year: 2023
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2023.117475
+Paper ID: https://openalex.org/W4321354349
+
+Abstract:
+This study investigates the relationship between disaggregated energy use, human development, trade openness, economic growth, urbanization, and sustainability index in OECD countries from 2014 to 2019. Static, quantile, and dynamic panel data approaches are employed. The findings reveal that fossil fuels such as petroleum, solid fuels, natural gas, and coal decrease sustainability. On the contrary, alternative sources such as renewable and nuclear energy seem to contribute positively to sustainable socioeconomic development. It is also interesting to note that alternative energy sources strongly influence socioeconomic sustainability in the lower and upper quantiles. Also, the human development index and trade openness improve sustainability, while urbanization seems to be an obstacle in complying with sustainability goals within OECD countries. Policymakers should revisit their strategies toward sustainable development by mitigating fossil fuels and urbanization and promoting human development, trade openness, and alternative energy sources as drivers of economic progress.

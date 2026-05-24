@@ -1,0 +1,9 @@
+Title: Electric Vehicle Routing, Arc Routing, and Team Orienteering Problems in Sustainable Transportation
+Authors: Leandro do C. Martins, Rafael D. Tordecilla, Juliana Castaneda, Ángel A. Juan, Javier Faulín
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14165131
+Paper ID: https://openalex.org/W3194634928
+
+Abstract:
+The increasing use of electric vehicles in road and air transportation, especially in last-mile delivery and city mobility, raises new operational challenges due to the limited capacity of electric batteries. These limitations impose additional driving range constraints when optimizing the distribution and mobility plans. During the last years, several researchers from the Computer Science, Artificial Intelligence, and Operations Research communities have been developing optimization, simulation, and machine learning approaches that aim at generating efficient and sustainable routing plans for hybrid fleets, including both electric and internal combustion engine vehicles. After contextualizing the relevance of electric vehicles in promoting sustainable transportation practices, this paper reviews the existing work in the field of electric vehicle routing problems. In particular, we focus on articles related to the well-known vehicle routing, arc routing, and team orienteering problems. The review is followed by numerical examples that illustrate the gains that can be obtained by employing optimization methods in the aforementioned field. Finally, several research opportunities are highlighted.

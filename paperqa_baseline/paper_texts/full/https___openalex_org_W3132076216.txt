@@ -1,0 +1,9 @@
+Title: An Analytic Hierarchy Process Approach for Prioritisation of Strategic Objectives of Sustainable Development
+Authors: Zsuzsanna Katalin Szabó, Zsombor Szádoczki, Sándor Bozóki, Gabriela Stănciulescu, Dalma Szabo
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13042254
+Paper ID: https://openalex.org/W3132076216
+
+Abstract:
+Sustainability is one of the world’s fundamental objectives, and a wide variety of information types, parameters, and uncertainties need to be appraised and managed to assess it. In the present paper, Multi-Criteria Decision Analysis (MCDA) is used to prioritise the criteria of sustainable development based on regularly published indicators. In line with most approaches in the literature, the main criteria are Economy, Society and Environment. Complex criteria are decomposed into subcriteria until the performance with respect to them can be measured directly. Weights of importance are calculated by the Analytic Hierarchy Process (AHP), in decision support system PriEsT. The model is flexible to both the modification of criteria and re-weighting, and the PriEsT file is supplemented to the paper. Moreover, the results can also be applied in decisions on resource allocation. The proposed methodology has the potential of resulting in a new composite index to measure, compare or rank countries and regions regarding sustainable development or one of its subcriteria, as well as to track, year by year, the improvements or the impact of the policies introduced.

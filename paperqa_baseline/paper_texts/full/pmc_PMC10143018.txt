@@ -1,0 +1,9 @@
+Title: The Effect of Hydrogen on Plastic Anisotropy of Mg and α-Ti/Zr from First-Principles Calculations
+Authors: Jiwei Wang, Bin Shao, Debin Shan, Bin Guo, Yingying Zong
+Year: 2023
+Venue: Materials
+DOI: 10.3390/ma16083016
+Paper ID: pmc_PMC10143018
+
+Abstract:
+Mg and α-Ti/Zr exhibit high plastic anisotropy. In this study, the ideal shear strength across the basal, prismatic, pyramidal I, and pyramidal II slip systems in Mg and α-Ti/Zr with and without hydrogen was computed. The findings indicate that hydrogen reduces the ideal shear strength of Mg across the basal and pyramidal II slip systems, as well as of α-Ti/Zr across all four systems. Moreover, the activation anisotropy of these slip systems was analyzed based on the dimensionless ideal shear strength. The results suggest that hydrogen increases the activation anisotropy of these slip systems in Mg, while decreasing it in α-Ti/Zr. Furthermore, the activation possibility of these slip systems in polycrystalline Mg and α-Ti/Zr subjected to uniaxial tension was analyzed by utilizing the ideal shear strength and Schmidt’s law. The results reveal that hydrogen increases the plastic anisotropy of Mg/α-Zr alloy while decreasing that of α-Ti alloy.

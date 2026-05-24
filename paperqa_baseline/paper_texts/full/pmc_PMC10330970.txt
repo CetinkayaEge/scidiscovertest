@@ -1,0 +1,9 @@
+Title: Relation between body condition score and conception rate of Japanese Black cows
+Authors: A. Setiaji, T. Oikawa, D. Arakaki
+Year: 2023
+Venue: Animal Bioscience
+DOI: 10.5713/ab.22.0329
+Paper ID: pmc_PMC10330970
+
+Abstract:
+Objective This study analyzes interactions of body condition score (BCS) with other factors and the effect of BCS on estimates of genetic paremeters of conception rate (CR) in Japanese Black cows. Methods Factors affecting CR were analyzed through the linear mixed model, and genetic parameters of CR were estimated through the threshold animal model. Results The interactions between BCS and each season and the number of artificial inseminations (AI) was significant (p<0.05), but that between BCS and parity showed no significance for CR. High CR was observed with BCS 3 in autumn (0.56±0.01) and BCS 4 in summer (0.56±0.02). The highest CR with BCS 3 (0.56±0.02) and BCS 4 (0.55 ±0.01) was observed at first AI. With BCS 5, however, the highest CR (0.55±0.08) was observed at second AI. Conclusion The model with BCS was notably conducive to the estimation of genetic parameters because of a low deviance information criterion of heritability that, nevertheless, was slightly lower than the model without BCS.

@@ -1,0 +1,9 @@
+Title: Sustainable Robotic Joints 4D Printing with Variable Stiffness Using Reinforcement Learning
+Authors: Moslem Mohammadi, Abbas Z. Kouzani, Mahdi Bodaghi, John M. Long, Suiyang Khoo, Yong Xiang, Ali Zolfagharian
+Year: 2023
+Venue: Robotics and Computer-Integrated Manufacturing
+DOI: https://doi.org/10.1016/j.rcim.2023.102636
+Paper ID: https://openalex.org/W4386322990
+
+Abstract:
+Nowadays, a wide range of robots are used in various fields, from car factories to assistant soft robots. In all these applications, effective control of the robot is vital to perform the tasks assigned to them. Soft robots and actuators have several advantages over traditional rigid manipulators, including lower power consumption, lighter weight, safer operation in contact with live tissues, inexpensive manufacturing costs, and quicker movements. However, controlling them is more challenging. This paper presents a three-dimensional (3D) printed structure combined with carbon fibres to provide a stimulus signal, known as four-dimensional (4D) printing. Depending on the application, the structure could provide various levels of stiffness to adapt to new conditions. A nonlinear controller based on reinforcement learning (RL) algorithms is also presented to control the stiffness of soft joints. The controller is tuned based on the mathematical model of the Simulink setup and then applied to the experimental setup. The results show that the RL controller has a high potential to adapt online to various unforeseen conditions. Additionally, this controller offers a significantly reduced lag for specific inputs, such as a sinusoidal signal, while considerably decreasing power consumption in contrast to a linear controller. This is a significant advantage of variable stiffness 4D-pritned soft joints for sustainable and circular robots manufacturing in portable medical and wearable sustainable robotic applications.

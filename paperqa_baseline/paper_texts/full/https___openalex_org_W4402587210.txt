@@ -1,0 +1,9 @@
+Title: Continuous biomanufacturing for sustainable bioeconomy applications
+Authors: Ana G Del Hierro, Juan A. Moreno-Cid, Eoin Casey
+Year: 2024
+Venue: EFB Bioeconomy Journal
+DOI: https://doi.org/10.1016/j.bioeco.2024.100071
+Paper ID: https://openalex.org/W4402587210
+
+Abstract:
+The bioeconomy provides an alternative to non-renewable or fossil-based products. Biomanufacturing is emerging as a sustainable platform for the production of a wide range of value-added products, including chemicals and biodegradable materials. At present, the biotechnology industry is dominated by batch and fed-batch processes and there is increasing interest in continuous biomanufacturing (CBM) as an alternative to reduce capital and operating costs. However, CBM faces adoption challenges due to perceived operational complexities. This review critically evaluates the state-of-the-art in CBM, examining its benefits, limitations, and successful industrial applications across key sectors. Transitioning from batch to continuous processes can enhance productivity and reduce environmental impacts, making CBM a cornerstone technology for a sustainable bioeconomy.

@@ -1,0 +1,9 @@
+Title: Near-wall hemodynamic parameters quantification in in vitro intracranial aneurysms with 7 T PC-MRI
+Authors: Antoine Sache, Philippe Reymond, Olivier Brina, Bernd Jung, Mohamed Farhat, Maria Isabel Vargas
+Year: 2023
+Venue: Magma (New York, N.y.)
+DOI: 10.1007/s10334-023-01082-2
+Paper ID: pmc_PMC10140017
+
+Abstract:
+Objective Wall shear stress (WSS) and its derived spatiotemporal parameters have proven to play a major role on intracranial aneurysms (IAs) growth and rupture. This study aims to demonstrate how ultra-high field (UHF) 7 T phase contrast magnetic resonance imaging (PC-MRI) coupled with advanced image acceleration techniques allows a highly resolved visualization of near-wall hemodynamic parameters patterns in in vitro IAs, paving the way for more robust risk assessment of their growth and rupture. Materials and methods We performed pulsatile flow measurements inside three in vitro models of patient-specific IAs using 7 T PC-MRI. To this end, we built an MRI-compatible test bench, which faithfully reproduced a typical physiological intracranial flow rate in the models. Results The ultra-high field 7 T images revealed WSS patterns with high spatiotemporal resolution. Interestingly, the high oscillatory shear index values were found in the core of low WSS vortical structures and in flow stream intersecting regions. In contrast, maxima of WSS occurred around the impinging jet sites. Conclusions We showed that the elevated signal-to-noise ratio arising from 7 T PC-MRI enabled to resolve high and low WSS patterns with a high degree of detail.

@@ -1,0 +1,9 @@
+Title: Engineered beads-on-a-string nanocomposites for an improved drug fast-sustained bi-stage release
+Authors: Wenjian Gong, Wei Yang, Jianfeng Zhou, Shuping Zhang, Deng‐Guang Yu, Ping Liu
+Year: 2024
+Venue: Nanocomposites
+DOI: https://doi.org/10.1080/20550324.2024.2362477
+Paper ID: https://openalex.org/W4399578677
+
+Abstract:
+Nanocomposites represent one of the most useful strategies for resolving the pharmaceutical challenge about the dissolution and delivery of poorly water-soluble drugs. Besides the compatibility between the drug and polymeric carriers, the physical shapes of materials also play their important roles on the release behaviors of a guest poorly water-soluble drug from the host polymeric matrices. In this study, three kinds of nanocomposites in the forms of homogeneous nanofibers (E1), spindles-on-a-string (E2), and beads-on-a-string (E3) were prepared using electrospinning with ketoprofen (KET) as the model drug and a mixture of ethylcellulose (EC) and polyvinylpyrrolidone (PVP) as the polymeric matrices. Controllable preparation mechanisms of these morphologies are disclosed based on the results of SEM, TEM, and processes observations. XRD and FTIR data demonstrated that KET was compatible with PVP and EC. In vitro dissolution tests verified that all the three nanocomposites were able to provide the typical bi-stage fast-sustained release profiles of KET. Whereas, the beads-on-a-string E3 had a better functional performance than the spindles-on-a-string E2, and the homogeneous nanofibers E1 in terms of the KET sustained release profiles in the second stage. The protocols reported here pioneered a new way for developing novel functional nanocomposites based on the process-shape-performance relationship.

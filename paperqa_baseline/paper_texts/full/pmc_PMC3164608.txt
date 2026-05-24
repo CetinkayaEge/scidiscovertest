@@ -1,0 +1,9 @@
+Title: Functional similarity analysis of human virus-encoded miRNAs
+Authors: Guangchuang Yu, Qing-Yu He
+Year: 2011
+Venue: Journal of Clinical Bioinformatics
+DOI: 10.1186/2043-9113-1-15
+Paper ID: pmc_PMC3164608
+
+Abstract:
+miRNAs are a class of small RNAs that regulate gene expression via RNA silencing machinery. Some viruses also encode miRNAs, contributing to the complex virus-host interactions. A better understanding of viral miRNA functions would be useful in designing new preventive strategies for treating diseases induced by viruses. To meet the challenge for how viruses module host gene expression by their encoded miRNAs, we measured the functional similarities among human viral miRNAs by using a method we reported previously. Higher order functions regulated by viral miRNAs were also identified by KEGG pathway analysis on their targets. Our study demonstrated the biological processes involved in virus-host interactions via viral miRNAs. Phylogenetic analysis suggested that viral miRNAs have distinct evolution rates compared with their corresponding genome.

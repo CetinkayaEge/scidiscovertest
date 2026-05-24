@@ -1,0 +1,9 @@
+Title: Green IoT for Eco-Friendly and Sustainable Smart Cities: Future Directions and Opportunities
+Authors: Faris A. Almalki, Saeed Hamood Alsamhi, Radhya Sahal, Jahan Hassan, Ammar Hawbani, N. S. Rajput, Abdu Saif, Jeff Morgan, John G. Breslin
+Year: 2021
+Venue: Mobile Networks and Applications
+DOI: https://doi.org/10.1007/s11036-021-01790-w
+Paper ID: https://openalex.org/W3194146037
+
+Abstract:
+Abstract The development of the Internet of Things (IoT) technology and their integration in smart cities have changed the way we work and live, and enriched our society. However, IoT technologies present several challenges such as increases in energy consumption, and produces toxic pollution as well as E-waste in smart cities. Smart city applications must be environmentally-friendly, hence require a move towards green IoT. Green IoT leads to an eco-friendly environment, which is more sustainable for smart cities. Therefore, it is essential to address the techniques and strategies for reducing pollution hazards, traffic waste, resource usage, energy consumption, providing public safety, life quality, and sustaining the environment and cost management. This survey focuses on providing a comprehensive review of the techniques and strategies for making cities smarter, sustainable, and eco-friendly. Furthermore, the survey focuses on IoT and its capabilities to merge into aspects of potential to address the needs of smart cities. Finally, we discuss challenges and opportunities for future research in smart city applications.

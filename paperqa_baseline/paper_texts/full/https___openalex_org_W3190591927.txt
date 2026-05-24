@@ -1,0 +1,9 @@
+Title: Road transportation network hazard sustainability and resilience: correlations and comparisons
+Authors: Navya Vishnu, Sabarethinam Kameshwar, Jamie E. Padgett
+Year: 2021
+Venue: Structure and Infrastructure Engineering
+DOI: https://doi.org/10.1080/15732479.2021.1945114
+Paper ID: https://openalex.org/W3190591927
+
+Abstract:
+Recent national level guidelines and research efforts increasingly suggest the use of resilience and sustainability concepts for natural hazard mitigation and recovery planning at the regional and community levels. This paper aims to distinguish and compare the two abstract concepts in the context of road networks recovering from a hazard event since resilience and sustainability metrics are often interchangeably adopted and can lead to inaccurate equivalencies between the two concepts. A spectrum of resilience and sustainability metrics are defined herein and a research methodology is described to evaluate them probabilistically. A case study demonstration on the road network in the Memphis Metropolitan Statistical Area (MMSA) for a probabilistic suite of earthquake scenarios shows that the correlation between network resilience and sustainability is dependent on the hazard level as well as the graphical abstraction of the real road network. While some correlations are observed between temporal sustainability metrics, such as missed trips and traffic emissions, and resilience metrics, like total travel distance and time, the correlation weakens as the network resolution becomes more sparse. These results show that while for dense networks, time-evolving travel time and travel distance may be used as proxy measures for hazard sustainability evolution, for sparsely connected networks, hazard resilience and post-hazard sustainability remain relatively distinct.

@@ -1,0 +1,9 @@
+Title: A CD44v + subpopulation of breast cancer stem-like cells with enhanced lung metastasis capacity
+Authors: Jing Hu, Gang Li, Peiyuan Zhang, Xueqian Zhuang, Guohong Hu
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.72
+Paper ID: pmc_PMC5386565
+
+Abstract:
+Cancer stem-like cells (CSCs) are a subpopulation of cancer cells responsible for tumor growth, and recent evidence suggests that CSCs also contribute to cancer metastasis. However, the heterogeneity of CSCs in metastasis capacities is still unclear in breast cancer. Here we show that among the CD24 − /CD44 + breast CSCs, a subset expressing the variant isoform of CD44 (CD44v) displays significantly higher capacity of lung metastasis than that expressing the standard CD44 isoform CD44s. Increasing or reducing the CD44v/CD44s ratio of breast cancer cells by regulating the expression of epithelial splicing regulatory protein 1 (ESRP1) leads to promotion or suppression of lung metastasis without influencing cancer cell stemness. Directly suppressing CD44v expression significantly alleviates the metastasis burden in lungs. Mechanically, CD44v, but not CD44s, responds to osteopontin (OPN) in the lung environment to enhance cancer cell invasiveness and promote lung metastasis. In clinical samples expression of ESRP1 and CD44v, rather than CD44s or total CD44, positively correlates with distant metastasis. Overall, our data identify a subset of metastatic breast CSCs characterized by CD44v expression, and suggest that CD44v and ESRP1 might be better prognosis markers and therapeutic targets for breast cancer metastasis.

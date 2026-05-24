@@ -1,0 +1,9 @@
+Title: Towards clinical application of implantable brain–computer interfaces for people with late-stage ALS: medical and ethical considerations
+Authors: Mariska J. Vansteensel, Eran Klein, Ghislaine van Thiel, Michael Gaytant, Zachary Simmons, Jonathan R. Wolpaw, Theresa M. Vaughan
+Year: 2022
+Venue: Journal of Neurology
+DOI: 10.1007/s00415-022-11464-6
+Paper ID: pmc_PMC9971103
+
+Abstract:
+Individuals with amyotrophic lateral sclerosis (ALS) frequently develop speech and communication problems in the course of their disease. Currently available augmentative and alternative communication technologies do not present a solution for many people with advanced ALS, because these devices depend on residual and reliable motor activity. Brain–computer interfaces (BCIs) use neural signals for computer control and may allow people with late-stage ALS to communicate even when conventional technology falls short. Recent years have witnessed fast progression in the development and validation of implanted BCIs, which place neural signal recording electrodes in or on the cortex. Eventual widespread clinical application of implanted BCIs as an assistive communication technology for people with ALS will have significant consequences for their daily life, as well as for the clinical management of the disease, among others because of the potential interaction between the BCI and other procedures people with ALS undergo, such as tracheostomy. This article aims to facilitate responsible real-world implementation of implanted BCIs. We review the state of the art of research on implanted BCIs for communication, as well as the medical and ethical implications of the clinical application of this technology. We conclude that the contribution of all BCI stakeholders, including clinicians of the various ALS-related disciplines, will be needed to develop procedures for, and shape the process of, the responsible clinical application of implanted BCIs.

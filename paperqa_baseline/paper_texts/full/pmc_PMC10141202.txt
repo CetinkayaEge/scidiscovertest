@@ -1,0 +1,9 @@
+Title: Box–Behnken Design of Experiments of Polycaprolactone Nanoparticles Loaded with Irinotecan Hydrochloride
+Authors: Basant Salah Mahmoud, Christopher McConville
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041271
+Paper ID: pmc_PMC10141202
+
+Abstract:
+Background: The Box–Behnken design of experiments (BBD) is a statistical modelling technique that allows the determination of the significant factors in developing nanoparticles (NPs) using a limited number of runs. It also allows the prediction of the best levels of variables to obtain the desired characteristics (size, charge, and encapsulation efficiency) of the NPs. The aim of this study was to examine the effect of the independent variables (amount of polymer and drug, and surfactant concentration) and their interaction on the characteristics of the irinotecan hydrochloride (IRH)-loaded polycaprolactone (PCL) NPs and to determine the most optimum conditions for producing the desired NPs. Methods: The development of the NPs was carried out by a double emulsion solvent evaporation technique with yield enhancement. The NPs data were fitted in Minitab software to obtain the best fit model. Results: By using BBD, the most optimum conditions for producing the smallest size, highest magnitude of charge, and highest EE% of PCL NPs were predicted to be achieved by using 61.02 mg PCL, 9 mg IRH, and 4.82% PVA, which would yield 203.01 nm, −15.81 mV, and 82.35% EE. Conclusion: The analysis by BBD highlighted that the model was a good fit to the data, confirming the suitability of the design of the experiments.

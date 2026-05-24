@@ -1,0 +1,9 @@
+Title: Pull-In Effect of Suspended Microchannel Resonator Sensor Subjected to Electrostatic Actuation
+Authors: Han Yan, Wen-Ming Zhang, Hui-Ming Jiang, Kai-Ming Hu
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010114
+Paper ID: pmc_PMC5298687
+
+Abstract:
+In this article, the pull-in instability and dynamic characteristics of electrostatically actuated suspended microchannel resonators are studied. A theoretical model is presented to describe the pull-in effect of suspended microchannel resonators by considering the electrostatic field and the internal fluid. The results indicate that the system is subjected to both the pull-in instability and the flutter. The former is induced by the applied voltage which exceeds the pull-in value while the latter occurs as the velocity of steady flow get closer to the critical velocity. The statically and dynamically stable regions are presented by thoroughly studying the two forms of instability. It is demonstrated that the steady flow can remarkably extend the dynamic stable range of pull-in while the applied voltage slightly decreases the critical velocity. It is also shown that the dc voltage and the steady flow can adjust the resonant frequency while the ac voltage can modulate the vibrational amplitude of the resonator.

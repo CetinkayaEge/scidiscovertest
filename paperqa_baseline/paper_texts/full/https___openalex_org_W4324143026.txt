@@ -1,0 +1,9 @@
+Title: How do energy resources and financial development cause environmental sustainability?
+Authors: Kishwar Ali, Jianguo Du, Derviş Kırıkkaleli
+Year: 2023
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2023.03.040
+Paper ID: https://openalex.org/W4324143026
+
+Abstract:
+The United Nations’ Sustainable Development Goals for 2030 provide a foundation for this study. These SDGs encompass crucial targets pertaining to sustainable development (SDG-8), responsible energy consumption (SDGs 11 and 12), access to clean and affordable energy (SDG-7), and environmental sustainability action (SDG-13) and among others. To this end, the research employs advanced panel methodologies to investigate the heterogeneous effects of energy resources and financial development on a sustainable environment. The study adopts second-generation econometric tools to evaluate the model’s cross-sectional dependence, and the cointegration methodology proves the long-run correlation between the indicators. Additionally, the ordinary least square and the panel quantile regression results reveal long-run estimations. These long-run studies provide reliable information on environmental sustainability dynamics in the E-7 economies. The analysis reveals that the effects of the high financial development, rapid economic growth and fast-growing nonrenewable energy resources significantly impact environmental sustainability from 2000–2020 within the E-7 bloc. Furthermore, the results from both the OLS and the PQR indicate that the coefficients for renewable energy resources and globalization are negative across all quantiles (Q25 to Q95 quantiles) with regard to CO2 emissions. These findings advocate for a policy framework that aligns with the SDGs. The study also proposes a comprehensive policy framework for the E-7 nations to promote progress toward SDGs (7, 8, 9, 11, 12, 13, and 16).

@@ -1,0 +1,9 @@
+Title: Astrocyte hepcidin is a key factor in LPS-induced neuronal apoptosis
+Authors: Lin-Hao You, Cai-Zhen Yan, Bing-Jie Zheng, Yun-Zhe Ci, Shi-Yang Chang, Peng Yu, Guo-Fen Gao, Hai-Yan Li, Tian-Yu Dong, Yan-Zhong Chang
+Year: 2017
+Venue: Cell Death & Disease
+DOI: 10.1038/cddis.2017.93
+Paper ID: pmc_PMC5386583
+
+Abstract:
+Inflammatory responses involving microglia and astrocytes contribute to the pathogenesis of neurodegenerative diseases (NDs). In addition, inflammation is tightly linked to iron metabolism dysregulation. However, it is not clear whether the brain inflammation-induced iron metabolism dysregulation contributes to the NDs pathogenesis. Herein, we demonstrate that the expression of the systemic iron regulatory hormone, hepcidin, is induced by lipopolysaccharide (LPS) through the IL-6/STAT3 pathway in the cortex and hippocampus. In this paradigm, activated glial cells are the source of IL-6, which was essential in the iron overload-activated apoptosis of neurons. Disrupting astrocyte hepcidin expression prevented the apoptosis of neurons, which were able to maintain levels of FPN1 adequate to avoid iron accumulation. Together, our data are consistent with a model whereby inflammation initiates an intercellular signaling cascade in which activated microglia, through IL-6 signaling, stimulate astrocytes to release hepcidin which, in turn, signals to neurons, via hepcidin, to prevent their iron release. Such a pathway is relevant to NDs in that it links inflammation, microglia and astrocytes to neuronal damage.

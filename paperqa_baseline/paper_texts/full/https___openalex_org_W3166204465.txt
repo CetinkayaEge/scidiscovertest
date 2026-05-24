@@ -1,0 +1,9 @@
+Title: Sustainable Supply Chains with Blockchain, IoT and RFID: A Simulation on Order Management
+Authors: Vincenzo Varriale, Antonello Cammarano, Francesca Michelino, Mauro Caputo
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13116372
+Paper ID: https://openalex.org/W3166204465
+
+Abstract:
+The digital transformation of supply chains should revolutionize entire management processes and improve various aspects of sustainability. In particular, the plans of Industry 4.0 aim towards a digitization of several procedures by exploiting emerging technologies such as the Internet of Things, RFID and blockchain. The purpose of this study is to highlight how order and disruption events processes can be improved with the adoption of emerging technologies and how this reflects on the improvement of sustainability aspects. The study is based on the comparison of two simulation scenarios between three actors in the cheese supply chain. In particular, a first traditional scenario “as is” is simulated without the use of new technologies and is compared to a second scenario “to be” that adopts IoT, RFID and blockchain. The results show an improvement in time performance for managing both perfect and non-compliant orders. The developed framework highlights the impact of new technologies on sustainability aspects, showing further managerial implications.

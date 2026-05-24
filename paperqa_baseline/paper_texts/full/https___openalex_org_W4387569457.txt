@@ -1,0 +1,9 @@
+Title: Additive manufacturing in the aerospace and automotive industries: Recent trends and role in achieving sustainable development goals
+Authors: Abdul Hai Alami, A.G. Olabi, Adnan Alashkar, Shamma Alasad, Haya Aljaghoub, Hegazy Rezk, Mohammad Ali Abdelkareem
+Year: 2023
+Venue: Ain Shams Engineering Journal
+DOI: https://doi.org/10.1016/j.asej.2023.102516
+Paper ID: https://openalex.org/W4387569457
+
+Abstract:
+Additive Manufacturing (AM) is the fastest growing industrial technique, harboring innovative, cost effective and environmentally friendly solutions. Over the years, AM technologies have been utilized in the aerospace and automotive industries mainly for prototyping purposes. However, 3D printing of aircraft and automobile components and parts has recently proven its efficiency. In this paper, a comprehensive review on the utilization of AM technologies in the aerospace and automotive industries is presented. The various AM techniques are compared based on their process, materials, and applications. In addition, the opportunities and limitations of AM in aerospace and automotive industries are highlighted. Finally, the contribution of AM and 3D printing in achieving the Sustainable Development Goals (SDGs) is examined and evaluated.

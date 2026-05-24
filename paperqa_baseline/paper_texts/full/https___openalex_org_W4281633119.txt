@@ -1,0 +1,9 @@
+Title: Management Optimization of Electricity System with Sustainability Enhancement
+Authors: Wei Hou, Rita Yi Man Li, Thanawan Sittihai
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14116650
+Paper ID: https://openalex.org/W4281633119
+
+Abstract:
+Based on new policies and social changes, renewable energies have highly penetrated electrical systems, making the system more vulnerable than before. On the other hand, it leads to congestion and competition within the network. To this end, this paper developed a probabilistic multi-objective-based congestion management approach and applied it to the optimal transmission switching (OTS) strategies, to maximize system suitability and minimize total production costs. A point estimation economic method (PEM) has been applied, as one of the best management and economic tools to handle the uncertainties associated with a wind turbine’s power production and load demand (LD). Results demonstrate the effectiveness and merit of the proposed technique, compared to the existing one, which can lead to higher reliability and sustainability for the grids.

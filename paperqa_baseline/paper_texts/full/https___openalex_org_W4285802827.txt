@@ -1,0 +1,9 @@
+Title: LncRNA CTBP1-DT-encoded microprotein DDUP sustains DNA damage response signalling to trigger dual DNA repair mechanisms
+Authors: Ruyuan Yu, Yameng Hu, Shuxia Zhang, Xincheng Li, Miaoling Tang, Meisongzhu Yang, Xingui Wu, Ziwen Li, Xinyi Liao, Yingru Xu, Man Li, Suwen Chen, Wanying Qian, Li-Yun Gong, Libing Song, Jun Li
+Year: 2022
+Venue: Nucleic Acids Research
+DOI: https://doi.org/10.1093/nar/gkac611
+Paper ID: https://openalex.org/W4285802827
+
+Abstract:
+Sustaining DNA damage response (DDR) signalling via retention of DDR factors at damaged sites is important for transmitting damage-sensing and repair signals. Herein, we found that DNA damage provoked the association of ribosomes with IRES region in lncRNA CTBP1-DT, which overcame the negative effect of upstream open reading frames (uORFs), and elicited the novel microprotein DNA damage-upregulated protein (DDUP) translation via a cap-independent translation mechanism. Activated ATR kinase-mediated phosphorylation of DDUP induced a drastic 'dense-to-loose' conformational change, which sustained the RAD18/RAD51C and RAD18/PCNA complex at damaged sites and initiated RAD51C-mediated homologous recombination and PCNA-mediated post-replication repair mechanisms. Importantly, treatment with ATR inhibitor abolished the effect of DDUP on chromatin retention of RAD51C and PCNA, thereby leading to hypersensitivity of cancer cells to DNA-damaging chemotherapeutics. Taken together, our results uncover a plausible mechanism underlying the DDR sustaining and might represent an attractive therapeutic strategy in improvement of DNA damage-based anticancer therapies.

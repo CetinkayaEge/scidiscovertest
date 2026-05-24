@@ -1,0 +1,9 @@
+Title: Leveraging the water-environment-health nexus to characterize sustainable water purification solutions
+Authors: Yu-Li Luo, Yi-Rong Pan, Xu Wang, Zhaoyue Wang, Glen T. Daigger, Jia-xin Ma, Lin-Hui Tang, Junxin Liu, Nan-Qi Ren, David Butler
+Year: 2025
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-025-56656-6
+Paper ID: https://openalex.org/W4407078587
+
+Abstract:
+Chemicals of emerging concern (CECs) pose critical threats to both public health and the environment, emphasizing the urgent need for effective water treatment measures. Yet, the implementation of such intervention technologies often results in increased energy consumption and adverse environmental consequences. Here, we employ a comprehensive methodology that integrates multiple datasets, assumptions, and calculations to assess the human health and environmental implications of removing various CECs from source water. Our analysis of two treatment alternatives reveals that the integration of riverbank filtration with reverse osmosis offers a promising solution, yielding healthier and more environmentally favorable outcomes than conventional sequential technologies. By incorporating context-specific practices, such as utilizing renewable energy sources and clean energy technologies, we can mitigate the adverse impacts associated with energy-intensive water treatment services. This research advances our understanding of the water-health-environment nexus and proposes strategies to align drinking water provision with public health and environmental sustainability objectives.

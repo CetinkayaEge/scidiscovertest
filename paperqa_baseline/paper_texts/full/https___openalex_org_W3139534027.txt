@@ -1,0 +1,9 @@
+Title: Delivering Tourism Sustainability and Competitiveness in Seaside and Marine Resorts with GIS
+Authors: Egidijus Jurkus, Julius Taminskas, Ramūnas Povilanskas, Vytė Kontautienė, Eglė Baltranaitė, Remigijus Dailidė, Arvydas Urbis
+Year: 2021
+Venue: Journal of Marine Science and Engineering
+DOI: https://doi.org/10.3390/jmse9030312
+Paper ID: https://openalex.org/W3139534027
+
+Abstract:
+In 2015, the United Nations General Assembly identified 17 Sustainable Development Goals (SDGs) to be achieved by the year 2030. The study’s main objective is to identify the necessary conditions and potential for ensuring both the sustainability and competitiveness of tourism in seaside and marine resorts located in or at coastal and marine protected areas on the example of Karklė (Lithuania). Based on the results of a benchmarking study of five South Baltic resorts using the Delphi technique, the survey team identified the main deficiencies of Karklė as a seaside and marine resort of an international scale. We address the deficiencies by applying a geographical information system as a decision-support tool for the Littoral Regional Park where Karklė is located. We conclude that for ensuring both the sustainability and competitiveness of tourism in seaside and marine resorts, it is expedient to combine the Delphi-based tourism benchmarking with integrated coastal management and maritime spatial planning, for which GIS is an indispensable tool.

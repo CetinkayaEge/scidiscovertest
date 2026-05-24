@@ -1,0 +1,9 @@
+Title: An Efficient Energy Harvesting and Optimal Clustering Technique for Sustainable Postdisaster Emergency Communication Systems
+Authors: Abdu Saif, Kaharudin Dimyati, Kamarul Ariffin Noordin, G. C. Deepak, Nor Shahida Mohd Shah, Qazwan Abdullah, Mahathir bin Mohamad
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3083640
+Paper ID: https://openalex.org/W3165369596
+
+Abstract:
+The energy consumption and coverage range of unmanned aerial vehicles (UAVs) are major challenges in UAV-based postdisaster communications. To address these challenges, energy harvesting is employed to power communication devices and prolong the lifetime of the wireless communication network during a disaster. In addition, clustering techniques and device-to-device (D2D) communication are needed to increase the overall network coverage and provide sustainable connectivity during the disaster and postdisaster phases. We have proposed a novel emergency communication system (ECS) using the optimal cluster head (CH) technique to improve the energy transfer efficiency for sustainable network connectivity. We have developed a UAV deployment model assisted by the clustering technique and D2D links that is capable of harvesting energy to increase the network lifetime. This new approach is expected to enhance the reliability of the network in disaster situations. The proposed methods have been evaluated by measuring the energy efficiency performance and the network outage probability. The simulation results demonstrate improved performance with the deployment of optimal CHs, while the outage probability has been effectively reduced. Moreover, the proposed approach has been proven to reduce the computational complexity. In conclusion, UAV deployment with the optimal CH algorithm is a suitable network design to recover from natural disasters and potentially save many lives.

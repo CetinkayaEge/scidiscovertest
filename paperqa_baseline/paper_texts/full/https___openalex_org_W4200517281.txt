@@ -1,0 +1,9 @@
+Title: How to compare sustainability impacts of alternative fuel Vehicles?
+Authors: Nuri C. Onat
+Year: 2021
+Venue: Transportation Research Part D Transport and Environment
+DOI: https://doi.org/10.1016/j.trd.2021.103129
+Paper ID: https://openalex.org/W4200517281
+
+Abstract:
+Environmental, economic, and social comparisons of alternative fuel vehicles come with various conflicting objectives. For example, adopting electric vehicles might reduce greenhouse gas emissions but It can also cause more water consumption. To overcome such challenges when comparing alternatives, we developed an integrated sustainability assessment framework combining hybrid multi-regional input–output based life cycle sustainability assessment and multi-criteria decision-making methods including Spherical fuzzy sets. Fourteen different sustainability indicators, encompassing the economic, environmental, and social pillars of sustainability, are quantified for well-to-wheel (operation phase) impacts of internal combustion, hybrid, plug-in hybrid, and full battery electric vehicles. Qatar is investigated as a case study, where electricity generation is mainly from natural gas, but with high solar energy potential. The model favors battery electric vehicles charged through solar energy. The proposed framework is scalable and can be helpful towards developing effective national policies and strategies for sustainable transportation around the world.

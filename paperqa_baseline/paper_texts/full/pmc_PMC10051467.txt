@@ -1,0 +1,9 @@
+Title: A Pipe-Embeddable Impedance Sensor for Monitoring Water Leaks in Distribution Networks: Design and Validation
+Authors: Danilo Aparecido Carnevale Castillo, Marco Carminati
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063117
+Paper ID: pmc_PMC10051467
+
+Abstract:
+Water leakage is one of main problems of distribution infrastructures, reaching unacceptable peaks of 50% of water lost in old networks in several countries. In order to address this challenge, we present an impedance sensor able to detect small water leaks (below 1 L of released volume). The combination of real-time sensing and such a sensitivity allows for early warning and fast response. It relies on a set of robust longitudinal electrodes applied on the external surface of the pipe. The presence of water in the surrounding medium alters its impedance in a detectable way. We report detailed numerical simulations for the optimization of electrode geometry and sensing frequency (2 MHz), as well as the successful experimental proof in the laboratory of this approach for a pipe length of 45 cm. Moreover, we experimentally tested the dependence of the detected signal on the leak volume, temperature, and morphology of the soil. Finally, differential sensing is proposed and validated as a solution to reject drifts and spurious impedance variations due to environmental effects.

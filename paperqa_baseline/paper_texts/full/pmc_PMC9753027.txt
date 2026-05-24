@@ -1,0 +1,9 @@
+Title: Patient allocation method in major epidemics under the situation of hierarchical diagnosis and treatment
+Authors: Yong Ye, Lizhen Huang, Jie Wang, Yen-Ching Chuang, Lingle Pan
+Year: 2022
+Venue: BMC Medical Informatics and Decision Making
+DOI: 10.1186/s12911-022-02074-3
+Paper ID: pmc_PMC9753027
+
+Abstract:
+Objectives Patients are classified according to the severity of their condition and graded according to the diagnosis and treatment capacity of medical institutions. This study aims to correctly assign patients to medical institutions for treatment and develop patient allocation and medical resource expansion schemes among hospitals in the medical network. Methods Illness severity, hospital level, allocation matching benefit, distance traveled, and emergency medical resource fairness were considered. A multi-objective planning method was used to construct a patient allocation model during major epidemics. A simulation study was carried out in two scenarios to test the proposed method. Results (1) The single-objective model obtains an unbalanced solution in contrast to the multi-objective model. The proposed model considers multi-objective problems and balances the degree of patient allocation matching, distance traveled, and fairness. (2) The non-hierarchical model has crowded resources, and the hierarchical model assigns patients to matched medical institutions. (3) In the “demand exceeds supply” situation, the patient allocation model identified additional resources needed by each hospital. Conclusion Results verify the maneuverability and effectiveness of the proposed model. It can generate schemes for specific patient allocation and medical resource amplification and can serve as a quantitative decision-making tool in the context of major epidemics. Supplementary Information The online version contains supplementary material available at 10.1186/s12911-022-02074-3.

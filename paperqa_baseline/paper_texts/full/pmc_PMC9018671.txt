@@ -1,0 +1,9 @@
+Title: Modular Structure of the Weyl Algebra
+Authors: Roberto Longo
+Year: 2022
+Venue: Communications in Mathematical Physics
+DOI: 10.1007/s00220-022-04344-7
+Paper ID: pmc_PMC9018671
+
+Abstract:
+We study the modular Hamiltonian associated with a Gaussian state on the Weyl algebra. We obtain necessary/sufficient criteria for the local equivalence of Gaussian states, independently of the classical results by Araki and Yamagami, Van Daele, Holevo. We also present a criterion for a Bogoliubov automorphism to be weakly inner in the GNS representation. The main application of our analysis is the description of the vacuum modular Hamiltonian associated with a time-zero interval in the scalar, massive, free QFT in two spacetime dimensions, thus complementing the recent results in higher space dimensions (Longo and Morsella in The massive modular Hamiltonian. arXiv:2012.00565 ). In particular, we have the formula for the local entropy of a one-dimensional Klein–Gordon wave packet and Araki’s vacuum relative entropy of a coherent state on a double cone von Neumann algebra. Besides, we derive the type \documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \usepackage{upgreek} \setlength{\oddsidemargin}{-69pt} \begin{document}$${III}_1$$\end{document} III 1 factor property. Incidentally, we run across certain positive selfadjoint extensions of the Laplacian, with outer boundary conditions, seemingly not considered so far.

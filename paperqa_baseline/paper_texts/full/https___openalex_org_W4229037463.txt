@@ -1,0 +1,9 @@
+Title: Sustainable Recovery, Recycle of Critical Metals and Rare Earth Elements from Waste Electric and Electronic Equipment (Circuits, Solar, Wind) and Their Reusability in Additive Manufacturing Applications: A Review
+Authors: Vasileios Stratiotou Efstratiadis, Nikolaos Michailidis
+Year: 2022
+Venue: Metals
+DOI: https://doi.org/10.3390/met12050794
+Paper ID: https://openalex.org/W4229037463
+
+Abstract:
+The demand for high-efficiency, low-energy consumption materials, with high durability and stability, has led to the rapid increase of the demand and prices of Rare Earth Elements (REE). The REE monopoly of some countries has held the shift of humanity towards sustainability and renewable energy sources back. The isolation, recovery, and recycle of REE from waste electric and electronic equipment (WEEE) constitute the disengagement strategy and can lead to significant economic benefits, via sustainability. The introduction of critical raw materials (RM), derived from WEEE, as additives to filaments used for the synthesis of composite materials, employed by Additive Manufacturing (AM) applications, has tremendous potential for the performance and the commercialization of the final products by adding unique characteristics, such as antibacterial properties, enhanced mechanical and magnetic properties, and thermal and electrical conductivity. The low cost of the recycled RM, the small numbers of process stages, and the inception of a zero-waste paradigm, present its upscalability, with a realistic view to its industrial employment. Although there are many articles in literature that have reviewed WEEE recycle, a comprehensive review on the conditions, parameters, procedure flow charts, and novel properties of the final composite materials with regards to every RM is missing.

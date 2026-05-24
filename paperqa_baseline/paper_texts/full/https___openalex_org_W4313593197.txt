@@ -1,0 +1,9 @@
+Title: Paper-based sorptive phases for a sustainable sample preparation
+Authors: Marisol González-Bermúdez, Ángela I. López‐Lorente, Rafael Lucena, Soledad Cárdenas
+Year: 2023
+Venue: Advances in Sample Preparation
+DOI: https://doi.org/10.1016/j.sampre.2023.100051
+Paper ID: https://openalex.org/W4313593197
+
+Abstract:
+In recent years, using natural materials to prepare sorbents has been a clear trend in the sample preparation context. This research line is supported by sustainable considerations, as it responds to the tenth principle of Green Analytical Chemistry. Also, the affordability and availability of natural materials open the door to developing global analytical solutions. Among all the available natural materials, cellulose paper presents unique characteristics (porosity, mechanical resistance, and easy chemical/physical modification of the substrate) that can be exploited in analytical extractions. This article reviews the role of paper-based sorptive phases in the current sample preparation realm, putting more emphasis on their potential than on the description of specific applications. The article covers the main synthetic routes described in the literature for preparing these phases and the reported coatings. In contrast with the classical analytical workflow (based on the separated extraction, elution, and analysis steps), the direct combination of sample preparation with instrumental techniques permits further simplification of the analytical procedures. Cellulose paper can operate under both workflows, and the main approaches based on spectroscopic and spectrometric analysis will be discussed. Finally, the combination of both instrumental techniques (using the so-called dual substrates) will be outlined.

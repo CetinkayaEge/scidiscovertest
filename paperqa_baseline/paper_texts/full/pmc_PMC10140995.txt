@@ -1,0 +1,9 @@
+Title: Heterogeneity in Vaccinal Immunity to SARS-CoV-2 Can Be Addressed by a Personalized Booster Strategy
+Authors: Madison Stoddard, Lin Yuan, Sharanya Sarkar, Shruthi Mangalaganesh, Ryan P. Nolan, Dean Bottino, Greg Hather, Natasha S. Hochberg, Laura F. White, Arijit Chakravarty
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11040806
+Paper ID: pmc_PMC10140995
+
+Abstract:
+SARS-CoV-2 vaccinations were initially shown to substantially reduce risk of severe disease and death. However, pharmacokinetic (PK) waning and rapid viral evolution degrade neutralizing antibody (nAb) binding titers, causing loss of vaccinal protection. Additionally, there is inter-individual heterogeneity in the strength and durability of the vaccinal nAb response. Here, we propose a personalized booster strategy as a potential solution to this problem. Our model-based approach incorporates inter-individual heterogeneity in nAb response to primary SARS-CoV-2 vaccination into a pharmacokinetic/pharmacodynamic (PK/PD) model to project population-level heterogeneity in vaccinal protection. We further examine the impact of evolutionary immune evasion on vaccinal protection over time based on variant fold reduction in nAb potency. Our findings suggest viral evolution will decrease the effectiveness of vaccinal protection against severe disease, especially for individuals with a less durable immune response. More frequent boosting may restore vaccinal protection for individuals with a weaker immune response. Our analysis shows that the ECLIA RBD binding assay strongly predicts neutralization of sequence-matched pseudoviruses. This may be a useful tool for rapidly assessing individual immune protection. Our work suggests vaccinal protection against severe disease is not assured and identifies a potential path forward for reducing risk to immunologically vulnerable individuals.

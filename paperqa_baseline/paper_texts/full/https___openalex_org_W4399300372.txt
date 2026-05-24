@@ -1,0 +1,9 @@
+Title: A comprehensive review of sustainable materials and toolpath optimization in 3D concrete printing
+Authors: Zicheng Zhuang, Fengming Xu, Junhong Ye, Nan Hu, Liming Jiang, Yiwei Weng
+Year: 2024
+Venue: npj Materials Sustainability
+DOI: https://doi.org/10.1038/s44296-024-00017-9
+Paper ID: https://openalex.org/W4399300372
+
+Abstract:
+Abstract The construction sector has experienced remarkable advancements in recent years, driven by the demand for sustainable and efficient building practices. Among these advancements, 3D concrete printing has emerged as a highly promising technology that holds the potential to revolutionize the construction industry. This review paper aims to provide a comprehensive analysis of the latest developments in three vital areas related to 3D concrete printing: sustainable materials, structural optimization, and toolpath design. A systematic literature review approach is employed based on established practices in additive manufacturing for construction to explore the intersections between these areas. The review reveals that material recycling plays a crucial role in achieving sustainable construction practices. Extensive research has been conducted on structural optimization methodologies to enhance the performance and efficiency of 3D printed concrete structures. In the printing process, toolpath design plays a significant role in ensuring the precise and efficient deposition of concrete. This paper discusses various toolpath generation strategies that take factors such as geometric complexity, printing constraints, and material flow control into account. In summary, the insights presented in this paper may serve as guidelines for researchers, engineers, and industry professionals towards sustainable and efficient construction practices using 3D concrete printing technology.

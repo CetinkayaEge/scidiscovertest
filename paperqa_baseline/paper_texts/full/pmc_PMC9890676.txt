@@ -1,0 +1,9 @@
+Title: 200 MPa cold isostatic pressing creates surface-microcracks in a Zn foil for scalable and long-life zinc anodes †
+Authors: Di Zhang‡, Hongfei Lu‡, Nawei Lyu‡, Xin Jiang, Zili Zhang, Yang Jin
+Year: 2023
+Venue: Nanoscale Advances
+DOI: 10.1039/d2na00682k
+Paper ID: pmc_PMC9890676
+
+Abstract:
+The Zn anode suffers from severe dendrite growth and side reactions, which restrict its development in the realm of large-scale energy storage. Herein, in this study, we propose a method to create surface-microcracks in a Zn foil by 200 MPa cold isostatic pressing. The proposed pressing method can avoid the surface tip effect of Zn, and creates a subtly surface-microcracked zinc structure, providing more zinc ion transport channels, thereby effectively alleviating the dendrite growth and side reactions during the repeated Zn plating and stripping. Benefiting from these advantages, the 200 MPa Zn‖Zn symmetric cell can achieve a long cycle life (1525 h) of 1 mA h cm −2 at 2 mA cm −2 . The 200 MPa Zn‖VO 2 full cell can still maintain a capacity of 110 mA h g −1 after 1000 cycles at 0.1 A g −1 . In addition, assembled pouch cells also show excellent cycling stability. The proposed cold isostatic pressing method is compatible with large-scale production applications and provides an effective strategy for realizing high-performance zinc anodes for zinc-ion batteries. 200 MPa cold isostatic pressing creates a surface microcrack Zn foil for scalable and long life zinc anodes that increase zinc ion transport channels and improve zinc ion battery cycling performance.

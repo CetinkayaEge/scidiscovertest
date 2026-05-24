@@ -1,0 +1,9 @@
+Title: Investigating the optimal number of topics by advanced text-mining techniques: Sustainable energy research
+Authors: Amer Farea, Shailesh Tripathi, Galina Glazko, Frank Emmert‐Streib
+Year: 2024
+Venue: Engineering Applications of Artificial Intelligence
+DOI: https://doi.org/10.1016/j.engappai.2024.108877
+Paper ID: https://openalex.org/W4400406773
+
+Abstract:
+In recent years, there has been a growing interest in analyzing text data from different scientific fields. The significant advancement of Artificial Intelligence in Natural Language Processing enables a systematic categorization of the wealth of scientific papers into fundamental thematic clusters. In this context, topic modeling is playing a crucial role. Unfortunately, the comparative analysis between traditional and advanced topic modeling methods, including well-established techniques like Latent Dirichlet Allocation (LDA) and newer approaches like BERTopic, remains significantly underexplored. This study addresses this gap by conducting a comprehensive analysis of extensive text data focused on sustainable energy research. To achieve this, we compile a unique dataset consisting of thousands of abstracts sourced from PubMed, Scopus, and Web of Science. Our analysis involves a comparison between LDA and the transformer model BERTopic. Importantly, we introduce a novel approach to determine the optimal number of topics, achieved through the maximization of combined semantic scores, and show that the number of topics is considerably lower than from previous approaches. Overall, our study not only contributes methodologically but also enhances our understanding of the principal topics in sustainable energy research.

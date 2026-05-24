@@ -1,0 +1,9 @@
+Title: Persistent mutation burden drives sustained anti-tumor immune responses
+Authors: Noushin Niknafs, Archana Balan, Christopher Cherry, Karlijn Hummelink, Kim Monkhorst, Xiaoshan M. Shao, Zineb Belcaid, Kristen A. Marrone, Joseph C. Murray, Kellie N. Smith, Benjamin Levy, Josephine Feliciano, Christine L. Hann, Vincent K. Lam, Drew M. Pardoll, Rachel Karchin, Tanguy Y. Seiwert, Julie R. Brahmer, Patrick M. Forde, Victor E. Velculescu, Valsamo Anagnostou
+Year: 2023
+Venue: Nature Medicine
+DOI: https://doi.org/10.1038/s41591-022-02163-w
+Paper ID: https://openalex.org/W4318071619
+
+Abstract:
+Tumor mutation burden is an imperfect proxy of tumor foreignness and has therefore failed to consistently demonstrate clinical utility in predicting responses in the context of immunotherapy. We evaluated mutations in regions of the genome that are unlikely to undergo loss in a pan-cancer analysis across 31 tumor types (n = 9,242) and eight immunotherapy-treated cohorts of patients with non-small-cell lung cancer, melanoma, mesothelioma, and head and neck cancer (n = 524). We discovered that mutations in single-copy regions and those present in multiple copies per cell constitute a persistent tumor mutation burden (pTMB) which is linked with therapeutic response to immune checkpoint blockade. Persistent mutations were retained in the context of tumor evolution under selective pressure of immunotherapy and tumors with a high pTMB content were characterized by a more inflamed tumor microenvironment. pTMB imposes an evolutionary bottleneck that cancer cells cannot overcome and may thus drive sustained immunologic tumor control in the context of immunotherapy.

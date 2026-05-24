@@ -1,0 +1,9 @@
+Title: Satellite tracking resident songbirds in tropical forests
+Authors: Andrew Hart Reeve, Mikkel Willemoes, Luda Paul, Elizah Nagombi, Kasun H. Bodawatta, Troels Eske Ortvad, Gibson Maiah, Knud Andreas Jønsson
+Year: 2022
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0278641
+Paper ID: pmc_PMC9803307
+
+Abstract:
+Advances in tracking technology have helped elucidate the movements of the planet’s largest and most mobile species, but these animals do not represent faunal diversity as a whole. Tracking a more diverse array of animal species will enable testing of broad ecological and evolutionary hypotheses and aid conservation efforts. Small and sedentary species of the tropics make up a huge part of earth’s animal diversity and are therefore key to this endeavor. Here, we investigated whether modern satellite tracking is a viable means for measuring the fine-scale movement patterns of such animals. We fitted five-gram solar-powered transmitters to resident songbirds in the rainforests of New Guinea, and analyzed transmission data collected over four years to evaluate movement detection and performance over time. Based upon the distribution of location fixes, and an observed home range shift by one individual, there is excellent potential to detect small movements of a few kilometers. The method also has clear limitations: total transmission periods were often short and punctuated by lapses; precision and accuracy of location fixes was limited and variable between study sites. However, impending reductions in transmitter size and price will alleviate many issues, further expanding options for tracking earth’s faunal diversity.

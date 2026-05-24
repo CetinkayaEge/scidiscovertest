@@ -1,0 +1,9 @@
+Title: Detection of Financial Statement Fraud Using Deep Learning for Sustainable Development of Capital Markets under Information Asymmetry
+Authors: Chyan-Long Jan
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13179879
+Paper ID: https://openalex.org/W3196655189
+
+Abstract:
+Information asymmetry is everywhere in financial status, financial information, and financial reports due to agency problems and thus may seriously jeopardize the sustainability of corporate operations and the proper functioning of capital markets. In this era of big data and artificial intelligence, deep learning is being applied to many different domains. This study examines both the financial data and non-financial data of TWSE/TEPx listed companies in 2001–2019 by sampling a total of 153 companies, consisting of 51 companies reporting financial statement fraud and 102 companies not reporting financial statement fraud. Two powerful deep learning algorithms (i.e., recurrent neural network (RNN) and long short-term memory (LSTM)) are used to construct financial statement fraud detection models. The empirical results suggest that the LSTM model outperforms the RNN model in all performance indicators. The LSTM model exhibits accuracy as high as 94.88%, the most frequently used performance indicator.

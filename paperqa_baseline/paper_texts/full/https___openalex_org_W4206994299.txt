@@ -1,0 +1,9 @@
+Title: Using Data from Earth Observation to Support Sustainable Development Indicators: An Analysis of the Literature and Challenges for the Future
+Authors: Ana Andries, Stephen Morse, Richard Murphy, Jim Lynch, Emma Woolliams
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14031191
+Paper ID: https://openalex.org/W4206994299
+
+Abstract:
+The Sustainable Development Goals (SDG) framework aims to end poverty, improve health and education, reduce inequality, design sustainable cities, support economic growth, tackle climate change and leave no one behind. To monitor and report the progress on the 231 unique SDGs indicators in all signatory countries, data play a key role. Here, we reviewed the data challenges and costs associated with obtaining traditional data and satellite data (particularly for developing countries), emphasizing the benefits of using satellite data, alongside their portal and platforms in data access. We then assessed, under the maturity matrix framework (MMF 2.0), the current potential of satellite data applications on the SDG indicators that were classified into the sustainability pillars. Despite the SDG framework having more focus on socio-economic aspects of sustainability, there has been a rapidly growing literature in the last few years giving practical examples in using earth observation (EO) to monitor both environmental and socio-economic SDG indicators; there is a potential to populate 108 indicators by using EO data. EO also has a wider potential to support the SDGs beyond the existing indicators.

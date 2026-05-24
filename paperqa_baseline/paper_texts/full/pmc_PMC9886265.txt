@@ -1,0 +1,9 @@
+Title: Time-optimal trajectory planning based on event-trigger and conditional proportional control
+Authors: Guangrong Chen, Ningze Wei, Lei Yan, HuaFeng Lu, Jin Li
+Year: 2023
+Venue: PLOS ONE
+DOI: 10.1371/journal.pone.0273640
+Paper ID: pmc_PMC9886265
+
+Abstract:
+Trajectory planning is an important issue for manipulators and robots. To get a optimal trajectory, many constraints including actuators specifications, motion range of joints, workspace limitations, etc, and many objectives including the shortest time, the shortest distance, the lowest energy consumption, the minimum oscillations, obstacles-avoiding, etc, should be considered both. In this paper, firstly, the forward kinematics and inverse kinematics of a five axis manipulator are deduced. And, a simple method to choose one appropriate solution from multi solutions of inverse kinematics is proposed. Secondly, an easy-implemented optimization method of trajectory planning is proposed based on seventh order polynomial interpolation, event-trigger mechanism and conditional proportional control (P control). The proposed optimization method can capture the time optimal trajectory, and the actuators specifications including velocity, acceleration of motor can be guaranteed as well. Thirdly, comparative simulations and experiments validate the effectiveness and efficiency of proposed optimization method. The research provides an insight for the application of trajectory optimization on the micro controller with low computing capability and high real-time performance requirement.

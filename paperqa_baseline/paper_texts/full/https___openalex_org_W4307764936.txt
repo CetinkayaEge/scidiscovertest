@@ -1,0 +1,9 @@
+Title: Assessing the Global Drivers of Sustained Economic Development: The Role of Trade Openness, Financial Development, and FDI
+Authors: Riza Radmehr, Ernest Baba Ali, Samira Shayanmehr, Sayed Saghaian, Elham Darbandi, Ebenezer Agbozo, Samuel Asumadu Sarkodie
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su142114023
+Paper ID: https://openalex.org/W4307764936
+
+Abstract:
+Achieving economic development is one of the most important economic goals of every country. Identifying the determinants of economic growth, is a useful tool for adopting appropriate economic policies. This study, therefore, empirically examines the impact of trade openness, foreign direct investment, and financial development on economic growth, across 62 countries over the period 1995–2016. These countries are divided into two groups: low-income and high-income countries. We employ the pooled mean group (PMG), mean group (MG), and dynamic fixed effect (DFE) estimation techniques on the cross-country panel data. The findings show a positive long run association between trade openness, foreign direct investment (FDI), financial development, labor, government expenditure, and economic growth in low-income countries, with a positive and negative short run effect from capital and government expenditures, respectively. For high-income countries, a positive long run association between trade openness, FDI, capital, and economic growth exist. The short run estimates indicate a positive effect on trade openness and capital as well as a negative effect on government expenditure. Our study shows that the adoption of policies that improves access to skilled labor and international trade, affect the attainment of a sustainable economic development.

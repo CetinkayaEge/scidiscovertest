@@ -1,0 +1,9 @@
+Title: A pressure-state-response framework for the sustainability analysis of water national parks in China
+Authors: Wei Li, Jinda Qi, Shuping Huang, Weicong Fu, Le Zhong, Bao‐Jie He
+Year: 2021
+Venue: Ecological Indicators
+DOI: https://doi.org/10.1016/j.ecolind.2021.108127
+Paper ID: https://openalex.org/W3194732691
+
+Abstract:
+Water National Parks (WNPs) have been launched by the Ministry of Water Resources of China (MWR) to develop tourism functions for water conservancy projects since 2001. Although WNPs can provide socio-economic benefits, their tourism activities may overload environmental carrying capacity. This study developed a sustainability analysis framework to measure the impact of tourism holistically and explore the challenges inherent in the sustainable development of WNPs. The framework, based on the Pressure-State-Response model, consists of four components: characterisation of WNPs; pressure, state, and response assessment; calculation of a sustainability score; and sustainability analysis of WNPs. To demonstrate the usability of the framework, this study first collected data on 778 WNPs from the MWR in order to characterise WNPs in China, followed by selecting 83 WNPs as examples for a detailed sustainability assessment. The results show that the framework enables: (1) the sustainability analysis of WNPs based on temporal trends, spatial distribution, and types of WNP; and (2) sustainable development challenges to be identified such as the tendency to increase waste discharges and energy consumption. The framework provides a strategic approach for the sustainability analysis, assisting WNPs and other water conservancy projects to achieve sustainable development goals.

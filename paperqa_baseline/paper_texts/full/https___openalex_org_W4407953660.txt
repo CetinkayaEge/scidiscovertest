@@ -1,0 +1,9 @@
+Title: Advancing agriculture through IoT, Big Data, and AI: A review of smart technologies enabling sustainability
+Authors: Nurzaman Ahmed, Nadia Shakoor
+Year: 2025
+Venue: Smart Agricultural Technology
+DOI: https://doi.org/10.1016/j.atech.2025.100848
+Paper ID: https://openalex.org/W4407953660
+
+Abstract:
+This review addresses a critical aspect of modern agriculture: integrating the Internet of Things (IoT), Big Data, and Artificial Intelligence (AI) technologies to monitor and mitigate agricultural carbon emissions. We focus on the role of these advanced technologies in enhancing Climate-Smart Agriculture (CSA) and promoting sustainable farming practices. The paper provides a comprehensive review of how IoT, Big Data, and AI can be combined to monitor carbon footprints and support broader sustainability objectives in agriculture. As a key contribution, we propose a feasible, end-to-end system architecture tailored to the assessment of carbon footprint, combining IoT-enabled sensing, real-time data analytics, and predictive modeling. This study highlights the tangible benefits of these technologies through real-world case studies and evaluates their effectiveness in improving emission monitoring, operational efficiency, and environmental compliance. Furthermore, challenges such as data interoperability, device energy efficiency, and implementation costs are critically analyzed, providing insights into existing research gaps. The paper also identifies future directions, including scalable IoT-based carbon markets, Machine Learning (ML) algorithms for precision agriculture, and blockchain solutions for transparent carbon credit trading. The goal is to offer actionable insights into the adoption of cutting-edge technologies to achieve carbon neutrality and environmental sustainability in the agriculture sector.

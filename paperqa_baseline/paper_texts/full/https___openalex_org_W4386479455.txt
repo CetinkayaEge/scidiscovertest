@@ -1,0 +1,9 @@
+Title: Blockchain technology enabled critical success factors for supply chain resilience and sustainability
+Authors: Ajay Kumar Pandey, Yash Daultani, Saurabh Pratap
+Year: 2023
+Venue: Business Strategy and the Environment
+DOI: https://doi.org/10.1002/bse.3548
+Paper ID: https://openalex.org/W4386479455
+
+Abstract:
+Abstract Increasing complexity and the involvement of additional stakeholders make it impossible to predict the impact of each decision, which puts supply chain managers in uncertain situations. However, a supply chain that can adapt and react to the current scenario gives them some control over these ambiguous circumstances. These characteristics of sensing disturbances or threats and giving appropriate responses can be improved with the implementation of blockchain‐enabled technologies and can prove critical to the success of supply chain resilience and sustainability. This study has identified 21 blockchain technology‐enabled critical success factors for supply chain resilience and sustainability and grey theory is used to address the limitation of data availability. This study incorporates the combination of the Grey‐DEMATEL (Decision Making Trial and Evaluation Laboratory) method to investigate the impact of critical success factors and to obtain the cause/effect relationship. Sensitivity analysis is performed to assess the robustness of obtained results. The findings indicate that internal integration is the most crucial causal factor, as it initiates the effects of many other critical success factors. Whereas Standardized Data Management, followed by Smart Ordering tops the effect group. As blockchain technology is still in its early stages of development, this study will encourage researchers and industry practitioners to strive for greater efficiency and effectiveness in their supply chain practices and to enhance the resilience and sustainability of their supply chains.

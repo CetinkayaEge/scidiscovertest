@@ -1,0 +1,9 @@
+Title: Sustainable Consumption in Consumer Behavior in the Time of COVID-19: Topic Modeling on Twitter Data Using LDA
+Authors: Paweł Brzustewicz, Anupam Singh
+Year: 2021
+Venue: Energies
+DOI: https://doi.org/10.3390/en14185787
+Paper ID: https://openalex.org/W3199527758
+
+Abstract:
+By using text mining techniques, this study identifies the topics of sustainable consumption that are important during the COVID-19 pandemic. An Application Programming Interface (API) streaming method was used to extract the data from Twitter. A total of 14,591 tweets were collected using Twitter streaming API. However, after data cleaning, 13,635 tweets were considered for analysis. The objectives of the study are to identify (1) the topics users tweet about sustainable consumption and (2) to detect the emotion-based sentiments in the tweets. The study used Latent Dirichlet Allocation (LDA) algorithm for topic modeling and the Louvain algorithm for semantic network clustering. NRC emotion lexicon was used for sentiment analysis. The LDA model discovers six topics: organic food consumption, food waste, vegan food, sustainable tourism, sustainable transport, and sustainable energy consumption. While the Louvain algorithm detects four clusters—lifestyle and climate change, responsible consumption, energy consumption, and renewable energy, sentiment analysis results show more positive emotions among the users than the negative ones. The study contributes to existing literature by providing a fresh perspective on various interconnected topics of sustainable consumption that bring global consumption to a sustainable level.

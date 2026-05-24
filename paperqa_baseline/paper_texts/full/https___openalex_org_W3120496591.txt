@@ -1,0 +1,9 @@
+Title: Autophagy sustains glutamate and aspartate synthesis in Saccharomyces cerevisiae during nitrogen starvation
+Authors: Kuanqing Liu, Benjamin M. Sutter, Benjamin P. Tu
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-020-20253-6
+Paper ID: https://openalex.org/W3120496591
+
+Abstract:
+Autophagy catabolizes cellular constituents to promote survival during nutrient deprivation. Yet, a metabolic comprehension of this recycling operation, despite its crucial importance, remains incomplete. Here, we uncover a specific metabolic function of autophagy that exquisitely adjusts cellular metabolism according to nitrogen availability in the budding yeast Saccharomyces cerevisiae. Autophagy enables metabolic plasticity to promote glutamate and aspartate synthesis, which empowers nitrogen-starved cells to replenish their nitrogen currency and sustain macromolecule synthesis. Our findings provide critical insights into the metabolic basis by which autophagy recycles cellular components and may also have important implications in understanding the role of autophagy in diseases such as cancer.

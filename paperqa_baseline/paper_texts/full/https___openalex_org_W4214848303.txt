@@ -1,0 +1,9 @@
+Title: The Sustainable Development of Intangible Cultural Heritage with AI: Cantonese Opera Singing Genre Classification Based on CoGCNet Model in China
+Authors: Qiao Chen, Wenfeng Zhao, Qin Wang, Yawen Zhao
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14052923
+Paper ID: https://openalex.org/W4214848303
+
+Abstract:
+Chinese Cantonese opera, a UNESCO Intangible Cultural Heritage (ICH) of Humanity, has faced a series of development problems due to diversified entertainment and emerging cultures. While, the management on Cantonese opera data in a scientific manner is conducive to the sustainable development of ICH. Therefore, in this study, a scientific and standardized audio database dedicated to Cantonese opera is established, and a classification method for Cantonese opera singing genres based on the Cantonese opera Genre Classification Networks (CoGCNet) model is proposed given the similarity of the rhythm characteristics of different Cantonese opera singing genres. The original signal of Cantonese opera singing is pre-processed to obtain the Mel-Frequency Cepstrum as the input of the model. The cascade fusion CNN combines each segment’s shallow and deep features; the double-layer LSTM and CNN hybrid network enhance the contextual relevance between signals. This achieves intelligent classification management of Cantonese opera data, meanwhile effectively solving the problem that existing methods are difficult to classify accurately. Experimental results on the customized Cantonese opera dataset show that the method has high classification accuracy with 95.69% Precision, 95.58% Recall and 95.60% F1 value, and the overall performance is better than that of the commonly used neural network models. In addition, this method also provides a new feasible idea for the sustainable development of the study on the singing characteristics of the Cantonese opera genres.

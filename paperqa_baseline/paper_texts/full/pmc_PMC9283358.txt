@@ -1,0 +1,9 @@
+Title: Why is endothelial resilience key to maintain cardiac health?
+Authors: Lukas S. Tombor, Stefanie Dimmeler
+Year: 2022
+Venue: Basic Research in Cardiology
+DOI: 10.1007/s00395-022-00941-8
+Paper ID: pmc_PMC9283358
+
+Abstract:
+Myocardial injury as induced by myocardial infarction results in tissue ischemia, which critically incepts cardiomyocyte death. Endothelial cells play a crucial role in restoring oxygen and nutrient supply to the heart. Latest advances in single-cell multi-omics, together with genetic lineage tracing, reveal a transcriptional and phenotypical adaptation to the injured microenvironment, which includes alterations in metabolic, mesenchymal, hematopoietic and pro-inflammatory signatures. The extent of transition in mesenchymal or hematopoietic cell lineages is still debated, but it is clear that several of the adaptive phenotypical changes are transient and endothelial cells revert back to a naïve cell state after resolution of injury responses. This resilience of endothelial cells to acute stress responses is important for preventing chronic dysfunction. Here, we summarize how endothelial cells adjust to injury and how this dynamic response contributes to repair and regeneration. We will highlight intrinsic and microenvironmental factors that contribute to endothelial cell resilience and may be targetable to maintain a functionally active, healthy microcirculation.

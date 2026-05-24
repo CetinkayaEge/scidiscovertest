@@ -1,0 +1,9 @@
+Title: Unpacking the sustainable development goals (SDGs) interlinkages: A semantic network analysis of the SDGs targets
+Authors: Jaemin Song, Chang‐Ho Jang
+Year: 2023
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2547
+Paper ID: https://openalex.org/W4361213588
+
+Abstract:
+Abstract Understanding sustainable development goal (SDG) targets and their interlinkages is crucial for achieving national and local SDGs since policies must be designed and implemented at the target level rather than at the macro goal level. However, due to their extensive nature, it remains challenging to fully determine their interlinkages. This study aims to identify the interlinkages between the SDG targets, employing a semantic network analysis with text‐mining and Word2Vec machine‐learning methodology. The network analysis of the entire SDG target network reveals that each community of closely connected targets comprises targets from multiple SDG goals, while targets within the same SDG goal also belong to different communities. The findings indicate that the current framework of 17 SDG goals may not be a suitable basis for developing SDG policies. Instead, intersectoral strategies focusing on a community of interconnected targets that necessitate coordination based on their actual interlinkages are required.

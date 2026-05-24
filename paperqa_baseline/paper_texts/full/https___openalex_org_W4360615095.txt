@@ -1,0 +1,9 @@
+Title: A Critical Review on Fiber Metal Laminates (FML): From Manufacturing to Sustainable Processing
+Authors: Rúben D. F. S. Costa, Rita C. M. Sales-Contini, F.J.G. Silva, Naiara P. V. Sebbe, Abílio M.P. De Jesus
+Year: 2023
+Venue: Metals
+DOI: https://doi.org/10.3390/met13040638
+Paper ID: https://openalex.org/W4360615095
+
+Abstract:
+Composite materials such as Fiber Metal Laminates (FMLs) have attracted the interest of the aerospace and automotive industries due to their high strength to weight ratio, but to use them as structures it is necessary to master the manufacturing and wiring techniques of these materials. Therefore, this paper aims to address and summarize the drilling and milling processes in FMLs based on a literature review of papers published from 2000 to 2023. Parameters used in multi-material manufacturing and machining such as drilling and milling, tool geometry, tool coating, lubricants and coolants published by researchers were analyzed, compared and discussed. Machining process parameters related to sustainability were also analyzed. A SWOT analysis was carried out and discussed to identify opportunities for improvement in the machining process. There are opportunities to develop the surface treatment of aluminum alloys, such as testing other combinations than those already used, testing non-traditional surface treatments and manufacturing modes, and developing sustainable techniques during the FML manufacturing process. In the area of tooling, the opportunities are mainly related to coatings for tools and changing machining parameters to achieve an optimum finished part. Finally, to improve the sustainability of the process, it is necessary to test coated drills under cryogenic conditions to reduce the use of lubricants during the machining process.

@@ -1,0 +1,9 @@
+Title: A nutrient relay sustains subtropical ocean productivity
+Authors: Mukund Gupta, Richard G. Williams, Jonathan Maitland Lauderdale, Oliver Jahn, Christopher Hill, Stephanie Dutkiewicz, Michael J. Follows
+Year: 2022
+Venue: Proceedings of the National Academy of Sciences
+DOI: https://doi.org/10.1073/pnas.2206504119
+Paper ID: https://openalex.org/W4300594408
+
+Abstract:
+The expansive gyres of the subtropical ocean account for a significant fraction of global organic carbon export from the upper ocean. In the gyre interior, vertical mixing and the heaving of nutrient-rich waters into the euphotic layer sustain local productivity, in turn depleting the layers below. However, the nutrient pathways by which these subeuphotic layers are themselves replenished remain unclear. Using a global, eddy-permitting simulation of ocean physics and biogeochemistry, we quantify nutrient resupply mechanisms along and across density surfaces, including the contribution of eddy-scale motions that are challenging to observe. We find that mesoscale eddies (10 to 100 km) flux nutrients from the shallow flanks of the gyre into the recirculating interior, through time-varying motions along density surfaces. The subeuphotic layers are ultimately replenished in approximately equal contributions by this mesoscale eddy transport and the remineralization of sinking particles. The mesoscale eddy resupply is most important in the lower thermocline for the whole subtropical region but is dominant at all depths within the gyre interior. Subtropical gyre productivity may therefore be sustained by a nutrient relay, where the lateral transport resupplies nutrients to the thermocline and allows vertical exchanges to maintain surface biological production and carbon export.

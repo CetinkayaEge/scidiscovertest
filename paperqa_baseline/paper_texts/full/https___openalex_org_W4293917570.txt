@@ -1,0 +1,9 @@
+Title: The role of sustainability assessment tools in realizing bioenergy and bioproduct systems
+Authors: Mortaza Aghbashlo, Homa Hosseinzadeh-Bandbafha, Hossein Shahbeik, Meisam Tabatabaei
+Year: 2022
+Venue: Biofuel Research Journal
+DOI: https://doi.org/10.18331/brj2022.9.3.5
+Paper ID: https://openalex.org/W4293917570
+
+Abstract:
+The pressing global challenges, including global warming and climate change, the Russia-Ukraine war, and the Covid-19 pandemic, all are indicative of the necessity of a transition from fossil-based systems toward bioenergy and bioproduct to ensure our plans for sustainable development. Such a transition, however, should be thoroughly engineered, considering the sustainability of the different elements of these systems. Advanced sustainability tools are instrumental in realizing this important objective. The present work critically reviews these tools, including techno-economic, life cycle assessment, emergy, energy, and exergy analyses, within the context of the bioenergy and bioproduct systems. The principles behind these methods are briefly explained, and then their pros and cons in designing, analyzing, and optimizing bioenergy and bioproduct systems are highlighted. Overall, it can be concluded that despite the promises held by these tools, they cannot be regarded as perfect solutions to address all the issues involved in realizing bioenergy and bioproduct systems, and integration of these tools can provide more reliable and accurate results than single approaches.

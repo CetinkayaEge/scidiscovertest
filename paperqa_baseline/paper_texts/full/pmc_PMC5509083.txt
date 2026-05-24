@@ -1,0 +1,9 @@
+Title: Comparison of Ductile-to-Brittle Transition Behavior in Two Similar Ferritic Oxide Dispersion Strengthened Alloys
+Authors: Jesus Chao, Rosalia Rementeria, Maria Aranda, Carlos Capdevila, Jose Luis Gonzalez-Carrasco
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080637
+Paper ID: pmc_PMC5509083
+
+Abstract:
+The ductile-to-brittle transition (DBT) behavior of two similar Fe-Cr-Al oxide dispersion strengthened (ODS) stainless steels was analyzed following the Cottrell–Petch model. Both alloys were manufactured by mechanical alloying (MA) but by different forming routes. One was manufactured as hot rolled tube, and the other in the form of hot extruded bar. The two hot forming routes considered do not significantly influence the microstructure, but cause differences in the texture and the distribution of oxide particles. These have little influence on tensile properties; however, the DBT temperature and the upper shelf energy (USE) are significantly affected because of delamination orientation with regard to the notch plane. Whereas in hot rolled material the delaminations are parallel to the rolling surface, in the hot extruded material, they are randomly oriented because the material is transversally isotropic.

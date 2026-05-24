@@ -1,0 +1,9 @@
+Title: Functionality Versus Sustainability for PLA in MEX 3D Printing: The Impact of Generic Process Control Factors on Flexural Response and Energy Efficiency
+Authors: Markos Petousis, Nectarios Vidakis, Nikolaos Mountakis, Emmanuel Karapidakis, Amalia Moutsopoulou
+Year: 2023
+Venue: Polymers
+DOI: https://doi.org/10.3390/polym15051232
+Paper ID: https://openalex.org/W4322631804
+
+Abstract:
+Process sustainability vs. mechanical strength is a strong market-driven claim in Material Extrusion (MEX) Additive Manufacturing (AM). Especially for the most popular polymer, Polylactic Acid (PLA), the concurrent achievement of these opposing goals may become a puzzle, especially since MEX 3D-printing offers a variety of process parameters. Herein, multi-objective optimization of material deployment, 3D printing flexural response, and energy consumption in MEX AM with PLA is introduced. To evaluate the impact of the most important generic and device-independent control parameters on these responses, the Robust Design theory was employed. Raster Deposition Angle (RDA), Layer Thickness (LT), Infill Density (ID), Nozzle Temperature (NT), Bed Temperature (BT), and Printing Speed (PS) were selected to compile a five-level orthogonal array. A total of 25 experimental runs with five specimen replicas each accumulated 135 experiments. Analysis of variances and reduced quadratic regression models (RQRM) were used to decompose the impact of each parameter on the responses. The ID, RDA, and LT were ranked first in impact on printing time, material weight, flexural strength, and energy consumption, respectively. The RQRM predictive models were experimentally validated and hold significant technological merit, for the proper adjustment of process control parameters per the MEX 3D-printing case.

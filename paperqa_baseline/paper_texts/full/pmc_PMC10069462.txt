@@ -1,0 +1,9 @@
+Title: Regulation of endogenous retrovirus–derived regulatory elements by GATA2/3 and MSX2 in human trophoblast stem cells
+Authors: Cui Du, Jing Jiang, Yuzhuo Li, Miao Yu, Jian Jin, Shuai Chen, Hairui Fan, Todd S. Macfarlan, Bin Cao, Ming-an Sun
+Year: 2023
+Venue: Genome Research
+DOI: 10.1101/gr.277150.122
+Paper ID: pmc_PMC10069462
+
+Abstract:
+The placenta is an organ with extraordinary phenotypic diversity in eutherian mammals. Recent evidence suggests that numerous human placental enhancers are evolved from lineage-specific insertions of endogenous retroviruses (ERVs), yet the transcription factors (TFs) underlying their regulation remain largely elusive. Here, by first focusing on MER41, a primate-specific ERV family previously linked to placenta and innate immunity, we uncover the binding motifs of multiple crucial trophoblast TFs (GATA2/3, MSX2, GRHL2) in addition to innate immunity TFs STAT1 and IRF1. Integration of ChIP-seq data confirms the binding of GATA2/3, MSX2, and their related factors on the majority of MER41-derived enhancers in human trophoblast stem cells (TSCs). MER41-derived enhancers that are constitutively active in human TSCs are distinct from those activated upon interferon stimulation, which is determined by the binding of relevant TFs and their subfamily compositions. We further demonstrate that GATA2/3 and MSX2 have prevalent binding to numerous other ERV families — indicating their broad impact on ERV-derived enhancers. Functionally, the derepression of many syncytiotrophoblast genes after MSX2 knockdown is likely to be mediated by regulatory elements derived from ERVs — suggesting ERVs are also important for mediating transcriptional repression. Overall, this study characterizes the regulation of ERV-derived regulatory elements by GATA2/3, MSX2, and their cofactors in human TSCs, and provides mechanistic insights into the importance of ERVs in human trophoblast regulatory network.

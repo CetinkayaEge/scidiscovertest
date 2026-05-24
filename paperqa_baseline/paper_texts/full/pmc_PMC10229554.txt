@@ -1,0 +1,9 @@
+Title: Cross-linked polyaniline for production of long lifespan aqueous iron||organic batteries with electrochromic properties
+Authors: Haiming Lv, Zhiquan Wei, Cuiping Han, Xiaolong Yang, Zijie Tang, Yantu Zhang, Chunyi Zhi, Hongfei Li
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38890-y
+Paper ID: pmc_PMC10229554
+
+Abstract:
+Aqueous iron batteries are appealing candidates for large-scale energy storage due to their safety and low-cost aspects. However, the development of aqueous Fe batteries is hindered by their inadequate long-term cycling stability. Here, we propose the synthesis and application as positive electrode active material of cross-linked polyaniline (C-PANI). We use melamine as the crosslinker to improve the electronical conductivity and electrochemical stability of the C-PANI. Indeed, when the C-PANI is tested in combination with a Fe metal negative electrode and 1 M iron trifluoromethanesulfonate (Fe(TOF) 2 ) electrolyte solution, the coin cell can deliver a specific capacity of about 110 mAh g −1 and an average discharge voltage of 0.55 V after 39,000 cycles at 25 A g −1 with a test temperature of 28 °C ± 1 °C. Furthermore, mechanistic studies suggest that Fe 2+ ions are bonded to TOF − anions to form positively charged complexes Fe(TOF) + , which are stored with protons in the C-PANI electrode structures. Finally, we also demonstrate the use of C-PANI in combination with a polymeric hydrogel electrolyte to produce a flexible reflective electrochromic lab-scale iron battery prototype. Aqueous iron batteries are safe and cost-effective candidates for large-scale energy storage. However, their long-term cycling stability is inadequate. Here, the authors propose a crosslinked polyaniline-based positive electrode for high-power aqueous iron batteries with electrochromic properties.

@@ -1,0 +1,9 @@
+Title: Pharmaceutical industry supply chains: How to sustainably improve access to vaccines?
+Authors: Inês Duarte, Bruna Mota, Tânia Pinto‐Varela, Ana Paula Barbosa‐Póvoa
+Year: 2022
+Venue: Process Safety and Environmental Protection
+DOI: https://doi.org/10.1016/j.cherd.2022.04.001
+Paper ID: https://openalex.org/W4226062884
+
+Abstract:
+Ensuring pharmaceutical products’ availability and accessibility in a sustainable way is one of the main current challenges of pharmaceutical supply chains. This work explores this challenge and focuses on the development of a decision support tool for planning of an equitable and sustainable distribution of medicines. Equitable access is defined based on the burden of diseases of the different markets, making use of a DALY-based metric (Disability-Adjusted Life Year). Moreover, a minimum level of pharmaceutical product availability is imposed across the different geographical areas. Economic and environmental sustainability are incorporated in the decision support tool as goals measured through Net Present Value (NPV) and the environmental Life Cycle Assessment (LCA) methodology, respectively. The tool is based on a multi-objective mixed integer linear programming (MILP) model, which integrates strategical-tactical supply chain decisions. The model is applied to a representative case study of Meningococcal meningitis’ vaccine supply chain where vaccines production and distribution are considered. Several scenarios are studied and the effect of decisions on supply chain goals are analyzed. Environmental, economic, and social hotspots are identified. In particular, product’ accessibility is explored allowing the identification of strategies to better design and plan a pharmaceutical supply chain, to improve products access in a sustainable form.

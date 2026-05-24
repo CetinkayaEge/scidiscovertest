@@ -1,0 +1,9 @@
+Title: Sustainable thermal regulation improves stability and efficiency in all-perovskite tandem solar cells
+Authors: S. A. Tan, Chongwen Li, Cheng Peng, Wenjian Yan, Hongkai Bu, Haokun Jiang, Yue Fang, Lin‐Bao Zhang, Hongtao Gao, Zhongmin Zhou
+Year: 2024
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-024-48552-2
+Paper ID: https://openalex.org/W4396967639
+
+Abstract:
+Mixed Sn-Pb perovskites have emerged as promising photovoltaic materials for both single- and multi-junction solar cells. However, achieving their scale-up and practical application requires further enhancement in stability. We identify that their poor thermal conductivity results in insufficient thermal transfer, leading to heat accumulation within the absorber layer that accelerates thermal degradation. A thermal regulation strategy by incorporating carboranes into perovskites is developed; these are electron-delocalized carbon-boron molecules known for their efficient heat transfer capability. We specifically select ortho-carborane due to its low thermal hysteresis. We observe its existence through the perovskite layer showing a decreasing trend from the buried interface to the top surface, effectively transferring heat and lowering the surface temperature by around 5 °C under illumination. o-CB also facilitates hole extraction at the perovskite/PEDOT:PSS interface and reduces charge recombination. These enable mixed Sn-Pb cells to exhibit improved thermal stability, retaining 80% of their initial efficiencies after aging at 85 °C for 1080 hours. When integrated into monolithic all-perovskite tandems, we achieve efficiencies of over 27%. A tandem cell maintains 87% of its initial PCE after 704 h of continuous operation under illumination.

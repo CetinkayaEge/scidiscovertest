@@ -1,0 +1,9 @@
+Title: A novel hybrid protein composed of superoxide-dismutase-active Cu(II) complex and lysozyme
+Authors: Tetsundo Furuya, Daisuke Nakane, Kenichi Kitanishi, Natsuki Katsuumi, Arshak Tsaturyan, Igor N. Shcherbakov, Masaki Unno, Takashiro Akitsu
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-33926-1
+Paper ID: pmc_PMC10140267
+
+Abstract:
+A novel hybrid protein composed of a superoxide dismutase-active Cu(II) complex (CuST) and lysozyme (CuST@lysozyme) was prepared. The results of the spectroscopic and electrochemical analyses confirmed that CuST binds to lysozyme. We determined the crystal structure of CuST@lysozyme at 0.92 Å resolution, which revealed that the His15 imidazole group of lysozyme binds to the Cu(II) center of CuST in the equatorial position. In addition, CuST was fixed in position by the weak axial coordination of the Thr89 hydroxyl group and the hydrogen bond between the guanidinium group of the Arg14 residue and the hydroxyl group of CuST. Furthermore, the combination of CuST with lysozyme did not decrease the superoxide dismutase activity of CuST. Based on the spectral, electrochemical, structural studies, and quantum chemical calculations, an O 2 – disproportionation mechanism catalyzed by CuST@lysozyme is proposed.

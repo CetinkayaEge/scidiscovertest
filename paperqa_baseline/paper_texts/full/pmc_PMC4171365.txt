@@ -1,0 +1,9 @@
+Title: A Mur Regulator Protein in the Extremophilic Bacterium Deinococcus radiodurans
+Authors: Amir Miraj Ul Hussain Shah, Ye Zhao, Yunfei Wang, Guoquan Yan, Qikun Zhang, Liangyan Wang, Bing Tian, Huan Chen, Yuejin Hua
+Year: 2014
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0106341
+Paper ID: pmc_PMC4171365
+
+Abstract:
+Ferric uptake regulator (Fur) is a transcriptional regulator that controls the expression of genes involved in the uptake of iron and manganese, as well as vital nutrients, and is essential for intracellular redox cycling. We identified a unique Fur homolog (DR0865) from Deinococcus radiodurans , which is known for its extreme resistance to radiation and oxidants. A dr0865 mutant (Mt-0865) showed a higher sensitivity to manganese stress, hydrogen peroxide, gamma irradiation and ultraviolet (UV) irradiation than the wild-type R1 strain. Cellular manganese (Mn) ion (Mn 2+ ) analysis showed that Mn 2+ , copper (Cu 2+ ), and ferric (Fe 3+ ) ions accumulated significantly in the mutant, which suggests that the dr0865 gene is not only involved in the regulation of Mn 2+ homeostasis, but also affects the uptake of other ions. In addition, transcriptome profiles under MnCl 2 stress showed that the expression of many genes involved in Mn metabolism was significantly different in the wild-type R1 and DR0865 mutant (Mt-0865). Furthermore, we found that the dr0865 gene serves as a positive regulator of the manganese efflux pump gene mntE ( dr1236 ), and as a negative regulator of Mn ABC transporter genes, such as dr2283 , dr2284 and dr2523 . Therefore, it plays an important role in maintaining the homoeostasis of intracellular Mn (II), and also other Mn 2+ , zinc (Zn 2+ ) and Cu 2+ ions. Based on its role in manganese homeostasis, DR0865 likely belongs to the Mur sub-family of Fur homolog.

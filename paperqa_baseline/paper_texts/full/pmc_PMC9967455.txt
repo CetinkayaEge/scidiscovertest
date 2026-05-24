@@ -1,0 +1,9 @@
+Title: Load Estimation of Moving Passenger Cars Using Inductive-Loop Technology
+Authors: Zbigniew Marszalek, Krzysztof Duda, Piotr Piwowar, Marek Stencel, Tadeusz Zeglen, Jacek Izydorczyk
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23042063
+Paper ID: pmc_PMC9967455
+
+Abstract:
+Due to their lack of driving controllability, overweight vehicles are a big threat to road safety. The proposed method for a moving passenger car load estimation is capable of detecting an overweight vehicle, and thus it finds its application in road safety improvement. The weight of a car’s load entering or leaving a considered zone, e.g., industrial facility, a state, etc., is also of concern in many applications, e.g., surveillance. Dedicated vehicle weight-in-motion measurement systems generally use expensive load sensors that also require deep intervention in the road while being installed and also are calibrated only for heavy trucks. In this paper, a vehicle magnetic profile (VMP) is used for defining a load parameter proportional to the passenger vehicle load. The usefulness of the proposed load parameter is experimentally demonstrated in field tests. The sensitivity of the VMP to the load change results from the fact that the higher load decreases the vehicle clearance value which in turn increases the VMP. It is also shown that a slim inductive-loop sensors allows the building of a load estimation system, with a maximum error around 30 kg, which allows approximate determination of the number of passengers in the car. The presented proof of concept extends the functionality of inductive loops, already installed in the road, for acquiring other traffic parameters, e.g., moving vehicle axle-to-axle distance measurement, to road safety and surveillance related applications.

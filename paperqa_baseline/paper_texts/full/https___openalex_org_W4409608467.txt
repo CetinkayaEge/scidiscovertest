@@ -1,0 +1,9 @@
+Title: Sustainable Strategies for Concrete Infrastructure Preservation: A Comprehensive Review and Perspective
+Authors: Cameron R. Rusnak
+Year: 2025
+Venue: Infrastructures
+DOI: https://doi.org/10.3390/infrastructures10040099
+Paper ID: https://openalex.org/W4409608467
+
+Abstract:
+The growing number of reinforced concrete (RC) structures nearing the end of their service life demands innovative strategies for preservation and retrofitting. Environmental degradation, aging infrastructure, and increased loading demands highlight the need for sustainable, durable, and cost-effective solutions. This paper reviews advancements in preserving and retrofitting RC and concrete infrastructure systems. Innovations include low-carbon binders, supplementary cementitious materials (SCMs), geopolymer concrete, and self-healing technologies to enhance durability and reduce environmental impact. Advanced retrofitting techniques, particularly fiber-reinforced polymer (FRP) systems, modularized steel reinforcement, and hybrid approaches, effectively improve resilience against environmental and operational stresses. Computational tools and machine learning offer promising pathways for optimizing mixture designs and enhancing sustainability. However, critical challenges remain, including scalability issues, performance variability, economic feasibility, and the lack of standardized guidelines. Addressing these challenges will require coordinated efforts across academia, industry, and regulatory bodies to establish performance-based guidelines, develop standardized testing protocols, and conduct comprehensive lifecycle assessments. The findings of this review contribute valuable insights for enhancing infrastructure resilience, reducing environmental impacts, and supporting global sustainability initiatives aimed at achieving net-zero emissions and climate resilience.

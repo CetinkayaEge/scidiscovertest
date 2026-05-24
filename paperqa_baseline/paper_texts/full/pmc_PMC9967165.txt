@@ -1,0 +1,9 @@
+Title: Developmentally Programmed Switches in DNA Replication: Gene Amplification and Genome-Wide Endoreplication in Tetrahymena
+Authors: Xiangzhou Meng, Hung Quang Dang, Geoffrey M. Kapler
+Year: 2023
+Venue: Microorganisms
+DOI: 10.3390/microorganisms11020491
+Paper ID: pmc_PMC9967165
+
+Abstract:
+Locus-specific gene amplification and genome-wide endoreplication generate the elevated copy number of ribosomal DNA (rDNA, 9000 C) and non-rDNA (90 C) chromosomes in the developing macronucleus of Tetrahymena thermophila . Subsequently, all macronuclear chromosomes replicate once per cell cycle during vegetative growth. Here, we describe an unanticipated, programmed switch in the regulation of replication initiation in the rDNA minichromosome. Early in development, the 21 kb rDNA minichromosome is preferentially amplified from 2 C to ~800 C from well-defined origins, concurrent with genome-wide endoreplication (2 C to 8–16 C) in starved mating Tetrahymena (endoreplication (ER) Phase 1). Upon refeeding, rDNA and non-rDNA chromosomes achieve their final copy number through resumption of just the endoreplication program (ER Phase 2). Unconventional rDNA replication intermediates are generated primarily during ER phase 2, consistent with delocalized replication initiation and possible formation of persistent RNA-DNA hybrids. Origin usage and replication fork elongation are affected in non-rDNA chromosomes as well. Despite the developmentally programmed 10-fold reduction in the ubiquitous eukaryotic initiator, the Origin Recognition Complex (ORC), active initiation sites are more closely spaced in ER phases 1 and 2 compared to vegetative growing cells. We propose that initiation site selection is relaxed in endoreplicating macronuclear chromosomes and may be less dependent on ORC.

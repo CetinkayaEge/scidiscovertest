@@ -1,0 +1,9 @@
+Title: Modeling Supply Chain Sustainability-Related Risks and Vulnerability: Insights from the Textile Sector of Pakistan
+Authors: Muhammad Hashim, Muhammad Nazam, Muhammad Zia ur Rehman, Muhammad Abrar, Sajjad Ahmad Baig, Muhammad Nazim, Zahid Hussain
+Year: 2021
+Venue: Autex Research Journal
+DOI: https://doi.org/10.2478/aut-2021-0008
+Paper ID: https://openalex.org/W3160045612
+
+Abstract:
+Abstract Sustainability-related risk and vulnerability management have attained significant attention from academia and industry. Manufacturing industries in developing countries such as Pakistan are under severe economic pressure and striving to boost sustainable supply chain practices for achieving business excellence. In this context, the objectives of the present research are to examine the critical supply chain risks associated with sustainable development goals, namely social, economic, and environmental factors. The failure mode and effect analysis (FMEA) technique is employed for categorizing the risk factors and Pareto analysis for highlighting the more crucial and risky factors. For this purpose, a large-scale survey was carried out in the textile industries of Pakistan to develop a risk mitigation model for sustainability-related risks and vulnerability in a textile supply chain (TSC). It captures the input expressions of experts for risk factors, namely severity (s), occurrence (o), and detection (d) for calculating the risk priority numbers (RPNs) of identified alternatives. The results depict that endogenous environmental risks categorize as the most significant for the textile manufacturing industries, and the interfaces between the various risks associated with sustainability-related are also found very high. This study would be a toolkit for the industrial managers and policy-makers for creating sustainable manufacturing culture on organizational premises.

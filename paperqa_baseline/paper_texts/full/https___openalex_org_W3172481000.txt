@@ -1,0 +1,9 @@
+Title: Adoption of ICTs in Agri-Food Logistics: Potential and Limitations for Supply Chain Sustainability
+Authors: Cédric Vernier, Denis Loeillet, Rallou Thomopoulos, Catherine Macombe
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13126702
+Paper ID: https://openalex.org/W3172481000
+
+Abstract:
+A major challenge of Sustainable Development Goal 12 “Responsible Consumption and Production” is to reduce food losses along production and supply chains. This is particularly critical for fresh food products, due to their perishable and fragile nature, which makes the coordination of the actors all the more crucial to avoid wastes and losses. The rise of new technologies, referred to as “Industry 4.0” powered by the internet of things, big data analytics and artificial intelligence, could bring new solutions to meet these needs. Information and communication technologies (ICTs) allow for frequent exchanges of huge amounts of information between actors in the agrofood chains to coordinate their activities. The aim of the chapter is to provide a state-of-the-art analysis on ICTs used in agrofood supply chains, with a special focus on the case of fresh fruits and vegetables, to analyze the potential and weaknesses which exist in different forms of supply chains for ICTs becoming a “resource” (precious, rare, non-imitable, and nonsubstitutable) prospect and to suggest promising ICTs in this context.

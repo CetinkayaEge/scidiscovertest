@@ -1,0 +1,9 @@
+Title: Catching a New Zeolite as a Transition Material during Deconstruction
+Authors: Qiudi Yue, Gwladys Steciuk, Michal Mazur, Jin Zhang, Oleg Petrov, Mariya Shamzhy, Mingxiu Liu, Lukáš Palatinus, Jiří Čejka, Maksym Opanasenko
+Year: 2023
+Venue: Journal of the American Chemical Society
+DOI: 10.1021/jacs.3c00423
+Paper ID: pmc_PMC10141410
+
+Abstract:
+Zeolites are key materials in both basic research and industrial applications. However, their synthesis is neither diverse nor applicable to labile frameworks because classical procedures require harsh hydrothermal conditions, whereas post-synthesis methods are limited to a few suitable parent materials. Remaining frameworks can fail due to amorphization, dissolution, and other decomposition processes. Nevertheless, stopping degradation at intermediate structures could yield new zeolites. Here, by optimizing the design and synthesis parameters of the parent zeolite IWV, we “caught” a new, highly crystalline, and siliceous zeolite during its degradation. IWV seed-assisted crystallization followed by gentle transformation into the water–alcohol system yielded the highly crystalline daughter zeolite IPC-20, whose structure was solved by precession-assisted three-dimensional electron diffraction. Without additional requirements, as in conventional (direct or post-synthesis) strategies, our approach may be applied to any chemically labile material with a staged structure.

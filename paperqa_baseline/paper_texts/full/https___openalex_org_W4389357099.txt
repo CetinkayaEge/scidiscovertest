@@ -1,0 +1,9 @@
+Title: Biomineralization To Prevent Microbially Induced Corrosion on Concrete for Sustainable Marine Infrastructure
+Authors: Xiaohao Sun, Onyx W. H. Wai, Jiawen Xie, Xiangdong Li
+Year: 2023
+Venue: Environmental Science & Technology
+DOI: https://doi.org/10.1021/acs.est.3c04680
+Paper ID: https://openalex.org/W4389357099
+
+Abstract:
+Microbially induced corrosion (MIC) on concrete represents a serious issue impairing the lifespan of coastal/marine infrastructure. However, currently developed concrete corrosion protection strategies have limitations in wide applications. Here, a biomineralization method was proposed to form a biomineralized film on concrete surfaces for corrosion inhibition. Laboratory seawater corrosion experiments were conducted under different conditions [e.g., chemical corrosion (CC), MIC, and biomineralization for corrosion inhibition]. A combination of chemical and mechanical property measurements of concrete (e.g., sulfate concentrations, permeability, mass, and strength) and a genotypic-based investigation of formed concrete biofilms was conducted to evaluate the effectiveness of the biomineralization approach on corrosion inhibition. The results show that MIC resulted in much higher corrosion rates than CC. However, the biomineralization treatment effectively inhibited corrosion because the biomineralized film decreased the total and relative abundance of sulfate-reducing bacteria (SRB) and acted as a protective layer to control the diffusion of sulfate and isolate the concrete from the corrosive SRB communities, which helps extend the lifespan of concrete structures. Moreover, this technique had no negative impact on the native marine microbial communities. Our study contributes to the potential application of biomineralization for corrosion inhibition to achieve long-term sustainability for major marine concrete structures.

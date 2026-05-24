@@ -1,0 +1,9 @@
+Title: Sustainable Polythioesters via Thio(no)lactones: Monomer Synthesis, Ring‐Opening Polymerization, End‐of‐Life Considerations, and Industrial Perspectives
+Authors: An Sofie Narmon, Christian A. M. R. van Slagmaat, Stefaan M. A. De Wildeman, Michiel Dusselier
+Year: 2023
+Venue: ChemSusChem
+DOI: https://doi.org/10.1002/cssc.202202276
+Paper ID: https://openalex.org/W4316928317
+
+Abstract:
+As the environmental effects of plastics are of ever greater concern, the industry is driven towards more sustainable polymers. Besides sustainability, our fast-developing society imposes the need for highly versatile materials. Whereas aliphatic polyesters (PEs) are widely adopted and studied as next-generation biobased and (bio)degradable materials, their sulfur-containing analogs, polythioesters (PTEs), only recently gained attention. Nevertheless, the introduction of S atoms is known to often enhance thermal, mechanical, electrochemical, and optical properties, offering prospects for broad applicability. Furthermore, thanks to their thioester-based backbone, PTEs are inherently susceptible to degradation, giving them a high sustainability potential. The key route to PTEs is through ring-opening polymerization (ROP) of thio(no)lactones. This Review critically discusses the (potential) sustainability of the most relevant state-of-the-art in every step from sulfur source to end-of-life treatment options of PTEs, obtained through ROP of thio(no)lactones. The benefits and drawbacks of PTEs versus PEs are highlighted, including their industrial perspective.

@@ -1,0 +1,9 @@
+Title: A First-Order Model to Assess Computer Architecture Sustainability
+Authors: Lieven Eeckhout
+Year: 2022
+Venue: IEEE Computer Architecture Letters
+DOI: https://doi.org/10.1109/lca.2022.3217366
+Paper ID: https://openalex.org/W4312649179
+
+Abstract:
+Sustainability in general and global warming in particular are grand societal challenges. Computer systems demand substantial materials and energy resources during production and usage. A key question is how computer architects can design sustainable computer systems. Given the inherent data uncertainty, this paper proposes a deliberately simple first-order model to assess computer architecture sustainability based on first principles. Several case studies illustrate the insight that the model provides as well as its broad applicability.

@@ -1,0 +1,9 @@
+Title: ERP systems drive businesses towards growth and sustainability
+Authors: Luay Anaya, Fadi Qutaishat
+Year: 2022
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2022.08.103
+Paper ID: https://openalex.org/W4297792681
+
+Abstract:
+This paper investigates what organizations can do to enable Enterprise Resource Planning (ERP) systems drive their businesses towards growth and sustainability. In particular, this research aims to uncover a set of activities drawn on sustainability principles that were evidently exist by a growing organization. This research applies a qualitative case study approach as an exploratory investigation. It shows how different activities that allow the implementation of a Tier-1 ERP system can help an organization to grow and sustain their business. Interview data were supplemented by available documents to get a deep understanding of the case. The findings include a set of activities were proven vital in driving business growth and sustainability. These activities are articulated in accordance with relevant sustainability principles. Spring boarding from this articulation, we suggest that future development of ERP implementation to address the sustainability principles and activities during the ERP life cycle. This study responds to research calls for adopting different governance frameworks to address the sustainability issue when developing and implementing different information systems projects. Considering and applying such approach is conjectured in this paper as a way to enable the ERP implementation will assist organizations in their growth and sustainability journey.

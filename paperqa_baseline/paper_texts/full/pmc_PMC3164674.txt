@@ -1,0 +1,9 @@
+Title: Novel Aptamer-Nanoparticle Bioconjugates Enhances Delivery of Anticancer Drug to MUC1-Positive Cancer Cells In Vitro
+Authors: Chenchen Yu, Yan Hu, Jinhong Duan, Wei Yuan, Chen Wang, Haiyan Xu, Xian-Da Yang
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0024077
+Paper ID: pmc_PMC3164674
+
+Abstract:
+MUC1 protein is an attractive target for anticancer drug delivery owing to its overexpression in most adenocarcinomas. In this study, a reported MUC1 protein aptamer is exploited as the targeting agent of a nanoparticle-based drug delivery system. Paclitaxel (PTX) loaded poly (lactic-co-glycolic-acid) (PLGA) nanoparticles were formulated by an emulsion/evaporation method, and MUC1 aptamers (Apt) were conjugated to the particle surface through a DNA spacer. The aptamer conjugated nanoparticles (Apt-NPs) are about 225.3 nm in size with a stable in vitro drug release profile. Using MCF-7 breast cancer cell as a MUC1-overexpressing model, the MUC1 aptamer increased the uptake of nanoparticles into the target cells as measured by flow cytometry. Moreover, the PTX loaded Apt-NPs enhanced in vitro drug delivery and cytotoxicity to MUC1 + cancer cells, as compared with non-targeted nanoparticles that lack the MUC1 aptamer (P<0.01). The behavior of this novel aptamer-nanoparticle bioconjugates suggests that MUC1 aptamers may have application potential in targeted drug delivery towards MUC1-overexpressing tumors.

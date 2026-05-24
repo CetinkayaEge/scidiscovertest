@@ -1,0 +1,9 @@
+Title: Sustainable operation of geothermal power plants: why economics matters
+Authors: Fynn V. Hackstein, Reinhard Madlener
+Year: 2021
+Venue: Geothermal Energy
+DOI: https://doi.org/10.1186/s40517-021-00183-2
+Paper ID: https://openalex.org/W3165883104
+
+Abstract:
+Abstract This paper, based on a novel hybrid techno-economic model for geothermal power plants with endogenized plant lifetime, investigates the economic feasibility of a sustainable exploitation of geothermal resources for electricity generation. To this end, standard terminology and classifications from the literature are reviewed, such as “sustainability”, “sustainable operation”, “renewability”, “recovery”, “recharge”, and “regeneration”. An illustrative conventional, convective high-enthalpy hydrothermal system is contrasted with an enhanced, conductive low-enthalpy petrothermal system. Furthermore, different (mostly geophysical) sustainable operation criteria for the use of geothermal energy are derived from the literature. The conditions for complying with these criteria are compared with the economic criteria of cost minimization (levelized cost of electricity, LCOE) and profit maximization (net present value, NPV), respectively, revealing differences that vary in intensity, particularly depending on the type of reservoir and their respective properties. For the two case studies, LCOE of 2.9 €-ct/kWh and 16.9 €-ct/kWh are found, which are further scrutinized by a detailed sensitivity analysis. The hydrothermal system, in contrast to the petrothermal system investigated, is found to be able to meet several of the sustainability criteria examined (extraction equals recharge, operating lifetime of 100 to 300 years), whereas economically optimal operation leads to excessive overexploitation in both cases, showing a distinct trade-off between profit maximization and sustainable operation that has not been discussed in the literature so far.

@@ -1,0 +1,9 @@
+Title: Defect Detection in Printed Circuit Boards Using Semi-Supervised Learning
+Authors: Thi Tram Anh Pham, Do Kieu Trang Thoi, Hyohoon Choi, Suhyun Park
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063246
+Paper ID: pmc_PMC10051373
+
+Abstract:
+Defect inspection is essential in the semiconductor industry to fabricate printed circuit boards (PCBs) with minimum defect rates. However, conventional inspection systems are labor-intensive and time-consuming. In this study, a semi-supervised learning (SSL)-based model called PCB_SS was developed. It was trained using labeled and unlabeled images under two different augmentations. Training and test PCB images were acquired using automatic final vision inspection systems. The PCB_SS model outperformed a completely supervised model trained using only labeled images (PCB_FS). The performance of the PCB_SS model was more robust than that of the PCB_FS model when the number of labeled data is limited or comprises incorrectly labeled data. In an error-resilience test, the proposed PCB_SS model maintained stable accuracy (error increment of less than 0.5%, compared with 4% for PCB_FS) for noisy training data (with as much as 9.0% of the data labeled incorrectly). The proposed model also showed superior performance when comparing machine-learning and deep-learning classifiers. The unlabeled data utilized in the PCB_SS model helped with the generalization of the deep-learning model and improved its performance for PCB defect detection. Thus, the proposed method alleviates the burden of the manual labeling process and provides a rapid and accurate automatic classifier for PCB inspections.

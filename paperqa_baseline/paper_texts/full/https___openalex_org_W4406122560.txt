@@ -1,0 +1,9 @@
+Title: Sustainable Approaches to Address Lead Toxicity in Halide Perovskite Solar Cells: A Review of Lead Encapsulation and Recycling Solutions
+Authors: Jiajia Suo, Henrik Pettersson, Bowen Yang
+Year: 2025
+Venue: EcoMat
+DOI: https://doi.org/10.1002/eom2.12511
+Paper ID: https://openalex.org/W4406122560
+
+Abstract:
+ABSTRACT The increasing global concerns about energy shortages and environmental pollution are driving the development of materials for clean energy conversion. Among various materials, lead halide perovskite solar cells (PSCs) have emerged as promising candidates for next‐generation photovoltaic (PV) technologies. However, the use of toxic lead in high‐efficiency perovskite devices raises sustainability concerns, particularly due to the risk of environmental contamination from lead leakage. Given the projected growth of the perovskite photovoltaic market, effective management of lead toxicity is essential for the safe deployment of this technology. This review explores the latest developments in lead encapsulation strategies, including both external and internal encapsulation materials, aimed at mitigating lead leakage and enhancing the safety and sustainability of perovskite photovoltaics. Additionally, it also discusses various recycling solutions necessary to establish a sustainable closed‐loop lead management system. These approaches not only recycle lead but also reclaim other materials, promoting the circular use of resources and advancing the competitiveness of perovskite PV technologies. image

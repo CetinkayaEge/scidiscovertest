@@ -1,0 +1,9 @@
+Title: Sustainable Innovations in the Food Industry through Artificial Intelligence and Big Data Analytics
+Authors: Saurabh Sharma, Vijay Kumar Gahlawat, Kumar Rahul, Rahul S Mor, Mohit Malik
+Year: 2021
+Venue: Logistics
+DOI: https://doi.org/10.3390/logistics5040066
+Paper ID: https://openalex.org/W3202393140
+
+Abstract:
+The agri-food sector is an endless source of expansion for nourishing a vast population, but there is a considerable need to develop high-standard procedures through intelligent and innovative technologies, such as artificial intelligence (AI) and big data. This paper addresses the research concerning AI and big data analytics in the food industry, including machine learning, artificial neural networks (ANNs), and various algorithms. Logistics, supply chain, marketing, and production patterns are covered along with food sub-sector applications for artificial intelligence techniques. It is found that utilization of AI techniques and the intelligent optimization algorithm also leads to significant process and production management. Thus, digital technologies are a boon for the food industry, where AI and big data have enabled us to achieve optimum results in realtime.

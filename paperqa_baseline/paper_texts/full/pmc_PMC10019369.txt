@@ -1,0 +1,9 @@
+Title: RNAi in cell nuclei: potential for a new layer of biological regulation and a new strategy for therapeutic discovery
+Authors: Krystal C. Johnson, David R. Corey
+Year: 2023
+Venue: RNA
+DOI: 10.1261/rna.079500.122
+Paper ID: pmc_PMC10019369
+
+Abstract:
+RNA interference is almost always associated with post-transcriptional silencing in the cytoplasm. MicroRNAs (miRNAs) and critical RNAi protein factors like argonaute (AGO) and trinucleotide repeat binding containing 6 protein (TNRC6), however, are also found in cell nuclei, suggesting that nuclear miRNAs may be targets for gene regulation. Designed small duplex RNAs (dsRNAs) can modulate nuclear processes such as transcription and splicing, suggesting that they can also provide leads for therapeutic discovery. The goal of this Perspective is to provide the background on nuclear RNAi necessary to guide discussions on whether nuclear RNAi can play a role in therapeutic development programs.

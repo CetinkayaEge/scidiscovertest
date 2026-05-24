@@ -1,0 +1,9 @@
+Title: Examining the Optimal Choice of SEM Statistical Software Packages for Sustainable Mathematics Education: A Systematic Review
+Authors: Darmaraj Sakaria, Siti Mistima Maat, Mohd Effendi Ewan Mohd Matore
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15043209
+Paper ID: https://openalex.org/W4319923000
+
+Abstract:
+Intending to analyze structural relationships between measured variables and latent constructs, researchers tend to adopt structural equation modeling (SEM) through either “covariance-based SEM” (CB-SEM) or “variance-based SEM” (VB-SEM)/“partial least squares SEM” (PLS-SEM) by using numerous statistical applications. Nevertheless, the reviews on understanding the optimal choice of proprietary statistical software packages in SEM approaches are scarce despite its immense importance in sustaining education. Therefore, a systematic review would be obligated to scrutinize the empirical studies to fill this gap. By employing the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) guidelines, a total of 47 publications that met the inclusion criteria were obtained. To extract articles from August 2018 to 2022, Scopus, Web of Science (WoS), and The Education Resources Information Center (ERIC) databases were adopted. The findings imply that six types of proprietary statistical software packages emerged as an optimal choice: Lisrel, Amos, Mplus, SmartPLS, R package (plspm), and WarpPLS. Despite the widespread usage of a variety of statistical applications, SmartPLS and AMOS were rigorously utilized in VB-SEM/PLS-SEM and CB-SEM, respectively. This review is important for practitioners to discover which statistical tools are relevant to use and to identify gaps in order to sustain mathematics education for the future.

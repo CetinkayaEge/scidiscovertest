@@ -1,0 +1,9 @@
+Title: Superior zero thermal expansion dual-phase alloy via boron-migration mediated solid-state reaction
+Authors: Chengyi Yu, Kun Lin, Xin Chen, Suihe Jiang, Yili Cao, Wenjie Li, Liang Chen, Ke An, Yan Chen, Dunji Yu, Kenichi Kato, Qinghua Zhang, Lin Gu, Li You, Xiaojun Kuang, Hui Wu, Qiang Li, Jinxia Deng, Xianran Xing
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-38929-0
+Paper ID: pmc_PMC10229566
+
+Abstract:
+Rapid progress in modern technologies demands zero thermal expansion (ZTE) materials with multi-property profiles to withstand harsh service conditions. Thus far, the majority of documented ZTE materials have shortcomings in different aspects that limit their practical utilization. Here, we report on a superior isotropic ZTE alloy with collective properties regarding wide operating temperature windows, high strength-stiffness, and cyclic thermal stability. A boron-migration-mediated solid-state reaction (BMSR) constructs a salient “plum pudding” structure in a dual-phase Er-Fe-B alloy, where the precursor ErFe 10 phase reacts with the migrated boron and transforms into the target Er 2 Fe 14 B (pudding) and α-Fe phases (plum). The formation of such microstructure helps to eliminate apparent crystallographic texture, tailor and form isotropic ZTE, and simultaneously enhance the strength and toughness of the alloy. These findings suggest a promising design paradigm for comprehensive performance ZTE alloys. Zero thermal expansion (ZTE) alloys with multi-properties are important for high-precision applications, but scarce. Here the authors incorporate a boron-migration-mediated solid-state reaction to construct a dual-phase ZTE alloy with enhanced mechanical properties and cyclic thermal stabilities.

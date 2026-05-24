@@ -1,0 +1,9 @@
+Title: Determination of Oral Bioavailability of Fusaric Acid in Male Sprague-Dawley Rats
+Authors: Brendan C. Stack, John Ye, Rebecca Willis, Martha Hubbard, Howard P. Hendrickson
+Year: 2014
+Venue: Drugs in R&D
+DOI: 10.1007/s40268-014-0051-y
+Paper ID: pmc_PMC4070457
+
+Abstract:
+Head and neck squamous cell cancer accounts for 3 % of new cancer cases and 2 % of cancer mortality annually in the United States. Current treatment options for most head and neck cancers continue to be surgical excision with or without radiation, radiation alone, or chemotherapy with radiation depending on location, stage of disease, and patient preference. Fusaric acid (FA) is a novel compound from a novel class of nicotinic acid derivatives that have activity against head and neck squamous cell carcinoma (HNSCC). Although its exact mechanism is still unknown, FA is thought to be active by increasing damage to DNA and preventing its synthesis and repair. The novel mechanism of FA provides an alternative to present therapies, as a single agent whether given parenterally or orally. It has synergy with conventional agents taxol, carboplatin, and erlotinib. In order to determine if FA has reasonable oral bioavailability, we have determined the pharmacokinetics of FA in male Sprague Dawley rats following administration by gavage and by intravenous injection. The bioavailability of FA was sufficient (58 %) to suggest that FA may be viable as an orally administered medication. Despite the encouraging bioavailability of FA, the intravenous (IV) pharmacokinetics suggested non-linear behavior within the IV dose range of 10, 25, and 75 mg/kg. These results demonstrate that further pharmacokinetic and toxicity studies in larger animals such as dogs and non-human primates are warranted.

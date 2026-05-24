@@ -1,0 +1,9 @@
+Title: Sustainable dropwise condensation enabled ultraefficient heat pipes
+Authors: Wei Chang, Kai Luo, Pengtao Wang, Ahmed A. Abdulshaheed, Chen Li
+Year: 2023
+Venue: Droplet
+DOI: https://doi.org/10.1002/dro2.43
+Paper ID: https://openalex.org/W4318899300
+
+Abstract:
+Abstract Heat pipes play a critical role in determining the operations, safety, and energy efficiency of electronics. The main focus to improve the heat pipe performance is on the evaporator design or wicking structures. However, the intrinsic limitation comes from the condenser, which is fundamentally constrained by inefficient filmwise condensation (FWC). In this study, we successfully achieved a peak effective thermal conductivity ( k eff ) of ~140 kW/(m · K) on widely used groove heat pipes by implementing sustianble dropwise condensation (DWC) and integrating with enhanced evaporator. To better understand the working mechanisms of the ultraefficient heat pipe, both the evaporator and condenser of the heat pipes have been modified accordingly. Our results show that up to 296% enhancements on the k eff can be achieved under various inclination angles by only inducing DWC in the condenser section. The drawback of temperature fluctuations induced by DWC in smooth heat pipes appears to be effectively solved using the grooves‐wicking structure. Furthermore, by integrating the nanostructured evaporator, the k eff of the heat pipe can be boosted up to 517% compared to conventional groove heat pipes. This study, for the first time, demonstrates the huge potential of engineering both the condenser and evaporator simultaneously in developing ultraefficient heat pipes.

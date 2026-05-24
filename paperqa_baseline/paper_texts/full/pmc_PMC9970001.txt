@@ -1,0 +1,9 @@
+Title: Longitudinal Signal-to-Noise Ratio of Perimetry at Different Severities of Glaucoma
+Authors: Stuart K. Gardiner
+Year: 2023
+Venue: Translational Vision Science & Technology
+DOI: 10.1167/tvst.12.2.30
+Paper ID: pmc_PMC9970001
+
+Abstract:
+Purpose Automated perimetry is relied on for functional assessment of patients with glaucoma, but questions remain about its effective dynamic range and its utility for quantifying rates of progression at different stages of the disease. This study aims to identify the bounds within which estimates of rate are most reliable. Methods Pointwise longitudinal signal-to-noise ratios (LSNR), defined as the rate of change divided by the standard error of the trend line, were calculated for 542 eyes of 273 patients with glaucoma/suspects. The relations between the mean sensitivity within each series and lower percentiles of the distribution of LSNRs (representing progressing series) were analyzed by quantile regression, with 95% confidence intervals derived by bootstrapping. Results The 5th and 10th percentiles of LSNRs reached a minimum at sensitivities 17 to 21 dB. Below this, estimates of rate became more variable, making LSNRs of progressing series less negative. A significant step change in these percentiles also occurred at approximately 31 dB, above which LSNRs of progressing locations became less negative. Conclusions The lower bound of maximum utility for perimetry was ∼17 to 21dB, coinciding with previous results suggesting that below this point, retinal ganglion cell responses saturate and noise overwhelms remaining signal. The upper bound was ∼30 to 31 dB, coinciding with previous results suggesting that above this point, the size III stimulus used is larger than Ricco's area of complete spatial summation. Translational Relevance These results quantify the impact of these two factors on the ability to monitor progression and provide quantifiable targets for attempts to improve perimetry.

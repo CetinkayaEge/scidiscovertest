@@ -1,0 +1,9 @@
+Title: Digital Technologies and Sustainability Assessment: A Critical Review on the Integration Methods between BIM and LEED
+Authors: Stefano Cascone
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15065548
+Paper ID: https://openalex.org/W4353069884
+
+Abstract:
+In the context of sustainable development and parametric design, it is interesting to analyze the possible synergies between Leadership in Energy and Environmental Design (LEED), the most-used certification scheme for the design, construction, and management of green buildings, and Building Information Modeling (BIM), which supports the supply, integration, and management of information throughout the building life cycle. This paper aims to review the state of the art of the different integration methods between LEED and BIM at the early design phase. Third-party software information exchange, the cloud-BIM approach, and plug-in development using application program interface (API) were considered as possible integration strategies to automate LEED certification by BIM. In addition, optimization models and rule-based methods were analyzed. Finally, a critical review on the limitations, advantages and future research developments in LEED and BIM integration was clearly defined. Although the development of plug-ins was the most powerful integration method, it requires advanced informatics knowledge. On the other hand, using third-party tools increased manual working and checking due to interoperability issues. A visual programming language (VPL) can allow designers and researchers without any informatics knowledge to create parametric BIM models by including LEED requirements.

@@ -1,0 +1,9 @@
+Title: Mixed-Potential Gas Sensors Using an Electrolyte Consisting of Zinc Phosphate Glass and Benzimidazole
+Authors: Takafumi Akamatsu, Toshio Itoh, Woosuck Shin
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010097
+Paper ID: pmc_PMC5298670
+
+Abstract:
+Mixed-potential gas sensors with a proton conductor consisting of zinc metaphosphate glass and benzimidazole were fabricated for the detection of hydrogen produced by intestinal bacteria in dry and humid air. The gas sensor consisting of an alumina substrate with platinum and gold electrodes showed good response to different hydrogen concentrations from 250 parts per million (ppm) to 25,000 ppm in dry and humid air at 100–130 °C. The sensor response varied linearly with the hydrogen and carbon monoxide concentrations due to mass transport limitations. The sensor responses to hydrogen gas (e.g., −0.613 mV to 1000 ppm H 2 ) was higher than those to carbon monoxide gas (e.g., −0.128 mV to 1000 ppm CO) at 120 °C under atmosphere with the same level of humidity as expired air.

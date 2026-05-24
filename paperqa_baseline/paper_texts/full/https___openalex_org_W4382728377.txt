@@ -1,0 +1,9 @@
+Title: AI-Enabled Energy Policy for a Sustainable Future
+Authors: Mir Sayed Shah Danish, Tomonobu Senjyu
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097643
+Paper ID: https://openalex.org/W4382728377
+
+Abstract:
+The present time is a seminal decade for the transition of the energy sector through the deployment of green energy and the optimization of efficiencies using the power of automation and artificial intelligence (AI), which demands competitive policies to handle multidimensional endeavors via a single platform. The failure of energy policies can have far-reaching socioeconomic consequences when policies do not meet the energy and climate goals throughout the lifecycle of the policy. Such shortcomings are reported to be due to inadequate incentives and poor decision making that needs to promote fairness, equality, equity, and inclusiveness in energy policies and project decision making. The integration of AI in energy sectors poses various challenges that this study aims to analyze through a comprehensive examination of energy policy processes. The study focuses on (1) the decision-making process during the development stage, (2) the implementation management process for the execution stage, (3) the integration of data science, machine learning, and deep learning in energy systems, and (4) the requirements of energy systems in the context of substantiality. Synergistically, an emerging blueprint of policy, data science and AI, engineering practices, management process, business models, and social approaches that provides a multilateral design and implementation reference is propounded. Finally, a novel framework is developed to develop and implement modern energy policies that minimize risks, promote successful implementation, and advance society’s journey towards net zero and carbon neutral objectives.

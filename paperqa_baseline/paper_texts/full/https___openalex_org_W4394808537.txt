@@ -1,0 +1,9 @@
+Title: Production and characterization of sustainable biocompatible PLA/walnut shell composite materials
+Authors: İdris Karagöz
+Year: 2024
+Venue: Polymer Bulletin
+DOI: https://doi.org/10.1007/s00289-024-05247-4
+Paper ID: https://openalex.org/W4394808537
+
+Abstract:
+Abstract Various treatments, such as alkaline and silane treatments, are commonly applied to natural fillers before production to enhance their quality, thermal stability, and water absorption capacity and improve the fiber–matrix interface properties. However, these processes are not environmentally friendly and may escalate the production cost of composites due to the need for additional processing steps in mass production. This study delves into the impact of untreated walnut shell (WS) filler material, employed in varying ratios (ranging from 10 to 40%) as a filler, on the mechanical, thermal, morphological, and physical properties of environmentally friendly polylactic acid (PLA) matrix composites. The experimental results highlight a significant decrease in tensile modulus by 28%, tensile strength ranging from 32 to 65%, a decrease in flexural modulus by 22%, and flexural strength ranging from 24 to 58% with varying WS filler ratios. Time-dependent water absorption and increased density were observed. FT-IR analysis indicates structural similarities, while DSC results show minimal effects on glass transition temperature and crystallinity. TGA results reveal reduced thermal stability with increasing WS content. SEM microstructure imaging demonstrates homogeneous WS particle distribution, but higher WS content leads to increased brittleness and diminished resistance properties. In conclusion, this study underscores the importance of balancing sustainability through WS filler ratios while preserving mechanical performance.

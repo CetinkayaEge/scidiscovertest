@@ -1,0 +1,9 @@
+Title: Additive Manufacturing in the Clothing Industry: Towards Sustainable New Business Models
+Authors: Siavash H. Khajavi
+Year: 2021
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app11198994
+Paper ID: https://openalex.org/W3203643466
+
+Abstract:
+The clothing industry is among the most polluting and waste-generating industries in the world, and it is responsible for the release of large amounts of greenhouse gases. The industry’s massive size and significant environmental footprint with regard to water and energy consumption and waste generation make it a valid improvement candidate. While in recent years, global clothing brands and retailers have taken steps to reduce their ecological footprint, there still is a lot of room for improvement. In this research, we view this sustainability issue from a lifecycle perspective and study the new business models (NBMs) that may arise from the utilization of additive manufacturing (AM) technology. AM is emerging as a method of production for final parts. Moreover, as the range of material and available production processes expands, it is increasingly important to study the potential impact of this promising production technology and potential NBMs enabled by it on the clothing industry. Additionally, the obstacles to AM utilization in the clothing industry are explored. We utilize secondary data related to relevant implementation cases to theoretically study the NBMs that AM can enable to improve sustainability. Three NBMs of “clothing as a service”, “collaborative consumption”, and “direct sale/distribution” were envisioned through the study of current AM applications in other industries, as well as current fashion trends. The results of this research have implications for the sustainability of the fashion industry while also providing directions for AM technology development.

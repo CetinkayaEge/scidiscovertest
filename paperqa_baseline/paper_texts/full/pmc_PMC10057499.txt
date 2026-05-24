@@ -1,0 +1,9 @@
+Title: Dynamic Vascular Imaging Using Active Breast Thermography
+Authors: Meir Gershenson, Jonathan Gershenson
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063012
+Paper ID: pmc_PMC10057499
+
+Abstract:
+Mammography is considered the gold standard for breast cancer screening and diagnostic imaging; however, there is an unmet clinical need for complementary methods to detect lesions not characterized by mammography. Far-infrared ‘thermogram’ breast imaging can map the skin temperature, and signal inversion with components analysis can be used to identify the mechanisms of thermal image generation of the vasculature using dynamic thermal data. This work focuses on using dynamic infrared breast imaging to identify the thermal response of the stationary vascular system and the physiologic vascular response to a temperature stimulus affected by vasomodulation. The recorded data are analyzed by converting the diffusive heat propagation into a virtual wave and identifying the reflection using component analysis. Clear images of passive thermal reflection and thermal response to vasomodulation were obtained. In our limited data, the magnitude of vasoconstriction appears to depend on the presence of cancer. The authors propose future studies with supporting diagnostic and clinical data that may provide validation of the proposed paradigm.

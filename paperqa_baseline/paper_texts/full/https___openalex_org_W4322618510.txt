@@ -1,0 +1,9 @@
+Title: Sustained Release of BMSC‐EVs from 3D Printing Gel/HA/nHAP Scaffolds for Promoting Bone Regeneration in Diabetic Rats
+Authors: Tingting Yang, Yunsheng Dong, Jinpeng Wan, Xiangsheng Liu, Yufei Liu, Jiaxing Huang, Jie Zhou, Hui Xiao, Lizong Tang, Yanying Wang, Shufang Wang, Hong Cai
+Year: 2023
+Venue: Advanced Healthcare Materials
+DOI: https://doi.org/10.1002/adhm.202203131
+Paper ID: https://openalex.org/W4322618510
+
+Abstract:
+Extracellular vesicles (EVs) play an important role in intercellular communication, and the function of EVs mainly depends on the state of source cells. To determine the effect of diabetic microenvironment on EVs secreted by bone marrow mesenchymal stem cells (BMSCs), this work explores the effect of normal glucose (5.5 mm) cultured BMSCs derived EVs (NG-EVs) and high glucose (30 mm) cultured BMSCs derived EVs (HG-EVs) in regulating the migration, proliferation and osteoblastic differentiation of BMSCs in vitro. In order to improve the bioavailability of EVs, this work constructs a sustained release system of polydopamine (PDA) functionalized 3D printing gelatin/hyaluronic acid/nano-hydroxyapatite (Gel/HA/nHAP) scaffolds (S/PDA) and verifies its function in the calvarial defect model of diabetic rats. This work confirms that both NG-EVs and HG-EVs can promote proliferation and migration, inhibit apoptosis and promote osteogenic differentiation, but the function of HG-EVs is weaker than that of NG-EVs. Therefore, EVs secreted by autologous cells of diabetic patients are not suitable for self-repair. This work hopes that the 3D printing scaffold designed for sustained-release EVs will provide a new strategy for acellular tissue engineering bone repair in diabetic patients.

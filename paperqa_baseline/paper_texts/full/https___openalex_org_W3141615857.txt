@@ -1,0 +1,9 @@
+Title: Sustained and targeted delivery of siRNA/DP7‐C nanoparticles from injectable thermosensitive hydrogel for hepatocellular carcinoma therapy
+Authors: Binyan Zhao, Bailing Zhou, Kun Shi, Rui Zhang, Chunyan Dong, Daoyuan Xie, Lin Tang, Yaomei Tian, Zhiyong Qian, Yang Li
+Year: 2021
+Venue: Cancer Science
+DOI: https://doi.org/10.1111/cas.14903
+Paper ID: https://openalex.org/W3141615857
+
+Abstract:
+Hepatocellular carcinoma (HCC) is one of the most lethal cancers in humans. The inhibition of peptidyl-prolyl cis/trans isomerase (Pin1) gene expression may have great potential in the treatment of HCC. N-Acetylgalactosamine (GalNAc) was used to target the liver. Cholesterol-modified antimicrobial peptide DP7 (DP7-C) acts as a carrier, the GalNAc-siRNA/DP7-C complex increases the uptake of GalNAc-siRNA and the escape of endosomes in hepatocytes. In addition, DP7-C nanoparticles and hydrogel-assisted GalNAc-Pin1 siRNA delivery can effectively enhance the stability and prolong the silencing effects of Pin1 siRNA. In an orthotopic liver cancer model, the GalNAc-Pin1 siRNA/DP7-C/hydrogel complex can potentially regulate Pin1 expression in hepatocellular carcinoma cells and effectively inhibit tumor progression. Our study proves that Pin1 siRNA is an efficient method for the treatment of HCC and provides a sustainable and effective drug delivery system for the suppression of liver cancer.

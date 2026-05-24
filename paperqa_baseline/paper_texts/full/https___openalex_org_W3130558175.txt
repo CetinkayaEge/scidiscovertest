@@ -1,0 +1,9 @@
+Title: Creating a sustainable digital infrastructure: The role of service-oriented architecture
+Authors: Eli Hustad, Dag H. Olsen
+Year: 2021
+Venue: Procedia Computer Science
+DOI: https://doi.org/10.1016/j.procs.2021.01.210
+Paper ID: https://openalex.org/W3130558175
+
+Abstract:
+The United Nations’ goal of generating sustainable industry, innovation, and infrastructure is the point of departure for our reflective paper. The paper elaborates on the concepts of digital infrastructure, service-oriented architecture, and microservices. It emphasizes the benefits and challenges of creating a sustainable infrastructure based on a service-oriented environment, in which cloud services constitute an important part. We outline the prerequisites for obtaining a sustainable digital infrastructure based on services. Service-oriented architecture (SOA) and recently, microservice architecture, and cloud services, can provide organizations with the improved agility and flexibility essential for generating sustainability in a market focusing on digitalization. The reuse capability of SOA provides a common pool of information technology (IT) resources and qualifies as a green IT approach that impacts environmental protection. Previous research has identified IT and business alignment together with SOA governance as the most critical criteria when implementing SOA. This paper discusses these issues in-depth to explain sustainability.

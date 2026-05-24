@@ -1,0 +1,9 @@
+Title: Membrane-based TBADT recovery as a strategy to increase the sustainability of continuous-flow photocatalytic HAT transformations
+Authors: Zhenghui Wen, Diego Pintossi, Manuel Nuño, Timothy Noël
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-33821-9
+Paper ID: https://openalex.org/W4306670555
+
+Abstract:
+)-H alkylation and amination reactions were carried out with in-line TBADT recovery via two OSN steps. Promisingly, the observed product yields for the reactions with in-line catalyst recycling are comparable to those of reactions performed with pristine TBADT, therefore highlighting that not only catalyst recovery (>99%, TON > 8400) is a possibility, but also that it does not happen at the expense of reaction performance.

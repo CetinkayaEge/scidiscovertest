@@ -1,0 +1,9 @@
+Title: Directed Self-Assembly on Photo-Crosslinked Polystyrene Sub-Layers: Nanopattern Uniformity and Orientation
+Authors: Haeng-Deog Koh, Mi-Jeong Kim
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080648
+Paper ID: pmc_PMC5509098
+
+Abstract:
+A photo-crosslinked polystyrene (PS) thin film is investigated as a potential guiding sub-layer for polystyrene-block-poly (methyl methacrylate) block copolymer (BCP) cylindrical nanopattern formation via topographic directed self-assembly (DSA). When compared to a non-crosslinked PS brush sub-layer, the photo-crosslinked PS sub-layer provided longer correlation lengths of the BCP nanostructure, resulting in a highly uniform DSA nanopattern with a low number of BCP dislocation defects. Depending on the thickness of the sub-layer used, parallel or orthogonal orientations of DSA nanopattern arrays were obtained that covered the entire surface of patterned Si substrates, including both trench and mesa regions. The design of DSA sub-layers and guide patterns, such as hardening the sub-layer by photo-crosslinking, nano-structuring on mesas, the relation between trench/mesa width, and BCP equilibrium period, were explored with a view to developing defect-reduced DSA lithography technology.

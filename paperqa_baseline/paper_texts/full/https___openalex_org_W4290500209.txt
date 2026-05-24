@@ -1,0 +1,9 @@
+Title: Sustainable Mobility as a Service: Demand Analysis and Case Studies
+Authors: Giuseppe Musolino
+Year: 2022
+Venue: Information
+DOI: https://doi.org/10.3390/info13080376
+Paper ID: https://openalex.org/W4290500209
+
+Abstract:
+Urban mobility is evolving today towards the concept of Mobility as a Service (MaaS). MaaS allows passengers to use different transport services as a single option, by using a digital platform. Therefore, according to the MaaS concept, the mobility needs of passengers are the central element of the transport service. The objective of this paper is to build an updated state-of-the-art of the main disaggregated and aggregated variables connected to travel demand in presence of MaaS. According to the above objective, this paper deals with methods and case studies to analyze passengers’ behaviour in the presence of MaaS. The methods described rely on the Transportation System Models (TSMs), in particular with the travel demand modelling component. The travel demand may be estimated by means of disaggregated, or sample, surveys (e.g., individual choices) and of aggregate surveys (e.g., characteristics of the area, traffic flows). The surveys are generally supported by Information Communication System (ICT) tools, such as: smartphones; smartcards; Global Position Systems (GPS); points of interest. The analysis of case studies allows to aggregate the existing scientific literature according to some criteria: the choice dimension of users (e.g., mode, bundle and path, or a combination of them); the characteristics of the survey (e.g., revealed preferences or stated preferences); the presence of behavioural theoretical background and of calibrated choice model(s).

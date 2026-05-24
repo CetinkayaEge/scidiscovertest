@@ -1,0 +1,9 @@
+Title: Generating Detailed Spectral Libraries for Canine Proteomes Obtained from Serum and Urine
+Authors: Hee-Sung Ahn, Jeonghun Yeom, Jiyoung Yu, Yumi Oh, JeongYeon Hong, Minjung Kim, Kyunggon Kim
+Year: 2023
+Venue: Scientific Data
+DOI: 10.1038/s41597-023-02139-6
+Paper ID: pmc_PMC10140049
+
+Abstract:
+Domestic dogs ( Canis lupus familiaris ) are popular companion animals. Increase in medical expenses associated with them and demand for extending their lifespan in a healthy manner has created the need to develop new diagnostic technology. Companion dogs also serve as important animal models for non-clinical research as they can provide various biological phenotypes. Proteomics have been increasingly used on dogs and humans to identify novel biomarkers of various diseases. Despite the growing applications of proteomics in liquid biopsy in veterinary medicine, no publicly available spectral assay libraries have been created for the proteome of canine serum and urine. In this study, we generated spectral assay libraries for the two-representative liquid-biopsy samples using mid-pH fractionation that allows in-depth understanding of proteome coverage. The resultant canine serum and urine spectral assay libraries include 1,132 and 4,749 protein groups and 5,483 and 25,228 peptides, respectively. We built these complimentary accessible resources for proteomic biomarker discovery studies through ProteomeXchange with the identifier PXD034770.

@@ -1,0 +1,9 @@
+Title: Genetic variation in cultivated Rheum tanguticum populations
+Authors: Yanping Hu, Xiaolong Xie, Li Wang, Huaigang Zhang, Jian Yang, Yi Li
+Year: 2014
+Venue: Genetics and Molecular Biology
+DOI: 10.1590/s1415-47572014000400010
+Paper ID: pmc_PMC4171762
+
+Abstract:
+To examine whether cultivation reduced genetic variation in the important Chinese medicinal plant Rheum tanguticum , the levels and distribution of genetic variation were investigated using ISSR markers. Fifty-eight R. tanguticum individuals from five cultivated populations were studied. Thirteen primers were used and a total of 320 DNA bands were scored. High levels of genetic diversity were detected in cultivated R. tanguticum ( PPB = 82.19, H = 0.2498, H B = 0.3231, I = 0.3812) and could be explained by the outcrossing system, as well as long-lived and human-mediated seed exchanges. Analysis of molecular variance (AMOVA) showed that more genetic variation was found within populations (76.1%) than among them (23.9%). This was supported by the coefficient of gene differentiation ( G st = 0.2742) and Bayesian analysis (θ B = 0.1963). The Mantel test revealed no significant correlation between genetic and geographic distances among populations ( r = 0.1176, p = 0.3686). UPGMA showed that the five cultivated populations were separated into three clusters, which was in good accordance with the results provided by the Bayesian software STRUCTURE ( K = 3). A short domestication history and no artificial selection may be an effective way of maintaining and conserving the gene pools of wild R. tanguticum .

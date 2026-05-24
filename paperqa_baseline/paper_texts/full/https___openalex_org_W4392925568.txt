@@ -1,0 +1,9 @@
+Title: Dissection of rhizosphere microbiome and exploiting strategies for sustainable agriculture
+Authors: Weibing Xun, Yunpeng Liu, Aiyuan Ma, Yan He, Youzhi Miao, Jiahui Shao, Nan Zhang, Zhihui Xu, Qirong Shen, Ruifu Zhang
+Year: 2024
+Venue: New Phytologist
+DOI: https://doi.org/10.1111/nph.19697
+Paper ID: https://openalex.org/W4392925568
+
+Abstract:
+The rhizosphere microbiome plays critical roles in plant growth and provides promising solutions for sustainable agriculture. While the rhizosphere microbiome frequently fluctuates with the soil environment, recent studies have demonstrated that a small proportion of the microbiome is consistently assembled in the rhizosphere of a specific plant genotype regardless of the soil condition, which is determined by host genetics. Based on these breakthroughs, which involved exploiting the plant-beneficial function of the rhizosphere microbiome, we propose to divide the rhizosphere microbiome into environment-dominated and plant genetic-dominated components based on their different assembly mechanisms. Subsequently, two strategies to explore the different rhizosphere microbiome components for agricultural production are suggested, that is, the precise management of the environment-dominated rhizosphere microbiome by agronomic practices, and the elucidation of the plant genetic basis of the plant genetic-dominated rhizosphere microbiome for breeding microbiome-assisted crop varieties. We finally present the major challenges that need to be overcome to implement strategies for modulating these two components of the rhizosphere microbiome.

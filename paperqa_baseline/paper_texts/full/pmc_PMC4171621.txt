@@ -1,0 +1,9 @@
+Title: F-box protein FBXO31 is down-regulated in gastric cancer and negatively regulated by miR-17 and miR-20a
+Authors: Xinchao Zhang, Ye Kong, Xia Xu, Huaixin Xing, Yingjie Zhang, Fengjuan Han, Wenjuan Li, Qing Yang, Jiping Zeng, Jihui Jia, Zhifang Liu
+Year: 2014
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.2183
+Paper ID: pmc_PMC4171621
+
+Abstract:
+FBXO31, a subunit of the SCF ubiquitin ligase, played a crucial role in neuronal development, DNA damage response and tumorigenesis. Here, we investigated the expression and prognosis value of FBXO31 in human primary gastric cancer (GC) samples. Meanwhile, the biological role and the regulation mechanism of FBXO31 were evaluated. We found that FBXO31 mRNA and protein was decreased dramatically in the GC tissue compared with the adjacent non-cancerous tissues. FBXO31 expression was significantly associated with tumor size, tumor infiltration, clinical grade and patients' prognosis. FBXO31 overexpression significantly decreased colony formation and induced a G 1 -phase arrest and inhibited the expression of CyclinD1 protein in GC cells. Further evidence was obtained from knockdown of FBXO31. Ectopic expression of FBXO31 dramatically inhibited xenograft tumor growth in nude mice. miR-20a and miR-17 mimics inhibited, whereas the inhibitor of miR-20a and miR-17 increased, the expression of FBXO31, respectively. miR-20a and miR-17 directly bind to the 3'-UTR of FBXO31. The level of miR-20a and miR-17 in GC tissue was significantly higher than that in surrounding normal mucosa. Moreover, a highly significant negative correlation between miR-20a (miR-17) and FBXO31 was observed in these GC samples. Therefore, effective therapy targeting the miR-20a (miR-17)-FBXO31-CyclinD1 pathway may help control GC progression.

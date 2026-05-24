@@ -1,0 +1,9 @@
+Title: Do investors incorporate financial materiality? Remapping the environmental information in corporate sustainability reporting
+Authors: Jun Xie, Yoshitaka Tanaka, Alexander Ryota Keeley, Hidemichi Fujii, Shunsuke Managi
+Year: 2023
+Venue: Corporate Social Responsibility and Environmental Management
+DOI: https://doi.org/10.1002/csr.2524
+Paper ID: https://openalex.org/W4378233008
+
+Abstract:
+Abstract Although the consideration of financial materiality is important for securing shareholders' interests, the degree of financial materiality that is considered for existing sustainability ratings is still questionable. In this study, we hand‐mapped the financial materiality of environmental information based on Sustainability Accounting Standards Board (SASB) industry‐specific accounting metrics to reassess environmental performance. Based on the SASB‐based environmental score, we tested whether investors price environmental risk. The results show significant pricing anomalies related to environmental risk. Companies with lower SASB‐based environmental scores experience higher environmental risk. Additionally, a premium in the cross‐section of stock returns compensates for this risk. Our findings suggest that integrating financial materiality based on the SASB could be an effective way to capture corporate environmental risk.

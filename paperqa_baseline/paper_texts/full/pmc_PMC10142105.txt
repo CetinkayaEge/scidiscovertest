@@ -1,0 +1,9 @@
+Title: Evaluating Antimicrobial Resistance Trends in Commensal Escherichia coli Isolated from Cecal Samples of Swine at Slaughter in the United States, 2013–2019
+Authors: Hamid Reza Sodagari, Csaba Varga
+Year: 2023
+Venue: Microorganisms
+DOI: 10.3390/microorganisms11041033
+Paper ID: pmc_PMC10142105
+
+Abstract:
+The emergence of antimicrobial resistance (AMR) in commensal and pathogenic enteric bacteria of swine is a public health threat. This study evaluated publicly available AMR surveillance data collected by the National Antimicrobial Resistance Monitoring System (NARMS) by assessing AMR patterns and temporal trends in commensal E. coli isolated from cecal samples of swine at slaughter across the United States. We applied the Mann-Kendall test (MKT) and a linear regression trend line to detect significant trends in the proportion of resistant isolates to individual antimicrobials over the study period. A Poisson regression model assessed differences among years in the number of antimicrobials to which an E. coli isolate was resistant. Among the 3237 E. coli isolates, a very high prevalence of resistance for tetracycline (67.62%), and high resistance for streptomycin (24.13%), and ampicillin (21.10%) were identified. The MKT and the linear trend line showed a significantly increasing temporal trend for amoxicillin-clavulanic acid, ampicillin, azithromycin, cefoxitin, ceftriaxone, and trimethoprim-sulfamethoxazole. Compared to 2013 the number of antimicrobials to which an E. coli isolate was resistant was significantly higher in the years 2017, 2018, and 2019. The increasing temporal trend of resistance to important antimicrobials for human medicine (e.g., third-generation cephalosporins) and the increase in multidrug resistance in the later years of the study are concerning and should be followed up by studies to identify sources and risk factors for the selection of AMR.

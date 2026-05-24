@@ -1,0 +1,9 @@
+Title: The Impact of COVID-19 Lockdowns on Sustainable Indexes
+Authors: Helen Chiappini, Gianfranco A. Vento, Leonardo De Palma
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13041846
+Paper ID: https://openalex.org/W3127028202
+
+Abstract:
+This paper analyzes the response of sustainable indexes to the pandemic lockdown orders in Europe and the USA, contributing to both the research on the effects of the global pandemic outbreak and the resiliency of sustainable investments under market distress. Our results demonstrate that sustainable indexes were negatively impacted by lockdown orders; however, they did not show statistically significant different abnormal returns compared to traditional indexes. Similarly, our empirical results confirm that sustainable screening strategies (negative, positive, best in class) did not have an influence during such announcements. These results are robust across several model specifications and robustness tests, including nonparametric tests, generalized autoregressive conditionally heteroskedastic (GARCH) estimation of abnormal returns, and alternative events. The findings suggest that investors do not have to pay the price for the investments in sustainable assets when a bear market occurs; consequently, ceteris paribus, these investments appear suitable for financial-first investors. Such results have relevant practical consequences in terms of sustainable investment attractiveness and market growth.

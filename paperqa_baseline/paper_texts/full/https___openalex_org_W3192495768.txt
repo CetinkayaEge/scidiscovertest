@@ -1,0 +1,9 @@
+Title: Green Artificial Intelligence: Towards an Efficient, Sustainable and Equitable Technology for Smart Cities and Futures
+Authors: Tan Yiğitcanlar, Rashid Mehmood, Juan M. Corchado
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13168952
+Paper ID: https://openalex.org/W3192495768
+
+Abstract:
+Smart cities and artificial intelligence (AI) are among the most popular discourses in urban policy circles. Most attempts at using AI to improve efficiencies in cities have nevertheless either struggled or failed to accomplish the smart city transformation. This is mainly due to short-sighted, technologically determined and reductionist AI approaches being applied to complex urbanization problems. Besides this, as smart cities are underpinned by our ability to engage with our environments, analyze them, and make efficient, sustainable and equitable decisions, the need for a green AI approach is intensified. This perspective paper, reflecting authors’ opinions and interpretations, concentrates on the “green AI” concept as an enabler of the smart city transformation, as it offers the opportunity to move away from purely technocentric efficiency solutions towards efficient, sustainable and equitable solutions capable of realizing the desired urban futures. The aim of this perspective paper is two-fold: first, to highlight the fundamental shortfalls in mainstream AI system conceptualization and practice, and second, to advocate the need for a consolidated AI approach—i.e., green AI—to further support smart city transformation. The methodological approach includes a thorough appraisal of the current AI and smart city literatures, practices, developments, trends and applications. The paper informs authorities and planners on the importance of the adoption and deployment of AI systems that address efficiency, sustainability and equity issues in cities.

@@ -1,0 +1,9 @@
+Title: Optimizing environmental sustainability in pharmaceutical 3D printing through machine learning
+Authors: Hanxiang Li, Manal E. Alkahtani, Abdul W. Basit, Moe Elbadawi, Simon Gaisford
+Year: 2023
+Venue: International Journal of Pharmaceutics
+DOI: https://doi.org/10.1016/j.ijpharm.2023.123561
+Paper ID: https://openalex.org/W4388109198
+
+Abstract:
+emissions, suggesting ML could be a powerful tool in in the development of more sustainable manufacturing processes. The models were validated experimentally on new dosage forms of varying geometric complexities and were found to maintain high accuracy across all three dosage forms. The study underscores the potential of merging sustainability and digitalization in the pharmaceutical sector, aligning with the principles of Industry 5.0. It highlights the comparable learning traits between DoE and ML, indicating a promising pathway for wider adoption of ML in pharmaceutical manufacturing. Through focused efforts to reduce wasteful practices and optimize printing parameters, we can pave the way for a more environmentally sustainable future in pharmaceutical 3DP.

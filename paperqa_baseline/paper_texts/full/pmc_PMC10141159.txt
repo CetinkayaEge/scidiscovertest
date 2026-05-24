@@ -1,0 +1,9 @@
+Title: Linker-Free Synthesis of Antimicrobial Peptides Using a Novel Cleavage Reagent: Characterisation of the Molecular and Ionic Composition by nanoESI-HR MS
+Authors: Roser Segovia, Mireia Díaz-Lobo, Yolanda Cajal, Marta Vilaseca, Francesc Rabanal
+Year: 2023
+Venue: Pharmaceutics
+DOI: 10.3390/pharmaceutics15041310
+Paper ID: pmc_PMC10141159
+
+Abstract:
+The efficient preparation of novel bioactive peptide drugs requires the availability of reliable and accessible chemical methodologies together with suitable analytical techniques for the full characterisation of the synthesised compounds. Herein, we describe a novel acidolytic method with application to the synthesis of cyclic and linear peptides involving benzyl-type protection. The process consists of the in situ generation of anhydrous hydrogen bromide and a trialkylsilyl bromide that acts as protic and Lewis acid reagents. This method proved to be useful to effectively remove benzyl-type protecting groups and cleave Fmoc/ t Bu assembled peptides directly attached to 4-methylbenzhydrylamine (MBHA) resins with no need for using mild trifluoroacetic acid labile linkers. The novel methodology was successful in synthesising three antimicrobial peptides, including the cyclic compound polymyxin B3, dusquetide, and RR4 heptapeptide. Furthermore, electrospray mass spectrometry (ESI-MS) is successfully used for the full characterisation of both the molecular and ionic composition of the synthetic peptides.

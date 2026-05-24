@@ -1,0 +1,9 @@
+Title: The P2P energy trading using maximized self-consumption priorities strategies for sustainable microgrid community
+Authors: Yodthong Mensin, Nipon Ketjoy, Wisut Chamsa-ard, Malinee Kaewpanha, Pornthip Mensin
+Year: 2022
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2022.10.400
+Paper ID: https://openalex.org/W4308543060
+
+Abstract:
+This study presents an optimal peer-to-peer (P2P) energy trading model based on prioritization technique using the objective of the prosumer maximizing self-consumption. This research focused mainly on an adaptive microgrid pricing model with a performance demand ratio. It studied the trading mechanism that maximized energy self-consumption for the fair allocation of benefits and flexible pricing in energy trading for local energy systems with multiple prosumers to achieve sustainability of a microgrid. The study was implemented at the School of Renewable Energy and Smart Grid Technology (SGtech), Naresuan University, Thailand. The buildings were the microgrid prosumers and consumers in this study. The study showed that the brokering matching algorithm it developed can define which building can exchange and share electricity with which building. A building can then purchase or sell electricity based on a prioritization concept using a unit pricing calculation that is adaptive to maximizing the benefits to both the electricity prosumers and consumers. All participants (both buyers and sellers) can get significant equity value by reducing the electricity bills of consumers and increasing the income of the prosumers and producers. The study results indicated that P2P energy sharing as proposed in this study can reduce the electricity bills of consumers by 14%–16% and increase the total monthly income of suppliers by up to 65 %.

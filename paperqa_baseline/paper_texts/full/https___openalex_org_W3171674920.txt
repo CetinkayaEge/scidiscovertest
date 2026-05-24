@@ -1,0 +1,9 @@
+Title: Sustainability Requirements of Digital Twin-Based Systems: A Meta Systematic Literature Review
+Authors: Rui Carvalho, Alberto Rodrigues da Silva
+Year: 2021
+Venue: Applied Sciences
+DOI: https://doi.org/10.3390/app11125519
+Paper ID: https://openalex.org/W3171674920
+
+Abstract:
+Sustainable development was defined by the UN in 1987 as development that meets the needs of the present without compromising the ability of future generations to meet their own needs, and this is a core concept in this paper. This work acknowledges the three dimensions of sustainability, i.e., economic, social, and environmental, but its focus is on this last one. A digital twin (DT) is frequently described as a physical entity with a virtual counterpart, and the data, connections between the two, implying the existence of connectors and blocks for efficient and effective data communication. This paper provides a meta systematic literature review (SLR) (i.e., an SLR of SLRs) regarding the sustainability requirements of DT-based systems. Numerous papers on the subject of DT were also selected because they cited the analyzed SLRs and were considered relevant to the purposes of this research. From the selection and analysis of 29 papers, several limitations and challenges were identified: the perceived benefits of DTs are not clearly understood; DTs across the product life cycle or the DT life cycle are not sufficiently studied; it is not clear how DTs can contribute to reducing costs or supporting decision-making; technical implementation of DTs must be improved and better integrated in the context of the IoT; the level of fidelity of DTs is not entirely evaluated in terms of their parameters, accuracy, and level of abstraction; and the ownership of data stored within DTs should be better understood. Furthermore, from our research, it was not possible to find a paper discussing DTs only in regard to environmental sustainability.

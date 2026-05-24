@@ -1,0 +1,9 @@
+Title: A Tailored and Engaging mHealth Gamified Framework for Nutritional Behaviour Change
+Authors: Silvia Orte, Carolina Migliorelli, Laura Sistach-Bosch, Meritxell Gómez-Martínez, Noemi Boqué
+Year: 2023
+Venue: Nutrients
+DOI: 10.3390/nu15081950
+Paper ID: pmc_PMC10142076
+
+Abstract:
+Mobile health applications (apps) have been shown to be effective for improving eating habits. However, most of the existing apps rely on calorie and nutrient counting which have several limitations including the difficulty in sustaining long-term use, inaccuracy, and the risk of developing eating disorders. We designed and developed a mHealth framework for nutritional behaviour change, integrated into the CarpeDiem app, that focuses on the intake of key food groups which are known to have a higher impact on health indicators instead of the intake of nutrients. This framework is mainly based on a gamified system that delivers personalized dietary missions to the user and provides motivational recommendations that help the user to achieve these missions. Its design was guided by an evidenced-based theory of behavioural change, the HAPA model, and it is also characterized by the personalization of the system and the use of a recommender system based on advanced artificial intelligence techniques. Overall, the approach used in the present app could foster a sustained improvement of eating habits among the general population, which is the main challenge of dietary interventions, decreasing the risk of developing the chronic diseases associated with unhealthy dietary habits.

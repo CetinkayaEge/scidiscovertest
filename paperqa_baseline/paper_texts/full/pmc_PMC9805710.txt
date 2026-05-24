@@ -1,0 +1,9 @@
+Title: Risk Factors and Prognosis of Carbapenem-Resistant Organism Colonization and Infection in Acute Cholangitis
+Authors: Kaili Li, Sanle Jiang, Hongxue Fu, Yingting Hao, Shijing Tian, Fachun Zhou
+Year: 2022
+Venue: Infection and Drug Resistance
+DOI: 10.2147/IDR.S398581
+Paper ID: pmc_PMC9805710
+
+Abstract:
+Background To identify the risk factors and prognosis of carbapenem-resistant organisms (CRO) in patients with acute cholangitis. Methods This retrospective observational study was conducted to explore the risk factors and prognosis of CRO infection in 503 acute cholangitis patients diagnosed between July 2013 and January 2022 at the First Affiliated Hospital of Chongqing Medical University, who were divided into a CRO group and non-CRO group based on the presence or absence of CRO. Univariate, multivariate analyses, and the proportional hazards model were used to compare the risk factors and prognosis of CRO suffering in patients with acute cholangitis. Results We identified 35 patients colonized with CRO from 503 acute cholangitis patients. In the multivariate analysis, tumor (OR=7.09, 95% CI=1.11–45.30, P =0.038) and chronic kidney disease (OR=8.70, 95% CI=2.11–35.88, P =0.003) were ascertained as the risk factors of the occurrence on CRO infection under the background of acute cholangitis. CRO infection was identified as an independent risk factor for acute cholangitis patient death (HR=5.147, 95% CI=1.475–17.595, P =0.01) by Cox proportional-hazards regression. Conclusion Tumor and chronic kidney disease may be risk factors for CRO infection. Patients diagnosed with acute cholangitis further infected with CRO had a poor prognosis and a more severe mortality. Active screening for CRO is expected to facilitate early prevention, diagnosis, and treatment of high-risk patients.

@@ -1,0 +1,9 @@
+Title: Towards a Smart &amp; Sustainable Campus: An Application-Oriented Architecture to Streamline Digitization and Strengthen Sustainability in Academia
+Authors: Pedro Martins, Sérgio Ivan Lopes, António Miguel Rosado da Cruz, António Curado
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13063189
+Paper ID: https://openalex.org/W3136230089
+
+Abstract:
+The concept of the Internet of Things (IoT) has been a recurrent view of the physical technological environment, in the light of which it is expected that everyday artifacts are connected, enhancing the availability and ubiquity of “smart” services. Higher education institutions can be seen as a privileged ecosystem for the development of intelligent and smart solutions, due to its dynamic and everyday changing environment, which includes not only physical infrastructures, digital services, but also people, i.e., students, researchers, lecturers, and staff. This work introduces an Application-oriented Architecture-AoA that has been designed to streamline the design and development of “smart” solutions inside the campus, by focusing on the Application side and reshaping the concept of “service” to a piece of “functionality” with a clear and objective purpose, rather than the classic and conventional approach, more focused on the development or technical sides. The proposed approach provides the mechanism to have multiple applications interacting and sharing data and functionalities, ensuring coexistence between new and legacy systems that are in use on the campus, removing the major drawbacks that basic monolithic applications typically require. The generic AoA model is described and the procedure to create a new application is systematized. Lastly, three case studies (RnMonitor, Refill_H2O, and BiRa) are presented end elaborated using the AoA procedure designed to create a new application.

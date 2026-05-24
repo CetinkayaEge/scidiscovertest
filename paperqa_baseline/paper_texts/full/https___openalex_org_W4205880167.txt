@@ -1,0 +1,9 @@
+Title: Situated Scaffolding for Sustainable Participatory Design
+Authors: Kateřina Černá, Cláudia Müller, Dave Randall, Martin Hunker
+Year: 2022
+Venue: Proceedings of the ACM on Human-Computer Interaction
+DOI: https://doi.org/10.1145/3492831
+Paper ID: https://openalex.org/W4205880167
+
+Abstract:
+An extensive literature on participatory design with older adults has, thus far, little to say about the support older adults need when involved in online activities. Our research suggests that to empower older adults in participatory design, scaffolding work has to be done. Scaffolding interactions - creating temporary instructional support to help the learning of participants - is a common approach in participatory design. Yet, when applied in online participatory design with older adults, the traditional understanding of the concept does not match the way older adults' learn. Hence, we argue for a new understanding of this term, which we call situated scaffolding. We illustrate our argument with a case where older adults collaborate online as part of a participatory design project. We unpack the different dimensions of situated scaffolding and discuss how this novel understanding can be used to further inform sustainable participatory design for and with older adults.

@@ -1,0 +1,9 @@
+Title: Estimation of the mutation rate of Mycobacterium tuberculosis in cases with recurrent tuberculosis using whole genome sequencing
+Authors: Jessica Comín, Alberto Cebollada, María Carmen Malo, María José Iglesias, Daniel Ibarz, Jesús Viñuelas, Luis Torres, Juan Sahagún, María Carmen Lafoz, Felipe Esteban de Juanas, María Carmen Malo, Sofía Samper
+Year: 2022
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-21144-0
+Paper ID: pmc_PMC9537313
+
+Abstract:
+The study of tuberculosis latency is problematic due to the difficulty of isolating the bacteria in the dormancy state. Despite this, several in vivo approaches have been taken to mimic the latency process. Our group has studied the evolution of the bacteria in 18 cases of recurrent tuberculosis. We found that HIV positive patients develop recurrent tuberculosis earlier, generally in the first two years ( p value = 0.041). The genome of the 36 Mycobacterium tuberculosis paired isolates (first and relapsed isolates) showed that none of the SNPs found within each pair was observed more than once, indicating that they were not directly related to the recurrence process. Moreover, some IS 6110 movements were found in the paired isolates, indicating the presence of different clones within the patient. Finally, our results suggest that the mutation rate remains constant during all the period as no correlation was found between the number of SNPs and the time to relapse.

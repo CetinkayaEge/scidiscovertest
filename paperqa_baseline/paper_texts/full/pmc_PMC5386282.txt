@@ -1,0 +1,9 @@
+Title: Transcriptomic variation of eyestalk reveals the genes and biological processes associated with molting in Portunus trituberculatus
+Authors: Jianjian Lv, Longtao Zhang, Ping Liu, Jian Li
+Year: 2017
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0175315
+Paper ID: pmc_PMC5386282
+
+Abstract:
+Background Molting is an essential biological process throughout the life history of crustaceans, which is regulated by many neuropeptide hormones expressed in the eyestalk. To better understand the molting mechanism in Portunus trituberculatus , we used digital gene expression (DGE) to analyze single eyestalk samples during the molting cycle by high-throughput sequencing. Results We obtained 14,387,942, 12,631,508 and 13,060,062 clean sequence reads from inter-molt (InM), pre-molt (PrM) and post-molt (PoM) cDNA libraries, respectively. A total of 1,394 molt-related differentially expressed genes (DEGs) were identified. GO and KEGG enrichment analysis identified some important processes and pathways with key roles in molting regulation, such as chitin metabolism, peptidase inhibitor activity, and the ribosome. We first observed a pattern associated with the neuromodulator-related pathways during the molting cycle, which were up-regulated in PrM and down-regulated in PoM. Four categories of important molting-related transcripts were clustered and most of them had similar expression patterns, which suggests that there is a connection between these genes throughout the molt cycle. Conclusion Our work is the first molt-related investigation of P . trituberculatus focusing on the eyestalk at the whole transcriptome level. Together, our results, including DEGs, identification of molting-related biological processes and pathways, and observed expression patterns of important genes, provide a novel insight into the function of the eyestalk in molting regulation.

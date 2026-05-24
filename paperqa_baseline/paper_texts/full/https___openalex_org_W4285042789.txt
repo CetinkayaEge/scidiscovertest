@@ -1,0 +1,9 @@
+Title: Review on Catalytic Biomass Gasification for Hydrogen Production as a Sustainable Energy Form and Social, Technological, Economic, Environmental, and Political Analysis of Catalysts
+Authors: Fikret Müge Alptekin, Melih Soner Çeliktaş
+Year: 2022
+Venue: ACS Omega
+DOI: https://doi.org/10.1021/acsomega.2c01538
+Paper ID: https://openalex.org/W4285042789
+
+Abstract:
+Sustainable energy production is a worldwide concern due to the adverse effects and limited availability of fossil fuels, requiring the development of suitable environmentally friendly alternatives. Hydrogen is considered a sustainable future energy source owing to its unique properties as a clean and nontoxic fuel with high energy yield and abundance. Hydrogen can be produced through renewable and nonrenewable sources where the production method and feedstock used are indicators of whether they are carbon-neutral or not. Biomass is one of the renewable hydrogen sources that is also available in large quantities and can be used in different conversion methods to produce fuel, heat, chemicals, etc. Biomass gasification is a promising technology to generate carbon-neutral hydrogen. However, tar production during this process is the biggest obstacle limiting hydrogen production and commercialization of biomass gasification technology. This review focuses on hydrogen production through catalytic biomass gasification. The effect of different catalysts to enhance hydrogen production is reviewed, and social, technological, economic, environmental, and political (STEEP) analysis of catalysts is carried out to demonstrate challenges in the field and the development of catalysts.

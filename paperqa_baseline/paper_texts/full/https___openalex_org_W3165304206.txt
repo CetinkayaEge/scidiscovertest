@@ -1,0 +1,9 @@
+Title: Sustainable laser-based technology for insect pest control
+Authors: R. Gaetani, Virginie Lacotte, Vincent Dufour, Alexandre Clavel, Gabrielle Duport, Karen Gaget, Federica Calevro, P. Da Silva, Abdelaziz Heddi, D. Vincent, Bruno Masenelli
+Year: 2021
+Venue: Scientific Reports
+DOI: https://doi.org/10.1038/s41598-021-90782-7
+Paper ID: https://openalex.org/W3165304206
+
+Abstract:
+Aphids damage directly or indirectly cultures by feeding and spreading diseases, leading to huge economical losses. So far, only the use of pesticides can mitigate their impact, causing severe health and environmental issues. Hence, innovative eco-friendly and low-cost solutions must be promoted apart from chemical control. Here, we have investigated the use of laser radiation as a reliable solution. We have analyzed the lethal dose required to kill 90% of a population for two major pest aphid species (Acyrthosiphon pisum and Rhopalosiphum padi). We showed that irradiating insects at an early stage (one-day old nymph) is crucial to lower the lethal dose without affecting plant growth and health. The laser is mostly lethal, but it can also cause insect stunting and a reduction of survivors' fecundity. Nevertheless, we did not notice any significant visible effect on the offspring of the surviving irradiated generation. The estimated energy cost and the harmless effect of laser radiation on host plants show that this physics-based strategy can be a promising alternative to chemical pesticides.

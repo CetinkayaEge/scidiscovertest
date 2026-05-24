@@ -1,0 +1,9 @@
+Title: Cultural Heritage Tourism and Sustainability: A Bibliometric Analysis
+Authors: Recep Murat GEÇİKLİ, Orhan Turan, Lenka Lachytová, Erkan DAĞLI, Murad Alpaslan Kasalak, Sinem Burcu Uğur, Yiğit Güven
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16156424
+Paper ID: https://openalex.org/W4401015194
+
+Abstract:
+Cultural heritage tourism is a very important issue for the cultural transfer and sustainability of tourism. In parallel, cultural heritage tourism in the context of sustainability has become a popular field that has attracted the attention of researchers in recent years. Therefore, this study aims to analyze international publications on the relationship between cultural heritage tourism and sustainability, identifying trends in development and future research opportunities. Based on this purpose, 657 related studies have been found in the Web of Science database and analyzed in the Bibliometrix R package to map and systematically review the literature. By focusing specifically on the relationship between cultural heritage and sustainability, this study fills a gap in the existing literature, which often handles these issues separately. In addition, the research results contain valuable information that can shape future research agendas.

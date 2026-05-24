@@ -1,0 +1,9 @@
+Title: Policy assessments for the carbon emission flows and sustainability of Bitcoin blockchain operation in China
+Authors: Shangrong Jiang, Yuze Li, Quanying Lu, Yongmiao Hong, Dabo Guan, Yu Xiong, Shouyang Wang
+Year: 2021
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-021-22256-3
+Paper ID: https://openalex.org/W3113656055
+
+Abstract:
+The growing energy consumption and associated carbon emission of Bitcoin mining could potentially undermine global sustainable efforts. By investigating carbon emission flows of Bitcoin blockchain operation in China with a simulation-based Bitcoin blockchain carbon emission model, we find that without any policy interventions, the annual energy consumption of the Bitcoin blockchain in China is expected to peak in 2024 at 296.59 Twh and generate 130.50 million metric tons of carbon emission correspondingly. Internationally, this emission output would exceed the total annualized greenhouse gas emission output of the Czech Republic and Qatar. Domestically, it ranks in the top 10 among 182 cities and 42 industrial sectors in China. In this work, we show that moving away from the current punitive carbon tax policy to a site regulation policy which induces changes in the energy consumption structure of the mining activities is more effective in limiting carbon emission of Bitcoin blockchain operation.

@@ -1,0 +1,9 @@
+Title: Sustainable Determinants Influencing Habit Formation among Mobile Short-Video Platform Users
+Authors: Yongrok Choi, Hua Wen, Ming Chen, Fan Yang
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13063216
+Paper ID: https://openalex.org/W3138367460
+
+Abstract:
+Interest in mobile short-video platforms (MSVP) as a new social network service tool has surged in recent years. However, only a few studies have focused on MSVP users’ post-acceptance behavior. To clarify this issue of sustainable usage, this study analyzed users’ post-acceptance habit formation by incorporating perceived interactivity and perceived enjoyment into the expectation-confirmation theory of the information system continuance (ECT-IS) model using structural equation modelling. We developed and distributed an online questionnaire and collected 219 valid responses from Chinese MSVP users. Our results show that satisfaction is the foremost factor in determining users’ habit formation as it completely mediates the influence of confirmation and perceived interactivity. We also show that perceived enjoyment positively influences habit formation directly and indirectly. Nonetheless, we note that sustainable usage should form the basis of continuous satisfaction from user experience due to a few missing links with regard to modulation in habitual usage. Therefore, we suggest that MSVPs should enhance their content recommendation algorithms using technologies such as deep-learning forecasting to improve users’ satisfaction by increasing perceived enjoyment. We also show that the influence of perceived interactivity on habit formation is effective only when fully mediated by satisfaction. Thus, we recommend that MSVPs should diversify their interaction mechanisms, for instance, by introducing mass creators that promote users’ habit formation by enhancing their satisfaction on the platform.

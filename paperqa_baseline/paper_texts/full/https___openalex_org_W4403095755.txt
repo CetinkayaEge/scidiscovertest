@@ -1,0 +1,9 @@
+Title: Advancing Green Energy Integration in Power Systems for Enhanced Sustainability: A Review
+Authors: Mohsin Khalil, Shahzad Amin Sheikh
+Year: 2024
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2024.3472843
+Paper ID: https://openalex.org/W4403095755
+
+Abstract:
+The increasing integration of Renewable Energy Sources (RESs) into power systems exhibits unique challenges due to their inherent variability and the complexity of grid integration. This paper presents a comprehensive review and proposes an detailed foundational blueprint for the seamless integration of RESs into modern power networks. The framework leverages advanced energy storage mechanisms, optimization algorithms and control strategies to enhance the stability, efficiency and scalability of power systems incorporating RESs. By applying state-of-the-art artificial intelligence and machine learning techniques, the proposed approach offers tailored solutions for diverse applications, ranging from residential smart homes to large-scale industrial systems and smart grids in urban environments. Extensive analysis of current research, implementation case studies and comparative assessments are provided to guide the development of resilient, cost-effective and sustainable energy systems. The paper also addresses critical open issues and outlines future research directions to further advance the integration of RESs. In this context, this work serves as a cornerstone for policymakers, engineers and researchers aiming to bridge the gap between theoretical advancements of technology-driven era and real-world energy solutions.

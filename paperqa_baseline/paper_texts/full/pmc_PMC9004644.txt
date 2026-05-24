@@ -1,0 +1,9 @@
+Title: Integrated Genome Browser App Store
+Authors: Sameer Shanbhag, Riddhi Patil, Noor Zahara, Chirag Shetty, Rachel Weidenhammer, Sneha Watharkar, Pranav Tambvekar, Philip P Badzuh, Chester Dias, Narendra Vankayala, Prutha Kulkarni, Charan Vallapureddy, Shamika Kulkarni, Pooja Nikhare, Nowlan H Freese, Ann E Loraine
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btac109
+Paper ID: pmc_PMC9004644
+
+Abstract:
+Abstract Summary Rapid progress in genome science requires equally rapid visualization software development so that researchers can better explore and understand novel datasets. To make developing new visualizations faster and easier, we previously re-factored the Integrated Genome Browser (IGB), a desktop Java application with dozens of features, into a pluggable application framework that can accept new functionality as plug-ins, called IGB Apps. However, developers lacked a centralized location for sharing Apps, making it hard to connect with potential users. To fill this gap, we created an App Store for IGB, a user-friendly Web site for developers to release and document Apps, and for users to find them. Availability and implementation The IGB App Store is available from https://bioviz.org .

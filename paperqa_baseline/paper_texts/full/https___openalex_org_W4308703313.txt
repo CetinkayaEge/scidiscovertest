@@ -1,0 +1,9 @@
+Title: A Hybrid OPA and Fuzzy MARCOS Methodology for Sustainable Supplier Selection with Technology 4.0 Evaluation
+Authors: Chia‐Nan Wang, Thi Thanh Tam Nguyen, Thanh‐Tuan Dang, Ngoc-Ai-Thy Nguyen
+Year: 2022
+Venue: Processes
+DOI: https://doi.org/10.3390/pr10112351
+Paper ID: https://openalex.org/W4308703313
+
+Abstract:
+The concern of sustainable supplier selection has been raised recently in organizations’ decision making to enhance their competitiveness. Many tools have been developed to support supplier evaluation, yet the factors of Industry 4.0 (I4.0) have been ignored despite their impact on sustainable performance. Hence, this paper aims to include the technology of I4.0 as the criteria to evaluate the competence of suppliers in sustainability. Multiple-criteria decision making (MCDM) has been used to build decision-making systems; thus, this study employed two advanced methods of MCDM, the ordinal priority approach (OPA) and measurement of alternatives and ranking according to compromise solution (MARCOS) in a fuzzy environment. To test the feasibility of the proposal, five manufacturers of Vietnam’s leather and footwear industry were hypothetically assigned. Firstly, the evaluation criteria were weighted by OPA. Then, the ranking of alternatives was determined by fuzzy MARCOS. The results show that “green image”, “green product innovation”, “cloud computing”, “service level”, and “blockchain” are the topmost significant criteria in evaluating sustainable practices in the supply chain from the I4.0 perspective. Furthermore, sensitivity and comparison analyses were carried out to verify the robustness of the methodology. The outcomes of this paper contribute a new model of decision making with respect to the involvement of sustainability and I4.0.

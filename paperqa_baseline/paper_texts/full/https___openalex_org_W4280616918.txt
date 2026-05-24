@@ -1,0 +1,9 @@
+Title: Sustainability and Human Development Indicators: A Poset Analysis
+Authors: Flávio Comim, Tadashi Hirai
+Year: 2022
+Venue: Ecological Economics
+DOI: https://doi.org/10.1016/j.ecolecon.2022.107470
+Paper ID: https://openalex.org/W4280616918
+
+Abstract:
+The paper introduces the methodology of partially ordered sets to evaluate sustainable human development indicators. It shows its importance to the integration of human and environmental indicators, clarifying the limitations of composite indicators and emphasising the need to move towards higher levels of conceptual consistency and solid informational pluralism, incorporating richer social and environmental spaces towards an analytical structure that avoids subjective, arbitrary and potential obscure choices of variables in the analysis of sustainable human development. The paper uses Hasse diagrams and sensitivity analyses to evaluate the evidence offered by the new pressure-adjusted human development index (PHDI). The results indicate that the introduction of CO2 and material pressure indicators produce an excessive number of incomparabilities and affect the role of GNIpc in the determination of countries' partial rankings.

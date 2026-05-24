@@ -1,0 +1,9 @@
+Title: Electrochemical Sensors for Sustainable Precision Agriculture—A Review
+Authors: Min-Yeong Kim, Kyu Hwan Lee
+Year: 2022
+Venue: Frontiers in Chemistry
+DOI: https://doi.org/10.3389/fchem.2022.848320
+Paper ID: https://openalex.org/W4229375571
+
+Abstract:
+Greenhouse gases released by agriculture account for 19% of global greenhouse gas emission. Moreover, the abuse of pesticides and fertilizers is a fundamental cause of soil and water pollution. Finding sustainable countermeasures for these problems requires completely new approaches and the integration of knowledge. Precision agriculture (PA) is a technology that reduces environmental pollution with minimal input (e.g., fertilizer, herbicides, and pesticides) and maximize the production of high-quality crops by monitoring the conditions and environment of farmland and crops. However, the lack of data-a key technology for realizing PA-remains a major obstacle to the large-scale adoption of PA. Herein, we discuss important research issues, such as data managements and analysis for accurate decision-making, and specific data acquisition strategies. Moreover, we systematically review and discuss electrochemical sensors, including sensors that monitor the plant, soil, and environmental conditions that directly affect plant growth.

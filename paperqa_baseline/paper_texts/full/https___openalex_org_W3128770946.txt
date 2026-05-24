@@ -1,0 +1,9 @@
+Title: Self-Sustainable Reconfigurable Intelligent Surface Aided Simultaneous Terahertz Information and Power Transfer (STIPT)
+Authors: Yijin Pan, Kezhi Wang, Cunhua Pan, Huiling Zhu, Jiangzhou Wang
+Year: 2022
+Venue: IEEE Transactions on Wireless Communications
+DOI: https://doi.org/10.1109/twc.2022.3140268
+Paper ID: https://openalex.org/W3128770946
+
+Abstract:
+This paper proposes a new simultaneous terahertz (THz) information and power transfer (STIPT) system, which utilizes a reconfigurable intelligent surface (RIS) for both the data and power transmission. We aim to maximize the information users’ (IUs’) sum data rate while guaranteeing the power harvesting requirements of energy users (EUs) and RIS. To solve the formulated non-convex problem, the block coordinate descent (BCD) based algorithm is adopted to alternately optimize the transmit precoding of IUs, RIS’s reflecting coefficients, and the position of RIS. Additionally, the penalty constrained convex approximation (PCCA) algorithm is proposed to optimize the deployment of the RIS, where the introduced penalties ensure that the solution is always feasible. The simulation results show that the proposed solution outperforms the benchmark schemes, and the proposed BCD algorithm can greatly improve the performance of the STIPT system.

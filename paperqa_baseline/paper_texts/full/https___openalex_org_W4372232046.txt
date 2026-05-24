@@ -1,0 +1,9 @@
+Title: A review of cobalt-based catalysts for sustainable energy and environmental applications
+Authors: Suraj Gupta, R. Fernandes, Rupali Patel, Matjaž Spreitzer, N. Patel
+Year: 2023
+Venue: Applied Catalysis A General
+DOI: https://doi.org/10.1016/j.apcata.2023.119254
+Paper ID: https://openalex.org/W4372232046
+
+Abstract:
+In a bid to tackle the degrading climate conditions, the new age research in catalysis is predominantly focused on sustainable technologies associated with renewable energy conversion and environment purification. One of the primary motivations for the research in catalysis is the use of low-cost, earth-abundant materials that can fulfill the scale-up needs of respective technologies. Cobalt (Co) based catalysts have been an indispensable part of almost all areas of catalysis and they are often looked at as low-cost substitutes for precious metal-based catalysts. In the context of energy and environmental applications, Co-based catalysts are more commonly used for reactions such as hydrogen evolution reaction (HER), oxygen evolution reaction (OER), hydrolysis of chemical hydrides, CO2 reduction reaction (CO2RR) and advanced oxidation processes (AOPs). Co-based catalysts are interesting compounds as Co plays a diverse role in facilitating different reactions. This review provides a brief account of the significance of Co-based catalysts and elaborates their advancement in each of the above-mentioned applications and presents future research directions with the use of Co-based catalysts. An in-depth analysis to gain a deeper understanding of the Co-based systems is highly desired to promote breakthroughs in catalysis.

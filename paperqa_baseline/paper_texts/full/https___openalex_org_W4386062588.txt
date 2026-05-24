@@ -1,0 +1,9 @@
+Title: Are technological innovations and green energy prosperity swiftly reduce environmental deficit in China and United States? Learning from two sides of environmental sustainability
+Authors: Najia Saqib, Muhammad Usman
+Year: 2023
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2023.08.022
+Paper ID: https://openalex.org/W4386062588
+
+Abstract:
+This study aims to investigate the nexus between green growth, technological innovation, energy policy stringency, renewable energy, and carbon net-zero emission targets with a special emphasis on the world’s two largest pollution emitter economies, (i.e., the United States and China). For this reason, quarterly data on all relevant variables were collected from 2012Q1–2020Q4. Because of its various benefits, including displaying causation patterns based on shifting quantiles of variables like green growth, technical innovation, environmental policy stringency, and renewable energy, this study employed the quantile autoregressive distributed lag (QARDL) method. Using the Quantile-ARDL method, this study determined that the error correction coefficient was strongly and negatively correlated across all quantiles. Green growth, as well as technological innovation, and environmental policy stringency, has a significant and negative effect on long-term predictions of carbon dioxide emissions for both in the United States and China. Furthermore, the causality test demonstrated that a bidirectional causal relationship among carbon emissions, green growth, technological innovation, energy policy stringency, and renewable energy. Based on these estimated findings, this study recomends various policy suggestions to achieve the number of Sustainable Development Goals (SDGs).

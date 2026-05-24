@@ -1,0 +1,9 @@
+Title: Sustainable ammonia synthesis: An in-depth review of non-thermal plasma technologies
+Authors: Vahid Shahed Gharahshiran, Ying Zheng
+Year: 2024
+Venue: Journal of Energy Chemistry
+DOI: https://doi.org/10.1016/j.jechem.2024.04.018
+Paper ID: https://openalex.org/W4395114137
+
+Abstract:
+This comprehensive review highlights the advancements in catalyst development, reactor design, and reaction optimization for sustainable ammonia production through non-thermal plasma technologies. Ammonia serves both as a widely used fertilizer and environmentally friendly energy source due to its high energy density, rich hydrogen content, and emissions-free combustion. Additionally, it offers convenient transportation and storage as a hydrogen carrier. The dominant method used for large-scale ammonia production is the Haber-Bosch process, which requires high temperatures and pressures and is energy-intensive. However, non-thermal plasma offers an eco-friendly alternative for ammonia synthesis, gaining significant attention. It enables ammonia production at lower temperatures and pressures using plasma technology. This review provides insights into the catalyst and reactor developments, which are pivotal for promoting ammonia efficiency and addressing existing challenges. At first, the reaction kinetics and mechanisms are introduced to gain a comprehensive understanding of the reaction pathways involved in plasma-assisted ammonia synthesis. Thereafter, the enhancement of ammonia synthesis efficiency is discussed by developing and optimizing plasma reactors and effective catalysts. The effect of other feeding sources, such as water and methane, instead of hydrogen is also presented. Finally, the challenges and possible solutions are outlined to facilitate energy-saving and enhance ammonia efficiency in the future.

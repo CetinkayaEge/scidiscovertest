@@ -1,0 +1,9 @@
+Title: A Representative Percentile Chart for Prediction of Weight Loss Trend after Sleeve Gastrectomy
+Authors: Somayeh Mokhber, Ali Sheidaei, Farnaz Farsi, Seyed Amin Setarehdan, Mohammad Ali Mansournia, Masoud Solaymani-Dodaran, Ali Kabir, Mohammad Reza Abdolhosseini, Abdolreza Pazouki
+Year: 2023
+Venue: Obesity Facts
+DOI: 10.1159/000527721
+Paper ID: pmc_PMC9889720
+
+Abstract:
+Introduction It could be valuable for surgeons and patients to use one chart in different groups and evaluate weight loss during the post-surgery period. Methods This retrospective study used the Iran National Obesity Surgery Database. Patients with clinically severe obesity aged 18–70 undergoing sleeve gastrectomy participated in this study. Body mass index (BMI) reduction and 5 other metrics measured over the study period were modeled using lambda-mu-sigma method. Our data were split into the train (70%) and test (30%) sets. Results In this study, 1,258 patients (75% female) met the eligibility criteria to participate. Mean age and initial BMI were 36.87 ± 10.51 and 42.74 (40.37–46.36), respectively. Percentile charts for various metrics have been presented for the first 2 years after surgery. Conclusions For sleeve surgery, all metrics are acceptable for clinical applications. Using the statistical view, BMI reduction is the most acceptable metric according to the lowest bias values and its variation between all the metrics.

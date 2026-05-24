@@ -1,0 +1,9 @@
+Title: Stretchable Strain Sensor with Small but Sufficient Adhesion to Skin
+Authors: Takaaki Nishikawa, Hisaya Yamane, Naoji Matsuhisa, Norihisa Miki
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23041774
+Paper ID: pmc_PMC9967902
+
+Abstract:
+Stretchable strain sensors that use a liquid metal (eutectic gallium–indium alloy; E-GaIn) and flexible silicone rubber (Ecoflex) as the support and adhesive layers, respectively, are demonstrated. The flexibility of Ecoflex and the deformability of E-GaIn enable the sensors to be stretched by 100%. Ecoflex gel has sufficiently large adhesion force to skin, even though the adhesion force is smaller than that for commercially available adhesives. This enables the sensor to be used for non-invasive monitoring of human motion. The mechanical and electrical properties of the sensor are experimentally evaluated. The effectiveness of the proposed sensors is demonstrated by monitoring joint movements, facial expressions, and respiration.

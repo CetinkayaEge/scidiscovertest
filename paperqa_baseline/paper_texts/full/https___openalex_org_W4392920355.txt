@@ -1,0 +1,9 @@
+Title: Smart and Sustainable Wireless Electric Vehicle Charging Strategy with Renewable Energy and Internet of Things Integration
+Authors: Sheeraz Iqbal, Nahar F. Alshammari, Mokhtar Shouran, Jabir Massoud
+Year: 2024
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su16062487
+Paper ID: https://openalex.org/W4392920355
+
+Abstract:
+This study addresses the challenges associated with electric vehicle (EV) charging in office environments. These challenges include (1) reliance on manual cable connections, (2) constrained charging options, (3) safety concerns with cable management, and (4) the lack of dynamic charging capabilities. This research focuses on an innovative wireless power transfer (WPT) system specifically designed for use in office parking areas. This system incorporates renewable energy resources (RERs) and uses the transformative power of the Internet of Things (IoT). It employs a mix of solar energy systems and battery storage solutions to facilitate a sustainable and efficient energy supply to EVs. The integration of IoT technology allows for the automatic initiation of charging as soon as an EV is parked. Additionally, the implementation of the Blynk application offers users real-time access to information regarding the operational status of the photovoltaic system and the battery levels of their EVs. The system is further enhanced with IoT and RFID technologies to provide dynamic updates on the availability of charging slots and to implement strict security protocols for user authentication and protection. The research also includes a case study focusing on the application of this charging system in office settings. The case study achieves a 95.9% IRR, lower NPC of USD 1.52 million, and 56.7% power contribution by RERs, and it reduces annual carbon emissions to 173,956 kg CO2.

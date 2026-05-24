@@ -1,0 +1,9 @@
+Title: Azacyclic Anchor‐Enabled Cohesive Graphite Electrodes for Sustainable Anion Storage
+Authors: Jieun Kang, Seungho Lee, Jinwoo Hwang, Sungho Kim, Sangyeop Lee, Seokkeun Yoo, Jeong Woo Han, Ja‐Hyoung Ryu, Jaegeon Ryu, Soojin Park
+Year: 2023
+Venue: Advanced Materials
+DOI: https://doi.org/10.1002/adma.202306157
+Paper ID: https://openalex.org/W4386316270
+
+Abstract:
+Advanced energy-storage devices are indispensable for expanding electric mobility applications. While anion intercalation-type redox chemistry in graphite cathodes has opened the path to high-energy-density batteries, surpassing the limited energy density of conventional lithium-ion batteries , a significant challenge remains: the large volume expansion of graphite upon anion intercalation. In this study, a novel polymeric binder and cohesive graphite cathode design for dual-ion batteries (DIBs) is presented, which exhibits remarkable stability even under high voltage conditions (>5 V). The innovative binder incorporates an acrylate moiety ensuring superior oxidative stability and self-healing features, along with an azide moiety, which allows for azacyclic covalent bonding with graphite and interchain crosslinking. A simple 1-h ultraviolet treatment is sufficient for binder fixation within the electrode, leading to the covalent bond formation with graphite and the creation of a robust three-dimensional network. This modification facilitates deeper and more reversible anion intercalation, leading to improved capacity, extended lifespan, and sustainable anion storage. The binder design, exhibiting exceptional adhesive properties and effective stress mitigation, enables the construction of ultrathick graphite cathodes. These findings provide valuable insights for the development of advanced binders, paving the way for high-performance DIBs.

@@ -1,0 +1,9 @@
+Title: Evaluating sustainable municipal solid waste management scenarios: A multicriteria decision making approach
+Authors: M.A. Mujtaba, A Munir, Shahid Imran, Muhammad Kamran Nasir, M Ghulam Muhayyuddin, Abdullah Javed, Amjad Mehmood, Mohamed A. Habila, H. Fayaz, Atika Qazi
+Year: 2024
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2024.e25788
+Paper ID: https://openalex.org/W4391715760
+
+Abstract:
+Abstract Due to increasing urbanization and population growth, municipal solid waste management (MSWM) is a significant environmental concern in developing countries. Inadequate waste management systems lead to environmental pollution, health hazards, and economic losses. While considering the challenges and limitations, policymakers and authorities need to opt for such waste management scenarios that are environmentally friendly and resolve energy issues. Ten MSWM scenarios were developed and evaluated using seven different criteria. Four multi-criteria decision-making (MCDM) techniques, namely fuzzy logic, AHP, TOPSIS, and PROMETHEE II, were employed to rank the scenarios and identify the most appropriate option for solid waste management in Lahore. This study highlights that the optimal waste management approach comprises a composition of 54% anaerobic digestion, 37% gasification, and 9% landfill technologies. These percentages collectively represent the most suitable and effective strategies for the city's waste management needs. All the MCDM techniques consistently produce similar results. These scenarios have broader applicability across cities in Central Asia and beyond. The study's findings are aligned to promote sustainable and environmentally friendly MSWM practices. These findings endorse implementing strategies and measures aimed at fostering environmental sustainability and the responsible handling of waste, serving as a valuable reference for various regions.

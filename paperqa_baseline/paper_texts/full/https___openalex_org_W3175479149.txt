@@ -1,0 +1,9 @@
+Title: Big Data Analytics in Sustainable Supply Chain Management: A Focus on Manufacturing Supply Chains
+Authors: Joash Mageto
+Year: 2021
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su13137101
+Paper ID: https://openalex.org/W3175479149
+
+Abstract:
+Sustainable supply chain management has been an important research issue for the last two decades due to climate change. From a global perspective, the United Nations have introduced sustainable development goals, which point towards sustainability. Manufacturing supply chains are among those that produce harmful effluents into the environment in addition to social issues that impact societies and economies where they operate. New developments in information and communication technologies, especially big data analytics (BDA), can help create new insights that can detect parts and members of a supply chain whose activities are unsustainable and take corrective action. While many studies have addressed sustainable supply chain management (SSCM), studies on the effect of BDA on SSCM in the context of manufacturing supply chains are limited. This conceptual paper applies Toulmin’s argumentation model to review relevant literature and draw conclusions. The study identifies the elements of big data analytics as data processing, analytics, reporting, integration, security and economic. The aspects of sustainable SCM are transparency, sustainability culture, corporate goals and risk management. It is established that BDA enhances SSCM of manufacturing supply chains. Cyberattacks and information technology skills gap are some of the challenges impeding BDA implementation. The paper makes a conceptual and methodological contribution to supply chain management literature by linking big data analytics and SSCM in manufacturing supply chains by using the rarely used Toulmin’s argumentation model in management studies.

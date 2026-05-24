@@ -1,0 +1,9 @@
+Title: Optimizing green and gray infrastructure planning for sustainable urban development
+Authors: Janneke van Oorschot, Mike Slootweg, Roy P. Remme, Benjamin Sprecher, Ester van der Voet
+Year: 2024
+Venue: npj Urban Sustainability
+DOI: https://doi.org/10.1038/s42949-024-00178-5
+Paper ID: https://openalex.org/W4401281510
+
+Abstract:
+Abstract The anticipated increase in urban population of 2.5 billion people by 2050 poses significant environmental challenges. While the various environmental impacts of urbanisation have been studied individually, integrated approaches are rare. This study introduces a spatially explicit model to assess urbanization’s effects on ecosystem services (green infrastructure availability, cooling, stormwater retention) and the environmental impact of building construction (material demand, greenhouse gas emissions, land use). Applied to the Netherlands from 2018 to 2050, our results show that integrating green infrastructure development with building construction could increase green areas by up to 5% and stabilize or increase ecosystem service provisioning. Dense building construction with green infrastructure development is generally more beneficial across the Netherlands, reducing resource use and enhancing ecosystem services. Conversely, sparse construction with green infrastructure is more advantageous for newly built areas. These findings offer insights into the environmental consequences of urbanization, guiding sustainable urban planning practices.

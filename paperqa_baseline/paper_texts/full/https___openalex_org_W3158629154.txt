@@ -1,0 +1,9 @@
+Title: Techno-economic assessment and sustainability impact of hybrid energy systems in Gilgit-Baltistan, Pakistan
+Authors: Mazhar Ali, Rashid Wazir, Kashif Imran, Kafait Ullah, Abdul Kashif Janjua, Abasin Ulasyar, Abraiz Khattak, Josep M. Guerrero
+Year: 2021
+Venue: Energy Reports
+DOI: https://doi.org/10.1016/j.egyr.2021.04.036
+Paper ID: https://openalex.org/W3158629154
+
+Abstract:
+Remote electrification remains a critical issue for the Gilgit Batistan region of Pakistan, where most of the population lives without access to the national grid and mostly relies on traditional energy resources, which undermines the huge potential of renewable energy in the region. This paper addresses the energy access issue of 1.8 million people of Gilgit-Baltistan (GB), of which 86% reside in the rural areas. To resolve the problem of energy access in the region, this paper analyzes cost-effective solutions based on renewable energy resources and proposes suitable hybrid systems for 14 independent sites. For this purpose, available energy resources and regional demands have been assessed to present the optimized hybrid energy systems for the identified sites. Hybrid optimization model for multiple energy resources is designed to carry out the techno-economic feasibility analysis. Moreover, equivalent forest absorbing CO2, glacier mass loss, and social cost have been evaluated. Results show that the combination of wind and hydro with battery backup gives the most optimum cost of energy (COE) ranging between 0.0470–0.0968 $/kWh. Similarly, 8349 acres of forest are needed to absorb the annual CO2 emissions. As 0.58 million tons of glacier, and 0.882 million $/year social cost of carbon (SCC) can be lost due to emissions of fossil fuel-based generation. To ameliorate from such adverse effects, a community-based hybrid system may provide clean and green energy to increase energy access across Gilgit-Baltistan.

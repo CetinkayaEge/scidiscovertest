@@ -1,0 +1,9 @@
+Title: Branched-chain amino acid catabolism breaks glutamine addiction to sustain hepatocellular carcinoma progression
+Authors: Dongdong Yang, Haiying Liu, Yongping Cai, Kangyang Lu, Xiuying Zhong, Songge Xing, Wei Song, Yaping Zhang, Ling Ye, Xia Zhu, Ting Wang, Pinggen Zhang, Shiting Li, Jiaqian Feng, Weidong Jia, Huafeng Zhang, Ping Gao
+Year: 2022
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2022.111691
+Paper ID: https://openalex.org/W4309679222
+
+Abstract:
+Branched-chain amino acid (BCAA) catabolism is related to tumorigenesis. However, the underlying mechanism and specific contexts in which BCAAs affect tumor progression remain unclear. Here, we demonstrate that BCAA catabolism is activated in liver cancer cells without glutamine. Enhanced BCAA catabolism leads to BCAA-derived carbon and nitrogen flow toward nucleotide synthesis, stimulating cell-cycle progression and promoting cell survival. Mechanistically, O-GlcNAcylation increases under glutamine-deprivation conditions and stabilizes the PPM1K protein, leading to dephosphorylation of BCKDHA and enhanced decomposition of BCAAs. Dephosphorylation of BCKDHA and high expression of PPM1K promote tumorigenesis in vitro and in vivo and are closely related to the poor prognosis of clinical patients with hepatocellular carcinoma (HCC). Inhibition of BCAA and glutamine metabolism can further retard HCC growth in vivo. These results not only elucidate a mechanism by which BCAA catabolism affects tumorigenesis but also identify pBCKDHA and PPM1K as potential therapeutic targets and predictive biomarkers.

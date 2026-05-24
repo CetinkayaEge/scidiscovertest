@@ -1,0 +1,9 @@
+Title: Blockchain adoption for sustainable development in developing countries: Challenges and opportunities in the banking sector
+Authors: Hisham O. Mbaidin, Mohammad A.K. Alsmairat, Raid Al-Adaileh
+Year: 2023
+Venue: International Journal of Information Management Data Insights
+DOI: https://doi.org/10.1016/j.jjimei.2023.100199
+Paper ID: https://openalex.org/W4386804420
+
+Abstract:
+Blockchain technology has been gaining relevance in every walk of life. Keeping this relevance in the banking sector, the current study aims to synthesize the body of knowledge on blockchain adoption for sustainability in developing countries while encapsulating challenges and opportunities using a systematic literature review. It offers a review of scholarly published articles published between 2010 and 2022 in EBSCO, Web of Science, Scopus, and Google Scholar databases. The findings of the study revealed that scalability, the lack of operability among the blockchain service providers, and the absence of favorable regulatory laws and generally accepted rules were the major hurdles in the way of blockchain adoption in developing countries. Implantation of smart contracts, risk management, risk mitigation and faster payment are the opportunities for the banking sectors of developing countries to increase trust and transparency in their financial systems as well as formalization of their economy. However, the studies concluded that upon the adoption of blockchain technologies, there will be ease in financial transactions and transfers of money for financial institutions. Other challenges highlighted by the studies included threats of cybercrimes and privacy breaches.

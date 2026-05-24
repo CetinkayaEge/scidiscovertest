@@ -1,0 +1,9 @@
+Title: Voice Over Body? Older Adults’ Reactions to Robot and Voice Assistant Facilitators of Group Conversation
+Authors: Katie Seaborn, Takuya Sekiguchi, Seiki Tokunaga, Norihisa P. Miyake, Mihoko Otake-Matsuura
+Year: 2022
+Venue: International Journal of Social Robotics
+DOI: 10.1007/s12369-022-00925-7
+Paper ID: pmc_PMC9651097
+
+Abstract:
+Intelligent agents have great potential as facilitators of group conversation among older adults. However, little is known about how to design agents for this purpose and user group, especially in terms of agent embodiment. To this end, we conducted a mixed methods study of older adults’ reactions to voice and body in a group conversation facilitation agent. Two agent forms with the same underlying artificial intelligence (AI) and voice system were compared: a humanoid robot and a voice assistant. One preliminary study (total n = 24) and one experimental study comparing voice and body morphologies (n = 36) were conducted with older adults and an experienced human facilitator. Findings revealed that the artificiality of the agent, regardless of its form, was beneficial for the socially uncomfortable task of conversation facilitation. Even so, talkative personality types had a poorer experience with the “bodied” robot version. Design implications and supplementary reactions, especially to agent voice, are also discussed. Supplementary Information The online version contains supplementary material available at 10.1007/s12369-022-00925-7.

@@ -1,0 +1,9 @@
+Title: Genetic Algorithms for Optimized Selection of Biodegradable Polymers in Sustainable Manufacturing Processes
+Authors: Shaymaa Hussein Nowfal, Vijaya Bhaskar Sadu, Sudhakar Sengab, G Rajeshkumar, Anjaneyulu Naik R, K Sreekanth
+Year: 2024
+Venue: Journal of Machine and Computing
+DOI: https://doi.org/10.53759/7669/jmc202404054
+Paper ID: https://openalex.org/W4400388773
+
+Abstract:
+Sustainable Manufacturing Practices (SMP), particularly in the selection of materials, have become essential due to environmental issues caused by the expansion of industry. Compared to conventional polymers, biodegradable Polymer Materials (BPM) are growing more commonly as an approach to reducing trash pollution. Suitable materials can be challenging due to numerous considerations, like ecological impact, expenditure, and material properties. When addressing sophisticated trade-offs, standard approaches drop. To compete with such challenges, employing Genetic Algorithms (GA) may be more successful, as they have their foundation in the basic concepts of biological development and the natural selection process. With a focus on BPM, this study provides a GA model for optimal packaging substance selection. Out of the four algorithms for computation used for practical testing—PSO, ACO, and SA—the GA model is the most effective. The findings demonstrate that GA can be used to enhance SMP and performs well in enormous search spaces that contain numerous different combinations of materials.

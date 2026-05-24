@@ -1,0 +1,9 @@
+Title: Stock market indices and sustainability: A comparison between them
+Authors: Teresa de Dios-Alija, Marta del Río Caballero, Luis A. Gil-Alaña, Miguel Martin-Valmayor
+Year: 2021
+Venue: Journal of Sustainable Finance & Investment
+DOI: https://doi.org/10.1080/20430795.2021.1896988
+Paper ID: https://openalex.org/W3138620485
+
+Abstract:
+In this paper, we examine the issue of sustainability in the stock markets by comparing various statistical properties of the classical stock market indices against the recent sustainable ones. Weekly and monthly data from Dow Jones, Eurostoxx and Hang Seng indices were collected, and fractional integration methods were used to analyze differences in terms of persistence and mean reversion for both sustainable and common indices. The results indicate high levels of persistence in all cases, observing almost no differences across the markets. Long memory is also detected in the absolute and squared returns in both markets.

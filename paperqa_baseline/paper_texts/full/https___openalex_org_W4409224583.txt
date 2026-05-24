@@ -1,0 +1,9 @@
+Title: Advancements in energy harvesting techniques for sustainable IoT devices
+Authors: Ahsan Ali, Hamna Shaukat, Hassan Elahi, Shaista Taimur, Muhammad Qasim Manan, Wael A. Altabey, Sallam A. Kouritem, Mohammad Noori
+Year: 2025
+Venue: Results in Engineering
+DOI: https://doi.org/10.1016/j.rineng.2025.104820
+Paper ID: https://openalex.org/W4409224583
+
+Abstract:
+This paper reviews the energy harvesting techniques for sustainable Internet of Things (IoT) devices. With the passage of time, more things and objects are connected to the internet, paving the way for the development of IoT. The term IoT describes the network of everyday devices that are interconnected together and exchange data via the Internet. Wireless sensors are included in IoT devices to collect data in an accurate and useful way for process monitoring and activity control. The batteries that run these wireless sensors have a limited lifespan, rapidly drain, and need replacement. The replacement and maintenance process is costly; thus, smart energy management is essential for IoT devices to be energy-efficient. Therefore, energy harvesting is a promising method to supply such low-powered IoT devices by utilizing various energy resources. This energy can be harvested from different environmental, mechanical, chemical, and bioenergy sources, eliminating battery dependence. First, this review explains the importance of energy harvesting techniques for powering IoT devices, followed by IoT energy harvesting. Then it explains different energy harvesting techniques, followed by a table showing the analysis of these techniques. After that, this review explains the cost of these harvesters. Finally, there are future recommendations and conclusion, which shows some challenges that IoT energy harvesting faces that need to be addressed to grow sustainable IoT devices.

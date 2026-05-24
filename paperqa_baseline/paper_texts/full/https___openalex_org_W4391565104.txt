@@ -1,0 +1,9 @@
+Title: Digitization Meets Energy Transition: Shaping the Future of Environmental Sustainability
+Authors: Lin Wang, Yugang He, Renhong Wu
+Year: 2024
+Venue: Energies
+DOI: https://doi.org/10.3390/en17040767
+Paper ID: https://openalex.org/W4391565104
+
+Abstract:
+This paper presents an empirical investigation into the effects of energy transition and digitization on carbon dioxide emissions, serving as a proxy for environmental sustainability, across 28 Chinese provinces from 2000 to 2021. Utilizing both static and dynamic regression analyses, the study reveals a significant driving effect of the energy transition on environmental sustainability, primarily through a reduction in carbon dioxide emissions. Notably, this influence is more pronounced in the eastern region of China, followed by the central and western regions, indicating regional heterogeneity in the impact of the energy transition. Furthermore, digitization is found to have a substantial moderating effect, enhancing energy conservation and emission reductions. As digitization progresses, its capability to diminish the impact of energy transitions on carbon dioxide emissions becomes more apparent, particularly in the eastern region, while this effect is less marked in central and western China. The study also delves into the nonlinear relationship between energy transitions and carbon dioxide emissions, discovering that increased levels of digitization can exacerbate the negative effects of energy transitions on emissions. These findings offer valuable insights into the dynamics of energy transition and digitalization, highlighting their crucial roles in shaping environmental sustainability in China.

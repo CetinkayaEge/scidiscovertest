@@ -1,0 +1,9 @@
+Title: Proteomics Analysis for Finding Serum Markers of Ovarian Cancer
+Authors: Yushan Cheng, Chongdong Liu, Nawei Zhang, Shengdian Wang, Zhenyu Zhang
+Year: 2014
+Venue: BioMed Research International
+DOI: 10.1155/2014/179040
+Paper ID: pmc_PMC4164372
+
+Abstract:
+A combination of peptide ligand library beads (PLLB) and 1D gel liquid chromatography-mass spectrometry/mass spectrometry (1DGel-LC-MS/MS) was employed to analyze serum samples from patients with ovarian cancer and from healthy controls. Proteomic analysis identified 1200 serum proteins, among which 57 proteins were upregulated and 10 were downregulated in the sera from cancer patients. Retinol binding protein 4 (RBP4) is highly upregulated in the ovarian cancer serum samples. ELISA was employed to measure plasma concentrations of RBP4 in 80 samples from ovarian cancer patients, healthy individuals, myoma patients, and patients with benign ovarian tumor, respectively. The plasma concentrations of RBP4 ranging from 76.91 to 120.08 ng/mL with the mean value 89.13 ± 1.67 ng/mL in ovarian cancer patients are significantly higher than those in healthy individuals (10.85 ± 2.38 ng/mL). Results were further confirmed with immunohistochemistry, demonstrating that RBP4 expression levels in normal ovarian tissue were lower than those in ovarian cancer tissues. Our results suggested that RBP4 is a potential biomarker for diagnostic of screening ovarian cancer.

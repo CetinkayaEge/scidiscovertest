@@ -1,0 +1,9 @@
+Title: Long noncoding RNA MEG3, a potential novel biomarker to predict the clinical outcome of cancer patients: a meta-analysis
+Authors: Xiangrong Cui, Xuan Jing, Chunlan Long, Jie Tian, Jing Zhu
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.14987
+Paper ID: pmc_PMC5386668
+
+Abstract:
+Numerous studies have demonstrated that the expression level of maternally expressed gene 3 (MEG3) was lost in various cancers. Low expression of MEG3 is associated with an increased risk of metastasis and a poor prognosis in cancer patients. This meta-analysis investigated the association between MEG3 levels and distant metastasis (DM), lymph node metastasis (LNM), overall survival (OS), and recurrence-free survival (RFS) of cancer patients. A total of 536 participants from 9 articles were finally enrolled. The results showed a significant negative association between MEG3 levels and DM (OR = 2.16, 95% CI = 0.99–4.71, P = 0.05, fixed-effect), and it could also predict poor OS (HR = 0.43, 95% CI = 0.15–1.24, P = 0.006, fixed-effect) and RFS (HR = 0.52, 95% CI = 0.29–0.92, P = 0.02, fixed-effect) in cancer patients. In conclusion, this meta-analysis indicated that MEG3 might serve as a potential novel biomarker for indicating the clinical outcomes in human cancers.

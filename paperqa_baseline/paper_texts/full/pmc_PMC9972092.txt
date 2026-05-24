@@ -1,0 +1,9 @@
+Title: Association between dietary intake of n‐3 polyunsaturated fatty acids and risk of colorectal cancer in the Japanese population: The Japan Collaborative Cohort Study
+Authors: Ayako Kato, Chika Okada, Ehab S. Eshak, Hiroyasu Iso, Akiko Tamakoshi
+Year: 2022
+Venue: Cancer Medicine
+DOI: 10.1002/cam4.5098
+Paper ID: pmc_PMC9972092
+
+Abstract:
+Abstract Background Epidemiological studies of the dietary intake of specific n‐3 polyunsaturated fatty acids (PUFA) and anatomical subsite‐specific colorectal cancer (CRC) are limited. We examined the prospective associations of total n‐3 PUFA, marine‐derived n‐3 PUFA [combined eicosapentaenoic acid (EPA), docosapentaenoic acid (DPA), and docosahexaenoic acid (DHA)], and alpha‐linolenic acid (ALA) as plant‐derived n‐3 PUFA with the risk of CRC by subsite in the Japan Collaborative Cohort Study. Methods The participants completed a self‐administered food frequency questionnaire and had no prior history of CRC. Cox proportional hazards model was used to determine the associations between n‐3 PUFAs intake and CRC risk overall and by anatomical subsite. Results During the median 13.8‐year follow‐up period, 699 of the 42,536 participants aged 40–79 years developed incident CRC. An inverse association was found between dietary ALA intake and the risk of distal colon cancer; the multivariable hazard ratios and 95% confidence intervals for the highest quartiles (Q4) were 0.41 (0.21–0.81; p trend = 0.01) compared with the lowest quartiles (Q1). Marine n‐3 PUFA intake was not associated with CRC risk in the overall or anatomical subsite‐specific analyses. Conclusion Our findings suggest that higher ALA intake may be beneficial for lowering the risk of distal colon cancer.

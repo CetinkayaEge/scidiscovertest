@@ -1,0 +1,9 @@
+Title: NAD kinase sustains lipogenesis and mitochondrial metabolismthrough fatty acid synthesis
+Authors: Mengyao Xu, Long Ding, Jingjing Liang, Xiao Yang, Yuan Liu, Yingchun Wang, Mei Ding, Xun Huang
+Year: 2021
+Venue: Cell Reports
+DOI: https://doi.org/10.1016/j.celrep.2021.110157
+Paper ID: https://openalex.org/W4200194503
+
+Abstract:
+Lipid storage in fat tissue is important for energy homeostasis and cellular functions. Through RNAi screening in Drosophila fat body, we found that knockdown of a Drosophila NAD kinase (NADK), which phosphorylates NAD to synthesize NADP de novo, causes lipid storage defects. NADK sustains lipogenesis by maintaining the pool of NADPH. Promoting NADPH production rescues the lipid storage defect in the fat body of NADK RNAi animals. Furthermore, NADK and fatty acid synthase 1 (FASN1) regulate mitochondrial mass and function by altering the levels of acetyl-CoA and fatty acids. Reducing the level of acetyl-CoA or increasing the synthesis of cardiolipin (CL), a mitochondrion-specific phospholipid, partially rescues the mitochondrial defects of NADK RNAi. Therefore, NADK- and FASN1-mediated fatty acid synthesis coordinates lipid storage and mitochondrial function.

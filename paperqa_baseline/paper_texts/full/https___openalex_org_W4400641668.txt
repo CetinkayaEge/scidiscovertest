@@ -1,0 +1,9 @@
+Title: Towards Sustainable Lithium-Ion Battery Recycling: Advancements in Circular Hydrometallurgy
+Authors: María del Mar Cerrillo-González, María Villén-Guzmán, Carlos Vereda‐Alonso, José Miguel Rodrı́guez-Maroto, Juan Manuel Paz-García
+Year: 2024
+Venue: Processes
+DOI: https://doi.org/10.3390/pr12071485
+Paper ID: https://openalex.org/W4400641668
+
+Abstract:
+The growing demand for lithium-ion batteries (LIBs) has led to significant environmental and resource challenges, such as the toxicity of LIBs’ waste, which pose severe environmental and health risks, and the criticality of some of their components. Efficient recycling processes are essential to mitigate these issues, promoting the recovery of valuable materials and reducing environmental pollution. This review explores the application of electrodialysis in the process of recycling LIBs to contribute to the principles of circular hydrometallurgy. The article is structured to provide a comprehensive understanding of the topic, starting with an overview of the environmental and resource challenges associated with manufacturing LIBs. Then the current recycling processes are presented, focusing on hydrometallurgical methods. The concept of circular hydrometallurgy is introduced, emphasizing sustainable resource recovery. The electrodialysis technique is described in this context, highlighting its integration into the process of recycling LIBs to separate and recover valuable metals. Finally, the article addresses the challenges and limitations of the electrodialysis technique, such as energy consumption and system optimization, and identifies areas for future research and development. Through this analysis, the review aimed to contribute to advancing the development of more sustainable and efficient LIB recycling technologies, ensuring a safer and more environmentally friendly approach to the management of batteries’ lifecycle.

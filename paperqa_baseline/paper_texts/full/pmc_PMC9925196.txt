@@ -1,0 +1,9 @@
+Title: Continuously-deformable and stiffness-tunable soft manipulator achieving unmanned COVID-19 pandemic sampling
+Authors: Junshi Zhang, Lei Liu, Mingliang Zhu, Dichen Li, Jian Lu
+Year: 2023
+Venue: Heliyon
+DOI: 10.1016/j.heliyon.2023.e13731
+Paper ID: pmc_PMC9925196
+
+Abstract:
+In recent years, COVID-19 has spread across the whole world, and manpowered collection of pharyngeal samples undoubtedly increases the possibility of cross-infections. In this article, based on our previous fabricated soft manipulator ( Cell Reports Physical Science , 2021, 2, 100600), we performed the COVID-19 sampling on real human volunteers by exploiting a pre-programmed unmanned system. The unmanned sampling system mainly includes a soft manipulator and a rigid motion platform, which are adjusted by pneumatic control box and the motor control modules, respectively. Drawn on the lead-through teaching method, the unmanned sampling of COVID-19 is realized by recording the applied pressure in soft manipulator and the feed motion of rigid platform. This research provides a potential approach for unmanned COVID-19 sampling, solving the risk of cross-infection during manual collection.

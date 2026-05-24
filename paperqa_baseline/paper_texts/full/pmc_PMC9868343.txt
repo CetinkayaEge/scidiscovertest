@@ -1,0 +1,9 @@
+Title: Point-of-care testing for lysine concentration in swine serum via blue-emissive carbon dot-entrapped microfluidic chip
+Authors: Chizhu Ding, Xiang Chen, Xiaoyu Chen, Yue Liu, Menglin Xia, Ziyi He, Qinshu Kang, Xianghua Yan
+Year: 2023
+Venue: Animal Nutrition
+DOI: 10.1016/j.aninu.2022.08.017
+Paper ID: pmc_PMC9868343
+
+Abstract:
+Lysine is one of the essential amino acids and plays a vital role in the growth, development and health of pigs. Blood lysine concentration is a direct indication of lysine status; however, current methods can not satisfy the demands for rapid and on-site lysine concentration measurement of swine serum. Here, we developed blue-emissive nitrogen-doped carbon dots as a fluorescence probe for the determination of lysine with high fluorescence quantum yield, stability, sensitivity and specificity. The carbon dots were entrapped within hydrogel microstructures to fabricate microfluidic chips for rapid assay for lysine quantification. We further developed an imaging attachment to integrate the microfluidic chip and a smartphone into a portable point-of-care testing platform. This platform requires only 3 μL sample and has a linear detection range of 25 to 300 μmol/L with a limit of detection less than 16 μmol/L, which covers the normal range of lysine concentration in swine serum. We tested lysine concentration in swine serum using this platform with high accuracy, low sample consumption, and within 3 min. Together, these results may provide a rapid and portable platform for dynamic monitoring of swine lysine status and contribute to precise feed formula modulation with low-protein diet strategy.

@@ -1,0 +1,9 @@
+Title: Effect of Femtosecond Laser-Irradiated Titanium Plates on Enhanced Antibacterial Activity and Preservation of Bacteriophage Stability
+Authors: Liga Grase, Pavels Onufrijevs, Dace Rezevska, Karlis Racenis, Ingus Skadins, Jonas Karosas, Paulius Gecys, Mairis Iesalnieks, Arturs Pludons, Juta Kroica, Gediminas Raciukaitis
+Year: 2023
+Venue: Nanomaterials
+DOI: 10.3390/nano13142032
+Paper ID: pmc_PMC10384951
+
+Abstract:
+Titanium (Ti) is widely recognized for its exceptional properties and compatibility with medical applications. In our study, we successfully formed laser-induced periodic surface structures (LIPSS) on Ti plates with a periodicity of 520–740 nm and a height range of 150–250 nm. To investigate the morphology and chemical composition of these surfaces, we employed various techniques, including field emission scanning electron microscopy, energy dispersive X-ray spectroscopy, atomic force microscopy, X-ray photoelectron spectroscopy, and Raman spectroscopy. Additionally, we utilized a drop-shape analyzer to determine the wetting properties of the surfaces. To evaluate the antibacterial activity, we followed the ISO 22196:2011 standard, utilizing reference bacterial cultures of Gram-positive Staphylococcus aureus (ATCC 25923) and Gram-negative Escherichia coli (ATCC 25922). The results revealed enhanced antibacterial properties against Staphylococcus aureus by more than 99% and Escherichia coli by more than 80% in comparison with non-irradiated Ti. Furthermore, we conducted experiments using the Escherichia coli bacteriophage T4 (ATCC 11303-B4) and the bacterial host Escherichia coli (ATCC 11303) to investigate the impact of Ti plates on the stability of the bacteriophage. Overall, our findings highlight the potential of LIPSS on Ti plates for achieving enhanced antibacterial activity against common bacterial strains while maintaining the stability of bacteriophages.

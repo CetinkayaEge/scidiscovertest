@@ -1,0 +1,9 @@
+Title: Thermodynamics of diamond formation from hydrocarbon mixtures in planets
+Authors: Bingqing Cheng, Sebastien Hamel, Mandy Bethkenhagen
+Year: 2023
+Venue: Nature Communications
+DOI: 10.1038/s41467-023-36841-1
+Paper ID: pmc_PMC9968715
+
+Abstract:
+Hydrocarbon mixtures are extremely abundant in the Universe, and diamond formation from them can play a crucial role in shaping the interior structure and evolution of planets. With first-principles accuracy, we first estimate the melting line of diamond, and then reveal the nature of chemical bonding in hydrocarbons at extreme conditions. We finally establish the pressure-temperature phase boundary where it is thermodynamically possible for diamond to form from hydrocarbon mixtures with different atomic fractions of carbon. Notably, here we show a depletion zone at pressures above 200 GPa and temperatures below 3000 K-3500 K where diamond formation is thermodynamically favorable regardless of the carbon atomic fraction, due to a phase separation mechanism. The cooler condition of the interior of Neptune compared to Uranus means that the former is much more likely to contain the depletion zone. Our findings can help explain the dichotomy of the two ice giants manifested by the low luminosity of Uranus, and lead to a better understanding of (exo-)planetary formation and evolution. This study combines computational chemistry and machine learning to provide insight on whether diamonds can form inside ice giants. This can help explain the dichotomy of Uranus and Neptune.

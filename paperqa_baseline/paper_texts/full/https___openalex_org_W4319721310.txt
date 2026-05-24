@@ -1,0 +1,9 @@
+Title: A review on street view observations in support of the sustainable development goals
+Authors: Chun Yin, Ningyezi Peng, Yuchen Li, Yuanyuan Shi, Shujuan Yang, Peng Jia
+Year: 2023
+Venue: International Journal of Applied Earth Observation and Geoinformation
+DOI: https://doi.org/10.1016/j.jag.2023.103205
+Paper ID: https://openalex.org/W4319721310
+
+Abstract:
+With limited time to achieve the 2030 Agenda for Sustainable Development, the world needs effective, scalable approaches to measure and monitor global progress toward the 17 Sustainable Development Goals (SDGs). Given that many SDGs are closely related to the environment in which people live, satellite data are commonly used for SDG assessment, but they are only based on a top-down view and have inherent technical issues (e.g., insufficient spatial resolution and cloud coverage). In recent years, street view imagery (SVI), as an emerging source of remote sensing data, has been an indispensable supplement to monitor SDGs, by recording the environment from an eye-level view. However, the systematic and comprehensive understanding of SVI applications to promote SDGs is insufficient. We reviewed SVI-related studies of SDGs and found that SVI is mainly used for good health and well-being (SDG 3), sustainable cities and communities (SDG 11), zero hunger (SDG 2), and climate action (SDG 13). The SVI-based greenery view index was the most common element feature related to SDGs. The SVI-derived human perception features were also often used to assess SDG 3 and SDG 11. Future studies may further investigate the potential mechanisms between SVI-based features and SDGs. This review provides a comprehensive summary and guidance for governments and scholars worldwide to assess SDGs based on SVI in the future.

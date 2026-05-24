@@ -1,0 +1,9 @@
+Title: Unwrapping Wrap-around in Gas (or Liquid) Chromatographic Cyclic Ion Mobility–Mass Spectrometry
+Authors: Jake Breen, Mahin Hashemihedeshi, Roshanak Amiri, Frank L. Dorman, Karl J. Jobst
+Year: 2022
+Venue: Analytical Chemistry
+DOI: 10.1021/acs.analchem.2c02351
+Paper ID: pmc_PMC9387526
+
+Abstract:
+Gas chromatography multiplexed with cyclic ion mobility mass spectrometry is a comprehensive two-dimensional separation technique that can resolve compounds that would otherwise coelute in a single-dimension separation. The cyclic geometry of the ion mobility cell enables ions to travel multiple passes, increasing their drift times to the detector and relative separation. However, the quality of the separation may be obfuscated when “wrap-around” occurs, during which speedier ions catch up with slower ion populations when allowed to travel through more than one pass. Consequently, cyclic ion mobility is incorrectly perceived as a targeted approach that requires preselection of ions prior to separation. The present study demonstrates that “wrap-around” can be mitigated by comparing drift times measured during single- and multipass experiments and extrapolating the number of passes experienced by each ion. This straightforward calculation results in the “unwrapping” of cyclic ion mobility data so that the experiments can be interpreted in a nontargeted way while reaping the benefit of peak capacities that rival those achieved using other comprehensive two-dimensional separations.

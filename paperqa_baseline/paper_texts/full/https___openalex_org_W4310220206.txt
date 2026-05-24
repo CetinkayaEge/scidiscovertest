@@ -1,0 +1,9 @@
+Title: Natural resources, renewable energy, and governance: A path towards sustainable development
+Authors: Tii N. Nchofoung, Nathanael Ojöng
+Year: 2022
+Venue: Sustainable Development
+DOI: https://doi.org/10.1002/sd.2466
+Paper ID: https://openalex.org/W4310220206
+
+Abstract:
+Abstract Based on data for 48 African countries for the period 2000–2020, we analyse the effects of natural resources on renewable energy development and the mediating effects of governance on that relationship. For this purpose, the Ordinary Least Squares method was used to develop a baseline regression model, and the Generalized Method of Moments (GMM) approach was used for the dynamic model regression. Quantile regression was used for robustness checking across the various distributions of renewable energy. First, we find that natural resources enhance renewable energy development in Africa and that the results are robust across alternative specifications of natural resources and governance, except for forest resources, which have a negative effect on renewable energy development. When robustness is checked through a quantile regression analysis, the results show that the positive effect depends on the conditional distribution of natural resources and the type of natural resource under consideration. The negative effect of total natural resources becomes weaker as we move towards higher quantiles. Second, governance interacts with natural resource rents to generate positive effects across different governance specifications and natural resources, except for coal rent. We thereby derive some relevant implications for renewable energy financing in the Global South.

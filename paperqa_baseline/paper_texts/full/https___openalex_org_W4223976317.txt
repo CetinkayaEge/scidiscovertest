@@ -1,0 +1,9 @@
+Title: Understanding Microgrid Sustainability: A Systemic and Comprehensive Review
+Authors: Antoine Boche, Clément Foucher, Luiz Fernando Lavado Villa
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15082906
+Paper ID: https://openalex.org/W4223976317
+
+Abstract:
+There is a growing research interest in studying microgrids as a way to overcome the lack of access to energy. These microgrids could be the key to global energy access because of their many advantages related to flexibility, efficiency, and reliability. Despite all these qualities, microgrids remain challenging to implement in a sustainable and resilient way without a clear consensus on what causes these failures. To this end, this work proposes a new paradigm to make a multidisciplinary and comprehensive review of the operation of microgrids. By reconciling the different fields inherent to microgrids, this review enables the study of microgrids within a unified framework. Microgrids will be presented through energy, information, financial, and social fields to provide the necessary elements for their systemic understanding. Each field will be presented with its internal elements, architecture, and significant issues. By elaborating on this new vision of microgrids, this article hopes to open the way to a deeper understanding of their systemic operation and diagnose their long-term sustainability.

@@ -1,0 +1,9 @@
+Title: A Systematic Review of the Applications of AI in a Sustainable Building’s Lifecycle
+Authors: B. A. Adewale, Vincent Onyedikachi Ene, Babatunde Fatai Ogunbayo, Clinton Aigbavboa
+Year: 2024
+Venue: Buildings
+DOI: https://doi.org/10.3390/buildings14072137
+Paper ID: https://openalex.org/W4400522159
+
+Abstract:
+Buildings significantly contribute to global energy consumption and greenhouse gas emissions. This systematic literature review explores the potential of artificial intelegence (AI) to enhance sustainability throughout a building’s lifecycle. The review identifies AI technologies applicable to sustainable building practices, examines their influence, and analyses implementation challenges. The findings reveal AI’s capabilities in optimising energy efficiency, enabling predictive maintenance, and aiding in design simulation. Advanced machine learning algorithms facilitate data-driven analysis, while digital twins provide real-time insights for decision-making. The review also identifies barriers to AI adoption, including cost concerns, data security risks, and implementation challenges. While AI offers innovative solutions for energy optimisation and environmentally conscious practices, addressing technical and practical challenges is crucial for its successful integration in sustainable building practices.

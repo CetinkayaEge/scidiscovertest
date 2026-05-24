@@ -1,0 +1,9 @@
+Title: Co-designing the Embodiment of a Minimalist Social Robot to Encourage Hand Hygiene Practises Among Children in India
+Authors: Devasena Pasupuleti, Sreejith Sasidharan, Gayathri Manikutty, Anand M. Das, Praveen Pankajakshan, Sidney Strauss
+Year: 2023
+Venue: International Journal of Social Robotics
+DOI: 10.1007/s12369-023-00969-3
+Paper ID: pmc_PMC9900201
+
+Abstract:
+We conducted an empirical study to co-design a social robot with children to bring about long-term behavioural changes. As a case study, we focused our efforts to create a social robot to promote handwashing in community settings while adhering to minimalistic design principles. Since cultural views influence design preferences and technology acceptance, we selected forty children from different socio-economic backgrounds across India as informants for our design study. We asked the children to design paper mock-ups using pre-cut geometrical shapes to understand their mental models of such a robot. The children also shared their feedback on the eight resulting different conceptual designs of minimalistic caricatured social robots. Our findings show that children had varied expectations of the robot’s emotional intelligence, interactions, and social roles even though it was being designed for a specific context of use. The children unequivocally liked and trusted anthropomorphized caricatured designs of everyday objects for the robot’s morphology. Based on these findings, we present our recommendations for the physical and interaction features of a minimalist social robot assimilating the children’s inputs and social robot design principles grounded in prior research. Future studies will examine the children’s interactions with a built prototype.

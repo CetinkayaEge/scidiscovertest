@@ -1,0 +1,9 @@
+Title: Role of green technology innovation and renewable energy in carbon neutrality: A sustainable investigation from Turkey
+Authors: Shan Shan, Sema Yılmaz Genç, Hafiz Waqas Kamran, Gheorghița Dincă
+Year: 2021
+Venue: Journal of Environmental Management
+DOI: https://doi.org/10.1016/j.jenvman.2021.113004
+Paper ID: https://openalex.org/W3169462745
+
+Abstract:
+After the Paris Climate Conference (COP21), many countries start progressing towards carbon neutrality targets. In doing so, green technology innovations (GTIs) and clean energy are the essential factors that can help to achieve the carbon neutrality goal. Therefore, this paper examines the linkages between green technology innovation and renewable energy and carbon dioxide emissions based on the STIRPAT model in Turkey during the time of 1990-2018. The study used testing like "unit-root" to verify the variables' integrative properties containing the information for structural breaks. Also, the bootstrapping ARDL-bound testing technique is used to analyze the relationship between the variables. The causal relationship between green technology innovation, energy consumption, renewable energy, population, income per capita, and carbon dioxide emissions is tested through a Granger causality test. The empirical findings show that green technology innovation, renewable energy, energy consumption, population, income per capita, and carbon dioxide emissions are co-integrated for the long-term association. Additionally, green technology innovation and renewable energy decline carbon dioxide emissions, whereas energy consumption, population, and per capita enhance carbon emissions. This paper helps the policymakers design a comprehensive policy for strengthening environmental sustainability through green technology innovation and renewable energy, specifically in the region of Turkey.

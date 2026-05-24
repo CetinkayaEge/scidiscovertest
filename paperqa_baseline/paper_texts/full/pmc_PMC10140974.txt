@@ -1,0 +1,9 @@
+Title: Irrigation Scheduling for Maize under Different Hydrological Years in Heilongjiang Province, China
+Authors: Tangzhe Nie, Zhenping Gong, Zhongxue Zhang, Tianyi Wang, Nan Sun, Yi Tang, Peng Chen, Tiecheng Li, Shuai Yin, Mengmeng Zhang, Siwen Jiang
+Year: 2023
+Venue: Plants
+DOI: 10.3390/plants12081676
+Paper ID: pmc_PMC10140974
+
+Abstract:
+Appropriate irrigation schedules could minimize the existing imbalance between agricultural water supply and crop water requirements ( ET c ), which is severely impacted by climate change. In this study, different hydrological years (a wet year, normal year, dry year, and an extremely dry year) in Heilongjiang Province were calculated by hydrological frequency methods. Then, the single crop coefficient method was used to calculate the maize ET c , based on the daily meteorological data of 26 meteorological stations in Heilongjiang Province from 1960 to 2020. Afterward, the CROPWAT model was used to calculate the effective precipitation ( P e ) and irrigation water requirement ( Ir ), and formulate the irrigation schedules of maize in Heilongjiang Province under different hydrological years. The results showed that ET c and Ir decreased first and then increased from west to east. The P e and crop water surplus deficit index increased first and then decreased from west to east in Heilongjiang Province. Meanwhile, the average values of the Ir in were 171.14 mm, 232.79 mm, 279.08 mm, and 334.47 mm in the wet year, normal year, dry year, and extremely dry year, respectively. Heilongjiang Province was divided into four irrigation zones according to the Ir of different hydrological years. Last, the irrigation quotas for the wet year, normal year, dry year, and extremely dry year were 0~180 mm, 20~240 mm, 60~300 mm, and 80~430 mm, respectively. This study provides reliable support for maize irrigation practices in Heilongjiang Province, China.

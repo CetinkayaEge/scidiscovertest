@@ -1,0 +1,9 @@
+Title: Achieving green mobility: Multi-objective optimization for sustainable electric vehicle charging
+Authors: Shimaa Barakat, Ahmed I. Osman, Sayed M. Eldin, Ahmad A. Telba, Hala M. Abdel Mageed, Mohamed Mahmoud Samy
+Year: 2024
+Venue: Energy Strategy Reviews
+DOI: https://doi.org/10.1016/j.esr.2024.101351
+Paper ID: https://openalex.org/W4393337655
+
+Abstract:
+This study optimizes and evaluates a Photovoltaic-Wind-Battery/Electric Vehicle Charging Station (PVWB/EVCS) system using four Multi-Objective Optimization (MOO) techniques: MOPSO, NSGAII, NSGAIII, and MOEA/D. The main goals are to minimize the Total Net Present Cost (TNPC) and Loss of Power Supply Probability (LPSP) of the system, which are crucial for sustainable electric vehicle charging. The study analyzes the economic, operational, and sustainability aspects of the optimized system and compares it with HOMER software. The results show that NSGA-II is the best MOO technique for this problem, as it has the best performance and robustness. The Discounted Cash Flow analysis confirms the economic feasibility and sustainability of the optimized system over its lifetime. The technical analysis demonstrates the system's ability to use renewable energy from solar and wind sources, along with efficient energy storage and distribution. The study also conducts a sensitivity analysis to investigate the effects of changes in load, irradiance, wind speed, and component costs on the system performance. The findings reveal the system's resilience and adaptability under different scenarios, thus enhancing its suitability for renewable energy generation and electric vehicle charging. The study showed that the optimized PVWB/EVCS system is a promising solution for reducing reliance on non-renewable sources and promoting a more eco-friendly sustainable future.

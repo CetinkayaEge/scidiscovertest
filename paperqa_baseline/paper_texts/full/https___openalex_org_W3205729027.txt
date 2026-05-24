@@ -1,0 +1,9 @@
+Title: Setting the Pace for a Sustainable Energy Transition in Central Africa: The Case of Cameroon
+Authors: Nelson Bunyui Manjong, Ayobami Solomon Oyewo, Christian Breyer
+Year: 2021
+Venue: IEEE Access
+DOI: https://doi.org/10.1109/access.2021.3121000
+Paper ID: https://openalex.org/W3205729027
+
+Abstract:
+Sustainable energy systems form an indispensable component of sustainable development especially in developing economies. Understanding the system wide techno-economics of sustainable energy systems therefore becomes critical in shaping the energy system mix within a region or country. This paper explores progressive and optimal pathways towards a fully sustainable energy system for Cameroon by 2050 in power, heat, and transport sectors as a representative case study for the Central Africa region. Six key scenarios are modelled with the LUT Energy System Transition Model to capture key policy and sustainability constraints. Results from the study show that, the optimal least cost technology combination for a fully sustainable energy system for Cameroon with net-zero greenhouse gas emissions in 2050 is dominated by solar PV (86%), complemented by hydropower (8%) and bioenergy (5%). These results show that a fully sustainable energy system for Cameroon is feasible from both the technical and economic perspectives, if policy commitment is oriented towards these low-cost energy solutions. The results of this research provide a reliable reference for planning transitions towards a 100% renewable energy-based energy system in countries within the Central Africa region.

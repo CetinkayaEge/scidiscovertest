@@ -1,0 +1,9 @@
+Title: AVPR2 is a potential prognostic biomarker and correlated with immune infiltration in head and neck squamous cell carcinoma
+Authors: Linwei Mao, Zhiyong Pan, Wenzhi Chen, Weiqun Hu, Xiufen Chen, Huiting Dai
+Year: 2023
+Venue: BMC Medical Genomics
+DOI: 10.1186/s12920-023-01500-3
+Paper ID: pmc_PMC10061778
+
+Abstract:
+Purpose To explore the potential of AVPR2 in the immunotherapy of head and neck squamous cell carcinoma (HNSCC), thus providing insights into a novel antitumour strategy. Methods In this study, we performed a comprehensive analysis of the AVPR2 gene in HNSCC using public datasets from The Cancer Genome Atlas and Gene Expression Omnibus. We explored the potential molecular mechanism of HNSCC in clinical prognosis and tumour immunity from the aspects of gene expression, prognosis, immune subtypes, and immune infiltration. Results AVPR2 expression was significantly downregulated in primary HNSCC tissue compared with normal tissue. HNSCC patients with high AVPR2 expression had a better prognosis. Moreover, the results of GSEA showed that immune subtype surface AVPR2 is involved in immune modulation. Furthermore, significant strong correlations between AVPR2 expression and infiltrating immune cells existed in HNSCC, and marker genes of infiltrating immune cells were also significantly related to AVPR2 expression in HNSCC. These results suggest that AVPR2 expression can influence the infiltration of tumour immune cells. Finally, we found that only high levels of B-cell infiltration, rather than those of other immune cells, can predict a longer overall survival in patients with HNSCC. Future studies are needed to explore the role of AVPR2 and tumour-infiltrating B cells in HNSCC. Conclusions The AVPR2 gene may be a prognostic biomarker of HNSCC. Moreover, AVPR2 may play a role in HNSCC immune modulation, and the regulation of tumour-infiltrating B cells by AVPR2 may be a key link.

@@ -1,0 +1,9 @@
+Title: GOLPH3 induces epithelial–mesenchymal transition via Wnt/ β ‐catenin signaling pathway in epithelial ovarian cancer
+Authors: Jing Sun, Xiaoming Yang, Ru Zhang, Suqing Liu, Xupei Gan, Xiaowei Xi, Zhenbo Zhang, Youji Feng, Yunyan Sun
+Year: 2017
+Venue: Cancer Medicine
+DOI: 10.1002/cam4.1040
+Paper ID: pmc_PMC5387163
+
+Abstract:
+Abstract Golgi phosphoprotein 3 ( GOLPH 3 ), a newly recognized oncogene, is associated with tumor growth, metastasis, and poor prognosis in several types of cancer. However, its biological role and underlying mechanism in epithelial ovarian cancer ( EOC ) remain poorly understood. Here, we found that GOLPH 3 was overexpressed in EOC tissues and cell lines. This overexpression promoted the migration and invasion of EOC cells. Moreover, GOLPH 3 upregulated the expression of epithelial–mesenchymal transition ( EMT ) markers, such as N‐cadherin and Snail , and the Wnt/ β ‐catenin‐related genes cyclin‐D1 and c‐Myc , which were restored via silencing of GOLPH 3 expression. Furthermore, the inhibitor and activator of the Wnt/ β ‐catenin pathway, XAV 939 and LiCl, enhanced or decreased, respectively, the effect of GOLPH 3 on EMT , which further confirmed that GOLPH 3 promoted EMT progression via activation of Wnt/ β ‐catenin signaling. In addition, we found that EDD , the human hyperplastic discs gene, was consistent with GOLPH 3 expression and also promoted the EMT process and activated Wnt/ β ‐catenin signaling. These findings demonstrate that EDD might be a downstream factor of GOLPH 3 . Taken together, our findings demonstrate the existence of a GOLPH 3–Wnt/ β ‐catenin– EMT axis in EOC and provide a new therapeutic target to treat EOC .

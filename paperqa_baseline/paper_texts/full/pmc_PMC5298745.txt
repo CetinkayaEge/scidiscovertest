@@ -1,0 +1,9 @@
+Title: Development of a GNSS Buoy for Monitoring Water Surface Elevations in Estuaries and Coastal Areas
+Authors: Yen-Pin Lin, Ching-Jer Huang, Sheng-Hsueh Chen, Dong-Jiing Doong, Chia Chuen Kao
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010172
+Paper ID: pmc_PMC5298745
+
+Abstract:
+In this work, a Global Navigation Satellite System (GNSS) buoy that utilizes a Virtual Base Station (VBS) combined with the Real-Time Kinematic (RTK) positioning technology was developed to monitor water surface elevations in estuaries and coastal areas. The GNSS buoy includes a buoy hull, a RTK GNSS receiver, data-transmission devices, a data logger, and General Purpose Radio Service (GPRS) modems for transmitting data to the desired land locations. Laboratory and field tests were conducted to test the capability of the buoy and verify the accuracy of the monitored water surface elevations. For the field tests, the GNSS buoy was deployed in the waters of Suao (northeastern part of Taiwan). Tide data obtained from the GNSS buoy were consistent with those obtained from the neighboring tide station. Significant wave heights, zero-crossing periods, and peak wave directions obtained from the GNSS buoy were generally consistent with those obtained from an accelerometer-tilt-compass (ATC) sensor. The field tests demonstrate that the developed GNSS buoy can be used to obtain accurate real-time tide and wave data in estuaries and coastal areas.

@@ -1,0 +1,9 @@
+Title: How the mechanobiology orchestrates the iterative and reciprocal ECM-cell cross-talk that drives microtissue growth
+Authors: Mario C. Benn, Simon A. Pot, Jens Moeller, Tadahiro Yamashita, Charlotte M. Fonta, Gertraud Orend, Philip Kollmannsberger, Viola Vogel
+Year: 2023
+Venue: Science Advances
+DOI: 10.1126/sciadv.add9275
+Paper ID: pmc_PMC10058249
+
+Abstract:
+Controlled tissue growth is essential for multicellular life and requires tight spatiotemporal control over cell proliferation and differentiation until reaching homeostasis. As cells synthesize and remodel extracellular matrix, tissue growth processes can only be understood if the reciprocal feedback between cells and their environment is revealed. Using de novo–grown microtissues, we identified crucial actors of the mechanoregulated events, which iteratively orchestrate a sharp transition from tissue growth to maturation, requiring a myofibroblast-to-fibroblast transition. Cellular decision-making occurs when fibronectin fiber tension switches from highly stretched to relaxed, and it requires the transiently up-regulated appearance of tenascin-C and tissue transglutaminase, matrix metalloprotease activity, as well as a switch from α5β1 to α2β1 integrin engagement and epidermal growth factor receptor signaling. As myofibroblasts are associated with wound healing and inflammatory or fibrotic diseases, crucial knowledge needed to advance regenerative strategies or to counter fibrosis and cancer progression has been gained. Cellular mechanobiology reshapes the extracellular matrix, and their iterative interplay drives tissue growth and maturation.

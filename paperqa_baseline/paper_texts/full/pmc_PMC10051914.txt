@@ -1,0 +1,9 @@
+Title: Heart Rate Variability in Subjects with Severe Allergic Background Undergoing COVID-19 Vaccination
+Authors: Maria Bernadette Cilona, Filippo D’Amico, Chiara Asperti, Giuseppe Alvise Ramirez, Stefano Turi, Giovanni Benanti, Shai Marc Bohane, Serena Nannipieri, Rosa Labanca, Matteo Gervasini, Federica Russetti, Naomi Viapiana, Martina Lezzi, Giovanni Landoni, Lorenzo Dagna, Mona-Rita Yacoub
+Year: 2023
+Venue: Vaccines
+DOI: 10.3390/vaccines11030567
+Paper ID: pmc_PMC10051914
+
+Abstract:
+Anti-Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) vaccination is the world’s most important strategy for stopping the pandemic. Vaccination challenges the body’s immune response and can be complicated by hypersensitivity reactions. The autonomic nervous system can modulate the inflammatory immune response, therefore constituting a potential marker to characterize individuals at high risk of hypersensitivity reactions. Autonomic nervous system functionality was assessed through measurement of the heart rate variability (HRV) in subjects with a history of severe allergic reactions and 12 control subjects. HRV parameters included the mean electrocardiograph RR interval and the standard deviation of all normal R–R intervals (SDNN). All measurements were performed immediately before the anti-SARS-CoV-2 vaccination. The median RR variability was lower in the study than in the control group: 687 ms (645–759) vs. 821 ms (759–902); p = 0.02. The SDNN was lower in the study group than in the control group: 32 ms (23–36) vs. 50 ms (43–55); p < 0.01. No correlation was found between age and the SDNN. Autonomic nervous system activity is unbalanced in people with a severe allergy background.

@@ -1,0 +1,9 @@
+Title: Sustainable Electrosynthesis of Cyclohexanone Oxime through Nitrate Reduction on a Zn–Cu Alloy Catalyst
+Authors: Jonathan Sharp, Anna Ciotti, Hayley G. Andrews, Shaktiswaran R. Udayasurian, Max García‐Melchor, Tengfei Li
+Year: 2024
+Venue: ACS Catalysis
+DOI: https://doi.org/10.1021/acscatal.3c05388
+Paper ID: https://openalex.org/W4391839397
+
+Abstract:
+Cyclohexanone oxime is an important precursor for Nylon-6 and is typically synthesized via the nucleophilic addition–elimination of hydroxylamine with cyclohexanone. Current technologies for hydroxylamine production are, however, not environment-friendly due to the requirement of harsh reaction conditions. Here, we report an electrochemical method for the one-pot synthesis of cyclohexanone oxime under ambient conditions with aqueous nitrate as the nitrogen source. A series of Zn–Cu alloy catalysts are developed to drive the electrochemical reduction of nitrate, where the hydroxylamine intermediate formed in the electroreduction process can undergo a chemical reaction with the cyclohexanone present in the electrolyte to produce the corresponding oxime. The best performance is achieved on a Zn93Cu7 electrocatalyst with a 97% yield and a 27% Faradaic efficiency for cyclohexanone oxime at 100 mA/cm2. By analyzing the catalytic activities/selectivities of the different Zn–Cu alloys and conducting in-depth mechanistic studies via in situ Raman spectroscopy and theoretical calculations, we demonstrate that the adsorption of nitrogen species plays a central role in catalytic performance. Overall, this work provides an attractive strategy to build the C–N bond in oxime and drive organic synthesis through electrochemical nitrate reduction, while highlighting the importance of controlling surface adsorption for product selectivity in electrosynthesis.

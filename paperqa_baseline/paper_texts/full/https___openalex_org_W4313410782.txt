@@ -1,0 +1,9 @@
+Title: Sustainable Hybrid Marine Power Systems for Power Management Optimisation: A Review
+Authors: Sharul Baggio Roslan, Dimitrios Konovessis, Zhi Yung Tay
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15249622
+Paper ID: https://openalex.org/W4313410782
+
+Abstract:
+The increasing environmental concerns due to emissions from the shipping industry have accelerated the interest in developing sustainable energy sources and alternatives to traditional hydrocarbon fuel sources to reduce carbon emissions. Predominantly, a hybrid power system is used via a combination of alternative energy sources with hydrocarbon fuel due to the relatively small energy efficiency of the former as compared to the latter. For such a hybrid system to operate efficiently, the power management on the multiple power sources has to be optimised and the power requirements for different vessel types with varying loading operation profiles have to be understood. This can be achieved by using energy management systems (EMS) or power management systems (PMS) and control methods for hybrid marine power systems. This review paper focuses on the different EMSs and control strategies adopted to optimise power management as well as reduce fuel consumption and thus the carbon emission for hybrid vessel systems. This paper first presents the different commonly used hybrid propulsion systems, i.e., diesel–mechanical, diesel–electric, fully electric and other hybrid systems. Then, a comprehensive review of the different EMSs and control method strategies is carried out, followed by a comparison of the alternative energy sources to diesel power. Finally, the gaps, challenges and future works for hybrid systems are discussed.

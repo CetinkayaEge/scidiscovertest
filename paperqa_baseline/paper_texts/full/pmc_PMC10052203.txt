@@ -1,0 +1,9 @@
+Title: Evaluation of Potential In Vitro Recombination Events in Codon Deoptimized FMDV Strains
+Authors: Edward Spinard, Ian Fish, Paul A. Azzinaro, Monica Rodriguez-Calzada, Ethan J. Hartwig, George R. Smoliga, Aishwarya Mogulothu, Jonathan Arzt, Teresa de los Santos, Gisselle N. Medina
+Year: 2023
+Venue: Viruses
+DOI: 10.3390/v15030670
+Paper ID: pmc_PMC10052203
+
+Abstract:
+Codon deoptimization (CD) has been recently used as a possible strategy to derive foot-and-mouth disease (FMD) live-attenuated vaccine (LAV) candidates containing DIVA markers. However, reversion to virulence, or loss of DIVA, from possible recombination with wild-type (WT) strains has yet to be analyzed. An in vitro assay was developed to quantitate the levels of recombination between WT and a prospective A24-P2P3 partially deoptimized LAV candidate. By using two genetically engineered non-infectious RNA templates, we demonstrate that recombination can occur within non-deoptimized viral genomic regions (i.e., 3′end of P3 region). The sequencing of single plaque recombinants revealed a variety of genome compositions, including full-length WT sequences at the consensus level and deoptimized sequences at the sub-consensus/consensus level within the 3′end of the P3 region. Notably, after further passage, two recombinants that contained deoptimized sequences evolved to WT. Overall, recombinants featuring large stretches of CD or DIVA markers were less fit than WT viruses. Our results indicate that the developed assay is a powerful tool to evaluate the recombination of FMDV genomes in vitro and should contribute to the improved design of FMDV codon deoptimized LAV candidates.

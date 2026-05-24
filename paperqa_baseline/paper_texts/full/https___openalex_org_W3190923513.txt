@@ -1,0 +1,9 @@
+Title: Prioritisation of drivers of sustainable additive manufacturing using best worst method
+Authors: Rohit Agrawal, S. Vinodh
+Year: 2021
+Venue: International Journal of Sustainable Engineering
+DOI: https://doi.org/10.1080/19397038.2021.1944396
+Paper ID: https://openalex.org/W3190923513
+
+Abstract:
+Globalisation and competition in the market have made industry practitioners to focus towards minimising resource consumption and even government is making strict regulations towards sustainable development. In this regard, usage of latest technologies such as Additive Manufacturing (AM) will have a positive benefit towards sustainability. AM processes are becoming sustainable from viewpoint of less material consumption, lesser operational cost, minimum handling and so on. So, it is important to analyse the potential drivers of sustainable AM process for its smooth adoption. In this regard, the purpose of the article is to present a study on prioritising drivers of Sustainable Additive Manufacturing (SAM) using Best Worst Method (BWM). Forty drivers are being analysed from eight perspectives. Data have been collected from experts and BWM has been used for analysing the drivers. The drivers are analysed in respective categories and then global score for each driver has been computed to find the overall weightage and rating of each driver. Key drivers are identified as eco design, green innovation and energy conservation. The practical and managerial implications are being highlighted.

@@ -1,0 +1,9 @@
+Title: AI-powered revolution in plant sciences: advancements, applications, and challenges for sustainable agriculture and food security
+Authors: Deependra Kumar Gupta, Anselmo Pagani, Paolo Zamboni, Ajay Kumar Singh
+Year: 2024
+Venue: Exploration of Foods and Foodomics
+DOI: https://doi.org/10.37349/eff.2024.00045
+Paper ID: https://openalex.org/W4401385722
+
+Abstract:
+Artificial intelligence (AI) is revolutionizing plant sciences by enabling precise plant species identification, early disease diagnosis, crop yield prediction, and precision agriculture optimization. AI uses machine learning and image recognition to aid ecological research and biodiversity conservation. It plays a crucial role in plant breeding by accelerating the development of resilient, high-yielding crops with desirable traits. AI models using climate and soil data contribute to sustainable agriculture and food security. In plant phenotyping, AI automates the measurement and analysis of plant characteristics, enhancing our understanding of plant growth. Ongoing research aims to improve AI models’ robustness and interpretability while addressing data privacy and algorithmic biases. Interdisciplinary collaboration is essential to fully harness AI’s potential in plant sciences for a sustainable, food-secure future.

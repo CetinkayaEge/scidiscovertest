@@ -1,0 +1,9 @@
+Title: An environmental and economic sustainability assessment of coffee production in the UK
+Authors: Piya Gosalvitr, Rosa M. Cuéllar-Franca, Robin Smith, Adisa Azapagic
+Year: 2023
+Venue: Chemical Engineering Journal
+DOI: https://doi.org/10.1016/j.cej.2023.142793
+Paper ID: https://openalex.org/W4362603450
+
+Abstract:
+With around two billion cups consumed daily worldwide, the coffee industry faces pressures to improve its sustainability. Focusing on the UK as the fifth largest coffee consumer in Europe, this paper presents for the first time a life cycle environmental and economic sustainability assessment of coffee production at the product and sectoral levels. Both gate-to-gate and cradle-to-gate system boundaries are considered to identify opportunities for improvements in the manufacturing process and along the supply chain. Process design and simulation are combined with life cycle assessment and life cycle costing to evaluate the sustainability of the production of ground and instant coffee roasted to different levels. Based on the functional unit of 1 tonne of coffee produced, instant coffee has higher impacts and costs than ground coffee for both system boundaries because it requires double the amount of green coffee beans and 7–11 times more energy. For gate-to-gate, roasting and packaging are the main contributors to the impacts and costs; for cradle-to-gate, cultivation of coffee beans and packaging are the hotspots. Light roasts generally have lower impacts and costs due to lower material losses and energy requirements. At the sectoral level, the coffee industry emits 863–894 kt CO2 eq. annually, contributing 1.3% to the GHG emissions from the UK food and drinks sector. Key opportunities for improvements include switching to lighter roast and pouch packaging, as well as using air recirculation roasters and silverskin as fuel. These results will be of interest to the coffee industry, policy makers and consumers.

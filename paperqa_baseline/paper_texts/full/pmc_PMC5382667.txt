@@ -1,0 +1,9 @@
+Title: Systemic Administration of Induced Neural Stem Cells Regulates Complement Activation in Mouse Closed Head Injury Models
+Authors: Mou Gao, Qin Dong, Hui Yao, Yingzhou Lu, Xinchao Ji, Mingming Zou, Zhijun Yang, Minhui Xu, Ruxiang Xu
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep45989
+Paper ID: pmc_PMC5382667
+
+Abstract:
+Complement activation plays important roles in the pathogenesis of central nervous system (CNS) diseases. Patients face neurological disorders due to the development of complement activation, which contributes to cell apoptosis, brain edema, blood-brain barrier dysfunction and inflammatory infiltration. We previously reported that induced neural stem cells (iNSCs) can promote neurological functional recovery in closed head injury (CHI) animals. Remarkably, we discovered that local iNSC grafts have the potential to modulate CNS inflammation post-CHI. In this study, we aimed to explore the role of systemically delivered iNSCs in complement activation following CNS injury. Our data showed that iNSC grafts decreased the levels of sera C3a and C5a and down-regulated the expression of C3d, C9, active Caspase-3 and Bax in the brain, kidney and lung tissues of CHI mice. Furthermore, iNSC grafts decreased the levels of C3d + /NeuN + , C5b-9 + /NeuN + , C3d + /Map2 + and C5b-9 + /Map2 + neurons in the injured cortices of CHI mice. Subsequently, we explored the mechanisms underlying these effects. With flow cytometry analysis, we observed a dramatic increase in complement receptor type 1-related protein y (Crry) expression in iNSCs after CHI mouse serum treatment. Moreover, both in vitro and in vivo loss-of-function studies revealed that iNSCs could modulate complement activation via Crry expression.

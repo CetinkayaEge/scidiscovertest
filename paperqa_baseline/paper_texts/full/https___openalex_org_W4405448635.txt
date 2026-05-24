@@ -1,0 +1,9 @@
+Title: Harnessing AI-Powered Genomic Research for Sustainable Crop Improvement
+Authors: Elżbieta Wójcik‐Gront, Bartłomiej Zieniuk, Magdalena Pawełkowicz
+Year: 2024
+Venue: Agriculture
+DOI: https://doi.org/10.3390/agriculture14122299
+Paper ID: https://openalex.org/W4405448635
+
+Abstract:
+Artificial intelligence (AI) can revolutionize agriculture by enhancing genomic research and promoting sustainable crop improvement. AI systems integrate machine learning (ML) and deep learning (DL) with big data to identify complex patterns and relationships by analyzing vast genomic, phenotypic, and environmental datasets. This capability accelerates breeding cycles, improves predictive accuracy, and supports the development of climate-resilient, high-yielding crop varieties. Applications such as precision agriculture, automated phenotyping, predictive analytics, and early pest and disease detection demonstrate AI’s ability to optimize agricultural practices while promoting sustainability. Despite these advancements, challenges remain, including fragmented data sources, variability in phenotyping protocols, and data ownership concerns. Addressing these issues through standardized data integration frameworks, advanced analytical tools, and ethical AI practices will be critical for realizing AI’s full agricultural potential. This review provides a comprehensive overview of AI-powered genomic research, highlights the role of big data in training robust AI models, and explores ethical and technological considerations for sustainable agricultural practices.

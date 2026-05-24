@@ -1,0 +1,9 @@
+Title: Asymmetric arene hydrogenation: towards sustainability and application
+Authors: Lukas Lückemeier, Marco Pierau, Frank Glorius
+Year: 2023
+Venue: Chemical Society Reviews
+DOI: https://doi.org/10.1039/d3cs00329a
+Paper ID: https://openalex.org/W4383711395
+
+Abstract:
+(Hetero)aromatic compounds are vastly available and easy to functionalise building blocks in the chemical industry. Asymmetric arene hydrogenation enables direct access to complex three-dimensional scaffolds with (multiple) defined stereocentres in a single catalytic process and, by this, the rapid installation of molecular complexity. The potential usage of hydrogen from renewable sources and perfect atom economy bears the potential for sustainable and broadly applicable transformations to valuable products. The aim of this review is to present the state-of-the-art in transition-metal catalysed asymmetric hydrogenation of (hetero)arenes, to highlight recent advances and important trends and to provide a broad overview for the reader.

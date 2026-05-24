@@ -1,0 +1,9 @@
+Title: ELIXIR: providing a sustainable infrastructure for life science data at European scale
+Authors: Jennifer Harrow, Rachel Drysdale, Andrew Smith, Susanna Repo, Jerry Lanfear, Niklas Blomberg
+Year: 2021
+Venue: Bioinformatics
+DOI: https://doi.org/10.1093/bioinformatics/btab481
+Paper ID: https://openalex.org/W3175582711
+
+Abstract:
+In 2012, the Digital Universe Study reported that 'less than 1% of the World's data is analyzed and less than 20% is protected' and recommended that management plans were needed to harness the potential within these data streams Life science is a data science that is dependent on the generation, sharing and integrative analysis of vast quantities of digital data. However, these data are complex and fragmented, creating a significant barrier to their integration and reuse. Data are generated for different research purposes at thousands of facilities across the world, with diverse formats, annotations, methodologies and metadata standards. Interpreting this data is difficult and often involves integrating very large datasets from multiple sources. Certain data types such as sensitive human data archived under controlled access require protection, so data federation and sharing are a challenge in this context

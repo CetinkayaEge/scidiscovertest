@@ -1,0 +1,9 @@
+Title: Inter-rater agreement between radiologists using the novel CT-TDV (T3c+; tumour deposits; EMVI) system in patients with potentially curable right colon cancer
+Authors: Nicola Hodges, Oliver Duxbury, Alison Corr, Seung Hyon Cho, Danilo Miskovic, Gina Brown
+Year: 2023
+Venue: The British Journal of Radiology
+DOI: 10.1259/bjr.20220682
+Paper ID: pmc_PMC10230396
+
+Abstract:
+Objectives: The novel CT-TDV scoring system, identifying T3 c + disease; the presence/absence of tumour deposits and EMVI has been shown to be superior in predicting prognosis when compared to the CT-TNM staging system in the evaluation of colon cancer. Reproducibility of this scoring system between specialist GI radiologists has not been assessed previously. The aim of this study was to assess the inter-rater agreement of gastrointestinal radiologists in assessing the novel pre-operative CT-TDV scoring of patients with potentially curable right-sided colon cancer. Methods: Ninety-three right colon cancer pre-operative CT scans were graded as CT TDV “good” versus TDV “poor” by four radiologists. Inter-rater agreement was assessed using the intraclass correlation coefficient (ICC) between all four readers and individual readers against the central radiologist using Cohen’s κ statistic. Results: The ICC comparing those graded as TDV “good” versus TDV “poor” for all 93 cases was 0.61 (0.51–0.70) indicating moderate reliability. Individual κ scores across the 93 cases were 0.76, 0.59 and 0.59 ( p < 0.001) indicating moderate to substantial agreement. Conclusion: The CT TDV scoring system is reproducible amongst trained gastrointestinal radiologists in the assessment of newly diagnosed right colon cancer. Advances in knowledge: This further validates the clinical utility of the CT TDV scoring system as a prognostic tool to guide the management of patients with potentially curable right colon cancer.

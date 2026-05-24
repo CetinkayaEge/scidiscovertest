@@ -1,0 +1,9 @@
+Title: Mindful Application of Digitalization for Sustainable Development: The Digitainability Assessment Framework
+Authors: Shivam Gupta, Jakob Rhyner
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14053114
+Paper ID: https://openalex.org/W4221044399
+
+Abstract:
+Digitalization is widely recognized as a transformative power for sustainable development. Careful alignment of progress made by digitalization with the globally acknowledged Sustainable Development Goals (SDGs) is crucial for inclusive and holistic sustainable development in the digital era. However, limited reference has been made in SDGs about harnessing the opportunities offered by digitalization capabilities. Moreover, research on inhibiting or enabling effects of digitalization considering its multi-faceted interlinkages with the SDGs and their targets is fragmented. There are only limited instances in the literature examining and categorizing the impact of digitalization on sustainable development. To overcome this gap, this paper introduces a new Digitainability Assessment Framework (DAF) for context-aware practical assessment of the impact of the digitalization intervention on the SDGs. The DAF facilitates in-depth assessment of the many diverse technical, social, ethical, and environmental aspects of a digital intervention by systematically examining its impact on the SDG indicators. Our approach draws on and adapts concepts of the Theory of Change (ToC). The DAF should support developers, users as well policymakers by providing a 360-degree perspective on the impact of digital services or products, as well as providing hints for its possible improvement. We demonstrate the application of the DAF with the three test case studies illustrating how it supports in providing a holistic view of the relation between digitalization and SDGs.

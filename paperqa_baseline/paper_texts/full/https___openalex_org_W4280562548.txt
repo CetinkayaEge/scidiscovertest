@@ -1,0 +1,9 @@
+Title: Implementing the EU Chemicals Strategy for Sustainability: The case of food contact chemicals of concern
+Authors: Lisa Zimmermann, Martin Scheringer, Birgit Geueke, Justin M. Boucher, Lindsey V. Parkinson, Ksenia J. Groh, Jane Muncke
+Year: 2022
+Venue: Journal of Hazardous Materials
+DOI: https://doi.org/10.1016/j.jhazmat.2022.129167
+Paper ID: https://openalex.org/W4280562548
+
+Abstract:
+The EU Chemicals Strategy for Sustainability (CSS) aims at removing the most harmful chemicals from consumer products, including from food contact materials (FCMs). If implemented as intended, the CSS has the potential to significantly improve the protection of public health by banning the use of chemicals of concern that are carcinogenic, mutagenic, or toxic to reproduction (CMRs), or persistent and bioaccumulative, or endocrine-disrupting chemicals (EDCs) in FCMs. However, until now an overview of such food contact chemicals of concern (FCCoCs) has not been available, because the CSS is fairly recent. Therefore, we here systematically analyze the food contact chemicals listed for intentional use in FCMs and identify known FCCoCs. We present a list of 388 FCCoCs that should be phased-out from use. Of these, 352 are CMRs, four are per- and polyfluoroalkyl substances (PFAS), and 127 have empirical evidence for presence in FCMs. Importantly, 30 FCCoCs with evidence for presence are monomers of which 22 have evidence for migration into foodstuff showing that monomers in FCMs indeed become relevant for human exposure. Our findings justify moving away from a risk- towards a hazard-based approach to regulation of chemicals in FCMs.

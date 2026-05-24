@@ -1,0 +1,9 @@
+Title: Organophosphorous Pesticide Detection in Olive Oil by Using a Miniaturized, Easy-to-Use, and Cost-Effective Biosensor Combined with QuEChERS for Sample Clean-Up
+Authors: Fabiana Arduini, Matteo Forchielli, Viviana Scognamiglio, Kozitsina Alisa Nikolaevna, Danila Moscone
+Year: 2016
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010034
+Paper ID: pmc_PMC5298607
+
+Abstract:
+Herein, we report a portable electrochemical biosensor based on butyrylcholinesterase (BChE) immobilized on carbon black (CB)-modified screen-printed electrodes (SPEs) for the detection of organophosphorous pesticides in olive oil. The BChE/CB-SPE biosensor was developed to detect paraoxon in standard solutions as well as in olive oil samples previously treated with the QuEChERS method to extract pesticides from the whole fatty matrix. The biosensor shows a linear concentration range of between 20 and 100 ppb for paraoxon both in standard solutions (phosphate buffer 0.05 M) and in olive oil extracts, with a detection limit of 6 ppb in olive oil extract, corresponding to 10% of inhibition. The accuracy of this biosensor in olive oil samples was assessed with olive oil spiked with paraoxon, obtaining satisfactory recovery values.

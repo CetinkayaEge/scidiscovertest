@@ -1,0 +1,9 @@
+Title: Recovery and facets for deformation twins in minerals and metals
+Authors: John P. Hirth, Dongyue Xie, Greg Hirth, Jian Wang
+Year: 2023
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+DOI: 10.1073/pnas.2215085120
+Paper ID: pmc_PMC9974503
+
+Abstract:
+Significance Twins are an important deformation mechanism in low-symmetry crystals. The TM model presented here for different types of twins supersedes the classical model and introduces specific types of twins. The twinning parameters used in constitutive modeling and in structural descriptions of twins are modified. The concepts presented here can be extended to cyclic loading, important in shape–memory alloys. Type II and IV twins with irrational twin boundaries are studied by high-resolution transmission electron microscopy in two plagioclase crystals. The twin boundaries in these and in NiTi are found to relax to form rational facets separated by disconnections. The topological model (TM), amending the classical model, is required for a precise theoretical prediction of the orientation of the Type II/IV twin plane. Theoretical predictions also are presented for types I, III, V, and VI twins. The relaxation process that forms a faceted structure entails a separate prediction from the TM. Hence, faceting provides a difficult test for the TM. Analysis of the faceting by the TM is in excellent agreement with the observations.

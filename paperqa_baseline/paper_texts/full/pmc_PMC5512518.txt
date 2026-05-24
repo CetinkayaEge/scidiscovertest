@@ -1,0 +1,9 @@
+Title: Nature of the Electrochemical Properties of Sulphur Substituted LiMn 2 O 4 Spinel Cathode Material Studied by Electrochemical Impedance Spectroscopy
+Authors: Monika Bakierska, Michał Świętosławski, Roman Dziembaj, Marcin Molenda
+Year: 2016
+Venue: Materials
+DOI: 10.3390/ma9080696
+Paper ID: pmc_PMC5512518
+
+Abstract:
+In this work, nanostructured LiMn 2 O 4 (LMO) and LiMn 2 O 3.99 S 0.01 (LMOS1) spinel cathode materials were comprehensively investigated in terms of electrochemical properties. For this purpose, electrochemical impedance spectroscopy (EIS) measurements as a function of state of charge (SOC) were conducted on a representative charge and discharge cycle. The changes in the electrochemical performance of the stoichiometric and sulphur-substituted lithium manganese oxide spinels were examined, and suggested explanations for the observed dependencies were given. A strong influence of sulphur introduction into the spinel structure on the chemical stability and electrochemical characteristic was observed. It was demonstrated that the significant improvement in coulombic efficiency and capacity retention of lithium cell with LMOS1 active material arises from a more stable solid electrolyte interphase (SEI) layer. Based on EIS studies, the Li ion diffusion coefficients in the cathodes were estimated, and the influence of sulphur on Li + diffusivity in the spinel structure was established. The obtained results support the assumption that sulphur substitution is an effective way to promote chemical stability and the electrochemical performance of LiMn 2 O 4 cathode material.

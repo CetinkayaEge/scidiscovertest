@@ -1,0 +1,9 @@
+Title: Multi-objective optimization of thermoplastic CF/PEKK drilling through a hybrid method: An approach towards sustainable manufacturing
+Authors: Jia Ge, Wenchang Zhang, Ming Luo, G. Catalanotti, Brian G. Falzon, Colm Higgins, Dinghua Zhang, Yan Jin, Dan Sun
+Year: 2023
+Venue: Composites Part A Applied Science and Manufacturing
+DOI: https://doi.org/10.1016/j.compositesa.2022.107418
+Paper ID: https://openalex.org/W4313531884
+
+Abstract:
+Carbon-fibre-reinforced-polyetherketonketone (CF/PEKK) has attracted increasing interest in the aviation industry due to its self-healing properties and ease of recycle and repair. However, the machining performance of CF/PEKK is not well understood and there is a lack of optimization study for minimizing its hole damage and improving the production efficiency. Here, we report the first multi-objective optimization study for CF/PEKK drilling. A hybrid optimization algorithm integrating Non-dominated Sorting Genetic Algorithm-II (NSGA-II) and Techniques for Order of Preference by Similarity to Ideal Solution (TOPSIS) is deployed to obtain the Pareto solutions and rank the multiple solutions based on closeness to ideal solutions. To highlight the impact of different matrix properties on the optimization outcome, comparative study with conventional thermoset carbon fibre reinforced epoxy composite (CF/epoxy) is carried out for the first time. Experimental validation shows the proposed method can achieve 91.5–95.7% prediction accuracy and the Pareto solutions effectively controlled the delamination and thermal damage within permissible tolerance. The vastly different optimal drilling parameters identified for CF/PEKK as compared to CF/epoxy is attributed to the thermoplastic nature of CF/PEKK and the unique thermal/mechanical interaction characteristics displayed during the machining process.

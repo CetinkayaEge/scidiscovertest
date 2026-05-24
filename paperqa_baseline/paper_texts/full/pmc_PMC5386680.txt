@@ -1,0 +1,9 @@
+Title: Meta-analysis of the effects of oral and intravenous dexamethasone premedication in the prevention of paclitaxel-induced allergic reactions
+Authors: Fu-chao Chen, Lin-hai Wang, Xiao-yu Zheng, Xiu-min Zhang, Jun Zhang, Lin-Jun Li
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.13705
+Paper ID: pmc_PMC5386680
+
+Abstract:
+Background Dexamethasone premedication is required to prevent paclitaxel-related hypersensitivity reactions (HSRs). Oral dexamethasone (PO-D) has been considered the standard premedication regimen. However, whether intravenous dexamethasone (IV-D) is feasible for preventing paclitaxel-related HSRs is still unclear. We conducted a meta-analysis to compare these two regimens. Methods We performed a systematic search in the PubMed, China National Knowledge Infrastructure, and Web of Science databases for relevant articles published before June 2016. Outcomes included HSRs and severe HSRs. Statistical analyses were performed using RevMan 5.2 software. Result Six studies comprising 1347 patients were included in the meta-analysis. The PO-D premedication regimen showed a significantly decreased incidence of severe HSRs compared with the IV-D regimen with an OR of 0.53 (95% CI 0.28-0.99, p = 0.05). However, there was no difference in the overall paclitaxel-related HSR rates between the two premedication regimens (OR 0.76, 95% CI 0.55-1.06, p = 0.11). Subgroup analyses according to study type and country of origin showed similar statistical results between the two premedication regimens. Conclusion Our meta-analysis showed that the PO-D premedication regimen is superior to the IV-D regimen in preventing paclitaxel-related HSRs. Additional randomized controlled trials are needed to confirm our findings.

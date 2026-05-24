@@ -1,0 +1,9 @@
+Title: Towards a Sustainable Circular Economy: Algae‐Based Bioplastics and the Role of Internet‐of‐Things and Machine Learning
+Authors: Abu Danish Aiman Bin Abu Sofian, Hooi Ren Lim, Sivakumar Manickam, Wei Lun Ang, Pau Loke Show
+Year: 2023
+Venue: ChemBioEng Reviews
+DOI: https://doi.org/10.1002/cben.202300028
+Paper ID: https://openalex.org/W4388421046
+
+Abstract:
+Abstract The growing potential of sustainable materials such as polyhydroxyalkanoates (PHAs), polylactic acid (PLA), alginate, carrageenan, and ulvan for bioplastics production presents an opportunity to promote a sustainable circular economy. This review investigates their properties, applications, and challenges. Bioplastics derived from algae offer an environmentally friendly alternative to petroleum‐based plastics, a shift of paramount importance to society due to the escalating environmental concerns associated with traditional plastics. The role of the internet‐of‐things (IoT) and machine learning in refining these bioplastics' production and development processes is emphasized. IoT monitors cultivation conditions, data collection, and process control for more sustainable production. Machine learning can enhance algae cultivation, increasing the supply of raw materials for algal bioplastics and improving their efficiency and output. The study results indicate the promise of algae‐based bioplastics, IoT, and machine learning in fostering a more environmentally sustainable future. By harnessing these advanced technologies, optimization of bioplastic production is possible, potentially revolutionizing the materials industry and addressing existing challenges toward achieving a sustainable circular economy.

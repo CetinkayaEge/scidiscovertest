@@ -1,0 +1,9 @@
+Title: Sustainable Sensing with Paper Microfluidics: Applications in Health, Environment, and Food Safety
+Authors: Sanjay Kumar, Jyoti Kaushal, Heow Pueh Lee
+Year: 2024
+Venue: Biosensors
+DOI: https://doi.org/10.3390/bios14060300
+Paper ID: https://openalex.org/W4399429631
+
+Abstract:
+This manuscript offers a concise overview of paper microfluidics, emphasizing its sustainable sensing applications in healthcare, environmental monitoring, and food safety. Researchers have developed innovative sensing platforms for detecting pathogens, pollutants, and contaminants by leveraging the paper's unique properties, such as biodegradability and affordability. These portable, low-cost sensors facilitate rapid diagnostics and on-site analysis, making them invaluable tools for resource-limited settings. This review discusses the fabrication techniques, principles, and applications of paper microfluidics, showcasing its potential to address pressing challenges and enhance human health and environmental sustainability.

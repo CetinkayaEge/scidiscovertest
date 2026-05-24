@@ -1,0 +1,9 @@
+Title: Differential expression of interferon-induced protein with tetratricopeptide repeats 3 ( IFIT3 ) in Alzheimer's disease and HIV-1 associated neurocognitive disorders
+Authors: Armando Garces, Bryan Martinez, Roberto De La Garza, Deepa Roy, Kaylie-Anna Vallee, Jerel Adam Fields, David J. Moore, Hansapani Rodrigo, Upal Roy
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-022-27276-7
+Paper ID: pmc_PMC9968324
+
+Abstract:
+The United Nations projects that one in every six people will be over the age of 65 by the year 2050. With a rapidly aging population, the risk of Alzheimer's disease (AD) becomes a major concern. AD is a multifactorial disease that involves neurodegeneration in the brain with mild dementia and deficits in memory and other cognitive domains. Additionally, it has been established that individuals with Human Immunodeficiency Virus-1 (HIV-1) experience a 5 to 10-year accelerated aging and an increased risk of developing HIV-associated neurocognitive disorders (HAND). Despite a significant amount of clinical evidence pointing towards a potential overlap between neuropathogenic processes in HAND and AD, the underlying epigenetic link between these two diseases is mostly unknown. This study is focused on identifying differentially expressed genes observed in both AD and HAND using linear regression models and a more robust significance analysis of microarray. The results established that the dysregulated type 1 and 2 interferon pathways observed in both AD and HAND contribute to the similar pathologies of these diseases within the brain. The current study identifies the important roles of interferon pathways in AD and HAND, a relationship that may be useful for earlier detection in the future.

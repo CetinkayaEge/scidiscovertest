@@ -1,0 +1,9 @@
+Title: Energy, exergy, sustainability and environmental emission analysis of coal-fired thermal power plant
+Authors: Vivek Kumar, ‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬Vinod Kumar Saxena, Rakesh Kumar, Shravan Kumar
+Year: 2023
+Venue: Ain Shams Engineering Journal
+DOI: https://doi.org/10.1016/j.asej.2023.102416
+Paper ID: https://openalex.org/W4385552857
+
+Abstract:
+Exergy analysis has recently gained importance in understanding process control and mechanism. Above-mentioned approach is detrimental in dealing with today’s stringent policies in energy security, saving, reclamation through various strategies. The current investigation is an integrated coal-fired thermal power plant, from which one-unit processes at 210 MW. Through the energy analysis, about 64.24% of the total energy loss in the installed condenser is the major equipment for energy destruction. From the evaluated exergy analysis, the major equipment, the boiler in the overall plant, has exergy destruction of 88.91%. From sustainability analysis infers that the generation system's high depletion number corresponds to a low SI between 1.546 and 1.594. With an increase in environment temperature from 25 °C to 45 °C, reduction of coal consumption and ash generation per unit fuel increases from 19.01 to 21.05 kg/h. Also, CO2 and SO2 emission reduction increases from 35.03 and 0.213 to 38.79 and 0.236 kg/h.

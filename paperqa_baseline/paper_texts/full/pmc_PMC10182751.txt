@@ -1,0 +1,9 @@
+Title: Strategies to Address Current Challenges in Real-World Evidence Generation in Japan
+Authors: Thomas Laurent, Dimitra Lambrelli, Ryozo Wakabayashi, Takahiro Hirano, Ryohei Kuwatsuru
+Year: 2023
+Venue: Drugs - Real World Outcomes
+DOI: 10.1007/s40801-023-00371-5
+Paper ID: pmc_PMC10182751
+
+Abstract:
+The generation of real-world evidence (RWE), which describes patient characteristics or treatment patterns using real-world data (RWD), is rapidly growing more popular as a tool for decision-making in Japan. The aim of this review was to summarize challenges to RWE generation in Japan related to pharmacoepidemiology, and to propose strategies to address some of these challenges. We first focused on data-related issues, including the lack of transparency of RWD sources, linkage across different care settings, definitions of clinical outcomes, and the overall assessment framework of RWD when used for research purposes. Next the study reviewed methodology-related challenges. As lack of design transparency impairs study reproducibility, transparent reporting of study design is critical for stakeholders. For this review, we considered different sources of biases and time-varying confounding, along with potential study design and methodological solutions. Additionally, the implementation of robust assessment of definition uncertainty, misclassification, and unmeasured confounders would enhance RWE credibility in light of RWD source-related limitations, and is being strongly considered by task forces in Japan. Overall, the development of guidance for best practices on data source selection, design transparency, and analytical methods to address different sources of biases and robustness in the process of RWE generation will enhance credibility for stakeholders and local decision-makers.

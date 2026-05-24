@@ -1,0 +1,9 @@
+Title: Cryptocurrencies on the road to sustainability: Ethereum paving the way for Bitcoin
+Authors: Alex de Vries
+Year: 2022
+Venue: Patterns
+DOI: https://doi.org/10.1016/j.patter.2022.100633
+Paper ID: https://openalex.org/W4311903551
+
+Abstract:
+Amid the current climate emergency and global energy crisis, regulators have started to consider their options to limit the power demand of cryptocurrency networks. One specific way crypto-asset communities can limit their environmental impact is by avoiding or replacing the energy-intensive proof-of-work (PoW) mining mechanism. Ethereum, the second largest crypto-asset by market capitalization, had its PoW replaced with an alternative known as proof-of-stake during an event called The Merge on September 15, 2022. In this perspective, the likely range of electricity saved due to this change is estimated, while the limitations in assessing these figures are highlighted. Lastly, the challenges and opportunities in replicating The Merge on other cryptocurrencies such as Bitcoin are discussed.

@@ -1,0 +1,9 @@
+Title: Developing a Prediction Model of Demolition-Waste Generation-Rate via Principal Component Analysis
+Authors: Gi-Wook Cha, Se-Hyu Choi, Won-Hwa Hong, Choon-Wook Park
+Year: 2023
+Venue: International Journal of Environmental Research and Public Health
+DOI: 10.3390/ijerph20043159
+Paper ID: pmc_PMC9968033
+
+Abstract:
+Construction and demolition waste accounts for a sizable proportion of global waste and is harmful to the environment. Its management is therefore a key challenge in the construction industry. Many researchers have utilized waste generation data for waste management, and more accurate and efficient waste management plans have recently been prepared using artificial intelligence models. Here, we developed a hybrid model to forecast the demolition-waste-generation rate in redevelopment areas in South Korea by combining principal component analysis (PCA) with decision tree, k-nearest neighbors, and linear regression algorithms. Without PCA, the decision tree model exhibited the highest predictive performance ( R 2 = 0.872) and the k-nearest neighbors (Chebyshev distance) model exhibited the lowest ( R 2 = 0.627). The hybrid PCA–k-nearest neighbors (Euclidean uniform) model exhibited significantly better predictive performance ( R 2 = 0.897) than the non-hybrid k-nearest neighbors (Euclidean uniform) model ( R 2 = 0.664) and the decision tree model. The mean of the observed values, k-nearest neighbors (Euclidean uniform) and PCA–k-nearest neighbors (Euclidean uniform) models were 987.06 (kg·m −2 ), 993.54 (kg·m −2 ) and 991.80 (kg·m −2 ), respectively. Based on these findings, we propose the k-nearest neighbors (Euclidean uniform) model using PCA as a machine-learning model for demolition-waste-generation rate predictions.

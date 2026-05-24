@@ -1,0 +1,9 @@
+Title: Linking Digital Technologies to Sustainability through Industry 5.0: A bibliometric Analysis
+Authors: Adel Ben Youssef, Issam Mejri
+Year: 2023
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su15097465
+Paper ID: https://openalex.org/W4367626363
+
+Abstract:
+Industry 5.0 is a new phase of industrialization which focuses on humans, resilience, and sustainability. The importance of the research on Industry 5.0 has grown considerably and includes a range of different themes. Using a large corpus of data from Scopus, this study conducts a bibliometric review with the aim of providing a holistic overview of the research on Industry 5.0. We review 300 publications on Industry 5.0 to identify their theoretical foundations, research trajectories, and main topics, as well as to propose new research orientations. Our review is based on the integration of a co-citation analysis, historical direct citation analysis, and co-occurrence analysis. We found that most articles on Industry 5.0 have been published during 2020–2023 and focus mainly on India, China, and the United States. IEEE Transactions on Industrial Informatics, Sustainability, and Applied Sciences are the most significant journals publishing research on Industry 5.0. Sustainable development, human-centricity, smart manufacturing, and 6G are the most frequent concepts in the Industry 5.0 domain.

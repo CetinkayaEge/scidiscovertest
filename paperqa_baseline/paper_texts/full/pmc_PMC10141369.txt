@@ -1,0 +1,9 @@
+Title: Liquid Biopsies Poorly miRror Renal Ischemia-Reperfusion Injury
+Authors: Adaysha C. Williams, Vaishali Singh, Pengyuan Liu, Alison J. Kriegel
+Year: 2023
+Venue: Non-Coding RNA
+DOI: 10.3390/ncrna9020024
+Paper ID: pmc_PMC10141369
+
+Abstract:
+Acute kidney injury (AKI) is the rapid reduction in renal function. It is often difficult to detect at an early stage. Biofluid microRNAs (miRs) have been proposed as novel biomarkers due to their regulatory role in renal pathophysiology. The goal of this study was to determine the overlap in AKI miRNA profiles in the renal cortex, urine, and plasma samples collected from a rat model of ischemia-reperfusion (IR)-induced AKI. Bilateral renal ischemia was induced by clamping the renal pedicles for 30 min, followed by reperfusion. Urine was then collected over 24 h, followed by terminal blood and tissue collection for small RNA profiling. Differentially expressed (IR vs. sham) miRs within the urine and renal cortex sample types demonstrated a strong correlation in normalized abundance regardless of injury (IR and sham: R 2 = 0.8710 and 0.9716, respectively). Relatively few miRs were differentially expressed in multiple samples. Further, there were no differentially expressed miRs with clinically relevant sequence conservation common between renal cortex and urine samples. This project highlights the need for a comprehensive analysis of potential miR biomarkers, including analysis of pathological tissues and biofluids, with the goal of identifying the cellular origin of altered miRs. Analysis at earlier timepoints is needed to further evaluate clinical potential.

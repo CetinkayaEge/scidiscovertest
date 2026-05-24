@@ -1,0 +1,9 @@
+Title: Does regional integration matter for sustainable economic growth? Fostering the role of FDI, trade openness, IT exports, and capital formation in BRI countries
+Authors: Mubasher Zaman, Chen Pinglu, Sayed Irshad Hussain, Atta Ullah, Ningyu Qian
+Year: 2021
+Venue: Heliyon
+DOI: https://doi.org/10.1016/j.heliyon.2021.e08559
+Paper ID: https://openalex.org/W4200564856
+
+Abstract:
+IT exports, capital formation, FDI, and trade openness are the key elements to bring sustainable economic growth to any country, since these act as a lifeline to bring sustainability to countries. This study aims to estimate the impact of IT exports, gross capital formation, FDI, and trade openness on sustainable economic growth with regional integration of BRI countries using the annual panel data from 2013 to 2018. Moderating variable is regional integration, while the trade freedom index, investment freedom index, real interest rate, and inflation are control variables. The two-step system GMM technique is applied to the sample as the number of moment conditions is greater than the number of parameters. The results suggest that FDI and gross capital formation have a substantial positive impact on economic growth, whereas IT exports and trade openness have a negative, insignificant impact. The overall results suggest that China's outward FDI has boosted the economic growth in countries while trade openness has a negligible since most developing countries need to invest in industrialization and encourage exports based growth.

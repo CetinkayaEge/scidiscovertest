@@ -1,0 +1,9 @@
+Title: Association of C-Type Lectin Mincle with FcεRIβγ Subunits Leads to Functional Activation of RBL-2H3 Cells through Syk
+Authors: Chisato Honjoh, Kazuyasu Chihara, Hatsumi Yoshiki, Shota Yamauchi, Kenji Takeuchi, Yuji Kato, Yukio Hida, Tamotsu Ishizuka, Kiyonao Sada
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46064
+Paper ID: pmc_PMC5385489
+
+Abstract:
+Macrophage-inducible C-type lectin (Mincle) interacts with the γ-subunit of high-affinity IgE receptor (FcεRIγ) and activates Syk by recognizing its specific ligand, trehalose-6,6′-dimycolate, a glycolipid produced by Mycobacterium tuberculosis . It has been suggested that mast cells participate in the immune defense against pathogenic microbes including M. tuberculosis , although the functions are still uncertain. In this study, we examined the Mincle-mediated signaling pathway and cellular responses using RBL-2H3 cells. Mincle formed a protein complex with not only FcεRIγ but also FcεRIβ in a stable cell line expressing myc-tagged Mincle. In addition, engagement of Mincle increased the levels of protein tyrosine phosphorylation and ERK phosphorylation. A pull-down assay demonstrated that cross-linking of Mincle induced binding of FcεRIβγ subunits to the Src homology 2 domain of Syk. Pharmacological and genetic studies indicated that activation of Syk was critical for Mincle-mediated activation of phospholipase Cγ2, leading to the activation of ERK and nuclear factor of activated T cells. Moreover, engagement of Mincle efficiently induced up-regulation of characteristic mast cell genes in addition to degranulation. Taken together, our present results suggest that mast cells contribute to Mincle-mediated immunity through Syk activation triggered by association with the FcεRIβγ complex.

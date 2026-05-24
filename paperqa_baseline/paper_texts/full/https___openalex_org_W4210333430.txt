@@ -1,0 +1,9 @@
+Title: A natural language processing model for supporting sustainable development goals: translating semantics, visualizing nexus, and connecting stakeholders
+Authors: Takanori Matsui, Kanoko Suzuki, Kyota Ando, Yuya Kitai, Chihiro Haga, Naoki Masuhara, Shun Kawakubo
+Year: 2022
+Venue: Sustainability Science
+DOI: https://doi.org/10.1007/s11625-022-01093-3
+Paper ID: https://openalex.org/W4210333430
+
+Abstract:
+Sharing successful practices with other stakeholders is important for achieving SDGs. In this study, with a deep-learning natural language processing model, bidirectional encoder representations from transformers (BERT), the authors aimed to build (1) a classifier that enables semantic mapping of practices and issues in the SDGs context, (2) a visualizing method of SDGs nexus based on co-occurrence of goals (3) a matchmaking process between local issues and initiatives that may embody solutions. A data frame was built using documents published by official organizations and multi-labels corresponding to SDGs. A pretrained Japanese BERT model was fine-tuned on a multi-label text classification task, while nested cross-validation was conducted to optimize the hyperparameters and estimate cross-validation accuracy. A system was then developed to visualize the co-occurrence of SDGs and to couple the stakeholders by evaluating embedded vectors of local challenges and solutions. The paper concludes with a discussion of four future perspectives to improve the natural language processing system. This intelligent information system is expected to help stakeholders take action to achieve the sustainable development goals. Supplementary Information: The online version contains supplementary material available at 10.1007/s11625-022-01093-3.

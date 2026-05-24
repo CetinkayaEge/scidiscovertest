@@ -1,0 +1,9 @@
+Title: Intelligent Energy Management across Smart Grids Deploying 6G IoT, AI, and Blockchain in Sustainable Smart Cities
+Authors: Mithul Raaj A T, B. Saravana Balaji, Sai Arun Pravin R R, Rani Chinnappa Naidu, Rajesh Kumar M, Prakash Ramachandran, Sujatha Rajkumar, Vaegae Naveen Kumar, Geetika Aggarwal, Arooj Mubashara Siddiqui
+Year: 2024
+Venue: IoT
+DOI: https://doi.org/10.3390/iot5030025
+Paper ID: https://openalex.org/W4402166637
+
+Abstract:
+In response to the growing need for enhanced energy management in smart grids in sustainable smart cities, this study addresses the critical need for grid stability and efficient integration of renewable energy sources, utilizing advanced technologies like 6G IoT, AI, and blockchain. By deploying a suite of machine learning models like decision trees, XGBoost, support vector machines, and optimally tuned artificial neural networks, grid load fluctuations are predicted, especially during peak demand periods, to prevent overloads and ensure consistent power delivery. Additionally, long short-term memory recurrent neural networks analyze weather data to forecast solar energy production accurately, enabling better energy consumption planning. For microgrid management within individual buildings or clusters, deep Q reinforcement learning dynamically manages and optimizes photovoltaic energy usage, enhancing overall efficiency. The integration of a sophisticated visualization dashboard provides real-time updates and facilitates strategic planning by making complex data accessible. Lastly, the use of blockchain technology in verifying energy consumption readings and transactions promotes transparency and trust, which is crucial for the broader adoption of renewable resources. The combined approach not only stabilizes grid operations but also fosters the reliability and sustainability of energy systems, supporting a more robust adoption of renewable energies.

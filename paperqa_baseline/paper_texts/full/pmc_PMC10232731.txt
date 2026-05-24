@@ -1,0 +1,9 @@
+Title: Antagonistic interactions among structured domains in the multivalent Bicc1-ANKS3-ANKS6 protein network govern phase transitioning of target mRNAs
+Authors: Benjamin Rothé, Simon Fortier, Céline Gagnieux, Céline Schmuziger, Daniel B. Constam
+Year: 2023
+Venue: iScience
+DOI: 10.1016/j.isci.2023.106855
+Paper ID: pmc_PMC10232731
+
+Abstract:
+Summary The growing number of diseases linked to aberrant phase transitioning of ribonucleoproteins highlights the need to uncover how the interplay between multivalent protein and RNA interactions is regulated. Cytoplasmic granules of the RNA binding protein Bicaudal-C (Bicc1) are regulated by the ciliopathy proteins ankyrin (ANK) and sterile alpha motif (SAM) domain-containing ANKS3 and ANKS6, but whether and how target mRNAs are affected is unknown. Here, we show that head-to-tail polymers of Bicc1 nucleated by its SAM domain are interconnected by K homology (KH) domains in a protein meshwork that mediates liquid-to-gel transitioning of client transcripts. Moreover, while the dispersion of these granules by ANKS3 concomitantly released bound mRNAs, co-recruitment of ANKS6 by ANKS3 reinstated Bicc1 condensation and ribonucleoparticle assembly. RNA-independent Bicc1 polymerization and its dual regulation by ANKS3 and ANKS6 represent a new mechanism to couple the reversible immobilization of client mRNAs to controlled protein phase transitioning between distinct metastable states. Graphical abstract Highlights • Self-interacting KH domains remodel SAM domain-induced Bicc1 fibers in a 3D meshwork • Recruitment to Bicc1 granules confers gel-like behavior to client mRNAs • Specific ANKS3 domains independently revert Bicc1 condensation and mRNA recruitment • Co-recruitment of ANKS6 by ANKS3 can reinstate mRNA condensation by Bicc1 granules Biological sciences; Biomolecules; Protein

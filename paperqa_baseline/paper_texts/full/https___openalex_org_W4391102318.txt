@@ -1,0 +1,9 @@
+Title: A Review of Lithium-Ion Battery Recycling: Technologies, Sustainability, and Open Issues
+Authors: Alessandra Zanoletti, Eleonora Carena, Chiara Ferrara, Elza Bontempi
+Year: 2024
+Venue: Batteries
+DOI: https://doi.org/10.3390/batteries10010038
+Paper ID: https://openalex.org/W4391102318
+
+Abstract:
+Lithium-ion batteries (LIBs) are a widely used energy storage technology as they possess high energy density and are characterized by the reversible intercalation/deintercalation of Li ions between electrodes. The rapid development of LIBs has led to increased production efficiency and lower costs for manufacturers, resulting in a growing demand for batteries and their application across various industries, particularly in different types of vehicles. In order to meet the demand for LIBs while minimizing climate-impacting emissions, the reuse, recycling, and repurposing of LIBs is a critical step toward achieving a sustainable battery economy. This paper provides a comprehensive review of lithium-ion battery recycling, covering topics such as current recycling technologies, technological advancements, policy gaps, design strategies, funding for pilot projects, and a comprehensive strategy for battery recycling. Additionally, this paper emphasizes the challenges associated with developing LIB recycling and the opportunities arising from these challenges, such as the potential for innovation and the creation of a more sustainable and circular economy. The environmental implications of LIB recycling are also evaluated with methodologies able to provide a sustainability analysis of the selected technology. This paper aims to enhance the comprehension of these trade-offs and encourage discussion on determining the “best” recycling route when targets are in conflict.

@@ -1,0 +1,9 @@
+Title: Welfare Consequences of Sustainable Finance
+Authors: Harrison Hong, Neng Wang, Jinqiang Yang
+Year: 2021
+Venue: National Bureau of Economic Research
+DOI: https://doi.org/10.3386/w28595
+Paper ID: https://openalex.org/W3150161105
+
+Abstract:
+We model the welfare consequences of portfolio mandates that restrict investors to hold firms with net-zero carbon emissions. To qualify for these mandates, value-maximizing firms have to accumulate decarbonization capital. Qualification lowers a firm's required rate of return by its decarbonization investments divided by Tobin's q, i.e., the dividend yield shareholders forgo to address the global-warming externality. The welfare-maximizing mandate approximates the firstbest solution, yielding welfare gains compared to laissez faire by mitigating the weather disaster risks resulting from carbon emissions. Our model generates transitions to steady-state decarbonization-to-productive capital ratios that we use to evaluate the optimality of proposed net-zero targets.

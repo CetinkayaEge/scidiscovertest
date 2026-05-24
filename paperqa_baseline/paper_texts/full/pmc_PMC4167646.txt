@@ -1,0 +1,9 @@
+Title: Design of CGMP Production of 18 F- and 68 Ga-Radiopharmaceuticals
+Authors: Yen-Ting Chi, Pei-Chun Chu, Hao-Yu Chao, Wei-Chen Shieh, Chuck C. Chen
+Year: 2014
+Venue: BioMed Research International
+DOI: 10.1155/2014/680195
+Paper ID: pmc_PMC4167646
+
+Abstract:
+Objective. Radiopharmaceutical production process must adhere to current good manufacturing process (CGMP) compliance to ensure the quality of precursor, prodrug (active pharmaceutical ingredient, API), and the final drug product that meet acceptance criteria. We aimed to develop an automated system for production of CGMP grade of PET radiopharmaceuticals. Methods. The hardware and software of the automated synthesizer that fit in the hot cell under cGMP requirement were developed. Examples of production yield and purity for 68 Ga-DOTATATE and 18 F-FDG at CGMP facility were optimized. Analytical assays and acceptance criteria for cGMP grade of 68 Ga-DOTATATE and 18 F-FDG were established. Results. CGMP facility for the production of PET radiopharmaceuticals has been established. Radio-TLC and HPLC analyses of 68 Ga-DOTATATE and 18 F-FDG showed that the radiochemical purity was 92% and 96%, respectively. The products were sterile and pyrogenic-free. Conclusion. CGMP compliance of radiopharmaceuticals has been reviewed. 68 Ga-DOTATATE and 18 F-FDG were synthesized with high radiochemical yield under CGMP process.

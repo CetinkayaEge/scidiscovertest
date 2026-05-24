@@ -1,0 +1,9 @@
+Title: Intelligent transportation systems for sustainable smart cities
+Authors: Mohamed Elassy, Mohammed Al-Hattab, Maen Takruri, Sufian A. Badawi
+Year: 2024
+Venue: Transportation Engineering
+DOI: https://doi.org/10.1016/j.treng.2024.100252
+Paper ID: https://openalex.org/W4394790048
+
+Abstract:
+Intelligent Transportation Systems are rapidly expanding to meet the growing demand for safer, more efficient, and sustainable transportation solutions. These systems encompass various applications, from traffic management and control to autonomous vehicles, aiming to enhance mobility experiences while addressing urbanization challenges. This paper examines key components of Intelligent Transportation Systems, including Vehicular Ad-hoc Networks, Intelligent Traffic Lights, Virtual Traffic Lights, and Mobility Prediction, emphasizing their role in improving transportation efficiency, safety, and sustainability. It explores recent advancements in communication systems that enable real-time Intelligent Transportation Systems operations, contributing to the realization of environmentally friendly smart cities.Moreover, the paper addresses security challenges associated with Intelligent Transportation Systems deployment, particularly concerning public transit privacy, and presents case studies illustrating the benefits of Intelligent Transportation Systems integration in specific urban areas, emphasizing its role in fostering Sustainable Smart Cities. Additionally, it examines proactive initiatives by automotive manufacturers in adhering to Intelligent Transportation Systems standards, ensuring mutual benefits for drivers and urban centers.

@@ -1,0 +1,9 @@
+Title: Sustained deep-tissue voltage recording using a fast indicator evolved for two-photon microscopy
+Authors: Zhuohe Liu, Xiaoyu Lu, Vincent Villette, Yueyang Gou, Kevin L. Colbert, Shujuan Lai, Sihui Asuka Guan, Michelle A. Land, Jihwan Lee, Tensae Assefa, Daniel R. Zollinger, Maria M. Korympidou, Anna Vlasits, Michelle M. Pang, Sharon Su, Changjia Cai, Emmanouil Froudarakis, Haiyang Mao, Saumil S. Patel, Cameron Smith, Annick Ayon, P Bízouard, Jonathan Bradley, Katrin Franke, Thomas R. Clandinin, Andrea Giovannucci, Andreas S. Tolias, Jacob Reimer, Stéphane Dieudonné, François St-Pierre
+Year: 2022
+Venue: Cell
+DOI: https://doi.org/10.1016/j.cell.2022.07.013
+Paper ID: https://openalex.org/W4293658735
+
+Abstract:
+Genetically encoded voltage indicators are emerging tools for monitoring voltage dynamics with cell-type specificity. However, current indicators enable a narrow range of applications due to poor performance under two-photon microscopy, a method of choice for deep-tissue recording. To improve indicators, we developed a multiparameter high-throughput platform to optimize voltage indicators for two-photon microscopy. Using this system, we identified JEDI-2P, an indicator that is faster, brighter, and more sensitive and photostable than its predecessors. We demonstrate that JEDI-2P can report light-evoked responses in axonal termini of Drosophila interneurons and the dendrites and somata of amacrine cells of isolated mouse retina. JEDI-2P can also optically record the voltage dynamics of individual cortical neurons in awake behaving mice for more than 30 min using both resonant-scanning and ULoVE random-access microscopy. Finally, ULoVE recording of JEDI-2P can robustly detect spikes at depths exceeding 400 μm and report voltage correlations in pairs of neurons.

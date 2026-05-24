@@ -1,0 +1,9 @@
+Title: Integrated Analysis of miRNAome and Transcriptome Identify Regulators of Elm Seed Aging
+Authors: Tiantian Ye, Xu Huang, Tianxiao Ma, Ying Li, Xiaofeng Wang, Hai Lu, Hua Xue
+Year: 2023
+Venue: Plants
+DOI: 10.3390/plants12081719
+Paper ID: pmc_PMC10140922
+
+Abstract:
+After maturity, seed vigor irreversibly decreases. Understanding the underlying mechanism is important to germplasm preservation. MicroRNAs (miRNAs) play vital regulatory roles in plants. However, little is known about how miRNAs regulate seed aging. Here, elm ( Ulmus pumila L.) seeds of three aging stages were subjected to a multi-omics analysis including transcriptome, small RNAome and degradome, to find regulators of seed aging. In the small RNAome, 119 miRNAs were identified, including 111 conservative miRNAs and eight novel miRNAs specific to elm seeds, named upu-miRn1-8. A total of 4900 differentially expressed genes, 22 differentially expressed miRNAs, and 528 miRNA-target pairs were identified during seed ageing. The target genes were mainly involved in the processing of proteins in the endoplasmic reticulum, metabolism, plant hormone signal transduction, and spliceosome. The expression of several DEGs and miRNAs were verified by qRT-PCR. The degradome data showed the exact degradation sites of upu-miR399a on ABCG25 , and upu-miR414a on GIF1 , etc. The dual-luciferase assay verified the negative regulation of upu-miR399a on ABCG25 and upu-miR414a on GIF1 in tobacco leaves. This study outlined the regulation network of mRNA, miRNA and miRNA-target genes during seed aging, which is helpful in integrating the regulation mechanisms of seed vigor at the transcriptional and post-transcriptional levels.

@@ -1,0 +1,9 @@
+Title: Reversal of the renal hyperglycemic memory in diabetic kidney disease by targeting sustained tubular p21 expression
+Authors: Moh’d Mohanad Al‐Dabet, Khurrum Shahzad, Ahmed Elwakiel, Alba Sulaj, Stefan Kopf, Fabian Bock, Ihsan Gadi, Silke Zimmermann, Rajiv Rana, Shruthi Krishnan, Dheerendra Gupta, Jayakumar Manoharan, Sameen Fatima, Sumra Nazir, Constantin Schwab, Ronny Baber, Markus Scholz, Robert Geffers, Peter R. Mertens, Peter P. Nawroth, John H. Griffin, Maria Keller, Chris Dockendorff, Shrey Kohli, Berend Isermann
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-32477-9
+Paper ID: https://openalex.org/W4293354575
+
+Abstract:
+A major obstacle in diabetes is the metabolic or hyperglycemic memory, which lacks specific therapies. Here we show that glucose-mediated changes in gene expression largely persist in diabetic kidney disease (DKD) despite reversing hyperglycemia. The senescence-associated cyclin-dependent kinase inhibitor p21 (Cdkn1a) was the top hit among genes persistently induced by hyperglycemia and was associated with induction of the p53-p21 pathway. Persistent p21 induction was confirmed in various animal models, human samples and in vitro models. Tubular and urinary p21-levels were associated with DKD severity and remained elevated despite improved blood glucose levels in humans. Mechanistically, sustained tubular p21 expression in DKD is linked to demethylation of its promoter and reduced DNMT1 expression. Two disease resolving agents, protease activated protein C (3K3A-aPC) and parmodulin-2, reversed sustained tubular p21 expression, tubular senescence, and DKD. Thus, p21-dependent tubular senescence is a pathway contributing to the hyperglycemic memory, which can be therapeutically targeted.

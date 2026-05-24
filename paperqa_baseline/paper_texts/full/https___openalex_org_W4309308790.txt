@@ -1,0 +1,9 @@
+Title: Sustainable Hydrogen Production from Seawater Electrolysis: Through Fundamental Electrochemical Principles to the Most Recent Development
+Authors: Gabriela Elena Badea, Cristina Hora, Ioana Maior, Anca Cojocaru, Calin Secui, Sanda Monica Filip, Florin Ciprian Dan
+Year: 2022
+Venue: Energies
+DOI: https://doi.org/10.3390/en15228560
+Paper ID: https://openalex.org/W4309308790
+
+Abstract:
+Among the many potential future energy sources, hydrogen stands out as particularly promising. Because it is a green and renewable chemical process, water electrolysis has earned much interest among the different hydrogen production techniques. Seawater is the most abundant source of water and the ideal and cheapest electrolyte. The first part of this review includes the description of the general theoretical concepts: chemical, physical, and electrochemical, that stands on the basis of water electrolysis. Due to the rapid development of new electrode materials and cell technology, research has focused on specific seawater electrolysis parameters: the cathodic evolution of hydrogen; the concurrent anodic evolution of oxygen and chlorine; specific seawater catalyst electrodes; and analytical methods to describe their catalytic activity and seawater electrolyzer efficiency. Once the specific objectives of seawater electrolysis have been established through the design and energy performance of the electrolyzer, the study further describes the newest challenges that an accessible facility for the electrochemical production of hydrogen as fuel from seawater must respond to for sustainable development: capitalizing on known and emerging technologies; protecting the environment; utilizing green, renewable energies as sources of electricity; and above all, economic efficiency as a whole.

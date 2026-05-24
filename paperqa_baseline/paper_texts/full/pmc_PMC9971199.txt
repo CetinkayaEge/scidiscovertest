@@ -1,0 +1,9 @@
+Title: The MYC-regulated lncRNA LNROP (ENSG00000254887) enables MYC-driven cell proliferation by controlling the expression of OCT2
+Authors: Daniel García-Caballero, Jonathan R. Hart, Peter K. Vogt
+Year: 2023
+Venue: Cell Death & Disease
+DOI: 10.1038/s41419-023-05683-6
+Paper ID: pmc_PMC9971199
+
+Abstract:
+MYC controls most of the non-coding genome. Several long noncoding transcripts were originally identified in the human B cell line P496-3 and then shown to be required for MYC-driven proliferation of Burkitt lymphoma-derived RAMOS cells. In this study, we used RAMOS cells exclusively as a representative of the human B cell lineage. One of the MYC-controlled lncRNAs required for RAMOS cell proliferation is ENSG00000254887 which we will term LNROP (long non-coding regulator of POU2F2). In the genome, LNROP is located in close proximity of POU2F2, the gene encoding OCT2. OCT2 is a transcription factor with important roles in sustaining the proliferation of human B cells. Here we show that LNROP is a nuclear RNA and a direct target of MYC. Downregulation of LNROP attenuates the expression of OCT2. This effect of LNROP on the expression of OCT2 is unidirectional as downregulation of OCT2 does not alter the expression of LNROP. Our data suggest that LNROP is a cis-acting regulator of OCT2. To illustrate the downstream reach of LNROP, we chose a prominent target of OCT2, the tyrosine phosphatase SHP-1. Downregulation of OCT2 elevates the expression of SHP-1. Our data suggest the following path of interactions: LNROP enables the proliferation of B cells by positively and unidirectionally regulating the growth-stimulatory transcription factor OCT2. In actively proliferating B cells, OCT2 attenuates the expression and anti-proliferative activity of SHP-1.

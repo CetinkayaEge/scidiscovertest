@@ -1,0 +1,9 @@
+Title: The role of data in sustainability assessment of urban mobility policies
+Authors: Xu Liu, Marc Dijk
+Year: 2022
+Venue: Data & Policy
+DOI: https://doi.org/10.1017/dap.2021.32
+Paper ID: https://openalex.org/W4206565874
+
+Abstract:
+Abstract Data have played a role in urban mobility policy planning for decades, especially in forecasting demand, but much less in policy evaluations and assessments. The surge in availability and openness of (big) data in the last decade seems to provide new opportunities to meet demand for evidence-based policymaking. This paper reviews how different types of data are employed in assessments published in academic journals by analyzing 74 cases. Our review finds that (a) academic literature has currently provided limited insight in new data developments in policy practice; (b) research shows that the new types of big data provide new opportunities for evidence-based policy-making; however, (c) they cannot replace traditional data usage (surveys and statistics). Instead, combining big data with survey and Geographic Information System data in ex-ante assessments, as well as in developing decision support tools, is found to be the most effective. This could help policymakers not only to get much more insight from policy assessments, but also to help avoid the limitations of one certain type of data. Finally, current research projects are rather data supply-driven. Future research should engage with policy practitioners to reveal best practices, constraints, and potential of more demand-driven data use in mobility policy assessments in practice.

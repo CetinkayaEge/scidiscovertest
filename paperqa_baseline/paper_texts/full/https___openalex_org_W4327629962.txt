@@ -1,0 +1,9 @@
+Title: Holistic and sustainable design optimization of Arctic ships
+Authors: Aleksander A. Kondratenko, Pentti Kujala, Spyros Hirdaris
+Year: 2023
+Venue: Ocean Engineering
+DOI: https://doi.org/10.1016/j.oceaneng.2023.114095
+Paper ID: https://openalex.org/W4327629962
+
+Abstract:
+This paper reviews challenges of relevance to the future development of Arctic sustainable shipping by considering future demands for vessel types, available alternative energy sources, and novel technologies. Results reveal the need to extend existing concept ship design methods to account for the holistic yet sustainable design of Arctic vessels. Accordingly, the paper introduces a decision support framework for holistic and sustainable optimization of the concept design of Arctic ships for different cold regions and purposes of operation. The method presented simultaneously accounts for eco-efficiency, cost-efficiency, and safety. Demonstration for the case of a battery-driven Arctic offshore wind farm service and offshore support vessels shows that optimized designs could outperform their existing environmentally and economically efficient counterparts.

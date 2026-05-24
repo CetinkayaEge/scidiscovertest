@@ -1,0 +1,9 @@
+Title: Sustainable last-mile distribution with autonomous delivery robots and public transportation
+Authors: Annarita De Maio, Gianpaolo Ghiani, Demetrio Laganà, Emanuele Manni
+Year: 2024
+Venue: Transportation Research Part C Emerging Technologies
+DOI: https://doi.org/10.1016/j.trc.2024.104615
+Paper ID: https://openalex.org/W4395475010
+
+Abstract:
+In recent years, the rapid growth of e-commerce and the need to make last-mile logistics more sustainable have stimulated the development of new distribution paradigms, based on air drones and autonomous delivery robots, which are less sensitive to traffic congestion. In this article we deal with a routing problem in which a fleet of autonomous delivery robots can travel not only on the road network but also on the public transportation system (or part of it) to extend their range of action with a given battery capacity. The problem entails building delivery robot routes synchronized with the rides of the public transportation lines, enabling robots to drop on/off public vehicles, where they use dedicated compartments, to reach customers that would be otherwise out of reach. To this purpose, we develop a tailored destroy-and-repair mechanism that, embedded into a neighborhood search algorithm, allows to effectively explore the feasibility region of large-scale instances. Extensive computational results on instances resembling the distribution of drugs to pharmacies in Rome (Italy) show that the proposed algorithmic mechanism allows to obtain a cost reduction up to about 7.5% with respect to a more traditional approach. Moreover, from a managerial point of view, our experiments show that autonomous delivery robots combined with public transportation can provide huge benefits in terms of costs and emissions reduction, when compared to both traditional and electric vans.

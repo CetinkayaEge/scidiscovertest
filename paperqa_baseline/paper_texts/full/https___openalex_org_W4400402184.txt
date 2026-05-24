@@ -1,0 +1,9 @@
+Title: Spatial correlation network structure of carbon emission reduction capacity on urban agglomerations and its driving factors: A perspective of Sustainable Development Goals
+Authors: Yi Yang, Xiaoyuan Su
+Year: 2024
+Venue: Sustainable Cities and Society
+DOI: https://doi.org/10.1016/j.scs.2024.105646
+Paper ID: https://openalex.org/W4400402184
+
+Abstract:
+Sustainable Development Goal 7 and Goal 13 are important for evaluating carbon emission reduction capacity in urban agglomerations. Exploring the spatial correlation network structures of carbon emission reduction capacity can help synergize carbon reduction actions between cities. Existing research regarding the urban agglomerations to address carbon emission reduction goals has neglected both coordination with Sustainable Development Goals and the impact of spatial correlation network structures. Based on Sustainable Development Goals, an evaluation system of carbon emission reduction capacity is constructed. The characteristics of spatial correlation network structure for carbon emission reduction capacity are described using the social network analysis method. Its driving factors are described using the quadratic assignment procedure method. The Guanzhong Plain urban agglomeration in China is used for validation. The spatial distribution of carbon emission reduction capacity in urban agglomerations is significantly unbalanced, and the spatial correlation network structure follows a stable core-edge pattern. Factors such as differences in technological level, economic level affect the formation of the spatial correlation, but the differences in urbanization level have no significant impact. Countermeasures are proposed to provide a scientific basis for the collaborative management of carbon emission reduction in urban agglomerations.

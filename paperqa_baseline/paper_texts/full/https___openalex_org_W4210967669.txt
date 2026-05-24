@@ -1,0 +1,9 @@
+Title: Metal-Supported Biochar Catalysts for Sustainable Biorefinery, Electrocatalysis, and Energy Storage Applications: A Review
+Authors: Rubén Ramos, Víctor Karim Abdelkader-Fernández, Renata Matos, Andreia F. Peixoto, Diana M. Fernandes
+Year: 2022
+Venue: Catalysts
+DOI: https://doi.org/10.3390/catal12020207
+Paper ID: https://openalex.org/W4210967669
+
+Abstract:
+Biochar (BCH) is a carbon-based bio-material produced from thermochemical conversion of biomass. Several activation or functionalization methods are usually used to improve physicochemical and functional properties of BCHs. In the context of green and sustainable future development, activated and functionalized biochars with abundant surface functional groups and large surface area can act as effective catalysts or catalyst supports for chemical transformation of a range of bioproducts in biorefineries. Above the well-known BCH applications, their use as adsorbents to remove pollutants are the mostly discussed, although their potential as catalysts or catalyst supports for advanced (electro)catalytic processes has not been comprehensively explored. In this review, the production/activation/functionalization of metal-supported biochar (M-BCH) are scrutinized, giving special emphasis to the metal-functionalized biochar-based (electro)catalysts as promising catalysts for bioenergy and bioproducts production. Their performance in the fields of biorefinery processes, and energy storage and conversion as electrode materials for oxygen and hydrogen evolutions, oxygen reduction, and supercapacitors, are also reviewed and discussed.

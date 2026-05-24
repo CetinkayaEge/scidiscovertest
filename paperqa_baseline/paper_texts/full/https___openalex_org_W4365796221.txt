@@ -1,0 +1,9 @@
+Title: Emerging indoor photovoltaics for self-powered and self-aware IoT towards sustainable energy management
+Authors: Hannes Michaels, Michael Rinderle, Iacopo Benesperi, Richard Freitag, Alessio Gagliardi, Marina Freitag
+Year: 2023
+Venue: Chemical Science
+DOI: https://doi.org/10.1039/d3sc00659j
+Paper ID: https://openalex.org/W4365796221
+
+Abstract:
+As the number of Internet of Things devices is rapidly increasing, there is an urgent need for sustainable and efficient energy sources and management practices in ambient environments. In response, we developed a high-efficiency ambient photovoltaic based on sustainable non-toxic materials and present a full implementation of a long short-term memory (LSTM) based energy management using on-device prediction on IoT sensors solely powered by ambient light harvesters. The power is supplied by dye-sensitised photovoltaic cells based on a copper(ii/i) electrolyte with an unprecedented power conversion efficiency at 38% and 1.0 V open-circuit voltage at 1000 lux (fluorescent lamp). The on-device LSTM predicts changing deployment environments and adapts the devices' computational load accordingly to perpetually operate the energy-harvesting circuit and avoid power losses or brownouts. Merging ambient light harvesting with artificial intelligence presents the possibility of developing fully autonomous, self-powered sensor devices that can be utilized across industries, health care, home environments, and smart cities.

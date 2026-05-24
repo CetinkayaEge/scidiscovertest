@@ -1,0 +1,9 @@
+Title: Sustainable nitrogen fixation by plasma-liquid interactions
+Authors: Xuyang Zhao, Yonghui Tian
+Year: 2023
+Venue: Cell Reports Physical Science
+DOI: https://doi.org/10.1016/j.xcrp.2023.101618
+Paper ID: https://openalex.org/W4387266446
+
+Abstract:
+Plasma-based nitrogen fixation is deemed a green alternative to the conventional Haber-Bosch process to mitigate carbon emissions. The typical plasma synthesis in gas phase is nevertheless bottlenecked by a low conversion rate and poor energy efficiency and relies on hydrogen gases for ammonia production. Plasma-liquid interaction emerges as an attractive technique for N2 conversion into ammonia, NOx, and high-value-added nitrogen-containing organics. Because of the complex nature of plasma-liquid systems, the chemical processes and underlying mechanism involved remain elusive. Here we collect and discuss recent research results, aiming for a relatively comprehensive understanding of the fast-growing field. The following aspects are addressed: general features of the plasma-liquid interface, performance of plasma-liquid based nitrogen fixation, plasma activation of molecular nitrogen, possible reaction channels, and challenges in this field. All of these collectively facilitate a general understanding of this area for researchers from different backgrounds.

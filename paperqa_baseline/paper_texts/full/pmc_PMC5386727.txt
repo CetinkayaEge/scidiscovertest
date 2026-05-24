@@ -1,0 +1,9 @@
+Title: HER inhibitor promotes BRAF/MEK inhibitor-induced redifferentiation in papillary thyroid cancer harboring BRAFV600E
+Authors: Lingxiao Cheng, Yuchen Jin, Min Liu, Maomei Ruan, Libo Chen
+Year: 2017
+Venue: Oncotarget
+DOI: 10.18632/oncotarget.15773
+Paper ID: pmc_PMC5386727
+
+Abstract:
+Redifferentiation therapy with BRAF/MEK inhibitors to facilitate treatment with radioiodine represents a good choice for radioiodine-refractory differentiated thyroid carcinoma, but recent initial clinical outcomes were modest. MAPK rebound caused by BRAF/MEK inhibitors-induced activation of HER2/HER3 is a resistance mechanism, and combination with HER inhibitor to prevent MAPK rebound may sensitize BRAF V600E -mutant thyroid cancer cells to redifferentiation therapy. To evaluate if inhibiting both BRAF/MEK and HER can produce stronger redifferetiation effect, we tested the effects of BRAF/MEK inhibitor dabrafenib/selumetinib alone or in combination with HER inhibitor lapatinib on the expression and function of iodine- and glucose-handling genes in BRAF V600E -positive BCPAP and K1 cells, using BHP 2-7 cells harboring RET/PTC1 rearrangement as control. Herein, we showed that lapatinib prevented MAPK rebound and sensitized BRAFV600E-positive papillary thyroid cancer cells to BRAF/MEK inhibitors. Dabrafenib/selumetinib alone increased iodine-uptake and toxicity and suppressed glucose-metablism in BRAF V600E -positive papillary thyroid cancer cells. When lapatinib was added, more significant effects on iodine- and glucose-handling gene expression, cell membrane location of sodium/iodine symporter as well as radioiodine uptake and toxicity were observed. Thus, combined therapy using HER inhibitor and BRAF/MEK inhibitor presented more significant redifferentiation effect on papillary thyroid cancer cells harboring BRAF V600E than BRAF/MEK inhibitor alone. In vivo and clinical studies assessing such combined targeted redifferentiation strategy were warranted.

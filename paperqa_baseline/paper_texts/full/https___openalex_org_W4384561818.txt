@@ -1,0 +1,9 @@
+Title: Fatty acid oxidation organizes mitochondrial supercomplexes to sustain astrocytic ROS and cognition
+Authors: Brenda Morant-Ferrando, Daniel Jiménez-Blasco, Paula Alonso-Batan, Jesús Agulla, Rebeca Lapresa, Darío García-Rodríguez, Sara Yunta-Sanchez, Irene López-Fabuel, Emilio Fernández, Peter Carmeliet, Ángeles Almeida, Marina García‐Macía, Juan P. Bolaños
+Year: 2023
+Venue: Nature Metabolism
+DOI: https://doi.org/10.1038/s42255-023-00835-6
+Paper ID: https://openalex.org/W4384561818
+
+Abstract:
+. Still, the factual metabolic advantage of fatty acid use by astrocytes and its physiological impact on higher-order cerebral functions remain unknown. Here, we show that knockout of carnitine-palmitoyl transferase-1A (CPT1A)-a key enzyme of mitochondrial fatty acid oxidation-in adult mouse astrocytes causes cognitive impairment. Mechanistically, decreased fatty acid oxidation rewired astrocytic pyruvate metabolism to facilitate electron flux through a super-assembled mitochondrial respiratory chain, resulting in attenuation of reactive oxygen species formation. Thus, astrocytes naturally metabolize fatty acids to preserve the mitochondrial respiratory chain in an energetically inefficient disassembled conformation that secures signalling reactive oxygen species and sustains cognitive performance.

@@ -1,0 +1,9 @@
+Title: Struct-f4: a Rcpp package for ancestry profile and population structure inference from f 4 -statistics
+Authors: Pablo Librado, Ludovic Orlando
+Year: 2022
+Venue: Bioinformatics
+DOI: 10.1093/bioinformatics/btac046
+Paper ID: pmc_PMC8963280
+
+Abstract:
+Abstract Summary Visualization and inference of population structure is increasingly important for fundamental and applied research. Here, we present Struct-f4, providing automated solutions to characterize and summarize the genetic ancestry profile of individuals, assess their genetic affinities, identify admixture sources and quantify admixture levels. Availability and implementation Struct-f4 is written in Rcpp and relies on f 4 -statistics and Markov Chain Monte Carlo (MCMC) optimization. It is freely available under GNU General Public License in Bitbucket ( https://bitbucket.org/plibradosanz/structf4/ ). Supplementary information Supplementary data are available at Bioinformatics online.

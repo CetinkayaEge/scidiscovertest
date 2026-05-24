@@ -1,0 +1,9 @@
+Title: Cradle-to-Gate Life Cycle and Economic Assessment of Sustainable Concrete Mixes—Alkali-Activated Concrete (AAC) and Bacterial Concrete (BC)
+Authors: Kruthi Kiran Ramagiri, Ravali Chintha, Radha Kiranmaye Bandlamudi, Patricia Kara De Maeijer, Arkamitra Kar
+Year: 2021
+Venue: Infrastructures
+DOI: https://doi.org/10.3390/infrastructures6070104
+Paper ID: https://openalex.org/W3183031571
+
+Abstract:
+The negative environmental impacts associated with the usage of Portland cement (PC) in concrete induced intensive research into finding sustainable alternative concrete mixes to obtain “green concrete”. Since the principal aim of developing such mixes is to reduce the environmental impact, it is imperative to conduct a comprehensive life cycle assessment (LCA). This paper examines three different types of sustainable concrete mixes, viz., alkali-activated concrete (AAC) with natural coarse aggregates, AAC with recycled coarse aggregates (RCA), and bacterial concrete (BC). A detailed environmental impact assessment of AAC with natural coarse aggregates, AAC with RCA, and BC is performed through a cradle-to-gate LCA using openLCA v.1.10.3 and compared versus PC concrete (PCC) of equivalent strength. The results show that transportation and sodium silicate in AAC mixes and PC in BC mixes contribute the most to the environmental impact. The global warming potential (GWP) of PCC is 1.4–2 times higher than other mixes. Bacterial concrete without nutrients had the lowest environmental impact of all the evaluated mixes on all damage categories, both at the midpoint (except GWP) and endpoint assessment levels. AAC and BC mixes are more expensive than PCC by 98.8–159.1% and 21.8–54.3%, respectively.

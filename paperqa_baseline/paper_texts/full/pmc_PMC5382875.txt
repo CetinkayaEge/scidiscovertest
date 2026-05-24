@@ -1,0 +1,9 @@
+Title: Cytosolic co-delivery of miRNA-34a and docetaxel with core-shell nanocarriers via caveolae-mediated pathway for the treatment of metastatic breast cancer
+Authors: Li Zhang, Xin Yang, Yaqi Lv, Xiaofei Xin, Chao Qin, Xiaopeng Han, Lei Yang, Wei He, Lifang Yin
+Year: 2017
+Venue: Scientific Reports
+DOI: 10.1038/srep46186
+Paper ID: pmc_PMC5382875
+
+Abstract:
+Co - delivery of microRNAs and chemotherapeutic drugs into tumor cells is an attractive strategy for synergetic breast cancer therapy due to their complementary mechanisms. In this work, a core-shell nanocarrier coated by cationic albumin was developed to simultaneously deliver miRNA-34a and docetaxel (DTX) into breast cancer cells for improved therapeutic effect. The co-delivery nanocarriers showed a spherical morphology with an average particle size of 183.9 nm, and they efficiently protected miRNA-34a from degradation by RNase and serum. Importantly, the nanocarriers entered the cytosol via a caveolae-mediated pathway without entrapment in endosomes/lysosomes, thus improving the utilization of the cargo. In vitro, the co-delivery nanocarriers suppressed the expression of anti-apoptosis gene Bcl-2 at both transcription and protein levels, inhibited tumor cell migration and efficiently induced cell apoptosis and cytotoxicity. In vivo , the co-delivery nanocarriers prolonged the blood circulation of DTX, enhanced tumor accumulation of the cargo and significantly inhibited tumor growth and metastasis in 4T1-tumor bearing mice models. Taken together, the present nanocarrier co-loading with DTX and miRNA-34a is a new nanoplatform for the combination of insoluble drugs and gene/protein drugs and provides a promising strategy for the treatment of metastatic breast cancer.

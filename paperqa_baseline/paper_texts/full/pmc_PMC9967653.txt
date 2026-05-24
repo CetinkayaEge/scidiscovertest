@@ -1,0 +1,9 @@
+Title: Anticancer Activities of Novel Nicotinamide Phosphoribosyltransferase Inhibitors in Hematological Malignancies
+Authors: Paulina Biniecka, Saki Matsumoto, Axel Belotti, Jessie Joussot, Jian Fei Bai, Somi Reddy Majjigapu, Paul Thoueille, Dany Spaggiari, Vincent Desfontaine, Francesco Piacente, Santina Bruzzone, Michele Cea, Laurent A. Decosterd, Pierre Vogel, Alessio Nencioni, Michel A. Duchosal, Aimable Nahimana
+Year: 2023
+Venue: Molecules
+DOI: 10.3390/molecules28041897
+Paper ID: pmc_PMC9967653
+
+Abstract:
+Targeting cancer cells that are highly dependent on the nicotinamide adenine dinucleotide (NAD+) metabolite is a promising therapeutic strategy. Nicotinamide phosphoribosyltransferase (NAMPT) is the rate-limiting enzyme catalyzing NAD + production. Despite the high efficacy of several developed NAMPT inhibitors (i.e., FK866 (APO866)) in preclinical studies, their clinical activity was proven to be limited. Here, we report the synthesis of new NAMPT Inhibitors, JJ08 , FEI191 and FEI199 , which exhibit a broad anticancer activity in vitro. Results show that these compounds are potent NAMPT inhibitors that deplete NAD + and NADP(H) after 24 h of drug treatment, followed by an increase in reactive oxygen species (ROS) accumulation. The latter event leads to ATP loss and mitochondrial depolarization with induction of apoptosis and necrosis. Supplementation with exogenous NAD + precursors or catalase (ROS scavenger) abrogates the cell death induced by the new compounds. Finally, in vivo administration of the new NAMPT inhibitors in a mouse xenograft model of human Burkitt lymphoma delays tumor growth and significantly prolongs mouse survival. The most promising results are collected with JJ08 , which completely eradicates tumor growth. Collectively, our findings demonstrate the efficient anticancer activity of the new NAMPT inhibitor JJ08 and highlight a strong interest for further evaluation of this compound in hematological malignancies.

@@ -1,0 +1,9 @@
+Title: Discovery of a Magnetic Dirac System with a Large Intrinsic Nonlinear Hall Effect
+Authors: Federico Mazzola, Barun Ghosh, Jun Fujii, Gokul Acharya, Debashis Mondal, Giorgio Rossi, Arun Bansil, Daniel Farias, Jin Hu, Amit Agarwal, Antonio Politano, Ivana Vobornik
+Year: 2023
+Venue: Nano Letters
+DOI: 10.1021/acs.nanolett.2c04194
+Paper ID: pmc_PMC10064332
+
+Abstract:
+Magnetic materials exhibiting topological Dirac fermions are attracting significant attention for their promising technological potential in spintronics. In these systems, the combined effect of the spin–orbit coupling and magnetic order enables the realization of novel topological phases with exotic transport properties, including the anomalous Hall effect and magneto-chiral phenomena. Herein, we report experimental signature of topological Dirac antiferromagnetism in TaCoTe 2 via angle-resolved photoelectron spectroscopy and first-principles density functional theory calculations. In particular, we find the existence of spin–orbit coupling-induced gaps at the Fermi level, consistent with the manifestation of a large intrinsic nonlinear Hall conductivity. Remarkably, we find that the latter is extremely sensitive to the orientation of the Néel vector, suggesting TaCoTe 2 as a suitable candidate for the realization of non-volatile spintronic devices with an unprecedented level of intrinsic tunability.

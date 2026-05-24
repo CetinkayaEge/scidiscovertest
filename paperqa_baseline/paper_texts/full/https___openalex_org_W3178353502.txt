@@ -1,0 +1,9 @@
+Title: N ‐acetylaspartate release by glutaminolytic ovarian cancer cells sustains protumoral macrophages
+Authors: Alessio Menga, Maria Favia, Iolanda Spera, Maria Carmela Vegliante, Rosanna Gissi, Anna Grassi, Luna Laera, Annalisa Campanella, Andrea Gerbino, Giovanna Carrà, Marcella Canton, Vera Loizzi, Ciro Leonardo Pierri, Gennaro Cormio, Massimiliano Mazzone, Alessandra Castegna
+Year: 2021
+Venue: EMBO Reports
+DOI: https://doi.org/10.15252/embr.202051981
+Paper ID: https://openalex.org/W3178353502
+
+Abstract:
+Glutaminolysis is known to correlate with ovarian cancer aggressiveness and invasion. However, how this affects the tumor microenvironment is elusive. Here, we show that ovarian cancer cells become addicted to extracellular glutamine when silenced for glutamine synthetase (GS), similar to naturally occurring GS-low, glutaminolysis-high ovarian cancer cells. Glutamine addiction elicits a crosstalk mechanism whereby cancer cells release N-acetylaspartate (NAA) which, through the inhibition of the NMDA receptor, and synergistically with IL-10, enforces GS expression in macrophages. In turn, GS-high macrophages acquire M2-like, tumorigenic features. Supporting this in␣vitro model, in silico data and the analysis of ascitic fluid isolated from ovarian cancer patients prove that an M2-like macrophage phenotype, IL-10 release, and NAA levels positively correlate with disease stage. Our study uncovers the unprecedented role of glutamine metabolism in modulating macrophage polarization in highly invasive ovarian cancer and highlights the anti-inflammatory, protumoral function of NAA.

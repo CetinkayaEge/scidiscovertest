@@ -1,0 +1,9 @@
+Title: Design development and optimisation of multifunctional Doxorubicin-loaded Indocynanine Green proniosomal gel derived niosomes for tumour management
+Authors: Jaison Darson, Radha Thirunellai Seshadri, Kajal Katariya, Mothilal Mohan, Manjunath Srinivas Kamath, Meher Abhinav Etyala, Gopalakrishnan Chandrasekaran
+Year: 2023
+Venue: Scientific Reports
+DOI: 10.1038/s41598-023-28891-8
+Paper ID: pmc_PMC9886914
+
+Abstract:
+This study presents the design, development, and optimization of multifunctional Doxorubicin (Dox)-loaded Indocyanine Green (ICG) proniosomal gel-derived niosomes, using Design of Experiments (2 3 factorial model). Herein, the multifunctional proniosomal gel was prepared using the coacervation phase separation technique, which on hydration forms niosomes. The effect of formulation variables on various responses including Zeta potential, Vesicle size, entrapment efficiency of Dox, entrapment efficiency of ICG, Invitro drug release at 72nd hour, and NIR hyperthermia temperature were studied using statistical models. On the basis of the high desirability factor, optimized formulation variables were identified and validated with the experimental results. Further, the chemical nature, vesicle morphology, surface charge, and vesicle size of optimized proniosomal gel-derived niosomes were evaluated. In addition, the effect of free ICG and bound ICG on NIR hyperthermia efficiency has been investigated to demonstrate the heating rate and stability of ICG in the aqueous environment and increased temperature conditions. The drug release and kinetic studies revealed a controlled biphasic release profile with complex mechanisms of drug transport for optimized proniosomal gel-derived niosomes. The potential cytotoxic effect of the optimised formulation was also demonstrated invitro using HeLa cell lines.

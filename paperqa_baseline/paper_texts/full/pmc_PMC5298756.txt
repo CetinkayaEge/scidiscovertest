@@ -1,0 +1,9 @@
+Title: SNR and Standard Deviation of cGNSS-R and iGNSS-R Scatterometric Measurements
+Authors: Alberto Alonso-Arroyo, Jorge Querol, Carlos Lopez-Martinez, Valery U. Zavorotny, Hyuk Park, Daniel Pascual, Raul Onrubia, Adriano Camps
+Year: 2017
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s17010183
+Paper ID: pmc_PMC5298756
+
+Abstract:
+This work addresses the accuracy of the Global Navigation Satellite Systems (GNSS)-Reflectometry (GNSS-R) scatterometric measurements considering the presence of both coherent and incoherent scattered components, for both conventional GNSS-R (cGNSS-R) and interferometric GNSS-R (iGNSS-R) techniques. The coherent component is present for some type of surfaces, and it has been neglected until now because it vanishes for the sea surface scattering case. Taking into account the presence of both scattering components, the estimated Signal-to-Noise Ratio (SNR) for both techniques is computed based on the detectability criterion, as it is done in conventional GNSS applications. The non-coherent averaging operation is considered from a general point of view, taking into account that thermal noise contributions can be reduced by an extra factor of 0.88 dB when using partially overlapped or partially correlated samples. After the SNRs are derived, the received waveform’s peak variability is computed, which determines the system’s capability to measure geophysical parameters. This theoretical derivations are applied to the United Kingdom (UK) TechDemoSat-1 (UK TDS-1) and to the future GNSS REflectometry, Radio Occultation and Scatterometry on board the International Space Station (ISS) (GEROS-ISS) scenarios, in order to estimate the expected scatterometric performance of both missions.

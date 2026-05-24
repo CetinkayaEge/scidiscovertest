@@ -1,0 +1,9 @@
+Title: Sustainable Aviation Fuel from Syngas through Higher Alcohols
+Authors: Päivi Mäki‐Arvela, Atte Aho, Irina L. Simakova, Dmitry Yu. Murzin
+Year: 2022
+Venue: ChemCatChem
+DOI: https://doi.org/10.1002/cctc.202201005
+Paper ID: https://openalex.org/W4297473728
+
+Abstract:
+Abstract The current review critically summarizes recent developments in transformations of syngas to higher alcohols. Although higher alcohols have found applications as fuel additives, detergents and plastics for a long while, transformation of alcohols to jet fuel has attained recent interest due to an urgent need to develop jet fuels from sustainable sources. Fermentation of lignocellulosic‐based sugars to ethanol as a technology does not compete with the food chain supply being thus a potentially acceptable route if economically viable. An alternative method is to gasify biomass to produce syngas, which can further be transformed to higher alcohols through several pathways. Jet fuel range alkanes are obtained from alcohols via oligomerisation, dehydration and hydrogenation. The highest space time yields of higher alcohols of 0.61 g/(g cat h) is obtained over a bimetallic copper‐iron catalyst supported on a hierarchical zeolite at 300 °C and 5 MPa. Furthermore, copper‐cobalt and cobalt‐manganese compositions are promising for the direct synthesis of higher alcohols from syngas, where one of the challenges is to suppress formation of alkanes and CO 2 and increase selectivity to higher alcohols. From the mechanistic point of view, it has been proposed to use dual‐site catalysts, where one site promotes hydrogenation, while the other site is required for the chain growth. In addition to selection of the optimum reaction conditions and catalyst properties, kinetic modelling, thermodynamics and scale up issues are discussed.

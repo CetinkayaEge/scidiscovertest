@@ -1,0 +1,9 @@
+Title: Physiological stress reactivity and recovery: Some laboratory results transfer to daily life
+Authors: Melanie Bamert, Jennifer Inauen
+Year: 2022
+Venue: Frontiers in Psychology
+DOI: 10.3389/fpsyg.2022.943065
+Paper ID: pmc_PMC9421134
+
+Abstract:
+Stress is a prevalent theme in our daily lives and is related to numerous negative health outcomes. Laboratory research has studied the physiological stress response extensively with objective measures such as vagally-mediated heart rate variability (vmHRV). Recently, the vagal tank theory emerged as a promising approach to predicting adaptive vmHRV levels around stressful events. This study aimed to investigate whether the predictions of the vagal tank theory about vmHRV during stress reactivity and recovery translate into naturalistic stressful events in daily life. Sixty-seven students wore an EcgMove 4 sensor for 4 days to measure vmHRV. Through a combination of device-based and self-report assessment, vmHRV data were segmented into before, during, and after stressful events. VmHRV segments were analyzed with multilevel modeling, accounting for physiological and psychological covariates. VmHRV before stressful events predicted more adaptive vmHRV during the event but not vmHRV recovery afterwards. The results therefore partially support the vagal tank theory's predictions with data from daily life and allow recommendations for future studies of real-world stress reactivity and recovery. The value of intraindividual variations in vmHRV as predictors of adaptive stress response is underscored by these findings and could inform future interventions that seek to increase momentary vmHRV.

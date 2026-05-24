@@ -1,0 +1,9 @@
+Title: Sustainable Binary Blending for Low-Volume Roads—Reliability-Based Design Approach and Carbon Footprint Analysis
+Authors: Gudla Amulya, Arif Ali Baig Moghal, Abdullah Almajed
+Year: 2023
+Venue: Materials
+DOI: https://doi.org/10.3390/ma16052065
+Paper ID: https://openalex.org/W4323044341
+
+Abstract:
+The utilization of industrial by-products as stabilizers is gaining attention from the sustainability perspective. Along these lines, granite sand (GS) and calcium lignosulfonate (CLS) are used as alternatives to traditional stabilizers for cohesive soil (clay). The unsoaked California Bearing Ratio (CBR) was taken as a performance indicator (as a subgrade material for low-volume roads). A series of tests were performed by varying the dosages of GS (30%, 40%, and 50%) and CLS (0.5%, 1%, 1.5%, and 2%) for different curing periods (0, 7, and 28 days). This study revealed that the optimal dosages of granite sand (GS) are 35%, 34%, 33%, and 32% for dosages of calcium lignosulfonate (CLS) of 0.5%, 1.0%, 1.5%, and 2.0%, respectively. These values are needed to maintain a reliability index greater than or equal to 3.0 when the coefficient of variation (COV) of the minimum specified value of the CBR is 20% for a 28-day curing period. The proposed RBDO (reliability-based design optimization) presents an optimal design methodology for designing low-volume roads when GS and CLS are blended for clay soils. The optimal mix, i.e., 70% clay blended with 30% GS and 0.5% CLS (exhibiting the highest CBR value) is considered an appropriate dosage for the pavement subgrade material. Carbon footprint analysis (CFA) was performed on a typical pavement section according to Indian Road Congress recommendations. It is observed that the use of GS and CLS as stabilizers of clay reduces the carbon energy by 97.52% and 98.53% over the traditional stabilizers lime and cement at 6% and 4% dosages, respectively.

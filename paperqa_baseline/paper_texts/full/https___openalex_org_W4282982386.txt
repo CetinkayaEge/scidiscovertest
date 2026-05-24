@@ -1,0 +1,9 @@
+Title: Sustainable power generation for at least one month from ambient humidity using unique nanofluidic diode
+Authors: Yong Zhang, Tingting Yang, Kedong Shang, Fengmei Guo, Yuanyuan Shang, Shulong Chang, Licong Cui, Xulei Lu, Zhongbao Jiang, Jian Zhou, Chunqiao Fu, Qi‐Chang He
+Year: 2022
+Venue: Nature Communications
+DOI: https://doi.org/10.1038/s41467-022-31067-z
+Paper ID: https://openalex.org/W4282982386
+
+Abstract:
+The continuous energy-harvesting in moisture environment is attractive for the development of clean energy source. Controlling the transport of ionized mobile charge in intelligent nanoporous membrane systems is a promising strategy to develop the moisture-enabled electric generator. However, existing designs still suffer from low output power density. Moreover, these devices can only produce short-term (mostly a few seconds or a few hours, rarely for a few days) voltage and current output in the ambient environment. Here, we show an ionic diode-type hybrid membrane capable of continuously generating energy in the ambient environment. The built-in electric field of the nanofluidic diode-type PN junction helps the selective ions separation and the steady-state one-way ion charge transfer. This directional ion migration is further converted to electron transportation at the surface of electrodes via oxidation-reduction reaction and charge adsorption, thus resulting in a continuous voltage and current with high energy conversion efficiency.

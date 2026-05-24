@@ -1,0 +1,9 @@
+Title: Tumor NLRP3-Derived IL-1β Drives the IL-6/STAT3 Axis Resulting in Sustained MDSC-Mediated Immunosuppression
+Authors: Isak W. Tengesdal, Alberto Dinarello, Nicholas E. Powers, Matthew A. Burchill, Leo A. B. Joosten, Carlo Marchetti, Charles A. Dinarello
+Year: 2021
+Venue: Frontiers in Immunology
+DOI: https://doi.org/10.3389/fimmu.2021.661323
+Paper ID: https://openalex.org/W3198686208
+
+Abstract:
+. In conclusion, the data presented here show that the inhibition of NLRP3 reduces IL-1β induction of pSTAT3(Y705) preventing expression of immunosuppressive genes as well as activity in PMN-MDSCs.

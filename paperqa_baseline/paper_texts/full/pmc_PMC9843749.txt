@@ -1,0 +1,9 @@
+Title: Antibacterial Mode of Action of β-Amyrin Promotes Apoptosis-Like Death in Escherichia coli by Producing Reactive Oxygen Species
+Authors: Giyeol Han, Dong Gun Lee
+Year: 2022
+Venue: Journal of Microbiology and Biotechnology
+DOI: 10.4014/jmb.2209.09040
+Paper ID: pmc_PMC9843749
+
+Abstract:
+β-Amyrin is a pentacyclic triterpene widely distributed in leaves and stems worldwide. The ability of β-amyrin to induce the production of reactive oxygen species (ROS) in microorganisms suggests its potential as an antimicrobial agent. Thus, this study aimed to elucidate the antibacterial mode of action of β-amyrin. We treated Escherichia coli cells with β-amyrin and found that it triggered ROS accumulation. Excessive stress caused by ROS, particularly hydroxyl radicals, induces glutathione (GSH) dysfunction. GSH protects cells from oxidative and osmotic stresses; thus, its dysfunction leads to membrane depolarization. The resultant change in membrane potential leads to the release of apoptotic proteins, such as caspases. The activated caspases-like protein promotes the cleavage of DNA into single strands, which is a hallmark of apoptosis-like death in bacteria. Apoptotic cells usually undergo events such as DNA fragmentation and phosphatidylserine exposure, differentiating them from necrotic cells, and the cells treated with β-amyrin in this study were positive for annexin V and negative for propidium iodide, indicating apoptosis-like death. In conclusion, our findings suggest that the antibacterial mode of action of β-amyrin involves the induction of ROS, which resulted in apoptosis-like death in E. coli .

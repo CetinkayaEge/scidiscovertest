@@ -1,0 +1,9 @@
+Title: Advanced lithium ion-sieves for sustainable lithium recovery from brines
+Authors: Qian Chen, Zhijie Chen, Hongqiang Li, Bing‐Jie Ni
+Year: 2024
+Venue: Sustainable Horizons
+DOI: https://doi.org/10.1016/j.horiz.2024.100093
+Paper ID: https://openalex.org/W4391938679
+
+Abstract:
+The escalating demand for lithium in electrochemical energy advice has stimulated growing focus on extracting Li from alternative sources such as brines. Lithium ion-sieves (LISs), comprising manganese-based and titanium-based LISs, emerging as a promising Li recovery technique, attributed to their exceptional capacity for lithium uptake, selectivity, and recyclability. However, practical implementation faces two critical challenges: the potential dissolution of specific ions (e.g., Mn3+ and Ti4+) and the severe particle aggregation during synthesis. In addition, coexisting ions like Mg2+ hinder the selective adsorption of Li+ due to their similar chemical properties. To meet these challenges, heteroatom doping is supposed to enhance the performance of LISs and diverse heteroatom doped LISs have been developed recently. Herein, this comprehensive review begins by delving into the fundamental aspects of LISs, including the LIS effect and types of LISs. Subsequently, adsorption behavior and practical application of modified LISs were discussed. Finally, prospects and research directions to solidify the role of LISs in pioneering environmentally friendly and economically viable lithium recovery methods are outlined.

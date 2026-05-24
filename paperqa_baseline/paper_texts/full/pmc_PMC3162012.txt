@@ -1,0 +1,9 @@
+Title: Upregulation of Cellular Bcl-2 by the KSHV Encoded RTA Promotes Virion Production
+Authors: Jianming Gao, Qiliang Cai, Jie Lu, Hem Chandra Jha, Erle S. Robertson
+Year: 2011
+Venue: PLoS ONE
+DOI: 10.1371/journal.pone.0023892
+Paper ID: pmc_PMC3162012
+
+Abstract:
+Apoptosis of virus infected cells can restrict or dampen full blown virus propagation and this can serve as a protective mechanism against virus infection. Consequently, viruses can also delay programmed cell death by enhancing the expression of anti-apoptotic proteins. Human Bcl-2 is expressed on the surface of the mitochondrial membrane and functions as the regulator of the delicate balance between cell survival and apoptosis. In this report, we showed that the replication and transcription activator (RTA) encoded by KSHV ORF 50, a key regulator for KSHV reactivation from latent to lytic infection, upregulates the mRNA and protein levels of Bcl-2 in 293 cells, and TPA-induced KSHV-infected cells. Further analysis revealed that upregulation of the cellular Bcl-2 promoter by RTA is dose-dependent and acts through targeting of the CCN 9 GG motifs within the Bcl-2 promoter. The Bcl-2 P2 but not the P1 promoter is primarily responsive to RTA. The results of ChIP confirmed the direct interaction of RTA protein with the CCN 9 GG motifs. Knockdown of cellular Bcl-2 by lentivirus-delivered small hairpin RNA (shRNA) resulted in increased cell apoptosis and decreased virion production in KSHV-infected cells. These findings provide an insight into another mechanism by which KSHV utilizes the intrinsic apoptosis signaling pathways for prolonging the survival of lytically infected host cells to allow for maximum production of virus progeny.

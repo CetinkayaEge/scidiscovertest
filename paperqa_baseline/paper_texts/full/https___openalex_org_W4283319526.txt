@@ -1,0 +1,9 @@
+Title: A Systematic Review of Machine-Translation-Assisted Language Learning for Sustainable Education
+Authors: Xinjie Deng, Zhonggen Yu
+Year: 2022
+Venue: Sustainability
+DOI: https://doi.org/10.3390/su14137598
+Paper ID: https://openalex.org/W4283319526
+
+Abstract:
+With the rapid development of artificial intelligence, machine translation (MT) has gained popularity in recent years. This study aims to present a systematic review of literature on MT-assisted language learning in terms of main users, theoretical frameworks, users’ attitudes, and the ways in which MT tools are integrated with language teaching and learning. To this end, relevant peer-reviewed articles (n = 26) were selected through the Preferred Reporting Items for Systematic Review and Meta-Analysis Protocol (PRISMA-P) for further analysis. The findings revealed that the main MT users were undergraduate and graduate students. Both teachers and students held mixed attitudes for different reasons. It was also found that MT integration followed four steps, i.e., introduction, demonstration, task assignment, and reflection. The procedures of MT integration could be updated and perfected by introducing other features in the future.

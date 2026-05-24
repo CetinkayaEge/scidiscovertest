@@ -1,0 +1,9 @@
+Title: Data mining techniques for the investigation of the circular economy and sustainability relationship
+Authors: Theodoros Daglis, Georgios Tsironis, Konstantinos P. Tsagarakis
+Year: 2023
+Venue: Resources Conservation & Recycling Advances
+DOI: https://doi.org/10.1016/j.rcradv.2023.200151
+Paper ID: https://openalex.org/W4366824782
+
+Abstract:
+The circular economy has gained increasing interest in academia and business due to contemporaneous policy directions. However, the metrics for measuring circular economy lack worldwide applicability. In this work, we extracted data from the LinkedIn platform regarding keywords associated with the circular economy and sustainability. The data refer to “People”, “Jobs”, and “Companies” for the 28 EU countries (UK included). “People” refer to relevant personal profiles, “jobs” to circular economy posted jobs, and “companies” to those companies with circular economy and sustainability activities. Using Panel time-series analysis we investigate links among the data extracted. The results show that there is a relationship among the keywords examined, indicating a strong dependence of the profiles and job posts related to sustainability with those related to circular economy. Moreover, the fixed-effects model is preferred in the 2/3 of the cases, while random-effects model in the rest of the cases. The paper proposes the LinkedIn data as an alternative proxy for the examination of Circular Economy interest, but also for other relevant fields of study. Finally, this work's merit can also be derived from the fact that our approach proves with statistical significance that the circular economy keywords affect the sustainability ones, which is in line with the current literature, that circular economy can contribute to sustainability.

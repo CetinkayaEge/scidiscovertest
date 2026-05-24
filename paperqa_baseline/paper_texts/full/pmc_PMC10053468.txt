@@ -1,0 +1,9 @@
+Title: Optimized Method Based on Subspace Merging for Spectral Reflectance Recovery
+Authors: Yifan Xiong, Guangyuan Wu, Xiaozhou Li
+Year: 2023
+Venue: Sensors (Basel, Switzerland)
+DOI: 10.3390/s23063056
+Paper ID: pmc_PMC10053468
+
+Abstract:
+The similarity between samples is an important factor for spectral reflectance recovery. The current way of selecting samples after dividing dataset does not take subspace merging into account. An optimized method based on subspace merging for spectral recovery is proposed from single RGB trichromatic values in this paper. Each training sample is equivalent to a separate subspace, and the subspaces are merged according to the Euclidean distance. The merged center point for each subspace is obtained through many iterations, and subspace tracking is used to determine the subspace where each testing sample is located for spectral recovery. After obtaining the center points, these center points are not the actual points in the training samples. The nearest distance principle is used to replace the center points with the point in the training samples, which is the process of representative sample selection. Finally, these representative samples are used for spectral recovery. The effectiveness of the proposed method is tested by comparing it with the existing methods under different illuminants and cameras. Through the experiments, the results show that the proposed method not only shows good results in terms of spectral and colorimetric accuracy, but also in the selection representative samples.

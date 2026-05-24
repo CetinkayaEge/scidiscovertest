@@ -1,0 +1,9 @@
+Title: Enhancing Therapeutic Effects of Docetaxel-Loaded Dendritic Copolymer Nanoparticles by Co-Treatment with Autophagy Inhibitor on Breast Cancer
+Authors: Xudong Zhang, Ying Yang, Xin Liang, Xiaowei Zeng, Zhigang Liu, Wei Tao, Xiaojun Xiao, Hongbo Chen, Laiqiang Huang, Lin Mei
+Year: 2014
+Venue: Theranostics
+DOI: 10.7150/thno.9933
+Paper ID: pmc_PMC4173759
+
+Abstract:
+Dendrimers are synthetic nanocarriers that comprise a highly branched spherical polymer as new, efficient tools for drug delivery. However, the fate of nanocarriers after being internalized into cells has seldom been studied. Docetaxel loaded dendritic copolymer H40-poly(D,L-lactide) nanoparticles, referred to as “DTX-H40-PLA NPs”, were prepared and used as a model to evaluate whether the NPs were sequestered by autophagy and fused with lysosomes. Besides being degraded through the endolysosomal pathway, the DTX-loaded H40-PLA NPs were also sequestered by autophagosomes and degraded through the autolysosomal pathway. DTX-loaded H40-PLA NPs may stop exerting beneficial effects after inducing autophagy of human MCF-7 cancer cells. Co-delivery of autophagy inhibitor such as chloroquine and chemotherapeutic drug DTX by dendritic copolymer NPs greatly enhanced cancer cell killing in vitro , and decreased both the volume and weight of the tumors in severe combined immunodeficient mice. These findings provide valuable evidence for development of nanomedicine such as dendritic copolymer NPs for clinical application.

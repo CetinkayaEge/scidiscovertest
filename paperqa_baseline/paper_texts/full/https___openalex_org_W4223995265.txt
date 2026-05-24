@@ -1,0 +1,9 @@
+Title: Emerging cold plasma treatment and machine learning prospects for seed priming: a step towards sustainable food production
+Authors: Amruta Shelar, Ajay Vikram Singh, Paul Dietrich, Romi Singh Maharjan, Andreas Thißen, Pravin N. Didwal, Manish Shinde, Peter Laux, Andreas Luch, V. L. Mathe, Timotheus Jahnke, Manohar G. Chaskar, Rajendra Patil
+Year: 2022
+Venue: RSC Advances
+DOI: https://doi.org/10.1039/d2ra00809b
+Paper ID: https://openalex.org/W4223995265
+
+Abstract:
+Seeds are vulnerable to physical and biological stresses during the germination process. Seed priming strategies can alleviate such stresses. Seed priming is a technique of treating and drying seeds prior to germination in order to accelerate the metabolic process of germination. Multiple benefits are offered by seed priming techniques, such as reducing fertilizer use, accelerating seed germination, and inducing systemic resistance in plants, which are both cost-effective and eco-friendly. For seed priming, cold plasma (CP)-mediated priming could be an innovative alternative to synthetic chemical treatments. CP priming is an eco-friendly, safe and economical, yet relatively less explored technique towards the development of seed priming. In this review, we discussed in detail the application of CP technology for seed priming to enhance germination, the quality of seeds, and the production of crops in a sustainable manner. Additionally, the combination treatment of CP with nanoparticle (NP) priming is also discussed. The large numbers of parameters need to be monitored and optimized during CP treatment to achieve the desired priming results. Here, we discussed a new perspective of machine learning for modeling plasma treatment parameters in agriculture for the development of synergistic protocols for different types of seed priming.
