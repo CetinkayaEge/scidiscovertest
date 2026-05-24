@@ -1,8 +1,8 @@
 # SOTA Baseline Comparison: SciDiscover vs PaperQA2
 
-**Generated:** 2026-05-24 09:48:09
+**Generated:** 2026-05-24 19:10:16
 **SciDiscover mode:** `not available`  —  results from `/Users/zynpdgc/SciDiscovery/scidiscovertest/reports/eval_results.json`
-**PaperQA2 model:** `gpt-4o-mini`  —  run timestamp `2026-05-24T02:56:11.058246+00:00`  —  results from `/Users/zynpdgc/SciDiscovery/scidiscovertest/paperqa_baseline/results/paperqa_results.json`
+**PaperQA2 model:** `gpt-5.4-mini`  —  run timestamp `2026-05-24T16:03:12.865860+00:00`  —  results from `/Users/zynpdgc/SciDiscovery/scidiscovertest/paperqa_baseline/results/paperqa_results.json`
 
 > **Note on LLM fairness:** SciDiscover runs on a local HPC vLLM server (Qwen2.5-32B).
 > PaperQA2 uses the real OpenAI API (gpt-4o-mini by default).  Direct numeric comparisons
@@ -14,14 +14,14 @@
 | Metric | SciDiscover | PaperQA2 | Notes |
 | ------ | :---------: | :------: | ----- |
 | Abstention rate — answerable queries (↓ better) | *(no results)* | 0.000 | Fraction of answerable queries where the system refused to answer |
-| Correct abstention rate — unanswerable queries (↑ better) | *(no results)* | 0.667 | Fraction of unanswerable/OOD queries where the system correctly declined |
-| Avg claims / citations per query | *(no results)* | 5.131 | SciDiscover: verified key_claims; PaperQA2: retrieved context passages |
-| Avg latency (s) per query (↓ better) | *(no results)* | 20.439 | Mean wall-clock seconds from query submission to final answer |
-| ROUGE-L vs reference (↑ better) | *(no results)* | 0.153 | Token-level F1 LCS overlap with ground-truth answer from eval/queries.jsonl |
-| RAGAS Faithfulness (↑ better) | *(no results)* | 0.834 | Fraction of answer claims supported by retrieved context (NLI-based) |
-| RAGAS Answer Relevancy (↑ better) | *(no results)* | 0.793 | Cosine similarity of answer embeddings to the question |
+| Correct abstention rate — unanswerable queries (↑ better) | *(no results)* | 0.933 | Fraction of unanswerable/OOD queries where the system correctly declined |
+| Avg claims / citations per query | *(no results)* | 7.345 | SciDiscover: verified key_claims; PaperQA2: retrieved context passages |
+| Avg latency (s) per query (↓ better) | *(no results)* | 22.344 | Mean wall-clock seconds from query submission to final answer |
+| ROUGE-L vs reference (↑ better) | *(no results)* | 0.185 | Token-level F1 LCS overlap with ground-truth answer from eval/queries.jsonl |
+| RAGAS Faithfulness (↑ better) | *(no results)* | 0.791 | Fraction of answer claims supported by retrieved context (NLI-based) |
+| RAGAS Answer Relevancy (↑ better) | *(no results)* | 0.945 | Cosine similarity of answer embeddings to the question |
 | RAGAS Context Recall (↑ better) | *(no results)* | 0.705 | Fraction of ground-truth statements attributable to the retrieved context |
-| Paper/chunk recall (↑ better) | *(no results)* | 0.790 | SciDiscover: chunk-level recall@k in FAISS; PaperQA2: paper-level recall vs expected_paper_ids |
+| Paper/chunk recall (↑ better) | *(no results)* | 0.826 | SciDiscover: chunk-level recall@k in FAISS; PaperQA2: paper-level recall vs expected_paper_ids |
 | Citation coverage (↑ better) | *(no results)* | — | Fraction of key_claims citing ≥1 chunk [SciDiscover only] |
 | Claim support rate (↑ better) | *(no results)* | — | Fraction of cited claims verified SUPPORTED by VerifierAgent NLI [SciDiscover only] |
 | Synthesizer hallucination rate (↓ better) | *(no results)* | — | Fraction of cited chunk_ids absent from retrieved evidence set [SciDiscover only] |
