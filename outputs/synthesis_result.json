@@ -1,53 +1,9 @@
 {
-  "query": "How does the combined detecion of KAI1 and VEGF improve the diagnosis of HCC?",
-  "draft_answer": "In the provided evidence, only one paper directly addresses KAI1 and VEGF in HCC diagnosis, reporting that serum KAI1 is downregulated while VEGF is upregulated in HCC patients and that each marker has individual diagnostic value [pmc_PMC4164248||ABSTRACT||000]. The same study found that combining KAI1 and VEGF improved diagnostic performance compared with KAI1 alone, increasing sensitivity from 86.96% to 91.86% and accuracy from 83.06% to 84.68%, with a negative predictive value of 78.79% [pmc_PMC4164248||ABSTRACT||001]. The authors concluded that combined detection may greatly improve the efficiency of HCC diagnosis and could form a reliable panel of diagnostic markers [pmc_PMC4164248||ABSTRACT||001]. No other provided paper offers supporting evidence about KAI1 and VEGF together in HCC diagnosis, and several summaries explicitly state that they do not mention these markers [pmc_PMC8318739||ABSTRACT||001] [pmc_PMC9806080||ABSTRACT||000] [https://openalex.org/W3178660840||ABSTRACT||001] [pmc_PMC9805748||ABSTRACT||001]. Therefore, the conclusion rests on a single study and should be treated as suggestive rather than definitive [pmc_PMC4164248||ABSTRACT||001].",
-  "key_claims": [
-    {
-      "claim": "In HCC patients, serum KAI1 is downregulated and VEGF is upregulated, and each marker has diagnostic value on its own [pmc_PMC4164248||ABSTRACT||000].",
-      "citation_ids": [
-        "pmc_PMC4164248||ABSTRACT||000"
-      ]
-    },
-    {
-      "claim": "Combined detection of KAI1 and VEGF improved diagnostic performance compared with KAI1 alone, raising sensitivity from 86.96% to 91.86% and accuracy from 83.06% to 84.68% [pmc_PMC4164248||ABSTRACT||001].",
-      "citation_ids": [
-        "pmc_PMC4164248||ABSTRACT||001"
-      ]
-    },
-    {
-      "claim": "The combined KAI1/VEGF panel achieved a negative predictive value of 78.79% [pmc_PMC4164248||ABSTRACT||001].",
-      "citation_ids": [
-        "pmc_PMC4164248||ABSTRACT||001"
-      ]
-    },
-    {
-      "claim": "The authors concluded that combined KAI1 and VEGF detection may greatly improve HCC diagnostic efficiency and serve as a reliable diagnostic marker panel [pmc_PMC4164248||ABSTRACT||001].",
-      "citation_ids": [
-        "pmc_PMC4164248||ABSTRACT||001"
-      ]
-    }
-  ],
-  "evidence": [
-    {
-      "paper_id": "pmc_PMC4164248",
-      "chunk_id": "pmc_PMC4164248||ABSTRACT||001",
-      "score": 6.6591997146606445,
-      "section": "ABSTRACT",
-      "text_preview": "thrombus. In addition to the factors that were correlated with KAI1 expression, VEGF expression was also closely related to the α-fetoprotein level of the patients. The area under the receiver operating characteristic curve for the diagnosis of HCC was 0.907 for KAI1 and 0.779 for VEGF. The sensitiv",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4164248/"
-    },
-    {
-      "paper_id": "pmc_PMC4164248",
-      "chunk_id": "pmc_PMC4164248||ABSTRACT||000",
-      "score": 2.09810733795166,
-      "section": "ABSTRACT",
-      "text_preview": "Expression Characteristics of KAI1 and Vascular Endothelial Growth Factor and Their Diagnostic Value for Hepatocellular Carcinoma | Background/Aims We tried to investigate the expression characteristics of KAI1, a suppressor of wide-spectrum tumor metastasis, and vascular endothelial growth factor (",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4164248/"
-    }
-  ],
+  "query": "What spatial resolution and synchronization frequency were used to assimilate ocean observations into the digital twin?",
+  "draft_answer": "ABSTAIN: Insufficient evidence to synthesize an answer.",
+  "key_claims": [],
+  "evidence": [],
   "limitations_and_uncertainty": [
-    "The evidence for KAI1/VEGF combined detection comes from only one provided study, so the finding is not independently replicated in the supplied summaries [pmc_PMC4164248||ABSTRACT||001].",
-    "No additional provided paper gives supporting or contradictory data specifically about KAI1 and VEGF in HCC diagnosis; several summaries explicitly say they do not mention these markers [pmc_PMC8318739||ABSTRACT||001] [pmc_PMC9806080||ABSTRACT||000] [https://openalex.org/W3178660840||ABSTRACT||001] [pmc_PMC9805748||ABSTRACT||001].",
-    "The summary reports improvement compared with KAI1 alone, but it does not provide a comparison against other diagnostic strategies or a broader clinical validation context [pmc_PMC4164248||ABSTRACT||001]."
+    "Insufficient evidence to answer the query."
   ]
 }

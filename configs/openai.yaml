@@ -3,8 +3,8 @@ llm:
   #   gemini-*  → Google Gemini     (requires GOOGLE_API_KEY)
   #   claude-*  → Anthropic         (requires ANTHROPIC_API_KEY)
   #   local-*   → vLLM / HPC server (requires OPENAI_BASE_URL + OPENAI_API_KEY)
-  model: local-qwen2.5-32b-instruct-gptq-int4
-  # model: openrouter-openai/gpt-5.4-mini
+  model: openrouter-openai/gpt-5.4-mini
+  # model: openrouter-openai/gpt-4o-mini
   # model: gemini-2.5-flash
   # model: local-qwen2.5-72b-instruct-gptq
   max_tokens: 4096
@@ -26,7 +26,7 @@ retrieval:
   index_output: index/faiss.index
   chunk_ids_output: index/chunk_ids.txt
   meta_output: index/index.meta.json
-  traces_output: logs/retrieval_traces.jsonl
+  traces_output: logs/openai/retrieval_traces.jsonl
   model_name: sentence-transformers/all-MiniLM-L6-v2
   top_k: 20
 
@@ -34,11 +34,11 @@ query_transformer:
   strategy: none   # Options: none | decompose | hyde
   decomposer:
     prompt_path: prompts/query_decomposer.txt
-    traces_output: logs/query_decomposer_traces.jsonl
+    traces_output: logs/openai/query_decomposer_traces.jsonl
     max_sub_queries: 3
   hyde:
     prompt_path: prompts/hyde.txt
-    traces_output: logs/hyde_traces.jsonl
+    traces_output: logs/openai/hyde_traces.jsonl
 
 reranker:
   enabled: true
@@ -49,8 +49,8 @@ reranker:
 
 summarizer:
   prompt_path: prompts/summarizer.txt
-  traces_output: logs/summarizer_traces.jsonl
-  output_path: outputs/paper_summaries.json
+  traces_output: logs/openai/summarizer_traces.jsonl
+  output_path: outputs/openai/paper_summaries.json
   # max_workers: 5   → local vLLM (HPC): safe up to 8-16
   #               3   → Gemini API: keeps calls under 10 RPM
   #               1   → sequential (disable parallelism)
@@ -58,20 +58,20 @@ summarizer:
 
 synthesizer:
   prompt_path: prompts/synthesizer.txt
-  traces_output: logs/synthesizer_traces.jsonl
-  output_path: outputs/synthesis_result.json
+  traces_output: logs/openai/synthesizer_traces.jsonl
+  output_path: outputs/openai/synthesis_result.json
 
 critique_loop:
   enabled: true            # set to true to activate Verifier→Synthesizer refinement
   max_iterations: 2
   critique_prompt_path: prompts/synthesizer_critique.txt
-  traces_output: logs/critique_loop_traces.jsonl
+  traces_output: logs/openai/critique_loop_traces.jsonl
 
 verifier:
   prompt_path: prompts/verifier.txt
-  traces_output: logs/verifier_traces.jsonl
-  verification_output: outputs/verification.jsonl
-  answers_output: outputs/answers.jsonl
+  traces_output: logs/openai/verifier_traces.jsonl
+  verification_output: outputs/openai/verification.jsonl
+  answers_output: outputs/openai/answers.jsonl
   min_citation_coverage: 0.60
   min_support_rate: 0.40
 
@@ -88,7 +88,7 @@ eval:
 baselines:
   single_agent:
     prompt_path: prompts/single_agent_baseline.txt
-    traces_output: logs/single_agent_baseline_traces.jsonl
+    traces_output: logs/openai/single_agent_baseline_traces.jsonl
 
 sources:
   pmc:

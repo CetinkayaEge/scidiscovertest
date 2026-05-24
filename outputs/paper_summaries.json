@@ -1,143 +1,135 @@
 [
   {
-    "paper_id": "pmc_PMC9890031",
+    "paper_id": "https://openalex.org/W4387452406",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9890031/",
-    "doi": "10.3324/haematol.2022.280755",
+    "url": "https://doi.org/10.1038/s44183-023-00023-9",
+    "doi": "https://doi.org/10.1038/s44183-023-00023-9",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9890031||ABSTRACT||001",
-        "paper_id": "pmc_PMC9890031",
+        "chunk_id": "https://openalex.org/W4387452406||ABSTRACT||000",
+        "paper_id": "https://openalex.org/W4387452406",
         "section": "ABSTRACT",
-        "score": -5.776765823364258,
-        "text_preview": "association of C-reactive protein >5 mg/L and sVEGF >500 pg/mL was strongly associated with vascular involvement (odds ratio=5.54 [95% confidence interval: 2.39-13.62], P <0.001), and independently associated with cardiac involvement (odds ratio=3.18 [95% confidence interval: 1.34-7.83], P =0.010) a"
+        "score": 0.5710662603378296,
+        "text_preview": "Digital twins: a stepping stone to achieve ocean sustainability? | Abstract Digital twins, a nascent yet potent computer technology, can substantially advance sustainable ocean management by mitigating overfishing and habitat degradation, modeling, and preventing marine pollution and supporting clim"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9968601",
+    "paper_id": "https://openalex.org/W3199800248",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968601/",
-    "doi": "10.1111/1759-7714.14783",
+    "url": "https://doi.org/10.3390/su131810139",
+    "doi": "https://doi.org/10.3390/su131810139",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9968601||ABSTRACT||001",
-        "paper_id": "pmc_PMC9968601",
+        "chunk_id": "https://openalex.org/W3199800248||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W3199800248",
         "section": "ABSTRACT",
-        "score": -4.55860710144043,
-        "text_preview": "data of included studies were demonstrated that chemotherapy plus EGFR‐TKIs had a benefit in ORR compared to antiangiogenic agents plus EGFR‐TKIs in patients with EGFR mutated NSCLC (RR = 1.1, 95% CI: 1.0–1.2). However, there were no significant differences in PFS, OS and DCR between in the two grou"
+        "score": -4.576418399810791,
+        "text_preview": "focuses on the concept, evolution, and background of digital twin and the benefits and challenges involved in its implementation. The Scopus and Web of Science databases from 2016 to 2021 were considered for the bibliometric analysis and used to study and analyze the articles that fall within the re"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC8318739",
-    "summary_text": "- The provided evidence does not mention KAI1, VEGF, or their combined detection in HCC diagnosis; it only states that MRI T1WI and T2WI showed high accuracy for diagnosing HCC and HCH, respectively. [pmc_PMC8318739||ABSTRACT||001]\n- The evidence also reports that FAO performed well in segmentation and reconstruction of MRI images for liver tissue, but it does not connect this to KAI1/VEGF-based diagnosis of HCC. [pmc_PMC8318739||ABSTRACT||001]\n\n",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8318739/",
-    "doi": "10.1155/2021/3970529",
+    "paper_id": "pmc_PMC10229487",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10229487/",
+    "doi": "10.1186/s42492-023-00137-4",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC8318739||ABSTRACT||001",
-        "paper_id": "pmc_PMC8318739",
+        "chunk_id": "pmc_PMC10229487||ABSTRACT||000",
+        "paper_id": "pmc_PMC10229487",
         "section": "ABSTRACT",
-        "score": -5.860013484954834,
-        "text_preview": "(T2WI) was 97.84% (group E) and 89.71% (group C), respectively. In short, FAO showed an excellent performance in segmentation and reconstruction of MRI images for liver tissue, and T1WI and T2WI of MRI images showed high accuracy in diagnosing the HCC and HCH, respectively."
+        "score": -4.926827430725098,
+        "text_preview": "Systematic review of digital twin technology and applications | As one of the most important applications of digitalization, intelligence, and service, the digital twin (DT) breaks through the constraints of time, space, cost, and security on physical entities, expands and optimizes the relevant fun"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC4164248",
-    "summary_text": "- In HCC patients, serum KAI1 was downregulated and VEGF was upregulated, and each had diagnostic value on its own; the area under the receiver operating characteristic curve was 0.907 for KAI1 and 0.779 for VEGF. [pmc_PMC4164248||ABSTRACT||000]\n\n- Combined detection of KAI1 and VEGF improved diagnostic performance compared with KAI1 alone: sensitivity increased from 86.96% to 91.86%, accuracy from 83.06% to 84.68%, and negative predictive value reached 78.79%. [pmc_PMC4164248||ABSTRACT||001]\n\n- The paper concludes that combined detection of KAI1 and VEGF may greatly improve the efficiency of HCC diagnosis and form a reliable panel of diagnostic markers. [pmc_PMC4164248||ABSTRACT||001]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4164248/",
-    "doi": "10.5009/gnl13331",
+    "paper_id": "https://openalex.org/W4367611274",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://doi.org/10.58440/ihr-29-a04",
+    "doi": "https://doi.org/10.58440/ihr-29-a04",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC4164248||ABSTRACT||001",
-        "paper_id": "pmc_PMC4164248",
+        "chunk_id": "https://openalex.org/W4367611274||ABSTRACT||000",
+        "paper_id": "https://openalex.org/W4367611274",
         "section": "ABSTRACT",
-        "score": 6.6591997146606445,
-        "text_preview": "thrombus. In addition to the factors that were correlated with KAI1 expression, VEGF expression was also closely related to the α-fetoprotein level of the patients. The area under the receiver operating characteristic curve for the diagnosis of HCC was 0.907 for KAI1 and 0.779 for VEGF. The sensitiv"
+        "score": 2.2564852237701416,
+        "text_preview": "Digital Twins of the Ocean can foster a sustainable blue economy in a protected marine environment | While the field of hydrography is crucial for maritime navigation and other maritime applications, oceanography is the field that provides the relevant data and knowledge for predicting climate chang"
       },
       {
-        "chunk_id": "pmc_PMC4164248||ABSTRACT||000",
-        "paper_id": "pmc_PMC4164248",
+        "chunk_id": "https://openalex.org/W4367611274||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W4367611274",
         "section": "ABSTRACT",
-        "score": 2.09810733795166,
-        "text_preview": "Expression Characteristics of KAI1 and Vascular Endothelial Growth Factor and Their Diagnostic Value for Hepatocellular Carcinoma | Background/Aims We tried to investigate the expression characteristics of KAI1, a suppressor of wide-spectrum tumor metastasis, and vascular endothelial growth factor ("
-      }
-    ]
-  },
-  {
-    "paper_id": "pmc_PMC5385820",
-    "summary_text": "- Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5385820/",
-    "doi": "10.1038/srep06269",
-    "evidence": [
+        "score": 0.718774139881134,
+        "text_preview": "Digital ocean twins can transform human ocean interactions by accelerating holistic understanding, optimal decision-making, and effective interventions. Digital twins of the ocean use ocean observations, historical and forecast data to represent the past and present and simulate possible future scen"
+      },
       {
-        "chunk_id": "pmc_PMC5385820||ABSTRACT||001",
-        "paper_id": "pmc_PMC5385820",
+        "chunk_id": "https://openalex.org/W4367611274||ABSTRACT||002",
+        "paper_id": "https://openalex.org/W4367611274",
         "section": "ABSTRACT",
-        "score": -9.394537925720215,
-        "text_preview": "0.517–0.800), 0.935 (95%CI: 0.888–0.963), 10.307 (95%CI: 6.167–17.227), 0.348 (95%CI: 0.226–0.537), and 29.582 (95%CI: 4.582–60.012), respectively. The AUC was 0.93 (95% CI: 0.90–0.95). The meta-analysis suggests that detection of EGFR mutation by cfDNA is of adequate diagnostic accuracy and cfDNA a"
+        "score": -1.1886581182479858,
+        "text_preview": "as climate change, pollution, resource extraction and overfishing. Researchers and IT companies are combining various technologies and data sources, such as the Internet of Things for ocean observations, state of the art data science, artificial intelligence and machine learning, data spaces and voc"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9975296",
+    "paper_id": "pmc_PMC5298756",
     "summary_text": "Insufficient evidence.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9975296/",
-    "doi": "10.1016/j.neo.2023.100888",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5298756/",
+    "doi": "10.3390/s17010183",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9975296||ABSTRACT||001",
-        "paper_id": "pmc_PMC9975296",
+        "chunk_id": "pmc_PMC5298756||ABSTRACT||000",
+        "paper_id": "pmc_PMC5298756",
         "section": "ABSTRACT",
-        "score": -9.994807243347168,
-        "text_preview": "had shorter progression-free survival (PFS) than those who were L858R- or 19-Del-positive but ARID2-negative (median: 2.3 vs. 12.0 vs. 8.0 months, P = 0.038). Furthermore, mutational profiles, such as top frequently mutated genes and mutational signatures of patients with various EGFR subtype mutati"
+        "score": -10.338927268981934,
+        "text_preview": "SNR and Standard Deviation of cGNSS-R and iGNSS-R Scatterometric Measurements | This work addresses the accuracy of the Global Navigation Satellite Systems (GNSS)-Reflectometry (GNSS-R) scatterometric measurements considering the presence of both coherent and incoherent scattered components, for bot"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9806080",
-    "summary_text": "- The provided evidence does not mention KAI1 or VEGF, so it does not support any conclusion about how their combined detection improves HCC diagnosis. [pmc_PMC9806080||ABSTRACT||000]\n- The abstract instead discusses a pediatric HNF1B-deficient case of hepatocellular carcinoma with unique syncytial giant-cell histopathology and a possible link between HNF1B deficiency and HCC progression. [pmc_PMC9806080||ABSTRACT||000]\n- Because no evidence on diagnostic markers KAI1 and VEGF is given, the answer is insufficient from this paper. [pmc_PMC9806080||ABSTRACT||000]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806080/",
-    "doi": "10.1136/bmjgast-2022-001013",
+    "paper_id": "pmc_PMC9803307",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803307/",
+    "doi": "10.1371/journal.pone.0278641",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9806080||ABSTRACT||000",
-        "paper_id": "pmc_PMC9806080",
+        "chunk_id": "pmc_PMC9803307||ABSTRACT||001",
+        "paper_id": "pmc_PMC9803307",
         "section": "ABSTRACT",
-        "score": -6.358153343200684,
-        "text_preview": "New case of syncytial giant-cell variant of hepatocellular carcinoma in a pediatric patient with HNF1B deficiency: does it fit with the syndrome? | Background Hepatocyte nuclear factor 1B (HNF1B ) is a member of the homeodomain-containing family of transcription factors located on 17q12. HNF1B defic"
+        "score": -11.194388389587402,
+        "text_preview": "also has clear limitations: total transmission periods were often short and punctuated by lapses; precision and accuracy of location fixes was limited and variable between study sites. However, impending reductions in transmitter size and price will alleviate many issues, further expanding options f"
       }
     ]
   },
   {
-    "paper_id": "https://openalex.org/W3178660840",
-    "summary_text": "- The provided evidence does not mention KAI1, VEGF, or hepatocellular carcinoma (HCC) diagnosis, so it cannot support an answer about combined detection of KAI1 and VEGF improving HCC diagnosis. [https://openalex.org/W3178660840||ABSTRACT||001]\n- The only available information says that extracellular vesicle modifications may be linked to long-term liver disease progression in patients with chronic hepatitis C virus infection after direct-acting antiviral cure, and that these modifications could potentially serve as biomarkers or treatment targets. [https://openalex.org/W3178660840||ABSTRACT||001]\n- Therefore, based on the provided evidence alone, there is insufficient evidence to explain how combined KAI1 and VEGF detection improves HCC diagnosis. [https://openalex.org/W3178660840||ABSTRACT||001]",
-    "url": "https://doi.org/10.1016/j.jhep.2021.07.003",
-    "doi": "https://doi.org/10.1016/j.jhep.2021.07.003",
+    "paper_id": "pmc_PMC5298745",
+    "summary_text": "Insufficient evidence.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5298745/",
+    "doi": "10.3390/s17010172",
     "evidence": [
       {
-        "chunk_id": "https://openalex.org/W3178660840||ABSTRACT||001",
-        "paper_id": "https://openalex.org/W3178660840",
+        "chunk_id": "pmc_PMC5298745||ABSTRACT||000",
+        "paper_id": "pmc_PMC5298745",
         "section": "ABSTRACT",
-        "score": -6.984283447265625,
-        "text_preview": "patients with HCV despite DAA-mediated SVR. LAY SUMMARY: Direct-acting antivirals lead to virological cure in the majority of patients with chronic hepatitis C virus infection. However, the risk of liver disease progression or complications in patients with fibrosis and cirrhosis remains in some pat"
+        "score": -11.03852653503418,
+        "text_preview": "Development of a GNSS Buoy for Monitoring Water Surface Elevations in Estuaries and Coastal Areas | In this work, a Global Navigation Satellite System (GNSS) buoy that utilizes a Virtual Base Station (VBS) combined with the Real-Time Kinematic (RTK) positioning technology was developed to monitor wa"
       }
     ]
   },
   {
-    "paper_id": "pmc_PMC9805748",
-    "summary_text": "- The provided evidence does not mention KAI1 or VEGF, so it does not support any conclusion about how their combined detection improves the diagnosis of HCC. [pmc_PMC9805748||ABSTRACT||001]\n- The only reported combined biomarker finding is that SULF2 together with GPC3 and SDC1 enhanced discrimination of the worst prognosis in advanced HCC, which is different from the asked KAI1/VEGF combination. [pmc_PMC9805748||ABSTRACT||001]",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9805748/",
-    "doi": "10.2147/JHC.S382226",
+    "paper_id": "https://openalex.org/W3210308859",
+    "summary_text": "- The study does not explicitly mention the spatial resolution and synchronization frequency used to assimilate ocean observations into the digital twin. [https://openalex.org/W3210308859||ABSTRACT||001]\n- The evidence provided discusses spatial resolutions ranging from tens to hundreds of meters and temporal resolutions at 10-day timesteps, but this is in the context of evaluating Copernicus data for modeled ET, not specifically for ocean observations. [https://openalex.org/W3210308859||ABSTRACT||001]",
+    "url": "https://doi.org/10.1109/jstars.2021.3122573",
+    "doi": "https://doi.org/10.1109/jstars.2021.3122573",
     "evidence": [
       {
-        "chunk_id": "pmc_PMC9805748||ABSTRACT||001",
-        "paper_id": "pmc_PMC9805748",
+        "chunk_id": "https://openalex.org/W3210308859||ABSTRACT||001",
+        "paper_id": "https://openalex.org/W3210308859",
         "section": "ABSTRACT",
-        "score": -3.8432788848876953,
-        "text_preview": "with advanced HCC compared with the other groups. In patients with advanced HCC, high serum levels of SULF2 were associated with less favorable overall survival. Combination of SULF2 with Glypican 3 (GPC3) and Syndecan 1 (SDC1) serum levels enhanced the ability to discriminate worst prognostic in ad"
+        "score": -9.73617172241211,
+        "text_preview": "mid- and long-term. In this study, we evaluate utility of Copernicus data for this task with WaPOR products serving as a comparison benchmark. Thus the modelled ET has to be able to accurately capture field-scale activity at 10-day timesteps while also scaling to national coverage and providing cons"
       }
     ]
   }
