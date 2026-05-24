@@ -166,13 +166,22 @@ def write_manifest(
     manifest_path: Path,
     paper_ids: set[str] | None = None,
 ) -> int:
-    """Write the manifest CSV PaperQA2 reads to skip Semantic Scholar lookups.
+    """Write the manifest CSV PaperQA2 reads to skip external metadata lookups.
 
-    PaperQA2 uses Semantic Scholar to enrich each paper's metadata during
-    indexing.  Without SEMANTIC_SCHOLAR_API_KEY the public endpoint rate-limits
-    at 429 after a few hundred requests, crashing indexing of large corpora.
-    Supplying a manifest with file_location/doi/title makes PaperQA2 skip the
-    network call entirely.
+    PaperQA2 reads ALL columns in the manifest CSV (despite the IndexSettings
+    docstring saying only file_location/doi/title are used) and passes them to
+    DocDetails(**row).  When we include `authors`, `year`, and `journal`,
+    DocDetails auto-builds a proper APA citation + docname (e.g.
+    "ren2024carbondotsa") — so PaperQA2 skips its LLM citation-peek step and
+    answer references are no longer "Unknown authors. Unknown year. ...".
+
+    Without this, the LLM peek on our "Title: X / Authors: Y" .txt format
+    returns "insufficient information" and PaperQA2 falls back to
+    "Unknown, <file>, <year>" → every docname becomes
+    `unknownauthorsUnknownyear<titleword>`.
+
+    Authors are JSON-encoded so csv.DictReader → pydantic parses them as a
+    list[str].
     """
     ids = paper_ids if paper_ids is not None else set(papers.keys())
     rows: list[dict[str, str]] = []
@@ -180,15 +189,22 @@ def write_manifest(
         paper = papers.get(pid)
         if not paper or not (paper.get("abstract") or "").strip():
             continue
+        authors = paper.get("authors") or []
         rows.append({
             "file_location": f"{sanitize_paper_id(pid)}.txt",
             "doi": _normalize_doi(paper.get("doi") or ""),
             "title": (paper.get("title") or "").replace("\n", " ").strip(),
+            "authors": json.dumps(authors, ensure_ascii=False) if authors else "",
+            "year": str(paper.get("year") or ""),
+            "journal": (paper.get("venue") or "").strip(),
         })
 
     manifest_path.parent.mkdir(parents=True, exist_ok=True)
     with open(manifest_path, "w", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=["file_location", "doi", "title"])
+        writer = csv.DictWriter(
+            fh,
+            fieldnames=["file_location", "doi", "title", "authors", "year", "journal"],
+        )
         writer.writeheader()
         writer.writerows(rows)
     logger.info("Manifest written: %d rows → %s", len(rows), manifest_path)
@@ -410,7 +426,7 @@ def run_queries(
         queries:         List of query records from queries.jsonl.
         paper_texts_dir: Directory containing .txt paper files.
         pqa_index_dir:   Directory where PaperQA2 stores its vector index.
-        model:           OpenAI model name (e.g. "gpt-4o-mini").
+        model:           OpenAI model name (e.g. "gpt-5.4-mini").
         papers:          Optional papers dict (paper_id → record) for paper-recall.
         manifest_path:   Optional manifest CSV (file_location, doi, title) so
                          PaperQA2 skips Semantic Scholar metadata lookups.
@@ -452,6 +468,7 @@ def run_queries(
     paperqa.clients.DEFAULT_CLIENTS = (_NoOpProvider,)
     paperqa.docs.DEFAULT_CLIENTS = (_NoOpProvider,)
     logger.info("Metadata providers disabled (manifest is sole source of paper metadata).")
+
 
     # Read the key that sota_openai_env() already placed in the environment and
     # inject it directly into every LiteLLM config dict.  We also pin api_base
@@ -561,7 +578,7 @@ def run_ragas_on_pqa(
     the 'contexts' for RAGAS — these are the LLM-generated summaries of
     retrieved passages that PaperQA2 used when generating its answer.
 
-    Requires OPENROUTER_API_KEY (for 'openai/gpt-4o-mini' etc.)
+    Requires OPENROUTER_API_KEY (for 'openai/gpt-5.4-mini' etc.)
     or GOOGLE_API_KEY (for 'gemini-2.5-flash').
 
     Returns a dict with ragas_faithfulness, ragas_answer_relevancy,
@@ -695,7 +712,7 @@ def main() -> None:
         help="Output path for results JSON  (default: %(default)s)",
     )
     parser.add_argument(
-        "--model", default="gpt-4o-mini",
+        "--model", default="gpt-5.4-mini",
         help="OpenAI model for PaperQA2  (default: %(default)s)",
     )
     parser.add_argument(
