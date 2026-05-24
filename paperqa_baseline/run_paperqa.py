@@ -22,6 +22,7 @@ from __future__ import annotations
 
 import argparse
 import contextlib
+import csv
 import json
 import logging
 import re
@@ -159,6 +160,41 @@ def write_paper_texts(
     return total
 
 
+def write_manifest(
+    papers: dict[str, dict[str, Any]],
+    paper_texts_dir: Path,
+    manifest_path: Path,
+    paper_ids: set[str] | None = None,
+) -> int:
+    """Write the manifest CSV PaperQA2 reads to skip Semantic Scholar lookups.
+
+    PaperQA2 uses Semantic Scholar to enrich each paper's metadata during
+    indexing.  Without SEMANTIC_SCHOLAR_API_KEY the public endpoint rate-limits
+    at 429 after a few hundred requests, crashing indexing of large corpora.
+    Supplying a manifest with file_location/doi/title makes PaperQA2 skip the
+    network call entirely.
+    """
+    ids = paper_ids if paper_ids is not None else set(papers.keys())
+    rows: list[dict[str, str]] = []
+    for pid in ids:
+        paper = papers.get(pid)
+        if not paper or not (paper.get("abstract") or "").strip():
+            continue
+        rows.append({
+            "file_location": f"{sanitize_paper_id(pid)}.txt",
+            "doi": _normalize_doi(paper.get("doi") or ""),
+            "title": (paper.get("title") or "").replace("\n", " ").strip(),
+        })
+
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(manifest_path, "w", newline="", encoding="utf-8") as fh:
+        writer = csv.DictWriter(fh, fieldnames=["file_location", "doi", "title"])
+        writer.writeheader()
+        writer.writerows(rows)
+    logger.info("Manifest written: %d rows → %s", len(rows), manifest_path)
+    return len(rows)
+
+
 # ── result extraction helpers ─────────────────────────────────────────────────
 
 _DOI_RE = re.compile(
@@ -170,6 +206,18 @@ _DOI_RE = re.compile(
     r"|doi\.org/([^\s,\"'<>\]]+)",
     re.IGNORECASE,
 )
+
+# OpenAlex stores DOIs as full URLs (https://doi.org/10.xxx); strip the prefix
+# so they line up with the bare form _extract_doi returns from PaperQA2 bibtex.
+_DOI_URL_PREFIX_RE = re.compile(r"^https?://(dx\.)?doi\.org/", re.IGNORECASE)
+
+
+def _normalize_doi(doi: str) -> str:
+    """Return bare lower-case DOI (e.g. '10.xxx/yyy'), stripping any URL prefix."""
+    if not doi:
+        return ""
+    return _DOI_URL_PREFIX_RE.sub("", doi.strip()).lower()
+
 
 def _extract_doi(citation: str) -> str:
     """Extract DOI from citation strings in bibtex, plain 'doi:' or doi.org URL format."""
@@ -339,10 +387,10 @@ def extract_result(
 # ── main query loop ──────────────────────────────────────────────────────────
 
 def build_doi_to_paper_id(papers: dict[str, dict[str, Any]]) -> dict[str, str]:
-    """Build a doi (lower-case, stripped) → paper_id reverse-lookup from papers.jsonl."""
+    """Build a doi (bare, lower-case) → paper_id reverse-lookup from papers.jsonl."""
     mapping: dict[str, str] = {}
     for pid, paper in papers.items():
-        doi = (paper.get("doi") or "").strip().lower()
+        doi = _normalize_doi(paper.get("doi") or "")
         if doi:
             mapping[doi] = pid
     return mapping
@@ -354,6 +402,7 @@ def run_queries(
     pqa_index_dir: Path,
     model: str,
     papers: dict[str, dict[str, Any]] | None = None,
+    manifest_path: Path | None = None,
 ) -> list[dict[str, Any]]:
     """Run each query through PaperQA2 and return per-query result dicts.
 
@@ -363,20 +412,46 @@ def run_queries(
         pqa_index_dir:   Directory where PaperQA2 stores its vector index.
         model:           OpenAI model name (e.g. "gpt-4o-mini").
         papers:          Optional papers dict (paper_id → record) for paper-recall.
+        manifest_path:   Optional manifest CSV (file_location, doi, title) so
+                         PaperQA2 skips Semantic Scholar metadata lookups.
 
     Returns:
         List of result dicts, one per query.
     """
     import os as _os
 
+    import asyncio
+
     try:
+        import paperqa.clients  # type: ignore[import]
+        import paperqa.docs  # type: ignore[import]
         from paperqa import Settings, ask  # type: ignore[import]
         from paperqa.settings import AgentSettings, IndexSettings  # type: ignore[import]
+        from paperqa.agents.search import get_directory_index  # type: ignore[import]
+        from paperqa.clients.client_models import MetadataProvider  # type: ignore[import]
     except ImportError as exc:
         raise ImportError(
             "paper-qa is not installed.\n"
             "Install it with:  pip install paper-qa"
         ) from exc
+
+    # Disable all external metadata providers (Crossref, Semantic Scholar, etc).
+    # PaperQA2's defaults make a network call per paper during indexing to enrich
+    # title/year/doi from S2 — even when a manifest is provided.  On 22k papers
+    # without SEMANTIC_SCHOLAR_API_KEY the public endpoint rate-limits at 429 and
+    # crashes the build.  We supply all metadata via the manifest CSV, so a NoOp
+    # provider is the safe default for a controlled benchmark run.
+    #
+    # paperqa.docs binds DEFAULT_CLIENTS by name at import time, so patching the
+    # original module alone is not enough — we must rebind paperqa.docs too.
+    class _NoOpProvider(MetadataProvider):  # type: ignore[misc]
+        async def _query(self, query):  # noqa: D401
+            return None
+        def query_factory(self, query):
+            return query
+    paperqa.clients.DEFAULT_CLIENTS = (_NoOpProvider,)
+    paperqa.docs.DEFAULT_CLIENTS = (_NoOpProvider,)
+    logger.info("Metadata providers disabled (manifest is sole source of paper metadata).")
 
     # Read the key that sota_openai_env() already placed in the environment and
     # inject it directly into every LiteLLM config dict.  We also pin api_base
@@ -411,10 +486,25 @@ def run_queries(
             index=IndexSettings(
                 paper_directory=str(paper_texts_dir),
                 index_directory=str(pqa_index_dir),
+                manifest_file=str(manifest_path) if manifest_path else None,
+                # On 22k papers the default concurrency=5 races on docs/<hash>.zip
+                # writes → FileNotFoundError mid-indexing.  Serial writes plus
+                # batched commits avoid the race (slower but deterministic).
+                concurrency=1,
+                batch_size=50,
             ),
         ),
         verbosity=0,
     )
+
+    # Pre-build the Tantivy/embedding index before any queries run.  Without
+    # this, ask() launches queries concurrently with first-time indexing on
+    # large corpora and races against files.zip being written → zlib decode
+    # errors and every query aborts in ~2s.
+    logger.info("Pre-building PaperQA2 index from %s (this may take 20-30 min for 22k papers)...", paper_texts_dir)
+    _t_idx = time.time()
+    asyncio.run(get_directory_index(settings, build=True))
+    logger.info("Index build complete in %.0fs", time.time() - _t_idx)
 
     doi_to_pid: dict[str, str] = build_doi_to_paper_id(papers) if papers else {}
 
@@ -660,6 +750,10 @@ def main() -> None:
         logger.error("No paper text files were written — aborting.")
         return
 
+    # ── write manifest so PaperQA2 skips Semantic Scholar lookups ───────────
+    manifest_path = paper_texts_dir / "manifest.csv"
+    write_manifest(papers, paper_texts_dir, manifest_path, paper_ids=paper_ids_to_write)
+
     # ── set up env override context ─────────────────────────────────────────
     if args.skip_env_override:
         env_ctx: contextlib.AbstractContextManager[None] = contextlib.nullcontext()
@@ -672,6 +766,7 @@ def main() -> None:
         results = run_queries(
             queries, paper_texts_dir, pqa_index_dir,
             model=args.model, papers=papers,
+            manifest_path=manifest_path,
         )
 
     # ── optional RAGAS evaluation ────────────────────────────────────────────
